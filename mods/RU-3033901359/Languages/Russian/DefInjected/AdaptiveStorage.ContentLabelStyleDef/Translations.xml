@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Automatic.label>Автоматически</Automatic.label>
+  <Automatic.description>Автоматически выбирать вид подписи: названия и количество предметов, если содержимое скрыто; только количество, если предметы видны или хранилище принимает лишь один вид предметов.</Automatic.description>
+  <TotalCount.label>Общее количество</TotalCount.label>
+  <TotalCount.description>Показывать общее количество предметов в хранилище в виде [ КОЛИЧЕСТВО ].</TotalCount.description>
+  <NamesWithCount.label>Названия и количество</NamesWithCount.label>
+  <NamesWithCount.description>Показывать название и количество каждого вида предметов в виде «Предмет ×число», по одной записи в строке.</NamesWithCount.description>
+  <NamesWithCountOrTotalCount.label>Названия с количеством или общее количество</NamesWithCountOrTotalCount.label>
+  <NamesWithCountOrTotalCount.description>Показывать до трёх названий с количеством в виде «Предмет ×число», по одной записи в строке. Если видов больше трёх, показывать общее количество предметов.</NamesWithCountOrTotalCount.description>
+  <Names.label>Названия</Names.label>
+  <Names.description>Показывать названия хранящихся предметов, по одному в строке.</Names.description>
+  <NamesOrTotalCount.label>Названия или общее количество</NamesOrTotalCount.label>
+  <NamesOrTotalCount.description>Показывать до трёх названий хранящихся предметов, по одному в строке. Если видов больше трёх, показывать общее количество предметов.</NamesOrTotalCount.description>
+  <NamesOrNameCount.label>Названия или количество видов</NamesOrNameCount.label>
+  <NamesOrNameCount.description>Показывать до трёх названий хранящихся предметов, по одному в строке. Если разных названий больше трёх, показывать их количество.</NamesOrNameCount.description>
+  <None.label>Без подписей</None.label>
+  <None.description>Не показывать подписи.</None.description>
+  <Vanilla.label>Как в основной игре</Vanilla.label>
+  <Vanilla.description>Показывать количество отдельно над каждой стопкой предметов.</Vanilla.description>
+</LanguageData>

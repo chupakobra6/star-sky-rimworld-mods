@@ -1,0 +1,34 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<ModMetaData>
+  <name>Useful Marks — русский перевод [Star Sky Mods]</name>
+  <author>chupakobra6 | Star Sky Mods</author>
+  <packageId>starsky.rimworld.ru.3506573327</packageId>
+  <modVersion>1.0.0</modVersion>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>andromeda.usefulmarks</packageId>
+      <displayName>Useful Marks</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/3506573327</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>andromeda.usefulmarks</li>
+  </loadAfter>
+  <description>Русский перевод Useful Marks для RimWorld 1.6. Оригинальный мод устанавливается отдельно.
+
+Useful Marks позволяет отмечать персонажей значками и подписями. Метки можно назначать вручную или по условиям: например, выделять стрелков, раненых и персонажей с нужными навыками. Так важные сведения видны прямо на карте и панели поселенцев.
+
+Редактор меток, условия автоматического назначения и выбор персонажей. Названия значков, настройки отображения и стандартные наборы меток. Подсказки, сообщения и пояснения к проверке условий.
+
+Требуются Harmony и оригинальный мод. Порядок загрузки: Harmony → оригинальный мод → этот перевод. Оставьте включённым один русский перевод этого мода, чтобы тексты не перекрывали друг друга.
+
+Откройте меню меток на панели выбранного персонажа. Текстовая подпись под именем настраивается через прозвище на вкладке биографии; общие параметры — в настройках Useful Marks.</description>
+</ModMetaData>

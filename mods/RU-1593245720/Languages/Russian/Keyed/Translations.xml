@@ -1,0 +1,48 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <HuntingForMe_ForceHuntingLabel>Отправить на охоту</HuntingForMe_ForceHuntingLabel>
+  <HuntingForMe_ForceHuntingDesc>Приказать питомцу искать добычу и начать охоту.</HuntingForMe_ForceHuntingDesc>
+  <HuntingForMe_ForceHuntingOK>{0}: добыча найдена.</HuntingForMe_ForceHuntingOK>
+  <HuntingForMe_ForceHuntingFail>{0}: подходящей добычи нет.</HuntingForMe_ForceHuntingFail>
+  <HuntingForMe_ForceHuntingNeedWait>Следующий приказ об охоте можно отдать через {0}. Животное: {1}.</HuntingForMe_ForceHuntingNeedWait>
+  <HuntingForMe_NotificationCanForceHunt>{0}: снова можно отправить на охоту.</HuntingForMe_NotificationCanForceHunt>
+  <HuntingForMe_ForceKittyHuntingLabel>Попросить подарок</HuntingForMe_ForceKittyHuntingLabel>
+  <HuntingForMe_ForceKittyHuntingDesc>Попросить кошку принести подарок… Если она захочет.</HuntingForMe_ForceKittyHuntingDesc>
+  <HuntingForMe_ForceKittyHuntingOK>{0}: нашлась добыча на подарок.</HuntingForMe_ForceKittyHuntingOK>
+  <HuntingForMe_ForceKittyHuntingFail>{0}: подходящего подарка не нашлось.</HuntingForMe_ForceKittyHuntingFail>
+  <HuntingForMe_ForceKittyHuntingFailDontWant>{0}: никакого желания выполнять приказ. Захочет — принесёт!</HuntingForMe_ForceKittyHuntingFailDontWant>
+  <HuntingForMe_NotificationCanForceKittyHunt>{0}: снова можно попросить подарок. Если настроение позволит…</HuntingForMe_NotificationCanForceKittyHunt>
+  <HuntingForMe_SettingsIgnoredPreyListNumber>Добыча {0}</HuntingForMe_SettingsIgnoredPreyListNumber>
+  <HuntingForMe_SettingsAllowCatGift>Кошки могут приносить подарки</HuntingForMe_SettingsAllowCatGift>
+  <HuntingForMe_SettingsMaxAllowedHunterPacking>Максимальный размер охотничьей стаи: {0}</HuntingForMe_SettingsMaxAllowedHunterPacking>
+  <HuntingForMe_SettingsIgnoredPreys>Исключённая добыча (идентификаторы видов):</HuntingForMe_SettingsIgnoredPreys>
+  <HuntingForMe_SettingsResetIgnoredPreys>Сбросить список исключённой добычи</HuntingForMe_SettingsResetIgnoredPreys>
+  <HuntingForMe_SettingsTimeToWaitBeforeTryHunt>Перерыв между приказами об охоте: {0}</HuntingForMe_SettingsTimeToWaitBeforeTryHunt>
+  <HuntingForMe_SettingsMaxRadiusBetweenPackMembers>Радиус поиска участников вокруг ведущего охотника, клеток: {0}</HuntingForMe_SettingsMaxRadiusBetweenPackMembers>
+  <HuntingForMe_SettingsAllowDiffSpeciesPack>Разрешить стаи из животных разных видов</HuntingForMe_SettingsAllowDiffSpeciesPack>
+  <HuntingForMe_SettingsDisallowManhunter>Добыча не впадает в бешенство при нападении питомцев</HuntingForMe_SettingsDisallowManhunter>
+  <HuntForMe_WaintingForOtherToHunt>Ждёт остальных участников стаи…</HuntForMe_WaintingForOtherToHunt>
+  <HuntForMe_JoiningPackToHunt>Присоединяется к охотничьей стае.</HuntForMe_JoiningPackToHunt>
+  <HuntForMe_AlreadyHunting>Это животное уже охотится.</HuntForMe_AlreadyHunting>
+  <HuntForMe_ForceStopHuntingMsg>{0}: охота прекращена.</HuntForMe_ForceStopHuntingMsg>
+  <HuntForMe_ForceStopHuntingLabel>Прекратить охоту</HuntForMe_ForceStopHuntingLabel>
+  <HuntingForMe_SettingsNotifNewHuntingPack>Сообщать о самостоятельном сборе охотничьей стаи</HuntingForMe_SettingsNotifNewHuntingPack>
+  <HuntingForMe_SettingsNotifNewHunting>Сообщать о самостоятельной одиночной охоте</HuntingForMe_SettingsNotifNewHunting>
+  <HuntingForMe_NotifNewHuntingPack>Собралась охотничья стая. Участников: {0}. Добыча: {1}.</HuntingForMe_NotifNewHuntingPack>
+  <HuntingForMe_NotifNewHunting>{0}: начинается охота. Добыча: {1}.</HuntingForMe_NotifNewHunting>
+  <HuntingForMe_SettingsAllowRangedAttack>Разрешить дальние атаки</HuntingForMe_SettingsAllowRangedAttack>
+  <HuntingForMe_SettingsAllowAllToHunt>Разрешить всем животным обучаться охоте</HuntingForMe_SettingsAllowAllToHunt>
+  <HuntingForMe_SettingsIgnoredRangedAttack>Животные, которым разрешён только ближний бой (идентификаторы):</HuntingForMe_SettingsIgnoredRangedAttack>
+  <HuntingForMe_SettingsResetIgnoredRangedAttack>Сбросить список животных с запретом дальних атак</HuntingForMe_SettingsResetIgnoredRangedAttack>
+  <HuntingForMe_SettingsCats>Животные, считающиеся кошками (идентификаторы):</HuntingForMe_SettingsCats>
+  <HuntingForMe_SettingsResetCats>Сбросить список кошек</HuntingForMe_SettingsResetCats>
+  <HuntingForMe_SettingsNoSoloHunt>Запретить одиночную охоту</HuntingForMe_SettingsNoSoloHunt>
+  <HuntingForMe_SettingsDisallowHuntingWhenThreat>Запретить охоту при угрозе на карте</HuntingForMe_SettingsDisallowHuntingWhenThreat>
+  <HuntingForMe_ActiveThreatCannotHunt>Охота прервана: на карте есть угроза!</HuntingForMe_ActiveThreatCannotHunt>
+  <HuntingForMe_SettingsSameSpeedPack>Вся стая движется со скоростью самого медленного участника</HuntingForMe_SettingsSameSpeedPack>
+  <HuntingForMe_SettingsShowExtraTools>Показывать дополнительные команды</HuntingForMe_SettingsShowExtraTools>
+  <HuntingForMe_SettingsGeneralSection>Общие настройки</HuntingForMe_SettingsGeneralSection>
+  <HuntingForMe_ExtraToolIgnoredPrey>Не охотиться на этот вид</HuntingForMe_ExtraToolIgnoredPrey>
+  <HuntingForMe_ExtraToolForcedMelee>Только ближний бой</HuntingForMe_ExtraToolForcedMelee>
+  <HuntingForMe_ExtraToolIsACat>Считать кошкой</HuntingForMe_ExtraToolIsACat>
+</LanguageData>

@@ -1,0 +1,8 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <HuntingForMe_Hunting.headerTip>Разрешить этому животному охотиться для колонии.</HuntingForMe_Hunting.headerTip>
+  <HuntingForMe_SupervisedHunting.headerTip>Охота по указанию: выбирать только животных, отмеченных для охоты. Если выключено, питомец сам выбирает подходящую добычу.</HuntingForMe_SupervisedHunting.headerTip>
+  <HuntingForMe_HuntingCanAssist.headerTip>Разрешить этому животному помогать другим питомцам в охотничьей стае.</HuntingForMe_HuntingCanAssist.headerTip>
+  <HuntingForMe_PreyModeHunting.headerTip>Осторожная охота: выбирать добычу не сильнее самого питомца, независимо от размера стаи. Если выключено, при оценке добычи учитывается общая сила участников.</HuntingForMe_PreyModeHunting.headerTip>
+  <Trainable_HuntingTraining.headerTip>Охота</Trainable_HuntingTraining.headerTip>
+</LanguageData>

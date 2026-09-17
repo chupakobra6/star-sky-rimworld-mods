@@ -1,0 +1,221 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <UsefulMarks_SettingsCategory>Useful Marks — метки персонажей</UsefulMarks_SettingsCategory>
+  <DrawMarksOnColonistBar>Показывать значки на панели поселенцев</DrawMarksOnColonistBar>
+  <DrawMarksInWorld>Показывать значки над персонажами</DrawMarksInWorld>
+  <DrawTitlesOnColonistBar>Показывать подписи на панели поселенцев</DrawTitlesOnColonistBar>
+  <WhereToEnableTitlesUnderPawnName>Подпись под именем персонажа включается в меню прозвища на вкладке биографии.</WhereToEnableTitlesUnderPawnName>
+  <HideCosmeticGenes>Скрыть косметические гены</HideCosmeticGenes>
+  <ChangeFromMainMenu>Это можно изменить только в главном меню</ChangeFromMainMenu>
+  <DrawLabelsInWorldTooltip>Показывать над персонажем</DrawLabelsInWorldTooltip>
+  <ConditionMeleeFighter>Боец ближнего боя</ConditionMeleeFighter>
+  <ConditionRangedFighter>Боец дальнего боя</ConditionRangedFighter>
+  <ConditionPawnDrugInduced>Препараты</ConditionPawnDrugInduced>
+  <ConditionPawnToxinInduced>Токсины</ConditionPawnToxinInduced>
+  <ConditionPawnDisease>Заболевания</ConditionPawnDisease>
+  <ConditionRelation>Отношения</ConditionRelation>
+  <ConditionPawnTemperature>Температура</ConditionPawnTemperature>
+  <MarkerAny>Любой</MarkerAny>
+  <MarkerPills>Любые таблетки</MarkerPills>
+  <MarkerPsychite>Любые препараты психина</MarkerPsychite>
+  <HasMeleeWeapon>Есть оружие ближнего боя</HasMeleeWeapon>
+  <HasRangedWeapon>Есть оружие дальнего боя</HasRangedWeapon>
+  <MeleeSkillOver5>Ближний бой {0} 5 (выше дальнего боя)</MeleeSkillOver5>
+  <RangedSkillOver5>Дальний бой {0} 5 (выше ближнего боя)</RangedSkillOver5>
+  <MeleeSkillOver10>Ближний бой {0} 10 (выше дальнего боя)</MeleeSkillOver10>
+  <RangedSkillOver10>Дальний бой {0} 10 (выше ближнего боя)</RangedSkillOver10>
+  <MeleeSkillOver15>Ближний бой {0} 15 (выше дальнего боя)</MeleeSkillOver15>
+  <RangedSkillOver15>Дальний бой {0} 15 (выше ближнего боя)</RangedSkillOver15>
+  <IsBestSkill>Лучший навык</IsBestSkill>
+  <IsWorstSkill>Худший навык</IsWorstSkill>
+  <IsBestSkillColonist>Лучший в колонии</IsBestSkillColonist>
+  <IsWorstSkillColonist>Худший в колонии</IsWorstSkillColonist>
+  <SkillAbove5>Навык {0} 5</SkillAbove5>
+  <SkillAbove10>Навык {0} 10</SkillAbove10>
+  <SkillAbove15>Навык {0} 15</SkillAbove15>
+  <SkillValue>Значение</SkillValue>
+  <ObsoletedWarning>Устарело. Добавьте условие заново.</ObsoletedWarning>
+  <AboveComfortTemperature>Выше комфортной</AboveComfortTemperature>
+  <BelowComfortTemperature>Ниже комфортной</BelowComfortTemperature>
+  <AboveSafeTemperature>Выше безопасной</AboveSafeTemperature>
+  <BelowSafeTemperature>Ниже безопасной</BelowSafeTemperature>
+  <MarkerAlignLeft>Слева</MarkerAlignLeft>
+  <MarkerAlignBottom>Снизу</MarkerAlignBottom>
+  <MarkerAlignRight>Справа</MarkerAlignRight>
+  <AutoAssignMarker>Назначать автоматически</AutoAssignMarker>
+  <ConditionMarker>Условие:</ConditionMarker>
+  <ConditionParamMarker>Параметр:</ConditionParamMarker>
+  <MarkerLowPriority>Низкий приоритет</MarkerLowPriority>
+  <MarkerPriority>Приоритет</MarkerPriority>
+  <MarkerLowPriorityTooltip>Автоматические метки с низким приоритетом скрываются, если персонажу вручную назначена метка.</MarkerLowPriorityTooltip>
+  <AssignMarkerFor>Использовать для:</AssignMarkerFor>
+  <AssignToColonistMarker>Поселенцев</AssignToColonistMarker>
+  <AssignToSlaveOrPrisonerMarker>Рабов и пленников</AssignToSlaveOrPrisonerMarker>
+  <AssignToHostileMarker>Врагов</AssignToHostileMarker>
+  <AssignToNeutralMarker>Нейтралов и союзников</AssignToNeutralMarker>
+  <EditMarkers>Редактировать метки</EditMarkers>
+  <SelectAmarkerFromTheListToEdit>Выберите метку из списка для редактирования</SelectAmarkerFromTheListToEdit>
+  <MarkerHasCondition>Авто</MarkerHasCondition>
+  <ConditionHealth>Раны</ConditionHealth>
+  <IsBleeding>Есть кровотечение</IsBleeding>
+  <NotTended>Есть необработанные раны</NotTended>
+  <NotTendedGood>Раны не обработаны или обработаны плохо</NotTendedGood>
+  <HasScars>Есть шрамы</HasScars>
+  <HasPain>Есть боль</HasPain>
+  <ConditionExactHediff>Конкретные состояния здоровья</ConditionExactHediff>
+  <ConditionStat>Характеристики персонажа</ConditionStat>
+  <ConditionBest>Лучший: {0}</ConditionBest>
+  <ConditionWorst>Худший: {0}</ConditionWorst>
+  <ConditionImplant>Импланты</ConditionImplant>
+  <ConditionSchedule>Расписание дня</ConditionSchedule>
+  <MarkerParamsSelected>Выбрано: {0}</MarkerParamsSelected>
+  <ConditionXenotype>Ксенотип</ConditionXenotype>
+  <ConditionHasGene>Есть ген</ConditionHasGene>
+  <ConditionHasTrait>Черта характера</ConditionHasTrait>
+  <ConditionFaction>Фракция</ConditionFaction>
+  <ConditionAlienIdeology>Чужая идеология</ConditionAlienIdeology>
+  <ConditionHoldingWeapon>Держит оружие</ConditionHoldingWeapon>
+  <ConditionHoldingWeaponThing>Оружие</ConditionHoldingWeaponThing>
+  <ConditionHoldingWeaponStat>Характеристики оружия</ConditionHoldingWeaponStat>
+  <ConditionWearingApparel>Носит одежду</ConditionWearingApparel>
+  <ConditionWearingApparelStat>Характеристики одежды</ConditionWearingApparelStat>
+  <ConditionAttackRange>Дальность атаки</ConditionAttackRange>
+  <ConditionTechLevel>Технологический уровень</ConditionTechLevel>
+  <ConditionIsRanged>Дальнобойное оружие</ConditionIsRanged>
+  <ConditionIsGrenade>Граната</ConditionIsGrenade>
+  <ConditionBiocoded>Биокодирование</ConditionBiocoded>
+  <ConditionPawnAge>Возраст</ConditionPawnAge>
+  <MarkerApparelNotForNudist>Одежда не для нудистов</MarkerApparelNotForNudist>
+  <AllowTagNonHumans>Разрешить метки для существ, не относящихся к людям</AllowTagNonHumans>
+  <AlwaysShowPawnNameIfMarked>Всегда показывать имя персонажа с меткой</AlwaysShowPawnNameIfMarked>
+  <AllowTagNonHumansEnabledButAlwaysShowNot>Метки для существ, не относящихся к людям, разрешены, но постоянное отображение имени выключено.</AllowTagNonHumansEnabledButAlwaysShowNot>
+  <IconShadowOffset>Смещение тени значка, пикс.: {0}</IconShadowOffset>
+  <MeleeVSRangedSkill>Навык ближнего боя выше навыка дальнего боя</MeleeVSRangedSkill>
+  <RangedVSMeleeSkill>Навык дальнего боя выше навыка ближнего боя</RangedVSMeleeSkill>
+  <ConditionInvert>Инвертировать</ConditionInvert>
+  <MarkerAND>И</MarkerAND>
+  <MarkerOR>ИЛИ</MarkerOR>
+  <ConditionExcept>Кроме: {0}</ConditionExcept>
+  <ConditionPawnGender>Пол</ConditionPawnGender>
+  <MarkerShowOnColonistBar>Показывать на панели поселенцев</MarkerShowOnColonistBar>
+  <ConditionQuest>Зарезервирован для задания</ConditionQuest>
+  <IconSizeMultiplier>Размер значков (×{0})</IconSizeMultiplier>
+  <ConditionUpdateRate>Частота проверки условий (×{0})</ConditionUpdateRate>
+  <FinalSolveInfo>Проверяемый персонаж: {0}
+Результат: {1}
+</FinalSolveInfo>
+  <ConditionPass>Выполнено</ConditionPass>
+  <ConditionFail>Не выполнено</ConditionFail>
+  <HediffSubMenuConditions>Здоровье</HediffSubMenuConditions>
+  <SkillSubMenuConditions>Навыки</SkillSubMenuConditions>
+  <IdeologySubMenuConditions>Идеология</IdeologySubMenuConditions>
+  <BiotechSubMenuConditions>Biotech</BiotechSubMenuConditions>
+  <RoyaltySubMenuConditions>Royalty</RoyaltySubMenuConditions>
+  <ConditionRoyalTitle>Имперский титул</ConditionRoyalTitle>
+  <BottomMarksUnderWeaponOnPortrait>Размещать нижние метки под оружием на портрете</BottomMarksUnderWeaponOnPortrait>
+  <WeaponUnderPortraitOffset>Смещение оружия под портретом, пикс.: {0}</WeaponUnderPortraitOffset>
+  <MinorPassion>Увлечение</MinorPassion>
+  <MajorPassion>Сильное увлечение</MajorPassion>
+  <AnyPassion>Любое увлечение</AnyPassion>
+  <NoPassion>Без увлечения</NoPassion>
+  <CopyOnlyCurrentMarker>Копировать выбранную метку</CopyOnlyCurrentMarker>
+  <CopyAllSelectedMarkers>Копировать все выбранные метки</CopyAllSelectedMarkers>
+  <AddMarkers>Добавить метки</AddMarkers>
+  <ReplaceMarkers>Заменить метки</ReplaceMarkers>
+  <PasteMarkersFail>Вставить метки не удалось</PasteMarkersFail>
+  <CopyMarkers>Скопировано меток: {0}</CopyMarkers>
+  <ShowInAnyDraftMode>При любом
+режиме призыва</ShowInAnyDraftMode>
+  <ShowInOnlyDraftMode>Только
+призванные</ShowInOnlyDraftMode>
+  <ShowInOnlyNotDraftMode>Только
+непризванные</ShowInOnlyNotDraftMode>
+  <MarkerShowOnColonistBarAndInWorld>Показывать везде</MarkerShowOnColonistBarAndInWorld>
+  <MarkerShowOnColonistBarOnly>Показывать только на панели поселенцев</MarkerShowOnColonistBarOnly>
+  <MarkerShowInWorldOnly>Показывать только над персонажами</MarkerShowInWorldOnly>
+  <RestoreDefaultMarkers>Восстановить метки по умолчанию</RestoreDefaultMarkers>
+  <Presets>Наборы</Presets>
+  <PresetLoaded>Загружен набор</PresetLoaded>
+  <PresetName>Название набора</PresetName>
+  <Marker_Animal>Животное</Marker_Animal>
+  <Marker_Armor>Броня</Marker_Armor>
+  <Marker_Art>Искусство</Marker_Art>
+  <Marker_Axe>Топор</Marker_Axe>
+  <Marker_Bomb>Бомба</Marker_Bomb>
+  <Marker_Bomb2>Средневековая бомба</Marker_Bomb2>
+  <Marker_Boost>Усиление</Marker_Boost>
+  <Marker_Bow>Лук</Marker_Bow>
+  <Marker_Shooter>Стрелок</Marker_Shooter>
+  <Marker_Sniper>Снайпер</Marker_Sniper>
+  <Marker_Grenadier>Гренадер</Marker_Grenadier>
+  <Marker_Demolitionist>Ракетчик</Marker_Demolitionist>
+  <Marker_Chill>Расслабление</Marker_Chill>
+  <Marker_Chip>Чип</Marker_Chip>
+  <Marker_Clean>Уборка</Marker_Clean>
+  <Marker_Cold>Холод</Marker_Cold>
+  <Marker_Craft>Ремесло</Marker_Craft>
+  <Marker_Dead>Опасность</Marker_Dead>
+  <Marker_Disease>Болезнь</Marker_Disease>
+  <Marker_Drop>Капля</Marker_Drop>
+  <Marker_Energy>Энергия</Marker_Energy>
+  <Marker_Fight>Бой</Marker_Fight>
+  <Marker_Focus>Сосредоточенность</Marker_Focus>
+  <Marker_Food>Еда</Marker_Food>
+  <Marker_Gear>Снаряжение</Marker_Gear>
+  <Marker_GoJuice>Go-сок</Marker_GoJuice>
+  <Marker_Hammer>Молот</Marker_Hammer>
+  <Marker_Haul>Груз</Marker_Haul>
+  <Marker_Hided>Скрытый</Marker_Hided>
+  <Marker_Hot>Жара</Marker_Hot>
+  <Marker_Kill>Убить</Marker_Kill>
+  <Marker_King>Король</Marker_King>
+  <Marker_Lamp>Лампа</Marker_Lamp>
+  <Marker_Lead>Лидер</Marker_Lead>
+  <Marker_Leaf>Природа</Marker_Leaf>
+  <Marker_Like>Сердце</Marker_Like>
+  <Marker_Machinegun>Пулемёт</Marker_Machinegun>
+  <Marker_Meat>Мясо</Marker_Meat>
+  <Marker_Med>Медицина</Marker_Med>
+  <Marker_Melee>Боец ближнего боя</Marker_Melee>
+  <Marker_Miner>Шахтёр</Marker_Miner>
+  <Marker_No>Нельзя</Marker_No>
+  <Marker_Person>Человек</Marker_Person>
+  <Marker_Pickaxe>Кирка</Marker_Pickaxe>
+  <Marker_Pill>Таблетка</Marker_Pill>
+  <Marker_Pistol>Пистолет</Marker_Pistol>
+  <Marker_Potion>Зелье</Marker_Potion>
+  <Marker_Prisoner>Пленник</Marker_Prisoner>
+  <Marker_Range>Боец дальнего боя</Marker_Range>
+  <Marker_Science>Наука</Marker_Science>
+  <Marker_Social>Общение</Marker_Social>
+  <Marker_Star>Звезда</Marker_Star>
+  <Marker_Stun>Оглушение</Marker_Stun>
+  <Marker_Unknown>Неизвестно</Marker_Unknown>
+  <Marker_Vase>Ваза</Marker_Vase>
+  <Marker_Wait>Ожидание</Marker_Wait>
+  <Marker_Weak>Ослабление</Marker_Weak>
+  <Marker_Worker>Рабочий</Marker_Worker>
+  <Marker_Toxins>Токсины</Marker_Toxins>
+  <Marker_Alcohol>Алкоголь</Marker_Alcohol>
+  <Marker_Familiar>Знакомый</Marker_Familiar>
+  <Marker_Protected>Защита</Marker_Protected>
+  <Marker_AnomalyScience>Аномальная наука</Marker_AnomalyScience>
+  <Marker_Psy>Псионик</Marker_Psy>
+  <Marker_Meditation>Медитация</Marker_Meditation>
+  <Marker_Smoke>Курение</Marker_Smoke>
+  <Marker_Night>Ночь</Marker_Night>
+  <Marker_Sun>День</Marker_Sun>
+  <Marker_Syringe>Шприц</Marker_Syringe>
+  <Marker_Augmented>Импланты</Marker_Augmented>
+  <Marker_Arm>Сила</Marker_Arm>
+  <Marker_ArmPlus>Бионика</Marker_ArmPlus>
+  <Marker_Trade>Торговля</Marker_Trade>
+  <Marker_Warning>Опасность</Marker_Warning>
+  <Marker_Chef>Повар</Marker_Chef>
+  <Marker_Flame>Огонь</Marker_Flame>
+  <Marker_DNA>ДНК</Marker_DNA>
+  <chupakobra6_3506573327_PasteMarkers>Вставить метки</chupakobra6_3506573327_PasteMarkers>
+  <chupakobra6_3506573327_PresetEmpty>Пустой</chupakobra6_3506573327_PresetEmpty>
+  <chupakobra6_3506573327_PresetDefault>Стандартный</chupakobra6_3506573327_PresetDefault>
+  <chupakobra6_3506573327_PresetCombat>Боевой</chupakobra6_3506573327_PresetCombat>
+</LanguageData>

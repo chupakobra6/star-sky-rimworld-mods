@@ -55,3 +55,53 @@ RimWorld 1.6 · Версия 1.0.2
 RimWorld 1.6 · Версия 1.0.2
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3803300296) · [Исходники и руководство](../mods/RU-3695225114/README.md) · [История изменений](../mods/RU-3695225114/CHANGELOG.md) · [Лицензия](../mods/RU-3695225114/LICENSE) · [Источники и уведомления](../mods/RU-3695225114/NOTICES.md)
+
+## Go Explore! — русский перевод
+
+Русский перевод событий, экспедиций и настроек Go Explore!.
+
+[![Go Explore! — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/go-explore-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803465492)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3803465492) · [Исходники и руководство](../mods/RU-1814100216/README.md) · [История изменений](../mods/RU-1814100216/CHANGELOG.md) · [Лицензия](../mods/RU-1814100216/LICENSE) · [Источники и уведомления](../mods/RU-1814100216/NOTICES.md)
+
+## Adaptive Storage Framework — русский перевод
+
+Русский перевод интерфейса, подписей и настроек Adaptive Storage Framework.
+
+[![Adaptive Storage Framework — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/adaptive-storage-framework-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803465496)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3803465496) · [Исходники и руководство](../mods/RU-3033901359/README.md) · [История изменений](../mods/RU-3033901359/CHANGELOG.md) · [Лицензия](../mods/RU-3033901359/LICENSE) · [Источники и уведомления](../mods/RU-3033901359/NOTICES.md)
+
+## Hunt for Me — русский перевод
+
+Русский перевод обучения животных охоте, команд и настроек Hunt for Me.
+
+[![Hunt for Me — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/hunt-for-me-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803465500)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3803465500) · [Исходники и руководство](../mods/RU-1593245720/README.md) · [История изменений](../mods/RU-1593245720/CHANGELOG.md) · [Лицензия](../mods/RU-1593245720/LICENSE) · [Источники и уведомления](../mods/RU-1593245720/NOTICES.md)
+
+## Useful Marks — русский перевод
+
+Русский перевод меток персонажей, условий и настроек Useful Marks.
+
+[![Useful Marks — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/useful-marks-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803465503)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3803465503) · [Исходники и руководство](../mods/RU-3506573327/README.md) · [История изменений](../mods/RU-3506573327/CHANGELOG.md) · [Лицензия](../mods/RU-3506573327/LICENSE) · [Источники и уведомления](../mods/RU-3506573327/NOTICES.md)
+
+## Nice Bill Tab — русский перевод
+
+Русский перевод рецептов, сравнения изделий и настроек Nice Bill Tab.
+
+[![Nice Bill Tab — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/nice-bill-tab-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803465507)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3803465507) · [Исходники и руководство](../mods/RU-3520130671/README.md) · [История изменений](../mods/RU-3520130671/CHANGELOG.md) · [Лицензия](../mods/RU-3520130671/LICENSE) · [Источники и уведомления](../mods/RU-3520130671/NOTICES.md)

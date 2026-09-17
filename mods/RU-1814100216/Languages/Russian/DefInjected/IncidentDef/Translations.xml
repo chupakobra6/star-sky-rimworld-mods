@@ -1,0 +1,16 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LostCityLGE.label>заброшенный город</LostCityLGE.label>
+  <AmbrosiaAnimalsLGE.label>животные с зависимостью от амброзии</AmbrosiaAnimalsLGE.label>
+  <ShipCoreStartupLGE.label>запуск корабельного реактора</ShipCoreStartupLGE.label>
+  <PrisonCampLGE.label>лагерь пленных</PrisonCampLGE.label>
+  <NewSettlementLGE.label>новое поселение</NewSettlementLGE.label>
+  <QuestResearchRequestSW.label>помощь в исследовании</QuestResearchRequestSW.label>
+  <QuestResearchRequestSW.letterLabel>Помощь в исследовании</QuestResearchRequestSW.letterLabel>
+  <QuestResearchRequestSW.letterText>Получено сообщение: [PAWN_nameDef], {0}; фракция — {1}. Исследование некоего артефакта зашло в тупик. Фракция просит помощи вашего лучшего исследователя и готова поделиться открытиями, если работа пойдёт успешно.
+
+Это также возможность улучшить отношения. Однако неумелый исследователь может принести больше вреда, чем пользы: сорванная работа разозлит фракцию.
+
+Предложение действует ещё {2} дн.</QuestResearchRequestSW.letterText>
+  <InterceptedMessageLGE.label>перехваченное сообщение</InterceptedMessageLGE.label>
+</LanguageData>

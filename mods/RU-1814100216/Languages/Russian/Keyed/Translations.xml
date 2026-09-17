@@ -1,0 +1,81 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LetterLabelAmbrosiaAnimalsLGE>Любители амброзии</LetterLabelAmbrosiaAnimalsLGE>
+  <LetterAmbrosiaAnimalsLGE>Поблизости появились обширные заросли амброзии. По слухам, такие заросли могут защищать большие стаи животных, нападающие на незваных гостей.</LetterAmbrosiaAnimalsLGE>
+  <LetterLabelInterceptedMessageLGE>Перехваченное сообщение</LetterLabelInterceptedMessageLGE>
+  <LetterInterceptedMessageLGE>Средства связи перехватили незашифрованное сообщение. В нём указано место поблизости, где спрятаны ценности.
+Какие именно предметы там хранятся, неясно.
+Возможно, это приманка, чтобы заманить ваш караван в засаду.</LetterInterceptedMessageLGE>
+  <LetterLabelIMAmbushLGE>Это ловушка!</LetterLabelIMAmbushLGE>
+  <LetterIMAmbushLGE>Перехваченное сообщение оказалось приманкой! Никаких ценностей здесь нет, а ваш караван попал в засаду.</LetterIMAmbushLGE>
+  <LetterLabelFoundTreasureLGE>Тайник найден</LetterLabelFoundTreasureLGE>
+  <LetterFoundTreasureLGE>Ваш караван прибыл в место, указанное в перехваченном сообщении, и нашёл неохраняемый тайник стоимостью {0}:
+
+{1}</LetterFoundTreasureLGE>
+  <LetterLabelTreasureAmbushLGE>Засада у тайника</LetterLabelTreasureAmbushLGE>
+  <LetterTreasureAmbushLGE>Ваш караван прибыл в место, указанное в перехваченном сообщении, и нашёл неохраняемый тайник стоимостью {0}:
+
+{1}
+
+Но на обратном пути караван попал в засаду!</LetterTreasureAmbushLGE>
+  <LetterLabelToxicLostCityLGE>Отравленный город</LetterLabelToxicLostCityLGE>
+  <LetterToxicLostCityLGE>До вас дошли слухи о давно заброшенном городе под облаком токсичных осадков.
+Возможно, среди руин сохранились ценности. Но там могут поджидать и опасности.</LetterToxicLostCityLGE>
+  <LetterLabelInfestedLostCityLGE>Город инсектоидов</LetterLabelInfestedLostCityLGE>
+  <LetterInfestedLostCityLGE>По слухам, неподалёку находятся городские руины, захваченные инсектоидами.
+Там наверняка сохранилась добыча, но ради неё придётся прокрасться мимо насекомых или истребить их.</LetterInfestedLostCityLGE>
+  <LetterLabelStandartLostCityLGE>Город под обстрелом</LetterLabelStandartLostCityLGE>
+  <LetterStandartLostCityLGE>В небе видны странные огни: орбитальные лучи обстреливают соседнюю область, похожую на руины древнего города. Возможно, оттуда ещё можно вынести ценности, пока бомбардировка не уничтожила всё.</LetterStandartLostCityLGE>
+  <GoExploreName>Go Explore! — экспедиции</GoExploreName>
+  <LGEBoolToolTip>Разрешить рассказчику выбирать это событие.</LGEBoolToolTip>
+  <LostCityName>Заброшенный город</LostCityName>
+  <InterceptedMessageName>Перехваченное сообщение</InterceptedMessageName>
+  <LetterLabelNewSettlementLGE>Новое поселение</LetterLabelNewSettlementLGE>
+  <LetterNewSettlementLGE>Фракция {0} расширила свои владения и основала новое поселение.</LetterNewSettlementLGE>
+  <LetterLabelPrisonCampLGE>Спасение пленных</LetterLabelPrisonCampLGE>
+  <LetterPrisonCampLGE>Несколько представителей фракции {0} удерживаются враждебной группировкой в соседнем лагере пленных. За спасение вам предлагают награду стоимостью {1}:
+
+{2}
+
+Кроме того, это улучшит отношения с их фракцией.</LetterPrisonCampLGE>
+  <OfferHelpMessageLGE>Пленные с радостью принимают вашу помощь и возвращаются на свою базу.</OfferHelpMessageLGE>
+  <PrisonersFreedLGE>Благодаря вашей помощи пленные возвращаются на свою базу.</PrisonersFreedLGE>
+  <LetterPrisonerQuestCompletedGLE>Вы освободили пленных!
+
+Награда от фракции {0} доставлена. Отношения улучшились на {1}.</LetterPrisonerQuestCompletedGLE>
+  <LetterLabelResearchRequest_DisasterLGE>Катастрофа при исследовании</LetterLabelResearchRequest_DisasterLGE>
+  <LetterResearchRequest_DisasterLGE>Исследование закончилось катастрофой. Взрыв унёс несколько жизней.
+
+Ваш караван поспешно покинул место работ, но его настиг отряд фракции {1} ({0}) и теперь атакует!
+
+Отношения с фракцией {1}: {2}.</LetterResearchRequest_DisasterLGE>
+  <LetterLabelResearchRequest_BackfireLGE>Серьёзная неудача при исследовании</LetterLabelResearchRequest_BackfireLGE>
+  <LetterResearchRequest_BackfireLGE>В решающий момент ваш исследователь допустил ошибку, уничтожив значительную часть результатов работы.
+
+Отношения с фракцией {0}: {1}.</LetterResearchRequest_BackfireLGE>
+  <LetterLabelResearchRequest_NeutralLGE>Безрезультатное исследование</LetterLabelResearchRequest_NeutralLGE>
+  <LetterResearchRequest_NeutralLGE>Несмотря на все усилия вашего исследователя, продвинуться в работе не удалось.
+
+Отношения с фракцией {0} не изменились.</LetterResearchRequest_NeutralLGE>
+  <LetterLabelResearchRequest_SuccessLGE>Успешное исследование</LetterLabelResearchRequest_SuccessLGE>
+  <LetterResearchRequest_SuccessLGE>Исследование завершилось успешно: удалось добиться значительного прогресса.
+
+Отношения с фракцией {0} улучшились на {1}.
+
+Обмен знаниями: {2}.</LetterResearchRequest_SuccessLGE>
+  <LetterLabelResearchRequest_TriumphLGE>Триумфальное исследование</LetterLabelResearchRequest_TriumphLGE>
+  <LetterResearchRequest_TriumphLGE>Исследование превзошло все ожидания! Удалось продвинуться дальше, чем кто-либо считал возможным.
+
+Отношения с фракцией {0} улучшились на {1}.
+
+Обмен знаниями: {2}.</LetterResearchRequest_TriumphLGE>
+  <ResearchRequestXPGainLGE>Опыт навыка «Умственный труд» для исследователя {0}: +{1}.</ResearchRequestXPGainLGE>
+  <LetterLabelShipCoreStartupLGE>Запуск корабельного реактора</LetterLabelShipCoreStartupLGE>
+  <LetterShipCoreStartupLGE>Обнаружен мощный источник энергии. Похоже, где-то поблизости запускается корабельный реактор. Вероятно, его охраняют, а запуск может привлечь и других врагов.
+
+У корабля будет не менее 30 защитников, 6 миномётов и несколько турелей!</LetterShipCoreStartupLGE>
+  <chupakobra6_1814100216_VisitMessageSite>Проверить место: {0}</chupakobra6_1814100216_VisitMessageSite>
+  <chupakobra6_1814100216_VisitResearch>Помочь с исследованием: {0}</chupakobra6_1814100216_VisitResearch>
+  <chupakobra6_1814100216_NoResearcher>В караване нет исследователя, способного помочь.</chupakobra6_1814100216_NoResearcher>
+  <chupakobra6_1814100216_ResearchRequest>Помощь в исследовании</chupakobra6_1814100216_ResearchRequest>
+</LanguageData>

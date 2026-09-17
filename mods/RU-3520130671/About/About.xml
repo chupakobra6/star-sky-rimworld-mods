@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<ModMetaData>
+  <name>Nice Bill Tab — русский перевод [Star Sky Mods]</name>
+  <author>chupakobra6 | Star Sky Mods</author>
+  <packageId>starsky.rimworld.ru.3520130671</packageId>
+  <modVersion>1.0.0</modVersion>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>andromeda.nicebilltab</packageId>
+      <displayName>Nice Bill Tab</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/3520130671</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>andromeda.nicebilltab</li>
+    <li>starsky.rimworld.ru.3506573327</li>
+    <li>starsky.rimworld.ru.3609897594</li>
+  </loadAfter>
+  <description>Русский перевод Nice Bill Tab для RimWorld 1.6. Оригинальный мод устанавливается отдельно.
+
+Nice Bill Tab перерабатывает вкладку заданий рабочих столов: показывает характеристики изделий, помогает сравнить рецепты и выбрать материал. Поиск и категории упрощают работу с длинным списком рецептов.
+
+Списки рецептов, поиск и фильтры по категориям, материалам и модам. Характеристики изделий, сравнение рецептов и выбор материала. Настройки вкладки, подсказки и причины, по которым задание нельзя выполнить.
+
+Требуются Harmony и оригинальный мод. Порядок загрузки: Harmony → оригинальный мод → этот перевод. Оставьте включённым один русский перевод этого мода, чтобы тексты не перекрывали друг друга.
+
+Откройте вкладку заданий рабочего стола. Для сравнения выбирайте рецепты с зажатой Shift; вид списка меняется в настройках Nice Bill Tab. После смены языка перезапустите игру.</description>
+</ModMetaData>

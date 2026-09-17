@@ -1,0 +1,35 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<ModMetaData>
+  <name>Adaptive Storage Framework — русский перевод [Star Sky Mods]</name>
+  <author>chupakobra6 | Star Sky Mods</author>
+  <packageId>starsky.rimworld.ru.3033901359</packageId>
+  <modVersion>1.0.0</modVersion>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>adaptive.storage.framework</packageId>
+      <displayName>Adaptive Storage Framework</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/3033901359</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>adaptive.storage.framework</li>
+  </loadAfter>
+  <description>Русский перевод Adaptive Storage Framework для RimWorld 1.6. Оригинальный мод устанавливается отдельно.
+
+Adaptive Storage Framework — основа для модов хранения: она позволяет менять вместимость и внешний вид хранилищ в зависимости от содержимого. Игроку доступны вкладки содержимого и групп хранилищ, а также настройки подписей над предметами.
+
+Что переведено:
+- Настройки вкладки содержимого и подписей над хранилищами.
+- Описания вместимости, количества стопок и команды выгрузки.
+- Варианты подписей, категория хранения и подсказки интерфейса.
+
+Порядок загрузки: Harmony → оригинальный мод → этот перевод. Выберите русский язык в настройках игры.</description>
+</ModMetaData>
