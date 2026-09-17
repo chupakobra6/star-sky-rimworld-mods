@@ -4,6 +4,8 @@ Russian translations of RimWorld mods.
 
 [All categories](../README.md) · [Steam Workshop](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)
 
+[Browse the translations collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3803359239)
+
 ## RimSaves — Russian Translation
 
 Russian save and folder controls, save previews and autosave settings.
