@@ -1,5 +1,7 @@
 # SimpleCameraSetting — русский перевод [Star Sky Mods]
 
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3803300163) · [Все категории](../../README.md) · [Источники и уведомления](NOTICES.md)
+
 Русский перевод [SimpleCameraSetting](https://steamcommunity.com/sharedfiles/filedetails/?id=3232415388) для RimWorld 1.6. Оригинальный мод устанавливается отдельно.
 
 ## Что переведено

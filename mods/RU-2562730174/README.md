@@ -1,5 +1,7 @@
 # Visible Raid Points — русский перевод [Star Sky Mods]
 
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3803300103) · [Все категории](../../README.md) · [Источники и уведомления](NOTICES.md)
+
 Русский перевод [Visible Raid Points](https://steamcommunity.com/sharedfiles/filedetails/?id=2562730174) для RimWorld 1.6. Оригинальный мод устанавливается отдельно.
 
 ## Что переведено

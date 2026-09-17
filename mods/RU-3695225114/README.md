@@ -1,5 +1,7 @@
 # Goodwill Preview — русский перевод [Star Sky Mods]
 
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3803300296) · [Все категории](../../README.md) · [Источники и уведомления](NOTICES.md)
+
 Русский перевод [Goodwill Preview](https://steamcommunity.com/sharedfiles/filedetails/?id=3695225114) для RimWorld 1.6. Оригинальный мод устанавливается отдельно.
 
 ## Что переведено
