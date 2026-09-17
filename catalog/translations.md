@@ -12,7 +12,7 @@
 
 [![RimSaves — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/rimsaves-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803300028)
 
-RimWorld 1.6 · Версия 1.0.2
+RimWorld 1.6 · Версия 1.0.3
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3803300028) · [Исходники и руководство](../mods/RU-1713367505/README.md) · [История изменений](../mods/RU-1713367505/CHANGELOG.md) · [Лицензия](../mods/RU-1713367505/LICENSE) · [Источники и уведомления](../mods/RU-1713367505/NOTICES.md)
 
@@ -22,7 +22,7 @@ RimWorld 1.6 · Версия 1.0.2
 
 [![Visible Raid Points — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/visible-raid-points-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803300103)
 
-RimWorld 1.6 · Версия 1.0.2
+RimWorld 1.6 · Версия 1.0.3
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3803300103) · [Исходники и руководство](../mods/RU-2562730174/README.md) · [История изменений](../mods/RU-2562730174/CHANGELOG.md) · [Лицензия](../mods/RU-2562730174/LICENSE) · [Источники и уведомления](../mods/RU-2562730174/NOTICES.md)
 
@@ -32,7 +32,7 @@ RimWorld 1.6 · Версия 1.0.2
 
 [![SimpleCameraSetting — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/simple-camera-setting-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803300163)
 
-RimWorld 1.6 · Версия 1.0.2
+RimWorld 1.6 · Версия 1.0.3
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3803300163) · [Исходники и руководство](../mods/RU-3232415388/README.md) · [История изменений](../mods/RU-3232415388/CHANGELOG.md) · [Лицензия](../mods/RU-3232415388/LICENSE) · [Источники и уведомления](../mods/RU-3232415388/NOTICES.md)
 
@@ -42,7 +42,7 @@ RimWorld 1.6 · Версия 1.0.2
 
 [![QualityBuilder Unofficial 1.6 — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/qualitybuilder-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803300243)
 
-RimWorld 1.6 · Версия 1.0.2
+RimWorld 1.6 · Версия 1.0.3
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3803300243) · [Исходники и руководство](../mods/RU-3512466087/README.md) · [История изменений](../mods/RU-3512466087/CHANGELOG.md) · [Лицензия](../mods/RU-3512466087/LICENSE) · [Источники и уведомления](../mods/RU-3512466087/NOTICES.md)
 
@@ -52,7 +52,7 @@ RimWorld 1.6 · Версия 1.0.2
 
 [![Goodwill Preview — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/goodwill-preview-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803300296)
 
-RimWorld 1.6 · Версия 1.0.2
+RimWorld 1.6 · Версия 1.0.3
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3803300296) · [Исходники и руководство](../mods/RU-3695225114/README.md) · [История изменений](../mods/RU-3695225114/CHANGELOG.md) · [Лицензия](../mods/RU-3695225114/LICENSE) · [Источники и уведомления](../mods/RU-3695225114/NOTICES.md)
 
@@ -62,7 +62,7 @@ RimWorld 1.6 · Версия 1.0.2
 
 [![Go Explore! — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/go-explore-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803465492)
 
-RimWorld 1.6 · Версия 1.0.0
+RimWorld 1.6 · Версия 1.0.1
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3803465492) · [Исходники и руководство](../mods/RU-1814100216/README.md) · [История изменений](../mods/RU-1814100216/CHANGELOG.md) · [Лицензия](../mods/RU-1814100216/LICENSE) · [Источники и уведомления](../mods/RU-1814100216/NOTICES.md)
 
@@ -72,7 +72,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 [![Adaptive Storage Framework — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/adaptive-storage-framework-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803465496)
 
-RimWorld 1.6 · Версия 1.0.0
+RimWorld 1.6 · Версия 1.0.1
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3803465496) · [Исходники и руководство](../mods/RU-3033901359/README.md) · [История изменений](../mods/RU-3033901359/CHANGELOG.md) · [Лицензия](../mods/RU-3033901359/LICENSE) · [Источники и уведомления](../mods/RU-3033901359/NOTICES.md)
 
@@ -82,7 +82,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 [![Hunt for Me — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/hunt-for-me-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803465500)
 
-RimWorld 1.6 · Версия 1.0.0
+RimWorld 1.6 · Версия 1.0.1
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3803465500) · [Исходники и руководство](../mods/RU-1593245720/README.md) · [История изменений](../mods/RU-1593245720/CHANGELOG.md) · [Лицензия](../mods/RU-1593245720/LICENSE) · [Источники и уведомления](../mods/RU-1593245720/NOTICES.md)
 
@@ -92,7 +92,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 [![Useful Marks — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/useful-marks-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803465503)
 
-RimWorld 1.6 · Версия 1.0.0
+RimWorld 1.6 · Версия 1.0.1
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3803465503) · [Исходники и руководство](../mods/RU-3506573327/README.md) · [История изменений](../mods/RU-3506573327/CHANGELOG.md) · [Лицензия](../mods/RU-3506573327/LICENSE) · [Источники и уведомления](../mods/RU-3506573327/NOTICES.md)
 
@@ -102,6 +102,6 @@ RimWorld 1.6 · Версия 1.0.0
 
 [![Nice Bill Tab — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/nice-bill-tab-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803465507)
 
-RimWorld 1.6 · Версия 1.0.0
+RimWorld 1.6 · Версия 1.0.1
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3803465507) · [Исходники и руководство](../mods/RU-3520130671/README.md) · [История изменений](../mods/RU-3520130671/CHANGELOG.md) · [Лицензия](../mods/RU-3520130671/LICENSE) · [Источники и уведомления](../mods/RU-3520130671/NOTICES.md)
