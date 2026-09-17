@@ -25,3 +25,7 @@ For translation issues, include a screenshot, mod versions and steps to reach th
 Original mod authors: ray1203.
 
 Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.
+
+## Лицензии
+
+Собственные русские тексты перевода — [CC BY-SA 4.0](LICENSE), автор: chupakobra6 | Star Sky Mods. Собственный код интеграции — [MIT](Licenses/MIT.txt); русские строки внутри кода относятся к переводу. Условия исходных материалов и ранее выданные разрешения сохранены; подробности — в [NOTICES.md](NOTICES.md).

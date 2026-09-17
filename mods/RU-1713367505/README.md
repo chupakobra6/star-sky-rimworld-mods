@@ -23,3 +23,7 @@ For translation issues, include a screenshot, mod versions and steps to reach th
 Original mod authors: aRandomKiwi.
 
 Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.
+
+## Лицензии
+
+Тексты и адаптации RimSaves сохраняют [GPL-3.0](LICENSE): они переводят исходные тексты RimSaves под этой лицензией. Общая политика CC BY-SA 4.0 не заменяет условия исходного материала. Источники и атрибуции — в [NOTICES.md](NOTICES.md).
