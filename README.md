@@ -31,3 +31,5 @@ Optional support helps me spend more time building and maintaining the mods. All
 ## Source and rights
 
 Each mod carries its own `LICENSE` and `NOTICES.md`; the category pages link to both. Code licenses do not cover third-party artwork or trademarks. Shared branding and artwork sources live in [Star Sky Assets](https://github.com/chupakobra6/star-sky-assets/blob/main/assets/SOURCES.md).
+
+Our original mod code is released under MIT, and new original translation text under CC BY-SA 4.0. Existing releases and third-party material retain their applicable licenses and notices; see each package’s `LICENSE` and `NOTICES.md`. Internal development tools remain private and are not publicly licensed. Star Sky Mods branding has separate terms: you may display its name and logo to refer to our work, without implying that your work is official or endorsed by us.
