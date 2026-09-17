@@ -1,0 +1,26 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<ModMetaData>
+  <name>Visible Raid Points — русский перевод [Star Sky Mods]</name>
+  <author>chupakobra6 | Star Sky Mods</author>
+  <packageId>starsky.rimworld.ru.2562730174</packageId>
+  <modVersion>1.0.0</modVersion>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>visibleraidpoints.1trickpwnyta</packageId>
+      <displayName>Visible Raid Points</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2562730174</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>visibleraidpoints.1trickpwnyta</li>
+  </loadAfter>
+  <description>Русский перевод Visible Raid Points для RimWorld 1.6: очки угрозы в письмах, подробный расчёт и настройки отображения. Требуется отдельно установить оригинальный Visible Raid Points.</description>
+</ModMetaData>

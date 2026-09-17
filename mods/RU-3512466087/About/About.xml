@@ -1,0 +1,26 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<ModMetaData>
+  <name>QualityBuilder Unofficial 1.6 — русский перевод [Star Sky Mods]</name>
+  <author>chupakobra6 | Star Sky Mods</author>
+  <packageId>starsky.rimworld.ru.3512466087</packageId>
+  <modVersion>1.0.0</modVersion>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>hatti.qualitybuilder</packageId>
+      <displayName>QualityBuilder Unofficial 1.6</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/3512466087</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>hatti.qualitybuilder</li>
+  </loadAfter>
+  <description>Русский перевод QualityBuilder Unofficial 1.6 для RimWorld 1.6: выбор минимального качества, настройки строителей и лимита перестроек. Требуется отдельно установить оригинальный QualityBuilder Unofficial 1.6.</description>
+</ModMetaData>

@@ -1,0 +1,51 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <SimpleCameraSetting>SimpleCameraSetting — камера</SimpleCameraSetting>
+  <ZoomSpeed>Скорость масштабирования</ZoomSpeed>
+  <SilhouetteDistance>Порог силуэтов</SilhouetteDistance>
+  <HidePawnName>Скрывать имена пешек</HidePawnName>
+  <HidePawnNameTooltip>Скрывать имя пешки, когда вместо неё отображается силуэт.</HidePawnNameTooltip>
+  <DisplayDistance>Порог чисел и шкал</DisplayDistance>
+  <SmoothZoom>Плавное масштабирование</SmoothZoom>
+  <HideBracket>Скрывать рамку выбора пешки</HideBracket>
+  <ZoomDebugMessage>Показывать текущий масштаб</ZoomDebugMessage>
+  <ZoomDebugMessageTooltip>Выводить сообщение с текущим масштабом камеры.</ZoomDebugMessageTooltip>
+  <DefaultValue>Восстановить значения по умолчанию</DefaultValue>
+  <followCameraKey>Клавиша слежения</followCameraKey>
+  <AutoOffFollow>Автоматически прекращать слежение</AutoOffFollow>
+  <AutoOffFollowTooltip>Прекращать слежение, когда пешка больше не выбрана.</AutoOffFollowTooltip>
+  <FollowMessage>Сообщения о слежении</FollowMessage>
+  <FollowMessageTooltip>Показывать сообщение при включении и выключении слежения камеры.</FollowMessageTooltip>
+  <FollowSmoothTime>Плавность слежения</FollowSmoothTime>
+  <FollowSmoothTimeTooltip>Насколько плавно камера следует за выбранной пешкой. При 0 пешка остаётся в центре экрана; большие значения делают движение плавнее, но камера немного отстаёт. При 0 возможна лёгкая дрожь изображения.</FollowSmoothTimeTooltip>
+  <CameraSpeedSettingsTitle>Скорость камеры</CameraSpeedSettingsTitle>
+  <CameraSpeedSettingsTooltip>Скорость перемещения камеры при разных значениях масштаба.
+Это скорость движения камеры, а не приближения и отдаления.
+Текущий масштаб можно узнать, включив «Показывать текущий масштаб».</CameraSpeedSettingsTooltip>
+  <CameraSpeed1>Камера (масштаб &lt; 1)</CameraSpeed1>
+  <CameraSpeed3>Камера (масштаб &lt; 3)</CameraSpeed3>
+  <CameraSpeed5>Камера (масштаб &lt; 5)</CameraSpeed5>
+  <CameraSpeed10>Камера (масштаб &lt; 10)</CameraSpeed10>
+  <CameraSpeed20>Камера (масштаб &lt; 20)</CameraSpeed20>
+  <CameraSpeed40>Камера (масштаб &lt; 40)</CameraSpeed40>
+  <CameraSpeed60>Камера (масштаб &lt; 60)</CameraSpeed60>
+  <CameraSpeed100>Камера (масштаб &lt; 100)</CameraSpeed100>
+  <CameraSpeed200>Камера (масштаб &lt; 200)</CameraSpeed200>
+  <ZoomSpeed1>Масштабирование (масштаб &lt; 1)</ZoomSpeed1>
+  <ZoomSpeed3>Масштабирование (масштаб &lt; 3)</ZoomSpeed3>
+  <ZoomSpeed5>Масштабирование (масштаб &lt; 5)</ZoomSpeed5>
+  <ZoomSpeed10>Масштабирование (масштаб &lt; 10)</ZoomSpeed10>
+  <ZoomSpeed20>Масштабирование (масштаб &lt; 20)</ZoomSpeed20>
+  <ZoomSpeed40>Масштабирование (масштаб &lt; 40)</ZoomSpeed40>
+  <ZoomSpeed60>Масштабирование (масштаб &lt; 60)</ZoomSpeed60>
+  <ZoomSpeed100>Масштабирование (масштаб &lt; 100)</ZoomSpeed100>
+  <ZoomSpeed200>Масштабирование (масштаб &lt; 200)</ZoomSpeed200>
+  <SCS_BracketHideMode_Title>Рамка выбора</SCS_BracketHideMode_Title>
+  <SCS_BracketHideMode_Tooltip>Когда скрывать рамку вокруг выбранного объекта.</SCS_BracketHideMode_Tooltip>
+  <SCS_BracketHideMode_Never>Всегда показывать</SCS_BracketHideMode_Never>
+  <SCS_BracketHideMode_Always>Всегда скрывать</SCS_BracketHideMode_Always>
+  <SCS_BracketHideMode_WhenFollowing>Скрывать при слежении</SCS_BracketHideMode_WhenFollowing>
+  <SilhouetteDistanceTooltip>Порог появления силуэтов при отдалении камеры. Значение 100 отключает изменение этого порога модом: применяется обычное поведение игры.</SilhouetteDistanceTooltip>
+  <DisplayDistanceTooltip>Порог отображения количества предметов и шкал прогресса при отдалении камеры.</DisplayDistanceTooltip>
+  <chupakobra6_3232415388_ZoomRange>Пределы масштаба</chupakobra6_3232415388_ZoomRange>
+</LanguageData>

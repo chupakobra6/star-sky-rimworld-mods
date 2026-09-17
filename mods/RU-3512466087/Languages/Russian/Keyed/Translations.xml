@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <QualityBuilder>Качественное строительство</QualityBuilder>
+  <QualityBuilderCommand.Label>Качество</QualityBuilderCommand.Label>
+  <QualityBuilderOn.Label>Включить контроль качества</QualityBuilderOn.Label>
+  <QualityBuilderOn.Desc>Минимальное качество: {0}. Поручить строительство достаточно умелым строителям.</QualityBuilderOn.Desc>
+  <QualityBuilder.Already />
+  <QualityBuilderOff.Label>Выключить контроль качества</QualityBuilderOff.Label>
+  <QualityBuilderOff.Desc>Минимальное качество: {0}. Снять ограничение по навыку строителя.</QualityBuilderOff.Desc>
+  <QualityBuilder.Nothing />
+  <QualityBuilder.SelectedSettings>Настройки для</QualityBuilder.SelectedSettings>
+  <QualityBuilder.SelectedSettingsHint>Переключить между настройками по умолчанию и отдельными настройками текущей карты.</QualityBuilder.SelectedSettingsHint>
+  <QualityBuilder.CurrentMap>Текущая карта</QualityBuilder.CurrentMap>
+  <QualityBuilder.Global>По умолчанию</QualityBuilder.Global>
+  <QualityBuilder.EnableByDefault>Включать контроль качества по умолчанию</QualityBuilder.EnableByDefault>
+  <QualityBuilder.IgnoreAtSkill>Не ограничивать строителей с навыком от {0}</QualityBuilder.IgnoreAtSkill>
+  <QualityBuilder.MinSkill>Требуемый навык строительства: {0}; навык лучшего строителя: {1}</QualityBuilder.MinSkill>
+  <QualityBuilder.MinSkillDiff>Допустимое отставание от лучшего строителя: {0} ур.</QualityBuilder.MinSkillDiff>
+  <QualityBuilder.MinQuality>Минимальное качество по умолчанию</QualityBuilder.MinQuality>
+  <QualityBuilder.OverrideBestBuilder>Вручную назначить лучшего строителя</QualityBuilder.OverrideBestBuilder>
+  <QualityBuilder.UseMapSettings>Использовать отдельные настройки этой карты</QualityBuilder.UseMapSettings>
+  <QualityBuilder.MaxRebuildAttempts>Лимит неудачных перестроек: {0} (∞ — без ограничения)</QualityBuilder.MaxRebuildAttempts>
+  <QualityBuilder.RebuildGaveUp>Не удалось получить нужное качество предмета «{0}» после {1} перестроек. Последнее качество: {2}. Предмет сохранён; перестройка прекращена. Лимит можно изменить в настройках QualityBuilder.</QualityBuilder.RebuildGaveUp>
+  <QualityBuilder.ExcludeMechs>Не поручать контроль качества механоидам</QualityBuilder.ExcludeMechs>
+  <QualityBuilder.ExcludeMechsTooltip>Механоиды не учитываются при определении навыка лучшего строителя и не берутся за строительство с контролем качества. Прямые приказы игрока по-прежнему действуют. Это позволяет поселенцам развивать строительство, не уступая такую работу механоидам.</QualityBuilder.ExcludeMechsTooltip>
+  <QualityBuilder.DefaultSettingsActive>Действуют настройки по умолчанию</QualityBuilder.DefaultSettingsActive>
+  <QualityBuilder.DefaultSettingsInactive>Настройки по умолчанию не применяются</QualityBuilder.DefaultSettingsInactive>
+  <QualityBuilder.DefaultSettingsActiveNote>Для этой карты действуют приведённые ниже настройки по умолчанию. Чтобы задать отдельные значения, откройте «Текущая карта» и включите «Использовать отдельные настройки этой карты».</QualityBuilder.DefaultSettingsActiveNote>
+  <QualityBuilder.DefaultSettingsInactiveNote>У этой карты собственные настройки. Изменения на странице «По умолчанию» на неё не влияют. Чтобы снова использовать общие значения, отключите «Использовать отдельные настройки этой карты».</QualityBuilder.DefaultSettingsInactiveNote>
+  <QualityBuilder.DefaultSettingsNoMapNote>Колония не загружена: доступны только настройки по умолчанию. После загрузки можно задать отдельные настройки для каждой карты.</QualityBuilder.DefaultSettingsNoMapNote>
+  <QualityBuilder.GizmoOnBlueprintsOnly>Показывать команду качества только на чертежах и каркасах</QualityBuilder.GizmoOnBlueprintsOnly>
+  <QualityBuilder.GizmoOnBlueprintsOnlyTooltip>Скрыть переключатель QualityBuilder и меню выбора качества по правой кнопке мыши на готовых постройках. На чертежах и незавершённых каркасах они останутся. Уже назначенные ограничения качества и циклы перестройки продолжают действовать.</QualityBuilder.GizmoOnBlueprintsOnlyTooltip>
+</LanguageData>

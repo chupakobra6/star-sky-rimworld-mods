@@ -1,0 +1,13 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <GoodwillPreview.Tiles>Клеток: {TILES}</GoodwillPreview.Tiles>
+  <GoodwillPreview.GiftGoodwillIncreaseTip>На столько улучшится отношение фракции, если передать эти предметы в подарок.</GoodwillPreview.GiftGoodwillIncreaseTip>
+  <GoodwillPreview.LabelGoodwillFormat>{VALUE}</GoodwillPreview.LabelGoodwillFormat>
+  <GoodwillPreview.LabelGoodwillXToY>{CURRENT} → {NEXT} ({DELTA})</GoodwillPreview.LabelGoodwillXToY>
+  <GoodwillPreview.DropdownFactionHeader>{FACTION_name}:</GoodwillPreview.DropdownFactionHeader>
+  <GoodwillPreview.DropdownGoodwillFormat>{VALUE}, {LABEL}</GoodwillPreview.DropdownGoodwillFormat>
+  <GoodwillPreview.DropdownGoodwillXToY>{CURRENT} → {NEXT} ({DELTA})</GoodwillPreview.DropdownGoodwillXToY>
+  <GoodwillPreview.TipFactionHeader>{FACTION_name}:</GoodwillPreview.TipFactionHeader>
+  <GoodwillPreview.TipGoodwillFormat>{VALUE}, {LABEL}</GoodwillPreview.TipGoodwillFormat>
+  <GoodwillPreview.TipGoodwillXToY>{CURRENT} → {NEXT} ({DELTA})</GoodwillPreview.TipGoodwillXToY>
+</LanguageData>

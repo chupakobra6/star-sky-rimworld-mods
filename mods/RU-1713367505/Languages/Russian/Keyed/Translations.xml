@@ -1,0 +1,69 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <ARS_SettingsGeneralSection>Общие настройки</ARS_SettingsGeneralSection>
+  <ARS_SettingsIncidentsSection>События</ARS_SettingsIncidentsSection>
+  <ARS_SettingsQSGeneralSection>Быстрые сохранения</ARS_SettingsQSGeneralSection>
+  <ARS_SettingsQSSection>Клавиши быстрого сохранения</ARS_SettingsQSSection>
+  <ARS_SettingsBindingHomeEnd>Сохранить: Ctrl+Home; загрузить: Ctrl+End</ARS_SettingsBindingHomeEnd>
+  <ARS_SettingsBindingF5F9>Сохранить: F5; загрузить: F9</ARS_SettingsBindingF5F9>
+  <ARS_SettingsDisableAutosaves>Выключить автосохранение</ARS_SettingsDisableAutosaves>
+  <ARS_SettingsUniqueQuicksaveName>Уникальные имена быстрых сохранений</ARS_SettingsUniqueQuicksaveName>
+  <ARS_SettingsUniqueSavenameOnSave>Предлагать уникальное имя при сохранении</ARS_SettingsUniqueSavenameOnSave>
+  <ARS_SettingsQuicksaveOnNegativeIncident>Быстрое сохранение при плохом событии</ARS_SettingsQuicksaveOnNegativeIncident>
+  <ARS_SettingsQuicksaveOnPositiveIncident>Быстрое сохранение при хорошем событии</ARS_SettingsQuicksaveOnPositiveIncident>
+  <ARS_SettingsQuicksaveOnIncidentLabelSuffix>Добавлять название события в конец имени</ARS_SettingsQuicksaveOnIncidentLabelSuffix>
+  <ARS_SettingsBindingNo>Быстрое сохранение: выключено</ARS_SettingsBindingNo>
+  <ARS_SettingsDisableQuicksavesNotifs>Выключить уведомления о быстрых сохранениях</ARS_SettingsDisableQuicksavesNotifs>
+  <ARS_SettingsQuicksaveRotation>Циклическая перезапись быстрых сохранений</ARS_SettingsQuicksaveRotation>
+  <ARS_SettingsSecsMinBetweenIncidents>Минимальный интервал между сохранениями по событиям: {0} с реального времени</ARS_SettingsSecsMinBetweenIncidents>
+  <ARS_SettingsLiteMode>Упрощённый интерфейс</ARS_SettingsLiteMode>
+  <ARS_SettingsMaxSaveCharLength>Максимальная длина имени сохранения: {0}</ARS_SettingsMaxSaveCharLength>
+  <ARS_SettingsNbBadEventAutosaves>Лимит сохранений при плохих событиях: {0}</ARS_SettingsNbBadEventAutosaves>
+  <ARS_SettingsNbGoodEventAutosaves>Лимит сохранений при хороших событиях: {0}</ARS_SettingsNbGoodEventAutosaves>
+  <ARS_SettingsAutosavesIllimited>без ограничений</ARS_SettingsAutosavesIllimited>
+  <ARS_ConfirmRemoveFolderTitle>Удалить папку</ARS_ConfirmRemoveFolderTitle>
+  <ARS_ConfirmRemoveFolderDesc>Удалить эту папку? Все сохранения в ней тоже будут удалены!</ARS_ConfirmRemoveFolderDesc>
+  <ARS_ConfirmRemoveSelectedFilesTitle>Удалить выбранные сохранения</ARS_ConfirmRemoveSelectedFilesTitle>
+  <ARS_ConfirmRemoveSelectedFilesDesc>Удалить выбранные сохранения? Количество: {0}.</ARS_ConfirmRemoveSelectedFilesDesc>
+  <ARS_FolderAlreadyExist>Папка с таким именем уже существует.</ARS_FolderAlreadyExist>
+  <ARS_ToolTipMoveSave>Переместить это сохранение в другую папку</ARS_ToolTipMoveSave>
+  <ARS_ToolTipAddFolder>Создать папку</ARS_ToolTipAddFolder>
+  <ARS_ToolTipDelFolder>Удалить текущую папку вместе со всеми сохранениями в ней</ARS_ToolTipDelFolder>
+  <ARS_WarningFileMoveAlreadyExist>В выбранной папке уже есть сохранение «{0}». Перемещённое сохранение переименовано в «{1}».</ARS_WarningFileMoveAlreadyExist>
+  <ARS_SaveAlreadyExist>Файл с таким именем уже существует.</ARS_SaveAlreadyExist>
+  <ARS_OP_RENAME>Переименовать</ARS_OP_RENAME>
+  <ARS_OP_DUPLICATE>Создать копию</ARS_OP_DUPLICATE>
+  <ARS_nbSaves>(сохранений: {0})</ARS_nbSaves>
+  <ARS_SettingsNbAutosave>Количество автосохранений: {0}</ARS_SettingsNbAutosave>
+  <ARS_NoSQToLoad>Нет быстрого сохранения для загрузки.</ARS_NoSQToLoad>
+  <ARS_OpenSaveFolder>Открыть папку с файлами сохранений</ARS_OpenSaveFolder>
+  <ARS_SettingsNbQuicksaves>Максимум быстрых сохранений: {0}</ARS_SettingsNbQuicksaves>
+  <ARS_MassMoveSelectedSaves>Переместить выбранные сохранения в другую папку</ARS_MassMoveSelectedSaves>
+  <ARS_SelectUnSelectSave>Выбрать сохранение или снять выбор</ARS_SelectUnSelectSave>
+  <ARS_ToolTipDelSelSaves>Удалить выбранные сохранения</ARS_ToolTipDelSelSaves>
+  <ARS_ToolTipEditFolderName>Переименовать папку</ARS_ToolTipEditFolderName>
+  <ARS_ToolTipOrderSaves>Изменить порядок сохранений: по дате или имени, по возрастанию или убыванию</ARS_ToolTipOrderSaves>
+  <ARS_SavePreviewSize>Размер файла: {0}</ARS_SavePreviewSize>
+  <ARS_SavePreviewScenario>Сценарий: {0}</ARS_SavePreviewScenario>
+  <ARS_SavePreviewStoryteller>Рассказчик: {0}</ARS_SavePreviewStoryteller>
+  <ARS_SavePreviewStorytellerDifficulty>Сложность: {0}</ARS_SavePreviewStorytellerDifficulty>
+  <ARS_SavePreviewLastIncident>Последние события:</ARS_SavePreviewLastIncident>
+  <ARS_SavePreviewNbMods>Модов: {0}</ARS_SavePreviewNbMods>
+  <ARS_SavePreviewNbColony>Колоний: {0}</ARS_SavePreviewNbColony>
+  <ARS_SavePreviewNbColonist>Поселенцев: {0}</ARS_SavePreviewNbColonist>
+  <ARS_SavePreviewTime>Дата в игре: {0}</ARS_SavePreviewTime>
+  <ARS_SavePreviewPlayTime>Время игры: {0}</ARS_SavePreviewPlayTime>
+  <ARS_SavePreviewMissing>Данных пока нет. Загрузите это сохранение хотя бы один раз, чтобы появились сведения для предпросмотра.</ARS_SavePreviewMissing>
+  <ARS_SavePreviewSeed>Зерно мира: {0}</ARS_SavePreviewSeed>
+  <ARS_SavePreviewFaction>Фракция: {0}</ARS_SavePreviewFaction>
+  <ARS_SaveOrderByDateASC>По дате: сначала старые</ARS_SaveOrderByDateASC>
+  <ARS_SaveOrderByDateDESC>По дате: сначала новые</ARS_SaveOrderByDateDESC>
+  <ARS_SaveOrderByNameASC>По имени: от А до Я</ARS_SaveOrderByNameASC>
+  <ARS_SaveOrderByNameDESC>По имени: от Я до А</ARS_SaveOrderByNameDESC>
+  <ARS_SaveOrderBySizeASC>По размеру: сначала маленькие</ARS_SaveOrderBySizeASC>
+  <ARS_SaveOrderBySizeDESC>По размеру: сначала большие</ARS_SaveOrderBySizeDESC>
+  <ARS_ToolTipSelAllSaves>Выбрать все сохранения</ARS_ToolTipSelAllSaves>
+  <ARS_ToolTipUnSelAllSaves>Снять выбор со всех сохранений</ARS_ToolTipUnSelAllSaves>
+  <ARS_StatusTextP1>Сохранений: {0}</ARS_StatusTextP1>
+  <ARS_StatusTextP2>Выбрано: {0} {1}</ARS_StatusTextP2>
+</LanguageData>
