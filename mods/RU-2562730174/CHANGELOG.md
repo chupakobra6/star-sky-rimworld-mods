@@ -1,4 +1,10 @@
-# Changelog
+# История изменений
+
+## 1.0.2
+
+- Руководство, история изменений и пояснения к источникам и лицензиям переведены на русский.
+- Оригинальные тексты лицензий и обязательное уведомление Ludeon сохранены без изменений.
+- Игровые тексты, код и поведение мода не изменены.
 
 ## 1.0.1
 
@@ -7,8 +13,8 @@
 
 ## 1.0.0
 
-Initial Russian localization for Visible Raid Points on RimWorld 1.6.
+Первый выпуск русского перевода Visible Raid Points для RimWorld 1.6.
 
-- Threat-point labels in letters and the detailed points breakdown.
-- Event names and explanations of multipliers, limits and intermediate totals.
-- Display settings and event selection.
+- Очки угрозы в письмах и подробный расчёт их значения.
+- Названия событий и пояснения к множителям, пределам и промежуточным итогам.
+- Настройки отображения и выбора событий.

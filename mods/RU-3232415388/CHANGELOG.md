@@ -1,4 +1,10 @@
-# Changelog
+# История изменений
+
+## 1.0.2
+
+- Руководство, история изменений и пояснения к источникам и лицензиям переведены на русский.
+- Оригинальные тексты лицензий и обязательное уведомление Ludeon сохранены без изменений.
+- Игровые тексты, код и поведение мода не изменены.
 
 ## 1.0.1
 
@@ -7,8 +13,8 @@
 
 ## 1.0.0
 
-Initial Russian localization for SimpleCameraSetting on RimWorld 1.6.
+Первый выпуск русского перевода SimpleCameraSetting для RimWorld 1.6.
 
-- Zoom limits and camera movement and zoom speed settings.
-- Pawn following, smoothing and follow-status messages.
-- Silhouette, selection-bracket and overlay settings, plus mouse-button and scroll labels.
+- Пределы масштаба, скорость перемещения и приближения камеры.
+- Слежение за пешкой, плавность движения и сообщения о слежении.
+- Настройки силуэтов, рамки выбора и информационных элементов; названия кнопок мыши и прокрутки.

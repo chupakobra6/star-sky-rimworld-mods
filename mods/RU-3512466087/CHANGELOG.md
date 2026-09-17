@@ -1,4 +1,10 @@
-# Changelog
+# История изменений
+
+## 1.0.2
+
+- Руководство, история изменений и пояснения к источникам и лицензиям переведены на русский.
+- Оригинальные тексты лицензий и обязательное уведомление Ludeon сохранены без изменений.
+- Игровые тексты, код и поведение мода не изменены.
 
 ## 1.0.1
 
@@ -7,8 +13,8 @@
 
 ## 1.0.0
 
-Initial Russian localization for QualityBuilder Unofficial 1.6 on RimWorld 1.6.
+Первый выпуск русского перевода QualityBuilder Unofficial 1.6 для RimWorld 1.6.
 
-- Minimum-quality commands and quality-control toggles.
-- Builder skill, per-map settings and mechanoid participation.
-- Rebuild limits and the notification shown when the quality target is not reached.
+- Команды выбора минимального качества и включения контроля качества.
+- Настройки навыка строителей, отдельных карт и участия механоидов.
+- Лимит перестроек и сообщение о прекращении попыток получить нужное качество.

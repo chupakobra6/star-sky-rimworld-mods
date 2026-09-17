@@ -1,4 +1,10 @@
-# Changelog
+# История изменений
+
+## 1.0.2
+
+- Руководство, история изменений и пояснения к источникам и лицензиям переведены на русский.
+- Оригинальные тексты лицензий и обязательное уведомление Ludeon сохранены без изменений.
+- Игровые тексты, код и поведение мода не изменены.
 
 ## 1.0.1
 
@@ -7,7 +13,7 @@
 
 ## 1.0.0
 
-Initial Russian localization for Goodwill Preview on RimWorld 1.6.
+Первый выпуск русского перевода Goodwill Preview для RimWorld 1.6.
 
-- The gift goodwill tooltip.
-- Current and projected faction goodwill, its change and the distance to a settlement in world tiles.
+- Подсказка об изменении отношений за подарок.
+- Текущее и ожидаемое отношение фракции, величина изменения и расстояние до поселения в клетках мировой карты.

@@ -1,9 +1,15 @@
-# Third-party notices
+# Источники и уведомления
 
-Russian localization of [RimSaves](https://steamcommunity.com/sharedfiles/filedetails/?id=1713367505). Original mod authors: aRandomKiwi.
+Русский перевод [RimSaves](https://steamcommunity.com/sharedfiles/filedetails/?id=1713367505). Авторы оригинального мода: aRandomKiwi.
 
-Upstream source: [aRandomKiwi/RimSaves](https://github.com/aRandomKiwi/RimSaves). Upstream license: GNU GPL version 3; retain the accompanying license text. Earlier Russian localization credits: dodther and Sensitivesouris.
+Исходный проект: [aRandomKiwi/RimSaves](https://github.com/aRandomKiwi/RimSaves). Лицензия исходного проекта — GNU GPL версии 3; её полный текст включён в пакет и должен сохраняться при распространении. Авторы прежней русской локализации: dodther и Sensitivesouris.
 
-Russian localization and interface text adaptations by chupakobra6 | Star Sky Mods: GPL-3.0. The 66 translated keyed entries adapt RimSaves interface text distributed under GPL-3.0. This package therefore retains GPL-3.0 rather than claiming CC BY-SA 4.0 for those adaptations. This translation is distributed separately and requires the original mod.
+Русский перевод и адаптация интерфейсных текстов: chupakobra6 | Star Sky Mods, GPL-3.0. Все 66 переведённых записей Keyed адаптируют интерфейсные тексты RimSaves под GPL-3.0. Поэтому пакет сохраняет GPL-3.0; CC BY-SA 4.0 к этим адаптациям не применяется.
+
+Перевод распространяется отдельно и требует оригинальный мод.
+
+## Уведомление Ludeon
+
+Материалы RimWorld принадлежат Ludeon Studios; этот перевод не является официальной работой студии и не одобрен ею. Обязательное уведомление приведено без изменений:
 
 Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.

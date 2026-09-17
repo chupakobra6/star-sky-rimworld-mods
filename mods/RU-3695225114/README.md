@@ -1,28 +1,32 @@
-# Goodwill Preview — Russian translation [Star Sky Mods]
+# Goodwill Preview — русский перевод [Star Sky Mods]
 
-Russian localization for [Goodwill Preview](https://steamcommunity.com/sharedfiles/filedetails/?id=3695225114), targeting RimWorld 1.6. Install the original mod separately.
+Русский перевод [Goodwill Preview](https://steamcommunity.com/sharedfiles/filedetails/?id=3695225114) для RimWorld 1.6. Оригинальный мод устанавливается отдельно.
 
-## Coverage
+## Что переведено
 
-- The gift goodwill tooltip.
-- Current and projected faction goodwill, its change and the distance to a settlement in world tiles.
+- Подсказка об изменении отношений за подарок.
+- Текущее и ожидаемое отношение фракции, величина изменения и расстояние до поселения в клетках мировой карты.
 
-## Installation
+## Установка
 
-1. Install [Harmony](https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077) and [Goodwill Preview](https://steamcommunity.com/sharedfiles/filedetails/?id=3695225114).
-2. Enable this translation after the original mod; Harmony must load before both.
-3. Select Russian in RimWorld’s language settings.
+1. Установите [Harmony](https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077) и [Goodwill Preview](https://steamcommunity.com/sharedfiles/filedetails/?id=3695225114).
+2. Включите перевод после оригинального мода; Harmony должен загружаться раньше обоих.
+3. Выберите русский язык в настройках RimWorld.
 
-Use one Russian translation of this mod to avoid competing text overrides.
+Оставьте включённым один русский перевод этого мода, чтобы тексты не перекрывали друг друга.
 
-## Feedback
+## Обратная связь
 
-For translation issues, include a screenshot, mod versions and steps to reach the affected screen. Include the game log for loading errors.
+При неточности перевода приложите скриншот, версии модов и шаги, которые привели к этому экрану. При ошибке загрузки добавьте журнал игры.
 
-Original mod authors: bluebird.
-
-Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.
+Авторы оригинального мода: bluebird.
 
 ## Лицензии
 
 Собственные русские тексты перевода — [CC BY-SA 4.0](LICENSE), автор: chupakobra6 | Star Sky Mods. Условия исходных материалов и ранее выданные разрешения сохранены; подробности — в [NOTICES.md](NOTICES.md).
+
+## Уведомление Ludeon
+
+Материалы RimWorld принадлежат Ludeon Studios; этот перевод не является официальной работой студии и не одобрен ею. Обязательное уведомление приведено без изменений:
+
+Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.
