@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "repository": "chupakobra6/star-sky-rimworld-mods",
+  "mods": [
+    {
+      "path": "mods/IsekaiBalancedStatsQuickQuests",
+      "workshopId": "3789339468",
+      "assembly": "IsekaiBalancedStatsQuickQuests.dll"
+    },
+    {
+      "path": "mods/IsekaiQuickQuests",
+      "workshopId": "3802965084",
+      "assembly": "IsekaiQuickQuests.dll"
+    },
+    {
+      "path": "mods/IsekaiNoAutoCameraJump",
+      "workshopId": "3789336886",
+      "assembly": "IsekaiNoAutoCameraJump.dll"
+    }
+  ],
+  "files": [
+    {
+      "path": "ARTWORK.md",
+      "bytes": 1813,
+      "sha256": "d50165a7fa8136f1d965301c1bd2abe5871da40cf7872abaa8ca9ced274ad827"
+    },
+    {
+      "path": "mods/IsekaiBalancedStatsQuickQuests/1.6/Assemblies/IsekaiBalancedStatsQuickQuests.dll",
+      "bytes": 25088,
+      "sha256": "4533342cc76b1924a285aeb56cd3c3aa68f8d17ab1c42ed8f9fb76e1a88c5140"
+    },
+    {
+      "path": "mods/IsekaiBalancedStatsQuickQuests/About/About.xml",
+      "bytes": 3181,
+      "sha256": "c67675abba5bcb44b74ab8014c9822a189241226ff4a7734d423432cefbdf625"
+    },
+    {
+      "path": "mods/IsekaiBalancedStatsQuickQuests/About/Preview.png",
+      "bytes": 312009,
+      "sha256": "c2125ca5f51cf259280ec3db01490c04439661be16afd97c3a766bf7472d43c6"
+    },
+    {
+      "path": "mods/IsekaiBalancedStatsQuickQuests/About/PublishedFileId.txt",
+      "bytes": 11,
+      "sha256": "c81da4f8ee4411d68ef68ccf75bbdd025217bf73cf71f7fb1a13f9d3c4ad5959"
+    },
+    {
+      "path": "mods/IsekaiBalancedStatsQuickQuests/CHANGELOG.md",
+      "bytes": 2258,
+      "sha256": "dfbd2a895a2ec6fb20d3fde372bc8f2ed8d5ae47a1afb80d29a3be3084158aab"
+    },
+    {
+      "path": "mods/IsekaiBalancedStatsQuickQuests/Languages/English/Keyed/IsekaiFixes.xml",
+      "bytes": 5301,
+      "sha256": "c7ebbad8dff695d111af899ba3f48f08115c189ae553d32f95702ac74e567977"
+    },
+    {
+      "path": "mods/IsekaiBalancedStatsQuickQuests/Languages/Russian/Keyed/IsekaiFixes.xml",
+      "bytes": 7504,
+      "sha256": "356f650639fb7c841b9936ca0d9328680ee74001ca4cca735bf4de8ed631bef2"
+    },
+    {
+      "path": "mods/IsekaiBalancedStatsQuickQuests/LICENSE",
+      "bytes": 1068,
+      "sha256": "8a32425e028111706b44ae429746c725582435de638e3306dd98a4fa8861bff8"
+    },
+    {
+      "path": "mods/IsekaiBalancedStatsQuickQuests/README.md",
+      "bytes": 3481,
+      "sha256": "0a52c643d4ea3f8e161962b744708fd0be60433baf4e522798b367c98191db6a"
+    },
+    {
+      "path": "mods/IsekaiBalancedStatsQuickQuests/Source/IsekaiBalancedStatsQuickQuests/AutoStatDistributionPatch.cs",
+      "bytes": 3908,
+      "sha256": "13da3b2ee00206f843bab4380930efec3bf7661e2249507f71d65dd160632fb6"
+    },
+    {
+      "path": "mods/IsekaiBalancedStatsQuickQuests/Source/IsekaiBalancedStatsQuickQuests/AutoStatModeGameComponent.cs",
+      "bytes": 8923,
+      "sha256": "b71b9e5462dd24d1e71b4e74f0151eca294d6fef43d74f3833422d9aad8b1e6b"
+    },
+    {
+      "path": "mods/IsekaiBalancedStatsQuickQuests/Source/IsekaiBalancedStatsQuickQuests/AutoStatModeInterfacePatch.cs",
+      "bytes": 6564,
+      "sha256": "aa84f7a0a2a16712dbcb22968f2923a37bd4eeeba59c60cce4a3d523ecea8310"
+    },
+    {
+      "path": "mods/IsekaiBalancedStatsQuickQuests/Source/IsekaiBalancedStatsQuickQuests/Bootstrap.cs",
+      "bytes": 667,
+      "sha256": "194fdb9baf7224c8b4f73e61b6d1cee6d7d7a2794ac9a77fcd1f316c3bb56d45"
+    },
+    {
+      "path": "mods/IsekaiBalancedStatsQuickQuests/Source/IsekaiBalancedStatsQuickQuests/IsekaiBalancedStatsQuickQuests.csproj",
+      "bytes": 2064,
+      "sha256": "99e733fb81f38dd24f19ab057073fe70f622ab0de7d2422e18cd5f98cf6155ff"
+    },
+    {
+      "path": "mods/IsekaiBalancedStatsQuickQuests/Source/IsekaiBalancedStatsQuickQuests/IsekaiControlStyle.cs",
+      "bytes": 3305,
+      "sha256": "2dd680c8547a1f30f41f1fa700c1d9d6de820b70632a38de69eccf0dbb734bb2"
+    },
+    {
+      "path": "mods/IsekaiBalancedStatsQuickQuests/Source/IsekaiBalancedStatsQuickQuests/IsekaiFixesModSettings.cs",
+      "bytes": 6896,
+      "sha256": "ac7f64817b3b636d0bdc04b57353ee0ba0c414508d34c89b0a1037f800969bcc"
+    },
+    {
+      "path": "mods/IsekaiBalancedStatsQuickQuests/Source/IsekaiBalancedStatsQuickQuests/PetAutoStatDistributionPatch.cs",
+      "bytes": 2865,
+      "sha256": "7b4b2da41460b0658111cdaac2e429fa3dc5ad6c3c24cdb1b7ac4f27a78c00aa"
+    },
+    {
+      "path": "mods/IsekaiBalancedStatsQuickQuests/Source/IsekaiBalancedStatsQuickQuests/PetAutoStatInterfacePatch.cs",
+      "bytes": 7699,
+      "sha256": "ce8aad175c111813bef794f6cd742eb89eb6cfeabbae57f673fcb3381b2f04cf"
+    },
+    {
+      "path": "mods/IsekaiBalancedStatsQuickQuests/Source/IsekaiBalancedStatsQuickQuests/StatDistributionMath.cs",
+      "bytes": 1725,
+      "sha256": "269dfda912abfd063e27bb6789a2ee87148883064686d0403a62cc627416753c"
+    },
+    {
+      "path": "mods/IsekaiNoAutoCameraJump/1.6/Assemblies/IsekaiNoAutoCameraJump.dll",
+      "bytes": 9216,
+      "sha256": "63155e0825e58ccb02ab05ff3738d03953366d117e91f8680b451fed5b1ad9da"
+    },
+    {
+      "path": "mods/IsekaiNoAutoCameraJump/About/About.xml",
+      "bytes": 2689,
+      "sha256": "a2f2b782a9f918f32bf9f6cb1093cf8ea3051907076ae98b0d139b0c035b3b6e"
+    },
+    {
+      "path": "mods/IsekaiNoAutoCameraJump/About/Preview.png",
+      "bytes": 310352,
+      "sha256": "0292ef55a9b6d57351e1132b8e1651d0c63f8b01e5a25f15d4426a6ff1a3ef8d"
+    },
+    {
+      "path": "mods/IsekaiNoAutoCameraJump/About/PublishedFileId.txt",
+      "bytes": 11,
+      "sha256": "bc7a6c5634f7adee8f14fd7b8fbe742dff4627d95d6d06d8b1b48786a6dc7d03"
+    },
+    {
+      "path": "mods/IsekaiNoAutoCameraJump/CHANGELOG.md",
+      "bytes": 1375,
+      "sha256": "d11961bff71e9f4d390ca5e84f4b67c2b6c339ce338bfb88356d060b4f856cf1"
+    },
+    {
+      "path": "mods/IsekaiNoAutoCameraJump/Languages/English/Keyed/IsekaiNoCameraJump.xml",
+      "bytes": 1071,
+      "sha256": "67e5fcd63bfd4a867ea47e922cd063cb4ba1b34039797dfc241ef7a1ec77e733"
+    },
+    {
+      "path": "mods/IsekaiNoAutoCameraJump/Languages/Russian/Keyed/IsekaiNoCameraJump.xml",
+      "bytes": 1456,
+      "sha256": "75ee37aff162ba563e69963f1ea2081215f59fd8c01eafd0ac9408d4d63bda05"
+    },
+    {
+      "path": "mods/IsekaiNoAutoCameraJump/LICENSE",
+      "bytes": 1068,
+      "sha256": "8a32425e028111706b44ae429746c725582435de638e3306dd98a4fa8861bff8"
+    },
+    {
+      "path": "mods/IsekaiNoAutoCameraJump/README.md",
+      "bytes": 2914,
+      "sha256": "16e2d90f128aa2bec2c4d0748248eade75820e2f664d0b2abf152b2486fcb15f"
+    },
+    {
+      "path": "mods/IsekaiNoAutoCameraJump/Source/IsekaiNoAutoCameraJump/CameraJumpModSettings.cs",
+      "bytes": 2190,
+      "sha256": "e636d72b4ae6f2172204d40a6489d9b8a5cc9c4aaa2017a563931c117dd3ee22"
+    },
+    {
+      "path": "mods/IsekaiNoAutoCameraJump/Source/IsekaiNoAutoCameraJump/CameraJumpPatch.cs",
+      "bytes": 4430,
+      "sha256": "824d6bf537e7de0ba8740d0d8a0cc8fa7c062aa6614bf5a6e825c2118e7e2924"
+    },
+    {
+      "path": "mods/IsekaiNoAutoCameraJump/Source/IsekaiNoAutoCameraJump/IsekaiNoAutoCameraJump.csproj",
+      "bytes": 1417,
+      "sha256": "2904d918fd86dc711d4ff20c25543f2ba96695cca2fc7826a460b454421968db"
+    },
+    {
+      "path": "mods/IsekaiQuickQuests/1.6/Assemblies/IsekaiQuickQuests.dll",
+      "bytes": 10240,
+      "sha256": "1ab64e69f15bec86afbc429ed5dc4dea99aac31de11ca20f67eedf13e3da12fa"
+    },
+    {
+      "path": "mods/IsekaiQuickQuests/About/About.xml",
+      "bytes": 2090,
+      "sha256": "4eccb204a545487b940b319d4b498116fcafb37381cfa8ebe52a721dd51e6610"
+    },
+    {
+      "path": "mods/IsekaiQuickQuests/About/Preview.png",
+      "bytes": 313273,
+      "sha256": "9787d6d0671778576cfa97b3111c0c64a3cc2076fbdc6d623501c29bfd2b1bed"
+    },
+    {
+      "path": "mods/IsekaiQuickQuests/About/PublishedFileId.txt",
+      "bytes": 11,
+      "sha256": "78a3ed6ffec9e6c2a8c20a9e73079ba394cb40229047acfa2715b37c041842b1"
+    },
+    {
+      "path": "mods/IsekaiQuickQuests/CHANGELOG.md",
+      "bytes": 668,
+      "sha256": "45d5df47a9eeb325efe6e788385f1513fe9f1845ccf8fdb46274d620a01bbdd5"
+    },
+    {
+      "path": "mods/IsekaiQuickQuests/Languages/English/Keyed/IsekaiQuickQuests.xml",
+      "bytes": 727,
+      "sha256": "5c5f1502354886f1e204c61746485a362fdbbf2e4242931eb156f36adfa9005c"
+    },
+    {
+      "path": "mods/IsekaiQuickQuests/Languages/Russian/Keyed/IsekaiQuickQuests.xml",
+      "bytes": 994,
+      "sha256": "6f830e02f79ca95fb14aa324fa1412c846619d5df07aa093ed746ebfa18fb085"
+    },
+    {
+      "path": "mods/IsekaiQuickQuests/LICENSE",
+      "bytes": 1068,
+      "sha256": "8a32425e028111706b44ae429746c725582435de638e3306dd98a4fa8861bff8"
+    },
+    {
+      "path": "mods/IsekaiQuickQuests/README.md",
+      "bytes": 1599,
+      "sha256": "cc6decbd652f1a687491de2d99dad5bba3a3e72e20dc789c4bee626b46698681"
+    },
+    {
+      "path": "mods/IsekaiQuickQuests/Source/IsekaiQuickQuests/Bootstrap.cs",
+      "bytes": 632,
+      "sha256": "a5bf9f757d034903a4b08655632854cf5fd752e094df898e8ec02bd2ff3159c3"
+    },
+    {
+      "path": "mods/IsekaiQuickQuests/Source/IsekaiQuickQuests/IsekaiQuickQuests.csproj",
+      "bytes": 1738,
+      "sha256": "526165db52aa0459dfea875f95faf40b649f14ce0fd8fcbe1cd7648552fe1e1f"
+    },
+    {
+      "path": "mods/IsekaiQuickQuests/Source/IsekaiQuickQuests/QuickAcceptDecision.cs",
+      "bytes": 956,
+      "sha256": "5a2ca23d62fc11a99e570e5c98db59477dd47db5063ee6c1fb9418168465fa80"
+    },
+    {
+      "path": "mods/IsekaiQuickQuests/Source/IsekaiQuickQuests/QuickQuestLetterPatch.cs",
+      "bytes": 4993,
+      "sha256": "9acb5d4d843949b0cf4364e84567bddfb1fdcbdbc967f98e651c5cdc34e2b2a8"
+    },
+    {
+      "path": "mods/IsekaiQuickQuests/Source/IsekaiQuickQuests/QuickQuestsMod.cs",
+      "bytes": 1566,
+      "sha256": "832e330c3bf8dc448e0ae50f4beed24d731635e1e377faa9e9340f5e87ba3691"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4081,
+      "sha256": "06da444818c79105799f3e3059458271c312e2245a8a620de05dcdccc1d52ec4"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <IsekaiNoCameraJump_SettingsIntro>Choose which ISEKAI hunt events should keep their letters and targets without forcing the camera to jump. Changes apply immediately.</IsekaiNoCameraJump_SettingsIntro>
+  <IsekaiNoCameraJump_SuppressIsekaiHunts>Block camera jumps for regular ISEKAI hunts</IsekaiNoCameraJump_SuppressIsekaiHunts>
+  <IsekaiNoCameraJump_SuppressIsekaiHuntsDesc>Affects local hunt targets created by ISEKAI RPG LEVELING. Disable this to restore the original forced camera jump for these hunts.</IsekaiNoCameraJump_SuppressIsekaiHuntsDesc>
+  <IsekaiNoCameraJump_SuppressCreatureHunts>Block camera jumps for creature-pack hunts</IsekaiNoCameraJump_SuppressCreatureHunts>
+  <IsekaiNoCameraJump_SuppressCreatureHuntsDesc>Affects local hunt packs created by ISEKAI CREATURES ADD-ON. This option has no effect when that add-on is not installed.</IsekaiNoCameraJump_SuppressCreatureHuntsDesc>
+  <IsekaiNoCameraJump_ResetDefaults>Restore recommended defaults</IsekaiNoCameraJump_ResetDefaults>
+</LanguageData>

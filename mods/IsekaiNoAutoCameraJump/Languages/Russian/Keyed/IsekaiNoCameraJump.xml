@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <IsekaiNoCameraJump_SettingsIntro>Выберите, какие охоты ISEKAI должны сохранять письма и цели, но не переносить камеру принудительно. Изменения применяются сразу.</IsekaiNoCameraJump_SettingsIntro>
+  <IsekaiNoCameraJump_SuppressIsekaiHunts>Блокировать переход камеры в обычных охотах ISEKAI</IsekaiNoCameraJump_SuppressIsekaiHunts>
+  <IsekaiNoCameraJump_SuppressIsekaiHuntsDesc>Действует на локальные цели охоты из ISEKAI RPG LEVELING. Снимите галку, чтобы вернуть для этих охот исходный принудительный переход камеры.</IsekaiNoCameraJump_SuppressIsekaiHuntsDesc>
+  <IsekaiNoCameraJump_SuppressCreatureHunts>Блокировать переход камеры в охотах на стаи</IsekaiNoCameraJump_SuppressCreatureHunts>
+  <IsekaiNoCameraJump_SuppressCreatureHuntsDesc>Действует на локальные стаи из ISEKAI CREATURES ADD-ON. Если аддон не установлен, настройка ни на что не влияет.</IsekaiNoCameraJump_SuppressCreatureHuntsDesc>
+  <IsekaiNoCameraJump_ResetDefaults>Вернуть рекомендуемые настройки</IsekaiNoCameraJump_ResetDefaults>
+</LanguageData>

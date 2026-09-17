@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <IsekaiFixes_AutoToggleShort>Автораспределение</IsekaiFixes_AutoToggleShort>
+  <IsekaiFixes_AutoModeButton>Режим: {0}</IsekaiFixes_AutoModeButton>
+  <IsekaiFixes_AutoModeButtonDesc>Выберите, как автоматически распределять очки характеристик этой пешки. Кнопка работает независимо от состояния галки автораспределения.</IsekaiFixes_AutoModeButtonDesc>
+  <IsekaiFixes_AutoModeBalanced>Равномерно</IsekaiFixes_AutoModeBalanced>
+  <IsekaiFixes_AutoModeBalancedShort>Равномерно</IsekaiFixes_AutoModeBalancedShort>
+  <IsekaiFixes_AutoModeBalancedDesc>Новые автоматические очки поровну добавляются в СИЛ, ЛОВ, ВЫН, ИНТ, МДР и ХАР. Режим не пытается уравнять итоговые характеристики.</IsekaiFixes_AutoModeBalancedDesc>
+  <IsekaiFixes_AutoModeClass>По классу</IsekaiFixes_AutoModeClass>
+  <IsekaiFixes_AutoModeClassShort>По классу</IsekaiFixes_AutoModeClassShort>
+  <IsekaiFixes_AutoModeClassDesc>Главная характеристика класса получает 3 доли, вторичная — 2, каждая из остальных — по 1 доле. У берсерка обе специализации совпадают и дают 4 доли силы.</IsekaiFixes_AutoModeClassDesc>
+  <IsekaiFixes_AutoModeClassUnavailable>По классу (сначала выберите класс)</IsekaiFixes_AutoModeClassUnavailable>
+  <IsekaiFixes_AutoModeRequiresClass>Классовое распределение становится доступно после назначения класса. До этого используйте равномерный режим.</IsekaiFixes_AutoModeRequiresClass>
+  <IsekaiFixes_AutoModeChanged>{0}: автораспределение характеристик — «{1}».</IsekaiFixes_AutoModeChanged>
+  <IsekaiFixes_PetAutoToggle>Автораспределение</IsekaiFixes_PetAutoToggle>
+  <IsekaiFixes_PetAutoToggleDesc>Автоматически тратить новые очки характеристик этого питомца. Для существ игрока включено по умолчанию.</IsekaiFixes_PetAutoToggleDesc>
+  <IsekaiFixes_PetAutoModeButton>Режим: {0}</IsekaiFixes_PetAutoModeButton>
+  <IsekaiFixes_PetAutoModeButtonDesc>Выберите, как питомец распределяет новые очки. Случайные врождённые характеристики его ранга не выравниваются.</IsekaiFixes_PetAutoModeButtonDesc>
+  <IsekaiFixes_PetAutoModePhysical>Боевой</IsekaiFixes_PetAutoModePhysical>
+  <IsekaiFixes_PetAutoModePhysicalShort>Боевой</IsekaiFixes_PetAutoModePhysicalShort>
+  <IsekaiFixes_PetAutoModePhysicalDesc>СИЛ, ЛОВ и ВЫН получают по 2 доли, ИНТ, МДР и ХАР — по 1. Это режим по умолчанию.</IsekaiFixes_PetAutoModePhysicalDesc>
+  <IsekaiFixes_PetAutoModeBalanced>Равномерно</IsekaiFixes_PetAutoModeBalanced>
+  <IsekaiFixes_PetAutoModeBalancedShort>Равномерно</IsekaiFixes_PetAutoModeBalancedShort>
+  <IsekaiFixes_PetAutoModeBalancedDesc>Новые очки поровну распределяются между всеми шестью характеристиками.</IsekaiFixes_PetAutoModeBalancedDesc>
+  <IsekaiFixes_PetAutoModeChanged>{0}: автораспределение характеристик питомца — «{1}».</IsekaiFixes_PetAutoModeChanged>
+  <IsekaiFixes_SettingsIntro>Изменения применяются сразу. Глобальные выключатели приостанавливают функции, но не удаляют сохранённый выбор отдельных пешек и питомцев.</IsekaiFixes_SettingsIntro>
+  <IsekaiFixes_SettingsPawnSection>Распределение характеристик пешек</IsekaiFixes_SettingsPawnSection>
+  <IsekaiFixes_SettingsEnablePawnAuto>Использовать улучшенное автораспределение</IsekaiFixes_SettingsEnablePawnAuto>
+  <IsekaiFixes_SettingsEnablePawnAutoDesc>Когда включено, дополнение заменяет алгоритм ISEKAI выбранным честным режимом. Когда выключено, работают исходный алгоритм и галка ISEKAI. Сохранённый выбор режимов не удаляется.</IsekaiFixes_SettingsEnablePawnAutoDesc>
+  <IsekaiFixes_SettingsPawnDefaultMode>Режим по умолчанию для ещё не настроенных пешек</IsekaiFixes_SettingsPawnDefaultMode>
+  <IsekaiFixes_SettingsPawnDefaultModeDesc>Используется только у пешек без сохранённого личного режима. При выборе «По классу» пешка остаётся в равномерном режиме, пока не получит класс.</IsekaiFixes_SettingsPawnDefaultModeDesc>
+  <IsekaiFixes_SettingsPetSection>Распределение характеристик питомцев ISEKAI</IsekaiFixes_SettingsPetSection>
+  <IsekaiFixes_SettingsEnablePetAuto>Включить автораспределение питомцев ISEKAI</IsekaiFixes_SettingsEnablePetAuto>
+  <IsekaiFixes_SettingsEnablePetAutoDesc>Главный выключатель автораздачи питомцев и её элементов управления. Выключение приостанавливает функцию, но сохраняет настройки и свободные очки питомцев.</IsekaiFixes_SettingsEnablePetAutoDesc>
+  <IsekaiFixes_SettingsPetEnabledDefault>Включать автораздачу новым и ещё не настроенным питомцам</IsekaiFixes_SettingsPetEnabledDefault>
+  <IsekaiFixes_SettingsPetEnabledDefaultDesc>Начальное состояние личной галки питомца. Уже настроенные питомцы с сохранённым выбором не изменяются.</IsekaiFixes_SettingsPetEnabledDefaultDesc>
+  <IsekaiFixes_SettingsPetDefaultMode>Режим по умолчанию для новых и ещё не настроенных питомцев</IsekaiFixes_SettingsPetDefaultMode>
+  <IsekaiFixes_SettingsPetDefaultModeDesc>Начальный личный режим питомца. Уже настроенные питомцы с сохранённым режимом не изменяются.</IsekaiFixes_SettingsPetDefaultModeDesc>
+  <IsekaiFixes_SettingsInterfaceSection>Интерфейс</IsekaiFixes_SettingsInterfaceSection>
+  <IsekaiFixes_SettingsShowModeMessages>Показывать сообщение после смены режима распределения</IsekaiFixes_SettingsShowModeMessages>
+  <IsekaiFixes_SettingsShowModeMessagesDesc>Управляет только подтверждением после ручной смены режима пешки или питомца.</IsekaiFixes_SettingsShowModeMessagesDesc>
+  <IsekaiFixes_SettingsResetDefaults>Вернуть рекомендуемые настройки</IsekaiFixes_SettingsResetDefaults>
+</LanguageData>

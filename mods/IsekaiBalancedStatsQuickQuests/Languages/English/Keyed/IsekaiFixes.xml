@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <IsekaiFixes_AutoToggleShort>Auto allocate</IsekaiFixes_AutoToggleShort>
+  <IsekaiFixes_AutoModeButton>Mode: {0}</IsekaiFixes_AutoModeButton>
+  <IsekaiFixes_AutoModeButtonDesc>Choose how this pawn automatically distributes stat points. The button works whether auto allocation is currently enabled or disabled.</IsekaiFixes_AutoModeButtonDesc>
+  <IsekaiFixes_AutoModeBalanced>Balanced</IsekaiFixes_AutoModeBalanced>
+  <IsekaiFixes_AutoModeBalancedShort>Balanced</IsekaiFixes_AutoModeBalancedShort>
+  <IsekaiFixes_AutoModeBalancedDesc>New automatic points are added evenly across STR, DEX, VIT, INT, WIS and CHA. Existing final stats are not equalized.</IsekaiFixes_AutoModeBalancedDesc>
+  <IsekaiFixes_AutoModeClass>Class weighted</IsekaiFixes_AutoModeClass>
+  <IsekaiFixes_AutoModeClassShort>By class</IsekaiFixes_AutoModeClassShort>
+  <IsekaiFixes_AutoModeClassDesc>Primary class stat receives 3 shares, secondary 2 shares and every other stat 1 share. Berserker combines both affinities into 4 Strength shares.</IsekaiFixes_AutoModeClassDesc>
+  <IsekaiFixes_AutoModeClassUnavailable>By class (choose a class first)</IsekaiFixes_AutoModeClassUnavailable>
+  <IsekaiFixes_AutoModeRequiresClass>Class-weighted allocation becomes available after a class is assigned. Use Balanced until then.</IsekaiFixes_AutoModeRequiresClass>
+  <IsekaiFixes_AutoModeChanged>{0}: automatic stat distribution is now {1}.</IsekaiFixes_AutoModeChanged>
+  <IsekaiFixes_PetAutoToggle>Auto allocate</IsekaiFixes_PetAutoToggle>
+  <IsekaiFixes_PetAutoToggleDesc>Automatically spend this creature's new stat points. Enabled by default for player creatures.</IsekaiFixes_PetAutoToggleDesc>
+  <IsekaiFixes_PetAutoModeButton>Mode: {0}</IsekaiFixes_PetAutoModeButton>
+  <IsekaiFixes_PetAutoModeButtonDesc>Choose how this creature distributes newly earned stat points. Its innate rank-generated stats are left intact.</IsekaiFixes_PetAutoModeButtonDesc>
+  <IsekaiFixes_PetAutoModePhysical>Combat</IsekaiFixes_PetAutoModePhysical>
+  <IsekaiFixes_PetAutoModePhysicalShort>Combat</IsekaiFixes_PetAutoModePhysicalShort>
+  <IsekaiFixes_PetAutoModePhysicalDesc>STR, DEX and VIT receive 2 shares each; INT, WIS and CHA receive 1 share each. This is the default.</IsekaiFixes_PetAutoModePhysicalDesc>
+  <IsekaiFixes_PetAutoModeBalanced>Balanced</IsekaiFixes_PetAutoModeBalanced>
+  <IsekaiFixes_PetAutoModeBalancedShort>Balanced</IsekaiFixes_PetAutoModeBalancedShort>
+  <IsekaiFixes_PetAutoModeBalancedDesc>New points are divided equally among all six stats.</IsekaiFixes_PetAutoModeBalancedDesc>
+  <IsekaiFixes_PetAutoModeChanged>{0}: creature automatic stat distribution is now {1}.</IsekaiFixes_PetAutoModeChanged>
+  <IsekaiFixes_SettingsIntro>These options apply immediately. Global switches pause features without deleting per-colonist or per-pet choices stored in the save.</IsekaiFixes_SettingsIntro>
+  <IsekaiFixes_SettingsPawnSection>Colonist stat allocation</IsekaiFixes_SettingsPawnSection>
+  <IsekaiFixes_SettingsEnablePawnAuto>Use improved automatic stat allocation</IsekaiFixes_SettingsEnablePawnAuto>
+  <IsekaiFixes_SettingsEnablePawnAutoDesc>When enabled, the add-on replaces ISEKAI's automatic allocation with the selected fair mode. When disabled, ISEKAI's original algorithm and checkbox remain active. Saved mode choices are preserved.</IsekaiFixes_SettingsEnablePawnAutoDesc>
+  <IsekaiFixes_SettingsPawnDefaultMode>Default mode for unconfigured colonists</IsekaiFixes_SettingsPawnDefaultMode>
+  <IsekaiFixes_SettingsPawnDefaultModeDesc>Used only when a colonist has no saved personal mode. Class-weighted defaults remain Balanced until that colonist receives a class.</IsekaiFixes_SettingsPawnDefaultModeDesc>
+  <IsekaiFixes_SettingsPetSection>ISEKAI pet stat allocation</IsekaiFixes_SettingsPetSection>
+  <IsekaiFixes_SettingsEnablePetAuto>Enable automatic stat allocation for ISEKAI pets</IsekaiFixes_SettingsEnablePetAuto>
+  <IsekaiFixes_SettingsEnablePetAutoDesc>Master switch for pet allocation and its controls. Turning it off pauses the feature without deleting saved pet settings or unspent points.</IsekaiFixes_SettingsEnablePetAutoDesc>
+  <IsekaiFixes_SettingsPetEnabledDefault>Enable auto allocation for new or unconfigured pets</IsekaiFixes_SettingsPetEnabledDefault>
+  <IsekaiFixes_SettingsPetEnabledDefaultDesc>Initial per-pet switch value. Existing pets that already have a saved choice are not changed.</IsekaiFixes_SettingsPetEnabledDefaultDesc>
+  <IsekaiFixes_SettingsPetDefaultMode>Default mode for new or unconfigured pets</IsekaiFixes_SettingsPetDefaultMode>
+  <IsekaiFixes_SettingsPetDefaultModeDesc>Initial per-pet mode. Existing pets that already have a saved mode are not changed.</IsekaiFixes_SettingsPetDefaultModeDesc>
+  <IsekaiFixes_SettingsInterfaceSection>Interface</IsekaiFixes_SettingsInterfaceSection>
+  <IsekaiFixes_SettingsShowModeMessages>Show a message when an allocation mode is changed</IsekaiFixes_SettingsShowModeMessages>
+  <IsekaiFixes_SettingsShowModeMessagesDesc>Controls only the confirmation message produced after manually changing a colonist or pet mode.</IsekaiFixes_SettingsShowModeMessagesDesc>
+  <IsekaiFixes_SettingsResetDefaults>Restore recommended defaults</IsekaiFixes_SettingsResetDefaults>
+</LanguageData>
