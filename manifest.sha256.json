@@ -21,23 +21,23 @@
   "files": [
     {
       "path": "ARTWORK.md",
-      "bytes": 1813,
-      "sha256": "d50165a7fa8136f1d965301c1bd2abe5871da40cf7872abaa8ca9ced274ad827"
+      "bytes": 1830,
+      "sha256": "66c6a7c5810e30b03fd70422ee05729859f1b21acefe4b3081d59a5d002f7d5e"
     },
     {
       "path": "mods/IsekaiBalancedStatsQuickQuests/1.6/Assemblies/IsekaiBalancedStatsQuickQuests.dll",
-      "bytes": 25088,
-      "sha256": "4533342cc76b1924a285aeb56cd3c3aa68f8d17ab1c42ed8f9fb76e1a88c5140"
+      "bytes": 34304,
+      "sha256": "f2328ab1f204e808a04da32a179aa92b8e9e89622ec07306bc5f140252cadca2"
     },
     {
       "path": "mods/IsekaiBalancedStatsQuickQuests/About/About.xml",
-      "bytes": 3181,
-      "sha256": "c67675abba5bcb44b74ab8014c9822a189241226ff4a7734d423432cefbdf625"
+      "bytes": 3762,
+      "sha256": "fc29c5759427e9d62fd1fc5db36b5483d34c20435b00859a14059a0a21630d80"
     },
     {
       "path": "mods/IsekaiBalancedStatsQuickQuests/About/Preview.png",
-      "bytes": 310458,
-      "sha256": "57ad370aab50c0de5d3893500598ffee519638337f786fc5aebf4cbcd8884801"
+      "bytes": 294792,
+      "sha256": "a663db39466440547be7c9efc6e9973786a69a69b7b444d3ff319c40330be43b"
     },
     {
       "path": "mods/IsekaiBalancedStatsQuickQuests/About/PublishedFileId.txt",
@@ -46,18 +46,18 @@
     },
     {
       "path": "mods/IsekaiBalancedStatsQuickQuests/CHANGELOG.md",
-      "bytes": 2344,
-      "sha256": "edab1ae1dfe22583ddfb11b0f2007d5067ea45a015409f750339cda3ea8f6952"
+      "bytes": 3566,
+      "sha256": "b5f7d22e436950815fe959fb8d00f7ba45e088dca14382b2d8432c7f02dd46f8"
     },
     {
       "path": "mods/IsekaiBalancedStatsQuickQuests/Languages/English/Keyed/IsekaiFixes.xml",
-      "bytes": 5301,
-      "sha256": "c7ebbad8dff695d111af899ba3f48f08115c189ae553d32f95702ac74e567977"
+      "bytes": 7492,
+      "sha256": "5e1bb754042d0ea3fb3e577208ada745f29d5d64d5fb1b48b46145165075ab63"
     },
     {
       "path": "mods/IsekaiBalancedStatsQuickQuests/Languages/Russian/Keyed/IsekaiFixes.xml",
-      "bytes": 7504,
-      "sha256": "356f650639fb7c841b9936ca0d9328680ee74001ca4cca735bf4de8ed631bef2"
+      "bytes": 10548,
+      "sha256": "01e474256b798fd56991f51f03b9e9fe5372e0b889ce87544b18d5e446329641"
     },
     {
       "path": "mods/IsekaiBalancedStatsQuickQuests/LICENSE",
@@ -66,8 +66,8 @@
     },
     {
       "path": "mods/IsekaiBalancedStatsQuickQuests/README.md",
-      "bytes": 3481,
-      "sha256": "0a52c643d4ea3f8e161962b744708fd0be60433baf4e522798b367c98191db6a"
+      "bytes": 5340,
+      "sha256": "ebce09bf75b5ff1f2bfffaf8ac1acc19a26df504eb908dc1572bd8753b19f06f"
     },
     {
       "path": "mods/IsekaiBalancedStatsQuickQuests/Source/IsekaiBalancedStatsQuickQuests/AutoStatDistributionPatch.cs",
@@ -90,6 +90,16 @@
       "sha256": "194fdb9baf7224c8b4f73e61b6d1cee6d7d7a2794ac9a77fcd1f316c3bb56d45"
     },
     {
+      "path": "mods/IsekaiBalancedStatsQuickQuests/Source/IsekaiBalancedStatsQuickQuests/EnemyStatDistribution.cs",
+      "bytes": 4342,
+      "sha256": "865b2c434c68ab7a2ea25d360d61c681387d965650500004ad435f6e6ccae335"
+    },
+    {
+      "path": "mods/IsekaiBalancedStatsQuickQuests/Source/IsekaiBalancedStatsQuickQuests/ForgeBalancePatches.cs",
+      "bytes": 3514,
+      "sha256": "f1aac8dbf6f3dd4944cb8b06b126cde113a48f940e5ee622e994e1bbd438f628"
+    },
+    {
       "path": "mods/IsekaiBalancedStatsQuickQuests/Source/IsekaiBalancedStatsQuickQuests/IsekaiBalancedStatsQuickQuests.csproj",
       "bytes": 2064,
       "sha256": "99e733fb81f38dd24f19ab057073fe70f622ab0de7d2422e18cd5f98cf6155ff"
@@ -101,8 +111,8 @@
     },
     {
       "path": "mods/IsekaiBalancedStatsQuickQuests/Source/IsekaiBalancedStatsQuickQuests/IsekaiFixesModSettings.cs",
-      "bytes": 6896,
-      "sha256": "ac7f64817b3b636d0bdc04b57353ee0ba0c414508d34c89b0a1037f800969bcc"
+      "bytes": 13320,
+      "sha256": "695d06748332a98f184f210bdb916a36b5c2d03445a4be2f5932e94b408f9d45"
     },
     {
       "path": "mods/IsekaiBalancedStatsQuickQuests/Source/IsekaiBalancedStatsQuickQuests/PetAutoStatDistributionPatch.cs",
@@ -251,8 +261,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4051,
-      "sha256": "778e1f486eedbd85196bf5fdb72ba7303081b8c268e15a50004ee260fc4e9197"
+      "bytes": 4078,
+      "sha256": "0ac11029de0fd7add47300422c9c697dac3cfa60d31e395ced27000f83c99466"
     }
   ]
 }

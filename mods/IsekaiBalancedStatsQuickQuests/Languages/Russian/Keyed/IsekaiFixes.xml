@@ -40,4 +40,23 @@
   <IsekaiFixes_SettingsShowModeMessages>Показывать сообщение после смены режима распределения</IsekaiFixes_SettingsShowModeMessages>
   <IsekaiFixes_SettingsShowModeMessagesDesc>Управляет только подтверждением после ручной смены режима пешки или питомца.</IsekaiFixes_SettingsShowModeMessagesDesc>
   <IsekaiFixes_SettingsResetDefaults>Вернуть рекомендуемые настройки</IsekaiFixes_SettingsResetDefaults>
+  <IsekaiFixes_EnemySection>Характеристики врагов</IsekaiFixes_EnemySection>
+  <IsekaiFixes_EnemyScope>Распределяет новые характеристики враждебных фракций. Существующие характеристики, уровни и ранги сохраняются. Для гуманоидов нужна ролевая генерация ISEKAI; существа меняются только при первой инициализации.</IsekaiFixes_EnemyScope>
+  <IsekaiFixes_EnemyHumans>Враждебные гуманоиды</IsekaiFixes_EnemyHumans>
+  <IsekaiFixes_EnemyCreatures>Враждебные существа</IsekaiFixes_EnemyCreatures>
+  <IsekaiFixes_EnemyModeOriginal>Исходный ISEKAI</IsekaiFixes_EnemyModeOriginal>
+  <IsekaiFixes_EnemyModeBalanced>Поровну</IsekaiFixes_EnemyModeBalanced>
+  <IsekaiFixes_EnemyModeCombatRole>Роль / бой</IsekaiFixes_EnemyModeCombatRole>
+  <IsekaiFixes_ForgeSection>Заточка снаряжения</IsekaiFixes_ForgeSection>
+  <IsekaiFixes_ForgeEnable>Включить баланс заточки</IsekaiFixes_ForgeEnable>
+  <IsekaiFixes_ForgeScope>Действует на старое и новое снаряжение, сохраняя уровни заточки и руны. Боевые бонусы: урон, скорость атак, точность и броня. Прочность, вес, руны и шанс успеха остаются по правилам ISEKAI.</IsekaiFixes_ForgeScope>
+  <IsekaiFixes_ForgeCombat>Сила боевых бонусов</IsekaiFixes_ForgeCombat>
+  <IsekaiFixes_ForgeMovement>Сила бонуса скорости</IsekaiFixes_ForgeMovement>
+  <IsekaiFixes_ForgeMovementCap>Предел суммарного бонуса скорости</IsekaiFixes_ForgeMovementCap>
+  <IsekaiFixes_ForgeCapHint>0% отключает предел. Он ограничивает только скорость от заточки одежды, сохраняя остальные источники скорости.</IsekaiFixes_ForgeCapHint>
+  <IsekaiFixes_ForgeCost>Материалы за попытку</IsekaiFixes_ForgeCost>
+  <IsekaiFixes_BalancePreset>Рекомендуемый баланс</IsekaiFixes_BalancePreset>
+  <IsekaiFixes_BalancePresetDesc>Враги по роли / бою · 50% боевых бонусов и скорости · до +20% скорости от всей заточки · материалы ×2. Выбор колонистов и питомцев сохраняется.</IsekaiFixes_BalancePresetDesc>
+  <IsekaiFixes_BalanceUpstream>Исходные правила врагов и заточки</IsekaiFixes_BalanceUpstream>
+  <IsekaiFixes_BalanceUpstreamDesc>Возвращает генерацию врагов, эффекты и стоимость заточки ISEKAI. Настройки распределения колонистов и питомцев сохраняются.</IsekaiFixes_BalanceUpstreamDesc>
 </LanguageData>

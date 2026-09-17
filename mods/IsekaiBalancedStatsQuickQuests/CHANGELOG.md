@@ -1,5 +1,19 @@
 # Changelog
 
+## 1.3.0 — Enemy builds and equipment balance — 2026-09-17
+
+### Added
+- **More rounded enemies.** Fresh hostile humanoid and creature stat rolls can use combat-role or balanced distribution, with separate controls for each. Their full point budget, rank and level stay intact; existing allocated stats are not rerolled.
+- **Adjustable refinement.** Recommended balance halves combat and movement bonuses, caps total apparel movement at +20%, and doubles upgrade materials. Tune each aspect or restore the original values without changing recorded upgrade levels.
+- **Expanded settings.** A scrollable English/Russian settings window includes units, explanations and buttons for recommended or original enemy/equipment balance.
+
+### Changes
+- **Balance starts enabled.** Missing new settings receive the recommended values. Existing colonist and pet settings, personal modes and allocation progress remain intact.
+- **Original equipment rules remain available.** Rune effects, durability, mass, success chances and failure outcomes are unchanged. Refinement strength applies to equipment already in a save as well as new upgrades.
+
+### Presentation
+- Refreshed the cover and section banners with clearer, heavier lettering.
+
 ## 1.2.0 — Balanced Stats, now on its own — 2026-09-17
 
 ### Changes
@@ -18,16 +32,12 @@
 - Expanded feature and installation details in English and Russian; added illustrated sections and links to mods, updates and support.
 - Unified the author credit as chupakobra6 | Star Sky Mods. This page update did not change the downloaded mod files.
 
-
-
 ## 1.1.1 — 2026-08-24
 
 - Moved the package ID and Harmony ID into the stable chupakobra6 namespace used at that release.
 - Updated load order for the camera add-on’s package ID.
 - Kept the existing Steam Workshop item, 3789339468.
 - Added an explicit mod version to About.xml.
-
-
 
 ## 1.1.0 — 2026-08-24
 
@@ -36,8 +46,6 @@
 - Added default allocation modes for colonists and pets without personal settings, plus the default automatic-allocation switch for pets.
 - Made mode-change confirmation messages optional.
 - Kept personal colonist and pet state when a global feature was disabled.
-
-
 
 ## 1.0.0 — 2026-08-24
 

@@ -40,4 +40,23 @@
   <IsekaiFixes_SettingsShowModeMessages>Show a message when an allocation mode is changed</IsekaiFixes_SettingsShowModeMessages>
   <IsekaiFixes_SettingsShowModeMessagesDesc>Controls only the confirmation message produced after manually changing a colonist or pet mode.</IsekaiFixes_SettingsShowModeMessagesDesc>
   <IsekaiFixes_SettingsResetDefaults>Restore recommended defaults</IsekaiFixes_SettingsResetDefaults>
+  <IsekaiFixes_EnemySection>Enemy stat allocation</IsekaiFixes_EnemySection>
+  <IsekaiFixes_EnemyScope>Shapes fresh stat rolls for hostile factions. Existing stats, levels and ranks stay intact. Humanoids follow ISEKAI’s role-generation setting; creatures are changed only at first initialization.</IsekaiFixes_EnemyScope>
+  <IsekaiFixes_EnemyHumans>Hostile humanoids</IsekaiFixes_EnemyHumans>
+  <IsekaiFixes_EnemyCreatures>Hostile creatures</IsekaiFixes_EnemyCreatures>
+  <IsekaiFixes_EnemyModeOriginal>Original ISEKAI</IsekaiFixes_EnemyModeOriginal>
+  <IsekaiFixes_EnemyModeBalanced>Equal shares</IsekaiFixes_EnemyModeBalanced>
+  <IsekaiFixes_EnemyModeCombatRole>Role / combat</IsekaiFixes_EnemyModeCombatRole>
+  <IsekaiFixes_ForgeSection>Equipment refinement</IsekaiFixes_ForgeSection>
+  <IsekaiFixes_ForgeEnable>Enable refinement balance</IsekaiFixes_ForgeEnable>
+  <IsekaiFixes_ForgeScope>Applies to existing and new equipment without changing upgrade levels or runes. Combat bonuses cover damage, attack speed, accuracy and armor. Durability, weight, runes and success chances keep ISEKAI’s rules.</IsekaiFixes_ForgeScope>
+  <IsekaiFixes_ForgeCombat>Combat bonus strength</IsekaiFixes_ForgeCombat>
+  <IsekaiFixes_ForgeMovement>Movement bonus strength</IsekaiFixes_ForgeMovement>
+  <IsekaiFixes_ForgeMovementCap>Maximum total movement bonus</IsekaiFixes_ForgeMovementCap>
+  <IsekaiFixes_ForgeCapHint>0% removes this cap. Only movement from armor refinement is capped; other speed effects are untouched.</IsekaiFixes_ForgeCapHint>
+  <IsekaiFixes_ForgeCost>Material cost per attempt</IsekaiFixes_ForgeCost>
+  <IsekaiFixes_BalancePreset>Use recommended balance</IsekaiFixes_BalancePreset>
+  <IsekaiFixes_BalancePresetDesc>Role/combat enemies · 50% combat and movement bonuses · +20% total refinement movement cap · 2× materials. Does not reset colonist or pet choices.</IsekaiFixes_BalancePresetDesc>
+  <IsekaiFixes_BalanceUpstream>Use original enemy and refinement rules</IsekaiFixes_BalanceUpstream>
+  <IsekaiFixes_BalanceUpstreamDesc>Restores ISEKAI enemy generation and refinement effects/costs. Colonist and pet allocation settings are kept.</IsekaiFixes_BalanceUpstreamDesc>
 </LanguageData>

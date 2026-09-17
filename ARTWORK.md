@@ -6,7 +6,7 @@ The three ISEKAI covers use frame 0 of the **800 × 450** [original artwork](htt
 
 The unpublished **RimSaves Russian-translation cover example** uses the original preview from [RimSaves](https://steamcommunity.com/sharedfiles/filedetails/?id=1713367505), by **aRandomKiwi**. It preserves the RimSaves wordmark and adds a Russian label, flag, logo and frame. The source is 1047 × 595; the example is 800 × 450 without upscaling. This preview does not mean that a RimSaves translation is included in this repository.
 
-Typography is rendered from **Oswald**, distributed under the [SIL Open Font License](https://fonts.google.com/specimen/Oswald/license). The font software is not included here; the published assets are rendered PNG images.
+Typography is rendered from **Russo One**, distributed under the [SIL Open Font License](https://github.com/google/fonts/blob/main/ofl/russoone/OFL.txt). The font software is not included here; the published assets are rendered PNG images.
 
 Each mod’s MIT license covers its code, not these original illustrations, game imagery or trademarks. Attribution does not grant a new license to third-party material; those rights remain with their owners.
 
