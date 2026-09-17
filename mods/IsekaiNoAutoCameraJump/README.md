@@ -1,5 +1,7 @@
 # ISEKAI — No Auto Camera Jump [Star Sky Mods]
 
+[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3789336886) · [All categories](../../README.md) · [Sources & notices](NOTICES.md)
+
 Keep your camera where you left it when a local ISEKAI hunt spawns its target.
 
 ## What it does

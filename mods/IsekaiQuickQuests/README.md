@@ -1,5 +1,7 @@
 # ISEKAI — Quick Quests [Star Sky Mods]
 
+[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3802965084) · [All categories](../../README.md) · [Sources & notices](NOTICES.md)
+
 Middle-click an ISEKAI quest letter to accept it when no decision is needed.
 
 ## How it works

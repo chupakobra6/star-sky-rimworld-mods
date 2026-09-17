@@ -1,5 +1,7 @@
 # ISEKAI — Balanced Stats [Star Sky Mods]
 
+[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3789339468) · [All categories](../../README.md) · [Sources & notices](NOTICES.md)
+
 Control automatic stat allocation, round out hostile enemy builds and tune equipment refinement. Requires RimWorld 1.6, Harmony and ISEKAI RPG LEVELING.
 
 ## What it does
