@@ -36,8 +36,8 @@
     },
     {
       "path": "mods/IsekaiBalancedStatsQuickQuests/About/Preview.png",
-      "bytes": 312009,
-      "sha256": "c2125ca5f51cf259280ec3db01490c04439661be16afd97c3a766bf7472d43c6"
+      "bytes": 310458,
+      "sha256": "57ad370aab50c0de5d3893500598ffee519638337f786fc5aebf4cbcd8884801"
     },
     {
       "path": "mods/IsekaiBalancedStatsQuickQuests/About/PublishedFileId.txt",
@@ -46,8 +46,8 @@
     },
     {
       "path": "mods/IsekaiBalancedStatsQuickQuests/CHANGELOG.md",
-      "bytes": 2258,
-      "sha256": "dfbd2a895a2ec6fb20d3fde372bc8f2ed8d5ae47a1afb80d29a3be3084158aab"
+      "bytes": 2344,
+      "sha256": "edab1ae1dfe22583ddfb11b0f2007d5067ea45a015409f750339cda3ea8f6952"
     },
     {
       "path": "mods/IsekaiBalancedStatsQuickQuests/Languages/English/Keyed/IsekaiFixes.xml",
@@ -131,8 +131,8 @@
     },
     {
       "path": "mods/IsekaiNoAutoCameraJump/About/Preview.png",
-      "bytes": 310352,
-      "sha256": "0292ef55a9b6d57351e1132b8e1651d0c63f8b01e5a25f15d4426a6ff1a3ef8d"
+      "bytes": 308815,
+      "sha256": "7bf7d59485517b9547dde5eb5b2a0bffbb0ca0552e511f7fd0d6677f3c6204e6"
     },
     {
       "path": "mods/IsekaiNoAutoCameraJump/About/PublishedFileId.txt",
@@ -141,8 +141,8 @@
     },
     {
       "path": "mods/IsekaiNoAutoCameraJump/CHANGELOG.md",
-      "bytes": 1375,
-      "sha256": "d11961bff71e9f4d390ca5e84f4b67c2b6c339ce338bfb88356d060b4f856cf1"
+      "bytes": 1617,
+      "sha256": "21cf55ef375082b02e263590d7bf07b6a5ad16ca26ea0957889337cd92e0f389"
     },
     {
       "path": "mods/IsekaiNoAutoCameraJump/Languages/English/Keyed/IsekaiNoCameraJump.xml",
@@ -191,8 +191,8 @@
     },
     {
       "path": "mods/IsekaiQuickQuests/About/Preview.png",
-      "bytes": 313273,
-      "sha256": "9787d6d0671778576cfa97b3111c0c64a3cc2076fbdc6d623501c29bfd2b1bed"
+      "bytes": 311718,
+      "sha256": "c2023c93a13037fde87b220c34bc4b8d4ecfb1f59eb9e2d1b8bf9bad00ae90d5"
     },
     {
       "path": "mods/IsekaiQuickQuests/About/PublishedFileId.txt",
@@ -201,8 +201,8 @@
     },
     {
       "path": "mods/IsekaiQuickQuests/CHANGELOG.md",
-      "bytes": 668,
-      "sha256": "45d5df47a9eeb325efe6e788385f1513fe9f1845ccf8fdb46274d620a01bbdd5"
+      "bytes": 744,
+      "sha256": "2bb7fa0fdf34df73039d41ba29e3ed60403d4591b0303fa569cc1017b918c651"
     },
     {
       "path": "mods/IsekaiQuickQuests/Languages/English/Keyed/IsekaiQuickQuests.xml",
@@ -251,8 +251,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4081,
-      "sha256": "06da444818c79105799f3e3059458271c312e2245a8a620de05dcdccc1d52ec4"
+      "bytes": 4051,
+      "sha256": "778e1f486eedbd85196bf5fdb72ba7303081b8c268e15a50004ee260fc4e9197"
     }
   ]
 }

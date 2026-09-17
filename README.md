@@ -1,4 +1,4 @@
-![Star Sky Mods — RimWorld mods, fixes and Russian translations](https://raw.githubusercontent.com/chupakobra6/star-sky-mods-assets/main/assets/star-sky-banner.png)
+![Star Sky Mods — RimWorld mods, fixes and Russian translations](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/star-sky-banner.png)
 
 # Star Sky Mods
 
@@ -8,7 +8,7 @@ RimWorld mods, fixes and Russian translations by **chupakobra6**. All releases a
 
 | Balanced Stats | Quick Quests | No Auto Camera Jump |
 | :---: | :---: | :---: |
-| [![ISEKAI Balanced Stats](https://raw.githubusercontent.com/chupakobra6/star-sky-mods-assets/main/assets/isekai-balanced.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3789339468) | [![ISEKAI Quick Quests](https://raw.githubusercontent.com/chupakobra6/star-sky-mods-assets/main/assets/isekai-quests.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3802965084) | [![ISEKAI No Auto Camera Jump](https://raw.githubusercontent.com/chupakobra6/star-sky-mods-assets/main/assets/isekai-camera.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3789336886) |
+| [![ISEKAI Balanced Stats](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/isekai-balanced.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3789339468) | [![ISEKAI Quick Quests](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/isekai-quests.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3802965084) | [![ISEKAI No Auto Camera Jump](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/isekai-camera.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3789336886) |
 | Choose how colonists and pets spend their automatic stat points. | Middle-click an ISEKAI quest letter to accept it when no choice is needed. | Keep your camera in place when local ISEKAI hunts spawn. |
 | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3789339468) · [Source & guide](mods/IsekaiBalancedStatsQuickQuests) | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3802965084) · [Source & guide](mods/IsekaiQuickQuests) | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3789336886) · [Source & guide](mods/IsekaiNoAutoCameraJump) |
 
@@ -26,8 +26,8 @@ Each mod’s guide explains settings, load order and upgrading. Its `CHANGELOG.m
 
 If you enjoy the mods, optional support helps me spend more time building and maintaining them. The mods remain free.
 
-[![Support on Boosty](https://raw.githubusercontent.com/chupakobra6/star-sky-mods-assets/main/assets/button-support.png)](https://boosty.to/chupakobra6?utm_source=github&utm_medium=repository&utm_campaign=star_sky_mods&utm_content=readme&utm_term=support)
-[![Explore other mods](https://raw.githubusercontent.com/chupakobra6/star-sky-mods-assets/main/assets/button-workshop.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)
+[![Support on Boosty](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/button-support.png)](https://boosty.to/chupakobra6?utm_source=github&utm_medium=repository&utm_campaign=star_sky_mods&utm_content=readme&utm_term=support)
+[![Explore other mods](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/button-workshop.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)
 
 ## Source and rights
 
