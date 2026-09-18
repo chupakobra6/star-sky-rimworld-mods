@@ -27,6 +27,6 @@ Mythic Ages добавляет огромных зверей, на которы�
 
 Заметили ошибку или неточность? Напишите в комментариях на странице мода или на Boosty.
 
-Автор оригинального мода — Veterano. Права на его содержимое принадлежат соответствующим правообладателям.
+Автор оригинального мода — Veterano.
 
 Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.
