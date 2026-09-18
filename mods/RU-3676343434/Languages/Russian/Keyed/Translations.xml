@@ -1,0 +1,58 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <PerformanceEsmolas>Performance Esmolas</PerformanceEsmolas>
+  <MothballOptimization>Консервация мировых персонажей</MothballOptimization>
+  <MothballOptimizationTooltip>Консервация приостанавливает обработку персонажей за пределами карт, снижая нагрузку на игру.\n\nВ базовой игре почти любое нарушение здоровья мешает консервации. Поэтому налётчик с больной спиной, давно покинувший вашу карту, может отнимать почти столько же процессорного времени, сколько поселенец.\n\nЭто исправление основано на Performance Fish. Оно разрешает консервацию при многих несмертельных состояниях, в том числе добавленных модами, которые базовая игра не учитывает.\n\nВыигрыш в производительности может быть значительным, но медленно развивающиеся состояния, например беременность и сонная болезнь, у законсервированных мировых персонажей не прогрессируют. Ваших поселенцев это не касается. Впрочем, автора это не беспокоит: «Ну и что? Меня устраивает».</MothballOptimizationTooltip>
+  <MeditationThrottle>Реже рассчитывать медитацию (нужен перезапуск)</MeditationThrottle>
+  <MeditationThrottleTooltip>Обычно медитация создаёт небольшую нагрузку. Однако с Vanilla Psycasts Expanded и похожими модами её расчёты могут стать затратными; тогда эта настройка способна заметно повысить производительность.\n\nЕё можно оставить включённой и без модов на медитацию.</MeditationThrottleTooltip>
+  <IdeoManagerThrottle>Реже обновлять идеологии мировых фракций</IdeoManagerThrottle>
+  <IdeoManagerThrottleTooltip>При большом числе фракций и модов с заповедями, ритуалами и ролями расчёты идеологий мировых фракций могут создавать заметную нагрузку.\n\nЭта настройка снижает частоту таких расчётов.\n\nОбычно в игре это незаметно. Если ритуалы других фракций важны для вашего прохождения, настройку лучше отключить.</IdeoManagerThrottleTooltip>
+  <PlantSwayOptimization>Оптимизировать колыхание растений (нужен перезапуск)</PlantSwayOptimization>
+  <PlantSwayOptimizationTooltip>Не рассчитывать колыхание для неиспользуемой графики растений.\n\nПолезно даже в пустыне и тундре: игра пытается обрабатывать колыхание всех видов растений, даже если их нет на карте.</PlantSwayOptimizationTooltip>
+  <StatCacheThrottle>Кэш характеристик</StatCacheThrottle>
+  <StatCacheThrottleTooltip>Продлевает срок хранения некоторых характеристик в кэше, поэтому они пересчитываются реже. Например, 60 тиков — одна секунда на обычной скорости игры.\n\nЕсли вы понимаете, что меняете, можно добавить характеристики, расчёт которых замедляет игру. Найти их помогает Performance Analyzer.\n\nИзменение срока хранения применяется сразу; после добавления или удаления характеристики нужен перезапуск.\n\nТакже используется кэш Performance Fish для расчёта характеристик по определениям объектов без создания самих объектов.</StatCacheThrottleTooltip>
+  <Experimental>Экспериментальные</Experimental>
+  <Debug>Отладка</Debug>
+  <IdeoManagerThrottleInitialized>[Performance Esmolas] Снижение частоты обновления мировых идеологий включено.</IdeoManagerThrottleInitialized>
+  <MothballOptimizationInitialized>[Performance Esmolas] Оптимизация консервации персонажей включена.</MothballOptimizationInitialized>
+  <MeditationThrottleInitialized>[Performance Esmolas] Снижение частоты расчётов медитации включено.</MeditationThrottleInitialized>
+  <PlantSwayOptimizationInitialized>[Performance Esmolas] Оптимизация колыхания растений включена.</PlantSwayOptimizationInitialized>
+  <StatCacheThrottleInitialized>[Performance Esmolas] Кэш характеристик включён.</StatCacheThrottleInitialized>
+  <MeditationSkillPatchFailed>[Performance Esmolas] Не удалось исправить скорость обучения при медитации.</MeditationSkillPatchFailed>
+  <MeditationComfortPatchFailed>[Performance Esmolas] Не удалось исправить прирост комфорта при медитации.</MeditationComfortPatchFailed>
+  <MeditationJoyPatchFailed>[Performance Esmolas] Не удалось исправить прирост отдыха при медитации.</MeditationJoyPatchFailed>
+  <MeditationPsyfocusPatchFailed>[Performance Esmolas] Не удалось исправить прирост пси-концентрации при медитации.</MeditationPsyfocusPatchFailed>
+  <InitializingPlantSwayOptimization>Подготовка списков для оптимизации колыхания растений</InitializingPlantSwayOptimization>
+  <RevertedPawns>[Performance Esmolas] После отключения исправления из консервации выведено персонажей: {0}.</RevertedPawns>
+  <StatCacheThrottling>Настроить кэш</StatCacheThrottling>
+  <Ticks>тик.</Ticks>
+  <Days>дн.</Days>
+  <Hours>ч</Hours>
+  <AddStat>Добавить</AddStat>
+  <ResetToDefaults>Сбросить настройки</ResetToDefaults>
+  <DeleteStat>Удалить</DeleteStat>
+  <AddStatPrompt>Идентификатор характеристики</AddStatPrompt>
+  <TerrorSource>Ужас</TerrorSource>
+  <Insulation_Cold>Изоляция: Холод</Insulation_Cold>
+  <Insulation_Heat>Изоляция: Тепло</Insulation_Heat>
+  <MarketValueIgnoreHp>Рыночная стоимость без учёта состояния</MarketValueIgnoreHp>
+  <DeteriorationRate>Скорость ветшания</DeteriorationRate>
+  <Beauty>Красота</Beauty>
+  <BeautyOutdoors>Красота на улице</BeautyOutdoors>
+  <DoorOpenSpeed>Скорость открытия двери</DoorOpenSpeed>
+  <WorkTableWorkSpeedFactor>Скорость работы</WorkTableWorkSpeedFactor>
+  <MeleeDamageFactor>Множитель урона в рукопашной</MeleeDamageFactor>
+  <MoveSpeed>Скорость передвижения</MoveSpeed>
+  <MentalBreakThreshold>Порог нервного срыва</MentalBreakThreshold>
+  <PsychicSensitivity>Психочувствительность</PsychicSensitivity>
+  <ComfyTemperatureMin>Мин. комфортная температура</ComfyTemperatureMin>
+  <ComfyTemperatureMax>Макс. комфортная температура</ComfyTemperatureMax>
+  <PainShockThreshold>Порог переносимости боли</PainShockThreshold>
+  <MaxNutrition>Максимальная сытость</MaxNutrition>
+  <WorkSpeedGlobal>Общая скорость работы</WorkSpeedGlobal>
+  <ResearchSpeed>Скорость исследования</ResearchSpeed>
+  <MechBandwidth>Пропускная способность</MechBandwidth>
+  <MechFormingSpeed>Скорость гестации</MechFormingSpeed>
+  <WastepacksPerRecharge>Отходов от подзарядки</WastepacksPerRecharge>
+  <VacuumResistance>Устойчивость к вакууму</VacuumResistance>
+</LanguageData>

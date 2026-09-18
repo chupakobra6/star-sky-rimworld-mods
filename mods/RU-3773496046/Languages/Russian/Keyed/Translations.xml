@@ -1,0 +1,42 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <NRT_AddToQueue>добавить в очередь</NRT_AddToQueue>
+  <NRT_AllNodesInOneSpace>Все исследования на одной схеме</NRT_AllNodesInOneSpace>
+  <NRT_AllNodesInOneSpaceTip>Исследования некоторых модов можно включить в другие вкладки.</NRT_AllNodesInOneSpaceTip>
+  <NRT_AnomalyAdvancedKnowledge>Продвинутые знания</NRT_AnomalyAdvancedKnowledge>
+  <NRT_Building>Постройка</NRT_Building>
+  <NRT_CombineAnomalyQueues>Объединить очереди исследований Anomaly</NRT_CombineAnomalyQueues>
+  <NRT_DelayedNodeCulling>Откладывать отсечение невидимых узлов</NRT_DelayedNodeCulling>
+  <NRT_FilterTip>Поиск по названию. Для поиска по моду или DLC добавьте # перед словом без пробела.</NRT_FilterTip>
+  <NRT_Fullscreen>Полный экран</NRT_Fullscreen>
+  <NRT_Height>Высота</NRT_Height>
+  <NRT_HiTechBenchShort>Высокотехнологичный стол для исследований</NRT_HiTechBenchShort>
+  <NRT_LinksCanCrossNodes>Линии связей могут пересекать проекты</NRT_LinksCanCrossNodes>
+  <NRT_ModGrouping>Группировать по модам</NRT_ModGrouping>
+  <NRT_Packer>Алгоритм размещения</NRT_Packer>
+  <NRT_ProjectUnlocksCountPerRow>Количество открываемых объектов в строке</NRT_ProjectUnlocksCountPerRow>
+  <NRT_Rebuild>Перестроить</NRT_Rebuild>
+  <NRT_Recipe>Рецепт</NRT_Recipe>
+  <NRT_RequiresGravdata>Требуются гравиданные</NRT_RequiresGravdata>
+  <NRT_Research>Исследовать</NRT_Research>
+  <NRT_ResearchFinishedLetterLabel>Исследование завершено</NRT_ResearchFinishedLetterLabel>
+  <NRT_ResearchFinishedLetterText>Исследование «{0}» завершено. Нажмите, чтобы открыть сообщение.</NRT_ResearchFinishedLetterText>
+  <NRT_SettingsCommonTab>Общее</NRT_SettingsCommonTab>
+  <NRT_SettingsPackerTab>Размещение</NRT_SettingsPackerTab>
+  <NRT_SettingsPerformanceTab>Производительность</NRT_SettingsPerformanceTab>
+  <NRT_ShowConnectionLinks>Показывать линии связей</NRT_ShowConnectionLinks>
+  <NRT_ShowEdging>Показывать окантовку</NRT_ShowEdging>
+  <NRT_ShowFancyBackground>Показывать анимированный фон</NRT_ShowFancyBackground>
+  <NRT_ShowRequiredFacilityIcon>Показывать значок требуемого оборудования</NRT_ShowRequiredFacilityIcon>
+  <NRT_ShowRequiredTechprintsIcon>Показывать значок требуемых техпринтов</NRT_ShowRequiredTechprintsIcon>
+  <NRT_ShowTechLevelBackground>Отражать уровень технологий цветом фона</NRT_ShowTechLevelBackground>
+  <NRT_SingleThread>Использовать один поток</NRT_SingleThread>
+  <NRT_StopResearch>Остановить исследование</NRT_StopResearch>
+  <NRT_VanillaResearchFinishMessage>Стандартное окно завершения исследования</NRT_VanillaResearchFinishMessage>
+  <NRT_WASDPanSpeed>Скорость перемещения WASD</NRT_WASDPanSpeed>
+  <NRT_Width>Ширина</NRT_Width>
+  <NRT_YouMustBeInGameToPreview>Предпросмотр доступен только в игре</NRT_YouMustBeInGameToPreview>
+  <NiceResearchTabEnabled>Мод включён</NiceResearchTabEnabled>
+  <RequiresGravtech>Необходима гравитехнология</RequiresGravtech>
+  <ResearchQueue>Очередь исследований</ResearchQueue>
+</LanguageData>

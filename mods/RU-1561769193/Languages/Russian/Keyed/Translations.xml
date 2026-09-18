@@ -1,0 +1,86 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <fulfill_outdoors_head>Пребывание на свежем воздухе</fulfill_outdoors_head>
+  <fulfill_outdoors_label>Предпочитать развлечения на улице, когда не хватает свежего воздуха</fulfill_outdoors_label>
+  <fulfill_outdoors_note>Не размещайте одинаковые источники развлечений одновременно в помещении и снаружи: персонажи могут метаться между ними.</fulfill_outdoors_note>
+  <clean_head>Попутные дела</clean_head>
+  <clean_before_working_label>Убирать комнату перед работой за станком</clean_before_working_label>
+  <clean_before_working_note>Персонажи, неспособные убирать, не начнут делать это из-за этой настройки.</clean_before_working_note>
+  <bill_job_pathing_label>Рассчитывать точный путь к рабочему месту при выполнении поручений</bill_job_pathing_label>
+  <bill_job_pathing_note>Помогает избежать неоправданных обходов, когда сначала нужно принести материалы. Может увеличить нагрузку на процессор.</bill_job_pathing_note>
+  <clean_after_tending_label>Убирать комнату после перевязки пациента</clean_after_tending_label>
+  <clean_after_tending_note>Персонажи, неспособные убирать, не начнут делать это из-за этой настройки.</clean_after_tending_note>
+  <meal_stacking_head>Стопки блюд</meal_stacking_head>
+  <meal_stacking_label>Не смешивать обычные блюда с блюдами из человечины или неприятных ингредиентов</meal_stacking_label>
+  <meal_stacking_note>Например, блюда из неприятных ингредиентов не будут складываться вместе с обычными.</meal_stacking_note>
+  <dont_count_odd_label>Считать необычное мясо, например мясо насекомых, обычным при объединении блюд</dont_count_odd_label>
+  <dont_count_odd_note>Мясо насекомых не так уж плохо...</dont_count_odd_note>
+  <gen_ingredients_head>Создание готовых блюд</gen_ingredients_head>
+  <gen_ingredients_label>Добавлять случайные ингредиенты в случайно создаваемые блюда</gen_ingredients_label>
+  <gen_ingredients_note>Это касается блюд от рассказчика, торговцев и добычи с трупов. Используются только ингредиенты, не влияющие на настроение. С этой настройкой игра уже не будет прежней.</gen_ingredients_note>
+  <add_to_que_label>Возвращать исходное задание в очередь</add_to_que_label>
+  <add_to_que_note>После попутного дела персонаж вернётся к прежнему заданию. Возможна путаница, если его уже взял кто-то другой.</add_to_que_note>
+  <hauling_over_bills_label>Попутно относить на склад ингредиенты для поручения</hauling_over_bills_label>
+  <hauling_over_bills_note>Вместо того чтобы взять лишь небольшую часть стопки для рецепта, персонаж постарается отнести ингредиенты на склад.</hauling_over_bills_note>
+  <fulfill_needs_head>Удовлетворение потребностей</fulfill_needs_head>
+  <drugs_use_potential_mood_label>Учитывать ожидаемое настроение при употреблении наркотиков</drugs_use_potential_mood_label>
+  <drugs_use_potential_mood_note>Персонаж не будет принимать наркотик, если ожидаемое настроение уже выше порога в политике употребления. Это предотвращает лишние дозы, пока настроение ещё растёт.</drugs_use_potential_mood_note>
+  <miscellaneous_head>Прочее</miscellaneous_head>
+  <extended_recipe_label>Показывать в рецептах полный список ингредиентов</extended_recipe_label>
+  <extended_recipe_note>Вместо неопределённого слова «ингредиенты».</extended_recipe_note>
+  <advanced_head>Дополнительное поведение</advanced_head>
+  <advanced_inbetween_cleaning_label>Убирать после доставки ингредиентов, перед изготовлением</advanced_inbetween_cleaning_label>
+  <advanced_inbetween_cleaning_note>Обычная предварительная уборка происходит до доставки ингредиентов.</advanced_inbetween_cleaning_note>
+  <advanced_haul_all_ings_label>Собирать все ингредиенты перед доставкой к рабочему месту</advanced_haul_all_ings_label>
+  <advanced_haul_all_ings_note>Персонаж сначала соберёт нужные ингредиенты в инвентарь, а затем доставит их к рабочему месту.</advanced_haul_all_ings_note>
+  <prefer_spoiling_ingredients_label>Предпочитать ингредиенты и материалы, которые раньше испортятся</prefer_spoiling_ingredients_label>
+  <prefer_spoiling_ingredients_note>Если подходящих предметов очень много, эта настройка может замедлить игру.</prefer_spoiling_ingredients_note>
+  <UnloadThing>Выгрузить</UnloadThing>
+  <UnloadThingCancel>Отменить выгрузку</UnloadThingCancel>
+  <manual_unload_label>Кнопка отметки вещей для выгрузки на склад в инвентаре поселенца</manual_unload_label>
+  <manual_unload_note>Если подходящего склада нет, поселенец положит вещь рядом с собой.</manual_unload_note>
+  <put_back_to_inv_label>Возвращать взятые в руки вещи в инвентарь при прерывании действия</put_back_to_inv_label>
+  <put_back_to_inv_note>Если персонаж держал в руках вещь из своего инвентаря, прерывание действия вернёт её в инвентарь.</put_back_to_inv_note>
+  <pick_proper_amount_label>Брать столько сладостей, сколько персонаж может съесть</pick_proper_amount_label>
+  <pick_proper_amount_note>Больше никакого шоколада, брошенного повсюду.</pick_proper_amount_note>
+  <Category>Категория</Category>
+  <fun_police_label>Удовлетворять второстепенные потребности во время отдыха и после раннего пробуждения</fun_police_label>
+  <fun_police_note>Персонажи начинают восполнять потребность в развлечениях только ниже 80%, стараются взять запасное блюдо и удовлетворить гигиенические потребности, если установлен Dubs Bad Hygiene.</fun_police_note>
+  <numbers_head>Лимиты уборки (0 — без ограничений)</numbers_head>
+  <op_clean_number_label>Максимум загрязнений для попутной уборки</op_clean_number_label>
+  <adv_clean_number_label>Максимум загрязнений перед выполнением поручения</adv_clean_number_label>
+  <doc_clean_number_label>Максимум загрязнений после перевязки пациента</doc_clean_number_label>
+  <skip_snow_clean_label>Не расчищать снег во время снегопада или дождя</skip_snow_clean_label>
+  <skip_snow_clean_note>Дождь учитывается на случай переменчивой погоды.</skip_snow_clean_note>
+  <prefer_spoiling_meals_label>Предпочитать блюда, которые раньше испортятся</prefer_spoiling_meals_label>
+  <prefer_spoiling_meals_note>Если подходящих блюд очень много, эта настройка может замедлить игру.</prefer_spoiling_meals_note>
+  <allow_feeding_with_plants_label>Разрешить и предпочитать кормление животных сеном</allow_feeding_with_plants_label>
+  <allow_feeding_with_plants_note>Животные также будут предпочитать корм, не предназначенный для людей.</allow_feeding_with_plants_note>
+  <give_sick_joy_drugs_label>Приносить больным разрешённые лёгкие наркотики или еду для развлечения</give_sick_joy_drugs_label>
+  <give_sick_joy_drugs_note>Зачем разговаривать, если можно принести шоколадку?</give_sick_joy_drugs_note>
+  <social_relax_economy_label>Не тратить впустую эффект наркотиков при общении за столом</social_relax_economy_label>
+  <social_relax_economy_note>Обычно персонажи сначала сидят за столом час или два и лишь затем употребляют наркотик, теряя часть пользы для развлечения.</social_relax_economy_note>
+  <advanced_cleaning_ingest_label>Убирать перед едой или общением за столом</advanced_cleaning_ingest_label>
+  <advanced_cleaning_ingest_note>Персонаж уберёт возле стола, за который собирается сесть.</advanced_cleaning_ingest_note>
+  <mood_regen_label>Постепенно приближать настроение спящего персонажа к 50%, когда это возможно</mood_regen_label>
+  <mood_regen_note>Изменение идёт только в сторону настроения, ожидаемого от текущих мыслей. Утро вечера мудренее.</mood_regen_note>
+  <safe_wander_label>Избегать плохой погоды при бесцельных прогулках</safe_wander_label>
+  <safe_wander_note>Хватит уже гулять под токсичными осадками!</safe_wander_note>
+  <pathing_head>Выбор пути</pathing_head>
+  <polite_wander_label>Дружественные персонажи не заходят без дела в спальни, камеры и тюремные бараки</polite_wander_label>
+  <polite_wander_note>Это ведь невежливо, а иногда и опасно.</polite_wander_note>
+  <ingest_any_drugs_label>Разрешить употребление любых пригодных для этого веществ из инвентаря</ingest_any_drugs_label>
+  <ingest_any_drugs_note>То, что можно употребить, не должно требовать предварительного выкладывания на землю.</ingest_any_drugs_note>
+  <DoCleanCompToggleLabel>Убирать возле этого станка</DoCleanCompToggleLabel>
+  <DoCleanCompToggleDescActive>Персонажи будут убирать возле этого станка.</DoCleanCompToggleDescActive>
+  <DoCleanCompToggleDescInactive>Персонажи не будут убирать возле этого станка.</DoCleanCompToggleDescInactive>
+  <advanced_inbetween_cleaning_gizmo_label>Показывать переключатель уборки у станков</advanced_inbetween_cleaning_gizmo_label>
+  <advanced_inbetween_cleaning_gizmo_note>Позволяет отключить предварительную уборку возле отдельных станков.</advanced_inbetween_cleaning_gizmo_note>
+  <meditation_economy_label>Медитировать только при необходимости</meditation_economy_label>
+  <meditation_economy_note>Вне времени, назначенного для медитации, персонаж прекратит её, если пси-концентрация полна и медитация больше не даёт нужного развлечения: потребность полна или этот вид развлечения наскучил.</meditation_economy_note>
+  <advanced_respect_capacity_label>Не превышать вместимость инвентаря при сборе ингредиентов</advanced_respect_capacity_label>
+  <advanced_respect_capacity_note>Для правдоподобной переноски — или просто по желанию.</advanced_respect_capacity_note>
+  <optimal_patching_label>Применять только нужные патчи</optimal_patching_label>
+  <optimal_patching_note>Если выключено, настройки действуют сразу, но даже отключённые функции оставляют проверки в коде и могут создавать нагрузку. Если включено, изменение настроек требует перезапуска игры; патчи для отключённых функций при запуске не применяются.</optimal_patching_note>
+  <optimal_patching_attention_label>Изменение режима применения патчей требует перезапуска игры!</optimal_patching_attention_label>
+</LanguageData>

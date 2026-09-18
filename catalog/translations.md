@@ -115,3 +115,53 @@ RimWorld 1.6 · Версия 1.0.0
 RimWorld 1.6 · Версия 1.0.0
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3803697838) · [Исходники и руководство](../mods/RU-3537788184/README.md) · [История изменений](../mods/RU-3537788184/CHANGELOG.md) · [Лицензия](../mods/RU-3537788184/LICENSE) · [Источники и уведомления](../mods/RU-3537788184/NOTICES.md)
+
+## Nice Inventory Tab — русский перевод
+
+Полный русский перевод Nice Inventory Tab: снаряжение, характеристики вещей и мастер подбора одежды.
+
+[![Nice Inventory Tab — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/nice-inventory-tab-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803878917)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3803878917) · [Исходники и руководство](../mods/RU-3609897594/README.md) · [История изменений](../mods/RU-3609897594/CHANGELOG.md) · [Лицензия](../mods/RU-3609897594/LICENSE) · [Источники и уведомления](../mods/RU-3609897594/NOTICES.md)
+
+## Dawn of a New Day — русский перевод
+
+Полный русский перевод Dawn of a New Day: утренние объявления, шаблоны и настройки оформления.
+
+[![Dawn of a New Day — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/dawn-of-a-new-day-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803878920)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3803878920) · [Исходники и руководство](../mods/RU-3771580900/README.md) · [История изменений](../mods/RU-3771580900/CHANGELOG.md) · [Лицензия](../mods/RU-3771580900/LICENSE) · [Источники и уведомления](../mods/RU-3771580900/NOTICES.md)
+
+## Nice Research Tab — русский перевод
+
+Полный русский перевод Nice Research Tab: поиск и очередь исследований, требования и подсказки.
+
+[![Nice Research Tab — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/nice-research-tab-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803878927)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3803878927) · [Исходники и руководство](../mods/RU-3773496046/README.md) · [История изменений](../mods/RU-3773496046/CHANGELOG.md) · [Лицензия](../mods/RU-3773496046/LICENSE) · [Источники и уведомления](../mods/RU-3773496046/NOTICES.md)
+
+## Common Sense — русский перевод
+
+Полный русский перевод Common Sense: настройки повседневных действий поселенцев, команды и подсказки.
+
+[![Common Sense — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/common-sense-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803878932)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3803878932) · [Исходники и руководство](../mods/RU-1561769193/README.md) · [История изменений](../mods/RU-1561769193/CHANGELOG.md) · [Лицензия](../mods/RU-1561769193/LICENSE) · [Источники и уведомления](../mods/RU-1561769193/NOTICES.md)
+
+## Performance Esmolas — русский перевод
+
+Полный русский перевод Performance Esmolas: настройки оптимизаций, редактор кэша характеристик и подсказки.
+
+[![Performance Esmolas — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/performance-esmolas-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803878938)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3803878938) · [Исходники и руководство](../mods/RU-3676343434/README.md) · [История изменений](../mods/RU-3676343434/CHANGELOG.md) · [Лицензия](../mods/RU-3676343434/LICENSE) · [Источники и уведомления](../mods/RU-3676343434/NOTICES.md)

@@ -1,0 +1,140 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <DawnNewDay.Label_Enabled>Включено</DawnNewDay.Label_Enabled>
+  <DawnNewDay.Label_ScreenshotMode>Режим снимка экрана</DawnNewDay.Label_ScreenshotMode>
+  <DawnNewDay.Label_ShowExample>Показать пример</DawnNewDay.Label_ShowExample>
+  <DawnNewDay.Message_ShowExample>Пример «{0}» появится при ближайшем игровом тике.</DawnNewDay.Message_ShowExample>
+  <DawnNewDay.Section_Appearance>Внешний вид</DawnNewDay.Section_Appearance>
+  <DawnNewDay.Label_ShowHighlight>Показывать разделительную линию</DawnNewDay.Label_ShowHighlight>
+  <DawnNewDay.Label_Scale>Масштаб</DawnNewDay.Label_Scale>
+  <DawnNewDay.Label_Offset>Смещение</DawnNewDay.Label_Offset>
+  <DawnNewDay.Label_OffsetPresets>Варианты расположения</DawnNewDay.Label_OffsetPresets>
+  <DawnNewDay.Offset_MiddleTop>По центру сверху ↑</DawnNewDay.Offset_MiddleTop>
+  <DawnNewDay.Offset_MiddleBottom>По центру снизу ↓</DawnNewDay.Offset_MiddleBottom>
+  <DawnNewDay.Offset_MiddleMiddle>В центре экрана ▪</DawnNewDay.Offset_MiddleMiddle>
+  <DawnNewDay.Offset_LeftMiddle>По центру слева ←</DawnNewDay.Offset_LeftMiddle>
+  <DawnNewDay.Offset_RightMiddle>По центру справа →</DawnNewDay.Offset_RightMiddle>
+  <DawnNewDay.Offset_LeftTop>Слева сверху ↖</DawnNewDay.Offset_LeftTop>
+  <DawnNewDay.Offset_RightTop>Справа сверху ↗</DawnNewDay.Offset_RightTop>
+  <DawnNewDay.Offset_LeftBottom>Слева снизу ↙</DawnNewDay.Offset_LeftBottom>
+  <DawnNewDay.Offset_RightBottom>Справа снизу ↘</DawnNewDay.Offset_RightBottom>
+  <DawnNewDay.Label_SubtitleGap>Отступ дополнительной строки</DawnNewDay.Label_SubtitleGap>
+  <DawnNewDay.Label_LineWidthPercentage>Ширина линии</DawnNewDay.Label_LineWidthPercentage>
+  <DawnNewDay.Label_LineThickness>Толщина линии</DawnNewDay.Label_LineThickness>
+  <DawnNewDay.Label_LinePadding>Отступ от линии</DawnNewDay.Label_LinePadding>
+  <DawnNewDay.Label_LineColor>Цвет линии</DawnNewDay.Label_LineColor>
+  <DawnNewDay.Section_Duration>Длительность</DawnNewDay.Section_Duration>
+  <DawnNewDay.Label_DisplayDuration>Общее время показа</DawnNewDay.Label_DisplayDuration>
+  <DawnNewDay.Label_FadeInDuration>Время появления</DawnNewDay.Label_FadeInDuration>
+  <DawnNewDay.Label_FadeOutDuration>Время исчезновения</DawnNewDay.Label_FadeOutDuration>
+  <DawnNewDay.Section_Text>Текст</DawnNewDay.Section_Text>
+  <DawnNewDay.Section_UpperText>Верхняя строка</DawnNewDay.Section_UpperText>
+  <DawnNewDay.Section_BottomText>Нижняя строка</DawnNewDay.Section_BottomText>
+  <DawnNewDay.Section_SubtitleText>Дополнительная строка</DawnNewDay.Section_SubtitleText>
+  <DawnNewDay.Label_DefaultFont>Стандартный шрифт игры</DawnNewDay.Label_DefaultFont>
+  <DawnNewDay.Label_FontFamily>Выбрать семейство шрифтов</DawnNewDay.Label_FontFamily>
+  <DawnNewDay.Label_FontSize>Размер шрифта</DawnNewDay.Label_FontSize>
+  <DawnNewDay.Label_Bold>Полужирный</DawnNewDay.Label_Bold>
+  <DawnNewDay.Label_Italic>Курсив</DawnNewDay.Label_Italic>
+  <DawnNewDay.Label_TextColor>Цвет текста</DawnNewDay.Label_TextColor>
+  <DawnNewDay.Label_OutlineThickness>Толщина обводки</DawnNewDay.Label_OutlineThickness>
+  <DawnNewDay.Label_OutlineColor>Цвет обводки</DawnNewDay.Label_OutlineColor>
+  <DawnNewDay.Label_Search>Поиск</DawnNewDay.Label_Search>
+  <DawnNewDay.Section_LabelFormat>Шаблон надписи</DawnNewDay.Section_LabelFormat>
+  <DawnNewDay.Label_TextFormat>Шаблон текста</DawnNewDay.Label_TextFormat>
+  <DawnNewDay.Label_UpperTextFormat>Шаблон верхней строки</DawnNewDay.Label_UpperTextFormat>
+  <DawnNewDay.Label_BottomTextFormat>Шаблон нижней строки</DawnNewDay.Label_BottomTextFormat>
+  <DawnNewDay.Label_SubtitleTextFormat>Шаблон дополнительной строки</DawnNewDay.Label_SubtitleTextFormat>
+  <DawnNewDay.Label_LabelFormatPresets>Готовые шаблоны надписей</DawnNewDay.Label_LabelFormatPresets>
+  <DawnNewDay.Label_LabelFormatHints>Справка по шаблонам</DawnNewDay.Label_LabelFormatHints>
+  <DawnNewDay.Label_RichTextHints>Справка по оформлению текста</DawnNewDay.Label_RichTextHints>
+  <DawnNewDay.Hint_Preset_DayAndHour>День и время [например, ДЕНЬ 5 06:00]</DawnNewDay.Hint_Preset_DayAndHour>
+  <DawnNewDay.Hint_Preset_Date>Дата [например, день 2; июгуст; 5500 год]</DawnNewDay.Hint_Preset_Date>
+  <DawnNewDay.Hint_Preset_TemperatureWithColor>Температура с цветовой индикацией [например, −10 °C — ледяной голубой, 50 °C — оранжевый]</DawnNewDay.Hint_Preset_TemperatureWithColor>
+  <DawnNewDay.Hint_Preset_SomewherePlace>Местоположение [например, Тилпая, 5521 год; где-то поблизости. Биом: пустыня]</DawnNewDay.Hint_Preset_SomewherePlace>
+  <DawnNewDay.Hint_Preset_UpperFormatDefault>Стандартный шаблон верхней строки</DawnNewDay.Hint_Preset_UpperFormatDefault>
+  <DawnNewDay.Hint_Preset_BottomFormatDefault>Стандартный шаблон нижней строки</DawnNewDay.Hint_Preset_BottomFormatDefault>
+  <DawnNewDay.Hint_Preset_SubtitleFormatDefault>Стандартный шаблон дополнительной строки</DawnNewDay.Hint_Preset_SubtitleFormatDefault>
+  <DawnNewDay.Hint_Format_DAY_SETTLE>День со времени основания поселения</DawnNewDay.Hint_Format_DAY_SETTLE>
+  <DawnNewDay.Hint_Format_DAY_QUADRUM>День квадрума (от 1 до 15)</DawnNewDay.Hint_Format_DAY_QUADRUM>
+  <DawnNewDay.Hint_Format_DAY_QUADRUM_ORDINAL>Порядковый номер дня квадрума (от 1 до 15) в формате языка игры [по-русски: 3, 12]</DawnNewDay.Hint_Format_DAY_QUADRUM_ORDINAL>
+  <DawnNewDay.Hint_Format_DAY_SEASON>День текущего времени года</DawnNewDay.Hint_Format_DAY_SEASON>
+  <DawnNewDay.Hint_Format_DAY_YEAR>День года (от 1 до 60; при отсчёте с нуля — от 0 до 59)</DawnNewDay.Hint_Format_DAY_YEAR>
+  <DawnNewDay.Hint_Format_YEAR>Полный номер года [например, 5500]</DawnNewDay.Hint_Format_YEAR>
+  <DawnNewDay.Hint_Format_YEAR_D2>Последние две цифры года [например, 00]</DawnNewDay.Hint_Format_YEAR_D2>
+  <DawnNewDay.Hint_Format_QUADRUM>Квадрум [например, мартомай]</DawnNewDay.Hint_Format_QUADRUM>
+  <DawnNewDay.Hint_Format_SEASON>Время года [например, весна]</DawnNewDay.Hint_Format_SEASON>
+  <DawnNewDay.Hint_Format_HOUR>Час [например, 6, 12]</DawnNewDay.Hint_Format_HOUR>
+  <DawnNewDay.Hint_Format_HOUR_D2>Час двумя цифрами [например, 06, 12]</DawnNewDay.Hint_Format_HOUR_D2>
+  <DawnNewDay.Hint_Format_WEATHER>Погода [например, ясно]</DawnNewDay.Hint_Format_WEATHER>
+  <DawnNewDay.Hint_Format_TEMPERATURE>Температура [например, 23,3 °C, 281,1 K, 44,7 °F]</DawnNewDay.Hint_Format_TEMPERATURE>
+  <DawnNewDay.Hint_Format_TEMPERATURE_COLOR>Цвет температуры в шестнадцатеричном формате [например, #RRGGBB] — для цветового оформления текста</DawnNewDay.Hint_Format_TEMPERATURE_COLOR>
+  <DawnNewDay.Hint_Format_WORLD>Название мира [например, Борце Карзан]</DawnNewDay.Hint_Format_WORLD>
+  <DawnNewDay.Hint_Format_BIOME>Биом [например, тундра]</DawnNewDay.Hint_Format_BIOME>
+  <DawnNewDay.Hint_Format_TERRAIN>Рельеф [например, небольшие холмы]</DawnNewDay.Hint_Format_TERRAIN>
+  <DawnNewDay.Hint_Format_ELEVATION>Высота над уровнем моря [например, 467 м]</DawnNewDay.Hint_Format_ELEVATION>
+  <DawnNewDay.Hint_Format_ELEVATION_KM>Высота над уровнем моря в километрах [например, 1,21 км]</DawnNewDay.Hint_Format_ELEVATION_KM>
+  <DawnNewDay.Hint_Format_POLLUTION>Процент загрязнения [например, 69,1%]</DawnNewDay.Hint_Format_POLLUTION>
+  <DawnNewDay.Hint_Format_CONDITION>Состояние окружения [например, солнечная вспышка, токсичные осадки]</DawnNewDay.Hint_Format_CONDITION>
+  <DawnNewDay.Hint_Format_FACTION>Название фракции [например, Фордо, Империя]</DawnNewDay.Hint_Format_FACTION>
+  <DawnNewDay.Hint_Format_SETTLEMENT>Название поселения [например, Троя, Рим]</DawnNewDay.Hint_Format_SETTLEMENT>
+  <DawnNewDay.Hint_Format_ENDLINE>Завершает текущую строку и начинает новую [например, Строка 1{ENDLINE}Строка 2]</DawnNewDay.Hint_Format_ENDLINE>
+  <DawnNewDay.Hint_Format_UPPER_FONTSIZE>Общий размер шрифта верхней строки</DawnNewDay.Hint_Format_UPPER_FONTSIZE>
+  <DawnNewDay.Hint_Format_BOTTOM_FONTSIZE>Общий размер шрифта нижней строки</DawnNewDay.Hint_Format_BOTTOM_FONTSIZE>
+  <DawnNewDay.Hint_Format_SUBTITLE_FONTSIZE>Общий размер шрифта дополнительной строки</DawnNewDay.Hint_Format_SUBTITLE_FONTSIZE>
+  <DawnNewDay.Hint_Format_Addition>Сложение значений или переменных [например, {DAY_SETTLE + OFFSET_HERE}]</DawnNewDay.Hint_Format_Addition>
+  <DawnNewDay.Hint_Format_Subtraction>Вычитание значений или переменных [например, {YEAR - OFFSET_HERE}]</DawnNewDay.Hint_Format_Subtraction>
+  <DawnNewDay.Hint_Format_Multiplication>Умножение значений или переменных [например, {2 * ELEVATION}]</DawnNewDay.Hint_Format_Multiplication>
+  <DawnNewDay.Hint_Format_Division>Деление значений или переменных [например, {UPPER_FONTSIZE / BOTTOM_FONTSIZE}]</DawnNewDay.Hint_Format_Division>
+  <DawnNewDay.Hint_RichText_Color>Задаёт цвет текста {COLOR_HERE: [eg. RED, blue]}</DawnNewDay.Hint_RichText_Color>
+  <DawnNewDay.Hint_RichText_ColorRGB>Задаёт цвет текста в формате RGB {RRGGBB_HERE: [eg. FF00FF, a0a0a0]}</DawnNewDay.Hint_RichText_ColorRGB>
+  <DawnNewDay.Hint_RichText_ColorRGBA>Задаёт цвет и непрозрачность текста в формате RGBA {RRGGBBAA_HERE: [eg. FF00FFA0, a0a0a0ff]}</DawnNewDay.Hint_RichText_ColorRGBA>
+  <DawnNewDay.Hint_RichText_Bold>Делает текст полужирным</DawnNewDay.Hint_RichText_Bold>
+  <DawnNewDay.Hint_RichText_Italic>Делает текст курсивным</DawnNewDay.Hint_RichText_Italic>
+  <DawnNewDay.Hint_RichText_FontSize>Изменяет размер шрифта</DawnNewDay.Hint_RichText_FontSize>
+  <DawnNewDay.Hint_RichText_Title>Начинает каждое слово с прописной буквы [например, фОРт заНкудо → Форт Занкудо]</DawnNewDay.Hint_RichText_Title>
+  <DawnNewDay.Hint_RichText_Upper>Преобразует все буквы в прописные [например, мартомай → МАРТОМАЙ]</DawnNewDay.Hint_RichText_Upper>
+  <DawnNewDay.Hint_RichText_Lower>Преобразует все буквы в строчные [например, Весна → весна]</DawnNewDay.Hint_RichText_Lower>
+  <DawnNewDay.Section_Sound>Звук</DawnNewDay.Section_Sound>
+  <DawnNewDay.Label_Sound>Выбрать звук</DawnNewDay.Label_Sound>
+  <DawnNewDay.Label_SoundVolume>Громкость</DawnNewDay.Label_SoundVolume>
+  <DawnNewDay.Label_SoundPitch>Высота тона</DawnNewDay.Label_SoundPitch>
+  <DawnNewDay.Section_Extra>Дополнительно</DawnNewDay.Section_Extra>
+  <DawnNewDay.Label_StartsAtZero>Считать с нулевого дня</DawnNewDay.Label_StartsAtZero>
+  <DawnNewDay.Label_ShowEveryXDays>Интервал показа в днях</DawnNewDay.Label_ShowEveryXDays>
+  <DawnNewDay.Label_TriggerHour>Час появления надписи</DawnNewDay.Label_TriggerHour>
+  <DawnNewDay.Section_Compatibility>Совместимость</DawnNewDay.Section_Compatibility>
+  <DawnNewDay.Label_ModIncompatibility>Мод сейчас выключен либо несовместим с этой версией RimWorld или Dawn of a New Day.</DawnNewDay.Label_ModIncompatibility>
+  <DawnNewDay.Label_MN_ExcludeOccasions>Исключённые категории памятных событий</DawnNewDay.Label_MN_ExcludeOccasions>
+  <DawnNewDay.Section_MN_Reminder>Напоминание</DawnNewDay.Section_MN_Reminder>
+  <DawnNewDay.Section_MN_Occasion>Памятное событие</DawnNewDay.Section_MN_Occasion>
+  <DawnNewDay.Label_MN_AddText>Добавить текст</DawnNewDay.Label_MN_AddText>
+  <DawnNewDay.Label_MN_MaximumDays>Начинать показ за столько дней</DawnNewDay.Label_MN_MaximumDays>
+  <DawnNewDay.Hint_MN_Preset_ReminderRemainWithSeverityColor>Напоминание в стиле Majora’s Mask с цветом по важности</DawnNewDay.Hint_MN_Preset_ReminderRemainWithSeverityColor>
+  <DawnNewDay.Hint_MN_Preset_ReminderRemainWithTimeColor>Напоминание в стиле Majora’s Mask с цветом по оставшемуся времени</DawnNewDay.Hint_MN_Preset_ReminderRemainWithTimeColor>
+  <DawnNewDay.Hint_MN_Preset_OccasionRemainWithTimeColor>Памятное событие в стиле Majora’s Mask с цветом по оставшемуся времени</DawnNewDay.Hint_MN_Preset_OccasionRemainWithTimeColor>
+  <DawnNewDay.Hint_MN_Preset_ReminderTextFormat>Стандартный шаблон напоминания</DawnNewDay.Hint_MN_Preset_ReminderTextFormat>
+  <DawnNewDay.Hint_MN_Preset_OccasionTextFormat>Стандартный шаблон памятного события</DawnNewDay.Hint_MN_Preset_OccasionTextFormat>
+  <DawnNewDay.Hint_MN_REMINDER_TITLE>Напоминание — заголовок [например, Судный день]</DawnNewDay.Hint_MN_REMINDER_TITLE>
+  <DawnNewDay.Hint_MN_REMINDER_MESSAGE>Напоминание — текст</DawnNewDay.Hint_MN_REMINDER_MESSAGE>
+  <DawnNewDay.Hint_MN_REMINDER_DAY_YEAR>Напоминание — день года [например, 14, 48]</DawnNewDay.Hint_MN_REMINDER_DAY_YEAR>
+  <DawnNewDay.Hint_MN_REMINDER_SEVERITY_COLOR>Напоминание — цвет важности в шестнадцатеричном формате [например, #RRGGBB] — для цветового оформления текста</DawnNewDay.Hint_MN_REMINDER_SEVERITY_COLOR>
+  <DawnNewDay.Hint_MN_REMINDER_REMAINING>Напоминание — оставшееся время с подбором единиц [например, 72 ч, 4 дня, 1 год]</DawnNewDay.Hint_MN_REMINDER_REMAINING>
+  <DawnNewDay.Hint_MN_REMINDER_REMAINING_DAY>Напоминание — оставшееся время в днях [например, 1, 24, 19]</DawnNewDay.Hint_MN_REMINDER_REMAINING_DAY>
+  <DawnNewDay.Hint_MN_REMINDER_REMAINING_HOUR>Напоминание — оставшееся время в часах [например, 16, 24]</DawnNewDay.Hint_MN_REMINDER_REMAINING_HOUR>
+  <DawnNewDay.Hint_MN_OCCASION_CATEGORY>Памятное событие — категория [например, достижение, день рождения]</DawnNewDay.Hint_MN_OCCASION_CATEGORY>
+  <DawnNewDay.Hint_MN_OCCASION_LABEL>Памятное событие — название</DawnNewDay.Hint_MN_OCCASION_LABEL>
+  <DawnNewDay.Hint_MN_OCCASION_DETAIL>Памятное событие — подробности</DawnNewDay.Hint_MN_OCCASION_DETAIL>
+  <DawnNewDay.Hint_MN_OCCASION_DAY_YEAR>Памятное событие — день года [например, 14, 48]</DawnNewDay.Hint_MN_OCCASION_DAY_YEAR>
+  <DawnNewDay.Hint_MN_REMINDER_REMAINING_COLOR>Напоминание — цвет оставшегося времени в шестнадцатеричном формате [например, #RRGGBB] — для цветового оформления текста</DawnNewDay.Hint_MN_REMINDER_REMAINING_COLOR>
+  <DawnNewDay.Hint_MN_OCCASION_REMAINING>Памятное событие — оставшееся время с подбором единиц [например, 72 ч, 4 дня, 1 год]</DawnNewDay.Hint_MN_OCCASION_REMAINING>
+  <DawnNewDay.Hint_MN_OCCASION_REMAINING_DAY>Памятное событие — оставшееся время в днях [например, 1, 24, 19]</DawnNewDay.Hint_MN_OCCASION_REMAINING_DAY>
+  <DawnNewDay.Hint_MN_OCCASION_REMAINING_HOUR>Памятное событие — оставшееся время в часах [например, 16, 24]</DawnNewDay.Hint_MN_OCCASION_REMAINING_HOUR>
+  <DawnNewDay.Hint_MN_OCCASION_REMAINING_COLOR>Памятное событие — цвет оставшегося времени в шестнадцатеричном формате [например, #RRGGBB] — для цветового оформления текста</DawnNewDay.Hint_MN_OCCASION_REMAINING_COLOR>
+  <DawnNewDay.Hint_MN_REMINDER_FONTSIZE>Общий размер шрифта напоминания</DawnNewDay.Hint_MN_REMINDER_FONTSIZE>
+  <DawnNewDay.Hint_MN_OCCASION_FONTSIZE>Общий размер шрифта памятного события</DawnNewDay.Hint_MN_OCCASION_FONTSIZE>
+  <chupakobra6_3771580900_UpperTextFormat>ДЕНЬ {DAY_SETTLE} &lt;size={UPPER_FONTSIZE / 2}&gt;{HOUR_D2}:00 | &lt;color={TEMPERATURE_COLOR}&gt;{TEMPERATURE}&lt;/color&gt;&lt;/size&gt;</chupakobra6_3771580900_UpperTextFormat>
+  <chupakobra6_3771580900_BottomTextFormat>ГОД {YEAR} | &lt;upper&gt;{QUADRUM}&lt;/upper&gt; | &lt;upper&gt;{SEASON}&lt;/upper&gt;</chupakobra6_3771580900_BottomTextFormat>
+  <chupakobra6_3771580900_MN_ReminderTextFormat>&lt;color={MN_REMINDER_SEVERITY_COLOR}&gt;&lt;size={MN_REMINDER_FONTSIZE / 1.25}&gt;{MN_REMINDER_TITLE}&lt;/size&gt;&lt;/color&gt;{ENDLINE}&lt;color={MN_REMINDER_REMAINING_COLOR}&gt;Осталось: {MN_REMINDER_REMAINING}&lt;/color&gt;</chupakobra6_3771580900_MN_ReminderTextFormat>
+  <chupakobra6_3771580900_MN_OccasionTextFormat>&lt;size={MN_OCCASION_FONTSIZE / 1.25}&gt;[{MN_OCCASION_CATEGORY}] {MN_OCCASION_LABEL}&lt;/size&gt;{ENDLINE}&lt;color={MN_OCCASION_REMAINING_COLOR}&gt;Осталось: {MN_OCCASION_REMAINING}&lt;/color&gt;</chupakobra6_3771580900_MN_OccasionTextFormat>
+</LanguageData>

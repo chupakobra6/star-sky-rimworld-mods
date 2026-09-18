@@ -1,0 +1,52 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<ModMetaData>
+  <name>Performance Esmolas — русский перевод [Star Sky Mods]</name>
+  <author>chupakobra6 | Star Sky Mods</author>
+  <packageId>starsky.rimworld.ru.3676343434</packageId>
+  <modVersion>1.0.0</modVersion>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>arkymn.performanceesmolas</packageId>
+      <displayName>Performance Esmolas</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/3676343434</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>arkymn.performanceesmolas</li>
+  </loadAfter>
+  <description>Самый полный русский перевод Performance Esmolas (https://steamcommunity.com/sharedfiles/filedetails/?id=3676343434) для RimWorld 1.6. Оригинальный мод устанавливается отдельно.
+
+Performance Esmolas предлагает настройки, которые сокращают часть повторяющихся расчётов: обработку персонажей за пределами карт, медитацию, обновление мировых идеологий, колыхание растений и пересчёт характеристик.
+
+&lt;b&gt;ЧТО ПЕРЕВЕДЕНО&lt;/b&gt;
+Переведены все тексты мода с учётом правильных окончаний и согласования слов.
+
+• Переключатели оптимизаций и подробные подсказки.
+• Редактор кэша характеристик: кнопки, единицы времени и названия характеристик.
+• Сообщения о включении функций, ошибках применения исправлений и отмене консервации персонажей.
+
+&lt;b&gt;КАК ПОЛЬЗОВАТЬСЯ&lt;/b&gt;
+Выберите русский язык в настройках RimWorld.
+
+Откройте настройки Performance Esmolas.
+
+&lt;b&gt;СОВМЕСТИМОСТЬ&lt;/b&gt;
+Требуются Harmony (https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077) и Performance Esmolas (https://steamcommunity.com/sharedfiles/filedetails/?id=3676343434). Порядок загрузки: Harmony → оригинальный мод → этот перевод.
+
+Другой русский перевод того же мода может перекрывать эти тексты; оставьте включённым один перевод.
+
+&lt;b&gt;ОБРАТНАЯ СВЯЗЬ&lt;/b&gt;
+Заметили ошибку или неточность? Напишите в комментариях на странице мода или на Boosty.
+
+Автор оригинального мода: Arkymn.
+
+Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.</description>
+</ModMetaData>

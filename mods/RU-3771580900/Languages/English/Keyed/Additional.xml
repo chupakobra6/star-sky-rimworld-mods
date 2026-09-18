@@ -1,0 +1,7 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <chupakobra6_3771580900_UpperTextFormat>DAY {DAY_SETTLE} &lt;size={UPPER_FONTSIZE / 2}&gt;{HOUR_D2}:00 | &lt;color={TEMPERATURE_COLOR}&gt;{TEMPERATURE}&lt;/color&gt;&lt;/size&gt;</chupakobra6_3771580900_UpperTextFormat>
+  <chupakobra6_3771580900_BottomTextFormat>YEAR {YEAR} | &lt;upper&gt;{QUADRUM}&lt;/upper&gt; | &lt;upper&gt;{SEASON}&lt;/upper&gt;</chupakobra6_3771580900_BottomTextFormat>
+  <chupakobra6_3771580900_MN_ReminderTextFormat>&lt;color={MN_REMINDER_SEVERITY_COLOR}&gt;&lt;size={MN_REMINDER_FONTSIZE / 1.25}&gt;{MN_REMINDER_TITLE}&lt;/size&gt;&lt;/color&gt;{ENDLINE}&lt;color={MN_REMINDER_REMAINING_COLOR}&gt;-{MN_REMINDER_REMAINING} Remain-&lt;/color&gt;</chupakobra6_3771580900_MN_ReminderTextFormat>
+  <chupakobra6_3771580900_MN_OccasionTextFormat>&lt;size={MN_OCCASION_FONTSIZE / 1.25}&gt;[{MN_OCCASION_CATEGORY}] {MN_OCCASION_LABEL}&lt;/size&gt;{ENDLINE}&lt;color={MN_OCCASION_REMAINING_COLOR}&gt;-{MN_OCCASION_REMAINING} Remain-&lt;/color&gt;</chupakobra6_3771580900_MN_OccasionTextFormat>
+</LanguageData>
