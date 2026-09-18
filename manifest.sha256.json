@@ -181,8 +181,8 @@
     },
     {
       "path": "mods/IsekaiBalancedStatsQuickQuests/README.md",
-      "bytes": 7537,
-      "sha256": "41057806d4ccd67593dc584c7042a19d0d1c38b760fe30c335c162a342172e4a"
+      "bytes": 7757,
+      "sha256": "9af86812d7311c0a8f261ea373cd5c6324905006aa3f3716733b711b3c88fef3"
     },
     {
       "path": "mods/IsekaiBalancedStatsQuickQuests/Source/IsekaiBalancedStatsQuickQuests/AutoStatDistributionPatch.cs",
@@ -291,8 +291,8 @@
     },
     {
       "path": "mods/IsekaiNoAutoCameraJump/README.md",
-      "bytes": 3953,
-      "sha256": "5a8e84431128d249b27bad55c33115b4a235580c26093dac8f5909e7ca0dc33b"
+      "bytes": 4243,
+      "sha256": "af576c860c992ae18aeb2cbbf149994e71c70f1e6d964a62d7cde9beebfa2ed5"
     },
     {
       "path": "mods/IsekaiNoAutoCameraJump/Source/IsekaiNoAutoCameraJump/CameraJumpModSettings.cs",
@@ -356,8 +356,8 @@
     },
     {
       "path": "mods/IsekaiQuickQuests/README.md",
-      "bytes": 3174,
-      "sha256": "83c3622a756a5546e666dffed1d182dd76ca653e047f132f6638b26fbf39841b"
+      "bytes": 3464,
+      "sha256": "a95e9815dfac8046ac7f60e9b8b6b957ffc60f2ad47e72f72ec93ccca7329c58"
     },
     {
       "path": "mods/IsekaiQuickQuests/Source/IsekaiQuickQuests/Bootstrap.cs",
@@ -456,8 +456,8 @@
     },
     {
       "path": "mods/RU-1593245720/README.md",
-      "bytes": 3291,
-      "sha256": "010afdf69c9433df721fab059db46850a81bcebdfcd8dddc046ac66fe54f78d6"
+      "bytes": 3762,
+      "sha256": "a7629404454c0ab442927e58f2c8f7962b5aa96d1b157e1f73970495d626df0d"
     },
     {
       "path": "mods/RU-1593245720/Source/Literals.cs",
@@ -516,8 +516,8 @@
     },
     {
       "path": "mods/RU-1713367505/README.md",
-      "bytes": 3170,
-      "sha256": "be290abbb9ce6892450f6bdff402c11a22b87f526f08db2ea379b5d418c29bcf"
+      "bytes": 3589,
+      "sha256": "91ceb918d1f14a6c1dba2ba41bf40f53d34b50d244a7566e4c135265a3885007"
     },
     {
       "path": "mods/RU-1713367505/Source/Literals.cs",
@@ -621,8 +621,8 @@
     },
     {
       "path": "mods/RU-1814100216/README.md",
-      "bytes": 3460,
-      "sha256": "f55cf2315a8675ee8973a80718e9c1cabe69906c25c161339c32af63cbbfc635"
+      "bytes": 3931,
+      "sha256": "94283e0bf60c90a67627afcefe4bbcf2225f6868b1c66e9884cbf9b681dc3f96"
     },
     {
       "path": "mods/RU-1814100216/Source/Literals.cs",
@@ -681,8 +681,8 @@
     },
     {
       "path": "mods/RU-2562730174/README.md",
-      "bytes": 3203,
-      "sha256": "7582a6d9ba1b814ad19e39b76747398c707a5a624e1171c65fb7f7c97e3a5a37"
+      "bytes": 3622,
+      "sha256": "a875ae68dd98a48af297a1c6f158bc6fab731f968c03d2ceaff3628da14c537c"
     },
     {
       "path": "mods/RU-2562730174/Source/Literals.cs",
@@ -756,8 +756,8 @@
     },
     {
       "path": "mods/RU-3033901359/README.md",
-      "bytes": 4571,
-      "sha256": "d7ae31a89fa2f5fc6b8898c716573d2044193b37a7eb5059849a504efacdd4a5"
+      "bytes": 4982,
+      "sha256": "46c20f9fb6b96a0b5c54cf47ca1c843cb803e5ddcaa275ba7fa3e2c530c530e5"
     },
     {
       "path": "mods/RU-3033901359/Source/CommandLabels.cs",
@@ -821,8 +821,8 @@
     },
     {
       "path": "mods/RU-3232415388/README.md",
-      "bytes": 3286,
-      "sha256": "3c660088315cb5daecfea94834085bd946bf061b1f283f5c7f3bd4bef7c852ca"
+      "bytes": 3705,
+      "sha256": "17313f5fac888c285be79932fc3fd30436161cb8f3ac63d66e34b9ab85fd9ace"
     },
     {
       "path": "mods/RU-3232415388/Source/Literals.cs",
@@ -886,8 +886,8 @@
     },
     {
       "path": "mods/RU-3506573327/README.md",
-      "bytes": 3646,
-      "sha256": "d93c5b5eb101b0317b8d55badc4405fc60517237e503b52bc046ee33a712f660"
+      "bytes": 4141,
+      "sha256": "cf5e7e83ad257ba6fc259ea1f5ecd39411108540eac6a11c1292dabbcfc16768"
     },
     {
       "path": "mods/RU-3506573327/Source/Literals.cs",
@@ -961,8 +961,8 @@
     },
     {
       "path": "mods/RU-3512466087/README.md",
-      "bytes": 3392,
-      "sha256": "d5f9c482d5269daf6f7cc0600c9436cf3c7eb1a2d9a7af9179cf23d895a12cd1"
+      "bytes": 3887,
+      "sha256": "f440c6d2d49445a0d6d502fcace39f11e6ee2e239f1bbd966e8894a0a1037d40"
     },
     {
       "path": "mods/RU-3512466087/Source/Overrides.cs",
@@ -1021,8 +1021,8 @@
     },
     {
       "path": "mods/RU-3520130671/README.md",
-      "bytes": 3833,
-      "sha256": "a1fee2fd2fbe64753e9386e42afffa6618666a64a8586078ea8b95b609b221dc"
+      "bytes": 4328,
+      "sha256": "ea9c0385934bc0aacf2d9d18f07f87f42b74afb7e25988c798a54dc1708eb19a"
     },
     {
       "path": "mods/RU-3520130671/Source/Literals.cs",
@@ -1206,8 +1206,8 @@
     },
     {
       "path": "mods/RU-3537788184/README.md",
-      "bytes": 3448,
-      "sha256": "80be855a7c0d52e39639c4b077d2f594e338d7b93c628d750120af83938f3ec3"
+      "bytes": 3943,
+      "sha256": "f8233022129a57323f4c1dee61937855d7eb206ba793dc1ddee14e70986b3d29"
     },
     {
       "path": "mods/RU-3537788184/Source/Literals.cs",
@@ -1261,8 +1261,8 @@
     },
     {
       "path": "mods/RU-3695225114/README.md",
-      "bytes": 2893,
-      "sha256": "db06eadc5190116b99810d032ddf23469cc1e11bea428bbb34796cec3fa34a23"
+      "bytes": 3312,
+      "sha256": "e9bf28edbbdebe7ccaa9d74ee4129c70230b3638140c181b99c98cb9e14de9ac"
     },
     {
       "path": "README.md",

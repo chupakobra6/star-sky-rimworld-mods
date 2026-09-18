@@ -4,7 +4,9 @@
 
 [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3802965084) · [All categories](../../README.md) · [Sources & notices](NOTICES.md)
 
+<!-- rimmods:readme intro begin -->
 Accept a straightforward ISEKAI quest with one middle-click on its letter, without opening the quest tab. This saves a trip to the quest screen for offers you already want to accept.
+<!-- rimmods:readme intro end -->
 
 ## How it works
 
@@ -28,8 +30,14 @@ Quick Quests stores no colony save data and can be added to or removed from an e
 
 Source is in `Source` under the included MIT license. The `.csproj` accepts `RimWorldManagedPath` and `HarmonyAssemblyPath` pointing to your installed dependencies. These DLLs are not distributed here.
 
+<!-- rimmods:readme feedback begin -->
 Found a bug or an inaccuracy? Leave a comment on the mod page or on Boosty.
+<!-- rimmods:readme feedback end -->
 
+<!-- rimmods:readme credit begin -->
 Preview artwork: POUPUN / ISEKAI RPG LEVELING.
+<!-- rimmods:readme credit end -->
 
+<!-- rimmods:readme ludeon begin -->
 Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.
+<!-- rimmods:readme ludeon end -->

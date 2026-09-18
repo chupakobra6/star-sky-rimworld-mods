@@ -50,11 +50,17 @@ Can be added to an existing save. Back up before removing a mod from an ongoing 
 
 ## Feedback
 
+<!-- rimmods:readme feedback begin -->
 Found a bug or an inaccuracy? Leave a comment on the mod page or on Boosty.
+<!-- rimmods:readme feedback end -->
 
+<!-- rimmods:readme credit begin -->
 Preview artwork: POUPUN / ISEKAI RPG LEVELING.
+<!-- rimmods:readme credit end -->
 
+<!-- rimmods:readme ludeon begin -->
 Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.
+<!-- rimmods:readme ludeon end -->
 
 ## Development and license
 

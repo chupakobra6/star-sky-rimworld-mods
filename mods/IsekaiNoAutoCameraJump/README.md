@@ -4,9 +4,11 @@
 
 [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3789336886) · [All categories](../../README.md) · [Sources & notices](NOTICES.md)
 
+<!-- rimmods:readme intro begin -->
 Keep your camera where you left it when a local ISEKAI hunt spawns its target.
 
 For example, if you are planning rooms when a hunt creature appears, the view stays on your base instead of suddenly moving to the creature. You can finish what you are doing and inspect the target when you are ready.
+<!-- rimmods:readme intro end -->
 
 ## What it does
 
@@ -39,8 +41,14 @@ The patch suppresses `CameraJumper.TryJump` and `CameraJumper.TryJumpAndSelect` 
 
 Letters, messages and their clickable `LookTargets` are untouched. Source is in `Source`; see [LICENSE](LICENSE) for the code license. The `.csproj` accepts `RimWorldManagedPath` and `HarmonyAssemblyPath` pointing to your installed dependencies. Building requires C# tools; game and third-party DLLs are not distributed here. RimWorld and ISEKAI names and materials remain the property of their respective owners.
 
+<!-- rimmods:readme feedback begin -->
 Found a bug or an inaccuracy? Leave a comment on the mod page or on Boosty.
+<!-- rimmods:readme feedback end -->
 
+<!-- rimmods:readme credit begin -->
 Preview artwork: POUPUN / ISEKAI RPG LEVELING.
+<!-- rimmods:readme credit end -->
 
+<!-- rimmods:readme ludeon begin -->
 Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.
+<!-- rimmods:readme ludeon end -->
