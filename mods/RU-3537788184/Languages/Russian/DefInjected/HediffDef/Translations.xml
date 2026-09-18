@@ -1,0 +1,84 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <MA_BottledEmberRage.label>ярость сердца из зелья</MA_BottledEmberRage.label>
+  <MA_BottledEmberRage.description>Концентрированная эссенция сердца скародона, сохранённая в зелье. Ярость накатывает быстро и бурно, наполняя тело сокрушительной силой. Приготовленная доза дольше горит в крови, а после оставляет нервную систему истощённой.</MA_BottledEmberRage.description>
+  <MA_BottledEmberRage.stages.0.label>откат</MA_BottledEmberRage.stages.0.label>
+  <MA_BottledEmberRage.stages.1.label>сильное действие</MA_BottledEmberRage.stages.1.label>
+  <MA_MossmireDraughtBuff.stages.1.label>сильное действие</MA_MossmireDraughtBuff.stages.1.label>
+  <MA_AmineSerumEffect.stages.1.label>сильное действие</MA_AmineSerumEffect.stages.1.label>
+  <MA_EmberRage.stages.1.label>сильное действие</MA_EmberRage.stages.1.label>
+  <MA_SkyfeatherVision.stages.1.label>сильное действие</MA_SkyfeatherVision.stages.1.label>
+  <MA_SivaDustCalming.stages.1.label>сильное действие</MA_SivaDustCalming.stages.1.label>
+  <MA_BottledHellboarLiverPurge.label>печёночное очищение зельем</MA_BottledHellboarLiverPurge.label>
+  <MA_BottledHellboarLiverPurge.description>Концентрированная вытяжка печени адского вепря в форме зелья. Жестоко прогоняет токсины через организм, приглушает боль и усиливает иммунный ответ. После неё остаются слабость, спутанность сознания и физическое недомогание.</MA_BottledHellboarLiverPurge.description>
+  <MA_BottledHellboarLiverPurge.stages.0.label>ослабевающее очищение</MA_BottledHellboarLiverPurge.stages.0.label>
+  <MA_BottledHellboarLiverPurge.stages.1.label>бурное очищение</MA_BottledHellboarLiverPurge.stages.1.label>
+  <MA_BottledSivaDustCalming.label>покой от сива-зелья</MA_BottledSivaDustCalming.label>
+  <MA_BottledSivaDustCalming.description>Концентрированное зелье из сива-порошка бивней. Глубоко воздействует на нервную систему, приглушая боль и успокаивая мысли. Но тело становится тяжёлым и медлительным, словно каждое движение должно пройти через далёкий механизм, прежде чем достичь конечностей.</MA_BottledSivaDustCalming.description>
+  <MA_BottledSivaDustCalming.stages.0.label>тяжёлый покой</MA_BottledSivaDustCalming.stages.0.label>
+  <MA_BottledSivaDustCalming.stages.1.label>глубокий покой</MA_BottledSivaDustCalming.stages.1.label>
+  <MA_GreatHerdHunger.label>миграция большого стада</MA_GreatHerdHunger.label>
+  <MA_GreatHerdHunger.description>Этот гнаут участвует в большой миграции в поисках свежих пастбищ. Его обмен веществ сильно ускорен, поэтому он необычайно жадно поедает растительность.
+
+Если кормов не хватит и начнётся истощение от голода, всё стадо вместе двинется дальше.</MA_GreatHerdHunger.description>
+  <MA_GreatHerdHunger.stages.0.label>миграция</MA_GreatHerdHunger.stages.0.label>
+  <MA_WoundedManehoundRecovery.label>&lt;color=#ff6666&gt;травматический коллапс&lt;/color&gt;</MA_WoundedManehoundRecovery.label>
+  <MA_WoundedManehoundRecovery.description>После тяжёлых травм организм этого гривастого пса отказывает. Для выздоровления ему нужны пища, укрытие и лечение инфекции.</MA_WoundedManehoundRecovery.description>
+  <MA_WoundedManehoundRecovery.stages.0.label>шатается</MA_WoundedManehoundRecovery.stages.0.label>
+  <MA_WoundedManehoundRecovery.stages.1.label>без сил</MA_WoundedManehoundRecovery.stages.1.label>
+  <MA_WoundedManehoundRecovery.stages.2.label>стабилизация</MA_WoundedManehoundRecovery.stages.2.label>
+  <MA_Narkosis.label>наркоз</MA_Narkosis.label>
+  <MA_Narkosis.description>Парализующий токсин распространяется по организму, постепенно нарушая движение и сознание. При максимальной тяжести наступает состояние, похожее на спячку: существо бездействует, пока токсин медленно выводится.</MA_Narkosis.description>
+  <MA_Narkosis.stages.0.label>слабый: 25%</MA_Narkosis.stages.0.label>
+  <MA_Narkosis.stages.1.label>умеренный: 50%</MA_Narkosis.stages.1.label>
+  <MA_Narkosis.stages.2.label>тяжёлый: 75%</MA_Narkosis.stages.2.label>
+  <MA_Narkosis.stages.3.label>спячка: 100%</MA_Narkosis.stages.3.label>
+  <MA_MigratoryHunger.label>миграционный голод</MA_MigratoryHunger.label>
+  <MA_MigratoryHunger.description>После бесконечных переходов по бесплодным землям, где почти нет растительности, инстинкт и усталость вызывают у пластомамонтов сильнейший голод. Их тела расходуют энергию с огромной скоростью.
+
+Такой обмен веществ вынуждает их отчаянно поедать любую доступную растительность.</MA_MigratoryHunger.description>
+  <MA_MigratoryHunger.stages.0.label>инстинкт</MA_MigratoryHunger.stages.0.label>
+  <MA_PlastemmothAlphaPresence.label>присутствие вожака</MA_PlastemmothAlphaPresence.label>
+  <MA_SimbakubAlphaLeadership.label>присутствие вожака</MA_SimbakubAlphaLeadership.label>
+  <MA_PlastemmothAlphaPresence.description>Присутствие пластомамонта-вожака успокаивает стадо и делает его действия более согласованными.</MA_PlastemmothAlphaPresence.description>
+  <MA_PlastemmothAlphaPresence.stages.0.label>Вожак рядом</MA_PlastemmothAlphaPresence.stages.0.label>
+  <MA_SimbakubAlphaLeadership.description>Присутствие вожака укрепляет прайд, повышая выносливость, дисциплину и сплочённость.</MA_SimbakubAlphaLeadership.description>
+  <MA_SimbakubAlphaLeadership.stages.0.label>вожак рядом</MA_SimbakubAlphaLeadership.stages.0.label>
+  <MA_SimbakubAlphaAbsence.label>отсутствие вожака</MA_SimbakubAlphaAbsence.label>
+  <MA_SimbakubAlphaAbsence.description>Без вожака прайд теряет организованность и уверенность. Удары становятся менее точными, а напряжение сковывает движения.</MA_SimbakubAlphaAbsence.description>
+  <MA_SimbakubAlphaAbsence.stages.0.label>вожака нет рядом</MA_SimbakubAlphaAbsence.stages.0.label>
+  <MA_SimbakubPackInstinct.label>слаженность стаи</MA_SimbakubPackInstinct.label>
+  <MA_SimbakubPackInstinct.description>Во время согласованной охоты инстинктивное сотрудничество позволяет симбакубам сражаться точнее, быстрее и решительнее.</MA_SimbakubPackInstinct.description>
+  <MA_SimbakubPackInstinct.stages.0.label>слаженность стаи</MA_SimbakubPackInstinct.stages.0.label>
+  <MA_SimbakubOvercrowded.label>скученность</MA_SimbakubOvercrowded.label>
+  <MA_SimbakubOvercrowded.description>Слишком много симбакубов в одном месте создают напряжение и путаницу. Стая становится медленнее, менее точной, а её действия легче нарушить.</MA_SimbakubOvercrowded.description>
+  <MA_SimbakubOvercrowded.stages.0.label>слишком много сородичей рядом</MA_SimbakubOvercrowded.stages.0.label>
+  <MA_SimbakubLone.label>одиночество</MA_SimbakubLone.label>
+  <MA_SimbakubLone.description>Без сородичей симбакуб напряжён и рассеян. Инстинктивная слаженность движений нарушается.</MA_SimbakubLone.description>
+  <MA_SimbakubLone.stages.0.label>без стаи</MA_SimbakubLone.stages.0.label>
+  <MA_MossmireDraughtBuff.label>болотно-моховой настой</MA_MossmireDraughtBuff.label>
+  <MA_MossmireDraughtBuff.description>Болотно-моховой настой на время усиливает способность организма к заживлению и ускоряет восстановление.</MA_MossmireDraughtBuff.description>
+  <MA_MossmireDraughtBuff.stages.0.label>ослабление действия</MA_MossmireDraughtBuff.stages.0.label>
+  <MA_AmineSerumEffect.stages.0.label>ослабление действия</MA_AmineSerumEffect.stages.0.label>
+  <MA_AminoxBlueCheeseEffect.stages.0.label>ослабление действия</MA_AminoxBlueCheeseEffect.stages.0.label>
+  <MA_EmberRage.stages.0.label>ослабление действия</MA_EmberRage.stages.0.label>
+  <MA_HellboarLiverPurge.stages.0.label>ослабление действия</MA_HellboarLiverPurge.stages.0.label>
+  <MA_SivaDustCalming.stages.0.label>ослабление действия</MA_SivaDustCalming.stages.0.label>
+  <MA_AmineSerumEffect.label>аминовая сыворотка</MA_AmineSerumEffect.label>
+  <MA_AmineSerumEffect.description>Сыворотка подавляет боль и заставляет кровеносную систему работать с повышенной нагрузкой, на время улучшая кровообращение и фильтрацию крови.</MA_AmineSerumEffect.description>
+  <MA_AminoxBlueCheeseEffect.label>голубой сыр аминокса</MA_AminoxBlueCheeseEffect.label>
+  <MA_AminoxBlueCheeseEffect.description>Активные аминовые соединения в сыре ненадолго и мягко стимулируют кровообращение и фильтрацию крови.</MA_AminoxBlueCheeseEffect.description>
+  <MA_AminoxBlueCheeseEffect.stages.1.label>действует</MA_AminoxBlueCheeseEffect.stages.1.label>
+  <MA_EmberRage.label>ярость сердца</MA_EmberRage.label>
+  <MA_EmberRage.description>Эссенция скародона наполняет тело первобытной энергией. Мышцы напрягаются, инстинкты обостряются, но ярость недолговечна: вспыхнув, она угасает. На краткий миг человек становится зверем.</MA_EmberRage.description>
+  <MA_HellboarLiverPurge.label>печёночное очищение</MA_HellboarLiverPurge.label>
+  <MA_HellboarLiverPurge.description>Токсины печени адского вепря выворачивают внутренности. Инфекция выгорает, но организму приходится за это платить. Мощная эссенция заполняет кровь, приглушая боль и усиливая иммунный ответ. Сознание мутнеет, а транс делает тело уязвимым.</MA_HellboarLiverPurge.description>
+  <MA_HellboarLiverPurge.stages.1.label>печёночное очищение</MA_HellboarLiverPurge.stages.1.label>
+  <MA_SkyfeatherVision.label>зоркость небесного пера</MA_SkyfeatherVision.label>
+  <MA_SkyfeatherVision.description>Масла из перьев орла-исполина обостряют чувства, делают прицел твёрже и позволяют видеть будто за самым горизонтом.</MA_SkyfeatherVision.description>
+  <MA_SkyfeatherVision.stages.0.label>откат небесного пера</MA_SkyfeatherVision.stages.0.label>
+  <MA_SivaDustCalming.label>успокоение сива-порошком</MA_SivaDustCalming.label>
+  <MA_SivaDustCalming.description>Сива-порошок бивней замедляет движения и ослабляет боль, одновременно немного проясняя мысли и обостряя восприятие. Он влияет на проведение нервных импульсов и управление мышцами, придавая устойчивость и облегчая боль.</MA_SivaDustCalming.description>
+  <MA_HealmossBuff.label>лечение целебным мхом</MA_HealmossBuff.label>
+  <MA_HealmossBuff.description>Успокаивающее лечение волокнами с мохового оленя. Временно ускоряет естественное восстановление и повышает сопротивляемость болезням.</MA_HealmossBuff.description>
+</LanguageData>

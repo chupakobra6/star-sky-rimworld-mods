@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <MA_ArrowHighVelocity.label>попадание стрелы лесного лука</MA_ArrowHighVelocity.label>
+  <MA_ArrowHighVelocity.deathMessage>{0} получает смертельное сквозное ранение стремительной стрелой лесного лука.</MA_ArrowHighVelocity.deathMessage>
+  <MA_NarkospiderBite.label>укус наркопаука</MA_NarkospiderBite.label>
+  <MA_NarkospiderBite.deathMessage>{0} погибает от укусов.</MA_NarkospiderBite.deathMessage>
+  <MA_NarkospiderCrush.label>сокрушительные клыки</MA_NarkospiderCrush.label>
+  <MA_NarkospiderCrush.deathMessage>{0} погибает от побоев.</MA_NarkospiderCrush.deathMessage>
+</LanguageData>

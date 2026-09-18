@@ -105,3 +105,13 @@ RimWorld 1.6 · Версия 1.0.0
 RimWorld 1.6 · Версия 1.0.0
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3803465507) · [Исходники и руководство](../mods/RU-3520130671/README.md) · [История изменений](../mods/RU-3520130671/CHANGELOG.md) · [Лицензия](../mods/RU-3520130671/LICENSE) · [Источники и уведомления](../mods/RU-3520130671/NOTICES.md)
+
+## Mythic Ages: Megafauna Bestiary — русский перевод
+
+Русский перевод Mythic Ages: Megafauna Bestiary: огромные звери, необычные ресурсы, рецепты и события.
+
+[![Mythic Ages: Megafauna Bestiary — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/mythic-ages-megafauna-bestiary-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803697838)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3803697838) · [Исходники и руководство](../mods/RU-3537788184/README.md) · [История изменений](../mods/RU-3537788184/CHANGELOG.md) · [Лицензия](../mods/RU-3537788184/LICENSE) · [Источники и уведомления](../mods/RU-3537788184/NOTICES.md)

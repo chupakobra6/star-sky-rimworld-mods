@@ -1,0 +1,68 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <MA_Aminox.label>аминокс</MA_Aminox.label>
+  <MA_Aminox.lifeStages.0.label>телёнок аминокса</MA_Aminox.lifeStages.0.label>
+  <MA_Aminox.lifeStages.0.labelPlural>телята аминокса</MA_Aminox.lifeStages.0.labelPlural>
+  <MA_Capryak.label>каприяк</MA_Capryak.label>
+  <MA_Capryak.lifeStages.0.label>козлёнок каприяка</MA_Capryak.lifeStages.0.label>
+  <MA_Capryak.lifeStages.0.labelPlural>козлята каприяка</MA_Capryak.lifeStages.0.labelPlural>
+  <MA_Deermoss.label>моховой олень</MA_Deermoss.label>
+  <MA_Deermoss.lifeStages.0.label>моховой оленёнок</MA_Deermoss.lifeStages.0.label>
+  <MA_Deermoss.lifeStages.0.labelPlural>моховые оленята</MA_Deermoss.lifeStages.0.labelPlural>
+  <MA_Direhorse.label>лютокон</MA_Direhorse.label>
+  <MA_Direhorse.labelPlural>лютоконы</MA_Direhorse.labelPlural>
+  <MA_Direhorse.lifeStages.0.label>жеребёнок лютокона</MA_Direhorse.lifeStages.0.label>
+  <MA_Direhorse.lifeStages.0.labelPlural>жеребята лютокона</MA_Direhorse.lifeStages.0.labelPlural>
+  <MA_Dunbear.label>дунбер</MA_Dunbear.label>
+  <MA_Dunbear.lifeStages.0.label>детёныш дунбера</MA_Dunbear.lifeStages.0.label>
+  <MA_Dunbear.lifeStages.0.labelPlural>детёныши дунбера</MA_Dunbear.lifeStages.0.labelPlural>
+  <MA_Duskhorn.label>сумеркорог</MA_Duskhorn.label>
+  <MA_Duskhorn.lifeStages.0.label>телёнок сумеркорога</MA_Duskhorn.lifeStages.0.label>
+  <MA_Duskhorn.lifeStages.0.labelPlural>телята сумеркорога</MA_Duskhorn.lifeStages.0.labelPlural>
+  <MA_Furpotamus.label>шерстебегемот</MA_Furpotamus.label>
+  <MA_Furpotamus.lifeStages.0.label>детёныш шерстебегемота</MA_Furpotamus.lifeStages.0.label>
+  <MA_Furpotamus.lifeStages.0.labelPlural>детёныши шерстебегемота</MA_Furpotamus.lifeStages.0.labelPlural>
+  <MA_Gnaut.label>гнаут</MA_Gnaut.label>
+  <MA_Gnaut.lifeStages.0.label>телёнок гнаута</MA_Gnaut.lifeStages.0.label>
+  <MA_Gnaut.lifeStages.0.labelPlural>телята гнаута</MA_Gnaut.lifeStages.0.labelPlural>
+  <MA_Harpeagle.label>орёл-исполин</MA_Harpeagle.label>
+  <MA_Harpeagle.lifeStages.0.label>птенец орла-исполина</MA_Harpeagle.lifeStages.0.label>
+  <MA_Harpeagle.lifeStages.0.labelPlural>птенцы орла-исполина</MA_Harpeagle.lifeStages.0.labelPlural>
+  <MA_Harpeagle.lifeStages.1.label>молодой орёл-исполин</MA_Harpeagle.lifeStages.1.label>
+  <MA_Harpeagle.lifeStages.1.labelPlural>молодые орлы-исполины</MA_Harpeagle.lifeStages.1.labelPlural>
+  <MA_Harpeagle.lifeStages.2.label>орёл-исполин</MA_Harpeagle.lifeStages.2.label>
+  <MA_Harpeagle.lifeStages.2.labelPlural>орлы-исполины</MA_Harpeagle.lifeStages.2.labelPlural>
+  <MA_Hellboar.label>адский вепрь</MA_Hellboar.label>
+  <MA_Hellboar.lifeStages.0.label>поросёнок адского вепря</MA_Hellboar.lifeStages.0.label>
+  <MA_Hellboar.lifeStages.0.labelPlural>поросята адского вепря</MA_Hellboar.lifeStages.0.labelPlural>
+  <MA_Manehound.label>гривастый пёс</MA_Manehound.label>
+  <MA_Manehound.labelPlural>гривастые псы</MA_Manehound.labelPlural>
+  <MA_Manehound.lifeStages.0.label>щенок гривастого пса</MA_Manehound.lifeStages.0.label>
+  <MA_Manehound.lifeStages.0.labelPlural>щенки гривастого пса</MA_Manehound.lifeStages.0.labelPlural>
+  <MA_Narkospider.label>наркопаук</MA_Narkospider.label>
+  <MA_Plastemmoth.label>пластомамонт</MA_Plastemmoth.label>
+  <MA_Plastemmoth.lifeStages.0.label>детёныш пластомамонта</MA_Plastemmoth.lifeStages.0.label>
+  <MA_Plastemmoth.lifeStages.0.labelPlural>детёныши пластомамонта</MA_Plastemmoth.lifeStages.0.labelPlural>
+  <MA_PlastemmothAlpha.label>пластомамонт-вожак</MA_PlastemmothAlpha.label>
+  <MA_PlastemmothAlpha.lifeStages.0.label>детёныш пластомамонта-вожака</MA_PlastemmothAlpha.lifeStages.0.label>
+  <MA_PlastemmothAlpha.lifeStages.0.labelPlural>детёныши пластомамонта-вожака</MA_PlastemmothAlpha.lifeStages.0.labelPlural>
+  <MA_Raptorkhan.label>рапторхан</MA_Raptorkhan.label>
+  <MA_Raptorkhan.lifeStages.0.label>птенец рапторхана</MA_Raptorkhan.lifeStages.0.label>
+  <MA_Raptorkhan.lifeStages.0.labelPlural>птенцы рапторхана</MA_Raptorkhan.lifeStages.0.labelPlural>
+  <MA_Scarodon.label>скародон</MA_Scarodon.label>
+  <MA_Scarodon.lifeStages.0.label>детёныш скародона</MA_Scarodon.lifeStages.0.label>
+  <MA_Scarodon.lifeStages.0.labelPlural>детёныши скародона</MA_Scarodon.lifeStages.0.labelPlural>
+  <MA_Simbakub.label>симбакуб</MA_Simbakub.label>
+  <MA_Simbakub.lifeStages.0.label>детёныш симбакуба</MA_Simbakub.lifeStages.0.label>
+  <MA_Simbakub.lifeStages.0.labelPlural>детёныши симбакуба</MA_Simbakub.lifeStages.0.labelPlural>
+  <MA_SimbakubAlpha.label>симбакуб-вожак</MA_SimbakubAlpha.label>
+  <MA_SimbakubAlpha.lifeStages.0.label>детёныш симбакуба-вожака</MA_SimbakubAlpha.lifeStages.0.label>
+  <MA_SimbakubAlpha.lifeStages.0.labelPlural>детёныши симбакуба-вожака</MA_SimbakubAlpha.lifeStages.0.labelPlural>
+  <MA_Sivatherium.label>сиватерий</MA_Sivatherium.label>
+  <MA_Sivatherium.lifeStages.0.label>детёныш сиватерия</MA_Sivatherium.lifeStages.0.label>
+  <MA_Sivatherium.lifeStages.0.labelPlural>детёныши сиватерия</MA_Sivatherium.lifeStages.0.labelPlural>
+  <MA_Sporemole.label>спорокрот</MA_Sporemole.label>
+  <MA_Sporemole.lifeStages.0.label>детёныш спорокрота</MA_Sporemole.lifeStages.0.label>
+  <MA_Sporemole.lifeStages.0.labelPlural>детёныши спорокрота</MA_Sporemole.lifeStages.0.labelPlural>
+  <MA_Worhin.label>ворин</MA_Worhin.label>
+</LanguageData>

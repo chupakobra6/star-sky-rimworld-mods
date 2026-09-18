@@ -1,0 +1,46 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <MA_DunbearAwakens_Label>Пробуждение дунбера</MA_DunbearAwakens_Label>
+  <MA_DunbearAwakens_Text>После долгой зимней спячки дунбер вышел из промёрзшей берлоги. Оставив холодные земли позади, он бродит по долинам в поисках пищи. Земля дрожит под его весом, пока он осматривается: древние хищники всё ещё ходят по этому миру.
+
+Он пришёл в эту местность и останется на несколько дней, охотясь при удобном случае и предпочитая лёгкую добычу. Держитесь подальше или готовьтесь встретить ярость мифического зверя.</MA_DunbearAwakens_Text>
+  <MA_GreatGnautHerd_Label>Большое стадо</MA_GreatGnautHerd_Label>
+  <MA_GreatGnautHerd_Text>В эту местность пришло большое стадо голодных гнаутов, ведомых инстинктом и поиском новых пастбищ. На какое-то время землю наполнят топот тяжёлых копыт, новые тропы к местам выпаса и обилие добычи.</MA_GreatGnautHerd_Text>
+  <MA_GreatGnautHerd_LeavingLabel>Большое стадо уходит</MA_GreatGnautHerd_LeavingLabel>
+  <MA_GreatGnautHerd_LeavingText>Стадо гнаутов начало страдать от голода. В поисках лучших пастбищ животные вместе покидают эту местность.</MA_GreatGnautHerd_LeavingText>
+  <MA_PlastemmothMigration_Label>Миграция пластомамонтов</MA_PlastemmothMigration_Label>
+  <MA_PlastemmothMigration_Text>В эту местность пришло изголодавшееся стадо пластомамонтов. Эти огромные существа миролюбивы по природе, а инстинкт заставляет их искать корм в новых землях. Под предводительством вожака они едят деревья, побеги и всё, что способно насытить их громадные тела.
+
+Несколько дней стадо останется здесь, опустошая леса в поисках пищи. Обычно они неагрессивны, но любая угроза группе, особенно вожаку или потомству, вызовет немедленный жестокий ответ всего стада.
+
+Это заманчивая возможность добыть редкие ресурсы, но сначала убедитесь, что готовы к бою. Разозлить пластомамонта — всё равно что объявить войну живым горам.</MA_PlastemmothMigration_Text>
+  <MA_PlastemmothMigration_HerdMemberEnraged>Одно из животных стада пришло в ярость</MA_PlastemmothMigration_HerdMemberEnraged>
+  <MA_SimbakubHunt_Label>Охота симбакубов</MA_SimbakubHunt_Label>
+  <MA_SimbakubHunt_AlphaText>Возле поселения появился охотящийся прайд симбакубов. Среди них идёт вожак, направляющий стаю в согласованную атаку.
+
+Они нападут немедленно. Уведите поселенцев с открытой местности и помните: стая быстро расправляется с одиночными целями.</MA_SimbakubHunt_AlphaText>
+  <MA_SimbakubHunt_Text>Возле поселения появился охотящийся прайд симбакубов. Без вожака они действуют менее слаженно, но остаются опасными стайными хищниками.
+
+Они нападут немедленно. Уведите поселенцев с открытой местности и помните: стая быстро расправляется с одиночными целями.</MA_SimbakubHunt_Text>
+  <MA_StructureEmerges_Label>Появление мифического сооружения</MA_StructureEmerges_Label>
+  <MA_StructureEmerges_Text>На этой земле появилось странное мифическое сооружение. Оно может привлечь сюда опасных существ. Уничтожьте его, пока ещё есть время, или воспользуйтесь дарами, которые оно может скрывать.</MA_StructureEmerges_Text>
+  <MA_WoundedManehound_Label>Раненый гривастый пёс</MA_WoundedManehound_Label>
+  <MA_WoundedManehound_Text>У края карты появился раненый гривастый пёс.
+
+Он голоден, едва держится на ногах, покрыт старыми ушибами и трещинами в костях. Есть одна свежая кровоточащая рана, но инфекции в ней пока нет. Пёс не нападает, хотя столь сильный зверь всё ещё опасен, если ему угрожать.
+
+Если поселенцы спасут его, будут кормить и лечить инфекцию после того, как он свалится без сил, пёс может принять поселение за свою новую стаю.</MA_WoundedManehound_Text>
+  <MA_WoundedManehound_CollapsedMessage>{0} больше не может стоять. В одной из ран началась инфекция.</MA_WoundedManehound_CollapsedMessage>
+  <MA_WoundedManehound_StabilizedMessage>{0}: состояние стабилизировалось.</MA_WoundedManehound_StabilizedMessage>
+  <MA_WoundedManehound_JoinedLabel>{0} присоединяется</MA_WoundedManehound_JoinedLabel>
+  <MA_WoundedManehound_JoinedText>После нескольких дней заботы, еды и отдыха в укрытии {0} снова на ногах.
+
+Гривастый пёс больше не смотрит на поселенцев как на чужаков. Теперь поселение — его стая.</MA_WoundedManehound_JoinedText>
+  <MA_WoundedManehound_LeftLabel>Гривастый пёс поправился</MA_WoundedManehound_LeftLabel>
+  <MA_WoundedManehound_LeftText>{0} снова может двигаться, но связи с поселением так и не возникло. Пёс вскоре попытается уйти.</MA_WoundedManehound_LeftText>
+  <MA_WoundedManehound_ArrivingInspect>шатается</MA_WoundedManehound_ArrivingInspect>
+  <MA_WoundedManehound_CollapseInspect>без сил: {0}; под уходом: {1}</MA_WoundedManehound_CollapseInspect>
+  <MA_WoundedManehound_HealingInspect>стабилизация: {0}; под уходом: {1}</MA_WoundedManehound_HealingInspect>
+  <MA_HarpeagleNest_PlayerPreyLabel>Орёл-исполин охотится на вашего подопечного</MA_HarpeagleNest_PlayerPreyLabel>
+  <MA_HarpeagleNest_PlayerPreyText>Голодные орлы-исполины из ближайшего гнезда выбрали себе добычу: {0}. Если охота удастся, они могут утащить тело в гнездо.</MA_HarpeagleNest_PlayerPreyText>
+</LanguageData>

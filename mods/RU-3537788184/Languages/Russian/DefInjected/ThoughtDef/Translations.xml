@@ -1,0 +1,162 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <MA_DrankDuskyakult.stages.0.label>приятный сумракульт</MA_DrankDuskyakult.stages.0.label>
+  <MA_DrankDuskyakult.stages.0.description>Ферментированное молоко сумеркорога. Нежно-розовое, кисло-сладкое — ничего сложного, но как же приятно и сытно.</MA_DrankDuskyakult.stages.0.description>
+  <MA_DrankCaprodka.stages.0.label>приятная капроводка</MA_DrankCaprodka.stages.0.label>
+  <MA_DrankCaprodka.stages.0.description>После капроводки тепло разливается изнутри. Густая, кислая и по-настоящему крепкая.</MA_DrankCaprodka.stages.0.description>
+  <MA_UsedAmineSerum.stages.0.label>истощение от аминовой сыворотки</MA_UsedAmineSerum.stages.0.label>
+  <MA_UsedAmineSerum.stages.0.description>Аминовая сыворотка приглушила боль и заставила кровь бежать быстрее, но голова теперь совсем не соображает.</MA_UsedAmineSerum.stages.0.description>
+  <MA_AteCapryakCheese.stages.0.label>ужасный сыр каприяка</MA_AteCapryakCheese.stages.0.label>
+  <MA_AteCapryakCheese.stages.0.description>Отвратительный сыр каприяка. Бледный, жирный, с резкой кислотой и мягкой неприятной творожистой серединой.</MA_AteCapryakCheese.stages.0.description>
+  <MA_AteCapryakCheese.stages.1.label>плохой сыр каприяка</MA_AteCapryakCheese.stages.1.label>
+  <MA_AteCapryakCheese.stages.1.description>Плохой сыр каприяка: бледно-жёлтый, тяжёлый и слишком кислый. Ничто во вкусе не уравновешивает эту резкость.</MA_AteCapryakCheese.stages.1.description>
+  <MA_AteCapryakCheese.stages.2.label>сыр каприяка</MA_AteCapryakCheese.stages.2.label>
+  <MA_AteCapryakCheese.stages.2.description>Плотный бледно-жёлтый сыр каприяка с насыщенным вкусом и выраженной кислинкой.</MA_AteCapryakCheese.stages.2.description>
+  <MA_AteCapryakCheese.stages.3.label>хороший сыр каприяка</MA_AteCapryakCheese.stages.3.label>
+  <MA_AteCapryakCheese.stages.3.description>Хорошо приготовленный сыр каприяка. Сливочная мягкость приятно сглаживает его резкую кислинку.</MA_AteCapryakCheese.stages.3.description>
+  <MA_AteCapryakCheese.stages.4.label>отличный сыр каприяка</MA_AteCapryakCheese.stages.4.label>
+  <MA_AteCapryakCheese.stages.4.description>Отличный сыр каприяка: твёрдый, слегка золотистый, с мягкой сливочной кислинкой. Всё в меру.</MA_AteCapryakCheese.stages.4.description>
+  <MA_AteCapryakCheese.stages.5.label>шедевральный сыр каприяка</MA_AteCapryakCheese.stages.5.label>
+  <MA_AteCapryakCheese.stages.5.description>Великолепный бледно-жёлтый сыр каприяка. Жирность и яркая кислинка сочетаются безупречно.</MA_AteCapryakCheese.stages.5.description>
+  <MA_AteCapryakCheese.stages.6.label>легендарный сыр каприяка</MA_AteCapryakCheese.stages.6.label>
+  <MA_AteCapryakCheese.stages.6.description>Золотистый сыр каприяка с невероятно глубоким вкусом. Насыщенность и острая кислинка слились в идеальное целое.</MA_AteCapryakCheese.stages.6.description>
+  <MA_AteDuskhornCheese.stages.0.label>ужасный сыр сумеркорога</MA_AteDuskhornCheese.stages.0.label>
+  <MA_AteDuskhornCheese.stages.0.description>Отвратительный розовый сыр сумеркорога. Жирный, кислый, будто испорченный, и неприятно тяжёлый.</MA_AteDuskhornCheese.stages.0.description>
+  <MA_AteDuskhornCheese.stages.1.label>плохой сыр сумеркорога</MA_AteDuskhornCheese.stages.1.label>
+  <MA_AteDuskhornCheese.stages.1.description>Мягкий розовый сыр сумеркорога. Жирный и безвкусный. Пожалуй, хорош в нём только вес.</MA_AteDuskhornCheese.stages.1.description>
+  <MA_AteDuskhornCheese.stages.2.label>сыр сумеркорога</MA_AteDuskhornCheese.stages.2.label>
+  <MA_AteDuskhornCheese.stages.2.description>Плотный розовый сыр сумеркорога со сливочной мякотью и концентрированным звериным жиром.</MA_AteDuskhornCheese.stages.2.description>
+  <MA_AteDuskhornCheese.stages.3.label>хороший сыр сумеркорога</MA_AteDuskhornCheese.stages.3.label>
+  <MA_AteDuskhornCheese.stages.3.description>Хороший сыр сумеркорога. Насыщенный, сливочный, очень жирный и приятно сытный.</MA_AteDuskhornCheese.stages.3.description>
+  <MA_AteDuskhornCheese.stages.4.label>отличный сыр сумеркорога</MA_AteDuskhornCheese.stages.4.label>
+  <MA_AteDuskhornCheese.stages.4.description>Нежный розовый сыр сумеркорога с богатым вкусом и долгим маслянистым послевкусием.</MA_AteDuskhornCheese.stages.4.description>
+  <MA_AteDuskhornCheese.stages.5.label>шедевральный сыр сумеркорога</MA_AteDuskhornCheese.stages.5.label>
+  <MA_AteDuskhornCheese.stages.5.description>Безупречно приготовленный сыр сумеркорога. Плотный, сливочный, с предельно насыщенным вкусом.</MA_AteDuskhornCheese.stages.5.description>
+  <MA_AteDuskhornCheese.stages.6.label>легендарный сыр сумеркорога</MA_AteDuskhornCheese.stages.6.label>
+  <MA_AteDuskhornCheese.stages.6.description>Удивительный розовый сыр сумеркорога. Сливочная нежность и концентрированный звериный жир придают ему несравненную насыщенность.</MA_AteDuskhornCheese.stages.6.description>
+  <MA_AteAminoxBlueCheese.stages.0.label>ужасный голубой сыр аминокса</MA_AteAminoxBlueCheese.stages.0.label>
+  <MA_AteAminoxBlueCheese.stages.0.description>Горький перезревший сыр аминокса с неприятно резким вкусом и странными тёмными прожилками.</MA_AteAminoxBlueCheese.stages.0.description>
+  <MA_AteAminoxBlueCheese.stages.1.label>плохой голубой сыр аминокса</MA_AteAminoxBlueCheese.stages.1.label>
+  <MA_AteAminoxBlueCheese.stages.1.description>Плотный сыр аминокса. Есть можно, но вкус резкий и на языке от него странное ощущение.</MA_AteAminoxBlueCheese.stages.1.description>
+  <MA_AteAminoxBlueCheese.stages.2.label>голубой сыр аминокса</MA_AteAminoxBlueCheese.stages.2.label>
+  <MA_AteAminoxBlueCheese.stages.2.description>Плотный сыр аминокса с голубыми прожилками, богатым вкусом и лёгким бодрящим послевкусием.</MA_AteAminoxBlueCheese.stages.2.description>
+  <MA_AteAminoxBlueCheese.stages.3.label>хороший голубой сыр аминокса</MA_AteAminoxBlueCheese.stages.3.label>
+  <MA_AteAminoxBlueCheese.stages.3.description>Хорошо выдержанный сыр аминокса со сложным ярким вкусом и чистым бодрящим послевкусием.</MA_AteAminoxBlueCheese.stages.3.description>
+  <MA_AteAminoxBlueCheese.stages.4.label>отличный голубой сыр аминокса</MA_AteAminoxBlueCheese.stages.4.label>
+  <MA_AteAminoxBlueCheese.stages.4.description>Отличный сыр аминокса: сливочный, острый, с насыщенным вкусом голубой плесени. Слегка бодрит.</MA_AteAminoxBlueCheese.stages.4.description>
+  <MA_AteAminoxBlueCheese.stages.5.label>шедевральный голубой сыр аминокса</MA_AteAminoxBlueCheese.stages.5.label>
+  <MA_AteAminoxBlueCheese.stages.5.description>Идеально выдержанный сыр аминокса с обильными голубыми прожилками. Изысканный глубокий вкус и приятный прилив сил.</MA_AteAminoxBlueCheese.stages.5.description>
+  <MA_AteAminoxBlueCheese.stages.6.label>легендарный голубой сыр аминокса</MA_AteAminoxBlueCheese.stages.6.label>
+  <MA_AteAminoxBlueCheese.stages.6.description>Невероятный голубой сыр аминокса с редкостно сложным вкусом. Его насыщенность и биологически активные вещества дополняют друг друга безупречно.</MA_AteAminoxBlueCheese.stages.6.description>
+  <MA_AteEmberheartSlice.stages.0.label>ломтики сердца скародона</MA_AteEmberheartSlice.stages.0.label>
+  <MA_AteEmberheartSlice.stages.0.description>Сердце скародона пульсировало первобытной силой даже под зубами. Теперь в груди горит огонь. Во мне столько силы и скорости — кажется, можно разорвать кого-нибудь голыми руками.</MA_AteEmberheartSlice.stages.0.description>
+  <MA_AfterEmberRageCrash.stages.0.label>откат после сердца скародона</MA_AfterEmberRageCrash.stages.0.label>
+  <MA_AfterEmberRageCrash.stages.0.description>Моё тело оказалось к этому не готово. Всё болит, сил совсем не осталось.</MA_AfterEmberRageCrash.stages.0.description>
+  <MA_AteHellboarLiverSlice.stages.0.label>откат после печёночного очищения</MA_AteHellboarLiverSlice.stages.0.label>
+  <MA_AteHellboarLiverSlice.stages.0.description>Вкус печени адского вепря никак не уходит. Живот крутит, мысли расплываются.</MA_AteHellboarLiverSlice.stages.0.description>
+  <MA_SkyfeatherHighThought.stages.0.label>ясность небесного пера</MA_SkyfeatherHighThought.stages.0.label>
+  <MA_SkyfeatherHighThought.stages.0.description>Во мне течёт дух орла-исполина. Зрение острое, руки твёрдые — цели не спрячутся.</MA_SkyfeatherHighThought.stages.0.description>
+  <MA_SivaDustHighThought.stages.0.label>покой от сива-порошка</MA_SivaDustHighThought.stages.0.label>
+  <MA_SivaDustHighThought.stages.0.description>Сива-порошок разносит по телу тепло, тяжесть и покой. Мысли отдаются глухим эхом, словно далёкие машины.</MA_SivaDustHighThought.stages.0.description>
+  <MA_AteCookedWildFat.stages.0.label>приготовленный звериный жир</MA_AteCookedWildFat.stages.0.label>
+  <MA_AteCookedWildFat.stages.0.description>Топлёный звериный жир превратил еду в насыщенное сытное угощение. Вкусно, тепло и неожиданно бодрит.</MA_AteCookedWildFat.stages.0.description>
+  <MA_AteRawWildFat.stages.0.label>сырой звериный жир</MA_AteRawWildFat.stages.0.label>
+  <MA_AteRawWildFat.stages.0.description>Холодный жёлтый кусок дрожащего жира. Во рту сально, мутит, хочется всё это вырвать.</MA_AteRawWildFat.stages.0.description>
+  <MA_AteCookedMycorgloomSpore.stages.0.label>приготовленные споры микорглума</MA_AteCookedMycorgloomSpore.stages.0.label>
+  <MA_AteCookedMycorgloomSpore.stages.0.description>Споры тщательно приготовили. Их странное свечение и богатый необычный вкус подарили мне бодрость и неожиданную ясность мыслей.</MA_AteCookedMycorgloomSpore.stages.0.description>
+  <MA_AteRawMycorgloomSpore.stages.0.label>сырые споры микорглума</MA_AteRawMycorgloomSpore.stages.0.label>
+  <MA_AteRawMycorgloomSpore.stages.0.description>Сырые споры микорглума едкие, плесневые и тревожно неприятные. Во рту осталось жгучее грибное послевкусие.</MA_AteRawMycorgloomSpore.stages.0.description>
+  <MA_AteMeatshroomBolus.stages.0.label>комок мясогриба</MA_AteMeatshroomBolus.stages.0.label>
+  <MA_AteMeatshroomBolus.stages.0.description>Кое-как удалось проглотить дрожащий комок грибной плоти. Вонь гнили, сукровицы и сырых грибов... Надеюсь, больше никогда не придётся это есть.</MA_AteMeatshroomBolus.stages.0.description>
+  <MA_DrankScarodonHeartPotionCrash.stages.0.label>откат после зелья скародона</MA_DrankScarodonHeartPotionCrash.stages.0.label>
+  <MA_DrankScarodonHeartPotionCrash.stages.0.description>Сердечный огонь из бутылки ударил сильнее сырой плоти. Мышцы ноют, нервы горят, а под кожей всё ещё отзывается ярость.</MA_DrankScarodonHeartPotionCrash.stages.0.description>
+  <MA_DrankHellboarLiverPotionCrash.stages.0.label>зелье печёночного очищения</MA_DrankHellboarLiverPotionCrash.stages.0.label>
+  <MA_DrankHellboarLiverPotionCrash.stages.0.description>Зелье адского вепря всё ещё терзает мой живот. Боль стихла, но теперь тело словно отравлено, опустошено и обессилено.</MA_DrankHellboarLiverPotionCrash.stages.0.description>
+  <MA_DrankSivaDustIvoryPotionCrash.stages.0.label>тяжесть после сива-зелья</MA_DrankSivaDustIvoryPotionCrash.stages.0.label>
+  <MA_DrankSivaDustIvoryPotionCrash.stages.0.description>Сива-зелье подействовало слишком глубоко. Мысли спокойны, а тело тяжёлое, будто чужое, и слушается с опозданием.</MA_DrankSivaDustIvoryPotionCrash.stages.0.description>
+  <MA_AteRawPlastemmothMeat.stages.0.label>сырое мясо пластомамонта</MA_AteRawPlastemmothMeat.stages.0.label>
+  <MA_AteRawPlastemmothMeat.stages.0.description>Сырое мясо пластомамонта жёсткое, полное острых металлических волокон. На вкус — кровь и ржавчина.</MA_AteRawPlastemmothMeat.stages.0.description>
+  <MA_AteCookedPlastemmothMeat.stages.0.label>приготовленное мясо пластомамонта</MA_AteCookedPlastemmothMeat.stages.0.label>
+  <MA_AteCookedPlastemmothMeat.stages.0.description>Редкое и насыщенное блюдо из мяса пластомамонта. Плотная мякоть со вкусом топлёного жира и металла. И почему-то... бодрит.</MA_AteCookedPlastemmothMeat.stages.0.description>
+  <MA_AteRawScarodonMeat.stages.0.label>сырое мясо скародона</MA_AteRawScarodonMeat.stages.0.label>
+  <MA_AteRawScarodonMeat.stages.0.description>Сырое мясо скародона холодное снаружи и странно тёплое внутри. Жилистое, с резким вкусом дичи, железа и дыма. Такое явно надо готовить.</MA_AteRawScarodonMeat.stages.0.description>
+  <MA_AteCookedScarodonMeat.stages.0.label>приготовленное мясо скародона</MA_AteCookedScarodonMeat.stages.0.label>
+  <MA_AteCookedScarodonMeat.stages.0.description>Редкое изысканное блюдо из мяса скародона. Насыщенный дымный вкус, а само мясо почти не остывает. После него надолго остаётся тепло и привкус древней крови.</MA_AteCookedScarodonMeat.stages.0.description>
+  <MA_AteCookedDuskhornMeat.stages.0.label>приготовленное мясо сумеркорога</MA_AteCookedDuskhornMeat.stages.0.label>
+  <MA_AteCookedDuskhornMeat.stages.0.description>Превосходное жаркое из сумеркорога. Жировые прожилки растаяли в мясе, оставив роскошный маслянистый вкус, который чувствуется даже после последнего кусочка.</MA_AteCookedDuskhornMeat.stages.0.description>
+  <MA_AteRawDuskhornMeat.stages.0.label>сырое мясо сумеркорога</MA_AteRawDuskhornMeat.stages.0.label>
+  <MA_AteRawDuskhornMeat.stages.0.description>Густой мраморный жир сырого мяса сумеркорога облепил рот приторной сальной плёнкой. Мутит. Слишком жирно, чтобы есть без готовки.</MA_AteRawDuskhornMeat.stages.0.description>
+  <MA_AteHippoMeatRaw.stages.0.label>сырое мясо шерстебегемота</MA_AteHippoMeatRaw.stages.0.label>
+  <MA_AteHippoMeatRaw.stages.0.description>Сырое мясо шерстебегемота покрыто кожистыми тканями и насквозь пропитано жиром. Всё равно что жевать вымоченный в сале ремень.</MA_AteHippoMeatRaw.stages.0.description>
+  <MA_AteHippoMeatCooked.stages.0.label>приготовленное мясо шерстебегемота</MA_AteHippoMeatCooked.stages.0.label>
+  <MA_AteHippoMeatCooked.stages.0.description>Томлёное мясо шерстебегемота сочится жиром и радует насыщенным вкусом. Настоящее первобытное удовольствие, достойное лучших племенных пиршеств.</MA_AteHippoMeatCooked.stages.0.description>
+  <MA_AteRaptorkhanMeatRaw.stages.0.label>сырое мясо рапторхана</MA_AteRaptorkhanMeatRaw.stages.0.label>
+  <MA_AteRaptorkhanMeatRaw.stages.0.description>Тёмная жилистая плоть рапторхана горчит дичью и слегка отдаёт кровью. Говорят, в ней живёт ярость самого зверя.</MA_AteRaptorkhanMeatRaw.stages.0.description>
+  <MA_AteRaptorkhanMeatCooked.stages.0.label>приготовленное мясо рапторхана</MA_AteRaptorkhanMeatCooked.stages.0.label>
+  <MA_AteRaptorkhanMeatCooked.stages.0.description>Приготовленное особое мясо рапторхана обладает насыщенным дымным вкусом. Необычно и бодрит. По легендам, оно дарует силу первобытного царя птиц.</MA_AteRaptorkhanMeatCooked.stages.0.description>
+  <MA_AteHarpeagleLegsRaw.stages.0.label>сырые окорочка орла-исполина</MA_AteHarpeagleLegsRaw.stages.0.label>
+  <MA_AteHarpeagleLegsRaw.stages.0.description>Сырые окорочка орла-исполина жирные и жилистые. Прилипают к нёбу и оставляют слишком сильный привкус дичи.</MA_AteHarpeagleLegsRaw.stages.0.description>
+  <MA_AteHarpeagleLegsCooked.stages.0.label>приготовленные окорочка орла-исполина</MA_AteHarpeagleLegsCooked.stages.0.label>
+  <MA_AteHarpeagleLegsCooked.stages.0.description>Прекрасно запечённые окорочка орла-исполина. Нежные, ароматные и сытные. Редкое и вкусное угощение.</MA_AteHarpeagleLegsCooked.stages.0.description>
+  <MA_AteRawWorhinMeat.stages.0.label>сырое мясо ворина</MA_AteRawWorhinMeat.stages.0.label>
+  <MA_AteRawWorhinMeat.stages.0.description>Тяжёлое сырое мясо ворина отдаёт металлом. Золотисто-серые волокна жуются как медные нити, пропитанные кровью. Слишком резко и неприятно.</MA_AteRawWorhinMeat.stages.0.description>
+  <MA_AteCookedWorhinMeat.stages.0.label>приготовленное мясо ворина</MA_AteCookedWorhinMeat.stages.0.label>
+  <MA_AteCookedWorhinMeat.stages.0.description>Сытное блюдо из мяса ворина. Плотные жировые прожилки растаяли, раскрыв насыщенный вкус. После еды надолго остаётся тепло и чувство силы.</MA_AteCookedWorhinMeat.stages.0.description>
+  <MA_AteRawGnautBeef.stages.0.label>сырая гнаутина</MA_AteRawGnautBeef.stages.0.label>
+  <MA_AteRawGnautBeef.stages.0.description>Сырая гнаутина жёсткая, волокнистая, с резким привкусом дичи. Трудно жевать и неприятно глотать.</MA_AteRawGnautBeef.stages.0.description>
+  <MA_AteCookedGnautBeef.stages.0.label>приготовленная гнаутина</MA_AteCookedGnautBeef.stages.0.label>
+  <MA_AteCookedGnautBeef.stages.0.description>Добротная сытная еда из гнаутины. Просто, вкусно и надёжно утоляет голод.</MA_AteCookedGnautBeef.stages.0.description>
+  <MA_AteRawSporemoleMeat.stages.0.label>сырое мясо спорокрота</MA_AteRawSporemoleMeat.stages.0.label>
+  <MA_AteRawSporemoleMeat.stages.0.description>Сырое мясо спорокрота плотное, плесневое и пропитано спорами. Каждый кусок — словно сама гниль.</MA_AteRawSporemoleMeat.stages.0.description>
+  <MA_AteCookedSporemoleMeat.stages.0.label>приготовленное мясо спорокрота</MA_AteCookedSporemoleMeat.stages.0.label>
+  <MA_AteCookedSporemoleMeat.stages.0.description>Мясо спорокрота приготовили, но оно всё равно воняет плесенью и оставляет горький грибной привкус.</MA_AteCookedSporemoleMeat.stages.0.description>
+  <MA_AteRawHorseBeef.stages.0.label>сырое мясо лютокона</MA_AteRawHorseBeef.stages.0.label>
+  <MA_AteRawHorseBeef.stages.0.description>У сырого мяса лютокона резкий звериный вкус с нотами железа. Ярко, но как-то тревожно.</MA_AteRawHorseBeef.stages.0.description>
+  <MA_AteCookedHorseBeef.stages.0.label>мясо лютокона</MA_AteCookedHorseBeef.stages.0.label>
+  <MA_AteCookedHorseBeef.stages.0.description>Сытные ломти мяса лютокона. Насыщенный вкус, тепло и приятная сытость.</MA_AteCookedHorseBeef.stages.0.description>
+  <MA_AteRawDunbearMeat.stages.0.label>сырое мясо дунбера</MA_AteRawDunbearMeat.stages.0.label>
+  <MA_AteRawDunbearMeat.stages.0.description>Сырое мясо дунбера плотное, с землистым привкусом и тяжёлым запахом сала. Во рту словно холодное железо с жиром, в желудке — тупая тяжесть.</MA_AteRawDunbearMeat.stages.0.description>
+  <MA_AteCookedDunbearMeat.stages.0.label>приготовленное мясо дунбера</MA_AteCookedDunbearMeat.stages.0.label>
+  <MA_AteCookedDunbearMeat.stages.0.description>Насыщенное блюдо из мяса дунбера. Тающий жир, глубокий вкус, мягкая мякоть — и чувство первобытной силы, которое остаётся надолго.</MA_AteCookedDunbearMeat.stages.0.description>
+  <MA_AteRawSivatheriumMeat.stages.0.label>сырое мясо сиватерия</MA_AteRawSivatheriumMeat.stages.0.label>
+  <MA_AteRawSivatheriumMeat.stages.0.description>Сырое мясо сиватерия плотное, тяжёлое и маслянистое. Будто холодный костный мозг, завёрнутый в сало. Неприятный мускусный привкус никак не уходит.</MA_AteRawSivatheriumMeat.stages.0.description>
+  <MA_AteCookedSivatheriumMeat.stages.0.label>приготовленное мясо сиватерия</MA_AteCookedSivatheriumMeat.stages.0.label>
+  <MA_AteCookedSivatheriumMeat.stages.0.description>Томлёное мясо сиватерия получилось очень насыщенным. Толстые слои жира прекрасно вытопились, раскрыв глубокий аромат, который наполняет теплом и силой.</MA_AteCookedSivatheriumMeat.stages.0.description>
+  <MA_AteRawBirdMeat.stages.0.label>сырая птица</MA_AteRawBirdMeat.stages.0.label>
+  <MA_AteRawBirdMeat.stages.0.description>Сырое птичье мясо волокнистое, слегка отдаёт дичью и минералами. Жевать его тяжело.</MA_AteRawBirdMeat.stages.0.description>
+  <MA_AteCookedBirdMeat.stages.0.label>приготовленная птица</MA_AteCookedBirdMeat.stages.0.label>
+  <MA_AteCookedBirdMeat.stages.0.description>Нежное приготовленное птичье мясо с мягким чистым вкусом. Приятная и сытная еда.</MA_AteCookedBirdMeat.stages.0.description>
+  <AteFatKibble.label>жирный корм для животных</AteFatKibble.label>
+  <AteFatKibble.stages.0.label>жирный корм для животных</AteFatKibble.stages.0.label>
+  <AteFatKibble.stages.0.description>Этот корм не предназначен для людей. Из-за тяжёлого звериного жира есть его особенно неприятно.</AteFatKibble.stages.0.description>
+  <MA_AteMegaBacon.stages.0.label>мегабекон</MA_AteMegaBacon.stages.0.label>
+  <MA_AteMegaBacon.stages.0.description>Толстые полосы жареного звериного жира с кусками самых жирных частей огромных туш. Их медленно вытапливают до хруста, оставляя сочиться салом. Такое едят ради удовольствия, а не правильного питания.</MA_AteMegaBacon.stages.0.description>
+  <MA_AteMegaBeef.stages.0.label>мегастейк</MA_AteMegaBeef.stages.0.label>
+  <MA_AteMegaBeef.stages.0.description>Толстый, хорошо прожаренный мегастейк. Сытный и вкусный, а звериного жира ровно столько, чтобы полностью раскрыть вкус мяса.</MA_AteMegaBeef.stages.0.description>
+  <MA_AteFriedLegs.stages.0.label>жареные окорочка</MA_AteFriedLegs.stages.0.label>
+  <MA_AteFriedLegs.stages.0.description>Жареные окорочка могучего зверя. Хрустящие снаружи, тяжёлые от жира и невероятно сытные.</MA_AteFriedLegs.stages.0.description>
+  <MA_AteMarrowJelly.stages.0.label>костномозговое желе</MA_AteMarrowJelly.stages.0.label>
+  <MA_AteMarrowJelly.stages.0.description>Плотное желе из костного мозга утолило голод, но было жирным и неприятным.</MA_AteMarrowJelly.stages.0.description>
+  <MA_AteRawAmineMeat.stages.0.label>сырое аминовое мясо</MA_AteRawAmineMeat.stages.0.label>
+  <MA_AteRawAmineMeat.stages.0.description>У сырого аминового мяса странный розовый жир. Слегка сладковатый, с каким-то химическим привкусом.</MA_AteRawAmineMeat.stages.0.description>
+  <MA_AteCookedAmineMeat.stages.0.label>приготовленное аминовое мясо</MA_AteCookedAmineMeat.stages.0.label>
+  <MA_AteCookedAmineMeat.stages.0.description>Сытное блюдо из аминового мяса. Розовый жир прекрасно вытопился, придав ему богатый приятный вкус.</MA_AteCookedAmineMeat.stages.0.description>
+  <MA_AteRawHellboarMeat.stages.0.label>сырое мясо адского вепря</MA_AteRawHellboarMeat.stages.0.label>
+  <MA_AteRawHellboarMeat.stages.0.description>Сырое мясо адского вепря толстое и жирное. Сало облепило рот, а само мясо тяжёлое и неприятно жуётся.</MA_AteRawHellboarMeat.stages.0.description>
+  <MA_AteCookedHellboarMeat.stages.0.label>приготовленное мясо адского вепря</MA_AteCookedHellboarMeat.stages.0.label>
+  <MA_AteCookedHellboarMeat.stages.0.description>Насыщенное блюдо из рёбер адского вепря. Толстый жир вытопился, придав мясу глубокий вкус. По-настоящему сытная еда, после которой чувствуешь силу.</MA_AteCookedHellboarMeat.stages.0.description>
+  <MA_AteRawCapryakMeat.stages.0.label>сырое мясо каприяка</MA_AteRawCapryakMeat.stages.0.label>
+  <MA_AteRawCapryakMeat.stages.0.description>Сырое мясо каприяка плотное, волокнистое и неприятно отдаёт дичью. Жуётся тяжело, оставляет привкус холодного сала.</MA_AteRawCapryakMeat.stages.0.description>
+  <MA_AteCookedCapryakMeat.stages.0.label>приготовленное мясо каприяка</MA_AteCookedCapryakMeat.stages.0.label>
+  <MA_AteCookedCapryakMeat.stages.0.description>Сытная еда из мяса каприяка. Простая, плотная — а если как следует приготовить, то и вполне приятная.</MA_AteCookedCapryakMeat.stages.0.description>
+  <MA_DrankCapryakMilk.stages.0.label>молоко каприяка</MA_DrankCapryakMilk.stages.0.label>
+  <MA_DrankCapryakMilk.stages.0.description>Густое молоко каприяка горчит и резко кислит. Обжигает язык, покрывает рот словно жиром. Зато насыщает: тяжёлое, грубоватое, но даёт силы.</MA_DrankCapryakMilk.stages.0.description>
+  <MA_DrankMossmireMilk.stages.0.label>болотно-моховое молоко</MA_DrankMossmireMilk.stages.0.label>
+  <DrankMossmireMilk.stages.0.label>болотно-моховое молоко</DrankMossmireMilk.stages.0.label>
+  <MA_DrankMossmireMilk.stages.0.description>Густое болотно-моховое молоко со вкусом трав и лёгкой гнильцы. Голод утолило, но этот неприятный вкус запомнится надолго.</MA_DrankMossmireMilk.stages.0.description>
+  <MA_AteWildButter.stages.0.label>звериное масло</MA_AteWildButter.stages.0.label>
+  <MA_AteWildButter.stages.0.description>Брусок звериного масла длительного хранения. Плотное, сальное и тяжёлое, зато голод отступил.</MA_AteWildButter.stages.0.description>
+  <MA_AteGiantFriedEgg.stages.0.label>гигантская яичница</MA_AteGiantFriedEgg.stages.0.label>
+  <MA_AteGiantFriedEgg.stages.0.description>Большая яичница из яйца гигантской птицы. Густой желток, насыщенный вкус и приятная сытость. Еда простая, но достаточно редкая, чтобы казаться наградой.</MA_AteGiantFriedEgg.stages.0.description>
+  <DrankMossmireMilk.stages.0.description>После болотно-мохового молока во рту надолго остался отвратительный резкий вкус трав.</DrankMossmireMilk.stages.0.description>
+</LanguageData>

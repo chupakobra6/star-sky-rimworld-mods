@@ -1,0 +1,590 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <MA_PlastemmothTusk.tools.1.label>основание</MA_PlastemmothTusk.tools.1.label>
+  <MA_DeermossHorn.tools.0.label>остриё</MA_DeermossHorn.tools.0.label>
+  <MA_DeermossHorn.tools.1.label>основание</MA_DeermossHorn.tools.1.label>
+  <MA_GnautHorn.tools.1.label>основание</MA_GnautHorn.tools.1.label>
+  <MA_DuskhornHorn.tools.1.label>основание</MA_DuskhornHorn.tools.1.label>
+  <MA_Brontorhin.tools.1.label>лезвие</MA_Brontorhin.tools.1.label>
+  <MA_SivatheriumHorn.tools.1.label>лезвие</MA_SivatheriumHorn.tools.1.label>
+  <MA_AminoxHorn.tools.1.label>основание</MA_AminoxHorn.tools.1.label>
+  <MA_CapryakHorn.tools.1.label>основание</MA_CapryakHorn.tools.1.label>
+  <MA_Aminox.tools.0.label>рог</MA_Aminox.tools.0.label>
+  <MA_Aminox.tools.2.label>голова</MA_Aminox.tools.2.label>
+  <MA_Capryak.tools.0.label>рог</MA_Capryak.tools.0.label>
+  <MA_Capryak.tools.2.label>голова</MA_Capryak.tools.2.label>
+  <MA_Deermoss.tools.0.label>рог</MA_Deermoss.tools.0.label>
+  <MA_Deermoss.tools.2.label>голова</MA_Deermoss.tools.2.label>
+  <MA_Direhorse.tools.0.label>левое копыто</MA_Direhorse.tools.0.label>
+  <MA_Direhorse.tools.1.label>правое копыто</MA_Direhorse.tools.1.label>
+  <MA_Direhorse.tools.2.label>голова</MA_Direhorse.tools.2.label>
+  <MA_Dunbear.tools.0.label>коготь</MA_Dunbear.tools.0.label>
+  <MA_Dunbear.tools.2.label>голова</MA_Dunbear.tools.2.label>
+  <MA_Duskhorn.tools.0.label>рог</MA_Duskhorn.tools.0.label>
+  <MA_Duskhorn.tools.2.label>голова</MA_Duskhorn.tools.2.label>
+  <MA_Gnaut.tools.0.label>рог</MA_Gnaut.tools.0.label>
+  <MA_Gnaut.tools.2.label>голова</MA_Gnaut.tools.2.label>
+  <MA_Harpeagle.tools.0.label>когти</MA_Harpeagle.tools.0.label>
+  <MA_Harpeagle.tools.1.label>клюв</MA_Harpeagle.tools.1.label>
+  <MA_Manehound.tools.3.label>голова</MA_Manehound.tools.3.label>
+  <MA_Plastemmoth.tools.0.label>бивень</MA_Plastemmoth.tools.0.label>
+  <MA_Plastemmoth.tools.2.label>голова</MA_Plastemmoth.tools.2.label>
+  <MA_PlastemmothAlpha.tools.0.label>бивень</MA_PlastemmothAlpha.tools.0.label>
+  <MA_PlastemmothAlpha.tools.2.label>голова</MA_PlastemmothAlpha.tools.2.label>
+  <MA_Raptorkhan.tools.0.label>когти</MA_Raptorkhan.tools.0.label>
+  <MA_Raptorkhan.tools.1.label>клюв</MA_Raptorkhan.tools.1.label>
+  <MA_Raptorkhan.tools.2.label>голова</MA_Raptorkhan.tools.2.label>
+  <MA_Simbakub.tools.1.label>коготь</MA_Simbakub.tools.1.label>
+  <MA_SimbakubAlpha.tools.1.label>коготь</MA_SimbakubAlpha.tools.1.label>
+  <MA_Sivatherium.tools.2.label>голова</MA_Sivatherium.tools.2.label>
+  <MA_Worhin.tools.0.label>рог</MA_Worhin.tools.0.label>
+  <MA_Rhinhammer.tools.1.label>боёк</MA_Rhinhammer.tools.1.label>
+  <MA_ClawSaber.tools.1.label>остриё</MA_ClawSaber.tools.1.label>
+  <MA_ScarodonFangDagger.tools.1.label>лезвие</MA_ScarodonFangDagger.tools.1.label>
+  <MA_MegaboneClub.tools.0.label>ударная часть</MA_MegaboneClub.tools.0.label>
+  <MA_GnautHornMace.tools.0.label>навершие</MA_GnautHornMace.tools.0.label>
+  <MA_CurdlingCapryakCheese.label>созревающий сыр каприяка</MA_CurdlingCapryakCheese.label>
+  <MA_CurdlingCapryakCheese.description>Молоко каприяка, оставленное для сквашивания и последующего формирования плотной головки простого сыра.</MA_CurdlingCapryakCheese.description>
+  <MA_CurdlingDuskhornCheese.label>созревающий сыр сумеркорога</MA_CurdlingDuskhornCheese.label>
+  <MA_CurdlingDuskhornCheese.description>Молоко сумеркорога, оставленное для сквашивания в плотный жирный сыр.</MA_CurdlingDuskhornCheese.description>
+  <MA_CurdlingAminoxBlueCheese.label>созревающий голубой сыр аминокса</MA_CurdlingAminoxBlueCheese.label>
+  <MA_CurdlingAminoxBlueCheese.description>Аминовое молоко, оставленное для сквашивания и выдержки в плотный сыр с голубыми прожилками.</MA_CurdlingAminoxBlueCheese.description>
+  <MA_SporemoleBurrow.label>нора спорокрота</MA_SporemoleBurrow.label>
+  <MA_SporemoleBurrow.description>Глубокая нора, пронизанная грибницей. Изнутри исходит слабое неровное свечение, словно сами споры дышат светом.
+
+Из нижних туннелей доносится непрерывный скрежет: под землёй шевелятся существа, готовые вылезти в любой момент.
+
+Ко входу вытаскивают туши, которые медленно поглощают паразитические наросты. Из жутких останков прорастают грибные скопления. Разобрав их, можно получить споры и ценные фрагменты.</MA_SporemoleBurrow.description>
+  <MA_SporemoleBones.label>грибные кости</MA_SporemoleBones.label>
+  <MA_SporemoleBones.description>Странные кости, оплетённые грибными наростами и разбросанные возле нор спорокротов. При разборке дают ценные мегакости и скопления спор микорглума.</MA_SporemoleBones.description>
+  <MA_HarpeagleNest.label>гнездо орла-исполина</MA_HarpeagleNest.label>
+  <MA_HarpeagleNest.description>Громадное гнездо из веток и костей, устроенное близко к земле, чтобы выдерживать вес могучего орла-исполина. Такие старые, потрёпанные непогодой гнёзда привлекают пару птиц, которые держатся рядом и защищают свою территорию. Чтобы уничтожить гнездо, атакуйте его.</MA_HarpeagleNest.description>
+  <MA_PlastemmothTusk.label>бивень пластомамонта</MA_PlastemmothTusk.label>
+  <MA_PlastemmothTusk.description>Кристаллический бивень пластомамонта. Слабо мерцает минеральным светом и ценится как трофей и грозное оружие.</MA_PlastemmothTusk.description>
+  <MA_PlastemmothTusk.tools.0.label>остриё</MA_PlastemmothTusk.tools.0.label>
+  <MA_GnautHorn.tools.0.label>остриё</MA_GnautHorn.tools.0.label>
+  <MA_DuskhornHorn.tools.0.label>остриё</MA_DuskhornHorn.tools.0.label>
+  <MA_SivatheriumHorn.tools.0.label>остриё</MA_SivatheriumHorn.tools.0.label>
+  <MA_AminoxHorn.tools.0.label>остриё</MA_AminoxHorn.tools.0.label>
+  <MA_CapryakHorn.tools.0.label>остриё</MA_CapryakHorn.tools.0.label>
+  <MA_ScarodonFangDagger.tools.0.label>остриё</MA_ScarodonFangDagger.tools.0.label>
+  <MA_DeermossHorn.label>рог мохового оленя</MA_DeermossHorn.label>
+  <MA_DeermossHorn.description>Даже вне тела животного рог словно пульсирует жизнью мха, пронизанного сосудами. Его плотная, невероятно тяжёлая сердцевина наносит неожиданно сокрушительные удары и часто оглушает противника.</MA_DeermossHorn.description>
+  <MA_Emberheart.label>жар-сердце</MA_Emberheart.label>
+  <MA_Emberheart.description>Ещё тёплое сердце скародона, слабо пульсирующее остаточным жаром. Почитается племенами и химиками: говорят, в нём сохранился первобытный огонь зверя. Используется для мощных стимуляторов и настоев, помогающих выжить.</MA_Emberheart.description>
+  <MA_ScarSaberTooth.label>саблевидный клык скародона</MA_ScarSaberTooth.label>
+  <MA_ScarSaberTooth.description>Огромный саблевидный клык скародона. На нём ещё видна старая кровь, а годы жестокой охоты покрыли поверхность потёртостями и зазубринами. Высоко ценится оружейниками и племенными шаманами.</MA_ScarSaberTooth.description>
+  <MA_GnautHorn.label>рог гнаута</MA_GnautHorn.label>
+  <MA_GnautHorn.description>Плотный прочный рог взрослого самца гнаута. Он меньше и не так внушителен, как рог сумеркорога, но благодаря крепкой изогнутой форме подходит для грубого колющего оружия, обрядов и ценных племенных трофеев.</MA_GnautHorn.description>
+  <MA_DuskhornHorn.label>рог сумеркорога</MA_DuskhornHorn.label>
+  <MA_DuskhornHorn.description>Огромный спиральный рог взрослого самца сумеркорога. Прочная изогнутая форма делает его отличным колющим оружием или церемониальной реликвией.</MA_DuskhornHorn.description>
+  <MA_RaptorkhanClaw.label>коготь рапторхана</MA_RaptorkhanClaw.label>
+  <MA_RaptorkhanClaw.description>Длинный изогнутый коготь, вырванный из хищной лапы рапторхана. Всё ещё острый и твёрдый — возможно, однажды он станет основой смертоносного клинка.</MA_RaptorkhanClaw.description>
+  <MA_HellboarLiver.label>печень адского вепря</MA_HellboarLiver.label>
+  <MA_HellboarLiver.description>Плотная печень адского вепря, насыщенная токсинами. Племенные знахари сушат её и нарезают для жестоких обрядов, связанных с болью. Её поверхность ещё слабо пульсирует, будто помнит ярость зверя.</MA_HellboarLiver.description>
+  <MA_HarpeagleFeather.label>маслянистое перо орла-исполина</MA_HarpeagleFeather.label>
+  <MA_HarpeagleFeather.description>Редкое перо орла-исполина, богатое маслами. Ценится за необычный блеск и пригодность для тонкой ремесленной работы.</MA_HarpeagleFeather.description>
+  <MA_Brontorhin.label>бронторин</MA_Brontorhin.label>
+  <MA_Brontorhin.description>Окаменевший рог ворина, металлический и гулкий, словно наполненный мощью древних титанов. Племена почитают его как священную реликвию, способную проводить ярость гроз и раскалывать камень.</MA_Brontorhin.description>
+  <MA_Brontorhin.tools.0.label>удар</MA_Brontorhin.tools.0.label>
+  <MA_SivatheriumHorn.label>рог сиватерия</MA_SivatheriumHorn.label>
+  <MA_SivatheriumHorn.description>Плотный рог исполинского сиватерия. За века взаимодействия с реактивными почвами окраинных миров и неактивными техногенными остатками кость и минералы слились в единую биологически активную структуру.
+
+При измельчении и очистке высвобождаются микроскопические соединения, воздействующие на живые ткани. Они служат основой успокаивающих средств и ритуальных смесей. Необработанный рог остаётся очень прочным и ценным редким материалом.</MA_SivatheriumHorn.description>
+  <MA_AminoxHorn.label>рог аминокса</MA_AminoxHorn.label>
+  <MA_AminoxHorn.description>Колоссальный рог взрослого аминокса. Толстый, тяжёлый, испещрённый следами многолетних ударов о лёд, камень и соперников. Для изящных уколов он подходит хуже мелких рогов, зато его масса ценится при изготовлении легендарного дробящего оружия, ритуальных трофеев и ремесленных изделий окраинных миров.</MA_AminoxHorn.description>
+  <MA_CapryakHorn.label>рог каприяка</MA_CapryakHorn.label>
+  <MA_CapryakHorn.description>Длинный угловатый рог взрослого каприяка. Плотный, прочный, естественно заточенный годами столкновений с камнем, льдом и соперниками. Подходит для грубого колющего оружия, обрядов и ценных трофеев.</MA_CapryakHorn.description>
+  <MA_MossmireDraught.label>болотно-моховой настой</MA_MossmireDraught.label>
+  <MA_MossmireDraught.description>Густой крепкий зелёный алкогольный настой из болотно-мохового молока и редких лесных корней. Его история восходит к обрядам древних шаманов, считавших, что он открывает тело воле духов.
+
+После него раны заживали быстрее, а в затуманенных глазах вспыхивала лихорадочная сила. Но лес не раздаёт даров просто так: настой обжигает, мутит разум и на несколько дней оставляет тяжесть в крови.
+
+Его создали не ради удовольствия, а ради выживания, когда других путей уже нет.</MA_MossmireDraught.description>
+  <MA_MossmireDraught.ingestible.ingestCommandString>Выпить {0}</MA_MossmireDraught.ingestible.ingestCommandString>
+  <MA_Duskyakult.ingestible.ingestCommandString>Выпить {0}</MA_Duskyakult.ingestible.ingestCommandString>
+  <MA_Caprodka.ingestible.ingestCommandString>Выпить: {0}</MA_Caprodka.ingestible.ingestCommandString>
+  <MA_AmineSerum.ingestible.ingestCommandString>Выпить: {0}</MA_AmineSerum.ingestible.ingestCommandString>
+  <MA_ScarodonHeartPotion.ingestible.ingestCommandString>Выпить {0}</MA_ScarodonHeartPotion.ingestible.ingestCommandString>
+  <MA_HellboarLiverPotion.ingestible.ingestCommandString>Выпить {0}</MA_HellboarLiverPotion.ingestible.ingestCommandString>
+  <MA_SivaDustIvoryPotion.ingestible.ingestCommandString>Выпить {0}</MA_SivaDustIvoryPotion.ingestible.ingestCommandString>
+  <MA_MossmireDraught.ingestible.ingestReportString>Пьёт {0}.</MA_MossmireDraught.ingestible.ingestReportString>
+  <MA_Duskyakult.ingestible.ingestReportString>Пьёт {0}.</MA_Duskyakult.ingestible.ingestReportString>
+  <MA_Caprodka.ingestible.ingestReportString>Пьёт: {0}.</MA_Caprodka.ingestible.ingestReportString>
+  <MA_AmineSerum.ingestible.ingestReportString>Пьёт: {0}.</MA_AmineSerum.ingestible.ingestReportString>
+  <MA_ScarodonHeartPotion.ingestible.ingestReportString>Пьёт {0}.</MA_ScarodonHeartPotion.ingestible.ingestReportString>
+  <MA_HellboarLiverPotion.ingestible.ingestReportString>Пьёт {0}.</MA_HellboarLiverPotion.ingestible.ingestReportString>
+  <MA_SivaDustIvoryPotion.ingestible.ingestReportString>Пьёт {0}.</MA_SivaDustIvoryPotion.ingestible.ingestReportString>
+  <MA_FermentingMossmireMilk.label>бродящее болотно-моховое молоко</MA_FermentingMossmireMilk.label>
+  <MA_FermentingMossmireMilk.description>Смесь болотно-мохового молока и трав, которая бродит, постепенно превращаясь в настой.</MA_FermentingMossmireMilk.description>
+  <MA_Duskyakult.label>сумракульт</MA_Duskyakult.label>
+  <MA_Duskyakult.description>Ферментированный напиток из молока сумеркорога, разлитый по бутылкам для долгого хранения в холодных суровых краях.
+
+Нежно-розовый цвет и кисло-сладкий вкус привычны племенам окраинных миров. Здесь его ценят за надёжность, а не роскошь. Брожение сохраняет большую часть питательной ценности молока, хотя некоторыми потерями приходится мириться.
+
+Простой, сытный и удобный в хранении сумракульт — один из самых распространённых способов сберечь молоко сумеркорога дольше одного дня.</MA_Duskyakult.description>
+  <MA_FermentingDuskyakult.label>бродящий сумракульт</MA_FermentingDuskyakult.label>
+  <MA_FermentingDuskyakult.description>Молоко сумеркорога, оставленное для брожения и розлива по бутылкам длительного хранения.</MA_FermentingDuskyakult.description>
+  <MA_Caprodka.label>капроводка</MA_Caprodka.label>
+  <MA_Caprodka.description>Густой молочный напиток глубокого брожения, приготовленный из молока каприяка и разлитый по бутылкам для долгого хранения.
+
+Резкий, жирный, тяжёлый на языке — до изысканности ему далеко. Но в холодных суровых краях капроводку ценят и как пищу, и как утешение. Она согревает живот, поднимает настроение и хранится гораздо дольше свежего молока.
+
+Для пастухов и племён окраинных миров это скорее привычка, чем роскошь. И отказаться от такой привычки бывает нелегко.</MA_Caprodka.description>
+  <MA_FermentingCaprodka.label>бродящая капроводка</MA_FermentingCaprodka.label>
+  <MA_FermentingCaprodka.description>Молочная основа капроводки, оставленная для брожения в густой алкогольный напиток длительного хранения.</MA_FermentingCaprodka.description>
+  <MA_AmineSerum.label>аминовая сыворотка</MA_AmineSerum.label>
+  <MA_AmineSerum.description>Очищенная сыворотка из богатого аминовыми соединениями молока аминокса.
+
+Содержит высокую концентрацию аминов, известных своим влиянием на восстановление тканей и обмен веществ. При непосредственном употреблении приглушает боль и ускоряет процессы в организме, но расходует его энергетические резервы.
+
+Многие знают о её ценности, однако лишь развитые поселения понимают её истинные возможности.</MA_AmineSerum.description>
+  <MA_FermentingAmineSerum.label>очищаемая аминовая сыворотка</MA_FermentingAmineSerum.label>
+  <MA_FermentingAmineSerum.description>Аминовое молоко, проходящее очистку для получения концентрированной сыворотки.</MA_FermentingAmineSerum.description>
+  <MA_ScarodonHeartPotion.label>зелье сердца скародона</MA_ScarodonHeartPotion.label>
+  <MA_ScarodonHeartPotion.description>Зелье из ломтиков сердца скародона и лекарственных трав. Сырое сердце вываривают, процеживают и закупоривают в виде густого красного напитка, который сохраняет свирепый жар и не портится.
+
+Так недолговечная плоть превращается в запас боевого лекарства. Природу скародона не смягчают — лишь заключают в бутылку. Зелье бурно разгоняет кровь, пробуждая ярость, силу и хищные рефлексы.
+
+Готовить его дорого, зато хранить гораздо проще, чем сырые ломтики сердца.</MA_ScarodonHeartPotion.description>
+  <MA_UnfinishedScarodonHeartPotion.label>недоваренное зелье сердца скародона</MA_UnfinishedScarodonHeartPotion.label>
+  <MA_UnfinishedScarodonHeartPotion.description>Ещё не готовое зелье сердца скародона, густое от жара и горьких трав.</MA_UnfinishedScarodonHeartPotion.description>
+  <MA_HellboarLiverPotion.label>зелье печени адского вепря</MA_HellboarLiverPotion.label>
+  <MA_HellboarLiverPotion.description>Фиолетовое зелье из ломтиков печени адского вепря и лекарственных трав. Печень вываривают, пока её токсины не перейдут в горький очищающий напиток, пригодный для закупоривания и хранения.
+
+Лекарство остаётся суровым: оно обжигает внутренности, приглушает боль и заставляет кровь быстрее очищаться. За такое насильственное очищение организму приходится платить. Племенные знахари ценят зелье за то, что оно сохраняет лечебную силу печени и избавляет от необходимости хранить портящиеся сырые ломтики.</MA_HellboarLiverPotion.description>
+  <MA_UnfinishedHellboarLiverPotion.label>недоваренное зелье печени адского вепря</MA_UnfinishedHellboarLiverPotion.label>
+  <MA_UnfinishedHellboarLiverPotion.description>Ещё не готовое зелье печени адского вепря, густое от фиолетовых токсинов и лекарственных трав.</MA_UnfinishedHellboarLiverPotion.description>
+  <MA_SivaDustIvoryPotion.label>зелье сива-порошка</MA_SivaDustIvoryPotion.label>
+  <MA_SivaDustIvoryPotion.description>Бледное зелье из очищенного сива-порошка бивней, лекарственных трав и чистой воды. Тяжёлый порошок оседает на дне, придавая смеси мутное, словно древнее свечение.
+
+Так порошок проще дозировать и гораздо легче хранить. Напиток замедляет тело, приглушает боль и приносит тёплый тяжёлый покой, будто за каждой мыслью гудит далёкая машина.
+
+Одни племена считают его лекарством. Другие — шёпотом древних, заключённым в бутылку.</MA_SivaDustIvoryPotion.description>
+  <MA_UnfinishedSivaDustIvoryPotion.label>недоваренное зелье сива-порошка</MA_UnfinishedSivaDustIvoryPotion.label>
+  <MA_UnfinishedSivaDustIvoryPotion.description>Ещё не готовое зелье сива-порошка, мутное от бледной пыли и лекарственных трав.</MA_UnfinishedSivaDustIvoryPotion.description>
+  <MA_CapryakCheese.label>сыр каприяка</MA_CapryakCheese.label>
+  <MA_CapryakCheese.description>Плотная бледно-жёлтая головка сыра из молока каприяка.
+
+Жирный, сильно кислый, с резким долгим послевкусием, которое может оттолкнуть непривычного едока. Тяжёлый и простоватый, он служит суровой, но надёжной пищей холодных регионов.
+
+При правильной выдержке едкая кислота смягчается, вкус становится глубже и уравновешеннее, а сыр — неожиданно приятным.</MA_CapryakCheese.description>
+  <MA_DuskhornCheese.label>сыр сумеркорога</MA_DuskhornCheese.label>
+  <MA_DuskhornCheese.description>Плотный розоватый сыр из молока сумеркорога.
+
+Несложная обработка концентрирует жёлтый звериный жир, содержащийся в исходном молоке.
+
+Сливочный и тяжёлый сыр портится медленнее свежего молока, но всё же требует правильного хранения.</MA_DuskhornCheese.description>
+  <MA_AminoxBlueCheese.label>голубой сыр аминокса</MA_AminoxBlueCheese.label>
+  <MA_AminoxBlueCheese.description>Плотный сыр с голубыми прожилками, приготовленный из аминового молока.
+
+Во время брожения часть аминовых соединений сохраняет активность и образует тёмные реактивные прожилки в бледной сырной массе.
+
+Сыр очень устойчив и долго хранится. Его ценят и как запас пищи, и как мягкий биологический стимулятор.</MA_AminoxBlueCheese.description>
+  <MA_EmberheartSlices.label>ломтики сердца скародона</MA_EmberheartSlices.label>
+  <MA_EmberheartSlices.description>Сырые ломтики сердца скародона, ещё пульсирующие остаточным жаром и адреналином. Члены племён жуют их, чтобы пробудить первобытную ярость, усилить мышцы, рефлексы и агрессию в бою. Вкус кровавый и горький, но даруемая сила неоспорима.</MA_EmberheartSlices.description>
+  <MA_UnfinishedEmberheartSlices.label>недоделанные ломтики сердца скародона</MA_UnfinishedEmberheartSlices.label>
+  <MA_UnfinishedEmberheartSlices.description>Частично приготовленные ломтики сердца скародона. Ещё тёплые, они ждут завершения обработки.</MA_UnfinishedEmberheartSlices.description>
+  <MA_HellboarLiverSlice.label>ломтики печени адского вепря</MA_HellboarLiverSlice.label>
+  <MA_HellboarLiverSlice.description>Тонкие ломтики пропитанной токсинами печени адского вепря. Используются в отчаянных племенных обрядах, избавляющих от болезни и боли дорогой ценой. Такое очищение переживают лишь сильные: слабый организм может погибнуть прежде, чем яд будет выведен.</MA_HellboarLiverSlice.description>
+  <MA_SkyfeatherPipe.label>трубка небесного пера</MA_SkyfeatherPipe.label>
+  <MA_SkyfeatherPipe.description>Резная трубка ручной работы, набитая маслянистыми перьями легендарного орла-исполина. Дым обостряет зрение, делает прицел твёрже и словно расширяет восприятие за горизонт. Племена рассказывают об охотниках, которые под его действием никогда не промахивались.</MA_SkyfeatherPipe.description>
+  <MA_SivaDustIvory.label>сива-порошок бивней</MA_SivaDustIvory.label>
+  <MA_SivaDustIvory.description>Очищенный порошок из окостеневшего рога сиватерия. Древние когда-то использовали его как стабилизатор камер криптосна. Небольшие дозы замедляют мысли и сердцебиение, снимают напряжение и вызывают лёгкую эйфорию.
+
+В составе есть следы биосинтетической материи забытых технологий. Поэтому порошок высоко ценится племенами и коллекционерами, верящими, что он связывает смертных с утраченными знаниями древних.</MA_SivaDustIvory.description>
+  <MA_WildFat.label>звериный жир</MA_WildFat.label>
+  <MA_WildFat.description>Густой питательный жир мегаживотных с большими внутренними резервами. Улучшает блюда и быстро насыщает, но, по слухам, чрезмерное употребление со временем вредит сердцу.</MA_WildFat.description>
+  <MA_MycorgloomSpore.label>споры микорглума</MA_MycorgloomSpore.label>
+  <MA_MycorgloomSpore.description>Скопление светящихся грибных спор, собранных со спорокрота. Формально это похожий на шерсть грибной нарост, богатый необычными питательными веществами и слабо светящийся. Споры опасаются есть из-за токсичности, но ценят как экзотическую пряность и редкий кулинарный ингредиент.</MA_MycorgloomSpore.description>
+  <MA_MeatshroomBolus.label>комок мясогриба</MA_MeatshroomBolus.label>
+  <MA_MeatshroomBolus.description>Жуткий комок грибной плоти, порождённый паразитическими наростами микорглума. Дрожит словно живой, сочится зловонной сукровицей и пахнет гнилью вперемешку с грибами. Животные охотно его пожирают, но поселенцев тошнит даже от одной мысли. Несмотря на отвратительный вид, это полноценная питательная пища.</MA_MeatshroomBolus.description>
+  <MA_PlastemmothMeat.label>мясо пластомамонта</MA_PlastemmothMeat.label>
+  <MA_PlastemmothMeat.description>Плотное мясо исполинского пластомамонта со вкусом железа.
+
+Волокнистое и металлическое, при правильном приготовлении оно становится удивительно нежным и насыщенным.</MA_PlastemmothMeat.description>
+  <MA_ScarodonMeat.label>мясо скародона</MA_ScarodonMeat.label>
+  <MA_ScarodonMeat.description>Редкое изысканное мясо скародона, свирепого хищника, чья плоть отдаёт железом, дымом и древней кровью. Сырое оно жёсткое, но при правильном приготовлении становится невероятно нежным и насыщенным.</MA_ScarodonMeat.description>
+  <MA_DuskhornMeat.label>мясо сумеркорога</MA_DuskhornMeat.label>
+  <MA_DuskhornMeat.description>Толстое мраморное мясо исполинского сумеркорога.
+
+Прожилки сливочного жира проходят сквозь тёмную плоть и при готовке придают ей невероятно насыщенный вкус. Но сырым невытопленный жир приторен и вызывает тошноту.</MA_DuskhornMeat.description>
+  <MA_HippoMeat.label>мясо шерстебегемота</MA_HippoMeat.label>
+  <MA_HippoMeat.description>Пропитанное жиром мясо под толстой кожистой оболочкой. После готовки насыщенное и сытное, но сырым почти невыносимо из-за студенистого жира и резиновых волокон.</MA_HippoMeat.description>
+  <MA_RaptorkhanMeat.label>окорочка рапторхана</MA_RaptorkhanMeat.label>
+  <MA_RaptorkhanMeat.description>Толстые питательные куски мощных ног рапторхана. Приготовленное мясо нежное и очень вкусное, а сырое — жилистое, неприятное и застревает в зубах.</MA_RaptorkhanMeat.description>
+  <MA_HarpeagleLegs.label>окорочка орла-исполина</MA_HarpeagleLegs.label>
+  <MA_HarpeagleLegs.description>Огромные ароматные окорочка легендарного орла-исполина. После готовки плотные мышцы и необычные масла превращают их в ценный деликатес. Сырыми они жёсткие, маслянистые и горчат.</MA_HarpeagleLegs.description>
+  <MA_WorhinMeat.label>мясо ворина</MA_WorhinMeat.label>
+  <MA_WorhinMeat.description>Плотное мраморное мясо исполинского ворина. Золотисто-серые волокна придают ему необычный вид. Приготовленное оно сытное и насыщенное, но сырым имеет тяжёлый металлический вкус, заглушающий всё остальное.</MA_WorhinMeat.description>
+  <MA_GnautBeef.label>гнаутина</MA_GnautBeef.label>
+  <MA_GnautBeef.description>Нежирное вкусное мясо гнаута. Обычный источник пищи, по качеству близкий к говядине или оленине.</MA_GnautBeef.description>
+  <MA_SporemoleMeat.label>мясо спорокрота</MA_SporemoleMeat.label>
+  <MA_SporemoleMeat.description>Неестественно плотное мясо спорокрота, пропитанное грибными спорами. Едкая плесневая вонь делает его неприятным и сырым, и приготовленным. Зато благодаря плотности оно почти вдвое питательнее обычного мяса.</MA_SporemoleMeat.description>
+  <MA_HorseBeef.label>конина</MA_HorseBeef.label>
+  <MA_HorseBeef.description>Нежирное добротное мясо гигантских лошадей, выведенных ради выносливости. По вкусу и применению сравнимо с обычной говядиной.</MA_HorseBeef.description>
+  <MA_DunbearMeat.label>мясо дунбера</MA_DunbearMeat.label>
+  <MA_DunbearMeat.description>Плотное тёмное мясо дунбера.
+
+Великолепный боевой трофей. Толстые жировые слои, сформированные для защиты от холода, удерживают в мякоти тепло и вкус. При умелой готовке мясо становится невероятно нежным, раскрывая глубокий землистый аромат с лёгкой сладостью. Сырое же имеет стойкий металлический привкус — напоминание о грубой силе и выносливости зверя.</MA_DunbearMeat.description>
+  <MA_SivatheriumMeat.label>мясо сиватерия</MA_SivatheriumMeat.label>
+  <MA_SivatheriumMeat.description>Насыщенное жирное мясо исполинского сиватерия. После готовки тяжёлое, плотное и очень вкусное. Сырым почти несъедобно из-за сальной текстуры и сильного мускусного запаха костей и костного мозга.</MA_SivatheriumMeat.description>
+  <MA_HellboarMeat.label>мясо адского вепря</MA_HellboarMeat.label>
+  <MA_HellboarMeat.description>Ценные куски рёберной части адского вепря.
+
+Толстые пласты мяса держатся на тяжёлой кости и пронизаны плотным жиром, который прекрасно вытапливается при готовке. Это одни из самых ценных частей туши: при правильном приготовлении они дают глубокий насыщенный вкус и исключительную питательность.</MA_HellboarMeat.description>
+  <MA_BirdMeat.label>птичье мясо</MA_BirdMeat.label>
+  <MA_BirdMeat.description>Белое мясо птиц-мегаживотных. Плотные волокна имеют мягкий, слегка минеральный вкус, характерный для крупных пернатых хищников. По текстуре занимает промежуточное место между красным мясом и обычной птицей, поэтому подходит для множества блюд.</MA_BirdMeat.description>
+  <MA_AmineMeat.label>аминовое мясо</MA_AmineMeat.label>
+  <MA_AmineMeat.description>Плотное мясо выносливого горного аминокса.
+
+Крепкая мускулатура сформирована жизнью на открытой местности в холодном климате. Характерные розовые жировые прожилки при нагревании превращаются в насыщенный ароматный жир.
+
+Сырое мясо тяжёлое и резкое на вкус. Правильно приготовленное — удивительно нежное и питательное, прекрасно подходящее поселениям в суровых условиях.</MA_AmineMeat.description>
+  <MA_CapryakMeat.label>мясо каприяка</MA_CapryakMeat.label>
+  <MA_CapryakMeat.description>Плотное мясо упрямого горного каприяка.
+
+Компактные мышцы пронизаны бледно-розовым жиром, придающим мясу тяжёлый грубоватый характер. При нагревании жир медленно вытапливается в густую насыщенную массу.
+
+Сырое мясо жёсткое, холодное и неприятное. Но правильная готовка смягчает его и превращает в очень питательную еду для выживания в суровом климате.</MA_CapryakMeat.description>
+  <MA_MossmireMilk.label>болотно-моховое молоко</MA_MossmireMilk.label>
+  <MA_MossmireMilk.description>Бледно-зелёное вязкое молоко с сильным запахом трав и гнили. Отвратительно на вкус, зато очень питательно. Некоторые племена используют его для выживания, а отчаявшиеся поселенцы пьют, скрепя сердце.</MA_MossmireMilk.description>
+  <MA_AminoMilk.label>аминовое молоко</MA_AminoMilk.label>
+  <MA_AminoMilk.description>Густое бледное молоко аминокса.
+
+Богато редкими соединениями — аминами, поэтому служит не только пищей. Эти особые молекулы можно выделить и превратить в очень ценную сыворотку для редких предметов и сложного производства.
+
+Свежее молоко питательно и слегка сладковато. Для поселений, освоивших выделение и очистку его компонентов, оно становится одним из важнейших стратегических ресурсов.
+
+В холодных регионах его считают основой новых технологий, алхимии и передовых способов выживания.</MA_AminoMilk.description>
+  <MA_DuskMilk.label>молоко сумеркорога</MA_DuskMilk.label>
+  <MA_DuskMilk.description>Густое, слегка сладкое молоко сумеркорога. Насыщенный цвет и сливочный вкус делают его ценным ресурсом и для племён, и для путешественников.</MA_DuskMilk.description>
+  <MA_CapryakMilk.label>молоко каприяка</MA_CapryakMilk.label>
+  <MA_CapryakMilk.description>Густое грубоватое молоко каприяка. Резко кислое и очень жирное, с жёстким вкусом, который мало кому нравится. Зато оно очень питательно и ценится в холодных краях, где выживание зависит от сытной пищи.</MA_CapryakMilk.description>
+  <MA_MegaBone.label>мегакость</MA_MegaBone.label>
+  <MA_MegaBone.description>Тяжёлая органоминеральная кость существ мифических эпох. Её плотная структура необъяснимым для науки образом соединяет минералы с живой тканью. Поселения ценят её как редкий материал для прочных инструментов, оружия и сложных сооружений. Также служит важным ингредиентом при выплавке твёрдого ценного металла.</MA_MegaBone.description>
+  <MA_Steelbone.label>костесталь</MA_Steelbone.label>
+  <MA_Steelbone.description>Гибридный металл, выплавленный из стали и очищенной мегакости. Плотный и прочный, высоко ценится при изготовлении мощного оружия, брони и сложных сооружений.</MA_Steelbone.description>
+  <MA_Plastite.label>пластит</MA_Plastite.label>
+  <MA_Plastite.description>Металлический кристалл, выращенный биологическими процессами внутри пластомамонта.
+
+Растёт вдоль позвоночника, где микроскопические металлопластитовые структуры медленно накапливаются и кристаллизуются под огромной нагрузкой и давлением организма. Эти образования нанометрового масштаба связывают органику и металл в нестабильную биометаллическую решётку.
+
+Для прямого использования пластит непригоден, но при переработке со сталью позволяет получать пласталь.</MA_Plastite.description>
+  <MA_Leather_Plastehide.label>пластошкура</MA_Leather_Plastehide.label>
+  <MA_Leather_Plastehide.description>Плотная металлическая шкура пластомамонта, пронизанная естественными волокнами, похожими на сталь. Хорошо сохраняет тепло и даёт умеренную броневую защиту. Высоко ценится жителями Арктики и мастерами тяжёлых доспехов.</MA_Leather_Plastehide.description>
+  <MA_Leather_Deermoss.label>шкура мохового оленя</MA_Leather_Deermoss.label>
+  <MA_Leather_Deermoss.description>Пропитанная мхом кожа словно сохраняет дыхание жизни, будто её волокна ещё живы. Хорошо сохраняет тепло и медленно разлагается. Говорят, вещи из неё со временем едва ли не восстанавливаются сами.</MA_Leather_Deermoss.description>
+  <MA_Leather_Scarodon.label>шкура скародона</MA_Leather_Scarodon.label>
+  <MA_Leather_Scarodon.description>Плотная шкура скародона, покрытая шрамами. Глубокие оранжевые полосы меха проходят по толстой грубой коже. Завораживающий природный рисунок и тёплый блеск делают её редким предметом роскоши. Многие считают её красивой и внушительной.
+
+На рынке она встречается редко: добыть шкуру столь смертоносного зверя чрезвычайно трудно.</MA_Leather_Scarodon.description>
+  <MA_Leather_Duskhorn.label>кожа сумеркорога</MA_Leather_Duskhorn.label>
+  <MA_Leather_Duskhorn.description>Толстая тёмно-красная кожа сумеркорога. Насыщенный оттенок и слоистая текстура делают её красивой и практичной, а от холода она защищает превосходно. Хотя кожа тяжёлая и грубая, племена ценят её уникальный цвет и используют для плащей, подстилок и зимней одежды.</MA_Leather_Duskhorn.description>
+  <MA_DuskWool.label>шерсть сумеркорога</MA_DuskWool.label>
+  <MA_DuskWool.description>Грубая шерсть сумеркорога цвета сумерек. Тёплая и прочная, ценится племенными ремесленниками.</MA_DuskWool.description>
+  <MA_WorhinWool.label>шерсть ворина</MA_WorhinWool.label>
+  <MA_WorhinWool.description>Золотисто-пепельная шерсть ворина. Исключительно тёплая и прочная, высоко ценится за красоту и надёжность в ремесле.</MA_WorhinWool.description>
+  <MA_Leather_Furpotamus.label>кожа шерстебегемота</MA_Leather_Furpotamus.label>
+  <MA_Leather_Furpotamus.description>Толстая тяжёлая шкура огромного шерстебегемота, состоящая из слоёв плотной кожи и грубого меха. Особенно устойчива к ударам и разрывам, умеренно защищает от температуры. Её выбирают ради долговечности, а не удобства.</MA_Leather_Furpotamus.description>
+  <MA_Leather_Raptorkhan.label>шкура рапторхана</MA_Leather_Raptorkhan.label>
+  <MA_Leather_Raptorkhan.description>Сумрачно-синяя шкура рапторхана с оперением цвета грозового неба. Её сформировали непрерывное движение и жизнь под открытым бурным небом.
+
+Легче массивных шкур и хуже сохраняет тепло, зато даёт гибкую защиту, не мешающую движениям. Часто используется для плащей и лёгкой брони.</MA_Leather_Raptorkhan.description>
+  <MA_Leather_Hellboar.label>шкура адского вепря</MA_Leather_Hellboar.label>
+  <MA_Leather_Hellboar.description>Плотная гладкая шкура адского вепря, закалённая постоянной агрессией и жестокими столкновениями.
+
+Плохо защищает от температуры, зато её прочная поверхность хорошо держит удары. Подходит для брони и снаряжения, рассчитанного на большие нагрузки.</MA_Leather_Hellboar.description>
+  <MA_Leather_Harpeagle.label>кожа орла-исполина</MA_Leather_Harpeagle.label>
+  <MA_Leather_Harpeagle.description>Роскошная кожа величественного орла-исполина, сочетающая мягкий пух и прочную основу. Насыщенный янтарный цвет и гладкая поверхность подходят для изящной, но долговечной одежды, которую часто носят вожди и небесные охотники.</MA_Leather_Harpeagle.description>
+  <MA_Leather_Worhin.label>шкура ворина</MA_Leather_Worhin.label>
+  <MA_Leather_Worhin.description>Огромная шкура ворина, пронизанная золотисто-пепельными волокнами со слабым металлическим блеском. Крепкая, тяжёлая и долговечная, почитается и как материал для брони, и как роскошная ткань — символ силы и стойкости.</MA_Leather_Worhin.description>
+  <MA_Leather_Gnaut.label>шкура гнаута</MA_Leather_Gnaut.label>
+  <MA_Leather_Gnaut.description>Скромная обычная шкура гнаута. Не особенно прочная, но надёжно служит для простой одежды и лёгкого снаряжения. Приглушённый землистый оттенок хорошо сочетается с грубыми тканями.</MA_Leather_Gnaut.description>
+  <MA_Leather_Sporemole.label>шкура спорокрота</MA_Leather_Sporemole.label>
+  <MA_Leather_Sporemole.description>Сырая, воняющая плесенью шкура спорокрота. Толстая неровная поверхность испещрена грибными поражениями. Обращаться с ней неприятно, но она хорошо согревает и даёт умеренную защиту.</MA_Leather_Sporemole.description>
+  <MA_Leather_Direhorse.label>шкура лютокона</MA_Leather_Direhorse.label>
+  <MA_Leather_Direhorse.description>Толстая многослойная шкура лютокона, сформированная жизнью на суровых равнинах, где палящие дни сменяются морозными ночами.
+
+Её естественное строение надёжно защищает и от жары, и от холода. Хороший выбор для снаряжения, рассчитанного на самые разные условия.</MA_Leather_Direhorse.description>
+  <MA_DirehorseWool.label>шерсть лютокона</MA_DirehorseWool.label>
+  <MA_DirehorseWool.description>Грубый подшёрсток лютокона. Толстые многослойные волокна согревают лучше обычной шерсти, хотя их можно собрать меньше. Ценятся для зимней одежды, плащей и подстилок.</MA_DirehorseWool.description>
+  <MA_Leather_Dunbear.label>шкура дунбера</MA_Leather_Dunbear.label>
+  <MA_Leather_Dunbear.description>Толстая роскошная шкура исполинского дунбера. Глубокие коричневые тона переливаются тёплым золотом и медью — отражением необычайной выносливости зверя и тепла, которое он хранит даже в самых холодных краях.</MA_Leather_Dunbear.description>
+  <MA_Leather_Sivatherium.label>шкура сиватерия</MA_Leather_Sivatherium.label>
+  <MA_Leather_Sivatherium.description>Толстая грубая шкура сиватерия, сформированная жизнью на открытых выжженных солнцем землях под постоянным воздействием жары.
+
+Плотное строение надёжно защищает от повреждений и сурового климата. Подходит для тёплых регионов и снаряжения жителей окраинных миров.</MA_Leather_Sivatherium.description>
+  <MA_Leather_Simbakub.label>шкура симбакуба</MA_Leather_Simbakub.label>
+  <MA_Leather_Simbakub.description>Густой мех симбакуба естественно приспособлен к саванне и эффективно защищает от сильной жары.
+
+Прочную гибкую кожу широко используют племена для долговечной брони и одежды. Её ценят за надёжность в бою и при выживании.</MA_Leather_Simbakub.description>
+  <MA_Leather_SimbakubAlpha.label>шкура симбакуба-вожака</MA_Leather_SimbakubAlpha.label>
+  <MA_Leather_SimbakubAlpha.description>Шкура симбакуба-вожака толще и темнее, чем у сородичей. На ней оставили след возраст, господство и бесчисленные схватки под солнцем саванны.
+
+Племена высоко ценят её прочность, защиту от жары и престиж, который она придаёт владельцу.</MA_Leather_SimbakubAlpha.description>
+  <MA_Leather_Aminox.label>шкура аминокса</MA_Leather_Aminox.label>
+  <MA_Leather_Aminox.description>Толстая прочная шкура аминокса, естественно приспособленная к сильным морозам.
+
+Наследие древних овцебыков сочетает густые теплоизолирующие волокна с крепкой внутренней кожей. Это особенно полезно для грубой одежды окраинных миров и снаряжения холодного климата.
+
+Тёмная сдержанная окраска и плотная фактура делают шкуру практичной и узнаваемой. Её ценят поселения, живущие в самых суровых условиях.</MA_Leather_Aminox.description>
+  <MA_AminoxWool.label>шерсть аминокса</MA_AminoxWool.label>
+  <MA_AminoxWool.description>Толстая грубая шерсть, состриженная с аминокса.
+
+Плотные волокна естественно сохраняют тепло благодаря поколениям адаптации к морозному климату. Материал тёмный, неброский и исключительно тёплый.
+
+Высоко ценится в холодных краях и часто идёт на долговечную одежду для выживания в суровых условиях.</MA_AminoxWool.description>
+  <MA_Leather_Capryak.label>шкура каприяка</MA_Leather_Capryak.label>
+  <MA_Leather_Capryak.description>Толстая грубая шкура каприяка, способная выдержать жестокие морозы.
+
+Она снята с упрямого зверя ледяных земель и хранит следы ветра, льда и постоянного сопротивления стихии. У молодых животных почти белая, с возрастом приобретает более тёплые желтоватые оттенки.
+
+Плотный наружный слой грубого волоса естественно сохраняет тепло и особенно хорошо защищает от экстремального климата.
+
+Тяжёлая и прочная, широко используется для морозостойкой одежды и надёжного снаряжения окраинных миров.</MA_Leather_Capryak.description>
+  <MA_CapryakWool.label>шерсть каприяка</MA_CapryakWool.label>
+  <MA_CapryakWool.description>Шерсть каприяка составляет самую плотную часть его теплоизолирующего покрова.
+
+Толстые волокна внутреннего слоя, защищающего упрямого зверя от ледяных ветров, прекрасно удерживают тепло.
+
+Цвет меняется от почти белого до бледно-жёлтого в зависимости от возраста животного.
+
+Высоко ценится для одежды, рассчитанной на сильные морозы.</MA_CapryakWool.description>
+  <MA_Fatkibble.label>жирный комбикорм</MA_Fatkibble.label>
+  <MA_Fatkibble.description>Корм для животных, обогащённый звериным жиром. Немного питательнее обычного комбикорма, но совершенно не подходит людям.</MA_Fatkibble.description>
+  <MA_MegaBacon.label>мегабекон</MA_MegaBacon.label>
+  <MA_MegaBacon.description>Толстые полосы выдержанного мяса, медленно приготовленные с насыщенным звериным жиром и заготовленные впрок. Это роскошное угощение ценят скорее за удовольствие, чем за питательность.</MA_MegaBacon.description>
+  <MA_MegaBeef.label>мегастейк</MA_MegaBeef.label>
+  <MA_MegaBeef.description>Огромный кусок жареного мяса. Толстый, сытный и очень приятный, а щедрая добавка жира делает его особенно утешительной едой.</MA_MegaBeef.description>
+  <MA_FriedLegs.label>жареные окорочка</MA_FriedLegs.label>
+  <MA_FriedLegs.description>Лучшие части гигантских птиц. Большие жареные окорочка, хрустящие снаружи и сочные внутри, считаются редким деликатесом для особых случаев и настоящих пиров.</MA_FriedLegs.description>
+  <MA_MarrowJelly.label>костномозговое желе</MA_MarrowJelly.label>
+  <MA_MarrowJelly.description>Плотное желе, вываренное из костного мозга мифической мегакости и звериного жира. Очень питательно и долго не портится, но имеет тяжёлый неприятный вкус.</MA_MarrowJelly.description>
+  <MA_WildButter.label>звериное масло</MA_WildButter.label>
+  <MA_WildButter.description>Плотный брусок животного жира, сбитого из лишнего молока.
+
+Хранится гораздо дольше свежего молока и полезен, когда стадо даёт больше молока, чем поселение успевает выпить. Но при изготовлении теряется значительная часть питательной ценности. В крайнем случае поселенцы могут его съесть, хотя лучше считать его молочным запасом, а не полноценным блюдом.</MA_WildButter.description>
+  <MA_GiantFriedEgg.label>гигантская яичница</MA_GiantFriedEgg.label>
+  <MA_GiantFriedEgg.description>Большая яичница из белка и желтка яйца гигантской птицы с небольшой добавкой звериного жира. Густая, насыщенная и сытная — один из самых простых способов превратить редкое яйцо в полноценное блюдо, не растратив его объём.</MA_GiantFriedEgg.description>
+  <MA_Aminox.label>аминокс</MA_Aminox.label>
+  <MA_Aminox.description>Аминоксы — огромные травоядные холодного климата, происходящие от древних животных, похожих на овцебыков. Густая шерсть и природная выносливость позволяют им жить в тундре, на ледяных равнинах и там, где обычный скот долго не протянет.
+
+Главная ценность аминокса — его молоко. Густое, питательное и богатое необычными аминовыми соединениями, оно поддерживает поселения в экстремальных условиях и служит основой более сильнодействующих продуктов. Его свойства изучены не до конца, но слишком устойчивы, чтобы быть простой случайностью.
+
+Возможно, аминокс был частью биологического проекта мира-утопии по промышленному получению ценных соединений. Тогда его молоко — не просто животный продукт, а сохранившийся результат работы забытого живого производства.</MA_Aminox.description>
+  <MA_Aminox.race.meatLabel>аминовое мясо</MA_Aminox.race.meatLabel>
+  <MA_Capryak.label>каприяк</MA_Capryak.label>
+  <MA_Capryak.description>Каприяки — мегакозы холодных регионов, приспособленные к тундре, промёрзшим лесам и горам. Густая шерсть, толстая шкура и длинные рога делают их морозостойкими и опасными противниками, особенно после ранения.
+
+Поселения могут разводить их ради грубой шерсти, резкого, но питательного молока и рогов, достаточно прочных для примитивного оружия. Главная трудность — содержание: из-за размера, аппетита и упрямого нрава каприяку нужно больше корма и внимания, чем обычному скоту.
+
+Возможно, это потомки горных животных, изменённых для выживания там, где привычные стада погибли бы. Они не кажутся изящно усовершенствованными — скорее, созданными терпеть.</MA_Capryak.description>
+  <MA_Capryak.race.meatLabel>мясо каприяка</MA_Capryak.race.meatLabel>
+  <MA_Deermoss.label>моховой олень</MA_Deermoss.label>
+  <MA_Deermoss.description>Моховые олени — крупные лесные травоядные, покрытые густым мехом и симбиотическим мхом. Они бесшумно движутся по древним лесам. Обычно миролюбивы, но при угрозе тяжёлое тело и внушительные рога делают их опасными.
+
+В покрове растут лекарственные волокна, которые могут собирать умелые животноводы. Олени также дают зелёное горькое питательное молоко. Однако разводить их дорого: чудовищный аппетит способен истощить целые продовольственные склады неподготовленного поселения.
+
+Их первоначальное назначение, по-видимому, было связано не с отдельными семенами, а с растительным разнообразием в целом. Мхи, микрофлора, полезные волокна и симбионты переносились на самом теле. Некоторые животные пережили создателей, одичали, и племена стали видеть в них предвестников возвращения древних лесов.</MA_Deermoss.description>
+  <MA_HealmossFiber.label>волокно целебного мха</MA_HealmossFiber.label>
+  <MA_HealmossFiber.description>Плотные растительные волокна, покрытые мхом и собранные со спины мохового оленя. После правильной обработки ускоряют естественное заживление и повышают сопротивляемость болезням.</MA_HealmossFiber.description>
+  <MA_HealmossFiber.ingestible.ingestCommandString>Применить {0}</MA_HealmossFiber.ingestible.ingestCommandString>
+  <MA_HealmossFiber.ingestible.ingestReportString>Накладывает {0} на раны.</MA_HealmossFiber.ingestible.ingestReportString>
+  <MA_Direhorse.label>лютокон</MA_Direhorse.label>
+  <MA_Direhorse.description>Лютоконы — исполинские древние лошади с густой шерстью, защищающей на ледяных равнинах и суровых открытых пространствах. Их табуны равномерно преодолевают огромные расстояния, сохраняя силу и выносливость там, где обычные верховые животные быстро выбились бы из сил.
+
+Приручённый лютокон становится одним из ценнейших караванных животных окраинных миров, сочетая скорость, грузоподъёмность и внушительность в бою. Однако размер и сила делают охоту или приручение серьёзным риском для неподготовленных поселенцев.
+
+Возможно, эту линию сохранили или восстановили для перевозок на холодных слаборазвитых мирах. Это не изящная лошадь из конюшни, а животное, созданное пройти через тяжёлые эпохи.</MA_Direhorse.description>
+  <MA_Dunbear.label>дунбер</MA_Dunbear.label>
+  <MA_Dunbear.description>Дунберы — древние пещерные медведи исполинских размеров, приспособленные к крайнему холоду и горам. Они надолго погружаются в глубокую спячку, а с оттепелью выходят на поверхность в поисках пищи.
+
+Охота на дунбера — опасное решение. Масса, стойкость и грубая сила позволяют ему переживать ранения, которые остановили бы большинство хищников. Густой ценный мех, впрочем, делает его заманчивой добычей для подготовленного поселения.
+
+Возможно, их создали как хищников-регуляторов для терраформированных экосистем, вышедших из-под контроля. Но теперь они ничего не охраняют. Это лишь голодные пережитки проекта, который забыл умереть.</MA_Dunbear.description>
+  <MA_Dunbear.tools.1.label>укус</MA_Dunbear.tools.1.label>
+  <MA_Furpotamus.tools.0.label>укус</MA_Furpotamus.tools.0.label>
+  <MA_Manehound.tools.0.label>укус</MA_Manehound.tools.0.label>
+  <MA_Duskhorn.label>сумеркорог</MA_Duskhorn.label>
+  <MA_Duskhorn.description>Сумеркороги — древние стадные животные с густым тёмно-красным мехом и крупными рогами цвета слоновой кости, напоминающими последние лучи заката. Племена и поселения окраинных миров часто разводят их ради ценной шерсти и густого молока.
+
+В стаде они обычно послушны, но после ранения или угрозы сородичу могут стать опасными. Неподготовленная охота превращает ценный источник молока, шерсти, мяса и рогов в плохо управляемую схватку.
+
+Похоже, вид был создан для выживания в экстремальном климате и поддержки изолированных сообществ. Племена до сих пор считают его символом удачи. Практичные поселенцы видят в нём один из лучших способов превращать скудные пастбища в редкие ресурсы.</MA_Duskhorn.description>
+  <MA_Duskhorn.race.meatLabel>мясо сумеркорога</MA_Duskhorn.race.meatLabel>
+  <MA_Furpotamus.label>шерстебегемот</MA_Furpotamus.label>
+  <MA_Furpotamus.description>Шерстебегемоты — огромные покрытые мехом предки современных бегемотов, приспособленные к болотам, сырым низинам и холодным речным берегам. Несмотря на тяжёлое тело, легко передвигаются по затопленной местности и возле воды становятся гораздо опаснее.
+
+Питаются растениями, но яростно защищаются при ранении или преследовании. Приручение возможно, хотя размер, аппетит и потребность в выпасе сильно его осложняют. Охотятся на них ради плотного жира, тяжёлых костей, прочной кожи и густого меха. Загнанный шерстебегемот способен раздавить отряд, занявший неудачную позицию.
+
+Возможно, их создали как часть живых систем очистки воды на загрязнённых окраинных мирах. Без генетического обслуживания многие стада вернулись к полудикому состоянию, превратив прежние экологические инструменты в угрозу болот.</MA_Furpotamus.description>
+  <MA_Furpotamus.tools.1.label>сокрушительный удар</MA_Furpotamus.tools.1.label>
+  <MA_Worhin.tools.1.label>сокрушительный удар</MA_Worhin.tools.1.label>
+  <MA_Gnaut.label>гнаут</MA_Gnaut.label>
+  <MA_Gnaut.description>Гнауты — крупные крепкие стадные травоядные, похожие на древних антилоп гну и диких быков. Хорошо чувствуют себя в стаде и естественно вписываются в открытые экосистемы, превращая обычную растительность в мясо, шкуру, кости и рога.
+
+Молока и шерсти они не дают, зато просты в содержании. Их можно приручить ради устойчивого снабжения обычными ресурсами, не полагаясь на редкие побочные продукты. Один гнаут редко пугает подготовленное поселение, но потревоженное стадо всё ещё способно нанести потери.
+
+Возможно, гнаутов создали для экологической поддержки: не ради впечатляющего зрелища, а чтобы заселять луга, кормить хищников и обеспечивать человеческие поселения.</MA_Gnaut.description>
+  <MA_Gnaut.race.meatLabel>мясо гнаута</MA_Gnaut.race.meatLabel>
+  <MA_Harpeagle.label>орёл-исполин</MA_Harpeagle.label>
+  <MA_Harpeagle.description>Орлы-исполины — колоссальные хищные птицы, способные накрыть тенью стадо и поднять добычу размером с оленя. Путники их боятся, а племена уважают: не из-за священного статуса, а потому, что мало кто обладает такой властью в небе.
+
+В перьях содержатся редкие масла для эликсиров, обостряющих чувства. Приручить орла-исполина возможно, но нужны умение, смелость и постоянный запас корма. Прокормить такого хищника бывает не дешевле, чем поймать.
+
+Если их когда-то создавали для наблюдения, охоты или контроля фауны с воздуха, это назначение забыто. Остались территориальные птицы, достаточно умные, чтобы распознавать угрозы, и достаточно сильные, чтобы сделать окрестности гнезда запретной землёй.</MA_Harpeagle.description>
+  <MA_HarpeagleEggUnfertilized.label>яйцо орла-исполина (неоплод.)</MA_HarpeagleEggUnfertilized.label>
+  <MA_HarpeagleEggUnfertilized.description>Огромное яйцо с перламутровой скорлупой и золотистыми узорами, завораживающе мерцающими на свету. Племена верят, что неосторожно разбить его — значит навлечь гнев небес. Съедобно, но знающие его ценность считают такую трапезу расточительством.</MA_HarpeagleEggUnfertilized.description>
+  <MA_HarpeagleEggFertilized.label>яйцо орла-исполина (оплод.)</MA_HarpeagleEggFertilized.label>
+  <MA_HarpeagleEggFertilized.description>Оплодотворённое яйцо орла-исполина, сияющее под узорчатой скорлупой. Если держать его в тепле, на свет может появиться одна из самых величественных и опасных хищных птиц. Съесть яйцо можно, но многие культуры считают это святотатством.</MA_HarpeagleEggFertilized.description>
+  <MA_Hellboar.label>адский вепрь</MA_Hellboar.label>
+  <MA_Hellboar.description>Адские вепри — колоссальные всеядные животные, которых привлекают кровь, гниль и брошенная плоть. Они не настоящие хищники, но постоянный голод и грубая сила побуждают их преследовать живую добычу, когда падали и объедков мало.
+
+Опасен не только удар с разбега, но и заразный укус. Во рту столько грязи, бактерий и гниющих остатков, что даже небольшая рана может стать серьёзной угрозой. Зато печень накапливает сильнодействующие соединения, из которых племена готовят средства против токсинов и боли — дорогой ценой для организма.
+
+Возможно, они происходят от деодонов, заново заселённых в зоны войн. Трупы, биологические отходы и разрушенные экосистемы закрепили худшие черты этой линии. Современный адский вепрь будто создан не убивать, а выживать среди того, что осталось после убийства.</MA_Hellboar.description>
+  <MA_Hellboar.tools.0.label>заразный укус</MA_Hellboar.tools.0.label>
+  <MA_Hellboar.tools.0.labelNoLocation>заразный укус</MA_Hellboar.tools.0.labelNoLocation>
+  <MA_Hellboar.tools.1.label>терзающий укус</MA_Hellboar.tools.1.label>
+  <MA_Hellboar.tools.1.labelNoLocation>терзающий укус</MA_Hellboar.tools.1.labelNoLocation>
+  <MA_Hellboar.tools.2.label>дробящий укус</MA_Hellboar.tools.2.label>
+  <MA_Sporemole.tools.1.label>дробящий укус</MA_Sporemole.tools.1.label>
+  <MA_Hellboar.tools.2.labelNoLocation>дробящий укус</MA_Hellboar.tools.2.labelNoLocation>
+  <MA_Sporemole.tools.1.labelNoLocation>дробящий укус</MA_Sporemole.tools.1.labelNoLocation>
+  <MA_Manehound.label>гривастый пёс</MA_Manehound.label>
+  <MA_Manehound.description>Гривастые псы — крупные одичавшие сторожевые собаки, происходящие от древних пастушьих пород холодного климата. Густая шерсть, тяжёлая шейная грива и настороженная стойка всё ещё выдают животное, созданное стоять между стадом и угрозой.
+
+Поколения в дикой природе сделали их осторожными и территориальными, но не стёрли домашних инстинктов. В отличие от волков и настоящих охотничьих хищников, эти псы наблюдают, терпят и удерживают позицию. Приручённый пёс может стать верным защитником загонов, спален и беззащитных поселенцев.
+
+Возможно, это всего лишь рабочие собаки, которых слишком далеко изменили отбор, климат и заброшенность. Теперь они занимают редкое место между зверем и спутником: достаточно дикие, чтобы выжить в одиночку, и достаточно близкие к человеку, чтобы вернуться.</MA_Manehound.description>
+  <MA_Manehound.tools.1.label>левый клык</MA_Manehound.tools.1.label>
+  <MA_Manehound.tools.2.label>правый клык</MA_Manehound.tools.2.label>
+  <MA_Narkospider.label>наркопаук</MA_Narkospider.label>
+  <MA_Narkospider.description>Наркопауки — огромные подземные пауки, охотящиеся из засады. Они предпочитают усыплять добычу, а не подавлять грубой силой. В туннелях и тёмных местах ждут, пока жертва не приблизится достаточно для наркотического укуса.
+
+Яд вызывает глубокий наркоз, ослабляя движение и восприятие, пока жертва не утратит способность реагировать. Наркопаук менее стремителен, чем другие хищники, но особенно опасен в пещерах, коридорах и плохо освещённых схватках, где один укус решает исход.
+
+Трудно сказать, создан ли он намеренно или появился в результате крайней адаптации к подземной жизни. Его тело словно предназначено удерживать территорию без лишних затрат энергии: обездвижить, обезвредить и ждать.</MA_Narkospider.description>
+  <MA_Narkospider.tools.0.label>ядовитый укус</MA_Narkospider.tools.0.label>
+  <MA_Narkospider.tools.1.label>сокрушительные клыки</MA_Narkospider.tools.1.label>
+  <MA_Plastemmoth.label>пластомамонт</MA_Plastemmoth.label>
+  <MA_Plastemmoth.description>Пластомамонты — колоссальные биометаллические звери холодных и умеренных регионов. Сила, стойкость и масса делают их одной из опаснейших целей для охоты на окраинных мирах, особенно когда рядом идут другие члены стада.
+
+В течение жизни в их телах медленно нарастают пластитовые образования под действием биологических процессов и огромного давления среды. Эти нестабильные кристаллы можно переработать со сталью в пласталь. Каждая туша становится одновременно богатой добычей, угрозой и кошмаром для перевозчиков.
+
+Возможно, пластомамонт был попыткой превратить целые экосистемы в медленные фабрики стратегического материала. Но сегодня это скорее мигрирующая гора с минеральным богатством в костях, чем живая машина.</MA_Plastemmoth.description>
+  <MA_Plastemmoth.tools.3.label>сокрушительный топот</MA_Plastemmoth.tools.3.label>
+  <MA_Plastemmoth.tools.3.labelNoLocation>сокрушительный топот</MA_Plastemmoth.tools.3.labelNoLocation>
+  <MA_PlastemmothAlpha.label>пластомамонт-вожак</MA_PlastemmothAlpha.label>
+  <MA_PlastemmothAlpha.description>Пластомамонты-вожаки — редкие старые исполины, крупнее и тяжелее остальных представителей вида. Они ведут мигрирующие стада через холодные и умеренные земли. Их пластитовые пластины настолько толсты, что кажутся частью самого скелета.
+
+Встретить вожака — значит столкнуться с живым центром миграции. Природный панцирь ослабляет обычное оружие, а запасы пластита в теле делают его одной из самых ценных и опасных целей для поселения.
+
+Вожак может быть не запланированной разновидностью, а результатом десятилетий накопления биометалла, давления среды и непрерывного выживания. Обычное животное со временем становится ходячим памятником из пластита, костей и возраста.</MA_PlastemmothAlpha.description>
+  <MA_Raptorkhan.label>рапторхан</MA_Raptorkhan.label>
+  <MA_Raptorkhan.description>Рапторханы — огромные оперённые хищные птицы, слишком быстрые для своих размеров и достаточно умные для парной охоты. Они обходятся без полёта, господствуя на земле благодаря скорости, силе и когтям, способным рвать тяжёлую защиту.
+
+Пары яростно охраняют территорию, особенно возле гнёзд и яиц с толстой скорлупой. В некоторых культурах когти ценят как материал для церемониальных клинков. Но добыть такой коготь обычно означает пережить одну из опаснейших охот на окраинных мирах.
+
+Возможно, их вывели как управляемых хищников для арен, охотничьих заповедников или сдерживания агрессивной фауны. Теперь это дикие птицы-засадники без хозяев и без арены.</MA_Raptorkhan.description>
+  <MA_Raptorkhan.race.meatLabel>птичье мясо</MA_Raptorkhan.race.meatLabel>
+  <MA_RaptorkhanEggUnfertilized.label>яйцо рапторхана (неоплод.)</MA_RaptorkhanEggUnfertilized.label>
+  <MA_RaptorkhanEggUnfertilized.description>Необычайно крупное яйцо с тёмной, словно состаренной скорлупой. Некоторые племена верят, что неправильное разбивание приносит несчастье. Съедобно, но лучше приготовить, чтобы уменьшить горечь.</MA_RaptorkhanEggUnfertilized.description>
+  <MA_RaptorkhanEggFertilized.label>яйцо рапторхана (оплод.)</MA_RaptorkhanEggFertilized.label>
+  <MA_RaptorkhanEggFertilized.description>Оплодотворённое яйцо рапторхана. В тепле и безопасности из него может вылупиться один из самых смертоносных хищников, известных племенным охотникам. Съесть его можно, но в некоторых культурах за это грозят неприятности.</MA_RaptorkhanEggFertilized.description>
+  <MA_Scarodon.label>скародон</MA_Scarodon.label>
+  <MA_Scarodon.description>Скародоны — одиночные высшие хищники с саблевидными клыками, мощным телом и густым мехом, покрытым старыми шрамами. Бродят по северным и умеренным лесам. Достаточно сильны для охоты на мегаживотных и достаточно опасны, чтобы заставить колебаться даже вооружённых поселенцев.
+
+Хотя едят почти всё, скародоны, по-видимому, предпочитают крупную ценную добычу. Победа над одним из них может дать редкие ресурсы, в том числе жар-сердце — нестабильный орган, связанный с сильным нагревом, стремительным восстановлением и всплесками силы в бою.
+
+Трудно сказать, чем скародон был изначально: животным, оружием или ошибкой. Его тело несёт признаки линии, созданной зачищать территории, выживать без приказов и продолжать охоту ещё долго после исчезновения создателей.</MA_Scarodon.description>
+  <MA_Scarodon.tools.0.label>левый саблевидный клык</MA_Scarodon.tools.0.label>
+  <MA_Scarodon.tools.0.labelNoLocation>саблевидный клык</MA_Scarodon.tools.0.labelNoLocation>
+  <MA_Scarodon.tools.1.labelNoLocation>саблевидный клык</MA_Scarodon.tools.1.labelNoLocation>
+  <MA_Scarodon.tools.1.label>правый саблевидный клык</MA_Scarodon.tools.1.label>
+  <MA_Scarodon.tools.2.label>взмах когтями</MA_Scarodon.tools.2.label>
+  <MA_Scarodon.tools.2.labelNoLocation>коготь</MA_Scarodon.tools.2.labelNoLocation>
+  <MA_Scarodon.tools.3.label>удар лапой</MA_Scarodon.tools.3.label>
+  <MA_Simbakub.label>симбакуб</MA_Simbakub.label>
+  <MA_Simbakub.description>Симбакубы — крупные примитивные львы, опасные не только силой, но и стайной охотой. В саваннах, пустынях и других суровых биомах они выслеживают гнаутов, лютоконов и путников, бесшумно сближаясь перед общей атакой.
+
+Ранение одного симбакуба может втянуть в бой всю стаю. В присутствии вожака коллективный ответ ещё опаснее: он координирует охоту и превращает агрессивных зверей в дисциплинированную силу. Приручить их трудно, но преуспевшие племена и поселения получают свирепых верных защитников, способных воодушевлять союзников рядом.
+
+Возможно, их создали для восстановления давления хищников в открытых экосистемах, чтобы крупные травоядные двигались и не размножались бесконтрольно. На современных окраинных мирах эта функция превратилась в другое: стаи стали достаточно умны, чтобы устраивать засады.</MA_Simbakub.description>
+  <MA_Simbakub.tools.0.label>клыки</MA_Simbakub.tools.0.label>
+  <MA_SimbakubAlpha.tools.0.label>клыки</MA_SimbakubAlpha.tools.0.label>
+  <MA_Simbakub.tools.2.label>удар головой</MA_Simbakub.tools.2.label>
+  <MA_SimbakubAlpha.tools.2.label>удар головой</MA_SimbakubAlpha.tools.2.label>
+  <MA_SimbakubAlpha.label>симбакуб-вожак</MA_SimbakubAlpha.label>
+  <MA_SimbakubAlpha.description>Симбакубы-вожаки — редкие огромные особи, способные бродить в одиночку, пока не найдут или не захватят новую стаю. Их рёв обозначает обширные территории. Когда вожак начинает охотиться, немногие мелкие хищники решаются остаться рядом.
+
+Принятый стаей вожак становится её лидером, защитником и центром общего отпора. Его присутствие укрепляет дисциплину симбакубов: согласованные атаки опаснее, а сломить группу в бою труднее. Вожаки размножаются только с другими вожаками, сохраняя отдельную линию внутри вида.
+
+Похоже, это не просто различие размеров, а редкая биологическая роль: живой командный центр стаи, построенной на сотрудничестве, территории и выживании. Где он проходит, экосистема учится уступать место.</MA_SimbakubAlpha.description>
+  <MA_Sivatherium.label>сиватерий</MA_Sivatherium.label>
+  <MA_Sivatherium.description>Сиватерии — внушительные травоядные древней земной мегафауны. Исполины из мышц и костей с толстой шеей и ветвистыми рогами, похожими на костяные короны. На открытых равнинах и лесных опушках они внушают уважение даже крупным хищникам.
+
+Обычно миролюбивые взрослые особи при угрозе превращаются в живые стены из костей и мышц. Туши дают много мегакости, а рога ценятся для особых продуктов переработки и биологически активных исследовательских материалов.
+
+Похоже, сиватерия вернули на окраинные миры с теми же амбициями, что и мегаленивца: ради восстановления экосистем в масштабах мира-утопии, с животными слишком большими, чтобы легко исчезнуть. Получилась живая реликвия — уцелевшая часть старой попытки воссоздать целые экосистемы.</MA_Sivatherium.description>
+  <MA_Sivatherium.tools.0.label>рога</MA_Sivatherium.tools.0.label>
+  <MA_Sporemole.label>спорокрот</MA_Sporemole.label>
+  <MA_Sporemole.description>Спорокроты — чудовищные потомки древних роющих кротов, искажённые паразитическим грибом микорглумом. Их тела служат живой почвой для светящихся наростов, делающих зверей крупнее, крепче и гораздо труднее убиваемыми, чем обычные подземные животные.
+
+Бывшие насекомоядные стали хищниками, хватающими любую удобную добычу. Они устраивают засады в туннелях, жестоко защищают норы и порой выходят на поверхность в одиночку, когда голод выгоняет из-под земли. Мясо сильно пахнет плесенью. Мало кто забывает первую встречу с существом, похожим одновременно на млекопитающее и колонию грибов.
+
+Возможно, спорокрота не создавали ни как оружие, ни как скот: он стал живой случайностью заражённой экосистемы. Там, где распространяется микорглум, границы между животным, грибом и норой начинают исчезать.</MA_Sporemole.description>
+  <MA_Sporemole.tools.0.label>грызущий укус</MA_Sporemole.tools.0.label>
+  <MA_Sporemole.tools.0.labelNoLocation>грызущий укус</MA_Sporemole.tools.0.labelNoLocation>
+  <MA_Sporemole.tools.2.label>таран головой</MA_Sporemole.tools.2.label>
+  <MA_Sporemole.tools.2.labelNoLocation>таран</MA_Sporemole.tools.2.labelNoLocation>
+  <MA_Worhin.label>ворин</MA_Worhin.label>
+  <MA_Worhin.description>Ворины — колоссальные звери ледниковых равнин, покрытые золотисто-серой шерстью. Тяжёлые тела уверенно несут их через снег, лёд и открытые пространства. Издалека они кажутся большими стадными травоядными, а вблизи — живыми стенами мышц, шерсти и рогов.
+
+Поселения, сумевшие их приручить, используют воринов как тяжёлых вьючных и боевых животных. Размер, аппетит и сложность обращения мешают разведению, но мало кто сравнится с их способностью прорывать строй, носить грузы и обращать наспех возведённую оборону в обломки. При разделке дают ценную шерсть, прочную шкуру, плотное мясо и бронторин — окаменевший рог.
+
+Возможно, ворин был частью ледникового биоразнообразия, созданной оживлять холодные экосистемы, прокладывать пути через снег и поддерживать пищевые цепи там, где почти ничто не процветало. Приспособившись к окраинным мирам и войнам поселений, он сохранил эту древнюю роль в виде грубой силы.</MA_Worhin.description>
+  <MA_FlatButcherBlock.label>каменная разделочная плита</MA_FlatButcherBlock.label>
+  <MA_FlatButcherBlock.description>Плоская каменная поверхность для разделки животных. Грубее и грязнее полноценного разделочного стола, но всё же чище работы прямо на земле.</MA_FlatButcherBlock.description>
+  <MA_MythicCraftingSpot.label>место обработки мифических материалов</MA_MythicCraftingSpot.label>
+  <MA_MythicCraftingSpot.description>Примитивное рабочее место для обработки сырых мифических материалов. Оснащено лишь тяжёлым молотом, которым дробят грубое сырьё и превращают его в компоненты для более сложных сооружений.</MA_MythicCraftingSpot.description>
+  <MA_FlatCraftingBench.label>простой каменный верстак</MA_FlatCraftingBench.label>
+  <MA_FlatCraftingBench.description>Верстак с примитивными инструментами для изготовления оружия и других сложных предметов из простых материалов.</MA_FlatCraftingBench.description>
+  <MA_FlatCookingTable.label>каменная кухонная плита</MA_FlatCookingTable.label>
+  <MA_FlatCookingTable.description>Плоская каменная поверхность со встроенным очагом. Грубее полноценной кухни, но готовить на ней быстрее и чище, чем на земле. Позволяет готовить обычные и особые блюда.</MA_FlatCookingTable.description>
+  <MA_VerdantArrow.label>стрела лесного лука</MA_VerdantArrow.label>
+  <MA_CapryakArrow.label>стрела лука каприяка</MA_CapryakArrow.label>
+  <MA_VerdantBow.label>лесной лук</MA_VerdantBow.label>
+  <MA_VerdantBow.description>Искусно сделанный лук из священной древесины мохового оленя, усиленный мегакостью и рогами. Говорят, его тетива вбирает дыхание леса, а каждая стрела гудит живой силой. Роговые наконечники позволяют эффективно отбиваться от врагов, подобравшихся вплотную.</MA_VerdantBow.description>
+  <MA_VerdantBow.tools.0.label>роговой наконечник лука</MA_VerdantBow.tools.0.label>
+  <MA_VerdantBow.verbs.0.label>лесной лук</MA_VerdantBow.verbs.0.label>
+  <Unfinished_VerdantBow.label>недоделанный лесной лук</Unfinished_VerdantBow.label>
+  <MA_CapryakScatterbow.label>скорострельный лук каприяка</MA_CapryakScatterbow.label>
+  <MA_CapryakScatterbow.description>Скорострельный лук из расщеплённого рога каприяка, скреплённый деталями из мегакости. Гибкое основание позволяет быстро выпускать стрелы одну за другой, хотя торопливые выстрелы редко точны на большой дистанции. Его любят племенные застрельщики и охотники, полагающиеся на скорость. Роговые плечи посылают залпы раньше, чем добыча успевает среагировать.</MA_CapryakScatterbow.description>
+  <MA_CapryakScatterbow.tools.0.label>остриё расщеплённого рога</MA_CapryakScatterbow.tools.0.label>
+  <MA_CapryakScatterbow.verbs.0.label>скорострельный лук каприяка</MA_CapryakScatterbow.verbs.0.label>
+  <Unfinished_CapryakScatterbow.label>недоделанный скорострельный лук каприяка</Unfinished_CapryakScatterbow.label>
+  <MA_Rhinhammer.label>риномолот</MA_Rhinhammer.label>
+  <MA_Rhinhammer.description>Колоссальный боевой молот из окаменевшего рога ворина. Огромный вес позволяет крушить и броню, и камень, но оружие неповоротливо и медленно в замахе.</MA_Rhinhammer.description>
+  <MA_Rhinhammer.tools.0.label>древко</MA_Rhinhammer.tools.0.label>
+  <MA_MegaboneClub.tools.1.label>древко</MA_MegaboneClub.tools.1.label>
+  <MA_DuskSpear.tools.1.label>древко</MA_DuskSpear.tools.1.label>
+  <MA_ClawSaber.label>когтевая сабля</MA_ClawSaber.label>
+  <MA_ClawSaber.description>Свирепый клинок из когтей исполинского зверя. Лёгкий и быстрый, позволяет стремительно рубить и точно колоть.</MA_ClawSaber.description>
+  <MA_ClawSaber.tools.0.label>клинок</MA_ClawSaber.tools.0.label>
+  <MA_ScarodonFangDagger.label>кинжал из клыка скародона</MA_ScarodonFangDagger.label>
+  <MA_ScarodonFangDagger.description>Кинжал из клыка скародона с рукоятью из мегакости. Смертелен в ближнем бою и любим искусными племенными охотниками.</MA_ScarodonFangDagger.description>
+  <MA_MegaboneClub.label>дубина из мегакости</MA_MegaboneClub.label>
+  <MA_MegaboneClub.description>Примитивная мощная дубина, вырезанная из цельного куска мегакости. Тяжёлая и грубая, но сокрушительная в умелых руках.</MA_MegaboneClub.description>
+  <MA_GnautHornMace.label>булава из рогов гнаута</MA_GnautHornMace.label>
+  <MA_GnautHornMace.description>Усиленная булава из рогов могучего гнаута, соединённых с сердцевиной из мегакости. Наносит сокрушительные удары и рвёт зазубренными краями.</MA_GnautHornMace.description>
+  <MA_GnautHornMace.tools.1.label>острия рогов</MA_GnautHornMace.tools.1.label>
+  <MA_DuskSpear.label>сумеречное копьё</MA_DuskSpear.label>
+  <MA_DuskSpear.description>Церемониальное копьё из заточенного рога сумеркорога. Почитается сумеречными племенами за изящество и смертоносность.</MA_DuskSpear.description>
+  <MA_DuskSpear.tools.0.label>остриё рога</MA_DuskSpear.tools.0.label>
+  <MA_AminoxWarmaul.label>боевой молот аминокса</MA_AminoxWarmaul.label>
+  <MA_AminoxWarmaul.description>Грубый боевой молот из двух рогов аминокса, закреплённых на сердцевине из мегакости. Убивает не древним громом великих реликтовых молотов, а одной лишь плотностью и сокрушительным весом. Каждый взмах обрушивается холодным тяжёлым тараном: дробит кости, мнёт броню и ошеломляет всякого, кто не успел уклониться.</MA_AminoxWarmaul.description>
+  <MA_AminoxWarmaul.tools.0.label>боёк молота</MA_AminoxWarmaul.tools.0.label>
+  <MA_AminoxWarmaul.tools.1.label>удар древком</MA_AminoxWarmaul.tools.1.label>
+</LanguageData>

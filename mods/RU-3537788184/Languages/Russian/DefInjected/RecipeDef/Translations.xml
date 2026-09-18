@@ -1,0 +1,110 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <MA_Make_BlocksGranite_Primitive.label>сделать гранитные блоки</MA_Make_BlocksGranite_Primitive.label>
+  <MA_Make_BlocksGranite_Primitive.jobString>Делает гранитные блоки.</MA_Make_BlocksGranite_Primitive.jobString>
+  <MA_Make_BlocksSlate_Primitive.label>сделать сланцевые блоки</MA_Make_BlocksSlate_Primitive.label>
+  <MA_Make_BlocksSlate_Primitive.jobString>Делает сланцевые блоки.</MA_Make_BlocksSlate_Primitive.jobString>
+  <MA_Make_BlocksSandstone_Primitive.label>сделать блоки песчаника</MA_Make_BlocksSandstone_Primitive.label>
+  <MA_Make_BlocksSandstone_Primitive.jobString>Делает блоки песчаника.</MA_Make_BlocksSandstone_Primitive.jobString>
+  <MA_Make_BlocksLimestone_Primitive.label>сделать известняковые блоки</MA_Make_BlocksLimestone_Primitive.label>
+  <MA_Make_BlocksLimestone_Primitive.jobString>Делает известняковые блоки.</MA_Make_BlocksLimestone_Primitive.jobString>
+  <MA_Make_BlocksMarble_Primitive.label>сделать мраморные блоки</MA_Make_BlocksMarble_Primitive.label>
+  <MA_Make_BlocksMarble_Primitive.jobString>Делает мраморные блоки.</MA_Make_BlocksMarble_Primitive.jobString>
+  <MA_Make_CapryakCheese.label>сделать сыр каприяка</MA_Make_CapryakCheese.label>
+  <MA_Make_CapryakCheese.description>Сквасить молоко каприяка и спрессовать его в плотную головку простого кисловатого сыра.</MA_Make_CapryakCheese.description>
+  <MA_Make_CapryakCheese.jobString>делает сыр каприяка...</MA_Make_CapryakCheese.jobString>
+  <MA_Make_DuskhornCheese.label>сделать сыр сумеркорога</MA_Make_DuskhornCheese.label>
+  <MA_Make_DuskhornCheese.description>Сквасить молоко сумеркорога и приготовить плотный сливочный сыр, богатый звериным жиром.</MA_Make_DuskhornCheese.description>
+  <MA_Make_DuskhornCheese.jobString>делает сыр сумеркорога...</MA_Make_DuskhornCheese.jobString>
+  <MA_Make_AminoxBlueCheese.label>сделать голубой сыр аминокса</MA_Make_AminoxBlueCheese.label>
+  <MA_Make_AminoxBlueCheese.description>Сквасить и выдержать аминовое молоко, получив плотный сыр с голубыми прожилками и активными аминовыми соединениями.</MA_Make_AminoxBlueCheese.description>
+  <MA_Make_AminoxBlueCheese.jobString>делает голубой сыр аминокса...</MA_Make_AminoxBlueCheese.jobString>
+  <Make_MA_Fatkibble.label>сделать жирный комбикорм ×50</Make_MA_Fatkibble.label>
+  <Make_MA_Fatkibble.description>Смешать сырое мясо, растения и звериный жир, чтобы получить питательный корм для животных.</Make_MA_Fatkibble.description>
+  <Make_MA_FatkibbleBulk.description>Смешать сырое мясо, растения и звериный жир, чтобы получить питательный корм для животных.</Make_MA_FatkibbleBulk.description>
+  <Make_MA_Fatkibble.ingredients.0.filter.customSummary>белковая пища</Make_MA_Fatkibble.ingredients.0.filter.customSummary>
+  <Make_MA_FatkibbleBulk.ingredients.0.filter.customSummary>белковая пища</Make_MA_FatkibbleBulk.ingredients.0.filter.customSummary>
+  <Make_MA_Fatkibble.ingredients.1.filter.customSummary>растительная пища</Make_MA_Fatkibble.ingredients.1.filter.customSummary>
+  <Make_MA_FatkibbleBulk.ingredients.1.filter.customSummary>растительная пища</Make_MA_FatkibbleBulk.ingredients.1.filter.customSummary>
+  <Make_MA_Fatkibble.ingredients.2.filter.customSummary>жир</Make_MA_Fatkibble.ingredients.2.filter.customSummary>
+  <Make_MA_FatkibbleBulk.ingredients.2.filter.customSummary>жир</Make_MA_FatkibbleBulk.ingredients.2.filter.customSummary>
+  <Make_MA_Fatkibble.jobString>Делает жирный комбикорм.</Make_MA_Fatkibble.jobString>
+  <Make_MA_FatkibbleBulk.jobString>Делает жирный комбикорм.</Make_MA_FatkibbleBulk.jobString>
+  <Make_MA_FatkibbleBulk.label>сделать жирный комбикорм ×100</Make_MA_FatkibbleBulk.label>
+  <MA_Make_MegaBacon_x1.label>приготовить мегабекон</MA_Make_MegaBacon_x1.label>
+  <MA_Make_MegaBacon_x1.description>Медленно обработать толстую полосу жирного мяса с топлёным звериным жиром, получив насыщенный, роскошно сытный мегабекон.</MA_Make_MegaBacon_x1.description>
+  <MA_Make_MegaBacon_x1.jobString>Готовит мегабекон.</MA_Make_MegaBacon_x1.jobString>
+  <MA_Make_MegaBacon_x4.label>приготовить мегабекон ×4</MA_Make_MegaBacon_x4.label>
+  <MA_Make_MegaBacon_x4.description>Медленно обработать толстые полосы жирного мяса с топлёным звериным жиром, получив насыщенный, роскошно сытный мегабекон.</MA_Make_MegaBacon_x4.description>
+  <MA_Make_MegaBacon_x4.jobString>Готовит мегабекон (×4).</MA_Make_MegaBacon_x4.jobString>
+  <MA_Make_MegaBeef_x1.label>приготовить мегастейк</MA_Make_MegaBeef_x1.label>
+  <MA_Make_MegaBeef_x1.description>Приготовить огромный кусок жареного мяса, добавив немного топлёного звериного жира.</MA_Make_MegaBeef_x1.description>
+  <MA_Make_MegaBeef_x1.jobString>Готовит мегастейк.</MA_Make_MegaBeef_x1.jobString>
+  <MA_Make_MegaBeef_x4.label>приготовить мегастейк ×4</MA_Make_MegaBeef_x4.label>
+  <MA_Make_MegaBeef_x4.description>Приготовить несколько огромных кусков жареного мяса, добавив немного топлёного звериного жира.</MA_Make_MegaBeef_x4.description>
+  <MA_Make_MegaBeef_x4.jobString>Готовит мегастейк (×4).</MA_Make_MegaBeef_x4.jobString>
+  <MA_Make_FriedLegs.label>приготовить жареные окорочка</MA_Make_FriedLegs.label>
+  <MA_Make_FriedLegs.jobString>Жарит огромные окорочка.</MA_Make_FriedLegs.jobString>
+  <MA_Make_FriedLegs_x4.label>приготовить жареные окорочка ×4</MA_Make_FriedLegs_x4.label>
+  <MA_Make_FriedLegs_x4.jobString>Жарит огромные окорочка (×4).</MA_Make_FriedLegs_x4.jobString>
+  <MA_Make_MarrowJelly.label>приготовить костномозговое желе</MA_Make_MarrowJelly.label>
+  <MA_Make_MarrowJelly.description>Выварить плотное желе из мегакости и звериного жира. Очень питательно и долго не портится, но неприятно на вкус.</MA_Make_MarrowJelly.description>
+  <MA_Make_MarrowJelly_x4.description>Выварить плотное желе из мегакости и звериного жира. Очень питательно и долго не портится, но неприятно на вкус.</MA_Make_MarrowJelly_x4.description>
+  <MA_Make_MarrowJelly.jobString>Варит костномозговое желе.</MA_Make_MarrowJelly.jobString>
+  <MA_Make_MarrowJelly_x4.label>приготовить костномозговое желе ×4</MA_Make_MarrowJelly_x4.label>
+  <MA_Make_MarrowJelly_x4.jobString>Варит костномозговое желе (×4).</MA_Make_MarrowJelly_x4.jobString>
+  <MA_Make_WildButter.label>сделать звериное масло</MA_Make_WildButter.label>
+  <MA_Make_WildButter.description>Сбить из лишнего молока плотное масло длительного хранения. Оно хранится гораздо дольше свежего молока, но часть питательной ценности теряется при изготовлении.</MA_Make_WildButter.description>
+  <MA_Make_WildButter_x4.description>Сбить из лишнего молока плотное масло длительного хранения. Оно хранится гораздо дольше свежего молока, но часть питательной ценности теряется при изготовлении.</MA_Make_WildButter_x4.description>
+  <MA_Make_WildButter.jobString>Делает звериное масло.</MA_Make_WildButter.jobString>
+  <MA_Make_WildButter_x4.label>сделать звериное масло ×4</MA_Make_WildButter_x4.label>
+  <MA_Make_WildButter_x4.jobString>Делает звериное масло (×4).</MA_Make_WildButter_x4.jobString>
+  <MA_Make_GiantFriedEgg.label>приготовить гигантскую яичницу</MA_Make_GiantFriedEgg.label>
+  <MA_Make_GiantFriedEgg.description>Пожарить яйцо гигантской птицы с небольшим количеством звериного жира, получив насыщенное и сытное блюдо.</MA_Make_GiantFriedEgg.description>
+  <MA_Make_GiantFriedEgg.jobString>Готовит гигантскую яичницу.</MA_Make_GiantFriedEgg.jobString>
+  <MA_Make_MossmireDraught.label>приготовить болотно-моховой настой</MA_Make_MossmireDraught.label>
+  <MA_Make_MossmireDraught.description>Сбродить болотно-моховое молоко с толчёными травами, чтобы приготовить священный напиток.</MA_Make_MossmireDraught.description>
+  <MA_Make_MossmireDraught.jobString>готовит болотно-моховой настой...</MA_Make_MossmireDraught.jobString>
+  <MA_Make_Duskyakult.label>приготовить сумракульт</MA_Make_Duskyakult.label>
+  <MA_Make_Duskyakult.description>Сквасить молоко сумеркорога и разлить по бутылкам для более долгого хранения.</MA_Make_Duskyakult.description>
+  <MA_Make_Duskyakult.jobString>готовит сумракульт...</MA_Make_Duskyakult.jobString>
+  <MA_Make_Caprodka.label>приготовить капроводку</MA_Make_Caprodka.label>
+  <MA_Make_Caprodka.description>Сбродить молоко каприяка и разлить по бутылкам, получив крепкий алкогольный напиток длительного хранения.</MA_Make_Caprodka.description>
+  <MA_Make_Caprodka.jobString>готовит капроводку...</MA_Make_Caprodka.jobString>
+  <MA_Make_AmineSerum.label>очистить аминовую сыворотку</MA_Make_AmineSerum.label>
+  <MA_Make_AmineSerum.description>Очищенная сыворотка из богатого аминовыми соединениями молока аминокса.
+
+Ценится за сильное обезболивающее действие и способность стимулировать кровообращение и фильтрацию крови. При непосредственном употреблении ускоряет кровоток и подавляет боль, но затем вызывает умственное истощение.
+
+Многие поселения считают её редким лекарственным ресурсом, однако лишь самые развитые понимают, насколько ценной она становится после должной очистки.</MA_Make_AmineSerum.description>
+  <MA_Make_AmineSerum.jobString>очищает аминовую сыворотку...</MA_Make_AmineSerum.jobString>
+  <MA_Make_ScarodonHeartPotion.label>сварить зелье сердца скародона</MA_Make_ScarodonHeartPotion.label>
+  <MA_Make_ScarodonHeartPotion.description>Сварить ломтики сердца скародона с лекарственными травами, получив стойкое боевое зелье.</MA_Make_ScarodonHeartPotion.description>
+  <MA_Make_ScarodonHeartPotion.jobString>варит зелье сердца скародона...</MA_Make_ScarodonHeartPotion.jobString>
+  <MA_Make_HellboarLiverPotion.label>сварить зелье печени адского вепря</MA_Make_HellboarLiverPotion.label>
+  <MA_Make_HellboarLiverPotion.description>Сварить ломтики печени адского вепря с лекарственными травами, получив стойкое очищающее зелье.</MA_Make_HellboarLiverPotion.description>
+  <MA_Make_HellboarLiverPotion.jobString>варит зелье печени адского вепря...</MA_Make_HellboarLiverPotion.jobString>
+  <MA_Make_SivaDustIvoryPotion.label>сварить зелье сива-порошка</MA_Make_SivaDustIvoryPotion.label>
+  <MA_Make_SivaDustIvoryPotion.description>Сварить сива-порошок бивней с лекарственными травами, получив стойкое успокаивающее зелье.</MA_Make_SivaDustIvoryPotion.description>
+  <MA_Make_SivaDustIvoryPotion.jobString>варит зелье сива-порошка...</MA_Make_SivaDustIvoryPotion.jobString>
+  <MA_Prepare_EmberheartSlices.label>нарезать сердце скародона</MA_Prepare_EmberheartSlices.label>
+  <MA_Prepare_EmberheartSlices.description>Нарезать ещё тёплое сердце скародона тонкими упругими ломтиками для племенных обрядов.</MA_Prepare_EmberheartSlices.description>
+  <MA_Prepare_EmberheartSlices.jobString>нарезает сердце скародона...</MA_Prepare_EmberheartSlices.jobString>
+  <MA_Prepare_HellboarLiverSlices.label>приготовить ломтики печени адского вепря</MA_Prepare_HellboarLiverSlices.label>
+  <MA_Prepare_HellboarLiverSlices.description>Нарезать печень адского вепря и удалить часть токсинов, чтобы получить ритуальное лекарство для племенных охотников и воинов.</MA_Prepare_HellboarLiverSlices.description>
+  <MA_Prepare_HellboarLiverSlices.jobString>готовит ломтики печени адского вепря...</MA_Prepare_HellboarLiverSlices.jobString>
+  <MA_Prepare_SkyfeatherPipe.label>сделать трубку небесного пера</MA_Prepare_SkyfeatherPipe.label>
+  <MA_Prepare_SkyfeatherPipe.description>Набить резную трубку маслянистыми перьями орла-исполина. Их дым обостряет чувства.</MA_Prepare_SkyfeatherPipe.description>
+  <MA_Prepare_SkyfeatherPipe.jobString>делает трубку небесного пера...</MA_Prepare_SkyfeatherPipe.jobString>
+  <MA_Refine_SivaDustIvory.label>получить сива-порошок бивней</MA_Refine_SivaDustIvory.label>
+  <MA_Refine_SivaDustIvory.description>Раздробить и очистить рог сиватерия, получив мелкий биологически активный порошок для обрядов и древних энергетических систем.</MA_Refine_SivaDustIvory.description>
+  <MA_Refine_SivaDustIvory.jobString>перерабатывает рог сиватерия в сива-порошок...</MA_Refine_SivaDustIvory.jobString>
+  <MA_MakeSteelbone.label>выплавить костесталь</MA_MakeSteelbone.label>
+  <MA_MakeSteelbone.jobString>Выплавляет костесталь из мегакости и металла...</MA_MakeSteelbone.jobString>
+  <MA_RefinePlastite.label>переработать пластит</MA_RefinePlastite.label>
+  <MA_RefinePlastite.jobString>Соединяет кристаллы пластита с промышленной сталью, получая стабильную пласталь.</MA_RefinePlastite.jobString>
+  <MA_Make_VerdantBow.label>сделать лесной лук</MA_Make_VerdantBow.label>
+  <MA_Make_VerdantBow.jobString>делает лесной лук...</MA_Make_VerdantBow.jobString>
+  <MA_Make_CapryakScatterbow.label>сделать скорострельный лук каприяка</MA_Make_CapryakScatterbow.label>
+  <MA_Make_CapryakScatterbow.jobString>делает скорострельный лук каприяка...</MA_Make_CapryakScatterbow.jobString>
+</LanguageData>
