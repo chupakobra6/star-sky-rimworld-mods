@@ -1,5 +1,7 @@
 # Nice Bill Tab — русский перевод [Star Sky Mods]
 
+[![Nice Bill Tab — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/nice-bill-tab-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803465507)
+
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3803465507) · [Все категории](../../README.md) · [Источники и уведомления](NOTICES.md)
 
 Полный русский перевод [Nice Bill Tab](https://steamcommunity.com/sharedfiles/filedetails/?id=3520130671) для RimWorld 1.6. Оригинальный мод устанавливается отдельно.

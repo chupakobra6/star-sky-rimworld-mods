@@ -1,5 +1,7 @@
 # Hunt for Me — русский перевод [Star Sky Mods]
 
+[![Hunt for Me — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/hunt-for-me-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803465500)
+
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3803465500) · [Все категории](../../README.md) · [Источники и уведомления](NOTICES.md)
 
 Полный русский перевод Hunt for Me для RimWorld 1.6. Оригинальный мод устанавливается отдельно.

@@ -1,5 +1,7 @@
 # Useful Marks — русский перевод [Star Sky Mods]
 
+[![Useful Marks — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/useful-marks-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803465503)
+
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3803465503) · [Все категории](../../README.md) · [Источники и уведомления](NOTICES.md)
 
 Полный русский перевод [Useful Marks](https://steamcommunity.com/sharedfiles/filedetails/?id=3506573327) для RimWorld 1.6. Оригинальный мод устанавливается отдельно.

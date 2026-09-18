@@ -1,5 +1,7 @@
 # Adaptive Storage Framework — русский перевод [Star Sky Mods]
 
+[![Adaptive Storage Framework — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/adaptive-storage-framework-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803465496)
+
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3803465496) · [Все категории](../../README.md) · [Источники и уведомления](NOTICES.md)
 
 Полный русский перевод Adaptive Storage Framework для RimWorld 1.6. Оригинальный мод устанавливается отдельно.

@@ -1,5 +1,7 @@
 # RimSaves — русский перевод [Star Sky Mods]
 
+[![RimSaves — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/rimsaves-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803300028)
+
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3803300028) · [Все категории](../../README.md) · [Источники и уведомления](NOTICES.md)
 
 Полный русский перевод [RimSaves](https://steamcommunity.com/sharedfiles/filedetails/?id=1713367505) для RimWorld 1.6. Оригинальный мод устанавливается отдельно.

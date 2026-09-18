@@ -1,5 +1,7 @@
 # Go Explore! — русский перевод [Star Sky Mods]
 
+[![Go Explore! — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/go-explore-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803465492)
+
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3803465492) · [Все категории](../../README.md) · [Источники и уведомления](NOTICES.md)
 
 Полный русский перевод Go Explore! для RimWorld 1.6. Оригинальный мод устанавливается отдельно.

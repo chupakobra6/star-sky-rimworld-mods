@@ -1,5 +1,7 @@
 # QualityBuilder Unofficial 1.6 — русский перевод [Star Sky Mods]
 
+[![QualityBuilder Unofficial 1.6 — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/qualitybuilder-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803300243)
+
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3803300243) · [Все категории](../../README.md) · [Источники и уведомления](NOTICES.md)
 
 Полный русский перевод [QualityBuilder Unofficial 1.6](https://steamcommunity.com/sharedfiles/filedetails/?id=3512466087) для RimWorld 1.6. Оригинальный мод устанавливается отдельно.
