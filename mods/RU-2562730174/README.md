@@ -26,6 +26,8 @@ Visible Raid Points показывает, сколько очков угрозы
 3. Выберите русский язык в настройках RimWorld.
 <!-- rimmods:readme installation end -->
 
+В настройках Visible Raid Points выберите, где показывать очки и расчёт: в заголовке, тексте письма или по ссылке в нём.
+
 <!-- rimmods:readme conflict begin -->
 Другой русский перевод того же мода может перекрывать эти тексты; оставьте включённым один перевод.
 <!-- rimmods:readme conflict end -->

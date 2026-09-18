@@ -26,6 +26,8 @@ SimpleCameraSetting позволяет настроить приближение
 3. Выберите русский язык в настройках RimWorld.
 <!-- rimmods:readme installation end -->
 
+Откройте настройки SimpleCameraSetting. Там же можно назначить клавишу слежения и восстановить значения по умолчанию.
+
 Оригинальный SimpleCameraSetting несовместим с Camera+.
 
 <!-- rimmods:readme conflict begin -->
