@@ -386,8 +386,8 @@
     },
     {
       "path": "mods/RU-1593245720/About/About.xml",
-      "bytes": 3260,
-      "sha256": "76fe5a9502c91702956b43867335755040716b6b0e9bc784a8b6117b05b26b87"
+      "bytes": 3404,
+      "sha256": "ca764cbee4afd62ad17c893af755fcb32b7065f4c8811377bbb9bccc86b0c53d"
     },
     {
       "path": "mods/RU-1593245720/About/Preview.png",
@@ -456,8 +456,8 @@
     },
     {
       "path": "mods/RU-1593245720/README.md",
-      "bytes": 3146,
-      "sha256": "42e48001dd0ad5cb529c879b4b659555e6c8e686c0ad87de000a15908c1dba65"
+      "bytes": 3291,
+      "sha256": "010afdf69c9433df721fab059db46850a81bcebdfcd8dddc046ac66fe54f78d6"
     },
     {
       "path": "mods/RU-1593245720/Source/Literals.cs",
@@ -471,8 +471,8 @@
     },
     {
       "path": "mods/RU-1713367505/About/About.xml",
-      "bytes": 3195,
-      "sha256": "3ff2015f730776cf3b76cc1fb4e0134d56dcffa4d018bcb16c7054a2bf8f37a7"
+      "bytes": 3339,
+      "sha256": "8de28ad4fd8e95f19b4f15bf00a2c20e6ffd241f66d4d08917b518fb6f3b9502"
     },
     {
       "path": "mods/RU-1713367505/About/Preview.png",
@@ -516,8 +516,8 @@
     },
     {
       "path": "mods/RU-1713367505/README.md",
-      "bytes": 3027,
-      "sha256": "7240d799d8d145749629160467f2ed95e8a0cd49cd6722762a2bce1f384f0d62"
+      "bytes": 3172,
+      "sha256": "f8a4fbb9a00190d961c8ab163e073cb4916fdbbfc4785d3c29a25b1a52b99dd7"
     },
     {
       "path": "mods/RU-1713367505/Source/Literals.cs",
@@ -531,8 +531,8 @@
     },
     {
       "path": "mods/RU-1814100216/About/About.xml",
-      "bytes": 3344,
-      "sha256": "9d1147607cbef92820ef9fa4ae4afe0fa2f55debcf92ccd3f9eacf131525b043"
+      "bytes": 3488,
+      "sha256": "4fc2c5d36c6a4c3ec1c28ed8b5d9c434fee80a4475fc2d15bfbc0a70788f5100"
     },
     {
       "path": "mods/RU-1814100216/About/Preview.png",
@@ -621,8 +621,8 @@
     },
     {
       "path": "mods/RU-1814100216/README.md",
-      "bytes": 3315,
-      "sha256": "d494140501667d0b1531b47c2b2112770684bb089c03076752cfa7902429eddf"
+      "bytes": 3460,
+      "sha256": "f55cf2315a8675ee8973a80718e9c1cabe69906c25c161339c32af63cbbfc635"
     },
     {
       "path": "mods/RU-1814100216/Source/Literals.cs",
@@ -636,8 +636,8 @@
     },
     {
       "path": "mods/RU-2562730174/About/About.xml",
-      "bytes": 3171,
-      "sha256": "b4ead2c7b19712d1e646a7da1618c39b39de034a4d4cd8461acd87f563154250"
+      "bytes": 3315,
+      "sha256": "db4705ce101267334ed4185285180501dae384ca7a8c91f58e75939f7edc09f1"
     },
     {
       "path": "mods/RU-2562730174/About/Preview.png",
@@ -681,8 +681,8 @@
     },
     {
       "path": "mods/RU-2562730174/README.md",
-      "bytes": 3060,
-      "sha256": "baae6aca62a1401de164dd629236ea1d3d47a827443159d427ca587d83aefb7f"
+      "bytes": 3205,
+      "sha256": "9b51a76a5c76f8d32cc55c2a0a7a8ca1876309ff3f3623bb9764fe044235485f"
     },
     {
       "path": "mods/RU-2562730174/Source/Literals.cs",
@@ -691,8 +691,8 @@
     },
     {
       "path": "mods/RU-3033901359/About/About.xml",
-      "bytes": 3424,
-      "sha256": "528281061d0a053d79c330a643d6a40e9cbfec2b92dc63d4dd0fcfdffa45e69f"
+      "bytes": 3568,
+      "sha256": "bea277cef51f544acc69b8c3e04badd425ee0c64a20c5bcf1a37bd417e9f62dc"
     },
     {
       "path": "mods/RU-3033901359/About/Preview.png",
@@ -756,8 +756,8 @@
     },
     {
       "path": "mods/RU-3033901359/README.md",
-      "bytes": 4426,
-      "sha256": "812da0860823d7a0c4237b24aa13fec8ca79ea51f73e60ac706d5ae3eca65961"
+      "bytes": 4571,
+      "sha256": "d7ae31a89fa2f5fc6b8898c716573d2044193b37a7eb5059849a504efacdd4a5"
     },
     {
       "path": "mods/RU-3033901359/Source/CommandLabels.cs",
@@ -771,8 +771,8 @@
     },
     {
       "path": "mods/RU-3232415388/About/About.xml",
-      "bytes": 3207,
-      "sha256": "29aa57eade5eac13b5860ce83939b415f8ee35f78299a83aceb076e53c390312"
+      "bytes": 3351,
+      "sha256": "5363b59a4edcefb86da21696ef6bf08f964a3dad78cfb13cffd6dd18e638ef2d"
     },
     {
       "path": "mods/RU-3232415388/About/Preview.png",
@@ -821,8 +821,8 @@
     },
     {
       "path": "mods/RU-3232415388/README.md",
-      "bytes": 3143,
-      "sha256": "260607c6de00d203cc60ff2099c60862b066900344c7c73ccfe5dbab63a02d90"
+      "bytes": 3288,
+      "sha256": "dc7ffeca0a6d3213f0a0e8a6b16563d360bc2a1b7e4a7a3dc8425011eb71f263"
     },
     {
       "path": "mods/RU-3232415388/Source/Literals.cs",
@@ -831,8 +831,8 @@
     },
     {
       "path": "mods/RU-3506573327/About/About.xml",
-      "bytes": 3402,
-      "sha256": "41b23f8c22be3310bf11ef9abefb733404c6f321780f993b8ded249ef7e27f79"
+      "bytes": 3546,
+      "sha256": "33abb1479266b59c2ac89406d2d560bd3a3aef187d1237f3b7eb634d7a07b5ef"
     },
     {
       "path": "mods/RU-3506573327/About/Preview.png",
@@ -886,8 +886,8 @@
     },
     {
       "path": "mods/RU-3506573327/README.md",
-      "bytes": 3501,
-      "sha256": "e46400bc0349c954fa28ca9ae4d1869a33e72acc092ab836b1dd3ee3ac23427c"
+      "bytes": 3646,
+      "sha256": "d93c5b5eb101b0317b8d55badc4405fc60517237e503b52bc046ee33a712f660"
     },
     {
       "path": "mods/RU-3506573327/Source/Literals.cs",
@@ -906,8 +906,8 @@
     },
     {
       "path": "mods/RU-3512466087/About/About.xml",
-      "bytes": 3379,
-      "sha256": "24319ba1c6307ee51bdc6a728af1f3e032c84373a890f1c19964dac4d09be51d"
+      "bytes": 3523,
+      "sha256": "b6c5044c0e697a3b1fa985d1561431f66fb67827ff3a96061fb9cc63f6d4474f"
     },
     {
       "path": "mods/RU-3512466087/About/Preview.png",
@@ -961,8 +961,8 @@
     },
     {
       "path": "mods/RU-3512466087/README.md",
-      "bytes": 3247,
-      "sha256": "d6852d928d515d89b10d7144ecc2da8e7d6544d8a18e2a5f1b0e3a3d3b2f3dd5"
+      "bytes": 3392,
+      "sha256": "d5f9c482d5269daf6f7cc0600c9436cf3c7eb1a2d9a7af9179cf23d895a12cd1"
     },
     {
       "path": "mods/RU-3512466087/Source/Overrides.cs",
@@ -971,8 +971,8 @@
     },
     {
       "path": "mods/RU-3520130671/About/About.xml",
-      "bytes": 3654,
-      "sha256": "8bfc257880561c9d95fd6b119eed8b38c5b62b65c0c1a235ac659b17331c1a1d"
+      "bytes": 3798,
+      "sha256": "8f5648c54f2cdacabd5cca89c274db8d5175ff638b58bbe93aa8ab763578a4a1"
     },
     {
       "path": "mods/RU-3520130671/About/Preview.png",
@@ -1021,8 +1021,8 @@
     },
     {
       "path": "mods/RU-3520130671/README.md",
-      "bytes": 3688,
-      "sha256": "33eb36a5a648765fd6725cdfdba761dce72d4e4da9ae8ac2caabcdd97344abd8"
+      "bytes": 3833,
+      "sha256": "a1fee2fd2fbe64753e9386e42afffa6618666a64a8586078ea8b95b609b221dc"
     },
     {
       "path": "mods/RU-3520130671/Source/Literals.cs",
@@ -1041,8 +1041,8 @@
     },
     {
       "path": "mods/RU-3537788184/About/About.xml",
-      "bytes": 3562,
-      "sha256": "7d54accaf7e85904b6c3b7057960c5a4c03e79b9806c59ae452ae0fa4252c0d6"
+      "bytes": 3706,
+      "sha256": "9268f4131884dadb20fdaa8b1899ad843d766ac00aec7be5c7aa28d3a12465ec"
     },
     {
       "path": "mods/RU-3537788184/About/Preview.png",
@@ -1206,8 +1206,8 @@
     },
     {
       "path": "mods/RU-3537788184/README.md",
-      "bytes": 3255,
-      "sha256": "bdae5b96af853f989733fe8aec375d78785ed927984e31fdd533b8f0158d0d82"
+      "bytes": 3400,
+      "sha256": "d6a67f9a0f91cb32121415bd43320111da4a36e3943884e0456375404fa0e634"
     },
     {
       "path": "mods/RU-3537788184/Source/Literals.cs",
@@ -1221,8 +1221,8 @@
     },
     {
       "path": "mods/RU-3695225114/About/About.xml",
-      "bytes": 2777,
-      "sha256": "1816c6d2dba12f9da0870f29dd13cd9804ede3b1045769a9ac6b27084cb7f0e4"
+      "bytes": 2921,
+      "sha256": "840717a5b2a440eac8ede1ee892b84bcb09ae31b841be436ef7881fb07ff35ed"
     },
     {
       "path": "mods/RU-3695225114/About/Preview.png",
@@ -1261,8 +1261,8 @@
     },
     {
       "path": "mods/RU-3695225114/README.md",
-      "bytes": 2750,
-      "sha256": "8e752e16c98672641551edefddf9eb1f160dea0854b1a2f8117f9e1919668518"
+      "bytes": 2895,
+      "sha256": "d1a41f9ee300d81ec8f7cd242330b69f6c322dc07a83bdd937719994ca37e124"
     },
     {
       "path": "README.md",
