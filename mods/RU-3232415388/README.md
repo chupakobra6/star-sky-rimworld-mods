@@ -2,7 +2,11 @@
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3803300163) · [Все категории](../../README.md) · [Источники и уведомления](NOTICES.md)
 
-Русский перевод [SimpleCameraSetting](https://steamcommunity.com/sharedfiles/filedetails/?id=3232415388) для RimWorld 1.6. Оригинальный мод устанавливается отдельно.
+Полный русский перевод [SimpleCameraSetting](https://steamcommunity.com/sharedfiles/filedetails/?id=3232415388) для RimWorld 1.6. Оригинальный мод устанавливается отдельно.
+
+SimpleCameraSetting позволяет настроить приближение и движение камеры под себя, а также включить слежение за выбранной пешкой.
+
+Переведены все пользовательские тексты версии оригинала, для которой выпущен этот перевод.
 
 ## Что переведено
 

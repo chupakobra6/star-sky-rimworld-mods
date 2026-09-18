@@ -2,9 +2,11 @@
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3803465496) · [Все категории](../../README.md) · [Источники и уведомления](NOTICES.md)
 
-Русский перевод Adaptive Storage Framework для RimWorld 1.6. Оригинальный мод устанавливается отдельно.
+Полный русский перевод Adaptive Storage Framework для RimWorld 1.6. Оригинальный мод устанавливается отдельно.
 
 Adaptive Storage Framework — основа для модов хранения: она позволяет настраивать вместимость хранилищ и менять их внешний вид в зависимости от содержимого. Игроку доступны вкладки содержимого и групп хранилищ, а также настройки подписей над предметами.
+
+Переведены все пользовательские тексты версии оригинала, для которой выпущен этот перевод.
 
 ![Что переведено](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/section-features-ru.png)
 

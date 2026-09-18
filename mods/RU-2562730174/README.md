@@ -2,7 +2,11 @@
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3803300103) · [Все категории](../../README.md) · [Источники и уведомления](NOTICES.md)
 
-Русский перевод [Visible Raid Points](https://steamcommunity.com/sharedfiles/filedetails/?id=2562730174) для RimWorld 1.6. Оригинальный мод устанавливается отдельно.
+Полный русский перевод [Visible Raid Points](https://steamcommunity.com/sharedfiles/filedetails/?id=2562730174) для RimWorld 1.6. Оригинальный мод устанавливается отдельно.
+
+Visible Raid Points показывает, сколько очков угрозы игра потратила на налёт или другое поддерживаемое событие. Подробный расчёт помогает понять, из чего сложилась его сила.
+
+Переведены все пользовательские тексты версии оригинала, для которой выпущен этот перевод.
 
 ## Что переведено
 

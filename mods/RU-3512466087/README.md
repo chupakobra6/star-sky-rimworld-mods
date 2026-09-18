@@ -2,7 +2,11 @@
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3803300243) · [Все категории](../../README.md) · [Источники и уведомления](NOTICES.md)
 
-Русский перевод [QualityBuilder Unofficial 1.6](https://steamcommunity.com/sharedfiles/filedetails/?id=3512466087) для RimWorld 1.6. Оригинальный мод устанавливается отдельно.
+Полный русский перевод [QualityBuilder Unofficial 1.6](https://steamcommunity.com/sharedfiles/filedetails/?id=3512466087) для RimWorld 1.6. Оригинальный мод устанавливается отдельно.
+
+QualityBuilder Unofficial 1.6 позволяет задать минимальное качество постройки. Если результат хуже выбранного, мод разбирает и строит объект заново на том же месте из того же материала; число попыток можно ограничить.
+
+Переведены все пользовательские тексты версии оригинала, для которой выпущен этот перевод.
 
 ## Что переведено
 

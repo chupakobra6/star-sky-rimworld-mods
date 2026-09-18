@@ -2,7 +2,11 @@
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3803300296) · [Все категории](../../README.md) · [Источники и уведомления](NOTICES.md)
 
-Русский перевод [Goodwill Preview](https://steamcommunity.com/sharedfiles/filedetails/?id=3695225114) для RimWorld 1.6. Оригинальный мод устанавливается отдельно.
+Полный русский перевод [Goodwill Preview](https://steamcommunity.com/sharedfiles/filedetails/?id=3695225114) для RimWorld 1.6. Оригинальный мод устанавливается отдельно.
+
+Goodwill Preview помогает оценить подарок до отправки транспортных капсул: выберите фракцию и посмотрите, как изменятся отношения с ней.
+
+Переведены все пользовательские тексты версии оригинала, для которой выпущен этот перевод.
 
 ## Что переведено
 

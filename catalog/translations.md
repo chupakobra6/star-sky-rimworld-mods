@@ -8,7 +8,7 @@
 
 ## RimSaves — русский перевод
 
-Русские команды управления папками и сохранениями, предпросмотр и настройки автосохранения.
+Полный русский перевод RimSaves: управление папками и сохранениями, предпросмотр и настройки автосохранения.
 
 [![RimSaves — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/rimsaves-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803300028)
 
@@ -18,7 +18,7 @@ RimWorld 1.6 · Версия 1.0.2
 
 ## Visible Raid Points — русский перевод
 
-Русские подписи очков угрозы, подробный расчёт и настройки отображения.
+Полный русский перевод Visible Raid Points: подписи очков угрозы, подробный расчёт и настройки отображения.
 
 [![Visible Raid Points — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/visible-raid-points-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803300103)
 
@@ -28,7 +28,7 @@ RimWorld 1.6 · Версия 1.0.2
 
 ## SimpleCameraSetting — русский перевод
 
-Русские настройки и сообщения о масштабе и движении камеры, слежении за пешкой.
+Полный русский перевод SimpleCameraSetting: настройки и сообщения о масштабе и движении камеры, слежении за пешкой.
 
 [![SimpleCameraSetting — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/simple-camera-setting-translation.gif)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803300163)
 
@@ -38,7 +38,7 @@ RimWorld 1.6 · Версия 1.0.2
 
 ## QualityBuilder Unofficial 1.6 — русский перевод
 
-Русские команды выбора качества, настройки строителей и уведомления о лимите перестроек.
+Полный русский перевод QualityBuilder Unofficial 1.6: команды выбора качества, настройки строителей и уведомления о лимите перестроек.
 
 [![QualityBuilder Unofficial 1.6 — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/qualitybuilder-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803300243)
 
@@ -48,7 +48,7 @@ RimWorld 1.6 · Версия 1.0.2
 
 ## Goodwill Preview — русский перевод
 
-Русский прогноз изменения отношений за подарок и подписи расстояния до поселения.
+Полный русский перевод Goodwill Preview: прогноз изменения отношений за подарок и подписи расстояния до поселения.
 
 [![Goodwill Preview — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/goodwill-preview-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803300296)
 
@@ -58,7 +58,7 @@ RimWorld 1.6 · Версия 1.0.2
 
 ## Go Explore! — русский перевод
 
-Русский перевод событий, экспедиций и настроек Go Explore!.
+Полный русский перевод Go Explore!: события, экспедиции и настройки.
 
 [![Go Explore! — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/go-explore-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803465492)
 
@@ -68,7 +68,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 ## Adaptive Storage Framework — русский перевод
 
-Русский перевод интерфейса, подписей и настроек Adaptive Storage Framework.
+Полный русский перевод Adaptive Storage Framework: интерфейс, подписи и настройки.
 
 [![Adaptive Storage Framework — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/adaptive-storage-framework-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803465496)
 
@@ -78,7 +78,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 ## Hunt for Me — русский перевод
 
-Русский перевод обучения животных охоте, команд и настроек Hunt for Me.
+Полный русский перевод Hunt for Me: обучение животных охоте, команды и настройки.
 
 [![Hunt for Me — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/hunt-for-me-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803465500)
 
@@ -88,7 +88,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 ## Useful Marks — русский перевод
 
-Русский перевод меток персонажей, условий и настроек Useful Marks.
+Полный русский перевод Useful Marks: метки персонажей, условия и настройки.
 
 [![Useful Marks — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/useful-marks-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803465503)
 
@@ -98,7 +98,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 ## Nice Bill Tab — русский перевод
 
-Русский перевод рецептов, сравнения изделий и настроек Nice Bill Tab.
+Полный русский перевод Nice Bill Tab: рецепты, сравнение изделий и настройки.
 
 [![Nice Bill Tab — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/nice-bill-tab-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803465507)
 
