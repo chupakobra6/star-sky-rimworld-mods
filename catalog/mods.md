@@ -10,7 +10,7 @@ Gameplay additions, balance and quality-of-life tools.
 
 Control stat allocation for colonists and pets, enemy builds and equipment upgrade balance.
 
-[![ISEKAI — Balanced Stats](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/isekai-balanced.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3789339468)
+[![ISEKAI — Balanced Stats](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/isekai-balanced.gif)](https://steamcommunity.com/sharedfiles/filedetails/?id=3789339468)
 
 RimWorld 1.6 · Version 1.3.0
 
@@ -20,7 +20,7 @@ RimWorld 1.6 · Version 1.3.0
 
 Middle-click an ISEKAI quest letter to accept it when no choice is needed.
 
-[![ISEKAI — Quick Quests](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/isekai-quests.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3802965084)
+[![ISEKAI — Quick Quests](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/isekai-quests.gif)](https://steamcommunity.com/sharedfiles/filedetails/?id=3802965084)
 
 RimWorld 1.6 · Version 1.0.0
 
@@ -30,7 +30,7 @@ RimWorld 1.6 · Version 1.0.0
 
 Keep your camera in place when local ISEKAI hunts spawn.
 
-[![ISEKAI — No Auto Camera Jump](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/isekai-camera.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3789336886)
+[![ISEKAI — No Auto Camera Jump](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/isekai-camera.gif)](https://steamcommunity.com/sharedfiles/filedetails/?id=3789336886)
 
 RimWorld 1.6 · Version 1.1.2
 

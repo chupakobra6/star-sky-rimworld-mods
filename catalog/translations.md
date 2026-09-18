@@ -30,7 +30,7 @@ RimWorld 1.6 · Версия 1.0.2
 
 Русские настройки и сообщения о масштабе и движении камеры, слежении за пешкой.
 
-[![SimpleCameraSetting — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/simple-camera-setting-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803300163)
+[![SimpleCameraSetting — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/simple-camera-setting-translation.gif)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803300163)
 
 RimWorld 1.6 · Версия 1.0.2
 
