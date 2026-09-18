@@ -10,6 +10,8 @@
   <url>https://steamcommunity.com/sharedfiles/filedetails/?id=3789336886</url>
   <description>Keep your camera where you left it when a local ISEKAI hunt spawns its target.
 
+For example, if you are planning rooms when a hunt creature appears, the view stays on your base instead of suddenly moving to the creature. You can finish what you are doing and inspect the target when you are ready.
+
 &lt;b&gt;FEATURES&lt;/b&gt;
 
 • Stops the forced camera jump for ordinary local ISEKAI hunts and hunt packs from ISEKAI CREATURES (https://steamcommunity.com/sharedfiles/filedetails/?id=3757560461).
@@ -17,7 +19,9 @@
 • Leaves regular RimWorld camera jumps, world bosses, hero visits and Guild duels unchanged.
 
 &lt;b&gt;HOW TO USE&lt;/b&gt;
-RimWorld’s Mod Settings has separate switches for ordinary hunts and creature hunt packs. Both are enabled by default. Changes apply immediately and are saved in RimWorld’s configuration.
+No extra action is needed during play. Both camera-jump blockers are enabled by default. The hunt still spawns its target and sends its normal notification; click the target link if you want to move the camera there yourself.
+
+To change this, open RimWorld’s &lt;b&gt;Mod Settings&lt;/b&gt; and select &lt;b&gt;ISEKAI — No Auto Camera Jump&lt;/b&gt;. The two switches control ordinary ISEKAI hunts and ISEKAI CREATURES hunt packs separately. Turn a switch off to restore that type’s original camera jump. Restore defaults enables both again. Changes need no restart, take effect the next time a hunt target spawns, and are saved in RimWorld’s configuration.
 
 &lt;b&gt;COMPATIBILITY&lt;/b&gt;
 Requires &lt;b&gt;RimWorld 1.6&lt;/b&gt;, Harmony (https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077) and ISEKAI RPG LEVELING (https://steamcommunity.com/sharedfiles/filedetails/?id=3657580708). Load after these dependencies and any Guild/Creatures add-ons. English and Russian interface text is included.

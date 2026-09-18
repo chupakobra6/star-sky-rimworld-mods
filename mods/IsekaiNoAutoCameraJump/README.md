@@ -6,6 +6,8 @@
 
 Keep your camera where you left it when a local ISEKAI hunt spawns its target.
 
+For example, if you are planning rooms when a hunt creature appears, the view stays on your base instead of suddenly moving to the creature. You can finish what you are doing and inspect the target when you are ready.
+
 ## What it does
 
 - Stops the forced camera jump for ordinary local ISEKAI hunts and hunt packs from the optional ISEKAI CREATURES add-on.
@@ -14,7 +16,9 @@ Keep your camera where you left it when a local ISEKAI hunt spawns its target.
 
 ## Controls and settings
 
-RimWorld’s Mod Settings has separate switches for ordinary hunts and creature hunt packs. Both are enabled by default. Changes apply immediately and are saved in RimWorld’s configuration. The creature-hunt switch applies only when that add-on is installed.
+No extra action is needed during play. Both camera-jump blockers are enabled by default. The hunt still spawns its target and sends its normal notification; click the target link if you want to move the camera there yourself.
+
+To change this, open RimWorld’s **Mod Settings** and select **ISEKAI — No Auto Camera Jump [Star Sky Mods]**. The two switches control ordinary ISEKAI hunts and ISEKAI CREATURES hunt packs separately. Turn a switch off to restore that type’s original camera jump. Restore defaults enables both again. Changes need no restart, take effect the next time a hunt target spawns, and are saved in RimWorld’s configuration. The creature-hunt switch applies only when that add-on is installed.
 
 ## Requirements and installation
 

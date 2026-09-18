@@ -8,16 +8,18 @@
     <li>1.6</li>
   </supportedVersions>
   <url>https://steamcommunity.com/sharedfiles/filedetails/?id=3802965084</url>
-  <description>Middle-click an ISEKAI quest letter to accept it without opening the quest tab when no decision is needed.
+  <description>Accept a straightforward ISEKAI quest with one middle-click on its letter, without opening the quest tab. This saves a trip to the quest screen for offers you already want to accept.
 
 &lt;b&gt;FEATURES&lt;/b&gt;
 
-• Accepts available, unambiguous quests from ISEKAI and its Guild/Creatures add-ons.
-• Opens the normal quest tab if a pawn, option or reward must be selected, requirements are unmet, or the quest prevents automatic acceptance. Already accepted quests also open normally.
+• Accepts an available quest from ISEKAI or its Guild/Creatures add-ons when there is nothing to choose, or only one possible choice.
+• Opens the normal quest tab if you must choose a pawn or select between options or rewards, requirements are unmet, or the quest prevents automatic acceptance. Already accepted quests also open normally. In this case, middle-click dismisses the letter and shows the quest for you to handle there.
 • Leaves non-ISEKAI quests and other mouse buttons unchanged.
 
 &lt;b&gt;HOW TO USE&lt;/b&gt;
-Middle-click the quest letter on the right side of the screen. The shortcut is enabled by default and can be turned off in RimWorld’s Mod Settings. Quick Quests has its own settings and works independently of Balanced Stats.
+Find the ISEKAI quest letter on the right side of the screen and press the middle mouse button (usually the scroll wheel) on it. For example, an available offer with one fixed reward and no other acceptance restriction can be accepted immediately; an offer with several rewards to choose from opens the quest tab instead. Middle-click accepts the quest, not completes it: you still need to do what the quest asks.
+
+The shortcut is enabled by default. To turn it off, open RimWorld’s &lt;b&gt;Mod Settings&lt;/b&gt; and select &lt;b&gt;ISEKAI — Quick Quests&lt;/b&gt;. Restore defaults turns it back on. Quick Quests has its own settings and works without Balanced Stats. It does not accept incoming quests on its own and does not add the shortcut to quests from other mods.
 
 &lt;b&gt;COMPATIBILITY&lt;/b&gt;
 Requires &lt;b&gt;RimWorld 1.6&lt;/b&gt;, Harmony (https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077) and ISEKAI RPG LEVELING (https://steamcommunity.com/sharedfiles/filedetails/?id=3657580708). Load after these dependencies and any Guild/Creatures add-ons. English and Russian interface text is included.

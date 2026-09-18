@@ -141,8 +141,8 @@
     },
     {
       "path": "mods/IsekaiBalancedStatsQuickQuests/About/About.xml",
-      "bytes": 5337,
-      "sha256": "42ce01266729c245269da588278a0516bc19d673eac2c9170d4d104b8c45d856"
+      "bytes": 6726,
+      "sha256": "93d6cfee03cff180acb2f41906c58b332b2dcab4d369b1244a5adee9f3e50d15"
     },
     {
       "path": "mods/IsekaiBalancedStatsQuickQuests/About/Preview.png",
@@ -181,8 +181,8 @@
     },
     {
       "path": "mods/IsekaiBalancedStatsQuickQuests/README.md",
-      "bytes": 6149,
-      "sha256": "52c74cff022f52cb6d5a90ce73365b54cfdbff7327720cba93f8f5612f870ee7"
+      "bytes": 7537,
+      "sha256": "41057806d4ccd67593dc584c7042a19d0d1c38b760fe30c335c162a342172e4a"
     },
     {
       "path": "mods/IsekaiBalancedStatsQuickQuests/Source/IsekaiBalancedStatsQuickQuests/AutoStatDistributionPatch.cs",
@@ -251,8 +251,8 @@
     },
     {
       "path": "mods/IsekaiNoAutoCameraJump/About/About.xml",
-      "bytes": 2702,
-      "sha256": "f2e300ab0cab08705ec848ec44e1cdfcfc4a335cc7d5fa4d509cf45e6d1c6b0b"
+      "bytes": 3395,
+      "sha256": "a8170c79cd97435ad90b7fcca4947ec1ca0fdb15dd180afa69b85df8332c8392"
     },
     {
       "path": "mods/IsekaiNoAutoCameraJump/About/Preview.png",
@@ -291,8 +291,8 @@
     },
     {
       "path": "mods/IsekaiNoAutoCameraJump/README.md",
-      "bytes": 3274,
-      "sha256": "904dd8c7d1d5edb0329797bcbb351cd088d073381f39768f5e45d43918d21fb1"
+      "bytes": 3953,
+      "sha256": "5a8e84431128d249b27bad55c33115b4a235580c26093dac8f5909e7ca0dc33b"
     },
     {
       "path": "mods/IsekaiNoAutoCameraJump/Source/IsekaiNoAutoCameraJump/CameraJumpModSettings.cs",
@@ -316,8 +316,8 @@
     },
     {
       "path": "mods/IsekaiQuickQuests/About/About.xml",
-      "bytes": 2823,
-      "sha256": "b89bd400e070edf3de2743e91569051ee0a79749a895db23fc791737dcc591ab"
+      "bytes": 3610,
+      "sha256": "cfabe137b75b76f353159d3ef5163d30942846340b9b256cd85831b316134865"
     },
     {
       "path": "mods/IsekaiQuickQuests/About/Preview.png",
@@ -356,8 +356,8 @@
     },
     {
       "path": "mods/IsekaiQuickQuests/README.md",
-      "bytes": 2217,
-      "sha256": "c7d04b5a303a57f72eea2433a549e9b58b8ec679fa4d27066caf223ac68fcb03"
+      "bytes": 3174,
+      "sha256": "83c3622a756a5546e666dffed1d182dd76ca653e047f132f6638b26fbf39841b"
     },
     {
       "path": "mods/IsekaiQuickQuests/Source/IsekaiQuickQuests/Bootstrap.cs",

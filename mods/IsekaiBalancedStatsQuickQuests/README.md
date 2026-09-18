@@ -4,16 +4,16 @@
 
 [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3789339468) · [All categories](../../README.md) · [Sources & notices](NOTICES.md)
 
-Control automatic stat allocation, round out hostile enemy builds and tune equipment refinement. Requires RimWorld 1.6, Harmony and ISEKAI RPG LEVELING.
+Choose how ISEKAI spends your colonists’ and pets’ stat points, give new enemies a broader mix of stats, and reduce the bonuses from equipment upgrades. Each part can be configured separately. Requires RimWorld 1.6, Harmony and ISEKAI RPG LEVELING.
 
 ## What it does
 
-- **Balanced:** shares new automatic points evenly across all six stats, keeping the cycle between levels. Existing stats, starting bonuses and manual investments stay as they are.
-- **By class:** favours class stats with weights of `3 / 2 / 1 / 1 / 1 / 1`. Berserker’s overlapping affinities use `4 / 1 / 1 / 1 / 1 / 1`. Available after choosing a class.
-- **Pets:** Combat mode uses `STR / DEX / VIT = 2` and `INT / WIS / CHA = 1`; Balanced uses equal weights. Automatic allocation is enabled by default for player pets and skips capped stats.
-- **Personal choices:** each colonist or pet keeps its own mode. Pets also have an individual automatic-allocation switch. Changing mode starts a new cycle for future points without compensating for earlier differences.
+- **Balanced:** divides new automatic points equally among strength (STR), dexterity (DEX), vitality (VIT), intelligence (INT), wisdom (WIS) and charisma (CHA). With no stat at its cap, six points give +1 to each stat, even if earned across several levels. It does not make existing totals equal: starting bonuses and manually spent points stay intact.
+- **By class:** gives more points to the class’s main stats without neglecting the rest. With no stat capped, in each nine-point cycle, the primary stat gets 3, the secondary gets 2 and each other stat gets 1. Berserker gets 4 in STR and 1 in each other stat because both class bonuses favour STR. Choose a class first to unlock this mode.
+- **Pets:** Combat gives twice as many points to each of STR, DEX and VIT as to each of INT, WIS and CHA. Balanced gives equal shares. Automatic allocation is enabled by default for player pets and skips capped stats.
+- **Personal choices:** each colonist or pet keeps its own mode and allocation progress in the save. Pets also have an individual automatic-allocation switch. Changing mode starts a new cycle for future points without compensating for earlier differences. All modes skip capped stats.
 
-The mode button is beside the automatic-allocation checkbox in the main ISEKAI tab. Controls follow the current ISEKAI or vanilla interface style. Pets’ nested stat window remains available for manual allocation. Existing unspent pet points are allocated shortly after loading when that pet’s automatic allocation is enabled.
+Select a colonist and open its ISEKAI tab, or select an ISEKAI pet with its own creature stats tab and open that tab. Use **Mode** beside **Auto allocate** to choose a distribution. Enable Auto allocate to spend points automatically; leave it off to spend them manually. You can select Balanced before choosing a class and choose a mode while automation is off. Controls follow the current ISEKAI or vanilla interface style. Pets’ nested stat window remains available for manual allocation. Existing unspent pet points are allocated shortly after loading when that pet’s automatic allocation is enabled.
 
 ## Enemy and equipment balance
 
@@ -28,13 +28,13 @@ Recommended balance is enabled by default, including when loading settings from 
 | Total apparel movement cap | +20% | Four +5 pieces give +20% instead of the original +50%. Set 0 to remove the cap. |
 | Refinement material cost | 2× | Multiplies cores, steel and components; fractional counts round up. |
 
-Enemy rolls keep their full allocated-point budget, rank and level. Humanoids follow ISEKAI's role-generation setting; creatures change only at first initialization. Player characters, pets, neutral factions and authored forge-locked humanoids are excluded. Wild animals that become manhunters after their initial roll are not reshaped. A changed setting does not scan existing pawns.
+Enemy rolls keep their full allocated-point budget, rank and level. These weights mean that, out of nine points, a humanoid’s primary stat gets 3, its secondary gets 2 and each other stat gets 1; a creature’s STR, DEX and VIT get 2 each, and each other stat gets 1. You can choose **Equal shares** or **Original ISEKAI** separately for humanoids and creatures. Humanoids follow ISEKAI's role-generation setting; creatures change only at first initialization. Player characters, pets, neutral factions and humanoids whose stats ISEKAI marks as locked are excluded. Wild animals that become manhunters after their initial roll are not reshaped. A changed setting does not scan existing pawns.
 
-Refinement strengths affect both existing and newly upgraded equipment. Recorded upgrade levels remain unchanged, so restoring upstream balance restores their original effects. Rune effects, durability, mass, upgrade success chances and failure outcomes stay under ISEKAI's control.
+Refinement means ISEKAI’s equipment upgrades. The strength settings scale the extra bonuses from those upgrades, not the equipment’s base stats. They affect both existing and newly upgraded equipment. Recorded upgrade levels remain unchanged, so restoring upstream balance restores their original effects. Only movement from apparel refinement is capped; other movement effects, runes, durability, mass, upgrade success chances and failure outcomes stay under ISEKAI's control.
 
 ## Settings
 
-RimWorld’s Mod Settings lets you toggle improved colonist allocation and pet allocation separately, choose defaults for characters with no saved personal choice, choose whether new or unconfigured pets start with allocation enabled, and hide mode-change messages. Both features are enabled by default. Balanced is the default for colonists; Combat is the default for pets.
+Open RimWorld’s **Mod Settings** and select **ISEKAI — Balanced Stats [Star Sky Mods]**. Here you can toggle improved colonist allocation and pet allocation separately, choose defaults for characters with no saved personal choice, choose whether new or unconfigured pets start with allocation enabled, and hide mode-change messages. Both features are enabled by default. Balanced is the default for colonists; Combat is the default for pets.
 
 Turning off improved colonist allocation restores ISEKAI’s original algorithm. Pausing pet allocation preserves unspent points. Global switches and changed defaults do not overwrite personal choices stored in the colony. The scrollable settings window also provides separate enemy modes, combat and movement strengths (0–100%), a total movement cap (0–100%; 0 means uncapped), material costs (1–5×), and a refinement master switch. Each aspect can return to its upstream value independently. **Recommended balance** restores only enemy/refinement defaults; **Upstream enemy and equipment balance** disables only those additions. Neither changes colonist or pet choices.
 

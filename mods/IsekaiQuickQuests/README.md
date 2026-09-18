@@ -4,13 +4,17 @@
 
 [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3802965084) · [All categories](../../README.md) · [Sources & notices](NOTICES.md)
 
-Middle-click an ISEKAI quest letter to accept it when no decision is needed.
+Accept a straightforward ISEKAI quest with one middle-click on its letter, without opening the quest tab. This saves a trip to the quest screen for offers you already want to accept.
 
 ## How it works
 
-The shortcut accepts only available, unambiguous ISEKAI quests. Quests requiring a pawn, option or reward selection open in the normal quest tab instead, as do quests with unmet requirements or an automatic-acceptance restriction. Non-ISEKAI quests and other mouse buttons retain their normal behaviour.
+The shortcut accepts an available quest from ISEKAI or its Guild/Creatures add-ons when there is nothing to choose, or only one possible choice. If you must choose a pawn or select between options or rewards, it opens the normal quest tab instead. This also happens if requirements are unmet, the quest prevents automatic acceptance, or you already accepted it. In this case, middle-click dismisses the letter and shows the quest for you to handle there. Non-ISEKAI quests and other mouse buttons retain their normal behaviour.
 
-The shortcut is enabled by default and can be turned off in RimWorld’s Mod Settings. English and Russian interface text is included.
+## How to use it
+
+Find the ISEKAI quest letter on the right side of the screen and press the middle mouse button (usually the scroll wheel) on it. For example, an available offer with one fixed reward and no other acceptance restriction can be accepted immediately; an offer with several rewards to choose from opens the quest tab instead. Middle-click accepts the quest, not completes it: you still need to do what the quest asks.
+
+The shortcut is enabled by default. To turn it off, open RimWorld’s **Mod Settings** and select **ISEKAI — Quick Quests [Star Sky Mods]**. Restore defaults turns it back on. It does not accept incoming quests on its own and does not add the shortcut to quests from other mods. English and Russian interface text is included.
 
 ## Installation
 
