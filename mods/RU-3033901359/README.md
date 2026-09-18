@@ -6,7 +6,7 @@
 
 Adaptive Storage Framework — основа для модов хранения: она позволяет настраивать вместимость хранилищ и менять их внешний вид в зависимости от содержимого. Игроку доступны вкладки содержимого и групп хранилищ, а также настройки подписей над предметами.
 
-![Что переведено](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/section-features-ru-centered.png)
+![Что переведено](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/section-features-ru.png)
 
 ## Что переведено
 
@@ -14,7 +14,7 @@ Adaptive Storage Framework — основа для модов хранения: 
 - Описания вместимости, количества стопок и команды выгрузки.
 - Варианты подписей, категория хранения и подсказки интерфейса.
 
-![Как пользоваться](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/section-how-to-use-ru-centered.png)
+![Как пользоваться](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/section-how-to-use-ru.png)
 
 ## Установка
 
@@ -22,13 +22,13 @@ Adaptive Storage Framework — основа для модов хранения: 
 2. Включите моды в порядке: Harmony → оригинал → этот перевод.
 3. Выберите русский язык в настройках RimWorld.
 
-![Совместимость](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/section-compatibility-ru-centered.png)
+![Совместимость](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/section-compatibility-ru.png)
 
 Оставьте включённым один отдельный русский перевод этого мода, чтобы тексты не перекрывали друг друга.
 
 Выберите хранилище, чтобы открыть его содержимое. Вид подписей, их показ при отдалении камеры и наведении курсора настраиваются в Adaptive Storage Framework.
 
-![Обратная связь](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/section-feedback-ru-centered.png)
+![Обратная связь](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/section-feedback-ru.png)
 
 ## Обратная связь
 
@@ -46,5 +46,5 @@ Adaptive Storage Framework — основа для модов хранения: 
 
 Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.
 
-[![Поддержать на Boosty](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/button-support-ru-centered.png)](https://boosty.to/chupakobra6?utm_source=github&utm_medium=repository&utm_campaign=star_sky_mods&utm_content=readme&utm_term=support)
-[![Другие моды](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/button-workshop-ru-centered.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)
+[![Поддержать на Boosty](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/button-support-ru.png)](https://boosty.to/chupakobra6?utm_source=github&utm_medium=repository&utm_campaign=star_sky_mods&utm_content=readme&utm_term=support)
+[![Другие моды](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/button-workshop-ru.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)
