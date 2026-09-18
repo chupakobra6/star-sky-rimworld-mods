@@ -4,11 +4,9 @@
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3803465496) · [Все категории](../../README.md) · [Источники и уведомления](NOTICES.md)
 
-Полный русский перевод Adaptive Storage Framework для RimWorld 1.6. Оригинальный мод устанавливается отдельно.
+Самый полный русский перевод Adaptive Storage Framework для RimWorld 1.6. Оригинальный мод устанавливается отдельно.
 
 Adaptive Storage Framework — основа для модов хранения: она позволяет настраивать вместимость хранилищ и менять их внешний вид в зависимости от содержимого. Игроку доступны вкладки содержимого и групп хранилищ, а также настройки подписей над предметами.
-
-Переведены все пользовательские тексты версии оригинала, для которой выпущен этот перевод.
 
 ![Что переведено](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/section-features-ru.png)
 
@@ -28,7 +26,7 @@ Adaptive Storage Framework — основа для модов хранения: 
 
 ![Совместимость](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/section-compatibility-ru.png)
 
-Оставьте включённым один отдельный русский перевод этого мода, чтобы тексты не перекрывали друг друга.
+Другой русский перевод того же мода может перекрывать эти тексты; оставьте включённым один перевод.
 
 Выберите хранилище, чтобы открыть его содержимое. Вид подписей, их показ при отдалении камеры и наведении курсора настраиваются в Adaptive Storage Framework.
 
@@ -36,7 +34,7 @@ Adaptive Storage Framework — основа для модов хранения: 
 
 ## Обратная связь
 
-При неточности перевода приложите скриншот, версии модов и шаги, которые привели к этому экрану. При ошибке загрузки добавьте журнал игры.
+Заметили ошибку или неточность? Напишите в комментариях на странице мода или на Boosty.
 
 Авторы оригинального мода: Soul, Phaneron и Bradson.
 
@@ -45,8 +43,6 @@ Adaptive Storage Framework — основа для модов хранения: 
 Собственные русские тексты выпускаются под CC BY-SA 4.0. Исходные материалы Adaptive Storage Framework имеют лицензию MIT; её полный текст и уведомление авторов сохранены в Licenses/Upstream-MIT.txt. Полный текст основной лицензии — в [LICENSE](LICENSE), источники и границы её действия — в [NOTICES.md](NOTICES.md).
 
 ## Уведомление Ludeon
-
-Материалы RimWorld принадлежат Ludeon Studios; перевод не является официальной работой студии и не одобрен ею. Обязательное уведомление:
 
 Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.
 

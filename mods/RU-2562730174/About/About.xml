@@ -22,5 +22,28 @@
   <loadAfter>
     <li>visibleraidpoints.1trickpwnyta</li>
   </loadAfter>
-  <description>Русский перевод Visible Raid Points для RimWorld 1.6: очки угрозы в письмах, подробный расчёт и настройки отображения. Требуется отдельно установить оригинальный Visible Raid Points.</description>
+  <description>Самый полный русский перевод Visible Raid Points (https://steamcommunity.com/sharedfiles/filedetails/?id=2562730174) для RimWorld 1.6. Оригинальный мод устанавливается отдельно.
+
+Visible Raid Points показывает, сколько очков угрозы игра потратила на налёт или другое поддерживаемое событие. Подробный расчёт помогает понять, из чего сложилась его сила.
+
+&lt;b&gt;ЧТО ПЕРЕВЕДЕНО&lt;/b&gt;
+
+• Очки угрозы в письмах и подробный расчёт их значения.
+• Названия событий и пояснения к множителям, пределам и промежуточным итогам.
+• Настройки отображения очков и выбора событий.
+
+&lt;b&gt;КАК ПОЛЬЗОВАТЬСЯ&lt;/b&gt;
+В настройках Visible Raid Points выберите, где показывать очки и расчёт: в заголовке, тексте письма или по ссылке в нём.
+Выберите русский язык в настройках RimWorld.
+
+&lt;b&gt;СОВМЕСТИМОСТЬ&lt;/b&gt;
+Требуются Harmony (https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077) и Visible Raid Points (https://steamcommunity.com/sharedfiles/filedetails/?id=2562730174). Порядок загрузки: Harmony → оригинальный мод → этот перевод.
+Другой русский перевод того же мода может перекрывать эти тексты; оставьте включённым один перевод.
+
+&lt;b&gt;ОБРАТНАЯ СВЯЗЬ&lt;/b&gt;
+Заметили ошибку или неточность? Напишите в комментариях на странице мода или на Boosty.
+
+Авторы оригинального мода: 1trickPwnyta.
+
+Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.</description>
 </ModMetaData>

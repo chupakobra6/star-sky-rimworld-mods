@@ -10,21 +10,28 @@
   <url>https://steamcommunity.com/sharedfiles/filedetails/?id=3802965084</url>
   <description>Middle-click an ISEKAI quest letter to accept it without opening the quest tab when no decision is needed.
 
-HOW IT WORKS
-• Accepts only available, unambiguous ISEKAI quests with no pawn selection, multiple options or reward choice.
-• Opens the normal quest tab when a choice is required, requirements are unmet, or a quest prevents automatic acceptance.
+&lt;b&gt;FEATURES&lt;/b&gt;
+
+• Accepts available, unambiguous quests from ISEKAI and its Guild/Creatures add-ons.
+• Opens the normal quest tab if a pawn, option or reward must be selected, requirements are unmet, or the quest prevents automatic acceptance. Already accepted quests also open normally.
 • Leaves non-ISEKAI quests and other mouse buttons unchanged.
 
-SETTINGS
-The shortcut is enabled by default. Toggle it in RimWorld’s Mod Settings. The mod has its own settings and works independently of Balanced Stats.
+&lt;b&gt;HOW TO USE&lt;/b&gt;
+Middle-click the quest letter on the right side of the screen. The shortcut is enabled by default and can be turned off in RimWorld’s Mod Settings. Quick Quests has its own settings and works independently of Balanced Stats.
 
-INSTALLATION
-RimWorld 1.6. Requires Harmony and ISEKAI RPG LEVELING. Load after them and any Guild/Creatures add-ons. English and Russian interface text is included. Can be added to or removed from an existing save; this mod stores no colony data.
+&lt;b&gt;COMPATIBILITY&lt;/b&gt;
+Requires &lt;b&gt;RimWorld 1.6&lt;/b&gt;, Harmony (https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077) and ISEKAI RPG LEVELING (https://steamcommunity.com/sharedfiles/filedetails/?id=3657580708). Load after these dependencies and any Guild/Creatures add-ons. English and Russian interface text is included.
 
-This feature previously belonged to Balanced Stats &amp; Quick Quests. Update Balanced Stats to 1.2.0 or later before using both mods.
+Use ISEKAI — Balanced Stats (https://steamcommunity.com/sharedfiles/filedetails/?id=3789339468) &lt;b&gt;1.2.0 or later&lt;/b&gt; when using both mods.
 
-Report problems with reproduction steps, mod versions and your log.
-</description>
+Quick Quests stores no colony save data and can be added to or removed from an existing save. Original ISEKAI files are neither included nor modified.
+
+&lt;b&gt;FEEDBACK&lt;/b&gt;
+Found a bug or an inaccuracy? Leave a comment on the mod page or on Boosty.
+
+Preview artwork: POUPUN / ISEKAI RPG LEVELING.
+
+Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.</description>
   <modDependencies>
     <li>
       <packageId>brrainz.harmony</packageId>

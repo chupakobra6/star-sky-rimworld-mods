@@ -8,31 +8,39 @@
     <li>1.6</li>
   </supportedVersions>
   <url>https://steamcommunity.com/sharedfiles/filedetails/?id=3789339468</url>
-  <description>Automatic stat allocation for colonists and pets, more rounded enemy builds and adjustable equipment refinement.
+  <description>Control ISEKAI stat allocation, round out enemy builds and keep equipment upgrades in check.
 
-FEATURES
-• Balanced mode spreads new automatic points evenly across all six stats. Existing stats, starting bonuses and manual allocations are preserved.
-• Class mode favours a colonist’s class stats while continuing to develop the others. Available after a class is assigned.
-• Pets can use Combat or Balanced mode and have their own automatic-allocation switch. Combat is the default, with STR/DEX/VIT weighted twice as heavily as INT/WIS/CHA.
-• Fresh hostile humanoid and creature stat rolls can use balanced or role-weighted distribution. Existing allocated stats, levels and ranks are preserved.
-• Equipment refinement uses 50% of original combat and movement bonuses, caps total apparel movement at +20%, and costs twice the materials. Each aspect is adjustable; stored upgrade levels stay unchanged.
-• Allocation skips capped stats and keeps its progress between levels and saves. Existing unspent pet points are spent shortly after loading when automatic allocation is enabled.
+&lt;b&gt;FEATURES&lt;/b&gt;
 
-HOW TO USE
-Open a colonist’s or pet’s main ISEKAI tab. The mode button sits beside the automatic-allocation checkbox. Changing mode starts a fresh cycle for future points without changing earlier allocations. The controls follow the active ISEKAI or vanilla interface style.
+• &lt;b&gt;Balanced:&lt;/b&gt; shares new automatic points evenly across all six stats, keeping the cycle between levels. Existing differences, starting bonuses and manual investments stay intact.
+• &lt;b&gt;By class:&lt;/b&gt; favours class stats while keeping the others growing, with weights of 3/2/1/1/1/1. Berserker’s overlapping affinities use 4/1/1/1/1/1. Available after choosing a class; Balanced can be selected beforehand, even with automatic allocation off.
+• &lt;b&gt;Pets:&lt;/b&gt; Combat uses STR/DEX/VIT weights of 2 and INT/WIS/CHA weights of 1; Balanced uses equal weights. Automatic allocation is enabled by default for player pets, with a separate switch and mode for each pet. Rank-based starting stats stay intact; existing unspent points are also allocated shortly after loading if that pet’s automation is enabled.
+• &lt;b&gt;Personal choices:&lt;/b&gt; modes and allocation progress are saved for each character. Changing mode starts a new cycle for future points without compensating for earlier differences. All allocation modes skip capped stats.
+• &lt;b&gt;Enemy builds:&lt;/b&gt; fresh hostile humanoids and creatures use a more rounded combat spread, preserving their full stat-point budget, rank and level. Select Balanced or original ISEKAI distribution separately for each. Existing characters are not rerolled.
+• &lt;b&gt;Equipment refinement:&lt;/b&gt; combat and movement bonuses start at 50% strength, total apparel movement is capped at +20%, and material costs are doubled. Tune each value or restore original behavior. Equipment keeps its recorded upgrade levels.
 
-MOD SETTINGS
-Toggle improved colonist allocation and pet allocation separately, choose defaults for characters without a saved personal choice, and hide mode-change messages. Turning off improved colonist allocation restores ISEKAI’s algorithm. Pausing pet allocation preserves unspent points. Global settings do not overwrite personal choices saved in the colony. Enemy and refinement balance is enabled by default, with separate enemy modes, bonus strengths, a movement cap and material-cost controls. The scrollable window includes recommended and upstream-balance buttons.
+&lt;b&gt;HOW TO USE&lt;/b&gt;
+Mode buttons sit beside the automatic-allocation checkbox in the main ISEKAI tab. The compact controls follow the active ISEKAI or vanilla interface style. Pets’ nested stats window remains available for manual allocation.
 
-INSTALLATION
-RimWorld 1.6. Requires Harmony and ISEKAI RPG LEVELING. Load after them and any Guild/Creatures add-ons. English and Russian interface text is included.
+RimWorld’s Mod Settings lets you toggle improved colonist allocation and pet allocation separately, choose default modes for characters without a saved personal choice, choose whether new or unconfigured pets start with automation enabled, and hide mode-change messages. Both features are enabled by default. Balanced is the default for colonists; Combat is the default for pets. Turning off improved colonist allocation restores ISEKAI’s original algorithm. Pausing pet allocation preserves unspent points. Global switches and changed defaults do not overwrite saved personal choices.
 
-UPGRADING FROM BALANCED STATS &amp; QUICK QUESTS
-This is the same Workshop item and stat component: existing colonist and pet choices, allocation progress and stat settings remain in place. Middle-click quest acceptance has moved to the separate ISEKAI — Quick Quests mod. Subscribe to it to keep that feature.
+Enemy and equipment balance is enabled by default. Humanoids follow ISEKAI’s role-generation setting; hostile creatures change only at first initialization. Refinement settings affect existing equipment too, while rune effects, durability and upgrade success chances stay unchanged. The scrollable settings window offers separate controls and buttons for recommended or original enemy/equipment balance, without resetting colonist and pet choices.
 
-BACKUP AND FEEDBACK
-Can be added to an existing save. Back up before removing a mod from an ongoing colony. Report problems with reproduction steps, mod versions and your log.
-</description>
+&lt;b&gt;COMPATIBILITY&lt;/b&gt;
+Requires &lt;b&gt;RimWorld 1.6&lt;/b&gt;, Harmony (https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077) and ISEKAI RPG LEVELING (https://steamcommunity.com/sharedfiles/filedetails/?id=3657580708). Load after these dependencies and any Guild/Creatures add-ons. English and Russian interface text is included.
+
+If using ISEKAI — No Auto Camera Jump (https://steamcommunity.com/sharedfiles/filedetails/?id=3789336886), load Balanced Stats after it.
+
+For middle-click quest acceptance, use the separate ISEKAI — Quick Quests (https://steamcommunity.com/sharedfiles/filedetails/?id=3802965084) mod. Balanced Stats works without it.
+
+Can be added to an existing save. Back up before removal. Original ISEKAI files are neither included nor modified.
+
+&lt;b&gt;FEEDBACK&lt;/b&gt;
+Found a bug or an inaccuracy? Leave a comment on the mod page or on Boosty.
+
+Preview artwork: POUPUN / ISEKAI RPG LEVELING.
+
+Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.</description>
   <modDependencies>
     <li>
       <packageId>brrainz.harmony</packageId>

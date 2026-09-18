@@ -19,7 +19,9 @@ Only published releases appear here. Each category links to Workshop pages, sour
 
 Subscribe through [Steam Workshop](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100), then enable the mod after its dependencies. For a manual install, copy its folder from `mods/` into RimWorld’s `Mods` directory. Compiled DLLs are included where needed; game and dependency files are obtained separately.
 
-Each mod’s guide explains requirements, settings and upgrading. Its changelog records releases. Report bugs on the relevant Workshop page with game/mod versions, reproduction steps and a log with personal information removed.
+Each mod’s guide explains requirements, settings and upgrading. Its changelog records releases.
+
+Found a bug or an inaccuracy? Leave a comment on the mod page or on Boosty.
 
 ## Support the work
 

@@ -34,7 +34,7 @@ Refinement strengths affect both existing and newly upgraded equipment. Recorded
 
 ## Settings
 
-RimWorld’s Mod Settings lets you toggle improved colonist allocation and pet allocation separately, choose defaults for characters with no saved personal choice, choose whether new or unconfigured pets start with allocation enabled, and hide mode-change messages.
+RimWorld’s Mod Settings lets you toggle improved colonist allocation and pet allocation separately, choose defaults for characters with no saved personal choice, choose whether new or unconfigured pets start with allocation enabled, and hide mode-change messages. Both features are enabled by default. Balanced is the default for colonists; Combat is the default for pets.
 
 Turning off improved colonist allocation restores ISEKAI’s original algorithm. Pausing pet allocation preserves unspent points. Global switches and changed defaults do not overwrite personal choices stored in the colony. The scrollable settings window also provides separate enemy modes, combat and movement strengths (0–100%), a total movement cap (0–100%; 0 means uncapped), material costs (1–5×), and a refinement master switch. Each aspect can return to its upstream value independently. **Recommended balance** restores only enemy/refinement defaults; **Upstream enemy and equipment balance** disables only those additions. Neither changes colonist or pet choices.
 
@@ -47,6 +47,14 @@ This remains the [original Workshop item](https://steamcommunity.com/sharedfiles
 Existing stat settings, personal modes and allocation progress remain intact. The assembly identity, settings class, game-component types and save keys are retained. The folder keeps its historical name because RimWorld includes it in local mod-settings filenames.
 
 Can be added to an existing save. Back up before removing a mod from an ongoing colony. Original ISEKAI files are neither included nor modified.
+
+## Feedback
+
+Found a bug or an inaccuracy? Leave a comment on the mod page or on Boosty.
+
+Preview artwork: POUPUN / ISEKAI RPG LEVELING.
+
+Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.
 
 ## Development and license
 

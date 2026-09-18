@@ -24,4 +24,8 @@ Quick Quests stores no colony save data and can be added to or removed from an e
 
 Source is in `Source` under the included MIT license. The `.csproj` accepts `RimWorldManagedPath` and `HarmonyAssemblyPath` pointing to your installed dependencies. These DLLs are not distributed here.
 
-Report bugs with reproduction steps, mod versions and your log.
+Found a bug or an inaccuracy? Leave a comment on the mod page or on Boosty.
+
+Preview artwork: POUPUN / ISEKAI RPG LEVELING.
+
+Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.

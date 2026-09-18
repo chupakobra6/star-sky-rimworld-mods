@@ -8,33 +8,30 @@
     <li>1.6</li>
   </supportedVersions>
   <url>https://steamcommunity.com/sharedfiles/filedetails/?id=3789336886</url>
-  <description>
-Keep your camera where you left it when a local ISEKAI hunt spawns its target.
+  <description>Keep your camera where you left it when a local ISEKAI hunt spawns its target.
 
-Camera behaviour
+&lt;b&gt;FEATURES&lt;/b&gt;
 
-• Stops the forced camera jump for ordinary local ISEKAI hunts and hunt packs from ISEKAI CREATURES.
+• Stops the forced camera jump for ordinary local ISEKAI hunts and hunt packs from ISEKAI CREATURES (https://steamcommunity.com/sharedfiles/filedetails/?id=3757560461).
 • Keeps letters, messages and clickable target links, so you can jump to the target when you choose.
 • Leaves regular RimWorld camera jumps, world bosses, hero visits and Guild duels unchanged.
 
-Controls and settings
+&lt;b&gt;HOW TO USE&lt;/b&gt;
 RimWorld’s Mod Settings has separate switches for ordinary hunts and creature hunt packs. Both are enabled by default. Changes apply immediately and are saved in RimWorld’s configuration.
 
-Requirements and installation
-Requires RimWorld 1.6, Harmony and ISEKAI RPG LEVELING. Load after these dependencies and any Guild/Creatures add-ons. English and Russian interface text is included. A compiled DLL is included; no build is needed to play.
+&lt;b&gt;COMPATIBILITY&lt;/b&gt;
+Requires &lt;b&gt;RimWorld 1.6&lt;/b&gt;, Harmony (https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077) and ISEKAI RPG LEVELING (https://steamcommunity.com/sharedfiles/filedetails/?id=3657580708). Load after these dependencies and any Guild/Creatures add-ons. English and Russian interface text is included.
 
 ISEKAI CREATURES is optional; its switch applies only when that add-on is installed.
 
-This update changes the package ID from chupakobra6.isekai.noautohuntcamerajump to starsky.rimworld.isekai.noautohuntcamerajump. If the mod is no longer active after updating, re-enable it in your mod list.
-
 Can be added to an existing save; back up before removal. Original ISEKAI files are neither included nor modified.
 
-Found a bug? Include reproduction steps, mod versions and your log.
+&lt;b&gt;FEEDBACK&lt;/b&gt;
+Found a bug or an inaccuracy? Leave a comment on the mod page or on Boosty.
 
 Preview artwork: POUPUN / ISEKAI RPG LEVELING.
 
-Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.
-  </description>
+Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.</description>
   <modDependencies>
     <li>
       <packageId>brrainz.harmony</packageId>

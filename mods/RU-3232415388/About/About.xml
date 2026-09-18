@@ -22,5 +22,29 @@
   <loadAfter>
     <li>ray1203.simplecamerasetting</li>
   </loadAfter>
-  <description>Русский перевод SimpleCameraSetting для RimWorld 1.6: настройки масштаба, скорости камеры и слежения за пешкой, подсказки и сообщения. Требуется отдельно установить оригинальный SimpleCameraSetting.</description>
+  <description>Самый полный русский перевод SimpleCameraSetting (https://steamcommunity.com/sharedfiles/filedetails/?id=3232415388) для RimWorld 1.6. Оригинальный мод устанавливается отдельно.
+
+SimpleCameraSetting позволяет настроить приближение и движение камеры под себя, а также включить слежение за выбранной пешкой.
+
+&lt;b&gt;ЧТО ПЕРЕВЕДЕНО&lt;/b&gt;
+
+• Пределы масштаба, скорость перемещения и приближения камеры.
+• Слежение за пешкой, плавность движения и сообщения о слежении.
+• Настройки силуэтов, рамки выбора, чисел и шкал; названия кнопок мыши и прокрутки.
+
+&lt;b&gt;КАК ПОЛЬЗОВАТЬСЯ&lt;/b&gt;
+Откройте настройки SimpleCameraSetting. Там же можно назначить клавишу слежения и восстановить значения по умолчанию.
+Выберите русский язык в настройках RimWorld.
+
+&lt;b&gt;СОВМЕСТИМОСТЬ&lt;/b&gt;
+Требуются Harmony (https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077) и SimpleCameraSetting (https://steamcommunity.com/sharedfiles/filedetails/?id=3232415388). Порядок загрузки: Harmony → оригинальный мод → этот перевод.
+Оригинальный SimpleCameraSetting несовместим с Camera+.
+Другой русский перевод того же мода может перекрывать эти тексты; оставьте включённым один перевод.
+
+&lt;b&gt;ОБРАТНАЯ СВЯЗЬ&lt;/b&gt;
+Заметили ошибку или неточность? Напишите в комментариях на странице мода или на Boosty.
+
+Авторы оригинального мода: ray1203.
+
+Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.</description>
 </ModMetaData>

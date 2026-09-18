@@ -35,7 +35,7 @@ The patch suppresses `CameraJumper.TryJump` and `CameraJumper.TryJumpAndSelect` 
 
 Letters, messages and their clickable `LookTargets` are untouched. Source is in `Source`; see [LICENSE](LICENSE) for the code license. The `.csproj` accepts `RimWorldManagedPath` and `HarmonyAssemblyPath` pointing to your installed dependencies. Building requires C# tools; game and third-party DLLs are not distributed here. RimWorld and ISEKAI names and materials remain the property of their respective owners.
 
-Report bugs with reproduction steps, mod versions and your log.
+Found a bug or an inaccuracy? Leave a comment on the mod page or on Boosty.
 
 Preview artwork: POUPUN / ISEKAI RPG LEVELING.
 

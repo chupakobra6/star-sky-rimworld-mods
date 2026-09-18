@@ -22,5 +22,28 @@
   <loadAfter>
     <li>arandomkiwi.rimsaves</li>
   </loadAfter>
-  <description>Русский перевод RimSaves для RimWorld 1.6: управление папками и сохранениями, сведения о сохранении, настройки автосохранения и быстрых сохранений. Требуется отдельно установить оригинальный RimSaves.</description>
+  <description>Самый полный русский перевод RimSaves (https://steamcommunity.com/sharedfiles/filedetails/?id=1713367505) для RimWorld 1.6. Оригинальный мод устанавливается отдельно.
+
+RimSaves помогает навести порядок в сохранениях: разложить колонии по папкам, найти нужную игру и посмотреть сведения о ней перед загрузкой. Автосохранения в разных папках не перезаписывают друг друга.
+
+&lt;b&gt;ЧТО ПЕРЕВЕДЕНО&lt;/b&gt;
+
+• Управление папками и сохранениями: создание, перемещение, переименование и удаление.
+• Настройки быстрых сохранений, автосохранения и сохранений при событиях.
+• Сведения о сохранении, сортировка, подсказки и уведомления.
+
+&lt;b&gt;КАК ПОЛЬЗОВАТЬСЯ&lt;/b&gt;
+Русские подписи доступны в окнах сохранения и загрузки, а также в настройках RimSaves.
+Выберите русский язык в настройках RimWorld.
+
+&lt;b&gt;СОВМЕСТИМОСТЬ&lt;/b&gt;
+Требуются Harmony (https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077) и RimSaves (https://steamcommunity.com/sharedfiles/filedetails/?id=1713367505). Порядок загрузки: Harmony → оригинальный мод → этот перевод.
+Другой русский перевод того же мода может перекрывать эти тексты; оставьте включённым один перевод.
+
+&lt;b&gt;ОБРАТНАЯ СВЯЗЬ&lt;/b&gt;
+Заметили ошибку или неточность? Напишите в комментариях на странице мода или на Boosty.
+
+Авторы оригинального мода: aRandomKiwi.
+
+Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.</description>
 </ModMetaData>
