@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <chupakobra6_chupakobra6_collection_presets_Category>Collection presets — chupakobra6</chupakobra6_chupakobra6_collection_presets_Category>
+  <chupakobra6_chupakobra6_collection_presets_Intro>Choose recommended settings for individual mods, or select all available presets. Only the listed fields change. Nothing is applied automatically.</chupakobra6_chupakobra6_collection_presets_Intro>
+  <chupakobra6_chupakobra6_collection_presets_SelectAll>Select all available</chupakobra6_chupakobra6_collection_presets_SelectAll>
+  <chupakobra6_chupakobra6_collection_presets_ApplySelected>Apply selected presets</chupakobra6_chupakobra6_collection_presets_ApplySelected>
+  <chupakobra6_chupakobra6_collection_presets_Undo>Undo last application</chupakobra6_chupakobra6_collection_presets_Undo>
+  <chupakobra6_chupakobra6_collection_presets_Applied>Settings saved. Restart the game if a mod caches its settings. One previous application can be undone.</chupakobra6_chupakobra6_collection_presets_Applied>
+  <chupakobra6_chupakobra6_collection_presets_Failed>Could not apply settings:</chupakobra6_chupakobra6_collection_presets_Failed>
+  <chupakobra6_chupakobra6_collection_presets_MainMenuOnly>Apply and undo presets from the main menu, with no colony loaded. Your game is not closed automatically.</chupakobra6_chupakobra6_collection_presets_MainMenuOnly>
+  <chupakobra6_chupakobra6_collection_presets_Unavailable>mod is not active or its settings API changed</chupakobra6_chupakobra6_collection_presets_Unavailable>
+</LanguageData>

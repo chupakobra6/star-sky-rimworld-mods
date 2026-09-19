@@ -1,0 +1,22 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Ignivar_CookMealAshberryPie.description>Испечь роскошный пирог с пепельными ягодами.</Ignivar_CookMealAshberryPie.description>
+  <Ignivar_CookMealAshberryPie.jobString>Печёт пирог с пепельными ягодами.</Ignivar_CookMealAshberryPie.jobString>
+  <Ignivar_CookMealAshberryPie.label>Испечь пирог с пепельными ягодами</Ignivar_CookMealAshberryPie.label>
+  <Ignivar_CookMealAshberryPieBulk.description>Испечь роскошный пирог с пепельными ягодами.</Ignivar_CookMealAshberryPieBulk.description>
+  <Ignivar_CookMealAshberryPieBulk.jobString>Печёт пироги с пепельными ягодами: 3 шт.</Ignivar_CookMealAshberryPieBulk.jobString>
+  <Ignivar_CookMealAshberryPieBulk.label>Испечь пирог с пепельными ягодами x3</Ignivar_CookMealAshberryPieBulk.label>
+  <Ignivar_CookMealAshberryPieBulkier.description>Испечь роскошный пирог с пепельными ягодами.</Ignivar_CookMealAshberryPieBulkier.description>
+  <Ignivar_CookMealAshberryPieBulkier.jobString>Печёт пироги с пепельными ягодами: 9 шт.</Ignivar_CookMealAshberryPieBulkier.jobString>
+  <Ignivar_CookMealAshberryPieBulkier.label>Испечь пирог с пепельными ягодами x9</Ignivar_CookMealAshberryPieBulkier.label>
+  <Ignivar_MakeAshberryMust.description>Раздавить пепельные ягоды, чтобы приготовить сусло. Чтобы стать вином, оно должно перебродить.</Ignivar_MakeAshberryMust.description>
+  <Ignivar_MakeAshberryMust.jobString>Готовит сусло из пепельных ягод.</Ignivar_MakeAshberryMust.jobString>
+  <Ignivar_MakeAshberryMust.label>Приготовить сусло из пепельных ягод</Ignivar_MakeAshberryMust.label>
+  <Ignivar_MakeObsidian.description>Добыть обсидиан из глубоких подземных залежей.</Ignivar_MakeObsidian.description>
+  <Ignivar_MakeObsidian.jobString>Добывает обсидиан: 1 ед.</Ignivar_MakeObsidian.jobString>
+  <Ignivar_MakeObsidian.label>Добыть обсидиан x1</Ignivar_MakeObsidian.label>
+  <Ignivar_MakeObsidian5.description>Добыть обсидиан из глубоких подземных залежей.</Ignivar_MakeObsidian5.description>
+  <Ignivar_MakeObsidian5.jobString>Добывает обсидиан: 5 ед.</Ignivar_MakeObsidian5.jobString>
+  <Ignivar_MakeObsidian5.label>Добыть обсидиан x5</Ignivar_MakeObsidian5.label>
+  <DankPyon_Make_StoneBlocksClay.jobString>Вырезает блоки из глины.</DankPyon_Make_StoneBlocksClay.jobString>
+</LanguageData>

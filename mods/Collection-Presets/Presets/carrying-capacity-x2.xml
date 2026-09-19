@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SettingsPreset id="chupakobra6.collection.carrying-capacity-x2" target="designer225.enhancedcarryingcapacity" title="Enhanced Carrying Capacity: переносимость ×2" description="Множители допустимой массы и объёма — ×2. Объём применяется при наличии Combat Extended.">
+  <Config reader="designer225.enhancedcarryingcapacity" modClass="EnhancedCarryingCapacity" settingsClass="EnhancedCarryingCapacity.EnhancedCarryingCapacitySettings">
+    <Value path="ModSettings/MassMultiplier" member="m_massMultiplier" type="System.Single">2</Value>
+    <Value path="ModSettings/BulkMultiplier" member="m_bulkMultiplier" type="System.Single">2</Value>
+  </Config>
+</SettingsPreset>

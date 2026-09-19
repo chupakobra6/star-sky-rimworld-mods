@@ -1,0 +1,47 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BioTabPlus.SettingsCategory>Bio Tab+ — биография</BioTabPlus.SettingsCategory>
+  <BioTabPlus.TabGeneral>Общие</BioTabPlus.TabGeneral>
+  <BioTabPlus.TabCompatibility>Совместимость</BioTabPlus.TabCompatibility>
+  <BioTabPlus.Enable>Включить</BioTabPlus.Enable>
+  <BioTabPlus.UI>Интерфейс</BioTabPlus.UI>
+  <BioTabPlus.AutoFitCardToScreen>Автоматически подгонять карточку под экран</BioTabPlus.AutoFitCardToScreen>
+  <BioTabPlus.ScrollSkillsSection>Прокрутка раздела навыков</BioTabPlus.ScrollSkillsSection>
+  <BioTabPlus.CardSize>Размер карточки: {0}%</BioTabPlus.CardSize>
+  <BioTabPlus.Width>Ширина: {0}%</BioTabPlus.Width>
+  <BioTabPlus.Display>Отображение</BioTabPlus.Display>
+  <BioTabPlus.HideRevertButton>Скрыть кнопку &lt;i&gt;возврата к основной карточке игры&lt;/i&gt;</BioTabPlus.HideRevertButton>
+  <BioTabPlus.UseSquareCorners>Прямые углы</BioTabPlus.UseSquareCorners>
+  <BioTabPlus.UseRarityColors>Окрашивать названия черт по редкости</BioTabPlus.UseRarityColors>
+  <BioTabPlus.RestoreDefault>Восстановить стандартные настройки</BioTabPlus.RestoreDefault>
+  <BioTabPlus.ProgEdDetectedEnabled>Progression: Education включён — эти настройки будут применяться</BioTabPlus.ProgEdDetectedEnabled>
+  <BioTabPlus.ProgEdDetectedDisabled>Progression: Education выключен — эти настройки ни на что не влияют</BioTabPlus.ProgEdDetectedDisabled>
+  <BioTabPlus.UseOriginalProgEdIcons>Исходные значки Progression: Education</BioTabPlus.UseOriginalProgEdIcons>
+  <BioTabPlus.DetailedKnowledgeDefault>&lt;i&gt;Подробный список знаний&lt;/i&gt; по умолчанию</BioTabPlus.DetailedKnowledgeDefault>
+  <BioTabPlus.SettingsTooltip>Настройки Bio Tab+</BioTabPlus.SettingsTooltip>
+  <BioTabPlus.RevertToVanilla>Вернуться к основной карточке игры</BioTabPlus.RevertToVanilla>
+  <BioTabPlus.SwitchToBioTabPlus>Переключиться на Bio Tab+</BioTabPlus.SwitchToBioTabPlus>
+  <BioTabPlus.Backstory>Предыстория</BioTabPlus.Backstory>
+  <BioTabPlus.Personality>Личность</BioTabPlus.Personality>
+  <BioTabPlus.PersonalityInfoTooltip>Посмотреть подробности</BioTabPlus.PersonalityInfoTooltip>
+  <BioTabPlus.Traits>Черты характера</BioTabPlus.Traits>
+  <BioTabPlus.IncapableOf>Недоступно</BioTabPlus.IncapableOf>
+  <BioTabPlus.Abilities>Способности</BioTabPlus.Abilities>
+  <BioTabPlus.Knowledge>Знания</BioTabPlus.Knowledge>
+  <BioTabPlus.CompactView>Кратко</BioTabPlus.CompactView>
+  <BioTabPlus.DetailedView>Подробно</BioTabPlus.DetailedView>
+  <BioTabPlus.TraumaAndIntegrity>Trauma &amp; Integrity</BioTabPlus.TraumaAndIntegrity>
+  <BioTabPlus.Skills>Навыки</BioTabPlus.Skills>
+  <BioTabPlus.PawnType>Тип пешки</BioTabPlus.PawnType>
+  <BioTabPlus.Expertise>Специализации</BioTabPlus.Expertise>
+  <BioTabPlus.ChooseExpertise>Выбрать специализацию</BioTabPlus.ChooseExpertise>
+  <BioTabPlus.CollapseExpertise>Свернуть специализации</BioTabPlus.CollapseExpertise>
+  <BioTabPlus.ExpandExpertise>Развернуть специализации</BioTabPlus.ExpandExpertise>
+  <chupakobra6_3781978940_Favorite>Любимый цвет ({0}).</chupakobra6_3781978940_Favorite>
+  <chupakobra6_3781978940_FavoriteIdeology>Если не менее 60% одежды окрашено в любимый цвет или цвет идеологии, настроение немного повышается.
+
+Перекрасить одежду можно на станции смены стиля с помощью красителя из тинктории.</chupakobra6_3781978940_FavoriteIdeology>
+  <chupakobra6_3781978940_Loyal>&lt;color=#E5E53A&gt;Непоколебимая верность&lt;/color&gt;
+
+&lt;color=#D89B56&gt;{0}&lt;/color&gt; не отречётся от своей фракции и даже в плену откажется присоединиться к вашей колонии.</chupakobra6_3781978940_Loyal>
+</LanguageData>

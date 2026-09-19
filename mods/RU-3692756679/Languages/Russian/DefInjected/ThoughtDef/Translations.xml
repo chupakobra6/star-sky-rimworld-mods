@@ -1,0 +1,43 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <SCB_Mood_AdrenalineProtectingChild.stages.Adrenaline_protecting_child.description>Нужно защитить малыша! Сейчас ничто другое не имеет значения!</SCB_Mood_AdrenalineProtectingChild.stages.Adrenaline_protecting_child.description>
+  <SCB_Mood_AdrenalineProtectingChild.stages.Adrenaline_protecting_child.label>Защитный порыв</SCB_Mood_AdrenalineProtectingChild.stages.Adrenaline_protecting_child.label>
+  <SCB_Mood_BabyCarriedByAnyone.stages.Carried_by_someone.description>Меня носят на руках. Так тепло и спокойно.</SCB_Mood_BabyCarriedByAnyone.stages.Carried_by_someone.description>
+  <SCB_Mood_BabyCarriedByAnyone.stages.Carried_by_someone.label>Меня несут на руках</SCB_Mood_BabyCarriedByAnyone.stages.Carried_by_someone.label>
+  <SCB_Mood_BabyCarriedByMomDad.stages.Carried_by_MomDad.description>Меня держит мама или папа. Я чувствую, как меня любят.</SCB_Mood_BabyCarriedByMomDad.stages.Carried_by_MomDad.description>
+  <SCB_Mood_BabyCarriedByMomDad.stages.Carried_by_MomDad.label>На руках у мамы или папы</SCB_Mood_BabyCarriedByMomDad.stages.Carried_by_MomDad.label>
+  <SCB_Mood_BabyCarriedBySibling.label>На руках у брата или сестры</SCB_Mood_BabyCarriedBySibling.label>
+  <SCB_Mood_BabyCarriedBySibling.stages.Carried_by_my_sibling.description>Меня держит старший брат или сестра. Теперь я в безопасности.</SCB_Mood_BabyCarriedBySibling.stages.Carried_by_my_sibling.description>
+  <SCB_Mood_BabyCarriedBySibling.stages.Carried_by_my_sibling.label>На руках у брата или сестры</SCB_Mood_BabyCarriedBySibling.stages.Carried_by_my_sibling.label>
+  <SCB_Mood_BabyFellAsleep.stages.Baby_fell_asleep.description>Малыш уснул у меня на руках. Как спокойно и доверчиво он спит.</SCB_Mood_BabyFellAsleep.stages.Baby_fell_asleep.description>
+  <SCB_Mood_BabyFellAsleep.stages.Baby_fell_asleep.label>Малыш уснул</SCB_Mood_BabyFellAsleep.stages.Baby_fell_asleep.label>
+  <SCB_Mood_BabyGotHurt.stages.I_got_hurt.description>Больно! Мне это совсем не нравится!</SCB_Mood_BabyGotHurt.stages.I_got_hurt.description>
+  <SCB_Mood_BabyGotHurt.stages.I_got_hurt.label>Мне больно</SCB_Mood_BabyGotHurt.stages.I_got_hurt.label>
+  <SCB_Mood_BabyHearsLoudNoise.stages.Scary_noise.description>Что это так громко шумит?! Мне страшно!</SCB_Mood_BabyHearsLoudNoise.stages.Scary_noise.description>
+  <SCB_Mood_BabyHearsLoudNoise.stages.Scary_noise.label>Страшный шум</SCB_Mood_BabyHearsLoudNoise.stages.Scary_noise.label>
+  <SCB_Mood_BabyInRainCold.stages.Wet_and_cold.description>Холодный дождь! Я промокаю! Мне это не нравится!</SCB_Mood_BabyInRainCold.stages.Wet_and_cold.description>
+  <SCB_Mood_BabyInRainCold.stages.Wet_and_cold.label>Мокро и холодно</SCB_Mood_BabyInRainCold.stages.Wet_and_cold.label>
+  <SCB_Mood_BabyInRainWarm.stages.Refreshing_rain.description>Какой приятный, прохладный дождь! Сразу стало свежее!</SCB_Mood_BabyInRainWarm.stages.Refreshing_rain.description>
+  <SCB_Mood_BabyInRainWarm.stages.Refreshing_rain.label>Освежающий дождь</SCB_Mood_BabyInRainWarm.stages.Refreshing_rain.label>
+  <SCB_Mood_BabySeriouslyHurt.stages.Im_seriously_hurt.description>Как же мне больно! Всё тело болит!</SCB_Mood_BabySeriouslyHurt.stages.Im_seriously_hurt.description>
+  <SCB_Mood_BabySeriouslyHurt.stages.Im_seriously_hurt.label>Мне очень больно</SCB_Mood_BabySeriouslyHurt.stages.Im_seriously_hurt.label>
+  <SCB_Mood_BabySleptThroughNoise.stages.Baby_slept_through_chaos.description>Как можно спать при таком шуме? Удивительно, на что способны младенцы.</SCB_Mood_BabySleptThroughNoise.stages.Baby_slept_through_chaos.description>
+  <SCB_Mood_BabySleptThroughNoise.stages.Baby_slept_through_chaos.label>Малыш спит, несмотря на шум</SCB_Mood_BabySleptThroughNoise.stages.Baby_slept_through_chaos.label>
+  <SCB_Mood_BabyWarmAndCozy.stages.Warm_and_cozy.description>На улице холодно, а мне тепло под одеяльцем. Как хорошо.</SCB_Mood_BabyWarmAndCozy.stages.Warm_and_cozy.description>
+  <SCB_Mood_BabyWarmAndCozy.stages.Warm_and_cozy.label>Тепло и уютно</SCB_Mood_BabyWarmAndCozy.stages.Warm_and_cozy.label>
+  <SCB_Mood_CarryingInDanger.stages.Protecting_the_baby.description>Нужно уберечь этого ребёнка. Если с ним что-нибудь случится...</SCB_Mood_CarryingInDanger.stages.Protecting_the_baby.description>
+  <SCB_Mood_CarryingInDanger.stages.Protecting_the_baby.label>Защищаю младенца</SCB_Mood_CarryingInDanger.stages.Protecting_the_baby.label>
+  <SCB_Mood_CarryingMySibling.label>Несу братика или сестрёнку</SCB_Mood_CarryingMySibling.label>
+  <SCB_Mood_CarryingMySibling.stages.Carrying_my_little_sibling.description>Какие же крошечные бывают младшие братья и сёстры. Пока мы вместе, я буду оберегать малыша, что бы ни случилось.</SCB_Mood_CarryingMySibling.stages.Carrying_my_little_sibling.description>
+  <SCB_Mood_CarryingMySibling.stages.Carrying_my_little_sibling.label>Несу братика или сестрёнку</SCB_Mood_CarryingMySibling.stages.Carrying_my_little_sibling.label>
+  <SCB_Mood_CarryingMySonOrDaughter.label>Несу своего ребёнка</SCB_Mood_CarryingMySonOrDaughter.label>
+  <SCB_Mood_CarryingMySonOrDaughter.stages.Carrying_my_sondaughter.description>Как же хорошо открывать мир вместе со своим ребёнком. Такие мгновения бесценны.</SCB_Mood_CarryingMySonOrDaughter.stages.Carrying_my_sondaughter.description>
+  <SCB_Mood_CarryingMySonOrDaughter.stages.Carrying_my_sondaughter.label>Несу своего ребёнка</SCB_Mood_CarryingMySonOrDaughter.stages.Carrying_my_sondaughter.label>
+  <SCB_Mood_CarryingSomeoneElsesBaby.label>Помогаю с уходом за детьми</SCB_Mood_CarryingSomeoneElsesBaby.label>
+  <SCB_Mood_CarryingSomeoneElsesBaby.stages.Helping_with_childcare.description>Приятно заботиться о малышах. Растить детей легче сообща.</SCB_Mood_CarryingSomeoneElsesBaby.stages.Helping_with_childcare.description>
+  <SCB_Mood_CarryingSomeoneElsesBaby.stages.Helping_with_childcare.label>Помогаю с уходом за детьми</SCB_Mood_CarryingSomeoneElsesBaby.stages.Helping_with_childcare.label>
+  <SCB_Mood_CarryingWhileBleeding.stages.I_cant_drop_them_now.description>Раны тяжёлые, но нужно продолжать нести малыша. Нельзя его подвести.</SCB_Mood_CarryingWhileBleeding.stages.I_cant_drop_them_now.description>
+  <SCB_Mood_CarryingWhileBleeding.stages.I_cant_drop_them_now.label>Не могу сейчас выпустить малыша...</SCB_Mood_CarryingWhileBleeding.stages.I_cant_drop_them_now.label>
+  <SCB_Mood_ExhaustedAfterProtecting.stages.Exhausted_after_protecting.description>Действие адреналина проходит. Совсем не осталось сил.</SCB_Mood_ExhaustedAfterProtecting.stages.Exhausted_after_protecting.description>
+  <SCB_Mood_ExhaustedAfterProtecting.stages.Exhausted_after_protecting.label>Силы на исходе</SCB_Mood_ExhaustedAfterProtecting.stages.Exhausted_after_protecting.label>
+</LanguageData>

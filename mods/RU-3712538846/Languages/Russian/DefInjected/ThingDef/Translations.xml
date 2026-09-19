@@ -1,0 +1,173 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Bullet_Firelance.label>зажигательный болт</Bullet_Firelance.label>
+  <EggGreatMonitorLizardFertilized.description>Оплодотворённое яйцо гигантского варана. Если всё пойдёт хорошо, из него вылупится маленький гигантский варан. Его можно съесть сырым, но лучше приготовить.</EggGreatMonitorLizardFertilized.description>
+  <EggGreatMonitorLizardFertilized.label>яйцо гигантского варана (оплод.)</EggGreatMonitorLizardFertilized.label>
+  <EggGreatMonitorLizardUnfertilized.description>Неоплодотворённое яйцо гигантского варана. Его можно съесть сырым, но лучше приготовить.</EggGreatMonitorLizardUnfertilized.description>
+  <EggGreatMonitorLizardUnfertilized.label>яйцо гигантского варана (неоплод.)</EggGreatMonitorLizardUnfertilized.label>
+  <GreatMonitorLizard.description>Чудовищная разновидность варана, встречающаяся лишь в самых опасных уголках мира. Его огромные когти далеко не так смертоносны, как ядовитый укус.</GreatMonitorLizard.description>
+  <GreatMonitorLizard.label>гигантский варан</GreatMonitorLizard.label>
+  <GreatMonitorLizard.tools.0.label>левая лапа</GreatMonitorLizard.tools.0.label>
+  <GreatMonitorLizard.tools.0.labelNoLocation>лапа</GreatMonitorLizard.tools.0.labelNoLocation>
+  <GreatMonitorLizard.tools.1.label>правая лапа</GreatMonitorLizard.tools.1.label>
+  <GreatMonitorLizard.tools.1.labelNoLocation>лапа</GreatMonitorLizard.tools.1.labelNoLocation>
+  <GreatMonitorLizard.tools.3.label>голова</GreatMonitorLizard.tools.3.label>
+  <Ignivar_AshberryMust.description>Раздавленные пепельные ягоды. Чтобы стать вином, они должны перебродить в простой бродильной бочке.</Ignivar_AshberryMust.description>
+  <Ignivar_AshberryMust.label>сусло из пепельных ягод</Ignivar_AshberryMust.label>
+  <Ignivar_AshberryPie.description>Сытный пирог с терпкими пепельными ягодами. Начинку слегка подслащивают, чтобы смягчить их природную горечь. Пирог выпекают на тлеющих углях вулканических очагов и часто подают с кружками тёмного пепельного вина, чтобы согреться во время затяжных пепельных бурь.</Ignivar_AshberryPie.description>
+  <Ignivar_AshberryPie.label>пирог с пепельными ягодами</Ignivar_AshberryPie.label>
+  <Ignivar_AshberryWine.description>Любимое вино дома Игнивар — тёмное и горькое, приготовленное из выносливых пепельных ягод Магмовых пустошей. Его ценят за насыщенный вкус и согревающую крепость.</Ignivar_AshberryWine.description>
+  <Ignivar_AshberryWine.ingestible.ingestCommandString>Выпить {0}</Ignivar_AshberryWine.ingestible.ingestCommandString>
+  <Ignivar_AshberryWine.ingestible.ingestReportString>Пьёт {0}.</Ignivar_AshberryWine.ingestible.ingestReportString>
+  <Ignivar_AshberryWine.label>пепельное вино</Ignivar_AshberryWine.label>
+  <Ignivar_AshberryWine.tools.0.label>бутылка</Ignivar_AshberryWine.tools.0.label>
+  <Ignivar_AshberryWine.tools.1.label>горлышко</Ignivar_AshberryWine.tools.1.label>
+  <Ignivar_Barbute.description>Барбют с забралом, который носят тяжёлые пехотинцы дома Игнивар. Он обеспечивает надёжную защиту в бою, а тканевая маска под шлемом не даёт пеплу попасть в лёгкие в суровых условиях лавовых полей.</Ignivar_Barbute.description>
+  <Ignivar_Barbute.label>барбют Игнивар</Ignivar_Barbute.label>
+  <Ignivar_BrazierMace.description>Оружие воинов Игнивар, созданное для неумолимого разрушения. Эта булава с равным успехом дробит кости и обжигает плоть.</Ignivar_BrazierMace.description>
+  <Ignivar_BrazierMace.label>булава-жаровня</Ignivar_BrazierMace.label>
+  <Ignivar_BrazierMace.tools.0.label>рукоять</Ignivar_BrazierMace.tools.0.label>
+  <Ignivar_BrazierMace.tools.1.label>навершие</Ignivar_BrazierMace.tools.1.label>
+  <Ignivar_Broadblade.description>Короткий широкий клинок, излюбленное оружие дома Игнивар для ближнего боя, где промедление обходится дорого.</Ignivar_Broadblade.description>
+  <Ignivar_Broadblade.label>широкий клинок Игнивар</Ignivar_Broadblade.label>
+  <Ignivar_Broadblade.tools.0.label>рукоять</Ignivar_Broadblade.tools.0.label>
+  <Ignivar_Broadblade.tools.1.label>лезвие</Ignivar_Broadblade.tools.1.label>
+  <Ignivar_Bullet_Handgonne.label>пуля ручницы</Ignivar_Bullet_Handgonne.label>
+  <Ignivar_ForgePike.description>Длинная пика дома Игнивар с пылающим остриём. Её точные, выверенные удары пронзают и обжигают врага.</Ignivar_ForgePike.description>
+  <Ignivar_ForgePike.label>горновая пика</Ignivar_ForgePike.label>
+  <Ignivar_ForgePike.tools.0.label>древко</Ignivar_ForgePike.tools.0.label>
+  <Ignivar_ForgePike.tools.1.label>остриё</Ignivar_ForgePike.tools.1.label>
+  <Ignivar_Fyrlance.description>Вершина мастерства огненных кузнецов — орудие разрушения, извергающее струи горящего дёгтя.</Ignivar_Fyrlance.description>
+  <Ignivar_Fyrlance.label>огненное копьё</Ignivar_Fyrlance.label>
+  <Ignivar_Fyrlance.tools.0.label>приклад</Ignivar_Fyrlance.tools.0.label>
+  <Ignivar_Fyrlance.tools.1.label>ствол</Ignivar_Fyrlance.tools.1.label>
+  <Ignivar_Fyrlance.verbs.Verb_Shoot.label>огненное копьё</Ignivar_Fyrlance.verbs.Verb_Shoot.label>
+  <Ignivar_Fyrpot.description>Изготовленный в кузницах Игнивар огненный горшок взрывается при ударе и обдаёт всё вокруг пожирающими струями пламени.</Ignivar_Fyrpot.description>
+  <Ignivar_Fyrpot.label>огненный горшок Игнивар</Ignivar_Fyrpot.label>
+  <Ignivar_Fyrpot.verbs.0.label>Бросить огненный горшок</Ignivar_Fyrpot.verbs.0.label>
+  <Ignivar_Gun_Fyrthrower.description>Станковая разновидность огненного копья. Увеличенные бак и сопло повышают дальность и огневую мощь, но оружие расходует больше топлива и требует установки на станок.</Ignivar_Gun_Fyrthrower.description>
+  <Ignivar_Gun_Fyrthrower.label>станковый огнемёт</Ignivar_Gun_Fyrthrower.label>
+  <Ignivar_Gun_Fyrthrower.verbs.Verb_Shoot.label>станковый огнемёт</Ignivar_Gun_Fyrthrower.verbs.Verb_Shoot.label>
+  <Ignivar_Hood.description>Рабочие и лёгкие воины дома Игнивар носят этот плотно прилегающий капюшон вместе с обмотанным вокруг лица шарфом. Он защищает дыхание от пепла, вечно висящего в воздухе Магмовых пустошей.</Ignivar_Hood.description>
+  <Ignivar_Hood.label>капюшон Игнивар</Ignivar_Hood.label>
+  <Ignivar_Kettle.description>Прочный металлический шапель с плотным тканевым шарфом, который носят пехотинцы дома Игнивар. Защищает от удушливого пепла и дыма.</Ignivar_Kettle.description>
+  <Ignivar_Kettle.label>шапель Игнивар</Ignivar_Kettle.label>
+  <Ignivar_Kettle_Face.description>Шапель пехоты дома Игнивар с шарфом и усиленной металлической пластиной, закрывающей верхнюю часть лица. Обеспечивает дополнительную защиту даже там, где от пепла трудно дышать.</Ignivar_Kettle_Face.description>
+  <Ignivar_Kettle_Face.label>шапель Игнивар с полумаской</Ignivar_Kettle_Face.label>
+  <Ignivar_Mail.description>Прочная кольчуга пехотинцев дома Игнивар. Надёжно защищает от клинков и жара в их засыпанных пеплом землях.</Ignivar_Mail.description>
+  <Ignivar_Mail.label>кольчуга Игнивар</Ignivar_Mail.label>
+  <Ignivar_Plant_Ashberry.description>Пепельная ягода — выносливое растение с горькими плодами. Она цепляется за склоны Магмовых пустошей и прекрасно растёт на покрытой пеплом почве, где мало что способно выжить.</Ignivar_Plant_Ashberry.description>
+  <Ignivar_Plant_Ashberry.label>куст пепельных ягод</Ignivar_Plant_Ashberry.label>
+  <Ignivar_Plate.description>Тяжёлые латы дома Игнивар носят поверх кольчуги и обработанной пеплом ткани. Вентиляционные отверстия отводят тепло, а доспех защищает владельца от удушливого, раскалённого воздуха Игноса.</Ignivar_Plate.description>
+  <Ignivar_Plate.label>латы Игнивар</Ignivar_Plate.label>
+  <Ignivar_RawAshberry.description>Мелкие горькие пепельные ягоды обладают на удивление насыщенным вкусом. Больше всего они известны крепким тёмным вином, которое из них делают, — неизменным напитком дома Игнивар.</Ignivar_RawAshberry.description>
+  <Ignivar_RawAshberry.label>пепельные ягоды</Ignivar_RawAshberry.label>
+  <Ignivar_Robe.description>Стёганое одеяние лёгких пехотинцев и ополченцев дома Игнивар. Оно защищает, не сковывая движений, и подходит для быстрых перемещений и стычек в суровых Магмовых пустошах.</Ignivar_Robe.description>
+  <Ignivar_Robe.label>стёганое одеяние Игнивар</Ignivar_Robe.label>
+  <Ignivar_Scarf.description>Пепельный плащ — отличительный знак дома Игнивар. Его носит каждый мужчина, женщина и ребёнок, решившийся выйти на лавовые поля.</Ignivar_Scarf.description>
+  <Ignivar_Scarf.label>пепельный плащ Игнивар</Ignivar_Scarf.label>
+  <Ignivar_SearGreatBlade.description>Длинный плоский двуручный меч дома Игнивар. Его широкие мощные взмахи позволяют диктовать ход сражения.</Ignivar_SearGreatBlade.description>
+  <Ignivar_SearGreatBlade.label>опаляющий двуручник</Ignivar_SearGreatBlade.label>
+  <Ignivar_SearGreatBlade.tools.0.label>лезвие</Ignivar_SearGreatBlade.tools.0.label>
+  <Ignivar_Stavegonne.description>Ручная пушка дома Игнивар, выкованная огненными кузнецами. Она обрушивает на врага огонь и мощь с выверенной, неумолимой точностью.</Ignivar_Stavegonne.description>
+  <Ignivar_Stavegonne.label>ручница</Ignivar_Stavegonne.label>
+  <Ignivar_Stavegonne.tools.0.label>приклад</Ignivar_Stavegonne.tools.0.label>
+  <Ignivar_Stavegonne.tools.1.label>ствол</Ignivar_Stavegonne.tools.1.label>
+  <Ignivar_Stavegonne.verbs.Verb_Shoot.label>ручница</Ignivar_Stavegonne.verbs.Verb_Shoot.label>
+  <Ignivar_Toolbelt.description>Пояс огненных кузнецов и рабочих дома Игнивар. В нём хранят инструменты, необходимые для точной работы с огнём и камнем.</Ignivar_Toolbelt.description>
+  <Ignivar_Toolbelt.label>пояс с инструментами Игнивар</Ignivar_Toolbelt.label>
+  <Ignivar_Turret_Fyrthrower.comps.1.fuelGizmoLabel>Дёготь</Ignivar_Turret_Fyrthrower.comps.1.fuelGizmoLabel>
+  <Ignivar_Turret_Fyrthrower.comps.1.fuelLabel>Дёготь</Ignivar_Turret_Fyrthrower.comps.1.fuelLabel>
+  <Ignivar_Turret_Fyrthrower.comps.1.outOfFuelMessage>Нельзя стрелять: нужен дёготь</Ignivar_Turret_Fyrthrower.comps.1.outOfFuelMessage>
+  <Ignivar_Turret_Fyrthrower.description>Станковая разновидность огненного копья. Увеличенные бак и сопло повышают дальность и огневую мощь, но оружие расходует больше топлива и требует установки на станок.</Ignivar_Turret_Fyrthrower.description>
+  <Ignivar_Turret_Fyrthrower.label>станковый огнемёт</Ignivar_Turret_Fyrthrower.label>
+  <Proj_GrenadeFyrpot.label>огненный горшок</Proj_GrenadeFyrpot.label>
+  <DankPyon_KnowledgePotion.comps.CompUsable.useLabel>Использовать {0_label}</DankPyon_KnowledgePotion.comps.CompUsable.useLabel>
+  <DankPyon_Miracle.ingestible.ingestCommandString>Принять {0}</DankPyon_Miracle.ingestible.ingestCommandString>
+  <DankPyon_Miracle.ingestible.ingestReportString>Принимает {0}.</DankPyon_Miracle.ingestible.ingestReportString>
+  <DankPyon_Paregoric.ingestible.ingestCommandString>Принять {0}</DankPyon_Paregoric.ingestible.ingestCommandString>
+  <DankPyon_Paregoric.ingestible.ingestReportString>Принимает {0}.</DankPyon_Paregoric.ingestible.ingestReportString>
+  <DankPyon_VigorPill.ingestible.ingestCommandString>Принять {0}</DankPyon_VigorPill.ingestible.ingestCommandString>
+  <DankPyon_VigorPill.ingestible.ingestReportString>Принимает {0}.</DankPyon_VigorPill.ingestible.ingestReportString>
+  <DankPyon_DummyLeather.description>Выделанная, высушенная и очищенная шкура. Хороший традиционный материал для изготовления одежды и сумок.</DankPyon_DummyLeather.description>
+  <DankPyon_MinifiedIceThing.label>упакованный предмет</DankPyon_MinifiedIceThing.label>
+  <DankPyon_RoyalThrone.comps.CompAssignableToPawn_Throne.noAssignablePawnsDesc>Владельцем трона может быть только персонаж с дворянским титулом.</DankPyon_RoyalThrone.comps.CompAssignableToPawn_Throne.noAssignablePawnsDesc>
+  <DankPyon_Lootable_RackMix.label>стойка для оружия</DankPyon_Lootable_RackMix.label>
+  <DankPyon_Lootable_RackMix.description>Стойка для аккуратного хранения мечей.</DankPyon_Lootable_RackMix.description>
+  <DankPyon_Lootable_RackSword.label>стойка для мечей</DankPyon_Lootable_RackSword.label>
+  <DankPyon_Lootable_RackSword.description>Стойка для аккуратного хранения мечей.</DankPyon_Lootable_RackSword.description>
+  <DankPyon_Lootable_RackSpear.label>стойка для копий</DankPyon_Lootable_RackSpear.label>
+  <DankPyon_Lootable_RackSpear.description>Стойка для аккуратного хранения копий.</DankPyon_Lootable_RackSpear.description>
+  <DankPyon_LootableChest_RusticChest.label>сундук</DankPyon_LootableChest_RusticChest.label>
+  <DankPyon_LootableChest_RusticChest.description>Сундук для хранения сокровищ и хлама.</DankPyon_LootableChest_RusticChest.description>
+  <DankPyon_LootableChest_RoyalChest.label>королевский сундук</DankPyon_LootableChest_RoyalChest.label>
+  <DankPyon_LootableChest_RoyalChest.description>Королевский сундук для хранения королевских сокровищ и королевского хлама.</DankPyon_LootableChest_RoyalChest.description>
+  <DankPyon_Lootable_ArmorStatueNamed.label>стойка с именными доспехами</DankPyon_Lootable_ArmorStatueNamed.label>
+  <DankPyon_Lootable_ArmorStatueNamed.description>Подставка с роскошными доспехами, которые носили древние короли и герои.</DankPyon_Lootable_ArmorStatueNamed.description>
+  <DankPyon_Turret_Scorpio.comps.CompRefuelable.fuelGizmoLabel>Болты скорпиона</DankPyon_Turret_Scorpio.comps.CompRefuelable.fuelGizmoLabel>
+  <DankPyon_Turret_Scorpio.comps.CompRefuelable.fuelLabel>Болты скорпиона</DankPyon_Turret_Scorpio.comps.CompRefuelable.fuelLabel>
+  <DankPyon_Turret_Scorpio.comps.CompRefuelable.outOfFuelMessage>Нельзя стрелять: нужны болты скорпиона</DankPyon_Turret_Scorpio.comps.CompRefuelable.outOfFuelMessage>
+  <DankPyon_Gun_ScorpioTurret.verbs.Verb_Shoot.label>скорпион</DankPyon_Gun_ScorpioTurret.verbs.Verb_Shoot.label>
+  <DankPyon_Turret_Ballista.comps.CompRefuelable.fuelGizmoLabel>Болты баллисты</DankPyon_Turret_Ballista.comps.CompRefuelable.fuelGizmoLabel>
+  <DankPyon_Turret_Ballista.comps.CompRefuelable.fuelLabel>Болты баллисты</DankPyon_Turret_Ballista.comps.CompRefuelable.fuelLabel>
+  <DankPyon_Turret_Ballista.comps.CompRefuelable.outOfFuelMessage>Нельзя стрелять: нужны болты баллисты</DankPyon_Turret_Ballista.comps.CompRefuelable.outOfFuelMessage>
+  <DankPyon_Gun_BallistaTurret.verbs.Verb_Shoot.label>баллиста</DankPyon_Gun_BallistaTurret.verbs.Verb_Shoot.label>
+  <DankPyon_Artillery_Trebuchet.verbs.Verb_Shoot.label>требушет</DankPyon_Artillery_Trebuchet.verbs.Verb_Shoot.label>
+  <DankPyon_Turret_RepeaterBallista.comps.CompRefuelable.fuelGizmoLabel>Болты баллисты</DankPyon_Turret_RepeaterBallista.comps.CompRefuelable.fuelGizmoLabel>
+  <DankPyon_Turret_RepeaterBallista.comps.CompRefuelable.fuelLabel>Болты баллисты</DankPyon_Turret_RepeaterBallista.comps.CompRefuelable.fuelLabel>
+  <DankPyon_Turret_RepeaterBallista.comps.CompRefuelable.outOfFuelMessage>Нельзя стрелять: нужны болты баллисты</DankPyon_Turret_RepeaterBallista.comps.CompRefuelable.outOfFuelMessage>
+  <DankPyon_Gun_RepeaterBallistaTurret.verbs.Verb_Shoot.label>многозарядная баллиста</DankPyon_Gun_RepeaterBallistaTurret.verbs.Verb_Shoot.label>
+  <DankPyon_Treatise_Shooting.comps.CompUsable.useLabel>Прочитать трактат</DankPyon_Treatise_Shooting.comps.CompUsable.useLabel>
+  <DankPyon_Treatise_Melee.comps.CompUsable.useLabel>Прочитать трактат</DankPyon_Treatise_Melee.comps.CompUsable.useLabel>
+  <DankPyon_Treatise_Construction.comps.CompUsable.useLabel>Прочитать трактат</DankPyon_Treatise_Construction.comps.CompUsable.useLabel>
+  <DankPyon_Treatise_Mining.comps.CompUsable.useLabel>Прочитать трактат</DankPyon_Treatise_Mining.comps.CompUsable.useLabel>
+  <DankPyon_Treatise_Cooking.comps.CompUsable.useLabel>Прочитать трактат</DankPyon_Treatise_Cooking.comps.CompUsable.useLabel>
+  <DankPyon_Treatise_Plants.comps.CompUsable.useLabel>Прочитать трактат</DankPyon_Treatise_Plants.comps.CompUsable.useLabel>
+  <DankPyon_Treatise_Animals.comps.CompUsable.useLabel>Прочитать трактат</DankPyon_Treatise_Animals.comps.CompUsable.useLabel>
+  <DankPyon_Treatise_Crafting.comps.CompUsable.useLabel>Прочитать трактат</DankPyon_Treatise_Crafting.comps.CompUsable.useLabel>
+  <DankPyon_Treatise_Artistic.comps.CompUsable.useLabel>Прочитать трактат</DankPyon_Treatise_Artistic.comps.CompUsable.useLabel>
+  <DankPyon_Treatise_Medicine.comps.CompUsable.useLabel>Прочитать трактат</DankPyon_Treatise_Medicine.comps.CompUsable.useLabel>
+  <DankPyon_Treatise_Social.comps.CompUsable.useLabel>Прочитать трактат</DankPyon_Treatise_Social.comps.CompUsable.useLabel>
+  <DankPyon_Treatise_Intellectual.comps.CompUsable.useLabel>Прочитать трактат</DankPyon_Treatise_Intellectual.comps.CompUsable.useLabel>
+  <DankPyon_Apparel_FlashPotBelt.comps.CompApparelReloadable.chargeNoun>световой заряд</DankPyon_Apparel_FlashPotBelt.comps.CompApparelReloadable.chargeNoun>
+  <DankPyon_Apparel_FlashPotBelt.comps.CompApparelReloadable.cooldownGerund>перезарядка</DankPyon_Apparel_FlashPotBelt.comps.CompApparelReloadable.cooldownGerund>
+  <DankPyon_Apparel_FirePotBelt.comps.CompApparelReloadable.chargeNoun>зажигательный заряд</DankPyon_Apparel_FirePotBelt.comps.CompApparelReloadable.chargeNoun>
+  <DankPyon_Apparel_FirePotBelt.comps.CompApparelReloadable.cooldownGerund>перезарядка</DankPyon_Apparel_FirePotBelt.comps.CompApparelReloadable.cooldownGerund>
+  <DankPyon_Apparel_SmokePotBelt.comps.CompApparelReloadable.chargeNoun>дымовой заряд</DankPyon_Apparel_SmokePotBelt.comps.CompApparelReloadable.chargeNoun>
+  <DankPyon_Apparel_SmokePotBelt.comps.CompApparelReloadable.cooldownGerund>перезарядка</DankPyon_Apparel_SmokePotBelt.comps.CompApparelReloadable.cooldownGerund>
+  <DankPyon_Apparel_AcidFlaskBelt.comps.CompApparelReloadable.chargeNoun>колба с кислотой</DankPyon_Apparel_AcidFlaskBelt.comps.CompApparelReloadable.chargeNoun>
+  <DankPyon_Apparel_AcidFlaskBelt.comps.CompApparelReloadable.cooldownGerund>перезарядка</DankPyon_Apparel_AcidFlaskBelt.comps.CompApparelReloadable.cooldownGerund>
+  <DankPyon_ActiveBalloon.label>воздушный шар</DankPyon_ActiveBalloon.label>
+  <DankPyon_InvisPod.label>десантная капсула</DankPyon_InvisPod.label>
+  <DankPyon_Alp.verbs.alp_sleep.label>сон альпа</DankPyon_Alp.verbs.alp_sleep.label>
+  <DankPyon_RusticMimic.tools.left_side.labelNoLocation>коготь</DankPyon_RusticMimic.tools.left_side.labelNoLocation>
+  <DankPyon_RusticMimic.tools.right_side.labelNoLocation>коготь</DankPyon_RusticMimic.tools.right_side.labelNoLocation>
+  <DankPyon_RoyalMimic.tools.left_side.labelNoLocation>коготь</DankPyon_RoyalMimic.tools.left_side.labelNoLocation>
+  <DankPyon_RoyalMimic.tools.right_side.labelNoLocation>коготь</DankPyon_RoyalMimic.tools.right_side.labelNoLocation>
+  <DankPyon_GiantConstrictorForest.race.meatLabel>мясо удава</DankPyon_GiantConstrictorForest.race.meatLabel>
+  <DankPyon_GiantConstrictorCave.race.meatLabel>мясо удава</DankPyon_GiantConstrictorCave.race.meatLabel>
+  <DankPyon_LindwurmForest.race.meatLabel>мясо линдвурма</DankPyon_LindwurmForest.race.meatLabel>
+  <DankPyon_LindwurmCave.race.meatLabel>мясо линдвурма</DankPyon_LindwurmCave.race.meatLabel>
+  <DankPyon_AncientTroll.tools.left_claw.labelNoLocation>коготь</DankPyon_AncientTroll.tools.left_claw.labelNoLocation>
+  <DankPyon_AncientTroll.tools.left_fist.labelNoLocation>кулак</DankPyon_AncientTroll.tools.left_fist.labelNoLocation>
+  <DankPyon_AncientTroll.tools.right_claw.labelNoLocation>коготь</DankPyon_AncientTroll.tools.right_claw.labelNoLocation>
+  <DankPyon_AncientTroll.tools.right_fist.labelNoLocation>кулак</DankPyon_AncientTroll.tools.right_fist.labelNoLocation>
+  <DankPyon_Unhold.tools.left_claw.labelNoLocation>коготь</DankPyon_Unhold.tools.left_claw.labelNoLocation>
+  <DankPyon_Unhold.tools.left_fist.labelNoLocation>кулак</DankPyon_Unhold.tools.left_fist.labelNoLocation>
+  <DankPyon_Unhold.tools.right_claw.labelNoLocation>коготь</DankPyon_Unhold.tools.right_claw.labelNoLocation>
+  <DankPyon_Unhold.tools.right_fist.labelNoLocation>кулак</DankPyon_Unhold.tools.right_fist.labelNoLocation>
+  <DankPyon_UnholdSnow.tools.left_claw.labelNoLocation>коготь</DankPyon_UnholdSnow.tools.left_claw.labelNoLocation>
+  <DankPyon_UnholdSnow.tools.left_fist.labelNoLocation>кулак</DankPyon_UnholdSnow.tools.left_fist.labelNoLocation>
+  <DankPyon_UnholdSnow.tools.right_claw.labelNoLocation>коготь</DankPyon_UnholdSnow.tools.right_claw.labelNoLocation>
+  <DankPyon_UnholdSnow.tools.right_fist.labelNoLocation>кулак</DankPyon_UnholdSnow.tools.right_fist.labelNoLocation>
+  <DankPyon_Apiary.comps.CompRefuelableCustom.fuelGizmoLabel>Мясо</DankPyon_Apiary.comps.CompRefuelableCustom.fuelGizmoLabel>
+  <DankPyon_Crossbow.verbs.Verb_Shoot.label>арбалет</DankPyon_Crossbow.verbs.Verb_Shoot.label>
+  <DankPyon_CrossbowHeavy.verbs.Verb_Shoot.label>арбалест</DankPyon_CrossbowHeavy.verbs.Verb_Shoot.label>
+  <DankPyon_Handgonne.verbs.Verb_Shoot.label>ручница</DankPyon_Handgonne.verbs.Verb_Shoot.label>
+  <DankPyon_Bow_Hunting.verbs.Verb_Shoot.label>охотничий лук</DankPyon_Bow_Hunting.verbs.Verb_Shoot.label>
+  <Bow_War.verbs.Verb_Shoot.label>боевой лук</Bow_War.verbs.Verb_Shoot.label>
+  <Corpse_DankPyon_GiantConstrictorForest.race.meatLabel>мясо удава</Corpse_DankPyon_GiantConstrictorForest.race.meatLabel>
+  <Corpse_DankPyon_GiantConstrictorCave.race.meatLabel>мясо удава</Corpse_DankPyon_GiantConstrictorCave.race.meatLabel>
+  <Corpse_DankPyon_LindwurmForest.race.meatLabel>мясо линдвурма</Corpse_DankPyon_LindwurmForest.race.meatLabel>
+  <Corpse_DankPyon_LindwurmCave.race.meatLabel>мясо линдвурма</Corpse_DankPyon_LindwurmCave.race.meatLabel>
+</LanguageData>

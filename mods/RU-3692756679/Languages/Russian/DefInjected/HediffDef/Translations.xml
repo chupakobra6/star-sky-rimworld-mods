@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <SCB_AdrenalineBoost.description>Бегство с младенцем вызывает прилив адреналина: человек движется быстрее и лучше уклоняется от ударов в ближнем бою.</SCB_AdrenalineBoost.description>
+  <SCB_AdrenalineBoost.label>выброс адреналина</SCB_AdrenalineBoost.label>
+  <SCB_AdrenalineBoost.stages.protective_instinct.label>защитный инстинкт</SCB_AdrenalineBoost.stages.protective_instinct.label>
+  <SCB_AdrenalineBoostParent.description>При бегстве с собственным ребёнком родительская привязанность усиливает защитную реакцию: скорость движения и способность уклоняться от ударов в ближнем бою повышаются ещё сильнее.</SCB_AdrenalineBoostParent.description>
+  <SCB_AdrenalineBoostParent.label>родительский выброс адреналина</SCB_AdrenalineBoostParent.label>
+  <SCB_AdrenalineBoostParent.stages.parental_bond.label>родительская привязанность</SCB_AdrenalineBoostParent.stages.parental_bond.label>
+  <SCB_Hediff_SoreFromCarrying.description>Долгое ношение младенца нагружает спину и плечи. Удобная переноска уменьшает эту нагрузку.</SCB_Hediff_SoreFromCarrying.description>
+  <SCB_Hediff_SoreFromCarrying.label>боль от ношения ребёнка</SCB_Hediff_SoreFromCarrying.label>
+  <SCB_Hediff_SoreFromCarrying.stages.carry_fatigue.label>усталость от ношения ребёнка</SCB_Hediff_SoreFromCarrying.stages.carry_fatigue.label>
+  <SCB_Hediff_SoreFromCarrying.stages.slightly_sore_back.label>лёгкая боль в спине</SCB_Hediff_SoreFromCarrying.stages.slightly_sore_back.label>
+  <SCB_Hediff_SoreFromCarrying.stages.sore_back.label>боль в спине</SCB_Hediff_SoreFromCarrying.stages.sore_back.label>
+  <SCB_Hediff_SoreFromCarrying.stages.very_sore_back.label>сильная боль в спине</SCB_Hediff_SoreFromCarrying.stages.very_sore_back.label>
+</LanguageData>

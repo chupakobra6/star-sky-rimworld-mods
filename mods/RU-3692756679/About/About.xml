@@ -1,0 +1,51 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<ModMetaData>
+  <name>SimpleBabyCarry — русский перевод [Star Sky Mods]</name>
+  <author>chupakobra6 | Star Sky Mods</author>
+  <packageId>starsky.rimworld.ru.3692756679</packageId>
+  <modVersion>1.0.0</modVersion>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>b4ttl3m3ds.simplebabycarry</packageId>
+      <displayName>SimpleBabyCarry</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/3692756679</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>b4ttl3m3ds.simplebabycarry</li>
+  </loadAfter>
+  <description>Самый полный русский перевод SimpleBabyCarry (https://steamcommunity.com/sharedfiles/filedetails/?id=3692756679) для RimWorld 1.6. Оригинальный мод устанавливается отдельно.
+
+SimpleBabyCarry позволяет носить младенцев в слингах и переносках, продолжая работать, переносить вещи и заботиться о ребёнке. Младенца можно покормить, уложить в кроватку или передать другому поселенцу.
+
+&lt;b&gt;ЧТО ПЕРЕВЕДЕНО&lt;/b&gt;
+Переведены все тексты мода с учётом правильных окончаний и согласования слов.
+
+• Слинги, переноски и команды ухода за младенцами.
+• Мысли, состояния здоровья, задания и предупреждения об опасности.
+• Настройки ношения, кормления, сна и автоматического ухода.
+
+&lt;b&gt;КАК ПОЛЬЗОВАТЬСЯ&lt;/b&gt;
+Выберите русский язык в настройках RimWorld.
+
+Выберите поселенца и воспользуйтесь командами взаимодействия с младенцем. Параметры ухода и переноски доступны в настройках SimpleBabyCarry.
+
+&lt;b&gt;СОВМЕСТИМОСТЬ&lt;/b&gt;
+Требуются Harmony (https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077), Biotech и SimpleBabyCarry (https://steamcommunity.com/sharedfiles/filedetails/?id=3692756679). Порядок загрузки: Harmony → Biotech → оригинальный мод → этот перевод.
+Другой русский перевод того же мода может перекрывать эти тексты; оставьте включённым один перевод.
+
+&lt;b&gt;ОБРАТНАЯ СВЯЗЬ&lt;/b&gt;
+Заметили ошибку или неточность? Напишите в комментариях на странице мода или на Boosty.
+
+Авторы оригинального мода: B4ttl3m3d (код), Pumpkinlass (графика).
+
+Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.</description>
+</ModMetaData>

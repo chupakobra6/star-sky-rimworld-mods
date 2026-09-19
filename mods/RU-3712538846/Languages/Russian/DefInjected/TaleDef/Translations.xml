@@ -1,0 +1,47 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AshStorm.label>пепельная буря</AshStorm.label>
+  <AshStorm.rulePack.rulesStrings>
+    <li>tale_noun-&gt;пепел, под которым скрывается [Community], где живёт [PAWN_nameDef]</li>
+    <li>tale_noun-&gt;насыщенный пеплом воздух, которым окутывается [Community], где живёт [PAWN_nameDef]</li>
+    <li>image-&gt;зловещее небо [circumstance_group]</li>
+    <li>image-&gt;сгустившийся воздух [circumstance_group]</li>
+    <li>image-&gt;постепенно темнеющую землю [circumstance_group]</li>
+    <li>image-&gt;поля, укрытые толстым слоем пепла [circumstance_group]</li>
+    <li>image-&gt;[Quantity_adjphrase] могил [circumstance_group]</li>
+    <li>circumstance_phrase-&gt;без единого признака жизни вокруг</li>
+    <li>circumstance_phrase-&gt;с лёгким налётом серой пыли</li>
+    <li>circumstance_phrase-&gt;с узором, напоминающим кости</li>
+    <li>circumstance_phrase-&gt;в ожидании конца ядовитой напасти</li>
+    <li>desc_sentence-&gt;[PAWN_nameDef] лежит на земле, [PAWN_possessive] тело неестественно изогнуто.</li>
+    <li>desc_sentence-&gt;[PAWN_nameDef] прячется; рядом — [TerrainFeature], а взгляд выражает [AdjectiveAngsty] настрой.</li>
+    <li>desc_sentence-&gt;[PAWN_nameDef] потрясённо смотрит на происходящее.</li>
+    <li>desc_sentence-&gt;[PAWN_nameDef] тихо отдыхает, [PAWN_possessive] лицо покрыто испариной.</li>
+    <li>desc_sentence-&gt;На земле лежит [Quantity_adjphrase] мёртвых животных вида «[Animal]».</li>
+    <li>desc_sentence-&gt;На земле лежит [Quantity_adjphrase] умирающих животных вида «[Animal]».</li>
+    <li>desc_sentence-&gt;Вокруг беспокойно бродит [Quantity_adjphrase] животных вида «[Animal]».</li>
+  </AshStorm.rulePack.rulesStrings>
+  <AshbornefeverRevealed.label>обнаружение пепельной лихорадки</AshbornefeverRevealed.label>
+  <AshbornefeverRevealed.rulePack.rulesStrings>
+    <li>tale_noun-&gt;пепел, от которого страдает [PAWN_nameDef]</li>
+    <li>tale_noun-&gt;отравление пеплом, от которого страдает [PAWN_nameDef]</li>
+    <li>image-&gt;то, как [PAWN_nameFull] пошатываясь идёт по полю [circumstance_group]</li>
+    <li>image-&gt;то, как [PAWN_nameFull] лежит на земле [circumstance_group]</li>
+    <li>image-&gt;то, как [PAWN_nameFull] лежит в постели [circumstance_group]</li>
+    <li>image-&gt;то, как [PAWN_nameFull] сидит на корточках у костра [circumstance_group]</li>
+    <li>image-&gt;то, как [PAWN_nameFull] пытается разжечь костёр [circumstance_group]</li>
+    <li>image-&gt;то, как [PAWN_nameFull] в беспамятстве снимает [PAWN_possessive] одежду [circumstance_group]</li>
+    <li>circumstance_phrase-&gt;обливаясь потом</li>
+    <li>circumstance_phrase-&gt;не в силах унять дрожь</li>
+    <li>circumstance_phrase-&gt;обливаясь потом и дрожа</li>
+    <li>circumstance_phrase-&gt;с сухими, потрескавшимися губами</li>
+    <li>circumstance_phrase-&gt;страдая от рвоты</li>
+    <li>circumstance_phrase-&gt;с заметной сыпью на коже</li>
+    <li>desc_sentence-&gt;Вокруг лежит [Quantity_adjphrase] искорёженных трупов животных вида «[Animal]».</li>
+    <li>desc_sentence-&gt;[PAWN_nameDef] носит расползающуюся в лохмотья одежду.</li>
+    <li>desc_sentence-&gt;Небо затянуто мутной дымкой, сквозь которую проступает [Color] цвет.</li>
+    <li>desc_sentence-&gt;Вокруг виднеется [Quantity_adjphrase] искривлённых природных образований типа «[TerrainFeature]», окрашенных в [Color] цвет.</li>
+    <li>desc_sentence-&gt;Сцена разворачивается среди искривлённых деревьев; в этом лесу растёт [TreeType_masc].</li>
+    <li>desc_sentence-&gt;На земле лежит [Quantity_adjphrase] умирающих животных вида «[Animal]».</li>
+  </AshbornefeverRevealed.rulePack.rulesStrings>
+</LanguageData>
