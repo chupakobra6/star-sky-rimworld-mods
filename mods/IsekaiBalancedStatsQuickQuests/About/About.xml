@@ -3,12 +3,12 @@
   <name>ISEKAI — Balanced Stats [Star Sky Mods]</name>
   <author>chupakobra6 | Star Sky Mods</author>
   <packageId>starsky.rimworld.isekai.balancedstatsquickquests</packageId>
-  <modVersion>1.3.0</modVersion>
+  <modVersion>1.4.0</modVersion>
   <supportedVersions>
     <li>1.6</li>
   </supportedVersions>
   <url>https://steamcommunity.com/sharedfiles/filedetails/?id=3789339468</url>
-  <description>Choose how ISEKAI spends your colonists’ and pets’ stat points, give new enemies a broader mix of stats, and reduce the bonuses from equipment upgrades. Each part can be configured separately.
+  <description>Choose how ISEKAI spends your colonists’ and pets’ stat points, give new enemies a broader mix of stats, keep high-level pawn movement manageable, and reduce the bonuses from equipment upgrades. Each part can be configured separately.
 
 &lt;b&gt;FEATURES&lt;/b&gt;
 
@@ -17,6 +17,7 @@
 • &lt;b&gt;Pets:&lt;/b&gt; Combat gives twice as many points to each of STR, DEX and VIT as to each of INT, WIS and CHA. Balanced gives equal shares. Automatic allocation is enabled by default for player pets, with a separate switch and mode for each pet. Rank-based starting stats stay intact; existing unspent points are also allocated shortly after loading if that pet’s automation is enabled.
 • &lt;b&gt;Personal choices:&lt;/b&gt; modes and allocation progress are saved for each character. Changing mode starts a new cycle for future points without compensating for earlier differences. All allocation modes skip capped stats.
 • &lt;b&gt;Enemy builds:&lt;/b&gt; new hostile humanoids use a 3/2/1/1/1/1 role-based spread; hostile creatures favour STR/DEX/VIT with 2 shares each and give the other stats 1 share each. Their total allocated points, rank and level stay the same. You can choose Equal shares or Original ISEKAI separately for humanoids and creatures. Existing characters are not rerolled.
+• &lt;b&gt;High-level movement:&lt;/b&gt; scale ISEKAI’s +0.005 cells/s per level bonus from 0–100%. Recommended 50% gives +0.0025 cells/s per level. An independent final speed limit starts enabled at 12 cells/s; adjust it from 5 to 30 cells/s or switch it off. It includes DEX, gear, genes and other speed effects for ISEKAI pawns, including those already in a save. Pawns without ISEKAI stats are unaffected.
 • &lt;b&gt;Equipment refinement:&lt;/b&gt; the bonuses from ISEKAI’s equipment upgrades start at half strength, with doubled material costs. This covers damage, attack speed, ranged accuracy, armor and movement. Apparel’s combined refinement movement bonus is capped at +20%. For example, four +5 pieces give +20% movement instead of the original +50%. Upgrade levels stay recorded on the equipment.
 
 &lt;b&gt;HOW TO USE&lt;/b&gt;
@@ -24,9 +25,9 @@ Select a colonist and open its ISEKAI tab, or select an ISEKAI pet with its own 
 
 In RimWorld’s &lt;b&gt;Mod Settings&lt;/b&gt;, select &lt;b&gt;ISEKAI — Balanced Stats&lt;/b&gt;. Improved colonist allocation and pet allocation are enabled by default. The default modes are Balanced for colonists and Combat for pets. You can change defaults for characters without a saved choice, change whether new or unconfigured pets start with automation enabled, and hide mode-change messages. Turning off improved colonist allocation restores ISEKAI’s original algorithm; turning off pet allocation leaves points unspent. These switches and defaults do not overwrite saved personal choices.
 
-Enemy and equipment balance is also enabled by default. Scroll down for separate enemy modes, combat/movement strength (0–100%), the movement cap (0–100%; 0 removes the cap), and material cost (1–5×, rounded up). Refinement can be disabled separately. The recommended/original balance buttons change only enemy and equipment settings, keeping colonist and pet choices.
+Enemy, movement and equipment balance is also enabled by default. Scroll down for separate enemy modes, level movement strength (0–100%; 0 removes the per-level bonus and 100 restores the original), an optional final ISEKAI pawn speed cap (5–30 cells/s), refinement combat/movement strength (0–100%), the separate apparel refinement movement cap (0–100%; 0 removes that cap), and material cost (1–5×, rounded up). Refinement can be disabled separately. The recommended/original balance buttons change enemy, movement and equipment settings while keeping personal allocation choices.
 
-Enemy changes apply only to fresh stat rolls: humanoids follow ISEKAI’s role-generation setting; creatures change only at first initialization. Player characters, pets, neutral factions and humanoids whose stats ISEKAI marks as locked are excluded. An already-generated wild animal is not changed when it becomes a manhunter. Refinement settings affect existing equipment too, but only its upgrade bonuses: other movement effects, runes, durability, mass, upgrade success chances and failure outcomes keep ISEKAI’s rules.
+Enemy changes apply only to fresh stat rolls: humanoids follow ISEKAI’s role-generation setting; creatures change only at first initialization. Player characters, pets, neutral factions and humanoids whose stats ISEKAI marks as locked are excluded. An already-generated wild animal is not changed when it becomes a manhunter. Refinement settings affect existing equipment too, but only its upgrade bonuses. The apparel refinement cap limits only that source; the optional final pawn cap limits the combined movement stat. Runes, durability, mass, upgrade success chances and failure outcomes keep ISEKAI’s rules.
 
 &lt;b&gt;COMPATIBILITY&lt;/b&gt;
 Requires &lt;b&gt;RimWorld 1.6&lt;/b&gt;, Harmony (https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077) and ISEKAI RPG LEVELING (https://steamcommunity.com/sharedfiles/filedetails/?id=3657580708). Load after these dependencies and any Guild/Creatures add-ons. English and Russian interface text is included.

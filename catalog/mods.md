@@ -8,11 +8,11 @@ Gameplay additions, balance and quality-of-life tools.
 
 ## ISEKAI — Balanced Stats
 
-Control stat allocation for colonists and pets, enemy builds and equipment upgrade balance.
+Control stat allocation for colonists and pets, enemy builds, high-level movement and equipment upgrade balance.
 
 [![ISEKAI — Balanced Stats](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/isekai-balanced.gif)](https://steamcommunity.com/sharedfiles/filedetails/?id=3789339468)
 
-RimWorld 1.6 · Version 1.3.0
+RimWorld 1.6 · Version 1.4.0
 
 [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3789339468) · [Source & guide](../mods/IsekaiBalancedStatsQuickQuests/README.md) · [Changelog](../mods/IsekaiBalancedStatsQuickQuests/CHANGELOG.md) · [License](../mods/IsekaiBalancedStatsQuickQuests/LICENSE) · [Sources & notices](../mods/IsekaiBalancedStatsQuickQuests/NOTICES.md)
 

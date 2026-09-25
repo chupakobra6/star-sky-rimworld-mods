@@ -48,6 +48,13 @@
   <IsekaiFixes_EnemyModeBalanced>Поровну</IsekaiFixes_EnemyModeBalanced>
   <IsekaiFixes_EnemyModeCombatRole>Роль / бой</IsekaiFixes_EnemyModeCombatRole>
   <IsekaiFixes_ForgeSection>Заточка снаряжения</IsekaiFixes_ForgeSection>
+  <IsekaiFixes_PawnSpeedSection>Скорость пешек ISEKAI</IsekaiFixes_PawnSpeedSection>
+  <IsekaiFixes_PawnSpeedScope>Влияет на существующих и новых пешек ISEKAI. 0% убирает прибавку +0,005 клетки/с за уровень; 100% возвращает её. Необязательный предел итоговой скорости учитывает ловкость, снаряжение и другие эффекты.</IsekaiFixes_PawnSpeedScope>
+  <IsekaiFixes_LevelSpeedMultiplier>Сила прибавки скорости за уровень</IsekaiFixes_LevelSpeedMultiplier>
+  <IsekaiFixes_PawnSpeedCapEnable>Ограничить итоговую скорость пешек ISEKAI</IsekaiFixes_PawnSpeedCapEnable>
+  <IsekaiFixes_PawnSpeedCap>Предел скорости</IsekaiFixes_PawnSpeedCap>
+  <IsekaiFixes_SpeedUnit>клетки/с</IsekaiFixes_SpeedUnit>
+  <IsekaiFixes_PawnSpeedCapExplanation>Предел скорости Balanced Stats: {0} клетки/с</IsekaiFixes_PawnSpeedCapExplanation>
   <IsekaiFixes_ForgeEnable>Включить баланс заточки</IsekaiFixes_ForgeEnable>
   <IsekaiFixes_ForgeScope>Действует на старое и новое снаряжение, сохраняя уровни заточки и руны. Боевые бонусы: урон, скорость атак, точность и броня. Прочность, вес, руны и шанс успеха остаются по правилам ISEKAI.</IsekaiFixes_ForgeScope>
   <IsekaiFixes_ForgeCombat>Сила боевых бонусов</IsekaiFixes_ForgeCombat>
@@ -56,7 +63,7 @@
   <IsekaiFixes_ForgeCapHint>0% отключает предел. Он ограничивает только скорость от заточки одежды, сохраняя остальные источники скорости.</IsekaiFixes_ForgeCapHint>
   <IsekaiFixes_ForgeCost>Материалы за попытку</IsekaiFixes_ForgeCost>
   <IsekaiFixes_BalancePreset>Рекомендуемый баланс</IsekaiFixes_BalancePreset>
-  <IsekaiFixes_BalancePresetDesc>Враги по роли / бою · 50% боевых бонусов и скорости · до +20% скорости от всей заточки · материалы ×2. Выбор колонистов и питомцев сохраняется.</IsekaiFixes_BalancePresetDesc>
-  <IsekaiFixes_BalanceUpstream>Исходные правила врагов и заточки</IsekaiFixes_BalanceUpstream>
-  <IsekaiFixes_BalanceUpstreamDesc>Возвращает генерацию врагов, эффекты и стоимость заточки ISEKAI. Настройки распределения колонистов и питомцев сохраняются.</IsekaiFixes_BalanceUpstreamDesc>
+  <IsekaiFixes_BalancePresetDesc>Враги по роли / бою · 50% прибавки скорости за уровень · предел скорости пешек 12 клеток/с · 50% бонусов заточки · до +20% скорости от заточки · материалы ×2. Личный выбор распределения сохраняется.</IsekaiFixes_BalancePresetDesc>
+  <IsekaiFixes_BalanceUpstream>Исходные правила врагов, скорости и заточки</IsekaiFixes_BalanceUpstream>
+  <IsekaiFixes_BalanceUpstreamDesc>Возвращает генерацию врагов, прибавку скорости за уровень, эффекты и стоимость заточки ISEKAI; отключает предел скорости пешек. Личный выбор распределения сохраняется.</IsekaiFixes_BalanceUpstreamDesc>
 </LanguageData>

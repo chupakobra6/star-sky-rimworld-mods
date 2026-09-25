@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using RimWorld;
 using UnityEngine;
 using Verse;
 
@@ -19,6 +20,9 @@ namespace IsekaiBalancedStatsQuickQuests
         public float ForgeMoveSpeedMultiplier = 0.5f;
         public float ForgeMoveSpeedCap = 0.2f;
         public float ForgeCostMultiplier = 2f;
+        public float LevelMoveSpeedMultiplier = 0.5f;
+        public bool EnablePawnMoveSpeedCap = true;
+        public float PawnMoveSpeedCap = 12f;
 
         public override void ExposeData()
         {
@@ -36,6 +40,9 @@ namespace IsekaiBalancedStatsQuickQuests
             Scribe_Values.Look(ref ForgeMoveSpeedMultiplier, "forgeMoveSpeedMultiplier", 0.5f);
             Scribe_Values.Look(ref ForgeMoveSpeedCap, "forgeMoveSpeedCap", 0.2f);
             Scribe_Values.Look(ref ForgeCostMultiplier, "forgeCostMultiplier", 2f);
+            Scribe_Values.Look(ref LevelMoveSpeedMultiplier, "levelMoveSpeedMultiplier", 0.5f);
+            Scribe_Values.Look(ref EnablePawnMoveSpeedCap, "enablePawnMoveSpeedCap", true);
+            Scribe_Values.Look(ref PawnMoveSpeedCap, "pawnMoveSpeedCap", 12f);
             if (Scribe.mode == LoadSaveMode.PostLoadInit) NormalizeBalanceSettings();
         }
 
@@ -47,6 +54,8 @@ namespace IsekaiBalancedStatsQuickQuests
             ForgeMoveSpeedMultiplier = FiniteClamp(ForgeMoveSpeedMultiplier, 0f, 1f, 0.5f);
             ForgeMoveSpeedCap = FiniteClamp(ForgeMoveSpeedCap, 0f, 1f, 0.2f);
             ForgeCostMultiplier = FiniteClamp(ForgeCostMultiplier, 1f, 5f, 2f);
+            LevelMoveSpeedMultiplier = FiniteClamp(LevelMoveSpeedMultiplier, 0f, 1f, 0.5f);
+            PawnMoveSpeedCap = FiniteClamp(PawnMoveSpeedCap, 5f, 30f, 12f);
         }
 
         private static float FiniteClamp(float value, float min, float max, float fallback)
@@ -65,6 +74,9 @@ namespace IsekaiBalancedStatsQuickQuests
             ForgeMoveSpeedMultiplier = 0.5f;
             ForgeMoveSpeedCap = 0.2f;
             ForgeCostMultiplier = 2f;
+            LevelMoveSpeedMultiplier = 0.5f;
+            EnablePawnMoveSpeedCap = true;
+            PawnMoveSpeedCap = 12f;
         }
 
         public void RestoreUpstreamBalance()
@@ -76,6 +88,9 @@ namespace IsekaiBalancedStatsQuickQuests
             ForgeMoveSpeedMultiplier = 1f;
             ForgeMoveSpeedCap = 0f;
             ForgeCostMultiplier = 1f;
+            LevelMoveSpeedMultiplier = 1f;
+            EnablePawnMoveSpeedCap = false;
+            PawnMoveSpeedCap = 12f;
         }
 
         public void ResetToDefaults()
@@ -106,6 +121,13 @@ namespace IsekaiBalancedStatsQuickQuests
         public override string SettingsCategory()
         {
             return Content.Name;
+        }
+
+        public override void WriteSettings()
+        {
+            currentSettings.NormalizeBalanceSettings();
+            base.WriteSettings();
+            StatDefOf.MoveSpeed?.Worker?.DeleteStatCache();
         }
 
         public override void DoSettingsWindowContents(Rect inRect)
@@ -141,6 +163,14 @@ namespace IsekaiBalancedStatsQuickQuests
             listing.Label("IsekaiFixes_EnemyScope".Translate());
             DrawEnemyMode(listing, false);
             DrawEnemyMode(listing, true);
+
+            listing.GapLine();
+            listing.Label("IsekaiFixes_PawnSpeedSection".Translate());
+            listing.Label("IsekaiFixes_PawnSpeedScope".Translate());
+            DrawBalanceSlider(listing, "IsekaiFixes_LevelSpeedMultiplier", ref currentSettings.LevelMoveSpeedMultiplier, 0f, 1f, true);
+            listing.CheckboxLabeled("IsekaiFixes_PawnSpeedCapEnable".Translate(), ref currentSettings.EnablePawnMoveSpeedCap);
+            if (currentSettings.EnablePawnMoveSpeedCap)
+                DrawSpeedCapSlider(listing);
 
             listing.GapLine();
             listing.Label("IsekaiFixes_ForgeSection".Translate());
@@ -191,6 +221,13 @@ namespace IsekaiBalancedStatsQuickQuests
         {
             listing.Label(key.Translate() + ": " + (percent ? (value * 100f).ToString("F0") + "%" : value.ToString("F2") + "×"));
             value = Mathf.Round(listing.Slider(value, min, max) * 100f) / 100f;
+        }
+
+        private static void DrawSpeedCapSlider(Listing_Standard listing)
+        {
+            listing.Label("IsekaiFixes_PawnSpeedCap".Translate() + ": "
+                + currentSettings.PawnMoveSpeedCap.ToString("F1") + " " + "IsekaiFixes_SpeedUnit".Translate());
+            currentSettings.PawnMoveSpeedCap = Mathf.Round(listing.Slider(currentSettings.PawnMoveSpeedCap, 5f, 30f) * 2f) / 2f;
         }
 
         private static void DrawEnemyMode(Listing_Standard listing, bool creature)

@@ -48,6 +48,13 @@
   <IsekaiFixes_EnemyModeBalanced>Equal shares</IsekaiFixes_EnemyModeBalanced>
   <IsekaiFixes_EnemyModeCombatRole>Role / combat</IsekaiFixes_EnemyModeCombatRole>
   <IsekaiFixes_ForgeSection>Equipment refinement</IsekaiFixes_ForgeSection>
+  <IsekaiFixes_PawnSpeedSection>ISEKAI pawn movement</IsekaiFixes_PawnSpeedSection>
+  <IsekaiFixes_PawnSpeedScope>Changes existing and new ISEKAI pawns. Level gain: 0% removes the +0.005 cells/s per level bonus; 100% restores it. The optional final cap includes DEX, gear and other speed effects.</IsekaiFixes_PawnSpeedScope>
+  <IsekaiFixes_LevelSpeedMultiplier>Level movement bonus strength</IsekaiFixes_LevelSpeedMultiplier>
+  <IsekaiFixes_PawnSpeedCapEnable>Limit final movement speed of ISEKAI pawns</IsekaiFixes_PawnSpeedCapEnable>
+  <IsekaiFixes_PawnSpeedCap>Maximum movement speed</IsekaiFixes_PawnSpeedCap>
+  <IsekaiFixes_SpeedUnit>cells/s</IsekaiFixes_SpeedUnit>
+  <IsekaiFixes_PawnSpeedCapExplanation>Balanced Stats maximum movement speed: {0} cells/s</IsekaiFixes_PawnSpeedCapExplanation>
   <IsekaiFixes_ForgeEnable>Enable refinement balance</IsekaiFixes_ForgeEnable>
   <IsekaiFixes_ForgeScope>Applies to existing and new equipment without changing upgrade levels or runes. Combat bonuses cover damage, attack speed, accuracy and armor. Durability, weight, runes and success chances keep ISEKAI’s rules.</IsekaiFixes_ForgeScope>
   <IsekaiFixes_ForgeCombat>Combat bonus strength</IsekaiFixes_ForgeCombat>
@@ -56,7 +63,7 @@
   <IsekaiFixes_ForgeCapHint>0% removes this cap. Only movement from armor refinement is capped; other speed effects are untouched.</IsekaiFixes_ForgeCapHint>
   <IsekaiFixes_ForgeCost>Material cost per attempt</IsekaiFixes_ForgeCost>
   <IsekaiFixes_BalancePreset>Use recommended balance</IsekaiFixes_BalancePreset>
-  <IsekaiFixes_BalancePresetDesc>Role/combat enemies · 50% combat and movement bonuses · +20% total refinement movement cap · 2× materials. Does not reset colonist or pet choices.</IsekaiFixes_BalancePresetDesc>
-  <IsekaiFixes_BalanceUpstream>Use original enemy and refinement rules</IsekaiFixes_BalanceUpstream>
-  <IsekaiFixes_BalanceUpstreamDesc>Restores ISEKAI enemy generation and refinement effects/costs. Colonist and pet allocation settings are kept.</IsekaiFixes_BalanceUpstreamDesc>
+  <IsekaiFixes_BalancePresetDesc>Role/combat enemies · 50% level speed bonus · 12 cells/s pawn cap · 50% refinement bonuses · +20% refinement speed cap · 2× materials. Keeps personal allocation choices.</IsekaiFixes_BalancePresetDesc>
+  <IsekaiFixes_BalanceUpstream>Use original enemy, movement and refinement rules</IsekaiFixes_BalanceUpstream>
+  <IsekaiFixes_BalanceUpstreamDesc>Restores ISEKAI enemy generation, level speed bonus and refinement effects/costs; disables the pawn speed cap. Keeps personal allocation choices.</IsekaiFixes_BalanceUpstreamDesc>
 </LanguageData>

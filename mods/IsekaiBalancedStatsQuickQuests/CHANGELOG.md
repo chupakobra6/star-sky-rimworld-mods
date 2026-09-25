@@ -1,5 +1,15 @@
 # Changelog
 
+## 1.4.0 — High-level movement balance — 2026-09-25
+
+### Added
+- Adjustable ISEKAI level movement bonus: 0–100% of the original +0.005 cells/s per level. The recommended 50% setting adds +0.0025 cells/s per level, including for pawns already in a save.
+- Independent optional cap on the final movement speed of living ISEKAI pawns. It starts enabled at 12 cells/s and can be set from 5 to 30 cells/s or switched off. DEX, gear, genes and other speed effects contribute before this cap; pawns without ISEKAI stats are unaffected.
+
+### Changes
+- Recommended balance now includes both movement controls. Original rules restore the full level bonus and turn off the final cap without changing personal allocation choices or equipment levels.
+- The movement stat explanation uses the selected level bonus rate and shows the final speed limit. Settings are saved and restored with existing balance settings.
+
 ## 1.3.0 — Enemy builds and equipment balance — 2026-09-17
 
 ### Added
