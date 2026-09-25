@@ -3,7 +3,7 @@
   <name>Character Editor — русский перевод [Star Sky Mods]</name>
   <author>chupakobra6 | Star Sky Mods</author>
   <packageId>starsky.rimworld.ru.1874644848</packageId>
-  <modVersion>1.0.0</modVersion>
+  <modVersion>1.0.1</modVersion>
   <supportedVersions>
     <li>1.6</li>
   </supportedVersions>
@@ -12,11 +12,6 @@
       <packageId>void.charactereditor</packageId>
       <displayName>Character Editor</displayName>
       <steamWorkshopUrl>steam://url/CommunityFilePage/1874644848</steamWorkshopUrl>
-    </li>
-    <li>
-      <packageId>starsky.rimworld.charactereditor.fixes</packageId>
-      <displayName>Character Editor — Fixes</displayName>
-      <steamWorkshopUrl>steam://url/CommunityFilePage/3807830515</steamWorkshopUrl>
     </li>
     <li>
       <packageId>brrainz.harmony</packageId>
@@ -45,7 +40,9 @@ Character Editor позволяет редактировать персонаж�
 Откройте Character Editor при создании колонии или во время игры, выберите персонажа и нужный раздел редактирования.
 
 &lt;b&gt;СОВМЕСТИМОСТЬ&lt;/b&gt;
-Требуются Harmony (https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077), Character Editor (https://steamcommunity.com/sharedfiles/filedetails/?id=1874644848) и Character Editor — Fixes (https://steamcommunity.com/sharedfiles/filedetails/?id=3807830515). Порядок загрузки: Harmony → Character Editor → Character Editor — Fixes → этот перевод.
+Требуются Harmony (https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077) и Character Editor (https://steamcommunity.com/sharedfiles/filedetails/?id=1874644848). Порядок загрузки: Harmony → Character Editor → этот перевод.
+
+Необязательный Character Editor — Fixes (https://steamcommunity.com/sharedfiles/filedetails/?id=3807830515) рекомендуем тем, кто использует Character Editor также без этого перевода: он исправляет чтение имён и список генов размера тела независимо от языка. Сейчас фикс скрыт до доработки. Этот перевод самостоятельно включает оба исправления и работает без отдельного фикса.
 
 &lt;b&gt;ОБРАТНАЯ СВЯЗЬ&lt;/b&gt;
 Заметили ошибку или неточность? Напишите в комментариях на странице мода или на Boosty.

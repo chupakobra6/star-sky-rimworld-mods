@@ -23,6 +23,7 @@ namespace Igor.CharacterEditorRussian
         static Dictionary<string,string> russian;
         static readonly Dictionary<string,string[]> Names = new Dictionary<string,string[]>();
         static readonly Dictionary<FieldInfo,string> Fields = new Dictionary<FieldInfo,string>();
+        static Func<GeneDef,bool> isBodySizeGene;
         public static int AppliedFields { get; private set; }
         public static int TranslatedNames { get; private set; }
         public static bool Russian => LanguageDatabase.activeLanguage?.folderName.StartsWith("Russian", StringComparison.OrdinalIgnoreCase) == true;
@@ -68,6 +69,12 @@ namespace Igor.CharacterEditorRussian
                 Names[key]=ru;
             }
             var harmony=new Harmony("igor.ru.1874644848.editor");
+            var bodySizePredicate=AccessTools.Method("CharacterEditor.GeneTool+<>c:<get_ListBodySizeGenes>b__184_0");
+            var bodySizeCheck=AccessTools.Method("CharacterEditor.GeneTool:IsBodySizeGene");
+            if(bodySizePredicate==null || bodySizeCheck==null)
+                throw new InvalidOperationException("Character Editor body-size gene selector changed");
+            isBodySizeGene=(Func<GeneDef,bool>)Delegate.CreateDelegate(typeof(Func<GeneDef,bool>),bodySizeCheck);
+            harmony.Patch(bodySizePredicate,prefix:new HarmonyMethod(typeof(EditorText),nameof(BodySizeGene)));
             harmony.Patch(AccessTools.Method(label,"LangRU"),postfix:new HarmonyMethod(typeof(EditorText),nameof(ApplyFields)));
             harmony.Patch(AccessTools.Method(label,"AddNamesFromPath"),transpiler:new HarmonyMethod(typeof(EditorText),nameof(TranslateNameConstruction)));
             harmony.Patch(AccessTools.Method("CharacterEditor.HeadTool:GetHeadName"),postfix:new HarmonyMethod(typeof(EditorText),nameof(HeadName)));
@@ -77,6 +84,16 @@ namespace Igor.CharacterEditorRussian
         }
 
         internal static string Value(string key) => russian[Prefix+key];
+
+        // Russian GeneDef labels do not contain the English word "bodysize"
+        // used by Character Editor's original filter. Keep the translated
+        // gene list working even when the separate fixes mod is not installed.
+        public static bool BodySizeGene(GeneDef __0, ref bool __result)
+        {
+            if(!Russian)return true;
+            __result=isBodySizeGene(__0);
+            return false;
+        }
 
         static string[] ParseName(string raw)
         {
@@ -106,7 +123,8 @@ namespace Igor.CharacterEditorRussian
         public static IEnumerable<CodeInstruction> TranslateNameConstruction(IEnumerable<CodeInstruction> input)
         {
             var constructor=AccessTools.Constructor(typeof(NameTriple),new[]{typeof(string),typeof(string),typeof(string)});
-            int changed=0;
+            var decode=AccessTools.Method("CharacterEditor.Extension:AsStringUNICODE");
+            int changed=0,repaired=0;
             foreach(var original in input)
             {
                 var instruction=new CodeInstruction(original);
@@ -117,8 +135,19 @@ namespace Igor.CharacterEditorRussian
                     changed++;
                 }
                 yield return instruction;
+                if(instruction.Calls(decode))
+                {
+                    yield return new CodeInstruction(OpCodes.Call,AccessTools.Method(typeof(EditorText),nameof(RepairNameData)));
+                    repaired++;
+                }
             }
             if(changed!=1)throw new InvalidOperationException("Character Editor name construction changed: "+changed);
+            if(repaired!=1)throw new InvalidOperationException("Character Editor name decoder changed: "+repaired);
+        }
+
+        public static string RepairNameData(string text)
+        {
+            return Regex.Replace(text.TrimStart('\uFEFF'),@"(?m)^Is,,Retarded(?=\r?\nKai,,Henriksen;)","Is,,Retarded;");
         }
 
         public static void HeadName(ref string __result)

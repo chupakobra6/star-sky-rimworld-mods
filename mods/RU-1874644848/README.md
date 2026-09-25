@@ -21,12 +21,14 @@ Character Editor позволяет редактировать персонаж�
 ## Установка
 
 <!-- rimmods:readme installation begin -->
-1. Установите [Harmony](https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077), [Character Editor](https://steamcommunity.com/sharedfiles/filedetails/?id=1874644848) и [Character Editor — Fixes](https://steamcommunity.com/sharedfiles/filedetails/?id=3807830515).
-2. Включите моды в порядке: Harmony → Character Editor → Character Editor — Fixes → этот перевод.
+1. Установите [Harmony](https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077) и [Character Editor](https://steamcommunity.com/sharedfiles/filedetails/?id=1874644848).
+2. Включите моды в порядке: Harmony → Character Editor → этот перевод.
 3. Выберите русский язык в настройках RimWorld.
 <!-- rimmods:readme installation end -->
 
 Откройте Character Editor при создании колонии или во время игры, выберите персонажа и нужный раздел редактирования.
+
+[Character Editor — Fixes](https://steamcommunity.com/sharedfiles/filedetails/?id=3807830515) необязателен и сейчас скрыт до доработки. После его возвращения рекомендуем его тем, кто использует Character Editor также без этого перевода: он исправляет чтение имён и список генов размера тела независимо от языка. Этот перевод самостоятельно включает оба исправления и работает без отдельного фикса.
 
 ## Обратная связь
 

@@ -292,6 +292,6 @@ RimWorld 1.6 · Версия 1.0.0
 
 [![Character Editor — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/character-editor-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3807830501)
 
-RimWorld 1.6 · Версия 1.0.0
+RimWorld 1.6 · Версия 1.0.1
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3807830501) · [Исходники и руководство](../mods/RU-1874644848/README.md) · [История изменений](../mods/RU-1874644848/CHANGELOG.md) · [Лицензия](../mods/RU-1874644848/LICENSE) · [Источники и уведомления](../mods/RU-1874644848/NOTICES.md)
