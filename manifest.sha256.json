@@ -251,14 +251,6 @@
         "Assemblies/RU1874644848.dll"
       ],
       "licenseId": "CC-BY-SA-4.0"
-    },
-    {
-      "path": "mods/CharacterEditor-Fixes",
-      "workshopId": "3807830515",
-      "assemblies": [
-        "Assemblies/CharacterEditorFixes.dll"
-      ],
-      "licenseId": "MIT"
     }
   ],
   "files": [
@@ -269,8 +261,8 @@
     },
     {
       "path": "catalog/fixes.md",
-      "bytes": 963,
-      "sha256": "e277ddecb41da614711b36b673dd6724f210f47a54c79caee285caf3b77d620b"
+      "bytes": 197,
+      "sha256": "98e511f1b8060ed0047e2650d61685e723520f9956d72e87a31aa6f2b9685656"
     },
     {
       "path": "catalog/mods.md",
@@ -281,51 +273,6 @@
       "path": "catalog/translations.md",
       "bytes": 25893,
       "sha256": "db33cd8de903090c5eafac7839a91d910428ee48dc58d7c8784057d330e32de0"
-    },
-    {
-      "path": "mods/CharacterEditor-Fixes/About/About.xml",
-      "bytes": 2405,
-      "sha256": "8eb7592808f5f5bcccccef8c73b755ae30e066ac70b02ad0564295a86f4437e2"
-    },
-    {
-      "path": "mods/CharacterEditor-Fixes/About/Preview.png",
-      "bytes": 39038,
-      "sha256": "f47fcac1ba7678b11278fc4d0b757ad9f97b3f8559913bcb7d186a33268f2f9b"
-    },
-    {
-      "path": "mods/CharacterEditor-Fixes/About/PublishedFileId.txt",
-      "bytes": 11,
-      "sha256": "99361adcf4984af73fa8478fc86ee9236460db4cc496db708eff3d33f8881bb6"
-    },
-    {
-      "path": "mods/CharacterEditor-Fixes/Assemblies/CharacterEditorFixes.dll",
-      "bytes": 7168,
-      "sha256": "640921222d0d5b8b4f2b590b0e8e1256fd7435f362612f45d4fdd4d83dd2ade9"
-    },
-    {
-      "path": "mods/CharacterEditor-Fixes/CHANGELOG.md",
-      "bytes": 555,
-      "sha256": "999f9d5929ba09143199b486045657f37895b8b9f949c10b1c7448cc32166cbb"
-    },
-    {
-      "path": "mods/CharacterEditor-Fixes/LICENSE",
-      "bytes": 1068,
-      "sha256": "8a32425e028111706b44ae429746c725582435de638e3306dd98a4fa8861bff8"
-    },
-    {
-      "path": "mods/CharacterEditor-Fixes/NOTICES.md",
-      "bytes": 1932,
-      "sha256": "f35eb01f88bfa530644bfd72003040a399f050bde8533d54634ef47071098d0b"
-    },
-    {
-      "path": "mods/CharacterEditor-Fixes/README.md",
-      "bytes": 2903,
-      "sha256": "25bdc4e5ed261c61c272e1fd7c9849f9a252c6a96ee06446186623446fbb2a57"
-    },
-    {
-      "path": "mods/CharacterEditor-Fixes/Source/Fixes.cs",
-      "bytes": 2152,
-      "sha256": "9d0a6b326d75dd756908a64b622dd60064940452d8690df6a7e76d553e46ab37"
     },
     {
       "path": "mods/IsekaiBalancedStatsQuickQuests/1.6/Assemblies/IsekaiBalancedStatsQuickQuests.dll",
@@ -3165,7 +3112,7 @@
     {
       "path": "README.md",
       "bytes": 2829,
-      "sha256": "ebc9f4e3e8ab269e514b54624da5466d4f0c7672f05074854b55352429099226"
+      "sha256": "82df371ebeeb31090ae5650f0a3861bfbc25af965964ca01e9a4c4b3b3d9fb2c"
     }
   ]
 }

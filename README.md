@@ -10,7 +10,7 @@ Free RimWorld mods, fixes and Russian translations by **chupakobra6**.
 | :--- | ---: | :--- |
 | [Collections](catalog/collections.md) | 0 | Curated mod lists and ready-to-play setups. |
 | [Mods](catalog/mods.md) | 3 | Gameplay additions, balance and quality-of-life tools. |
-| [Fixes](catalog/fixes.md) | 1 | Focused bug fixes and compatibility patches. |
+| [Fixes](catalog/fixes.md) | 0 | Focused bug fixes and compatibility patches. |
 | [Русские переводы](catalog/translations.md) | 29 | Полные русские переводы модов RimWorld: интерфейс, настройки, подсказки и сообщения. |
 
 Only published releases appear here. Each category links to Workshop pages, source code and guides.
