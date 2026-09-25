@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VEF_XenophobicRage.label>ксенофобная ярость</VEF_XenophobicRage.label>
+  <VEF_XenophobicRage.baseInspectLine>Душевное состояние: ксенофобная ярость</VEF_XenophobicRage.baseInspectLine>
+  <VEF_XenophobicRage.beginLetter>{0} испытывает ксенофобную ярость.
+
+Теперь [PAWN_pronoun] намеревается убить {1}.</VEF_XenophobicRage.beginLetter>
+  <VEF_XenophobicRage.recoveryMessage>{0} больше не испытывает ксенофобной ярости.</VEF_XenophobicRage.recoveryMessage>
+</LanguageData>

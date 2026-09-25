@@ -1,0 +1,7 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VEF_SecondaryAcidBurn.label>химический ожог</VEF_SecondaryAcidBurn.label>
+  <VEF_SecondaryAcidBurn.deathMessage>{0} {PAWN_gender ? погиб : погибла} от разъедающей кислоты.</VEF_SecondaryAcidBurn.deathMessage>
+  <VEF_PermanentBurn.label>необратимый ожог</VEF_PermanentBurn.label>
+  <VEF_PermanentBurn.deathMessage>{0} {PAWN_gender ? погиб : погибла} от ожогов.</VEF_PermanentBurn.deathMessage>
+</LanguageData>

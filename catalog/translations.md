@@ -225,3 +225,73 @@ RimWorld 1.6 · Версия 1.0.0
 RimWorld 1.6 · Версия 1.0.0
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3804220779) · [Исходники и руководство](../mods/RU-2972540973/README.md) · [История изменений](../mods/RU-2972540973/CHANGELOG.md) · [Лицензия](../mods/RU-2972540973/LICENSE) · [Источники и уведомления](../mods/RU-2972540973/NOTICES.md)
+
+## RimHUD — русский перевод
+
+Русский перевод RimHUD: информационная панель, предупреждения, настройки макета и подсказки.
+
+[![RimHUD — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/rimhud-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3807814388)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3807814388) · [Исходники и руководство](../mods/RU-1508850027/README.md) · [История изменений](../mods/RU-1508850027/CHANGELOG.md) · [Лицензия](../mods/RU-1508850027/LICENSE) · [Источники и уведомления](../mods/RU-1508850027/NOTICES.md)
+
+## Vanilla Furniture Expanded — русский перевод
+
+Русский перевод Vanilla Furniture Expanded: мебель, исследования, сообщения и строки из кода.
+
+[![Vanilla Furniture Expanded — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/vanilla-furniture-expanded-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3807814430)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3807814430) · [Исходники и руководство](../mods/RU-1718190143/README.md) · [История изменений](../mods/RU-1718190143/CHANGELOG.md) · [Лицензия](../mods/RU-1718190143/LICENSE) · [Источники и уведомления](../mods/RU-1718190143/NOTICES.md)
+
+## Humanoid Alien Races — русский перевод
+
+Русский перевод Humanoid Alien Races: настройки рас, определения и сообщения.
+
+[![Humanoid Alien Races — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/humanoid-alien-races-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3807814478)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3807814478) · [Исходники и руководство](../mods/RU-839005762/README.md) · [История изменений](../mods/RU-839005762/CHANGELOG.md) · [Лицензия](../mods/RU-839005762/LICENSE) · [Источники и уведомления](../mods/RU-839005762/NOTICES.md)
+
+## Map Preview — русский перевод
+
+Русский перевод Map Preview: настройки предпросмотра, панель инструментов и сообщения карты мира.
+
+[![Map Preview — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/map-preview-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3807814502)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3807814502) · [Исходники и руководство](../mods/RU-2800857642/README.md) · [История изменений](../mods/RU-2800857642/CHANGELOG.md) · [Лицензия](../mods/RU-2800857642/LICENSE) · [Источники и уведомления](../mods/RU-2800857642/NOTICES.md)
+
+## Vanilla Furniture Expanded - Security — русский перевод
+
+Русский перевод Vanilla Furniture Expanded - Security: защитные постройки, исследования и сообщения.
+
+[![Vanilla Furniture Expanded - Security — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/vanilla-furniture-expanded-security-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3807814514)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3807814514) · [Исходники и руководство](../mods/RU-1845154007/README.md) · [История изменений](../mods/RU-1845154007/CHANGELOG.md) · [Лицензия](../mods/RU-1845154007/LICENSE) · [Источники и уведомления](../mods/RU-1845154007/NOTICES.md)
+
+## Vanilla Expanded Framework — русский перевод
+
+Русский перевод Vanilla Expanded Framework: добавление фракций, определения, настройки и строки интерфейса.
+
+[![Vanilla Expanded Framework — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/vanilla-expanded-framework-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3807830484)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3807830484) · [Исходники и руководство](../mods/RU-2023507013/README.md) · [История изменений](../mods/RU-2023507013/CHANGELOG.md) · [Лицензия](../mods/RU-2023507013/LICENSE) · [Источники и уведомления](../mods/RU-2023507013/NOTICES.md)
+
+## Character Editor — русский перевод
+
+Русский перевод Character Editor: окна, настройки и команды редактора персонажей.
+
+[![Character Editor — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/character-editor-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3807830501)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3807830501) · [Исходники и руководство](../mods/RU-1874644848/README.md) · [История изменений](../mods/RU-1874644848/CHANGELOG.md) · [Лицензия](../mods/RU-1874644848/LICENSE) · [Источники и уведомления](../mods/RU-1874644848/NOTICES.md)

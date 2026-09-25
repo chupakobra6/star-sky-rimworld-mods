@@ -1,0 +1,57 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <HAR_EatingAliens_Abhorrent.label>отвратительно</HAR_EatingAliens_Abhorrent.label>
+  <HAR_EatingAliens_Abhorrent.description>Есть плоть другого разумного вида немыслимо отвратительно, даже во время голода.</HAR_EatingAliens_Abhorrent.description>
+  <HAR_EatingAliens_Disapproved.label>не одобряется</HAR_EatingAliens_Disapproved.label>
+  <HAR_EatingAliens_Disapproved.description>Плоть другого разумного вида можно есть только в самых тяжёлых обстоятельствах.</HAR_EatingAliens_Disapproved.description>
+  <HAR_EatingAliens_Acceptable.label>допустимо</HAR_EatingAliens_Acceptable.label>
+  <HAR_EatingAliens_Acceptable.description>Мясо иной расы ничем не отличается от мяса муффало.</HAR_EatingAliens_Acceptable.description>
+  <HAR_EatingAliens_Preferred.label>предпочтительно</HAR_EatingAliens_Preferred.label>
+  <HAR_EatingAliens_Preferred.description>Мясо иных рас богато важными питательными веществами и калориями. Нет особых причин отказываться от него.</HAR_EatingAliens_Preferred.description>
+  <HAR_EatingAliens_Preferred.comps.1.description>Без мяса иных рас несколько дней</HAR_EatingAliens_Preferred.comps.1.description>
+  <HAR_EatingAliens_RequiredStrong.label>обязательно</HAR_EatingAliens_RequiredStrong.label>
+  <HAR_EatingAliens_RequiredStrong.description>Мясо иных рас предпочтительнее мяса любого неразумного существа. Его регулярное употребление следует поощрять.</HAR_EatingAliens_RequiredStrong.description>
+  <HAR_EatingAliens_RequiredStrong.comps.3.description>Без мяса иных рас в течение {HUMANMEATREQUIREDINTERVAL} дн.</HAR_EatingAliens_RequiredStrong.comps.3.description>
+  <HAR_AlienDating_Prohibited.label>запрещено</HAR_AlienDating_Prohibited.label>
+  <HAR_AlienDating_Prohibited.description>Романтические отношения с представителями иных рас совершенно недопустимы. Одна мысль о совокуплении с ними вызывает отвращение.</HAR_AlienDating_Prohibited.description>
+  <HAR_AlienDating_Horrible.label>ужасно</HAR_AlienDating_Horrible.label>
+  <HAR_AlienDating_Horrible.description>Мысль о связи с представителем иной расы нелепа. Есть множество причин даже не рассматривать такую возможность.</HAR_AlienDating_Horrible.description>
+  <HAR_AlienDating_Horrible.comps.1.description>Отношения с представителем иной расы</HAR_AlienDating_Horrible.comps.1.description>
+  <HAR_AlienDating_Acceptable.label>допустимо</HAR_AlienDating_Acceptable.label>
+  <HAR_AlienDating_Acceptable.description>Если с представителем иной расы хорошо вместе, почему романтические отношения должны быть исключены?</HAR_AlienDating_Acceptable.description>
+  <HAR_AlienDating_Preferred.label>предпочтительно</HAR_AlienDating_Preferred.label>
+  <HAR_AlienDating_Preferred.description>Роман с представителем иной расы может стать увлекательной переменой в жизни. Такие отношения следует поощрять.</HAR_AlienDating_Preferred.description>
+  <HAR_AlienDating_Honorable.label>почётно</HAR_AlienDating_Honorable.label>
+  <HAR_AlienDating_Honorable.description>Любовь и преданность представителю иной расы дарят необычные и волнующие переживания. Тех, кто выбирает такие отношения, стоит уважать за открытость новому.</HAR_AlienDating_Honorable.description>
+  <HAR_AlienRaces_Abhorrent.label>отвратительно</HAR_AlienRaces_Abhorrent.label>
+  <HAR_AlienRaces_Abhorrent.description>Чужаки не должны даже помышлять о дружбе с нами. Они желают лишь нашей гибели, и мы не потерпим их рядом.</HAR_AlienRaces_Abhorrent.description>
+  <HAR_AlienRaces_Horrible.label>неприязнь</HAR_AlienRaces_Horrible.label>
+  <HAR_AlienRaces_Horrible.description>Чужаки отличаются от нас — слишком сильно. Нужно быть начеку и держать их на расстоянии.</HAR_AlienRaces_Horrible.description>
+  <HAR_AlienRaces_Standard.label>нейтральное</HAR_AlienRaces_Standard.label>
+  <HAR_AlienRaces_Standard.description>Чужаки из иных миров не хуже и не лучше нас.</HAR_AlienRaces_Standard.description>
+  <HAR_AlienRaces_Respected.label>уважение</HAR_AlienRaces_Respected.label>
+  <HAR_AlienRaces_Respected.description>Чужаки из-за пределов нашего родного мира заслуживают восхищения.</HAR_AlienRaces_Respected.description>
+  <HAR_AlienRaces_Exalted.label>почитание</HAR_AlienRaces_Exalted.label>
+  <HAR_AlienRaces_Exalted.description>Чужаки из-за пределов нашей звёздной системы удивительны. Для нас большая честь быть их радушными хозяевами.</HAR_AlienRaces_Exalted.description>
+  <HAR_AlienSlavery_Abhorrent.label>отвратительно</HAR_AlienSlavery_Abhorrent.label>
+  <HAR_AlienSlavery_Abhorrent.description>Владеть представителями иных рас или торговать ими — великое зло.</HAR_AlienSlavery_Abhorrent.description>
+  <HAR_AlienSlavery_Abhorrent.comps.0.description>Каждый раб иной расы в поселении</HAR_AlienSlavery_Abhorrent.comps.0.description>
+  <HAR_AlienSlavery_Abhorrent.comps.5.description>Продажа раба иной расы</HAR_AlienSlavery_Abhorrent.comps.5.description>
+  <HAR_AlienSlavery_Horrible.label>ужасно</HAR_AlienSlavery_Horrible.label>
+  <HAR_AlienSlavery_Horrible.description>Владеть представителями иных рас или торговать ими ужасно.</HAR_AlienSlavery_Horrible.description>
+  <HAR_AlienSlavery_Horrible.comps.0.description>Каждый раб иной расы в поселении</HAR_AlienSlavery_Horrible.comps.0.description>
+  <HAR_AlienSlavery_Horrible.comps.5.description>Продажа раба иной расы</HAR_AlienSlavery_Horrible.comps.5.description>
+  <HAR_AlienSlavery_Horrible.comps.6.description>Обращение пленника иной расы в рабство</HAR_AlienSlavery_Horrible.comps.6.description>
+  <HAR_AlienSlavery_Disapproved.label>не одобряется</HAR_AlienSlavery_Disapproved.label>
+  <HAR_AlienSlavery_Disapproved.description>Рабство иных рас — часть жизни, пусть и крайне неприятная.</HAR_AlienSlavery_Disapproved.description>
+  <HAR_AlienSlavery_Disapproved.comps.0.description>Каждый раб иной расы в поселении</HAR_AlienSlavery_Disapproved.comps.0.description>
+  <HAR_AlienSlavery_Disapproved.comps.5.description>Продажа раба иной расы</HAR_AlienSlavery_Disapproved.comps.5.description>
+  <HAR_AlienSlavery_Disapproved.comps.6.description>Обращение пленника иной расы в рабство</HAR_AlienSlavery_Disapproved.comps.6.description>
+  <HAR_AlienSlavery_Acceptable.label>допустимо</HAR_AlienSlavery_Acceptable.label>
+  <HAR_AlienSlavery_Acceptable.description>Рабство иных рас — обычная, ничем не примечательная часть жизни.</HAR_AlienSlavery_Acceptable.description>
+  <HAR_AlienSlavery_Honorable.label>почётно</HAR_AlienSlavery_Honorable.label>
+  <HAR_AlienSlavery_Honorable.description>Тот, кто владеет рабами иных рас и торгует ими, заслуживает почёта и уважения.</HAR_AlienSlavery_Honorable.description>
+  <HAR_AlienSlavery_Honorable.comps.0.description>Каждый раб иной расы в поселении</HAR_AlienSlavery_Honorable.comps.0.description>
+  <HAR_AlienSlavery_Honorable.comps.6.description>Продажа раба иной расы</HAR_AlienSlavery_Honorable.comps.6.description>
+  <HAR_AlienSlavery_Honorable.comps.7.description>Обращение пленника иной расы в рабство</HAR_AlienSlavery_Honorable.comps.7.description>
+</LanguageData>

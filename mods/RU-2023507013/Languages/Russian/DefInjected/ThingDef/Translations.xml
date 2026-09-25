@@ -1,0 +1,34 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFEA_AbilityFlyer.label>летит</VFEA_AbilityFlyer.label>
+  <VFEA_AbilityFlyer_Charge.label>летит</VFEA_AbilityFlyer_Charge.label>
+  <KCSG_PowerConduit.label>силовой кабель</KCSG_PowerConduit.label>
+  <KCSG_PowerConduit.description>Проложенный под землёй пучок электрических кабелей для передачи энергии.</KCSG_PowerConduit.description>
+  <VEF_FlintlockSmoke.label>частица</VEF_FlintlockSmoke.label>
+  <KCSG_LongMote_DustPuff.label>частица</KCSG_LongMote_DustPuff.label>
+  <Mote_Firetrail.label>частица</Mote_Firetrail.label>
+  <Mote_Smoketrail.label>частица</Mote_Smoketrail.label>
+  <Mote_FTSmoketrail.label>частица</Mote_FTSmoketrail.label>
+  <Mote_GreenSmoketrail.label>частица</Mote_GreenSmoketrail.label>
+  <VEF_OutpostDeliverySpot.label>точка доставки из аванпостов</VEF_OutpostDeliverySpot.label>
+  <VEF_OutpostDeliverySpot.description>Отмечает место, куда доставляется продукция аванпостов.</VEF_OutpostDeliverySpot.description>
+  <VPEF_MinifiedFlower.label>цветок для пересадки</VPEF_MinifiedFlower.label>
+  <Blueprint_VEF_NullTerrain.label>пустая поверхность (проект)</Blueprint_VEF_NullTerrain.label>
+  <Frame_VEF_NullTerrain.label>пустая поверхность (в процессе сборки)</Frame_VEF_NullTerrain.label>
+  <Frame_VEF_NullTerrain.description>Покрытие в процессе строительства.</Frame_VEF_NullTerrain.description>
+  <Frame_VEF_PrefabBorderWhite.description>Покрытие в процессе строительства.</Frame_VEF_PrefabBorderWhite.description>
+  <Frame_VEF_PrefabBorderRed.description>Покрытие в процессе строительства.</Frame_VEF_PrefabBorderRed.description>
+  <Frame_VEF_PrefabBorderGreen.description>Покрытие в процессе строительства.</Frame_VEF_PrefabBorderGreen.description>
+  <Frame_VEF_PrefabBorderBlue.description>Покрытие в процессе строительства.</Frame_VEF_PrefabBorderBlue.description>
+  <Frame_VEF_PrefabBorderYellow.description>Покрытие в процессе строительства.</Frame_VEF_PrefabBorderYellow.description>
+  <Blueprint_VEF_PrefabBorderWhite.label>граница заготовки (белая) (проект)</Blueprint_VEF_PrefabBorderWhite.label>
+  <Frame_VEF_PrefabBorderWhite.label>граница заготовки (белая) (в процессе сборки)</Frame_VEF_PrefabBorderWhite.label>
+  <Blueprint_VEF_PrefabBorderRed.label>граница заготовки (красная) (проект)</Blueprint_VEF_PrefabBorderRed.label>
+  <Frame_VEF_PrefabBorderRed.label>граница заготовки (красная) (в процессе сборки)</Frame_VEF_PrefabBorderRed.label>
+  <Blueprint_VEF_PrefabBorderGreen.label>граница заготовки (зелёная) (проект)</Blueprint_VEF_PrefabBorderGreen.label>
+  <Frame_VEF_PrefabBorderGreen.label>граница заготовки (зелёная) (в процессе сборки)</Frame_VEF_PrefabBorderGreen.label>
+  <Blueprint_VEF_PrefabBorderBlue.label>граница заготовки (синяя) (проект)</Blueprint_VEF_PrefabBorderBlue.label>
+  <Frame_VEF_PrefabBorderBlue.label>граница заготовки (синяя) (в процессе сборки)</Frame_VEF_PrefabBorderBlue.label>
+  <Blueprint_VEF_PrefabBorderYellow.label>граница заготовки (жёлтая) (проект)</Blueprint_VEF_PrefabBorderYellow.label>
+  <Frame_VEF_PrefabBorderYellow.label>граница заготовки (жёлтая) (в процессе сборки)</Frame_VEF_PrefabBorderYellow.label>
+</LanguageData>

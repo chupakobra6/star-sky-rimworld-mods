@@ -1,0 +1,6 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFE_IdeoFloatMenuPlus.description>Расширяет меню на экране создания идеолигии, добавляя поиск и полосы прокрутки. Используется в VE Memes и Alpha Memes.</VFE_IdeoFloatMenuPlus.description>
+  <VFE_WeaponTraitDefMechanics.description>Добавляет расширение определений WeaponTraitDef, позволяющее задавать новые уникальные механики оружия.</VFE_WeaponTraitDefMechanics.description>
+  <VFE_TileMutatorMechanics.description>Добавляет расширение TileMutatorExtension для новых механик особенностей местности в Odyssey.</VFE_TileMutatorMechanics.description>
+</LanguageData>

@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <HAR.BodyAddons>Дополнительные части тела</HAR.BodyAddons>
+  <HAR.CharacterFeatures>Особенности персонажа</HAR.CharacterFeatures>
+  <HAR.Colors>Цвета</HAR.Colors>
+  <HAR.FirstColor>первый цвет</HAR.FirstColor>
+  <HAR.HairOneInfo>Этот цвет зависит от основного цвета волос. Чтобы изменить его, измените цвет волос поселенца.</HAR.HairOneInfo>
+  <HAR.LinkText>~{0}: {1}</HAR.LinkText>
+  <HAR.LinkedFrom>Источник цвета:</HAR.LinkedFrom>
+  <HAR.LinkedTo>Передаёт цвет:</HAR.LinkedTo>
+  <HAR.MatchSkinColor>Подбирать под цвет кожи</HAR.MatchSkinColor>
+  <HAR.NoAddonsForList>Нет настраиваемых дополнительных частей тела</HAR.NoAddonsForList>
+  <HAR.NoColorsForList>Настраиваемые цвета не найдены</HAR.NoColorsForList>
+  <HAR.Options.RandomizeStartingPawns_Label>Полностью менять стартового персонажа при повторной генерации</HAR.Options.RandomizeStartingPawns_Label>
+  <HAR.Options.RandomizeStartingPawns_Tooltip>Вкл.: при повторной генерации стартового персонажа можно изменить все параметры.
+Выкл.: настройки сохраняются, меняются только детали.</HAR.Options.RandomizeStartingPawns_Tooltip>
+  <HAR.Options.TextureLoadingLogs_Label>Отображать журнал загрузки текстур</HAR.Options.TextureLoadingLogs_Label>
+  <HAR.Options.TextureLoadingLogs_Tooltip>Вкл.: при запуске выводится журнал загрузки текстур.
+Выкл.: журнал загрузки текстур и подробные сведения не выводятся.
+Предназначено для разработки и отладки модов рас.</HAR.Options.TextureLoadingLogs_Tooltip>
+  <HAR.OutfitStandBodyCommandDesc>Изменить отображаемое тело.
+Это может изменить доступную одежду.</HAR.OutfitStandBodyCommandDesc>
+  <HAR.OutfitStandHeadCommandDesc>Изменить отображаемую голову.</HAR.OutfitStandHeadCommandDesc>
+  <HAR.OutfitStandRaceCommandDesc>Изменить отображаемую расу.
+Это может изменить доступную одежду.</HAR.OutfitStandRaceCommandDesc>
+  <HAR.RaceFeatures>Расовые особенности</HAR.RaceFeatures>
+  <HAR.RandomizeColors>Выбрать случайно</HAR.RandomizeColors>
+  <HAR.ReproductionNotAllowed>{genderOne} {raceOne} не может размножаться с {genderTwo} {raceTwo}</HAR.ReproductionNotAllowed>
+  <HAR.SecondColor>второй цвет</HAR.SecondColor>
+  <HAR.StartingHumanlikesScenPart.Label>Стартовые гуманоиды</HAR.StartingHumanlikesScenPart.Label>
+  <HAR.StartingRace>Расовое ограничение: {0}</HAR.StartingRace>
+  <HAR.StartingRaceDescription>Ограничивает случайный выбор указанной инопланетной расой.</HAR.StartingRaceDescription>
+</LanguageData>

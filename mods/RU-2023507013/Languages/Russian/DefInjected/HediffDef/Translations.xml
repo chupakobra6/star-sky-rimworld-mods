@@ -1,0 +1,52 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VEF_PermanentBurn.label>шрам от ожога</VEF_PermanentBurn.label>
+  <VEF_PermanentBurn.description>Постоянный шрам от ожога, не поддающийся лечению.</VEF_PermanentBurn.description>
+  <VEF_PermanentBurn.comps.HediffComp_GetsPermanent.permanentLabel>шрам от ожога</VEF_PermanentBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <VEF_PermanentBurn.labelNoun>шрам от ожога</VEF_PermanentBurn.labelNoun>
+  <VEF_PermanentBurn.labelNounPretty>{0}: {1}</VEF_PermanentBurn.labelNounPretty>
+  <VEF_AcidBurn.labelNounPretty>{0}: {1}</VEF_AcidBurn.labelNounPretty>
+  <VEF_AcidBuildup.label>химический ожог</VEF_AcidBuildup.label>
+  <VEF_AcidBurn.label>химический ожог</VEF_AcidBurn.label>
+  <VEF_AcidBuildup.description>Попавшая на тело кислота продолжает вызывать ожоги ещё долгое время после атаки.</VEF_AcidBuildup.description>
+  <VEF_AcidBuildup.stages.minor_receiving_burns.label>лёгкий, разъедает</VEF_AcidBuildup.stages.minor_receiving_burns.label>
+  <VEF_AcidBuildup.stages.moderate_receiving_burns.label>средний, разъедает</VEF_AcidBuildup.stages.moderate_receiving_burns.label>
+  <VEF_AcidBuildup.stages.serious_receiving_burns.label>серьёзный, разъедает</VEF_AcidBuildup.stages.serious_receiving_burns.label>
+  <VEF_AcidBurn.description>Химический ожог.</VEF_AcidBurn.description>
+  <VEF_AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>шрам от химического ожога</VEF_AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <VEF_AcidBurn.labelNoun>химический ожог</VEF_AcidBurn.labelNoun>
+  <VEF_LightSustenance.label>освещённость</VEF_LightSustenance.label>
+  <VEF_LightSustenance.description>Это существо питается солнечным светом. Недостаточная освещённость приведёт к его гибели.</VEF_LightSustenance.description>
+  <VEF_LightSustenance.stages.adequate_light.label>достаточная освещённость</VEF_LightSustenance.stages.adequate_light.label>
+  <VEF_LightSustenance.stages.poor_light_levels.label>низкая освещённость</VEF_LightSustenance.stages.poor_light_levels.label>
+  <VEF_LightSustenance.stages.very_low_light_levels.label>очень низкая освещённость</VEF_LightSustenance.stages.very_low_light_levels.label>
+  <VEF_LightSustenance.stages.lack_of_sunlight.label>нехватка света</VEF_LightSustenance.stages.lack_of_sunlight.label>
+  <VEF_LightSustenance.stages.extreme_lack_of_sustenance.label>критическая нехватка света</VEF_LightSustenance.stages.extreme_lack_of_sustenance.label>
+  <VEF_ToxicBuildup.label>отравление токсинами</VEF_ToxicBuildup.label>
+  <VEF_ToxicBuildup.description>Токсины в кровотоке. Они могут попасть в организм из окружающей среды, при ядовитом укусе или ранении отравленным оружием.
+
+В больших дозах отравление смертельно. Даже малые дозы способны вызвать рак.
+
+В отличие от обычного токсического отравления, этот эффект не делает мясо погибшего существа несъедобным.</VEF_ToxicBuildup.description>
+  <VEF_ToxicBuildup.stages.initial-0.label>незаметное</VEF_ToxicBuildup.stages.initial-0.label>
+  <VEF_ToxicBuildup.stages.initial-1.label>начальное</VEF_ToxicBuildup.stages.initial-1.label>
+  <VEF_ToxicBuildup.stages.minor.label>лёгкое</VEF_ToxicBuildup.stages.minor.label>
+  <VFEP_HypothermicSlowdown.stages.minor-1.label>лёгкое</VFEP_HypothermicSlowdown.stages.minor-1.label>
+  <VEF_ToxicBuildup.stages.moderate.label>среднее</VEF_ToxicBuildup.stages.moderate.label>
+  <VFEP_HypothermicSlowdown.stages.moderate.label>среднее</VFEP_HypothermicSlowdown.stages.moderate.label>
+  <VEF_ToxicBuildup.stages.serious.label>серьёзное</VEF_ToxicBuildup.stages.serious.label>
+  <VFEP_HypothermicSlowdown.stages.serious.label>серьёзное</VFEP_HypothermicSlowdown.stages.serious.label>
+  <VEF_ToxicBuildup.stages.extreme.label>крайнее</VEF_ToxicBuildup.stages.extreme.label>
+  <VFEP_HypothermicSlowdown.stages.extreme.label>крайнее</VFEP_HypothermicSlowdown.stages.extreme.label>
+  <VFEP_HypothermicSlowdown.label>замедление от переохлаждения</VFEP_HypothermicSlowdown.label>
+  <VFEP_HypothermicSlowdown.description>Опасно низкая температура тела. Если существо не согреть, замедление от переохлаждения будет усиливаться и приведёт к смерти. После согревания восстановление происходит быстро.</VFEP_HypothermicSlowdown.description>
+  <VFEP_HypothermicSlowdown.stages.minor-0.label>начальное</VFEP_HypothermicSlowdown.stages.minor-0.label>
+  <VEF_Kamikaze.label>внезапная детонация</VEF_Kamikaze.label>
+  <VEF_Kamikaze.description>Бум.</VEF_Kamikaze.description>
+  <VEF_Kamikaze.stages.initialhidden.label>скрытая фаза</VEF_Kamikaze.stages.initialhidden.label>
+  <VEF_Kamikaze.stages.critical.label>критическая</VEF_Kamikaze.stages.critical.label>
+  <VEF_ControlledInvisibility.label>невидимость</VEF_ControlledInvisibility.label>
+  <VEF_ControlledInvisibility.description>Управляемая невидимость скрывает существо от глаз.</VEF_ControlledInvisibility.description>
+  <VEF_StillbornAnimal.label>мертворождение</VEF_StillbornAnimal.label>
+  <VEF_StillbornAnimal.description>Животное погибло из-за неустановленных осложнений во время беременности.</VEF_StillbornAnimal.description>
+</LanguageData>

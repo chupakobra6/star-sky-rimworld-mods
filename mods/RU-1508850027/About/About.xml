@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModMetaData>
+  <name>RimHUD — русский перевод [Star Sky Mods]</name>
+  <author>chupakobra6 | Star Sky Mods</author>
+  <packageId>starsky.rimworld.ru.1508850027</packageId>
+  <modVersion>1.0.0</modVersion>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>jaxe.rimhud</packageId>
+      <displayName>RimHUD</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/1508850027</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>jaxe.rimhud</li>
+  </loadAfter>
+  <description>Русский перевод RimHUD (https://steamcommunity.com/sharedfiles/filedetails/?id=1508850027) для RimWorld 1.6. Оригинальный мод устанавливается отдельно.
+
+Переведены подписи информационной панели, предупреждения о состоянии персонажа, редактор макета и подсказки по настройке. RimHUD показывает подробные сведения о выбранном персонаже или животном прямо в панели осмотра либо в отдельном перемещаемом окне.
+
+&lt;b&gt;ЧТО ПЕРЕВЕДЕНО&lt;/b&gt;
+Переведены тексты мода с учётом окончаний и согласования слов.
+
+• Показатели персонажа, шкалы потребностей и предупреждения о здоровье и настроении.
+• Настройки оформления, слоёв и пользовательских пресетов панели.
+• Подсказки и команды управления панелью.
+
+&lt;b&gt;КАК ПОЛЬЗОВАТЬСЯ&lt;/b&gt;
+Выберите русский язык в настройках RimWorld.
+
+Выберите персонажа и наведите указатель на панель осмотра. Кнопка с шестерёнкой открывает настройки RimHUD, где можно изменить содержимое и расположение панели.
+
+&lt;b&gt;СОВМЕСТИМОСТЬ&lt;/b&gt;
+Требуются Harmony (https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077) и RimHUD (https://steamcommunity.com/sharedfiles/filedetails/?id=1508850027). Порядок загрузки: Harmony → оригинальный мод → этот перевод.
+
+&lt;b&gt;ОБРАТНАЯ СВЯЗЬ&lt;/b&gt;
+Заметили ошибку или неточность? Напишите в комментариях на странице мода или на Boosty.
+
+Автор оригинального мода: Jaxe.
+
+Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.</description>
+</ModMetaData>

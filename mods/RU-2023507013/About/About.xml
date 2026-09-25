@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModMetaData>
+  <name>Vanilla Expanded Framework — русский перевод [Star Sky Mods]</name>
+  <author>chupakobra6 | Star Sky Mods</author>
+  <packageId>starsky.rimworld.ru.2023507013</packageId>
+  <modVersion>1.0.0</modVersion>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>oskarpotocki.vanillafactionsexpanded.core</packageId>
+      <displayName>Vanilla Expanded Framework</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2023507013</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>oskarpotocki.vanillafactionsexpanded.core</li>
+    <li>ow.ru.core</li>
+    <li>ow.ru.plants</li>
+  </loadAfter>
+  <description>Русский перевод Vanilla Expanded Framework (https://steamcommunity.com/sharedfiles/filedetails/?id=2023507013) для RimWorld 1.6. Оригинальный мод устанавливается отдельно.
+
+Vanilla Expanded Framework — общая библиотека для модов серии Vanilla Expanded. Она объединяет их функции, в том числе создание баз, настройку осад, переработку предметов и добавление фракций в существующее сохранение. Перевод охватывает видимые игроку названия, сообщения и настройки этих систем.
+
+&lt;b&gt;ЧТО ПЕРЕВЕДЕНО&lt;/b&gt;
+Переведены игровые тексты оригинального мода.
+
+• Окно добавления фракций, выбор поселений и сообщения об отношениях с фракциями.
+• Названия и описания способностей, характеристик, щитов и других определений.
+• Настройки связанных систем и строки интерфейса, встроенные в код.
+
+&lt;b&gt;КАК ПОЛЬЗОВАТЬСЯ&lt;/b&gt;
+Выберите русский язык в настройках RimWorld.
+
+При использовании модов серии Vanilla Expanded перевод отображает тексты их общей библиотеки. Если новая фракция добавлена к существующему сохранению, в окне Vanilla Expanded Framework можно выбрать её появление на карте мира.
+
+&lt;b&gt;СОВМЕСТИМОСТЬ&lt;/b&gt;
+Требуются Harmony (https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077) и Vanilla Expanded Framework (https://steamcommunity.com/sharedfiles/filedetails/?id=2023507013). Порядок загрузки: Harmony → оригинальный мод → этот перевод.
+
+&lt;b&gt;ОБРАТНАЯ СВЯЗЬ&lt;/b&gt;
+Заметили ошибку или неточность? Напишите в комментариях на странице мода или на Boosty.
+
+Авторы оригинального мода: Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson, Erdelf.
+
+Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.</description>
+</ModMetaData>

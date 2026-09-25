@@ -1,0 +1,19 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VEF_ControlledBlinking.label>управляемый скачок</VEF_ControlledBlinking.label>
+  <VEF_ControlledBlinking.description>Позволяет направить обычные хаотичные скачки существа в выбранную точку в пределах досягаемости.</VEF_ControlledBlinking.description>
+  <VEF_CycleSeverance.label>подавление размножения</VEF_CycleSeverance.label>
+  <VEF_CycleSeverance.description>Подавление естественного цикла размножения, предотвращающее появление потомства и полностью блокирующее бесполое размножение существа.</VEF_CycleSeverance.description>
+  <VEF_ControlledDetonation.label>управляемый подрыв</VEF_ControlledDetonation.label>
+  <VEF_ControlledDetonation.description>Животное можно научить по команде взрывать все накопленные нестабильные соединения. Этот разрушительный взрыв станет его последним действием: животное погибнет.</VEF_ControlledDetonation.description>
+  <VEF_ControlledInvisibility.label>управляемая невидимость</VEF_ControlledInvisibility.label>
+  <VEF_ControlledInvisibility.description>Животное можно научить становиться невидимым, сохраняя восприятие окружающего мира и точность действий.</VEF_ControlledInvisibility.description>
+  <VEF_Beastmastery.label>власть над зверем</VEF_Beastmastery.label>
+  <VEF_Beastmastery.description>Дрессировка и крепкая связь, основанная на подчинении и доверии, позволяют напрямую управлять передвижением и действиями животного.</VEF_Beastmastery.description>
+  <VEF_ControlledCorpseDecay.label>контроль разложения трупов</VEF_ControlledCorpseDecay.label>
+  <VEF_ControlledCorpseDecay.description>Животное обучается контролировать свои способности к разложению трупов.</VEF_ControlledCorpseDecay.description>
+  <VEF_DiggingDiscipline.label>управление рытьём</VEF_DiggingDiscipline.label>
+  <VEF_DiggingDiscipline.description>Животное обучается контролировать свои способности к раскапыванию местности.</VEF_DiggingDiscipline.description>
+  <VEF_FumeRegulation.label>контроль выделения газов</VEF_FumeRegulation.label>
+  <VEF_FumeRegulation.description>Животное обучается контролировать свои способности к выделению газов.</VEF_FumeRegulation.description>
+</LanguageData>

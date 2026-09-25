@@ -1,0 +1,147 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Numbers_RimWorld_StatDef_VEF_EnergyShieldEnergyMaxBuilding.label>Максимальная энергия щита</Numbers_RimWorld_StatDef_VEF_EnergyShieldEnergyMaxBuilding.label>
+  <Numbers_RimWorld_StatDef_VEF_EnergyShieldEnergyMaxBuilding.headerTip>Максимальный запас энергии щита. Чем он больше, тем больше урона щит может поглотить.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Зажмите левую кнопку и перетащите его для перемещения.</Numbers_RimWorld_StatDef_VEF_EnergyShieldEnergyMaxBuilding.headerTip>
+  <Numbers_RimWorld_StatDef_VEF_EnergyShieldRechargeRateBuilding.label>Скорость восстановления щита</Numbers_RimWorld_StatDef_VEF_EnergyShieldRechargeRateBuilding.label>
+  <Numbers_RimWorld_StatDef_VEF_EnergyShieldRechargeRateBuilding.headerTip>Количество энергии, которое щит восстанавливает за секунду, пока он не выведен из строя.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Зажмите левую кнопку и перетащите его для перемещения.</Numbers_RimWorld_StatDef_VEF_EnergyShieldRechargeRateBuilding.headerTip>
+  <Numbers_RimWorld_StatDef_VEF_EnergyShieldRadiusBuilding.label>Радиус щита</Numbers_RimWorld_StatDef_VEF_EnergyShieldRadiusBuilding.label>
+  <Numbers_RimWorld_StatDef_VEF_EnergyShieldRadiusBuilding.headerTip>Радиус действия энергетического щита.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Зажмите левую кнопку и перетащите его для перемещения.</Numbers_RimWorld_StatDef_VEF_EnergyShieldRadiusBuilding.headerTip>
+  <Numbers_RimWorld_StatDef_VEF_BuildingLearningRateOffset.label>Скорость обучения</Numbers_RimWorld_StatDef_VEF_BuildingLearningRateOffset.label>
+  <Numbers_RimWorld_StatDef_VEF_BuildingLearningRateOffset.headerTip>Множитель скорости обучения детей на уроках с использованием этой постройки.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Зажмите левую кнопку и перетащите его для перемещения.</Numbers_RimWorld_StatDef_VEF_BuildingLearningRateOffset.headerTip>
+  <Numbers_RimWorld_StatDef_VEF_BuildingBreakdownFactor.label>Множитель частоты поломок</Numbers_RimWorld_StatDef_VEF_BuildingBreakdownFactor.label>
+  <Numbers_RimWorld_StatDef_VEF_BuildingBreakdownFactor.headerTip>Множитель частоты поломок этой постройки.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Зажмите левую кнопку и перетащите его для перемещения.</Numbers_RimWorld_StatDef_VEF_BuildingBreakdownFactor.headerTip>
+  <Numbers_RimWorld_StatDef_VEF_BuildingMaxOverclockFactor.label>Максимальный разгон</Numbers_RimWorld_StatDef_VEF_BuildingMaxOverclockFactor.label>
+  <Numbers_RimWorld_StatDef_VEF_BuildingMaxOverclockFactor.headerTip>Множитель максимально допустимого разгона производственной установки.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Зажмите левую кнопку и перетащите его для перемещения.</Numbers_RimWorld_StatDef_VEF_BuildingMaxOverclockFactor.headerTip>
+  <Numbers_RimWorld_StatDef_VEF_FactoryHeatPerSecondFactor.label>Множитель тепловыделения</Numbers_RimWorld_StatDef_VEF_FactoryHeatPerSecondFactor.label>
+  <Numbers_RimWorld_StatDef_VEF_FactoryHeatPerSecondFactor.headerTip>Множитель количества тепла, выделяемого производственной установкой за секунду.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Зажмите левую кнопку и перетащите его для перемещения.</Numbers_RimWorld_StatDef_VEF_FactoryHeatPerSecondFactor.headerTip>
+  <Numbers_RimWorld_StatDef_VEF_VerbRangeFactor.label>Множитель дальности оружия</Numbers_RimWorld_StatDef_VEF_VerbRangeFactor.label>
+  <Numbers_RimWorld_StatDef_VEF_VerbRangeFactor.headerTip>Дальность оружия умножается на это значение.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Зажмите левую кнопку и перетащите его для перемещения.</Numbers_RimWorld_StatDef_VEF_VerbRangeFactor.headerTip>
+  <Numbers_RimWorld_StatDef_VEF_EnergyShieldEnergyMaxOffset.label>Прибавка к максимальному заряду щита</Numbers_RimWorld_StatDef_VEF_EnergyShieldEnergyMaxOffset.label>
+  <Numbers_RimWorld_StatDef_VEF_EnergyShieldEnergyMaxOffset.headerTip>Прибавка к максимальному запасу энергии щита, которую владелец может увеличить различными способами.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Зажмите левую кнопку и перетащите его для перемещения.</Numbers_RimWorld_StatDef_VEF_EnergyShieldEnergyMaxOffset.headerTip>
+  <Numbers_RimWorld_StatDef_VEF_EnergyShieldEnergyMaxFactor.label>Множитель максимального заряда щита</Numbers_RimWorld_StatDef_VEF_EnergyShieldEnergyMaxFactor.label>
+  <Numbers_RimWorld_StatDef_VEF_EnergyShieldEnergyMaxFactor.headerTip>Множитель максимального запаса энергии щита, который владелец может увеличить различными способами.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Зажмите левую кнопку и перетащите его для перемещения.</Numbers_RimWorld_StatDef_VEF_EnergyShieldEnergyMaxFactor.headerTip>
+  <Numbers_RimWorld_StatDef_VEF_MeleeAttackDamageFactor.label>Множитель урона в ближнем бою</Numbers_RimWorld_StatDef_VEF_MeleeAttackDamageFactor.label>
+  <Numbers_RimWorld_StatDef_VEF_MeleeAttackDamageFactor.headerTip>Множитель урона в ближнем бою.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Зажмите левую кнопку и перетащите его для перемещения.</Numbers_RimWorld_StatDef_VEF_MeleeAttackDamageFactor.headerTip>
+  <Numbers_RimWorld_StatDef_VEF_RangeAttackDamageFactor.label>Множитель урона в дальнем бою</Numbers_RimWorld_StatDef_VEF_RangeAttackDamageFactor.label>
+  <Numbers_RimWorld_StatDef_VEF_RangeAttackDamageFactor.headerTip>Множитель урона в дальнем бою.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Зажмите левую кнопку и перетащите его для перемещения.</Numbers_RimWorld_StatDef_VEF_RangeAttackDamageFactor.headerTip>
+  <Numbers_RimWorld_StatDef_VEF_FoodCapacityMultiplier.label>Множитель запаса сытости</Numbers_RimWorld_StatDef_VEF_FoodCapacityMultiplier.label>
+  <Numbers_RimWorld_StatDef_VEF_FoodCapacityMultiplier.headerTip>Увеличивает максимальный запас сытости персонажа. Не влияет на скорость появления голода.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Зажмите левую кнопку и перетащите его для перемещения.</Numbers_RimWorld_StatDef_VEF_FoodCapacityMultiplier.headerTip>
+  <Numbers_RimWorld_StatDef_VEF_GrowthPointMultiplier.label>Множитель очков развития</Numbers_RimWorld_StatDef_VEF_GrowthPointMultiplier.label>
+  <Numbers_RimWorld_StatDef_VEF_GrowthPointMultiplier.headerTip>Увеличивает количество очков развития, которые дети получают при обучении.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Зажмите левую кнопку и перетащите его для перемещения.</Numbers_RimWorld_StatDef_VEF_GrowthPointMultiplier.headerTip>
+  <Numbers_RimWorld_StatDef_VEF_BodySize_Offset.label>Прибавка к размеру тела</Numbers_RimWorld_StatDef_VEF_BodySize_Offset.label>
+  <Numbers_RimWorld_StatDef_VEF_BodySize_Offset.headerTip>Прибавка к текущему размеру тела персонажа.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Зажмите левую кнопку и перетащите его для перемещения.</Numbers_RimWorld_StatDef_VEF_BodySize_Offset.headerTip>
+  <Numbers_RimWorld_StatDef_VEF_CosmeticBodySize_Offset.headerTip>Прибавка к текущему размеру тела персонажа.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Зажмите левую кнопку и перетащите его для перемещения.</Numbers_RimWorld_StatDef_VEF_CosmeticBodySize_Offset.headerTip>
+  <Numbers_RimWorld_StatDef_VEF_BodySize_Multiplier.label>Множитель размера тела</Numbers_RimWorld_StatDef_VEF_BodySize_Multiplier.label>
+  <Numbers_RimWorld_StatDef_VEF_BodySize_Multiplier.headerTip>Умножает текущий размер тела персонажа на это значение.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Зажмите левую кнопку и перетащите его для перемещения.</Numbers_RimWorld_StatDef_VEF_BodySize_Multiplier.headerTip>
+  <Numbers_RimWorld_StatDef_VEF_CosmeticBodySize_Multiplier.headerTip>Умножает текущий размер тела персонажа на это значение.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Зажмите левую кнопку и перетащите его для перемещения.</Numbers_RimWorld_StatDef_VEF_CosmeticBodySize_Multiplier.headerTip>
+  <Numbers_RimWorld_StatDef_VEF_CosmeticBodySize_Offset.label>Прибавка к видимому размеру тела</Numbers_RimWorld_StatDef_VEF_CosmeticBodySize_Offset.label>
+  <Numbers_RimWorld_StatDef_VEF_CosmeticBodySize_Multiplier.label>Множитель видимого размера тела</Numbers_RimWorld_StatDef_VEF_CosmeticBodySize_Multiplier.label>
+  <Numbers_RimWorld_StatDef_VEF_HeadSize_Cosmetic.label>Множитель размера головы</Numbers_RimWorld_StatDef_VEF_HeadSize_Cosmetic.label>
+  <Numbers_RimWorld_StatDef_VEF_HeadSize_Cosmetic.headerTip>
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Зажмите левую кнопку и перетащите его для перемещения.</Numbers_RimWorld_StatDef_VEF_HeadSize_Cosmetic.headerTip>
+  <Numbers_RimWorld_StatDef_VEF_PawnRenderPosOffset.label>Смещение изображения персонажа</Numbers_RimWorld_StatDef_VEF_PawnRenderPosOffset.label>
+  <Numbers_RimWorld_StatDef_VEF_PawnRenderPosOffset.headerTip>Смещает изображение персонажа по оси Y.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Зажмите левую кнопку и перетащите его для перемещения.</Numbers_RimWorld_StatDef_VEF_PawnRenderPosOffset.headerTip>
+  <Numbers_RimWorld_StatDef_VEF_MassCarryCapacity.label>Грузоподъёмность в караване</Numbers_RimWorld_StatDef_VEF_MassCarryCapacity.label>
+  <Numbers_RimWorld_StatDef_VEF_MassCarryCapacity.headerTip>Максимальная общая масса груза, которую персонаж может нести в караване.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Зажмите левую кнопку и перетащите его для перемещения.</Numbers_RimWorld_StatDef_VEF_MassCarryCapacity.headerTip>
+  <Numbers_RimWorld_StatDef_VEF_MTBLovinFactor.label>Интервал между попытками близости</Numbers_RimWorld_StatDef_VEF_MTBLovinFactor.label>
+  <Numbers_RimWorld_StatDef_VEF_MTBLovinFactor.headerTip>Множитель среднего времени между попытками этого персонажа заняться любовью.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Зажмите левую кнопку и перетащите его для перемещения.</Numbers_RimWorld_StatDef_VEF_MTBLovinFactor.headerTip>
+  <Numbers_RimWorld_StatDef_VEF_PositiveThoughtDurationFactor.label>Длительность позитивных мыслей</Numbers_RimWorld_StatDef_VEF_PositiveThoughtDurationFactor.label>
+  <Numbers_RimWorld_StatDef_VEF_PositiveThoughtDurationFactor.headerTip>Длительность позитивных мыслей умножается на это значение.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Зажмите левую кнопку и перетащите его для перемещения.</Numbers_RimWorld_StatDef_VEF_PositiveThoughtDurationFactor.headerTip>
+  <Numbers_RimWorld_StatDef_VEF_NeutralThoughtDurationFactor.label>Длительность нейтральных мыслей</Numbers_RimWorld_StatDef_VEF_NeutralThoughtDurationFactor.label>
+  <Numbers_RimWorld_StatDef_VEF_NeutralThoughtDurationFactor.headerTip>Длительность нейтральных мыслей умножается на это значение.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Зажмите левую кнопку и перетащите его для перемещения.</Numbers_RimWorld_StatDef_VEF_NeutralThoughtDurationFactor.headerTip>
+  <Numbers_RimWorld_StatDef_VEF_NegativeThoughtDurationFactor.label>Длительность негативных мыслей</Numbers_RimWorld_StatDef_VEF_NegativeThoughtDurationFactor.label>
+  <Numbers_RimWorld_StatDef_VEF_NegativeThoughtDurationFactor.headerTip>Длительность негативных мыслей умножается на это значение.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Зажмите левую кнопку и перетащите его для перемещения.</Numbers_RimWorld_StatDef_VEF_NegativeThoughtDurationFactor.headerTip>
+  <Numbers_RimWorld_StatDef_VEF_RangedDodgeChance.label>Шанс уклонения от выстрела</Numbers_RimWorld_StatDef_VEF_RangedDodgeChance.label>
+  <Numbers_RimWorld_StatDef_VEF_RangedDodgeChance.headerTip>Вероятность уклониться от дальней атаки, которая иначе попала бы в цель. При отрицательном значении — вероятность попасть под дальнюю атаку, предназначенную другой цели.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Зажмите левую кнопку и перетащите его для перемещения.</Numbers_RimWorld_StatDef_VEF_RangedDodgeChance.headerTip>
+  <Numbers_RimWorld_StatDef_VEF_HeatstrokeBuildupMultiplier.label>Множитель развития теплового удара</Numbers_RimWorld_StatDef_VEF_HeatstrokeBuildupMultiplier.label>
+  <Numbers_RimWorld_StatDef_VEF_HeatstrokeBuildupMultiplier.headerTip>Множитель скорости развития теплового удара.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Зажмите левую кнопку и перетащите его для перемещения.</Numbers_RimWorld_StatDef_VEF_HeatstrokeBuildupMultiplier.headerTip>
+  <Numbers_RimWorld_StatDef_VEF_AnimalProductYieldFactor.label>Множитель выхода особой животной продукции</Numbers_RimWorld_StatDef_VEF_AnimalProductYieldFactor.label>
+  <Numbers_RimWorld_StatDef_VEF_AnimalProductYieldFactor.headerTip>Множитель количества особой продукции, которую производит это животное.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Зажмите левую кнопку и перетащите его для перемещения.</Numbers_RimWorld_StatDef_VEF_AnimalProductYieldFactor.headerTip>
+  <Numbers_RimWorld_StatDef_VEF_AnimalProductIntervalFactor.label>Интервал производства особой животной продукции</Numbers_RimWorld_StatDef_VEF_AnimalProductIntervalFactor.label>
+  <Numbers_RimWorld_StatDef_VEF_AnimalProductIntervalFactor.headerTip>Множитель интервала, за который животное производит особую продукцию.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Зажмите левую кнопку и перетащите его для перемещения.</Numbers_RimWorld_StatDef_VEF_AnimalProductIntervalFactor.headerTip>
+  <Numbers_RimWorld_StatDef_VEF_RangedCooldownFactor.label>Пауза после стрельбы</Numbers_RimWorld_StatDef_VEF_RangedCooldownFactor.label>
+  <Numbers_RimWorld_StatDef_VEF_RangedCooldownFactor.headerTip>Пауза после стрельбы из оружия владельца умножается на это значение.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Зажмите левую кнопку и перетащите его для перемещения.</Numbers_RimWorld_StatDef_VEF_RangedCooldownFactor.headerTip>
+  <Numbers_RimWorld_StatDef_VEF_EnergyShieldRadiusApparel.label>Радиус действия щита</Numbers_RimWorld_StatDef_VEF_EnergyShieldRadiusApparel.label>
+  <Numbers_RimWorld_StatDef_VEF_EnergyShieldRadiusApparel.headerTip>Область, защищённая работающим энергетическим щитом.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Зажмите левую кнопку и перетащите его для перемещения.</Numbers_RimWorld_StatDef_VEF_EnergyShieldRadiusApparel.headerTip>
+  <Numbers_RimWorld_StatDef_VEF_MeleeWeaponRange.label>Дальность оружия ближнего боя</Numbers_RimWorld_StatDef_VEF_MeleeWeaponRange.label>
+  <Numbers_RimWorld_StatDef_VEF_MeleeWeaponRange.headerTip>Дальность действия этого оружия ближнего боя.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Зажмите левую кнопку и перетащите его для перемещения.</Numbers_RimWorld_StatDef_VEF_MeleeWeaponRange.headerTip>
+  <Numbers_RimWorld_StatDef_VEF_GaussProjectileDamageModifier.label>Множитель проникающего урона</Numbers_RimWorld_StatDef_VEF_GaussProjectileDamageModifier.label>
+  <Numbers_RimWorld_StatDef_VEF_GaussProjectileDamageModifier.headerTip>Изменение урона за каждую ранее поражённую цель, в процентах от базового урона.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Зажмите левую кнопку и перетащите его для перемещения.</Numbers_RimWorld_StatDef_VEF_GaussProjectileDamageModifier.headerTip>
+  <Numbers_RimWorld_AbilityDef_VEF_ControlledBlinking.label>Управляемый скачок</Numbers_RimWorld_AbilityDef_VEF_ControlledBlinking.label>
+  <Numbers_RimWorld_AbilityDef_VEF_ControlledBlinking.headerTip>Позволяет направить обычные хаотичные скачки существа в выбранную точку в пределах досягаемости.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Зажмите левую кнопку и перетащите его для перемещения.</Numbers_RimWorld_AbilityDef_VEF_ControlledBlinking.headerTip>
+  <Numbers_RimWorld_AbilityDef_VEF_ControlledDetonation.label>Управляемый подрыв</Numbers_RimWorld_AbilityDef_VEF_ControlledDetonation.label>
+  <Numbers_RimWorld_AbilityDef_VEF_ControlledDetonation.headerTip>Вызвать мощный взрыв всех накопленных нестабильных соединений. Этот разрушительный взрыв станет последним действием животного: оно погибнет.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Зажмите левую кнопку и перетащите его для перемещения.</Numbers_RimWorld_AbilityDef_VEF_ControlledDetonation.headerTip>
+  <Numbers_RimWorld_AbilityDef_VEF_ControlledInvisibility.label>Управляемая невидимость</Numbers_RimWorld_AbilityDef_VEF_ControlledInvisibility.label>
+  <Numbers_RimWorld_AbilityDef_VEF_ControlledInvisibility.headerTip>Сделать животное невидимым, сохранив его восприятие окружающего мира и точность действий.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Зажмите левую кнопку и перетащите его для перемещения.</Numbers_RimWorld_AbilityDef_VEF_ControlledInvisibility.headerTip>
+</LanguageData>

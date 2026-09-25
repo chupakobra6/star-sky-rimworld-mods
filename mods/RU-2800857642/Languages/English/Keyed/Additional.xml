@@ -1,0 +1,11 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <chupakobra6_2800857642_errorTryAlternativePlatformHint>Try another publishing server in the upload settings.</chupakobra6_2800857642_errorTryAlternativePlatformHint>
+  <chupakobra6_2800857642_usePreviousLog>Previous launch log</chupakobra6_2800857642_usePreviousLog>
+  <chupakobra6_2800857642_usePreviousLog_tip>Upload the previous launch log instead of the current one.</chupakobra6_2800857642_usePreviousLog_tip>
+  <chupakobra6_2800857642_alternativePlatform>Publish through paste.gg</chupakobra6_2800857642_alternativePlatform>
+  <chupakobra6_2800857642_alternativePlatform_tip>Use paste.gg instead of GitHub Gist to publish the log.</chupakobra6_2800857642_alternativePlatform_tip>
+  <chupakobra6_2800857642_githubToken>GitHub token</chupakobra6_2800857642_githubToken>
+  <chupakobra6_2800857642_githubToken_tip>Token for publishing the log through GitHub Gist.</chupakobra6_2800857642_githubToken_tip>
+  <chupakobra6_2800857642_shareBtnDescr>Publish the game log and get a link to share for troubleshooting.</chupakobra6_2800857642_shareBtnDescr>
+</LanguageData>

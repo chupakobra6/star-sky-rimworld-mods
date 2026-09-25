@@ -1,0 +1,626 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFEA.AbilityDisableReasonCooldown>{0}: до завершения перезарядки {1}</VFEA.AbilityDisableReasonCooldown>
+  <VFEA.AbilityDisableReasonGeneral>{0}: требования не выполнены</VFEA.AbilityDisableReasonGeneral>
+  <VFEA.AbilityStatsPower>Сила</VFEA.AbilityStatsPower>
+  <VFEA.AbilityStatsDuration>Длительность</VFEA.AbilityStatsDuration>
+  <VFEA.TargetMustBeHostile>Цель должна быть враждебной</VFEA.TargetMustBeHostile>
+  <VFEA.MinRadius>Минимальный радиус</VFEA.MinRadius>
+  <VFEA.RClickToAuto>Щёлкните правой кнопкой, чтобы включить автоматическое применение.</VFEA.RClickToAuto>
+  <VFEA.RClickToNoAuto>Щёлкните правой кнопкой, чтобы выключить автоматическое применение.</VFEA.RClickToNoAuto>
+  <VEF_DisableCorpseDecaying>Отключить разложение трупов</VEF_DisableCorpseDecaying>
+  <VEF_DisableCorpseDecayingDesc>Отключить способность этого животного постоянно разлагать трупы.</VEF_DisableCorpseDecayingDesc>
+  <VEF_EnableCorpseDecaying>Включить разложение трупов</VEF_EnableCorpseDecaying>
+  <VEF_EnableCorpseDecayingDesc>Включить способность этого животного постоянно разлагать трупы.</VEF_EnableCorpseDecayingDesc>
+  <VEF_DisableDigging>Отключить поиск пищи в земле</VEF_DisableDigging>
+  <VEF_DisableDiggingDesc>Отключить способность этого животного раскапывать землю в поисках пищи.</VEF_DisableDiggingDesc>
+  <VEF_EnableDigging>Включить поиск пищи в земле</VEF_EnableDigging>
+  <VEF_EnableDiggingDesc>Включить способность этого животного раскапывать землю в поисках пищи.</VEF_EnableDiggingDesc>
+  <VEF_DisableGas>Отключить выделение газа</VEF_DisableGas>
+  <VEF_DisableGasDesc>Отключить способность этого животного выделять газ.</VEF_DisableGasDesc>
+  <VEF_EnableGas>Включить выделение газа</VEF_EnableGas>
+  <VEF_EnableGasDesc>Включить способность этого животного выделять газ.</VEF_EnableGasDesc>
+  <NocturnalAnimals.BodyClock>Суточный ритм</NocturnalAnimals.BodyClock>
+  <NocturnalAnimals.BodyClock_Description>Определяет, когда животное спит и бодрствует.
+
+Дневные животные спят ночью и бодрствуют днём, ночные — наоборот. Сумеречные животные активны преимущественно в сумерках.</NocturnalAnimals.BodyClock_Description>
+  <NocturnalAnimals.BodyClock_Diurnal>Дневной</NocturnalAnimals.BodyClock_Diurnal>
+  <NocturnalAnimals.BodyClock_Nocturnal>Ночной</NocturnalAnimals.BodyClock_Nocturnal>
+  <NocturnalAnimals.BodyClock_Crepuscular>Сумеречный</NocturnalAnimals.BodyClock_Crepuscular>
+  <VEF_AsexualHatched>{0}: появилось потомство в результате бесполого размножения.</VEF_AsexualHatched>
+  <VEF_AsexualCloning>{0}: создан собственный клон.</VEF_AsexualCloning>
+  <VEF_AsexualHatchedEgg>{0}: произошло спорообразование.</VEF_AsexualHatchedEgg>
+  <VEF_NotTameable>Это существо нельзя приручить</VEF_NotTameable>
+  <VEF_TimeToMetamorphosis>До метаморфоза: {0}</VEF_TimeToMetamorphosis>
+  <VEF_WarningEggExplodes>Осторожно: это яйцо взрывается при вылуплении!</VEF_WarningEggExplodes>
+  <VEF_TimeToDie>До смерти животного: {0}</VEF_TimeToDie>
+  <VEF_DisableAnimal>Отключить: {0}</VEF_DisableAnimal>
+  <VEF_StomachContents>Проглочено целиком: {0} существ. </VEF_StomachContents>
+  <VEF_DigestionTime>Будет переварено через {0}</VEF_DigestionTime>
+  <VEF_TerrainsNeedsDiggable>Для этого нужна поверхность, которую можно раскапывать</VEF_TerrainsNeedsDiggable>
+  <VEF_WhileCaravaning>В караване производит {0} {1} с интервалом: </VEF_WhileCaravaning>
+  <VEF_AnimalProductYieldFactorDetails>Базовый выход особой продукции этого животного: {0} {1}. С учётом множителя выхода продукции получится {2} {1}.</VEF_AnimalProductYieldFactorDetails>
+  <VEF_AnimalProductYieldFactorDetails_Random>Базовый выход особой продукции этого животного: {0} ед. случайных предметов или предметов, зависящих от местности. С учётом множителя выхода продукции получится {1} ед.</VEF_AnimalProductYieldFactorDetails_Random>
+  <VEF_AnimalProductIntervalFactorDetails>Базовый интервал производства особой продукции этого животного: {0} д. С учётом множителя интервала он составит {1} д., но не менее одного дня.</VEF_AnimalProductIntervalFactorDetails>
+  <VCE_AffectsAllAnimalMods>Эти настройки поведения животных действуют на все моды, использующие соответствующий код Vanilla Expanded Framework.</VCE_AffectsAllAnimalMods>
+  <VCE_CorpseDecayingEffectOption>Разрешить ускоренное разложение трупов животными (например, геликсиенами)</VCE_CorpseDecayingEffectOption>
+  <VCE_DigWhenHungryOption>Разрешить голодным животным раскапывать пищу (например, морозным клещам — трупы)</VCE_DigWhenHungryOption>
+  <VCE_DigPeriodicallyOption>Разрешить животным периодически выкапывать предметы</VCE_DigPeriodicallyOption>
+  <VCE_AnimalParticlesOption>Разрешить животным оставлять газ и грязь</VCE_AnimalParticlesOption>
+  <VCE_AsexualReproductionOption>Разрешить бесполое размножение</VCE_AsexualReproductionOption>
+  <VFE_AsexualReproductionDisabled>Бесполое размножение отключено в настройках мода</VFE_AsexualReproductionDisabled>
+  <VCE_BlinkMechanicsOption>Разрешить скачки-телепортации (например, мерцающим гончим)</VCE_BlinkMechanicsOption>
+  <VCE_BuildPeriodicallyOption>Разрешить животным строить (например, бобрам — плотины)</VCE_BuildPeriodicallyOption>
+  <VCE_ChargeBatteriesOption>Разрешить животным заряжать соседние аккумуляторы и заправлять устройства</VCE_ChargeBatteriesOption>
+  <VCE_ExplodingEggsOption>Разрешить взрывающиеся яйца животных (например, драконов)</VCE_ExplodingEggsOption>
+  <VCE_HoveringOption>Разрешить животным парить, игнорируя замедление от поверхности, и передвигаться по воде</VCE_HoveringOption>
+  <VCE_GraphicChangingOption>Разрешить животным менять внешний вид (например, якам-хамелеонам)</VCE_GraphicChangingOption>
+  <VCE_EffecterOption>Разрешить животным вызывать изменения здоровья, срывы и мысли</VCE_EffecterOption>
+  <VCE_RegenerationOption>Разрешить активную и пассивную регенерацию здоровья</VCE_RegenerationOption>
+  <VCE_ResurrectionOption>Разрешить животным самостоятельно воскресать (например, совокотам-фениксам)</VCE_ResurrectionOption>
+  <VCE_UntameableOption>Разрешить существование неприручаемых животных</VCE_UntameableOption>
+  <VEF_AnimalsSearch>Поиск:</VEF_AnimalsSearch>
+  <VEF_BillRequiresMass>Требуется суммарная масса {0} кг</VEF_BillRequiresMass>
+  <VRE_TabAnimalGenes>Гены</VRE_TabAnimalGenes>
+  <VRE_AnimalGenes>Гены животного</VRE_AnimalGenes>
+  <VRE_FamilyTag>Семейство генов</VRE_FamilyTag>
+  <VRE_AnimalGenesFeratypeDesc>Гены, характерные для этого фератипа.</VRE_AnimalGenesFeratypeDesc>
+  <VRE_Feratype>Фератип</VRE_Feratype>
+  <VRE_AnimalGenesDesc>Гены этого животного</VRE_AnimalGenesDesc>
+  <VRE_StatsReport_Genes>Влияющие гены животного</VRE_StatsReport_Genes>
+  <VRE_MoreInfoInInfoScreen>Подробнее — в окне информации об этом фератипе.</VRE_MoreInfoInInfoScreen>
+  <VRE_AnimalIllness>Средний интервал между болезнями</VRE_AnimalIllness>
+  <VRE_AnimalTantrum>Средний интервал между приступами ярости</VRE_AnimalTantrum>
+  <VRE_Trainability>Обучаемость:</VRE_Trainability>
+  <VRE_Stability>Стабильность</VRE_Stability>
+  <VRE_StabilityDesc>Стабильность отражает сложность генетического кода животного и влияет на предсказуемость наследования генов.
+
+При высокой стабильности потомство обычно наследует средние значения генов родителей. При низкой стабильности потомство чаще отклоняется от родительских признаков в сторону естественных средних значений.</VRE_StabilityDesc>
+  <VRE_Days>д.</VRE_Days>
+  <VRE_LifespanFactor>Продолжительность жизни</VRE_LifespanFactor>
+  <VRE_LifespanFactorDesc>Множитель продолжительности жизни этого животного, зависящий от его генетической стабильности.</VRE_LifespanFactorDesc>
+  <VRE_FeratypeFamily>семейство фератипов</VRE_FeratypeFamily>
+  <VRE_FeratypeFamilyDesc>Этот фератип относится к семейству «{0}»:
+
+{1}</VRE_FeratypeFamilyDesc>
+  <VRE_AllowedPartners>Совместимые партнёры</VRE_AllowedPartners>
+  <VRE_AllowedPartnersDesc>Все фератипы семейства «{0}», с представителями которых это животное может давать потомство.</VRE_AllowedPartnersDesc>
+  <VRE_NotPregnant>Это животное не беременно</VRE_NotPregnant>
+  <VRE_StillbornLabel>Мертворождённый детёныш: {0}</VRE_StillbornLabel>
+  <VRE_StillbornDesc>Ваше животное — {0} по имени {1} — родило мёртвого детёныша.</VRE_StillbornDesc>
+  <VRE_SpecializedGene>Специализированный ген</VRE_SpecializedGene>
+  <VRE_SpecializedGeneDesc>Этот ген наследуется только потомством, у фератипа которого есть ген из того же семейства.</VRE_SpecializedGeneDesc>
+  <VEF.Factions.Contraband_Booze_GiftWarning>Подарок «{ILLEGALTHING_label}» нарушает законы фракции «{FACTION_name}». В будущем это может повлиять на ваши отношения.</VEF.Factions.Contraband_Booze_GiftWarning>
+  <VEF.Factions.Contraband_Booze_GiftIllegalWarning>Передача подарка «{ILLEGALTHING_label}» фракции «{ILLEGALFACTION_name}» нарушает законы фракции «{FACTION_name}». В будущем это может повлиять на ваши отношения.</VEF.Factions.Contraband_Booze_GiftIllegalWarning>
+  <VEF.Factions.Contraband_Booze_SellWarning>Продажа товара «{ILLEGALTHING_label}» нарушает законы фракции «{FACTION_name}». В будущем это может повлиять на ваши отношения.</VEF.Factions.Contraband_Booze_SellWarning>
+  <VEF.Factions.Contraband_Booze_SellIllegalWarning>Продажа товара «{ILLEGALTHING_label}» фракции «{ILLEGALFACTION_name}» нарушает законы фракции «{FACTION_name}». В будущем это может повлиять на ваши отношения.</VEF.Factions.Contraband_Booze_SellIllegalWarning>
+  <VEF.Factions.Contraband_Booze_LetterLabel>Недовольство фракции «{FACTION_name}»</VEF.Factions.Contraband_Booze_LetterLabel>
+  <VEF.Factions.Contraband_Booze_LetterDescGift>Фракция «{FACTION_name}» узнала, что вы тайно дарили товар «{ILLEGALTHING_label}». Это нарушает её законы, и ваши отношения ухудшились.</VEF.Factions.Contraband_Booze_LetterDescGift>
+  <VEF.Factions.Contraband_Booze_LetterDescSold>Фракция «{FACTION_name}» узнала, что вы тайно продавали товар «{ILLEGALTHING_label}». Это нарушает её законы, и ваши отношения ухудшились.</VEF.Factions.Contraband_Booze_LetterDescSold>
+  <VEF.Factions.Contraband_Booze_LetterDescIllegalGift>Фракция «{FACTION_name}» узнала, что вы тайно передавали товар «{ILLEGALTHING_label}» в подарок фракции «{ILLEGALFACTION_name}». Это нарушает её законы, и ваши отношения ухудшились.</VEF.Factions.Contraband_Booze_LetterDescIllegalGift>
+  <VEF.Factions.Contraband_Booze_LetterDescIllegalSold>Фракция «{FACTION_name}» узнала, что вы тайно продавали товар «{ILLEGALTHING_label}» фракции «{ILLEGALFACTION_name}». Это нарушает её законы, и ваши отношения ухудшились.</VEF.Factions.Contraband_Booze_LetterDescIllegalSold>
+  <VEF.Factions.Contraband_Booze_RelationInfo>Репутация у фракции «{FACTION_name}»: {1} (изменение: {2}).</VEF.Factions.Contraband_Booze_RelationInfo>
+  <VEF.Factions.FactionDef_Description_Contraband>Правила торговли</VEF.Factions.FactionDef_Description_Contraband>
+  <VEF.Factions.FactionDef_Description_Positives>Торговля повышает репутацию: {0}</VEF.Factions.FactionDef_Description_Positives>
+  <VEF.Factions.FactionDef_Description_Negatives>Торговля снижает репутацию: {0}</VEF.Factions.FactionDef_Description_Negatives>
+  <VWE.CannotEquipHeavy>Для этого оружия требуется силовая броня</VWE.CannotEquipHeavy>
+  <IP_InsertFirstItemDesc>Загрузить</IP_InsertFirstItemDesc>
+  <IP_InsertSecondItemDesc>Загрузить</IP_InsertSecondItemDesc>
+  <IP_InsertThirdItemDesc>Загрузить</IP_InsertThirdItemDesc>
+  <IP_InsertFourthItemDesc>Загрузить</IP_InsertFourthItemDesc>
+  <IP_InsertVariable>Загрузить: {0}</IP_InsertVariable>
+  <IP_Output>Производить: {0}</IP_Output>
+  <IP_OutputVariable>Производить: {0}. Сырьё: {1}</IP_OutputVariable>
+  <IP_OutputDesc>Результат переработки: {0}. Необходимое сырьё: {1}.</IP_OutputDesc>
+  <IP_InsertVariableSecond>Загрузить во второй слот: {0}</IP_InsertVariableSecond>
+  <IP_InsertVariableThird>Загрузить в третий слот: {0}</IP_InsertVariableThird>
+  <IP_CantFindThing>На карте нет предметов этого типа: {0}</IP_CantFindThing>
+  <IP_BringIngredients>Доставлять ингредиенты</IP_BringIngredients>
+  <IP_BringIngredientsDesc>Доставить ингредиенты для начала работы.</IP_BringIngredientsDesc>
+  <IP_CancelIngredients>Отменить доставку ингредиентов</IP_CancelIngredients>
+  <IP_CancelIngredientsDesc>Отменить доставку ингредиентов в эту постройку.</IP_CancelIngredientsDesc>
+  <IP_NoIngredientFound>На карте нет нужного ингредиента</IP_NoIngredientFound>
+  <IP_ChooseIngredient>Выбрать ингредиент</IP_ChooseIngredient>
+  <IP_ChooseOutput>Выбрать продукцию</IP_ChooseOutput>
+  <IP_ChooseIngredientSecond>Выбрать второй ингредиент</IP_ChooseIngredientSecond>
+  <IP_ChooseIngredientThird>Выбрать третий ингредиент</IP_ChooseIngredientThird>
+  <IP_ChooseIngredientFourth>Выбрать четвёртый ингредиент</IP_ChooseIngredientFourth>
+  <IP_IngredientImproperlyDefined>Один из ингредиентов неверно настроен для работы с перерабатывающей установкой. Сообщите автору мода.</IP_IngredientImproperlyDefined>
+  <IP_NoPowerDestroysWarning>{0}: для начала работы требуется электричество</IP_NoPowerDestroysWarning>
+  <IP_NoFuelDestroysWarning>{0}: для начала работы требуется топливо</IP_NoFuelDestroysWarning>
+  <IP_LightDestroysWarning>{0}: для начала работы требуется подходящее освещение</IP_LightDestroysWarning>
+  <IP_RainDestroysWarning>{0}: для начала работы нужно дождаться окончания дождя</IP_RainDestroysWarning>
+  <IP_TemperatureDestroysWarning>{0}: для начала работы требуется подходящая температура ({1} — {2})</IP_TemperatureDestroysWarning>
+  <IP_NoPowerDestroysInitialWarning>Продукт в перерабатывающей установке портится из-за отсутствия электричества.</IP_NoPowerDestroysInitialWarning>
+  <IP_NoPowerDestroysMessage>Продукт в перерабатывающей установке испортился из-за отсутствия электричества.</IP_NoPowerDestroysMessage>
+  <IP_GenericProductFinished>Переработка завершена: продукция готова к вывозу.</IP_GenericProductFinished>
+  <IP_IsEmpty>{0}: пусто</IP_IsEmpty>
+  <IP_FilledWith>{0}: загружено — {1}</IP_FilledWith>
+  <IP_FilledWithSecond>{0}: во второй слот загружено — {1}</IP_FilledWithSecond>
+  <IP_FilledWithThird>{0}: в третий слот загружено — {1}</IP_FilledWithThird>
+  <IP_FilledWithFourth>{0}: в четвёртый слот загружено — {1}</IP_FilledWithFourth>
+  <IP_IngredientPercentage> (заполнено: {0} из {1})</IP_IngredientPercentage>
+  <IP_ProcessorWorking>{0}: идёт переработка — </IP_ProcessorWorking>
+  <IP_ProcessorPaused>{0}: переработка приостановлена — </IP_ProcessorPaused>
+  <IP_ProcessingInProgress>{0}: переработка сырья «{1}». Продукция «{2}» будет готова через {4}; качество — {replace: {3}; "Awful"-"ужасное"; "Poor"-"плохое"; "Normal"-"обычное"; "Good"-"хорошее"; "Excellent"-"превосходное"; "Masterwork"-"шедевр"; "Legendary"-"легендарное"}.</IP_ProcessingInProgress>
+  <IP_ProcessingInProgressNoQuality>{0}: переработка сырья «{1}». Продукция «{2}» будет готова через {3}.</IP_ProcessingInProgressNoQuality>
+  <IP_RemoveProduct>Извлечь: {0} ({1})</IP_RemoveProduct>
+  <IP_RemoveProductDesc>Извлечь продукт «{0}» из устройства «{1}». Сохранится текущее качество: {replace: {2}; "Awful"-"ужасное"; "Poor"-"плохое"; "Normal"-"обычное"; "Good"-"хорошее"; "Excellent"-"превосходное"; "Masterwork"-"шедевр"; "Legendary"-"легендарное"}.</IP_RemoveProductDesc>
+  <IP_ResetSemiautomatic>Сбросить рецепты</IP_ResetSemiautomatic>
+  <IP_ResetSemiautomaticDesc>После завершения текущей переработки настройки устройства сбросятся, и можно будет выбрать другое сырьё.</IP_ResetSemiautomaticDesc>
+  <IP_NoCombination>Для этих ингредиентов нет подходящего рецепта</IP_NoCombination>
+  <IP_SetAutoQuality>Выбрать качество для автоматического извлечения. Когда продукт достигнет этого качества, поселенец заберёт его и при наличии места отнесёт на склад. Если качество не выбрано, продукт можно извлечь вручную; автоматически его заберут при достижении легендарного качества.</IP_SetAutoQuality>
+  <IP_ChooseQualityAuto>Выбрать качество для извлечения</IP_ChooseQualityAuto>
+  <IP_QualityAutoIs>Качество для извлечения: {replace: {0}; "Awful"-"ужасное"; "Poor"-"плохое"; "Normal"-"обычное"; "Good"-"хорошее"; "Excellent"-"превосходное"; "Masterwork"-"шедевр"; "Legendary"-"легендарное"}</IP_QualityAutoIs>
+  <IP_QualityAutoNot>Отключить выбор качества</IP_QualityAutoNot>
+  <IP_QualityAutoEstablished>Продукт будет автоматически извлечён при достижении качества: {replace: {0}; "Awful"-"ужасное"; "Poor"-"плохое"; "Normal"-"обычное"; "Good"-"хорошее"; "Excellent"-"превосходное"; "Masterwork"-"шедевр"; "Legendary"-"легендарное"}.</IP_QualityAutoEstablished>
+  <IP_ToggleAuto>Автоматическая загрузка ингредиентов</IP_ToggleAuto>
+  <IP_ToggleAutoDesc>Если включено, устройство само берёт ингредиенты из соседних воронок и возобновляет работу после извлечения готовой продукции. Иначе ингредиенты доставляют поселенцы, а заполненное устройство нужно запускать вручную.</IP_ToggleAutoDesc>
+  <IP_ResetFullAuto>Сбросить устройство</IP_ResetFullAuto>
+  <IP_ResetFullAutoDesc>Полностью сбросить и остановить устройство. Внимание: это уничтожит загруженные предметы и весь прогресс переработки.</IP_ResetFullAutoDesc>
+  <IP_ProductWaiting>Ожидание вывоза продукции</IP_ProductWaiting>
+  <IP_OutsideLightRange>Переработка приостановлена из-за неподходящего освещения. Продукт скоро испортится.</IP_OutsideLightRange>
+  <IP_SpoiledDueToLight>Продукт в устройстве испортился из-за неподходящего освещения.</IP_SpoiledDueToLight>
+  <IP_ItRains>Переработка приостановлена из-за непогоды. Продукт скоро испортится.</IP_ItRains>
+  <IP_SpoiledDueToRain>Продукт в устройстве испортился из-за непогоды.</IP_SpoiledDueToRain>
+  <IP_WrongTemp>Переработка приостановлена из-за неподходящей температуры. Продукт скоро испортится.</IP_WrongTemp>
+  <IP_SpoiledDueToWrongTemp>Продукт испортился из-за неподходящей температуры. Требуется от {0} до {1} °C.</IP_SpoiledDueToWrongTemp>
+  <IP_TempRangeInThisMachine>Для текущей переработки требуется температура от {0} до {1} °C.</IP_TempRangeInThisMachine>
+  <IP_TogglePause>Приостановить / возобновить</IP_TogglePause>
+  <IP_TogglePauseDesc>Приостановить или возобновить переработку в этом устройстве.</IP_TogglePauseDesc>
+  <IP_OverThreshold> Ожидание освобождения места для продукции. Лимит: {0}</IP_OverThreshold>
+  <IP_NoRecipesHere>Для этого производства не найдены рецепты, добавляемые модами.</IP_NoRecipesHere>
+  <KCSG.Add>Добавить</KCSG.Add>
+  <KCSG.Remove>Удалить</KCSG.Remove>
+  <KCSG.SpawnNearCenter>Размещать около центра</KCSG.SpawnNearCenter>
+  <KCSG.AllowFoggedPosition>Разрешить размещение в тумане войны</KCSG.AllowFoggedPosition>
+  <KCSG.SpawnPartOfEnnemyFaction>Отнести постройку к вражеской фракции</KCSG.SpawnPartOfEnnemyFaction>
+  <KCSG.Mapcontains>На карте есть</KCSG.Mapcontains>
+  <KCSG.Enter>Войти: {0}</KCSG.Enter>
+  <KCSG.CantEnter>Невозможно войти: {0}</KCSG.CantEnter>
+  <VanillaFactionsExpanded.EquipShield>Взять как щит: {0}</VanillaFactionsExpanded.EquipShield>
+  <VanillaFactionsExpanded.EquipWarningShieldUnusable>(несовместимо: {0})</VanillaFactionsExpanded.EquipWarningShieldUnusable>
+  <VanillaFactionsExpanded.EquipWarningShieldUnusableWithWeapon>({0}: использование станет недоступно)</VanillaFactionsExpanded.EquipWarningShieldUnusableWithWeapon>
+  <VanillaFactionsExpanded.Protects>Защищаемые части тела</VanillaFactionsExpanded.Protects>
+  <VanillaFactionsExpanded.Protects_Desc>Части тела, которые защищает этот щит.</VanillaFactionsExpanded.Protects_Desc>
+  <VanillaFactionsExpanded.ScenPart_ForcedFactionRelations>Модификаторы отношений фракций</VanillaFactionsExpanded.ScenPart_ForcedFactionRelations>
+  <VanillaFactionsExpanded.NumberRange>от {0} до {1}</VanillaFactionsExpanded.NumberRange>
+  <VanillaFactionsExpanded.AllFactions>Все фракции</VanillaFactionsExpanded.AllFactions>
+  <VanillaFactionsExpanded.AllFactionsIncludingHidden>Все фракции, включая скрытые</VanillaFactionsExpanded.AllFactionsIncludingHidden>
+  <VanillaFactionsExpanded.AlwaysHostile>Постоянная вражда</VanillaFactionsExpanded.AlwaysHostile>
+  <VanillaFactionsExpanded.AffectHiddenFactions>Учитывать скрытые фракции</VanillaFactionsExpanded.AffectHiddenFactions>
+  <VanillaFactionsExpanded.StartingGoodwill>Начальная репутация</VanillaFactionsExpanded.StartingGoodwill>
+  <VanillaFactionsExpanded.NaturalGoodwill>Естественная репутация</VanillaFactionsExpanded.NaturalGoodwill>
+  <VanillaFactionsExpanded.UsableWithShield>Совместимо со щитами</VanillaFactionsExpanded.UsableWithShield>
+  <VanillaFactionsExpanded.UsableWithShield_Desc>Можно ли пользоваться этим оружием, одновременно держа щит.</VanillaFactionsExpanded.UsableWithShield_Desc>
+  <VEF.Weapons.Stat_Thing_MaterialPerCharge>Боеприпасы на заряд</VEF.Weapons.Stat_Thing_MaterialPerCharge>
+  <VEF.Weapons.Stat_Thing_MaterialPerCharge_Value>{0} {1} на заряд; всего зарядов: {2}</VEF.Weapons.Stat_Thing_MaterialPerCharge_Value>
+  <VEF.Weapons.Stat_Thing_MaterialPerCharge_Desc>Количество боеприпасов «{0}», необходимое для восстановления одного заряда этой способности.</VEF.Weapons.Stat_Thing_MaterialPerCharge_Desc>
+  <VanillaFactionsExpanded.FactionTitle>Новая фракция: {FactionName}</VanillaFactionsExpanded.FactionTitle>
+  <VanillaFactionsExpanded.ModInfo>Эта фракция добавлена модом «{ModName}», но в текущей игре её ещё нет.</VanillaFactionsExpanded.ModInfo>
+  <VanillaFactionsExpanded.AnUnknownMod>неизвестный мод</VanillaFactionsExpanded.AnUnknownMod>
+  <VanillaFactionsExpanded.HiddenFactionInfo>Это скрытая фракция: в списке фракций она не отображается.</VanillaFactionsExpanded.HiddenFactionInfo>
+  <VanillaFactionsExpanded.RequiredFactionInfo>Мод «{ModName}» помечает её как обязательную.</VanillaFactionsExpanded.RequiredFactionInfo>
+  <VanillaFactionsExpanded.NonSpawningFactionInfo>Эта фракция помечена как не появляющаяся в мире. Вероятно, её можно проигнорировать.</VanillaFactionsExpanded.NonSpawningFactionInfo>
+  <VanillaFactionsExpanded.FactionSelectOption>Выберите действие:</VanillaFactionsExpanded.FactionSelectOption>
+  <VanillaFactionsExpanded.FactionButtonAdd>Добавить фракцию</VanillaFactionsExpanded.FactionButtonAdd>
+  <VanillaFactionsExpanded.FactionButtonAddFull>Добавить фракцию с поселениями</VanillaFactionsExpanded.FactionButtonAddFull>
+  <VanillaFactionsExpanded.FactionButtonSkip>Ничего не делать</VanillaFactionsExpanded.FactionButtonSkip>
+  <VanillaFactionsExpanded.FactionButtonIgnore>Больше не спрашивать об этой фракции</VanillaFactionsExpanded.FactionButtonIgnore>
+  <VanillaFactionsExpanded.FactionMessageFailed>Не удалось добавить фракцию.</VanillaFactionsExpanded.FactionMessageFailed>
+  <VanillaFactionsExpanded.FactionMessageFailedFull>Не удалось создать фракцию с поселениями.</VanillaFactionsExpanded.FactionMessageFailedFull>
+  <VanillaFactionsExpanded.FactionMessageSuccessFull>Добавлена фракция «{FactionName}». Количество поселений: {Amount}.</VanillaFactionsExpanded.FactionMessageSuccessFull>
+  <VanillaFactionsExpanded.FactionMessageSuccess>Добавлена фракция «{FactionName}».</VanillaFactionsExpanded.FactionMessageSuccess>
+  <VanillaFactionsExpanded.FactionDiscoveryRequired>Эта фракция помечена как обязательная: её необходимо добавить в игру.</VanillaFactionsExpanded.FactionDiscoveryRequired>
+  <VanillaFactionsExpanded.FactionFailedMessage>Не удалось создать фракцию. Рекомендуется повторить попытку. Теперь её добавление можно пропустить, но это может вызвать проблемы.</VanillaFactionsExpanded.FactionFailedMessage>
+  <VanillaFactionsExpanded.FactionRequired>Нельзя отключить тип фракции «{FACTION}»{REQUIRED_multiple ? : требуется фракций этого типа — не менее {REQUIRED}. : .}</VanillaFactionsExpanded.FactionRequired>
+  <VanillaFactionsExpanded.FactionRecommended>{REQUIRED_multiple ? Рекомендуемое количество фракций типа «{FACTION}» — не менее {REQUIRED}; сейчас выбрано: {COUNT}. : Рекомендуется включить тип фракции «{FACTION}».}</VanillaFactionsExpanded.FactionRecommended>
+  <VanillaFactionsExpanded.FactionSettlementsToSpawn>Количество поселений (рекомендуется {0}): {1}</VanillaFactionsExpanded.FactionSettlementsToSpawn>
+  <VanillaFactionsExpanded.FactionMinDistance>Минимальное расстояние от баз игрока (рекомендуется {0}): {1}</VanillaFactionsExpanded.FactionMinDistance>
+  <VanillaFactionsExpanded.FactionButtonSpawn>Добавить</VanillaFactionsExpanded.FactionButtonSpawn>
+  <VanillaFactionsExpanded.FactionButtonCancel>Отмена</VanillaFactionsExpanded.FactionButtonCancel>
+  <VSE.Reinforcements>Подкрепления</VSE.Reinforcements>
+  <VSE.ReinforcementsDesc>Увидев потери в ваших рядах, фракция «{FACTION_name}» решила отправить подкрепления своему отряду налётчиков.</VSE.ReinforcementsDesc>
+  <VSE.CostGoodwill>Стоимость: {0} репутации</VSE.CostGoodwill>
+  <VWEL_ToggleHotshotLabel>Разогрев оружия</VWEL_ToggleHotshotLabel>
+  <VWEL_ToggleHotshotDesc>При стрельбе с места оружие разогревается, повышая скорострельность. Перегрев может привести к взрыву.</VWEL_ToggleHotshotDesc>
+  <VFE_DeepDrillNo>Буровая установка несовместима: {0}.</VFE_DeepDrillNo>
+  <VEF.TeleportTo>Телепортироваться: {0}</VEF.TeleportTo>
+  <VEF.TotalMarketValueRange>Диапазон рыночной стоимости (базовый)</VEF.TotalMarketValueRange>
+  <VEF.TotalMarketValueRange_Desc>Минимальная и максимальная суммарная рыночная стоимость предметов, которые могут оказаться в этом ящике с добычей.</VEF.TotalMarketValueRange_Desc>
+  <VEF.TotalMarketValueRange_Quality>Диапазон рыночной стоимости (с учётом качества)</VEF.TotalMarketValueRange_Quality>
+  <VEF.TotalMarketValueRange_Quality_Desc>Минимальная и максимальная суммарная рыночная стоимость предметов, которые могут оказаться в этом ящике с добычей. Качество ящика умножает базовую стоимость на {0}.</VEF.TotalMarketValueRange_Quality_Desc>
+  <VPE_MinifiedFlowerWillDieIn>Выкопанный цветок погибнет через {time}, если его не посадить.</VPE_MinifiedFlowerWillDieIn>
+  <VPE_ExtractFlower>Выкопать цветок</VPE_ExtractFlower>
+  <VPE_ExtractFlower_Desc>Аккуратно выкопать цветок, чтобы пересадить его в другое место.</VPE_ExtractFlower_Desc>
+  <VPE_CancelExtractFlower>Отменить выкапывание</VPE_CancelExtractFlower>
+  <VPE_CancelExtractFlower_Desc>Отменить выкапывание этого цветка.</VPE_CancelExtractFlower_Desc>
+  <VPE_ReplantFlower>Посадить</VPE_ReplantFlower>
+  <VPE_ReplantFlower_Desc>Цветок упакован для хранения и перевозки. Эта команда позволяет посадить его на новом месте.</VPE_ReplantFlower_Desc>
+  <VPE_RealAge>Возраст: {0}</VPE_RealAge>
+  <VPE_FlowerIsBlooming>Растение цветёт</VPE_FlowerIsBlooming>
+  <VPE_BeautyByAge>Красота за возраст: +{0}</VPE_BeautyByAge>
+  <VPE_BeautyByBloming>Множитель красоты при цветении: ×{0}</VPE_BeautyByBloming>
+  <VPE_BeautyByWeeds>Красота с учётом сорняков: {0}</VPE_BeautyByWeeds>
+  <VPE_BeautyByLeafless>Красота без листьев: {0}</VPE_BeautyByLeafless>
+  <VPE_LeaflessBeauty>Красота без листьев</VPE_LeaflessBeauty>
+  <VPE_LeaflessBeauty_Desc>Цветущие растения сильно теряют в красоте, когда холод заставляет их сбросить листья. Само по себе отсутствие листьев их не убивает.</VPE_LeaflessBeauty_Desc>
+  <VPE_MustBeGrown>Возраст можно увеличить только у полностью выросшего растения</VPE_MustBeGrown>
+  <VPE_AgeBeautyModifier>Прибавка к красоте за возраст</VPE_AgeBeautyModifier>
+  <VPE_AgeBeautyModifier_Desc>За каждый прожитый год красота этого растения увеличивается на указанную величину. Максимальная прибавка: +{0}.</VPE_AgeBeautyModifier_Desc>
+  <VPE_BloomBeautyModifier>Множитель красоты при цветении</VPE_BloomBeautyModifier>
+  <VPE_BloomBeautyModifier_Desc>Во время цветения красота растения умножается на указанное значение.</VPE_BloomBeautyModifier_Desc>
+  <VPE_BloomingPeriod>Период цветения</VPE_BloomingPeriod>
+  <VPE_BloomingPeriod_Desc>Цветок зацветает в этот период. В условиях постоянного лета или зимы используются соответствующие дни года.</VPE_BloomingPeriod_Desc>
+  <VPE_BloomTemperatureMin>Минимальная температура цветения</VPE_BloomTemperatureMin>
+  <VPE_BloomTemperatureMin_Desc>Минимальная температура, при которой растение может зацвести.
+
+{0}</VPE_BloomTemperatureMin_Desc>
+  <VPE_BloomTemperatureMax>Максимальная температура цветения</VPE_BloomTemperatureMax>
+  <VPE_BloomTemperatureMax_Desc>Чтобы растение зацвело, температура должна быть ниже указанного значения.
+
+{0}</VPE_BloomTemperatureMax_Desc>
+  <VPE_CanBloom>Если холод прервёт цветение, растение сможет зацвести повторно при улучшении условий.</VPE_CanBloom>
+  <VPE_CantBloom>Если холод прервёт цветение, растение сможет зацвести снова только в следующем году!</VPE_CantBloom>
+  <VPE_DeadlyColdTemperature>Смертельная температура холода</VPE_DeadlyColdTemperature>
+  <VPE_DeadlyColdTemperature_Desc>При температуре ниже указанной растение начнёт погибать.</VPE_DeadlyColdTemperature_Desc>
+  <VPE_TempTooLowForBlooming>Слишком холодно для цветения</VPE_TempTooLowForBlooming>
+  <VPE_TempTooHighForBlooming>Слишком жарко для цветения</VPE_TempTooHighForBlooming>
+  <VPE_RemoveWeeds>Удалить сорняки</VPE_RemoveWeeds>
+  <VPE_RemoveWeeds_Desc>Удалить сорняки, которые портят красоту этого цветка.</VPE_RemoveWeeds_Desc>
+  <VPE_CancelWeedRemoval>Отменить удаление сорняков</VPE_CancelWeedRemoval>
+  <VPE_CancelWeedRemoval_Desc>Отменить удаление сорняков у этого цветка.</VPE_CancelWeedRemoval_Desc>
+  <VEF_LetterLabelWeeds>Сорняки среди цветов: {PLANTDEF_labelPlural}</VEF_LetterLabelWeeds>
+  <VEF_LetterWeeds>Ваши цветы — {PLANTDEF_labelPlural} — и другие цветущие растения поблизости заросли сорняками и сильно потеряли в красоте.
+
+Можно приказать поселенцам удалить сорняки, но это займёт немало времени.</VEF_LetterWeeds>
+  <MVCF.Toggle>Переключить: {0}</MVCF.Toggle>
+  <MVCF.ToggleUsing>Переключить автоматическое применение: {0}</MVCF.ToggleUsing>
+  <MVCF.ToggleAuto>Переключить автоматическое применение</MVCF.ToggleAuto>
+  <MVCF.Cooldown>Перезарядка ещё не завершена. Осталось: {0}.</MVCF.Cooldown>
+  <MVCF.Setting>Multi-Verb Combat Framework</MVCF.Setting>
+  <MVCF.Settings.Debug>Режим разработчика</MVCF.Settings.Debug>
+  <MVCF.Settings.LogLevel>Уровень подробности журнала:</MVCF.Settings.LogLevel>
+  <MVCF.Settings.LogLevel.None>Не записывать</MVCF.Settings.LogLevel.None>
+  <MVCF.Settings.LogLevel.Important>Важные сообщения</MVCF.Settings.LogLevel.Important>
+  <MVCF.Settings.LogLevel.Info>Информационные сообщения</MVCF.Settings.LogLevel.Info>
+  <MVCF.Settings.LogLevel.Verbose>Подробно</MVCF.Settings.LogLevel.Verbose>
+  <MVCF.Settings.LogLevel.Silly>Максимально подробно</MVCF.Settings.LogLevel.Silly>
+  <MVCF.Settings.LogLevel.Tick>Каждый тик</MVCF.Settings.LogLevel.Tick>
+  <MVCF.ToggleAutoReload>Переключить автоматическую перезарядку в боевом режиме</MVCF.ToggleAutoReload>
+  <VFEMechForceRecharge>Отправить на зарядку</VFEMechForceRecharge>
+  <VFEMechForceRechargeDesc>Приказать закреплённой машине вернуться на эту платформу для зарядки независимо от оставшегося заряда.</VFEMechForceRechargeDesc>
+  <VFEMechAttachTurret>Установить турель</VFEMechAttachTurret>
+  <VFEMechAttachTurretDesc>Установить турель на этой подвижной платформе. Поселенец должен доставить столько же ресурсов, сколько нужно для постройки обычной турели.</VFEMechAttachTurretDesc>
+  <VFEMechMachineDied>Машина уничтожена</VFEMechMachineDied>
+  <VFEMechMachineDiedDesc>Одна из ваших машин уничтожена! Её останки можно разобрать на механическом верстаке. Чтобы построить замену, поселенец должен доставить на платформу следующие детали:
+
+{0}</VFEMechMachineDiedDesc>
+  <VFEMechNoResources>Недостаточно ресурсов</VFEMechNoResources>
+  <VFEMechNoTurret>Нет действующей мобильной турели</VFEMechNoTurret>
+  <VFEMechReconstruct>Для восстановления машины требуется:</VFEMechReconstruct>
+  <VFEMechTurretResources>Для постройки турели требуется:</VFEMechTurretResources>
+  <VFEMechLowerRange>Уменьшить дальность</VFEMechLowerRange>
+  <VFEMechLowerRangeDesc>Уменьшить расстояние, на которое отъезжает эта машина.</VFEMechLowerRangeDesc>
+  <VFEMechRaiseRange>Увеличить дальность</VFEMechRaiseRange>
+  <VFEMechRaiseRangeDesc>Увеличить расстояние, на которое отъезжает эта машина.</VFEMechRaiseRangeDesc>
+  <VFEMechStopMachine>Остановить машину</VFEMechStopMachine>
+  <VFEMechStopMachineDesc>Остановить работу машины и вернуть её на базу.</VFEMechStopMachineDesc>
+  <VFEMechStartMachine>Запустить машину</VFEMechStartMachine>
+  <VFEMechStartMachineDesc>Запустить эту машину.</VFEMechStartMachineDesc>
+  <VFEMechMachineHitObstacle>Машина наткнулась на препятствие!</VFEMechMachineHitObstacle>
+  <VFEMechSetArea>Назначить зону</VFEMechSetArea>
+  <VFEMechSetAreaDesc>Назначить разрешённую зону всем машинам, закреплённым за этой платформой.</VFEMechSetAreaDesc>
+  <VFEMRideableMachineTip>На этом дроиде можно ездить верхом. Участники каравана выбирают самых быстрых доступных животных и дроидов для верховой езды, увеличивая скорость всего каравана.</VFEMRideableMachineTip>
+  <VFEM.CaravanMachineRanOutPower>{MACHINE_nameDef}: заряд закончился, машину пришлось оставить.</VFEM.CaravanMachineRanOutPower>
+  <VFEM.DroneGainsName>Теперь дрона зовут {0}.</VFEM.DroneGainsName>
+  <Outposts.Settings.Title>VE Framework — аванпосты</Outposts.Settings.Title>
+  <Outposts.Settings.Multiplier.Production>Общий множитель производства: {0}</Outposts.Settings.Multiplier.Production>
+  <Outposts.Settings.Multiplier.Time>Общий множитель времени: {0}</Outposts.Settings.Multiplier.Time>
+  <Outposts.Settings.RaidDifficulty>Общий множитель сложности налётов: {0}</Outposts.Settings.RaidDifficulty>
+  <Outposts.Settings.RaidFrequency>Диапазон частоты налётов</Outposts.Settings.RaidFrequency>
+  <Outposts.Dialog.Create>Создать</Outposts.Dialog.Create>
+  <Outposts.Commands.Create.Label>Создать аванпост</Outposts.Commands.Create.Label>
+  <Outposts.Commands.Create.Desc>Основать новый аванпост силами этого каравана.</Outposts.Commands.Create.Desc>
+  <Outposts.Commands.TakeItems.Label>Забрать предметы</Outposts.Commands.TakeItems.Label>
+  <Outposts.Commands.TakeItems.Desc>Передать предметы каравану из аванпоста «{0}».</Outposts.Commands.TakeItems.Desc>
+  <Outposts.Commands.GiveItems.Label>Передать предметы</Outposts.Commands.GiveItems.Label>
+  <Outposts.Commands.GiveItems.Desc>Передать аванпосту предметы из каравана «{0}».</Outposts.Commands.GiveItems.Desc>
+  <Outposts.Letters.Lost.Label>Аванпост потерян</Outposts.Letters.Lost.Label>
+  <Outposts.Letters.Lost.Text>Все жители аванпоста «{0}» погибли. Аванпост потерян.</Outposts.Letters.Lost.Text>
+  <Outposts.Letters.BattleWon.Label>Победа в битве за аванпост</Outposts.Letters.BattleWon.Label>
+  <Outposts.Letters.BattleWon.Text>Битва за аванпост «{0}» завершилась нашей победой.{1}</Outposts.Letters.BattleWon.Text>
+  <Outposts.Letters.BattleWon.Captured>После боя удалось захватить в плен: {0}</Outposts.Letters.BattleWon.Captured>
+  <Outposts.Letters.BattleWon.Rescued>Удалось вернуть тело: {0}</Outposts.Letters.BattleWon.Rescued>
+  <Outposts.Letters.BattleWon.Secured>Трофеи налётчиков — товары и оружие — общей стоимостью {0}</Outposts.Letters.BattleWon.Secured>
+  <Outposts.Letters.Items.Label>Предметы из аванпоста «{0}»</Outposts.Letters.Items.Label>
+  <Outposts.Letters.Items.Text>Из аванпоста «{0}» получены следующие предметы:</Outposts.Letters.Items.Text>
+  <Outposts.Commands.AddPawn.Label>Добавить персонажа</Outposts.Commands.AddPawn.Label>
+  <Outposts.Commands.AddPawn.Desc>Перевести персонажа из этого каравана в аванпост.</Outposts.Commands.AddPawn.Desc>
+  <Outposts.Commands.DeliveryColony.Label>Место доставки</Outposts.Commands.DeliveryColony.Label>
+  <Outposts.Commands.DeliveryColony.Desc>Выбрать колонию, в которую будет доставляться продукция. Текущее назначение: {0}.</Outposts.Commands.DeliveryColony.Desc>
+  <Outposts.Commands.Pack.Label>Свернуть аванпост</Outposts.Commands.Pack.Label>
+  <Outposts.Commands.Pack.Desc>Начать сборы, чтобы покинуть аванпост караваном.</Outposts.Commands.Pack.Desc>
+  <Outposts.Commands.StopPack.Label>Отменить сборы</Outposts.Commands.StopPack.Label>
+  <Outposts.Commands.StopPack.Desc>Отменить сворачивание аванпоста и сбор каравана.</Outposts.Commands.StopPack.Desc>
+  <Outposts.Commands.Remove.Label>Вывести персонажа</Outposts.Commands.Remove.Label>
+  <Outposts.Commands.Remove.Desc>Вывести персонажа из аванпоста в новый караван.</Outposts.Commands.Remove.Desc>
+  <Outposts.Command.Remove.Only1>Нельзя вывести персонажа: остался только один житель. Чтобы покинуть аванпост, выберите «Свернуть аванпост».</Outposts.Command.Remove.Only1>
+  <Outposts.Contains>Персонажей: {0}</Outposts.Contains>
+  <Outposts.Packing>Аванпост сворачивается. Караван будет готов через {0}</Outposts.Packing>
+  <Outposts.NotSkilledEnough>Недостаточно навыков. Суммарный уровень навыка «{0}» должен быть не ниже {1}.</Outposts.NotSkilledEnough>
+  <Outposts.RestingAt>Отдых в аванпосте «{0}»</Outposts.RestingAt>
+  <Outposts.WillProduce.0>Продукция будет готова через {0}</Outposts.WillProduce.0>
+  <Outposts.WillProduce.1>Через {2} будет произведено: {0} {1}</Outposts.WillProduce.1>
+  <Outposts.WillProduce.2>Через {4} будет произведено: {0} {1} и {2} {3}</Outposts.WillProduce.2>
+  <Outposts.WillProduce.N>Через {0} будет произведено:
+{1}</Outposts.WillProduce.N>
+  <Outposts.CannotBeMade>Нельзя основать в биоме «{0}»</Outposts.CannotBeMade>
+  <Outposts.NotEnoughPawns>В караване недостаточно персонажей. Требуется не менее {0}.</Outposts.NotEnoughPawns>
+  <Outposts.TotalSkill>Суммарный уровень навыка «{0}»: {1}</Outposts.TotalSkill>
+  <Outposts.TooClose>Слишком близко к поселению или другому аванпосту. Между ними должна оставаться хотя бы одна клетка мира.</Outposts.TooClose>
+  <Outposts.AddedFromTransportPods>Ваши транспортные капсулы прибыли. Пункт назначения: {1}. Добавлено: {0}.</Outposts.AddedFromTransportPods>
+  <Outposts.AddTo>Добавить в аванпост</Outposts.AddTo>
+  <Outposts.SendNonPawns>Отправить предметы в аванпост? Они будут навсегда потеряны.</Outposts.SendNonPawns>
+  <Outposts.AlreadyPacking>Аванпост уже сворачивается</Outposts.AlreadyPacking>
+  <Outposts.Settings.DeliveryMethod>Способ доставки</Outposts.Settings.DeliveryMethod>
+  <Outposts.Settings.DeliveryMethod.Teleport>Телепортировать предметы в колонию</Outposts.Settings.DeliveryMethod.Teleport>
+  <Outposts.Settings.DeliveryMethod.PackAnimal>Отправлять вьючное животное с грузом</Outposts.Settings.DeliveryMethod.PackAnimal>
+  <Outposts.Settings.DeliveryMethod.Store>Хранить предметы в аванпосте</Outposts.Settings.DeliveryMethod.Store>
+  <Outposts.Settings.DeliveryMethod.ForcePods>Всегда использовать транспортные капсулы</Outposts.Settings.DeliveryMethod.ForcePods>
+  <Outposts.Settings.DeliveryMethod.PackOrPods>Использовать транспортные капсулы, если доступны, иначе — вьючное животное</Outposts.Settings.DeliveryMethod.PackOrPods>
+  <Outposts.Abandoned>Аванпост заброшен</Outposts.Abandoned>
+  <Outposts.Abandoned.Desc>Аванпост «{0}» заброшен: в нём не осталось жителей. Вскоре его разграбят и он зарастёт, не оставив следов своего существования.</Outposts.Abandoned.Desc>
+  <Outposts.Take>Взять</Outposts.Take>
+  <Outposts.Give>Передать</Outposts.Give>
+  <Outposts.AllowedBiomes>Допустимые биомы:</Outposts.AllowedBiomes>
+  <Outposts.DisallowedBiomes>Недопустимые биомы:</Outposts.DisallowedBiomes>
+  <Outposts.NumPawns>Требуется не менее {0} персонажей, готовых поселиться в аванпосте</Outposts.NumPawns>
+  <Outposts.RequiredSkill>Суммарный уровень навыка «{0}» должен быть не ниже {1}</Outposts.RequiredSkill>
+  <Outposts.GrowingRequired>Нужна возможность выращивать растения</Outposts.GrowingRequired>
+  <Outposts.MustHaveInCaravan>В караване требуется: {0}</Outposts.MustHaveInCaravan>
+  <Outposts.NoValidPawns>Нет персонажей, которых можно добавить в аванпост</Outposts.NoValidPawns>
+  <Outposts.SkillChange>Из-за изменения уровня навыков аванпост «{0}» больше не может производить: {1}.</Outposts.SkillChange>
+  <Outposts.Setting.ProductionTime>Время производства</Outposts.Setting.ProductionTime>
+  <Outposts.Setting.PackTime>Время сворачивания аванпоста</Outposts.Setting.PackTime>
+  <Outposts.Setting.Range>Радиус действия</Outposts.Setting.Range>
+  <Outposts.Setting.MinimumPawns>Минимум персонажей для основания</Outposts.Setting.MinimumPawns>
+  <Outposts.Settings.Production>Множитель производства</Outposts.Settings.Production>
+  <Outposts.Settings.DoRaids>Разрешить налёты на аванпосты</Outposts.Settings.DoRaids>
+  <PipeSystem_Consumption>Потребление: {0}</PipeSystem_Consumption>
+  <PipeSystem_ConsumptionExplained>Количество ресурса «{0}», которое эта постройка ежедневно потребляет из сети «{1}».</PipeSystem_ConsumptionExplained>
+  <PipeSystem_IdleConsumption>Потребление в простое: {0}</PipeSystem_IdleConsumption>
+  <PipeSystem_IdleConsumptionExplained>Количество ресурса «{0}», которое эта постройка потребляет из сети «{1}» во время простоя.</PipeSystem_IdleConsumptionExplained>
+  <PipeSystem_Production>Производство: {0}</PipeSystem_Production>
+  <PipeSystem_ProductionExplained>Количество ресурса «{0}», которое эта постройка ежедневно подаёт в сеть «{1}».</PipeSystem_ProductionExplained>
+  <PipeSystem_DeconstructLabel>Разобрать трубы: {0}</PipeSystem_DeconstructLabel>
+  <PipeSystem_DeconstructDesc>Разбирать только трубы сети «{0}».</PipeSystem_DeconstructDesc>
+  <PipeSystem_ResourceOutput>Выход ресурса «{0}»:</PipeSystem_ResourceOutput>
+  <PipeSystem_ResourceNeeded>Требуется ресурса «{0}»:</PipeSystem_ResourceNeeded>
+  <PipeSystem_ResourceStored>Запас ресурса «{0}»:</PipeSystem_ResourceStored>
+  <PipeSystem_NotConnected>Нет подключения к сети «{0}».</PipeSystem_NotConnected>
+  <PipeSystem_ExcessStored>{0}: избыток в сети — {1} {3}/д.; запас — {2} {3}</PipeSystem_ExcessStored>
+  <PipeSystem_Stored>Запас ресурса «{0}» в сети:</PipeSystem_Stored>
+  <PipeSystem_ValveClosed>Вентиль закрыт.</PipeSystem_ValveClosed>
+  <PipeSystem_ValveOpened>Вентиль открыт.</PipeSystem_ValveOpened>
+  <PipeSystem_AugmentStack>+1</PipeSystem_AugmentStack>
+  <PipeSystem_AugmentStackDesc>Увеличить максимальный размер выходной стопки на 1.</PipeSystem_AugmentStackDesc>
+  <PipeSystem_AugmentStackB>+10</PipeSystem_AugmentStackB>
+  <PipeSystem_AugmentStackDescB>Увеличить максимальный размер выходной стопки на 10.</PipeSystem_AugmentStackDescB>
+  <PipeSystem_DecreaseStack>-1</PipeSystem_DecreaseStack>
+  <PipeSystem_DecreaseStackDesc>Уменьшить максимальный размер выходной стопки на 1.</PipeSystem_DecreaseStackDesc>
+  <PipeSystem_DecreaseStackB>-10</PipeSystem_DecreaseStackB>
+  <PipeSystem_DecreaseStackDescB>Уменьшить максимальный размер выходной стопки на 10.</PipeSystem_DecreaseStackDescB>
+  <PipeSystem_AmountOut>Максимальный запас здесь: {0}</PipeSystem_AmountOut>
+  <PipeSystem_ProcessorBuffer>Буфер: {0}</PipeSystem_ProcessorBuffer>
+  <PipeSystem_Producing>Производится: {0} {1}. Прогресс цикла: {2}.</PipeSystem_Producing>
+  <PipeSystem_Produce>Производить {0} {1} из {2} {3}.</PipeSystem_Produce>
+  <PipeSystem_ChooseResult>Выбрать продукцию</PipeSystem_ChooseResult>
+  <PipeSystem_ChooseResultDesc>Выбрать продукцию перерабатывающей установки.</PipeSystem_ChooseResultDesc>
+  <PipeSystem_ProduceLabel>Производить {0} {1}, используя:</PipeSystem_ProduceLabel>
+  <PipeSystem_TransferContent>Перекачать содержимое</PipeSystem_TransferContent>
+  <PipeSystem_TransferContentDesc>Перекачать содержимое в другие доступные хранилища.</PipeSystem_TransferContentDesc>
+  <PipeSystem_MarkedToTransferContent>Содержимое перекачивается в другие доступные хранилища...</PipeSystem_MarkedToTransferContent>
+  <PipeSystem_NothingToRefill>Нет ресурсов для пополнения: {0}</PipeSystem_NothingToRefill>
+  <PipeSystem_AllowManualRefill>Разрешить ручное наполнение</PipeSystem_AllowManualRefill>
+  <PipeSystem_AllowManualRefillDesc>Разрешить персонажам напрямую наполнять хранилище.</PipeSystem_AllowManualRefillDesc>
+  <PipeSystem_CantExtract>Добыча невозможна: резервуары заполнены</PipeSystem_CantExtract>
+  <PipeSystem_CantPlaceHere>{0}: можно разместить только на месторождении ресурса «{1}». Для поиска месторождений используйте геосканер.</PipeSystem_CantPlaceHere>
+  <PipeSystem_ResourceLeft>Осталось в месторождении: {0}.</PipeSystem_ResourceLeft>
+  <PipeSystem_NoStorageInNet>Не подключено хранилище</PipeSystem_NoStorageInNet>
+  <PipeSystem_NoStorageInNetDesc>Этим сетям требуется хранилище, но ни одно не подключено:</PipeSystem_NoStorageInNetDesc>
+  <PipeSystem_StorageContentRotted>{0}: содержимое сгнило из-за отсутствия электричества.</PipeSystem_StorageContentRotted>
+  <PipeSystem_ContentWillRot>Содержимое сгниёт через {0} из-за отсутствия электричества.</PipeSystem_ContentWillRot>
+  <PipeSystem_NothingToPickUp>Нечего забирать</PipeSystem_NothingToPickUp>
+  <PipeSystem_MakeProcess>Изготовить: {0}</PipeSystem_MakeProcess>
+  <PipeSystem_OutputToNet>{0} в сеть</PipeSystem_OutputToNet>
+  <PipeSystem_OrNet>или в сеть «{0}»</PipeSystem_OrNet>
+  <PipeSystem_XFromNet>{0} из сети</PipeSystem_XFromNet>
+  <PipeSystem_Processes>Процессы</PipeSystem_Processes>
+  <PipeSystem_AddProcess>Добавить процесс</PipeSystem_AddProcess>
+  <PipeSystem_CancelCurrentProcess>Отменить текущий процесс</PipeSystem_CancelCurrentProcess>
+  <PipeSystem_OutputOnGround>Можно выгружать на землю</PipeSystem_OutputOnGround>
+  <PipeSystem_NoProcess>Нет текущего процесса</PipeSystem_NoProcess>
+  <PipeSystem_NoProcessAvailable>Нет доступных процессов</PipeSystem_NoProcessAvailable>
+  <PipeSystem_Product>Продукт</PipeSystem_Product>
+  <PipeSystem_ProgressInInfobox>{0}: {1}</PipeSystem_ProgressInInfobox>
+  <PipeSystem_MissingInputIngredients>Не хватает сырья: {0}</PipeSystem_MissingInputIngredients>
+  <PipeSystem_CopyProcesses>Скопировать процессы</PipeSystem_CopyProcesses>
+  <PipeSystem_PasteProcesses>Вставить процессы</PipeSystem_PasteProcesses>
+  <PipeSystem_PasteAllRecipes>Вставить все процессы</PipeSystem_PasteAllRecipes>
+  <PipeSystem_PasteAllRecipes_Desc>Вставить все скопированные процессы в эту перерабатывающую установку. Можно выбрать несколько установок: процессы будут вставлены в каждую.</PipeSystem_PasteAllRecipes_Desc>
+  <PipeSystem_ExtractAtCurrentQuality>Извлечь с текущим качеством</PipeSystem_ExtractAtCurrentQuality>
+  <PipeSystem_ExtractAtCurrentQuality_Desc>Извлечь продукт с текущим качеством.</PipeSystem_ExtractAtCurrentQuality_Desc>
+  <PipeSystem_QualitySelector>Выбрать качество, при достижении которого процесс остановится</PipeSystem_QualitySelector>
+  <PipeSystem_ProcessNeedsAwfulAtLeast>Необходимо дождаться хотя бы ужасного качества. Оно достигается через {0} от начала процесса.</PipeSystem_ProcessNeedsAwfulAtLeast>
+  <PipeSystem_CurrentQuality>Текущее качество: {0}</PipeSystem_CurrentQuality>
+  <PipeSystem_CurrentNotReachedAwful>Продукт ещё не достиг даже ужасного качества</PipeSystem_CurrentNotReachedAwful>
+  <PipeSystem_ExtractingAtCurrent>Продукт извлекается с текущим качеством</PipeSystem_ExtractingAtCurrent>
+  <PipeSystem_OutputFactoryHopperIncorrect>Нет выходной заводской воронки либо её настройки хранения запрещают этот предмет.</PipeSystem_OutputFactoryHopperIncorrect>
+  <PipeSystem_OutputFactoryHopperFull>Выходная заводская воронка заполнена (максимум {0} ед.)</PipeSystem_OutputFactoryHopperFull>
+  <PipeSystem_NotInRoomExplanation>Помещение этой установки не соответствует назначению «{0}», поэтому скорость работы получает штраф {1}. Условия будут пересчитаны после начала процесса.</PipeSystem_NotInRoomExplanation>
+  <PipeSystem_WorkSpeed>скорость работы</PipeSystem_WorkSpeed>
+  <PipeSystem_InterruptedByGillRot>Нельзя разводить рыбу из-за жаберной гнили</PipeSystem_InterruptedByGillRot>
+  <Reloading.Unload>Разрядить: {GEAR_labelShort}</Reloading.Unload>
+  <Reloading.NoAmmo>Нет боеприпасов</Reloading.NoAmmo>
+  <Reloading.Ammo>Боеприпасы: {0} / {1}</Reloading.Ammo>
+  <Reloading.Reload>Перезарядить: {GEAR}. Боеприпасы: {AMMO_label}</Reloading.Reload>
+  <VEF_GeneralTitle>Общие</VEF_GeneralTitle>
+  <CSGTitle>Генерация особых построек:</CSGTitle>
+  <CSGLog>Записывать отладку генерации построек в журнал: </CSGLog>
+  <VEF_TPTitle>Переключаемые патчи</VEF_TPTitle>
+  <NeedRestart>Для применения любой настройки требуется перезапуск игры</NeedRestart>
+  <XPatchFound>Найдено патчей: {0}</XPatchFound>
+  <VEF.WeatherDamages>Урон от погоды</VEF.WeatherDamages>
+  <VEF.EnableWeatherDamage>{0}</VEF.EnableWeatherDamage>
+  <FDTitle>Добавление фракций</FDTitle>
+  <NeedToBeInGame>Сначала загрузите сохранение</NeedToBeInGame>
+  <AskForPopUp>Добавить фракции</AskForPopUp>
+  <AskForPopUpExplained>Открыть предложения о добавлении каждой отсутствующей фракции в текущую игру.</AskForPopUpExplained>
+  <CanAddXFaction>В текущее сохранение можно добавить фракций: {0}</CanAddXFaction>
+  <VEF.DisableModSourceReport>Скрывать сведения о моде-источнике</VEF.DisableModSourceReport>
+  <VEF.Shields.Search>Поиск: </VEF.Shields.Search>
+  <VEF.Shields.ResetModSettingsToDefault>Сбросить настройки мода</VEF.Shields.ResetModSettingsToDefault>
+  <VEF.Shields.ExplanationTitle>Выберите, какое оружие можно использовать вместе со щитами.</VEF.Shields.ExplanationTitle>
+  <VEF.Shields.ShowMeleeWeapons>Показать оружие ближнего боя</VEF.Shields.ShowMeleeWeapons>
+  <VEF.Shields.ShowRangeWeapons>Показать оружие дальнего боя</VEF.Shields.ShowRangeWeapons>
+  <VEF_DisableTextureCaching>Отключить кэширование текстур</VEF_DisableTextureCaching>
+  <VEF_EnablePipeSystemNoStorageAlert>Предупреждать об отсутствии хранилища в сети трубопроводов</VEF_EnablePipeSystemNoStorageAlert>
+  <VEF_FactionDiscovery>Добавление фракций</VEF_FactionDiscovery>
+  <VEF_CustomStructureGeneration>Генерация особых построек:</VEF_CustomStructureGeneration>
+  <VEF_TextureVariations>Варианты текстур:</VEF_TextureVariations>
+  <VEF_VerboseLogging>Подробный журнал</VEF_VerboseLogging>
+  <VEF_UnforbidMinedOres>Снимать запрет с добытой руды</VEF_UnforbidMinedOres>
+  <VEF_Never>Никогда</VEF_Never>
+  <VEF_HomeArea>В домашней области</VEF_HomeArea>
+  <VEF_Always>Всегда</VEF_Always>
+  <VEF_NeverDesc>Никогда не снимать запрет с добытой руды. Так основная игра поступает с рудой, добытой животными и механоидами.</VEF_NeverDesc>
+  <VEF_HomeAreaDesc>Снимать запрет с добытой руды только в домашней области.</VEF_HomeAreaDesc>
+  <VEF_AlwaysDesc>Всегда снимать запрет с добытой руды.</VEF_AlwaysDesc>
+  <VFECore.IsToo>слишком</VFECore.IsToo>
+  <VFECore.Advanced>развита</VFECore.Advanced>
+  <VFECore.Primitive>примитивна</VFECore.Primitive>
+  <VFECore.StatsReport_Powered>С питанием</VFECore.StatsReport_Powered>
+  <VFECore.StatsReport_Unpowered>Без питания</VFECore.StatsReport_Unpowered>
+  <VEF_RangeAttackSpeedFactor>Множитель скорости дальних атак</VEF_RangeAttackSpeedFactor>
+  <VEF.RangedDodge.ShotReportReadout>Уклонение</VEF.RangedDodge.ShotReportReadout>
+  <TerrainTagVFEI2_Creep>покров насекомых</TerrainTagVFEI2_Creep>
+  <TerrainTagVFEI2_JellyFloor>покрытие из желе насекомых</TerrainTagVFEI2_JellyFloor>
+  <TerrainTagVFEI2_RoyalJellyFloor>покрытие из королевского желе</TerrainTagVFEI2_RoyalJellyFloor>
+  <VEF.Hire>Нанять: {0}</VEF.Hire>
+  <VEF.HireDesc>Нанять представителей группы «{0}» для помощи колонии, например для её защиты.</VEF.HireDesc>
+  <VEF.AvailableSilver>Доступно серебра: {0}</VEF.AvailableSilver>
+  <VEF.Value>Стоимость</VEF.Value>
+  <VEF.ChooseNumberOfUnits>Сколько бойцов этого типа вы хотите нанять?</VEF.ChooseNumberOfUnits>
+  <VEF.Breakdown>Расчёт стоимости</VEF.Breakdown>
+  <VEF.DayAmount>Количество дней</VEF.DayAmount>
+  <VEF.Cost>Стоимость найма</VEF.Cost>
+  <VEF.RiskMult>Множитель за риск</VEF.RiskMult>
+  <VEF.TotalPrice>Итоговая цена</VEF.TotalPrice>
+  <VEF.HiringDesc>Группу «{0}» можно нанять на любой срок. Одновременно может действовать только один контракт; нанимать представителей разных фракций по одному контракту нельзя.
+Если нанятые представители группы «{0}» погибнут на службе, каждый погибший повысит цену всех последующих контрактов на 5% на целый год.</VEF.HiringDesc>
+  <VEF.LongTerm>Долгосрочные контракты значительно дороже</VEF.LongTerm>
+  <VEF.ContractInfo>Посмотреть контракт: {0}</VEF.ContractInfo>
+  <VEF.PawnsList>Нанятые бойцы:</VEF.PawnsList>
+  <VEF.ContractTitle>Контракт: {0}</VEF.ContractTitle>
+  <VEF.Spent>Потрачено серебра:</VEF.Spent>
+  <VEF.TimeLeft>Осталось времени:</VEF.TimeLeft>
+  <VEF.CancelContract>Расторгнуть контракт</VEF.CancelContract>
+  <VEF.NoRefund>При расторжении контракта потраченное серебро не возвращается.</VEF.NoRefund>
+  <VEF.Customize>Настроить: {0}</VEF.Customize>
+  <VEF.CustomizationTitle>Настройка: {0}</VEF.CustomizationTitle>
+  <VEF.Name>Имя</VEF.Name>
+  <VEF.Cancel>Отмена</VEF.Cancel>
+  <VEF.AvailableContracts>Доступно контрактов: {0}</VEF.AvailableContracts>
+  <VEF.MechsSection>Механоиды</VEF.MechsSection>
+  <VEF.DoorLockDefault>По умолчанию</VEF.DoorLockDefault>
+  <VEF.DoorLockEveryone>Все</VEF.DoorLockEveryone>
+  <VEF.DoorLockOnlyColonistsAndAnimals>Только поселенцы и животные</VEF.DoorLockOnlyColonistsAndAnimals>
+  <VEF.DoorLockOnlyColonistsAndAnimalsAndFriendlies>Поселенцы, животные и дружественные персонажи</VEF.DoorLockOnlyColonistsAndAnimalsAndFriendlies>
+  <VEF.DoorLockOnlyDrafted>Только в боевом режиме</VEF.DoorLockOnlyDrafted>
+  <VEF.DoorLockState>Доступ через дверь: «{0}»</VEF.DoorLockState>
+  <VEF.DoorLockStateDesc>Нажмите, чтобы изменить правила доступа через эту дверь.</VEF.DoorLockStateDesc>
+  <VEF.DoorLockStatePowerOff>Нет электричества. Изменить правила доступа через дверь невозможно.</VEF.DoorLockStatePowerOff>
+  <VEF.DraftHuntLabel>Охота</VEF.DraftHuntLabel>
+  <VEF.HuntDescription>В этом режиме персонажи сами сближаются с ближайшими целями и атакуют их.
+
+Щёлкните по кнопке правой кнопкой мыши, чтобы переключить автоматическое применение ВСЕХ способностей выбранного персонажа.</VEF.HuntDescription>
+  <VEF.QuestChainTooltip>Это задание входит в цепочку. Его выполнение может открыть следующие задания.
+
+{0}
+
+{1}</VEF.QuestChainTooltip>
+  <VEF.CommandAttackMovingBaseDesc>Атаковать: {0}.</VEF.CommandAttackMovingBaseDesc>
+  <VFE.ChangeVisualLabel>Изменить внешний вид</VFE.ChangeVisualLabel>
+  <VFE.ChangeVisualDesc>Выбрать внешний вид постройки или предмета.</VFE.ChangeVisualDesc>
+  <VEF.MinCapacityLevel>мин. {MIN}%</VEF.MinCapacityLevel>
+  <VCE_AllowConditions>Разрешить хронические заболевания из-за питания: диабет, повышенный холестерин и гипертонию</VCE_AllowConditions>
+  <VCE_MustBeInstalled>Эти настройки действуют только при установленном Vanilla Cooking Expanded</VCE_MustBeInstalled>
+  <VCE_Pollinated>Рядом есть пасека</VCE_Pollinated>
+  <VCE_NotPollinated>В радиусе 6 клеток нет пасеки (проверяется при посеве)</VCE_NotPollinated>
+  <VCE_NotInEquator>Вне экваториальной зоны; рост обычный. На этой планете экваториальная зона расположена на широтах ниже {0}.</VCE_NotInEquator>
+  <VCE_InEquator>В экваториальной зоне: рост ускорен на 30%.</VCE_InEquator>
+  <VCE_NeedsShade>Этому растению нужна тень: оно должно расти снаружи, но под крышей.</VCE_NeedsShade>
+  <VCE_StuntedGrowthFertility>Рост замедлен: поверхность недостаточно каменистая</VCE_StuntedGrowthFertility>
+  <VCE_StoppedGrowthFertility>Рост невозможен: слишком плодородная почва</VCE_StoppedGrowthFertility>
+  <VCE_WaterNearby>Водоём поблизости мешает росту этого растения</VCE_WaterNearby>
+  <VCE_NoWaterNearby>Отсутствие водоёма поблизости мешает росту этого растения</VCE_NoWaterNearby>
+  <VCE_NoSeaTilesNearby>Слишком далеко от моря: дополнительного бонуса к росту нет</VCE_NoSeaTilesNearby>
+  <VCE_SeaTilesNearby>Клеток моря поблизости: {0}. Бонус к скорости роста: {0}%.</VCE_SeaTilesNearby>
+  <VFE_ChunkToMine>Бурить: {0}</VFE_ChunkToMine>
+  <VFE_ChunkRandomMine>Добывать случайные обломки породы</VFE_ChunkRandomMine>
+  <VFE_ChooseMine>Выбрать породу для бурения</VFE_ChooseMine>
+  <VFE_ChooseMineDesc>Выбрать любую породу, встречающуюся на этой карте, либо добывать случайные обломки.</VFE_ChooseMineDesc>
+  <VFE_RandomRock>Случайный обломок</VFE_RandomRock>
+  <VFE_PleaseSelectOutput>Выберите продукцию устройства</VFE_PleaseSelectOutput>
+  <VFE_NeedsWater>Эту постройку нужно разместить на воде</VFE_NeedsWater>
+  <VFE_NeedsSand>Эту постройку нужно разместить на песке</VFE_NeedsSand>
+  <VFE_ChangeGraphic>Случайный вид</VFE_ChangeGraphic>
+  <VFE_ChangeGraphicDesc>Случайно выбрать один из доступных вариантов внешнего вида этой постройки.</VFE_ChangeGraphicDesc>
+  <VFE_ChooseGraphic>Выбрать вид</VFE_ChooseGraphic>
+  <VFE_ChooseGraphicDesc>Выбрать внешний вид постройки в меню доступных вариантов.</VFE_ChooseGraphicDesc>
+  <VFE_NoGraphics>У этой постройки нет альтернативных вариантов внешнего вида. Автор добавил компонент их выбора, но сами варианты не указал.</VFE_NoGraphics>
+  <VFE_HideRandomizeButton>Скрыть кнопки «Случайный вид» и «Выбрать вид»</VFE_HideRandomizeButton>
+  <VFE_RandomBuildingsDontStartRandom>Не выбирать случайный внешний вид при создании построек</VFE_RandomBuildingsDontStartRandom>
+  <VFE.SwitchLightColor>Сменить цвет освещения</VFE.SwitchLightColor>
+  <VFE.SwitchLightColorDesc>Изменить текущий цвет освещения.</VFE.SwitchLightColorDesc>
+  <VFE.ChangeColorTo>Выбрать цвет: {0}</VFE.ChangeColorTo>
+  <VFE.ColorSwitchPowerOff>Нет электричества. Изменить цвет невозможно.</VFE.ColorSwitchPowerOff>
+  <VGE_StatsReport_Over40>выше 40 °C</VGE_StatsReport_Over40>
+  <VGE_StatsReport_Below0>ниже 0 °C</VGE_StatsReport_Below0>
+  <VGE_StatsReport_Armoured>в броне</VGE_StatsReport_Armoured>
+  <VGE_StatsReport_NoSunlight>без солнечного света</VGE_StatsReport_NoSunlight>
+  <VGE_StatsReport_Water>на воде</VGE_StatsReport_Water>
+  <VGE_StatsReport_NotWater>на суше</VGE_StatsReport_NotWater>
+  <VGE_StatsReport_Outside>снаружи</VGE_StatsReport_Outside>
+  <VGE_StatsReport_Inside>в помещении</VGE_StatsReport_Inside>
+  <VGE_StatsReport_InLight>при освещённости выше 50%</VGE_StatsReport_InLight>
+  <VGE_StatsReport_InDarkness>при освещённости ниже 50%</VGE_StatsReport_InDarkness>
+  <VGE_StatsReport_InPain>при боли</VGE_StatsReport_InPain>
+  <VGE_StatsReport_InGreatPain>при сильной боли (более 20%)</VGE_StatsReport_InGreatPain>
+  <VGE_StatsReport_InPollution>на загрязнённой местности</VGE_StatsReport_InPollution>
+  <VGE_StatsReport_ColonyMap>на карте колонии</VGE_StatsReport_ColonyMap>
+  <VGE_StatsReport_OutsideColonyMap>вне карты колонии</VGE_StatsReport_OutsideColonyMap>
+  <VGE_StatsReport_AnyLightSensitivity>чувствительность к свету</VGE_StatsReport_AnyLightSensitivity>
+  <VGE_StatsReport_InVacuum>в вакууме</VGE_StatsReport_InVacuum>
+  <VGE_StatsReport_InSpace>в космосе</VGE_StatsReport_InSpace>
+  <VGE_StatsReport_InPlanet>на поверхности планеты</VGE_StatsReport_InPlanet>
+  <VGE_EggPregnancy>{0}: яйца оплодотворены! Их формирование продолжится до откладывания оплодотворённого яйца.</VGE_EggPregnancy>
+  <VGE_EggPregnancyLabel>{0}: яйца оплодотворены!</VGE_EggPregnancyLabel>
+  <VGE_EggLaid>{0}: отложено яйцо! Держите его в тепле и защищайте от опасностей.</VGE_EggLaid>
+  <VGE_EggLaidLabel>{0}: отложено яйцо!</VGE_EggLaidLabel>
+  <VGE_EggHatched>Из яйца появился новый персонаж: {0}!</VGE_EggHatched>
+  <VGE_EggHatchedLabel>Вылупление из яйца: {0}</VGE_EggHatchedLabel>
+  <VGE_Male_Egg>Мужские особи не откладывают яйца</VGE_Male_Egg>
+  <VGE_PregnancyFactor>Ген-модификатор беременности: скорость вынашивания {0}</VGE_PregnancyFactor>
+  <VGE_ForGenderOnly>Ген действует только на указанный пол: {0}.</VGE_ForGenderOnly>
+  <VME_MessageNeedsThePairedMeme>Для работы принципа «{0}» нужно также выбрать один из следующих принципов: {1}</VME_MessageNeedsThePairedMeme>
+  <chupakobra6_2023507013_LaserTurretNotCharged>Лазерная турель не заряжена</chupakobra6_2023507013_LaserTurretNotCharged>
+  <chupakobra6_2023507013_HeatedFloor_LowPower>(пониженная мощность)</chupakobra6_2023507013_HeatedFloor_LowPower>
+  <chupakobra6_2023507013_HeatedFloor_HighPower>(полная мощность)</chupakobra6_2023507013_HeatedFloor_HighPower>
+  <chupakobra6_2023507013_FloorWire_InspectStringPart>
+Подключено клеток пола: {0}; поток энергии: {1} Вт</chupakobra6_2023507013_FloorWire_InspectStringPart>
+  <chupakobra6_2023507013_VFE_RandomOrSequentially>Случайный порядок вариантов (не используется в этой версии)</chupakobra6_2023507013_VFE_RandomOrSequentially>
+  <chupakobra6_2023507013_EncumberedMerchantGuildTilesPerDayTip>Передвижение невозможно из-за перегруза</chupakobra6_2023507013_EncumberedMerchantGuildTilesPerDayTip>
+  <chupakobra6_2023507013_FinalMerchantGuildMovementSpeed>Итоговая скорость передвижения</chupakobra6_2023507013_FinalMerchantGuildMovementSpeed>
+</LanguageData>

@@ -1,0 +1,312 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RimHUD.Language.AdjectiveNounOrder>{0} {1}</RimHUD.Language.AdjectiveNounOrder>
+  <RimHUD.ToggleHud>Показать панель RimHUD</RimHUD.ToggleHud>
+  <RimHUD.Integration.PawnRules.RuleNameFormat>Правила: {0}</RimHUD.Integration.PawnRules.RuleNameFormat>
+  <RimHUD.Interface.Button.OK>ОК</RimHUD.Interface.Button.OK>
+  <RimHUD.Interface.Button.Yes>Да</RimHUD.Interface.Button.Yes>
+  <RimHUD.Interface.Button.No>Нет</RimHUD.Interface.Button.No>
+  <RimHUD.Interface.Button.Cancel>Отмена</RimHUD.Interface.Button.Cancel>
+  <RimHUD.Interface.Button.Close>Закрыть</RimHUD.Interface.Button.Close>
+  <RimHUD.Interface.Button.Save>Сохранить</RimHUD.Interface.Button.Save>
+  <RimHUD.Interface.Dialog_Config.Title>RimHUD</RimHUD.Interface.Dialog_Config.Title>
+  <RimHUD.Interface.Dialog_Config.SetToDefault>Восстановить стандартные настройки</RimHUD.Interface.Dialog_Config.SetToDefault>
+  <RimHUD.Interface.Dialog_Config.OpenFolder>Папка настроек</RimHUD.Interface.Dialog_Config.OpenFolder>
+  <RimHUD.Interface.Dialog_Config.Modified>(Изменено)</RimHUD.Interface.Dialog_Config.Modified>
+  <RimHUD.Interface.Dialog_Config.Tab_Design>Оформление</RimHUD.Interface.Dialog_Config.Tab_Design>
+  <RimHUD.Interface.Dialog_Config.Tab_Colors>Цвета</RimHUD.Interface.Dialog_Config.Tab_Colors>
+  <RimHUD.Interface.Dialog_Config.Tab_Colors.Editor>Изменить цвет для {0}</RimHUD.Interface.Dialog_Config.Tab_Colors.Editor>
+  <RimHUD.Interface.Dialog_Config.Tab_Colors.Hue>Оттенок</RimHUD.Interface.Dialog_Config.Tab_Colors.Hue>
+  <RimHUD.Interface.Dialog_Config.Tab_Colors.Saturation>Насыщенность</RimHUD.Interface.Dialog_Config.Tab_Colors.Saturation>
+  <RimHUD.Interface.Dialog_Config.Tab_Colors.Lightness>Яркость</RimHUD.Interface.Dialog_Config.Tab_Colors.Lightness>
+  <RimHUD.Interface.Dialog_Config.Tab_Colors.Alpha>Непрозрачность</RimHUD.Interface.Dialog_Config.Tab_Colors.Alpha>
+  <RimHUD.Interface.Dialog_Config.Tab_Colors.RGBA>RGBA</RimHUD.Interface.Dialog_Config.Tab_Colors.RGBA>
+  <RimHUD.Interface.Dialog_Config.Tab_Content>Содержимое</RimHUD.Interface.Dialog_Config.Tab_Content>
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Layers.Docked>Слои закреплённой панели</RimHUD.Interface.Dialog_Config.Tab_Content.Layers.Docked>
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Layers.Floating>Слои плавающей панели</RimHUD.Interface.Dialog_Config.Tab_Content.Layers.Floating>
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Presets>Пресеты</RimHUD.Interface.Dialog_Config.Tab_Content.Presets>
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Presets.Select>Выбрать пресет...</RimHUD.Interface.Dialog_Config.Tab_Content.Presets.Select>
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Presets.Save>Сохранить пресет</RimHUD.Interface.Dialog_Config.Tab_Content.Presets.Save>
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Presets.Manage>Управление пресетами</RimHUD.Interface.Dialog_Config.Tab_Content.Presets.Manage>
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Presets.Default>[По умолчанию]</RimHUD.Interface.Dialog_Config.Tab_Content.Presets.Default>
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Layer>Слой</RimHUD.Interface.Dialog_Config.Tab_Content.Layer>
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Layer.MoveUp>Переместить выше</RimHUD.Interface.Dialog_Config.Tab_Content.Layer.MoveUp>
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Layer.MoveDown>Переместить ниже</RimHUD.Interface.Dialog_Config.Tab_Content.Layer.MoveDown>
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Layer.Remove>Удалить</RimHUD.Interface.Dialog_Config.Tab_Content.Layer.Remove>
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddStack>Добавить группу</RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddStack>
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddStackDesc>Группа может содержать другие группы и панели. Элементы внутри неё равномерно распределяются по горизонтали или вертикали в зависимости от выбранного типа группы.</RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddStackDesc>
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddPanel>Добавить панель</RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddPanel>
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddPanelDesc>Панель равномерно размещает строки элементов по вертикали.</RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddPanelDesc>
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddRow>Добавить строку</RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddRow>
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddRowDesc>Строка содержит элементы. Если их больше одного, они будут равномерно распределяться по горизонтали.</RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddRowDesc>
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddWidget>Добавить стандартный элемент</RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddWidget>
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddThirdParty>Добавить элемент другого мода</RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddThirdParty>
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddStat>Добавить характеристику</RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddStat>
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddRecord>Добавить показатель статистики</RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddRecord>
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddNeed>Добавить шкалу</RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddNeed>
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddSkillOrTraining>Добавить навык или дрессировку</RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddSkillOrTraining>
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Selected>Выбрано: </RimHUD.Interface.Dialog_Config.Tab_Content.Selected>
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Selected.Filled>Заполнить по высоте</RimHUD.Interface.Dialog_Config.Tab_Content.Selected.Filled>
+  <RimHUD.Interface.Dialog_Config.Tab_Content.Selected.FilledDesc>Если включено, панель или группа займёт всё оставшееся пространство по высоте.
+
+Если выключено, высота будет соответствовать содержимому.</RimHUD.Interface.Dialog_Config.Tab_Content.Selected.FilledDesc>
+  <RimHUD.Interface.Dialog_ManagePresets.Title>Пользовательские пресеты</RimHUD.Interface.Dialog_ManagePresets.Title>
+  <RimHUD.Interface.Dialog_ManagePresets.Delete>Удалить выбранное</RimHUD.Interface.Dialog_ManagePresets.Delete>
+  <RimHUD.Interface.Dialog_SavePreset.Title>Сохранить пресет</RimHUD.Interface.Dialog_SavePreset.Title>
+  <RimHUD.Interface.Dialog_SavePreset.Name>Название</RimHUD.Interface.Dialog_SavePreset.Name>
+  <RimHUD.Interface.Dialog_SavePreset.IncludeDocked>Сохранять закреплённый макет</RimHUD.Interface.Dialog_SavePreset.IncludeDocked>
+  <RimHUD.Interface.Dialog_SavePreset.IncludeFloating>Сохранять плавающий макет</RimHUD.Interface.Dialog_SavePreset.IncludeFloating>
+  <RimHUD.Interface.Dialog_SavePreset.IncludeHeight>Сохранять высоту</RimHUD.Interface.Dialog_SavePreset.IncludeHeight>
+  <RimHUD.Interface.Dialog_SavePreset.IncludeWidth>Сохранять ширину</RimHUD.Interface.Dialog_SavePreset.IncludeWidth>
+  <RimHUD.Interface.Dialog_SavePreset.IncludeTabs>Сохранять минимальное число вкладок</RimHUD.Interface.Dialog_SavePreset.IncludeTabs>
+  <RimHUD.Interface.Dialog_SavePreset.IncludeTextSizes>Сохранять размеры текста</RimHUD.Interface.Dialog_SavePreset.IncludeTextSizes>
+  <RimHUD.Interface.Alert.ConfigReset>RimHUD обновлён до версии {0}, поэтому его настройки были сброшены к значениям по умолчанию.</RimHUD.Interface.Alert.ConfigReset>
+  <RimHUD.Interface.Alert.SetToDefault>Вы уверены, что хотите вернуть все настройки к значениям по умолчанию?</RimHUD.Interface.Alert.SetToDefault>
+  <RimHUD.Interface.Alert.InvalidPreset>Пресет содержит недопустимые элементы или элементы из отключённых сторонних модов.
+
+Восстановлен стандартный макет.</RimHUD.Interface.Alert.InvalidPreset>
+  <RimHUD.Interface.Alert.PresetDefaultLoaded>Пресет сброшен к значениям по умолчанию.</RimHUD.Interface.Alert.PresetDefaultLoaded>
+  <RimHUD.Interface.Alert.PresetLoaded>Загружен пресет «{0}».</RimHUD.Interface.Alert.PresetLoaded>
+  <RimHUD.Interface.Alert.PresetSaved>Пресет «{0}» сохранён.</RimHUD.Interface.Alert.PresetSaved>
+  <RimHUD.Interface.Alert.ConfirmDelete>Удалить пресет «{0}»?</RimHUD.Interface.Alert.ConfirmDelete>
+  <RimHUD.Interface.Alert.NotImplemented>Эта функция ещё не реализована</RimHUD.Interface.Alert.NotImplemented>
+  <RimHUD.Interface.Alert.MoreComingSoon>Скоро появятся новые функции™</RimHUD.Interface.Alert.MoreComingSoon>
+  <RimHUD.Interface.Settings.Tutorial>Чтобы открыть настройки RimHUD, выберите персонажа, наведите курсор на его информационную панель и нажмите кнопку с шестерёнкой.</RimHUD.Interface.Settings.Tutorial>
+  <RimHUD.Interface.Settings.TutorialStart>Когда информационная панель впервые появится, игра покажет короткую подсказку о том, как открыть настройки.</RimHUD.Interface.Settings.TutorialStart>
+  <RimHUD.Interface.Settings.TutorialComplete>Если нужно ещё раз посмотреть подсказку, нажмите кнопку ниже.</RimHUD.Interface.Settings.TutorialComplete>
+  <RimHUD.Interface.Settings.ResetTutorial>Повторить обучение</RimHUD.Interface.Settings.ResetTutorial>
+  <RimHUD.Interface.Tutorial.InspectPane>нажмите этот значок шестерёнки, чтобы открыть настройки мода</RimHUD.Interface.Tutorial.InspectPane>
+  <RimHUD.Interface.Tutorial.InspectPaneHover>наведите курсор на эту панель, чтобы увидеть кнопку настроек</RimHUD.Interface.Tutorial.InspectPaneHover>
+  <RimHUD.Interface.Tutorial.DialogConfig1>Здесь находятся все настройки RimHUD, позволяющие менять стиль и отображаемое содержимое.</RimHUD.Interface.Tutorial.DialogConfig1>
+  <RimHUD.Interface.Tutorial.DialogConfig2>На вкладке «Содержимое» можно сохранять и загружать пресеты макета. Для некоторых используемых вами модов здесь также могут быть готовые пресеты.</RimHUD.Interface.Tutorial.DialogConfig2>
+  <RimHUD.Interface.Tutorial.DialogConfig3>Когда закончите, нажмите здесь, чтобы закрыть окно.</RimHUD.Interface.Tutorial.DialogConfig3>
+  <RimHUD.Interface.Tutorial.DialogConfigContinue>Нажмите, чтобы продолжить...</RimHUD.Interface.Tutorial.DialogConfigContinue>
+  <RimHUD.Interface.Tutorial.DialogConfigEnd>Эти подсказки больше не появятся и не будут отвлекать от игры. Приятной игры!</RimHUD.Interface.Tutorial.DialogConfigEnd>
+  <RimHUD.Layout.UserPreset>Пользовательский</RimHUD.Layout.UserPreset>
+  <RimHUD.Layout.IntegratedPreset>Встроенный</RimHUD.Layout.IntegratedPreset>
+  <RimHUD.Layout.Root>Корневой элемент</RimHUD.Layout.Root>
+  <RimHUD.Layout.VStack>Вертикальная группа</RimHUD.Layout.VStack>
+  <RimHUD.Layout.VStackFilled>Вертикальная группа (растянуть по высоте)</RimHUD.Layout.VStackFilled>
+  <RimHUD.Layout.HStack>Горизонтальная группа</RimHUD.Layout.HStack>
+  <RimHUD.Layout.HStackFilled>Горизонтальная группа (растянуть по высоте)</RimHUD.Layout.HStackFilled>
+  <RimHUD.Layout.Panel>Панель</RimHUD.Layout.Panel>
+  <RimHUD.Layout.PanelFilled>Панель (растянуть по высоте)</RimHUD.Layout.PanelFilled>
+  <RimHUD.Layout.Row>Строка</RimHUD.Layout.Row>
+  <RimHUD.Layout.ContainerFilled>Растянуть по высоте</RimHUD.Layout.ContainerFilled>
+  <RimHUD.Layout.Blank>Пусто</RimHUD.Layout.Blank>
+  <RimHUD.Layout.Separator>Разделительная линия</RimHUD.Layout.Separator>
+  <RimHUD.Layout.NameHeader>Имя как заголовок</RimHUD.Layout.NameHeader>
+  <RimHUD.Layout.Food>Выбор рациона</RimHUD.Layout.Food>
+  <RimHUD.Layout.Outfit>Выбор гардероба</RimHUD.Layout.Outfit>
+  <RimHUD.Layout.Rules>Выбор правил</RimHUD.Layout.Rules>
+  <RimHUD.Layout.Area>Выбор доступной области</RimHUD.Layout.Area>
+  <RimHUD.Layout.Timetable>Выбор расписания</RimHUD.Layout.Timetable>
+  <RimHUD.Layout.RelationKindAndFaction>Отношение, тип и фракция</RimHUD.Layout.RelationKindAndFaction>
+  <RimHUD.Layout.GenderRaceAndAge>Пол, раса и возраст</RimHUD.Layout.GenderRaceAndAge>
+  <RimHUD.Layout.Health>Шкала здоровья</RimHUD.Layout.Health>
+  <RimHUD.Layout.HealthCondition>Состояние здоровья</RimHUD.Layout.HealthCondition>
+  <RimHUD.Layout.MentalCondition>Психическое состояние</RimHUD.Layout.MentalCondition>
+  <RimHUD.Layout.Need>Шкала: {0}</RimHUD.Layout.Need>
+  <RimHUD.Layout.NeedMood>Шкала настроения</RimHUD.Layout.NeedMood>
+  <RimHUD.Layout.NeedFood>Шкала сытости</RimHUD.Layout.NeedFood>
+  <RimHUD.Layout.NeedSleep>Шкала отдыха</RimHUD.Layout.NeedSleep>
+  <RimHUD.Layout.NeedEnergy>Шкала энергии [DLC Biotech]</RimHUD.Layout.NeedEnergy>
+  <RimHUD.Layout.NeedRecreation>Шкала досуга</RimHUD.Layout.NeedRecreation>
+  <RimHUD.Layout.NeedSuppression>Шкала подавления [DLC Ideology]</RimHUD.Layout.NeedSuppression>
+  <RimHUD.Layout.Skill>Навык: {0}</RimHUD.Layout.Skill>
+  <RimHUD.Layout.SkillShooting>Навык дальнего боя</RimHUD.Layout.SkillShooting>
+  <RimHUD.Layout.SkillMelee>Навык ближнего боя</RimHUD.Layout.SkillMelee>
+  <RimHUD.Layout.SkillConstruction>Навык строительства</RimHUD.Layout.SkillConstruction>
+  <RimHUD.Layout.SkillMining>Навык горного дела</RimHUD.Layout.SkillMining>
+  <RimHUD.Layout.SkillCooking>Навык готовки</RimHUD.Layout.SkillCooking>
+  <RimHUD.Layout.SkillPlants>Навык растениеводства</RimHUD.Layout.SkillPlants>
+  <RimHUD.Layout.SkillAnimals>Навык животноводства</RimHUD.Layout.SkillAnimals>
+  <RimHUD.Layout.SkillCrafting>Навык ремесла</RimHUD.Layout.SkillCrafting>
+  <RimHUD.Layout.SkillArtistic>Навык искусства</RimHUD.Layout.SkillArtistic>
+  <RimHUD.Layout.SkillMedicine>Навык медицины</RimHUD.Layout.SkillMedicine>
+  <RimHUD.Layout.SkillSocial>Навык общения</RimHUD.Layout.SkillSocial>
+  <RimHUD.Layout.SkillIntellectual>Навык умственного труда</RimHUD.Layout.SkillIntellectual>
+  <RimHUD.Layout.Training>Дрессировка: {0}</RimHUD.Layout.Training>
+  <RimHUD.Layout.TrainingTameness>Дрессировка: приручённость</RimHUD.Layout.TrainingTameness>
+  <RimHUD.Layout.TrainingObedience>Дрессировка: преданность</RimHUD.Layout.TrainingObedience>
+  <RimHUD.Layout.TrainingRelease>Дрессировка: натравливание</RimHUD.Layout.TrainingRelease>
+  <RimHUD.Layout.TrainingRescue>Дрессировка: спасение</RimHUD.Layout.TrainingRescue>
+  <RimHUD.Layout.TrainingHaul>Дрессировка: переноска</RimHUD.Layout.TrainingHaul>
+  <RimHUD.Layout.TrainingAttackTarget>Дрессировка: атака цели [DLC Odyssey]</RimHUD.Layout.TrainingAttackTarget>
+  <RimHUD.Layout.TrainingComfort>Дрессировка: утешение [DLC Odyssey]</RimHUD.Layout.TrainingComfort>
+  <RimHUD.Layout.TrainingDig>Дрессировка: копание [DLC Odyssey]</RimHUD.Layout.TrainingDig>
+  <RimHUD.Layout.TrainingEggSpew>Дрессировка: выброс яйца [DLC Odyssey]</RimHUD.Layout.TrainingEggSpew>
+  <RimHUD.Layout.TrainingForage>Дрессировка: собирательство [DLC Odyssey]</RimHUD.Layout.TrainingForage>
+  <RimHUD.Layout.TrainingSludgeSpew>Дрессировка: выплеск жижи [DLC Odyssey]</RimHUD.Layout.TrainingSludgeSpew>
+  <RimHUD.Layout.TrainingTerrorRoar>Дрессировка: рёв ужаса [DLC Odyssey]</RimHUD.Layout.TrainingTerrorRoar>
+  <RimHUD.Layout.TrainingThrumboRoar>Дрессировка: рёв трумбо [DLC Odyssey]</RimHUD.Layout.TrainingThrumboRoar>
+  <RimHUD.Layout.TrainingWarTrumpet>Дрессировка: боевой рёв [DLC Odyssey]</RimHUD.Layout.TrainingWarTrumpet>
+  <RimHUD.Layout.Stat>Характеристика: {0}</RimHUD.Layout.Stat>
+  <RimHUD.Layout.Record>Статистика: {0}</RimHUD.Layout.Record>
+  <RimHUD.Layout.Master>Хозяин</RimHUD.Layout.Master>
+  <RimHUD.Layout.Activity>Текущее занятие</RimHUD.Layout.Activity>
+  <RimHUD.Layout.Queued>В очереди</RimHUD.Layout.Queued>
+  <RimHUD.Layout.Equipped>Снаряжение</RimHUD.Layout.Equipped>
+  <RimHUD.Layout.Carrying>Переносимый предмет</RimHUD.Layout.Carrying>
+  <RimHUD.Layout.Traits>Черты характера</RimHUD.Layout.Traits>
+  <RimHUD.Layout.CompInfo>Информация о компоненте</RimHUD.Layout.CompInfo>
+  <RimHUD.Layout.PrisonerInfo>Информация о пленнике</RimHUD.Layout.PrisonerInfo>
+  <RimHUD.Layout.Target.PlayerHumanlike>Люди и другие гуманоиды игрока</RimHUD.Layout.Target.PlayerHumanlike>
+  <RimHUD.Layout.Target.OtherHumanlike>Прочие люди и гуманоиды</RimHUD.Layout.Target.OtherHumanlike>
+  <RimHUD.Layout.Target.PlayerCreature>Существа игрока</RimHUD.Layout.Target.PlayerCreature>
+  <RimHUD.Layout.Target.OtherCreature>Прочие существа</RimHUD.Layout.Target.OtherCreature>
+  <RimHUD.Layout.BarColorStyle.LowToMain>От цвета низкого значения к основному (по умолчанию)</RimHUD.Layout.BarColorStyle.LowToMain>
+  <RimHUD.Layout.BarColorStyle.LowOnly>Только цвет низкого значения</RimHUD.Layout.BarColorStyle.LowOnly>
+  <RimHUD.Layout.BarColorStyle.MainToLow>От основного цвета к цвету низкого значения</RimHUD.Layout.BarColorStyle.MainToLow>
+  <RimHUD.Layout.BarColorStyle.MainOnly>Только основной цвет</RimHUD.Layout.BarColorStyle.MainOnly>
+  <RimHUD.Model.Bio.Lifestage>Этап жизни</RimHUD.Model.Bio.Lifestage>
+  <RimHUD.Model.Bio.Trainability>Обучаемость</RimHUD.Model.Bio.Trainability>
+  <RimHUD.Model.Bio.Petness>Привязанность к людям</RimHUD.Model.Bio.Petness>
+  <RimHUD.Model.RelationKindAndFaction>{0} {1}</RimHUD.Model.RelationKindAndFaction>
+  <RimHUD.Model.OfFaction>· фракция: {0}</RimHUD.Model.OfFaction>
+  <RimHUD.Model.Former>ранее — {0}</RimHUD.Model.Former>
+  <RimHUD.Model.Faction.Wild>дикая природа</RimHUD.Model.Faction.Wild>
+  <RimHUD.Model.Faction.Allied>союзник</RimHUD.Model.Faction.Allied>
+  <RimHUD.Model.Faction.Enemy>враг</RimHUD.Model.Faction.Enemy>
+  <RimHUD.Model.Faction.Hostile>враждебная фракция</RimHUD.Model.Faction.Hostile>
+  <RimHUD.Model.Faction.Independent>нейтрал</RimHUD.Model.Faction.Independent>
+  <RimHUD.Model.Faction.Prisoner>в плену</RimHUD.Model.Faction.Prisoner>
+  <RimHUD.Model.Faction.Slave>в рабстве</RimHUD.Model.Faction.Slave>
+  <RimHUD.Model.Creature.Wild>существо</RimHUD.Model.Creature.Wild>
+  <RimHUD.Model.Creature.Tame>животное</RimHUD.Model.Creature.Tame>
+  <RimHUD.Model.Creature.Stray>бродячее животное</RimHUD.Model.Creature.Stray>
+  <RimHUD.Model.Creature.Pet>домашний питомец</RimHUD.Model.Creature.Pet>
+  <RimHUD.Model.Creature.ExoticPet>экзотический питомец</RimHUD.Model.Creature.ExoticPet>
+  <RimHUD.Model.Creature.Predator>хищник</RimHUD.Model.Creature.Predator>
+  <RimHUD.Model.Creature.Hunt>охотничье животное</RimHUD.Model.Creature.Hunt>
+  <RimHUD.Model.Creature.Pack>вьючное животное</RimHUD.Model.Creature.Pack>
+  <RimHUD.Model.Creature.Farm>сельскохозяйственное животное</RimHUD.Model.Creature.Farm>
+  <RimHUD.Model.Creature.Herd>стадное животное</RimHUD.Model.Creature.Herd>
+  <RimHUD.Model.Creature.Insect>насекомое</RimHUD.Model.Creature.Insect>
+  <RimHUD.Model.Creature.Mechanoid>механоид</RimHUD.Model.Creature.Mechanoid>
+  <RimHUD.Model.Creature.Unit>боевая единица</RimHUD.Model.Creature.Unit>
+  <RimHUD.Model.Creature.Entity>сущность</RimHUD.Model.Creature.Entity>
+  <RimHUD.Model.GenderRaceAndAge>{0}, возраст: {1}</RimHUD.Model.GenderRaceAndAge>
+  <RimHUD.Model.Age.Birthday>(сегодня день рождения)</RimHUD.Model.Age.Birthday>
+  <RimHUD.Model.Age.Day>1 д.</RimHUD.Model.Age.Day>
+  <RimHUD.Model.Age.Days>{0} д.</RimHUD.Model.Age.Days>
+  <RimHUD.Model.Health.Bleed>Истечёт кровью через {0}</RimHUD.Model.Health.Bleed>
+  <RimHUD.Model.Health.Tend>Требует лечения: {0}</RimHUD.Model.Health.Tend>
+  <RimHUD.Model.Health.TendPlural>Состояний, требующих лечения: {0}</RimHUD.Model.Health.TendPlural>
+  <RimHUD.Model.Health.Threat>Опасное для жизни состояние: {0}</RimHUD.Model.Health.Threat>
+  <RimHUD.Model.Health.ThreatPlural>Опасных для жизни состояний: {0}</RimHUD.Model.Health.ThreatPlural>
+  <RimHUD.Model.Health.Affected>Состояние: {0}</RimHUD.Model.Health.Affected>
+  <RimHUD.Model.Health.AffectedTwo>Состояние: {0}; прочих состояний: 1</RimHUD.Model.Health.AffectedTwo>
+  <RimHUD.Model.Health.AffectedPlural>Состояние: {0}; прочих состояний: {1}</RimHUD.Model.Health.AffectedPlural>
+  <RimHUD.Model.Health.Good>В хорошем состоянии</RimHUD.Model.Health.Good>
+  <RimHUD.Model.Health.Stable>В стабильном состоянии</RimHUD.Model.Health.Stable>
+  <RimHUD.Model.Health.Poor>В плохом состоянии</RimHUD.Model.Health.Poor>
+  <RimHUD.Model.Health.Critical>В критическом состоянии</RimHUD.Model.Health.Critical>
+  <RimHUD.Model.Health.MedicalCare>Изменить уровень медицинской помощи. Получатель: {0}.
+
+Текущий уровень: {1}</RimHUD.Model.Health.MedicalCare>
+  <RimHUD.Model.Mood.ExtremeBreakImminent>Подавленное настроение</RimHUD.Model.Mood.ExtremeBreakImminent>
+  <RimHUD.Model.Mood.MajorBreakImminent>Сильный стресс</RimHUD.Model.Mood.MajorBreakImminent>
+  <RimHUD.Model.Mood.MinorBreakImminent>Тревожное настроение</RimHUD.Model.Mood.MinorBreakImminent>
+  <RimHUD.Model.Mood.Excellent>Уверенность в себе</RimHUD.Model.Mood.Excellent>
+  <RimHUD.Model.Mood.Good>Собранность</RimHUD.Model.Mood.Good>
+  <RimHUD.Model.Mood.Neutral>Спокойное настроение</RimHUD.Model.Mood.Neutral>
+  <RimHUD.Model.Mood.Inspired>{0} (ещё {1})</RimHUD.Model.Mood.Inspired>
+  <RimHUD.Model.Mood.Stunned>Оглушение: ещё {0}</RimHUD.Model.Mood.Stunned>
+  <RimHUD.Model.Mood.Staggered>Замедление: ещё {0}</RimHUD.Model.Mood.Staggered>
+  <RimHUD.Model.Info.Activity>Текущее занятие</RimHUD.Model.Info.Activity>
+  <RimHUD.Model.Info.Activity.Tooltip>{0}
+
+{1}
+
+{2}</RimHUD.Model.Info.Activity.Tooltip>
+  <RimHUD.Model.Info.Activity.WorkType>Тип работы</RimHUD.Model.Info.Activity.WorkType>
+  <RimHUD.Model.Info.Activity.RelevantSkills>Используемые навыки</RimHUD.Model.Info.Activity.RelevantSkills>
+  <RimHUD.Model.Info.Attacking>Атакует цель: {0}</RimHUD.Model.Info.Attacking>
+  <RimHUD.Model.Selector.FoodFormat>Рацион</RimHUD.Model.Selector.FoodFormat>
+  <RimHUD.Model.Selector.OutfitFormat>Гардероб</RimHUD.Model.Selector.OutfitFormat>
+  <RimHUD.Model.Selector.AreaFormat>Область</RimHUD.Model.Selector.AreaFormat>
+  <RimHUD.Model.Selector.TimetableFormat>Расписание</RimHUD.Model.Selector.TimetableFormat>
+  <RimHUD.Model.Selector.SetTimeAssignment>Назначить для часа {0}: {1}</RimHUD.Model.Selector.SetTimeAssignment>
+  <RimHUD.Model.Selector.Manage>Настроить...</RimHUD.Model.Selector.Manage>
+  <RimHUD.Model.Skill.PassionIndicator>★</RimHUD.Model.Skill.PassionIndicator>
+  <RimHUD.Theme.RefreshRate>Интервал обновления</RimHUD.Theme.RefreshRate>
+  <RimHUD.Theme.RefreshRateDesc>Время между обновлениями панели в миллисекундах. Увеличьте интервал, если снижается частота кадров.</RimHUD.Theme.RefreshRateDesc>
+  <RimHUD.Theme.RefreshRateUnits>мс</RimHUD.Theme.RefreshRateUnits>
+  <RimHUD.Theme.InspectPane>Информационная панель</RimHUD.Theme.InspectPane>
+  <RimHUD.Theme.InspectPaneDocked>Закреплённая панель</RimHUD.Theme.InspectPaneDocked>
+  <RimHUD.Theme.InspectPaneDockedDesc>Закрепить RimHUD на информационной панели.</RimHUD.Theme.InspectPaneDockedDesc>
+  <RimHUD.Theme.InspectPaneModify>Изменять информационную панель</RimHUD.Theme.InspectPaneModify>
+  <RimHUD.Theme.InspectPaneModifyDesc>Необходимо для работы закреплённой панели.</RimHUD.Theme.InspectPaneModifyDesc>
+  <RimHUD.Theme.InspectPaneAddLog>Показать журнал пешки</RimHUD.Theme.InspectPaneAddLog>
+  <RimHUD.Theme.InspectPaneAddLogDesc>Показывает журнал выбранной пешки на информационной панели. Недоступно в закреплённом режиме.</RimHUD.Theme.InspectPaneAddLogDesc>
+  <RimHUD.Theme.InspectPaneHeight>Высота панели</RimHUD.Theme.InspectPaneHeight>
+  <RimHUD.Theme.InspectPaneMinTabs>Минимум вкладок</RimHUD.Theme.InspectPaneMinTabs>
+  <RimHUD.Theme.InspectPaneTabWidth>Ширина вкладки</RimHUD.Theme.InspectPaneTabWidth>
+  <RimHUD.Theme.Floating>Плавающая панель</RimHUD.Theme.Floating>
+  <RimHUD.Theme.FloatingAnchor>Точка привязки</RimHUD.Theme.FloatingAnchor>
+  <RimHUD.Theme.FloatingAnchors>Вверху слева|Вверху по центру|Вверху справа|В центре слева|В центре|В центре справа|Внизу слева|Внизу по центру|Внизу справа</RimHUD.Theme.FloatingAnchors>
+  <RimHUD.Theme.FloatingOffsetX>X</RimHUD.Theme.FloatingOffsetX>
+  <RimHUD.Theme.FloatingOffsetY>Y</RimHUD.Theme.FloatingOffsetY>
+  <RimHUD.Theme.FloatingWidth>Ширина</RimHUD.Theme.FloatingWidth>
+  <RimHUD.Theme.FloatingHeight>Высота</RimHUD.Theme.FloatingHeight>
+  <RimHUD.Theme.TextStyle.Size>Размер</RimHUD.Theme.TextStyle.Size>
+  <RimHUD.Theme.TextStyle.Height>Высота строки</RimHUD.Theme.TextStyle.Height>
+  <RimHUD.Theme.TextStyleRegular>Обычный текст</RimHUD.Theme.TextStyleRegular>
+  <RimHUD.Theme.TextStyleLarge>Текст заголовка</RimHUD.Theme.TextStyleLarge>
+  <RimHUD.Theme.TextStyleSmall>Текст описания</RimHUD.Theme.TextStyleSmall>
+  <RimHUD.Theme.LabelWidth>Ширина подписи</RimHUD.Theme.LabelWidth>
+  <RimHUD.Theme.ValueWidth>Ширина значения</RimHUD.Theme.ValueWidth>
+  <RimHUD.Theme.Miscellaneous>Разное</RimHUD.Theme.Miscellaneous>
+  <RimHUD.Theme.ShowFactionIcon>Показать значок фракции</RimHUD.Theme.ShowFactionIcon>
+  <RimHUD.Theme.ShowIdeoligionIcon>Показать значок идеологии</RimHUD.Theme.ShowIdeoligionIcon>
+  <RimHUD.Theme.ShowDecimals>Показывать дробную часть чисел</RimHUD.Theme.ShowDecimals>
+  <RimHUD.Theme.LetterPadding>Расстояние между письмами</RimHUD.Theme.LetterPadding>
+  <RimHUD.Theme.LetterPaddingDesc>Расстояние между письмами в правой части экрана. В основной игре: 12.</RimHUD.Theme.LetterPaddingDesc>
+  <RimHUD.Theme.LetterCompress>Уплотнять уведомления</RimHUD.Theme.LetterCompress>
+  <RimHUD.Theme.LetterCompressDesc>Уменьшать расстояние между письмами и предупреждениями в правой части экрана, если они перекрывают панель RimHUD.</RimHUD.Theme.LetterCompressDesc>
+  <RimHUD.Theme.HudColors>Цвета панели</RimHUD.Theme.HudColors>
+  <RimHUD.Theme.MainColor>Основной текст</RimHUD.Theme.MainColor>
+  <RimHUD.Theme.InfoColor>Информационный текст</RimHUD.Theme.InfoColor>
+  <RimHUD.Theme.DisabledColor>Неактивный текст</RimHUD.Theme.DisabledColor>
+  <RimHUD.Theme.CriticalColor>Критические значения</RimHUD.Theme.CriticalColor>
+  <RimHUD.Theme.WarningColor>Текст предупреждения</RimHUD.Theme.WarningColor>
+  <RimHUD.Theme.NeutralColor>Нейтральные значения</RimHUD.Theme.NeutralColor>
+  <RimHUD.Theme.GoodColor>Хорошие значения</RimHUD.Theme.GoodColor>
+  <RimHUD.Theme.ExcellentColor>Отличные значения</RimHUD.Theme.ExcellentColor>
+  <RimHUD.Theme.BarBackgroundColor>Фон шкалы</RimHUD.Theme.BarBackgroundColor>
+  <RimHUD.Theme.BarMainColor>Основной цвет шкалы</RimHUD.Theme.BarMainColor>
+  <RimHUD.Theme.BarLowColor>Цвет низкого значения</RimHUD.Theme.BarLowColor>
+  <RimHUD.Theme.BarThresholdColor>Цвет порога шкалы</RimHUD.Theme.BarThresholdColor>
+  <RimHUD.Theme.SelectorBackgroundColor>Фон поля выбора</RimHUD.Theme.SelectorBackgroundColor>
+  <RimHUD.Theme.SelectorTextColor>Текст поля выбора</RimHUD.Theme.SelectorTextColor>
+  <RimHUD.Theme.LineColor>Линия</RimHUD.Theme.LineColor>
+  <RimHUD.Theme.FactionColors>Цвета фракций</RimHUD.Theme.FactionColors>
+  <RimHUD.Theme.FactionOwnColor>Своя фракция</RimHUD.Theme.FactionOwnColor>
+  <RimHUD.Theme.FactionAlliedColor>Союзник</RimHUD.Theme.FactionAlliedColor>
+  <RimHUD.Theme.FactionIndependentColor>Нейтральные фракции</RimHUD.Theme.FactionIndependentColor>
+  <RimHUD.Theme.FactionHostileColor>Враждебные фракции</RimHUD.Theme.FactionHostileColor>
+  <RimHUD.Theme.FactionWildColor>Дикие существа</RimHUD.Theme.FactionWildColor>
+  <RimHUD.Theme.FactionPrisonerColor>Пленник</RimHUD.Theme.FactionPrisonerColor>
+  <RimHUD.Theme.FactionSlaveColor>Раб</RimHUD.Theme.FactionSlaveColor>
+  <RimHUD.Theme.SkillColors>Цвета навыков</RimHUD.Theme.SkillColors>
+  <RimHUD.Theme.SkillMinorPassionColor>Слабый интерес</RimHUD.Theme.SkillMinorPassionColor>
+  <RimHUD.Theme.SkillMajorPassionColor>Сильный интерес</RimHUD.Theme.SkillMajorPassionColor>
+  <RimHUD.Theme.SkillSaturatedColor>Достигнут дневной предел обучения</RimHUD.Theme.SkillSaturatedColor>
+  <RimHUD.Theme.SkillActiveColor>Навык используется сейчас</RimHUD.Theme.SkillActiveColor>
+  <chupakobra6_1508850027_Credit_Diamond>Алмазные покровители</chupakobra6_1508850027_Credit_Diamond>
+  <chupakobra6_1508850027_Credit_Gold>Золотые покровители</chupakobra6_1508850027_Credit_Gold>
+  <chupakobra6_1508850027_Credit_Silver>Серебряные покровители</chupakobra6_1508850027_Credit_Silver>
+  <chupakobra6_1508850027_Credit_Bronze>Бронзовые покровители</chupakobra6_1508850027_Credit_Bronze>
+  <chupakobra6_1508850027_Credit_Shoutouts>Отдельная благодарность</chupakobra6_1508850027_Credit_Shoutouts>
+  <chupakobra6_1508850027_Credit_Example>&lt;i&gt;Пример&lt;/i&gt;</chupakobra6_1508850027_Credit_Example>
+  <chupakobra6_1508850027_Credit_YourName>(Здесь может быть ваше имя)</chupakobra6_1508850027_Credit_YourName>
+  <chupakobra6_1508850027_Credit_QuoteExample>Напишите что-нибудь и/или добавьте ссылку</chupakobra6_1508850027_Credit_QuoteExample>
+  <chupakobra6_1508850027_Credit_BombTimeQuote>Никки Х. — лучше всех</chupakobra6_1508850027_Credit_BombTimeQuote>
+  <chupakobra6_1508850027_Preset_Default>Стандартный</chupakobra6_1508850027_Preset_Default>
+  <chupakobra6_1508850027_Preset_Compact>Компактный</chupakobra6_1508850027_Preset_Compact>
+  <chupakobra6_1508850027_Preset_Classic>Классический</chupakobra6_1508850027_Preset_Classic>
+  <chupakobra6_1508850027_Preset_Preview>Предпросмотр</chupakobra6_1508850027_Preset_Preview>
+  <chupakobra6_1508850027_Preset_DubsBadHygiene>Dubs Bad Hygiene</chupakobra6_1508850027_Preset_DubsBadHygiene>
+  <chupakobra6_1508850027_Preset_DubsBadHygieneThirst>Dubs Bad Hygiene + жажда</chupakobra6_1508850027_Preset_DubsBadHygieneThirst>
+</LanguageData>

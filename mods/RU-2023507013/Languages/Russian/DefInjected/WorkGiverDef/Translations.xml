@@ -1,0 +1,45 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VEF_AnimalResource.label>собирать животную продукцию</VEF_AnimalResource.label>
+  <VEF_AnimalResource.gerund>собрать продукцию</VEF_AnimalResource.gerund>
+  <VEF_AnimalResource.verb>собрать продукцию</VEF_AnimalResource.verb>
+  <VEF_DestroyItems.label>уничтожать предметы</VEF_DestroyItems.label>
+  <VEF_DestroyItems.gerund>уничтожить предметы</VEF_DestroyItems.gerund>
+  <VEF_DestroyItems.verb>уничтожить предметы</VEF_DestroyItems.verb>
+  <VEF_Art_ConstructFinishFrames.label>завершать постройку сооружений</VEF_Art_ConstructFinishFrames.label>
+  <VEF_Art_ConstructFinishFrames.gerund>построить</VEF_Art_ConstructFinishFrames.gerund>
+  <VEF_Art_ConstructDeliverResourcesToFrames.gerund>построить</VEF_Art_ConstructDeliverResourcesToFrames.gerund>
+  <VEF_Art_ConstructDeliverResourcesToBlueprints.gerund>построить</VEF_Art_ConstructDeliverResourcesToBlueprints.gerund>
+  <VEF_Art_ConstructFinishFrames.verb>построить</VEF_Art_ConstructFinishFrames.verb>
+  <VEF_Art_ConstructDeliverResourcesToFrames.verb>построить</VEF_Art_ConstructDeliverResourcesToFrames.verb>
+  <VEF_Art_ConstructDeliverResourcesToBlueprints.verb>построить</VEF_Art_ConstructDeliverResourcesToBlueprints.verb>
+  <VEF_Art_ConstructDeliverResourcesToFrames.label>доставлять материалы к строящимся объектам</VEF_Art_ConstructDeliverResourcesToFrames.label>
+  <VEF_Art_ConstructDeliverResourcesToBlueprints.label>доставлять материалы к проектам</VEF_Art_ConstructDeliverResourcesToBlueprints.label>
+  <VFE_Loot.label>грабить</VFE_Loot.label>
+  <VFE_Loot.gerund>ограбить</VFE_Loot.gerund>
+  <VFE_Loot.verb>ограбить</VFE_Loot.verb>
+  <VFE_StudyBuilding.label>изучать постройку</VFE_StudyBuilding.label>
+  <VFE_StudyBuilding.gerund>изучить</VFE_StudyBuilding.gerund>
+  <VFE_StudyBuilding.verb>изучить</VFE_StudyBuilding.verb>
+  <VEF_RefuelSecondary.label>заряжать боеприпасы</VEF_RefuelSecondary.label>
+  <VEF_RefuelSecondary.gerund>зарядить</VEF_RefuelSecondary.gerund>
+  <VEF_RefuelSecondary.verb>зарядить</VEF_RefuelSecondary.verb>
+  <VEF_ExtractFlower.label>выкапывать цветы для пересадки</VEF_ExtractFlower.label>
+  <VEF_ExtractFlower.gerund>выкопать для пересадки</VEF_ExtractFlower.gerund>
+  <VEF_ExtractFlower.verb>выкопать для пересадки</VEF_ExtractFlower.verb>
+  <VEF_RemoveWeeds.label>удалять сорняки</VEF_RemoveWeeds.label>
+  <VEF_RemoveWeeds.gerund>удалить сорняки</VEF_RemoveWeeds.gerund>
+  <VEF_RemoveWeeds.verb>удалить сорняки</VEF_RemoveWeeds.verb>
+  <PS_DrainOutOfStorage.label>сливать из хранилища</PS_DrainOutOfStorage.label>
+  <PS_DrainOutOfStorage.gerund>слить из хранилища</PS_DrainOutOfStorage.gerund>
+  <PS_DrainOutOfStorage.verb>слить из хранилища</PS_DrainOutOfStorage.verb>
+  <PS_FillStorage.label>наполнять хранилище</PS_FillStorage.label>
+  <PS_FillStorage.gerund>наполнить хранилище</PS_FillStorage.gerund>
+  <PS_FillStorage.verb>наполнить хранилище</PS_FillStorage.verb>
+  <PS_PickUpProcessor.label>забирать продукцию из перерабатывающей установки</PS_PickUpProcessor.label>
+  <PS_PickUpProcessor.gerund>забрать продукцию</PS_PickUpProcessor.gerund>
+  <PS_PickUpProcessor.verb>забрать продукцию</PS_PickUpProcessor.verb>
+  <PS_BringToProcessor.label>доставлять сырьё в перерабатывающую установку</PS_BringToProcessor.label>
+  <PS_BringToProcessor.gerund>доставить сырьё</PS_BringToProcessor.gerund>
+  <PS_BringToProcessor.verb>доставить сырьё</PS_BringToProcessor.verb>
+</LanguageData>

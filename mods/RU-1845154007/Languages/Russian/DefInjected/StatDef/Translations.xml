@@ -1,0 +1,7 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFES_TrapMeleeHits.description>Сколько ударов ловушка наносит за одно срабатывание.
+
+Общий урон равномерно распределяется между этими ударами.</VFES_TrapMeleeHits.description>
+  <VFES_TrapMeleeHits.label>количество атак ловушки</VFES_TrapMeleeHits.label>
+</LanguageData>

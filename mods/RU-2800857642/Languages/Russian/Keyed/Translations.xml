@@ -1,0 +1,87 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <HugsLogPublisher.copy>Копировать</HugsLogPublisher.copy>
+  <HugsLogPublisher.shareBtn>Поделиться журналом</HugsLogPublisher.shareBtn>
+  <HugsLogPublisher.shareConfirmTitle>Подтверждение</HugsLogPublisher.shareConfirmTitle>
+  <HugsLogPublisher.shareConfirmMessage>Отправить журнал игры?\n\nЖурнал будет опубликован на общедоступном сервере. Вы получите ссылку, которую можно передать другим: например, чтобы получить помощь с ошибкой или сообщить о ней автору мода.\n\nПеред отправкой мод скрывает идентификатор Steam и путь к домашней папке.</HugsLogPublisher.shareConfirmMessage>
+  <HugsLogPublisher.publisherTitle>Публикация журнала</HugsLogPublisher.publisherTitle>
+  <HugsLogPublisher.uploading>Отправка{0}</HugsLogPublisher.uploading>
+  <HugsLogPublisher.shortening>Получение ссылки{0}</HugsLogPublisher.shortening>
+  <HugsLogPublisher.uploaded>Отправка завершена!</HugsLogPublisher.uploaded>
+  <HugsLogPublisher.uploadError>Ошибка отправки: {0}</HugsLogPublisher.uploadError>
+  <HugsLogPublisher.copiedToClipboard>Скопировано в буфер обмена.</HugsLogPublisher.copiedToClipboard>
+  <HugsLogPublisher.abortBtn>Прервать</HugsLogPublisher.abortBtn>
+  <HugsLogPublisher.retryBtn>Повторить</HugsLogPublisher.retryBtn>
+  <HugsLogPublisher.browseBtn>Открыть в браузере</HugsLogPublisher.browseBtn>
+  <HugsLogPublisher.useRecommendedSettings>Применить рекомендуемые настройки</HugsLogPublisher.useRecommendedSettings>
+  <HugsLogPublisher.shortUrls>Сокращать ссылки</HugsLogPublisher.shortUrls>
+  <HugsLogPublisher.shortUrls_tip>Создавать короткую ссылку после отправки. Для Steam это не рекомендуется: короткие ссылки автоматически удаляются.</HugsLogPublisher.shortUrls_tip>
+  <HugsLogPublisher.platformInfo>Добавлять сведения о компьютере</HugsLogPublisher.platformInfo>
+  <HugsLogPublisher.platformInfo_tip>Включать в журнал сведения о процессоре, памяти и видеокарте.</HugsLogPublisher.platformInfo_tip>
+  <HugsLogPublisher.unlimitedLogSize>Не ограничивать размер журнала</HugsLogPublisher.unlimitedLogSize>
+  <HugsLogPublisher.unlimitedLogSize_tip>Если настройка выключена, журнал ограничивается 10 000 строками, чтобы слишком большой файл не вызывал проблем.</HugsLogPublisher.unlimitedLogSize_tip>
+  <HugsLogPublisher.toClipboardBtn>В буфер обмена</HugsLogPublisher.toClipboardBtn>
+  <HugsLogPublisher.uploadBtn>Отправить</HugsLogPublisher.uploadBtn>
+  <HugsLogPublisher.filesBtn>Файлы</HugsLogPublisher.filesBtn>
+  <HugsLogPublisher.openLogFile>Открыть журнал</HugsLogPublisher.openLogFile>
+  <HugsLogPublisher.openSaveDir>Открыть папку сохранений</HugsLogPublisher.openSaveDir>
+  <HugsLogPublisher.openModsDir>Открыть папку модов</HugsLogPublisher.openModsDir>
+  <MapPreview.Title>Предпросмотр карты</MapPreview.Title>
+  <MapPreview.Settings.Tab.Preview>Предпросмотр</MapPreview.Settings.Tab.Preview>
+  <MapPreview.Settings.Tab.Toolbar>Панель инструментов</MapPreview.Settings.Tab.Toolbar>
+  <MapPreview.Settings.EnableMapPreviewHeader>Показывать предпросмотр карты…</MapPreview.Settings.EnableMapPreviewHeader>
+  <MapPreview.Settings.EnableMapPreviewInEntry>…при создании игры, во время выбора места поселения</MapPreview.Settings.EnableMapPreviewInEntry>
+  <MapPreview.Settings.EnableMapPreviewInPlay>…во время игры, на карте мира</MapPreview.Settings.EnableMapPreviewInPlay>
+  <MapPreview.Settings.EnableToolbarHeader>Показывать панель инструментов карты мира…</MapPreview.Settings.EnableToolbarHeader>
+  <MapPreview.Settings.EnableToolbarInEntry>…при создании игры, во время выбора места поселения</MapPreview.Settings.EnableToolbarInEntry>
+  <MapPreview.Settings.EnableToolbarInPlay>…во время игры, на карте мира</MapPreview.Settings.EnableToolbarInPlay>
+  <MapPreview.Settings.LockWindowPositions>Закрепить положение окон</MapPreview.Settings.LockWindowPositions>
+  <MapPreview.Settings.EnablePreviewAnimations>Анимация при завершении предпросмотра</MapPreview.Settings.EnablePreviewAnimations>
+  <MapPreview.Settings.AutoOpenPreviewOnWorldMap>Автоматически открывать предпросмотр при переходе на карту мира</MapPreview.Settings.AutoOpenPreviewOnWorldMap>
+  <MapPreview.Settings.TriggerPreviewOnWorldObjects>Показывать предпросмотр при выборе поселения или места задания</MapPreview.Settings.TriggerPreviewOnWorldObjects>
+  <MapPreview.Settings.EnableSeedRerollFeature>Показывать кнопку смены зерна карты</MapPreview.Settings.EnableSeedRerollFeature>
+  <MapPreview.Settings.EnableSeedRerollFeature.MapRerollConflict>Показывать кнопку смены зерна карты (недоступно: установлен Map Reroll)</MapPreview.Settings.EnableSeedRerollFeature.MapRerollConflict>
+  <MapPreview.Settings.EnableSeedRerollWindow>Использовать окно выбора зерна (Shift при нажатии кнопки временно меняет это поведение на противоположное)</MapPreview.Settings.EnableSeedRerollWindow>
+  <MapPreview.Settings.EnableWorldSeedRerollFeature>Показывать кнопку смены зерна мира</MapPreview.Settings.EnableWorldSeedRerollFeature>
+  <MapPreview.Settings.PreviewWindowSize>Размер окна предпросмотра</MapPreview.Settings.PreviewWindowSize>
+  <MapPreview.Settings.IncludeCaves>Показывать пещеры (отключение ускоряет создание предпросмотра)</MapPreview.Settings.IncludeCaves>
+  <MapPreview.Settings.EnableTrueTerrainColors>Использовать настоящие цвета поверхностей (поддерживает поверхности из модов; также применяется к Map Reroll)</MapPreview.Settings.EnableTrueTerrainColors>
+  <MapPreview.Settings.SkipRiverFlowCalc>Оптимизировать генерацию рек (быстрее, но результат немного отличается от обычного)</MapPreview.Settings.SkipRiverFlowCalc>
+  <MapPreview.Settings.CompatibilityMode>Режим совместимости (требует больше памяти, но может помочь при конфликтах модов)</MapPreview.Settings.CompatibilityMode>
+  <MapPreview.Settings.RefreshTerrainColors>Обновить цвета поверхностей</MapPreview.Settings.RefreshTerrainColors>
+  <MapPreview.Settings.OpenAdvancedGameConfig>Изменить размер карты или начальное время года</MapPreview.Settings.OpenAdvancedGameConfig>
+  <MapPreview.World.WaitForPreview>Сейчас создаётся предпросмотр карты. Дождитесь завершения, прежде чем продолжать…</MapPreview.World.WaitForPreview>
+  <MapPreview.World.ShowHidePreview>Показать или скрыть предпросмотр карты.</MapPreview.World.ShowHidePreview>
+  <MapPreview.World.RerollMapSeed>Выбрать другое зерно для этой карты.</MapPreview.World.RerollMapSeed>
+  <MapPreview.World.ResetMapSeed>Отменить смену зерна и вернуть исходное зерно этой карты.</MapPreview.World.ResetMapSeed>
+  <MapPreview.World.RerollWorldSeed>Создать новый мир со случайным зерном.</MapPreview.World.RerollWorldSeed>
+  <MapPreview.World.OpenSettings>Открыть настройки Map Preview.</MapPreview.World.OpenSettings>
+  <MapPreview.World.RerollWindow.Title>Выбор зерна карты</MapPreview.World.RerollWindow.Title>
+  <MapPreview.World.RerollWindow.Close>Закрыть</MapPreview.World.RerollWindow.Close>
+  <MapPreview.World.RerollWindow.RefreshSeeds>Обновить варианты зерна (Shift — переход по номеру)</MapPreview.World.RerollWindow.RefreshSeeds>
+  <MapPreview.World.RerollWindow.ZoomOut>Отдалить</MapPreview.World.RerollWindow.ZoomOut>
+  <MapPreview.World.RerollWindow.ZoomIn>Приблизить</MapPreview.World.RerollWindow.ZoomIn>
+  <MapPreview.World.RerollWindow.Apply>Применить это зерно</MapPreview.World.RerollWindow.Apply>
+  <MapPreview.World.RerollWindow.Pin>Закрепить это зерно</MapPreview.World.RerollWindow.Pin>
+  <MapPreview.World.RerollWindow.Unpin>Открепить это зерно</MapPreview.World.RerollWindow.Unpin>
+  <MapPreview.World.RerollWindow.GoTo.Label>Введите число смен зерна:</MapPreview.World.RerollWindow.GoTo.Label>
+  <MapPreview.World.RerollWindow.GoTo.Invalid>Недопустимое число: разрешены только цифры и знак +.</MapPreview.World.RerollWindow.GoTo.Invalid>
+  <MapPreview.PreviewGenerationFailed>Не удалось создать предпросмотр карты из-за конфликта с одним из модов. Сообщите об этом на странице Map Preview в Мастерской, чтобы автор мог добавить поддержку этого мода. Закрыв это сообщение, опубликуйте журнал игры и приложите ссылку к сообщению об ошибке.</MapPreview.PreviewGenerationFailed>
+  <MapPreview.Integration.MapDesigner.OpenSettings>Открыть Map Designer.</MapPreview.Integration.MapDesigner.OpenSettings>
+  <MapPreview.Integration.MapDesigner.UnavailableForTile>Map Designer нельзя использовать на этом участке.</MapPreview.Integration.MapDesigner.UnavailableForTile>
+  <MapPreview.Integration.MapDesigner.Enabled>Показывать кнопку Map Designer</MapPreview.Integration.MapDesigner.Enabled>
+  <MapPreview.Integration.PrepareLanding.Open>Открыть Prepare Landing.</MapPreview.Integration.PrepareLanding.Open>
+  <MapPreview.Integration.PrepareLanding.Enabled>Показывать кнопку Prepare Landing</MapPreview.Integration.PrepareLanding.Enabled>
+  <MapPreview.Integration.WorldEdit.Open>Открыть World Edit.</MapPreview.Integration.WorldEdit.Open>
+  <MapPreview.Integration.WorldEdit.Enabled>Показывать кнопку World Edit</MapPreview.Integration.WorldEdit.Enabled>
+  <MapPreview.Integration.LandformSettings.Open>Открыть настройки форм рельефа.</MapPreview.Integration.LandformSettings.Open>
+  <MapPreview.Integration.LandformSettings.Enabled>Показывать кнопку настроек форм рельефа</MapPreview.Integration.LandformSettings.Enabled>
+  <chupakobra6_2800857642_errorTryAlternativePlatformHint>Попробуйте выбрать другой сервер публикации в настройках отправки.</chupakobra6_2800857642_errorTryAlternativePlatformHint>
+  <chupakobra6_2800857642_usePreviousLog>Журнал предыдущего запуска</chupakobra6_2800857642_usePreviousLog>
+  <chupakobra6_2800857642_usePreviousLog_tip>Отправлять журнал предыдущего запуска игры вместо текущего.</chupakobra6_2800857642_usePreviousLog_tip>
+  <chupakobra6_2800857642_alternativePlatform>Публиковать через paste.gg</chupakobra6_2800857642_alternativePlatform>
+  <chupakobra6_2800857642_alternativePlatform_tip>Использовать paste.gg вместо GitHub Gist для публикации журнала.</chupakobra6_2800857642_alternativePlatform_tip>
+  <chupakobra6_2800857642_githubToken>Токен GitHub</chupakobra6_2800857642_githubToken>
+  <chupakobra6_2800857642_githubToken_tip>Токен для публикации журнала через GitHub Gist.</chupakobra6_2800857642_githubToken_tip>
+  <chupakobra6_2800857642_shareBtnDescr>Опубликовать журнал игры и получить ссылку, которую можно передать для диагностики ошибок.</chupakobra6_2800857642_shareBtnDescr>
+</LanguageData>

@@ -1,0 +1,57 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<ModMetaData>
+  <name>Vanilla Furniture Expanded - Security — русский перевод [Star Sky Mods]</name>
+  <author>chupakobra6 | Star Sky Mods</author>
+  <packageId>starsky.rimworld.ru.1845154007</packageId>
+  <modVersion>1.0.0</modVersion>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>vanillaexpanded.vfesecurity</packageId>
+      <displayName>Vanilla Furniture Expanded - Security</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/1845154007</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>OskarPotocki.VanillaFactionsExpanded.Core</packageId>
+      <displayName>Vanilla Expanded Framework</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2023507013</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>vanillaexpanded.vfesecurity</li>
+    <li>OskarPotocki.VanillaFactionsExpanded.Core</li>
+    <li>ow.ru.furniture</li>
+  </loadAfter>
+  <description>Русский перевод Vanilla Furniture Expanded - Security (https://steamcommunity.com/sharedfiles/filedetails/?id=1845154007) для RimWorld 1.6. Оригинальный мод устанавливается отдельно.
+
+Vanilla Furniture Expanded - Security расширяет оборону колонии от ранних ловушек до высокотехнологичных турелей. Этот пакет переводит постройки, исследования и сообщения мода на русский язык.
+
+&lt;b&gt;ЧТО ПЕРЕВЕДЕНО&lt;/b&gt;
+Переведены названия и описания защитных построек, исследования и команды.
+
+• Названия и описания ловушек, заграждений и турелей.
+• Исследования и команды для новых оборонительных сооружений.
+• Сообщения и подсказки, связанные с работой защитных построек.
+
+&lt;b&gt;КАК ПОЛЬЗОВАТЬСЯ&lt;/b&gt;
+Выберите русский язык в настройках RimWorld.
+
+Изучайте оборонительные технологии и стройте доступные укрепления через меню строительства RimWorld.
+
+&lt;b&gt;СОВМЕСТИМОСТЬ&lt;/b&gt;
+Требуются Harmony (https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077), Vanilla Expanded Framework (https://steamcommunity.com/sharedfiles/filedetails/?id=2023507013) и Vanilla Furniture Expanded - Security (https://steamcommunity.com/sharedfiles/filedetails/?id=1845154007). Порядок загрузки: Harmony → Vanilla Expanded Framework → оригинальный мод → этот перевод.
+
+&lt;b&gt;ОБРАТНАЯ СВЯЗЬ&lt;/b&gt;
+Заметили ошибку или неточность? Напишите в комментариях на странице мода или на Boosty.
+
+Авторы оригинального мода: Oskar Potocki, Sokyran и Taranchuk.
+
+Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.</description>
+</ModMetaData>

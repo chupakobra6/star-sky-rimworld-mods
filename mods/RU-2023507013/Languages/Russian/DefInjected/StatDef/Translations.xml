@@ -1,0 +1,74 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VEF_EnergyShieldEnergyMaxBuilding.label>максимальная энергия щита</VEF_EnergyShieldEnergyMaxBuilding.label>
+  <VEF_EnergyShieldEnergyMaxBuilding.description>Максимальный запас энергии щита. Чем он больше, тем больше урона щит может поглотить.</VEF_EnergyShieldEnergyMaxBuilding.description>
+  <VEF_EnergyShieldEnergyMaxBuilding.formatString>{0}00</VEF_EnergyShieldEnergyMaxBuilding.formatString>
+  <VEF_EnergyShieldRechargeRateBuilding.label>скорость восстановления щита</VEF_EnergyShieldRechargeRateBuilding.label>
+  <VEF_EnergyShieldRechargeRateBuilding.description>Количество энергии, которое щит восстанавливает за секунду, пока он не выведен из строя.</VEF_EnergyShieldRechargeRateBuilding.description>
+  <VEF_EnergyShieldRechargeRateBuilding.formatString>{0}/с</VEF_EnergyShieldRechargeRateBuilding.formatString>
+  <VEF_EnergyShieldRadiusBuilding.label>радиус щита</VEF_EnergyShieldRadiusBuilding.label>
+  <VEF_EnergyShieldRadiusBuilding.description>Радиус действия энергетического щита.</VEF_EnergyShieldRadiusBuilding.description>
+  <VEF_EnergyShieldRadiusBuilding.formatString>{0} кл.</VEF_EnergyShieldRadiusBuilding.formatString>
+  <VEF_EnergyShieldRadiusApparel.formatString>{0} кл.</VEF_EnergyShieldRadiusApparel.formatString>
+  <VEF_BuildingLearningRateOffset.label>скорость обучения</VEF_BuildingLearningRateOffset.label>
+  <VEF_BuildingLearningRateOffset.description>Множитель скорости обучения детей на уроках с использованием этой постройки.</VEF_BuildingLearningRateOffset.description>
+  <VEF_BuildingBreakdownFactor.label>множитель частоты поломок</VEF_BuildingBreakdownFactor.label>
+  <VEF_BuildingBreakdownFactor.description>Множитель частоты поломок этой постройки.</VEF_BuildingBreakdownFactor.description>
+  <VEF_BuildingMaxOverclockFactor.label>максимальный разгон</VEF_BuildingMaxOverclockFactor.label>
+  <VEF_BuildingMaxOverclockFactor.description>Множитель максимально допустимого разгона производственной установки.</VEF_BuildingMaxOverclockFactor.description>
+  <VEF_FactoryHeatPerSecondFactor.label>множитель тепловыделения</VEF_FactoryHeatPerSecondFactor.label>
+  <VEF_FactoryHeatPerSecondFactor.description>Множитель количества тепла, выделяемого производственной установкой за секунду.</VEF_FactoryHeatPerSecondFactor.description>
+  <VEF_VerbRangeFactor.label>множитель дальности оружия</VEF_VerbRangeFactor.label>
+  <VEF_VerbRangeFactor.description>Дальность оружия умножается на это значение.</VEF_VerbRangeFactor.description>
+  <VEF_EnergyShieldEnergyMaxOffset.label>прибавка к максимальному заряду щита</VEF_EnergyShieldEnergyMaxOffset.label>
+  <VEF_EnergyShieldEnergyMaxOffset.description>Прибавка к максимальному запасу энергии щита, которую владелец может увеличить различными способами.</VEF_EnergyShieldEnergyMaxOffset.description>
+  <VEF_EnergyShieldEnergyMaxFactor.label>множитель максимального заряда щита</VEF_EnergyShieldEnergyMaxFactor.label>
+  <VEF_EnergyShieldEnergyMaxFactor.description>Множитель максимального запаса энергии щита, который владелец может увеличить различными способами.</VEF_EnergyShieldEnergyMaxFactor.description>
+  <VEF_MeleeAttackDamageFactor.label>множитель урона в ближнем бою</VEF_MeleeAttackDamageFactor.label>
+  <VEF_MeleeAttackDamageFactor.description>Множитель урона в ближнем бою.</VEF_MeleeAttackDamageFactor.description>
+  <VEF_RangeAttackDamageFactor.label>множитель урона в дальнем бою</VEF_RangeAttackDamageFactor.label>
+  <VEF_RangeAttackDamageFactor.description>Множитель урона в дальнем бою.</VEF_RangeAttackDamageFactor.description>
+  <VEF_FoodCapacityMultiplier.label>множитель запаса сытости</VEF_FoodCapacityMultiplier.label>
+  <VEF_FoodCapacityMultiplier.description>Увеличивает максимальный запас сытости персонажа. Не изменяет расход сытости.</VEF_FoodCapacityMultiplier.description>
+  <VEF_GrowthPointMultiplier.label>множитель очков развития</VEF_GrowthPointMultiplier.label>
+  <VEF_GrowthPointMultiplier.description>Увеличивает количество очков развития, которые дети получают при обучении.</VEF_GrowthPointMultiplier.description>
+  <VEF_BodySize_Offset.label>прибавка к размеру тела</VEF_BodySize_Offset.label>
+  <VEF_BodySize_Offset.description>Прибавка к текущему размеру тела персонажа.</VEF_BodySize_Offset.description>
+  <VEF_CosmeticBodySize_Offset.description>Прибавка к текущему размеру тела персонажа.</VEF_CosmeticBodySize_Offset.description>
+  <VEF_BodySize_Multiplier.label>множитель размера тела</VEF_BodySize_Multiplier.label>
+  <VEF_BodySize_Multiplier.description>Умножает текущий размер тела персонажа на это значение.</VEF_BodySize_Multiplier.description>
+  <VEF_CosmeticBodySize_Multiplier.description>Умножает текущий размер тела персонажа на это значение.</VEF_CosmeticBodySize_Multiplier.description>
+  <VEF_CosmeticBodySize_Offset.label>прибавка к видимому размеру тела</VEF_CosmeticBodySize_Offset.label>
+  <VEF_CosmeticBodySize_Multiplier.label>множитель видимого размера тела</VEF_CosmeticBodySize_Multiplier.label>
+  <VEF_HeadSize_Cosmetic.label>множитель размера головы</VEF_HeadSize_Cosmetic.label>
+  <VEF_PawnRenderPosOffset.label>смещение изображения персонажа</VEF_PawnRenderPosOffset.label>
+  <VEF_PawnRenderPosOffset.description>Смещает изображение персонажа по оси Y.</VEF_PawnRenderPosOffset.description>
+  <VEF_MassCarryCapacity.label>грузоподъёмность в караване</VEF_MassCarryCapacity.label>
+  <VEF_MassCarryCapacity.description>Максимальная общая масса груза, которую персонаж может нести в караване.</VEF_MassCarryCapacity.description>
+  <VEF_MassCarryCapacity.formatString>{0} кг</VEF_MassCarryCapacity.formatString>
+  <VEF_MassCarryCapacity.formatStringUnfinalized>{0} кг</VEF_MassCarryCapacity.formatStringUnfinalized>
+  <VEF_MTBLovinFactor.label>интервал между попытками близости</VEF_MTBLovinFactor.label>
+  <VEF_MTBLovinFactor.description>Множитель среднего времени между попытками этого персонажа заняться любовью.</VEF_MTBLovinFactor.description>
+  <VEF_PositiveThoughtDurationFactor.label>длительность позитивных мыслей</VEF_PositiveThoughtDurationFactor.label>
+  <VEF_PositiveThoughtDurationFactor.description>Длительность позитивных мыслей умножается на это значение.</VEF_PositiveThoughtDurationFactor.description>
+  <VEF_NeutralThoughtDurationFactor.label>длительность нейтральных мыслей</VEF_NeutralThoughtDurationFactor.label>
+  <VEF_NeutralThoughtDurationFactor.description>Длительность нейтральных мыслей умножается на это значение.</VEF_NeutralThoughtDurationFactor.description>
+  <VEF_NegativeThoughtDurationFactor.label>длительность негативных мыслей</VEF_NegativeThoughtDurationFactor.label>
+  <VEF_NegativeThoughtDurationFactor.description>Длительность негативных мыслей умножается на это значение.</VEF_NegativeThoughtDurationFactor.description>
+  <VEF_RangedDodgeChance.label>шанс уклонения от выстрела</VEF_RangedDodgeChance.label>
+  <VEF_RangedDodgeChance.description>Вероятность уклониться от дальней атаки, которая иначе попала бы в цель. При отрицательном значении — вероятность попасть под дальнюю атаку, предназначенную другой цели.</VEF_RangedDodgeChance.description>
+  <VEF_HeatstrokeBuildupMultiplier.label>множитель развития теплового удара</VEF_HeatstrokeBuildupMultiplier.label>
+  <VEF_HeatstrokeBuildupMultiplier.description>Множитель скорости развития теплового удара.</VEF_HeatstrokeBuildupMultiplier.description>
+  <VEF_AnimalProductYieldFactor.label>множитель выхода особой животной продукции</VEF_AnimalProductYieldFactor.label>
+  <VEF_AnimalProductYieldFactor.description>Множитель количества особой продукции, которую производит это животное.</VEF_AnimalProductYieldFactor.description>
+  <VEF_AnimalProductIntervalFactor.label>интервал производства особой животной продукции</VEF_AnimalProductIntervalFactor.label>
+  <VEF_AnimalProductIntervalFactor.description>Множитель интервала, за который животное производит особую продукцию.</VEF_AnimalProductIntervalFactor.description>
+  <VEF_RangedCooldownFactor.label>пауза после стрельбы</VEF_RangedCooldownFactor.label>
+  <VEF_RangedCooldownFactor.description>Пауза после стрельбы из оружия владельца умножается на это значение.</VEF_RangedCooldownFactor.description>
+  <VEF_EnergyShieldRadiusApparel.label>радиус действия щита</VEF_EnergyShieldRadiusApparel.label>
+  <VEF_EnergyShieldRadiusApparel.description>Область, защищённая работающим энергетическим щитом.</VEF_EnergyShieldRadiusApparel.description>
+  <VEF_MeleeWeaponRange.label>дальность оружия ближнего боя</VEF_MeleeWeaponRange.label>
+  <VEF_MeleeWeaponRange.description>Дальность действия этого оружия ближнего боя.</VEF_MeleeWeaponRange.description>
+  <VEF_GaussProjectileDamageModifier.label>множитель проникающего урона</VEF_GaussProjectileDamageModifier.label>
+  <VEF_GaussProjectileDamageModifier.description>Изменение урона за каждую ранее поражённую цель, в процентах от базового урона.</VEF_GaussProjectileDamageModifier.description>
+</LanguageData>

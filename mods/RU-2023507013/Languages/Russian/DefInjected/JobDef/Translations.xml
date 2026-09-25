@@ -1,0 +1,31 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFEA_UseAbilityUninterruptible.reportString>что-то делает.</VFEA_UseAbilityUninterruptible.reportString>
+  <VFEA_UseAbility.reportString>что-то делает.</VFEA_UseAbility.reportString>
+  <VFEA_GotoTargetAndUseAbility.reportString>что-то делает.</VFEA_GotoTargetAndUseAbility.reportString>
+  <VFEA_StandAndFaceTarget.reportString>стоит.</VFEA_StandAndFaceTarget.reportString>
+  <VEF_AnimalResource.reportString>собирает продукцию: TargetA.</VEF_AnimalResource.reportString>
+  <VEF_DestroyItem.reportString>уничтожает предмет.</VEF_DestroyItem.reportString>
+  <VEF_LayExplodingEgg.reportString>откладывает яйцо.</VEF_LayExplodingEgg.reportString>
+  <VEF_IngestWeird.reportString>поглощает TargetA.</VEF_IngestWeird.reportString>
+  <VEF_AutoNutrition.reportString>ест.</VEF_AutoNutrition.reportString>
+  <VEF_FleeAndCowerShort.reportString>убегает.</VEF_FleeAndCowerShort.reportString>
+  <VFEC_EquipShield.reportString>экипирует TargetA.</VFEC_EquipShield.reportString>
+  <VFEC_LeaveMap.reportString>уходит.</VFEC_LeaveMap.reportString>
+  <VEF_CustomizeItem.reportString>настраивает TargetA.</VEF_CustomizeItem.reportString>
+  <KCSG_GoToPassage.reportString>входит в TargetA.</KCSG_GoToPassage.reportString>
+  <VEF_UseDoorTeleporter.reportString>использует TargetA для телепортации к TargetB.</VEF_UseDoorTeleporter.reportString>
+  <VFE_Loot.reportString>обыскивает TargetA.</VFE_Loot.reportString>
+  <VFE_StudyBuilding.reportString>изучает TargetA.</VFE_StudyBuilding.reportString>
+  <VEF_ExtractFlower.reportString>выкапывает цветок для пересадки.</VEF_ExtractFlower.reportString>
+  <VEF_RemoveWeeds.reportString>удаляет сорняки.</VEF_RemoveWeeds.reportString>
+  <VEF_RefuelSecondary.reportString>заряжает TargetA боеприпасами.</VEF_RefuelSecondary.reportString>
+  <PS_DrainFromMarkedStorage.reportString>сливает содержимое TargetA.</PS_DrainFromMarkedStorage.reportString>
+  <PS_FillStorage.reportString>наполняет TargetA.</PS_FillStorage.reportString>
+  <PS_PickUpProcessor.reportString>забирает продукцию из TargetA.</PS_PickUpProcessor.reportString>
+  <PS_BringToProcessor.reportString>доставляет TargetB в TargetA.</PS_BringToProcessor.reportString>
+  <BetterReload.reportString>перезаряжает TargetA.</BetterReload.reportString>
+  <ReloadFromInventory.reportString>перезаряжает TargetA.</ReloadFromInventory.reportString>
+  <VEF_ReloadWeaponTrait.reportString>перезаряжает TargetA.</VEF_ReloadWeaponTrait.reportString>
+  <Unload.reportString>разряжает TargetA.</Unload.reportString>
+</LanguageData>

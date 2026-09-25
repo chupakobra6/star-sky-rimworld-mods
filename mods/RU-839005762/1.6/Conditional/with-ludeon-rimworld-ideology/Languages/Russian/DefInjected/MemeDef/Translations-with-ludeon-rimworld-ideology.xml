@@ -1,0 +1,69 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <HAR_Xenophilia.label>ксенофилия</HAR_Xenophilia.label>
+  <HAR_Xenophilia.description>Отношения с представителями иных рас следует приветствовать и поощрять. Страх или враждебность к ним свидетельствуют лишь об ограниченности ума.</HAR_Xenophilia.description>
+  <HAR_Xenophilia.symbolPacks.0.adjective>ксенофильский</HAR_Xenophilia.symbolPacks.0.adjective>
+  <HAR_Xenophilia.symbolPacks.0.ideoName>Ксенофилия</HAR_Xenophilia.symbolPacks.0.ideoName>
+  <HAR_Xenophilia.symbolPacks.0.member>ксенофил</HAR_Xenophilia.symbolPacks.0.member>
+  <HAR_Xenophilia.symbolPacks.0.theme>ксенофилия</HAR_Xenophilia.symbolPacks.0.theme>
+  <HAR_Xenophobia.label>ксенофобия</HAR_Xenophobia.label>
+  <HAR_Xenophobia.description>Не позволяйте чужакам жить: само их существование угрожает нашему. Иным расам лучше быть нашими слугами или пищей.</HAR_Xenophobia.description>
+  <HAR_Xenophobia.symbolPacks.0.adjective>Ксенофобский</HAR_Xenophobia.symbolPacks.0.adjective>
+  <HAR_Xenophobia.symbolPacks.0.ideoName>Ксенофобия</HAR_Xenophobia.symbolPacks.0.ideoName>
+  <HAR_Xenophobia.symbolPacks.0.member>ксенофоб</HAR_Xenophobia.symbolPacks.0.member>
+  <HAR_Xenophobia.symbolPacks.0.theme>ксенофобия</HAR_Xenophobia.symbolPacks.0.theme>
+  <HAR_Xenophilia.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Xenophilia)        -&gt;[deity0_name] создаёт множество рас: каждая воплощает [deity0_possessive] совершенный образ по-своему.</li>
+    <li>episode(uses=1,tag=meme_Xenophilia)  -&gt;Наши биологи описывают и заносят в архив многочисленные творения божества [deity0_name], угождая [deity0_objective].</li>
+    <li>intro(tag=meme_Xenophilia)           -&gt;Место: [place_summary] [place_name]. Там [memberNamePlural] находят слова божества [deity0_name] — подлинный образец открытости новому.</li>
+    <li>conflict(tag=meme_Xenophilia)        -&gt;Ксенофобский правитель [foeLeader] презирает общину, где живут [memberNamePlural], за её терпимость. [foeLeader_possessive] войска — [foeSoldiers] — разрушают залы общины, используя оружие: [place_personalWeapon].</li>
+    <li>founderJoin(tag=meme_Xenophilia)     -&gt;Хитроумный [place_job] по имени [founderName] просит представителей других рас помочь предупредить общину, где живут [memberNamePlural]: приближаются [foeSoldiers].</li>
+    <li>victory(tag=meme_Xenophilia)         -&gt;[founderName] распространяет весть о принятии и любви по божественной воле: так повелевает [deity0_name]. Эта весть объединяет все расы общины, где живут [memberNamePlural], и позволяет победить врага: [foeSoldiers].</li>
+    <li>setup(tag=meme_Xenophilia)           -&gt;[founderName] занимается общественными науками на заре колонизации планеты. Многие правительства проводят яростную политику изоляции, и [founder_pronoun] отправляется на маленьком корабле основывать новое движение — [founder_possessive] собственное.</li>
+    <li>story(uses=1,tag=meme_Xenophilia)    -&gt;[founderName] собирает выдающихся учёных и социологов, чтобы создать новую цивилизацию, где все виды смогут жить в гармонии.</li>
+    <li>lessonIntro(tag=meme_Xenophilia)         -&gt;Старейший социолог в моём университете поведал мне историю жизни во Вселенной, намекая, что</li>
+    <li>lesson(tag=meme_Xenophilia)              -&gt;мы не одиноки. Разумная жизнь среди звёзд не редкость, и все мы братья и сёстры</li>
+    <li>lessonReinforcement(tag=meme_Xenophilia) -&gt;Только работая вместе, плечом к плечу и оставив разногласия, мы сможем справиться с любой задачей.</li>
+    <li>archistBasis(tag=meme_Xenophilia)    -&gt;Кто примет наши врождённые различия лучше, чем объединяющий всех архотек, преодолевший сингулярность?</li>
+    <li>archistFact(tag=meme_Xenophilia)     -&gt;При возвышении различия нашего биологического происхождения стираются.</li>
+    <li>archistProphecy(tag=meme_Xenophilia) -&gt;[inTheEnd], мы все достигнем возвышения общими усилиями.</li>
+    <li>animistBasis(tag=meme_Xenophilia)    -&gt;Среди духов нет понятия «раса».</li>
+    <li>animistProphecy(tag=meme_Xenophilia) -&gt;Духи раскроют нам свою природу, когда мы научимся принимать друг друга как разные воплощения одного чистого идеала.</li>
+  </HAR_Xenophilia.descriptionMaker.rules.rulesStrings>
+  <HAR_Xenophilia.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;всеобщий</li>
+    <li>memeAdjective-&gt;непредубеждённый</li>
+    <li>memeAdjective-&gt;принимающий</li>
+    <li>memeAdjective-&gt;ксенофильский</li>
+    <li>memeLeaderAdjective-&gt;согласный</li>
+    <li>memeConcept-&gt;открытость</li>
+    <li>memeConcept-&gt;восприимчивость</li>
+  </HAR_Xenophilia.generalRules.rulesStrings>
+  <HAR_Xenophobia.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Xenophobia)        -&gt;[deity0_name] создаёт нас как совершенное воплощение: в нас отражён [deity0_possessive] божественный образ.</li>
+    <li>episode(uses=1,tag=meme_Xenophobia)  -&gt;Остальные творения божества [deity0_name] созданы лишь как орудия для нас. Именно это угодно [deity0_objective]: чтобы мы обращались с ними как с орудиями.</li>
+    <li>intro(tag=meme_Xenophobia)           -&gt;Место: [place_summary] [place_name]. Там [memberNamePlural] находят слова божества [deity0_name], возносящие нас на вершину творения.</li>
+    <li>conflict(tag=meme_Xenophobia)        -&gt;Завидуя нашему божественному положению, чужеземный правитель [foeLeader] пытается покорить общину, где живут [memberNamePlural]. [foeLeader_possessive] войска — [foeSoldiers] — обращают наш народ в рабство.</li>
+    <li>founderJoin(tag=meme_Xenophobia)     -&gt;Среди рабов появляется хитроумный [place_job] по имени [founderName] и объединяет общину, где живут [memberNamePlural], для борьбы с чужеземным угнетателем.</li>
+    <li>victory(tag=meme_Xenophobia)         -&gt;[founderName] истребляет чужеземную нечисть по божественной воле: так повелевает [deity0_name]. Для общины, где живут [memberNamePlural], наступает новая эпоха прогресса и превосходства.</li>
+    <li>setup(tag=meme_Xenophobia)           -&gt;[founderName] занимается общественными науками на заре колонизации планеты. Многие правительства проводят безрассудно терпимую политику, и [founder_pronoun] отправляется на маленьком корабле основывать новое движение — [founder_possessive] собственное.</li>
+    <li>story(uses=1,tag=meme_Xenophobia)    -&gt;[founderName] собирает выдающихся учёных и социологов, чтобы создать новую цивилизацию, где нужды нашей расы важнее нужд отвратительных чужаков.</li>
+    <li>lessonIntro(tag=meme_Xenophobia)         -&gt;Старейший охотник в нашем отряде поведал мне историю жизни во Вселенной, намекая, что</li>
+    <li>lesson(tag=meme_Xenophobia)              -&gt;мы не одиноки. Разумная жизнь среди звёзд не редкость, и само её существование угрожает нашему</li>
+    <li>lessonReinforcement(tag=meme_Xenophobia) -&gt;Другого пути нет: чужеземную угрозу необходимо искоренить.</li>
+    <li>archistBasis(tag=meme_Xenophobia)    -&gt;Архотехнологии — вершина биологической эволюции, и достигать её должны лишь по-настоящему достойные.</li>
+    <li>archistFact(tag=meme_Xenophobia)     -&gt;Представляете, какой угрозой для нас станет вышедший из-под контроля чужеземный разум, преодолевший сингулярность?</li>
+    <li>archistProphecy(tag=meme_Xenophobia) -&gt;Другого пути нет: чужаков необходимо истребить прежде, чем они достигнут этой ступени.</li>
+    <li>animistBasis(tag=meme_Xenophobia)    -&gt;Чужаки — бездушные создания, мерзость для мира духов.</li>
+    <li>animistProphecy(tag=meme_Xenophobia) -&gt;Лишь избавившись от всех чужаков, мы заслужим благосклонность духов.</li>
+  </HAR_Xenophobia.descriptionMaker.rules.rulesStrings>
+  <HAR_Xenophobia.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;нетерпимый</li>
+    <li>memeAdjective-&gt;этноцентричный</li>
+    <li>memeAdjective-&gt;нетерпимый</li>
+    <li>memeAdjective-&gt;предубеждённый</li>
+    <li>memeLeaderAdjective-&gt;непреклонный</li>
+    <li>memeConcept-&gt;нетерпимость</li>
+    <li>memeConcept-&gt;предубеждение</li>
+  </HAR_Xenophobia.generalRules.rulesStrings>
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VEF_ControlledBlinking.label>управляемый скачок</VEF_ControlledBlinking.label>
+  <VEF_ControlledBlinking.description>Позволяет направить обычные хаотичные скачки существа в выбранную точку в пределах досягаемости.</VEF_ControlledBlinking.description>
+  <VEF_ControlledDetonation.label>управляемый подрыв</VEF_ControlledDetonation.label>
+  <VEF_ControlledDetonation.description>Вызвать мощный взрыв всех накопленных нестабильных соединений. Этот разрушительный взрыв станет последним действием животного: оно погибнет.</VEF_ControlledDetonation.description>
+  <VEF_ControlledInvisibility.label>управляемая невидимость</VEF_ControlledInvisibility.label>
+  <VEF_ControlledInvisibility.description>Сделать животное невидимым, сохранив его восприятие окружающего мира и точность действий.</VEF_ControlledInvisibility.description>
+</LanguageData>

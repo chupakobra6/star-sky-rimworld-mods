@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFES_SecondaryFuel>Дополнительный боезапас</VFES_SecondaryFuel>
+  <VFES_CommandToggleAllowAutoRefuelSecondary>Переключить автопополнение боезапаса</VFES_CommandToggleAllowAutoRefuelSecondary>
+  <VFES_ManSecondary> (второй номер расчёта)</VFES_ManSecondary>
+  <VFES_NeedsManned>Требуется оператор.</VFES_NeedsManned>
+  <VFES_ArtilleryNeedsVisibleMap>Для артиллерийского обстрела нужно выбрать открытую, разведанную местность.</VFES_ArtilleryNeedsVisibleMap>
+  <VFES_Deploy>Развернуть</VFES_Deploy>
+  <VFES_DeployDesc>Развернуть постройку, подняв её из-под поверхности пола.</VFES_DeployDesc>
+  <VFES_Submerge>Свернуть</VFES_Submerge>
+  <VFES_SubmergeDesc>Погрузить постройку под поверхность пола для защиты её от повреждений.</VFES_SubmergeDesc>
+  <VFES_OnCooldown>Перезаряжается: {0}</VFES_OnCooldown>
+  <VFES_DesignatorRearmTraps>Перезарядить ловушки</VFES_DesignatorRearmTraps>
+  <VFES_DesignatorRearmTraps_Description>Отметить незаряженные ловушки для повторного взведения поселенцами.</VFES_DesignatorRearmTraps_Description>
+  <VFES_MessageMustDesignateRearmables>Необходимо выбрать перезаряжаемые ловушки.</VFES_MessageMustDesignateRearmables>
+  <VFES_Armed>Заряжено</VFES_Armed>
+  <VFES_NeedsRearming>Необходима перезарядка</VFES_NeedsRearming>
+  <VFES_SetWorldTarget>Указать цель на карте мира</VFES_SetWorldTarget>
+  <VFES_SetWorldTargetDesc>Указать цель на карте мира для обстрела артиллерией. Выстрелы по карте мира менее точны. Можно стрелять только по разведанным локациям.</VFES_SetWorldTargetDesc>
+  <VFES_ArtilleryOutOfRange>Цель вне радиуса действия.</VFES_ArtilleryOutOfRange>
+  <VFES_ArtilleryInvalidFiringMode>Артиллерия не может стрелять в этом направлении.</VFES_ArtilleryInvalidFiringMode>
+  <VFES_ArtilleryInvalidGroundToSpace>Артиллерия не может стрелять с планеты в космос.</VFES_ArtilleryInvalidGroundToSpace>
+  <VFES_ArtilleryInvalidSpaceToSpace>Артиллерия не может стрелять из космоса в космос.</VFES_ArtilleryInvalidSpaceToSpace>
+  <VFES_ArtilleryInvalidSpaceToGround>Артиллерия не может стрелять из космоса на землю.</VFES_ArtilleryInvalidSpaceToGround>
+  <VFES_ArtilleryInvalidGroundToGround>Артиллерия не может стрелять с земли на землю.</VFES_ArtilleryInvalidGroundToGround>
+  <chupakobra6_1845154007_Transitioning>Механизм ещё движется.</chupakobra6_1845154007_Transitioning>
+</LanguageData>

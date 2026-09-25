@@ -1,0 +1,10 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFES_TrenchTerrain.label>в окопе</VFES_TrenchTerrain.label>
+  <VFES_TrenchTerrain.description>Этот персонаж находится в траншее или другом углублённом оборонительном сооружении.</VFES_TrenchTerrain.description>
+  <VFES_PlatformTerrain.label>на платформе</VFES_PlatformTerrain.label>
+  <VFES_PlatformTerrain.description>Этот персонаж стоит на платформе или другой приподнятой конструкции.</VFES_PlatformTerrain.description>
+  <VFES_Dazzled.label>временное ослепление</VFES_Dazzled.label>
+  <VFES_Dazzled.description>Значительное ухудшение зрения в результате чрезмерного воздействия света.</VFES_Dazzled.description>
+  <VFES_Dazzled.labelNoun>ослеплённый глаз</VFES_Dazzled.labelNoun>
+</LanguageData>

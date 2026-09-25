@@ -1,0 +1,86 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <HAR_AteAlienMeat_Abhorrent.stages.ate_alien_meat.label>употребление мяса иной расы</HAR_AteAlienMeat_Abhorrent.stages.ate_alien_meat.label>
+  <HAR_AteAlienMeat_Abhorrent.stages.ate_alien_meat.description>Пришлось есть мясо разумного представителя иной расы. Это оскорбляет всё, во что я верю.</HAR_AteAlienMeat_Abhorrent.stages.ate_alien_meat.description>
+  <HAR_AteAlienMeat_Know_Abhorrent.stages.ate_alien_meat.label>употребление мяса иной расы</HAR_AteAlienMeat_Know_Abhorrent.stages.ate_alien_meat.label>
+  <HAR_ButcheredAlien_Abhorrent.stages.I_butchered_an_alien.label>разделка представителя иной расы</HAR_ButcheredAlien_Abhorrent.stages.I_butchered_an_alien.label>
+  <HAR_ButcheredAlien_Abhorrent.stages.I_butchered_an_alien.description>Мне пришлось разделать разумного представителя иной расы. Это оскорбляет всё, во что я верю.</HAR_ButcheredAlien_Abhorrent.stages.I_butchered_an_alien.description>
+  <HAR_ButcheredAlien_Know_Abhorrent.stages.we_butchered_an_alien.label>у нас разделали представителя иной расы</HAR_ButcheredAlien_Know_Abhorrent.stages.we_butchered_an_alien.label>
+  <HAR_ButcheredAlien_Know_Abhorrent.stages.we_butchered_an_alien.description>Кто-то из нас разделал разумного представителя иной расы. Это оскорбляет всё, во что я верю.</HAR_ButcheredAlien_Know_Abhorrent.stages.we_butchered_an_alien.description>
+  <HAR_ButcheredAlien_Know_Abhorrent_Opinion.stages.butchered_an_alien.label>разделка представителя иной расы</HAR_ButcheredAlien_Know_Abhorrent_Opinion.stages.butchered_an_alien.label>
+  <HAR_AteAlienMeat_Disapproved.stages.ate_alien_meat.label>употребление мяса иной расы</HAR_AteAlienMeat_Disapproved.stages.ate_alien_meat.label>
+  <HAR_AteAlienMeat_Disapproved.stages.ate_alien_meat.description>Пришлось есть мясо иной расы. Я считаю, что так поступать нельзя.</HAR_AteAlienMeat_Disapproved.stages.ate_alien_meat.description>
+  <HAR_AteAlienMeat_Know_Disapproved.stages.ate_alien_meat.label>употребление мяса иной расы</HAR_AteAlienMeat_Know_Disapproved.stages.ate_alien_meat.label>
+  <HAR_ButcheredAlien_Disapproved.stages.I_butchered_an_alien.label>разделка представителя иной расы</HAR_ButcheredAlien_Disapproved.stages.I_butchered_an_alien.label>
+  <HAR_ButcheredAlien_Disapproved.stages.I_butchered_an_alien.description>Мне пришлось разделать разумного представителя иной расы. Я считаю, что так поступать нельзя.</HAR_ButcheredAlien_Disapproved.stages.I_butchered_an_alien.description>
+  <HAR_ButcheredAlien_Know_Disapproved.stages.we_butchered_an_alien.label>у нас разделали представителя иной расы</HAR_ButcheredAlien_Know_Disapproved.stages.we_butchered_an_alien.label>
+  <HAR_ButcheredAlien_Know_Disapproved.stages.we_butchered_an_alien.description>Кто-то из нас разделал разумного представителя иной расы. Я считаю, что так поступать нельзя.</HAR_ButcheredAlien_Know_Disapproved.stages.we_butchered_an_alien.description>
+  <HAR_ButcheredAlien_Know_Disapproved_Opinion.stages.butchered_an_alien.label>разделка представителя иной расы</HAR_ButcheredAlien_Know_Disapproved_Opinion.stages.butchered_an_alien.label>
+  <HAR_AteAlienMeat_Preferred.stages.ate_alien_meat.label>употребление мяса иной расы</HAR_AteAlienMeat_Preferred.stages.ate_alien_meat.label>
+  <HAR_AteAlienMeat_Preferred.stages.ate_alien_meat.description>После мяса иной расы я чувствую себя благороднее и сильнее.</HAR_AteAlienMeat_Preferred.stages.ate_alien_meat.description>
+  <HAR_NoRecentAlienMeat_Preferred.stages.want_alien_meat.label>хочется мяса иной расы</HAR_NoRecentAlienMeat_Preferred.stages.want_alien_meat.label>
+  <HAR_NoRecentAlienMeat_Preferred.stages.want_alien_meat.description>Слишком давно не было мяса иной расы. Это неправильно.</HAR_NoRecentAlienMeat_Preferred.stages.want_alien_meat.description>
+  <HAR_AteNonAlienFood_Horrible.stages.ate_nonalien_food.label>пища без мяса иных рас</HAR_AteNonAlienFood_Horrible.stages.ate_nonalien_food.label>
+  <HAR_AteNonAlienFood_Horrible.stages.ate_nonalien_food.description>Пришлось есть пищу без мяса разумного представителя иной расы. Мои убеждения строго запрещают такое.</HAR_AteNonAlienFood_Horrible.stages.ate_nonalien_food.description>
+  <HAR_AteNonAlienFood_Know_Horrible.stages.ate_nonalien_food.label>пища без мяса иных рас</HAR_AteNonAlienFood_Know_Horrible.stages.ate_nonalien_food.label>
+  <HAR_AteAlienMeat_RequiredStrong.stages.ate_alien_meat.label>употребление мяса иной расы</HAR_AteAlienMeat_RequiredStrong.stages.ate_alien_meat.label>
+  <HAR_AteAlienMeat_RequiredStrong.stages.ate_alien_meat.description>Мясо иной расы — правильная пища для настоящей личности. Так и следует питаться.</HAR_AteAlienMeat_RequiredStrong.stages.ate_alien_meat.description>
+  <HAR_NoRecentAlienMeat_RequiredStrong.stages.want_alien_meat.label>хочется мяса иной расы</HAR_NoRecentAlienMeat_RequiredStrong.stages.want_alien_meat.label>
+  <HAR_NoRecentAlienMeat_RequiredStrong.stages.want_alien_meat.description>Мяса иной расы не было слишком долго. Уже давно пора его поесть.</HAR_NoRecentAlienMeat_RequiredStrong.stages.want_alien_meat.description>
+  <HAR_AlienDating_Horrible.stages.dated_an_alien.label>отношения с представителем иной расы</HAR_AlienDating_Horrible.stages.dated_an_alien.label>
+  <HAR_AlienDating_Horrible.stages.dated_an_alien.description>Как можно было решиться на отношения с представителем иной расы? Мне противно от собственной слабости.</HAR_AlienDating_Horrible.stages.dated_an_alien.description>
+  <HAR_AlienDating_Know_Horrible.stages.dated_an_alien.label>отношения с представителем иной расы</HAR_AlienDating_Know_Horrible.stages.dated_an_alien.label>
+  <HAR_AlienDating_Know_Honorable.stages.dated_an_alien.label>отношения с представителем иной расы</HAR_AlienDating_Know_Honorable.stages.dated_an_alien.label>
+  <HAR_AlienRaces_Abhorrent.stages.disgusting_aliens.label>отвратительные чужаки!</HAR_AlienRaces_Abhorrent.stages.disgusting_aliens.label>
+  <HAR_AlienRaces_Abhorrent.stages.disgusting_aliens.description>Другие расы совершенно отвратительны, я их не выношу!</HAR_AlienRaces_Abhorrent.stages.disgusting_aliens.description>
+  <HAR_AlienRaces_Abhorrent_Social.stages.disgusting_alien.label>отвратительный чужак!</HAR_AlienRaces_Abhorrent_Social.stages.disgusting_alien.label>
+  <HAR_AlienRaces_Horrible_Social.stages.distrust_for_xenos.label>недоверие к чужакам</HAR_AlienRaces_Horrible_Social.stages.distrust_for_xenos.label>
+  <HAR_AlienRaces_Respected_Social.stages.respect_for_xenos.label>уважение к чужакам</HAR_AlienRaces_Respected_Social.stages.respect_for_xenos.label>
+  <HAR_AlienRaces_Exalted.stages.amazing_aliens.label>удивительные чужаки!</HAR_AlienRaces_Exalted.stages.amazing_aliens.label>
+  <HAR_AlienRaces_Exalted.stages.amazing_aliens.description>Не могу поверить, что нахожусь в обществе других рас!</HAR_AlienRaces_Exalted.stages.amazing_aliens.description>
+  <HAR_AlienRaces_Exalted_Social.stages.amazing_alien.label>удивительный чужак!</HAR_AlienRaces_Exalted_Social.stages.amazing_alien.label>
+  <HAR_Alien_Slavery_Abhorrent_SlavesInColony.stages.alien_slaves_in_colony.label>рабы иных рас в поселении</HAR_Alien_Slavery_Abhorrent_SlavesInColony.stages.alien_slaves_in_colony.label>
+  <HAR_Alien_Slavery_Abhorrent_SlavesInColony.stages.alien_slaves_in_colony.description>Мы держим рабов иных рас. Это варварство.</HAR_Alien_Slavery_Abhorrent_SlavesInColony.stages.alien_slaves_in_colony.description>
+  <HAR_Alien_SoldSlave_Know_Abhorrent.stages.sold_alien_slave.label>продажа раба иной расы</HAR_Alien_SoldSlave_Know_Abhorrent.stages.sold_alien_slave.label>
+  <HAR_Alien_SoldSlave_Know_Abhorrent_Mood.stages.alien_slave_sold.label>продан раб иной расы</HAR_Alien_SoldSlave_Know_Abhorrent_Mood.stages.alien_slave_sold.label>
+  <HAR_Alien_SoldSlave_Know_Abhorrent_Mood.stages.alien_slave_sold.description>Мы продали представителя иной расы в рабство. Это отвратительный, варварский поступок.</HAR_Alien_SoldSlave_Know_Abhorrent_Mood.stages.alien_slave_sold.description>
+  <HAR_Alien_EnslavedPrisoner_Know_Abhorrent.stages.enslaved_alien_prisoner.label>обращение пленника иной расы в рабство</HAR_Alien_EnslavedPrisoner_Know_Abhorrent.stages.enslaved_alien_prisoner.label>
+  <HAR_Alien_Slavery_Horrible_SlavesInColony.stages.alien_slaves_in_colony.label>рабы иных рас в поселении</HAR_Alien_Slavery_Horrible_SlavesInColony.stages.alien_slaves_in_colony.label>
+  <HAR_Alien_Slavery_Horrible_SlavesInColony.stages.alien_slaves_in_colony.description>Мы держим рабов иных рас. Это неправильно.</HAR_Alien_Slavery_Horrible_SlavesInColony.stages.alien_slaves_in_colony.description>
+  <HAR_Alien_SoldSlave_Horrible.stages.sold_alien_slave.label>продажа раба иной расы</HAR_Alien_SoldSlave_Horrible.stages.sold_alien_slave.label>
+  <HAR_Alien_SoldSlave_Horrible.stages.sold_alien_slave.description>По моей воле представитель иной расы продан в рабство. Не знаю, смогу ли простить себя.</HAR_Alien_SoldSlave_Horrible.stages.sold_alien_slave.description>
+  <HAR_Alien_EnslavedPrisoner_Horrible.stages.enslaved_alien_prisoner.label>обращение пленника иной расы в рабство</HAR_Alien_EnslavedPrisoner_Horrible.stages.enslaved_alien_prisoner.label>
+  <HAR_Alien_EnslavedPrisoner_Horrible.stages.enslaved_alien_prisoner.description>По моей воле представитель иной расы стал рабом. Как это оправдать?</HAR_Alien_EnslavedPrisoner_Horrible.stages.enslaved_alien_prisoner.description>
+  <HAR_Alien_SoldSlave_Know_Horrible.stages.sold_alien_slave.label>продажа раба иной расы</HAR_Alien_SoldSlave_Know_Horrible.stages.sold_alien_slave.label>
+  <HAR_Alien_SoldSlave_Know_Horrible_Mood.stages.alien_slave_sold.label>продан раб иной расы</HAR_Alien_SoldSlave_Know_Horrible_Mood.stages.alien_slave_sold.label>
+  <HAR_Alien_SoldSlave_Know_Horrible_Mood.stages.alien_slave_sold.description>Мы продали представителя иной расы в рабство. Какой ужасный поступок.</HAR_Alien_SoldSlave_Know_Horrible_Mood.stages.alien_slave_sold.description>
+  <HAR_Alien_EnslavedPrisoner_Know_Horrible.stages.enslaved_alien_prisoner.label>обращение пленника иной расы в рабство</HAR_Alien_EnslavedPrisoner_Know_Horrible.stages.enslaved_alien_prisoner.label>
+  <HAR_Alien_EnslavedPrisoner_Know_Horrible_Mood.stages.alien_prisoner_enslaved.label>пленник иной расы обращён в рабство</HAR_Alien_EnslavedPrisoner_Know_Horrible_Mood.stages.alien_prisoner_enslaved.label>
+  <HAR_Alien_EnslavedPrisoner_Know_Horrible_Mood.stages.alien_prisoner_enslaved.description>Мы обратили представителя иной расы в рабство. Ужасно так поступать с другим разумным существом.</HAR_Alien_EnslavedPrisoner_Know_Horrible_Mood.stages.alien_prisoner_enslaved.description>
+  <HAR_Alien_Slavery_Disapproved_SlavesInColony.stages.alien_slaves_in_colony.label>рабы иных рас в поселении</HAR_Alien_Slavery_Disapproved_SlavesInColony.stages.alien_slaves_in_colony.label>
+  <HAR_Alien_Slavery_Disapproved_SlavesInColony.stages.alien_slaves_in_colony.description>Мы держим рабов иных рас. Даже если это необходимо, мне неприятно, и хотелось бы обходиться без этого.</HAR_Alien_Slavery_Disapproved_SlavesInColony.stages.alien_slaves_in_colony.description>
+  <HAR_Alien_SoldSlave_Disapproved.stages.sold_alien_slave.label>продажа раба иной расы</HAR_Alien_SoldSlave_Disapproved.stages.sold_alien_slave.label>
+  <HAR_Alien_SoldSlave_Disapproved.stages.sold_alien_slave.description>По моей воле представитель иной расы продан в рабство. Надеюсь, его не ждёт ничего ужасного.</HAR_Alien_SoldSlave_Disapproved.stages.sold_alien_slave.description>
+  <HAR_Alien_EnslavedPrisoner_Disapproved.stages.enslaved_alien_prisoner.label>обращение пленника иной расы в рабство</HAR_Alien_EnslavedPrisoner_Disapproved.stages.enslaved_alien_prisoner.label>
+  <HAR_Alien_EnslavedPrisoner_Disapproved.stages.enslaved_alien_prisoner.description>По моей воле представитель иной расы стал рабом. Такое трудно оправдать.</HAR_Alien_EnslavedPrisoner_Disapproved.stages.enslaved_alien_prisoner.description>
+  <HAR_Alien_SoldSlave_Know_Disapproved.stages.sold_alien_slave.label>продажа раба иной расы</HAR_Alien_SoldSlave_Know_Disapproved.stages.sold_alien_slave.label>
+  <HAR_Alien_SoldSlave_Know_Disapproved_Mood.stages.alien_slave_sold.label>продан раб иной расы</HAR_Alien_SoldSlave_Know_Disapproved_Mood.stages.alien_slave_sold.label>
+  <HAR_Alien_SoldSlave_Know_Disapproved_Mood.stages.alien_slave_sold.description>Мы продали представителя иной расы в рабство. Не следовало этого делать.</HAR_Alien_SoldSlave_Know_Disapproved_Mood.stages.alien_slave_sold.description>
+  <HAR_Alien_EnslavedPrisoner_Know_Disapproved.stages.enslaved_alien_prisoner.label>обращение пленника иной расы в рабство</HAR_Alien_EnslavedPrisoner_Know_Disapproved.stages.enslaved_alien_prisoner.label>
+  <HAR_Alien_EnslavedPrisoner_Know_Disapproved_Mood.stages.alien_prisoner_enslaved.label>пленник иной расы обращён в рабство</HAR_Alien_EnslavedPrisoner_Know_Disapproved_Mood.stages.alien_prisoner_enslaved.label>
+  <HAR_Alien_EnslavedPrisoner_Know_Disapproved_Mood.stages.alien_prisoner_enslaved.description>Мы обратили представителя иной расы в рабство. Не следовало этого делать.</HAR_Alien_EnslavedPrisoner_Know_Disapproved_Mood.stages.alien_prisoner_enslaved.description>
+  <HAR_Alien_Slavery_Honorable_SlavesInColony.stages.alien_slaves_in_colony.label>рабы иных рас в поселении</HAR_Alien_Slavery_Honorable_SlavesInColony.stages.alien_slaves_in_colony.label>
+  <HAR_Alien_Slavery_Honorable_SlavesInColony.stages.alien_slaves_in_colony.description>У нас есть рабы иных рас. Значит, мы на верном пути.</HAR_Alien_Slavery_Honorable_SlavesInColony.stages.alien_slaves_in_colony.description>
+  <HAR_Alien_Slavery_Honorable_NoSlavesInColony.stages.no_alien_slaves_in_colony.label>нет рабов иных рас в поселении</HAR_Alien_Slavery_Honorable_NoSlavesInColony.stages.no_alien_slaves_in_colony.label>
+  <HAR_Alien_Slavery_Honorable_NoSlavesInColony.stages.no_alien_slaves_in_colony.description>Без рабов иных рас нас никто не будет уважать.</HAR_Alien_Slavery_Honorable_NoSlavesInColony.stages.no_alien_slaves_in_colony.description>
+  <HAR_Alien_SoldSlave_Honorable.stages.sold_alien_slave.label>продажа раба иной расы</HAR_Alien_SoldSlave_Honorable.stages.sold_alien_slave.label>
+  <HAR_Alien_SoldSlave_Honorable.stages.sold_alien_slave.description>По моей воле представитель иной расы продан в рабство. Теперь люди заметят моё высокое положение.</HAR_Alien_SoldSlave_Honorable.stages.sold_alien_slave.description>
+  <HAR_Alien_EnslavedPrisoner_Honorable.stages.enslaved_alien_prisoner.label>обращение пленника иной расы в рабство</HAR_Alien_EnslavedPrisoner_Honorable.stages.enslaved_alien_prisoner.label>
+  <HAR_Alien_EnslavedPrisoner_Honorable.stages.enslaved_alien_prisoner.description>По моей воле представитель иной расы стал рабом. Выбора не было — пришлось подчиниться мне.</HAR_Alien_EnslavedPrisoner_Honorable.stages.enslaved_alien_prisoner.description>
+  <HAR_Alien_SoldSlave_Know_Honorable.stages.sold_alien_slave.label>продажа раба иной расы</HAR_Alien_SoldSlave_Know_Honorable.stages.sold_alien_slave.label>
+  <HAR_Alien_SoldSlave_Know_Honorable_Mood.stages.alien_slave_sold.label>продан раб иной расы</HAR_Alien_SoldSlave_Know_Honorable_Mood.stages.alien_slave_sold.label>
+  <HAR_Alien_SoldSlave_Know_Honorable_Mood.stages.alien_slave_sold.description>Мы продали представителя иной расы в рабство! Прекрасное доказательство нашей чести и силы.</HAR_Alien_SoldSlave_Know_Honorable_Mood.stages.alien_slave_sold.description>
+  <HAR_Alien_EnslavedPrisoner_Know_Honorable.stages.enslaved_alien_prisoner.label>обращение пленника иной расы в рабство</HAR_Alien_EnslavedPrisoner_Know_Honorable.stages.enslaved_alien_prisoner.label>
+  <HAR_Alien_EnslavedPrisoner_Know_Honorable_Mood.stages.alien_prisoner_enslaved.label>пленник иной расы обращён в рабство</HAR_Alien_EnslavedPrisoner_Know_Honorable_Mood.stages.alien_prisoner_enslaved.label>
+  <HAR_Alien_EnslavedPrisoner_Know_Honorable_Mood.stages.alien_prisoner_enslaved.description>Мы обратили представителя иной расы в рабство. Теперь наша честь и сила не вызывают сомнений!</HAR_Alien_EnslavedPrisoner_Know_Honorable_Mood.stages.alien_prisoner_enslaved.description>
+</LanguageData>

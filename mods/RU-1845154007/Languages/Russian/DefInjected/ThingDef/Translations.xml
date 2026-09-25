@@ -1,0 +1,196 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFES_Complex_GraserCannon.description>Мощный гамма-лазер на баррикаде, которая служит расчёту укрытием. Ведёт огонь скользящим лучом, способным пробивать броню и поджигать цели. Требует оператора. После интенсивной стрельбы излучатели нужно восстанавливать с помощью пластали.</VFES_Complex_GraserCannon.description>
+  <VFES_Turret_AntiAir.description>Специализированная оборонительная турель, перехватывающая взрывные снаряды и прибывающие транспортные капсулы в пределах защитного радиуса. Не атакует наземные цели. Шанс перехвата зависит от скорости цели. После интенсивной стрельбы стволы нужно восстанавливать с помощью стали.</VFES_Turret_AntiAir.description>
+  <VFES_Gun_PointDefense.description>Скорострельное орудие для перехвата приближающихся снарядов.</VFES_Gun_PointDefense.description>
+  <VFES_Turret_AutomatedMortar.description>Автоматический миномёт, стреляющий осколочными снарядами. Наносит большой урон, но из-за невысокой точности лучше подходит для обстрела крупных укреплений, чем групп противника в поле. Его чувствительный механизм стрельбы рассчитан только на осколочные снаряды.</VFES_Turret_AutomatedMortar.description>
+  <VFES_ConcealedBarrier.description>Выдвижной барьер высотой по пояс. В поднятом состоянии обеспечивает надёжное укрытие от выстрелов, в убранном почти незаметен. Как и ограда, не пропускает некоторые виды животных. Для работы требуется электричество.</VFES_ConcealedBarrier.description>
+  <VFES_BearTrap.description>Две тяжёлые металлические дуги удерживаются раскрытыми и соединены со спусковой пластиной. Стоит наступить на неё — дуги с силой захлопнутся, нанеся тяжёлые повреждения. Капкан маскируется на местности, поэтому его нельзя ставить вплотную к другим ловушкам. После срабатывания его можно взвести заново.</VFES_BearTrap.description>
+  <VFES_CavalrySpikes.description>Ряд заострённых кольев, низко установленных над землёй. Калечит тех, кто пытается прорваться через него, особенно быстрых животных и всадников. Можно ставить вплотную к другим кольям. После срабатывания сооружение нужно построить заново.</VFES_CavalrySpikes.description>
+  <VFES_Dugout.description>Длинный узкий ров. При пересечении приходится спускаться и подниматься, поэтому он сильно замедляет движение. Находящиеся внутри получают хорошее укрытие и защиту от взрывов, но теряют в дальности стрельбы.</VFES_Dugout.description>
+  <VFES_Trench.description>Длинная укреплённая траншея, устойчивая к повреждениям. При пересечении приходится спускаться и подниматься, поэтому она сильно замедляет движение. Находящиеся внутри получают хорошее укрытие и защиту от взрывов, но теряют в дальности стрельбы.</VFES_Trench.description>
+  <VFES_Platform.description>Длинная узкая платформа. При пересечении приходится подниматься и спускаться, поэтому она сильно замедляет движение. Находящиеся на ней стреляют дальше, но хуже защищены укрытиями.</VFES_Platform.description>
+  <VFES_Turret_Ballista.description>Древняя осадная машина в виде большого арбалета на деревянной раме. Выпущенные ею болты при ударе разлетаются в щепки. Для стрельбы нужен оператор.</VFES_Turret_Ballista.description>
+  <VFES_Gun_BallistaTurret.description>Древняя осадная машина в виде большого арбалета на деревянной раме.</VFES_Gun_BallistaTurret.description>
+  <VFES_Turret_Searchlight.description>Прожектор с чрезвычайно яркой лампой и зеркальным параболическим отражателем. Освещает цели и временно ослепляет их.</VFES_Turret_Searchlight.description>
+  <VFES_Bullet_FlameTurret.label>струя пламени</VFES_Bullet_FlameTurret.label>
+  <VFES_Complex_Hmg.description>Тяжёлый пулемёт на позиции из мешков с песком, служащих расчёту укрытием. Для стрельбы нужен оператор. После интенсивного использования ствол нужно восстанавливать с помощью стали.</VFES_Complex_Hmg.description>
+  <VFES_Complex_Minigun.description>Многоствольный пулемёт на позиции из мешков с песком, обеспечивающих устойчивость и укрытие. Большинство самозарядных орудий использует энергию пороховых газов, а миниган подаёт патроны с помощью электродвигателя. Для стрельбы нужен оператор. После интенсивного использования стволы нужно восстанавливать с помощью стали.</VFES_Complex_Minigun.description>
+  <VFES_Complex_Charge.description>Тяжёлый скорострельный бластер с импульсной зарядкой снарядов, установленный на баррикаде, которая служит расчёту укрытием. Для стрельбы нужен оператор. После интенсивного использования ствол нужно восстанавливать с помощью пластали.</VFES_Complex_Charge.description>
+  <VFES_Turret_Concealed.description>Компактная автоматическая турель с выдвижной бронёй и механизмом погружения. Может убираться под землю, становясь недоступной для прицельного огня. После интенсивной стрельбы ствол нужно восстанавливать с помощью стали. При повреждении может взорваться. Примитивный ИИ не допускает прямого управления, поэтому берегитесь огня по своим.</VFES_Turret_Concealed.description>
+  <VFES_Complex_GraserCannon.comps.3.fuelGizmoLabel>Ресурс излучателей</VFES_Complex_GraserCannon.comps.3.fuelGizmoLabel>
+  <VFES_Complex_GraserCannon.comps.3.fuelLabel>Выстрелов до ремонта излучателей</VFES_Complex_GraserCannon.comps.3.fuelLabel>
+  <VFES_Complex_GraserCannon.comps.3.outOfFuelMessage>требуется ремонт излучателей</VFES_Complex_GraserCannon.comps.3.outOfFuelMessage>
+  <VFES_Turret_AutomatedMortar.comps.2.outOfFuelMessage>требуется новый усиленный ствол</VFES_Turret_AutomatedMortar.comps.2.outOfFuelMessage>
+  <VFES_Turret_Artillery.comps.3.outOfFuelMessage>требуется новый усиленный ствол</VFES_Turret_Artillery.comps.3.outOfFuelMessage>
+  <VFES_Turret_AutomatedMortar.comps.2.outOfSecondaryFuelMessage>нет снарядов</VFES_Turret_AutomatedMortar.comps.2.outOfSecondaryFuelMessage>
+  <VFES_Turret_AutomatedMortar.comps.2.secondaryFuelGizmoLabel>Загружено снарядов</VFES_Turret_AutomatedMortar.comps.2.secondaryFuelGizmoLabel>
+  <VFES_Complex_GraserCannon.label>стационарный гамма-лазер</VFES_Complex_GraserCannon.label>
+  <VFES_ComplexGraserCannon_Top.label>гамма-лазер</VFES_ComplexGraserCannon_Top.label>
+  <VFES_ComplexGraserCannon_Top.description>Мощный гамма-лазер, предназначенный для крепления к турельной установке.</VFES_ComplexGraserCannon_Top.description>
+  <VFES_ComplexGraserCannon_Top.verbs.Verb_ShootBeam.label>гамма-лазер</VFES_ComplexGraserCannon_Top.verbs.Verb_ShootBeam.label>
+  <VFES_Mote_WideGraserBeamBase.label>частица</VFES_Mote_WideGraserBeamBase.label>
+  <VFES_Mote_SpotLight.label>частица</VFES_Mote_SpotLight.label>
+  <VFES_Turret_AntiAir.label>зенитная турель</VFES_Turret_AntiAir.label>
+  <VFES_Turret_AntiAir.comps.5.fuelGizmoLabel>Боезапас</VFES_Turret_AntiAir.comps.5.fuelGizmoLabel>
+  <VFES_Turret_AntiAir.comps.5.fuelLabel>Боезапас</VFES_Turret_AntiAir.comps.5.fuelLabel>
+  <VFES_Gun_PointDefense.label>орудие точечной обороны</VFES_Gun_PointDefense.label>
+  <VFES_Gun_PointDefense.verbs.Verb_Shoot.label>орудие точечной обороны</VFES_Gun_PointDefense.verbs.Verb_Shoot.label>
+  <VFES_Turret_AutomatedMortar.label>автоматический миномёт</VFES_Turret_AutomatedMortar.label>
+  <VFES_Turret_AutomatedMortar.comps.2.fuelGizmoLabel>Прочность ствола</VFES_Turret_AutomatedMortar.comps.2.fuelGizmoLabel>
+  <VFES_Turret_AutomatedMortar.comps.2.fuelLabel>Выстрелов до замены ствола</VFES_Turret_AutomatedMortar.comps.2.fuelLabel>
+  <VFES_Turret_AutomatedMortar.comps.2.secondaryFuelLabel>Боезапас</VFES_Turret_AutomatedMortar.comps.2.secondaryFuelLabel>
+  <Gun_AutomatedMortar.label>автоматический миномёт</Gun_AutomatedMortar.label>
+  <Gun_AutomatedMortar.verbs.Verb_Shoot.label>автоматический миномёт</Gun_AutomatedMortar.verbs.Verb_Shoot.label>
+  <VFES_Turret_Artillery.label>артиллерийское орудие</VFES_Turret_Artillery.label>
+  <VFES_Turret_Artillery.description>Мощное артиллерийское орудие ручного управления, предназначенное для дальнего обстрела. Хотя оно стреляет медленнее миномёта, улучшенные системы наведения обеспечивают значительно более высокую точность, что делает его идеальным для точечных ударов по вражеским сооружениям или особо ценным целям. Может управляться двумя операторами, что вдвое увеличивает скорость стрельбы. Способно оказывать огневую поддержку по карте мира, но только по разведанным локациям.</VFES_Turret_Artillery.description>
+  <VFES_Turret_Artillery.comps.3.fuelGizmoLabel>Прочность ствола</VFES_Turret_Artillery.comps.3.fuelGizmoLabel>
+  <VFES_Turret_Artillery.comps.3.fuelLabel>Выстрелов до замены ствола</VFES_Turret_Artillery.comps.3.fuelLabel>
+  <VFES_Artillery_ArtilleryGun.label>артиллерийское орудие</VFES_Artillery_ArtilleryGun.label>
+  <VFES_Artillery_ArtilleryGun.description>Артиллерийская установка, способная перебрасывать снаряды через препятствия и стены. Точная и дальнобойная.</VFES_Artillery_ArtilleryGun.description>
+  <VFES_Artillery_ArtilleryGun.verbs.Verb_ShootWithWorldTargeting.label>артиллерийское орудие</VFES_Artillery_ArtilleryGun.verbs.Verb_ShootWithWorldTargeting.label>
+  <VFES_Turret_Concealed.label>выдвижная турель</VFES_Turret_Concealed.label>
+  <VFES_Turret_Concealed.comps.5.fuelGizmoLabel>Прочность ствола</VFES_Turret_Concealed.comps.5.fuelGizmoLabel>
+  <VFES_Turret_Concealed.comps.5.fuelLabel>Выстрелов до замены ствола</VFES_Turret_Concealed.comps.5.fuelLabel>
+  <VFES_Turret_Concealed.comps.5.outOfFuelMessage>требуется замена ствола</VFES_Turret_Concealed.comps.5.outOfFuelMessage>
+  <VFES_Bullet_ConcealedTurret.label>пуля из выдвижной турели</VFES_Bullet_ConcealedTurret.label>
+  <VFES_Gun_ConcealedTurret.label>пушка выдвижной турели</VFES_Gun_ConcealedTurret.label>
+  <VFES_Gun_ConcealedTurret.description>Лёгкая автоматическая пушка, предназначенная для крепления к турельной установке.</VFES_Gun_ConcealedTurret.description>
+  <VFES_Gun_ConcealedTurret.verbs.Verb_Shoot.label>пушка выдвижной турели</VFES_Gun_ConcealedTurret.verbs.Verb_Shoot.label>
+  <VFES_ConcealedBarrier.label>выдвижной барьер</VFES_ConcealedBarrier.label>
+  <VFES_SmallRepulsor.label>малый генератор щита</VFES_SmallRepulsor.label>
+  <VFES_SmallRepulsor.description>Ультратехнологичное устройство, которое создаёт вокруг себя мощное энергетическое поле, защищающее всё, что находится внутри. Потребляет огромное количество энергии в активном состоянии. Работает сквозь стены.
+
+Генераторы щита активируются только при наличии активной угрозы, такой как налёт или артиллерийский удар. В противном случае они остаются в неактивном состоянии и потребляют гораздо меньше энергии.
+
+Может поджечь окружающую территорию, если за короткий промежуток времени получит достаточно много урона.</VFES_SmallRepulsor.description>
+  <VFES_LargeRepulsor.label>большой генератор щита</VFES_LargeRepulsor.label>
+  <VFES_LargeRepulsor.description>Большое ультратехнологическое устройство, создающее очень обширное энергетическое поле для защиты всего внутри. В активном состоянии потребляет огромное количество энергии. Работает сквозь стены.
+
+Генераторы щита включаются только при активной угрозе, например налёте или артобстреле. В остальное время они бездействуют и потребляют гораздо меньше энергии.
+
+Если за короткое время поглотить достаточно урона, окружающая местность может загореться.</VFES_LargeRepulsor.description>
+  <VFES_BearTrap.label>медвежий капкан</VFES_BearTrap.label>
+  <VFES_CavalrySpikes.label>деревянные колья</VFES_CavalrySpikes.label>
+  <VEFS_TrapLandmine.label>мина</VEFS_TrapLandmine.label>
+  <VEFS_TrapLandmine.description>Сложный взрывной снаряд, соединённый с нажимной плитой и детонирующий мгновенно при касании. Поскольку мины предназначены для скрытой установки, их нельзя ставить рядом с другими подобными устройствами. Животные в спокойном состоянии обходят мины стороной.</VEFS_TrapLandmine.description>
+  <VEFS_TrapShockmine.label>импульсная мина</VEFS_TrapShockmine.label>
+  <VEFS_TrapShockmine.description>Высокотехнологичная замаскированная ловушка, испускающая локальный ЭМИ-импульс при активации и автоматически перезаряжающаяся спустя короткое время. Поскольку мины предназначены для скрытой установки, их нельзя ставить рядом с другими подобными устройствами. Животные в спокойном состоянии обходят мины стороной.</VEFS_TrapShockmine.description>
+  <VFES_BarbedWire.label>колючая проволока</VFES_BarbedWire.label>
+  <VFES_BarbedWire.description>Стальная ограда из проволоки с острыми шипами, расположенными на расстоянии друг от друга. Не только замедляет врагов, но и наносит им порезы и колотые раны. Колючая проволока, так же как и ограда, не будет давать пройти через себя определённым видам животных.</VFES_BarbedWire.description>
+  <VFES_Dugout.label>окоп</VFES_Dugout.label>
+  <VFES_Trench.label>траншея</VFES_Trench.label>
+  <VFES_Platform.label>платформа</VFES_Platform.label>
+  <VFES_Turret_Catapult.label>катапульта</VFES_Turret_Catapult.label>
+  <VFES_Turret_Catapult.description>Механизм для метания снарядов на большое расстояние без пороха и других метательных зарядов. Катапульта используется с древности и остаётся одним из самых долговечных и эффективных орудий войны.</VFES_Turret_Catapult.description>
+  <VFES_Artillery_Catapult.label>катапульта</VFES_Artillery_Catapult.label>
+  <VFES_Artillery_Catapult.description>Механизм для метания снарядов на большое расстояние без пороха и других метательных зарядов.</VFES_Artillery_Catapult.description>
+  <VFES_Artillery_Catapult.verbs.Verb_Shoot.label>катапульта</VFES_Artillery_Catapult.verbs.Verb_Shoot.label>
+  <VFES_Bullet_Catapult.label>массивный валун</VFES_Bullet_Catapult.label>
+  <VFES_Turret_Ballista.label>баллиста</VFES_Turret_Ballista.label>
+  <VFES_Turret_Ballista.comps.1.fuelGizmoLabel>Болты</VFES_Turret_Ballista.comps.1.fuelGizmoLabel>
+  <VFES_Turret_Ballista.comps.1.fuelLabel>Болты</VFES_Turret_Ballista.comps.1.fuelLabel>
+  <VFES_Turret_Ballista.comps.1.outOfFuelMessage>необходимы болты</VFES_Turret_Ballista.comps.1.outOfFuelMessage>
+  <VFES_Gun_BallistaTurret.label>баллиста</VFES_Gun_BallistaTurret.label>
+  <VFES_Gun_BallistaTurret.verbs.Verb_Shoot.label>баллиста</VFES_Gun_BallistaTurret.verbs.Verb_Shoot.label>
+  <VFES_Bullet_Ballista.label>болт из баллисты</VFES_Bullet_Ballista.label>
+  <VFES_Turret_MilitaryTurret.label>военная турель</VFES_Turret_MilitaryTurret.label>
+  <VFES_Turret_MilitaryTurret.description>Модернизированная турель с точной стабилизацией, улучшенными алгоритмами прицеливания и прочным корпусом. Для ремонта изношенного ствола требуется сталь. При повреждении может взорваться. ИИ турели не особо продвинут и не поддерживает прямого управления, так что берегитесь огня по своим.</VFES_Turret_MilitaryTurret.description>
+  <VFES_Turret_MilitaryTurret.comps.5.fuelGizmoLabel>Прочность ствола</VFES_Turret_MilitaryTurret.comps.5.fuelGizmoLabel>
+  <VFES_Turret_MilitaryTurret.comps.5.fuelLabel>Выстрелов до замены ствола</VFES_Turret_MilitaryTurret.comps.5.fuelLabel>
+  <VFES_Turret_MilitaryTurret.comps.5.outOfFuelMessage>требуется замена ствола</VFES_Turret_MilitaryTurret.comps.5.outOfFuelMessage>
+  <VFES_Gun_MilitaryTurret.label>пушка военной турели</VFES_Gun_MilitaryTurret.label>
+  <VFES_Gun_MilitaryTurret.description>Усовершенствованная автоматическая пушка, предназначенная для крепления к турельной установке.</VFES_Gun_MilitaryTurret.description>
+  <VFES_Gun_MilitaryTurret.verbs.Verb_Shoot.label>пушка военной турели</VFES_Gun_MilitaryTurret.verbs.Verb_Shoot.label>
+  <VFES_Turret_ArmoredTurret.label>бронированная турель</VFES_Turret_ArmoredTurret.label>
+  <VFES_Turret_ArmoredTurret.description>Бронированная переносная автоматическая турель. Для ремонта изношенного ствола требуется сталь. Дополнительные бронепластины позволяют ей служить частичным укрытием, повышают устойчивость к вражескому огню и предотвращают взрыв даже при серьёзных повреждениях. ИИ турели не особо продвинут и не поддерживает прямого управления, так что берегитесь огня по своим.</VFES_Turret_ArmoredTurret.description>
+  <VFES_Turret_ArmoredTurret.comps.4.fuelGizmoLabel>Прочность ствола</VFES_Turret_ArmoredTurret.comps.4.fuelGizmoLabel>
+  <VFES_Turret_ArmoredTurret.comps.4.fuelLabel>Выстрелов до замены ствола</VFES_Turret_ArmoredTurret.comps.4.fuelLabel>
+  <VFES_Turret_ArmoredTurret.comps.4.outOfFuelMessage>требуется замена ствола</VFES_Turret_ArmoredTurret.comps.4.outOfFuelMessage>
+  <VFES_Gun_ArmoredTurret.label>пушка бронированной турели</VFES_Gun_ArmoredTurret.label>
+  <VFES_Gun_ArmoredTurret.description>Усовершенствованная автоматическая пушка, предназначенная для крепления к турельной установке.</VFES_Gun_ArmoredTurret.description>
+  <VFES_Gun_ArmoredTurret.verbs.Verb_Shoot.label>пушка бронированной турели</VFES_Gun_ArmoredTurret.verbs.Verb_Shoot.label>
+  <VFES_Turret_Searchlight.label>охранный прожектор</VFES_Turret_Searchlight.label>
+  <VFES_Gun_Searchlight.label>охранный прожектор</VFES_Gun_Searchlight.label>
+  <VFES_Gun_Searchlight.description>Прожектор, предназначенный для крепления к турельной установке.</VFES_Gun_Searchlight.description>
+  <VFES_Gun_Searchlight.verbs.Verb_Dazzle.label>охранный прожектор</VFES_Gun_Searchlight.verbs.Verb_Dazzle.label>
+  <VFES_Turret_Flame.label>огнемётная турель</VFES_Turret_Flame.label>
+  <VFES_Turret_Flame.description>Небольшая переносная огнемётная турель, выбрасывающая конус пламени, охватывающий врагов и окружающую местность. При повреждении может взорваться. ИИ турели не особо продвинут и не поддерживает прямого управления, так что берегитесь огня по своим.</VFES_Turret_Flame.description>
+  <VFES_Turret_Flame.comps.5.fuelGizmoLabel>Осталось топлива</VFES_Turret_Flame.comps.5.fuelGizmoLabel>
+  <VFES_Turret_Flame.comps.5.fuelLabel>Осталось топлива</VFES_Turret_Flame.comps.5.fuelLabel>
+  <VFES_Turret_Flame.comps.5.outOfFuelMessage>необходимо химтопливо</VFES_Turret_Flame.comps.5.outOfFuelMessage>
+  <VFES_Gun_FlameTurret.label>пушка огнемётной турели</VFES_Gun_FlameTurret.label>
+  <VFES_Gun_FlameTurret.description>Огнемёт, предназначенный для крепления к турельной установке.</VFES_Gun_FlameTurret.description>
+  <VFES_Gun_FlameTurret.verbs.Verb_Shoot.label>пушка огнемётной турели</VFES_Gun_FlameTurret.verbs.Verb_Shoot.label>
+  <VFES_Turret_ShotgunTurret.label>турель с дробовиком</VFES_Turret_ShotgunTurret.label>
+  <VFES_Turret_ShotgunTurret.description>Компактная турель, оснащённая полуавтоматическим дробовиком. Для ремонта изношенного ствола требуется сталь. При повреждении может взорваться. ИИ турели не особо продвинут и не поддерживает прямого управления, так что берегитесь огня по своим.</VFES_Turret_ShotgunTurret.description>
+  <VFES_Turret_ShotgunTurret.comps.5.fuelGizmoLabel>Прочность ствола</VFES_Turret_ShotgunTurret.comps.5.fuelGizmoLabel>
+  <VFES_Turret_ShotgunTurret.comps.5.fuelLabel>Выстрелов до замены ствола</VFES_Turret_ShotgunTurret.comps.5.fuelLabel>
+  <VFES_Turret_ShotgunTurret.comps.5.outOfFuelMessage>требуется замена ствола</VFES_Turret_ShotgunTurret.comps.5.outOfFuelMessage>
+  <VFES_Gun_ShotgunTurret.label>орудие турели с дробовиком</VFES_Gun_ShotgunTurret.label>
+  <VFES_Gun_ShotgunTurret.description>Автоматический дробовик для установки на турель.</VFES_Gun_ShotgunTurret.description>
+  <VFES_Gun_ShotgunTurret.verbs.Verb_Shoot.label>орудие турели с дробовиком</VFES_Gun_ShotgunTurret.verbs.Verb_Shoot.label>
+  <VFES_Turret_AutocannonDouble.label>сдвоенная тяжёлая турель</VFES_Turret_AutocannonDouble.label>
+  <VFES_Turret_AutocannonDouble.description>Двуствольный вариант тяжёлой турели. Хотя он менее точен и имеет немного меньшую дальность по сравнению с одноствольной версией, это компенсируется высоким темпом огня. Не стреляет вблизи. При повреждении может взорваться.</VFES_Turret_AutocannonDouble.description>
+  <VFES_Turret_AutocannonDouble.comps.5.fuelGizmoLabel>Прочность ствола</VFES_Turret_AutocannonDouble.comps.5.fuelGizmoLabel>
+  <VFES_Turret_AutocannonDouble.comps.5.fuelLabel>Выстрелов до замены ствола</VFES_Turret_AutocannonDouble.comps.5.fuelLabel>
+  <VFES_Turret_AutocannonDouble.comps.5.outOfFuelMessage>требуется замена ствола</VFES_Turret_AutocannonDouble.comps.5.outOfFuelMessage>
+  <VFES_TurretDoubleAutocannon_Top.label>сдвоенная пушка тяжёлой турели</VFES_TurretDoubleAutocannon_Top.label>
+  <VFES_TurretDoubleAutocannon_Top.description>Самозарядная крупнокалиберная двухствольная пушка, предназначенная для крепления к турельной установке.</VFES_TurretDoubleAutocannon_Top.description>
+  <VFES_TurretDoubleAutocannon_Top.verbs.Verb_Shoot.label>сдвоенная пушка тяжёлой турели</VFES_TurretDoubleAutocannon_Top.verbs.Verb_Shoot.label>
+  <VFES_Complex_Hmg.label>стационарный тяжёлый пулемёт</VFES_Complex_Hmg.label>
+  <VFES_Complex_Hmg.comps.3.fuelGizmoLabel>Прочность ствола</VFES_Complex_Hmg.comps.3.fuelGizmoLabel>
+  <VFES_Complex_Hmg.comps.3.fuelLabel>Выстрелов до замены ствола</VFES_Complex_Hmg.comps.3.fuelLabel>
+  <VFES_Complex_Hmg.comps.3.outOfFuelMessage>требуется замена ствола</VFES_Complex_Hmg.comps.3.outOfFuelMessage>
+  <VFES_ComplexHmg_Top.label>тяжёлый пулемёт</VFES_ComplexHmg_Top.label>
+  <VFES_ComplexHmg_Top.description>Самозарядный тяжёлый пулемёт, предназначенный для крепления к турельной установке.</VFES_ComplexHmg_Top.description>
+  <VFES_ComplexHmg_Top.verbs.Verb_Shoot.label>тяжёлый пулемёт</VFES_ComplexHmg_Top.verbs.Verb_Shoot.label>
+  <VFES_Bullet_HMG.label>пуля из тяжёлого пулемёта</VFES_Bullet_HMG.label>
+  <VFES_Complex_Minigun.label>стационарный миниган</VFES_Complex_Minigun.label>
+  <VFES_Complex_Minigun.comps.4.fuelGizmoLabel>Прочность ствола</VFES_Complex_Minigun.comps.4.fuelGizmoLabel>
+  <VFES_Complex_Minigun.comps.4.fuelLabel>Выстрелов до замены ствола</VFES_Complex_Minigun.comps.4.fuelLabel>
+  <VFES_Complex_Minigun.comps.4.outOfFuelMessage>требуется замена ствола</VFES_Complex_Minigun.comps.4.outOfFuelMessage>
+  <VFES_ComplexMinigun_Top.label>миниган</VFES_ComplexMinigun_Top.label>
+  <VFES_ComplexMinigun_Top.description>Самозарядный миниган, предназначенный для крепления к турельной установке.</VFES_ComplexMinigun_Top.description>
+  <VFES_ComplexMinigun_Top.verbs.Verb_Shoot.label>миниган</VFES_ComplexMinigun_Top.verbs.Verb_Shoot.label>
+  <VFES_Turret_Minigun.label>турель с миниганом</VFES_Turret_Minigun.label>
+  <VFES_Turret_Minigun.description>Тяжёлая автоматическая турель. Многоствольный механизм ведёт непрерывный скоростной огонь, разрывая легкобронированные цели на средней дистанции. При повреждении может взорваться. После интенсивной стрельбы для восстановления стволов требуется сталь.</VFES_Turret_Minigun.description>
+  <VFES_Turret_Minigun.comps.5.fuelGizmoLabel>Прочность ствола</VFES_Turret_Minigun.comps.5.fuelGizmoLabel>
+  <VFES_Turret_Minigun.comps.5.fuelLabel>Выстрелов до замены ствола</VFES_Turret_Minigun.comps.5.fuelLabel>
+  <VFES_Turret_Minigun.comps.5.outOfFuelMessage>требуется замена ствола</VFES_Turret_Minigun.comps.5.outOfFuelMessage>
+  <VFES_TurretMinigun_Top.label>миниган</VFES_TurretMinigun_Top.label>
+  <VFES_TurretMinigun_Top.description>Самозарядный миниган, предназначенный для крепления к турельной установке.</VFES_TurretMinigun_Top.description>
+  <VFES_TurretMinigun_Top.verbs.Verb_Shoot.label>миниган</VFES_TurretMinigun_Top.verbs.Verb_Shoot.label>
+  <VFES_Turret_ChargeTurret.label>энергетическая турель</VFES_Turret_ChargeTurret.label>
+  <VFES_Turret_ChargeTurret.description>Переносная автоматическая энергетическая турель. Импульсная технология заряжает каждый снаряд нестабильной энергией на выходе из ствола. После интенсивной стрельбы для восстановления ствола требуется пласталь. При повреждении может взорваться. Примитивный ИИ не допускает прямого управления, поэтому берегитесь огня по своим.</VFES_Turret_ChargeTurret.description>
+  <VFES_Turret_ChargeTurret.comps.5.fuelGizmoLabel>Прочность ствола</VFES_Turret_ChargeTurret.comps.5.fuelGizmoLabel>
+  <VFES_Turret_ChargeTurret.comps.5.fuelLabel>Выстрелов до замены ствола</VFES_Turret_ChargeTurret.comps.5.fuelLabel>
+  <VFES_Turret_ChargeTurret.comps.5.outOfFuelMessage>требуется замена ствола</VFES_Turret_ChargeTurret.comps.5.outOfFuelMessage>
+  <VFES_Gun_ChargeTurret.label>пушка энергетической турели</VFES_Gun_ChargeTurret.label>
+  <VFES_Gun_ChargeTurret.description>Энерговинтовка, предназначенная для крепления к турельной установке.</VFES_Gun_ChargeTurret.description>
+  <VFES_Gun_ChargeTurret.verbs.Verb_Shoot.label>пушка энергетической турели</VFES_Gun_ChargeTurret.verbs.Verb_Shoot.label>
+  <VFES_Bullet_ChargeTurretShot.label>энергетический выстрел</VFES_Bullet_ChargeTurretShot.label>
+  <VFES_Turret_ChargeRailgun.label>энергетический рельсотрон</VFES_Turret_ChargeRailgun.label>
+  <VFES_Turret_ChargeRailgun.description>Импульсно заряжаемая система с рельсовым ускорением, выпускающая краткие очереди разогнанных снарядов, которые при выстреле получают заряд нестабильной плазмы. Такие выстрелы пробивают как броню, так и живые цели, однако после применения турель нуждается в замене пласталевого ствола. Не стреляет вблизи. При повреждении может взорваться.</VFES_Turret_ChargeRailgun.description>
+  <VFES_Turret_ChargeRailgun.comps.5.fuelGizmoLabel>Прочность ствола</VFES_Turret_ChargeRailgun.comps.5.fuelGizmoLabel>
+  <VFES_Turret_ChargeRailgun.comps.5.fuelLabel>Выстрелов до замены ствола</VFES_Turret_ChargeRailgun.comps.5.fuelLabel>
+  <VFES_Turret_ChargeRailgun.comps.5.outOfFuelMessage>требуется замена ствола</VFES_Turret_ChargeRailgun.comps.5.outOfFuelMessage>
+  <VFES_Gun_RailgunTurret.label>энергетический рельсотрон</VFES_Gun_RailgunTurret.label>
+  <VFES_Gun_RailgunTurret.description>Продвинутая рельсовая пушка, предназначенная для запуска снарядов с электромагнитным ускорением.</VFES_Gun_RailgunTurret.description>
+  <VFES_Gun_RailgunTurret.verbs.Verb_Shoot.label>энергетический рельсотрон</VFES_Gun_RailgunTurret.verbs.Verb_Shoot.label>
+  <VFES_Bullet_ChargeRailgunShot.label>выстрел энергетического рельсотрона</VFES_Bullet_ChargeRailgunShot.label>
+  <VFES_Turret_TeslaBlaster.label>тесла-бластер</VFES_Turret_TeslaBlaster.label>
+  <VFES_Turret_TeslaBlaster.description>Специализированная турель для подавления механоидов. Высвобождаемый из четырёх конденсаторов электрический импульс временно выводит поражённого механоида из строя и способен перескакивать от одной цели к другой. Работает только против механоидов.</VFES_Turret_TeslaBlaster.description>
+  <Bullet_TeslaBlaster.label>снаряд тесла-бластера</Bullet_TeslaBlaster.label>
+  <Gun_TeslaBlaster.label>тесла-бластер</Gun_TeslaBlaster.label>
+  <Gun_TeslaBlaster.description>Специализированное энергооружие, предназначенное для крепления к турельной установке.</Gun_TeslaBlaster.description>
+  <Gun_TeslaBlaster.verbs.Verb_Shoot.label>тесла-бластер</Gun_TeslaBlaster.verbs.Verb_Shoot.label>
+  <VFES_Complex_Charge.label>стационарный тяжёлый бластер</VFES_Complex_Charge.label>
+  <VFES_Complex_Charge.comps.3.fuelGizmoLabel>Прочность ствола</VFES_Complex_Charge.comps.3.fuelGizmoLabel>
+  <VFES_Complex_Charge.comps.3.fuelLabel>Выстрелов до замены ствола</VFES_Complex_Charge.comps.3.fuelLabel>
+  <VFES_Complex_Charge.comps.3.outOfFuelMessage>требуется замена ствола</VFES_Complex_Charge.comps.3.outOfFuelMessage>
+  <VFES_ComplexCharge_Top.label>тяжёлый бластер</VFES_ComplexCharge_Top.label>
+  <VFES_ComplexCharge_Top.description>Тяжёлый бластер, предназначенный для крепления к турельной установке.</VFES_ComplexCharge_Top.description>
+  <VFES_ComplexCharge_Top.verbs.Verb_Shoot.label>тяжёлый бластер</VFES_ComplexCharge_Top.verbs.Verb_Shoot.label>
+  <VFES_Bullet_ChargeComplex.label>энергетический выстрел</VFES_Bullet_ChargeComplex.label>
+</LanguageData>

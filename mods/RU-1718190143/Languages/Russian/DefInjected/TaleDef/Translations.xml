@@ -1,0 +1,38 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Tale_UsedPunchingBag.label>тренировка с боксёрской грушей</Tale_UsedPunchingBag.label>
+  <Tale_UsedPunchingBag.rulePack.rulesStrings>
+    <li>tale_noun-&gt;как [PAWN_nameDef] вымещает злость на предмете «[OBJECT_label]»</li>
+    <li>tale_noun-&gt;как [PAWN_nameDef] сердито смотрит на предмет «[OBJECT_label]»</li>
+    <li>tale_noun-&gt;как [PAWN_nameDef] развлекается с предметом «[OBJECT_label]»</li>
+    <li>image-&gt;[PAWN_nameFull] склоняется над предметом «[OBJECT_label]», [circumstance_group]</li>
+    <li>image-&gt;[PAWN_nameFull] бьёт предмет «[OBJECT_label]», [circumstance_group]</li>
+    <li>circumstance_phrase-&gt;с напряжённым от избытка сил телом</li>
+    <li>circumstance_phrase-&gt;с расслабленным телом</li>
+    <li>circumstance_phrase-&gt;осторожно массируя запястья</li>
+    <li>circumstance_phrase-&gt;[angstyverb], с [AdjectiveAngsty] выражением лица</li>
+    <li>circumstance_phrase-&gt;обматывая кисти бинтами</li>
+    <li>circumstance_phrase-&gt;[angstyverb]</li>
+    <li>desc_sentence-&gt;На заднем плане сияет полярное сияние; его цвет — [Color].</li>
+    <li>desc_sentence-&gt;Вдалеке виднеется [Community].</li>
+    <li>desc_sentence-&gt;Вдалеке виднеется [TerrainFeature].</li>
+    <li>desc_sentence-&gt;Черты лица персонажа [PAWN_nameDef] преувеличены.</li>
+    <li>desc_sentence-&gt;[PAWN_nameDef] возвышается над сценой.</li>
+  </Tale_UsedPunchingBag.rulePack.rulesStrings>
+  <Tale_UsedComputer.label>использование компьютера</Tale_UsedComputer.label>
+  <Tale_UsedComputer.rulePack.rulesStrings>
+    <li>tale_noun-&gt;как [PAWN_nameDef] внимательно изучает предмет «[OBJECT_label]» перед собой</li>
+    <li>tale_noun-&gt;как [PAWN_nameDef] сердито смотрит на предмет «[OBJECT_label]»</li>
+    <li>tale_noun-&gt;как [PAWN_nameDef] развлекается с предметом «[OBJECT_label]»</li>
+    <li>image-&gt;[PAWN_nameFull] склоняется над предметом «[OBJECT_label]», [circumstance_group]</li>
+    <li>image-&gt;[PAWN_nameFull] усердно печатает на предмете «[OBJECT_label]», [circumstance_group]</li>
+    <li>circumstance_phrase-&gt;сосредоточившись</li>
+    <li>circumstance_phrase-&gt;с расслабленным телом</li>
+    <li>circumstance_phrase-&gt;откинувшись на спинку стула</li>
+    <li>desc_sentence-&gt;На заднем плане сияет полярное сияние; его цвет — [Color].</li>
+    <li>desc_sentence-&gt;Вдалеке виднеется [Community].</li>
+    <li>desc_sentence-&gt;Вдалеке виднеется [TerrainFeature].</li>
+    <li>desc_sentence-&gt;[PAWN_nameDef] сосредоточенно смотрит на экран.</li>
+    <li>desc_sentence-&gt;[PAWN_nameDef] возвышается над сценой.</li>
+  </Tale_UsedComputer.rulePack.rulesStrings>
+</LanguageData>
