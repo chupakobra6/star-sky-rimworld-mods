@@ -1,0 +1,50 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<ModMetaData>
+  <name>Seamless Doors — русский перевод [Star Sky Mods]</name>
+  <author>chupakobra6 | Star Sky Mods</author>
+  <packageId>starsky.rimworld.ru.3694533072</packageId>
+  <modVersion>1.0.0</modVersion>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>bellodhr.seamlessdoors</packageId>
+      <displayName>Seamless Doors</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/3694533072</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>bellodhr.seamlessdoors</li>
+  </loadAfter>
+  <description>Самый полный русский перевод Seamless Doors (https://steamcommunity.com/sharedfiles/filedetails/?id=3694533072) для RimWorld 1.6. Оригинальный мод устанавливается отдельно.
+
+Seamless Doors продолжает рисунок пола в дверном проёме и убирает резкую границу между соседними покрытиями.
+
+&lt;b&gt;ЧТО ПЕРЕВЕДЕНО&lt;/b&gt;
+Переведены все тексты мода с учётом правильных окончаний и согласования слов.
+
+• Настройки автоматического скрытого покрытия и отображения поверхностей Odyssey.
+• Подсказки к настройкам, название и описание служебного покрытия.
+
+&lt;b&gt;КАК ПОЛЬЗОВАТЬСЯ&lt;/b&gt;
+Выберите русский язык в настройках RimWorld.
+
+Откройте настройки Seamless Doors, чтобы выбрать автоматическое скрытое покрытие и параметр отображения поверхностей Odyssey.
+
+&lt;b&gt;СОВМЕСТИМОСТЬ&lt;/b&gt;
+Требуются Harmony (https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077) и Seamless Doors (https://steamcommunity.com/sharedfiles/filedetails/?id=3694533072). Порядок загрузки: Harmony → оригинальный мод → этот перевод.
+Другой русский перевод того же мода может перекрывать эти тексты; оставьте включённым один перевод.
+
+&lt;b&gt;ОБРАТНАЯ СВЯЗЬ&lt;/b&gt;
+Заметили ошибку или неточность? Напишите в комментариях на странице мода или на Boosty.
+
+Автор оригинального мода: BelloDHR.
+
+Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.</description>
+</ModMetaData>

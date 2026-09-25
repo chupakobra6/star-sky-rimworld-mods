@@ -1,0 +1,16 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <EnhancedCarryingCapacity>Настройка переносимого веса</EnhancedCarryingCapacity>
+  <EnhancedCarryingCapacity.MassMultiplier>Множитель переносимого веса</EnhancedCarryingCapacity.MassMultiplier>
+  <EnhancedCarryingCapacity.MassMultiplier.Tooltip>Умножает вес, который персонаж может переносить. Изменяет грузоподъёмность в обычной игре и допустимый вес снаряжения в Combat Extended.</EnhancedCarryingCapacity.MassMultiplier.Tooltip>
+  <EnhancedCarryingCapacity.MassOffset>Прибавка к переносимому весу</EnhancedCarryingCapacity.MassOffset>
+  <EnhancedCarryingCapacity.MassOffset.Tooltip>Прибавляет указанное значение к переносимому весу после применения множителя. Изменяет грузоподъёмность в обычной игре и допустимый вес снаряжения в Combat Extended.</EnhancedCarryingCapacity.MassOffset.Tooltip>
+  <EnhancedCarryingCapacity.BulkMultiplier>Множитель переносимого объёма</EnhancedCarryingCapacity.BulkMultiplier>
+  <EnhancedCarryingCapacity.BulkMultiplier.Tooltip>Умножает объём снаряжения, который персонаж может переносить. Работает только с Combat Extended.</EnhancedCarryingCapacity.BulkMultiplier.Tooltip>
+  <EnhancedCarryingCapacity.BulkOffset>Прибавка к переносимому объёму</EnhancedCarryingCapacity.BulkOffset>
+  <EnhancedCarryingCapacity.BulkOffset.Tooltip>Прибавляет указанное значение к переносимому объёму после применения множителя. Работает только с Combat Extended.</EnhancedCarryingCapacity.BulkOffset.Tooltip>
+  <StatsReport_MassModifier>Множитель веса</StatsReport_MassModifier>
+  <StatsReport_MassOffset>Прибавка к весу</StatsReport_MassOffset>
+  <StatsReport_BulkModifier>Множитель объёма</StatsReport_BulkModifier>
+  <StatsReport_BulkOffset>Прибавка к объёму</StatsReport_BulkOffset>
+</LanguageData>

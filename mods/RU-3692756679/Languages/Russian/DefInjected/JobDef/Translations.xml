@@ -1,0 +1,25 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BreastfeedCarriedBaby.reportString>кормит младенца грудью.</BreastfeedCarriedBaby.reportString>
+  <BringBabyToCrib.reportString>несёт младенца в кроватку.</BringBabyToCrib.reportString>
+  <BringBabyToDownedNurse.reportString>несёт младенца к кормилице.</BringBabyToDownedNurse.reportString>
+  <BringBabyToNurseFeed.reportString>несёт младенца к кормилице.</BringBabyToNurseFeed.reportString>
+  <BringBabyToSleepingPlace.reportString>несёт младенца к месту для сна.</BringBabyToSleepingPlace.reportString>
+  <BringCarriedBabyToSafety.reportString>несёт младенца в безопасное место.</BringCarriedBabyToSafety.reportString>
+  <CarryAdditionalBabyCustom.reportString>берёт второго младенца на руки.</CarryAdditionalBabyCustom.reportString>
+  <CarryBabyCustom.reportString>несёт младенца.</CarryBabyCustom.reportString>
+  <CarryBabyToGrowthVat.reportString>несёт младенца в капсулу роста.</CarryBabyToGrowthVat.reportString>
+  <FeedCarriedBaby.reportString>кормит младенца.</FeedCarriedBaby.reportString>
+  <FetchFoodForBaby.reportString>идёт за едой для младенца.</FetchFoodForBaby.reportString>
+  <PutBabyIntoSpacerPod.reportString>помещает младенца в космическую переноску.</PutBabyIntoSpacerPod.reportString>
+  <ReclaimSpacerPod.reportString>подбирает переноску с младенцем.</ReclaimSpacerPod.reportString>
+  <ReclaimSpacerPodAndBreastfeed.reportString>подбирает переноску, чтобы покормить младенца грудью.</ReclaimSpacerPodAndBreastfeed.reportString>
+  <ReclaimSpacerPodAndFeed.reportString>подбирает переноску, чтобы покормить младенца.</ReclaimSpacerPodAndFeed.reportString>
+  <ReclaimSpacerPodAndNurseFeed.reportString>подбирает переноску, чтобы отнести младенца к кормилице.</ReclaimSpacerPodAndNurseFeed.reportString>
+  <ReclaimSpacerPodAndPlay.reportString>подбирает переноску, чтобы поиграть с младенцем.</ReclaimSpacerPodAndPlay.reportString>
+  <SCB_BreastfeedCarryToMobileMom.reportString>несёт TargetA к TargetB.</SCB_BreastfeedCarryToMobileMom.reportString>
+  <TakeBabyOutOfSpacerPod.reportString>достаёт младенца из переноски.</TakeBabyOutOfSpacerPod.reportString>
+  <ThrowBabyToColonist.reportString>перебрасывает младенца другому поселенцу.</ThrowBabyToColonist.reportString>
+  <TransferBabyToColonist.reportString>передаёт младенца поселенцу.</TransferBabyToColonist.reportString>
+  <WearSpacerCarrierFromPod.reportString>надевает космическую переноску.</WearSpacerCarrierFromPod.reportString>
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AsuNib_Cutscene_Category>Скорость взлёта и посадки гравикорабля</AsuNib_Cutscene_Category>
+  <AsuNib_Cutscene_Takeoff>Скорость взлёта гравикорабля</AsuNib_Cutscene_Takeoff>
+  <AsuNib_Cutscene_Landing>Скорость посадки гравикорабля</AsuNib_Cutscene_Landing>
+  <AsuNib_Cutscene_Reset>Восстановить значения по умолчанию</AsuNib_Cutscene_Reset>
+  <AsuNib_Cutscene_TakeoffTip>Чем выше значение, тем быстрее взлетает гравикорабль.</AsuNib_Cutscene_TakeoffTip>
+  <AsuNib_Cutscene_LandingTip>Чем выше значение, тем быстрее садится гравикорабль.</AsuNib_Cutscene_LandingTip>
+  <AsuNib_Cutscene_Follow>Синхронизировать со скоростью игры</AsuNib_Cutscene_Follow>
+  <AsuNib_Cutscene_FollowTip>Взлёт и посадка гравикораблей идут с текущей скоростью игры.</AsuNib_Cutscene_FollowTip>
+</LanguageData>

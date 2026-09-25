@@ -165,3 +165,63 @@ RimWorld 1.6 · Версия 1.0.0
 RimWorld 1.6 · Версия 1.0.0
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3803878938) · [Исходники и руководство](../mods/RU-3676343434/README.md) · [История изменений](../mods/RU-3676343434/CHANGELOG.md) · [Лицензия](../mods/RU-3676343434/LICENSE) · [Источники и уведомления](../mods/RU-3676343434/NOTICES.md)
+
+## Medieval Overhaul: House Ignivar — русский перевод
+
+Полный русский перевод House Ignivar: фракции, сценарии, снаряжение, еда, исследования и события.
+
+[![Medieval Overhaul: House Ignivar — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/house-ignivar-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3804220749)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3804220749) · [Исходники и руководство](../mods/RU-3712538846/README.md) · [История изменений](../mods/RU-3712538846/CHANGELOG.md) · [Лицензия](../mods/RU-3712538846/LICENSE) · [Источники и уведомления](../mods/RU-3712538846/NOTICES.md)
+
+## SimpleBabyCarry — русский перевод
+
+Полный русский перевод SimpleBabyCarry: переноски, уход за младенцами, задания, предупреждения и настройки.
+
+[![SimpleBabyCarry — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/simple-baby-carry-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3804220755)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3804220755) · [Исходники и руководство](../mods/RU-3692756679/README.md) · [История изменений](../mods/RU-3692756679/CHANGELOG.md) · [Лицензия](../mods/RU-3692756679/LICENSE) · [Источники и уведомления](../mods/RU-3692756679/NOTICES.md)
+
+## Seamless Doors — русский перевод
+
+Русский перевод Seamless Doors: названия бесшовных дверей и игровая подпись покрытия.
+
+[![Seamless Doors — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/seamless-doors-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3804220761)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3804220761) · [Исходники и руководство](../mods/RU-3694533072/README.md) · [История изменений](../mods/RU-3694533072/CHANGELOG.md) · [Лицензия](../mods/RU-3694533072/LICENSE) · [Источники и уведомления](../mods/RU-3694533072/NOTICES.md)
+
+## Bio Tab+ — русский перевод
+
+Полный русский перевод Bio Tab+: разделы биографии, подсказки, внешний вид и совместимость.
+
+[![Bio Tab+ — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/bio-tab-plus-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3804220769)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3804220769) · [Исходники и руководство](../mods/RU-3781978940/README.md) · [История изменений](../mods/RU-3781978940/CHANGELOG.md) · [Лицензия](../mods/RU-3781978940/LICENSE) · [Источники и уведомления](../mods/RU-3781978940/NOTICES.md)
+
+## Gravship Cutscene Speed — русский перевод
+
+Полный русский перевод настроек скорости взлёта и посадки гравилёта.
+
+[![Gravship Cutscene Speed — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/gravship-cutscene-speed-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3804220772)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3804220772) · [Исходники и руководство](../mods/RU-3787398983/README.md) · [История изменений](../mods/RU-3787398983/CHANGELOG.md) · [Лицензия](../mods/RU-3787398983/LICENSE) · [Источники и уведомления](../mods/RU-3787398983/NOTICES.md)
+
+## Enhanced Carrying Capacity — русский перевод
+
+Полный русский перевод настроек грузоподъёмности, массы и объёма Enhanced Carrying Capacity.
+
+[![Enhanced Carrying Capacity — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/enhanced-carrying-capacity-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3804220779)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3804220779) · [Исходники и руководство](../mods/RU-2972540973/README.md) · [История изменений](../mods/RU-2972540973/CHANGELOG.md) · [Лицензия](../mods/RU-2972540973/LICENSE) · [Источники и уведомления](../mods/RU-2972540973/NOTICES.md)

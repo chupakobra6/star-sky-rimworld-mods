@@ -1,0 +1,66 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Ignivar_Exiles.description>Дом Игнивар — знатный род, закалённый пеплом горы Игнос. Его воины и оружие созданы выдерживать огонь, пепел и невзгоды, перед которыми отступают другие.</Ignivar_Exiles.description>
+  <Ignivar_Exiles.fixedName>Изгнанники дома Игнивар</Ignivar_Exiles.fixedName>
+  <Ignivar_Exiles.label>изгнанники дома Игнивар</Ignivar_Exiles.label>
+  <Ignivar_Exiles.leaderTitle>предводитель</Ignivar_Exiles.leaderTitle>
+  <Ignivar_Exiles.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</Ignivar_Exiles.messageDefendersAttacking>
+  <Ignivar_Exiles.pawnSingular>изгнанник</Ignivar_Exiles.pawnSingular>
+  <Ignivar_Exiles.pawnsPlural>изгнанники</Ignivar_Exiles.pawnsPlural>
+  <Ignivar_Faction.description>Дом Игнивар — знатный род, закалённый пеплом горы Игнос. Его воины и оружие созданы выдерживать огонь, пепел и невзгоды, перед которыми отступают другие.</Ignivar_Faction.description>
+  <Ignivar_Faction.fixedName>Дом Игнивар</Ignivar_Faction.fixedName>
+  <Ignivar_Faction.label>дом Игнивар</Ignivar_Faction.label>
+  <Ignivar_Faction.leaderTitle>хранитель</Ignivar_Faction.leaderTitle>
+  <Ignivar_Faction.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</Ignivar_Faction.messageDefendersAttacking>
+  <Ignivar_Faction.pawnSingular>потомок</Ignivar_Faction.pawnSingular>
+  <Ignivar_Faction.pawnsPlural>потомки</Ignivar_Faction.pawnsPlural>
+  <Ignivar_PlayerExiles.description>Небольшой форпост.</Ignivar_PlayerExiles.description>
+  <Ignivar_PlayerExiles.label>Отряд изгнанников Игнивар</Ignivar_PlayerExiles.label>
+  <Ignivar_PlayerExiles.leaderTitle>предводитель</Ignivar_PlayerExiles.leaderTitle>
+  <Ignivar_PlayerExiles.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</Ignivar_PlayerExiles.messageDefendersAttacking>
+  <Ignivar_PlayerExiles.pawnSingular>потомок</Ignivar_PlayerExiles.pawnSingular>
+  <Ignivar_PlayerExiles.pawnsPlural>потомки</Ignivar_PlayerExiles.pawnsPlural>
+  <Ignivar_PlayerLone.description>Небольшой форпост.</Ignivar_PlayerLone.description>
+  <Ignivar_PlayerLone.label>Одинокий рыцарь Игнивар</Ignivar_PlayerLone.label>
+  <Ignivar_PlayerLone.leaderTitle>предводитель</Ignivar_PlayerLone.leaderTitle>
+  <Ignivar_PlayerLone.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</Ignivar_PlayerLone.messageDefendersAttacking>
+  <Ignivar_PlayerLone.pawnSingular>потомок</Ignivar_PlayerLone.pawnSingular>
+  <Ignivar_PlayerLone.pawnsPlural>потомки</Ignivar_PlayerLone.pawnsPlural>
+  <Ignivar_PlayerOutpost.description>Небольшой форпост.</Ignivar_PlayerOutpost.description>
+  <Ignivar_PlayerOutpost.label>Форпост дома Игнивар</Ignivar_PlayerOutpost.label>
+  <Ignivar_PlayerOutpost.leaderTitle>предводитель</Ignivar_PlayerOutpost.leaderTitle>
+  <Ignivar_PlayerOutpost.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</Ignivar_PlayerOutpost.messageDefendersAttacking>
+  <Ignivar_PlayerOutpost.pawnSingular>потомок</Ignivar_PlayerOutpost.pawnSingular>
+  <Ignivar_PlayerOutpost.pawnsPlural>потомки</Ignivar_PlayerOutpost.pawnsPlural>
+  <DankPyon_BrigandFaction.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</DankPyon_BrigandFaction.messageDefendersAttacking>
+  <DankPyon_ShadowSect.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</DankPyon_ShadowSect.messageDefendersAttacking>
+  <DankPyon_Forest_Faction.leaderTitle>предводитель</DankPyon_Forest_Faction.leaderTitle>
+  <DankPyon_Forest_Faction.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</DankPyon_Forest_Faction.messageDefendersAttacking>
+  <DankPyon_Witch_Faction.leaderTitle>предводитель</DankPyon_Witch_Faction.leaderTitle>
+  <DankPyon_Witch_Faction.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</DankPyon_Witch_Faction.messageDefendersAttacking>
+  <DankPyon_Hornets.leaderTitle>предводитель</DankPyon_Hornets.leaderTitle>
+  <DankPyon_Hornets.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</DankPyon_Hornets.messageDefendersAttacking>
+  <DankPyon_Hornets.pawnSingular>насекомое</DankPyon_Hornets.pawnSingular>
+  <DankPyon_NobleHouseFierce.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</DankPyon_NobleHouseFierce.messageDefendersAttacking>
+  <DankPyon_NobleHouseFierce.pawnSingular>подданный</DankPyon_NobleHouseFierce.pawnSingular>
+  <DankPyon_NobleHouseCivil2.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</DankPyon_NobleHouseCivil2.messageDefendersAttacking>
+  <DankPyon_NobleHouseCivil2.pawnSingular>подданный</DankPyon_NobleHouseCivil2.pawnSingular>
+  <DankPyon_NobleHouseCivil.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</DankPyon_NobleHouseCivil.messageDefendersAttacking>
+  <DankPyon_NobleHouseCivil.pawnSingular>подданный</DankPyon_NobleHouseCivil.pawnSingular>
+  <DankPyon_NobleHouseSavage.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</DankPyon_NobleHouseSavage.messageDefendersAttacking>
+  <DankPyon_NobleHouseSavage.pawnSingular>подданный</DankPyon_NobleHouseSavage.pawnSingular>
+  <DankPyon_PlayerKingdom.leaderTitle>предводитель</DankPyon_PlayerKingdom.leaderTitle>
+  <DankPyon_PlayerKingdom.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</DankPyon_PlayerKingdom.messageDefendersAttacking>
+  <DankPyon_PlayerKingdom.pawnSingular>подданный</DankPyon_PlayerKingdom.pawnSingular>
+  <DankPyon_LoneWolf.leaderTitle>предводитель</DankPyon_LoneWolf.leaderTitle>
+  <DankPyon_LoneWolf.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</DankPyon_LoneWolf.messageDefendersAttacking>
+  <DankPyon_LoneWolf.pawnSingular>подданный</DankPyon_LoneWolf.pawnSingular>
+  <DankPyon_MercenaryCompany.leaderTitle>предводитель</DankPyon_MercenaryCompany.leaderTitle>
+  <DankPyon_MercenaryCompany.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</DankPyon_MercenaryCompany.messageDefendersAttacking>
+  <DankPyon_MercenaryCompany.pawnSingular>наёмник</DankPyon_MercenaryCompany.pawnSingular>
+  <DankPyon_SnakeCave_Faction.leaderTitle>предводитель</DankPyon_SnakeCave_Faction.leaderTitle>
+  <DankPyon_SnakeCave_Faction.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</DankPyon_SnakeCave_Faction.messageDefendersAttacking>
+  <DankPyon_SnakeCave_Faction.pawnSingular>пещерная змея</DankPyon_SnakeCave_Faction.pawnSingular>
+  <DankPyon_UlrikFaction.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</DankPyon_UlrikFaction.messageDefendersAttacking>
+  <DankPyon_UlrikFaction.pawnSingular>рыцарь Ульрика</DankPyon_UlrikFaction.pawnSingular>
+</LanguageData>
