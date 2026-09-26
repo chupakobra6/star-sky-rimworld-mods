@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>Character Editor — Fixes [Star Sky Mods]</name>
+  <name>Character Editor — Genes &amp; Names Fix [Star Sky Mods]</name>
   <author>chupakobra6 | Star Sky Mods</author>
   <packageId>starsky.rimworld.charactereditor.fixes</packageId>
   <modVersion>1.0.0</modVersion>
@@ -21,7 +21,7 @@
 Enable the mod and open Character Editor. There are no settings: the fixes apply when the editor displays body-size genes and loads names.
 
 &lt;b&gt;COMPATIBILITY&lt;/b&gt;
-Requires RimWorld 1.6, Harmony (https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077) and Character Editor (https://steamcommunity.com/sharedfiles/filedetails/?id=1874644848). Load in this order: Harmony → Character Editor → Character Editor — Fixes.
+Requires RimWorld 1.6, Harmony (https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077) and Character Editor (https://steamcommunity.com/sharedfiles/filedetails/?id=1874644848). Load in this order: Harmony → Character Editor → Character Editor — Genes &amp; Names Fix.
 
 &lt;b&gt;FEEDBACK&lt;/b&gt;
 Found a bug? Leave a comment on the mod page or on Boosty.

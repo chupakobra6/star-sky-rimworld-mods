@@ -269,8 +269,8 @@
     },
     {
       "path": "catalog/fixes.md",
-      "bytes": 851,
-      "sha256": "c386f29783e268022cc0f7f3c73ab348448de949a9b76c70422772b0bc8810ac"
+      "bytes": 875,
+      "sha256": "6f7912d33039d33924b460f066c32a1fb33bff495438ced6e1e55804e05073ea"
     },
     {
       "path": "catalog/mods.md",
@@ -284,13 +284,13 @@
     },
     {
       "path": "mods/CharacterEditor-Fixes/About/About.xml",
-      "bytes": 1814,
-      "sha256": "8ff97ca09fc8356130a95b2628875095a78400ac901406e50734e82ba1155ab6"
+      "bytes": 1846,
+      "sha256": "b745cfe84b02e9a5f6d2b937cf09ee98a0d235518535a33018b05c5938666114"
     },
     {
       "path": "mods/CharacterEditor-Fixes/About/Preview.png",
-      "bytes": 164945,
-      "sha256": "e37597c0275ea57f490e2ff3b3d5a6c90e6d1923535045c105921ee354758adf"
+      "bytes": 169889,
+      "sha256": "e7045a1717bd2c899a79518b3724158ecf3deb61fc7d1033fce5a99b1ff967b6"
     },
     {
       "path": "mods/CharacterEditor-Fixes/About/PublishedFileId.txt",
@@ -314,13 +314,13 @@
     },
     {
       "path": "mods/CharacterEditor-Fixes/NOTICES.md",
-      "bytes": 1979,
-      "sha256": "3fbce542ca946122c05994f12a34e4ebb098c452878b92d583b4e78c53a1e12c"
+      "bytes": 1991,
+      "sha256": "9ddd4c85a37d5b52fb90a47bfe624309edc2e813593157bdcc14343839e53864"
     },
     {
       "path": "mods/CharacterEditor-Fixes/README.md",
-      "bytes": 2059,
-      "sha256": "be9b6ce350b49130869fdb9a2f9983218857e2e50e47220ab9234687148482bf"
+      "bytes": 2107,
+      "sha256": "843a3625fda3250ff374d197d16df79283ffec0ac0f0510191e2d53c87547fd0"
     },
     {
       "path": "mods/CharacterEditor-Fixes/Source/Fixes.cs",

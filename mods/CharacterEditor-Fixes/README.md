@@ -1,10 +1,10 @@
-# Character Editor — Fixes [Star Sky Mods]
+# Character Editor — Genes & Names Fix [Star Sky Mods]
 
-[![Character Editor — Fixes](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/character-editor-fixes.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3807830515)
+[![Character Editor — Genes & Names Fix](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/character-editor-fixes.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3807830515)
 
 [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3807830515) · [All categories](../../README.md) · [Sources & notices](NOTICES.md)
 
-Character Editor — Fixes restores body-size genes in the editor and fixes two names in Character Editor's bundled name file.
+Character Editor — Genes & Names Fix restores body-size genes in the editor and fixes two names in Character Editor's bundled name file.
 
 ## Fixes
 
@@ -13,7 +13,7 @@ Character Editor — Fixes restores body-size genes in the editor and fixes two 
 
 ## Installation
 
-Install [Harmony](https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077) and [Character Editor](https://steamcommunity.com/sharedfiles/filedetails/?id=1874644848). Load them in this order: Harmony → Character Editor → Character Editor — Fixes. Requires RimWorld 1.6.
+Install [Harmony](https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077) and [Character Editor](https://steamcommunity.com/sharedfiles/filedetails/?id=1874644848). Load them in this order: Harmony → Character Editor → Character Editor — Genes & Names Fix. Requires RimWorld 1.6.
 
 The fixes apply when the editor displays body-size genes and loads names. There are no settings.
 
