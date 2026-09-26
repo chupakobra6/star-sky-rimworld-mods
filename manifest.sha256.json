@@ -272,7 +272,7 @@
     {
       "path": "catalog/translations.md",
       "bytes": 25893,
-      "sha256": "33d1a18800f89715fb4590d7ef98531c2e3a77c21a32a9617cb2ae58024f14dd"
+      "sha256": "46cd743f3e9f6471a23f961447782427a73d52aa3913fe4b7286fabff9bd6801"
     },
     {
       "path": "mods/IsekaiBalancedStatsQuickQuests/1.6/Assemblies/IsekaiBalancedStatsQuickQuests.dll",
@@ -1226,8 +1226,8 @@
     },
     {
       "path": "mods/RU-1874644848/About/About.xml",
-      "bytes": 3592,
-      "sha256": "3a3e78a714f708d3dea22f6e8deed23c1a27a9297484ef7fae7ba5afddf46795"
+      "bytes": 2937,
+      "sha256": "54cc53569675e871d4ccc107db0a6830b34a7625ffda74afe105e328452ca25d"
     },
     {
       "path": "mods/RU-1874644848/About/Preview.png",
@@ -1242,12 +1242,12 @@
     {
       "path": "mods/RU-1874644848/Assemblies/RU1874644848.dll",
       "bytes": 39936,
-      "sha256": "a91852c0f0df5daa43e925aa6229783e363841ad37ecc58a32af4e9e6f62a788"
+      "sha256": "74b80a66ff08449adbcc9660cd6c8d157fa64689b86dbe26ba2b407c1c8490d0"
     },
     {
       "path": "mods/RU-1874644848/CHANGELOG.md",
-      "bytes": 844,
-      "sha256": "76e56a0a966d77c701b6f270a077161a1aee70c2091bcd1a02126e11611c4c83"
+      "bytes": 998,
+      "sha256": "92dfc2d098e27a283c2ff16c0f68efd4ece91cf8dffa618b7d88f46dfb51ba2e"
     },
     {
       "path": "mods/RU-1874644848/Languages/English/Keyed/Additional.xml",
@@ -1296,8 +1296,8 @@
     },
     {
       "path": "mods/RU-1874644848/README.md",
-      "bytes": 3817,
-      "sha256": "ec8b16571e741769392d0c372446bcfce7b288632b68a3d7334ff2054c8eb1fe"
+      "bytes": 3175,
+      "sha256": "0af4e8a7c42855ec0badbb92f4aeedface4e91c9f6c20aa91548f4e0e32468ba"
     },
     {
       "path": "mods/RU-1874644848/Source/EditorBlockLabels.cs",
@@ -1311,8 +1311,8 @@
     },
     {
       "path": "mods/RU-1874644848/Source/EditorText.cs",
-      "bytes": 9582,
-      "sha256": "205c90c8ff10b2276f304f4729f9906001f24a8bead5d9e87fa2c03596acf743"
+      "bytes": 9560,
+      "sha256": "33c00bc9d928fe49b9d510fe7a93d44eb8be62a69b81405904e212c81cf084f2"
     },
     {
       "path": "mods/RU-1874644848/Source/Literals.cs",

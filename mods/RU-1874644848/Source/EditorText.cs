@@ -87,7 +87,7 @@ namespace Igor.CharacterEditorRussian
 
         // Russian GeneDef labels do not contain the English word "bodysize"
         // used by Character Editor's original filter. Keep the translated
-        // gene list working even when the separate fixes mod is not installed.
+        // gene list working independently of other mods.
         public static bool BodySizeGene(GeneDef __0, ref bool __result)
         {
             if(!Russian)return true;
