@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Character Editor — Fixes [Star Sky Mods]</name>
+  <author>chupakobra6 | Star Sky Mods</author>
+  <packageId>starsky.rimworld.charactereditor.fixes</packageId>
+  <modVersion>1.0.0</modVersion>
+  <supportedVersions><li>1.6</li></supportedVersions>
+  <modDependencies>
+    <li><packageId>brrainz.harmony</packageId><displayName>Harmony</displayName></li>
+    <li><packageId>void.charactereditor</packageId><displayName>Character Editor</displayName></li>
+  </modDependencies>
+  <loadAfter><li>void.charactereditor</li></loadAfter>
+  <description>Restore body-size genes in Character Editor and fix two names in its bundled name file.
+
+&lt;b&gt;FEATURES&lt;/b&gt;
+
+• The body-size gene list uses gene identifiers. Translating gene labels no longer hides those genes in the editor.
+• Name loading removes an initial byte-order mark and restores the separator before Kai Henriksen. Both names remain available separately.
+
+&lt;b&gt;HOW TO USE&lt;/b&gt;
+Enable the mod and open Character Editor. There are no settings: the fixes apply when the editor displays body-size genes and loads names.
+
+&lt;b&gt;COMPATIBILITY&lt;/b&gt;
+Requires RimWorld 1.6, Harmony (https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077) and Character Editor (https://steamcommunity.com/sharedfiles/filedetails/?id=1874644848). Load in this order: Harmony → Character Editor → Character Editor — Fixes.
+
+&lt;b&gt;FEEDBACK&lt;/b&gt;
+Found a bug? Leave a comment on the mod page or on Boosty.
+
+Original mod by void.
+
+Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.</description>
+</ModMetaData>
