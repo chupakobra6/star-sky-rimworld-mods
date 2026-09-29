@@ -20,5 +20,5 @@
     <li>discovered-&gt;Отыскана</li>
   </AG_OpportunitySite_AbandonedBiotechLab.questNameRules.rulesStrings>
   <AG_OpportunitySite_AbandonedBiotechLab.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Срок задания истёк: [resolvedQuestName]</AG_OpportunitySite_AbandonedBiotechLab.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
-  <AG_OpportunitySite_AbandonedBiotechLab.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Судя по перехваченным сообщениям, заброшенную биотехнологическую лабораторию уже обыскали другие. Срок задания «[resolvedQuestName]» истёк.</AG_OpportunitySite_AbandonedBiotechLab.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+  <AG_OpportunitySite_AbandonedBiotechLab.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Перехваченные сообщения указывают, что заброшенную биотехнологическую лабораторию уже обобрали другие. Срок задания «[resolvedQuestName]» истёк.</AG_OpportunitySite_AbandonedBiotechLab.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
 </LanguageData>

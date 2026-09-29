@@ -1,19 +1,19 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <AG_RangedBlunt.label>удар</AG_RangedBlunt.label>
+  <AG_RangedBlunt.label>тупой удар</AG_RangedBlunt.label>
   <AG_RangedBlunt.deathMessage>{0} {PAWN_gender ? раздавлен : раздавлена : раздавлено} насмерть.</AG_RangedBlunt.deathMessage>
-  <AG_Electric.label>электрический разряд</AG_Electric.label>
+  <AG_Electric.label>электрический удар</AG_Electric.label>
   <AG_Electric.deathMessage>{0} {PAWN_gender ? погиб : погибла : погибло} от удара током.</AG_Electric.deathMessage>
   <AG_AcidSpit.label>кислота</AG_AcidSpit.label>
   <AG_AcidSpit.deathMessage>{0} {PAWN_gender ? погиб : погибла : погибло} от кислоты.</AG_AcidSpit.deathMessage>
   <AG_PetrifyingGaze.label>окаменяющий взгляд</AG_PetrifyingGaze.label>
-  <AG_PetrifyingGaze.deathMessage>{0} {PAWN_gender ? окаменел : окаменела : окаменело}.</AG_PetrifyingGaze.deathMessage>
+  <AG_PetrifyingGaze.deathMessage>{0} {PAWN_gender ? обратился : обратилась : обратилось} в камень.</AG_PetrifyingGaze.deathMessage>
   <AG_SterilizingBreath.label>стерилизующее дыхание</AG_SterilizingBreath.label>
   <AG_SterilizingBreath.deathMessage>{0} {PAWN_gender ? убит : убита : убито}.</AG_SterilizingBreath.deathMessage>
   <AG_BansheeScream.deathMessage>{0} {PAWN_gender ? убит : убита : убито}.</AG_BansheeScream.deathMessage>
   <AG_NoxiousBreath.deathMessage>{0} {PAWN_gender ? убит : убита : убито}.</AG_NoxiousBreath.deathMessage>
   <AG_BansheeScream.label>звуковой удар</AG_BansheeScream.label>
   <AG_FreezingBreath.label>ледяное дыхание</AG_FreezingBreath.label>
-  <AG_FreezingBreath.deathMessage>{0} {PAWN_gender ? погиб : погибла : погибло} от обморожения.</AG_FreezingBreath.deathMessage>
-  <AG_NoxiousBreath.label>зловонное дыхание</AG_NoxiousBreath.label>
+  <AG_FreezingBreath.deathMessage>{0} {PAWN_gender ? не пережил : не пережила : не пережило} обморожения.</AG_FreezingBreath.deathMessage>
+  <AG_NoxiousBreath.label>ядовитое дыхание</AG_NoxiousBreath.label>
 </LanguageData>

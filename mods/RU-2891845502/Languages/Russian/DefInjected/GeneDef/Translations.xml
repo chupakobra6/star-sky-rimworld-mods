@@ -15,25 +15,25 @@
   <AG_UVPowered_Mild.symbolPack.prefixSymbols.1.symbol>растение</AG_UVPowered_Mild.symbolPack.prefixSymbols.1.symbol>
   <AG_UVPowered_Major.symbolPack.prefixSymbols.1.symbol>растение</AG_UVPowered_Major.symbolPack.prefixSymbols.1.symbol>
   <AG_MinorAnimalSummon_Randomizer.label>случайный малый призыв животных</AG_MinorAnimalSummon_Randomizer.label>
-  <AG_MinorAnimalSummon_Randomizer.description>Этот ген будет заменён случайным геном малого призыва животных.</AG_MinorAnimalSummon_Randomizer.description>
+  <AG_MinorAnimalSummon_Randomizer.description>Будет заменено случайной малой способностью призыва животного.</AG_MinorAnimalSummon_Randomizer.description>
   <AG_MinorAnimalSummon_Randomizer.labelShortAdj>случайный</AG_MinorAnimalSummon_Randomizer.labelShortAdj>
   <AG_AnimalSummon_Randomizer.labelShortAdj>случайный</AG_AnimalSummon_Randomizer.labelShortAdj>
   <AG_MajorAnimalSummon_Randomizer.labelShortAdj>случайный</AG_MajorAnimalSummon_Randomizer.labelShortAdj>
   <AG_AnimalSummon_Randomizer.label>случайный призыв животных</AG_AnimalSummon_Randomizer.label>
-  <AG_AnimalSummon_Randomizer.description>Этот ген будет заменён случайным геном призыва животных.</AG_AnimalSummon_Randomizer.description>
+  <AG_AnimalSummon_Randomizer.description>Будет заменено случайной способностью призыва животного.</AG_AnimalSummon_Randomizer.description>
   <AG_MajorAnimalSummon_Randomizer.label>случайный великий призыв животных</AG_MajorAnimalSummon_Randomizer.label>
-  <AG_MajorAnimalSummon_Randomizer.description>Этот ген будет заменён случайным геном великого призыва животных.</AG_MajorAnimalSummon_Randomizer.description>
+  <AG_MajorAnimalSummon_Randomizer.description>Будет заменено случайной большой способностью призыва животного.</AG_MajorAnimalSummon_Randomizer.description>
   <AG_UnstableMutation.label>нестабильная мутация</AG_UnstableMutation.label>
   <AG_UnstableMutation.description>Носители этого гена могут раз в сутки вызвать нестабильную мутацию собственного тела: на 12 часов активируется новый случайный ген, после чего он перестанет действовать.</AG_UnstableMutation.description>
   <AG_ReactiveArmour.label>реактивная броня</AG_ReactiveArmour.label>
   <AG_ReactiveArmour.description>Носители этого гена могут расходовать минералы, чтобы укрепить кожу для защиты от колющих и режущих атак. Минералы тратятся как на поддержание брони, так и при каждом попадании. Эффективность защиты зависит от оставшегося запаса минералов.</AG_ReactiveArmour.description>
   <AG_MineralShock.label>минеральный удар</AG_MineralShock.label>
   <AG_MineralShock.description>Носители этого гена могут израсходовать запасённые минералы, чтобы выстрелить плотным комком грунта, наносящим цели тупой урон.</AG_MineralShock.description>
-  <AG_MineralOverdrive.label>минеральная перегрузка</AG_MineralOverdrive.label>
-  <AG_MineralOverdrive.description>Носители этого гена могут расходовать запасённые минералы для повышения эффективности работы.</AG_MineralOverdrive.description>
+  <AG_MineralOverdrive.label>минеральное ускорение</AG_MineralOverdrive.label>
+  <AG_MineralOverdrive.description>Носители этого гена могут расходовать накопленные минералы, чтобы работать эффективнее.</AG_MineralOverdrive.description>
   <AG_Zap.label>электрический разряд</AG_Zap.label>
-  <AG_Zap.description>Носители этого гена могут накапливать электроэнергию и высвобождать её в виде мощного электрического разряда, поражающего цель током.</AG_Zap.description>
-  <AG_GreaterFireSpew.label>усиленный огненный плевок</AG_GreaterFireSpew.label>
+  <AG_Zap.description>Носители этого гена могут накапливать энергию и выпускать её мощным электрическим разрядом, поражающим цель.</AG_Zap.description>
+  <AG_GreaterFireSpew.label>усиленное огненное дыхание</AG_GreaterFireSpew.label>
   <AG_GreaterFireSpew.description>Носители этого гена могут выплёвывать горючую желчь, которую вырабатывает особый орган в шее. При контакте с кислородом желчь мгновенно вспыхивает, поджигая всё на своём пути.</AG_GreaterFireSpew.description>
   <AG_GreaterFireSpew.symbolPack.prefixSymbols.0.symbol>огне</AG_GreaterFireSpew.symbolPack.prefixSymbols.0.symbol>
   <AG_Skin_DeeperRed.symbolPack.prefixSymbols.2.symbol>огне</AG_Skin_DeeperRed.symbolPack.prefixSymbols.2.symbol>
@@ -53,7 +53,7 @@
   <AG_GreaterFireSpew.symbolPack.suffixSymbols.1.symbol>жигатель</AG_GreaterFireSpew.symbolPack.suffixSymbols.1.symbol>
   <AG_GreaterFireSpew.symbolPack.wholeNameSymbols.0.symbol>жигатель</AG_GreaterFireSpew.symbolPack.wholeNameSymbols.0.symbol>
   <AG_GreaterFireSpew.symbolPack.wholeNameSymbols.1.symbol>поджигатель</AG_GreaterFireSpew.symbolPack.wholeNameSymbols.1.symbol>
-  <AG_GreaterAcidicVomit.label>усиленный кислотный плевок</AG_GreaterAcidicVomit.label>
+  <AG_GreaterAcidicVomit.label>мощная кислотная струя</AG_GreaterAcidicVomit.label>
   <AG_GreaterAcidicVomit.description>Носители этого гена могут изрыгать особо едкую желудочную кислоту, заливая ею обширную область. Кислота наносит страшные раны, которые продолжают углубляться по мере того, как она прожигает ткани.</AG_GreaterAcidicVomit.description>
   <AG_GreaterAcidicVomit.symbolPack.prefixSymbols.0.symbol>кислотно</AG_GreaterAcidicVomit.symbolPack.prefixSymbols.0.symbol>
   <AG_AcidicDetonation.symbolPack.prefixSymbols.1.symbol>кислотно</AG_AcidicDetonation.symbolPack.prefixSymbols.1.symbol>
@@ -77,7 +77,7 @@
   <AG_Spinnerets.symbolPack.prefixSymbols.1.symbol>паркер</AG_Spinnerets.symbolPack.prefixSymbols.1.symbol>
   <AG_Spinnerets.symbolPack.prefixSymbols.2.symbol>пауко</AG_Spinnerets.symbolPack.prefixSymbols.2.symbol>
   <AG_Spinnerets.symbolPack.prefixSymbols.3.symbol>арахно</AG_Spinnerets.symbolPack.prefixSymbols.3.symbol>
-  <AG_InsectRally.label>зов насекомых</AG_InsectRally.label>
+  <AG_InsectRally.label>воодушевление насекомых</AG_InsectRally.label>
   <AG_InsectRally.description>Носители этого гена выделяют облако феромонов, неотразимо привлекающих насекомых. Рядом с носителем насекомые получают прилив сил и становятся сильнее.</AG_InsectRally.description>
   <AG_Detonation.label>взрыв</AG_Detonation.label>
   <AG_Detonation.description>Носители этого гена могут по желанию вызывать взрыв собственного тела. Сам обладатель способности при этом НЕ получает урона.</AG_Detonation.description>
@@ -92,21 +92,21 @@
   <AG_AcidicBlood.symbolPack.prefixSymbols.1.symbol>каусто</AG_AcidicBlood.symbolPack.prefixSymbols.1.symbol>
   <AG_InsanityBlast.label>приступ безумия</AG_InsanityBlast.label>
   <AG_InsanityBlast.description>Носители этого гена могут пси-ударом поразить чужой разум, заставив жертву впасть в бешенство и нападать на всех вокруг без разбора.</AG_InsanityBlast.description>
-  <AG_UnstableMind.label>нестабильный разум</AG_UnstableMind.label>
+  <AG_UnstableMind.label>неустойчивый разум</AG_UnstableMind.label>
   <AG_UnstableMind.description>Носители этого гена могут пси-ударом расшатать чужой разум, повысив вероятность нервного срыва и значительно увеличив психочувствительность. Эффект длится три часа и действует как на врагов, так и на союзников.</AG_UnstableMind.description>
   <AG_DevourBrains.label>пожирание мозга</AG_DevourBrains.label>
-  <AG_DevourBrains.description>Носители этого гена могут пожрать мозг живого, но поверженного человека, поглотив часть его интеллекта. Получаемое усиление зависит от самого развитого навыка жертвы. Жертва погибнет.</AG_DevourBrains.description>
-  <AG_GeneSyphon.label>извлечение генов</AG_GeneSyphon.label>
+  <AG_DevourBrains.description>Носители этого гена могут съесть мозг ещё живого, но обездвиженного человека, поглотив часть его интеллекта и получив усиление, зависящее от его наиболее развитого навыка. Разумеется, цель при этом погибает.</AG_DevourBrains.description>
+  <AG_GeneSyphon.label>поглощение генов</AG_GeneSyphon.label>
   <AG_GeneSyphon.description>Носители этого гена могут насильно извлечь случайный ген из живого, но поверженного человека и внедрить его в собственный ксенотип как ксеноген. Жертва погибнет.</AG_GeneSyphon.description>
   <AG_InsectStinger.label>жало-инъектор ксеногенов</AG_InsectStinger.label>
   <AG_InsectStinger.description>Носители этого гена могут вводить копию своего ксеносемени другому человеку с помощью омерзительного жала-инъектора. Гены донора после этого не нуждаются в восстановлении, но перед повторным применением способности приходится ждать. Укол ранит жертву и заливает всё вокруг кровью.</AG_InsectStinger.description>
   <AG_InsectStinger.customEffectDescriptions.0>Переносит только ксеногены, не эндогены.</AG_InsectStinger.customEffectDescriptions.0>
   <AG_ParasiticStinger.customEffectDescriptions.0>Переносит только ксеногены, не эндогены.</AG_ParasiticStinger.customEffectDescriptions.0>
-  <AG_InsectStinger.customEffectDescriptions.1>Можно применить к любому невраждебному человеку, но его фракция будет возмущена и сразу станет враждебной.</AG_InsectStinger.customEffectDescriptions.1>
-  <AG_ParasiticStinger.customEffectDescriptions.1>Можно применить к любому невраждебному человеку, но его фракция будет возмущена и сразу станет враждебной.</AG_ParasiticStinger.customEffectDescriptions.1>
-  <AG_InsectStingerEndogenes.customEffectDescriptions.1>Можно применить к любому невраждебному человеку, но его фракция будет возмущена и сразу станет враждебной.</AG_InsectStingerEndogenes.customEffectDescriptions.1>
-  <AG_ParasiticStingerEndogenes.customEffectDescriptions.1>Можно применить к любому невраждебному человеку, но его фракция будет возмущена и сразу станет враждебной.</AG_ParasiticStingerEndogenes.customEffectDescriptions.1>
-  <AG_ParasiticStinger.label>паразитическое жало-инъектор ксеногенов</AG_ParasiticStinger.label>
+  <AG_InsectStinger.customEffectDescriptions.1>Действует на любого невраждебного человека, но разозлит его фракцию и немедленно сделает её враждебной.</AG_InsectStinger.customEffectDescriptions.1>
+  <AG_ParasiticStinger.customEffectDescriptions.1>Действует на любого невраждебного человека, но разозлит его фракцию и немедленно сделает её враждебной.</AG_ParasiticStinger.customEffectDescriptions.1>
+  <AG_InsectStingerEndogenes.customEffectDescriptions.1>Действует на любого невраждебного человека, но вызовет гнев его фракции и немедленно сделает её враждебной.</AG_InsectStingerEndogenes.customEffectDescriptions.1>
+  <AG_ParasiticStingerEndogenes.customEffectDescriptions.1>Действует на любого невраждебного человека, но вызовет гнев его фракции и немедленно сделает её враждебной.</AG_ParasiticStingerEndogenes.customEffectDescriptions.1>
+  <AG_ParasiticStinger.label>паразитическое жало-имплантатор: ксеногены</AG_ParasiticStinger.label>
   <AG_ParasiticStinger.description>Носители этого гена могут вводить копию своего ксеносемени другому человеку с помощью омерзительного жала-инъектора. Вместо прямого вживления генов жертве вводятся яйца, которые медленно развиваются внутри её тела. Из них вылупится ребёнок с теми же ксеногенами, что и у родителя. Гены донора не нуждаются в восстановлении, но перед повторным применением способности приходится ждать. Укол ранит жертву и заливает всё вокруг кровью. А когда потомство вылупится, жертва, разумеется, погибнет. Ах, круговорот жизни!</AG_ParasiticStinger.description>
   <AG_ParasiticStinger.customEffectDescriptions.2>Ребёнок может усвоить гены несчастного носителя: вероятность составляет 25% для каждого гена.</AG_ParasiticStinger.customEffectDescriptions.2>
   <AG_ParasiticStingerEndogenes.customEffectDescriptions.2>Ребёнок может усвоить гены несчастного носителя: вероятность составляет 25% для каждого гена.</AG_ParasiticStingerEndogenes.customEffectDescriptions.2>
@@ -114,18 +114,18 @@
   <AG_InsectStingerEndogenes.description>Носители этого гена могут вводить копию своих наследуемых генов другому человеку с помощью омерзительного жала-инъектора. Гены донора после этого не нуждаются в восстановлении, но перед повторным применением способности приходится ждать. Укол ранит жертву и заливает всё вокруг кровью.</AG_InsectStingerEndogenes.description>
   <AG_InsectStingerEndogenes.customEffectDescriptions.0>Переносит только эндогены, не ксеногены.</AG_InsectStingerEndogenes.customEffectDescriptions.0>
   <AG_ParasiticStingerEndogenes.customEffectDescriptions.0>Переносит только эндогены, не ксеногены.</AG_ParasiticStingerEndogenes.customEffectDescriptions.0>
-  <AG_ParasiticStingerEndogenes.label>паразитическое жало-инъектор эндогенов</AG_ParasiticStingerEndogenes.label>
+  <AG_ParasiticStingerEndogenes.label>паразитическое жало-имплантатор: эндогены</AG_ParasiticStingerEndogenes.label>
   <AG_ParasiticStingerEndogenes.description>Носители этого гена могут вводить копию своих наследуемых генов другому человеку с помощью омерзительного жала-инъектора. Вместо прямого вживления генов жертве вводятся яйца, которые медленно развиваются внутри её тела. Из них вылупится ребёнок с теми же эндогенами, что и у родителя. Гены донора не нуждаются в восстановлении, но перед повторным применением способности приходится ждать. Укол ранит жертву и заливает всё вокруг кровью. А когда потомство вылупится, жертва, разумеется, погибнет. Ах, круговорот жизни!</AG_ParasiticStingerEndogenes.description>
   <AG_PsychicAbsorption.label>поглощение воспоминаний</AG_PsychicAbsorption.label>
-  <AG_PsychicAbsorption.description>Носители этого гена могут забирать негативные воспоминания других людей, принимая их на себя.</AG_PsychicAbsorption.description>
+  <AG_PsychicAbsorption.description>Носители этого гена могут поглощать негативные мысли и воспоминания других людей, принимая их на себя.</AG_PsychicAbsorption.description>
   <AG_PsychicAbsorption.customEffectDescriptions.0>Переносит на себя самое тяжёлое из доступных негативных воспоминаний цели. Воспоминания со штрафом к настроению −40 и ниже поглотить нельзя.</AG_PsychicAbsorption.customEffectDescriptions.0>
   <AG_PsychicAbsorption.customEffectDescriptions.1>Действует на воспоминания — мысли, которые исчезают со временем. Ситуативные мысли, например о сильной боли, поглотить нельзя.</AG_PsychicAbsorption.customEffectDescriptions.1>
   <AG_SterilizingBreath.label>стерилизующее дыхание</AG_SterilizingBreath.label>
-  <AG_SterilizingBreath.description>Носители этого гена могут выплёвывать большое количество стерилизующей жидкости. Она уничтожает болезни растений, а у людей ускоряет выработку иммунитета, но снижает плодовитость.</AG_SterilizingBreath.description>
+  <AG_SterilizingBreath.description>Носители этого гена могут извергать большое количество стерилизующей жидкости. Она устраняет болезни растений и ускоряет выработку иммунитета ценой снижения плодовитости.</AG_SterilizingBreath.description>
   <AG_BansheeScream.label>крик банши</AG_BansheeScream.label>
-  <AG_BansheeScream.description>Носители этого гена способны издавать пронзительный крик, пропитанный отчаянием заблудших душ. Эта способность внушает страх всем врагам в заданном радиусе, временно снижая их точность и эффективность защиты.</AG_BansheeScream.description>
+  <AG_BansheeScream.description>Носители этого гена могут издать ужасающий крик, в котором звучит отчаяние заблудших душ. Эта способность вселяет страх во всех врагов в определённом радиусе, ненадолго снижая точность их атак и защиту.</AG_BansheeScream.description>
   <AG_FreezingBreath.label>ледяное дыхание</AG_FreezingBreath.label>
-  <AG_FreezingBreath.description>Носители этого гена могут выплёвывать криогенную жидкость, которую вырабатывает особый орган в шее. Она замораживает всё, к чему прикасается, вызывая обморожения и переохлаждение.</AG_FreezingBreath.description>
+  <AG_FreezingBreath.description>Носители этого гена могут извергать криогенную жидкость, которую вырабатывает особый орган в шее. Она замораживает всё, чего касается, вызывая обморожения и переохлаждение.</AG_FreezingBreath.description>
   <AG_FreezingBreath.symbolPack.prefixSymbols.0.symbol>хладо</AG_FreezingBreath.symbolPack.prefixSymbols.0.symbol>
   <AG_ColdImmunity.symbolPack.prefixSymbols.0.symbol>хладо</AG_ColdImmunity.symbolPack.prefixSymbols.0.symbol>
   <AG_ColdSlowness.symbolPack.prefixSymbols.0.symbol>хладо</AG_ColdSlowness.symbolPack.prefixSymbols.0.symbol>
@@ -138,33 +138,33 @@
   <AG_FreezingBreath.symbolPack.prefixSymbols.2.symbol>крио</AG_FreezingBreath.symbolPack.prefixSymbols.2.symbol>
   <AG_CryoBlood.symbolPack.prefixSymbols.0.symbol>крио</AG_CryoBlood.symbolPack.prefixSymbols.0.symbol>
   <AG_FreezingBreath.symbolPack.wholeNameSymbols.0.symbol>морозник</AG_FreezingBreath.symbolPack.wholeNameSymbols.0.symbol>
-  <AG_NoxiousBreath.label>зловонное дыхание</AG_NoxiousBreath.label>
-  <AG_NoxiousBreath.description>Носители этого гена могут выдыхать облако ядовитых испарений, окутывая врагов удушающими миазмами. Отвратительный запах вызывает неудержимую рвоту.</AG_NoxiousBreath.description>
+  <AG_NoxiousBreath.label>ядовитое дыхание</AG_NoxiousBreath.label>
+  <AG_NoxiousBreath.description>Носители этого гена способны выдыхать облако ядовитых испарений, окутывающее врагов удушающими миазмами. Отвратительный смрад вызывает у попавших в облако неудержимую рвоту.</AG_NoxiousBreath.description>
   <AG_NoxiousBreath.symbolPack.prefixSymbols.0.symbol>токсо</AG_NoxiousBreath.symbolPack.prefixSymbols.0.symbol>
   <AG_NoxiousBreath.symbolPack.prefixSymbols.1.symbol>ядо</AG_NoxiousBreath.symbolPack.prefixSymbols.1.symbol>
   <AG_NoxiousBreath.symbolPack.prefixSymbols.2.symbol>рыго-</AG_NoxiousBreath.symbolPack.prefixSymbols.2.symbol>
   <AG_NoxiousBreath.symbolPack.wholeNameSymbols.0.symbol>рыгун</AG_NoxiousBreath.symbolPack.wholeNameSymbols.0.symbol>
   <AG_FasterAging.label>ускоренное старение</AG_FasterAging.label>
-  <AG_FasterAging.description>Носители этого гена быстрее взрослеют и стареют. Это касается и детей, и взрослых, со всеми преимуществами и недостатками.</AG_FasterAging.description>
+  <AG_FasterAging.description>Носители этого гена стареют быстрее. Это касается и детей, и взрослых. У этого есть свои преимущества и недостатки.</AG_FasterAging.description>
   <AG_FasterAging.customEffectDescriptions.0>Возраст увеличивается на 50% быстрее.</AG_FasterAging.customEffectDescriptions.0>
   <AG_SlowerAging.label>замедленное старение</AG_SlowerAging.label>
-  <AG_SlowerAging.description>Носители этого гена медленнее взрослеют и стареют. Это касается и детей, и взрослых, со всеми преимуществами и недостатками.</AG_SlowerAging.description>
+  <AG_SlowerAging.description>Носители этого гена стареют медленнее. Это касается и детей, и взрослых. У этого есть свои преимущества и недостатки.</AG_SlowerAging.description>
   <AG_SlowerAging.customEffectDescriptions.0>Возраст увеличивается на 50% медленнее.</AG_SlowerAging.customEffectDescriptions.0>
-  <AG_MiningYield_High.label>повышенная эффективность добычи</AG_MiningYield_High.label>
-  <AG_MiningYield_High.description>Носители этого гена обладают превосходными навыками в горном деле и могут добывать больше минералов из каменных пород.</AG_MiningYield_High.description>
-  <AG_MiningYield_High.labelShortAdj>шахтёр</AG_MiningYield_High.labelShortAdj>
+  <AG_MiningYield_High.label>повышенный выход ресурсов при добыче</AG_MiningYield_High.label>
+  <AG_MiningYield_High.description>Носители этого гена искусно занимаются горным делом и извлекают из породы больше минералов.</AG_MiningYield_High.description>
+  <AG_MiningYield_High.labelShortAdj>шахтёрский</AG_MiningYield_High.labelShortAdj>
   <AG_MiningYield_High.symbolPack.prefixSymbols.0.symbol>металло</AG_MiningYield_High.symbolPack.prefixSymbols.0.symbol>
   <AG_MetalEater.symbolPack.prefixSymbols.0.symbol>металло</AG_MetalEater.symbolPack.prefixSymbols.0.symbol>
   <AG_MineralEfficencyPoor.symbolPack.prefixSymbols.0.symbol>металло</AG_MineralEfficencyPoor.symbolPack.prefixSymbols.0.symbol>
   <AG_MineralEfficencyGood.symbolPack.prefixSymbols.0.symbol>металло</AG_MineralEfficencyGood.symbolPack.prefixSymbols.0.symbol>
-  <AG_MiningYield_Low.label>пониженная эффективность добычи</AG_MiningYield_Low.label>
-  <AG_MiningYield_Low.description>Носители этого гена не очень опытны в горном деле и добывают меньше минералов из каменных пород.</AG_MiningYield_Low.description>
-  <AG_MiningYield_Low.labelShortAdj>плохой шахтёр</AG_MiningYield_Low.labelShortAdj>
+  <AG_MiningYield_Low.label>сниженный выход ресурсов при добыче</AG_MiningYield_Low.label>
+  <AG_MiningYield_Low.description>Носители этого гена плохо справляются с горным делом и извлекают из породы меньше минералов.</AG_MiningYield_Low.description>
+  <AG_MiningYield_Low.labelShortAdj>неумелый шахтёр</AG_MiningYield_Low.labelShortAdj>
   <AG_Foodless.label>независимость от пищи</AG_Foodless.label>
-  <AG_Foodless.description>У носителей этого гена в крови содержатся архиты, которые поддерживают метаболизм, позволяя обходиться без пищи.</AG_Foodless.description>
+  <AG_Foodless.description>В крови носителей этого гена есть архиты, поддерживающие обмен веществ без необходимости питаться.</AG_Foodless.description>
   <AG_Foodless.customEffectDescriptions.0>Снижает потребность в пище почти до нуля. Небольшая потребность сохраняется, чтобы избежать странных взаимодействий с другими модами.</AG_Foodless.customEffectDescriptions.0>
   <AG_Mood_Unfeeling.label>бесчувственность</AG_Mood_Unfeeling.label>
-  <AG_Mood_Unfeeling.description>Носители этого гена лишены эмоций.</AG_Mood_Unfeeling.description>
+  <AG_Mood_Unfeeling.description>Носители этого гена не испытывают эмоций.</AG_Mood_Unfeeling.description>
   <AG_Mood_Unfeeling.customEffectDescriptions.0>Этот ген ещё не полностью проверен. Готов поспорить, что он что-нибудь ломает. Уиии!</AG_Mood_Unfeeling.customEffectDescriptions.0>
   <AG_Mood_Unfeeling.symbolPack.prefixSymbols.0.symbol>робо</AG_Mood_Unfeeling.symbolPack.prefixSymbols.0.symbol>
   <AG_Mood_Unfeeling.symbolPack.prefixSymbols.1.symbol>твердо</AG_Mood_Unfeeling.symbolPack.prefixSymbols.1.symbol>
@@ -177,31 +177,31 @@
   <AG_AsexualFission.symbolPack.prefixSymbols.2.symbol>асексуально</AG_AsexualFission.symbolPack.prefixSymbols.2.symbol>
   <AG_Regeneration.label>регенерация</AG_Regeneration.label>
   <AG_Regeneration.description>В крови носителей этого гена циркулирует сеть специализированных механитов. Они периодически залечивают внутренние повреждения, не требуя отдыха.</AG_Regeneration.description>
-  <AG_Regeneration.customEffectDescriptions.0>Каждые 300 тактов (5 секунд на обычной скорости игры) тяжесть случайной раны снижается на 0,1.</AG_Regeneration.customEffectDescriptions.0>
-  <AG_HeatImmunity.label>невосприимчивость к теплу</AG_HeatImmunity.label>
-  <AG_HeatImmunity.description>Носители этого гена почти не подвержены воздействию жары. Они не страдают от воздействия огня и не могут загореться.</AG_HeatImmunity.description>
+  <AG_Regeneration.customEffectDescriptions.0>Каждые 300 тактов (5 секунд реального времени) тяжесть случайной раны уменьшается на 0.1.</AG_Regeneration.customEffectDescriptions.0>
+  <AG_HeatImmunity.label>невосприимчивость к жаре</AG_HeatImmunity.label>
+  <AG_HeatImmunity.description>Носители этого гена почти не страдают от жары. Пламя также их не беспокоит, и они не могут загореться.</AG_HeatImmunity.description>
   <AG_HeatImmunity.symbolPack.prefixSymbols.0.symbol>жарко</AG_HeatImmunity.symbolPack.prefixSymbols.0.symbol>
   <AG_HeatImmunity.symbolPack.prefixSymbols.1.symbol>жаро</AG_HeatImmunity.symbolPack.prefixSymbols.1.symbol>
   <AG_HeatImmunity.symbolPack.prefixSymbols.2.symbol>солнце</AG_HeatImmunity.symbolPack.prefixSymbols.2.symbol>
   <AG_HeatImmunity.symbolPack.prefixSymbols.3.symbol>пото</AG_HeatImmunity.symbolPack.prefixSymbols.3.symbol>
   <AG_HeatImmunity.symbolPack.prefixSymbols.4.symbol>пекуще</AG_HeatImmunity.symbolPack.prefixSymbols.4.symbol>
   <AG_ColdImmunity.label>невосприимчивость к холоду</AG_ColdImmunity.label>
-  <AG_ColdImmunity.description>Носители этого гена почти не подвержены воздействию холода и не страдают от обморожений.</AG_ColdImmunity.description>
+  <AG_ColdImmunity.description>Носители этого гена почти не страдают от холода. Обморожения им тоже не страшны.</AG_ColdImmunity.description>
   <AG_ColdImmunity.symbolPack.prefixSymbols.1.symbol>прохладо</AG_ColdImmunity.symbolPack.prefixSymbols.1.symbol>
   <AG_SuperAdaptiveBiology.label>сверхадаптивная биология</AG_SuperAdaptiveBiology.label>
-  <AG_SuperAdaptiveBiology.description>Носители этого гена могут кардинально изменить свою личность, избавляясь от старых черт и принимая новые.</AG_SuperAdaptiveBiology.description>
-  <AG_SuperAdaptiveBiology.customEffectDescriptions.0>Эта способность удаляет пять случайных черт (или все, если их меньше пяти) и добавляет пять новых, случайных.</AG_SuperAdaptiveBiology.customEffectDescriptions.0>
+  <AG_SuperAdaptiveBiology.description>Носители этого гена могут полностью менять собственную личность, избавляясь от старых черт характера и приобретая новые.</AG_SuperAdaptiveBiology.description>
+  <AG_SuperAdaptiveBiology.customEffectDescriptions.0>Способность удаляет пять случайных черт характера (или все, если у персонажа их меньше 5) и добавляет пять новых случайных черт.</AG_SuperAdaptiveBiology.customEffectDescriptions.0>
   <AG_SuperAdaptiveBiology.customEffectDescriptions.1>«Но как же мои незаменимые черты из модов?!» Ха-ха, нет. Да будет хаос! Исключение — черты боевого саркофага: они защищены от удаления.</AG_SuperAdaptiveBiology.customEffectDescriptions.1>
   <AG_AdaptiveBiology.customEffectDescriptions.1>«Но как же мои незаменимые черты из модов?!» Ха-ха, нет. Да будет хаос! Исключение — черты боевого саркофага: они защищены от удаления.</AG_AdaptiveBiology.customEffectDescriptions.1>
   <AG_FungalSkin.label>грибная кожа</AG_FungalSkin.label>
-  <AG_FungalSkin.description>Из кожи носителей этого гена прорастают грибные наросты. Они не причиняют боли и дают значительную естественную защиту, но делают носителя ОЧЕНЬ уязвимым к огню.</AG_FungalSkin.description>
+  <AG_FungalSkin.description>Из кожи носителей этого гена растут скопления грибов. Они не причиняют боли и служат довольно прочной естественной бронёй, но делают носителя ОЧЕНЬ уязвимым к огню.</AG_FungalSkin.description>
   <AG_FungalSkin.customEffectDescriptions.0>+50% к естественной броне против колюще-режущего и тупого урона. +25% к скорости заживления ран.</AG_FungalSkin.customEffectDescriptions.0>
   <AG_FungalSkin.customEffectDescriptions.1>Огонь оставляет незаживающие раны.</AG_FungalSkin.customEffectDescriptions.1>
   <AG_FungalSkin.symbolPack.prefixSymbols.0.symbol>фунго</AG_FungalSkin.symbolPack.prefixSymbols.0.symbol>
   <AG_FungalSkin.symbolPack.prefixSymbols.1.symbol>грибно</AG_FungalSkin.symbolPack.prefixSymbols.1.symbol>
   <AG_FungalSkin.symbolPack.prefixSymbols.2.symbol>мико</AG_FungalSkin.symbolPack.prefixSymbols.2.symbol>
-  <AG_FrailSkin.label>слабая кожа</AG_FrailSkin.label>
-  <AG_FrailSkin.description>У носителей этого гена кожа очень хрупкая и тонкая, что приводит к небольшому увеличению получаемого урона.</AG_FrailSkin.description>
+  <AG_FrailSkin.label>нежная кожа</AG_FrailSkin.label>
+  <AG_FrailSkin.description>У носителей этого гена очень тонкая и нежная кожа. Из-за этого они получают немного больше урона.</AG_FrailSkin.description>
   <AG_FrailSkin.symbolPack.prefixSymbols.0.symbol>хрупко</AG_FrailSkin.symbolPack.prefixSymbols.0.symbol>
   <AG_Gene_VeryWeakImmunity.symbolPack.prefixSymbols.1.symbol>хрупко</AG_Gene_VeryWeakImmunity.symbolPack.prefixSymbols.1.symbol>
   <AG_FrailSkin.symbolPack.prefixSymbols.1.symbol>тонкокоже</AG_FrailSkin.symbolPack.prefixSymbols.1.symbol>
@@ -209,19 +209,19 @@
   <AG_ArmourMinor.description>Твёрдая кожа, похожая на древесину, даёт небольшую естественную защиту.</AG_ArmourMinor.description>
   <AG_ArmourMinor.customEffectDescriptions.0>+20% к естественной броне против колюще-режущего и тупого урона.</AG_ArmourMinor.customEffectDescriptions.0>
   <AG_ArmourMinor.symbolPack.prefixSymbols.0.symbol>коро</AG_ArmourMinor.symbolPack.prefixSymbols.0.symbol>
-  <AG_ArmourMedium.label>железистая кожа</AG_ArmourMedium.label>
-  <AG_ArmourMedium.description>Кожа носителей этого гена укреплена нанорешёткой из металлических соединений и даёт умеренную естественную защиту.</AG_ArmourMedium.description>
+  <AG_ArmourMedium.label>железная кожа</AG_ArmourMedium.label>
+  <AG_ArmourMedium.description>Кожа носителей этого гена укреплена нанорешёткой из металлических соединений. Это обеспечивает умеренную естественную броню.</AG_ArmourMedium.description>
   <AG_ArmourMedium.customEffectDescriptions.0>+30% к естественной броне против колюще-режущего и тупого урона.</AG_ArmourMedium.customEffectDescriptions.0>
   <AG_ArmourMedium.symbolPack.prefixSymbols.0.symbol>ферро</AG_ArmourMedium.symbolPack.prefixSymbols.0.symbol>
   <AG_ArmourMedium.symbolPack.prefixSymbols.1.symbol>металло</AG_ArmourMedium.symbolPack.prefixSymbols.1.symbol>
-  <AG_ArmourMajor.label>пластальная кожа</AG_ArmourMajor.label>
+  <AG_ArmourMajor.label>пласталевая кожа</AG_ArmourMajor.label>
   <AG_ArmourMajor.description>Кожа носителей этого гена укреплена пластальной нанорешёткой и даёт значительную естественную защиту.</AG_ArmourMajor.description>
   <AG_ArmourMajor.customEffectDescriptions.0>+40% к естественной броне против колюще-режущего и тупого урона.</AG_ArmourMajor.customEffectDescriptions.0>
   <AG_ArmourMajor.symbolPack.prefixSymbols.0.symbol>адаманто</AG_ArmourMajor.symbolPack.prefixSymbols.0.symbol>
-  <AG_Beauty_VeryVeryUgly.label>непостижимое уродство</AG_Beauty_VeryVeryUgly.label>
+  <AG_Beauty_VeryVeryUgly.label>отталкивающая внешность</AG_Beauty_VeryVeryUgly.label>
   <AG_Beauty_VeryVeryUgly.description>Носители этого гена настолько уродливы и отталкивающи, что у окружающих от одного взгляда на них возникает тошнота.</AG_Beauty_VeryVeryUgly.description>
   <AG_Beauty_VeryVeryUgly.customEffectDescriptions.0>У других поселенцев поблизости отвращение к носителю снижает настроение.</AG_Beauty_VeryVeryUgly.customEffectDescriptions.0>
-  <AG_Beauty_VeryVeryUgly.labelShortAdj>уродливый</AG_Beauty_VeryVeryUgly.labelShortAdj>
+  <AG_Beauty_VeryVeryUgly.labelShortAdj>отталкивающий</AG_Beauty_VeryVeryUgly.labelShortAdj>
   <AG_Beauty_VeryVeryUgly.symbolPack.prefixSymbols.0.symbol>мрачно</AG_Beauty_VeryVeryUgly.symbolPack.prefixSymbols.0.symbol>
   <AG_Beauty_VeryVeryUgly.symbolPack.prefixSymbols.1.symbol>макабро</AG_Beauty_VeryVeryUgly.symbolPack.prefixSymbols.1.symbol>
   <AG_Beauty_VeryVeryUgly.symbolPack.prefixSymbols.2.symbol>гротеско</AG_Beauty_VeryVeryUgly.symbolPack.prefixSymbols.2.symbol>
@@ -230,7 +230,7 @@
   <AG_UnsettlingAppearance.symbolPack.prefixSymbols.2.symbol>монстро</AG_UnsettlingAppearance.symbolPack.prefixSymbols.2.symbol>
   <AG_Beauty_VeryVeryUgly.symbolPack.prefixSymbols.5.symbol>жутко</AG_Beauty_VeryVeryUgly.symbolPack.prefixSymbols.5.symbol>
   <AG_Beauty_Angelic.label>ангельская красота</AG_Beauty_Angelic.label>
-  <AG_Beauty_Angelic.description>Носители этого гена обладают неземной, почти безупречной красотой, заметно выделяясь среди представителей своего вида.</AG_Beauty_Angelic.description>
+  <AG_Beauty_Angelic.description>Носители этого гена обладают неестественной, почти безупречной красотой, выделяющей их среди себе подобных.</AG_Beauty_Angelic.description>
   <AG_Beauty_Angelic.customEffectDescriptions.0>Любование неземной красотой носителя повышает настроение другим поселенцам поблизости.</AG_Beauty_Angelic.customEffectDescriptions.0>
   <AG_Beauty_Angelic.customEffectDescriptions.1>Увечья не снижают красоту носителя и не ухудшают мнение окружающих о нём.</AG_Beauty_Angelic.customEffectDescriptions.1>
   <AG_Beauty_Angelic.labelShortAdj>ангельский</AG_Beauty_Angelic.labelShortAdj>
@@ -254,16 +254,16 @@
   <AG_TerrorMask.symbolPack.prefixSymbols.2.symbol>демоно</AG_TerrorMask.symbolPack.prefixSymbols.2.symbol>
   <AG_DemonWings.symbolPack.prefixSymbols.2.symbol>демоно</AG_DemonWings.symbolPack.prefixSymbols.2.symbol>
   <AG_UnsettlingAppearance.symbolPack.prefixSymbols.4.symbol>мерзко</AG_UnsettlingAppearance.symbolPack.prefixSymbols.4.symbol>
-  <AG_EldritchVisage.label>ужасающая внешность</AG_EldritchVisage.label>
-  <AG_EldritchVisage.description>Внешность носителя этого гена внушает окружающим ужас до глубины души. Его всегда будут презирать.</AG_EldritchVisage.description>
+  <AG_EldritchVisage.label>жуткий облик</AG_EldritchVisage.label>
+  <AG_EldritchVisage.description>Облик носителя этого гена вселяет в других людей ужас до глубины души. Его всегда будут презирать.</AG_EldritchVisage.description>
   <AG_EldritchVisage.customEffectDescriptions.0>Мнение любого человека без этого гена о его носителях снижается на 500. Это практически гарантирует, что итоговое мнение останется на отметке −100.</AG_EldritchVisage.customEffectDescriptions.0>
-  <AG_EldritchVisage.labelShortAdj>ужасающий</AG_EldritchVisage.labelShortAdj>
+  <AG_EldritchVisage.labelShortAdj>жуткий</AG_EldritchVisage.labelShortAdj>
   <AG_EldritchVisage.symbolPack.prefixSymbols.0.symbol>хтоно</AG_EldritchVisage.symbolPack.prefixSymbols.0.symbol>
   <AG_EldritchVisage.symbolPack.prefixSymbols.1.symbol>ужасо</AG_EldritchVisage.symbolPack.prefixSymbols.1.symbol>
   <AG_Teratophilia.label>тератофилия</AG_Teratophilia.label>
   <AG_Teratophilia.description>Носителя этого гена не отталкивает уродство: непривлекательные поселенцы интересуют его не меньше остальных. В конце концов, красота — в глазах смотрящего. Именно человека, который смотрит, а не одноимённого чудовища из D&amp;D.</AG_Teratophilia.description>
   <AG_ChemfuelBlood.label>химтопливная кровь</AG_ChemfuelBlood.label>
-  <AG_ChemfuelBlood.description>Обмен веществ носителей этого гена основан на химтопливе, которое течёт у них вместо обычной человеческой крови. Такая кровь легко воспламеняется.</AG_ChemfuelBlood.description>
+  <AG_ChemfuelBlood.description>Обмен веществ носителей этого гена основан на химтопливе, поэтому вместо обычной человеческой крови у них течёт химтопливо. Такая кровь легко воспламеняется.</AG_ChemfuelBlood.description>
   <AG_ChemfuelBlood.symbolPack.prefixSymbols.0.symbol>химио</AG_ChemfuelBlood.symbolPack.prefixSymbols.0.symbol>
   <AG_BoomNodules.symbolPack.prefixSymbols.1.symbol>химио</AG_BoomNodules.symbolPack.prefixSymbols.1.symbol>
   <AG_ChemfuelVomit.symbolPack.prefixSymbols.0.symbol>химио</AG_ChemfuelVomit.symbolPack.prefixSymbols.0.symbol>
@@ -279,10 +279,10 @@
   <AG_SlimeBlood.symbolPack.prefixSymbols.2.symbol>сопле</AG_SlimeBlood.symbolPack.prefixSymbols.2.symbol>
   <AG_SlimeBlood.symbolPack.wholeNameSymbols.0.symbol>слизекров</AG_SlimeBlood.symbolPack.wholeNameSymbols.0.symbol>
   <AG_AcidicBlood.label>кислотная кровь</AG_AcidicBlood.label>
-  <AG_AcidicBlood.description>У носителей этого гена чрезвычайно едкая кровь. Им самим она не вредит, но при их гибели разбрызгивается повсюду, раня людей поблизости.</AG_AcidicBlood.description>
+  <AG_AcidicBlood.description>У носителей этого гена чрезвычайно едкая кислотная кровь. Им самим она не вредит, но при гибели разбрызгивается вокруг, раня всех людей поблизости.</AG_AcidicBlood.description>
   <AG_AcidicBlood.symbolPack.wholeNameSymbols.0.symbol>ксеноморф</AG_AcidicBlood.symbolPack.wholeNameSymbols.0.symbol>
-  <AG_TarBlood.label>смолянистая кровь</AG_TarBlood.label>
-  <AG_TarBlood.description>У носителей этого гена очень густая, тёмная и липкая кровь, похожая на дёготь. Она затрудняет передвижение.</AG_TarBlood.description>
+  <AG_TarBlood.label>смолистая кровь</AG_TarBlood.label>
+  <AG_TarBlood.description>У носителей этого гена очень густая, тёмная и липкая кровь, похожая на смолу. Эта кровь затрудняет передвижение.</AG_TarBlood.description>
   <AG_TarBlood.symbolPack.prefixSymbols.0.symbol>дёгте</AG_TarBlood.symbolPack.prefixSymbols.0.symbol>
   <AG_TarBlood.symbolPack.prefixSymbols.1.symbol>липко</AG_TarBlood.symbolPack.prefixSymbols.1.symbol>
   <AG_TarBlood.symbolPack.prefixSymbols.2.symbol>нефте</AG_TarBlood.symbolPack.prefixSymbols.2.symbol>
@@ -298,12 +298,12 @@
   <AG_BeetleMandibles.symbolPack.prefixSymbols.1.symbol>энто</AG_BeetleMandibles.symbolPack.prefixSymbols.1.symbol>
   <AG_BeeMandibles.symbolPack.prefixSymbols.1.symbol>энто</AG_BeeMandibles.symbolPack.prefixSymbols.1.symbol>
   <AG_InsectBlood.symbolPack.wholeNameSymbols.0.symbol>инсектокров</AG_InsectBlood.symbolPack.wholeNameSymbols.0.symbol>
-  <AG_FirefoamBlood.label>пенная кровь</AG_FirefoamBlood.label>
-  <AG_FirefoamBlood.description>Вместо крови у носителей этого гена течёт странная огнезащитная смесь. Она недостаточно сильна, чтобы тушить огонь, но не даёт ему распространяться.</AG_FirefoamBlood.description>
+  <AG_FirefoamBlood.label>огнетушащая кровь</AG_FirefoamBlood.label>
+  <AG_FirefoamBlood.description>Вместо крови у носителей этого гена странная огнестойкая смесь. Её недостаточно для тушения пожаров, но она не даёт пламени распространяться.</AG_FirefoamBlood.description>
   <AG_FirefoamBlood.symbolPack.prefixSymbols.0.symbol>пено</AG_FirefoamBlood.symbolPack.prefixSymbols.0.symbol>
   <AG_FirefoamBlood.symbolPack.prefixSymbols.1.symbol>фламмо</AG_FirefoamBlood.symbolPack.prefixSymbols.1.symbol>
   <AG_FirefoamBlood.symbolPack.wholeNameSymbols.0.symbol>пенокров</AG_FirefoamBlood.symbolPack.wholeNameSymbols.0.symbol>
-  <AG_PebbleBlood.label>кристаллизованная кровь</AG_PebbleBlood.label>
+  <AG_PebbleBlood.label>галечная кровь</AG_PebbleBlood.label>
   <AG_PebbleBlood.description>Кровь носителей этого гена частично кристаллизована и на воздухе сразу превращается в мелкие камешки. Они гораздо меньше портят красоту и чистоту вокруг, но дольше исчезают сами и требуют больше труда при уборке.</AG_PebbleBlood.description>
   <AG_PebbleBlood.symbolPack.prefixSymbols.0.symbol>каменно</AG_PebbleBlood.symbolPack.prefixSymbols.0.symbol>
   <AG_RockyBody.symbolPack.prefixSymbols.0.symbol>каменно</AG_RockyBody.symbolPack.prefixSymbols.0.symbol>
@@ -314,15 +314,15 @@
   <AG_RockSpurs.symbolPack.prefixSymbols.1.symbol>лито</AG_RockSpurs.symbolPack.prefixSymbols.1.symbol>
   <AG_PebbleBlood.symbolPack.wholeNameSymbols.0.symbol>камнекров</AG_PebbleBlood.symbolPack.wholeNameSymbols.0.symbol>
   <AG_WaterBlood.label>водянистая кровь</AG_WaterBlood.label>
-  <AG_WaterBlood.description>У носителей этого гена кровь крайне водянистая. Она настолько жидкая, что её лужицы практически неотличимы от воды.</AG_WaterBlood.description>
-  <AG_CryoBlood.label>криогенная кровь</AG_CryoBlood.label>
+  <AG_WaterBlood.description>У носителей этого гена водянистая кровь. Она настолько разбавлена, что её лужи практически неотличимы от воды.</AG_WaterBlood.description>
+  <AG_CryoBlood.label>криокровь</AG_CryoBlood.label>
   <AG_CryoBlood.description>Вместо крови у носителей этого гена течёт криогенная жидкость. Она быстро охлаждает всё вокруг, что делает её одновременно полезной и крайне опасной. Она исчезает быстрее обычной крови, но убрать её нельзя.</AG_CryoBlood.description>
   <AG_CryoBlood.symbolPack.wholeNameSymbols.0.symbol>криокров</AG_CryoBlood.symbolPack.wholeNameSymbols.0.symbol>
   <AG_ForsakenBlood.label>жёлтая кровь</AG_ForsakenBlood.label>
-  <AG_ForsakenBlood.description>У носителей этого гена кровь жёлтого цвета.</AG_ForsakenBlood.description>
+  <AG_ForsakenBlood.description>У носителей этого гена жёлтая кровь.</AG_ForsakenBlood.description>
   <AG_SlimeBody.label>слизистое тело</AG_SlimeBody.label>
   <AG_SlimeBody.description>У носителей этого гена студенистая синяя кожа, с которой постоянно что-то капает.</AG_SlimeBody.description>
-  <AG_SlimeBody.labelShortAdj>слизистый</AG_SlimeBody.labelShortAdj>
+  <AG_SlimeBody.labelShortAdj>слизетелый</AG_SlimeBody.labelShortAdj>
   <AG_SlimeBody.symbolPack.prefixSymbols.0.symbol>слизе</AG_SlimeBody.symbolPack.prefixSymbols.0.symbol>
   <AG_AerofleetHead.symbolPack.prefixSymbols.0.symbol>слизе</AG_AerofleetHead.symbolPack.prefixSymbols.0.symbol>
   <AG_SlimeBody.symbolPack.prefixSymbols.2.symbol>муко</AG_SlimeBody.symbolPack.prefixSymbols.2.symbol>
@@ -346,9 +346,9 @@
   <AG_ScalyBody.symbolPack.prefixSymbols.2.symbol>герпето</AG_ScalyBody.symbolPack.prefixSymbols.2.symbol>
   <AG_RockyBody.label>каменистое тело</AG_RockyBody.label>
   <AG_RockyBody.description>Кожа носителей этого гена напоминает камень, а сквозь неё выступают минеральные наросты.</AG_RockyBody.description>
-  <AG_RockyBody.labelShortAdj>каменный</AG_RockyBody.labelShortAdj>
+  <AG_RockyBody.labelShortAdj>каменистый</AG_RockyBody.labelShortAdj>
   <AG_CancerousBody.label>тело с опухолями</AG_CancerousBody.label>
-  <AG_CancerousBody.description>У носителей этого гена бугристое, словно поражённое раком тело с дряблой кожей и оспинами.</AG_CancerousBody.description>
+  <AG_CancerousBody.description>Тело носителей этого гена бугристое, словно поражённое раком, с обвисшей кожей и оспинами.</AG_CancerousBody.description>
   <AG_CancerousBody.labelShortAdj>опухолевый</AG_CancerousBody.labelShortAdj>
   <AG_CancerousBody.symbolPack.prefixSymbols.0.symbol>терато</AG_CancerousBody.symbolPack.prefixSymbols.0.symbol>
   <AG_CancerousFace.symbolPack.prefixSymbols.0.symbol>терато</AG_CancerousFace.symbolPack.prefixSymbols.0.symbol>
@@ -365,25 +365,25 @@
   <AG_GauntBody.symbolPack.prefixSymbols.3.symbol>косте</AG_GauntBody.symbolPack.prefixSymbols.3.symbol>
   <AG_DrakonoriBody.label>тело драконори</AG_DrakonoriBody.label>
   <AG_DrakonoriBody.description>Тело носителей этого гена покрыто чешуёй и напоминает драконье.</AG_DrakonoriBody.description>
-  <AG_DrakonoriBody.labelShortAdj>драконори</AG_DrakonoriBody.labelShortAdj>
+  <AG_DrakonoriBody.labelShortAdj>драконорийский</AG_DrakonoriBody.labelShortAdj>
   <AG_NereidBody.label>тело нереиды</AG_NereidBody.label>
-  <AG_NereidBody.description>Тело носителей этого гена покрыто чешуёй и биолюминесцентными пятнами.</AG_NereidBody.description>
-  <AG_NereidBody.labelShortAdj>нереидовый</AG_NereidBody.labelShortAdj>
-  <AG_ForsakenBody.label>тело забытого</AG_ForsakenBody.label>
+  <AG_NereidBody.description>Тело носителей этого гена покрыто чешуёй с биолюминесцентными пятнами.</AG_NereidBody.description>
+  <AG_NereidBody.labelShortAdj>нереидный</AG_NereidBody.labelShortAdj>
+  <AG_ForsakenBody.label>тело отверженного</AG_ForsakenBody.label>
   <AG_ForsakenBody.description>По телу носителей этого гена проходят глубокие впадины, а местами под кожей видны рёбра. В остальном они выглядят здоровыми. Такое тело немного легче обычного, но значительно более хрупкое.</AG_ForsakenBody.description>
-  <AG_ForsakenBody.labelShortAdj>забытый</AG_ForsakenBody.labelShortAdj>
+  <AG_ForsakenBody.labelShortAdj>отверженный</AG_ForsakenBody.labelShortAdj>
   <AG_Digitigrade.label>пальцеходящие ноги</AG_Digitigrade.label>
   <AG_Digitigrade.description>У носителей этого гена пальцеходящие ноги: при ходьбе и стоянии они опираются на пальцы, а остальная часть стопы приподнята над землёй.</AG_Digitigrade.description>
   <AG_Digitigrade.customEffectDescriptions.0>Переносимый на карте вес снижен до 60%.</AG_Digitigrade.customEffectDescriptions.0>
   <AG_Digitigrade.customEffectDescriptions.1>Переносимый в караване вес снижен до 80%.</AG_Digitigrade.customEffectDescriptions.1>
   <AG_Digitigrade.labelShortAdj>пальцеходящий</AG_Digitigrade.labelShortAdj>
   <AG_LargerBodySize.label>крупное тело</AG_LargerBodySize.label>
-  <AG_LargerBodySize.description>Носители этого гена крупнее обычного, со всеми преимуществами и недостатками.</AG_LargerBodySize.description>
+  <AG_LargerBodySize.description>Тело носителей этого гена крупнее обычного. У этого есть свои преимущества и недостатки.</AG_LargerBodySize.description>
   <AG_SmallerBodySize.label>небольшое тело</AG_SmallerBodySize.label>
-  <AG_SmallerBodySize.description>Носители этого гена мельче обычного, со всеми преимуществами и недостатками.</AG_SmallerBodySize.description>
-  <AG_NoAntennae.label>нет верхних усиков</AG_NoAntennae.label>
-  <AG_NoAntennae.description>У носителей этого гена не растут верхние усики.</AG_NoAntennae.description>
-  <AG_NoAntennae.customEffectDescriptions.0>С этим геном вы можете создавать ксенотипы, в которых наличие или отсутствие верхних усиков у персонажа будет определяться случайным образом.</AG_NoAntennae.customEffectDescriptions.0>
+  <AG_SmallerBodySize.description>Тело носителей этого гена меньше обычного. У этого есть свои преимущества и недостатки.</AG_SmallerBodySize.description>
+  <AG_NoAntennae.label>без верхних усиков</AG_NoAntennae.label>
+  <AG_NoAntennae.description>У носителей этого гена нет верхних усиков.</AG_NoAntennae.description>
+  <AG_NoAntennae.customEffectDescriptions.0>Этот ген позволяет создавать ксенотипы, у которых наличие или отсутствие верхних усиков у персонажа определяется случайно</AG_NoAntennae.customEffectDescriptions.0>
   <AG_MothAntennae.label>усики мотылька</AG_MothAntennae.label>
   <AG_MothAntennae.description>У носителей этого гена из носа растут два крупных усика.</AG_MothAntennae.description>
   <AG_MothAntennae.symbolPack.prefixSymbols.0.symbol>мотылько</AG_MothAntennae.symbolPack.prefixSymbols.0.symbol>
@@ -391,7 +391,7 @@
   <AG_MothAntennae.symbolPack.prefixSymbols.1.symbol>бабочко</AG_MothAntennae.symbolPack.prefixSymbols.1.symbol>
   <AG_MothAntennae.symbolPack.prefixSymbols.2.symbol>лепидо</AG_MothAntennae.symbolPack.prefixSymbols.2.symbol>
   <AG_OutwardsAntennas.label>пчелиные усики</AG_OutwardsAntennas.label>
-  <AG_OutwardsAntennas.description>Носители этого гена обладают двумя крупными пчелиными усиками, выступающими из головы.</AG_OutwardsAntennas.description>
+  <AG_OutwardsAntennas.description>У носителей этого гена из головы растут два больших пчелиных усика.</AG_OutwardsAntennas.description>
   <AG_OutwardsAntennas.symbolPack.prefixSymbols.0.symbol>пчело</AG_OutwardsAntennas.symbolPack.prefixSymbols.0.symbol>
   <AG_BumbledroneWings.symbolPack.prefixSymbols.0.symbol>пчело</AG_BumbledroneWings.symbolPack.prefixSymbols.0.symbol>
   <AG_OutwardsAntennas.symbolPack.prefixSymbols.1.symbol>апи</AG_OutwardsAntennas.symbolPack.prefixSymbols.1.symbol>
@@ -402,29 +402,29 @@
   <AG_DownwardsAntennas.symbolPack.prefixSymbols.2.symbol>антенно</AG_DownwardsAntennas.symbolPack.prefixSymbols.2.symbol>
   <AG_FormicAntennas.symbolPack.prefixSymbols.2.symbol>антенно</AG_FormicAntennas.symbolPack.prefixSymbols.2.symbol>
   <AG_DownwardsAntennas.label>осиные усики</AG_DownwardsAntennas.label>
-  <AG_DownwardsAntennas.description>Носители этого гена обладают двумя большими осиными усиками, выступающими из головы.</AG_DownwardsAntennas.description>
+  <AG_DownwardsAntennas.description>На голове носителей этого гена вырастают два крупных осиных усика.</AG_DownwardsAntennas.description>
   <AG_DownwardsAntennas.symbolPack.prefixSymbols.0.symbol>осо</AG_DownwardsAntennas.symbolPack.prefixSymbols.0.symbol>
   <AG_WaspWings.symbolPack.prefixSymbols.0.symbol>осо</AG_WaspWings.symbolPack.prefixSymbols.0.symbol>
   <AG_DownwardsAntennas.symbolPack.prefixSymbols.1.symbol>шершне</AG_DownwardsAntennas.symbolPack.prefixSymbols.1.symbol>
   <AG_WaspWings.symbolPack.prefixSymbols.1.symbol>шершне</AG_WaspWings.symbolPack.prefixSymbols.1.symbol>
   <AG_FormicAntennas.label>муравьиные усики</AG_FormicAntennas.label>
-  <AG_FormicAntennas.description>Носители этого гена обладают двумя крупными муравьиными усиками, выступающими из головы.</AG_FormicAntennas.description>
+  <AG_FormicAntennas.description>На голове носителей этого гена вырастают два крупных муравьиных усика.</AG_FormicAntennas.description>
   <AG_FormicAntennas.symbolPack.prefixSymbols.0.symbol>муравье</AG_FormicAntennas.symbolPack.prefixSymbols.0.symbol>
   <AG_FormicAntennas.symbolPack.prefixSymbols.1.symbol>формико</AG_FormicAntennas.symbolPack.prefixSymbols.1.symbol>
   <AG_NoLowerAntennae.label>нет нижних усиков</AG_NoLowerAntennae.label>
-  <AG_NoLowerAntennae.description>У носителей этого гена не растут нижние усики.</AG_NoLowerAntennae.description>
-  <AG_NoLowerAntennae.customEffectDescriptions.0>С этим геном вы можете создавать ксенотипы, в которых наличие или отсутствие нижних усиков у персонажа будет определяться случайным образом.</AG_NoLowerAntennae.customEffectDescriptions.0>
+  <AG_NoLowerAntennae.description>У носителей этого гена нет нижних усиков.</AG_NoLowerAntennae.description>
+  <AG_NoLowerAntennae.customEffectDescriptions.0>Этот ген позволяет создавать ксенотипы, у представителей которых нижние усики случайным образом либо появляются, либо отсутствуют</AG_NoLowerAntennae.customEffectDescriptions.0>
   <AG_LowerAntennas.label>нижние усики</AG_LowerAntennas.label>
-  <AG_LowerAntennas.description>Носители этого гена обладают двумя большими усиками, выступающими из челюсти.</AG_LowerAntennas.description>
-  <AG_RadYakEars.label>уши радиака</AG_RadYakEars.label>
-  <AG_RadYakEars.description>У носителей этого гена растут заострённые уши радиака.</AG_RadYakEars.description>
+  <AG_LowerAntennas.description>Из челюсти носителей этого гена вырастают два крупных усика.</AG_LowerAntennas.description>
+  <AG_RadYakEars.label>уши радъяка</AG_RadYakEars.label>
+  <AG_RadYakEars.description>У носителей этого гена вырастают заострённые уши радъяка.</AG_RadYakEars.description>
   <AG_RadYakEars.symbolPack.prefixSymbols.0.symbol>радиако</AG_RadYakEars.symbolPack.prefixSymbols.0.symbol>
   <AG_RadYakEars.symbolPack.prefixSymbols.1.symbol>радо</AG_RadYakEars.symbolPack.prefixSymbols.1.symbol>
   <AG_RadYakEars.symbolPack.suffixSymbols.0.symbol>як</AG_RadYakEars.symbolPack.suffixSymbols.0.symbol>
   <AG_ChameleonYakHorns.symbolPack.prefixSymbols.1.symbol>як</AG_ChameleonYakHorns.symbolPack.prefixSymbols.1.symbol>
   <AG_RadYakEars.symbolPack.suffixSymbols.1.symbol>ух</AG_RadYakEars.symbolPack.suffixSymbols.1.symbol>
-  <AG_AnimusEars.label>уши духолиса</AG_AnimusEars.label>
-  <AG_AnimusEars.description>Носители этого гена обладают ушами духолиса.</AG_AnimusEars.description>
+  <AG_AnimusEars.label>уши анимуса</AG_AnimusEars.label>
+  <AG_AnimusEars.description>У носителей этого гена вырастают уши анимус-вокса.</AG_AnimusEars.description>
   <AG_AnimusEars.symbolPack.prefixSymbols.0.symbol>анимусо</AG_AnimusEars.symbolPack.prefixSymbols.0.symbol>
   <AG_FoxFace.symbolPack.prefixSymbols.0.symbol>анимусо</AG_FoxFace.symbolPack.prefixSymbols.0.symbol>
   <AG_PsychicAbility_Masterful.symbolPack.prefixSymbols.0.symbol>анимусо</AG_PsychicAbility_Masterful.symbolPack.prefixSymbols.0.symbol>
@@ -437,20 +437,20 @@
   <AG_SingleEar.label>одно ухо</AG_SingleEar.label>
   <AG_SingleEar.description>У носителей этого гена растёт одно уродливое висячее ухо.</AG_SingleEar.description>
   <AG_LongEars.label>длинные уши</AG_LongEars.label>
-  <AG_LongEars.description>Носители этого гена обладают длинными ушами.</AG_LongEars.description>
+  <AG_LongEars.description>У носителей этого гена вырастают длинные уши.</AG_LongEars.description>
   <AG_DemonEars.label>демонические уши</AG_DemonEars.label>
-  <AG_DemonEars.description>Носители этого гена обладают длинными демоническими ушами.</AG_DemonEars.description>
-  <AG_EarWings.label>ушные крылья</AG_EarWings.label>
-  <AG_EarWings.description>Носители этого гена обладают крупными ушами в форме крыльев летучей мыши. Эти уши имеют чисто декоративный характер и не дают способности летать.</AG_EarWings.description>
+  <AG_DemonEars.description>У носителей этого гена вырастают длинные демонические уши.</AG_DemonEars.description>
+  <AG_EarWings.label>крыловидные уши</AG_EarWings.label>
+  <AG_EarWings.description>У носителей этого гена вырастают большие уши в форме крыльев летучей мыши. Они служат лишь украшением и совершенно не позволяют летать.</AG_EarWings.description>
   <AG_NereidFins.label>плавники нереиды</AG_NereidFins.label>
-  <AG_NereidFins.description>У носителей этого гена растут длинные заострённые уши, похожие на плавники. Они выступают по бокам головы, напоминая грудные плавники рыбы.</AG_NereidFins.description>
+  <AG_NereidFins.description>У носителей этого гена вырастают удлинённые, похожие на плавники уши с заострёнными концами. Они отходят в стороны от головы, словно грудные плавники рыбы.</AG_NereidFins.description>
   <AG_FeraliskEyes.label>глаза фералиска</AG_FeraliskEyes.label>
-  <AG_FeraliskEyes.description>Носители этого гена обладают четырьмя глазами, что даёт им улучшенное зрение.</AG_FeraliskEyes.description>
+  <AG_FeraliskEyes.description>У носителей этого гена четыре глаза, что соответственно улучшает зрение.</AG_FeraliskEyes.description>
   <AG_ThirdEye.label>третий глаз</AG_ThirdEye.label>
   <AG_ThirdEye.description>У носителей этого гена на лбу растёт третий глаз, улучшающий зрение. Благодаря своим, э-э, пси-свойствам он неуязвим для... чужих... и... Ладно, части тела из Biotech не являются настоящими частями тела, и атаками их повредить нельзя. Договорились?</AG_ThirdEye.description>
-  <AG_EyeOfShubNiggurath.label>глаз Шуб-Ниггурата</AG_EyeOfShubNiggurath.label>
+  <AG_EyeOfShubNiggurath.label>глаз Шуб-Ниггурат</AG_EyeOfShubNiggurath.label>
   <AG_EyeOfShubNiggurath.description>Вместо одного глаза у носителей этого гена вырастает зловещая клыкастая пасть. Каким-то необъяснимым образом она способна видеть.</AG_EyeOfShubNiggurath.description>
-  <AG_NearBlindness.label>практически полная слепота</AG_NearBlindness.label>
+  <AG_NearBlindness.label>почти полная слепота</AG_NearBlindness.label>
   <AG_NearBlindness.description>Глаза носителей этого гена почти бесполезны: они практически полностью слепы.</AG_NearBlindness.description>
   <AG_NearBlindness.symbolPack.prefixSymbols.0.symbol>слепо</AG_NearBlindness.symbolPack.prefixSymbols.0.symbol>
   <AG_NearBlindness.symbolPack.prefixSymbols.1.symbol>мутно</AG_NearBlindness.symbolPack.prefixSymbols.1.symbol>
@@ -459,35 +459,35 @@
   <AG_NearBlindness.symbolPack.prefixSymbols.4.symbol>косо</AG_NearBlindness.symbolPack.prefixSymbols.4.symbol>
   <AG_NearBlindness.symbolPack.suffixSymbols.0.symbol>зритель</AG_NearBlindness.symbolPack.suffixSymbols.0.symbol>
   <AG_NearBlindness.symbolPack.suffixSymbols.1.symbol>глядец</AG_NearBlindness.symbolPack.suffixSymbols.1.symbol>
-  <AG_ChameleonVision.label>глаза хамелеона</AG_ChameleonVision.label>
+  <AG_ChameleonVision.label>зрение хамелеона</AG_ChameleonVision.label>
   <AG_ChameleonVision.description>Выпуклые глаза носителей этого гена обеспечивают панорамное зрение и могут двигаться и фокусироваться независимо друг от друга. Благодаря этому носитель способен следить за приближающимся объектом и одновременно обозревать остальное пространство.</AG_ChameleonVision.description>
-  <AG_DevilEyes.label>демонические глаза</AG_DevilEyes.label>
+  <AG_DevilEyes.label>дьявольские глаза</AG_DevilEyes.label>
   <AG_DevilEyes.description>У носителей этого гена большие глаза насыщенного жёлтого цвета.</AG_DevilEyes.description>
   <AG_BioluminescentEyes.label>биолюминесцентные глаза</AG_BioluminescentEyes.label>
   <AG_BioluminescentEyes.description>Глаза носителей этого гена светятся в темноте благодаря тапетуму — особой оболочке за сетчаткой. Это значительно улучшает зрение в темноте, но при дневном свете такие глаза менее полезны.</AG_BioluminescentEyes.description>
-  <AG_ForsakenEyes.label>глаза забытых</AG_ForsakenEyes.label>
-  <AG_ForsakenEyes.description>Носители этого гена обладают четырьмя жёлтыми глазами, из которых два маленьких расположены под двумя большими.</AG_ForsakenEyes.description>
+  <AG_ForsakenEyes.label>глаза отверженных</AG_ForsakenEyes.label>
+  <AG_ForsakenEyes.description>У носителей этого гена четыре жёлтых глаза: два маленьких под двумя большими.</AG_ForsakenEyes.description>
   <AG_VenomFangs.label>ядовитые клыки</AG_VenomFangs.label>
-  <AG_VenomFangs.description>У носителей этого гена растут крупные клыки, которыми в ближнем бою можно впрыснуть сильнодействующий яд.</AG_VenomFangs.description>
+  <AG_VenomFangs.description>У носителей этого гена вырастают большие клыки, которыми можно вводить сильный яд в ближнем бою.</AG_VenomFangs.description>
   <AG_AcidFangs.label>кислотные клыки</AG_AcidFangs.label>
   <AG_AcidFangs.description>У носителей этого гена растут крупные клыки, которыми в ближнем бою можно впрыснуть едкую кислоту.</AG_AcidFangs.description>
-  <AG_Hair_DeepRed.label>тёмно-красные волосы</AG_Hair_DeepRed.label>
-  <AG_Hair_DeepRed.customEffectDescriptions.0>Именно так, как любит генерал Пэйн.</AG_Hair_DeepRed.customEffectDescriptions.0>
-  <AG_Hair_DeepOrange.label>тёмно-оранжевые волосы</AG_Hair_DeepOrange.label>
+  <AG_Hair_DeepRed.label>насыщенно-красные волосы</AG_Hair_DeepRed.label>
+  <AG_Hair_DeepRed.customEffectDescriptions.0>Всё как любит General Pain.</AG_Hair_DeepRed.customEffectDescriptions.0>
+  <AG_Hair_DeepOrange.label>насыщенно-оранжевые волосы</AG_Hair_DeepOrange.label>
   <AG_Hair_PaleGreen.label>бледно-зелёные волосы</AG_Hair_PaleGreen.label>
   <AG_Hair_Golden.label>золотистые волосы</AG_Hair_Golden.label>
   <AG_ChameleonYakHorns.label>рога яка-хамелеона</AG_ChameleonYakHorns.label>
-  <AG_ChameleonYakHorns.description>Носители этого гена обладают двумя изогнутыми рогами, которые выступают изо лба.</AG_ChameleonYakHorns.description>
-  <AG_ChameleonYakHorns.symbolPack.prefixSymbols.0.symbol>хамелеоно</AG_ChameleonYakHorns.symbolPack.prefixSymbols.0.symbol>
+  <AG_ChameleonYakHorns.description>У носителей этого гена изо лба растут два изогнутых рога.</AG_ChameleonYakHorns.description>
+  <AG_ChameleonYakHorns.symbolPack.prefixSymbols.0.symbol>як-хамелеон</AG_ChameleonYakHorns.symbolPack.prefixSymbols.0.symbol>
   <AG_ChameleonYakHorns.symbolPack.suffixSymbols.0.symbol>рог</AG_ChameleonYakHorns.symbolPack.suffixSymbols.0.symbol>
   <AG_DevilsheepHorns.symbolPack.suffixSymbols.0.symbol>рог</AG_DevilsheepHorns.symbolPack.suffixSymbols.0.symbol>
   <AG_BullHorns.symbolPack.suffixSymbols.0.symbol>рог</AG_BullHorns.symbolPack.suffixSymbols.0.symbol>
   <AG_DevilsheepHorns.label>рога дьявольской овцы</AG_DevilsheepHorns.label>
-  <AG_DevilsheepHorns.description>Носители этого гена обладают двумя короткими овечьими рогами, которые выступают изо лба.</AG_DevilsheepHorns.description>
+  <AG_DevilsheepHorns.description>У носителей этого гена изо лба растут два коротких бараньих рога.</AG_DevilsheepHorns.description>
   <AG_DevilsheepHorns.symbolPack.prefixSymbols.0.symbol>чертоовце</AG_DevilsheepHorns.symbolPack.prefixSymbols.0.symbol>
   <AG_DevilsheepHorns.symbolPack.prefixSymbols.1.symbol>овце</AG_DevilsheepHorns.symbolPack.prefixSymbols.1.symbol>
   <AG_BullHorns.label>бычьи рога</AG_BullHorns.label>
-  <AG_BullHorns.description>Носители этого гена обладают двумя большими бычьими рогами, которые выступают изо лба. Они выполняют не только декоративную функцию, но также могут использоваться в бою.</AG_BullHorns.description>
+  <AG_BullHorns.description>У носителей этого гена изо лба растут два больших бычьих рога. Они служат не только украшением: ими можно атаковать.</AG_BullHorns.description>
   <AG_BullHorns.customEffectDescriptions.0>Добавляет атаку в ближнем бою с 16 единицами колющего урона и восстановлением 2 секунды, повышая урон носителя в секунду.</AG_BullHorns.customEffectDescriptions.0>
   <AG_AntlerHorns.customEffectDescriptions.0>Добавляет атаку в ближнем бою с 16 единицами колющего урона и восстановлением 2 секунды, повышая урон носителя в секунду.</AG_AntlerHorns.customEffectDescriptions.0>
   <AG_EldritchHorns.customEffectDescriptions.0>Добавляет атаку в ближнем бою с 16 единицами колющего урона и восстановлением 2 секунды, повышая урон носителя в секунду.</AG_EldritchHorns.customEffectDescriptions.0>
@@ -503,19 +503,19 @@
   <AG_BullHorns.symbolPack.prefixSymbols.1.symbol>туро</AG_BullHorns.symbolPack.prefixSymbols.1.symbol>
   <AG_BullHorns.symbolPack.prefixSymbols.2.symbol>воло</AG_BullHorns.symbolPack.prefixSymbols.2.symbol>
   <AG_BullHorns.symbolPack.prefixSymbols.3.symbol>длинноро</AG_BullHorns.symbolPack.prefixSymbols.3.symbol>
-  <AG_AntlerHorns.label>оленьи рога</AG_AntlerHorns.label>
-  <AG_AntlerHorns.description>Носители этого гена обладают двумя большими оленьими рогами, которые выступают изо лба. Они выполняют не только декоративную функцию, но также могут использоваться в бою.</AG_AntlerHorns.description>
+  <AG_AntlerHorns.label>ветвистые рога</AG_AntlerHorns.label>
+  <AG_AntlerHorns.description>У носителей этого гена изо лба растут два больших ветвистых рога. Они служат не только украшением: ими можно атаковать.</AG_AntlerHorns.description>
   <AG_AntlerHorns.symbolPack.prefixSymbols.0.symbol>рого</AG_AntlerHorns.symbolPack.prefixSymbols.0.symbol>
   <AG_AntlerHorns.symbolPack.suffixSymbols.0.symbol>рого</AG_AntlerHorns.symbolPack.suffixSymbols.0.symbol>
   <AG_AntlerHorns.symbolPack.prefixSymbols.1.symbol>цервидо</AG_AntlerHorns.symbolPack.prefixSymbols.1.symbol>
   <AG_AntlerHorns.symbolPack.prefixSymbols.2.symbol>олене</AG_AntlerHorns.symbolPack.prefixSymbols.2.symbol>
-  <AG_RayHoundTentacles.label>щупальца электрогончей</AG_RayHoundTentacles.label>
-  <AG_RayHoundTentacles.description>Носители этого гена обладают двумя большими щупальцами электрогончей, которые выступают из носа.</AG_RayHoundTentacles.description>
+  <AG_RayHoundTentacles.label>щупальца лучевой гончей</AG_RayHoundTentacles.label>
+  <AG_RayHoundTentacles.description>У носителей этого гена из носа растут два больших щупальца лучевой гончей.</AG_RayHoundTentacles.description>
   <AG_RayHoundTentacles.symbolPack.prefixSymbols.0.symbol>щупальце</AG_RayHoundTentacles.symbolPack.prefixSymbols.0.symbol>
   <AG_RayHoundTentacles.symbolPack.prefixSymbols.1.symbol>тенто</AG_RayHoundTentacles.symbolPack.prefixSymbols.1.symbol>
   <AG_RayHoundTentacles.symbolPack.prefixSymbols.2.symbol>к'т</AG_RayHoundTentacles.symbolPack.prefixSymbols.2.symbol>
-  <AG_EldritchHorns.label>ужасающие рога</AG_EldritchHorns.label>
-  <AG_EldritchHorns.description>Носители этого гена обладают двумя огромными ужасающими рогами, которые выступают изо лба. Они выполняют не только декоративную функцию, но также могут использоваться в бою.</AG_EldritchHorns.description>
+  <AG_EldritchHorns.label>жуткие рога</AG_EldritchHorns.label>
+  <AG_EldritchHorns.description>У носителей этого гена изо лба растут два огромных жутких ветвистых рога. Они служат не только украшением: ими можно атаковать.</AG_EldritchHorns.description>
   <AG_EldritchHorns.symbolPack.prefixSymbols.0.symbol>хтоно</AG_EldritchHorns.symbolPack.prefixSymbols.0.symbol>
   <AG_OrnateEldritchHorns.symbolPack.prefixSymbols.0.symbol>хтоно</AG_OrnateEldritchHorns.symbolPack.prefixSymbols.0.symbol>
   <AG_EldritchHorns.symbolPack.prefixSymbols.1.symbol>демоно</AG_EldritchHorns.symbolPack.prefixSymbols.1.symbol>
@@ -526,51 +526,51 @@
   <AG_DemonWings.symbolPack.prefixSymbols.0.symbol>демоно</AG_DemonWings.symbolPack.prefixSymbols.0.symbol>
   <AG_EldritchHorns.symbolPack.prefixSymbols.2.symbol>руно</AG_EldritchHorns.symbolPack.prefixSymbols.2.symbol>
   <AG_OrnateEldritchHorns.symbolPack.prefixSymbols.2.symbol>руно</AG_OrnateEldritchHorns.symbolPack.prefixSymbols.2.symbol>
-  <AG_HornCrown.label>корона из рогов</AG_HornCrown.label>
-  <AG_HornCrown.description>Носители этого гена обладают огромной короной из острых рогов, которые выступают изо лба. Они выполняют не только декоративную функцию, но также могут использоваться в бою.</AG_HornCrown.description>
+  <AG_HornCrown.label>корона рогов</AG_HornCrown.label>
+  <AG_HornCrown.description>У носителей этого гена изо лба растёт огромная корона острых рогов. Они служат не только украшением: ими можно атаковать.</AG_HornCrown.description>
   <AG_HornCrown.symbolPack.prefixSymbols.0.symbol>венце</AG_HornCrown.symbolPack.prefixSymbols.0.symbol>
   <AG_HornCrown.symbolPack.prefixSymbols.1.symbol>рого</AG_HornCrown.symbolPack.prefixSymbols.1.symbol>
   <AG_UpperTentacles.label>верхние щупальца</AG_UpperTentacles.label>
-  <AG_UpperTentacles.description>Носители этого гена обладают несколькими щупальцами, которые выступают изо лба.</AG_UpperTentacles.description>
-  <AG_Stalks.label>глазные стебли</AG_Stalks.label>
+  <AG_UpperTentacles.description>У носителей этого гена изо лба растут несколько щупалец.</AG_UpperTentacles.description>
+  <AG_Stalks.label>глазные стебельки</AG_Stalks.label>
   <AG_Stalks.description>У носителей этого гена вместо волос на голове растут стебельки с неработающими глазами.</AG_Stalks.description>
   <AG_Stalks.symbolPack.prefixSymbols.2.symbol>орбо</AG_Stalks.symbolPack.prefixSymbols.2.symbol>
   <AG_Stalks.symbolPack.prefixSymbols.3.symbol>оптико</AG_Stalks.symbolPack.prefixSymbols.3.symbol>
   <AG_OrnateEldritchHorns.label>витиеватые ужасающие рога</AG_OrnateEldritchHorns.label>
   <AG_OrnateEldritchHorns.description>У носителей этого гена изо лба растут два огромных витиеватых рога жуткого вида.</AG_OrnateEldritchHorns.description>
   <AG_DemonHorns.label>демонические рога</AG_DemonHorns.label>
-  <AG_DemonHorns.description>Носители этого гена обладают двумя огромными демоническими рогами, которые выступают изо лба. Они выполняют не только декоративную функцию, но также могут использоваться в бою.</AG_DemonHorns.description>
+  <AG_DemonHorns.description>У носителей этого гена изо лба растут два огромных демонических рога. Они служат не только украшением: ими можно атаковать.</AG_DemonHorns.description>
   <AG_DemonHorns.symbolPack.prefixSymbols.0.symbol>дьяволо</AG_DemonHorns.symbolPack.prefixSymbols.0.symbol>
   <AG_DemonHornsQuadruple.symbolPack.prefixSymbols.0.symbol>дьяволо</AG_DemonHornsQuadruple.symbolPack.prefixSymbols.0.symbol>
   <AG_TerrorMask.symbolPack.prefixSymbols.0.symbol>дьяволо</AG_TerrorMask.symbolPack.prefixSymbols.0.symbol>
   <AG_DemonWings.symbolPack.prefixSymbols.1.symbol>дьяволо</AG_DemonWings.symbolPack.prefixSymbols.1.symbol>
   <AG_DemonHornsQuadruple.label>четыре демонических рога</AG_DemonHornsQuadruple.label>
   <AG_DemonHornsQuadruple.description>У носителей этого гена изо лба растут четыре огромных демонических рога. Это не просто украшение: ими можно атаковать.</AG_DemonHornsQuadruple.description>
-  <AG_TerrorMask.label>ужасающая маска</AG_TerrorMask.label>
-  <AG_TerrorMask.description>У носителей этого гена вырастает страшная костяная маска, закрывающая всё лицо.</AG_TerrorMask.description>
+  <AG_TerrorMask.label>маска ужаса</AG_TerrorMask.label>
+  <AG_TerrorMask.description>У носителей этого гена вырастает устрашающая костяная маска, закрывающая всё лицо.</AG_TerrorMask.description>
   <AG_Drakonori_Horns.label>рога драконори</AG_Drakonori_Horns.label>
-  <AG_Drakonori_Horns.description>Носители этого гена обладают двумя маленькими драконьими рогами, которые выступают изо лба.</AG_Drakonori_Horns.description>
+  <AG_Drakonori_Horns.description>У носителей этого гена изо лба растут два коротких драконьих рога.</AG_Drakonori_Horns.description>
   <AG_Drakonori_Horns.symbolPack.prefixSymbols.0.symbol>драко</AG_Drakonori_Horns.symbolPack.prefixSymbols.0.symbol>
   <AG_DrakonoriWings.symbolPack.prefixSymbols.0.symbol>драко</AG_DrakonoriWings.symbolPack.prefixSymbols.0.symbol>
-  <AG_NereidGlowlure.label>иллиций нереиды</AG_NereidGlowlure.label>
-  <AG_NereidGlowlure.description>У носителей этого гена вырастает особый биолюминесцентный орган. Его свет привлекает добычу в тёмных океанских глубинах, откуда происходят нереиды.</AG_NereidGlowlure.description>
-  <AG_ForsakenHornsBull.label>бычьи рога забытых</AG_ForsakenHornsBull.label>
+  <AG_NereidGlowlure.label>светящаяся приманка нереиды</AG_NereidGlowlure.label>
+  <AG_NereidGlowlure.description>У носителей этого гена вырастает особый биолюминесцентный орган, свет которого приманивает добычу в тёмных океанских глубинах — родных местах нереид.</AG_NereidGlowlure.description>
+  <AG_ForsakenHornsBull.label>бычьи рога отверженных</AG_ForsakenHornsBull.label>
   <AG_ForsakenHornsBull.description>У носителей этого гена изо лба растут два огромных бычьих рога с жёлтыми кончиками, а на подбородке и макушке — несколько рогов поменьше. Это не просто украшение: ими можно атаковать.</AG_ForsakenHornsBull.description>
-  <AG_ForsakenHornsSheep.label>овечьи рога забытых</AG_ForsakenHornsSheep.label>
+  <AG_ForsakenHornsSheep.label>бараньи рога отверженных</AG_ForsakenHornsSheep.label>
   <AG_ForsakenHornsSheep.description>У носителей этого гена изо лба растут два огромных овечьих рога с жёлтыми кончиками. Это не просто украшение: ими можно атаковать.</AG_ForsakenHornsSheep.description>
-  <AG_ForsakenHornsReptilian.label>рептильи рога забытых</AG_ForsakenHornsReptilian.label>
+  <AG_ForsakenHornsReptilian.label>рептильи рога отверженных</AG_ForsakenHornsReptilian.label>
   <AG_ForsakenHornsReptilian.description>У носителей этого гена изо лба растут два рога рептилии с жёлтыми кончиками. Это не просто украшение: ими можно атаковать.</AG_ForsakenHornsReptilian.description>
-  <AG_ForsakenHornsCrown.label>корона из рогов забытых</AG_ForsakenHornsCrown.label>
-  <AG_ForsakenHornsCrown.description>Носители этого гена обладают четырьмя маленькими рожками с жёлтыми кончиками, выступающими изо лба. Они недостаточно длинны для применения в бою.</AG_ForsakenHornsCrown.description>
-  <AG_ForsakenHornsDevil.label>демонические рога забытых</AG_ForsakenHornsDevil.label>
+  <AG_ForsakenHornsCrown.label>роговая корона отверженных</AG_ForsakenHornsCrown.label>
+  <AG_ForsakenHornsCrown.description>На лбу носителей этого гена вырастают четыре небольших рога с жёлтыми кончиками. Они слишком короткие, чтобы пригодиться в бою.</AG_ForsakenHornsCrown.description>
+  <AG_ForsakenHornsDevil.label>дьявольские рога отверженных</AG_ForsakenHornsDevil.label>
   <AG_ForsakenHornsDevil.description>У носителей этого гена изо лба растут два дьявольских рога с жёлтыми кончиками. Это не просто украшение: ими можно атаковать.</AG_ForsakenHornsDevil.description>
-  <AG_ForsakenHornsGoat.label>козьи рога забытых</AG_ForsakenHornsGoat.label>
+  <AG_ForsakenHornsGoat.label>козьи рога отверженных</AG_ForsakenHornsGoat.label>
   <AG_ForsakenHornsGoat.description>У носителей этого гена изо лба растут два прямых козьих рога с жёлтыми кончиками. Они слишком коротки, чтобы пригодиться в бою.</AG_ForsakenHornsGoat.description>
-  <AG_ForsakenQuadruple.label>четыре рога забытых</AG_ForsakenQuadruple.label>
+  <AG_ForsakenQuadruple.label>четыре рога отверженных</AG_ForsakenQuadruple.label>
   <AG_ForsakenQuadruple.description>У носителей этого гена изо лба растут четыре витых рога с жёлтыми кончиками. Это не просто украшение: ими можно атаковать.</AG_ForsakenQuadruple.description>
-  <AG_HeavilyScarred.label>серьёзные шрамы</AG_HeavilyScarred.label>
+  <AG_HeavilyScarred.label>множество шрамов</AG_HeavilyScarred.label>
   <AG_HeavilyScarred.description>Лица носителей этого гена покрыты заметными шрамами, словно кожу разрезали, а затем сшили заново.</AG_HeavilyScarred.description>
-  <AG_ChainsawHands.label>руки-бензопилы</AG_ChainsawHands.label>
+  <AG_ChainsawHands.label>кисти-бензопилы</AG_ChainsawHands.label>
   <AG_ChainsawHands.description>У носителей этого гена вместо кистей — бензопилы. «Воообще-то, — скажете вы, — это лучше сделать имплантатами, а не геном!» Нет-нет, вы не поняли: это биологические руки-бензопилы, закодированные в ДНК. У детей двух людей с руками-бензопилами будут крохотные ручки-бензопилы. Это наука.</AG_ChainsawHands.description>
   <AG_ChainsawHands.symbolPack.prefixSymbols.0.symbol>цепе</AG_ChainsawHands.symbolPack.prefixSymbols.0.symbol>
   <AG_ScytherHands.label>клинки жнеца</AG_ScytherHands.label>
@@ -581,14 +581,14 @@
   <AG_CrabClaw.customEffectDescriptions.0>Почему? Потому.</AG_CrabClaw.customEffectDescriptions.0>
   <AG_CrabClaw.symbolPack.prefixSymbols.0.symbol>крабо</AG_CrabClaw.symbolPack.prefixSymbols.0.symbol>
   <AG_CrabClaw.symbolPack.prefixSymbols.1.symbol>карцино</AG_CrabClaw.symbolPack.prefixSymbols.1.symbol>
-  <AG_BodyTentacles.label>телесные щупальца</AG_BodyTentacles.label>
+  <AG_BodyTentacles.label>щупальца на теле</AG_BodyTentacles.label>
   <AG_BodyTentacles.description>Из спины носителей этого гена растёт масса извивающихся щупалец.</AG_BodyTentacles.description>
   <AG_BodyTentacles.symbolPack.prefixSymbols.0.symbol>хтоно</AG_BodyTentacles.symbolPack.prefixSymbols.0.symbol>
   <AG_BodyTentacles.symbolPack.prefixSymbols.1.symbol>ксено</AG_BodyTentacles.symbolPack.prefixSymbols.1.symbol>
   <AG_BodyTentacles.symbolPack.prefixSymbols.2.symbol>жутко</AG_BodyTentacles.symbolPack.prefixSymbols.2.symbol>
   <AG_BodyTentacles.symbolPack.prefixSymbols.3.symbol>щупальце</AG_BodyTentacles.symbolPack.prefixSymbols.3.symbol>
   <AG_Proboscis.label>хоботок</AG_Proboscis.label>
-  <AG_Proboscis.description>Носители этого гена обладают крупным хоботком, выступающим из области челюсти.</AG_Proboscis.description>
+  <AG_Proboscis.description>У носителей этого гена из челюсти растёт большой хоботок.</AG_Proboscis.description>
   <AG_Proboscis.symbolPack.prefixSymbols.0.symbol>сосуще</AG_Proboscis.symbolPack.prefixSymbols.0.symbol>
   <AG_Proboscis.symbolPack.prefixSymbols.1.symbol>москито</AG_Proboscis.symbolPack.prefixSymbols.1.symbol>
   <AG_FungalClumps.label>грибные наросты</AG_FungalClumps.label>
@@ -602,12 +602,12 @@
   <AG_FungalClumps.symbolPack.suffixSymbols.0.symbol>гриб</AG_FungalClumps.symbolPack.suffixSymbols.0.symbol>
   <AG_FungalSprout.symbolPack.suffixSymbols.0.symbol>гриб</AG_FungalSprout.symbolPack.suffixSymbols.0.symbol>
   <AG_FungalTentacles.symbolPack.suffixSymbols.0.symbol>гриб</AG_FungalTentacles.symbolPack.suffixSymbols.0.symbol>
-  <AG_FungalSprout.label>грибной отросток</AG_FungalSprout.label>
+  <AG_FungalSprout.label>грибной нарост</AG_FungalSprout.label>
   <AG_FungalSprout.description>В крови носителей этого гена живёт агрессивный штамм грибка. Он прорывается наружу в верхней части туловища, образуя пустулы, наполненные кровью.</AG_FungalSprout.description>
   <AG_FungalTentacles.label>грибные щупальца</AG_FungalTentacles.label>
   <AG_FungalTentacles.description>У носителей этого гена агрессивный грибок сплетается в болезненного вида щупальца, которые постоянно шевелятся и подёргиваются.</AG_FungalTentacles.description>
   <AG_Skin_DeepGreen.label>насыщенно-зелёная кожа</AG_Skin_DeepGreen.label>
-  <AG_Skin_DeepGreen.description>Кожа носителей этого гена содержит пигмент, придающий ей насыщенно-зелёный цвет.</AG_Skin_DeepGreen.description>
+  <AG_Skin_DeepGreen.description>Носители этого гена вырабатывают пигмент, придающий коже насыщенный зелёный цвет.</AG_Skin_DeepGreen.description>
   <AG_Skin_DeepGreen.labelShortAdj>зелёный</AG_Skin_DeepGreen.labelShortAdj>
   <AG_Skin_DeepGreen.symbolPack.prefixSymbols.0.symbol>зелено</AG_Skin_DeepGreen.symbolPack.prefixSymbols.0.symbol>
   <AG_Skin_PlantGreen.symbolPack.prefixSymbols.0.symbol>зелено</AG_Skin_PlantGreen.symbolPack.prefixSymbols.0.symbol>
@@ -618,58 +618,58 @@
   <AG_Skin_DeepGreen.symbolPack.wholeNameSymbols.0.symbol>зеленокожий</AG_Skin_DeepGreen.symbolPack.wholeNameSymbols.0.symbol>
   <AG_Skin_PlantGreen.symbolPack.wholeNameSymbols.0.symbol>зеленокожий</AG_Skin_PlantGreen.symbolPack.wholeNameSymbols.0.symbol>
   <AG_Skin_PlantGreen.label>растительно-зелёная кожа</AG_Skin_PlantGreen.label>
-  <AG_Skin_PlantGreen.description>Кожа носителей этого гена содержит пигмент, придающий ей зелёный цвет, свойственный растениям.</AG_Skin_PlantGreen.description>
+  <AG_Skin_PlantGreen.description>Носители этого гена вырабатывают пигмент, придающий коже зелёный цвет, как у растений.</AG_Skin_PlantGreen.description>
   <AG_Skin_PlantGreen.labelShortAdj>зелёный</AG_Skin_PlantGreen.labelShortAdj>
   <AG_Skin_PlantGreen.symbolPack.prefixSymbols.1.symbol>фито</AG_Skin_PlantGreen.symbolPack.prefixSymbols.1.symbol>
-  <AG_Skin_DeeperRed.label>насыщенно-красная кожа</AG_Skin_DeeperRed.label>
-  <AG_Skin_DeeperRed.description>Кожа носителей этого гена содержит пигмент, придающий ей насыщенно-красный цвет, почти кровавый.</AG_Skin_DeeperRed.description>
+  <AG_Skin_DeeperRed.label>густо-красная кожа</AG_Skin_DeeperRed.label>
+  <AG_Skin_DeeperRed.description>Носители этого гена вырабатывают пигмент более глубокого красного оттенка, из-за которого кожа кажется почти окровавленной.</AG_Skin_DeeperRed.description>
   <AG_Skin_DeeperRed.labelShortAdj>красный</AG_Skin_DeeperRed.labelShortAdj>
   <AG_Skin_DeeperRed.symbolPack.prefixSymbols.0.symbol>красно</AG_Skin_DeeperRed.symbolPack.prefixSymbols.0.symbol>
   <AG_Skin_DeeperRed.symbolPack.prefixSymbols.1.symbol>багро</AG_Skin_DeeperRed.symbolPack.prefixSymbols.1.symbol>
   <AG_Skin_DeeperRed.symbolPack.prefixSymbols.3.symbol>розо</AG_Skin_DeeperRed.symbolPack.prefixSymbols.3.symbol>
   <AG_Skin_DeeperRed.symbolPack.prefixSymbols.4.symbol>вино</AG_Skin_DeeperRed.symbolPack.prefixSymbols.4.symbol>
   <AG_Skin_DeepPurple.label>насыщенно-фиолетовая кожа</AG_Skin_DeepPurple.label>
-  <AG_Skin_DeepPurple.description>Кожа носителей этого гена содержит пигмент, придающий ей насыщенно-фиолетовый цвет и болезненный вид.</AG_Skin_DeepPurple.description>
+  <AG_Skin_DeepPurple.description>Носители этого гена вырабатывают насыщенный фиолетовый пигмент, придающий коже болезненный вид.</AG_Skin_DeepPurple.description>
   <AG_Skin_DeepPurple.labelShortAdj>фиолетовый</AG_Skin_DeepPurple.labelShortAdj>
   <AG_Skin_DeepPurple.symbolPack.prefixSymbols.0.symbol>пурпуро</AG_Skin_DeepPurple.symbolPack.prefixSymbols.0.symbol>
   <AG_Skin_DeepBlue.label>насыщенно-синяя кожа</AG_Skin_DeepBlue.label>
-  <AG_Skin_DeepBlue.description>У носителей этого гена вырабатывается пигмент, придающий коже насыщенный синий цвет.</AG_Skin_DeepBlue.description>
+  <AG_Skin_DeepBlue.description>Носители этого гена вырабатывают пигмент, придающий коже насыщенный синий цвет.</AG_Skin_DeepBlue.description>
   <AG_Skin_DeepBlue.labelShortAdj>синий</AG_Skin_DeepBlue.labelShortAdj>
   <AG_Skin_DeepBlue.symbolPack.prefixSymbols.0.symbol>сине</AG_Skin_DeepBlue.symbolPack.prefixSymbols.0.symbol>
   <AG_Skin_DeepBlue.symbolPack.prefixSymbols.2.symbol>небесно</AG_Skin_DeepBlue.symbolPack.prefixSymbols.2.symbol>
   <AG_Skin_Drakonori_PaleRed.label>очень бледная красная кожа</AG_Skin_Drakonori_PaleRed.label>
-  <AG_Skin_Drakonori_PaleRed.description>Кожа носителей этого гена содержит пигмент, придающий ей бледно-красный цвет.</AG_Skin_Drakonori_PaleRed.description>
+  <AG_Skin_Drakonori_PaleRed.description>Носители этого гена вырабатывают пигмент, окрашивающий кожу в бледно-красный цвет.</AG_Skin_Drakonori_PaleRed.description>
   <AG_Skin_Drakonori_PaleBlue.label>очень бледная голубая кожа</AG_Skin_Drakonori_PaleBlue.label>
-  <AG_Skin_Drakonori_PaleBlue.description>Кожа носителей этого гена содержит пигмент, придающий ей бледно-голубой цвет.</AG_Skin_Drakonori_PaleBlue.description>
+  <AG_Skin_Drakonori_PaleBlue.description>Носители этого гена вырабатывают пигмент, придающий коже бледно-голубой цвет.</AG_Skin_Drakonori_PaleBlue.description>
   <AG_Skin_Rot.label>гнилая кожа</AG_Skin_Rot.label>
-  <AG_Skin_Rot.description>Носители этого гена обладают гнилой, болезненной на вид кожей.</AG_Skin_Rot.description>
+  <AG_Skin_Rot.description>У носителей этого гена гнилая кожа болезненного вида.</AG_Skin_Rot.description>
   <AG_Skin_PaleBlueFish.label>бледно-голубая рыбья кожа</AG_Skin_PaleBlueFish.label>
-  <AG_Skin_PaleBlueFish.description>У носителей этого гена вырабатывается пигмент, придающий коже бледно-голубой оттенок, как у рыбы.</AG_Skin_PaleBlueFish.description>
-  <AG_Skin_BlueFish.label>голубая рыбья кожа</AG_Skin_BlueFish.label>
-  <AG_Skin_BlueFish.description>У носителей этого гена вырабатывается пигмент, придающий коже голубой оттенок, как у рыбы.</AG_Skin_BlueFish.description>
+  <AG_Skin_PaleBlueFish.description>Носители этого гена вырабатывают пигмент, придающий коже бледно-голубой цвет, как у рыб.</AG_Skin_PaleBlueFish.description>
+  <AG_Skin_BlueFish.label>синяя рыбья кожа</AG_Skin_BlueFish.label>
+  <AG_Skin_BlueFish.description>Носители этого гена вырабатывают пигмент, придающий коже синий цвет, как у рыб.</AG_Skin_BlueFish.description>
   <AG_Skin_DeepBlueFish.label>насыщенно-синяя рыбья кожа</AG_Skin_DeepBlueFish.label>
-  <AG_Skin_DeepBlueFish.description>У носителей этого гена вырабатывается пигмент, придающий коже насыщенный синий оттенок, как у рыбы.</AG_Skin_DeepBlueFish.description>
+  <AG_Skin_DeepBlueFish.description>Носители этого гена вырабатывают пигмент, придающий коже насыщенный синий цвет, как у рыб.</AG_Skin_DeepBlueFish.description>
   <AG_Skin_Silver.label>серебристая кожа</AG_Skin_Silver.label>
-  <AG_Skin_Silver.description>Кожа носителей этого гена содержит пигмент, придающий ей переливчатый серебристый цвет.</AG_Skin_Silver.description>
+  <AG_Skin_Silver.description>Носители этого гена вырабатывают пигмент, окрашивающий кожу в переливчатый серебристый цвет.</AG_Skin_Silver.description>
   <AG_Skin_Silver.labelShortAdj>серебристый</AG_Skin_Silver.labelShortAdj>
   <AG_Skin_Silver.symbolPack.prefixSymbols.0.symbol>аргенто</AG_Skin_Silver.symbolPack.prefixSymbols.0.symbol>
   <AG_Skin_Silver.symbolPack.prefixSymbols.1.symbol>серебро</AG_Skin_Silver.symbolPack.prefixSymbols.1.symbol>
   <AG_Skin_Gold.label>золотистая кожа</AG_Skin_Gold.label>
-  <AG_Skin_Gold.description>Кожа носителей этого гена содержит пигмент, придающий ей переливчатый золотистый цвет.</AG_Skin_Gold.description>
+  <AG_Skin_Gold.description>Носители этого гена вырабатывают пигмент, придающий коже переливчатый золотистый цвет.</AG_Skin_Gold.description>
   <AG_Skin_Gold.labelShortAdj>золотистый</AG_Skin_Gold.labelShortAdj>
   <AG_Skin_Gold.symbolPack.prefixSymbols.0.symbol>ауро</AG_Skin_Gold.symbolPack.prefixSymbols.0.symbol>
   <AG_Skin_Gold.symbolPack.prefixSymbols.1.symbol>злато</AG_Skin_Gold.symbolPack.prefixSymbols.1.symbol>
   <AG_Skin_TrueBlack.label>насыщенно-чёрная кожа</AG_Skin_TrueBlack.label>
-  <AG_Skin_TrueBlack.description>Кожа носителей этого гена содержит пигмент, придающий ей очень насыщенный чёрный цвет.</AG_Skin_TrueBlack.description>
+  <AG_Skin_TrueBlack.description>Носители этого гена вырабатывают пигмент, окрашивающий кожу в очень глубокий чёрный цвет.</AG_Skin_TrueBlack.description>
   <AG_Skin_TrueBlack.labelShortAdj>чёрный</AG_Skin_TrueBlack.labelShortAdj>
   <AG_Skin_TrueBlack.symbolPack.prefixSymbols.0.symbol>угольно</AG_Skin_TrueBlack.symbolPack.prefixSymbols.0.symbol>
   <AG_Skin_TrueBlack.symbolPack.prefixSymbols.1.symbol>пустотно</AG_Skin_TrueBlack.symbolPack.prefixSymbols.1.symbol>
   <AG_Skin_TrueBlack.symbolPack.prefixSymbols.2.symbol>смоляно</AG_Skin_TrueBlack.symbolPack.prefixSymbols.2.symbol>
-  <AG_NoTusks.label>без бивней и жвал</AG_NoTusks.label>
-  <AG_NoTusks.description>У носителей этого гена нет бивней или жвал.</AG_NoTusks.description>
-  <AG_NoTusks.customEffectDescriptions.0>Позволяет создавать ксенотипы, в которых наличие бивней или жвал у персонажа определяется случайным образом.</AG_NoTusks.customEffectDescriptions.0>
+  <AG_NoTusks.label>нет бивней / жвал</AG_NoTusks.label>
+  <AG_NoTusks.description>У носителей этого гена нет бивней и жвал.</AG_NoTusks.description>
+  <AG_NoTusks.customEffectDescriptions.0>Этот ген позволяет создавать ксенотипы, у которых наличие или отсутствие бивней или жвал у персонажа определяется случайно</AG_NoTusks.customEffectDescriptions.0>
   <AG_Tusks.label>бивни</AG_Tusks.label>
-  <AG_Tusks.description>Носители этого гена обладают двумя большими бивнями, выступающими из челюсти.</AG_Tusks.description>
+  <AG_Tusks.description>У носителей этого гена из челюсти растут два больших бивня.</AG_Tusks.description>
   <AG_Tusks.symbolPack.prefixSymbols.0.symbol>бивне</AG_Tusks.symbolPack.prefixSymbols.0.symbol>
   <AG_Tusks.symbolPack.prefixSymbols.1.symbol>тускено</AG_Tusks.symbolPack.prefixSymbols.1.symbol>
   <AG_PincerMandibles.label>челюсти-клещи</AG_PincerMandibles.label>
@@ -677,16 +677,16 @@
   <AG_PincerMandibles.symbolPack.prefixSymbols.0.symbol>мандибуло</AG_PincerMandibles.symbolPack.prefixSymbols.0.symbol>
   <AG_BeetleMandibles.symbolPack.prefixSymbols.0.symbol>мандибуло</AG_BeetleMandibles.symbolPack.prefixSymbols.0.symbol>
   <AG_BeeMandibles.symbolPack.prefixSymbols.0.symbol>мандибуло</AG_BeeMandibles.symbolPack.prefixSymbols.0.symbol>
-  <AG_FaceTentacles.label>лицевые щупальца</AG_FaceTentacles.label>
-  <AG_FaceTentacles.description>Носители этого гена обладают множеством слизистых щупалец, выступающих из челюсти.</AG_FaceTentacles.description>
+  <AG_FaceTentacles.label>щупальца на лице</AG_FaceTentacles.label>
+  <AG_FaceTentacles.description>У носителей этого гена из челюсти растёт несколько склизких щупалец.</AG_FaceTentacles.description>
   <AG_FaceTentacles.symbolPack.prefixSymbols.0.symbol>щупальце</AG_FaceTentacles.symbolPack.prefixSymbols.0.symbol>
   <AG_FaceTentacles.symbolPack.prefixSymbols.1.symbol>осьмино</AG_FaceTentacles.symbolPack.prefixSymbols.1.symbol>
-  <AG_BeetleMandibles.label>жучиные жвалы</AG_BeetleMandibles.label>
-  <AG_BeetleMandibles.description>Носители этого гена обладают двумя большими жучиными жвалами, выступающими из челюсти.</AG_BeetleMandibles.description>
-  <AG_BeeMandibles.label>пчелиные жвалы</AG_BeeMandibles.label>
-  <AG_BeeMandibles.description>Носители этого гена обладают двумя большими пчелиными жвалами, выступающими из челюсти.</AG_BeeMandibles.description>
-  <AG_BoomNodules.label>химтопливные мешки</AG_BoomNodules.label>
-  <AG_BoomNodules.description>Носители этого гена обладают огромными наростами, наполненными химтопливом, которые придают им крайне отталкивающий внешний вид. Эти наросты взрываются в случае их смерти.</AG_BoomNodules.description>
+  <AG_BeetleMandibles.label>жучиные жвала</AG_BeetleMandibles.label>
+  <AG_BeetleMandibles.description>Из челюсти носителей этого гена вырастают два крупных жучиных жвала.</AG_BeetleMandibles.description>
+  <AG_BeeMandibles.label>пчелиные жвала</AG_BeeMandibles.label>
+  <AG_BeeMandibles.description>У носителей этого гена из челюсти выступают два больших пчелиных жвала.</AG_BeeMandibles.description>
+  <AG_BoomNodules.label>пузыри с химтопливом</AG_BoomNodules.label>
+  <AG_BoomNodules.description>Огромные пузыри с химтопливом делают внешность этого человека довольно отталкивающей. При его смерти пузыри взрываются.</AG_BoomNodules.description>
   <AG_BoomNodules.customEffectDescriptions.0>При смерти носитель взрывается, вызывая огненный взрыв радиусом 2 клетки.</AG_BoomNodules.customEffectDescriptions.0>
   <AG_BoomNodules.symbolPack.prefixSymbols.2.symbol>бородавко</AG_BoomNodules.symbolPack.prefixSymbols.2.symbol>
   <AG_TetraCoils.label>тетракатушки</AG_TetraCoils.label>
@@ -697,15 +697,15 @@
   <AG_DryThunderstormMaker.symbolPack.prefixSymbols.1.symbol>электро</AG_DryThunderstormMaker.symbolPack.prefixSymbols.1.symbol>
   <AG_TetraCoils.symbolPack.prefixSymbols.1.symbol>вольто</AG_TetraCoils.symbolPack.prefixSymbols.1.symbol>
   <AG_TetraCoils.symbolPack.prefixSymbols.2.symbol>зарядо</AG_TetraCoils.symbolPack.prefixSymbols.2.symbol>
-  <AG_InsectJellyProduction.label>желейные мешочки</AG_InsectJellyProduction.label>
+  <AG_InsectJellyProduction.label>мешочки с желе</AG_InsectJellyProduction.label>
   <AG_InsectJellyProduction.description>В теле носителей этого гена есть трубчатый орган, который постепенно вырабатывает небольшие количества желе насекомых.</AG_InsectJellyProduction.description>
-  <AG_InsectJellyProduction.customEffectDescriptions.0>Вырабатывает 12 единиц желе насекомых в день</AG_InsectJellyProduction.customEffectDescriptions.0>
+  <AG_InsectJellyProduction.customEffectDescriptions.0>Производит 12 единиц инсектожеле в день</AG_InsectJellyProduction.customEffectDescriptions.0>
   <AG_InsectJellyProduction.customEffectDescriptions.1>Ген производит больше пищи (0,05 × 12 = 0,6 питательности), чем требует сам: метаболическая эффективность −1 повышает потребность в пище на 25%, или на 0,4 питательности в сутки для обычного человека.</AG_InsectJellyProduction.customEffectDescriptions.1>
   <AG_Polluter.label>загрязнитель</AG_Polluter.label>
-  <AG_Polluter.description>Носители этого гена постоянно загрязняют окружающую среду, со временем превращая местность в безжизненную пустошь.</AG_Polluter.description>
+  <AG_Polluter.description>Носитель этого гена постоянно загрязняет окружающую местность, со временем превращая её в безжизненную пустошь.</AG_Polluter.description>
   <AG_Polluter.customEffectDescriptions.0>Не даёт невосприимчивости к загрязнению!</AG_Polluter.customEffectDescriptions.0>
   <AG_FrailStomach.label>слабый желудок</AG_FrailStomach.label>
-  <AG_FrailStomach.description>Носители этого гена обладают чрезвычайно слабым желудком и значительно чаще подвержены пищевым отравлениям.</AG_FrailStomach.description>
+  <AG_FrailStomach.description>У носителей этого гена очень слабый желудок, поэтому они чаще страдают от пищевых отравлений.</AG_FrailStomach.description>
   <AG_FrailStomach.symbolPack.prefixSymbols.0.symbol>слабо</AG_FrailStomach.symbolPack.prefixSymbols.0.symbol>
   <AG_BrittleBones.symbolPack.prefixSymbols.2.symbol>слабо</AG_BrittleBones.symbolPack.prefixSymbols.2.symbol>
   <AG_FrailStomach.symbolPack.prefixSymbols.1.symbol>тошно</AG_FrailStomach.symbolPack.prefixSymbols.1.symbol>
@@ -719,59 +719,59 @@
   <AG_LightSustenance.label>питание светом</AG_LightSustenance.label>
   <AG_LightSustenance.description>Хлорофилл в коже носителей этого гена позволяет им получать питание от солнечного света, почти полностью избавляя от потребности в еде. Однако для жизни им необходимо регулярно находиться на свету.</AG_LightSustenance.description>
   <AG_LightSustenance.customEffectDescriptions.0>Позволяет питаться, стоя на солнце. Длительное отсутствие света убьёт носителя.</AG_LightSustenance.customEffectDescriptions.0>
-  <AG_LightSustenance.customEffectDescriptions.1>Искусственный свет с достаточной интенсивностью также может удовлетворить потребности носителя.</AG_LightSustenance.customEffectDescriptions.1>
+  <AG_LightSustenance.customEffectDescriptions.1>Достаточно яркий искусственный свет тоже подойдёт.</AG_LightSustenance.customEffectDescriptions.1>
   <AG_LightSustenance.symbolPack.prefixSymbols.0.symbol>фото</AG_LightSustenance.symbolPack.prefixSymbols.0.symbol>
   <AG_UVPowered_Mild.symbolPack.prefixSymbols.0.symbol>фото</AG_UVPowered_Mild.symbolPack.prefixSymbols.0.symbol>
   <AG_UVPowered_Major.symbolPack.prefixSymbols.0.symbol>фото</AG_UVPowered_Major.symbolPack.prefixSymbols.0.symbol>
   <AG_LightSustenance.symbolPack.prefixSymbols.2.symbol>хлоро</AG_LightSustenance.symbolPack.prefixSymbols.2.symbol>
   <AG_UVPowered_Mild.symbolPack.prefixSymbols.2.symbol>хлоро</AG_UVPowered_Mild.symbolPack.prefixSymbols.2.symbol>
   <AG_UVPowered_Major.symbolPack.prefixSymbols.2.symbol>хлоро</AG_UVPowered_Major.symbolPack.prefixSymbols.2.symbol>
-  <AG_EfficientMandibles.label>сильная челюсть</AG_EfficientMandibles.label>
+  <AG_EfficientMandibles.label>мощные челюсти</AG_EfficientMandibles.label>
   <AG_EfficientMandibles.description>Крепкие зубы носителей этого гена позволяют без труда разгрызать и пережёвывать жёсткую пищу.</AG_EfficientMandibles.description>
   <AG_UnderdevelopedTeeth.label>недоразвитые зубы</AG_UnderdevelopedTeeth.label>
   <AG_UnderdevelopedTeeth.description>У носителей этого гена слабые, недоразвитые зубы, поэтому еда даётся им с трудом.</AG_UnderdevelopedTeeth.description>
-  <AG_SurvivalInstinct_High.label>повышенный инстинкт выживания</AG_SurvivalInstinct_High.label>
-  <AG_SurvivalInstinct_High.description>Носители этого гена обладают сильным инстинктом выживания: они чутьём находят лучшие места для сбора пищи и умеют прокормиться дарами природы.</AG_SurvivalInstinct_High.description>
-  <AG_SurvivalInstinct_Low.label>пониженный инстинкт выживания</AG_SurvivalInstinct_Low.label>
+  <AG_SurvivalInstinct_High.label>сильный инстинкт самосохранения</AG_SurvivalInstinct_High.label>
+  <AG_SurvivalInstinct_High.description>У носителей этого гена сильный инстинкт самосохранения: они интуитивно знают, где искать лучший подножный корм и как прокормиться в дикой природе.</AG_SurvivalInstinct_High.description>
+  <AG_SurvivalInstinct_Low.label>слабый инстинкт самосохранения</AG_SurvivalInstinct_Low.label>
   <AG_SurvivalInstinct_Low.description>У носителей этого гена слабый инстинкт выживания. Необходимость собирать пищу в дикой природе ставит их в тупик.</AG_SurvivalInstinct_Low.description>
   <AG_TableResistance.label>стойкость к еде без стола</AG_TableResistance.label>
-  <AG_TableResistance.description>Носители этого гена обрели НЕВЕРОЯТНУЮ стойкость духа и способны выдержать величайшую пытку всех времён — поесть без стола.</AG_TableResistance.description>
+  <AG_TableResistance.description>Носители этого гена развили НЕВЕРОЯТНУЮ силу духа и способны выдержать самую страшную пытку всех времён: еду без стола.</AG_TableResistance.description>
   <AG_TableResistance.symbolPack.prefixSymbols.0.symbol>стояче</AG_TableResistance.symbolPack.prefixSymbols.0.symbol>
   <AG_TableResistance.symbolPack.prefixSymbols.1.symbol>несгибаемо</AG_TableResistance.symbolPack.prefixSymbols.1.symbol>
   <AG_TableResistance.symbolPack.prefixSymbols.2.symbol>бесстоло</AG_TableResistance.symbolPack.prefixSymbols.2.symbol>
-  <AG_ForsakenKnowledge.label>знания забытых</AG_ForsakenKnowledge.label>
-  <AG_ForsakenKnowledge.description>Носители этого гена обладают врождёнными знаниями о технологиях и снаряжении забытых. Они могут строить сооружения забытых и носить их одежду и броню.</AG_ForsakenKnowledge.description>
-  <AG_ForsakenBodyEmblem.label>нательная эмблема забытых</AG_ForsakenBodyEmblem.label>
-  <AG_ForsakenBodyEmblem.description>На туловище носителей этого гена расположена жёлтая эмблема забытых. Она даёт ряд физических преимуществ.</AG_ForsakenBodyEmblem.description>
-  <AG_ForsakenHeadEmblem.label>головная эмблема забытых</AG_ForsakenHeadEmblem.label>
-  <AG_ForsakenHeadEmblem.description>На лбу носителей этого гена расположена жёлтая эмблема забытых. Она даёт ряд умственных преимуществ.</AG_ForsakenHeadEmblem.description>
+  <AG_ForsakenKnowledge.label>знания отверженных</AG_ForsakenKnowledge.label>
+  <AG_ForsakenKnowledge.description>Носители этого гена обладают заложенными в генах знаниями о технологиях и снаряжении отверженных. Они могут возводить постройки отверженных и носить их одежду и броню.</AG_ForsakenKnowledge.description>
+  <AG_ForsakenBodyEmblem.label>эмблема отверженных на теле</AG_ForsakenBodyEmblem.label>
+  <AG_ForsakenBodyEmblem.description>На животе носителей этого гена есть жёлтая эмблема отверженных. Она даёт ряд физических преимуществ.</AG_ForsakenBodyEmblem.description>
+  <AG_ForsakenHeadEmblem.label>знак отверженных на голове</AG_ForsakenHeadEmblem.label>
+  <AG_ForsakenHeadEmblem.description>На лбу носителей этого гена есть жёлтая эмблема отверженных. Она даёт ряд умственных преимуществ.</AG_ForsakenHeadEmblem.description>
   <AG_ExtraordinaryLifespan.label>исключительное долголетие</AG_ExtraordinaryLifespan.label>
   <AG_ExtraordinaryLifespan.description>Носители этого гена живут необычайно долго. Однако их дети взрослеют крайне медленно.</AG_ExtraordinaryLifespan.description>
   <AG_ExtraordinaryLifespan.customEffectDescriptions.0>Дети взрослеют в 5 раз дольше.</AG_ExtraordinaryLifespan.customEffectDescriptions.0>
   <AG_RatAffinity.label>связь с грызунами</AG_RatAffinity.label>
   <AG_RatAffinity.description>Носители этого гена привлекают крыс: вокруг них постоянно собирается стайка ручных зверьков.</AG_RatAffinity.description>
-  <AG_RatAffinity.customEffectDescriptions.0>Начинает игру со стайкой из 3 ручных крыс.</AG_RatAffinity.customEffectDescriptions.0>
+  <AG_RatAffinity.customEffectDescriptions.0>Начинает игру с небольшой ордой из 3 приручённых крыс.</AG_RatAffinity.customEffectDescriptions.0>
   <AG_RatAffinity.symbolPack.prefixSymbols.0.symbol>крысо</AG_RatAffinity.symbolPack.prefixSymbols.0.symbol>
   <AG_RatVomit.symbolPack.prefixSymbols.0.symbol>крысо</AG_RatVomit.symbolPack.prefixSymbols.0.symbol>
   <AG_WolfAffinity.label>связь с волками</AG_WolfAffinity.label>
-  <AG_WolfAffinity.description>Носители этого гена обладают мистической пси-связью с волком.</AG_WolfAffinity.description>
+  <AG_WolfAffinity.description>У носителей этого гена есть мистическая психическая связь с волком.</AG_WolfAffinity.description>
   <AG_WolfAffinity.customEffectDescriptions.0>Начинает игру с ручным лесным волком.</AG_WolfAffinity.customEffectDescriptions.0>
   <AG_WolfAffinity.symbolPack.prefixSymbols.0.symbol>люпо</AG_WolfAffinity.symbolPack.prefixSymbols.0.symbol>
   <AG_WolfAffinity.symbolPack.prefixSymbols.1.symbol>волко</AG_WolfAffinity.symbolPack.prefixSymbols.1.symbol>
   <AG_JorisAffinity.label>связь с Йорисом</AG_JorisAffinity.label>
-  <AG_JorisAffinity.description>Носители этого гена проявляют странный интерес к политике древней Земли и белым медведям. Казалось бы, что у них общего? Но вот так.</AG_JorisAffinity.description>
-  <AG_JorisAffinity.customEffectDescriptions.0>Начинает игру с ручным белым медведем.</AG_JorisAffinity.customEffectDescriptions.0>
+  <AG_JorisAffinity.description>Носители этого гена питают весьма странный интерес к политике Старой Земли и белым медведям. Казалось бы, у этих двух тем нет ничего общего, но вот поди ж ты.</AG_JorisAffinity.description>
+  <AG_JorisAffinity.customEffectDescriptions.0>Начинает игру с приручённым белым медведем.</AG_JorisAffinity.customEffectDescriptions.0>
   <AG_JorisAffinity.symbolPack.prefixSymbols.0.symbol>йорисо</AG_JorisAffinity.symbolPack.prefixSymbols.0.symbol>
   <AG_JorisAffinity.symbolPack.prefixSymbols.1.symbol>мистер </AG_JorisAffinity.symbolPack.prefixSymbols.1.symbol>
   <AG_JorisAffinity.symbolPack.prefixSymbols.2.symbol>сэмо</AG_JorisAffinity.symbolPack.prefixSymbols.2.symbol>
-  <AG_SmokeProducer.label>дымообразователь</AG_SmokeProducer.label>
-  <AG_SmokeProducer.description>Носители этого гена периодически выдыхают облака густого дыма. Он мешает стрелять как по ним, так и им самим.</AG_SmokeProducer.description>
+  <AG_SmokeProducer.label>выделение дыма</AG_SmokeProducer.label>
+  <AG_SmokeProducer.description>Носитель этого гена периодически выдыхает облака густого дыма, затрудняющие как стрельбу по нему, так и его собственную.</AG_SmokeProducer.description>
   <AG_RotStinkProducer.label>выделение трупного газа</AG_RotStinkProducer.label>
-  <AG_RotStinkProducer.description>Носители этого гена периодически выдыхают облака трупного газа. Омерзительно!</AG_RotStinkProducer.description>
-  <AG_RotStinkProducer.customEffectDescriptions.0>Этот ген не делает носителя невосприимчивым к воздействию трупного газа!</AG_RotStinkProducer.customEffectDescriptions.0>
+  <AG_RotStinkProducer.description>Носитель этого гена периодически выдыхает облака трупных испарений. Мерзость!</AG_RotStinkProducer.description>
+  <AG_RotStinkProducer.customEffectDescriptions.0>Это не делает носителя невосприимчивым к трупным испарениям!</AG_RotStinkProducer.customEffectDescriptions.0>
   <AG_ToxGasProducer.label>выделение токсичного газа</AG_ToxGasProducer.label>
-  <AG_ToxGasProducer.description>Носители этого гена периодически выдыхают облака токсичного газа.</AG_ToxGasProducer.description>
-  <AG_ToxGasProducer.customEffectDescriptions.0>Этот ген не делает носителя невосприимчивым к воздействию токсичного газа!</AG_ToxGasProducer.customEffectDescriptions.0>
+  <AG_ToxGasProducer.description>Носитель этого гена периодически выдыхает облака токсичного газа.</AG_ToxGasProducer.description>
+  <AG_ToxGasProducer.customEffectDescriptions.0>Это не делает носителя невосприимчивым к токсичному газу!</AG_ToxGasProducer.customEffectDescriptions.0>
   <AG_Male.label>мужской пол</AG_Male.label>
   <AG_Male.description>Носители этого гена всегда имеют мужской биологический пол.</AG_Male.description>
   <AG_Male.symbolPack.prefixSymbols.0.symbol>андро</AG_Male.symbolPack.prefixSymbols.0.symbol>
@@ -783,15 +783,15 @@
   <AG_Female.symbolPack.prefixSymbols.1.symbol>жено</AG_Female.symbolPack.prefixSymbols.1.symbol>
   <AG_Female.symbolPack.prefixSymbols.2.symbol>она-</AG_Female.symbolPack.prefixSymbols.2.symbol>
   <AG_ClawedHands.label>когтистые руки</AG_ClawedHands.label>
-  <AG_ClawedHands.description>Пальцы носителей этого гена оканчиваются опасно острыми когтями. Это ухудшает работу рук, но даёт преимущество в ближнем бою.</AG_ClawedHands.description>
-  <AG_AerofleetHead.label>зонтик аэрофлита</AG_AerofleetHead.label>
+  <AG_ClawedHands.description>Пальцы рук носителей этого гена заканчиваются устрашающе острыми когтями. Это снижает способность к манипуляции, но даёт преимущество в ближнем бою.</AG_ClawedHands.description>
+  <AG_AerofleetHead.label>капюшон аэрофлота</AG_AerofleetHead.label>
   <AG_AerofleetHead.description>Голову носителей этого гена окружает студенистый полупрозрачный капюшон.</AG_AerofleetHead.description>
-  <AG_SlugFace.label>голова слизняка</AG_SlugFace.label>
-  <AG_SlugFace.description>Носители этого гена обладают глазами, выступающими из черепа на стебельках, подобно глазам слизня. Склизко!</AG_SlugFace.description>
+  <AG_SlugFace.label>голова слизня</AG_SlugFace.label>
+  <AG_SlugFace.description>Оба глаза выступают из черепа на стебельках, как у слизня. Склизко!</AG_SlugFace.description>
   <AG_FoxFace.label>лисья голова</AG_FoxFace.label>
   <AG_FoxFace.description>У носителей этого гена вытянутая морда с круглым носом и узкими глазами. Уши продаются отдельно.</AG_FoxFace.description>
-  <AG_RockSpurs.label>каменистые выступы</AG_RockSpurs.label>
-  <AG_RockSpurs.description>Носители этого гена обладают скоплениями минералов, покрывающими их голову.</AG_RockSpurs.description>
+  <AG_RockSpurs.label>каменные гребни</AG_RockSpurs.label>
+  <AG_RockSpurs.description>На голове носителей этого гена образуются минеральные наросты.</AG_RockSpurs.description>
   <AG_CancerousFace.label>голова с опухолями</AG_CancerousFace.label>
   <AG_CancerousFace.description>У носителей этого гена бугристая, словно поражённая раком голова с дряблой кожей и оспинами.</AG_CancerousFace.description>
   <AG_DrakonoriHead.label>голова драконори</AG_DrakonoriHead.label>
@@ -799,15 +799,15 @@
   <AG_VeryGauntHead.label>крайне измождённая голова</AG_VeryGauntHead.label>
   <AG_VeryGauntHead.description>Лицо и голова носителей этого гена выглядят сильно исхудавшими и сгнившими.</AG_VeryGauntHead.description>
   <AG_NereidHead.label>голова нереиды</AG_NereidHead.label>
-  <AG_NereidHead.description>У носителей этого гена простая по форме голова, покрытая чешуёй и биолюминесцентными пятнами.</AG_NereidHead.description>
-  <AG_ForsakenHead.label>голова забытых</AG_ForsakenHead.label>
-  <AG_ForsakenHead.description>У носителей этого гена впадины на черепе, однако в остальном они выглядят здоровыми. Это не влияет на их возможности.</AG_ForsakenHead.description>
+  <AG_NereidHead.description>У носителей этого гена простая по форме голова, покрытая чешуёй с биолюминесцентными пятнами.</AG_NereidHead.description>
+  <AG_ForsakenHead.label>голова отверженных</AG_ForsakenHead.label>
+  <AG_ForsakenHead.description>У носителей этого гена на поверхности черепа есть впадины, но в остальном они выглядят здоровыми. На функции организма это не влияет.</AG_ForsakenHead.description>
   <AG_LungRotImmunity.label>иммунитет к гниению лёгких</AG_LungRotImmunity.label>
   <AG_LungRotImmunity.description>Укреплённые лёгкие носителей этого гена невосприимчивы к гниению.</AG_LungRotImmunity.description>
-  <AG_LungRotStrength.label>усиление трупным газом</AG_LungRotStrength.label>
+  <AG_LungRotStrength.label>сила от гниения лёгких</AG_LungRotStrength.label>
   <AG_LungRotStrength.description>Особые структуры в лёгких носителей этого гена позволяют им становиться сильнее от воздействия трупного газа. Груды трупов выглядят для них... заманчиво.</AG_LungRotStrength.description>
   <AG_LungRotStrength.customEffectDescriptions.0>Воздействие трупного газа усиливает носителя примерно на двое суток вместо того, чтобы вызывать гниение лёгких.</AG_LungRotStrength.customEffectDescriptions.0>
-  <AG_RegenerationMinor.label>малая регенерация</AG_RegenerationMinor.label>
+  <AG_RegenerationMinor.label>слабая регенерация</AG_RegenerationMinor.label>
   <AG_RegenerationMinor.description>В крови носителей этого гена циркулирует небольшая сеть специализированных механитов. Они периодически залечивают внутренние повреждения, не требуя отдыха.</AG_RegenerationMinor.description>
   <AG_RegenerationMinor.customEffectDescriptions.0>Каждые 2500 тактов (1 игровой час) тяжесть случайной раны снижается на 0,1.</AG_RegenerationMinor.customEffectDescriptions.0>
   <AG_WaterRegeneration.label>водная регенерация</AG_WaterRegeneration.label>
@@ -817,85 +817,85 @@
   <AG_LimbRegeneration.description>Усиленные факторы регенерации в ДНК позволяют носителям этого гена медленно отращивать даже полностью утраченные конечности. Сначала восстанавливаются повреждённые, но сохранившиеся конечности.</AG_LimbRegeneration.description>
   <AG_LimbRegeneration.customEffectDescriptions.0>Раз в сутки тяжесть случайной раны конечности снижается на 1. Утраченная часть тела восстанавливается с 2 единицами прочности и кровоточит.</AG_LimbRegeneration.customEffectDescriptions.0>
   <AG_LimbRegeneration.customEffectDescriptions.1>Действует на части тела, которые не являются внутренними органами.</AG_LimbRegeneration.customEffectDescriptions.1>
-  <AG_PassiveRegenerator.label>пассивный восстановитель</AG_PassiveRegenerator.label>
-  <AG_PassiveRegenerator.description>Носители этого гена постоянно выделяют невидимое облако специализированных механитов, которые периодически лечат раны находящихся рядом людей и животных, обеспечивая их регенерацию без необходимости в отдыхе.</AG_PassiveRegenerator.description>
+  <AG_PassiveRegenerator.label>пассивный регенератор</AG_PassiveRegenerator.label>
+  <AG_PassiveRegenerator.description>Носители этого гена постоянно выпускают невидимое облако специализированных механитов. Те периодически залечивают раны людей и животных поблизости, восстанавливая ткани без необходимости отдыхать.</AG_PassiveRegenerator.description>
   <AG_PassiveRegenerator.customEffectDescriptions.0>У каждого человека или животного фракции игрока в радиусе 5 клеток тяжесть случайной раны снижается на 0,1 каждые 1250 тактов (полчаса игрового времени).</AG_PassiveRegenerator.customEffectDescriptions.0>
   <AG_UnstableRegeneration.label>нестабильная регенерация</AG_UnstableRegeneration.label>
-  <AG_UnstableRegeneration.description>Носители этого гена могут периодически исцелять любые травмы, однако это сопровождается большими нагрузками на организм и сокращением продолжительности жизни.</AG_UnstableRegeneration.description>
+  <AG_UnstableRegeneration.description>Носители этого гена могут периодически исцелять все травмы ценой сильного истощения и сокращения продолжительности жизни.</AG_UnstableRegeneration.description>
   <AG_UnstableRegeneration.customEffectDescriptions.0>Применение исцеляет все травмы, кроме застарелых, но каждый раз старит обладателя способности на 7 лет. Если его возраст превысит продолжительность жизни — 80 лет с учётом её множителей, — он умрёт.</AG_UnstableRegeneration.customEffectDescriptions.0>
   <AG_UnstableRegeneration.customEffectDescriptions.1>Игра не посчитает это за вас. Придётся сразиться с заклятым врагом многих людей — элементарной алгеброй!</AG_UnstableRegeneration.customEffectDescriptions.1>
-  <AG_UnstableMutationMajor.label>серьёзная нестабильная мутация</AG_UnstableMutationMajor.label>
+  <AG_UnstableMutationMajor.label>сильная нестабильная мутация</AG_UnstableMutationMajor.label>
   <AG_UnstableMutationMajor.description>Носители этого гена раз в сутки подвергаются нестабильной мутации. На день активируются два новых случайных гена. На следующие сутки они перестают действовать, и их место занимают ещё два.</AG_UnstableMutationMajor.description>
-  <AG_UnstableMutationCatastrophic.label>катастрофическая нестабильная мутация</AG_UnstableMutationCatastrophic.label>
+  <AG_UnstableMutationCatastrophic.label>нестабильная мутация: катастрофическая</AG_UnstableMutationCatastrophic.label>
   <AG_UnstableMutationCatastrophic.description>Носители этого гена раз в сутки подвергаются мощной нестабильной мутации. На день активируется до десяти новых случайных генов. На следующие сутки они перестают действовать, и их заменяет новый случайный набор.</AG_UnstableMutationCatastrophic.description>
-  <AG_UnstableMutationCatastrophic.customEffectDescriptions.0>Эта мутация может быть крайне опасной и потенциально смертельной.</AG_UnstableMutationCatastrophic.customEffectDescriptions.0>
+  <AG_UnstableMutationCatastrophic.customEffectDescriptions.0>Эта мутация может оказаться чрезвычайно вредной и даже смертельной.</AG_UnstableMutationCatastrophic.customEffectDescriptions.0>
   <AG_Deaf.label>глухота</AG_Deaf.label>
-  <AG_Deaf.description>Носители этого гена полностью лишены способности слышать.</AG_Deaf.description>
-  <AG_ToxicEnvironmentResistance_Frail.label>подверженность токсинам</AG_ToxicEnvironmentResistance_Frail.label>
+  <AG_Deaf.description>Носители этого гена полностью лишены слуха.</AG_Deaf.description>
+  <AG_ToxicEnvironmentResistance_Frail.label>слабые антитоксичные лёгкие</AG_ToxicEnvironmentResistance_Frail.label>
   <AG_ToxicEnvironmentResistance_Frail.description>Носители этого гена особенно чувствительны к токсинам окружающей среды. Токсичный газ, загрязнённая почва и токсичные осадки сильнее отравляют их организм. Атаки ядовитыми укусами, жалами и инъекциями тоже опаснее. Кроме того, у них быстрее накапливается воздействие трупного газа.</AG_ToxicEnvironmentResistance_Frail.description>
   <AG_ToxicEnvironmentResistance_Frail.labelShortAdj>чувствительный к токсинам</AG_ToxicEnvironmentResistance_Frail.labelShortAdj>
   <AG_ToxicEnvironmentResistance_Frail.symbolPack.prefixSymbols.0.symbol>чисто</AG_ToxicEnvironmentResistance_Frail.symbolPack.prefixSymbols.0.symbol>
   <AG_ToxResist_Vulnerability.label>уязвимость к токсинам</AG_ToxResist_Vulnerability.label>
   <AG_ToxResist_Vulnerability.description>Носители этого гена уязвимы к отравлению из любых источников: загрязнения, токсичных осадков и газа, а также ядовитых укусов, жал и инъекций. Их организм накапливает на 50% больше токсинов, чем обычно.</AG_ToxResist_Vulnerability.description>
   <AG_ToxResist_Vulnerability.labelShortAdj>уязвимый к токсинам</AG_ToxResist_Vulnerability.labelShortAdj>
-  <AG_HardBones.label>крепкие кости</AG_HardBones.label>
+  <AG_HardBones.label>твёрдые кости</AG_HardBones.label>
   <AG_HardBones.description>У носителей этого гена очень твёрдые, усиленно разросшиеся кости. Они защищают от тупого урона, но делают носителя уязвимее к порезам.</AG_HardBones.description>
-  <AG_FrostbiteResistance.label>сопротивление обморожениям</AG_FrostbiteResistance.label>
-  <AG_FrostbiteResistance.description>Носители этого гена обладают повышенным сопротивлением к обморожениям.</AG_FrostbiteResistance.description>
-  <AG_FrostbiteVulnerability.label>уязвимость к обморожениям</AG_FrostbiteVulnerability.label>
-  <AG_FrostbiteVulnerability.description>Носители этого гена получают больше урона от обморожений.</AG_FrostbiteVulnerability.description>
+  <AG_FrostbiteResistance.label>устойчивость к обморожению</AG_FrostbiteResistance.label>
+  <AG_FrostbiteResistance.description>Носители этого гена устойчивы к повреждениям от обморожения.</AG_FrostbiteResistance.description>
+  <AG_FrostbiteVulnerability.label>уязвимость к обморожению</AG_FrostbiteVulnerability.label>
+  <AG_FrostbiteVulnerability.description>Носители этого гена уязвимы к урону от обморожения.</AG_FrostbiteVulnerability.description>
   <AG_Clean.label>чистоплотность</AG_Clean.label>
-  <AG_Clean.description>Носители этого гена по природе своей чистоплотны и оставляют значительно меньше грязи в своей повседневной жизни.</AG_Clean.description>
+  <AG_Clean.description>Носители этого гена от природы чистоплотны и оставляют меньше грязи в повседневной жизни.</AG_Clean.description>
   <AG_Filthy.label>нечистоплотность</AG_Filthy.label>
-  <AG_Filthy.description>Носители этого гена по природе своей нечистоплотны и оставляют гораздо больше грязи в своей повседневной жизни.</AG_Filthy.description>
+  <AG_Filthy.description>Носители этого гена от природы нечистоплотны и оставляют больше грязи в повседневной жизни.</AG_Filthy.description>
   <AG_Gene_VeryWeakImmunity.label>очень слабый иммунитет</AG_Gene_VeryWeakImmunity.label>
-  <AG_Gene_VeryWeakImmunity.description>Носители этого гена очень медленно вырабатывают иммунитет к болезням. Они погибают от инфекций, которые другие пережили бы.</AG_Gene_VeryWeakImmunity.description>
+  <AG_Gene_VeryWeakImmunity.description>Носители этого гена очень медленно вырабатывают иммунитет к болезням. Они умирают от инфекций, которые другие пережили бы.</AG_Gene_VeryWeakImmunity.description>
   <AG_Gene_VeryWeakImmunity.labelShortAdj>болезненный</AG_Gene_VeryWeakImmunity.labelShortAdj>
   <AG_PackMule.label>вьючный мул</AG_PackMule.label>
   <AG_PackMule.description>Носители этого гена могут переносить неприлично много вещей, прежде чем почувствуют перегрузку.</AG_PackMule.description>
-  <AG_FrailBack.label>слабый позвоночник</AG_FrailBack.label>
-  <AG_FrailBack.description>Носители этого гена не способны переносить большой вес.</AG_FrailBack.description>
+  <AG_FrailBack.label>слабая спина</AG_FrailBack.label>
+  <AG_FrailBack.description>Носители этого гена не могут переносить большой вес.</AG_FrailBack.description>
   <AG_Stinky.label>зловонность</AG_Stinky.label>
-  <AG_Stinky.description>Носители этого гена выделяют крайне неприятный запах, который вызывает дискомфорт у окружающих.</AG_Stinky.description>
+  <AG_Stinky.description>Носители этого гена источают очень неприятный запах, досаждающий окружающим.</AG_Stinky.description>
   <AG_AcidImmunity.label>невосприимчивость к кислоте</AG_AcidImmunity.label>
-  <AG_AcidImmunity.description>Носители этого гена обладают невосприимчивостью к кислотным повреждениям.</AG_AcidImmunity.description>
-  <AG_AcidImmunity.customEffectDescriptions.0>Защита должна действовать на кислотный урон основной игры и следующих модов: Alpha Animals, Alpha Mythology, Alpha Mechs, Vanilla Genetics Expanded, Witcher Monster Hunt.</AG_AcidImmunity.customEffectDescriptions.0>
-  <AG_AcidWeakness.customEffectDescriptions.0>Защита должна действовать на кислотный урон основной игры и следующих модов: Alpha Animals, Alpha Mythology, Alpha Mechs, Vanilla Genetics Expanded, Witcher Monster Hunt.</AG_AcidWeakness.customEffectDescriptions.0>
+  <AG_AcidImmunity.description>Носители этого гена невосприимчивы к кислотному урону.</AG_AcidImmunity.description>
+  <AG_AcidImmunity.customEffectDescriptions.0>Должен учитываться кислотный урон из основной игры и следующих модов: Alpha Animals, Alpha Mythology, Alpha Mechs, Vanilla Genetics Expanded, Witcher Monster Hunt.</AG_AcidImmunity.customEffectDescriptions.0>
+  <AG_AcidWeakness.customEffectDescriptions.0>Должен учитываться кислотный урон из основной игры и следующих модов: Alpha Animals, Alpha Mythology, Alpha Mechs, Vanilla Genetics Expanded, Witcher Monster Hunt.</AG_AcidWeakness.customEffectDescriptions.0>
   <AG_AcidWeakness.label>уязвимость к кислоте</AG_AcidWeakness.label>
-  <AG_AcidWeakness.description>Носители этого гена особенно уязвимы к кислоте и получают более тяжёлые химические ожоги.</AG_AcidWeakness.description>
+  <AG_AcidWeakness.description>Носители этого гена особенно уязвимы к кислотному урону и получают более тяжёлые химические ожоги.</AG_AcidWeakness.description>
   <AG_AdaptiveBiology.label>адаптивная биология</AG_AdaptiveBiology.label>
-  <AG_AdaptiveBiology.description>Носители этого гена могут изменить свою личность, избавляясь от старых черт и принимая новые.</AG_AdaptiveBiology.description>
+  <AG_AdaptiveBiology.description>Носители этого гена могут понемногу менять собственную личность, избавляясь от старых черт характера и приобретая новые.</AG_AdaptiveBiology.description>
   <AG_AdaptiveBiology.customEffectDescriptions.0>Способность заменяет одну случайную черту характера новой случайной чертой.</AG_AdaptiveBiology.customEffectDescriptions.0>
   <AG_ExtraLeather.label>повышенный выход кожи</AG_ExtraLeather.label>
-  <AG_ExtraLeather.description>Носители этого гена обладают более плотной кожей, что приводит к большему количеству кожи при разделке.</AG_ExtraLeather.description>
+  <AG_ExtraLeather.description>У носителей этого гена гораздо более плотная кожа, поэтому при разделке их тел получается больше кожи.</AG_ExtraLeather.description>
   <AG_LowLeather.label>пониженный выход кожи</AG_LowLeather.label>
-  <AG_LowLeather.description>Носители этого гена обладают очень тонкой кожей, что приводит к меньшему количеству кожи при разделке.</AG_LowLeather.description>
-  <AG_NoLeather.label>непригодная кожа</AG_NoLeather.label>
-  <AG_NoLeather.description>Носители этого гена обладают исключительно тонкой кожей, что делает получение их кожи невозможным при разделке.</AG_NoLeather.description>
+  <AG_LowLeather.description>У носителей этого гена очень тонкая кожа, поэтому при разделке из них получается гораздо меньше кожи.</AG_LowLeather.description>
+  <AG_NoLeather.label>нет кожи при разделке</AG_NoLeather.label>
+  <AG_NoLeather.description>У носителей этого гена чрезвычайно тонкая кожа, поэтому при разделке их тел нельзя получить кожу.</AG_NoLeather.description>
   <AG_NoMeat.label>отсутствие пригодного мяса</AG_NoMeat.label>
   <AG_NoMeat.description>У носителей этого гена чрезвычайно тонкие слои мышечной и жировой ткани. При разделке пригодного мяса не остаётся.</AG_NoMeat.description>
-  <AG_Instability_Lethal.label>смертельная нестабильность клеток</AG_Instability_Lethal.label>
+  <AG_Instability_Lethal.label>смертельная клеточная нестабильность</AG_Instability_Lethal.label>
   <AG_Instability_Lethal.description>Носителям этого гена нужно гораздо меньше энергии для поддержания жизни. Цена — чудовищная нестабильность деления клеток и очень, ОЧЕНЬ короткая жизнь, которую невозможно продлить никаким способом.</AG_Instability_Lethal.description>
   <AG_Instability_Lethal.customEffectDescriptions.0>Носитель умрёт через три календарных года.</AG_Instability_Lethal.customEffectDescriptions.0>
   <AG_PlainLeather.label>обычная кожа</AG_PlainLeather.label>
   <AG_PlainLeather.description>При разделке носителей этого гена получают обычную кожу. Для них одежда из обычной кожи считается одеждой из человеческой кожи.</AG_PlainLeather.description>
-  <AG_WoolLeather.label>шерстяная кожа</AG_WoolLeather.label>
+  <AG_WoolLeather.label>шерстистая шкура</AG_WoolLeather.label>
   <AG_WoolLeather.description>При разделке носителей этого гена получают шерсть. Для них шерстяная одежда считается одеждой из человеческой кожи.</AG_WoolLeather.description>
   <AG_WoodLeather.label>древесная плоть</AG_WoodLeather.label>
   <AG_WoodLeather.description>При разделке носителей этого гена получают древесину. Для них деревянная одежда считается одеждой из человеческой кожи.</AG_WoodLeather.description>
   <AG_ClothLeather.label>тканевая кожа</AG_ClothLeather.label>
   <AG_ClothLeather.description>При разделке носителей этого гена получают ткань. Для них тканевая одежда считается одеждой из человеческой кожи.</AG_ClothLeather.description>
-  <AG_JellyFlesh.label>плоть из желе насекомых</AG_JellyFlesh.label>
-  <AG_JellyFlesh.description>Носители этого гена обладают желеобразной плотью. Употребление ими желе насекомых считается каннибализмом.</AG_JellyFlesh.description>
-  <AG_ChocolateFlesh.label>плоть из шоколада</AG_ChocolateFlesh.label>
-  <AG_ChocolateFlesh.description>У носителей этого гена вместо мяса шоколад. Это вообще имеет смысл? Конечно, ещё какой. Поедание шоколада для них считается каннибализмом.</AG_ChocolateFlesh.description>
+  <AG_JellyFlesh.label>плоть из инсектожеле</AG_JellyFlesh.label>
+  <AG_JellyFlesh.description>Плоть носителей этого гена состоит из инсектожеле. Поедание инсектожеле считается для них каннибализмом.</AG_JellyFlesh.description>
+  <AG_ChocolateFlesh.label>шоколадная плоть</AG_ChocolateFlesh.label>
+  <AG_ChocolateFlesh.description>У носителей этого гена вместо мяса шоколад. Есть ли в этом смысл? Конечно есть. Поедание шоколада считается для них каннибализмом.</AG_ChocolateFlesh.description>
   <AG_InnateMechlink.label>врождённый мехлинк</AG_InnateMechlink.label>
-  <AG_InnateMechlink.description>Носители этого гена от природы обладают способностями механитора.</AG_InnateMechlink.description>
-  <AG_InnateMechlink.customEffectDescriptions.0>При утрате этого гена поселенец потеряет ВСЕ возможности механитора.</AG_InnateMechlink.customEffectDescriptions.0>
+  <AG_InnateMechlink.description>Носители этого гена обладают врождёнными способностями механитора.</AG_InnateMechlink.description>
+  <AG_InnateMechlink.customEffectDescriptions.0>При утрате этого гена поселенец потеряет ВСЁ, что связано с его способностями механитора.</AG_InnateMechlink.customEffectDescriptions.0>
   <AG_InnateMechlink.symbolPack.prefixSymbols.0.symbol>меха</AG_InnateMechlink.symbolPack.prefixSymbols.0.symbol>
   <AG_InnateMechlink.symbolPack.prefixSymbols.1.symbol>взломо</AG_InnateMechlink.symbolPack.prefixSymbols.1.symbol>
   <AG_InnateMechlink.symbolPack.suffixSymbols.0.symbol>нитор</AG_InnateMechlink.symbolPack.suffixSymbols.0.symbol>
-  <AG_MechConversion.label>взлом механоидов</AG_MechConversion.label>
+  <AG_MechConversion.label>подчинение механоидов</AG_MechConversion.label>
   <AG_MechConversion.description>Носители этого гена могут дистанционно взломать систему «свой — чужой» механоида, временно переманив его на свою сторону. Через сутки механоид вернётся к прежней фракции и начнёт атаковать всех без разбора.</AG_MechConversion.description>
   <AG_MechConversion.customEffectDescriptions.0>Ген действует только у механитора.</AG_MechConversion.customEffectDescriptions.0>
   <AG_BandwidthIncrease.customEffectDescriptions.0>Ген действует только у механитора.</AG_BandwidthIncrease.customEffectDescriptions.0>
@@ -912,30 +912,30 @@
   <AlphaGenes_Animal_SummonTesseron.customEffectDescriptions.0>Ген действует только у механитора.</AlphaGenes_Animal_SummonTesseron.customEffectDescriptions.0>
   <AlphaGenes_Animal_SummonCentipede.customEffectDescriptions.0>Ген действует только у механитора.</AlphaGenes_Animal_SummonCentipede.customEffectDescriptions.0>
   <AG_BandwidthIncrease.label>повышенная пропускная способность</AG_BandwidthIncrease.label>
-  <AG_BandwidthIncrease.description>Носители этого гена обладают повышенной пропускной способностью.</AG_BandwidthIncrease.description>
-  <AG_BandwidthIncreaseMajor.label>сильно повышенная пропускная способность</AG_BandwidthIncreaseMajor.label>
+  <AG_BandwidthIncrease.description>У носителя этого гена от природы повышена пропускная способность канала связи.</AG_BandwidthIncrease.description>
+  <AG_BandwidthIncreaseMajor.label>значительно повышенная пропускная способность</AG_BandwidthIncreaseMajor.label>
   <AG_BandwidthIncreaseMajor.description>Пропускная способность носителей этого гена увеличена на 35%. Бонус умножает имеющееся значение: поначалу прибавка невелика, но растёт вместе с общей пропускной способностью механитора.</AG_BandwidthIncreaseMajor.description>
-  <AG_BandwidthDecrease.label>пониженная пропускная способность</AG_BandwidthDecrease.label>
-  <AG_BandwidthDecrease.description>Носители этого гена обладают пониженной пропускной способностью.</AG_BandwidthDecrease.description>
-  <AG_BandwidthDecrease.customEffectDescriptions.1>«Но я могу дать этот ген не-механитору и бесплатно улучшить метаболизм!» Дружище, развлекайся как хочешь: игра одиночная.</AG_BandwidthDecrease.customEffectDescriptions.1>
-  <AG_DecreasedCommandRange.customEffectDescriptions.2>«Но я могу дать этот ген не-механитору и бесплатно улучшить метаболизм!» Дружище, развлекайся как хочешь: игра одиночная.</AG_DecreasedCommandRange.customEffectDescriptions.2>
-  <AG_DecreasedMechRepair.customEffectDescriptions.1>«Но я могу дать этот ген не-механитору и бесплатно улучшить метаболизм!» Дружище, развлекайся как хочешь: игра одиночная.</AG_DecreasedMechRepair.customEffectDescriptions.1>
-  <AG_SummonTempBandwidth.label>призыв канального узла</AG_SummonTempBandwidth.label>
-  <AG_SummonTempBandwidth.description>Носители этого гена могут призвать временный канальный узел, который на неделю увеличит их пропускную способность на 10.</AG_SummonTempBandwidth.description>
-  <AG_BandwidthLoop.label>перегрузка сети механоида</AG_BandwidthLoop.label>
+  <AG_BandwidthDecrease.label>сниженная пропускная способность</AG_BandwidthDecrease.label>
+  <AG_BandwidthDecrease.description>У носителя этого гена от природы снижена пропускная способность канала связи.</AG_BandwidthDecrease.description>
+  <AG_BandwidthDecrease.customEffectDescriptions.1>«Но я же могу добавить это не-механиторам и бесплатно улучшить метаболизм!» Друг, ни в чём себе не отказывай, это одиночная игра.</AG_BandwidthDecrease.customEffectDescriptions.1>
+  <AG_DecreasedCommandRange.customEffectDescriptions.2>«Но я же могу добавить это не-механиторам и бесплатно улучшить метаболизм!» Друг, ни в чём себе не отказывай, это одиночная игра.</AG_DecreasedCommandRange.customEffectDescriptions.2>
+  <AG_DecreasedMechRepair.customEffectDescriptions.1>«Но я же могу добавить это не-механиторам и бесплатно улучшить метаболизм!» Друг, ни в чём себе не отказывай, это одиночная игра.</AG_DecreasedMechRepair.customEffectDescriptions.1>
+  <AG_SummonTempBandwidth.label>призыв узла связи</AG_SummonTempBandwidth.label>
+  <AG_SummonTempBandwidth.description>Носитель этого гена может призвать временный узел связи, повышающий его пропускную способность на 10 на целую неделю.</AG_SummonTempBandwidth.description>
+  <AG_BandwidthLoop.label>зацикливание канала связи</AG_BandwidthLoop.label>
   <AG_BandwidthLoop.description>Носители этого гена могут силой мысли создать петлю обратной связи в канале управления механоидом. Перегрузка уничтожит его взрывом и повредит всё поблизости. Радиус взрыва зависит от пропускной способности, которую занимает механоид.</AG_BandwidthLoop.description>
-  <AG_IncreasedCommandRange.label>увеличенный командный радиус</AG_IncreasedCommandRange.label>
+  <AG_IncreasedCommandRange.label>увеличенная дальность управления</AG_IncreasedCommandRange.label>
   <AG_IncreasedCommandRange.description>Носители этого гена могут призывать механоидов в бой и управлять ими на большем расстоянии.</AG_IncreasedCommandRange.description>
-  <AG_IncreasedCommandRange.customEffectDescriptions.1>Командный радиус увеличен до 35 клеток.</AG_IncreasedCommandRange.customEffectDescriptions.1>
-  <AG_DecreasedCommandRange.label>пониженный командный радиус</AG_DecreasedCommandRange.label>
+  <AG_IncreasedCommandRange.customEffectDescriptions.1>Дальность управления увеличена до 35 клеток.</AG_IncreasedCommandRange.customEffectDescriptions.1>
+  <AG_DecreasedCommandRange.label>сниженная дальность команд</AG_DecreasedCommandRange.label>
   <AG_DecreasedCommandRange.description>Носители этого гена могут призывать механоидов в бой и управлять ими только на меньшем расстоянии.</AG_DecreasedCommandRange.description>
-  <AG_DecreasedCommandRange.customEffectDescriptions.1>Командный радиус снижен до 15 клеток.</AG_DecreasedCommandRange.customEffectDescriptions.1>
-  <AG_IncreasedMechRepair.label>повышенная скорость ремонта</AG_IncreasedMechRepair.label>
-  <AG_IncreasedMechRepair.description>Носители этого гена обладают повышенной скоростью починки механоидов.</AG_IncreasedMechRepair.description>
-  <AG_DecreasedMechRepair.label>пониженная скорость ремонта</AG_DecreasedMechRepair.label>
-  <AG_DecreasedMechRepair.description>Носители этого гена медленнее ремонтируют механоидов.</AG_DecreasedMechRepair.description>
+  <AG_DecreasedCommandRange.customEffectDescriptions.1>Дальность команд снижена до 15 клеток.</AG_DecreasedCommandRange.customEffectDescriptions.1>
+  <AG_IncreasedMechRepair.label>ускоренный ремонт</AG_IncreasedMechRepair.label>
+  <AG_IncreasedMechRepair.description>Носитель этого гена от природы быстрее ремонтирует механоидов.</AG_IncreasedMechRepair.description>
+  <AG_DecreasedMechRepair.label>медленный ремонт механоидов</AG_DecreasedMechRepair.label>
+  <AG_DecreasedMechRepair.description>Носитель этого гена от природы медленнее ремонтирует механоидов.</AG_DecreasedMechRepair.description>
   <AG_ExpertMechRepair.label>страсть к ремонту механоидов</AG_ExpertMechRepair.label>
-  <AG_ExpertMechRepair.description>Носители этого гена обладают генетически улучшенными способностями к ремонту механоидов, что позволяет значительно усиливать только что починенных механоидов.</AG_ExpertMechRepair.description>
+  <AG_ExpertMechRepair.description>Генетически улучшенные способности к ремонту механоидов позволяют носителю этого гена значительно усиливать только что отремонтированных механоидов.</AG_ExpertMechRepair.description>
   <AG_ExpertMechRepair.customEffectDescriptions.1>Если у вас несколько механиторов с этим геном, эффект может вести себя странно и распространяться на всех. Просто представьте, что они обсуждают ремонт у кулера или что-нибудь в этом роде.</AG_ExpertMechRepair.customEffectDescriptions.1>
   <AlphaGenes_Animal_SummonMilitor.label>призыв боевого дрона</AlphaGenes_Animal_SummonMilitor.label>
   <AlphaGenes_Animal_SummonMilitor.description>Носители этого гена могут призвать боевого дрона. Он присоединится к колонии на сутки, а затем исчезнет. Для применения способности нужна хотя бы 1 единица свободной пропускной способности.</AlphaGenes_Animal_SummonMilitor.description>
@@ -945,57 +945,57 @@
   <AlphaGenes_Animal_SummonCentipede.description>Носители этого гена могут призвать бластерную сентипеду. Она присоединится к колонии на сутки, а затем исчезнет. Для применения способности нужны хотя бы 4 единицы свободной пропускной способности.</AlphaGenes_Animal_SummonCentipede.description>
   <AG_Thalassophobia.label>талассофобия</AG_Thalassophobia.label>
   <AG_Thalassophobia.description>Носители этого гена панически боятся водоёмов. Рядом с водой у них в любой момент может случиться нервный срыв.</AG_Thalassophobia.description>
-  <AG_Thalassophobia.customEffectDescriptions.0>Срабатывает рядом с любой поверхностью, которую игра считает водой, включая болота.</AG_Thalassophobia.customEffectDescriptions.0>
-  <AG_Thalassophobia.customEffectDescriptions.1>Этот эффект также активируется при любой дождливой погоде, если поселенец окажется под дождём!</AG_Thalassophobia.customEffectDescriptions.1>
+  <AG_Thalassophobia.customEffectDescriptions.0>Срабатывает на любой поверхности, которую игра считает водой, в том числе в болотах.</AG_Thalassophobia.customEffectDescriptions.0>
+  <AG_Thalassophobia.customEffectDescriptions.1>Дождливая погода тоже вызывает этот эффект, если поселенец находится под дождём!</AG_Thalassophobia.customEffectDescriptions.1>
   <AG_FireObsession.label>одержимость огнём</AG_FireObsession.label>
   <AG_FireObsession.description>Носители этого гена от природы одержимы огнём и стараются проводить рядом с ним как можно больше времени.</AG_FireObsession.description>
-  <AG_VolatileMood.label>нестабильное настроение</AG_VolatileMood.label>
-  <AG_VolatileMood.description>Носители этого гена ежедневно испытывают случайные изменения настроения.</AG_VolatileMood.description>
-  <AG_VolatileMood.customEffectDescriptions.0>Настроение будет колебаться ежедневно в пределах от -10 до +10.</AG_VolatileMood.customEffectDescriptions.0>
+  <AG_VolatileMood.label>переменчивое настроение</AG_VolatileMood.label>
+  <AG_VolatileMood.description>Настроение носителей этого гена каждый день меняется случайным образом.</AG_VolatileMood.description>
+  <AG_VolatileMood.customEffectDescriptions.0>Настроение ежедневно колеблется от −10 до +10.</AG_VolatileMood.customEffectDescriptions.0>
   <AG_VFEI_InsectoidLeg.label>ноги инсектоида</AG_VFEI_InsectoidLeg.label>
   <AG_VFEI_InsectoidLeg.description>У носителей этого гена членистые ноги инсектоида, состоящие из нескольких сегментов, покрытых хитином. Эта мутация крайне болезненна, но ноги гораздо лучше выдерживают повреждения.</AG_VFEI_InsectoidLeg.description>
-  <AG_VFEI_InsectoidLeg.customEffectDescriptions.0>Увеличивает прочность ног на 30.</AG_VFEI_InsectoidLeg.customEffectDescriptions.0>
+  <AG_VFEI_InsectoidLeg.customEffectDescriptions.0>Увеличивает запас здоровья ног на 30.</AG_VFEI_InsectoidLeg.customEffectDescriptions.0>
   <AG_VFEI_InsectoidArm.label>руки инсектоида</AG_VFEI_InsectoidArm.label>
   <AG_VFEI_InsectoidArm.description>У носителей этого гена членистые руки инсектоида, состоящие из нескольких сегментов, покрытых хитином. Эта мутация крайне болезненна, но руки гораздо лучше выдерживают повреждения.</AG_VFEI_InsectoidArm.description>
-  <AG_VFEI_InsectoidArm.customEffectDescriptions.0>Увеличивает прочность рук на 30.</AG_VFEI_InsectoidArm.customEffectDescriptions.0>
+  <AG_VFEI_InsectoidArm.customEffectDescriptions.0>Увеличивает запас здоровья рук на 30.</AG_VFEI_InsectoidArm.customEffectDescriptions.0>
   <AG_VFEI_SegmentedEyes.label>фасеточные глаза</AG_VFEI_SegmentedEyes.label>
   <AG_VFEI_SegmentedEyes.description>У носителей этого гена фасеточные глаза, состоящие из тысяч отдельных светочувствительных элементов. Они дают широкий угол обзора и помогают замечать быстрое движение, но дальность зрения значительно меньше. Эта мутация крайне болезненна, однако глаза лучше выдерживают повреждения.</AG_VFEI_SegmentedEyes.description>
-  <AG_VFEI_SegmentedEyes.customEffectDescriptions.0>Увеличивает прочность глаз на 6.</AG_VFEI_SegmentedEyes.customEffectDescriptions.0>
+  <AG_VFEI_SegmentedEyes.customEffectDescriptions.0>Увеличивает запас здоровья глаз на 6.</AG_VFEI_SegmentedEyes.customEffectDescriptions.0>
   <AG_VFEI_InsectoidMandibles.label>жвалы инсектоида</AG_VFEI_InsectoidMandibles.label>
   <AG_VFEI_InsectoidMandibles.description>По бокам рта носителей этого гена расположена пара отростков, помогающих дробить и разрезать пищу. Они гораздо менее удобны, чем обычная челюсть, но позволяют быстрее есть.</AG_VFEI_InsectoidMandibles.description>
-  <AG_VFEI_InsectoidMandibles.customEffectDescriptions.0>Увеличивает прочность челюсти на 4.</AG_VFEI_InsectoidMandibles.customEffectDescriptions.0>
-  <AG_VFEI_VenomGland.customEffectDescriptions.1>Увеличивает прочность челюсти на 4.</AG_VFEI_VenomGland.customEffectDescriptions.1>
+  <AG_VFEI_InsectoidMandibles.customEffectDescriptions.0>Увеличивает запас здоровья челюсти на 4.</AG_VFEI_InsectoidMandibles.customEffectDescriptions.0>
+  <AG_VFEI_VenomGland.customEffectDescriptions.1>Увеличивает запас здоровья челюсти на 4.</AG_VFEI_VenomGland.customEffectDescriptions.1>
   <AG_VFEI_VenomGland.label>ядовитая железа</AG_VFEI_VenomGland.label>
   <AG_VFEI_VenomGland.description>Под языком носителей этого гена растёт мешковидная железа, выделяющая кислоту. Она разжижает даже самую опасную пищу, делая её безопасной для употребления. Усиленная стимуляция железы позволяет выплюнуть кислоту на небольшое расстояние — такая атака хорошо пробивает броню.</AG_VFEI_VenomGland.description>
   <AG_VFEI_VenomGland.customEffectDescriptions.0>Отключает все мысли, возникающие от употребления пищи.</AG_VFEI_VenomGland.customEffectDescriptions.0>
   <AG_VFEI_PneumaticClaw.label>пневматическая клешня</AG_VFEI_PneumaticClaw.label>
   <AG_VFEI_PneumaticClaw.description>У носителей этого гена мощные пневматические кисти-клещи. Они способны многократно сжимать цель с огромной силой, но ухудшают мелкую моторику.</AG_VFEI_PneumaticClaw.description>
   <AG_VFEI_PneumaticClaw.customEffectDescriptions.0>Увеличивает прочность кистей на 40.</AG_VFEI_PneumaticClaw.customEffectDescriptions.0>
-  <AG_VFEI_AdrenalSecretors.label>надпочечные секреторы</AG_VFEI_AdrenalSecretors.label>
-  <AG_VFEI_AdrenalSecretors.description>У носителей этого гена почки инсектоида с гиперактивными надпочечниками. Мутация может приносить удовольствие от причинения боли, но также вызывает беспричинную агрессию.</AG_VFEI_AdrenalSecretors.description>
+  <AG_VFEI_AdrenalSecretors.label>адреналиновые железы</AG_VFEI_AdrenalSecretors.label>
+  <AG_VFEI_AdrenalSecretors.description>У носителей этого гена почки насекомых с гиперактивными надпочечниками. Эта мутация может открыть человеку прежде незнакомое удовольствие от причинения боли. Однако побочным эффектом становится необоснованная агрессия.</AG_VFEI_AdrenalSecretors.description>
   <AG_VFEI_AdrenalSecretors.customEffectDescriptions.0>Убийство удовлетворяет потребность в развлечениях.</AG_VFEI_AdrenalSecretors.customEffectDescriptions.0>
   <AG_VFEI_Antennae.label>усики инсектоида</AG_VFEI_Antennae.label>
   <AG_VFEI_Antennae.description>У носителей этого гена тонкие подвижные органы чувств, дополняющие зрение и помогающие ориентироваться в пространстве. Темнота больше не мешает носителю, однако сенсорная перегрузка сильно затрудняет общение.</AG_VFEI_Antennae.description>
-  <AG_VFEI_Antennae.customEffectDescriptions.0>Носитель невосприимчив к любым эффектам темноты.</AG_VFEI_Antennae.customEffectDescriptions.0>
+  <AG_VFEI_Antennae.customEffectDescriptions.0>Носитель невосприимчив ко всем эффектам темноты.</AG_VFEI_Antennae.customEffectDescriptions.0>
   <AG_VFEI_PredatorStomach.label>желудок хищника</AG_VFEI_PredatorStomach.label>
-  <AG_VFEI_PredatorStomach.description>Носители этого гена обладают высокоэффективной, но примитивной альтернативой желудку, что позволяет им дольше обходиться без пищи и выживать при меньших её запасах.</AG_VFEI_PredatorStomach.description>
-  <AG_VFEI_PredatorStomach.customEffectDescriptions.0>Уменьшает прочность желудка на 5.</AG_VFEI_PredatorStomach.customEffectDescriptions.0>
-  <AG_VFEI_PredatorStomach.customEffectDescriptions.1>+10% питательности от НЕ сырой пищи.</AG_VFEI_PredatorStomach.customEffectDescriptions.1>
-  <AG_VFEI_PheromoneSecretor.label>секретор феромонов</AG_VFEI_PheromoneSecretor.label>
-  <AG_VFEI_PheromoneSecretor.description>Железы инсектоида в теле носителей этого гена медленно выделяют липкий, бесцветный и лишённый запаха феромон, вызывающий у окружающих лёгкую эйфорию.</AG_VFEI_PheromoneSecretor.description>
-  <AG_VFEI_VentricularSleeve.label>оболочка желудочка сердца</AG_VFEI_VentricularSleeve.label>
+  <AG_VFEI_PredatorStomach.description>У носителей этого гена простая, но очень эффективная замена желудку. Эта мутация позволяет дольше обходиться меньшим количеством пищи.</AG_VFEI_PredatorStomach.description>
+  <AG_VFEI_PredatorStomach.customEffectDescriptions.0>Уменьшает запас здоровья желудка на 5.</AG_VFEI_PredatorStomach.customEffectDescriptions.0>
+  <AG_VFEI_PredatorStomach.customEffectDescriptions.1>+10% питательности от НЕсырой пищи.</AG_VFEI_PredatorStomach.customEffectDescriptions.1>
+  <AG_VFEI_PheromoneSecretor.label>феромоновая железа</AG_VFEI_PheromoneSecretor.label>
+  <AG_VFEI_PheromoneSecretor.description>У носителей этого гена есть железы насекомых, из которых медленно сочится бесцветный липкий феромон без запаха, вызывающий лёгкую эйфорию у окружающих.</AG_VFEI_PheromoneSecretor.description>
+  <AG_VFEI_VentricularSleeve.label>оболочка сердечных желудочков</AG_VFEI_VentricularSleeve.label>
   <AG_VFEI_VentricularSleeve.description>У носителей этого гена мутация сердца и артерий заставляет кровь сворачиваться в насыщенный кислородом гель. При порезах и даже потере конечности он мгновенно закрывает рану. К сожалению, это создаёт большую нагрузку на сердечно-сосудистую систему.</AG_VFEI_VentricularSleeve.description>
-  <AG_VFEI_VentricularSleeve.customEffectDescriptions.0>Увеличивает прочность сердца на 5.</AG_VFEI_VentricularSleeve.customEffectDescriptions.0>
+  <AG_VFEI_VentricularSleeve.customEffectDescriptions.0>Увеличивает запас здоровья сердца на 5.</AG_VFEI_VentricularSleeve.customEffectDescriptions.0>
   <AG_VFEI_VentricularSleeve.customEffectDescriptions.1>Кровь в ранах сворачивается самостоятельно, но каждое такое прекращение кровотечения с вероятностью 5% вызывает сердечный приступ.</AG_VFEI_VentricularSleeve.customEffectDescriptions.1>
   <AG_VFEI_SynapticCerebellum.label>синаптический мозжечок</AG_VFEI_SynapticCerebellum.label>
   <AG_VFEI_SynapticCerebellum.description>У носителей этого гена мозг инсектоида, особенно чувствительный к остаточным пси-сигналам. Мутация даёт развитое коллективное мышление и высокую психочувствительность, но носитель едва способен составлять связные предложения.</AG_VFEI_SynapticCerebellum.description>
-  <AG_VFEI_SynapticCerebellum.customEffectDescriptions.0>Увеличивает прочность мозга на 10.</AG_VFEI_SynapticCerebellum.customEffectDescriptions.0>
-  <AG_VFEI_VatGrownInsectoidSkin.label>кожа инкубаторного инсектоида</AG_VFEI_VatGrownInsectoidSkin.label>
-  <AG_VFEI_VatGrownInsectoidSkin.description>У носителей этого гена вырабатывается пигмент, похожий на пигмент инсектоидов, выращенных в инкубаторе.</AG_VFEI_VatGrownInsectoidSkin.description>
+  <AG_VFEI_SynapticCerebellum.customEffectDescriptions.0>Увеличивает запас здоровья мозга на 10.</AG_VFEI_SynapticCerebellum.customEffectDescriptions.0>
+  <AG_VFEI_VatGrownInsectoidSkin.label>кожа выращенного в чане насекомого</AG_VFEI_VatGrownInsectoidSkin.label>
+  <AG_VFEI_VatGrownInsectoidSkin.description>Носители этого гена вырабатывают пигмент, похожий на пигмент выращенных в чанах насекомых.</AG_VFEI_VatGrownInsectoidSkin.description>
   <AG_VFEI_VatGrownInsectoidSkin.labelShortAdj>инсектоидный</AG_VFEI_VatGrownInsectoidSkin.labelShortAdj>
   <AG_VFEI_InsectoidSkin.labelShortAdj>инсектоидный</AG_VFEI_InsectoidSkin.labelShortAdj>
   <AG_VFEI_InsectoidSkin.label>кожа инсектоида</AG_VFEI_InsectoidSkin.label>
-  <AG_VFEI_InsectoidSkin.description>У носителей этого гена вырабатывается пигмент, похожий на пигмент инсектоидов.</AG_VFEI_InsectoidSkin.description>
+  <AG_VFEI_InsectoidSkin.description>Носители этого гена вырабатывают пигмент, похожий на пигмент насекомых.</AG_VFEI_InsectoidSkin.description>
   <AG_Painless.label>почти без боли</AG_Painless.label>
   <AG_Painless.description>Носители этого гена почти не ощущают боли по сравнению с первозданными людьми. Сниженная активность нейронов в центрах восприятия боли делает её практически неощутимой. Иногда это полезно, а иногда опасно.</AG_Painless.description>
   <AG_Painless.labelShortAdj>нечувствительный к боли</AG_Painless.labelShortAdj>
@@ -1008,30 +1008,30 @@
   <AG_BrittleBones.symbolPack.prefixSymbols.0.symbol>ломко</AG_BrittleBones.symbolPack.prefixSymbols.0.symbol>
   <AG_BrittleBones.symbolPack.prefixSymbols.1.symbol>стекло</AG_BrittleBones.symbolPack.prefixSymbols.1.symbol>
   <AG_NereidPocketPlane.label>карманное измерение нереиды</AG_NereidPocketPlane.label>
-  <AG_NereidPocketPlane.description>Носители этого гена способны получить доступ к собственному карманному измерению, предоставляющему им безопасное убежище вдали от хаоса окраинного мира.</AG_NereidPocketPlane.description>
+  <AG_NereidPocketPlane.description>Носители этого гена могут посещать собственное пространство за пределами обычного мира — безопасное убежище вдали от хаоса окраинных планет.</AG_NereidPocketPlane.description>
   <AG_NoRaidPresence.label>нулевой вклад в силу налётов</AG_NoRaidPresence.label>
   <AG_NoRaidPresence.description>При подготовке нападения налётчики не учитывают носителей этого гена как угрозу и посылают меньше бойцов против колонии.</AG_NoRaidPresence.description>
-  <AG_NoRaidPresence.customEffectDescriptions.0>Рыночная стоимость этого персонажа не будет учитываться при расчёте общего богатства поселения для определения очков налёта.</AG_NoRaidPresence.customEffectDescriptions.0>
+  <AG_NoRaidPresence.customEffectDescriptions.0>Рыночная стоимость этого персонажа не учитывается в общем богатстве поселения при расчёте силы налёта.</AG_NoRaidPresence.customEffectDescriptions.0>
   <AG_ReducedRaidPresence.label>малый вклад в силу налётов</AG_ReducedRaidPresence.label>
-  <AG_ReducedRaidPresence.description>Носители этого гена считаются менее опасными при нападениях. Налётчики не воспринимают их как серьёзную угрозу и отправляют меньше сил при подготовке налёта на поселение.</AG_ReducedRaidPresence.description>
-  <AG_ReducedRaidPresence.customEffectDescriptions.0>Только 50% рыночной стоимости этого персонажа будет учитываться при расчёте общего богатства поселения для определения очков налёта.</AG_ReducedRaidPresence.customEffectDescriptions.0>
+  <AG_ReducedRaidPresence.description>При подготовке налётов носители этого гена воспринимаются как менее сильные противники. Налётчики не считают их серьёзной угрозой и отправляют на поселение меньше бойцов.</AG_ReducedRaidPresence.description>
+  <AG_ReducedRaidPresence.customEffectDescriptions.0>При расчёте силы налёта в общем богатстве поселения учитывается только 50% рыночной стоимости этого персонажа.</AG_ReducedRaidPresence.customEffectDescriptions.0>
   <AG_DangerousRaidPresence.label>высокий вклад в силу налётов</AG_DangerousRaidPresence.label>
-  <AG_DangerousRaidPresence.description>Носители этого гена считаются очень опасными при нападениях. Налётчики воспринимают их как серьёзную угрозу и отправляют гораздо больше сил при подготовке налёта на поселение.</AG_DangerousRaidPresence.description>
+  <AG_DangerousRaidPresence.description>При расчёте силы налётов носители этого гена считаются очень могущественными. Готовясь напасть на поселение, налётчики расценивают их как серьёзную угрозу и отправляют больше бойцов.</AG_DangerousRaidPresence.description>
   <AG_DangerousRaidPresence.customEffectDescriptions.0>При расчёте богатства колонии для определения силы налёта рыночная стоимость этого персонажа умножается на 1,5.</AG_DangerousRaidPresence.customEffectDescriptions.0>
   <AG_DeadlyRaidPresence.label>огромный вклад в силу налётов</AG_DeadlyRaidPresence.label>
   <AG_DeadlyRaidPresence.description>При подготовке нападения налётчики считают носителей этого гена чрезвычайно серьёзной угрозой и посылают ГОРАЗДО больше бойцов против колонии.</AG_DeadlyRaidPresence.description>
   <AG_DeadlyRaidPresence.customEffectDescriptions.0>При расчёте богатства колонии для определения силы налёта рыночная стоимость этого персонажа умножается на 4.</AG_DeadlyRaidPresence.customEffectDescriptions.0>
-  <AG_PsychicAbility_Masterful.label>пси-мастерство</AG_PsychicAbility_Masterful.label>
-  <AG_PsychicAbility_Masterful.description>Носители этого гена обладают невероятными пси-способностями.</AG_PsychicAbility_Masterful.description>
-  <AG_PsychicAbility_Masterful.customEffectDescriptions.0>Создаёт постоянное пси-успокоение, которое делает находящихся поблизости поселенцев без этого гена счастливыми.</AG_PsychicAbility_Masterful.customEffectDescriptions.0>
+  <AG_PsychicAbility_Masterful.label>мастер псионики</AG_PsychicAbility_Masterful.label>
+  <AG_PsychicAbility_Masterful.description>Носители этого гена обладают выдающимися психическими способностями.</AG_PsychicAbility_Masterful.description>
+  <AG_PsychicAbility_Masterful.customEffectDescriptions.0>Создаёт постоянное психическое успокоение, улучшающее настроение поселенцев поблизости, у которых нет такого же гена.</AG_PsychicAbility_Masterful.customEffectDescriptions.0>
   <AG_PsychicAbility_Masterful.symbolPack.prefixSymbols.1.symbol>сенсо</AG_PsychicAbility_Masterful.symbolPack.prefixSymbols.1.symbol>
   <AG_PsychicAbility_Masterful.symbolPack.prefixSymbols.2.symbol>сенси</AG_PsychicAbility_Masterful.symbolPack.prefixSymbols.2.symbol>
-  <AG_PsychicRemapping.label>пси-перенастройка</AG_PsychicRemapping.label>
+  <AG_PsychicRemapping.label>психическая перестройка</AG_PsychicRemapping.label>
   <AG_PsychicRemapping.description>Изменённые нейронные связи заставляют носителей этого гена испытывать обратное действие пси-гудения и пси-успокоения.</AG_PsychicRemapping.description>
   <AG_PsychicRemapping.customEffectDescriptions.0>Пси-гудение повышает настроение, а пси-успокоение — снижает.</AG_PsychicRemapping.customEffectDescriptions.0>
-  <AG_FastGestation.label>ускоренная беременность</AG_FastGestation.label>
+  <AG_FastGestation.label>быстрое вынашивание</AG_FastGestation.label>
   <AG_FastGestation.description>Беременность у носителей этого гена длится на 25% меньше.</AG_FastGestation.description>
-  <AG_SlowGestation.label>замедленная беременность</AG_SlowGestation.label>
+  <AG_SlowGestation.label>медленное вынашивание</AG_SlowGestation.label>
   <AG_SlowGestation.description>Беременность у носителей этого гена длится на 25% дольше.</AG_SlowGestation.description>
   <AG_ReducedFertile.label>пониженная плодовитость</AG_ReducedFertile.label>
   <AG_ReducedFertile.description>Носителям этого гена труднее зачать ребёнка, независимо от пола.</AG_ReducedFertile.description>
@@ -1045,41 +1045,41 @@
   <AG_FertilityIndoors.description>Носителям этого гена легче зачать ребёнка в помещении и труднее на открытом воздухе. Это касается обоих полов.</AG_FertilityIndoors.description>
   <AG_FertilityIndoors.customEffectDescriptions.0>Да, значок этого гена означает «оплодотворить гору».</AG_FertilityIndoors.customEffectDescriptions.0>
   <AG_EggLaying.label>откладывание яиц</AG_EggLaying.label>
-  <AG_EggLaying.description>Носители этого гена размножаются, откладывая яйца. Это настолько же отвратительно, как и звучит, со своими преимуществами и недостатками.</AG_EggLaying.description>
-  <AG_EggLaying.customEffectDescriptions.0>Матери не будут испытывать перепады настроения, утреннюю тошноту и другие эффекты беременности.</AG_EggLaying.customEffectDescriptions.0>
-  <AG_EggLaying.customEffectDescriptions.1>После откладывания яйцо остаётся уязвимым до вылупления, а человеческие яйца несъедобны.</AG_EggLaying.customEffectDescriptions.1>
-  <AG_EggLaying.customEffectDescriptions.2>Весь процесс занимает больше времени (всего 24 дня).</AG_EggLaying.customEffectDescriptions.2>
-  <AG_MetalEater.label>поглотитель минералов</AG_MetalEater.label>
+  <AG_EggLaying.description>Носители этого гена размножаются, откладывая яйца, что столь же отвратительно, как и звучит. У этого есть свои преимущества и недостатки.</AG_EggLaying.description>
+  <AG_EggLaying.customEffectDescriptions.0>Мать не испытывает перепадов настроения из-за беременности, утренней тошноты и т. п.</AG_EggLaying.customEffectDescriptions.0>
+  <AG_EggLaying.customEffectDescriptions.1>После откладывания яйцо остаётся уязвимым до вылупления. Человеческие яйца несъедобны.</AG_EggLaying.customEffectDescriptions.1>
+  <AG_EggLaying.customEffectDescriptions.2>Весь процесс занимает больше времени: в общей сложности 24 дня.</AG_EggLaying.customEffectDescriptions.2>
+  <AG_MetalEater.label>поглощение минералов</AG_MetalEater.label>
   <AG_MetalEater.description>Носители этого гена накапливают в организме минеральную энергию и питаются добытыми из земли металлами вместо обычной еды. Такого запаса хватает надолго.
 
 Каждые сутки обмен веществ расходует 25% запаса минералов.</AG_MetalEater.description>
   <AG_MetalEater.resourceDescription>Запас минеральной энергии, за счёт которого {PAWN_nameDef} обходится без обычной пищи.</AG_MetalEater.resourceDescription>
   <AG_MetalEater.resourceLabel>минералы</AG_MetalEater.resourceLabel>
   <AG_MineralEfficencyPoor.label>плохое усвоение минералов</AG_MineralEfficencyPoor.label>
-  <AG_MineralEfficencyPoor.description>Носители этого гена крайне неэффективно превращают металлы в пригодные для организма минералы. Поэтому им требуется гораздо больше минеральной пищи, чем обычно.</AG_MineralEfficencyPoor.description>
+  <AG_MineralEfficencyPoor.description>Носители этого гена крайне неэффективно преобразуют металлы в пригодные для организма минералы. Поэтому им требуется гораздо больше минералов, чем большинству.</AG_MineralEfficencyPoor.description>
   <AG_MineralEfficencyGood.label>отличное усвоение минералов</AG_MineralEfficencyGood.label>
-  <AG_MineralEfficencyGood.description>Носители этого гена очень эффективно превращают металлы в пригодные для организма минералы. Поэтому им требуется гораздо меньше металла, чем обычно.</AG_MineralEfficencyGood.description>
-  <AG_NightOwl.label>ночной ритм</AG_NightOwl.label>
+  <AG_MineralEfficencyGood.description>Носители этого гена необычайно эффективно преобразуют металлы в минералы, пригодные для организма. Поэтому им нужно потреблять гораздо меньше металла, чем большинству.</AG_MineralEfficencyGood.description>
+  <AG_NightOwl.label>сова</AG_NightOwl.label>
   <AG_NightOwl.description>Носители этого гена предпочитают бодрствовать ночью и спать днём.</AG_NightOwl.description>
   <AlphaGenes_Randomizer.label>рандомизатор</AlphaGenes_Randomizer.label>
   <AlphaGenes_Randomizer.description>После получения этого гена ксенотип персонажа изменится на один из пользовательских ксенотипов, созданных игроком.</AlphaGenes_Randomizer.description>
   <AlphaGenes_ExoticOrganism.label>экзотический организм</AlphaGenes_ExoticOrganism.label>
   <AlphaGenes_ExoticOrganism.description>Если добавить этот ген в созданный игроком ксенотип, тот перестанет автоматически появляться в двух фракциях Alpha Genes.</AlphaGenes_ExoticOrganism.description>
-  <AG_ArmouredSpeed.label>скорость в броне</AG_ArmouredSpeed.label>
-  <AG_ArmouredSpeed.description>Носители этого гена двигаются быстрее, пока носят тяжёлую броню.</AG_ArmouredSpeed.description>
-  <AG_SpeedByTemperature.label>температурный отклик</AG_SpeedByTemperature.label>
-  <AG_SpeedByTemperature.description>Носители этого гена движутся быстрее при высоких температурах, но устают гораздо быстрее. Низкие температуры замедляют их обмен веществ, снижая скорость передвижения, но при этом уменьшают расход энергии на поддержание бодрствования.</AG_SpeedByTemperature.description>
-  <AG_WaterStriding.label>хождение по воде</AG_WaterStriding.label>
+  <AG_ArmouredSpeed.label>быстрота в броне</AG_ArmouredSpeed.label>
+  <AG_ArmouredSpeed.description>Носители этого гена быстрее передвигаются в тяжёлой броне.</AG_ArmouredSpeed.description>
+  <AG_SpeedByTemperature.label>зависимость скорости от температуры</AG_SpeedByTemperature.label>
+  <AG_SpeedByTemperature.description>Носители этого гена быстро передвигаются при высокой температуре, но гораздо сильнее устают. Низкая температура замедляет их обмен веществ: они становятся медленнее, зато тратят меньше энергии на бодрствование.</AG_SpeedByTemperature.description>
+  <AG_WaterStriding.label>быстрый ход по воде</AG_WaterStriding.label>
   <AG_WaterStriding.description>Носители этого гена передвигаются по воде без замедления от местности.</AG_WaterStriding.description>
   <AG_LightStriding.label>быстрота на свету</AG_LightStriding.label>
-  <AG_LightStriding.description>Носители этого гена двигаются гораздо быстрее при ярком освещении (50% или выше), но становятся медленнее в темноте.</AG_LightStriding.description>
+  <AG_LightStriding.description>Носители этого гена передвигаются гораздо быстрее на свету (при освещённости 50% и выше) и медленнее в темноте.</AG_LightStriding.description>
   <AG_NightStriding.label>быстрота в темноте</AG_NightStriding.label>
-  <AG_NightStriding.description>Носители этого гена двигаются гораздо быстрее в темноте (при освещённости менее 50%), но становятся медленнее при свете.</AG_NightStriding.description>
+  <AG_NightStriding.description>Носители этого гена передвигаются гораздо быстрее в темноте (при освещённости ниже 50%) и медленнее на свету.</AG_NightStriding.description>
   <AG_PollutionStriding.label>быстрота на загрязнённой почве</AG_PollutionStriding.label>
-  <AG_PollutionStriding.description>Носители этого гена двигаются гораздо быстрее по загрязнённым территориям.</AG_PollutionStriding.description>
-  <AG_UVSensitivity_Minor.label>лёгкая чувствительность к солнцу</AG_UVSensitivity_Minor.label>
-  <AG_UVSensitivity_Minor.description>Носители этого гена обладают чувствительными к ультрафиолету глазами, что вызывает у них лёгкий дискомфорт при прямом солнечном свете.</AG_UVSensitivity_Minor.description>
-  <AG_UVSensitivity_Minor.customEffectDescriptions.0>-10% зрения при прямом солнечном свете.</AG_UVSensitivity_Minor.customEffectDescriptions.0>
+  <AG_PollutionStriding.description>Носители этого гена гораздо быстрее передвигаются по загрязнённой местности.</AG_PollutionStriding.description>
+  <AG_UVSensitivity_Minor.label>слабая чувствительность к ультрафиолету</AG_UVSensitivity_Minor.label>
+  <AG_UVSensitivity_Minor.description>Глаза носителей этого гена чувствительны к ультрафиолету, поэтому прямые солнечные лучи причиняют им лёгкий дискомфорт.</AG_UVSensitivity_Minor.description>
+  <AG_UVSensitivity_Minor.customEffectDescriptions.0>−10% к зрению под прямыми солнечными лучами.</AG_UVSensitivity_Minor.customEffectDescriptions.0>
   <AG_UVSensitivity_Minor.labelShortAdj>чувствительный к ультрафиолету</AG_UVSensitivity_Minor.labelShortAdj>
   <AG_UVSensitivity_Minor.symbolPack.prefixSymbols.0.symbol>тёмно</AG_UVSensitivity_Minor.symbolPack.prefixSymbols.0.symbol>
   <AG_Sensitivity_Vicious.symbolPack.prefixSymbols.0.symbol>тёмно</AG_Sensitivity_Vicious.symbolPack.prefixSymbols.0.symbol>
@@ -1102,32 +1102,32 @@
   <AG_UVSensitivity_Minor.symbolPack.prefixSymbols.6.symbol>ночно</AG_UVSensitivity_Minor.symbolPack.prefixSymbols.6.symbol>
   <AG_Sensitivity_Vicious.symbolPack.prefixSymbols.6.symbol>ночно</AG_Sensitivity_Vicious.symbolPack.prefixSymbols.6.symbol>
   <AG_Sensitivity_Lethal.symbolPack.prefixSymbols.6.symbol>ночно</AG_Sensitivity_Lethal.symbolPack.prefixSymbols.6.symbol>
-  <AG_Sensitivity_Vicious.label>гиперчувствительность к солнцу</AG_Sensitivity_Vicious.label>
+  <AG_Sensitivity_Vicious.label>крайняя чувствительность к ультрафиолету</AG_Sensitivity_Vicious.label>
   <AG_Sensitivity_Vicious.description>Соединения в коже носителей этого гена крайне болезненно реагируют на ультрафиолет. Чувствительность настолько высока, что на солнце носитель теряет сознание.</AG_Sensitivity_Vicious.description>
-  <AG_Sensitivity_Vicious.customEffectDescriptions.0>Потеряет сознание при прямом солнечном свете</AG_Sensitivity_Vicious.customEffectDescriptions.0>
-  <AG_Sensitivity_Vicious.customEffectDescriptions.1>Учтите, что добавление этого гена в начале игры приведёт к тому, что поселенец потеряет сознание сразу после посадки и останется в таком состоянии до наступления ночи.</AG_Sensitivity_Vicious.customEffectDescriptions.1>
+  <AG_Sensitivity_Vicious.customEffectDescriptions.0>Теряет сознание под прямыми солнечными лучами</AG_Sensitivity_Vicious.customEffectDescriptions.0>
+  <AG_Sensitivity_Vicious.customEffectDescriptions.1>Учтите: если добавить этот ген в начале игры, поселенец потеряет сознание сразу после приземления и останется без сознания до ночи</AG_Sensitivity_Vicious.customEffectDescriptions.1>
   <AG_Sensitivity_Vicious.labelShortAdj>гиперчувствительный к ультрафиолету</AG_Sensitivity_Vicious.labelShortAdj>
   <AG_Sensitivity_Lethal.labelShortAdj>гиперчувствительный к ультрафиолету</AG_Sensitivity_Lethal.labelShortAdj>
-  <AG_Sensitivity_Lethal.label>смертельная чувствительность к солнцу</AG_Sensitivity_Lethal.label>
+  <AG_Sensitivity_Lethal.label>смертельная чувствительность к ультрафиолету</AG_Sensitivity_Lethal.label>
   <AG_Sensitivity_Lethal.description>Соединения в коже носителей этого гена смертельно уязвимы к ультрафиолету. Прямой солнечный свет обжигает их и убивает за считаные минуты.</AG_Sensitivity_Lethal.description>
   <AG_Sensitivity_Lethal.customEffectDescriptions.0>Погибает от ожогов под прямым солнечным светом.</AG_Sensitivity_Lethal.customEffectDescriptions.0>
-  <AG_Sensitivity_Lethal.customEffectDescriptions.1>Имейте в виду, что добавление этого гена в начале игры может привести к тому, что поселенец сгорит заживо сразу после приземления, если вы не сможете НЕЗАМЕДЛИТЕЛЬНО найти или построить укрытие.</AG_Sensitivity_Lethal.customEffectDescriptions.1>
+  <AG_Sensitivity_Lethal.customEffectDescriptions.1>Учтите: с этим геном поселенец может сгореть сразу после высадки, если вы не сумеете НЕМЕДЛЕННО найти или построить укрытие</AG_Sensitivity_Lethal.customEffectDescriptions.1>
   <AG_UVPowered_Mild.label>усиление солнцем</AG_UVPowered_Mild.label>
   <AG_UVPowered_Mild.description>Соединения в коже носителей этого гена восстанавливаются и заряжаются под действием ультрафиолета. На солнце носитель полон сил, а без него становится вялым.</AG_UVPowered_Mild.description>
   <AG_UVPowered_Mild.labelShortAdj>усиленный солнцем</AG_UVPowered_Mild.labelShortAdj>
   <AG_UVPowered_Major.labelShortAdj>усиленный солнцем</AG_UVPowered_Major.labelShortAdj>
-  <AG_UVPowered_Major.label>сильное усиление солнцем</AG_UVPowered_Major.label>
+  <AG_UVPowered_Major.label>сильная подпитка ультрафиолетом</AG_UVPowered_Major.label>
   <AG_UVPowered_Major.description>Соединения в коже носителей этого гена восстанавливаются и заряжаются под действием ультрафиолета. На солнце носитель полон сил, а без него становится очень вялым и подавленным.</AG_UVPowered_Major.description>
   <AG_FoxTail.label>лисий хвост</AG_FoxTail.label>
-  <AG_FoxTail.description>У носителей этого гена растёт большой лисий хвост, немного защищающий от холода.</AG_FoxTail.description>
+  <AG_FoxTail.description>У носителей этого гена вырастает большой лисий хвост, немного защищающий от холода.</AG_FoxTail.description>
   <AG_DemonTail.label>демонический хвост</AG_DemonTail.label>
-  <AG_DemonTail.description>У носителей этого гена растёт большой демонический хвост, способный служить ловкой пятой конечностью.</AG_DemonTail.description>
+  <AG_DemonTail.description>У носителей этого гена вырастает большой демонический хвост, способный служить ловкой пятой конечностью.</AG_DemonTail.description>
   <AG_Drakonori_Tail.label>хвост драконори</AG_Drakonori_Tail.label>
-  <AG_Drakonori_Tail.description>У носителей этого гена растёт большой драконий хвост, которым можно схватить и обездвижить цель.</AG_Drakonori_Tail.description>
+  <AG_Drakonori_Tail.description>У носителей этого гена вырастает большой драконий хвост, которым можно обхватить и обездвижить цель.</AG_Drakonori_Tail.description>
   <AG_NereidTail.label>хвост нереиды</AG_NereidTail.label>
   <AG_NereidTail.description>У носителей этого гена растёт большой рыбий хвост.</AG_NereidTail.description>
   <AG_HeatSlowness.label>замедление от жары</AG_HeatSlowness.label>
-  <AG_HeatSlowness.description>Носители этого гена передвигаются гораздо медленнее при температуре выше 40 °C.</AG_HeatSlowness.description>
+  <AG_HeatSlowness.description>Носители этого гена передвигаются гораздо медленнее при температуре выше 40ºC.</AG_HeatSlowness.description>
   <AG_HeatSlowness.customEffectDescriptions.0>Это три галлона на квадратный дюйм по Фаренгейту!</AG_HeatSlowness.customEffectDescriptions.0>
   <AG_HeatSpeed.customEffectDescriptions.0>Это три галлона на квадратный дюйм по Фаренгейту!</AG_HeatSpeed.customEffectDescriptions.0>
   <AG_ColdSlowness.customEffectDescriptions.0>Это три галлона на квадратный дюйм по Фаренгейту!</AG_ColdSlowness.customEffectDescriptions.0>
@@ -1135,61 +1135,61 @@
   <AG_HeatSlowness.symbolPack.prefixSymbols.0.symbol>тепло</AG_HeatSlowness.symbolPack.prefixSymbols.0.symbol>
   <AG_HeatSpeed.symbolPack.prefixSymbols.0.symbol>тепло</AG_HeatSpeed.symbolPack.prefixSymbols.0.symbol>
   <AG_HeatRadiating.symbolPack.prefixSymbols.0.symbol>тепло</AG_HeatRadiating.symbolPack.prefixSymbols.0.symbol>
-  <AG_HeatSpeed.label>ускорение от тепла</AG_HeatSpeed.label>
-  <AG_HeatSpeed.description>Носители этого гена передвигаются гораздо быстрее при температуре выше 40 °C.</AG_HeatSpeed.description>
+  <AG_HeatSpeed.label>ускорение в жару</AG_HeatSpeed.label>
+  <AG_HeatSpeed.description>Носители этого гена передвигаются гораздо быстрее при температуре выше 40ºC.</AG_HeatSpeed.description>
   <AG_ColdSlowness.label>замедление от холода</AG_ColdSlowness.label>
-  <AG_ColdSlowness.description>Носители этого гена передвигаются гораздо медленнее при температуре ниже 0 °C.</AG_ColdSlowness.description>
-  <AG_ColdSpeed.label>ускорение от холода</AG_ColdSpeed.label>
-  <AG_ColdSpeed.description>Носители этого гена передвигаются гораздо быстрее при температуре ниже 0 °C.</AG_ColdSpeed.description>
-  <AG_HeatRadiating.label>излучение тепла</AG_HeatRadiating.label>
-  <AG_HeatRadiating.description>Носители этого гена излучают интенсивное тепло.</AG_HeatRadiating.description>
+  <AG_ColdSlowness.description>При температуре ниже 0 ºC носители этого гена передвигаются гораздо медленнее.</AG_ColdSlowness.description>
+  <AG_ColdSpeed.label>ускорение на холоде</AG_ColdSpeed.label>
+  <AG_ColdSpeed.description>При температуре ниже 0 ºC носители этого гена передвигаются гораздо быстрее.</AG_ColdSpeed.description>
+  <AG_HeatRadiating.label>излучение жара</AG_HeatRadiating.label>
+  <AG_HeatRadiating.description>Носители этого гена излучают сильный жар.</AG_HeatRadiating.description>
   <AG_HeatRadiating.customEffectDescriptions.0>Сильно нагревает воздух — до 80 °C. Сам по себе ген не защищает носителя от жары.</AG_HeatRadiating.customEffectDescriptions.0>
   <AG_ColdRadiating.label>излучение холода</AG_ColdRadiating.label>
-  <AG_ColdRadiating.description>Носители этого гена поглощают большое количество тепла из окружающей среды, замораживая воздух вокруг себя.</AG_ColdRadiating.description>
+  <AG_ColdRadiating.description>Носители этого гена поглощают огромное количество тепла из окружающей среды, охлаждая воздух вокруг себя до мороза.</AG_ColdRadiating.description>
   <AG_ColdRadiating.customEffectDescriptions.0>Сильно охлаждает воздух — до −20 °C. Сам по себе ген не защищает носителя от холода.</AG_ColdRadiating.customEffectDescriptions.0>
   <AG_Teratogenesis.label>тератогенез</AG_Teratogenesis.label>
   <AG_Teratogenesis.description>По всему телу носителей этого гена постоянно возникают опухоли. Ген не защищает от смерти, вызванной этими опухолями.</AG_Teratogenesis.description>
-  <AG_Teratogenesis.customEffectDescriptions.0>Новая карцинома появляется каждые 42 000–72 000 тактов (0,7–1,2 суток). Одновременно в теле может быть не более десяти карцином.</AG_Teratogenesis.customEffectDescriptions.0>
+  <AG_Teratogenesis.customEffectDescriptions.0>Новая карцинома появляется каждые 42000–72000 тактов (0,7–1,2 дня); одновременно в теле может быть не более десяти карцином.</AG_Teratogenesis.customEffectDescriptions.0>
   <AG_Teratogenesis.customEffectDescriptions.1>Начинает действовать, когда таукай становится взрослым.</AG_Teratogenesis.customEffectDescriptions.1>
   <AG_TeratogenicHealing.label>тератогенное исцеление</AG_TeratogenicHealing.label>
   <AG_TeratogenicHealing.description>Носители этого гена могут использовать собственные опухоли для самоисцеления. Раковые ткани при этом расходуются.</AG_TeratogenicHealing.description>
-  <AG_HealingTouch.label>целительное прикосновение</AG_HealingTouch.label>
+  <AG_HealingTouch.label>исцеляющее прикосновение</AG_HealingTouch.label>
   <AG_HealingTouch.description>Носители этого гена могут использовать собственные опухоли для исцеления других людей. Раковые ткани при этом расходуются.</AG_HealingTouch.description>
   <AG_TeratogenicManipulation.label>тератогенная координация</AG_TeratogenicManipulation.label>
-  <AG_TeratogenicManipulation.description>Носители этого гена могут преобразовать свои опухоли, значительно улучшив работу рук и ловкость.</AG_TeratogenicManipulation.description>
-  <AG_TeratogenicSwiftness.label>тератогенная скорость</AG_TeratogenicSwiftness.label>
-  <AG_TeratogenicSwiftness.description>Носители этого гена могут преобразовать свои опухоли, значительно увеличив скорость передвижения и работы.</AG_TeratogenicSwiftness.description>
+  <AG_TeratogenicManipulation.description>Носители этого гена могут преобразовывать свои опухоли, чтобы значительно улучшить свои манипуляционные способности и ловкость.</AG_TeratogenicManipulation.description>
+  <AG_TeratogenicSwiftness.label>тератогенная быстрота</AG_TeratogenicSwiftness.label>
+  <AG_TeratogenicSwiftness.description>Носители этого гена могут использовать свои опухоли, чтобы значительно ускорять передвижение и работу.</AG_TeratogenicSwiftness.description>
   <AG_TeratogenicStamina.label>тератогенная выносливость</AG_TeratogenicStamina.label>
   <AG_TeratogenicStamina.description>Носители этого гена могут преобразовать свои опухоли, значительно укрепив иммунитет и повысив выносливость.</AG_TeratogenicStamina.description>
   <AG_TeratogenicBurst.label>тератогенное прикосновение</AG_TeratogenicBurst.label>
-  <AG_TeratogenicBurst.description>Носители этого гена могут передавать свои опухоли другому человеку. Это настолько же болезненно и опасно, как и звучит.</AG_TeratogenicBurst.description>
-  <AG_InnerPeace.label>внутренний покой</AG_InnerPeace.label>
-  <AG_InnerPeace.description>Носители этого гена обрели душевное равновесие и остаются равнодушными к обидам со стороны других.</AG_InnerPeace.description>
+  <AG_TeratogenicBurst.description>Носители этого гена могут передавать свои опухоли другому человеку, что обычно столь же болезненно и опасно, как и звучит.</AG_TeratogenicBurst.description>
+  <AG_InnerPeace.label>душевное спокойствие</AG_InnerPeace.label>
+  <AG_InnerPeace.description>Носители этого гена обрели душевное спокойствие и почти не обращают внимания на чужие колкости.</AG_InnerPeace.description>
   <AG_InnerPeace.customEffectDescriptions.0>Драки и оскорбления не вызывают у носителя негативных мыслей и не ухудшают его мнение о других.</AG_InnerPeace.customEffectDescriptions.0>
-  <AG_Rowdy.label>буйность</AG_Rowdy.label>
+  <AG_Rowdy.label>буйный нрав</AG_Rowdy.label>
   <AG_Rowdy.description>Носители этого гена обожают драться понарошку. Правда, другой участник может и не разделять их веселья!</AG_Rowdy.description>
   <AG_Rowdy.customEffectDescriptions.0>Драка также удовлетворяет потребность носителя в развлечениях.</AG_Rowdy.customEffectDescriptions.0>
   <AG_Enforcer.label>блюститель порядка</AG_Enforcer.label>
-  <AG_Enforcer.description>Носители этого гена обладают врождённой способностью эффективно контролировать нарушителей порядка, что увеличивает их шанс на успешный арест.</AG_Enforcer.description>
+  <AG_Enforcer.description>Носители этого гена от природы умеют усмирять нарушителей порядка, поэтому у них больше шансов успешно провести арест.</AG_Enforcer.description>
   <AG_Enforcer.customEffectDescriptions.0>Ген не влияет на метаболизм, поскольку его эффект невелик. «Значит, я могу бесплатно добавить его в любой свой ксенотип!» Да, можешь. Тебе так веселее или ты просто ноешь, потому что ты скучный болван? Боги, как же я тебя ненавижу, господин Воображаемый Оппонент...</AG_Enforcer.customEffectDescriptions.0>
   <AG_ArrestAvoidance.label>неумелый блюститель порядка</AG_ArrestAvoidance.label>
-  <AG_ArrestAvoidance.description>Носители этого гена не обладают способностью эффективно контролировать нарушителей порядка, что значительно снижает их шанс на успешный арест.</AG_ArrestAvoidance.description>
+  <AG_ArrestAvoidance.description>Носителям этого гена от природы плохо удаётся усмирять нарушителей порядка, поэтому их шансы на успешный арест значительно ниже.</AG_ArrestAvoidance.description>
   <AG_ToughSinews.label>крепкие сухожилия</AG_ToughSinews.label>
   <AG_ToughSinews.description>Носители этого гена могут пользоваться тяжёлым оружием и оружием боевых саркофагов без поддерживающей брони.</AG_ToughSinews.description>
-  <AG_SlugVoice.label>голос слизняка</AG_SlugVoice.label>
-  <AG_SlugVoice.description>У носителей этого гена булькающий, хлюпающий голос.</AG_SlugVoice.description>
+  <AG_SlugVoice.label>голос слизня</AG_SlugVoice.label>
+  <AG_SlugVoice.description>У носителей булькающий, хлюпающий голос.</AG_SlugVoice.description>
   <AG_RockVoice.label>каменный голос</AG_RockVoice.label>
   <AG_RockVoice.description>У носителей этого гена гулкий металлический голос, напоминающий скрежет двух камней друг о друга.</AG_RockVoice.description>
   <AG_FrogVoice.label>лягушачий голос</AG_FrogVoice.label>
-  <AG_FrogVoice.description>У носителей этого гена квакающий, как у лягушек, голос.</AG_FrogVoice.description>
+  <AG_FrogVoice.description>У носителей этого гена квакающий голос, похожий на лягушачий.</AG_FrogVoice.description>
   <AG_GutturalVoice.label>гортанный голос</AG_GutturalVoice.label>
-  <AG_GutturalVoice.description>У носителей этого гена гортанный, резкий, образующийся преимущественно в горле голос.</AG_GutturalVoice.description>
+  <AG_GutturalVoice.description>У носителей резкий гортанный голос, звуки которого образуются преимущественно в горле.</AG_GutturalVoice.description>
   <AG_GrowlingVoice.label>рычащий голос</AG_GrowlingVoice.label>
-  <AG_GrowlingVoice.description>У носителей этого гена рычащий, злобный, с устрашающими животными нотками голос.</AG_GrowlingVoice.description>
+  <AG_GrowlingVoice.description>У носителей рычащий, рявкающий голос с пугающими звериными нотками.</AG_GrowlingVoice.description>
   <AG_HivelingVoice.label>голос ульевика</AG_HivelingVoice.label>
-  <AG_HivelingVoice.description>У носителей этого гена высокий голос, похожий на звуки инсектоидов.</AG_HivelingVoice.description>
-  <AG_ChemfuelVomit.label>химтопливная рвота</AG_ChemfuelVomit.label>
-  <AG_ChemfuelVomit.description>Обмен веществ носителей этого гена основан на химтопливе, поэтому их рвота состоит из химтоплива и легко воспламеняется.</AG_ChemfuelVomit.description>
+  <AG_HivelingVoice.description>У носителей высокие голоса, напоминающие звуки насекомых.</AG_HivelingVoice.description>
+  <AG_ChemfuelVomit.label>рвота химтопливом</AG_ChemfuelVomit.label>
+  <AG_ChemfuelVomit.description>Обмен веществ носителей этого гена основан на химтопливе, поэтому при рвоте они извергают химтопливо. Эти рвотные массы горючи.</AG_ChemfuelVomit.description>
   <AG_ChemfuelVomit.symbolPack.wholeNameSymbols.0.symbol>химорыг</AG_ChemfuelVomit.symbolPack.wholeNameSymbols.0.symbol>
   <AG_BloodVomit.label>кровавая рвота</AG_BloodVomit.label>
   <AG_BloodVomit.description>Вместо обычной рвоты носителей этого гена рвёт кровью. Каждый приступ вызывает внутреннее кровотечение, а по всему телу появляются порезы и ушибы.</AG_BloodVomit.description>
@@ -1200,15 +1200,15 @@
   <AG_RatVomit.description>Носителей этого гена рвёт сгустками механитов, которые собираются в псевдоорганических крыс. Это настолько жестоко и отвратительно, что непонятно, что стало причиной: чудовищный провал генетического эксперимента или мрачная шутка генетика, начисто лишённого совести.</AG_RatVomit.description>
   <AG_RatVomit.customEffectDescriptions.0>Нетрудно понять, насколько это травмирует психику...</AG_RatVomit.customEffectDescriptions.0>
   <AG_RatVomit.symbolPack.wholeNameSymbols.0.symbol>крысорыг</AG_RatVomit.symbolPack.wholeNameSymbols.0.symbol>
-  <AG_PukeWater.label>водянистая рвота</AG_PukeWater.label>
-  <AG_PukeWater.description>Носителей этого гена будет рвать водой вместо обычной рвоты.</AG_PukeWater.description>
-  <AG_PukeBile.label>желчная рвота</AG_PukeBile.label>
-  <AG_PukeBile.description>Носителей этого гена будет рвать трупной желчью вместо обычной рвоты. Эта жидкость даже более отвратительна, чем обычная рвота.</AG_PukeBile.description>
+  <AG_PukeWater.label>рвота водой</AG_PukeWater.label>
+  <AG_PukeWater.description>При рвоте носители этого гена извергают воду вместо обычных рвотных масс.</AG_PukeWater.description>
+  <AG_PukeBile.label>рвота трупной жижей</AG_PukeBile.label>
+  <AG_PukeBile.description>При рвоте носители этого гена извергают трупную жижу вместо обычных рвотных масс. Эта жидкость ещё омерзительнее обычной рвоты.</AG_PukeBile.description>
   <AG_PukeCryo.label>криогенная рвота</AG_PukeCryo.label>
   <AG_PukeCryo.description>Вместо обычной рвоты носители этого гена извергают криогенную жидкость. Она быстро охлаждает всё вокруг, что делает её одновременно полезной и крайне опасной. Она исчезает быстрее обычной рвоты, но убрать её нельзя.</AG_PukeCryo.description>
   <AG_Fogger.label>создание тумана</AG_Fogger.label>
   <AG_Fogger.description>С ДНК носителя связано облако механитов. Они изменяют влажность окружающего воздуха, сгущая вокруг густой плотный туман.</AG_Fogger.description>
-  <AG_Fogger.customEffectDescriptions.0>Постоянно вызывает туманную погоду вокруг носителя</AG_Fogger.customEffectDescriptions.0>
+  <AG_Fogger.customEffectDescriptions.0>Вокруг этого человека постоянно стоит туман</AG_Fogger.customEffectDescriptions.0>
   <AG_Fogger.customEffectDescriptions.1>Наномашины, сынок!</AG_Fogger.customEffectDescriptions.1>
   <AG_Fogger.symbolPack.prefixSymbols.0.symbol>туманно</AG_Fogger.symbolPack.prefixSymbols.0.symbol>
   <AG_FoggyRainMaker.symbolPack.prefixSymbols.3.symbol>туманно</AG_FoggyRainMaker.symbolPack.prefixSymbols.3.symbol>
@@ -1218,7 +1218,7 @@
   <AG_FoggyRainMaker.symbolPack.prefixSymbols.5.symbol>влажно</AG_FoggyRainMaker.symbolPack.prefixSymbols.5.symbol>
   <AG_RainMaker.label>создание дождя</AG_RainMaker.label>
   <AG_RainMaker.description>С ДНК носителя связано облако механитов. Они резко понижают атмосферное давление вокруг, вызывая непрерывные осадки.</AG_RainMaker.description>
-  <AG_RainMaker.customEffectDescriptions.0>Постоянно вызывает дождливую погоду вокруг носителя</AG_RainMaker.customEffectDescriptions.0>
+  <AG_RainMaker.customEffectDescriptions.0>Вокруг этого человека постоянно идёт дождь</AG_RainMaker.customEffectDescriptions.0>
   <AG_RainMaker.symbolPack.prefixSymbols.0.symbol>дождливо</AG_RainMaker.symbolPack.prefixSymbols.0.symbol>
   <AG_FoggyRainMaker.symbolPack.prefixSymbols.0.symbol>дождливо</AG_FoggyRainMaker.symbolPack.prefixSymbols.0.symbol>
   <AG_RainyThunderstormMaker.symbolPack.prefixSymbols.0.symbol>дождливо</AG_RainyThunderstormMaker.symbolPack.prefixSymbols.0.symbol>
@@ -1229,21 +1229,21 @@
   <AG_FoggyRainMaker.symbolPack.prefixSymbols.2.symbol>плювио</AG_FoggyRainMaker.symbolPack.prefixSymbols.2.symbol>
   <AG_RainyThunderstormMaker.symbolPack.prefixSymbols.2.symbol>плювио</AG_RainyThunderstormMaker.symbolPack.prefixSymbols.2.symbol>
   <AG_FoggyRainMaker.label>создание туманного дождя</AG_FoggyRainMaker.label>
-  <AG_FoggyRainMaker.description>С ДНК носителя связано облако механитов. Они резко понижают атмосферное давление вокруг, вызывая непрерывные осадки и густой плотный туман.</AG_FoggyRainMaker.description>
-  <AG_FoggyRainMaker.customEffectDescriptions.0>Постоянно вызывает дождливую туманную погоду вокруг носителя</AG_FoggyRainMaker.customEffectDescriptions.0>
+  <AG_FoggyRainMaker.description>Распределённое облако механитов связано с ДНК носителя. Эти механиты способны резко понижать атмосферное давление поблизости, вызывая непрерывные осадки и густой туман.</AG_FoggyRainMaker.description>
+  <AG_FoggyRainMaker.customEffectDescriptions.0>Вокруг этого человека постоянно идёт дождь с туманом</AG_FoggyRainMaker.customEffectDescriptions.0>
   <AG_RainyThunderstormMaker.label>создание дождевой грозы</AG_RainyThunderstormMaker.label>
   <AG_RainyThunderstormMaker.description>С ДНК носителя связано облако механитов. Они резко усиливают электростатический заряд и понижают атмосферное давление, вызывая сильную грозу с дождём.</AG_RainyThunderstormMaker.description>
-  <AG_RainyThunderstormMaker.customEffectDescriptions.0>Постоянно вызывает дождевую грозу вокруг носителя</AG_RainyThunderstormMaker.customEffectDescriptions.0>
+  <AG_RainyThunderstormMaker.customEffectDescriptions.0>Вокруг этого человека постоянно идёт дождь с грозой</AG_RainyThunderstormMaker.customEffectDescriptions.0>
   <AG_RainyThunderstormMaker.symbolPack.prefixSymbols.3.symbol>громо</AG_RainyThunderstormMaker.symbolPack.prefixSymbols.3.symbol>
   <AG_DryThunderstormMaker.symbolPack.prefixSymbols.0.symbol>громо</AG_DryThunderstormMaker.symbolPack.prefixSymbols.0.symbol>
   <AG_DryThunderstormMaker.label>создание сухой грозы</AG_DryThunderstormMaker.label>
   <AG_DryThunderstormMaker.description>С ДНК носителя связано облако механитов. Они резко усиливают электростатический заряд в атмосфере, вызывая сильную сухую грозу. Ген не защищает носителя от ударов молнии!</AG_DryThunderstormMaker.description>
-  <AG_DryThunderstormMaker.customEffectDescriptions.0>Постоянно вызывает сухую грозу вокруг носителя</AG_DryThunderstormMaker.customEffectDescriptions.0>
-  <AG_DryThunderstormMaker.customEffectDescriptions.1>Надеюсь, тебе нравится огонь!</AG_DryThunderstormMaker.customEffectDescriptions.1>
-  <AG_DryThunderstormMaker.customEffectDescriptions.2>В лучших традициях RimWorld пожары рано или поздно вызовут дождь, который снова сменится сухой грозой. Бесконечный круговорот чертовщины. Ах, природа!</AG_DryThunderstormMaker.customEffectDescriptions.2>
+  <AG_DryThunderstormMaker.customEffectDescriptions.0>Вокруг этого человека постоянно бушует сухая гроза</AG_DryThunderstormMaker.customEffectDescriptions.0>
+  <AG_DryThunderstormMaker.customEffectDescriptions.1>Надеюсь, вы любите огонь!</AG_DryThunderstormMaker.customEffectDescriptions.1>
+  <AG_DryThunderstormMaker.customEffectDescriptions.2>По старой традиции RimWorld пожары рано или поздно вызовут дождь, который со временем снова сменится сухой грозой, и весь этот пиздец будет повторяться без конца. Ах, природа!</AG_DryThunderstormMaker.customEffectDescriptions.2>
   <AG_SnowMaker.label>создание снега</AG_SnowMaker.label>
-  <AG_SnowMaker.description>С ДНК носителя связано облако механитов. Они резко понижают температуру в верхних слоях атмосферы, вызывая снегопад.</AG_SnowMaker.description>
-  <AG_SnowMaker.customEffectDescriptions.0>Постоянно вызывает снежную погоду вокруг носителя</AG_SnowMaker.customEffectDescriptions.0>
+  <AG_SnowMaker.description>Распределённое облако механитов связано с ДНК носителя. Эти механиты способны резко понижать температуру в верхних слоях атмосферы, вызывая снегопад.</AG_SnowMaker.description>
+  <AG_SnowMaker.customEffectDescriptions.0>Вокруг этого человека постоянно идёт снег</AG_SnowMaker.customEffectDescriptions.0>
   <AG_SnowMaker.symbolPack.prefixSymbols.1.symbol>снежно</AG_SnowMaker.symbolPack.prefixSymbols.1.symbol>
   <AG_RainbowWings.label>радужные крылья</AG_RainbowWings.label>
   <AG_RainbowWings.description>У носителей этого гена из спины растёт пара огромных крыльев, как у бабочки.</AG_RainbowWings.description>
@@ -1277,17 +1277,17 @@
   <AG_MothWings.label>крылья мотылька</AG_MothWings.label>
   <AG_MothWings.description>У носителей этого гена из спины растёт пара огромных крыльев мотылька.</AG_MothWings.description>
   <AG_MothWings.symbolPack.prefixSymbols.1.symbol>лепидоптеро</AG_MothWings.symbolPack.prefixSymbols.1.symbol>
-  <AG_BumbledroneWings.label>крылья шмеля</AG_BumbledroneWings.label>
+  <AG_BumbledroneWings.label>крылья шмеледрона</AG_BumbledroneWings.label>
   <AG_BumbledroneWings.description>У носителей этого гена из спины растут две пары пчелиных крыльев.</AG_BumbledroneWings.description>
   <AG_BumbledroneWings.symbolPack.prefixSymbols.3.symbol>гимено</AG_BumbledroneWings.symbolPack.prefixSymbols.3.symbol>
   <AG_WaspWings.symbolPack.prefixSymbols.3.symbol>гимено</AG_WaspWings.symbolPack.prefixSymbols.3.symbol>
-  <AG_WaspWings.label>крылья осы</AG_WaspWings.label>
+  <AG_WaspWings.label>осиные крылья</AG_WaspWings.label>
   <AG_WaspWings.description>У носителей этого гена из спины растут две пары осиных крыльев.</AG_WaspWings.description>
   <AG_WaspWings.symbolPack.prefixSymbols.2.symbol>жало</AG_WaspWings.symbolPack.prefixSymbols.2.symbol>
-  <AG_DrainerWings.label>крылья осушителя</AG_DrainerWings.label>
-  <AG_DrainerWings.description>У носителей этого гена из спины растут две пары крыльев бабочки-осушителя.</AG_DrainerWings.description>
+  <AG_DrainerWings.label>крылья высасывателя</AG_DrainerWings.label>
+  <AG_DrainerWings.description>На спине носителей этого гена вырастают две пары крыльев бабочки-высасывателя.</AG_DrainerWings.description>
   <AG_DrainerWings.symbolPack.prefixSymbols.2.symbol>осушающе</AG_DrainerWings.symbolPack.prefixSymbols.2.symbol>
-  <AG_FeatheredWings.label>перьевые крылья</AG_FeatheredWings.label>
+  <AG_FeatheredWings.label>пернатые крылья</AG_FeatheredWings.label>
   <AG_FeatheredWings.description>У носителей этого гена из спины растут две пары перьевых крыльев.</AG_FeatheredWings.description>
   <AG_FeatheredWings.symbolPack.prefixSymbols.1.symbol>херувимо</AG_FeatheredWings.symbolPack.prefixSymbols.1.symbol>
   <AG_FeatheredWings.symbolPack.prefixSymbols.2.symbol>архангело</AG_FeatheredWings.symbolPack.prefixSymbols.2.symbol>
@@ -1295,14 +1295,14 @@
   <AG_DemonWings.description>У носителей этого гена из спины растут две пары демонических крыльев.</AG_DemonWings.description>
   <AG_GasBags.label>газовые мешки</AG_GasBags.label>
   <AG_GasBags.description>Внутри тела носителей этого гена есть мешки с водородом, позволяющие парить над землёй. Однако они делают носителя легковоспламеняемым и вызывают взрыв при его гибели.</AG_GasBags.description>
-  <AG_GasBags.customEffectDescriptions.1>При смерти носитель вызывает огненный взрыв радиусом 3 клетки.</AG_GasBags.customEffectDescriptions.1>
+  <AG_GasBags.customEffectDescriptions.1>При смерти поселенец взрывается, создавая огненный взрыв радиусом 3 клетки</AG_GasBags.customEffectDescriptions.1>
   <AG_GasBags.symbolPack.prefixSymbols.0.symbol>газо</AG_GasBags.symbolPack.prefixSymbols.0.symbol>
   <AG_GasBags.symbolPack.prefixSymbols.1.symbol>водородо</AG_GasBags.symbolPack.prefixSymbols.1.symbol>
-  <AG_SingleWing.label>деформированное крыло</AG_SingleWing.label>
-  <AG_SingleWing.description>У носителей этого гена одно атрофированное крыло, бесполезное для полёта.</AG_SingleWing.description>
+  <AG_SingleWing.label>недоразвитое крыло</AG_SingleWing.label>
+  <AG_SingleWing.description>У носителей этого гена одно атрофированное крыло. Для полёта оно бесполезно.</AG_SingleWing.description>
   <AG_DrakonoriWings.label>крылья драконори</AG_DrakonoriWings.label>
   <AG_DrakonoriWings.description>У носителей этого гена из спины растёт пара огромных драконьих крыльев.</AG_DrakonoriWings.description>
-  <AG_NoWings.label>без крыльев</AG_NoWings.label>
-  <AG_NoWings.description>У носителей этого гена не растут крылья.</AG_NoWings.description>
+  <AG_NoWings.label>нет крыльев</AG_NoWings.label>
+  <AG_NoWings.description>У носителей этого гена нет крыльев.</AG_NoWings.description>
   <AG_NoWings.customEffectDescriptions.0>Позволяет создавать ксенотипы, в которых наличие крыльев у персонажа определяется случайным образом.</AG_NoWings.customEffectDescriptions.0>
 </LanguageData>

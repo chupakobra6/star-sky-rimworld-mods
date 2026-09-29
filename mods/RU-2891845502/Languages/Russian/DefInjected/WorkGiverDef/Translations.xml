@@ -1,21 +1,21 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <AG_HaulToAlphaGeneBank.label>загружать альфа-пакет</AG_HaulToAlphaGeneBank.label>
+  <AG_HaulToAlphaGeneBank.label>поместить альфа-пакет в генобанк</AG_HaulToAlphaGeneBank.label>
   <AG_HaulToAlphaGeneBank.gerund>загрузка</AG_HaulToAlphaGeneBank.gerund>
   <AG_HaulToMixedGeneBank.gerund>загрузка</AG_HaulToMixedGeneBank.gerund>
-  <AG_HaulToAlphaGeneBank.verb>загрузить</AG_HaulToAlphaGeneBank.verb>
-  <AG_HaulToMixedGeneBank.verb>загрузить</AG_HaulToMixedGeneBank.verb>
-  <AG_HaulToMixedGeneBank.label>загружать смешанный пакет</AG_HaulToMixedGeneBank.label>
-  <AG_AdministerMetal.label>кормить металлом</AG_AdministerMetal.label>
+  <AG_HaulToAlphaGeneBank.verb>поместить в генобанк</AG_HaulToAlphaGeneBank.verb>
+  <AG_HaulToMixedGeneBank.verb>поместить в генобанк</AG_HaulToMixedGeneBank.verb>
+  <AG_HaulToMixedGeneBank.label>поместить смешанный генный пакет в генобанк</AG_HaulToMixedGeneBank.label>
+  <AG_AdministerMetal.label>скормить металл</AG_AdministerMetal.label>
   <AG_AdministerMetal.gerund>кормление</AG_AdministerMetal.gerund>
-  <AG_AdministerMetal.verb>покормить</AG_AdministerMetal.verb>
+  <AG_AdministerMetal.verb>кормить</AG_AdministerMetal.verb>
   <AG_ForceEatMetal.label>есть металл</AG_ForceEatMetal.label>
   <AG_ForceEatMetal.gerund>поедание</AG_ForceEatMetal.gerund>
-  <AG_ForceEatMetal.verb>съесть</AG_ForceEatMetal.verb>
-  <AG_Warden_DeliverMetal.label>относить металл</AG_Warden_DeliverMetal.label>
+  <AG_ForceEatMetal.verb>есть</AG_ForceEatMetal.verb>
+  <AG_Warden_DeliverMetal.label>доставлять металл</AG_Warden_DeliverMetal.label>
   <AG_Warden_DeliverMetal.gerund>доставка пищи для</AG_Warden_DeliverMetal.gerund>
-  <AG_Warden_DeliverMetal.verb>отнести еду для</AG_Warden_DeliverMetal.verb>
-  <AG_DoBillsForsakenForge.label>работать в кузнице забытых</AG_DoBillsForsakenForge.label>
+  <AG_Warden_DeliverMetal.verb>доставить еду для</AG_Warden_DeliverMetal.verb>
+  <AG_DoBillsForsakenForge.label>работать в кузнице отверженных</AG_DoBillsForsakenForge.label>
   <AG_DoBillsForsakenForge.gerund>работа на</AG_DoBillsForsakenForge.gerund>
   <AG_DoBillsForsakenForge.verb>работать на</AG_DoBillsForsakenForge.verb>
 </LanguageData>

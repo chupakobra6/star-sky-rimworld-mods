@@ -44,8 +44,8 @@
   <AG_OnlyOnFleshbeasts>{0} — не биошмат!</AG_OnlyOnFleshbeasts>
   <AG_FleshbeastTooBig>{0}: размер тела слишком велик для этой способности!</AG_FleshbeastTooBig>
   <AG_TrappedForever>Место возвращения больше недоступно! {0} навсегда останется в этом карманном измерении!</AG_TrappedForever>
-  <AG_NeedsForsakenKnowledge>Строить могут только обладатели гена «знания забытых»</AG_NeedsForsakenKnowledge>
-  <AG_NeedsForsakenKnowledgeToWield>Использовать могут только обладатели гена «знания забытых»</AG_NeedsForsakenKnowledgeToWield>
+  <AG_NeedsForsakenKnowledge>Построить может только носитель гена «Знания отверженных»</AG_NeedsForsakenKnowledge>
+  <AG_NeedsForsakenKnowledgeToWield>Использовать может только носитель гена «Знания отверженных»</AG_NeedsForsakenKnowledgeToWield>
   <AG_ChooseGeneToRemove>Выберите ген для удаления</AG_ChooseGeneToRemove>
   <AG_ChooseEndogeneToConvert>Выберите эндоген для превращения в ксеноген</AG_ChooseEndogeneToConvert>
   <AG_ChooseXenogeneToConvert>Выберите ксеноген для превращения в эндоген</AG_ChooseXenogeneToConvert>

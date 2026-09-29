@@ -9,54 +9,54 @@
   <AG_Ability_Mote.label>частица</AG_Ability_Mote.label>
   <AG_ElectrifiedMote.label>электрические искры</AG_ElectrifiedMote.label>
   <AG_AncientGeneAssembler.label>древний генный сборщик</AG_AncientGeneAssembler.label>
-  <AG_AncientGeneAssembler.description>Оборудование для создания вживляемых ксеносемян из генных пакетов, хранящихся в соседних генных банках. Устройство разрушилось и больше не пригодно к использованию.</AG_AncientGeneAssembler.description>
-  <AG_AncientGeneBank.label>древний генный банк</AG_AncientGeneBank.label>
+  <AG_AncientGeneAssembler.description>Станок для создания ксеносемян, пригодных для внедрения, из генных пакетов, хранящихся в ближайших генных банках. Устройство обрушилось внутрь себя и теперь бесполезно.</AG_AncientGeneAssembler.description>
+  <AG_AncientGeneBank.label>древний генобанк</AG_AncientGeneBank.label>
   <AG_AncientGeneBank.description>Устройство для хранения генных пакетов. При размещении рядом с генным сборщиком позволяло использовать их для создания ксеносемян. Коррозия уничтожила его безвозвратно, а генные пакеты внутри давно пришли в негодность.</AG_AncientGeneBank.description>
-  <AG_AncientGeneExtractor.label>древний генный экстрактор</AG_AncientGeneExtractor.label>
-  <AG_AncientGeneExtractor.description>Автоматическая хирургическая установка, которая извлекала гены человека и создавала из них генные пакеты. Внутренние механизмы полностью оплавились и проржавели.</AG_AncientGeneExtractor.description>
-  <AG_AncientGeneProcessor.label>древний генетический обработчик</AG_AncientGeneProcessor.label>
-  <AG_AncientGeneProcessor.description>Система генетического анализа и обработки. Разрушена и непригодна к использованию.</AG_AncientGeneProcessor.description>
-  <AG_AncientGrowthVat.label>древний инкубатор</AG_AncientGrowthVat.label>
+  <AG_AncientGeneExtractor.label>древний экстрактор генов</AG_AncientGeneExtractor.label>
+  <AG_AncientGeneExtractor.description>Автоматическое хирургическое устройство, прежде способное извлекать гены человека и создавать из них генный пакет. Его внутренние механизмы полностью сплавились и заржавели.</AG_AncientGeneExtractor.description>
+  <AG_AncientGeneProcessor.label>древний генный процессор</AG_AncientGeneProcessor.label>
+  <AG_AncientGeneProcessor.description>Система анализа и обработки генетической информации. Разрушена и непригодна к использованию.</AG_AncientGeneProcessor.description>
+  <AG_AncientGrowthVat.label>древний ростовой чан</AG_AncientGrowthVat.label>
   <AG_AncientGrowthVat.description>Резервуар с жидкостью для вынашивания эмбрионов и ускорения роста детей. Его прозрачная пласталевая оболочка разбита — по всей видимости, изнутри... Зловеще.</AG_AncientGrowthVat.description>
-  <AG_AncientHugeBank.label>древний огромный генный банк</AG_AncientHugeBank.label>
+  <AG_AncientHugeBank.label>древний огромный генобанк</AG_AncientHugeBank.label>
   <AG_AncientHugeBank.description>Огромный генный банк, намного превосходящий размером современные модели. Полностью сломан.</AG_AncientHugeBank.description>
   <AG_AncientLamp.label>древняя сломанная лампа</AG_AncientLamp.label>
   <AG_AncientLamp.description>Сломанная лампа.</AG_AncientLamp.description>
   <AG_AncientVitalsMonitor.label>древний монитор жизненных показателей</AG_AncientVitalsMonitor.label>
   <AG_AncientVitalsMonitor.description>Сломанный монитор жизненных показателей с погасшим экраном.</AG_AncientVitalsMonitor.description>
-  <AG_AncientBandNode.label>древний канальный узел</AG_AncientBandNode.label>
-  <AG_AncientBandNode.description>Сломанный усилитель сигнала управления механоидами. Его антенны согнуты под странными углами.</AG_AncientBandNode.description>
+  <AG_AncientBandNode.label>древний узел связи</AG_AncientBandNode.label>
+  <AG_AncientBandNode.description>Сломанный усилитель сигнала в диапазоне связи механоидов. Его антенны согнуты под странными углами.</AG_AncientBandNode.description>
   <AG_AncientBasicRecharger.label>древняя зарядная станция механоидов</AG_AncientBasicRecharger.label>
-  <AG_AncientBasicRecharger.description>Сломанная зарядная станция механоидов. Контакты погнуты и обломаны, поэтому устройство совершенно бесполезно.</AG_AncientBasicRecharger.description>
-  <AG_AncientLargeRecharger.description>Сломанная зарядная станция механоидов. Контакты погнуты и обломаны, поэтому устройство совершенно бесполезно.</AG_AncientLargeRecharger.description>
+  <AG_AncientBasicRecharger.description>Сломанная зарядная станция механоидов. Соединительные контакты погнуты и обломаны, поэтому всё устройство бесполезно.</AG_AncientBasicRecharger.description>
+  <AG_AncientLargeRecharger.description>Сломанная зарядная станция механоидов. Соединительные контакты погнуты и обломаны, поэтому всё устройство бесполезно.</AG_AncientLargeRecharger.description>
   <AG_AncientLargeRecharger.label>древняя большая зарядная станция механоидов</AG_AncientLargeRecharger.label>
   <AG_AncientMechGestator.label>древний гестатор механоидов</AG_AncientMechGestator.label>
-  <AG_AncientMechGestator.description>Камера для создания механоидов. Резервуар с механитами давным-давно пробит, и вся жидкость испарилась.</AG_AncientMechGestator.description>
-  <AG_AncientLargeMechGestator.description>Камера для создания механоидов. Резервуар с механитами давным-давно пробит, и вся жидкость испарилась.</AG_AncientLargeMechGestator.description>
+  <AG_AncientMechGestator.description>Резервуар для создания новых механоидов. Ёмкость с механитами давно пробита, и вся жидкость уже испарилась.</AG_AncientMechGestator.description>
+  <AG_AncientLargeMechGestator.description>Резервуар для создания новых механоидов. Ёмкость с механитами давно пробита, и вся жидкость уже испарилась.</AG_AncientLargeMechGestator.description>
   <AG_AncientLargeMechGestator.label>древний большой гестатор механоидов</AG_AncientLargeMechGestator.label>
   <AG_AncientSubcoreRipscanner.label>древний душегуб</AG_AncientSubcoreRipscanner.label>
   <AG_AncientSubcoreRipscanner.description>Эта штука ТАКАЯ мрачная. Просто ЗАПРЕДЕЛЬНО мрачная. По сути — больничная кровать с шипами. Спорим, она работала только под симфонический металл? Во всём виноват Оскар.</AG_AncientSubcoreRipscanner.description>
-  <AG_AncientWastepackAtomizer.label>древний расщепитель отходов</AG_AncientWastepackAtomizer.label>
+  <AG_AncientWastepackAtomizer.label>древний атомизатор отходов</AG_AncientWastepackAtomizer.label>
   <AG_AncientWastepackAtomizer.description>Когда-то это была навороченная мусорная корзина. Теперь — просто сломанная мусорная корзина.</AG_AncientWastepackAtomizer.description>
-  <AG_RuinedHospitalBed.label>древняя больничная кровать</AG_RuinedHospitalBed.label>
+  <AG_RuinedHospitalBed.label>древняя больничная койка</AG_RuinedHospitalBed.label>
   <AG_RuinedHospitalBed.description>Кровать, специально предназначенная для больниц. Матрас сгнил без остатка.</AG_RuinedHospitalBed.description>
   <AG_AncientShelf.label>древний стеллаж</AG_AncientShelf.label>
-  <AG_AncientShelf.description>Ржавый стеллаж с тремя полками. Из-за ветхости вмещает меньше вещей, чем раньше.</AG_AncientShelf.description>
-  <AG_AncientPollutionPump.label>древняя очистная помпа</AG_AncientPollutionPump.label>
+  <AG_AncientShelf.description>Ржавый стеллаж, прежде вмещавший по три стопки предметов на клетку. Из-за повреждений его вместимость уменьшилась.</AG_AncientShelf.description>
+  <AG_AncientPollutionPump.label>древний насос очистки от загрязнения</AG_AncientPollutionPump.label>
   <AG_AncientPollutionPump.description>Эта помпа вряд ли ещё когда-нибудь что-нибудь откачает.</AG_AncientPollutionPump.description>
   <AG_AncientCorpse.label>древний труп</AG_AncientCorpse.label>
   <AG_AncientCorpse.description>Этот скелет знавал лучшие времена.</AG_AncientCorpse.description>
   <AG_RandomGenepack.label>случайный генный пакет</AG_RandomGenepack.label>
-  <AG_RandomGenepack.description>Создаёт случайный генный пакет.</AG_RandomGenepack.description>
+  <AG_RandomGenepack.description>Создать случайный генный пакет.</AG_RandomGenepack.description>
   <AG_RandomGeneTool.label>случайный генетический инструмент</AG_RandomGeneTool.label>
-  <AG_RandomGeneTool.description>Создаёт случайный генетический инструмент.</AG_RandomGeneTool.description>
+  <AG_RandomGeneTool.description>Создать случайный генетический инструмент.</AG_RandomGeneTool.description>
   <AG_AncientFaultyLamp.label>древняя неисправная лампа</AG_AncientFaultyLamp.label>
   <AG_AncientFaultyLamp.description>Металлическая капсула с биолюминесцентным веществом. Кажется, она всё ещё слабо светится.</AG_AncientFaultyLamp.description>
   <AG_RuinedLabLamp.label>древняя лабораторная лампа</AG_RuinedLabLamp.label>
-  <AG_RuinedLabLamp.description>Металлическая стойка со стеклянным цилиндром, наполненным биолюминесцентным веществом. Кажется, она всё ещё слабо светится.</AG_RuinedLabLamp.description>
+  <AG_RuinedLabLamp.description>Металлическая стойка со стеклянным цилиндром, наполненным неким биолюминесцентным веществом. Похоже, оно всё ещё слабо светится.</AG_RuinedLabLamp.description>
   <AG_RaidSpawner.label>разрушенный радиомаяк</AG_RaidSpawner.label>
-  <AG_RaidSpawner.description>Кажется, это устройство излучает слабые радиоволны.</AG_RaidSpawner.description>
-  <AG_TemporaryBandNode.label>временный канальный узел</AG_TemporaryBandNode.label>
+  <AG_RaidSpawner.description>Похоже, это устройство излучает слабые радиоволны.</AG_RaidSpawner.description>
+  <AG_TemporaryBandNode.label>временный узел связи</AG_TemporaryBandNode.label>
   <AG_TemporaryBandNode.description>Временный усилитель сигнала управления механоидами. Автоматически настраивается на призвавшего его механитора и увеличивает пропускную способность на 10, но через неделю исчезает. Не требует электричества.</AG_TemporaryBandNode.description>
   <AG_LuminescentColumn.label>светящаяся колонна</AG_LuminescentColumn.label>
   <AG_LuminescentColumn.description>Светящаяся колонна из коралла.</AG_LuminescentColumn.description>
@@ -68,29 +68,29 @@
   <AG_LargeCoralColumn.label>большая коралловая колонна</AG_LargeCoralColumn.label>
   <AG_DecorativeClam.label>большой моллюск</AG_DecorativeClam.label>
   <AG_DecorativeClam.description>Кажется, он просто отдыхает.</AG_DecorativeClam.description>
-  <AG_ForsakenForge.label>кузница забытых</AG_ForsakenForge.label>
-  <AG_ForsakenForge.description>Электрическая кузница для изготовления оружия и инструментов забытых. Построить её может только поселенец с геном «знания забытых».</AG_ForsakenForge.description>
+  <AG_ForsakenForge.label>кузница отверженных</AG_ForsakenForge.label>
+  <AG_ForsakenForge.description>Электрическая кузница для изготовления оружия и инструментов отверженных. Построить её может только поселенец с геном «Знания отверженных».</AG_ForsakenForge.description>
   <AG_RustedWall.label>ржавая стена биолаборатории</AG_RustedWall.label>
   <AG_RustedWall.description>Непроходимая стена. Поддерживает крышу.</AG_RustedWall.description>
   <AG_BlueCoralWall.description>Непроходимая стена. Поддерживает крышу.</AG_BlueCoralWall.description>
   <AG_BlueCoralWall.label>стена из синего коралла</AG_BlueCoralWall.label>
-  <AG_LabDoor.label>дверь лаборатории</AG_LabDoor.label>
+  <AG_LabDoor.label>лабораторная дверь</AG_LabDoor.label>
   <AG_LabDoor.description>Разделяет помещения. Эту простую дверь нужно открывать вручную, поэтому она замедляет проходящих. Время открывания зависит от материала.</AG_LabDoor.description>
   <AG_Alphapack.label>генный пакет</AG_Alphapack.label>
   <AG_Alphapack.description>Небольшая капсула с генетической информацией. Чтобы использовать генный пакет, поместите его в генный банк рядом с генным сборщиком и включите в состав вживляемого ксеносемени.
 
 Вне генного банка с работающим электропитанием пакет постепенно портится.</AG_Alphapack.description>
-  <AG_Mixedpack.label>генный пакет</AG_Mixedpack.label>
+  <AG_Mixedpack.label>смешанный генный пакет</AG_Mixedpack.label>
   <AG_Mixedpack.description>Небольшая капсула с генетической информацией. Чтобы использовать генный пакет, поместите его в генный банк рядом с генным сборщиком и включите в состав вживляемого ксеносемени.
 
 Вне генного банка с работающим электропитанием пакет постепенно портится.</AG_Mixedpack.description>
   <AG_GeneRemover.label>удалитель генов</AG_GeneRemover.label>
   <AG_GeneRemover.description>Генетический инструмент, удаляющий один случайный ген у человека. Процедура травматична и вызывает кому на 3 дня. На поселенца, уже находящегося в такой коме, устройство не подействует.</AG_GeneRemover.description>
   <AG_GeneRemover.comps.CompUsable.useLabel>Использовать удалитель генов</AG_GeneRemover.comps.CompUsable.useLabel>
-  <AG_Endogenefier.label>эндогенефикатор</AG_Endogenefier.label>
+  <AG_Endogenefier.label>эндогенификатор</AG_Endogenefier.label>
   <AG_Endogenefier.description>Генетический инструмент, превращающий один случайный ксеноген человека в наследуемый эндоген. Процедура вызывает кому на 3 дня. На поселенца, уже находящегося в такой коме, устройство не подействует.</AG_Endogenefier.description>
   <AG_Endogenefier.comps.CompUsable.useLabel>Использовать эндогенефикатор</AG_Endogenefier.comps.CompUsable.useLabel>
-  <AG_Xenogenefier.label>ксеногенефикатор</AG_Xenogenefier.label>
+  <AG_Xenogenefier.label>ксеногенификатор</AG_Xenogenefier.label>
   <AG_Xenogenefier.description>Генетический инструмент, превращающий один случайный наследуемый эндоген человека в ксеноген. Процедура вызывает кому на 3 дня. На поселенца, уже находящегося в такой коме, устройство не подействует.</AG_Xenogenefier.description>
   <AG_Xenogenefier.comps.CompUsable.useLabel>Использовать ксеногенефикатор</AG_Xenogenefier.comps.CompUsable.useLabel>
   <AG_XenotypeNullifier.label>обнулитель ксенотипа</AG_XenotypeNullifier.label>
@@ -99,14 +99,14 @@
   <AG_XenotypeInjector.label>инъектор ксенотипа</AG_XenotypeInjector.label>
   <AG_XenotypeInjector.description>Генетический инструмент, принудительно удаляющий все гены человека — и наследуемые, и ксеногены — и заменяющий их генами случайного ксенотипа. Процедура вызывает кому на 3 дня. На поселенца, уже находящегося в такой коме, устройство не подействует.</AG_XenotypeInjector.description>
   <AG_XenotypeInjector.comps.CompUsable.useLabel>Использовать инъектор ксенотипа</AG_XenotypeInjector.comps.CompUsable.useLabel>
-  <AG_GermlineMutator.label>мутатор наследуемых генов</AG_GermlineMutator.label>
+  <AG_GermlineMutator.label>мутатор наследственных генов</AG_GermlineMutator.label>
   <AG_GermlineMutator.description>Генетический инструмент, вызывающий мутацию в наследуемой части генома и добавляющий один случайный эндоген. Процедура вызывает кому на 3 дня. На поселенца, уже находящегося в такой коме, устройство не подействует.</AG_GermlineMutator.description>
   <AG_GermlineMutator.comps.CompUsable.useLabel>Использовать мутатор наследуемых генов</AG_GermlineMutator.comps.CompUsable.useLabel>
   <AG_GenepackTweaker.label>модификатор генных пакетов</AG_GenepackTweaker.label>
   <AG_GenepackTweaker.description>Генетический инструмент, добавляющий один случайный ген в существующий генный пакет. Пакет должен содержать не более 3 генов. Архитные гены таким способом добавить нельзя.</AG_GenepackTweaker.description>
   <AG_GenepackTweaker.comps.CompUsable.useLabel>Использовать модификатор генных пакетов</AG_GenepackTweaker.comps.CompUsable.useLabel>
   <AG_GenepackDisruptor.label>деструктор генных пакетов</AG_GenepackDisruptor.label>
-  <AG_GenepackDisruptor.description>Генетический инструмент, удаляющий один случайный ген из существующего генного пакета. Пакет должен содержать не менее 2 генов.</AG_GenepackDisruptor.description>
+  <AG_GenepackDisruptor.description>Генетический набор, способный удалить случайный ген из существующего генного пакета, альфа-пакета или смешанного пакета. Выбранный пакет должен содержать 2 или более генов.</AG_GenepackDisruptor.description>
   <AG_GenepackDisruptor.comps.CompUsable.useLabel>Использовать деструктор генных пакетов</AG_GenepackDisruptor.comps.CompUsable.useLabel>
   <AG_ArchoGeneRemover.label>архотехнологический удалитель генов</AG_ArchoGeneRemover.label>
   <AG_ArchoGeneRemover.description>Генетический инструмент, удаляющий один выбранный ген у человека. Процедура травматична и вызывает кому на 3 дня. На поселенца, уже находящегося в такой коме, устройство не подействует.</AG_ArchoGeneRemover.description>
@@ -117,31 +117,31 @@
   <AG_ArchoXenogenefier.label>архотехнологический ксеногенефикатор</AG_ArchoXenogenefier.label>
   <AG_ArchoXenogenefier.description>Генетический инструмент, превращающий один выбранный наследуемый эндоген человека в ксеноген. Процедура вызывает кому на 3 дня. На поселенца, уже находящегося в такой коме, устройство не подействует.</AG_ArchoXenogenefier.description>
   <AG_ArchoXenogenefier.comps.CompUsable.useLabel>Использовать архотехнологический ксеногенефикатор</AG_ArchoXenogenefier.comps.CompUsable.useLabel>
-  <AG_HumanEgg.label>человеческое яйцо (опл.)</AG_HumanEgg.label>
-  <AG_HumanEgg.description>Оплодотворённое человеческое яйцо. Если всё пойдёт хорошо, из него вылупится человек. Необходимо хранить при температуре от 0 до 50 °C.</AG_HumanEgg.description>
-  <AG_Ultima.label>ткань ультима</AG_Ultima.label>
-  <AG_Ultima.description>Ткань ультима используется для изготовления брони забытых. Её получают из септимума; сеять это растение могут только поселенцы с геном «знания забытых».</AG_Ultima.description>
-  <AG_Forsaken_Hood.label>капюшон забытых</AG_Forsaken_Hood.label>
-  <AG_Forsaken_Hood.description>Капюшон в стиле забытых. Защищает владельца и помогает сохранять спокойствие и сосредоточенность.</AG_Forsaken_Hood.description>
-  <AG_Forsaken_Hood_Child.description>Капюшон в стиле забытых. Защищает владельца и помогает сохранять спокойствие и сосредоточенность.</AG_Forsaken_Hood_Child.description>
-  <AG_Forsaken_Hood_Child.label>детский капюшон забытых</AG_Forsaken_Hood_Child.label>
-  <AG_ForsakenCloak.label>плащ забытых</AG_ForsakenCloak.label>
-  <AG_ForsakenCloak.description>Плащ, созданный забытыми для охоты.</AG_ForsakenCloak.description>
-  <AG_ForsakenCloak_Child.description>Плащ, созданный забытыми для охоты.</AG_ForsakenCloak_Child.description>
-  <AG_ForsakenCloak_Child.label>детский плащ забытых</AG_ForsakenCloak_Child.label>
-  <AG_ForsakenMarineHelmet.label>шлем забытых</AG_ForsakenMarineHelmet.label>
-  <AG_ForsakenMarineHelmet.description>Боевой шлем забытых, изготовленный с применением ультратехнологий. Исключительно прочен и помогает сосредоточиться.</AG_ForsakenMarineHelmet.description>
-  <AG_ForsakenMarineHelmetPsy.label>пси-шлем забытых</AG_ForsakenMarineHelmetPsy.label>
-  <AG_ForsakenMarineHelmetPsy.description>Боевой шлем забытых, изготовленный с применением ультратехнологий. Исключительно прочен и помогает сосредоточиться. Эта модель усиливает психочувствительность, а не подавляет её.</AG_ForsakenMarineHelmetPsy.description>
-  <AG_ForsakenMarineArmor.label>броня забытых</AG_ForsakenMarineArmor.label>
-  <AG_ForsakenMarineArmor.description>Боевая броня забытых, изготовленная с применением ультратехнологий. Исключительно прочная и удобная.</AG_ForsakenMarineArmor.description>
+  <AG_HumanEgg.label>человеческое яйцо (оплод.)</AG_HumanEgg.label>
+  <AG_HumanEgg.description>Оплодотворённое человеческое яйцо. Если всё пойдёт хорошо, из него вылупится человек. Необходимо хранить при температуре от 0 до 50 ºC.</AG_HumanEgg.description>
+  <AG_Ultima.label>ткань «ультима»</AG_Ultima.label>
+  <AG_Ultima.description>Ткань «ультима» используется для изготовления брони отверженных. Её получают из растения септимум, которое могут сеять только поселенцы с геном «Знания отверженных».</AG_Ultima.description>
+  <AG_Forsaken_Hood.label>капюшон отверженных</AG_Forsaken_Hood.label>
+  <AG_Forsaken_Hood.description>Этот капюшон в стиле отверженных защищает владельца и помогает сохранять спокойствие и сосредоточенность.</AG_Forsaken_Hood.description>
+  <AG_Forsaken_Hood_Child.description>Этот капюшон в стиле отверженных защищает владельца и помогает сохранять спокойствие и сосредоточенность.</AG_Forsaken_Hood_Child.description>
+  <AG_Forsaken_Hood_Child.label>детский капюшон отверженных</AG_Forsaken_Hood_Child.label>
+  <AG_ForsakenCloak.label>плащ отверженных</AG_ForsakenCloak.label>
+  <AG_ForsakenCloak.description>Отверженные создали этот плащ для всех своих охотничьих нужд.</AG_ForsakenCloak.description>
+  <AG_ForsakenCloak_Child.description>Отверженные создали этот плащ для всех своих охотничьих нужд.</AG_ForsakenCloak_Child.description>
+  <AG_ForsakenCloak_Child.label>детский плащ отверженных</AG_ForsakenCloak_Child.label>
+  <AG_ForsakenMarineHelmet.label>шлем отверженных</AG_ForsakenMarineHelmet.label>
+  <AG_ForsakenMarineHelmet.description>Ультратехнологический боевой шлем отверженных. Чрезвычайно прочный и помогает сосредоточиться.</AG_ForsakenMarineHelmet.description>
+  <AG_ForsakenMarineHelmetPsy.label>шлем псионика отверженных</AG_ForsakenMarineHelmetPsy.label>
+  <AG_ForsakenMarineHelmetPsy.description>Ультратехнологический боевой шлем отверженных. Чрезвычайно прочный и помогает сосредоточиться. Эта модель повышает психическую чувствительность вместо того, чтобы подавлять её.</AG_ForsakenMarineHelmetPsy.description>
+  <AG_ForsakenMarineArmor.label>броня отверженных</AG_ForsakenMarineArmor.label>
+  <AG_ForsakenMarineArmor.description>Ультратехнологическая боевая броня отверженных. Чрезвычайно прочная и удобная.</AG_ForsakenMarineArmor.description>
   <AG_FilthMucus.label>слизистая кровь</AG_FilthMucus.label>
   <AG_FilthSlimyPuke.label>зловонная рвота</AG_FilthSlimyPuke.label>
-  <AG_TarBlood.label>смолянистая кровь</AG_TarBlood.label>
+  <AG_TarBlood.label>смолистая кровь</AG_TarBlood.label>
   <AG_Filth_Fuel.label>лужа химтоплива</AG_Filth_Fuel.label>
   <AG_Filth_Fuel.description>Лужа легковоспламеняющегося химтоплива.</AG_Filth_Fuel.description>
   <AG_Filth_RubbleRock.label>кристаллизованная кровь</AG_Filth_RubbleRock.label>
-  <AG_Filth_Rats.label>крысиный помёт</AG_Filth_Rats.label>
+  <AG_Filth_Rats.label>крысиная грязь</AG_Filth_Rats.label>
   <AG_Filth_Acid.label>нейтрализованная кислотная кровь</AG_Filth_Acid.label>
   <AG_Filth_CryoVomit.label>криогенная рвота</AG_Filth_CryoVomit.label>
   <AG_Filth_CryoVomitPermanent.label>криогенная рвота</AG_Filth_CryoVomitPermanent.label>
@@ -160,41 +160,41 @@
   <AG_Filth_SterilizingBreath.label>отработанная стерилизующая пена</AG_Filth_SterilizingBreath.label>
   <AG_Filth_YellowBlood.label>жёлтая кровь</AG_Filth_YellowBlood.label>
   <AG_GreenGas.label>кислотный туман</AG_GreenGas.label>
-  <AG_Rocks.label>минеральный сгусток</AG_Rocks.label>
+  <AG_Rocks.label>минеральный комок</AG_Rocks.label>
   <AG_Lightning.label>электрический разряд</AG_Lightning.label>
   <AG_GreaterFireSpew.label>усиленный огненный плевок</AG_GreaterFireSpew.label>
   <AG_AcidicVomit.label>кислотная рвота</AG_AcidicVomit.label>
   <AG_GazeAttack.label>атака взглядом</AG_GazeAttack.label>
   <AG_Web.label>паутина</AG_Web.label>
   <AG_SterilizingBreath_Proj.label>стерилизующая пена</AG_SterilizingBreath_Proj.label>
-  <AG_BansheeScream.label>звуковой взрыв</AG_BansheeScream.label>
+  <AG_BansheeScream.label>звуковой удар</AG_BansheeScream.label>
   <AG_FreezingBreath_Proj.label>ледяное дыхание</AG_FreezingBreath_Proj.label>
-  <AG_NoxiousBreath_Proj.label>зловонное дыхание</AG_NoxiousBreath_Proj.label>
+  <AG_NoxiousBreath_Proj.label>ядовитое дыхание</AG_NoxiousBreath_Proj.label>
   <AG_Septimum.label>септимум</AG_Septimum.label>
-  <AG_Septimum.description>Культурное растение среднего размера, дающее волокна ультимы. Из них изготавливают броню забытых. Сеять септимум могут только поселенцы с геном «знания забытых».</AG_Septimum.description>
+  <AG_Septimum.description>Культура среднего размера, дающая волокна ультимы. Из этих волокон делают броню отверженных. Посеять это растение могут только поселенцы с геном «Знания отверженных».</AG_Septimum.description>
   <AG_Gamma.label>гамма</AG_Gamma.label>
-  <AG_Gamma.description>Красивое инопланетное растение, которое забытые часто используют как источник света. Крайне ядовито — есть его не стоит. Сеять гамму могут только поселенцы с геном «знания забытых».</AG_Gamma.description>
+  <AG_Gamma.description>Красивое инопланетное растение. Отверженные часто используют его как источник света. Есть его крайне не рекомендуется: оно очень ядовито. Посеять это растение могут только поселенцы с геном «Знания отверженных».</AG_Gamma.description>
   <AG_DarkGamma.label>тёмная гамма</AG_DarkGamma.label>
-  <AG_DarkGamma.description>Красивое инопланетное растение, которое забытые часто используют как источник тёмного света. Крайне ядовито — есть его не стоит. Сеять тёмную гамму могут только поселенцы с геном «знания забытых».</AG_DarkGamma.description>
-  <AG_ForsakenSniper.label>снайперская винтовка забытых</AG_ForsakenSniper.label>
-  <AG_ForsakenSniper.description>Исследователи забытых ценят эту снайперскую винтовку за дальнобойность и высокую точность.</AG_ForsakenSniper.description>
+  <AG_DarkGamma.description>Красивое инопланетное растение. Отверженные часто используют его как источник тёмного света. Есть его крайне не рекомендуется: оно очень ядовито. Посеять это растение могут только поселенцы с геном «Знания отверженных».</AG_DarkGamma.description>
+  <AG_ForsakenSniper.label>снайперская винтовка отверженных</AG_ForsakenSniper.label>
+  <AG_ForsakenSniper.description>Отверженные-исследователи ценят эту снайперскую винтовку за большую дальность стрельбы и высокую точность.</AG_ForsakenSniper.description>
   <AG_ForsakenSniper.tools.barrel.label>ствол</AG_ForsakenSniper.tools.barrel.label>
   <AG_ForsakenShotgun.tools.barrel.label>ствол</AG_ForsakenShotgun.tools.barrel.label>
   <AG_ForsakenAssaultRifle.tools.barrel.label>ствол</AG_ForsakenAssaultRifle.tools.barrel.label>
-  <AG_ForsakenSniper.verbs.Verb_Shoot.label>снайперская винтовка забытых</AG_ForsakenSniper.verbs.Verb_Shoot.label>
-  <AG_SniperPulse.label>заряд снайперской винтовки забытых</AG_SniperPulse.label>
-  <AG_ForsakenShotgun.label>дробовик забытых</AG_ForsakenShotgun.label>
-  <AG_ForsakenShotgun.description>Дробовик забытых. Очень точен на коротких дистанциях и особенно смертоносен вблизи.</AG_ForsakenShotgun.description>
+  <AG_ForsakenSniper.verbs.Verb_Shoot.label>снайперская винтовка отверженных</AG_ForsakenSniper.verbs.Verb_Shoot.label>
+  <AG_SniperPulse.label>импульс снайперской винтовки отверженных</AG_SniperPulse.label>
+  <AG_ForsakenShotgun.label>дробовик отверженных</AG_ForsakenShotgun.label>
+  <AG_ForsakenShotgun.description>Дробовик отверженных: очень точен на коротких дистанциях и крайне смертоносен вблизи.</AG_ForsakenShotgun.description>
   <AG_ForsakenShotgun.tools.stock.label>приклад</AG_ForsakenShotgun.tools.stock.label>
   <AG_ForsakenAssaultRifle.tools.stock.label>приклад</AG_ForsakenAssaultRifle.tools.stock.label>
-  <AG_ForsakenShotgun.verbs.Verb_Shoot.label>дробовик забытых</AG_ForsakenShotgun.verbs.Verb_Shoot.label>
-  <AG_ShotgunPulse.label>заряд дробовика забытых</AG_ShotgunPulse.label>
-  <AG_ForsakenAssaultRifle.label>штурмовая винтовка забытых</AG_ForsakenAssaultRifle.label>
-  <AG_ForsakenAssaultRifle.description>Штурмовая винтовка забытых использует патроны довольно малого калибра и долго перезаряжается, зато стреляет длинными очередями, хорошо пробивает броню и достаточно точна.</AG_ForsakenAssaultRifle.description>
-  <AG_ForsakenAssaultRifle.verbs.Verb_Shoot.label>штурмовая винтовка забытых</AG_ForsakenAssaultRifle.verbs.Verb_Shoot.label>
-  <AG_ForsakenAssaultRiflePulse.label>заряд штурмовой винтовки забытых</AG_ForsakenAssaultRiflePulse.label>
-  <AG_ForsakenLongBlade.label>длинный меч забытых</AG_ForsakenLongBlade.label>
-  <AG_ForsakenLongBlade.description>Этот длинный меч забытых легко поднять и размахнуть им, но удар он наносит весьма ощутимый.</AG_ForsakenLongBlade.description>
+  <AG_ForsakenShotgun.verbs.Verb_Shoot.label>дробовик отверженных</AG_ForsakenShotgun.verbs.Verb_Shoot.label>
+  <AG_ShotgunPulse.label>импульс дробовика отверженных</AG_ShotgunPulse.label>
+  <AG_ForsakenAssaultRifle.label>штурмовая винтовка отверженных</AG_ForsakenAssaultRifle.label>
+  <AG_ForsakenAssaultRifle.description>Эта штурмовая винтовка отверженных использует патроны довольно малого калибра и долго перезаряжается, но стреляет длинными очередями, хорошо пробивает броню и обладает неплохой точностью.</AG_ForsakenAssaultRifle.description>
+  <AG_ForsakenAssaultRifle.verbs.Verb_Shoot.label>штурмовая винтовка отверженных</AG_ForsakenAssaultRifle.verbs.Verb_Shoot.label>
+  <AG_ForsakenAssaultRiflePulse.label>импульс штурмовой винтовки отверженных</AG_ForsakenAssaultRiflePulse.label>
+  <AG_ForsakenLongBlade.label>длинный клинок отверженных</AG_ForsakenLongBlade.label>
+  <AG_ForsakenLongBlade.description>Этот длинный меч отверженных легко поднять и занести для удара, но он способен наносить значительный урон.</AG_ForsakenLongBlade.description>
   <AG_ForsakenLongBlade.tools.handle.label>рукоять</AG_ForsakenLongBlade.tools.handle.label>
   <AG_ForsakenBattleAxe.tools.handle.label>рукоять</AG_ForsakenBattleAxe.tools.handle.label>
   <AG_ForsakenBulkSword.tools.handle.label>рукоять</AG_ForsakenBulkSword.tools.handle.label>
@@ -203,22 +203,22 @@
   <AG_ForsakenLongBlade.tools.edge.label>лезвие</AG_ForsakenLongBlade.tools.edge.label>
   <AG_ForsakenBattleAxe.tools.edge.label>лезвие</AG_ForsakenBattleAxe.tools.edge.label>
   <AG_ForsakenBulkSword.tools.edge.label>лезвие</AG_ForsakenBulkSword.tools.edge.label>
-  <AG_ForsakenBattleAxe.label>боевой топор забытых</AG_ForsakenBattleAxe.label>
-  <AG_ForsakenBattleAxe.description>Традиционный боевой топор забытых наносит тяжёлые раны, но из-за веса и неудобной формы управляться с ним непросто.</AG_ForsakenBattleAxe.description>
+  <AG_ForsakenBattleAxe.label>боевой топор отверженных</AG_ForsakenBattleAxe.label>
+  <AG_ForsakenBattleAxe.description>Традиционный боевой топор отверженных наносит сильные удары, но из-за неудобной формы и большого веса с ним трудно управляться.</AG_ForsakenBattleAxe.description>
   <AG_ForsakenBattleAxe.tools.axe.label>остриё</AG_ForsakenBattleAxe.tools.axe.label>
   <AG_ForsakenBulkSword.tools.axe.label>остриё</AG_ForsakenBulkSword.tools.axe.label>
-  <AG_ForsakenBulkSword.label>массивный меч забытых</AG_ForsakenBulkSword.label>
-  <AG_ForsakenBulkSword.description>Аналог гладиуса у забытых, распространённое запасное оружие их пехоты. Очень плохо пробивает броню, зато прост в обращении.</AG_ForsakenBulkSword.description>
-  <AG_ForsakenSpear.label>копьё забытых</AG_ForsakenSpear.label>
-  <AG_ForsakenSpear.description>Копьё забытых. Наносит большой урон, но требует сноровки.</AG_ForsakenSpear.description>
+  <AG_ForsakenBulkSword.label>массивный меч отверженных</AG_ForsakenBulkSword.label>
+  <AG_ForsakenBulkSword.description>Аналог гладия у отверженных, распространённое запасное оружие их пехоты. Очень плохо пробивает броню, зато прост в обращении.</AG_ForsakenBulkSword.description>
+  <AG_ForsakenSpear.label>копьё отверженных</AG_ForsakenSpear.label>
+  <AG_ForsakenSpear.description>Копьё отверженных. Наносит большой урон, но с ним бывает трудно управляться.</AG_ForsakenSpear.description>
   <AG_ForsakenSpear.tools.shaft.label>древко</AG_ForsakenSpear.tools.shaft.label>
-  <AG_ForsakenBow.label>лук забытых</AG_ForsakenBow.label>
-  <AG_ForsakenBow.description>Традиционный лук забытых. Очень точен и наносит немалый урон. Острые края позволяют использовать его в ближнем бою.</AG_ForsakenBow.description>
+  <AG_ForsakenBow.label>лук отверженных</AG_ForsakenBow.label>
+  <AG_ForsakenBow.description>Этот традиционный лук отверженных очень точен и наносит неплохой урон. Острые края позволяют использовать его и в ближнем бою.</AG_ForsakenBow.description>
   <AG_ForsakenBow.tools.limb.label>плечо</AG_ForsakenBow.tools.limb.label>
-  <AG_ForsakenBow.verbs.Verb_Shoot.label>лук забытых</AG_ForsakenBow.verbs.Verb_Shoot.label>
-  <AG_ForsakenArrow.label>стрела забытых</AG_ForsakenArrow.label>
-  <AG_ForsakenHydra.label>«Чёрная гидра» забытых</AG_ForsakenHydra.label>
-  <AG_ForsakenHydra.description>«Чёрная гидра» забытых — особое оружие, притягивающее молнии к месту попадания с помощью детонатора, создающего ионизированное электрическое облако. По легенде, для работы ему требовалось сердце гидры.</AG_ForsakenHydra.description>
-  <AG_ForsakenHydra.verbs.Verb_Shoot.label>«Чёрная гидра» забытых</AG_ForsakenHydra.verbs.Verb_Shoot.label>
+  <AG_ForsakenBow.verbs.Verb_Shoot.label>лук отверженных</AG_ForsakenBow.verbs.Verb_Shoot.label>
+  <AG_ForsakenArrow.label>стрела отверженных</AG_ForsakenArrow.label>
+  <AG_ForsakenHydra.label>«Чёрная гидра» отверженных</AG_ForsakenHydra.label>
+  <AG_ForsakenHydra.description>«Чёрная гидра» отверженных — особая оружейная система, которая благодаря ионизированному детонатору электрического облака притягивает молнии к точке попадания. По легенде, для работы такому оружию требовалось сердце гидры.</AG_ForsakenHydra.description>
+  <AG_ForsakenHydra.verbs.Verb_Shoot.label>«Чёрная гидра» отверженных</AG_ForsakenHydra.verbs.Verb_Shoot.label>
   <AG_Bullet_HydraBlast.label>заряд «Гидры»</AG_Bullet_HydraBlast.label>
 </LanguageData>

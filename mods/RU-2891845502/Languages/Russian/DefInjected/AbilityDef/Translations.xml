@@ -4,12 +4,12 @@
   <AG_AcidicDetonation.description>Выбросить из всех пор поток кислоты под давлением. Кислотный взрыв ранит всех поблизости, кроме самого обладателя способности.</AG_AcidicDetonation.description>
   <AG_Detonation.label>взрыв</AG_Detonation.label>
   <AG_Detonation.description>Выпустить раскалённые газы, образующиеся в организме. Волна перегретого воздуха поражает всё вокруг, кроме самого обладателя способности.</AG_Detonation.description>
-  <AG_MechConversion.label>взлом механоида</AG_MechConversion.label>
+  <AG_MechConversion.label>сбой распознавания «свой — чужой»</AG_MechConversion.label>
   <AG_MechConversion.description>Дистанционно взломать систему «свой — чужой» механоида, временно переманив его на свою сторону. Через сутки механоид вернётся к прежней фракции и начнёт атаковать всех без разбора.</AG_MechConversion.description>
-  <AG_BandwidthLoop.label>перегрузка сети механоида</AG_BandwidthLoop.label>
+  <AG_BandwidthLoop.label>зацикливание канала связи</AG_BandwidthLoop.label>
   <AG_BandwidthLoop.description>Силой мысли создать петлю обратной связи в канале управления механоидом. Перегрузка уничтожит его взрывом и повредит всё поблизости. Радиус взрыва зависит от пропускной способности, которую занимает механоид.</AG_BandwidthLoop.description>
-  <AG_SummonTempBandwidth.label>призвать канальный узел</AG_SummonTempBandwidth.label>
-  <AG_SummonTempBandwidth.description>Призвать временный канальный узел, который на неделю увеличит пропускную способность обладателя способности на 10.</AG_SummonTempBandwidth.description>
+  <AG_SummonTempBandwidth.label>призвать узел связи</AG_SummonTempBandwidth.label>
+  <AG_SummonTempBandwidth.description>Призвать временный узел связи, который на целую неделю увеличит пропускную способность призывателя на 10.</AG_SummonTempBandwidth.description>
   <AG_SummonMilitor.label>призвать боевого дрона</AG_SummonMilitor.label>
   <AG_SummonMilitor.description>Призвать боевого дрона. Он присоединится к колонии на сутки, а затем исчезнет. Для применения способности нужна хотя бы 1 единица свободной пропускной способности.</AG_SummonMilitor.description>
   <AG_SummonTesseron.label>призвать тессерона</AG_SummonTesseron.label>
@@ -17,9 +17,9 @@
   <AG_SummonCentipede.label>призвать сентипеду</AG_SummonCentipede.label>
   <AG_SummonCentipede.description>Призвать бластерную сентипеду. Она присоединится к колонии на сутки, а затем исчезнет. Для применения способности нужны хотя бы 4 единицы свободной пропускной способности.</AG_SummonCentipede.description>
   <AG_ReactiveArmourA.label>реактивная броня</AG_ReactiveArmourA.label>
-  <AG_ReactiveArmourA.description>Израсходовать минералы, чтобы укрепить тело для защиты от колющих и режущих атак.</AG_ReactiveArmourA.description>
-  <AG_MineralOverdriveA.label>минеральная перегрузка</AG_MineralOverdriveA.label>
-  <AG_MineralOverdriveA.description>Расходовать запас минералов для повышения эффективности работы.</AG_MineralOverdriveA.description>
+  <AG_ReactiveArmourA.description>Расходовать минералы для укрепления своего тела против колющих и режущих атак.</AG_ReactiveArmourA.description>
+  <AG_MineralOverdriveA.label>минеральное усиление</AG_MineralOverdriveA.label>
+  <AG_MineralOverdriveA.description>Расходовать минералы для повышения эффективности своей работы.</AG_MineralOverdriveA.description>
   <AG_MineralShock.label>минеральный удар</AG_MineralShock.label>
   <AG_MineralShock.description>Израсходовать запасённые минералы, чтобы выстрелить плотным комком грунта, наносящим цели тупой урон.</AG_MineralShock.description>
   <AG_WingPoweredJump.label>прыжок с помощью крыльев</AG_WingPoweredJump.label>
@@ -27,16 +27,16 @@
   <AG_WingPoweredJump.verbProperties.label>взмахнуть крыльями</AG_WingPoweredJump.verbProperties.label>
   <AG_UnstableMutation.label>нестабильная мутация</AG_UnstableMutation.label>
   <AG_UnstableMutation.description>Вызвать нестабильную мутацию собственного тела: на 12 часов активируется новый случайный ген, после чего он перестанет действовать.</AG_UnstableMutation.description>
-  <AG_InsectRally.label>тактика стаи</AG_InsectRally.label>
+  <AG_InsectRally.label>стайная тактика</AG_InsectRally.label>
   <AG_InsectRally.description>Выделить облако феромонов, неотразимо привлекающих насекомых. Рядом с обладателем способности насекомые получают прилив сил и становятся сильнее.</AG_InsectRally.description>
-  <AG_UnstableMind.label>нестабильный разум</AG_UnstableMind.label>
+  <AG_UnstableMind.label>неустойчивая психика</AG_UnstableMind.label>
   <AG_UnstableMind.description>Пси-ударом расшатать чужой разум, повысив вероятность нервного срыва и значительно увеличив психочувствительность. Эффект длится три часа. Способность действует как на врагов, так и на союзников.</AG_UnstableMind.description>
   <AG_DevourBrains.label>пожрать мозг</AG_DevourBrains.label>
   <AG_DevourBrains.description>Пожрать мозг живого, но поверженного человека, поглотив часть его интеллекта. Получаемое усиление зависит от самого развитого навыка жертвы. Жертва погибнет.
 
 Одновременно действует только одно такое усиление. Повторное применение до истечения двух суток заменяет усиление и обновляет его длительность.</AG_DevourBrains.description>
-  <AG_GeneSyphon.label>извлечение гена</AG_GeneSyphon.label>
-  <AG_GeneSyphon.description>Насильно извлечь случайный ген из живого, но поверженного человека и внедрить его в собственный ксенотип как ксеноген. Жертва погибнет.</AG_GeneSyphon.description>
+  <AG_GeneSyphon.label>поглощение генов</AG_GeneSyphon.label>
+  <AG_GeneSyphon.description>Насильно извлечь ген из живого, но обездвиженного человека и включить его в собственный ксенотип в качестве ксеногена. Ген выбирается случайным образом. Жертва погибнет.</AG_GeneSyphon.description>
   <AG_TailGrapple.label>захват хвостом</AG_TailGrapple.label>
   <AG_TailGrapple.description>Схватить цель цепким хвостом и ненадолго обездвижить её.</AG_TailGrapple.description>
   <AG_UnstableRegeneration.label>нестабильная регенерация</AG_UnstableRegeneration.label>
@@ -44,24 +44,24 @@
   <AG_AdaptiveBiology.label>адаптивная биология</AG_AdaptiveBiology.label>
   <AG_AdaptiveBiology.description>Заменить случайную черту характера новой случайной чертой.</AG_AdaptiveBiology.description>
   <AG_SuperAdaptiveBiology.label>сверхадаптивная биология</AG_SuperAdaptiveBiology.label>
-  <AG_SuperAdaptiveBiology.description>Заменить пять случайных черт характера пятью новыми случайными чертами.</AG_SuperAdaptiveBiology.description>
+  <AG_SuperAdaptiveBiology.description>Удаляет пять случайных черт характера и добавляет пять новых случайных черт.</AG_SuperAdaptiveBiology.description>
   <AG_PsychicAbsorption.label>поглощение воспоминаний</AG_PsychicAbsorption.label>
   <AG_PsychicAbsorption.description>Забрать у цели самое тяжёлое из доступных негативных воспоминаний, приняв его на себя. Воспоминания со штрафом к настроению −40 и ниже поглотить нельзя.
 
 Способность действует на воспоминания — мысли, которые исчезают со временем. Ситуативные мысли, например о сильной боли, поглотить нельзя.</AG_PsychicAbsorption.description>
-  <AG_SpeedBurst.label>ускорение</AG_SpeedBurst.label>
-  <AG_SpeedBurst.description>Ненадолго увеличить скорость передвижения.</AG_SpeedBurst.description>
+  <AG_SpeedBurst.label>рывок скорости</AG_SpeedBurst.label>
+  <AG_SpeedBurst.description>Ненадолго увеличивает скорость передвижения применившего способность.</AG_SpeedBurst.description>
   <AG_NereidPocketPlane.label>карманное измерение нереиды</AG_NereidPocketPlane.label>
   <AG_NereidPocketPlane.description>Открыть проход в отдельное измерение, доступное только обладателю способности. Применение внутри карманного измерения вернёт его на исходную карту, в точку, откуда он переместился.</AG_NereidPocketPlane.description>
   <AG_DestroyPocketPlane.label>уничтожить карманное измерение</AG_DestroyPocketPlane.label>
-  <AG_DestroyPocketPlane.description>Уничтожить карманное измерение вместе со всем его содержимым. ВНИМАНИЕ: можно открыть новое карманное измерение, но прежнее будет потеряно навсегда.</AG_DestroyPocketPlane.description>
-  <AG_TeleportItemsPocketPlane.label>перенос в карманное измерение</AG_TeleportItemsPocketPlane.label>
-  <AG_TeleportItemsPocketPlane.description>Перенести предметы в карманное измерение. Предметы можно отправить туда, но нельзя перенести обратно!</AG_TeleportItemsPocketPlane.description>
+  <AG_DestroyPocketPlane.description>Уничтожает карманное измерение вместе со всем его содержимым. ВНИМАНИЕ: вы сможете открыть новое карманное измерение, но прежнее будет утрачено навсегда.</AG_DestroyPocketPlane.description>
+  <AG_TeleportItemsPocketPlane.label>переместить в карманное измерение</AG_TeleportItemsPocketPlane.label>
+  <AG_TeleportItemsPocketPlane.description>Переместить предметы в карманное измерение. Предметы можно отправлять туда, но нельзя забирать обратно!</AG_TeleportItemsPocketPlane.description>
   <AG_Zap.label>электрический разряд</AG_Zap.label>
-  <AG_Zap.description>Накопить энергию и высвободить её мощным электрическим разрядом, поражающим цель.</AG_Zap.description>
-  <AG_GreaterFireSpew.label>усиленный огненный плевок</AG_GreaterFireSpew.label>
+  <AG_Zap.description>Накопить энергию и выпустить её мощным электрическим разрядом, поражающим цель.</AG_Zap.description>
+  <AG_GreaterFireSpew.label>мощное огненное дыхание</AG_GreaterFireSpew.label>
   <AG_GreaterFireSpew.description>Выплюнуть горючую желчь, которую вырабатывает особый орган в шее. При контакте с кислородом желчь мгновенно вспыхивает, поджигая всё на своём пути.</AG_GreaterFireSpew.description>
-  <AG_GreaterAcidicVomit.label>усиленный кислотный плевок</AG_GreaterAcidicVomit.label>
+  <AG_GreaterAcidicVomit.label>мощная кислотная рвота</AG_GreaterAcidicVomit.label>
   <AG_GreaterAcidicVomit.description>Изрыгнуть особо едкую желудочную кислоту, залив ею обширную область. Кислота наносит страшные раны, которые продолжают углубляться по мере того, как она прожигает ткани.</AG_GreaterAcidicVomit.description>
   <AG_PetrifyingGaze.label>окаменяющий взгляд</AG_PetrifyingGaze.label>
   <AG_PetrifyingGaze.description>Взглядом превратить жертву в камень. Что-то там про механиты или вроде того. В общем, это наука.</AG_PetrifyingGaze.description>
@@ -70,45 +70,39 @@
   <AG_InsanityBlast.label>приступ безумия</AG_InsanityBlast.label>
   <AG_InsanityBlast.description>Пси-ударом поразить чужой разум, заставив жертву впасть в бешенство и нападать на всех вокруг без разбора. Цели с низкой психочувствительностью могут сопротивляться этому воздействию.</AG_InsanityBlast.description>
   <AG_SterilizingBreath.label>стерилизующее дыхание</AG_SterilizingBreath.label>
-  <AG_SterilizingBreath.description>Выплюнуть большое количество стерилизующей жидкости. Она уничтожает болезни растений, а у людей ускоряет выработку иммунитета, но снижает плодовитость.</AG_SterilizingBreath.description>
+  <AG_SterilizingBreath.description>Извергнуть большое количество стерилизующей жидкости. Она устраняет болезни растений и ускоряет выработку иммунитета ценой снижения плодовитости.</AG_SterilizingBreath.description>
   <AG_BansheeScream.label>крик банши</AG_BansheeScream.label>
   <AG_BansheeScream.description>Вселить страх в поражённые цели, ненадолго снизив их точность атак и защиту.</AG_BansheeScream.description>
   <AG_FreezingBreath.label>ледяное дыхание</AG_FreezingBreath.label>
-  <AG_FreezingBreath.description>Выплюнуть большое количество криогенной жидкости. Она замораживает всё, к чему прикасается, вызывая обморожения и переохлаждение.</AG_FreezingBreath.description>
-  <AG_NoxiousBreath.label>зловонное дыхание</AG_NoxiousBreath.label>
-  <AG_NoxiousBreath.description>Выдохнуть облако ядовитых испарений, окутав врагов удушающими миазмами. Отвратительный запах вызывает неудержимую рвоту.</AG_NoxiousBreath.description>
+  <AG_FreezingBreath.description>Извергнуть большое количество криогенной жидкости. Она замораживает всё, чего касается, вызывая обморожения и переохлаждение.</AG_FreezingBreath.description>
+  <AG_NoxiousBreath.label>ядовитое дыхание</AG_NoxiousBreath.label>
+  <AG_NoxiousBreath.description>Выдохнуть облако ядовитых испарений, окутывающее врагов удушающими миазмами. Отвратительный смрад вызывает у попавших в облако неудержимую рвоту.</AG_NoxiousBreath.description>
   <AG_InsectStinger.label>ввести ксеногены жалом</AG_InsectStinger.label>
-  <AG_InsectStinger.description>Вживить свои ксеногены другому человеку с помощью омерзительного жала-инъектора.
-
-Ксеносемя заменит ксеногены цели. Наследуемые гены не изменятся.</AG_InsectStinger.description>
+  <AG_InsectStinger.description>Внедрить ксеногены этого человека в другого с помощью отвратительного жала-инъектора.\n\nВнедрённое ксеносемя заменит ксеногены цели. Наследуемые гены останутся нетронутыми.</AG_InsectStinger.description>
   <AG_InsectStingerEndogenes.label>ввести эндогены жалом</AG_InsectStingerEndogenes.label>
   <AG_InsectStingerEndogenes.description>Вживить свои эндогены другому человеку с помощью омерзительного жала-инъектора.
 
 Эти гены заменят эндогены цели. Ксеногены не изменятся.</AG_InsectStingerEndogenes.description>
   <AG_ParasiticStinger.label>ввести яйца с ксеногенами</AG_ParasiticStinger.label>
-  <AG_ParasiticStinger.description>Вживить яйца со своими ксеногенами другому человеку с помощью омерзительного жала-инъектора.
-
-Яйца начнут развиваться внутри жертвы. В конце концов потомство прорвётся наружу, убив её.</AG_ParasiticStinger.description>
+  <AG_ParasiticStinger.description>Внедрить яйца с ксеногенами этого человека в другого с помощью отвратительного жала-инъектора.\n\nЯйца начнут развиваться внутри цели, а затем вырвутся наружу, убив её.</AG_ParasiticStinger.description>
   <AG_ParasiticStingerEndogenes.label>ввести яйца с эндогенами</AG_ParasiticStingerEndogenes.label>
-  <AG_ParasiticStingerEndogenes.description>Вживить яйца со своими эндогенами другому человеку с помощью омерзительного жала-инъектора.
-
-Яйца начнут развиваться внутри жертвы. В конце концов потомство прорвётся наружу, убив её.</AG_ParasiticStingerEndogenes.description>
+  <AG_ParasiticStingerEndogenes.description>Внедрить яйца со своими эндогенами в тело выбранной жертвы с помощью отвратительного жала-инъектора.\n\nПосле внедрения яйца начнут расти внутри жертвы и в конце концов прорвутся наружу, убив её.</AG_ParasiticStingerEndogenes.description>
   <AG_MinorSummon.label>малый призыв</AG_MinorSummon.label>
-  <AG_MinorSummon.description>Призвать существо, которое останется рядом на короткое время и будет атаковать всех врагов владельца способности.</AG_MinorSummon.description>
-  <AG_Summon.description>Призвать существо, которое останется рядом на короткое время и будет атаковать всех врагов владельца способности.</AG_Summon.description>
-  <AG_MajorSummon.description>Призвать существо, которое останется рядом на короткое время и будет атаковать всех врагов владельца способности.</AG_MajorSummon.description>
+  <AG_MinorSummon.description>Призвать существо, которое останется ненадолго. Оно будет враждебно ко всем врагам призвавшего его персонажа.</AG_MinorSummon.description>
+  <AG_Summon.description>Призвать существо, которое останется ненадолго. Оно будет враждебно ко всем, кто враждебен призывателю.</AG_Summon.description>
+  <AG_MajorSummon.description>Призвать существо, которое останется ненадолго. Оно будет враждебно ко всем, кто враждебен призывателю.</AG_MajorSummon.description>
   <AG_Summon.label>призыв</AG_Summon.label>
   <AG_MajorSummon.label>великий призыв</AG_MajorSummon.label>
   <AG_TeratogenicHealing.label>тератогенное исцеление</AG_TeratogenicHealing.label>
   <AG_TeratogenicHealing.description>Использовать имеющиеся опухоли для исцеления цели. Раковые ткани при этом расходуются.</AG_TeratogenicHealing.description>
   <AG_TeratogenicManipulation.label>тератогенная координация</AG_TeratogenicManipulation.label>
   <AG_TeratogenicManipulation.description>Преобразовать имеющиеся опухоли, значительно улучшив работу рук и ловкость.</AG_TeratogenicManipulation.description>
-  <AG_TeratogenicSwiftness.label>тератогенная скорость</AG_TeratogenicSwiftness.label>
+  <AG_TeratogenicSwiftness.label>тератогенная быстрота</AG_TeratogenicSwiftness.label>
   <AG_TeratogenicSwiftness.description>Преобразовать имеющиеся опухоли, значительно увеличив скорость передвижения и работы.</AG_TeratogenicSwiftness.description>
   <AG_TeratogenicStamina.label>тератогенная выносливость</AG_TeratogenicStamina.label>
   <AG_TeratogenicStamina.description>Преобразовать имеющиеся опухоли, значительно укрепив иммунитет и повысив выносливость.</AG_TeratogenicStamina.description>
-  <AG_HealingTouch.label>целительное прикосновение</AG_HealingTouch.label>
+  <AG_HealingTouch.label>исцеляющее прикосновение</AG_HealingTouch.label>
   <AG_HealingTouch.description>Использовать имеющиеся опухоли для исцеления других людей. Раковые ткани при этом расходуются.</AG_HealingTouch.description>
   <AG_TeratogenicBurst.label>тератогенное прикосновение</AG_TeratogenicBurst.label>
-  <AG_TeratogenicBurst.description>Передать имеющиеся опухоли другим людям. Это настолько же болезненно и опасно, как и звучит. Способность можно использовать для нападения или для передачи опухолей другим поселенцам.</AG_TeratogenicBurst.description>
+  <AG_TeratogenicBurst.description>Передаёт имеющиеся опухоли другим людям, что обычно столь же болезненно и опасно, как и звучит. Можно применять для нападения или для передачи опухолей другим поселенцам.</AG_TeratogenicBurst.description>
 </LanguageData>
