@@ -1,0 +1,114 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AG_GreaterToughspikes.label>большие когти твёрдошипа</AG_GreaterToughspikes.label>
+  <AG_GreaterToughspikes.description>У носителей этого гена из спины растут четыре действующих когтя твёрдошипа, которыми можно атаковать в ближнем бою.</AG_GreaterToughspikes.description>
+  <AG_GreaterFleshWhip.label>большая плотяная плеть</AG_GreaterFleshWhip.label>
+  <AG_GreaterFleshWhip.description>У носителей этого гена есть два мясистых мускулистых щупальца с лезвиями на концах. Эти плотяные плети служат отличным оружием ближнего боя.</AG_GreaterFleshWhip.description>
+  <AG_TwitchingToughspikes.label>подёргивающиеся когти твёрдошипа</AG_TwitchingToughspikes.label>
+  <AG_TwitchingToughspikes.description>У носителей этого гена из плеч растут два недействующих когтя твёрдошипа. Жуткое зрелище!</AG_TwitchingToughspikes.description>
+  <AG_TwitchingTrispikes.label>подёргивающиеся когти троешипа</AG_TwitchingTrispikes.label>
+  <AG_TwitchingTrispikes.description>У носителей этого гена из плеч растут три недействующих плотяных когтя. Жуткое зрелище!</AG_TwitchingTrispikes.description>
+  <AG_TwitchingFingerspike.label>подёргивающийся пальцешип</AG_TwitchingFingerspike.label>
+  <AG_TwitchingFingerspike.description>У носителей этого гена из плеч растёт недействующий пальцешип. Жуткое зрелище!</AG_TwitchingFingerspike.description>
+  <AG_TentacleHorns.label>щупальца и рога</AG_TentacleHorns.label>
+  <AG_TentacleHorns.description>У носителей этого гена изо лба растут два больших рога, которыми можно атаковать, а также четыре мясистых щупальца.</AG_TentacleHorns.description>
+  <AG_TentacleHorns.customEffectDescriptions.0>Увеличивает урон в секунду, добавляя атаку ближнего боя: 16 колющего урона, перезарядка — 2 секунды</AG_TentacleHorns.customEffectDescriptions.0>
+  <AG_DeadlifeProducer.label>выработка порошка мёртвой жизни</AG_DeadlifeProducer.label>
+  <AG_DeadlifeProducer.description>Носитель этого гена периодически выдыхает облака порошка мёртвой жизни, превращающего находящиеся рядом трупы в шамблеров.</AG_DeadlifeProducer.description>
+  <AG_TwistedFlesh.label>искажённая плоть</AG_TwistedFlesh.label>
+  <AG_TwistedFlesh.description>Мышцы носителей этого гена искривлены и вздуты опухолевыми наростами. Поедание такой плоти носителем гена считается каннибализмом.</AG_TwistedFlesh.description>
+  <AG_PseudoDeadlife.label>псевдомёртвая жизнь</AG_PseudoDeadlife.label>
+  <AG_PseudoDeadlife.description>Носителей этого гена окружает облако микроскопических архитов, вызывающих состояние псевдомёртвой жизни. Это даёт высокую стойкость, не убивая носителя.</AG_PseudoDeadlife.description>
+  <AG_MeatBurst.label>плотяной взрыв</AG_MeatBurst.label>
+  <AG_MeatBurst.description>Носители взрываются при смерти, выпуская небольшое количество биошматов.</AG_MeatBurst.description>
+  <AG_GreyPocketPlane.label>серое карманное измерение</AG_GreyPocketPlane.label>
+  <AG_GreyPocketPlane.description>Носители получают доступ к собственному внепространственному измерению — безопасному убежищу вдали от хаоса окраинных миров.</AG_GreyPocketPlane.description>
+  <AG_Shambler_LightningFast.label>молниеносный шамблер</AG_Shambler_LightningFast.label>
+  <AG_Shambler_LightningFast.description>Шамблеры с этим геном передвигаются с огромной скоростью.</AG_Shambler_LightningFast.description>
+  <AG_Shambler_LightningFast.customEffectDescriptions.0>Ген действует только у шамблеров.</AG_Shambler_LightningFast.customEffectDescriptions.0>
+  <AG_Shambler_Timeless.label>долговечный шамблер</AG_Shambler_Timeless.label>
+  <AG_Shambler_Timeless.description>Шамблеры с этим геном существуют намного дольше 4–5 дней.</AG_Shambler_Timeless.description>
+  <AG_Shambler_Timeless.customEffectDescriptions.0>Ген действует только у шамблеров.</AG_Shambler_Timeless.customEffectDescriptions.0>
+  <AG_Shambler_Timeless.customEffectDescriptions.1>Время до гибели шамблера увеличивается в 5 раз, хотя счётчик этого не показывает.</AG_Shambler_Timeless.customEffectDescriptions.1>
+  <AG_Shambler_Toxic.label>токсичный шамблер</AG_Shambler_Toxic.label>
+  <AG_Shambler_Toxic.description>Шамблеры с этим геном периодически выдыхают облака токсичного газа.</AG_Shambler_Toxic.description>
+  <AG_Shambler_Toxic.customEffectDescriptions.0>Ген действует только у шамблеров.</AG_Shambler_Toxic.customEffectDescriptions.0>
+  <AG_Shambler_Stinker.label>смрадный шамблер</AG_Shambler_Stinker.label>
+  <AG_Shambler_Stinker.description>Шамблеры с этим геном периодически выпускают облака трупной вони. Отвратительно!</AG_Shambler_Stinker.description>
+  <AG_Shambler_Stinker.customEffectDescriptions.0>Ген действует только у шамблеров.</AG_Shambler_Stinker.customEffectDescriptions.0>
+  <AG_Shambler_DeadlifeBelcher.label>шамблер — источник мёртвой жизни</AG_Shambler_DeadlifeBelcher.label>
+  <AG_Shambler_DeadlifeBelcher.description>Шамблеры с этим геном периодически выдыхают облака порошка мёртвой жизни, превращающего находящиеся рядом трупы в шамблеров.</AG_Shambler_DeadlifeBelcher.description>
+  <AG_Shambler_DeadlifeBelcher.customEffectDescriptions.0>Ген действует только у шамблеров.</AG_Shambler_DeadlifeBelcher.customEffectDescriptions.0>
+  <AG_Shambler_Polluter.label>шамблер-загрязнитель</AG_Shambler_Polluter.label>
+  <AG_Shambler_Polluter.description>Шамблеры с этим геном постоянно загрязняют окружающую местность, со временем превращая её в безжизненную пустошь.</AG_Shambler_Polluter.description>
+  <AG_Shambler_Polluter.customEffectDescriptions.0>Ген действует только у шамблеров.</AG_Shambler_Polluter.customEffectDescriptions.0>
+  <AG_Shambler_Photosynthetic.label>фотосинтезирующий шамблер</AG_Shambler_Photosynthetic.label>
+  <AG_Shambler_Photosynthetic.description>Солнечный свет усиливает шамблеров с этим геном.</AG_Shambler_Photosynthetic.description>
+  <AG_Shambler_Photosynthetic.customEffectDescriptions.0>Ген действует только у шамблеров.</AG_Shambler_Photosynthetic.customEffectDescriptions.0>
+  <AG_Shambler_Photosynthetic.customEffectDescriptions.1>Пока шамблер находится на солнце, каждые полчаса тяжесть случайной раны на конечности уменьшается на 10.</AG_Shambler_Photosynthetic.customEffectDescriptions.1>
+  <AG_Shambler_Armoured.label>бронированный шамблер</AG_Shambler_Armoured.label>
+  <AG_Shambler_Armoured.description>Шамблеры с этим геном крупнее и сильнее обычных.</AG_Shambler_Armoured.description>
+  <AG_Shambler_Armoured.customEffectDescriptions.0>Ген действует только у шамблеров.</AG_Shambler_Armoured.customEffectDescriptions.0>
+  <AG_Shambler_Plagued.label>заразный шамблер</AG_Shambler_Plagued.label>
+  <AG_Shambler_Plagued.description>Шамблеры с этим геном заражают жертв чумой шамблеров, которая после смерти превращает их в шамблеров.</AG_Shambler_Plagued.description>
+  <AG_Shambler_Plagued.customEffectDescriptions.0>Ген действует только у шамблеров.</AG_Shambler_Plagued.customEffectDescriptions.0>
+  <AG_Shambler_Acidic.label>кислотный шамблер</AG_Shambler_Acidic.label>
+  <AG_Shambler_Acidic.description>Тела шамблеров с этим геном насыщены кислотой: она вытекает из их ран и разбрызгивается взрывом при гибели. Атакуют они кислотными клыками.</AG_Shambler_Acidic.description>
+  <AG_Shambler_Acidic.customEffectDescriptions.0>Ген действует только у шамблеров.</AG_Shambler_Acidic.customEffectDescriptions.0>
+  <AG_Shambler_Exploding.label>взрывной шамблер</AG_Shambler_Exploding.label>
+  <AG_Shambler_Exploding.description>На теле шамблеров с этим геном есть узелки химтоплива, из-за которых они взрываются при гибели.</AG_Shambler_Exploding.description>
+  <AG_Shambler_Exploding.customEffectDescriptions.0>Ген действует только у шамблеров.</AG_Shambler_Exploding.customEffectDescriptions.0>
+  <AG_Shambler_Delicate.label>гниющий шамблер</AG_Shambler_Delicate.label>
+  <AG_Shambler_Delicate.description>Шамблеры с этим геном сильнее разложились и получают больше урона, чем обычные.</AG_Shambler_Delicate.description>
+  <AG_Shambler_Delicate.customEffectDescriptions.0>Ген действует только у шамблеров.</AG_Shambler_Delicate.customEffectDescriptions.0>
+  <AG_Shambler_Tough.label>стойкий шамблер</AG_Shambler_Tough.label>
+  <AG_Shambler_Tough.description>Шамблеры с этим геном выносливее обычных и получают меньше урона.</AG_Shambler_Tough.description>
+  <AG_Shambler_Tough.customEffectDescriptions.0>Ген действует только у шамблеров.</AG_Shambler_Tough.customEffectDescriptions.0>
+  <AG_Shambler_Tinderskin.label>легковоспламеняемый шамблер</AG_Shambler_Tinderskin.label>
+  <AG_Shambler_Tinderskin.description>Шамблеры с этим геном легче воспламеняются, чем обычные.</AG_Shambler_Tinderskin.description>
+  <AG_Shambler_Tinderskin.customEffectDescriptions.0>Ген действует только у шамблеров.</AG_Shambler_Tinderskin.customEffectDescriptions.0>
+  <AG_Shambler_HighMelee.label>агрессивный шамблер</AG_Shambler_HighMelee.label>
+  <AG_Shambler_HighMelee.description>Шамблеры с этим геном агрессивнее обычных и наносят больше урона в ближнем бою.</AG_Shambler_HighMelee.description>
+  <AG_Shambler_HighMelee.customEffectDescriptions.0>Ген действует только у шамблеров.</AG_Shambler_HighMelee.customEffectDescriptions.0>
+  <AG_Shambler_LowMelee.label>слабый шамблер</AG_Shambler_LowMelee.label>
+  <AG_Shambler_LowMelee.description>Шамблеры с этим геном слабее обычных и наносят меньше урона в ближнем бою.</AG_Shambler_LowMelee.description>
+  <AG_Shambler_LowMelee.customEffectDescriptions.0>Ген действует только у шамблеров.</AG_Shambler_LowMelee.customEffectDescriptions.0>
+  <AG_Shambler_UVSensitive.label>чувствительный к ультрафиолету шамблер</AG_Shambler_UVSensitive.label>
+  <AG_Shambler_UVSensitive.description>Солнечный свет заставляет шамблеров с этим геном впадать в торпор.</AG_Shambler_UVSensitive.description>
+  <AG_Shambler_UVSensitive.customEffectDescriptions.0>Ген действует только у шамблеров.</AG_Shambler_UVSensitive.customEffectDescriptions.0>
+  <AG_Shambler_VenomFangs.label>ядовитый шамблер</AG_Shambler_VenomFangs.label>
+  <AG_Shambler_VenomFangs.description>У шамблеров с этим геном есть ядовитые клыки, которыми они атакуют в ближнем бою.</AG_Shambler_VenomFangs.description>
+  <AG_Shambler_VenomFangs.customEffectDescriptions.0>Ген действует только у шамблеров.</AG_Shambler_VenomFangs.customEffectDescriptions.0>
+  <AG_Shambler_VeryGaunt.label>исхудавший шамблер</AG_Shambler_VeryGaunt.label>
+  <AG_Shambler_VeryGaunt.description>Шамблеры с этим геном выглядят крайне исхудавшими и разложившимися.</AG_Shambler_VeryGaunt.description>
+  <AG_Shambler_VeryGaunt.customEffectDescriptions.0>Ген действует только у шамблеров.</AG_Shambler_VeryGaunt.customEffectDescriptions.0>
+  <AG_Shambler_Spiked.label>шипастый шамблер</AG_Shambler_Spiked.label>
+  <AG_Shambler_Spiked.description>Шамблеры с этим геном могут метать шипы, подобно кровавой туше.</AG_Shambler_Spiked.description>
+  <AG_Shambler_Spiked.customEffectDescriptions.0>Ген действует только у шамблеров.</AG_Shambler_Spiked.customEffectDescriptions.0>
+  <AG_FleshSpitter.label>плотяной плеватель</AG_FleshSpitter.label>
+  <AG_FleshSpitter.description>На плече носителей этого гена растёт уродливая злокачественная опухоль, способная самостоятельно плеваться кислотой.</AG_FleshSpitter.description>
+  <AG_FleshBulb.label>плотяная луковица</AG_FleshBulb.label>
+  <AG_FleshBulb.description>На плече носителей этого гена растёт уродливая злокачественная опухоль, способная выпускать светящиеся плотяные луковицы, действующие как ракеты-дизрапторы.</AG_FleshBulb.description>
+  <AG_FleshSack.label>плотяной мешок</AG_FleshSack.label>
+  <AG_FleshSack.description>На плече носителей этого гена растёт уродливая злокачественная опухоль, способная поглощать биошматов и ненадолго усиливать носителя.</AG_FleshSack.description>
+  <AG_GreaterToughspikes_Astrogene.label>большие когти твёрдошипа</AG_GreaterToughspikes_Astrogene.label>
+  <AG_GreaterToughspikes_Astrogene.description>У носителей этого гена из спины растут четыре действующих когтя твёрдошипа, которыми можно атаковать в ближнем бою.</AG_GreaterToughspikes_Astrogene.description>
+  <AG_GreaterFleshWhip_Astrogene.label>большая плотяная плеть</AG_GreaterFleshWhip_Astrogene.label>
+  <AG_GreaterFleshWhip_Astrogene.description>У носителей этого гена есть два мясистых мускулистых щупальца с лезвиями на концах. Эти плотяные плети служат отличным оружием ближнего боя.</AG_GreaterFleshWhip_Astrogene.description>
+  <AG_DeadlifeProducer_Astrogene.label>выработка порошка мёртвой жизни</AG_DeadlifeProducer_Astrogene.label>
+  <AG_DeadlifeProducer_Astrogene.description>Носитель этого гена периодически выдыхает облака порошка мёртвой жизни, превращающего находящиеся рядом трупы в шамблеров.</AG_DeadlifeProducer_Astrogene.description>
+  <AG_TwistedFlesh_Astrogene.label>искажённая плоть</AG_TwistedFlesh_Astrogene.label>
+  <AG_TwistedFlesh_Astrogene.description>Мышцы носителей этого гена искривлены и вздуты опухолевыми наростами. Поедание такой плоти носителем гена считается каннибализмом.</AG_TwistedFlesh_Astrogene.description>
+  <AG_PseudoDeadlife_Astrogene.label>псевдомёртвая жизнь</AG_PseudoDeadlife_Astrogene.label>
+  <AG_PseudoDeadlife_Astrogene.description>Носителей этого гена окружает облако микроскопических архитов, вызывающих состояние псевдомёртвой жизни. Это даёт высокую стойкость, не убивая носителя.</AG_PseudoDeadlife_Astrogene.description>
+  <AG_MeatBurst_Astrogene.label>плотяной взрыв</AG_MeatBurst_Astrogene.label>
+  <AG_MeatBurst_Astrogene.description>Носители взрываются при смерти, выпуская небольшое количество биошматов.</AG_MeatBurst_Astrogene.description>
+  <AG_GreyPocketPlane_Astrogene.label>серое карманное измерение</AG_GreyPocketPlane_Astrogene.label>
+  <AG_GreyPocketPlane_Astrogene.description>Носители получают доступ к собственному внепространственному измерению — безопасному убежищу вдали от хаоса окраинных миров.</AG_GreyPocketPlane_Astrogene.description>
+  <AG_FleshSpitter_Astrogene.label>плотяной плеватель</AG_FleshSpitter_Astrogene.label>
+  <AG_FleshSpitter_Astrogene.description>На плече носителей этого гена растёт уродливая злокачественная опухоль, способная самостоятельно плеваться кислотой.</AG_FleshSpitter_Astrogene.description>
+  <AG_FleshBulb_Astrogene.label>плотяная луковица</AG_FleshBulb_Astrogene.label>
+  <AG_FleshBulb_Astrogene.description>На плече носителей этого гена растёт уродливая злокачественная опухоль, способная выпускать светящиеся плотяные луковицы, действующие как ракеты-дизрапторы.</AG_FleshBulb_Astrogene.description>
+  <AG_FleshSack_Astrogene.label>плотяной мешок</AG_FleshSack_Astrogene.label>
+  <AG_FleshSack_Astrogene.description>На плече носителей этого гена растёт уродливая злокачественная опухоль, способная поглощать биошматов и ненадолго усиливать носителя.</AG_FleshSack_Astrogene.description>
+</LanguageData>

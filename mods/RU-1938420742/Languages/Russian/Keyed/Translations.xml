@@ -1,0 +1,108 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VEE_AnimalPodCrashLabel>Крушение капсулы с животным</VEE_AnimalPodCrashLabel>
+  <VEE_AnimalPodCrashDesc>Неподалёку падает транспортная капсула с животным: {PAWN_kind} по кличке {PAWN_nameDef}. Если животное переживёт падение, оно будет тяжело ранено.
+
+Если обработать его раны, оно может остаться в колонии.</VEE_AnimalPodCrashDesc>
+  <VEE_AnimalPodCrashLabel_AceptedJoining>Спасённое животное присоединилось</VEE_AnimalPodCrashLabel_AceptedJoining>
+  <VEE_AnimalPodCrashDesc_AceptedJoining>Спасённое вами животное присоединилось к колонии.</VEE_AnimalPodCrashDesc_AceptedJoining>
+  <VEE_AnimalPodCrashLabel_RefusedJoining>Спасённое животное не присоединилось</VEE_AnimalPodCrashLabel_RefusedJoining>
+  <VEE_AnimalPodCrashDesc_RefusedJoining>Спасённое вами животное не присоединилось к колонии.</VEE_AnimalPodCrashDesc_RefusedJoining>
+  <VEE_TraitorLabel>Предательство: {PAWN_nameDef}</VEE_TraitorLabel>
+  <VEE_TraitorDesc>{PAWN_nameDef} {PAWN_gender ? показал : показала : показало} своё истинное лицо!
+
+{PAWN_pronoun} {PAWN_gender ? оказался : оказалась : оказалось} агентом фракции {Hostile_FactionName}, внедрённым в вашу колонию. Теперь {PAWN_pronoun} {PAWN_gender ? обратился : обратилась : обратилось} против вас и атакует поселение изнутри. Нападение можно пресечь захватом или убийством предателя.</VEE_TraitorDesc>
+  <VEE_TraitorGroupLabel>Налёт под видом гостей</VEE_TraitorGroupLabel>
+  <VEE_TraitorGroupDesc>Гости оказались замаскированным вражеским отрядом из фракции {0}. Они нападают немедленно.</VEE_TraitorGroupDesc>
+  <VEE_OrbitalCrashLabel>Крушение орбитального корабля</VEE_OrbitalCrashLabel>
+  <VEE_OrbitalCrashDesc>Огромный орбитальный корабль фракции {0} начал разваливаться на куски прямо над вашим регионом!
+
+В течение нескольких следующих часов на землю будут падать огромные обломки корпуса, нестабильные компоненты двигателей, грузовые и спасательные капсулы.
+
+Держите поселенцев под крышей или осторожно уклоняйтесь от падающих обломков. Когда этот смертоносный дождь закончится, вы сможете собрать множество ценных ресурсов и, возможно, спасти выживших среди обломков.</VEE_OrbitalCrashDesc>
+  <VEE_ShuttleCrashLabel>Крушение челнока</VEE_ShuttleCrashLabel>
+  <VEE_ShuttleCrashDesc>Сильно повреждённый челнок стремительно падает с неба и вскоре рухнет неподалёку.
+
+Удар разбросает химтопливо и вызовет опасный пожар. Среди обломков окажутся груз и пассажиры.
+
+Нужно действовать быстро, чтобы спасти выживших, забрать груз и не дать огню выйти из-под контроля.</VEE_ShuttleCrashDesc>
+  <VEE_EarthquakeLabel>Землетрясение (магнитуда {0})</VEE_EarthquakeLabel>
+  <VEE_EarthquakeDesc>Регион сотрясло землетрясение магнитудой {0}!
+
+Мощные подземные толчки разорвали землю и серьёзно повредили постройки вблизи эпицентра. Возможно, потребуется ремонт.</VEE_EarthquakeDesc>
+  <VEE_WeaponCargoPodLabel>Грузовые контейнеры (оружие)</VEE_WeaponCargoPodLabel>
+  <VEE_WeaponCargoPodDesc>Вы засекли грузовой контейнер, упавший поблизости!
+
+Судя по всему, он перевозил оружие, которое можно найти среди обломков.</VEE_WeaponCargoPodDesc>
+  <VEE_ApparelCargoPodLabel>Грузовые контейнеры (одежда)</VEE_ApparelCargoPodLabel>
+  <VEE_ApparelCargoPodDesc>Вы засекли несколько грузовых контейнеров, упавших поблизости!
+
+Судя по всему, они перевозили различную одежду. Её можно найти среди обломков.</VEE_ApparelCargoPodDesc>
+  <VEE_CaravanAnimalsWanderLabel>Забрели караванные животные</VEE_CaravanAnimalsWanderLabel>
+  <VEE_CaravanAnimalsWanderDesc>На вашу территорию забрели {0}.
+
+Похоже, это животные из пропавшего или уничтоженного торгового каравана. Они несут на себе тюки с товарами.
+
+Вы можете попытаться приручить животных, сделав их частью своего поселения и получив в придачу весь груз, или просто убить их ради припасов.</VEE_CaravanAnimalsWanderDesc>
+  <VEE_CropSproutLabel>Дикие заросли: {0}</VEE_CropSproutLabel>
+  <VEE_CropSproutDesc>Неподалёку появились дикие заросли — {0}.
+
+Когда растения вырастут, с них можно будет собрать урожай.</VEE_CropSproutDesc>
+  <VEE_BattleAnimalsWanderLabel>Боевые животные прибиваются к поселению</VEE_BattleAnimalsWanderLabel>
+  <VEE_BattleAnimalsWanderDesc>На вашу территорию забрели {0}.
+
+Они, видимо, привычны к людям, и потому прибиваются к вашему поселению.
+
+Благодаря своим боевым качествам они станут отличными защитниками, если поручить их обучение животноводу. Если же вам нечем их кормить, животных всегда можно пустить на мясо.</VEE_BattleAnimalsWanderDesc>
+  <VEE_WildMenWanderLabel>Забрели дикие люди</VEE_WildMenWanderLabel>
+  <VEE_WildMenWanderDesc>В эту местность забрело небольшое племя одичавших людей.
+
+Они живут бок о бок с дикими животными, ведут первобытный образ жизни и готовы добывать пропитание любыми доступными способами, включая ваши посевы и неохраняемые запасы продуктов.
+
+Вы можете попытаться приручить их одного за другим, сделав частью своего поселения, арестовать их или избавиться от них силой, если они станут слишком мешать.</VEE_WildMenWanderDesc>
+  <VEE_HuntingPartyLabel>Охотничий отряд</VEE_HuntingPartyLabel>
+  <VEE_HuntingPartyDesc>В эту местность прибыл небольшой охотничий отряд из фракции {0}.
+
+Они пришли охотиться на местных животных ради мяса и шкур. Хотя охотники настроены мирно и не станут нападать на ваших поселенцев, охота может заметно сократить популяцию диких животных в округе. Как только каждый из них подстрелит по зверю, отряд заберёт добычу и уйдёт.</VEE_HuntingPartyDesc>
+  <VEE_Decay>Засыхает из-за засухи.</VEE_Decay>
+  <VEE_DroughtGui>Плодородие с учётом засухи: {0}</VEE_DroughtGui>
+  <VEE_ManhunterSingleArrivalLabel>Агрессивное животное: {0}</VEE_ManhunterSingleArrivalLabel>
+  <VEE_ManhunterSingleArrivalDesc>Из дикой местности пришло заражённое агриозом животное — {0}.
+
+Оно обезумело и нападает на любого замеченного человека. Держите поселенцев в помещении или призовите их, чтобы устранить угрозу.
+
+Из-за болезни животное, скорее всего, само погибнет через несколько дней.</VEE_ManhunterSingleArrivalDesc>
+  <VEE_CrashlandedLabel>Аварийная посадка</VEE_CrashlandedLabel>
+  <VEE_CrashlandedDesc>Неподалёку рухнули три спасательные капсулы.
+
+Из-под обломков выбрались трое выживших — растерянные и дезориентированные. Похоже, они едва успели спастись с корабля, разрушавшегося на орбите. Вероятно, они задержатся здесь, чтобы оправиться от криптосонной болезни, а затем отправятся дальше.</VEE_CrashlandedDesc>
+  <VEE_CrashlandedChoiceLabel>Выжившие желают присоединиться</VEE_CrashlandedChoiceLabel>
+  <VEE_CrashlandedChoiceText>Выжившие после крушения заметили, что вашему поселению не хватает рабочих рук. Понимая, что шансы выжить в одиночку невелики, они предложили присоединиться к вашему поселению вместе со своим питомцем и припасами.
+
+Принять их?</VEE_CrashlandedChoiceText>
+  <VEE_CrashlandedLeaving>Выжившие после крушения собирают вещи и уходят.</VEE_CrashlandedLeaving>
+  <VEE_WhiteoutRefugees>Отчаявшиеся беженцы</VEE_WhiteoutRefugees>
+  <VEE_WhiteoutRefugeesText>К окраине поселения вышла небольшая группа замерзающих выживших. Их число: {0}.
+
+Из-за затянувшейся белой мглы они страдают от сильного переохлаждения и голода. Они умоляют впустить их и поделиться теплом и едой.
+
+Будьте осторожны: это люди, доведённые до отчаяния. Если оставить их замерзать в снегу, они, скорее всего, попытаются силой захватить ваше убежище.
+
+Принять их?</VEE_WhiteoutRefugeesText>
+  <VEE_WhiteoutRefugees_Accepted>Беженцы искренне благодарны вам за проявленное милосердие. Они присоединяются к вашему поселению, чтобы прийти в себя после пережитого.</VEE_WhiteoutRefugees_Accepted>
+  <VEE_WhiteoutRefugees_Rejected>Беженцы обратились против вас! Считая себя преданными и доведённые до отчаяния, они решили силой захватить ваше убежище.
+
+Они нападают немедленно.</VEE_WhiteoutRefugees_Rejected>
+  <VEE_Young>Молодёжь</VEE_Young>
+  <VEE_Elder>Пожилые</VEE_Elder>
+  <VEE_Male>Мужчины</VEE_Male>
+  <VEE_Female>Женщины</VEE_Female>
+  <VEE_CurrentStage>Текущая стадия: {0}. Длится: {1}</VEE_CurrentStage>
+  <VEE_ResetSettings>Сбросить настройки</VEE_ResetSettings>
+  <VEE_NeedToBeIngame>Загрузите колонию, чтобы завершать действующие события</VEE_NeedToBeIngame>
+  <VEE_StopWorldCondition>Завершить событие в мире…</VEE_StopWorldCondition>
+  <VEE_StopMapCondition>Завершить событие на карте…</VEE_StopMapCondition>
+  <VEE_DaysBetweenPurpleEvents>Интервал между фиолетовыми событиями, дней:</VEE_DaysBetweenPurpleEvents>
+  <VEE_HideHazeVisualEffects>Скрыть марево</VEE_HideHazeVisualEffects>
+  <VEE_HideHazeVisualEffectsDesc>Скрыть марево, возникающее во время фиолетового события «Пекло». Меняется только визуальный эффект.</VEE_HideHazeVisualEffectsDesc>
+</LanguageData>

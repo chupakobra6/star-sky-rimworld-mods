@@ -1,0 +1,5 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AG_PlaguedClaws.deathMessage>{0} {PAWN_gender ? погиб : погибла : погибло} от порезов.</AG_PlaguedClaws.deathMessage>
+  <AG_PlaguedClaws.label>заразные когти</AG_PlaguedClaws.label>
+</LanguageData>

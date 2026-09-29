@@ -1,0 +1,1426 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFEPD_ShipChunk.label>обломок корабля</VFEPD_ShipChunk.label>
+  <VFEPD_ShipChunk.description>Обломок космического корабля. При ближайшем рассмотрении оказывается сделанным из крашеного картона.</VFEPD_ShipChunk.description>
+  <VFEPD_ScrapChunk.label>обломок разобранного корабля</VFEPD_ScrapChunk.label>
+  <VFEPD_ScrapChunk.description>Обломок разобранного на лом космического корабля. При ближайшем рассмотрении оказывается сделанным из крашеного картона.</VFEPD_ScrapChunk.description>
+  <VFEPD_ShipPart.label>часть корабля</VFEPD_ShipPart.label>
+  <VFEPD_ShipPart.description>Часть древнего корабля. При ближайшем рассмотрении оказывается сделанной из крашеного картона.</VFEPD_ShipPart.description>
+  <VFEPD_ShipPartDefoliator.description>Часть древнего корабля. При ближайшем рассмотрении оказывается сделанной из крашеного картона.</VFEPD_ShipPartDefoliator.description>
+  <VFEPD_ShipPartDefoliator.label>часть корабля с дефолиатором</VFEPD_ShipPartDefoliator.label>
+  <VFEPD_AncientConcreteBarrier.label>древнее бетонное заграждение</VFEPD_AncientConcreteBarrier.label>
+  <VFEPD_AncientConcreteBarrier.description>Древнее средство организации дорожного движения.</VFEPD_AncientConcreteBarrier.description>
+  <VFEPD_AncientLamppost.label>древний фонарный столб</VFEPD_AncientLamppost.label>
+  <VFEPD_AncientLamppost.description>Древний уличный фонарь. Больше не работает.</VFEPD_AncientLamppost.description>
+  <VFEPD_Urn.label>урна</VFEPD_Urn.label>
+  <VFEPD_Urn.description>Декоративный сосуд в старинном стиле.</VFEPD_Urn.description>
+  <VFEPD_AncientCryptosleepPod.label>древняя капсула криптосна</VFEPD_AncientCryptosleepPod.label>
+  <VFEPD_AncientCryptosleepPod.description>Одноразовая капсула для сохранения одного человека в состоянии анабиоза. Наглухо закрыта.</VFEPD_AncientCryptosleepPod.description>
+  <VFEPD_AncientLamp.label>древняя лампа</VFEPD_AncientLamp.label>
+  <VFEPD_AncientLamp.description>Древняя лампа с автономным питанием. Внутренний источник энергии полностью истощён.</VFEPD_AncientLamp.description>
+  <VFE_CarpetBorder_Straight.label>ковровый бордюр</VFE_CarpetBorder_Straight.label>
+  <VFE_CarpetBorder_Straight.description>Простой тканевый ковровый бордюр, который можно перекрасить.</VFE_CarpetBorder_Straight.description>
+  <VFE_CarpetBorder_Corner.label>ковровый бордюр, угол</VFE_CarpetBorder_Corner.label>
+  <VFE_CarpetBorder_Corner.description>Простой тканевый ковровый бордюр, который можно перекрасить. Угловая часть.</VFE_CarpetBorder_Corner.description>
+  <VFE_FlagstoneBorder_Straight.label>плиточный бордюр</VFE_FlagstoneBorder_Straight.label>
+  <VFE_FlagstoneBorder_Straight.description>Простой бордюр из грубой плитки, который можно перекрасить.</VFE_FlagstoneBorder_Straight.description>
+  <VFE_FlagstoneBorder_Corner.label>плиточный бордюр, угол</VFE_FlagstoneBorder_Corner.label>
+  <VFE_FlagstoneBorder_Corner.description>Простой бордюр из грубой плитки, который можно перекрасить. Угловая часть.</VFE_FlagstoneBorder_Corner.description>
+  <VFE_StoneBorder_Straight.label>каменный бордюр</VFE_StoneBorder_Straight.label>
+  <VFE_StoneBorder_Straight.description>Простой каменный бордюр, который можно перекрасить.</VFE_StoneBorder_Straight.description>
+  <VFE_StoneBorder_Corner.label>каменный бордюр, угол</VFE_StoneBorder_Corner.label>
+  <VFE_StoneBorder_Corner.description>Простой каменный бордюр, который можно перекрасить. Угловая часть.</VFE_StoneBorder_Corner.description>
+  <VFE_MetalBorder_Straight.label>металлический бордюр</VFE_MetalBorder_Straight.label>
+  <VFE_MetalBorder_Straight.description>Простой металлический бордюр, который можно перекрасить.</VFE_MetalBorder_Straight.description>
+  <VFE_MetalBorder_Corner.label>металлический бордюр, угол</VFE_MetalBorder_Corner.label>
+  <VFE_MetalBorder_Corner.description>Простой металлический бордюр, который можно перекрасить. Угловая часть.</VFE_MetalBorder_Corner.description>
+  <VFE_WoodenBorder_Straight.label>деревянный бордюр</VFE_WoodenBorder_Straight.label>
+  <VFE_WoodenBorder_Straight.description>Простой деревянный бордюр, который можно перекрасить.</VFE_WoodenBorder_Straight.description>
+  <VFE_WoodenBorder_Corner.label>деревянный бордюр, угол</VFE_WoodenBorder_Corner.label>
+  <VFE_WoodenBorder_Corner.description>Простой деревянный бордюр, который можно перекрасить. Угловая часть.</VFE_WoodenBorder_Corner.description>
+  <VFE_WarningBorder_Straight.label>предупредительный бордюр</VFE_WarningBorder_Straight.label>
+  <VFE_WarningBorder_Straight.description>Простой бордюр с предупредительной разметкой, который можно перекрасить.</VFE_WarningBorder_Straight.description>
+  <VFE_WarningBorder_Corner.label>предупредительный бордюр, угол</VFE_WarningBorder_Corner.label>
+  <VFE_WarningBorder_Corner.description>Простой бордюр с предупредительной разметкой, который можно перекрасить. Угловая часть.</VFE_WarningBorder_Corner.description>
+  <VFEPD_LargeDecalArrowLong.label>большая длинная стрелка</VFEPD_LargeDecalArrowLong.label>
+  <VFEPD_LargeDecalArrowLong.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalArrowLong.description>
+  <VFEPD_LargeDecalArrowShort.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalArrowShort.description>
+  <VFEPD_LargeDecalArrowWide.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalArrowWide.description>
+  <VFEPD_LargeDecalArrowLeft.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalArrowLeft.description>
+  <VFEPD_LargeDecalArrowRight.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalArrowRight.description>
+  <VFEPD_LargeDecalArrowBoth.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalArrowBoth.description>
+  <VFEPD_LargeDecalArrowDouble.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalArrowDouble.description>
+  <VFEPD_LargeDecalArrowLeftStraight.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalArrowLeftStraight.description>
+  <VFEPD_LargeDecalArrowRightStraight.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalArrowRightStraight.description>
+  <VFEPD_LargeDecalArrowThreeWays.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalArrowThreeWays.description>
+  <VFEPD_LargeDecalLineDouble.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalLineDouble.description>
+  <VFEPD_LargeDecalLineDoubleCornerInner.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalLineDoubleCornerInner.description>
+  <VFEPD_LargeDecalLineDoubleCornerInnerRound.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalLineDoubleCornerInnerRound.description>
+  <VFEPD_LargeDecalLineDoubleCornerOuter.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalLineDoubleCornerOuter.description>
+  <VFEPD_LargeDecalLineDoubleCornerOuterRound.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalLineDoubleCornerOuterRound.description>
+  <VFEPD_LargeDecalLineThin.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalLineThin.description>
+  <VFEPD_LargeDecalLineThinCornerInner.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalLineThinCornerInner.description>
+  <VFEPD_LargeDecalLineThinCornerInnerRound.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalLineThinCornerInnerRound.description>
+  <VFEPD_LargeDecalLineThinCornerOuter.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalLineThinCornerOuter.description>
+  <VFEPD_LargeDecalLineThinCornerOuterRound.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalLineThinCornerOuterRound.description>
+  <VFEPD_DecalArrowDiagonalLarge.description>Крупный рисунок для размещения на полу.</VFEPD_DecalArrowDiagonalLarge.description>
+  <VFEPD_LargeDecalSymbolA.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalSymbolA.description>
+  <VFEPD_LargeDecalSymbolB.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalSymbolB.description>
+  <VFEPD_LargeDecalSymbolC.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalSymbolC.description>
+  <VFEPD_LargeDecalSymbolD.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalSymbolD.description>
+  <VFEPD_LargeDecalSymbolE.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalSymbolE.description>
+  <VFEPD_LargeDecalSymbolF.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalSymbolF.description>
+  <VFEPD_LargeDecalSymbolG.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalSymbolG.description>
+  <VFEPD_LargeDecalSymbolH.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalSymbolH.description>
+  <VFEPD_LargeDecalSymbolI.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalSymbolI.description>
+  <VFEPD_LargeDecalSymbolJ.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalSymbolJ.description>
+  <VFEPD_LargeDecalSymbolK.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalSymbolK.description>
+  <VFEPD_LargeDecalSymbolL.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalSymbolL.description>
+  <VFEPD_LargeDecalSymbolM.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalSymbolM.description>
+  <VFEPD_LargeDecalSymbolN.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalSymbolN.description>
+  <VFEPD_LargeDecalSymbolO.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalSymbolO.description>
+  <VFEPD_LargeDecalSymbolP.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalSymbolP.description>
+  <VFEPD_LargeDecalSymbolQ.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalSymbolQ.description>
+  <VFEPD_LargeDecalSymbolV.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalSymbolV.description>
+  <VFEPD_LargeDecalSymbolR.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalSymbolR.description>
+  <VFEPD_LargeDecalSymbolS.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalSymbolS.description>
+  <VFEPD_LargeDecalSymbolT.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalSymbolT.description>
+  <VFEPD_LargeDecalSymbolU.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalSymbolU.description>
+  <VFEPD_LargeDecalSymbolW.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalSymbolW.description>
+  <VFEPD_LargeDecalSymbolX.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalSymbolX.description>
+  <VFEPD_LargeDecalSymbolY.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalSymbolY.description>
+  <VFEPD_LargeDecalSymbolZ.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalSymbolZ.description>
+  <VFEPD_LargeDecalSymbolOne.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalSymbolOne.description>
+  <VFEPD_LargeDecalSymbolTwo.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalSymbolTwo.description>
+  <VFEPD_LargeDecalSymbolThree.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalSymbolThree.description>
+  <VFEPD_LargeDecalSymbolFour.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalSymbolFour.description>
+  <VFEPD_LargeDecalSymbolFive.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalSymbolFive.description>
+  <VFEPD_LargeDecalSymbolSix.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalSymbolSix.description>
+  <VFEPD_LargeDecalSymbolSeven.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalSymbolSeven.description>
+  <VFEPD_LargeDecalSymbolEight.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalSymbolEight.description>
+  <VFEPD_LargeDecalSymbolNine.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalSymbolNine.description>
+  <VFEPD_LargeDecalSymbolZero.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalSymbolZero.description>
+  <VFEPD_LargeDecalWordArmory.description>Напольная надпись «Armory» («Оружейная»).</VFEPD_LargeDecalWordArmory.description>
+  <VFEPD_LargeDecalWordBarracks.description>Напольная надпись «Barracks» («Казармы»).</VFEPD_LargeDecalWordBarracks.description>
+  <VFEPD_LargeDecalWordBlock.description>Напольная надпись «Block» («Блок»).</VFEPD_LargeDecalWordBlock.description>
+  <VFEPD_LargeDecalWordCafeteria.description>Напольная надпись «Cafeteria» («Кафетерий»).</VFEPD_LargeDecalWordCafeteria.description>
+  <VFEPD_LargeDecalWordCargo.description>Напольная надпись «Cargo» («Груз»).</VFEPD_LargeDecalWordCargo.description>
+  <VFEPD_LargeDecalWordChamber.description>Напольная надпись «Chamber» («Камера»).</VFEPD_LargeDecalWordChamber.description>
+  <VFEPD_LargeDecalWordClimate.description>Напольная надпись «Climate» («Климат»).</VFEPD_LargeDecalWordClimate.description>
+  <VFEPD_LargeDecalWordCommand.description>Напольная надпись «Command» («Командование»).</VFEPD_LargeDecalWordCommand.description>
+  <VFEPD_LargeDecalWordControl.description>Напольная надпись «Control» («Управление»).</VFEPD_LargeDecalWordControl.description>
+  <VFEPD_LargeDecalWordEngineer.description>Напольная надпись «Engineer» («Инженер»).</VFEPD_LargeDecalWordEngineer.description>
+  <VFEPD_LargeDecalWordFarming.description>Напольная надпись «Farming» («Земледелие»).</VFEPD_LargeDecalWordFarming.description>
+  <VFEPD_LargeDecalWordFreezer.description>Напольная надпись «Freezer» («Морозильник»).</VFEPD_LargeDecalWordFreezer.description>
+  <VFEPD_LargeDecalWordFridge.description>Напольная надпись «Fridge» («Холодильник»).</VFEPD_LargeDecalWordFridge.description>
+  <VFEPD_LargeDecalWordHangar.description>Напольная надпись «Hangar» («Ангар»).</VFEPD_LargeDecalWordHangar.description>
+  <VFEPD_LargeDecalWordHospital.description>Напольная надпись «Hospital» («Госпиталь»).</VFEPD_LargeDecalWordHospital.description>
+  <VFEPD_LargeDecalWordKill.description>Напольная надпись «Kill» («Убийство»).</VFEPD_LargeDecalWordKill.description>
+  <VFEPD_LargeDecalWordKitchen.description>Напольная надпись «Kitchen» («Кухня»).</VFEPD_LargeDecalWordKitchen.description>
+  <VFEPD_LargeDecalWordLanding.description>Напольная надпись «Landing» («Посадка»).</VFEPD_LargeDecalWordLanding.description>
+  <VFEPD_LargeDecalWordMedical.description>Напольная надпись «Medical» («Медицина»).</VFEPD_LargeDecalWordMedical.description>
+  <VFEPD_LargeDecalWordMess.description>Напольная надпись «Mess» («Столовая»).</VFEPD_LargeDecalWordMess.description>
+  <VFEPD_LargeDecalWordMorgue.description>Напольная надпись «Morgue» («Морг»).</VFEPD_LargeDecalWordMorgue.description>
+  <VFEPD_LargeDecalWordMortar.description>Напольная надпись «Mortar» («Миномёт»).</VFEPD_LargeDecalWordMortar.description>
+  <VFEPD_LargeDecalWordPlay.description>Напольная надпись «Play» («Игра»).</VFEPD_LargeDecalWordPlay.description>
+  <VFEPD_LargeDecalWordPrison.description>Напольная надпись «Prison» («Тюрьма»).</VFEPD_LargeDecalWordPrison.description>
+  <VFEPD_LargeDecalWordReactor.description>Напольная надпись «Reactor» («Реактор»).</VFEPD_LargeDecalWordReactor.description>
+  <VFEPD_LargeDecalWordRecreation.description>Напольная надпись «Recreation» («Развлечения»).</VFEPD_LargeDecalWordRecreation.description>
+  <VFEPD_LargeDecalWordRefinery.description>Напольная надпись «Refinery» («Переработка»).</VFEPD_LargeDecalWordRefinery.description>
+  <VFEPD_LargeDecalWordRelax.description>Напольная надпись «Relax» («Отдых»).</VFEPD_LargeDecalWordRelax.description>
+  <VFEPD_LargeDecalWordResearch.description>Напольная надпись «Research» («Исследования»).</VFEPD_LargeDecalWordResearch.description>
+  <VFEPD_LargeDecalWordSecurity.description>Напольная надпись «Security» («Охрана»).</VFEPD_LargeDecalWordSecurity.description>
+  <VFEPD_LargeDecalWordShipping.description>Напольная надпись «Shipping» («Отгрузка»).</VFEPD_LargeDecalWordShipping.description>
+  <VFEPD_LargeDecalWordSleeping.description>Напольная надпись «Sleeping» («Сон»).</VFEPD_LargeDecalWordSleeping.description>
+  <VFEPD_LargeDecalWordSmelting.description>Напольная надпись «Smelting» («Плавка»).</VFEPD_LargeDecalWordSmelting.description>
+  <VFEPD_LargeDecalWordStorage.description>Напольная надпись «Storage» («Хранение»).</VFEPD_LargeDecalWordStorage.description>
+  <VFEPD_LargeDecalWordWarning.description>Напольная надпись «Warning» («Внимание»).</VFEPD_LargeDecalWordWarning.description>
+  <VFEPD_LargeDecalWordWorkshop.description>Напольная надпись «Workshop» («Мастерская»).</VFEPD_LargeDecalWordWorkshop.description>
+  <VFEPD_LargeDecalWordSmallBase.description>Напольная надпись «Base» («База»).</VFEPD_LargeDecalWordSmallBase.description>
+  <VFEPD_LargeDecalWordSmallBay.description>Напольная надпись «Bay» («Отсек»).</VFEPD_LargeDecalWordSmallBay.description>
+  <VFEPD_LargeDecalWordSmallBox.description>Напольная надпись «Box» («Ящик»).</VFEPD_LargeDecalWordSmallBox.description>
+  <VFEPD_LargeDecalWordSmallCell.description>Напольная надпись «Cell» («Камера»).</VFEPD_LargeDecalWordSmallCell.description>
+  <VFEPD_LargeDecalWordSmallClear.description>Напольная надпись «Clear» («Свободно»).</VFEPD_LargeDecalWordSmallClear.description>
+  <VFEPD_LargeDecalWordSmallDock.description>Напольная надпись «Dock» («Док»).</VFEPD_LargeDecalWordSmallDock.description>
+  <VFEPD_LargeDecalWordSmallGas.description>Напольная надпись «Gas» («Газ»).</VFEPD_LargeDecalWordSmallGas.description>
+  <VFEPD_LargeDecalWordSmallHall.description>Напольная надпись «Hall» («Зал»).</VFEPD_LargeDecalWordSmallHall.description>
+  <VFEPD_LargeDecalWordSmallKeep.description>Напольная надпись «Keep» («Держать»).</VFEPD_LargeDecalWordSmallKeep.description>
+  <VFEPD_LargeDecalWordSmallLab.description>Напольная надпись «Lab» («Лаборатория»).</VFEPD_LargeDecalWordSmallLab.description>
+  <VFEPD_LargeDecalWordSmallPad.description>Напольная надпись «Pad» («Площадка»).</VFEPD_LargeDecalWordSmallPad.description>
+  <VFEPD_LargeDecalWordSmallRoom.description>Напольная надпись «Room» («Комната»).</VFEPD_LargeDecalWordSmallRoom.description>
+  <VFEPD_LargeDecalWordSmallWing.description>Напольная надпись «Wing» («Крыло»).</VFEPD_LargeDecalWordSmallWing.description>
+  <VFEPD_LargeDecalWordSmallZone.description>Напольная надпись «Zone» («Зона»).</VFEPD_LargeDecalWordSmallZone.description>
+  <VFEPD_LargeDecalWordSmallDanger.description>Напольная надпись «Danger» («Опасность»).</VFEPD_LargeDecalWordSmallDanger.description>
+  <VFEPD_LargeDecalWordStop.description>Напольная надпись «Stop» («Стоп»).</VFEPD_LargeDecalWordStop.description>
+  <VFEPD_LargeDecalWarningGeneric.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalWarningGeneric.description>
+  <VFEPD_LargeDecalWarningRadiation.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalWarningRadiation.description>
+  <VFEPD_LargeDecalWarningElectric.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalWarningElectric.description>
+  <VFEPD_LargeDecalWarningBiohazard.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalWarningBiohazard.description>
+  <VFEPD_LargeDecalLineThinDiagonal.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalLineThinDiagonal.description>
+  <VFEPD_LargeDecalLineThinCornerInnerDiagonal.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalLineThinCornerInnerDiagonal.description>
+  <VFEPD_LargeDecalLineThinCornerOuterDiagonal.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalLineThinCornerOuterDiagonal.description>
+  <VFEPD_LargeDecalFakeStairs.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalFakeStairs.description>
+  <VFEPD_LargeDecalFakeStairsCorner.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalFakeStairsCorner.description>
+  <VFEPD_LargeDecalFakeStairsInvertedCorner.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalFakeStairsInvertedCorner.description>
+  <VFEPD_LargeDecalLineThinCentered.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalLineThinCentered.description>
+  <VFEPD_LargeDecalLineThinCenteredCorner.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalLineThinCenteredCorner.description>
+  <VFEPD_LargeDecalLineThinCenteredDiagonal.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalLineThinCenteredDiagonal.description>
+  <VFEPD_LargeDecalLineThinCenteredRound.description>Крупный рисунок для размещения на полу.</VFEPD_LargeDecalLineThinCenteredRound.description>
+  <VFEPD_DecalHelipadSquareLarge.description>Крупный рисунок для размещения на полу.</VFEPD_DecalHelipadSquareLarge.description>
+  <VFEPD_DecalHelipadRoundLarge.description>Крупный рисунок для размещения на полу.</VFEPD_DecalHelipadRoundLarge.description>
+  <VFEPD_DecalHelipadSquareLargeGeneric.description>Крупный рисунок для размещения на полу.</VFEPD_DecalHelipadSquareLargeGeneric.description>
+  <VFEPD_DecalHelipadRoundLargeGeneric.description>Крупный рисунок для размещения на полу.</VFEPD_DecalHelipadRoundLargeGeneric.description>
+  <VFEPD_DecalWarningStripesLarge.description>Крупный рисунок для размещения на полу.</VFEPD_DecalWarningStripesLarge.description>
+  <VFEPD_DecalWarningStripesCleanLarge.description>Крупный рисунок для размещения на полу.</VFEPD_DecalWarningStripesCleanLarge.description>
+  <VFEPD_DecalWarningArrowLarge.description>Крупный рисунок для размещения на полу.</VFEPD_DecalWarningArrowLarge.description>
+  <VFEPD_DecalWarningArrowCleanLarge.description>Крупный рисунок для размещения на полу.</VFEPD_DecalWarningArrowCleanLarge.description>
+  <VFEPD_DecalBikeLaneLarge.description>Крупный рисунок для размещения на полу.</VFEPD_DecalBikeLaneLarge.description>
+  <VFEPD_DecalStopSignLarge.description>Крупный рисунок для размещения на полу.</VFEPD_DecalStopSignLarge.description>
+  <VFEPD_DecalPedestrianLaneLarge.description>Крупный рисунок для размещения на полу.</VFEPD_DecalPedestrianLaneLarge.description>
+  <VFEPD_DecalYieldLarge.description>Крупный рисунок для размещения на полу.</VFEPD_DecalYieldLarge.description>
+  <VFEPD_LargeDecalArrowShort.label>большая короткая стрелка</VFEPD_LargeDecalArrowShort.label>
+  <VFEPD_LargeDecalArrowWide.label>большая широкая стрелка</VFEPD_LargeDecalArrowWide.label>
+  <VFEPD_LargeDecalArrowLeft.label>большая стрелка влево</VFEPD_LargeDecalArrowLeft.label>
+  <VFEPD_LargeDecalArrowRight.label>большая стрелка вправо</VFEPD_LargeDecalArrowRight.label>
+  <VFEPD_LargeDecalArrowBoth.label>большая стрелка влево и вправо</VFEPD_LargeDecalArrowBoth.label>
+  <VFEPD_LargeDecalArrowDouble.label>большая двойная стрелка</VFEPD_LargeDecalArrowDouble.label>
+  <VFEPD_LargeDecalArrowLeftStraight.label>большая стрелка влево и прямо</VFEPD_LargeDecalArrowLeftStraight.label>
+  <VFEPD_LargeDecalArrowRightStraight.label>большая стрелка вправо и прямо</VFEPD_LargeDecalArrowRightStraight.label>
+  <VFEPD_LargeDecalArrowThreeWays.label>большая стрелка в трёх направлениях</VFEPD_LargeDecalArrowThreeWays.label>
+  <VFEPD_LargeDecalLineDouble.label>большая двойная линия</VFEPD_LargeDecalLineDouble.label>
+  <VFEPD_LargeDecalLineDoubleCornerInner.label>большая двойная линия, внутренний угол</VFEPD_LargeDecalLineDoubleCornerInner.label>
+  <VFEPD_LargeDecalLineDoubleCornerInnerRound.label>большая двойная линия, внутреннее скругление</VFEPD_LargeDecalLineDoubleCornerInnerRound.label>
+  <VFEPD_LargeDecalLineDoubleCornerOuter.label>большая двойная линия, внешний угол</VFEPD_LargeDecalLineDoubleCornerOuter.label>
+  <VFEPD_LargeDecalLineDoubleCornerOuterRound.label>большая двойная линия, внешнее скругление</VFEPD_LargeDecalLineDoubleCornerOuterRound.label>
+  <VFEPD_LargeDecalLineThin.label>большая тонкая линия</VFEPD_LargeDecalLineThin.label>
+  <VFEPD_LargeDecalLineThinCornerInner.label>большая тонкая линия, внутренний угол</VFEPD_LargeDecalLineThinCornerInner.label>
+  <VFEPD_LargeDecalLineThinCornerInnerRound.label>большая тонкая линия, внутреннее скругление</VFEPD_LargeDecalLineThinCornerInnerRound.label>
+  <VFEPD_LargeDecalLineThinCornerOuter.label>большая тонкая линия, внешний угол</VFEPD_LargeDecalLineThinCornerOuter.label>
+  <VFEPD_LargeDecalLineThinCornerOuterRound.label>большая тонкая линия, внешнее скругление</VFEPD_LargeDecalLineThinCornerOuterRound.label>
+  <VFEPD_DecalArrowDiagonalLarge.label>большая диагональная стрелка</VFEPD_DecalArrowDiagonalLarge.label>
+  <VFEPD_LargeDecalSymbolA.label>большая латинская буква A</VFEPD_LargeDecalSymbolA.label>
+  <VFEPD_LargeDecalSymbolB.label>большая латинская буква B</VFEPD_LargeDecalSymbolB.label>
+  <VFEPD_LargeDecalSymbolC.label>большая латинская буква C</VFEPD_LargeDecalSymbolC.label>
+  <VFEPD_LargeDecalSymbolD.label>большая латинская буква D</VFEPD_LargeDecalSymbolD.label>
+  <VFEPD_LargeDecalSymbolE.label>большая латинская буква E</VFEPD_LargeDecalSymbolE.label>
+  <VFEPD_LargeDecalSymbolF.label>большая латинская буква F</VFEPD_LargeDecalSymbolF.label>
+  <VFEPD_LargeDecalSymbolG.label>большая латинская буква G</VFEPD_LargeDecalSymbolG.label>
+  <VFEPD_LargeDecalSymbolH.label>большая латинская буква H</VFEPD_LargeDecalSymbolH.label>
+  <VFEPD_LargeDecalSymbolI.label>большая латинская буква I</VFEPD_LargeDecalSymbolI.label>
+  <VFEPD_LargeDecalSymbolJ.label>большая латинская буква J</VFEPD_LargeDecalSymbolJ.label>
+  <VFEPD_LargeDecalSymbolK.label>большая латинская буква K</VFEPD_LargeDecalSymbolK.label>
+  <VFEPD_LargeDecalSymbolL.label>большая латинская буква L</VFEPD_LargeDecalSymbolL.label>
+  <VFEPD_LargeDecalSymbolM.label>большая латинская буква M</VFEPD_LargeDecalSymbolM.label>
+  <VFEPD_LargeDecalSymbolN.label>большая латинская буква N</VFEPD_LargeDecalSymbolN.label>
+  <VFEPD_LargeDecalSymbolO.label>большая латинская буква O</VFEPD_LargeDecalSymbolO.label>
+  <VFEPD_LargeDecalSymbolP.label>большая латинская буква P</VFEPD_LargeDecalSymbolP.label>
+  <VFEPD_LargeDecalSymbolQ.label>большая латинская буква Q</VFEPD_LargeDecalSymbolQ.label>
+  <VFEPD_LargeDecalSymbolV.label>большая латинская буква V</VFEPD_LargeDecalSymbolV.label>
+  <VFEPD_LargeDecalSymbolR.label>большая латинская буква R</VFEPD_LargeDecalSymbolR.label>
+  <VFEPD_LargeDecalSymbolS.label>большая латинская буква S</VFEPD_LargeDecalSymbolS.label>
+  <VFEPD_LargeDecalSymbolT.label>большая латинская буква T</VFEPD_LargeDecalSymbolT.label>
+  <VFEPD_LargeDecalSymbolU.label>большая латинская буква U</VFEPD_LargeDecalSymbolU.label>
+  <VFEPD_LargeDecalSymbolW.label>большая латинская буква W</VFEPD_LargeDecalSymbolW.label>
+  <VFEPD_LargeDecalSymbolX.label>большая латинская буква X</VFEPD_LargeDecalSymbolX.label>
+  <VFEPD_LargeDecalSymbolY.label>большая латинская буква Y</VFEPD_LargeDecalSymbolY.label>
+  <VFEPD_LargeDecalSymbolZ.label>большая латинская буква Z</VFEPD_LargeDecalSymbolZ.label>
+  <VFEPD_LargeDecalSymbolOne.label>большая цифра 1</VFEPD_LargeDecalSymbolOne.label>
+  <VFEPD_LargeDecalSymbolTwo.label>большая цифра 2</VFEPD_LargeDecalSymbolTwo.label>
+  <VFEPD_LargeDecalSymbolThree.label>большая цифра 3</VFEPD_LargeDecalSymbolThree.label>
+  <VFEPD_LargeDecalSymbolFour.label>большая цифра 4</VFEPD_LargeDecalSymbolFour.label>
+  <VFEPD_LargeDecalSymbolFive.label>большая цифра 5</VFEPD_LargeDecalSymbolFive.label>
+  <VFEPD_LargeDecalSymbolSix.label>большая цифра 6</VFEPD_LargeDecalSymbolSix.label>
+  <VFEPD_LargeDecalSymbolSeven.label>большая цифра 7</VFEPD_LargeDecalSymbolSeven.label>
+  <VFEPD_LargeDecalSymbolEight.label>большая цифра 8</VFEPD_LargeDecalSymbolEight.label>
+  <VFEPD_LargeDecalSymbolNine.label>большая цифра 9</VFEPD_LargeDecalSymbolNine.label>
+  <VFEPD_LargeDecalSymbolZero.label>большая цифра 0</VFEPD_LargeDecalSymbolZero.label>
+  <VFEPD_LargeDecalWordArmory.label>большая надпись: оружейная</VFEPD_LargeDecalWordArmory.label>
+  <VFEPD_LargeDecalWordBarracks.label>большая надпись: казармы</VFEPD_LargeDecalWordBarracks.label>
+  <VFEPD_LargeDecalWordBlock.label>большая надпись: блок</VFEPD_LargeDecalWordBlock.label>
+  <VFEPD_LargeDecalWordCafeteria.label>большая надпись: кафетерий</VFEPD_LargeDecalWordCafeteria.label>
+  <VFEPD_LargeDecalWordCargo.label>большая надпись: груз</VFEPD_LargeDecalWordCargo.label>
+  <VFEPD_LargeDecalWordChamber.label>большая надпись: камера</VFEPD_LargeDecalWordChamber.label>
+  <VFEPD_LargeDecalWordClimate.label>большая надпись: климат</VFEPD_LargeDecalWordClimate.label>
+  <VFEPD_LargeDecalWordCommand.label>большая надпись: командование</VFEPD_LargeDecalWordCommand.label>
+  <VFEPD_LargeDecalWordControl.label>большая надпись: управление</VFEPD_LargeDecalWordControl.label>
+  <VFEPD_LargeDecalWordEngineer.label>большая надпись: инженер</VFEPD_LargeDecalWordEngineer.label>
+  <VFEPD_LargeDecalWordFarming.label>большая надпись: земледелие</VFEPD_LargeDecalWordFarming.label>
+  <VFEPD_LargeDecalWordFreezer.label>большая надпись: морозильник</VFEPD_LargeDecalWordFreezer.label>
+  <VFEPD_LargeDecalWordFridge.label>большая надпись: холодильник</VFEPD_LargeDecalWordFridge.label>
+  <VFEPD_LargeDecalWordHangar.label>большая надпись: ангар</VFEPD_LargeDecalWordHangar.label>
+  <VFEPD_LargeDecalWordHospital.label>большая надпись: госпиталь</VFEPD_LargeDecalWordHospital.label>
+  <VFEPD_LargeDecalWordKill.label>большая надпись: убийство</VFEPD_LargeDecalWordKill.label>
+  <VFEPD_LargeDecalWordKitchen.label>большая надпись: кухня</VFEPD_LargeDecalWordKitchen.label>
+  <VFEPD_LargeDecalWordLanding.label>большая надпись: посадка</VFEPD_LargeDecalWordLanding.label>
+  <VFEPD_LargeDecalWordMedical.label>большая надпись: медицина</VFEPD_LargeDecalWordMedical.label>
+  <VFEPD_LargeDecalWordMess.label>большая надпись: столовая</VFEPD_LargeDecalWordMess.label>
+  <VFEPD_LargeDecalWordMorgue.label>большая надпись: морг</VFEPD_LargeDecalWordMorgue.label>
+  <VFEPD_LargeDecalWordMortar.label>большая надпись: миномёт</VFEPD_LargeDecalWordMortar.label>
+  <VFEPD_LargeDecalWordPlay.label>большая надпись: игра</VFEPD_LargeDecalWordPlay.label>
+  <VFEPD_LargeDecalWordPrison.label>большая надпись: тюрьма</VFEPD_LargeDecalWordPrison.label>
+  <VFEPD_LargeDecalWordReactor.label>большая надпись: реактор</VFEPD_LargeDecalWordReactor.label>
+  <VFEPD_LargeDecalWordRecreation.label>большая надпись: развлечения</VFEPD_LargeDecalWordRecreation.label>
+  <VFEPD_LargeDecalWordRefinery.label>большая надпись: переработка</VFEPD_LargeDecalWordRefinery.label>
+  <VFEPD_LargeDecalWordRelax.label>большая надпись: отдых</VFEPD_LargeDecalWordRelax.label>
+  <VFEPD_LargeDecalWordResearch.label>большая надпись: исследования</VFEPD_LargeDecalWordResearch.label>
+  <VFEPD_LargeDecalWordSecurity.label>большая надпись: охрана</VFEPD_LargeDecalWordSecurity.label>
+  <VFEPD_LargeDecalWordShipping.label>большая надпись: отгрузка</VFEPD_LargeDecalWordShipping.label>
+  <VFEPD_LargeDecalWordSleeping.label>большая надпись: сон</VFEPD_LargeDecalWordSleeping.label>
+  <VFEPD_LargeDecalWordSmelting.label>большая надпись: плавка</VFEPD_LargeDecalWordSmelting.label>
+  <VFEPD_LargeDecalWordStorage.label>большая надпись: хранение</VFEPD_LargeDecalWordStorage.label>
+  <VFEPD_LargeDecalWordWarning.label>большая надпись: внимание</VFEPD_LargeDecalWordWarning.label>
+  <VFEPD_LargeDecalWordWorkshop.label>большая надпись: мастерская</VFEPD_LargeDecalWordWorkshop.label>
+  <VFEPD_LargeDecalWordSmallBase.label>большая надпись: база</VFEPD_LargeDecalWordSmallBase.label>
+  <VFEPD_LargeDecalWordSmallBay.label>большая надпись: отсек</VFEPD_LargeDecalWordSmallBay.label>
+  <VFEPD_LargeDecalWordSmallBox.label>большая надпись: ящик</VFEPD_LargeDecalWordSmallBox.label>
+  <VFEPD_LargeDecalWordSmallCell.label>большая надпись: камера</VFEPD_LargeDecalWordSmallCell.label>
+  <VFEPD_LargeDecalWordSmallClear.label>большая надпись: свободно</VFEPD_LargeDecalWordSmallClear.label>
+  <VFEPD_LargeDecalWordSmallDock.label>большая надпись: док</VFEPD_LargeDecalWordSmallDock.label>
+  <VFEPD_LargeDecalWordSmallGas.label>большая надпись: газ</VFEPD_LargeDecalWordSmallGas.label>
+  <VFEPD_LargeDecalWordSmallHall.label>большая надпись: зал</VFEPD_LargeDecalWordSmallHall.label>
+  <VFEPD_LargeDecalWordSmallKeep.label>большая надпись: держать</VFEPD_LargeDecalWordSmallKeep.label>
+  <VFEPD_LargeDecalWordSmallLab.label>большая надпись: лаборатория</VFEPD_LargeDecalWordSmallLab.label>
+  <VFEPD_LargeDecalWordSmallPad.label>большая надпись: площадка</VFEPD_LargeDecalWordSmallPad.label>
+  <VFEPD_LargeDecalWordSmallRoom.label>большая надпись: комната</VFEPD_LargeDecalWordSmallRoom.label>
+  <VFEPD_LargeDecalWordSmallWing.label>большая надпись: крыло</VFEPD_LargeDecalWordSmallWing.label>
+  <VFEPD_LargeDecalWordSmallZone.label>большая надпись: зона</VFEPD_LargeDecalWordSmallZone.label>
+  <VFEPD_LargeDecalWordSmallDanger.label>большая надпись: опасность</VFEPD_LargeDecalWordSmallDanger.label>
+  <VFEPD_LargeDecalWordStop.label>большая надпись: стоп</VFEPD_LargeDecalWordStop.label>
+  <VFEPD_LargeDecalWarningGeneric.label>большой предупреждающий знак</VFEPD_LargeDecalWarningGeneric.label>
+  <VFEPD_LargeDecalWarningRadiation.label>большой знак радиации</VFEPD_LargeDecalWarningRadiation.label>
+  <VFEPD_LargeDecalWarningElectric.label>большой знак высокого напряжения</VFEPD_LargeDecalWarningElectric.label>
+  <VFEPD_LargeDecalWarningBiohazard.label>большой знак биологической опасности</VFEPD_LargeDecalWarningBiohazard.label>
+  <VFEPD_LargeDecalLineThinDiagonal.label>большая тонкая диагональная линия</VFEPD_LargeDecalLineThinDiagonal.label>
+  <VFEPD_LargeDecalLineThinCornerInnerDiagonal.label>большая тонкая диагональная линия, внутренний угол</VFEPD_LargeDecalLineThinCornerInnerDiagonal.label>
+  <VFEPD_LargeDecalLineThinCornerOuterDiagonal.label>большая тонкая диагональная линия, внешний угол</VFEPD_LargeDecalLineThinCornerOuterDiagonal.label>
+  <VFEPD_LargeDecalFakeStairs.label>большая нарисованная лестница</VFEPD_LargeDecalFakeStairs.label>
+  <VFEPD_LargeDecalFakeStairsCorner.label>большая нарисованная лестница, угол</VFEPD_LargeDecalFakeStairsCorner.label>
+  <VFEPD_LargeDecalFakeStairsInvertedCorner.label>большая нарисованная лестница, обратный угол</VFEPD_LargeDecalFakeStairsInvertedCorner.label>
+  <VFEPD_LargeDecalLineThinCentered.label>большая тонкая линия по центру</VFEPD_LargeDecalLineThinCentered.label>
+  <VFEPD_LargeDecalLineThinCenteredCorner.label>большая тонкая линия по центру, угол</VFEPD_LargeDecalLineThinCenteredCorner.label>
+  <VFEPD_LargeDecalLineThinCenteredDiagonal.label>большая тонкая диагональная линия по центру</VFEPD_LargeDecalLineThinCenteredDiagonal.label>
+  <VFEPD_LargeDecalLineThinCenteredRound.label>большая тонкая линия по центру, скругление</VFEPD_LargeDecalLineThinCenteredRound.label>
+  <VFEPD_DecalHelipadSquareLarge.label>большая квадратная вертолётная площадка</VFEPD_DecalHelipadSquareLarge.label>
+  <VFEPD_DecalHelipadRoundLarge.label>большая круглая вертолётная площадка</VFEPD_DecalHelipadRoundLarge.label>
+  <VFEPD_DecalHelipadSquareLargeGeneric.label>большая квадратная посадочная площадка</VFEPD_DecalHelipadSquareLargeGeneric.label>
+  <VFEPD_DecalHelipadRoundLargeGeneric.label>большая круглая посадочная площадка</VFEPD_DecalHelipadRoundLargeGeneric.label>
+  <VFEPD_DecalWarningStripesLarge.label>большие предупреждающие полосы</VFEPD_DecalWarningStripesLarge.label>
+  <VFEPD_DecalWarningStripesCleanLarge.label>большие предупреждающие полосы без потёртостей</VFEPD_DecalWarningStripesCleanLarge.label>
+  <VFEPD_DecalWarningArrowLarge.label>большая предупреждающая стрелка</VFEPD_DecalWarningArrowLarge.label>
+  <VFEPD_DecalWarningArrowCleanLarge.label>большая предупреждающая стрелка без потёртостей</VFEPD_DecalWarningArrowCleanLarge.label>
+  <VFEPD_DecalBikeLaneLarge.label>большой знак велосипедной дорожки</VFEPD_DecalBikeLaneLarge.label>
+  <VFEPD_DecalStopSignLarge.label>большой знак остановки</VFEPD_DecalStopSignLarge.label>
+  <VFEPD_DecalPedestrianLaneLarge.label>большой знак пешеходной дорожки</VFEPD_DecalPedestrianLaneLarge.label>
+  <VFEPD_DecalYieldLarge.label>большой знак «Уступите дорогу»</VFEPD_DecalYieldLarge.label>
+  <VFEPD_DecalArrowLong.label>длинная стрелка</VFEPD_DecalArrowLong.label>
+  <VFEPD_DecalArrowLong.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalArrowLong.description>
+  <VFEPD_DecalArrowShort.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalArrowShort.description>
+  <VFEPD_DecalArrowWide.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalArrowWide.description>
+  <VFEPD_DecalArrowLeft.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalArrowLeft.description>
+  <VFEPD_DecalArrowRight.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalArrowRight.description>
+  <VFEPD_DecalArrowBoth.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalArrowBoth.description>
+  <VFEPD_DecalArrowDouble.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalArrowDouble.description>
+  <VFEPD_DecalArrowLeftStraight.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalArrowLeftStraight.description>
+  <VFEPD_DecalArrowRightStraight.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalArrowRightStraight.description>
+  <VFEPD_DecalArrowThreeWays.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalArrowThreeWays.description>
+  <VFEPD_DecalLineDouble.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalLineDouble.description>
+  <VFEPD_DecalLineDoubleCornerInner.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalLineDoubleCornerInner.description>
+  <VFEPD_DecalLineDoubleCornerInnerRound.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalLineDoubleCornerInnerRound.description>
+  <VFEPD_DecalLineDoubleCornerOuter.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalLineDoubleCornerOuter.description>
+  <VFEPD_DecalLineDoubleCornerOuterRound.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalLineDoubleCornerOuterRound.description>
+  <VFEPD_DecalLineThin.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalLineThin.description>
+  <VFEPD_DecalLineThinCornerInner.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalLineThinCornerInner.description>
+  <VFEPD_DecalLineThinCornerInnerRound.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalLineThinCornerInnerRound.description>
+  <VFEPD_DecalLineThinCornerOuter.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalLineThinCornerOuter.description>
+  <VFEPD_DecalLineThinCornerOuterRound.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalLineThinCornerOuterRound.description>
+  <VFEPD_DecalArrowDiagonal.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalArrowDiagonal.description>
+  <VFEPD_DecalSymbolA.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalSymbolA.description>
+  <VFEPD_DecalSymbolB.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalSymbolB.description>
+  <VFEPD_DecalSymbolC.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalSymbolC.description>
+  <VFEPD_DecalSymbolD.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalSymbolD.description>
+  <VFEPD_DecalSymbolE.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalSymbolE.description>
+  <VFEPD_DecalSymbolF.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalSymbolF.description>
+  <VFEPD_DecalSymbolG.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalSymbolG.description>
+  <VFEPD_DecalSymbolH.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalSymbolH.description>
+  <VFEPD_DecalSymbolI.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalSymbolI.description>
+  <VFEPD_DecalSymbolJ.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalSymbolJ.description>
+  <VFEPD_DecalSymbolK.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalSymbolK.description>
+  <VFEPD_DecalSymbolL.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalSymbolL.description>
+  <VFEPD_DecalSymbolM.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalSymbolM.description>
+  <VFEPD_DecalSymbolN.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalSymbolN.description>
+  <VFEPD_DecalSymbolO.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalSymbolO.description>
+  <VFEPD_DecalSymbolP.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalSymbolP.description>
+  <VFEPD_DecalSymbolQ.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalSymbolQ.description>
+  <VFEPD_DecalSymbolV.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalSymbolV.description>
+  <VFEPD_DecalSymbolR.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalSymbolR.description>
+  <VFEPD_DecalSymbolS.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalSymbolS.description>
+  <VFEPD_DecalSymbolT.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalSymbolT.description>
+  <VFEPD_DecalSymbolU.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalSymbolU.description>
+  <VFEPD_DecalSymbolW.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalSymbolW.description>
+  <VFEPD_DecalSymbolX.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalSymbolX.description>
+  <VFEPD_DecalSymbolY.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalSymbolY.description>
+  <VFEPD_DecalSymbolZ.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalSymbolZ.description>
+  <VFEPD_DecalSymbolOne.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalSymbolOne.description>
+  <VFEPD_DecalSymbolTwo.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalSymbolTwo.description>
+  <VFEPD_DecalSymbolThree.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalSymbolThree.description>
+  <VFEPD_DecalSymbolFour.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalSymbolFour.description>
+  <VFEPD_DecalSymbolFive.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalSymbolFive.description>
+  <VFEPD_DecalSymbolSix.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalSymbolSix.description>
+  <VFEPD_DecalSymbolSeven.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalSymbolSeven.description>
+  <VFEPD_DecalSymbolEight.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalSymbolEight.description>
+  <VFEPD_DecalSymbolNine.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalSymbolNine.description>
+  <VFEPD_DecalSymbolZero.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalSymbolZero.description>
+  <VFEPD_DecalWordArmory.description>Напольная надпись «Armory» («Оружейная»).</VFEPD_DecalWordArmory.description>
+  <VFEPD_DecalWordBarracks.description>Напольная надпись «Barracks» («Казармы»).</VFEPD_DecalWordBarracks.description>
+  <VFEPD_DecalWordBlock.description>Напольная надпись «Block» («Блок»).</VFEPD_DecalWordBlock.description>
+  <VFEPD_DecalWordCafeteria.description>Напольная надпись «Cafeteria» («Кафетерий»).</VFEPD_DecalWordCafeteria.description>
+  <VFEPD_DecalWordCargo.description>Напольная надпись «Cargo» («Груз»).</VFEPD_DecalWordCargo.description>
+  <VFEPD_DecalWordChamber.description>Напольная надпись «Chamber» («Камера»).</VFEPD_DecalWordChamber.description>
+  <VFEPD_DecalWordClimate.description>Напольная надпись «Climate» («Климат»).</VFEPD_DecalWordClimate.description>
+  <VFEPD_DecalWordCommand.description>Напольная надпись «Command» («Командование»).</VFEPD_DecalWordCommand.description>
+  <VFEPD_DecalWordControl.description>Напольная надпись «Control» («Управление»).</VFEPD_DecalWordControl.description>
+  <VFEPD_DecalWordEngineer.description>Напольная надпись «Engineer» («Инженер»).</VFEPD_DecalWordEngineer.description>
+  <VFEPD_DecalWordFarming.description>Напольная надпись «Farming» («Земледелие»).</VFEPD_DecalWordFarming.description>
+  <VFEPD_DecalWordFreezer.description>Напольная надпись «Freezer» («Морозильник»).</VFEPD_DecalWordFreezer.description>
+  <VFEPD_DecalWordFridge.description>Напольная надпись «Fridge» («Холодильник»).</VFEPD_DecalWordFridge.description>
+  <VFEPD_DecalWordHangar.description>Напольная надпись «Hangar» («Ангар»).</VFEPD_DecalWordHangar.description>
+  <VFEPD_DecalWordHospital.description>Напольная надпись «Hospital» («Госпиталь»).</VFEPD_DecalWordHospital.description>
+  <VFEPD_DecalWordKill.description>Напольная надпись «Kill» («Убийство»).</VFEPD_DecalWordKill.description>
+  <VFEPD_DecalWordKitchen.description>Напольная надпись «Kitchen» («Кухня»).</VFEPD_DecalWordKitchen.description>
+  <VFEPD_DecalWordLanding.description>Напольная надпись «Landing» («Посадка»).</VFEPD_DecalWordLanding.description>
+  <VFEPD_DecalWordMedical.description>Напольная надпись «Medical» («Медицина»).</VFEPD_DecalWordMedical.description>
+  <VFEPD_DecalWordMess.description>Напольная надпись «Mess» («Столовая»).</VFEPD_DecalWordMess.description>
+  <VFEPD_DecalWordMorgue.description>Напольная надпись «Morgue» («Морг»).</VFEPD_DecalWordMorgue.description>
+  <VFEPD_DecalWordMortar.description>Напольная надпись «Mortar» («Миномёт»).</VFEPD_DecalWordMortar.description>
+  <VFEPD_DecalWordPlay.description>Напольная надпись «Play» («Игра»).</VFEPD_DecalWordPlay.description>
+  <VFEPD_DecalWordPrison.description>Напольная надпись «Prison» («Тюрьма»).</VFEPD_DecalWordPrison.description>
+  <VFEPD_DecalWordReactor.description>Напольная надпись «Reactor» («Реактор»).</VFEPD_DecalWordReactor.description>
+  <VFEPD_DecalWordRecreation.description>Напольная надпись «Recreation» («Развлечения»).</VFEPD_DecalWordRecreation.description>
+  <VFEPD_DecalWordRefinery.description>Напольная надпись «Refinery» («Переработка»).</VFEPD_DecalWordRefinery.description>
+  <VFEPD_DecalWordRelax.description>Напольная надпись «Relax» («Отдых»).</VFEPD_DecalWordRelax.description>
+  <VFEPD_DecalWordResearch.description>Напольная надпись «Research» («Исследования»).</VFEPD_DecalWordResearch.description>
+  <VFEPD_DecalWordSecurity.description>Напольная надпись «Security» («Охрана»).</VFEPD_DecalWordSecurity.description>
+  <VFEPD_DecalWordShipping.description>Напольная надпись «Shipping» («Отгрузка»).</VFEPD_DecalWordShipping.description>
+  <VFEPD_DecalWordSleeping.description>Напольная надпись «Sleeping» («Сон»).</VFEPD_DecalWordSleeping.description>
+  <VFEPD_DecalWordSmelting.description>Напольная надпись «Smelting» («Плавка»).</VFEPD_DecalWordSmelting.description>
+  <VFEPD_DecalWordStorage.description>Напольная надпись «Storage» («Хранение»).</VFEPD_DecalWordStorage.description>
+  <VFEPD_DecalWordWarning.description>Напольная надпись «Warning» («Внимание»).</VFEPD_DecalWordWarning.description>
+  <VFEPD_DecalWordWorkshop.description>Напольная надпись «Workshop» («Мастерская»).</VFEPD_DecalWordWorkshop.description>
+  <VFEPD_DecalWordSmallBase.description>Напольная надпись «Base» («База»).</VFEPD_DecalWordSmallBase.description>
+  <VFEPD_DecalWordSmallBay.description>Напольная надпись «Bay» («Отсек»).</VFEPD_DecalWordSmallBay.description>
+  <VFEPD_DecalWordSmallBox.description>Напольная надпись «Box» («Ящик»).</VFEPD_DecalWordSmallBox.description>
+  <VFEPD_DecalWordSmallCell.description>Напольная надпись «Cell» («Камера»).</VFEPD_DecalWordSmallCell.description>
+  <VFEPD_DecalWordSmallClear.description>Напольная надпись «Clear» («Свободно»).</VFEPD_DecalWordSmallClear.description>
+  <VFEPD_DecalWordSmallDock.description>Напольная надпись «Dock» («Док»).</VFEPD_DecalWordSmallDock.description>
+  <VFEPD_DecalWordSmallGas.description>Напольная надпись «Gas» («Газ»).</VFEPD_DecalWordSmallGas.description>
+  <VFEPD_DecalWordSmallHall.description>Напольная надпись «Hall» («Зал»).</VFEPD_DecalWordSmallHall.description>
+  <VFEPD_DecalWordSmallKeep.description>Напольная надпись «Keep» («Держать»).</VFEPD_DecalWordSmallKeep.description>
+  <VFEPD_DecalWordSmallLab.description>Напольная надпись «Lab» («Лаборатория»).</VFEPD_DecalWordSmallLab.description>
+  <VFEPD_DecalWordSmallPad.description>Напольная надпись «Pad» («Площадка»).</VFEPD_DecalWordSmallPad.description>
+  <VFEPD_DecalWordSmallRoom.description>Напольная надпись «Room» («Комната»).</VFEPD_DecalWordSmallRoom.description>
+  <VFEPD_DecalWordSmallWing.description>Напольная надпись «Wing» («Крыло»).</VFEPD_DecalWordSmallWing.description>
+  <VFEPD_DecalWordSmallZone.description>Напольная надпись «Zone» («Зона»).</VFEPD_DecalWordSmallZone.description>
+  <VFEPD_DecalWordDanger.description>Напольная надпись «Danger» («Опасность»).</VFEPD_DecalWordDanger.description>
+  <VFEPD_DecalWordStop.description>Напольная надпись «Stop» («Стоп»).</VFEPD_DecalWordStop.description>
+  <VFEPD_DecalWarningGeneric.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalWarningGeneric.description>
+  <VFEPD_DecalWarningRadiation.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalWarningRadiation.description>
+  <VFEPD_DecalWarningElectric.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalWarningElectric.description>
+  <VFEPD_DecalWarningBiohazard.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalWarningBiohazard.description>
+  <VFEPD_DecalLineThinDiagonal.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalLineThinDiagonal.description>
+  <VFEPD_DecalLineThinCornerInnerDiagonal.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalLineThinCornerInnerDiagonal.description>
+  <VFEPD_DecalLineThinCornerOuterDiagonal.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalLineThinCornerOuterDiagonal.description>
+  <VFEPD_DecalFakeStairs.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalFakeStairs.description>
+  <VFEPD_DecalFakeStairsCorner.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalFakeStairsCorner.description>
+  <VFEPD_DecalFakeStairsInvertedCorner.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalFakeStairsInvertedCorner.description>
+  <VFEPD_DecalLineThinCentered.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalLineThinCentered.description>
+  <VFEPD_DecalLineThinCenteredCorner.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalLineThinCenteredCorner.description>
+  <VFEPD_DecalLineThinCenteredDiagonal.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalLineThinCenteredDiagonal.description>
+  <VFEPD_DecalLineThinCenteredRound.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalLineThinCenteredRound.description>
+  <VFEPD_DecalHelipadSquare.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalHelipadSquare.description>
+  <VFEPD_DecalHelipadRound.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalHelipadRound.description>
+  <VFEPD_DecalHelipadSquareGeneric.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalHelipadSquareGeneric.description>
+  <VFEPD_DecalHelipadRoundGeneric.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalHelipadRoundGeneric.description>
+  <VFEPD_DecalWarningStripes.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalWarningStripes.description>
+  <VFEPD_DecalWarningStripesClean.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalWarningStripesClean.description>
+  <VFEPD_DecalWarningArrow.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalWarningArrow.description>
+  <VFEPD_DecalWarningArrowClean.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalWarningArrowClean.description>
+  <VFEPD_DecalBikeLane.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalBikeLane.description>
+  <VFEPD_DecalStopSign.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalStopSign.description>
+  <VFEPD_DecalPedestrianLane.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalPedestrianLane.description>
+  <VFEPD_DecalYield.description>Небольшой рисунок для размещения на полу.</VFEPD_DecalYield.description>
+  <VFEPD_DecalArrowShort.label>короткая стрелка</VFEPD_DecalArrowShort.label>
+  <VFEPD_DecalArrowWide.label>широкая стрелка</VFEPD_DecalArrowWide.label>
+  <VFEPD_DecalArrowLeft.label>стрелка влево</VFEPD_DecalArrowLeft.label>
+  <VFEPD_DecalArrowRight.label>стрелка вправо</VFEPD_DecalArrowRight.label>
+  <VFEPD_DecalArrowBoth.label>стрелка влево и вправо</VFEPD_DecalArrowBoth.label>
+  <VFEPD_DecalArrowDouble.label>двойная стрелка</VFEPD_DecalArrowDouble.label>
+  <VFEPD_DecalArrowLeftStraight.label>стрелка влево и прямо</VFEPD_DecalArrowLeftStraight.label>
+  <VFEPD_DecalArrowRightStraight.label>стрелка вправо и прямо</VFEPD_DecalArrowRightStraight.label>
+  <VFEPD_DecalArrowThreeWays.label>стрелка в трёх направлениях</VFEPD_DecalArrowThreeWays.label>
+  <VFEPD_DecalLineDouble.label>двойная линия</VFEPD_DecalLineDouble.label>
+  <VFEPD_DecalLineDoubleCornerInner.label>двойная линия, внутренний угол</VFEPD_DecalLineDoubleCornerInner.label>
+  <VFEPD_DecalLineDoubleCornerInnerRound.label>двойная линия, внутреннее скругление</VFEPD_DecalLineDoubleCornerInnerRound.label>
+  <VFEPD_DecalLineDoubleCornerOuter.label>двойная линия, внешний угол</VFEPD_DecalLineDoubleCornerOuter.label>
+  <VFEPD_DecalLineDoubleCornerOuterRound.label>двойная линия, внешнее скругление</VFEPD_DecalLineDoubleCornerOuterRound.label>
+  <VFEPD_DecalLineThin.label>тонкая линия</VFEPD_DecalLineThin.label>
+  <VFEPD_DecalLineThinCornerInner.label>тонкая линия, внутренний угол</VFEPD_DecalLineThinCornerInner.label>
+  <VFEPD_DecalLineThinCornerInnerRound.label>тонкая линия, внутреннее скругление</VFEPD_DecalLineThinCornerInnerRound.label>
+  <VFEPD_DecalLineThinCornerOuter.label>тонкая линия, внешний угол</VFEPD_DecalLineThinCornerOuter.label>
+  <VFEPD_DecalLineThinCornerOuterRound.label>тонкая линия, внешнее скругление</VFEPD_DecalLineThinCornerOuterRound.label>
+  <VFEPD_DecalArrowDiagonal.label>диагональная стрелка</VFEPD_DecalArrowDiagonal.label>
+  <VFEPD_DecalSymbolA.label>латинская буква A</VFEPD_DecalSymbolA.label>
+  <VFEPD_DecalSymbolB.label>латинская буква B</VFEPD_DecalSymbolB.label>
+  <VFEPD_DecalSymbolC.label>латинская буква C</VFEPD_DecalSymbolC.label>
+  <VFEPD_DecalSymbolD.label>латинская буква D</VFEPD_DecalSymbolD.label>
+  <VFEPD_DecalSymbolE.label>латинская буква E</VFEPD_DecalSymbolE.label>
+  <VFEPD_DecalSymbolF.label>латинская буква F</VFEPD_DecalSymbolF.label>
+  <VFEPD_DecalSymbolG.label>латинская буква G</VFEPD_DecalSymbolG.label>
+  <VFEPD_DecalSymbolH.label>латинская буква H</VFEPD_DecalSymbolH.label>
+  <VFEPD_DecalSymbolI.label>латинская буква I</VFEPD_DecalSymbolI.label>
+  <VFEPD_DecalSymbolJ.label>латинская буква J</VFEPD_DecalSymbolJ.label>
+  <VFEPD_DecalSymbolK.label>латинская буква K</VFEPD_DecalSymbolK.label>
+  <VFEPD_DecalSymbolL.label>латинская буква L</VFEPD_DecalSymbolL.label>
+  <VFEPD_DecalSymbolM.label>латинская буква M</VFEPD_DecalSymbolM.label>
+  <VFEPD_DecalSymbolN.label>латинская буква N</VFEPD_DecalSymbolN.label>
+  <VFEPD_DecalSymbolO.label>латинская буква O</VFEPD_DecalSymbolO.label>
+  <VFEPD_DecalSymbolP.label>латинская буква P</VFEPD_DecalSymbolP.label>
+  <VFEPD_DecalSymbolQ.label>латинская буква Q</VFEPD_DecalSymbolQ.label>
+  <VFEPD_DecalSymbolV.label>латинская буква V</VFEPD_DecalSymbolV.label>
+  <VFEPD_DecalSymbolR.label>латинская буква R</VFEPD_DecalSymbolR.label>
+  <VFEPD_DecalSymbolS.label>латинская буква S</VFEPD_DecalSymbolS.label>
+  <VFEPD_DecalSymbolT.label>латинская буква T</VFEPD_DecalSymbolT.label>
+  <VFEPD_DecalSymbolU.label>латинская буква U</VFEPD_DecalSymbolU.label>
+  <VFEPD_DecalSymbolW.label>латинская буква W</VFEPD_DecalSymbolW.label>
+  <VFEPD_DecalSymbolX.label>латинская буква X</VFEPD_DecalSymbolX.label>
+  <VFEPD_DecalSymbolY.label>латинская буква Y</VFEPD_DecalSymbolY.label>
+  <VFEPD_DecalSymbolZ.label>латинская буква Z</VFEPD_DecalSymbolZ.label>
+  <VFEPD_DecalSymbolOne.label>цифра 1</VFEPD_DecalSymbolOne.label>
+  <VFEPD_DecalSymbolTwo.label>цифра 2</VFEPD_DecalSymbolTwo.label>
+  <VFEPD_DecalSymbolThree.label>цифра 3</VFEPD_DecalSymbolThree.label>
+  <VFEPD_DecalSymbolFour.label>цифра 4</VFEPD_DecalSymbolFour.label>
+  <VFEPD_DecalSymbolFive.label>цифра 5</VFEPD_DecalSymbolFive.label>
+  <VFEPD_DecalSymbolSix.label>цифра 6</VFEPD_DecalSymbolSix.label>
+  <VFEPD_DecalSymbolSeven.label>цифра 7</VFEPD_DecalSymbolSeven.label>
+  <VFEPD_DecalSymbolEight.label>цифра 8</VFEPD_DecalSymbolEight.label>
+  <VFEPD_DecalSymbolNine.label>цифра 9</VFEPD_DecalSymbolNine.label>
+  <VFEPD_DecalSymbolZero.label>цифра 0</VFEPD_DecalSymbolZero.label>
+  <VFEPD_DecalWordArmory.label>надпись: оружейная</VFEPD_DecalWordArmory.label>
+  <VFEPD_DecalWordBarracks.label>надпись: казармы</VFEPD_DecalWordBarracks.label>
+  <VFEPD_DecalWordBlock.label>надпись: блок</VFEPD_DecalWordBlock.label>
+  <VFEPD_DecalWordCafeteria.label>надпись: кафетерий</VFEPD_DecalWordCafeteria.label>
+  <VFEPD_DecalWordCargo.label>надпись: груз</VFEPD_DecalWordCargo.label>
+  <VFEPD_DecalWordChamber.label>надпись: камера</VFEPD_DecalWordChamber.label>
+  <VFEPD_DecalWordClimate.label>надпись: климат</VFEPD_DecalWordClimate.label>
+  <VFEPD_DecalWordCommand.label>надпись: командование</VFEPD_DecalWordCommand.label>
+  <VFEPD_DecalWordControl.label>надпись: управление</VFEPD_DecalWordControl.label>
+  <VFEPD_DecalWordEngineer.label>надпись: инженер</VFEPD_DecalWordEngineer.label>
+  <VFEPD_DecalWordFarming.label>надпись: земледелие</VFEPD_DecalWordFarming.label>
+  <VFEPD_DecalWordFreezer.label>надпись: морозильник</VFEPD_DecalWordFreezer.label>
+  <VFEPD_DecalWordFridge.label>надпись: холодильник</VFEPD_DecalWordFridge.label>
+  <VFEPD_DecalWordHangar.label>надпись: ангар</VFEPD_DecalWordHangar.label>
+  <VFEPD_DecalWordHospital.label>надпись: госпиталь</VFEPD_DecalWordHospital.label>
+  <VFEPD_DecalWordKill.label>надпись: убийство</VFEPD_DecalWordKill.label>
+  <VFEPD_DecalWordKitchen.label>надпись: кухня</VFEPD_DecalWordKitchen.label>
+  <VFEPD_DecalWordLanding.label>надпись: посадка</VFEPD_DecalWordLanding.label>
+  <VFEPD_DecalWordMedical.label>надпись: медицина</VFEPD_DecalWordMedical.label>
+  <VFEPD_DecalWordMess.label>надпись: столовая</VFEPD_DecalWordMess.label>
+  <VFEPD_DecalWordMorgue.label>надпись: морг</VFEPD_DecalWordMorgue.label>
+  <VFEPD_DecalWordMortar.label>надпись: миномёт</VFEPD_DecalWordMortar.label>
+  <VFEPD_DecalWordPlay.label>надпись: игра</VFEPD_DecalWordPlay.label>
+  <VFEPD_DecalWordPrison.label>надпись: тюрьма</VFEPD_DecalWordPrison.label>
+  <VFEPD_DecalWordReactor.label>надпись: реактор</VFEPD_DecalWordReactor.label>
+  <VFEPD_DecalWordRecreation.label>надпись: развлечения</VFEPD_DecalWordRecreation.label>
+  <VFEPD_DecalWordRefinery.label>надпись: переработка</VFEPD_DecalWordRefinery.label>
+  <VFEPD_DecalWordRelax.label>надпись: отдых</VFEPD_DecalWordRelax.label>
+  <VFEPD_DecalWordResearch.label>надпись: исследования</VFEPD_DecalWordResearch.label>
+  <VFEPD_DecalWordSecurity.label>надпись: охрана</VFEPD_DecalWordSecurity.label>
+  <VFEPD_DecalWordShipping.label>надпись: отгрузка</VFEPD_DecalWordShipping.label>
+  <VFEPD_DecalWordSleeping.label>надпись: сон</VFEPD_DecalWordSleeping.label>
+  <VFEPD_DecalWordSmelting.label>надпись: плавка</VFEPD_DecalWordSmelting.label>
+  <VFEPD_DecalWordStorage.label>надпись: хранение</VFEPD_DecalWordStorage.label>
+  <VFEPD_DecalWordWarning.label>надпись: внимание</VFEPD_DecalWordWarning.label>
+  <VFEPD_DecalWordWorkshop.label>надпись: мастерская</VFEPD_DecalWordWorkshop.label>
+  <VFEPD_DecalWordSmallBase.label>надпись: база</VFEPD_DecalWordSmallBase.label>
+  <VFEPD_DecalWordSmallBay.label>надпись: отсек</VFEPD_DecalWordSmallBay.label>
+  <VFEPD_DecalWordSmallBox.label>надпись: ящик</VFEPD_DecalWordSmallBox.label>
+  <VFEPD_DecalWordSmallCell.label>надпись: камера</VFEPD_DecalWordSmallCell.label>
+  <VFEPD_DecalWordSmallClear.label>надпись: свободно</VFEPD_DecalWordSmallClear.label>
+  <VFEPD_DecalWordSmallDock.label>надпись: док</VFEPD_DecalWordSmallDock.label>
+  <VFEPD_DecalWordSmallGas.label>надпись: газ</VFEPD_DecalWordSmallGas.label>
+  <VFEPD_DecalWordSmallHall.label>надпись: зал</VFEPD_DecalWordSmallHall.label>
+  <VFEPD_DecalWordSmallKeep.label>надпись: держать</VFEPD_DecalWordSmallKeep.label>
+  <VFEPD_DecalWordSmallLab.label>надпись: лаборатория</VFEPD_DecalWordSmallLab.label>
+  <VFEPD_DecalWordSmallPad.label>надпись: площадка</VFEPD_DecalWordSmallPad.label>
+  <VFEPD_DecalWordSmallRoom.label>надпись: комната</VFEPD_DecalWordSmallRoom.label>
+  <VFEPD_DecalWordSmallWing.label>надпись: крыло</VFEPD_DecalWordSmallWing.label>
+  <VFEPD_DecalWordSmallZone.label>надпись: зона</VFEPD_DecalWordSmallZone.label>
+  <VFEPD_DecalWordDanger.label>надпись: опасность</VFEPD_DecalWordDanger.label>
+  <VFEPD_DecalWordStop.label>надпись: стоп</VFEPD_DecalWordStop.label>
+  <VFEPD_DecalWarningGeneric.label>предупреждающий знак</VFEPD_DecalWarningGeneric.label>
+  <VFEPD_DecalWarningRadiation.label>знак радиации</VFEPD_DecalWarningRadiation.label>
+  <VFEPD_DecalWarningElectric.label>знак высокого напряжения</VFEPD_DecalWarningElectric.label>
+  <VFEPD_DecalWarningBiohazard.label>знак биологической опасности</VFEPD_DecalWarningBiohazard.label>
+  <VFEPD_DecalLineThinDiagonal.label>тонкая диагональная линия</VFEPD_DecalLineThinDiagonal.label>
+  <VFEPD_DecalLineThinCornerInnerDiagonal.label>тонкая диагональная линия, внутренний угол</VFEPD_DecalLineThinCornerInnerDiagonal.label>
+  <VFEPD_DecalLineThinCornerOuterDiagonal.label>тонкая диагональная линия, внешний угол</VFEPD_DecalLineThinCornerOuterDiagonal.label>
+  <VFEPD_DecalFakeStairs.label>нарисованная лестница</VFEPD_DecalFakeStairs.label>
+  <VFEPD_DecalFakeStairsCorner.label>нарисованная лестница, угол</VFEPD_DecalFakeStairsCorner.label>
+  <VFEPD_DecalFakeStairsInvertedCorner.label>нарисованная лестница, обратный угол</VFEPD_DecalFakeStairsInvertedCorner.label>
+  <VFEPD_DecalLineThinCentered.label>тонкая линия по центру</VFEPD_DecalLineThinCentered.label>
+  <VFEPD_DecalLineThinCenteredCorner.label>тонкая линия по центру, угол</VFEPD_DecalLineThinCenteredCorner.label>
+  <VFEPD_DecalLineThinCenteredDiagonal.label>тонкая диагональная линия по центру</VFEPD_DecalLineThinCenteredDiagonal.label>
+  <VFEPD_DecalLineThinCenteredRound.label>тонкая линия по центру, скругление</VFEPD_DecalLineThinCenteredRound.label>
+  <VFEPD_DecalHelipadSquare.label>квадратная вертолётная площадка</VFEPD_DecalHelipadSquare.label>
+  <VFEPD_DecalHelipadRound.label>круглая вертолётная площадка</VFEPD_DecalHelipadRound.label>
+  <VFEPD_DecalHelipadSquareGeneric.label>квадратная посадочная площадка</VFEPD_DecalHelipadSquareGeneric.label>
+  <VFEPD_DecalHelipadRoundGeneric.label>круглая посадочная площадка</VFEPD_DecalHelipadRoundGeneric.label>
+  <VFEPD_DecalWarningStripes.label>предупреждающие полосы</VFEPD_DecalWarningStripes.label>
+  <VFEPD_DecalWarningStripesClean.label>предупреждающие полосы без потёртостей</VFEPD_DecalWarningStripesClean.label>
+  <VFEPD_DecalWarningArrow.label>предупреждающая стрелка</VFEPD_DecalWarningArrow.label>
+  <VFEPD_DecalWarningArrowClean.label>предупреждающая стрелка без потёртостей</VFEPD_DecalWarningArrowClean.label>
+  <VFEPD_DecalBikeLane.label>знак велосипедной дорожки</VFEPD_DecalBikeLane.label>
+  <VFEPD_DecalStopSign.label>знак остановки</VFEPD_DecalStopSign.label>
+  <VFEPD_DecalPedestrianLane.label>знак пешеходной дорожки</VFEPD_DecalPedestrianLane.label>
+  <VFEPD_DecalYield.label>знак «Уступите дорогу»</VFEPD_DecalYield.label>
+  <VFEPD_CleanEffect.label>уборка</VFEPD_CleanEffect.label>
+  <VFEPD_CleanEffect.description>Декоративный объект с визуальным эффектом уборки. Создаёт нагрузку на игру; не размещайте слишком много таких объектов.</VFEPD_CleanEffect.description>
+  <VFEPD_PaintEffect.label>покраска</VFEPD_PaintEffect.label>
+  <VFEPD_PaintEffect.description>Декоративный объект с визуальным эффектом покраски. Создаёт нагрузку на игру; не размещайте слишком много таких объектов.</VFEPD_PaintEffect.description>
+  <VFEPD_ConstructMetalEffect.label>строительство из металла</VFEPD_ConstructMetalEffect.label>
+  <VFEPD_ConstructMetalEffect.description>Декоративный объект с визуальным эффектом строительства из металла. Создаёт нагрузку на игру; не размещайте слишком много таких объектов.</VFEPD_ConstructMetalEffect.description>
+  <VFEPD_ConstructWoodEffect.label>строительство из дерева</VFEPD_ConstructWoodEffect.label>
+  <VFEPD_ConstructWoodEffect.description>Декоративный объект с визуальным эффектом строительства из дерева. Создаёт нагрузку на игру; не размещайте слишком много таких объектов.</VFEPD_ConstructWoodEffect.description>
+  <VFEPD_ConstructDirtEffect.label>земляные работы</VFEPD_ConstructDirtEffect.label>
+  <VFEPD_ConstructDirtEffect.description>Декоративный объект с визуальным эффектом земляных работ. Создаёт нагрузку на игру; не размещайте слишком много таких объектов.</VFEPD_ConstructDirtEffect.description>
+  <VFEPD_BuryPawnEffect.label>погребение</VFEPD_BuryPawnEffect.label>
+  <VFEPD_BuryPawnEffect.description>Декоративный объект с визуальным эффектом погребения. Создаёт нагрузку на игру; не размещайте слишком много таких объектов.</VFEPD_BuryPawnEffect.description>
+  <VFEPD_RoofWorkEffect.label>кровельные работы</VFEPD_RoofWorkEffect.label>
+  <VFEPD_RoofWorkEffect.description>Декоративный объект с визуальным эффектом кровельных работ. Создаёт нагрузку на игру; не размещайте слишком много таких объектов.</VFEPD_RoofWorkEffect.description>
+  <VFEPD_EatMeatEffect.label>поедание мяса</VFEPD_EatMeatEffect.label>
+  <VFEPD_EatMeatEffect.description>Декоративный объект с визуальным эффектом поедания мяса. Создаёт нагрузку на игру; не размещайте слишком много таких объектов.</VFEPD_EatMeatEffect.description>
+  <VFEPD_EatVegetarianEffect.label>поедание растительной пищи</VFEPD_EatVegetarianEffect.label>
+  <VFEPD_EatVegetarianEffect.description>Декоративный объект с визуальным эффектом поедания растительной пищи. Создаёт нагрузку на игру; не размещайте слишком много таких объектов.</VFEPD_EatVegetarianEffect.description>
+  <VFEPD_DrillEffect.label>бурение</VFEPD_DrillEffect.label>
+  <VFEPD_DrillEffect.description>Декоративный объект с визуальным эффектом бурения. Создаёт нагрузку на игру; не размещайте слишком много таких объектов.</VFEPD_DrillEffect.description>
+  <VFEPD_ResearchEffect.label>исследование</VFEPD_ResearchEffect.label>
+  <VFEPD_ResearchEffect.description>Декоративный объект с визуальным эффектом исследования. Создаёт нагрузку на игру; не размещайте слишком много таких объектов.</VFEPD_ResearchEffect.description>
+  <VFEPD_ClearSnowEffect.label>уборка снега</VFEPD_ClearSnowEffect.label>
+  <VFEPD_ClearSnowEffect.description>Декоративный объект с визуальным эффектом уборки снега. Создаёт нагрузку на игру; не размещайте слишком много таких объектов.</VFEPD_ClearSnowEffect.description>
+  <VFEPD_SowEffect.label>посев</VFEPD_SowEffect.label>
+  <VFEPD_SowEffect.description>Декоративный объект с визуальным эффектом посева. Создаёт нагрузку на игру; не размещайте слишком много таких объектов.</VFEPD_SowEffect.description>
+  <VFEPD_Harvest_PlantEffect.label>сбор урожая</VFEPD_Harvest_PlantEffect.label>
+  <VFEPD_Harvest_PlantEffect.description>Декоративный объект с визуальным эффектом сбора урожая. Создаёт нагрузку на игру; не размещайте слишком много таких объектов.</VFEPD_Harvest_PlantEffect.description>
+  <VFEPD_VomitEffect.label>рвота</VFEPD_VomitEffect.label>
+  <VFEPD_FilthVomit.label>рвота</VFEPD_FilthVomit.label>
+  <VFEPD_VomitEffect.description>Декоративный объект с визуальным эффектом рвоты. Создаёт нагрузку на игру; не размещайте слишком много таких объектов.</VFEPD_VomitEffect.description>
+  <VFEPD_PlayPokerEffect.label>игра в покер</VFEPD_PlayPokerEffect.label>
+  <VFEPD_PlayPokerEffect.description>Декоративный объект с визуальным эффектом игры в покер. Создаёт нагрузку на игру; не размещайте слишком много таких объектов.</VFEPD_PlayPokerEffect.description>
+  <VFEPD_DisabledByEMPEffect.label>отключение от ЭМИ</VFEPD_DisabledByEMPEffect.label>
+  <VFEPD_DisabledByEMPEffect.description>Декоративный объект с визуальным эффектом отключения от ЭМИ. Создаёт нагрузку на игру; не размещайте слишком много таких объектов.</VFEPD_DisabledByEMPEffect.description>
+  <VFEPD_SurgeryEffect.label>хирургическая операция</VFEPD_SurgeryEffect.label>
+  <VFEPD_SurgeryEffect.description>Декоративный объект с визуальным эффектом хирургической операции. Создаёт нагрузку на игру; не размещайте слишком много таких объектов.</VFEPD_SurgeryEffect.description>
+  <VFEPD_ButcherMechanoidEffect.label>разборка механоида</VFEPD_ButcherMechanoidEffect.label>
+  <VFEPD_ButcherMechanoidEffect.description>Декоративный объект с визуальным эффектом разборки механоида. Создаёт нагрузку на игру; не размещайте слишком много таких объектов.</VFEPD_ButcherMechanoidEffect.description>
+  <VFEPD_RepairEffect.label>ремонт</VFEPD_RepairEffect.label>
+  <VFEPD_RepairEffect.description>Декоративный объект с визуальным эффектом ремонта. Создаёт нагрузку на игру; не размещайте слишком много таких объектов.</VFEPD_RepairEffect.description>
+  <VFEPD_Smoke_JointEffect.label>курение</VFEPD_Smoke_JointEffect.label>
+  <VFEPD_Smoke_JointEffect.description>Декоративный объект с визуальным эффектом курения. Создаёт нагрузку на игру; не размещайте слишком много таких объектов.</VFEPD_Smoke_JointEffect.description>
+  <VFEPD_Power_Cell_BurningEffect.label>горящая энергоячейка</VFEPD_Power_Cell_BurningEffect.label>
+  <VFEPD_Power_Cell_BurningEffect.description>Декоративный объект с визуальным эффектом горящей энергоячейки. Создаёт нагрузку на игру; не размещайте слишком много таких объектов.</VFEPD_Power_Cell_BurningEffect.description>
+  <VFEPD_Power_Cell_SparksEffect.label>искрящая энергоячейка</VFEPD_Power_Cell_SparksEffect.label>
+  <VFEPD_Power_Cell_SparksEffect.description>Декоративный объект с визуальным эффектом искрящей энергоячейки. Создаёт нагрузку на игру; не размещайте слишком много таких объектов.</VFEPD_Power_Cell_SparksEffect.description>
+  <VFEPD_CutStoneEffect.label>каменная крошка</VFEPD_CutStoneEffect.label>
+  <VFEPD_CutStoneEffect.description>Декоративный объект с визуальным эффектом обработки камня, пошива одежды, кузнечной работы и ваяния: у них похожие визуальные эффекты. Создаёт нагрузку на игру; не размещайте слишком много таких объектов.</VFEPD_CutStoneEffect.description>
+  <VFEPD_CookEffect.label>приготовление пищи</VFEPD_CookEffect.label>
+  <VFEPD_CookEffect.description>Декоративный объект с визуальным эффектом приготовления пищи. Создаёт нагрузку на игру; не размещайте слишком много таких объектов.</VFEPD_CookEffect.description>
+  <VFEPD_FalseFire.label>имитация огня</VFEPD_FalseFire.label>
+  <VFEPD_FalseFire.description>Всего лишь дым и оптическая иллюзия.</VFEPD_FalseFire.description>
+  <VFEPD_BigFalseFire.description>Всего лишь дым и оптическая иллюзия.</VFEPD_BigFalseFire.description>
+  <VFEPD_BigFalseFire.label>большая имитация огня</VFEPD_BigFalseFire.label>
+  <VFEPD_Galactivine.label>галактовьюн</VFEPD_Galactivine.label>
+  <VFEPD_Galactivine.description>Экзотическое космическое растение. Искусственная копия.</VFEPD_Galactivine.description>
+  <VFEPD_Nebulafrond.description>Экзотическое космическое растение. Искусственная копия.</VFEPD_Nebulafrond.description>
+  <VFEPD_Biofluxium.description>Экзотическое космическое растение. Искусственная копия.</VFEPD_Biofluxium.description>
+  <VFEPD_Quasarbloom.description>Экзотическое космическое растение. Искусственная копия.</VFEPD_Quasarbloom.description>
+  <VFEPD_Plasmablossom.description>Экзотическое космическое растение. Искусственная копия.</VFEPD_Plasmablossom.description>
+  <VFEPD_Nebulafrond.label>туманолист</VFEPD_Nebulafrond.label>
+  <VFEPD_Biofluxium.label>биофлуксиум</VFEPD_Biofluxium.label>
+  <VFEPD_Levitree.label>левитодрево</VFEPD_Levitree.label>
+  <VFEPD_Levitree.description>Экзотическое космическое дерево. Искусственная копия.</VFEPD_Levitree.description>
+  <VFEPD_Quasarbloom.label>квазароцвет</VFEPD_Quasarbloom.label>
+  <VFEPD_Plasmablossom.label>плазмоцвет</VFEPD_Plasmablossom.label>
+  <VFEPD_FoodBox.label>пустые коробки из-под еды</VFEPD_FoodBox.label>
+  <VFEPD_FoodBox.description>Стопка пустых коробок из-под еды.</VFEPD_FoodBox.description>
+  <VFEPD_HayBaleLarge.label>большой тюк сена</VFEPD_HayBaleLarge.label>
+  <VFEPD_HayBaleLarge.description>Большой рулон сена.</VFEPD_HayBaleLarge.description>
+  <VFEPD_HayBaleMedium.label>средний тюк сена</VFEPD_HayBaleMedium.label>
+  <VFEPD_HayBaleMedium.description>Прямоугольный тюк сена среднего размера.</VFEPD_HayBaleMedium.description>
+  <VFEPD_HayBaleSmall.label>малый тюк сена</VFEPD_HayBaleSmall.label>
+  <VFEPD_HayBaleSmall.description>Маленький прямоугольный тюк сена.</VFEPD_HayBaleSmall.description>
+  <VFEPD_Hedge.label>живая изгородь</VFEPD_Hedge.label>
+  <VFEPD_Hedge.description>Изгородь из живых растений.</VFEPD_Hedge.description>
+  <VFEPD_WoodenLogs.label>брёвна</VFEPD_WoodenLogs.label>
+  <VFEPD_WoodenLogs.description>Небольшая стопка брёвен, через которую можно пройти.</VFEPD_WoodenLogs.description>
+  <VFEPD_WoodenLogsLarge.label>большая стопка брёвен</VFEPD_WoodenLogsLarge.label>
+  <VFEPD_WoodenLogsLarge.description>Большая стопка брёвен, преграждающая проход.</VFEPD_WoodenLogsLarge.description>
+  <VFEPD_WoodenWagon.label>деревянная повозка</VFEPD_WoodenWagon.label>
+  <VFEPD_WoodenWagon.description>Большая неподвижная повозка для перевозки грузов.</VFEPD_WoodenWagon.description>
+  <VFEPD_FilthDirt.label>земля</VFEPD_FilthDirt.label>
+  <VFEPD_FilthDirt.description>Немного земли.</VFEPD_FilthDirt.description>
+  <VFEPD_FilthAnimalFilth.label>грязь от животных</VFEPD_FilthAnimalFilth.label>
+  <VFEPD_FilthAnimalFilth.description>Немного грязи, оставленной животными.</VFEPD_FilthAnimalFilth.description>
+  <VFEPD_FilthSand.label>песок</VFEPD_FilthSand.label>
+  <VFEPD_FilthSand.description>Немного песка.</VFEPD_FilthSand.description>
+  <VFEPD_FilthTrash.label>мусор</VFEPD_FilthTrash.label>
+  <VFEPD_FilthTrash.description>Немного мусора.</VFEPD_FilthTrash.description>
+  <VFEPD_FilthRubbleRock.label>щебень</VFEPD_FilthRubbleRock.label>
+  <VFEPD_FilthRubbleRock.description>Немного щебня.</VFEPD_FilthRubbleRock.description>
+  <VFEPD_FilthRubbleSlag.label>разбросанный шлак</VFEPD_FilthRubbleSlag.label>
+  <VFEPD_FilthRubbleSlag.description>Немного разбросанного шлака.</VFEPD_FilthRubbleSlag.description>
+  <VFEPD_FilthRubbleSandbags.label>разбросанные мешки с песком</VFEPD_FilthRubbleSandbags.label>
+  <VFEPD_FilthRubbleSandbags.description>Несколько разбросанных мешков с песком.</VFEPD_FilthRubbleSandbags.description>
+  <VFEPD_FilthBlood.label>кровь</VFEPD_FilthBlood.label>
+  <VFEPD_FilthBlood.description>Брызги крови.</VFEPD_FilthBlood.description>
+  <VFEPD_FilthBugBlood.label>кровь насекомого</VFEPD_FilthBugBlood.label>
+  <VFEPD_FilthBugBlood.description>Брызги крови насекомых.</VFEPD_FilthBugBlood.description>
+  <VFEPD_FilthMachineBits.label>осколки механизмов</VFEPD_FilthMachineBits.label>
+  <VFEPD_FilthMachineBits.description>Кучка осколков механизмов.</VFEPD_FilthMachineBits.description>
+  <VFEPD_FilthAmnioticFluid.label>плодные воды</VFEPD_FilthAmnioticFluid.label>
+  <VFEPD_FilthAmnioticFluid.description>Лужа плодных вод.</VFEPD_FilthAmnioticFluid.description>
+  <VFEPD_FilthSlime.label>слизь</VFEPD_FilthSlime.label>
+  <VFEPD_FilthSlime.description>Брызги слизи.</VFEPD_FilthSlime.description>
+  <VFEPD_FilthVomit.description>Небольшая растекающаяся лужица рвоты.</VFEPD_FilthVomit.description>
+  <VFEPD_FilthFireFoam.label>пожарная пена</VFEPD_FilthFireFoam.label>
+  <VFEPD_FilthFireFoam.description>Большая куча пожарной пены.</VFEPD_FilthFireFoam.description>
+  <VFEPD_FilthChemfuel.label>топливная лужа</VFEPD_FilthChemfuel.label>
+  <VFEPD_FilthChemfuel.description>Лужа легковоспламеняющегося химтоплива.</VFEPD_FilthChemfuel.description>
+  <VFEPD_FilthCorpseBile.label>трупная жидкость</VFEPD_FilthCorpseBile.label>
+  <VFEPD_FilthCorpseBile.description>Немного брызг трупной жидкости.</VFEPD_FilthCorpseBile.description>
+  <VFEPD_FilthAsh.label>пепел</VFEPD_FilthAsh.label>
+  <VFEPD_FilthAsh.description>Куча пепла.</VFEPD_FilthAsh.description>
+  <VFEPD_FilthBones.label>кости</VFEPD_FilthBones.label>
+  <VFEPD_FilthBones.description>Куча костей.</VFEPD_FilthBones.description>
+  <VFEPD_FilthRadioactiveDust.label>радиоактивная пыль</VFEPD_FilthRadioactiveDust.label>
+  <VFEPD_FilthRadioactiveDust.description>Куча радиоактивной пыли.</VFEPD_FilthRadioactiveDust.description>
+  <VFEPD_FakeDoor.label>муляж двери</VFEPD_FakeDoor.label>
+  <VFEPD_FakeDoor.description>Неработающая дверь из двух раскрашенных фанерных панелей. Не открывается, но через неё можно пройти.</VFEPD_FakeDoor.description>
+  <VFEPD_FakeAnimalDoor.label>муляж завесы для животных</VFEPD_FakeAnimalDoor.label>
+  <VFEPD_FakeAnimalDoor.description>Неработающая завеса из двух раскрашенных полотнищ ткани. Через неё можно пройти.</VFEPD_FakeAnimalDoor.description>
+  <VFEPD_FakeAutoDoor.label>муляж автодвери</VFEPD_FakeAutoDoor.label>
+  <VFEPD_FakeAutoDoor.description>Неработающая автодверь из двух раскрашенных металлических листов. Через неё можно пройти.</VFEPD_FakeAutoDoor.description>
+  <VFEPD_FakeFenceDoor.label>муляж калитки</VFEPD_FakeFenceDoor.label>
+  <VFEPD_FakeFenceDoor.description>Неработающая калитка из двух раскрашенных фанерных панелей. Не открывается, но через неё можно пройти.</VFEPD_FakeFenceDoor.description>
+  <VFEPD_FakeColumn.label>муляж колонны</VFEPD_FakeColumn.label>
+  <VFEPD_FakeColumn.description>Колонна из раскрашенной фанеры. Не поддерживает крышу.</VFEPD_FakeColumn.description>
+  <VFEPD_SteelATM.label>банкомат</VFEPD_SteelATM.label>
+  <VFEPD_SteelATM.description>Неработающий автомат для выдачи денег.</VFEPD_SteelATM.description>
+  <VFEPD_SteelBookshelf.label>книжный шкаф</VFEPD_SteelBookshelf.label>
+  <VFEPD_SteelBookshelf.description>Книжный шкаф с разнообразными томами и изданиями, которые нельзя прочесть.</VFEPD_SteelBookshelf.description>
+  <VFEPD_WoodenCupboard.label>шкаф</VFEPD_WoodenCupboard.label>
+  <VFEPD_WoodenCupboard.description>Большой пустой шкаф.</VFEPD_WoodenCupboard.description>
+  <VFEPD_WoodenCupboardDouble.label>двойной шкаф</VFEPD_WoodenCupboardDouble.label>
+  <VFEPD_WoodenCupboardDouble.description>Большой пустой двойной шкаф.</VFEPD_WoodenCupboardDouble.description>
+  <VFEPD_WoodenCupboardPlates.label>шкаф с тарелками</VFEPD_WoodenCupboardPlates.label>
+  <VFEPD_WoodenCupboardPlates.description>Большой шкаф с несколькими тарелками.</VFEPD_WoodenCupboardPlates.description>
+  <VFEPD_WoodenCupboardNarrow.label>узкий шкаф</VFEPD_WoodenCupboardNarrow.label>
+  <VFEPD_WoodenCupboardNarrow.description>Узкий пустой шкаф.</VFEPD_WoodenCupboardNarrow.description>
+  <VFEPD_WoodenTallCabinet.label>высокий шкаф</VFEPD_WoodenTallCabinet.label>
+  <VFEPD_WoodenTallCabinet.description>Высокий шкаф.</VFEPD_WoodenTallCabinet.description>
+  <VFEPD_WoodenShortCupboard.label>низкий шкаф</VFEPD_WoodenShortCupboard.label>
+  <VFEPD_WoodenShortCupboard.description>Низкий пустой шкаф.</VFEPD_WoodenShortCupboard.description>
+  <VFEPD_WoodenShortCupboardPlates.label>низкий шкаф с тарелками</VFEPD_WoodenShortCupboardPlates.label>
+  <VFEPD_WoodenShortCupboardPlates.description>Низкий шкаф с тарелками.</VFEPD_WoodenShortCupboardPlates.description>
+  <VFEPD_Desk.label>письменный стол</VFEPD_Desk.label>
+  <VFEPD_Desk.description>Большой письменный стол.</VFEPD_Desk.description>
+  <VFEPD_CoffeeTable.label>журнальный столик (2×1)</VFEPD_CoffeeTable.label>
+  <VFEPD_CoffeeTable.description>Журнальный столик.</VFEPD_CoffeeTable.description>
+  <VFEPD_CoffeeTableSmall.label>журнальный столик (1×1)</VFEPD_CoffeeTableSmall.label>
+  <VFEPD_CoffeeTableSmall.description>Небольшой журнальный столик.</VFEPD_CoffeeTableSmall.description>
+  <VFEPD_WoodenDivider.label>перегородка</VFEPD_WoodenDivider.label>
+  <VFEPD_WoodenDivider.description>Высокая перегородка, разделяющая комнату и преграждающая проход.</VFEPD_WoodenDivider.description>
+  <VFEPD_SteelPlankDivider.description>Высокая перегородка, разделяющая комнату и преграждающая проход.</VFEPD_SteelPlankDivider.description>
+  <VFEPD_SteelPlankDivider.label>дощатая перегородка</VFEPD_SteelPlankDivider.label>
+  <VFEPD_WoodenMirror.label>зеркало</VFEPD_WoodenMirror.label>
+  <VFEPD_WoodenMirror.description>Напольное зеркало.</VFEPD_WoodenMirror.description>
+  <VFEPD_SteelVendingMachine.label>торговый автомат</VFEPD_SteelVendingMachine.label>
+  <VFEPD_SteelVendingMachine.description>Неработающий торговый автомат.</VFEPD_SteelVendingMachine.description>
+  <VFEPD_WashingMachine.label>стиральная машина</VFEPD_WashingMachine.label>
+  <VFEPD_WashingMachine.description>Стиральная машина.</VFEPD_WashingMachine.description>
+  <VFEPD_WarehouseShelfEmpty.label>складской стеллаж</VFEPD_WarehouseShelfEmpty.label>
+  <VFEPD_WarehouseShelfEmpty.description>Пустой складской стеллаж, преграждающий проход.</VFEPD_WarehouseShelfEmpty.description>
+  <VFEPD_WarehouseShelfBoxes.label>складской стеллаж с ящиками</VFEPD_WarehouseShelfBoxes.label>
+  <VFEPD_WarehouseShelfBoxes.description>Складской стеллаж с ящиками, преграждающий проход.</VFEPD_WarehouseShelfBoxes.description>
+  <VFEPD_FakeSarcophagus.label>муляж саркофага</VFEPD_FakeSarcophagus.label>
+  <VFEPD_FakeSarcophagus.description>Декоративный саркофаг. Пустой и наглухо закрытый.</VFEPD_FakeSarcophagus.description>
+  <VFEPD_FakeGrave.label>муляж могилы</VFEPD_FakeGrave.label>
+  <VFEPD_FakeGrave.description>Декоративная могила. Под ней никто не похоронен.</VFEPD_FakeGrave.description>
+  <VFEPD_FakePlantPot.label>цветочный горшок</VFEPD_FakePlantPot.label>
+  <VFEPD_FakePlantPot.description>Декоративный цветочный горшок. Поселенцы ничего сюда не посадят, поэтому сверху можно разместить искусственный цветок.</VFEPD_FakePlantPot.description>
+  <VFEPD_BinBag.label>мусорный мешок</VFEPD_BinBag.label>
+  <VFEPD_BinBag.description>Чёрный мешок со всевозможным мусором.</VFEPD_BinBag.description>
+  <VFEPD_BoxLarge.label>большой ящик</VFEPD_BoxLarge.label>
+  <VFEPD_BoxLarge.description>Большой ящик со всякой всячиной.</VFEPD_BoxLarge.description>
+  <VFEPD_BoxSmall.label>малый ящик</VFEPD_BoxSmall.label>
+  <VFEPD_BoxSmall.description>Небольшой ящик со всякой всячиной.</VFEPD_BoxSmall.description>
+  <VFEPD_CardboardBoxLarge.label>большая картонная коробка</VFEPD_CardboardBoxLarge.label>
+  <VFEPD_CardboardBoxLarge.description>Большая картонная коробка со всякой всячиной.</VFEPD_CardboardBoxLarge.description>
+  <VFEPD_CardboardBoxSmall.label>малая картонная коробка</VFEPD_CardboardBoxSmall.label>
+  <VFEPD_CardboardBoxSmall.description>Небольшая картонная коробка со всякой всячиной.</VFEPD_CardboardBoxSmall.description>
+  <VFEPD_BrickPile.label>куча кирпичей</VFEPD_BrickPile.label>
+  <VFEPD_BrickPile.description>Куча кирпичей.</VFEPD_BrickPile.description>
+  <VFEPD_BarrelGreen.label>бочка</VFEPD_BarrelGreen.label>
+  <VFEPD_BarrelGreen.description>Небольшая металлическая бочка.</VFEPD_BarrelGreen.description>
+  <VFEPD_PalletCardboard.label>поддон с картонными коробками</VFEPD_PalletCardboard.label>
+  <VFEPD_PalletCardboard.description>Большой поддон с несколькими картонными коробками.</VFEPD_PalletCardboard.description>
+  <VFEPD_PalletBoxes.label>поддон с ящиками</VFEPD_PalletBoxes.label>
+  <VFEPD_PalletBoxes.description>Большой поддон с несколькими ящиками.</VFEPD_PalletBoxes.description>
+  <VFEPD_Pallet.label>поддон</VFEPD_Pallet.label>
+  <VFEPD_Pallet.description>Большой поддон.</VFEPD_Pallet.description>
+  <VFEPD_PalletBarrelGreen.label>поддон с бочками</VFEPD_PalletBarrelGreen.label>
+  <VFEPD_PalletBarrelGreen.description>Несколько металлических бочек на деревянном поддоне.</VFEPD_PalletBarrelGreen.description>
+  <VFEPD_ContainerGreen.label>грузовой контейнер</VFEPD_ContainerGreen.label>
+  <VFEPD_ContainerGreen.description>Металлический грузовой контейнер. Преграждает проход и не поддерживает крышу.</VFEPD_ContainerGreen.description>
+  <VFEPD_Pipes.label>трубы</VFEPD_Pipes.label>
+  <VFEPD_Pipes.description>Большая стопка промышленных труб.</VFEPD_Pipes.description>
+  <VFEPD_Planks.label>доски</VFEPD_Planks.label>
+  <VFEPD_Planks.description>Большая стопка досок.</VFEPD_Planks.description>
+  <VFEPD_Cone.label>дорожный конус</VFEPD_Cone.label>
+  <VFEPD_Cone.description>Дорожный конус для ограждения места работ.</VFEPD_Cone.description>
+  <VFEPD_ConcreteBags.label>мешки с бетонной смесью</VFEPD_ConcreteBags.label>
+  <VFEPD_ConcreteBags.description>Большая стопка мешков с бетонной смесью.</VFEPD_ConcreteBags.description>
+  <VFEPD_WaterTank.label>бак для воды</VFEPD_WaterTank.label>
+  <VFEPD_WaterTank.description>Промышленный бак для воды.</VFEPD_WaterTank.description>
+  <VFEPD_VentilationShaft.label>вентиляционная шахта</VFEPD_VentilationShaft.label>
+  <VFEPD_VentilationShaft.description>Вытяжное отверстие вентиляционной системы.</VFEPD_VentilationShaft.description>
+  <VFEPD_ElectricalCabinet.label>электрический шкаф</VFEPD_ElectricalCabinet.label>
+  <VFEPD_ElectricalCabinet.description>Небольшой металлический шкаф с электрическими цепями и предохранителями.</VFEPD_ElectricalCabinet.description>
+  <VFEPD_Lockers.label>шкафчики</VFEPD_Lockers.label>
+  <VFEPD_Lockers.description>Металлические шкафчики для хранения ценных вещей работников.</VFEPD_Lockers.description>
+  <VFEPD_GasTank.label>газовый резервуар</VFEPD_GasTank.label>
+  <VFEPD_GasTank.description>Большой металлический резервуар для газа.</VFEPD_GasTank.description>
+  <VCHE_FakePipes.label>муляж трубы</VCHE_FakePipes.label>
+  <VCHE_FakePipes.description>Стальные трубы. Ничего не перекачивают.</VCHE_FakePipes.description>
+  <VFEPD_Hive.label>муляж улья</VFEPD_Hive.label>
+  <VFEPD_Hive.description>Ненастоящий улей насекомых.</VFEPD_Hive.description>
+  <VFEPD_SpaceHive.label>космический улей</VFEPD_SpaceHive.label>
+  <VFEPD_SpaceHive.description>Декоративный космический улей. Не порождает насекомых.</VFEPD_SpaceHive.description>
+  <VFEPD_GlowPod.label>муляж светящегося кокона</VFEPD_GlowPod.label>
+  <VFEPD_GlowPod.description>Он даже не светится! Позовите управляющего!</VFEPD_GlowPod.description>
+  <VFEPD_MopBucket.label>ведро для мытья полов</VFEPD_MopBucket.label>
+  <VFEPD_MopBucket.description>Стерильное ведро для мытья полов. Идеально подходит для швабры.</VFEPD_MopBucket.description>
+  <VFEPD_BrewingBarrel.label>бродильная бочка</VFEPD_BrewingBarrel.label>
+  <VFEPD_BrewingBarrel.description>Большая пустая бродильная бочка.</VFEPD_BrewingBarrel.description>
+  <VFEPD_Cooker.label>кухонная плита</VFEPD_Cooker.label>
+  <VFEPD_Cooker.description>Кухонная плита.</VFEPD_Cooker.description>
+  <VFEPD_Microwave.label>микроволновая печь</VFEPD_Microwave.label>
+  <VFEPD_Microwave.description>Настольная микроволновая печь.</VFEPD_Microwave.description>
+  <VFEPD_Oven.label>духовка</VFEPD_Oven.label>
+  <VFEPD_Oven.description>Большая духовка.</VFEPD_Oven.description>
+  <VFEPD_Fridge.label>холодильник</VFEPD_Fridge.label>
+  <VFEPD_Fridge.description>Большой холодильник со встроенной морозильной камерой.</VFEPD_Fridge.description>
+  <VFEPD_WaterDispenser.label>диспенсер для воды</VFEPD_WaterDispenser.label>
+  <VFEPD_WaterDispenser.description>Большой напольный диспенсер для питьевой воды.</VFEPD_WaterDispenser.description>
+  <VFEPD_FoodTrolley.label>тележка для посуды</VFEPD_FoodTrolley.label>
+  <VFEPD_FoodTrolley.description>Тележка на четырёх колёсах для пустых тарелок и подносов.</VFEPD_FoodTrolley.description>
+  <VFEPD_KitchenSurface.label>кухонная столешница</VFEPD_KitchenSurface.label>
+  <VFEPD_KitchenSurface.description>Простая кухонная столешница с разделочной доской.</VFEPD_KitchenSurface.description>
+  <VFEPD_KitchenSurfaceEmpty.label>пустая кухонная столешница</VFEPD_KitchenSurfaceEmpty.label>
+  <VFEPD_KitchenSurfaceEmpty.description>Простая кухонная столешница.</VFEPD_KitchenSurfaceEmpty.description>
+  <VFEPD_KitchenSink.label>кухонная мойка</VFEPD_KitchenSink.label>
+  <VFEPD_KitchenSink.description>Длинная кухонная мойка.</VFEPD_KitchenSink.description>
+  <VFEPD_WineRack.label>винный стеллаж</VFEPD_WineRack.label>
+  <VFEPD_WineRack.description>Стеллаж для цивилизованного хранения вина.</VFEPD_WineRack.description>
+  <VFEPD_CookingAppliances.label>кастрюля</VFEPD_CookingAppliances.label>
+  <VFEPD_CookingAppliances.description>Большая кастрюля.</VFEPD_CookingAppliances.description>
+  <VFEPD_CookingPan.label>сковорода</VFEPD_CookingPan.label>
+  <VFEPD_CookingPan.description>Большая сковорода.</VFEPD_CookingPan.description>
+  <VFEPD_CuttingBoard.label>разделочная доска</VFEPD_CuttingBoard.label>
+  <VFEPD_CuttingBoard.description>Деревянная разделочная доска.</VFEPD_CuttingBoard.description>
+  <VFEPD_Knives.label>ножи</VFEPD_Knives.label>
+  <VFEPD_Knives.description>Набор кухонных ножей.</VFEPD_Knives.description>
+  <VFEPD_DinnerSet.label>столовый набор</VFEPD_DinnerSet.label>
+  <VFEPD_DinnerSet.description>Простой столовый набор со всеми необходимыми приборами.</VFEPD_DinnerSet.description>
+  <VFEPD_Spices.label>специи</VFEPD_Spices.label>
+  <VFEPD_Spices.description>Богатый выбор разнообразных специй.</VFEPD_Spices.description>
+  <VFEPD_MeatSmokerEmpty.label>пустая коптильня</VFEPD_MeatSmokerEmpty.label>
+  <VFEPD_MeatSmokerEmpty.description>Пустая коптильня для мяса из старого мода Vanilla Factions Expanded — Medieval. Не работает.</VFEPD_MeatSmokerEmpty.description>
+  <VFEPD_MeatSmokerFull.label>заполненная коптильня</VFEPD_MeatSmokerFull.label>
+  <VFEPD_MeatSmokerFull.description>Закрытая коптильня для мяса из старого мода Vanilla Factions Expanded — Medieval. Не работает.</VFEPD_MeatSmokerFull.description>
+  <VFEPD_Banner.label>знамя</VFEPD_Banner.label>
+  <VFEPD_Banner.description>Декоративное знамя на вертикальной деревянной раме.</VFEPD_Banner.description>
+  <VFEPD_WoodenPlatform.label>деревянный помост</VFEPD_WoodenPlatform.label>
+  <VFEPD_WoodenPlatform.description>Деревянный помост, по которому можно ходить.</VFEPD_WoodenPlatform.description>
+  <VFEPD_Anvil.label>наковальня</VFEPD_Anvil.label>
+  <VFEPD_Anvil.description>Тяжёлая кузнечная наковальня.</VFEPD_Anvil.description>
+  <VFEPD_ArmorStandEmpty.label>пустая стойка для доспехов</VFEPD_ArmorStandEmpty.label>
+  <VFEPD_ArmorStandEmpty.description>Стойка для доспехов. Сейчас на ней ничего нет.</VFEPD_ArmorStandEmpty.description>
+  <VFEPD_ArmorStandFull.label>стойка с доспехами</VFEPD_ArmorStandFull.label>
+  <VFEPD_ArmorStandFull.description>Стойка с комплектом латных доспехов.</VFEPD_ArmorStandFull.description>
+  <VFEPD_ArrowCage.label>корзина для стрел</VFEPD_ArrowCage.label>
+  <VFEPD_ArrowCage.description>Небольшая решётчатая корзина со стрелами.</VFEPD_ArrowCage.description>
+  <VFEPD_CageBrazier.label>решётчатая жаровня</VFEPD_CageBrazier.label>
+  <VFEPD_CageBrazier.description>Пустая металлическая жаровня в форме клетки.</VFEPD_CageBrazier.description>
+  <VFEPD_BrazierEmpty.label>пустая жаровня</VFEPD_BrazierEmpty.label>
+  <VFEPD_BrazierEmpty.description>Чаша для разведения огня.</VFEPD_BrazierEmpty.description>
+  <VFEPD_BucketEmpty.label>пустое ведро</VFEPD_BucketEmpty.label>
+  <VFEPD_BucketEmpty.description>Деревянное ведро.</VFEPD_BucketEmpty.description>
+  <VFEPD_BucketwithWater.label>ведро с водой</VFEPD_BucketwithWater.label>
+  <VFEPD_BucketwithWater.description>Деревянное ведро, наполненное водой.</VFEPD_BucketwithWater.description>
+  <VFEPD_WoodenChest.label>деревянный сундук</VFEPD_WoodenChest.label>
+  <VFEPD_WoodenChest.description>Деревянный сундук среднего размера.</VFEPD_WoodenChest.description>
+  <VFEPD_WoodenChestLarge.label>большой деревянный сундук</VFEPD_WoodenChestLarge.label>
+  <VFEPD_WoodenChestLarge.description>Большой деревянный сундук.</VFEPD_WoodenChestLarge.description>
+  <VFEPD_WeaponRackEmpty.label>пустая стойка для оружия</VFEPD_WeaponRackEmpty.label>
+  <VFEPD_WeaponRackEmpty.description>Длинная стойка для оружия. Сейчас на ней ничего нет.</VFEPD_WeaponRackEmpty.description>
+  <VFEPD_WeaponRackSwords.label>стойка с мечами</VFEPD_WeaponRackSwords.label>
+  <VFEPD_WeaponRackSwords.description>Длинная стойка с разнообразными мечами.</VFEPD_WeaponRackSwords.description>
+  <VFEPD_WeaponRackSpears.label>стойка с копьями</VFEPD_WeaponRackSpears.label>
+  <VFEPD_WeaponRackSpears.description>Длинная стойка с разнообразными копьями.</VFEPD_WeaponRackSpears.description>
+  <VFEPD_WoodenSign.label>деревянный указатель</VFEPD_WoodenSign.label>
+  <VFEPD_WoodenSign.description>Высокий столб с указателями, направленными в разные стороны.</VFEPD_WoodenSign.description>
+  <VFEPD_TanningRack.label>рама для выделки шкур</VFEPD_TanningRack.label>
+  <VFEPD_TanningRack.description>Рама для выделки шкур с растянутой на ней шкурой.</VFEPD_TanningRack.description>
+  <VFEPD_CagePlatform.label>решётчатый помост</VFEPD_CagePlatform.label>
+  <VFEPD_CagePlatform.description>Решётчатый помост, по которому можно ходить.</VFEPD_CagePlatform.description>
+  <VFEPD_FakeSnowman.label>искусственный снеговик</VFEPD_FakeSnowman.label>
+  <VFEPD_FakeSnowman.description>Сделан из пенополиуретана, который даже отдалённо не похож на настоящий снег.</VFEPD_FakeSnowman.description>
+  <VFEPD_Present.label>подарок</VFEPD_Present.label>
+  <VFEPD_Present.description>Праздничный подарок. На самом деле просто раскрашенная картонная коробка. Ну-у-у!</VFEPD_Present.description>
+  <VFEPD_Geyser.label>муляж парового гейзера</VFEPD_Geyser.label>
+  <VFEPD_Geyser.description>Неглубокая ямка с крошечным устройством, распыляющим чуть тёплую воду. Не даёт ни тепла, ни энергии, зато выглядит здорово.</VFEPD_Geyser.description>
+  <VFEPD_FakeBridge.label>муляж опоры моста</VFEPD_FakeBridge.label>
+  <VFEPD_FakeBridge.description>Декоративная опора, которая не удержит никакой мост.</VFEPD_FakeBridge.description>
+  <VFEPD_Glowstool.label>шаяльник</VFEPD_Glowstool.label>
+  <VFEPD_Glowstool.description>Искусственная копия шаяльника — небольшого бурого гриба, обычно встречающегося в пещерах. Настоящий шаяльник пахнет как старая грязная тряпка из желудка гниющего муффало, но после приготовления оказывается на удивление вкусным.</VFEPD_Glowstool.description>
+  <VFEPD_Agarilux.label>агарилюкс</VFEPD_Agarilux.label>
+  <VFEPD_Agarilux.description>Искусственная копия огромного фиолетового гриба. Размеры и светящиеся наросты придают настоящему агарилюксу необычную красоту.</VFEPD_Agarilux.description>
+  <VFEPD_Bryolux.label>бриолюкс</VFEPD_Bryolux.label>
+  <VFEPD_Bryolux.description>Искусственная копия синего мха, обычно растущего в глубоких тёмных пещерах. Липкие, перепутанные волокна настоящего бриолюкса замедляют всех, кто по нему идёт.</VFEPD_Bryolux.description>
+  <VFEPD_Rose.label>роза</VFEPD_Rose.label>
+  <VFEPD_Rose.description>Искусственная копия розы — красивого садового цветка, ставшего символом любви ещё в древности на Земле.</VFEPD_Rose.description>
+  <VFEPD_Daylily.label>лилейник</VFEPD_Daylily.label>
+  <VFEPD_Daylily.description>Искусственная копия лилейника — садового цветка с широкими лепестками и коротким сроком жизни. Настоящие лилейники очень красивы, но их приходится часто пересаживать.</VFEPD_Daylily.description>
+  <VFEPD_Rice.label>рис</VFEPD_Rice.label>
+  <VFEPD_Rice.description>Искусственная копия риса — низкорослой, быстрорастущей культуры с мелкими съедобными зёрнами. Высокая питательность и простота выращивания сделали рис основой экономики многих великих цивилизаций. Он быстро растёт, но требователен к плодородию почвы и плохо развивается на бедной земле.</VFEPD_Rice.description>
+  <VFEPD_Potato.label>картофель</VFEPD_Potato.label>
+  <VFEPD_Potato.description>Искусственная копия картофеля — очень питательной клубневой культуры. Настоящий картофель неплохо растёт даже на довольно бедной почве, а при жарке в масле покрывается вкусной хрустящей корочкой.</VFEPD_Potato.description>
+  <VFEPD_Corn.label>кукуруза</VFEPD_Corn.label>
+  <VFEPD_Corn.description>Искусственная копия кукурузы — высокого злака с початками мягких съедобных зёрен. Настоящая кукуруза долго растёт, но даёт больше пищи, чем многие другие культуры. Собранный урожай долго не портится.</VFEPD_Corn.description>
+  <VFEPD_Strawberry.label>клубника</VFEPD_Strawberry.label>
+  <VFEPD_Strawberry.description>Искусственная копия клубники — невысокого кустистого растения с нежными и вкусными ягодами. По количеству получаемых калорий настоящая клубника уступает другим культурам, зато её ягоды вкусны даже сырыми.</VFEPD_Strawberry.description>
+  <VFEPD_Haygrass.label>сенотрава</VFEPD_Haygrass.label>
+  <VFEPD_Haygrass.description>Искусственная копия смеси питательных трав, дающих обильный урожай сена. Настоящее сено пригодно в пищу животным, но не людям.</VFEPD_Haygrass.description>
+  <VFEPD_Cotton.label>хлопчатник</VFEPD_Cotton.label>
+  <VFEPD_Cotton.description>Искусственная копия хлопчатника — культуры среднего размера, дающей тонкие белые волокна для изготовления ткани.</VFEPD_Cotton.description>
+  <VFEPD_Devilstrand.label>дьявлонитник</VFEPD_Devilstrand.label>
+  <VFEPD_Devilstrand.description>Искусственная копия хрупкого гриба, генетически изменённого для выработки прочного и мягкого шелковистого волокна. Настоящий дьявлонитник растёт очень долго, но его дьявлоткань уступает лишь редким ультратехнологичным тканям.
+
+Одни считают, что название связано с красным цветом гриба. Другие — что оно отражает алчность, которую он пробуждает в людях.</VFEPD_Devilstrand.description>
+  <VFEPD_Healroot.label>лечебный корень</VFEPD_Healroot.label>
+  <VFEPD_Healroot.description>Искусственная копия медленнорастущего растения, из которого получают растительные лекарства. Посев и сбор настоящего лечебного корня требуют много труда из-за его нежных побегов.
+
+Поселенцы совершенствовали это растение столетиями селекции. Племена иногда называют его «рукой целителя» за пять главных лечебных свойств.</VFEPD_Healroot.description>
+  <VFEPD_Hops.label>хмель</VFEPD_Hops.label>
+  <VFEPD_Hops.description>Искусственная копия хмеля — цветущей культуры, дающей важнейший ингредиент для пива.</VFEPD_Hops.description>
+  <VFEPD_Smokeleaf.label>дымолист</VFEPD_Smokeleaf.label>
+  <VFEPD_Smokeleaf.description>Искусственная копия дымолиста — растения, выращиваемого ради психоактивных веществ в листьях. Из настоящих листьев на ремесленном месте можно делать косяки. Дымолист расслабляет, снижает мотивацию и может вызывать зависимость.</VFEPD_Smokeleaf.description>
+  <VFEPD_Psychoid.label>психолист</VFEPD_Psychoid.label>
+  <VFEPD_Psychoid.description>Искусственная копия психолиста — растения, вырабатывающего психин. Это вещество возникло как защита от травоядных: оно чрезмерно возбуждает их нервную систему и вызывает недомогание. Из настоящего растения психин извлекают и перерабатывают в различные наркотики, вызывающие зависимость.</VFEPD_Psychoid.description>
+  <VFEPD_BurnedTree.label>обгоревшее дерево</VFEPD_BurnedTree.label>
+  <VFEPD_BurnedTree.description>Искусственный обгоревший древесный ствол. Выглядит некрасиво и не даёт пригодной древесины.</VFEPD_BurnedTree.description>
+  <VFEPD_WillowTree.label>ива</VFEPD_WillowTree.label>
+  <VFEPD_WillowTree.description>Искусственная копия ивы — одного из самых быстрорастущих тенистых деревьев с красивой густой кроной. Настоящая ива даёт мало пригодной древесины.</VFEPD_WillowTree.description>
+  <VFEPD_CypressTree.label>болотный кипарис</VFEPD_CypressTree.label>
+  <VFEPD_CypressTree.description>Искусственная копия высокого хвойного дерева, часто встречающегося на болотах. Настоящий болотный кипарис растёт медленно, но даёт много пригодной древесины, поэтому его посадка может стать выгодным долгосрочным вложением, не требующим особых усилий.</VFEPD_CypressTree.description>
+  <VFEPD_MapleTree.label>клён</VFEPD_MapleTree.label>
+  <VFEPD_MapleTree.description>Искусственная копия распространённого дерева среднего размера, которое легко узнать по характерным трёхлопастным листьям.</VFEPD_MapleTree.description>
+  <VFEPD_Chokevine.label>лозокуст</VFEPD_Chokevine.label>
+  <VFEPD_Chokevine.description>Искусственная копия лозокуста — густых клубков шнуровидных колючих лоз, стелющихся по земле. Настоящий лозокуст сильно замедляет передвижение. В разных племенах независимо возникли истории о лозокусте, который по ночам душит детей: так взрослые пугают ребят, чтобы те возвращались домой до темноты.</VFEPD_Chokevine.description>
+  <VFEPD_OakTree.label>дуб</VFEPD_OakTree.label>
+  <VFEPD_OakTree.description>Искусственная копия дуба — дерева с твёрдой древесиной. Настоящий дуб растёт долго, но его древесина настолько прочна, что во многих культурах название дерева стало символом силы.</VFEPD_OakTree.description>
+  <VFEPD_PoplarTree.label>тополь</VFEPD_PoplarTree.label>
+  <VFEPD_PoplarTree.description>Искусственная копия тополя — очень быстрорастущего дерева с мягкой древесиной. Настоящая тополиная древесина непрочна, поэтому даёт меньше пригодного материала, чем твёрдые породы.</VFEPD_PoplarTree.description>
+  <VFEPD_PineTree.label>сосна</VFEPD_PineTree.label>
+  <VFEPD_PineTree.description>Искусственная копия большого хвойного дерева с колючими шишками и характерной конусообразной кроной.</VFEPD_PineTree.description>
+  <VFEPD_BirchTree.label>берёза</VFEPD_BirchTree.label>
+  <VFEPD_BirchTree.description>Искусственная копия дерева умеренных широт, известного тонкой белой корой, напоминающей бумагу.</VFEPD_BirchTree.description>
+  <VFEPD_TeakTree.label>тиковое дерево</VFEPD_TeakTree.label>
+  <VFEPD_TeakTree.description>Искусственная копия дерева с исключительно твёрдой древесиной, растущего в тёплом климате. Прочная и водостойкая древесина настоящего тика в древности шла на кили деревянных парусников.</VFEPD_TeakTree.description>
+  <VFEPD_CecropiaTree.label>цекропия</VFEPD_CecropiaTree.label>
+  <VFEPD_CecropiaTree.description>Искусственная копия одного из самых распространённых деревьев дождевых лесов. Настоящая цекропия растёт очень быстро, но даёт мало пригодной древесины.</VFEPD_CecropiaTree.description>
+  <VFEPD_PalmTree.label>пальма</VFEPD_PalmTree.label>
+  <VFEPD_PalmTree.description>Искусственная копия тропического дерева с высоким голым стволом и пучком очень широких листьев на верхушке. Эта разновидность настоящей пальмы, к сожалению, не приносит съедобных кокосов.</VFEPD_PalmTree.description>
+  <VFEPD_TreeCocoa.label>какао</VFEPD_TreeCocoa.label>
+  <VFEPD_TreeCocoa.description>Искусственная копия тропического какао-дерева. Настоящее дерево генетически изменено: оно даёт уже подслащённый шоколад и выдерживает несколько более прохладный климат.</VFEPD_TreeCocoa.description>
+  <VFEPD_BambooTree.label>бамбук</VFEPD_BambooTree.label>
+  <VFEPD_BambooTree.description>Искусственная копия быстрорастущего древовидного растения, образующего густые рощи. Настоящий бамбук даёт материал, похожий на древесину, но само растение не отличается красотой.</VFEPD_BambooTree.description>
+  <VFEPD_DragoTree.label>драконово дерево</VFEPD_DragoTree.label>
+  <VFEPD_DragoTree.description>Искусственная копия выносливого пустынного дерева с толстыми заострёнными листьями на верхушке.</VFEPD_DragoTree.description>
+  <VFEPD_SaguaroCactus.label>кактус Карнегия</VFEPD_SaguaroCactus.label>
+  <VFEPD_SaguaroCactus.description>Искусственная копия большого кактуса из засушливых областей Земли. Настоящий кактус не относится к деревьям, но даёт немного волокнистого материала, пригодного для использования вместо древесины.</VFEPD_SaguaroCactus.description>
+  <VFEPD_Agave.label>агава</VFEPD_Agave.label>
+  <VFEPD_Agave.description>Искусственная копия пустынного растения с крупными листьями, съедобными цветками и стеблями.</VFEPD_Agave.description>
+  <VFEPD_PincushionCactus.label>кактус-игольник</VFEPD_PincushionCactus.label>
+  <VFEPD_PincushionCactus.description>Искусственная копия низкорослого кактуса, названного так за сходство с подушечкой для булавок.</VFEPD_PincushionCactus.description>
+  <VFEPD_GrassShort.label>низкая трава</VFEPD_GrassShort.label>
+  <VFEPD_GrassShort.description>Искусственная дикая трава. Настоящая растёт везде, где есть немного света и хоть сколько-нибудь плодородная почва.</VFEPD_GrassShort.description>
+  <VFEPD_GrassLong.label>высокая трава</VFEPD_GrassLong.label>
+  <VFEPD_GrassLong.description>Искусственная высокая дикая трава.</VFEPD_GrassLong.description>
+  <VFEPD_Bush.label>куст</VFEPD_Bush.label>
+  <VFEPD_Bush.description>Искусственный низкорослый куст. Обычно не разговаривает.</VFEPD_Bush.description>
+  <VFEPD_Brambles.label>колючие заросли</VFEPD_Brambles.label>
+  <VFEPD_Brambles.description>Искусственная копия перепутанных колючих деревянистых побегов, покрытых листьями. Настоящие заросли растут группами и замедляют всех, кто через них пробирается.</VFEPD_Brambles.description>
+  <VFEPD_BerryBush.label>ягодный куст</VFEPD_BerryBush.label>
+  <VFEPD_BerryBush.description>Искусственная копия дикого кустистого растения с вкусными ягодами. Настоящие ягоды можно готовить, но они хороши и сырыми.</VFEPD_BerryBush.description>
+  <VFEPD_Alocasia.label>алоказия</VFEPD_Alocasia.label>
+  <VFEPD_Alocasia.description>Искусственная копия тропического растения. Его необычайно широкие листья — один из узнаваемых символов тропического леса.</VFEPD_Alocasia.description>
+  <VFEPD_Clivia.label>кливия</VFEPD_Clivia.label>
+  <VFEPD_Clivia.description>Искусственная копия необычного растения с высокими красивыми цветами. Его также называют «кустовой лилией».</VFEPD_Clivia.description>
+  <VFEPD_Rafflesia.label>гигантская раффлезия</VFEPD_Rafflesia.label>
+  <VFEPD_Rafflesia.description>Искусственная копия редкого гигантского цветка из глубин жарких влажных джунглей. Казалось бы, такой цветок должен быть прекрасен, но настоящая раффлезия выглядит и пахнет как гниющая плоть.</VFEPD_Rafflesia.description>
+  <VFEPD_Ambrosia.label>куст амброзии</VFEPD_Ambrosia.label>
+  <VFEPD_Ambrosia.description>Искусственная копия редкого дикого куста, приносящего плоды амброзии.</VFEPD_Ambrosia.description>
+  <VFEPD_Tinctoria.label>нео-индигофера</VFEPD_Tinctoria.label>
+  <VFEPD_Tinctoria.description>Искусственная копия генетически изменённой цветочной культуры, выделяющей краситель с меняющимися свойствами.</VFEPD_Tinctoria.description>
+  <VFEPD_Dandelion.label>одуванчики</VFEPD_Dandelion.label>
+  <VFEPD_Dandelion.description>Искусственные маленькие жёлтые цветы, растущие большими группами.</VFEPD_Dandelion.description>
+  <VFEPD_Astragalus.label>астрагал</VFEPD_Astragalus.label>
+  <VFEPD_Astragalus.description>Искусственная копия небольшого многолетнего полевого цветка, растущего в высокогорье.</VFEPD_Astragalus.description>
+  <VFEPD_Moss_Base.label>мох</VFEPD_Moss_Base.label>
+  <VFEPD_Moss_Base.description>Искусственный дикий мох. Настоящий растёт куртинами в прохладных слабоосвещённых местах.</VFEPD_Moss_Base.description>
+  <VFEPD_ShrubLow.label>низкие кусты</VFEPD_ShrubLow.label>
+  <VFEPD_ShrubLow.description>Искусственные низкие широколиственные кусты разных видов. Настоящие растут группами и замедляют передвижение.</VFEPD_ShrubLow.description>
+  <VFEPD_SteelTank.label>большой стальной резервуар</VFEPD_SteelTank.label>
+  <VFEPD_SteelTank.description>Большой стальной резервуар.</VFEPD_SteelTank.description>
+  <VFEPD_ChemfuelTank.label>большой бак для химтоплива</VFEPD_ChemfuelTank.label>
+  <VFEPD_ChemfuelTank.description>Большой бак с взрывоопасным химтопливом.</VFEPD_ChemfuelTank.description>
+  <VFEPD_LiquidTank.label>большой резервуар для жидкости</VFEPD_LiquidTank.label>
+  <VFEPD_LiquidTank.description>Большой резервуар с жидкостью на водной основе.</VFEPD_LiquidTank.description>
+  <VFEPD_AdvancedRotor.label>усовершенствованный ротор</VFEPD_AdvancedRotor.label>
+  <VFEPD_AdvancedRotor.description>Усовершенствованный роторный узел.</VFEPD_AdvancedRotor.description>
+  <VFEPD_Rotor.label>ротор</VFEPD_Rotor.label>
+  <VFEPD_Rotor.description>Роторный узел.</VFEPD_Rotor.description>
+  <VFEPD_Battery.label>аккумулятор</VFEPD_Battery.label>
+  <VFEPD_Battery.description>Простое устройство для хранения электроэнергии. Этот аккумулятор не работает.</VFEPD_Battery.description>
+  <VFEPD_Exhaust.label>вытяжка</VFEPD_Exhaust.label>
+  <VFEPD_Exhaust.description>Вытяжное отверстие для промышленных испарений.</VFEPD_Exhaust.description>
+  <VFEPD_SmallExhaust.label>малая вытяжка</VFEPD_SmallExhaust.label>
+  <VFEPD_SmallExhaust.description>Небольшое вытяжное отверстие для промышленных испарений.</VFEPD_SmallExhaust.description>
+  <VFEPD_Generator.label>генератор</VFEPD_Generator.label>
+  <VFEPD_Generator.description>Самый простой генератор.</VFEPD_Generator.description>
+  <VFEPD_IndustrialGenerator.label>промышленный генератор</VFEPD_IndustrialGenerator.label>
+  <VFEPD_IndustrialGenerator.description>Большой промышленный генератор.</VFEPD_IndustrialGenerator.description>
+  <VFEPD_GeneratorUnitLarge.label>генераторный блок</VFEPD_GeneratorUnitLarge.label>
+  <VFEPD_GeneratorUnitLarge.description>Большой блок промышленной генераторной установки.</VFEPD_GeneratorUnitLarge.description>
+  <VFEPD_GeneratorUnitSmall.label>малый генераторный блок</VFEPD_GeneratorUnitSmall.label>
+  <VFEPD_GeneratorUnitSmall.description>Малый блок промышленной генераторной установки.</VFEPD_GeneratorUnitSmall.description>
+  <VFEPD_GasStorageUnit.label>газохранилище</VFEPD_GasStorageUnit.label>
+  <VFEPD_GasStorageUnit.description>Промышленный резервуар для хранения газа.</VFEPD_GasStorageUnit.description>
+  <VFEPD_ToxicWasteBarrel.label>бочка с токсичными отходами</VFEPD_ToxicWasteBarrel.label>
+  <VFEPD_ToxicWasteBarrel.description>Небольшая бочка с токсичными отходами.</VFEPD_ToxicWasteBarrel.description>
+  <VFEPD_PowerConverter.label>преобразователь энергии</VFEPD_PowerConverter.label>
+  <VFEPD_PowerConverter.description>Большой преобразователь энергии.</VFEPD_PowerConverter.description>
+  <VFEPD_CoalBurner.label>угольная топка</VFEPD_CoalBurner.label>
+  <VFEPD_CoalBurner.description>Промышленная угольная топка.</VFEPD_CoalBurner.description>
+  <VFEPD_PowerPole.label>опора линии электропередачи</VFEPD_PowerPole.label>
+  <VFEPD_PowerPole.description>Высокий столб для крепления проводов.</VFEPD_PowerPole.description>
+  <VFEPD_DataConsole.label>информационная консоль</VFEPD_DataConsole.label>
+  <VFEPD_DataConsole.description>Современная информационная консоль, поддерживающая несколько форматов файлов.</VFEPD_DataConsole.description>
+  <VFEPD_DataConveyor.label>канал передачи данных</VFEPD_DataConveyor.label>
+  <VFEPD_DataConveyor.description>Большой короб с кабелями и трубами для передачи данных.</VFEPD_DataConveyor.description>
+  <VFEPD_DisplayScreen.label>информационный экран</VFEPD_DisplayScreen.label>
+  <VFEPD_DisplayScreen.description>Большой экран для отображения данных.</VFEPD_DisplayScreen.description>
+  <VFEPD_DisplayTable.label>стол с экраном</VFEPD_DisplayTable.label>
+  <VFEPD_DisplayTable.description>Большой экран, установленный на большом столе.</VFEPD_DisplayTable.description>
+  <VFEPD_SmallDisplayTable.label>малый стол с экраном</VFEPD_SmallDisplayTable.label>
+  <VFEPD_SmallDisplayTable.description>Небольшой экран, установленный на крошечном столике.</VFEPD_SmallDisplayTable.description>
+  <VFEPD_LongCommandConsole.label>длинная командная консоль</VFEPD_LongCommandConsole.label>
+  <VFEPD_LongCommandConsole.description>Длинная консоль с несколькими различными модулями управления.</VFEPD_LongCommandConsole.description>
+  <VFEPD_PlanningScreen.label>экран планирования</VFEPD_PlanningScreen.label>
+  <VFEPD_PlanningScreen.description>Стеклянный экран, идеально подходящий для планирования боевых действий.</VFEPD_PlanningScreen.description>
+  <VFEPD_PlanningTable.label>стол планирования</VFEPD_PlanningTable.label>
+  <VFEPD_PlanningTable.description>Большой экран планирования, установленный на большом столе.</VFEPD_PlanningTable.description>
+  <VFEPD_SmallPlanningTable.label>малый стол планирования</VFEPD_SmallPlanningTable.label>
+  <VFEPD_SmallPlanningTable.description>Небольшой экран планирования, установленный на крошечном столике.</VFEPD_SmallPlanningTable.description>
+  <VFEPD_TripleDisplay.label>панель с тремя экранами</VFEPD_TripleDisplay.label>
+  <VFEPD_TripleDisplay.description>Большая панель с несколькими экранами, чтобы быть в курсе всех новых модов.</VFEPD_TripleDisplay.description>
+  <VFEPD_SingleDisplay.label>панель с одним экраном</VFEPD_SingleDisplay.label>
+  <VFEPD_SingleDisplay.description>Небольшая панель с одним экраном, чтобы быть в курсе всех новых модов.</VFEPD_SingleDisplay.description>
+  <VFEPD_SpacerContainer.label>космический контейнер</VFEPD_SpacerContainer.label>
+  <VFEPD_SpacerContainer.description>Ящик среднего размера с тройной герметизацией и защитой паролем.</VFEPD_SpacerContainer.description>
+  <VFEPD_SpacerContainerLarge.label>большой космический контейнер</VFEPD_SpacerContainerLarge.label>
+  <VFEPD_SpacerContainerLarge.description>Большой ящик с тройной герметизацией и защитой паролем.</VFEPD_SpacerContainerLarge.description>
+  <VFEPD_SpacerContainerStack.label>стопка космических контейнеров</VFEPD_SpacerContainerStack.label>
+  <VFEPD_SpacerContainerStack.description>Большая стопка ящиков разных размеров с тройной герметизацией и защитой паролем.</VFEPD_SpacerContainerStack.description>
+  <VFEPD_SpacerStorage.label>высокотехнологичное хранилище</VFEPD_SpacerStorage.label>
+  <VFEPD_SpacerStorage.description>Большое высокотехнологичное хранилище с множеством камер.</VFEPD_SpacerStorage.description>
+  <VFEPD_SwitchPanel.label>панель переключателей</VFEPD_SwitchPanel.label>
+  <VFEPD_SwitchPanel.description>Панель среднего размера с различными рычагами и переключателями.</VFEPD_SwitchPanel.description>
+  <VFEPD_ServerRack.label>серверная стойка</VFEPD_ServerRack.label>
+  <VFEPD_ServerRackAlternate.label>серверная стойка</VFEPD_ServerRackAlternate.label>
+  <VFEPD_ServerRackAlternateTwo.label>серверная стойка</VFEPD_ServerRackAlternateTwo.label>
+  <VFEPD_ServerRack.description>Большая серверная стойка с множеством жёстких дисков и высокотехнологичных компьютерных компонентов.</VFEPD_ServerRack.description>
+  <VFEPD_ServerRackAlternate.description>Большая серверная стойка с множеством жёстких дисков и высокотехнологичных компьютерных компонентов.</VFEPD_ServerRackAlternate.description>
+  <VFEPD_ServerRackAlternateTwo.description>Большая серверная стойка с множеством жёстких дисков и высокотехнологичных компьютерных компонентов.</VFEPD_ServerRackAlternateTwo.description>
+  <VFEPD_SensorPlatform.label>сенсорная платформа</VFEPD_SensorPlatform.label>
+  <VFEPD_SensorPlatform.description>Небольшая платформа с разнообразными датчиками.</VFEPD_SensorPlatform.description>
+  <VFEPD_PersonalConsole.label>персональная консоль</VFEPD_PersonalConsole.label>
+  <VFEPD_PersonalConsole.description>Небольшая футуристическая консоль персональной связи.</VFEPD_PersonalConsole.description>
+  <VFEPD_Personalpod.label>одноместная капсула</VFEPD_Personalpod.label>
+  <VFEPD_Personalpod.description>Небольшая многоразовая десантная капсула. Сейчас не работает.</VFEPD_Personalpod.description>
+  <VFEPD_Superpod.label>суперкапсула</VFEPD_Superpod.label>
+  <VFEPD_Superpod.description>Большая многоразовая десантная капсула. Сейчас не работает.</VFEPD_Superpod.description>
+  <VFEPD_SkipBlack.label>летательный аппарат «Скип»</VFEPD_SkipBlack.label>
+  <VFEPD_SkipBlack.description>Лёгкий летательный аппарат «Скип» для комфортных поездок на небольшие расстояния. Сейчас не работает.</VFEPD_SkipBlack.description>
+  <VFEPD_SpacerShuttle.label>челнок</VFEPD_SpacerShuttle.label>
+  <VFEPD_SpacerShuttle.description>Лёгкий челнок для комфортных перелётов на небольшие расстояния. Сейчас не работает.</VFEPD_SpacerShuttle.description>
+  <VFEPD_AlbatrossBlack.label>боевой транспортный корабль</VFEPD_AlbatrossBlack.label>
+  <VFEPD_AlbatrossBlack.description>Большой транспортный корабль для перевозки нескольких человек. Сейчас не работает.</VFEPD_AlbatrossBlack.description>
+  <VFEPD_HeavyDropship.label>тяжёлый десантный корабль</VFEPD_HeavyDropship.label>
+  <VFEPD_HeavyDropship.description>Большой тяжёлый десантный корабль для перевозки нескольких человек. Сейчас не работает.</VFEPD_HeavyDropship.description>
+  <VFEPD_Shuttle_HeavyCargo.label>тяжёлый грузовой челнок</VFEPD_Shuttle_HeavyCargo.label>
+  <VFEPD_Shuttle_HeavyCargo.description>Большой тяжёлый грузовой челнок для перевозки нескольких человек. Сейчас не работает.</VFEPD_Shuttle_HeavyCargo.description>
+  <VFEPD_ShipPart_Radiator.label>корабельный радиатор</VFEPD_ShipPart_Radiator.label>
+  <VFEPD_ShipPart_Radiator.description>Декоративная копия корабельного радиатора для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_Radiator.description>
+  <VFEPD_ShipPart_AdvancedRadiator.label>усовершенствованный корабельный радиатор</VFEPD_ShipPart_AdvancedRadiator.label>
+  <VFEPD_ShipPart_AdvancedRadiator.description>Декоративная копия усовершенствованного корабельного радиатора для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_AdvancedRadiator.description>
+  <VFEPD_ShipPart_ArchotechRadiator.label>архотехнологический корабельный радиатор</VFEPD_ShipPart_ArchotechRadiator.label>
+  <VFEPD_ShipPart_ArchotechRadiator.description>Декоративная копия архотехнологического корабельного радиатора для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_ArchotechRadiator.description>
+  <VFEPD_ShipPart_MechanoidRadiator.label>корабельный радиатор механоидов</VFEPD_ShipPart_MechanoidRadiator.label>
+  <VFEPD_ShipPart_MechanoidRadiator.description>Декоративная копия корабельного радиатора механоидов для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_MechanoidRadiator.description>
+  <VFEPD_ShipPart_SolarExpand.label>корабельная солнечная панель</VFEPD_ShipPart_SolarExpand.label>
+  <VFEPD_ShipPart_SolarExpand.description>Декоративная копия корабельной солнечной панели для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_SolarExpand.description>
+  <VFEPD_ShipPart_SolarExpand_Archotech.label>архотехнологическая солнечная панель</VFEPD_ShipPart_SolarExpand_Archotech.label>
+  <VFEPD_ShipPart_SolarExpand_Archotech.description>Декоративная копия архотехнологической солнечной панели для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_SolarExpand_Archotech.description>
+  <VFEPD_ShipPart_SolarExpand_Mechanoid.label>солнечная панель механоидов</VFEPD_ShipPart_SolarExpand_Mechanoid.label>
+  <VFEPD_ShipPart_SolarExpand_Mechanoid.description>Декоративная копия солнечной панели механоидов для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_SolarExpand_Mechanoid.description>
+  <VFEPD_ShipPart_Ship_Engine_Small.label>малый ракетный двигатель</VFEPD_ShipPart_Ship_Engine_Small.label>
+  <VFEPD_ShipPart_Ship_Engine_Small.description>Декоративная копия малого ракетного двигателя для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_Ship_Engine_Small.description>
+  <VFEPD_ShipPart_Ship_Engine.label>ракетный двигатель</VFEPD_ShipPart_Ship_Engine.label>
+  <VFEPD_ShipPart_Ship_Engine.description>Декоративная копия ракетного двигателя для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_Ship_Engine.description>
+  <VFEPD_ShipPart_Ship_NuclearEngine.label>ядерный двигатель</VFEPD_ShipPart_Ship_NuclearEngine.label>
+  <VFEPD_ShipPart_Ship_NuclearEngine.description>Декоративная копия ядерного двигателя для космического корабля. Стыкуется с кораблями из основной игры. Одобрено Bucko Drink.</VFEPD_ShipPart_Ship_NuclearEngine.description>
+  <VFEPD_ShipPart_JohnsonTanaka_Drive.label>двигатель Джонсона — Танаки</VFEPD_ShipPart_JohnsonTanaka_Drive.label>
+  <VFEPD_ShipPart_JohnsonTanaka_Drive.description>Декоративная копия двигателя Джонсона — Танаки для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_JohnsonTanaka_Drive.description>
+  <VFEPD_ShipPart_JohnsonTanaka_Drive_Ruined.label>разрушенный двигатель Джонсона — Танаки</VFEPD_ShipPart_JohnsonTanaka_Drive_Ruined.label>
+  <VFEPD_ShipPart_JohnsonTanaka_Drive_Ruined.description>Декоративная копия разрушенного двигателя Джонсона — Танаки для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_JohnsonTanaka_Drive_Ruined.description>
+  <VFEPD_ShipPart_Archotech_Thruster.label>архотехнологический ускоритель</VFEPD_ShipPart_Archotech_Thruster.label>
+  <VFEPD_ShipPart_Archotech_Thruster.description>Декоративная копия архотехнологического ускорителя для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_Archotech_Thruster.description>
+  <VFEPD_ShipPart_ShipAngle1x1_Thing.label>угол корабля (1×1)</VFEPD_ShipPart_ShipAngle1x1_Thing.label>
+  <VFEPD_ShipPart_ShipAngle1x1_Thing.description>Декоративный угол корабля размером 1×1. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_ShipAngle1x1_Thing.description>
+  <VFEPD_ShipPart_ShipAngle1x1_Flipped.description>Декоративный угол корабля размером 1×1. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_ShipAngle1x1_Flipped.description>
+  <VFEPD_ShipPart_ShipAngle1x1_Flipped.label>угол корабля (1×1), зеркальный</VFEPD_ShipPart_ShipAngle1x1_Flipped.label>
+  <VFEPD_ShipPart_ShipAngle1x2_Thing.label>угол корабля (1×2)</VFEPD_ShipPart_ShipAngle1x2_Thing.label>
+  <VFEPD_ShipPart_ShipAngle1x2_Thing.description>Декоративный угол корабля размером 1×2. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_ShipAngle1x2_Thing.description>
+  <VFEPD_ShipPart_ShipAngle1x2_Flipped.description>Декоративный угол корабля размером 1×2. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_ShipAngle1x2_Flipped.description>
+  <VFEPD_ShipPart_ShipAngle1x2_Flipped.label>угол корабля (1×2), зеркальный</VFEPD_ShipPart_ShipAngle1x2_Flipped.label>
+  <VFEPD_ShipPart_ShipAngle1x3_Thing.label>угол корабля (1×3)</VFEPD_ShipPart_ShipAngle1x3_Thing.label>
+  <VFEPD_ShipPart_ShipAngle1x3_Thing.description>Декоративный угол корабля размером 1×3. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_ShipAngle1x3_Thing.description>
+  <VFEPD_ShipPart_ShipAngle1x3_Flipped.description>Декоративный угол корабля размером 1×3. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_ShipAngle1x3_Flipped.description>
+  <VFEPD_ShipPart_ShipAngle1x3_Flipped.label>угол корабля (1×3), зеркальный</VFEPD_ShipPart_ShipAngle1x3_Flipped.label>
+  <VFEPD_ShipPart_ArchoShipAngle1x1_Thing.label>угол архотехнологического корабля (1×1)</VFEPD_ShipPart_ArchoShipAngle1x1_Thing.label>
+  <VFEPD_ShipPart_ArchoShipAngle1x1_Thing.description>Декоративный угол архотехнологического корабля размером 1×1. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_ArchoShipAngle1x1_Thing.description>
+  <VFEPD_ShipPart_ArchoShipAngle1x1_Flipped.description>Декоративный угол архотехнологического корабля размером 1×1. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_ArchoShipAngle1x1_Flipped.description>
+  <VFEPD_ShipPart_ArchoShipAngle1x1_Flipped.label>угол архотехнологического корабля (1×1), зеркальный</VFEPD_ShipPart_ArchoShipAngle1x1_Flipped.label>
+  <VFEPD_ShipPart_ArchoShipAngle1x2_Thing.label>угол архотехнологического корабля (1×2)</VFEPD_ShipPart_ArchoShipAngle1x2_Thing.label>
+  <VFEPD_ShipPart_ArchoShipAngle1x2_Thing.description>Декоративный угол архотехнологического корабля размером 1×2. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_ArchoShipAngle1x2_Thing.description>
+  <VFEPD_ShipPart_ArchoShipAngle1x2_Flipped.description>Декоративный угол архотехнологического корабля размером 1×2. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_ArchoShipAngle1x2_Flipped.description>
+  <VFEPD_ShipPart_ArchoShipAngle1x2_Flipped.label>угол архотехнологического корабля (1×2), зеркальный</VFEPD_ShipPart_ArchoShipAngle1x2_Flipped.label>
+  <VFEPD_ShipPart_ArchoShipAngle1x3_Thing.label>угол архотехнологического корабля (1×3)</VFEPD_ShipPart_ArchoShipAngle1x3_Thing.label>
+  <VFEPD_ShipPart_ArchoShipAngle1x3_Thing.description>Декоративный угол архотехнологического корабля размером 1×3. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_ArchoShipAngle1x3_Thing.description>
+  <VFEPD_ShipPart_ArchoShipAngle1x3_Flipped.description>Декоративный угол архотехнологического корабля размером 1×3. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_ArchoShipAngle1x3_Flipped.description>
+  <VFEPD_ShipPart_ArchoShipAngle1x3_Flipped.label>угол архотехнологического корабля (1×3), зеркальный</VFEPD_ShipPart_ArchoShipAngle1x3_Flipped.label>
+  <VFEPD_ShipPart_ShipAngle1x1Mech.label>угол механоидного корабля (1×1)</VFEPD_ShipPart_ShipAngle1x1Mech.label>
+  <VFEPD_ShipPart_ShipAngle1x1Mech.description>Декоративный угол механоидного корабля размером 1×1. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_ShipAngle1x1Mech.description>
+  <VFEPD_ShipPart_ShipAngle1x1Mech_Flipped.description>Декоративный угол механоидного корабля размером 1×1. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_ShipAngle1x1Mech_Flipped.description>
+  <VFEPD_ShipPart_ShipAngle1x1Mech_Flipped.label>угол механоидного корабля (1×1), зеркальный</VFEPD_ShipPart_ShipAngle1x1Mech_Flipped.label>
+  <VFEPD_ShipPart_ShipAngle1x2Mech.label>угол механоидного корабля (1×2)</VFEPD_ShipPart_ShipAngle1x2Mech.label>
+  <VFEPD_ShipPart_ShipAngle1x2Mech.description>Декоративный угол механоидного корабля размером 1×2. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_ShipAngle1x2Mech.description>
+  <VFEPD_ShipPart_ShipAngle1x2Mech_Flipped.description>Декоративный угол механоидного корабля размером 1×2. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_ShipAngle1x2Mech_Flipped.description>
+  <VFEPD_ShipPart_ShipAngle1x2Mech_Flipped.label>угол механоидного корабля (1×2), зеркальный</VFEPD_ShipPart_ShipAngle1x2Mech_Flipped.label>
+  <VFEPD_ShipPart_ShipAngle1x3Mech.label>угол механоидного корабля (1×3)</VFEPD_ShipPart_ShipAngle1x3Mech.label>
+  <VFEPD_ShipPart_ShipAngle1x3Mech.description>Декоративный угол механоидного корабля размером 1×3. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_ShipAngle1x3Mech.description>
+  <VFEPD_ShipPart_ShipAngle1x3Mech_Flipped.description>Декоративный угол механоидного корабля размером 1×3. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_ShipAngle1x3Mech_Flipped.description>
+  <VFEPD_ShipPart_ShipAngle1x3Mech_Flipped.label>угол механоидного корабля (1×3), зеркальный</VFEPD_ShipPart_ShipAngle1x3Mech_Flipped.label>
+  <VFEPD_ShipPart_AutosleepPod.label>капсула автоматического сна</VFEPD_ShipPart_AutosleepPod.label>
+  <VFEPD_ShipPart_AutosleepPod.description>Декоративная копия капсулы автоматического сна для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_AutosleepPod.description>
+  <VFEPD_ShipPart_AutosleepPod_Off.description>Декоративная копия капсулы автоматического сна для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_AutosleepPod_Off.description>
+  <VFEPD_ShipPart_AutosleepPod_Off.label>капсула автоматического сна, выключенная</VFEPD_ShipPart_AutosleepPod_Off.label>
+  <VFEPD_ShipPart_AvatarCasket.label>капсула аватара</VFEPD_ShipPart_AvatarCasket.label>
+  <VFEPD_ShipPart_AvatarCasket.description>Декоративная копия капсулы аватара для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_AvatarCasket.description>
+  <VFEPD_ShipPart_CapacitorSmall.label>малый корабельный конденсатор</VFEPD_ShipPart_CapacitorSmall.label>
+  <VFEPD_ShipPart_CapacitorSmall.description>Декоративная копия малого корабельного конденсатора для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_CapacitorSmall.description>
+  <VFEPD_ShipPart_Capacitor.label>корабельный конденсатор</VFEPD_ShipPart_Capacitor.label>
+  <VFEPD_ShipPart_Capacitor.description>Декоративная копия корабельного конденсатора для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_Capacitor.description>
+  <VFEPD_ShipPart_CritterSleep_Small.label>капсулы для мелких животных</VFEPD_ShipPart_CritterSleep_Small.label>
+  <VFEPD_ShipPart_CritterSleep_Small.description>Декоративная копия капсул для мелких животных для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_CritterSleep_Small.description>
+  <VFEPD_ShipPart_CritterSleep_Large.label>капсулы для крупных животных</VFEPD_ShipPart_CritterSleep_Large.label>
+  <VFEPD_ShipPart_CritterSleep_Large.description>Декоративная копия капсул для крупных животных для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_CritterSleep_Large.description>
+  <VFEPD_ShipPart_Cryptonest.label>криптогнездо</VFEPD_ShipPart_Cryptonest.label>
+  <VFEPD_ShipPart_Cryptonest.description>Декоративная копия криптогнезда для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_Cryptonest.description>
+  <VFEPD_ShipPart_Cryptonest_Off.description>Декоративная копия криптогнезда для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_Cryptonest_Off.description>
+  <VFEPD_ShipPart_Cryptonest_Off.label>криптогнездо, выключенное</VFEPD_ShipPart_Cryptonest_Off.label>
+  <VFEPD_ShipPart_HoloEmitter.label>простой голографический излучатель</VFEPD_ShipPart_HoloEmitter.label>
+  <VFEPD_ShipPart_HoloEmitter.description>Декоративная копия простого голографического излучателя для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_HoloEmitter.description>
+  <VFEPD_ShipPart_AdvancedHoloEmitter.label>усовершенствованный голографический излучатель</VFEPD_ShipPart_AdvancedHoloEmitter.label>
+  <VFEPD_ShipPart_AdvancedHoloEmitter.description>Декоративная копия усовершенствованного голографического излучателя для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_AdvancedHoloEmitter.description>
+  <VFEPD_ShipPart_ArchoHoloEmitter.label>архотехнологический голографический излучатель</VFEPD_ShipPart_ArchoHoloEmitter.label>
+  <VFEPD_ShipPart_ArchoHoloEmitter.description>Декоративная копия архотехнологического голографического излучателя для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_ArchoHoloEmitter.description>
+  <VFEPD_ShipPart_HoloRepeater.label>голографический ретранслятор</VFEPD_ShipPart_HoloRepeater.label>
+  <VFEPD_ShipPart_HoloRepeater.description>Декоративная копия голографического ретранслятора для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_HoloRepeater.description>
+  <VFEPD_ShipPart_ShipComputer.label>корабельный компьютер</VFEPD_ShipPart_ShipComputer.label>
+  <VFEPD_ShipPart_ShipComputer.description>Декоративная копия корабельного компьютера для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_ShipComputer.description>
+  <VFEPD_ShipPart_ShipComputer_AI.label>корабельный компьютер с ИИ</VFEPD_ShipPart_ShipComputer_AI.label>
+  <VFEPD_ShipPart_ShipComputer_AI.description>Декоративная копия корабельного компьютера с ИИ для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_ShipComputer_AI.description>
+  <VFEPD_ShipPart_Heatsink.label>теплоотвод</VFEPD_ShipPart_Heatsink.label>
+  <VFEPD_ShipPart_Heatsink.description>Декоративная копия теплоотвода для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_Heatsink.description>
+  <VFEPD_ShipPart_HeatsinkLarge.label>большой теплоотвод</VFEPD_ShipPart_HeatsinkLarge.label>
+  <VFEPD_ShipPart_HeatsinkLarge.description>Декоративная копия большого теплоотвода для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_HeatsinkLarge.description>
+  <VFEPD_ShipPart_PurgePort.label>сбросной клапан</VFEPD_ShipPart_PurgePort.label>
+  <VFEPD_ShipPart_PurgePort.description>Декоративная копия сбросного клапана для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_PurgePort.description>
+  <VFEPD_ShipPart_PurgePortLarge.label>большой сбросной клапан</VFEPD_ShipPart_PurgePortLarge.label>
+  <VFEPD_ShipPart_PurgePortLarge.description>Декоративная копия большого сбросного клапана для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_PurgePortLarge.description>
+  <VFEPD_ShipPart_QuickHeatsink.label>быстрый теплоотвод</VFEPD_ShipPart_QuickHeatsink.label>
+  <VFEPD_ShipPart_QuickHeatsink.description>Декоративная копия быстрого теплоотвода для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_QuickHeatsink.description>
+  <VFEPD_ShipPart_ArchoHeatsink.label>архотехнологический теплоотвод</VFEPD_ShipPart_ArchoHeatsink.label>
+  <VFEPD_ShipPart_ArchoHeatsink.description>Декоративная копия архотехнологического теплоотвода для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_ArchoHeatsink.description>
+  <VFEPD_ShipPart_SmallLifeSupport.label>малый блок жизнеобеспечения</VFEPD_ShipPart_SmallLifeSupport.label>
+  <VFEPD_ShipPart_SmallLifeSupport.description>Декоративная копия малого блока жизнеобеспечения для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_SmallLifeSupport.description>
+  <VFEPD_ShipPart_LifeSupport.label>блок жизнеобеспечения</VFEPD_ShipPart_LifeSupport.label>
+  <VFEPD_ShipPart_LifeSupport.description>Декоративная копия блока жизнеобеспечения для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_LifeSupport.description>
+  <VFEPD_ShipPart_ShieldGenerator.label>генератор щита</VFEPD_ShipPart_ShieldGenerator.label>
+  <VFEPD_ShipPart_ShieldGenerator.description>Декоративная копия генератора щита для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_ShieldGenerator.description>
+  <VFEPD_ShipPart_ArchoShieldGenerator.label>архотехнологический генератор щита</VFEPD_ShipPart_ArchoShieldGenerator.label>
+  <VFEPD_ShipPart_ArchoShieldGenerator.description>Декоративная копия архотехнологического генератора щита для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_ArchoShieldGenerator.description>
+  <VFEPD_ShipPart_CloakingDevice.label>маскировочное устройство</VFEPD_ShipPart_CloakingDevice.label>
+  <VFEPD_ShipPart_CloakingDevice.description>Декоративная копия маскировочного устройства для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_CloakingDevice.description>
+  <VFEPD_ShipPart_HullFoamDistributor.label>распределитель пены</VFEPD_ShipPart_HullFoamDistributor.label>
+  <VFEPD_ShipPart_HullFoamDistributor.description>Декоративная копия распределителя пены для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_HullFoamDistributor.description>
+  <VFEPD_ShipPart_SalvageBay.label>ангар для сбора обломков</VFEPD_ShipPart_SalvageBay.label>
+  <VFEPD_ShipPart_SalvageBay.description>Декоративная копия ангара для сбора обломков для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_SalvageBay.description>
+  <VFEPD_ShipPart_Ship_SensorCluster.label>сенсорный блок</VFEPD_ShipPart_Ship_SensorCluster.label>
+  <VFEPD_ShipPart_Ship_SensorCluster.description>Декоративная копия сенсорного блока для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_Ship_SensorCluster.description>
+  <VFEPD_ShipPart_Ship_SensorCluster_Large.label>большой сенсорный блок</VFEPD_ShipPart_Ship_SensorCluster_Large.label>
+  <VFEPD_ShipPart_Ship_SensorCluster_Large.description>Декоративная копия большого сенсорного блока для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_Ship_SensorCluster_Large.description>
+  <VFEPD_ShipPart_BigConsole.label>большая консоль</VFEPD_ShipPart_BigConsole.label>
+  <VFEPD_ShipPart_BigConsole.description>Декоративная копия большой консоли для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_BigConsole.description>
+  <VFEPD_ShipPart_Ship_Bridge.label>капитанский мостик</VFEPD_ShipPart_Ship_Bridge.label>
+  <VFEPD_ShipPart_Ship_Bridge.description>Декоративная копия капитанского мостика для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_Ship_Bridge.description>
+  <VFEPD_ShipPart_Ship_Bridge_Small.label>малый капитанский мостик</VFEPD_ShipPart_Ship_Bridge_Small.label>
+  <VFEPD_ShipPart_Ship_Bridge_Small.description>Декоративная копия малого капитанского мостика для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_Ship_Bridge_Small.description>
+  <VFEPD_ShipPart_ShipReactor.label>корабельный реактор</VFEPD_ShipPart_ShipReactor.label>
+  <VFEPD_ShipPart_ShipReactor.description>Декоративная копия корабельного реактора для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_ShipReactor.description>
+  <VFEPD_ShipPart_ShipReactorAdv.label>усовершенствованный корабельный реактор</VFEPD_ShipPart_ShipReactorAdv.label>
+  <VFEPD_ShipPart_ShipReactorAdv.description>Декоративная копия усовершенствованного корабельного реактора для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_ShipReactorAdv.description>
+  <VFEPD_ShipPart_ShipReactorDamaged.label>разрушенный корабельный реактор</VFEPD_ShipPart_ShipReactorDamaged.label>
+  <VFEPD_ShipPart_ShipReactorDamaged.description>Декоративная копия разрушенного корабельного реактора для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_ShipReactorDamaged.description>
+  <VFEPD_ShipPart_ArchotechReactor.label>архотехнологический реактор</VFEPD_ShipPart_ArchotechReactor.label>
+  <VFEPD_ShipPart_ArchotechReactor.description>Декоративная копия архотехнологического реактора для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_ArchotechReactor.description>
+  <VFEPD_ShipPart_Shuttle_Bay.label>ангар для челноков</VFEPD_ShipPart_Shuttle_Bay.label>
+  <VFEPD_ShipPart_Shuttle_Bay.description>Декоративная копия ангара для челноков для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_Shuttle_Bay.description>
+  <VFEPD_ShipPart_TorpedoTubes_Single.label>одиночный торпедный аппарат</VFEPD_ShipPart_TorpedoTubes_Single.label>
+  <VFEPD_ShipPart_TorpedoTubes_Single.description>Декоративная копия одиночного торпедного аппарата для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_TorpedoTubes_Single.description>
+  <VFEPD_ShipPart_TorpedoTubes_Small.label>малые торпедные аппараты</VFEPD_ShipPart_TorpedoTubes_Small.label>
+  <VFEPD_ShipPart_TorpedoTubes_Small.description>Декоративная копия малых торпедных аппаратов для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_TorpedoTubes_Small.description>
+  <VFEPD_ShipPart_TorpedoTubes.label>торпедные аппараты</VFEPD_ShipPart_TorpedoTubes.label>
+  <VFEPD_ShipPart_TorpedoTubes.description>Декоративная копия торпедных аппаратов для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_TorpedoTubes.description>
+  <VFEPD_ShipPart_ArchoSphere.label>архотехнологическая сфера</VFEPD_ShipPart_ArchoSphere.label>
+  <VFEPD_ShipPart_ArchoSphere.description>Декоративная копия архотехнологической сферы для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_ArchoSphere.description>
+  <VFEPD_ShipPart_ArchotechUplink.label>архотехнологический канал связи</VFEPD_ShipPart_ArchotechUplink.label>
+  <VFEPD_ShipPart_ArchotechUplink.description>Декоративная копия архотехнологического канала связи для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_ArchotechUplink.description>
+  <VFEPD_ShipPart_ArchoPillarA.label>архотехнологическая колонна</VFEPD_ShipPart_ArchoPillarA.label>
+  <VFEPD_ShipPart_ArchoPillarA.description>Декоративная копия архотехнологической колонны для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_ArchoPillarA.description>
+  <VFEPD_ShipPart_ArchoPillarB.description>Декоративная копия архотехнологической колонны для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_ArchoPillarB.description>
+  <VFEPD_ShipPart_ArchoPillarC.description>Декоративная копия архотехнологической колонны для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_ArchoPillarC.description>
+  <VFEPD_ShipPart_ArchoPillarD.description>Декоративная копия архотехнологической колонны для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_ArchoPillarD.description>
+  <VFEPD_ShipPart_ArchoPillarB.label>архотехнологическая колонна</VFEPD_ShipPart_ArchoPillarB.label>
+  <VFEPD_ShipPart_ArchoPillarC.label>архотехнологическая колонна</VFEPD_ShipPart_ArchoPillarC.label>
+  <VFEPD_ShipPart_ArchoPillarD.label>архотехнологическая колонна</VFEPD_ShipPart_ArchoPillarD.label>
+  <VFEPD_CarForklift.label>вилочный погрузчик</VFEPD_CarForklift.label>
+  <VFEPD_CarForklift.description>Промышленный вилочный погрузчик. Не работает: вся внутренняя проводка и двигатель демонтированы.</VFEPD_CarForklift.description>
+  <VFEPD_CarDeliveryBlack.label>фургон доставки</VFEPD_CarDeliveryBlack.label>
+  <VFEPD_CarDeliveryBlack.description>Большой фургон для доставки грузов. Не работает: вся внутренняя проводка и двигатель демонтированы.</VFEPD_CarDeliveryBlack.description>
+  <VFEPD_CarFamilyBlack.label>семейный автомобиль</VFEPD_CarFamilyBlack.label>
+  <VFEPD_CarFamilyBlack.description>Семейный автомобиль. Не работает: вся внутренняя проводка и двигатель демонтированы.</VFEPD_CarFamilyBlack.description>
+  <VFEPD_CarPickupBlack.label>пикап</VFEPD_CarPickupBlack.label>
+  <VFEPD_CarPickupBlack.description>Грузовой пикап. Не работает: вся внутренняя проводка и двигатель демонтированы.</VFEPD_CarPickupBlack.description>
+  <VFEPD_CarVintageBlack.label>старинный автомобиль</VFEPD_CarVintageBlack.label>
+  <VFEPD_CarVintageBlack.description>Автомобиль в старинном стиле. Не работает: вся внутренняя проводка и двигатель демонтированы.</VFEPD_CarVintageBlack.description>
+  <VFEP_ShortWalls.label>низкая стена</VFEP_ShortWalls.label>
+  <VFEP_ShortWalls.description>Стена высотой по грудь, через которую можно пройти. Не поддерживает крышу.</VFEP_ShortWalls.description>
+  <VPEPD_EmptyAdvResearch.label>пустой высокотехнологичный исследовательский стол</VPEPD_EmptyAdvResearch.label>
+  <VPEPD_EmptyAdvResearch.description>Рабочая поверхность, которую можно украсить лабораторными принадлежностями. Непригодна для исследований.</VPEPD_EmptyAdvResearch.description>
+  <VPEPD_EmptyResearch.description>Рабочая поверхность, которую можно украсить лабораторными принадлежностями. Непригодна для исследований.</VPEPD_EmptyResearch.description>
+  <VPEPD_EmptyBrewery.label>пустая пивоварня</VPEPD_EmptyBrewery.label>
+  <VPEPD_EmptyBrewery.description>Рабочая поверхность, которую можно украсить пивоваренными принадлежностями. Непригодна для производства.</VPEPD_EmptyBrewery.description>
+  <VPEPD_EmptyElectricSmelter.label>пустая плавильня</VPEPD_EmptyElectricSmelter.label>
+  <VPEPD_EmptyElectricSmelter.description>Рабочая поверхность, которую можно украсить литейными принадлежностями. Непригодна для производства.</VPEPD_EmptyElectricSmelter.description>
+  <VPEPD_EmptyFabrication.label>пустой сборочный верстак</VPEPD_EmptyFabrication.label>
+  <VPEPD_EmptyFabrication.description>Рабочая поверхность, которую можно украсить сборочными инструментами. Непригодна для производства.</VPEPD_EmptyFabrication.description>
+  <VPEPD_EmptyResearch.label>пустой исследовательский стол</VPEPD_EmptyResearch.label>
+  <VPEPD_EmptyScultingTable.label>пустой стол скульптора</VPEPD_EmptyScultingTable.label>
+  <VPEPD_EmptyScultingTable.description>Рабочая поверхность, которую можно украсить инструментами скульптора. Непригодна для производства.</VPEPD_EmptyScultingTable.description>
+  <VPEPD_EmptySmithy.label>пустой кузнечный стол</VPEPD_EmptySmithy.label>
+  <VPEPD_EmptySmithy.description>Рабочая поверхность, которую можно украсить кузнечными инструментами. Непригодна для производства.</VPEPD_EmptySmithy.description>
+  <VPEPD_EmptyStonecutter.label>пустой камнерезный стол</VPEPD_EmptyStonecutter.label>
+  <VPEPD_EmptyStonecutter.description>Рабочая поверхность, которую можно украсить камнерезными инструментами. Непригодна для производства.</VPEPD_EmptyStonecutter.description>
+  <VPEPD_EmptyTableMachining.label>пустой механический верстак</VPEPD_EmptyTableMachining.label>
+  <VPEPD_EmptyTableMachining.description>Рабочая поверхность, которую можно украсить слесарными инструментами. Непригодна для производства.</VPEPD_EmptyTableMachining.description>
+  <VPEPD_EmptyTailoring.label>пустой портняжный стол</VPEPD_EmptyTailoring.label>
+  <VPEPD_EmptyTailoring.description>Рабочая поверхность, которую можно украсить швейными принадлежностями. Непригодна для производства.</VPEPD_EmptyTailoring.description>
+  <VPEPD_EmptyWorkbench.label>пустой верстак</VPEPD_EmptyWorkbench.label>
+  <VPEPD_EmptyWorkbench.description>Рабочая поверхность, которую можно украсить производственными принадлежностями. Непригодна для производства.</VPEPD_EmptyWorkbench.description>
+  <VFEPD_Smelter.label>плавильня</VFEPD_Smelter.label>
+  <VFEPD_Smelter.description>Небольшая плавильня. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_Smelter.description>
+  <VFEPD_ChemfuelTankSmall.label>бак для химтоплива</VFEPD_ChemfuelTankSmall.label>
+  <VFEPD_ChemfuelTankSmall.description>Небольшой бак для химтоплива. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_ChemfuelTankSmall.description>
+  <VFEPD_SmelterExhaust.label>вытяжка плавильни</VFEPD_SmelterExhaust.label>
+  <VFEPD_SmelterExhaust.description>Небольшая вытяжка плавильни. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_SmelterExhaust.description>
+  <VFEPD_ConveyorInput.label>вход конвейера</VFEPD_ConveyorInput.label>
+  <VFEPD_ConveyorInput.description>Небольшая входная секция конвейера. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_ConveyorInput.description>
+  <VFEPD_SmelterGizmo.label>деталь плавильни</VFEPD_SmelterGizmo.label>
+  <VFEPD_SmelterGizmo.description>Небольшая деталь плавильни. Одному богу известно, что она делает. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_SmelterGizmo.description>
+  <VFEPD_BrownSmelterGizmo.description>Небольшая деталь плавильни. Одному богу известно, что она делает. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_BrownSmelterGizmo.description>
+  <VFEPD_BrownSmelterGizmo.label>серая деталь плавильни</VFEPD_BrownSmelterGizmo.label>
+  <VFEPD_SmelterHeater.label>нагреватель плавильни</VFEPD_SmelterHeater.label>
+  <VFEPD_SmelterHeater.description>Небольшой нагреватель плавильни. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_SmelterHeater.description>
+  <VFEPD_AdjustableWrench.label>разводной ключ</VFEPD_AdjustableWrench.label>
+  <VFEPD_AdjustableWrench.description>Небольшой разводной ключ. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_AdjustableWrench.description>
+  <VFEPD_SmallAlembic.label>малый перегонный куб</VFEPD_SmallAlembic.label>
+  <VFEPD_SmallAlembic.description>Небольшой перегонный куб. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_SmallAlembic.description>
+  <VFEPD_Alembic.label>перегонный куб</VFEPD_Alembic.label>
+  <VFEPD_Alembic.description>Перегонный куб. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_Alembic.description>
+  <VFEPD_DoubleAlembic.label>двойной перегонный куб</VFEPD_DoubleAlembic.label>
+  <VFEPD_DoubleAlembic.description>Двойной перегонный куб. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_DoubleAlembic.description>
+  <VFEPD_AssortedVials.label>разные склянки</VFEPD_AssortedVials.label>
+  <VFEPD_AssortedVials.description>Разнообразные склянки. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_AssortedVials.description>
+  <VFEPD_AssortedVialsB.description>Разнообразные склянки. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_AssortedVialsB.description>
+  <VFEPD_AssortedVialsC.description>Разнообразные склянки. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_AssortedVialsC.description>
+  <VFEPD_AssortedVialsB.label>разные склянки</VFEPD_AssortedVialsB.label>
+  <VFEPD_AssortedVialsC.label>разные склянки</VFEPD_AssortedVialsC.label>
+  <VFEPD_Beakers.label>лабораторные стаканы</VFEPD_Beakers.label>
+  <VFEPD_Beakers.description>Разнообразные лабораторные стаканы. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_Beakers.description>
+  <VFEPD_BioRefineryLargeBarrel.label>большая бочка биотопливного реактора</VFEPD_BioRefineryLargeBarrel.label>
+  <VFEPD_BioRefineryLargeBarrel.description>Большая бочка биотопливного реактора. Только для украшения; предназначено для размещения рядом с пустым верстаком.</VFEPD_BioRefineryLargeBarrel.description>
+  <VFEPD_BioRefineryLargeBarrelHorizontal.description>Большая бочка биотопливного реактора. Только для украшения; предназначено для размещения рядом с пустым верстаком.</VFEPD_BioRefineryLargeBarrelHorizontal.description>
+  <VFEPD_BioRefineryLargeBarrelHorizontal.label>большая бочка биотопливного реактора</VFEPD_BioRefineryLargeBarrelHorizontal.label>
+  <VFEPD_BioRefineryMediumBarrel.label>средняя бочка биотопливного реактора</VFEPD_BioRefineryMediumBarrel.label>
+  <VFEPD_BioRefineryMediumBarrel.description>Бочка биотопливного реактора среднего размера. Только для украшения; предназначено для размещения рядом с пустым верстаком.</VFEPD_BioRefineryMediumBarrel.description>
+  <VFEPD_BioRefineryMediumBarrelHorizontal.description>Бочка биотопливного реактора среднего размера. Только для украшения; предназначено для размещения рядом с пустым верстаком.</VFEPD_BioRefineryMediumBarrelHorizontal.description>
+  <VFEPD_BioRefineryMediumBarrelHorizontal.label>средняя бочка биотопливного реактора</VFEPD_BioRefineryMediumBarrelHorizontal.label>
+  <VFEPD_BioRefinerySmallBarrel.label>малая бочка биотопливного реактора</VFEPD_BioRefinerySmallBarrel.label>
+  <VFEPD_BioRefinerySmallBarrel.description>Маленькая бочка биотопливного реактора. Только для украшения; предназначено для размещения рядом с пустым верстаком.</VFEPD_BioRefinerySmallBarrel.description>
+  <VFEPD_BlocksPileA.label>куча блоков</VFEPD_BlocksPileA.label>
+  <VFEPD_BlocksPileA.description>Куча блоков в процессе обтёсывания. Только для украшения; предназначено для размещения рядом с пустым верстаком.</VFEPD_BlocksPileA.description>
+  <VFEPD_BlocksPileB.description>Куча блоков в процессе обтёсывания. Только для украшения; предназначено для размещения рядом с пустым верстаком.</VFEPD_BlocksPileB.description>
+  <VFEPD_BlocksPileC.description>Куча блоков в процессе обтёсывания. Только для украшения; предназначено для размещения рядом с пустым верстаком.</VFEPD_BlocksPileC.description>
+  <VFEPD_BlocksPileB.label>куча блоков</VFEPD_BlocksPileB.label>
+  <VFEPD_BlocksPileC.label>куча блоков</VFEPD_BlocksPileC.label>
+  <VFEPD_BloodSplatter.label>брызги крови</VFEPD_BloodSplatter.label>
+  <VFEPD_BloodSplatter.description>Брызги крови с разделочного стола. Только для украшения; предназначено для размещения рядом с пустым верстаком.</VFEPD_BloodSplatter.description>
+  <VFEPD_BreweryBarrel.label>пивоваренная бочка</VFEPD_BreweryBarrel.label>
+  <VFEPD_BreweryBarrel.description>Небольшая пивоваренная бочка. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_BreweryBarrel.description>
+  <VFEPD_BreweryTablet.label>пивоваренный коврик</VFEPD_BreweryTablet.label>
+  <VFEPD_BreweryTablet.description>Пивоваренный коврик для переработки растений в сусло. Или как там это делается. Не смотрите на меня, я не пивовар. Только для украшения; предназначено для размещения рядом с пустым верстаком.</VFEPD_BreweryTablet.description>
+  <VFEPD_Chisel.label>зубило</VFEPD_Chisel.label>
+  <VFEPD_Chisel.description>Небольшое зубило. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_Chisel.description>
+  <VFEPD_Cleaver.label>тесак</VFEPD_Cleaver.label>
+  <VFEPD_Cleaver.description>Небольшой тесак. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_Cleaver.description>
+  <VFEPD_ConeWrench.label>конусный ключ</VFEPD_ConeWrench.label>
+  <VFEPD_ConeWrench.description>Небольшой конусный ключ. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_ConeWrench.description>
+  <VFEPD_CuttingTableWithKnife.label>разделочная доска с ножом</VFEPD_CuttingTableWithKnife.label>
+  <VFEPD_CuttingTableWithKnife.description>Разделочная доска с остро заточенным ножом. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_CuttingTableWithKnife.description>
+  <VFEPD_Docs.label>разбросанные документы</VFEPD_Docs.label>
+  <VFEPD_Docs.description>Разбросанные исследовательские документы. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_Docs.description>
+  <VFEPD_ManyDocs.label>много документов</VFEPD_ManyDocs.label>
+  <VFEPD_ManyDocs.description>Множество разбросанных исследовательских документов. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_ManyDocs.description>
+  <VFEPD_DoubleOven.label>двойная печь</VFEPD_DoubleOven.label>
+  <VFEPD_DoubleOven.description>Двойная печь. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_DoubleOven.description>
+  <VFEPD_FabricationComputer.label>производственный компьютер</VFEPD_FabricationComputer.label>
+  <VFEPD_FabricationComputer.description>Производственный компьютер. Вычисляет. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_FabricationComputer.description>
+  <VFEPD_FabricationGizmoA.label>производственный токарный станок</VFEPD_FabricationGizmoA.label>
+  <VFEPD_FabricationGizmoA.description>Производственный токарный станок. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_FabricationGizmoA.description>
+  <VFEPD_FabricationGizmoB.description>Производственный токарный станок. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_FabricationGizmoB.description>
+  <VFEPD_FabricationGizmoC.description>Производственный токарный станок. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_FabricationGizmoC.description>
+  <VFEPD_FabricationGizmoB.label>производственный токарный станок</VFEPD_FabricationGizmoB.label>
+  <VFEPD_FabricationGizmoC.label>производственный токарный станок</VFEPD_FabricationGizmoC.label>
+  <VFEPD_FabricationLargeGizmo.label>производственные компьютеры</VFEPD_FabricationLargeGizmo.label>
+  <VFEPD_FabricationLargeGizmo.description>Несколько производственных установок. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_FabricationLargeGizmo.description>
+  <VFEPD_FabricationLaser.label>производственный лазер</VFEPD_FabricationLaser.label>
+  <VFEPD_FabricationLaser.description>Производственный лазер. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_FabricationLaser.description>
+  <VFEPD_FabricationLathe.description>Производственный лазер. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_FabricationLathe.description>
+  <VFEPD_FabricationLathe.label>малый производственный токарный станок</VFEPD_FabricationLathe.label>
+  <VFEPD_FabricRollA.label>рулоны ткани</VFEPD_FabricRollA.label>
+  <VFEPD_FabricRollA.description>Несколько рулонов ткани. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_FabricRollA.description>
+  <VFEPD_FabricRollB.description>Несколько рулонов ткани. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_FabricRollB.description>
+  <VFEPD_FabricRollC.description>Несколько рулонов ткани. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_FabricRollC.description>
+  <VFEPD_FabricRollB.label>рулоны ткани</VFEPD_FabricRollB.label>
+  <VFEPD_FabricRollC.label>рулоны ткани</VFEPD_FabricRollC.label>
+  <VFEPD_File.label>напильник</VFEPD_File.label>
+  <VFEPD_File.description>Небольшой напильник. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_File.description>
+  <VFEPD_HalfFinishedGun.label>недособранное ружьё</VFEPD_HalfFinishedGun.label>
+  <VFEPD_HalfFinishedGun.description>Небольшое недособранное ружьё. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_HalfFinishedGun.description>
+  <VFEPD_HeavyHammer.label>кувалда</VFEPD_HeavyHammer.label>
+  <VFEPD_HeavyHammer.description>Огромный тяжёлый молот. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_HeavyHammer.description>
+  <VFEPD_SmallScreen.label>малый экран</VFEPD_SmallScreen.label>
+  <VFEPD_SmallScreen.description>Небольшой компьютерный экран. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_SmallScreen.description>
+  <VFEPD_MediumScreen.label>средний экран</VFEPD_MediumScreen.label>
+  <VFEPD_MediumScreen.description>Компьютерный экран среднего размера. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_MediumScreen.description>
+  <VFEPD_LargeScreen.label>большой экран</VFEPD_LargeScreen.label>
+  <VFEPD_LargeScreen.description>Большой компьютерный экран. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_LargeScreen.description>
+  <VFEPD_MachiningHammer.label>слесарный молоток</VFEPD_MachiningHammer.label>
+  <VFEPD_MachiningHammer.description>Небольшой слесарный молоток. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_MachiningHammer.description>
+  <VFEPD_MustBucket.label>ведро сусла</VFEPD_MustBucket.label>
+  <VFEPD_MustBucket.description>Небольшое ведро сусла. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_MustBucket.description>
+  <VFEPD_MustBuckets.label>вёдра сусла</VFEPD_MustBuckets.label>
+  <VFEPD_MustBuckets.description>Два небольших ведра сусла. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_MustBuckets.description>
+  <VFEPD_Potentiometer.label>потенциометр</VFEPD_Potentiometer.label>
+  <VFEPD_Potentiometer.description>Потенциометр. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_Potentiometer.description>
+  <VFEPD_PotentiometerOven.label>переделанная печь</VFEPD_PotentiometerOven.label>
+  <VFEPD_PotentiometerOven.description>Печь, переделанная для плавильни. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_PotentiometerOven.description>
+  <VFEPD_ResearchDatabase.label>исследовательская база данных</VFEPD_ResearchDatabase.label>
+  <VFEPD_ResearchDatabase.description>Исследовательская база данных. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_ResearchDatabase.description>
+  <VFEPD_ResearchStructure.label>исследовательская установка</VFEPD_ResearchStructure.label>
+  <VFEPD_ResearchStructure.description>Исследовательская установка. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_ResearchStructure.description>
+  <VFEPD_ResearchStructureB.description>Исследовательская установка. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_ResearchStructureB.description>
+  <VFEPD_ResearchStructureB.label>исследовательская установка</VFEPD_ResearchStructureB.label>
+  <VFEPD_Sandpaper.label>наждачная бумага</VFEPD_Sandpaper.label>
+  <VFEPD_Sandpaper.description>Лист наждачной бумаги. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_Sandpaper.description>
+  <VFEPD_Saw.label>пила</VFEPD_Saw.label>
+  <VFEPD_Saw.description>Небольшая пила. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_Saw.description>
+  <VFEPD_Scissors.label>ножницы</VFEPD_Scissors.label>
+  <VFEPD_Scissors.description>Небольшие ножницы. Погодите, их тут двое? Или всё-таки одни? Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_Scissors.description>
+  <VFEPD_Scraper.label>скребок</VFEPD_Scraper.label>
+  <VFEPD_Scraper.description>Небольшой скребок. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_Scraper.description>
+  <VFEPD_SewingMachine.label>швейная машинка</VFEPD_SewingMachine.label>
+  <VFEPD_SewingMachine.description>Небольшая швейная машинка. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_SewingMachine.description>
+  <VFEPD_SingleBeaker.label>лабораторный стакан</VFEPD_SingleBeaker.label>
+  <VFEPD_SingleBeaker.description>Небольшой лабораторный стакан. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_SingleBeaker.description>
+  <VFEPD_SmallKnife.label>малый нож</VFEPD_SmallKnife.label>
+  <VFEPD_SmallKnife.description>Небольшой нож. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_SmallKnife.description>
+  <VFEPD_SmallVent.label>малый вентиляционный выход</VFEPD_SmallVent.label>
+  <VFEPD_SmallVent.description>Небольшой вентиляционный выход. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_SmallVent.description>
+  <VFEPD_TinyVent.description>Небольшой вентиляционный выход. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_TinyVent.description>
+  <VFEPD_SmallWrench.label>малый гаечный ключ</VFEPD_SmallWrench.label>
+  <VFEPD_SmallWrench.description>Небольшой гаечный ключ. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_SmallWrench.description>
+  <VFEPD_SpinningWheel.label>прялка</VFEPD_SpinningWheel.label>
+  <VFEPD_SpinningWheel.description>Небольшая прялка. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_SpinningWheel.description>
+  <VFEPD_StoneGrinder.label>камнешлифовальная машина</VFEPD_StoneGrinder.label>
+  <VFEPD_StoneGrinder.description>Небольшая машина для шлифовки камня. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_StoneGrinder.description>
+  <VFEPD_TextilesCardboardBox.label>коробка с тканями</VFEPD_TextilesCardboardBox.label>
+  <VFEPD_TextilesCardboardBox.description>Небольшая коробка с тканями. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_TextilesCardboardBox.description>
+  <VFEPD_TinyVent.label>вентиляционный выход</VFEPD_TinyVent.label>
+  <VFEPD_Tongs.label>щипцы</VFEPD_Tongs.label>
+  <VFEPD_Tongs.description>Небольшие щипцы. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_Tongs.description>
+  <VFEPD_Tools.label>инструменты</VFEPD_Tools.label>
+  <VFEPD_Tools.description>Лоток с инструментами. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_Tools.description>
+  <VFEPD_ToolsBoard.label>лоток для инструментов</VFEPD_ToolsBoard.label>
+  <VFEPD_ToolsBoard.description>Лоток для инструментов. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_ToolsBoard.description>
+  <VFEPD_UnfinishedCloth.label>недоделанная ткань</VFEPD_UnfinishedCloth.label>
+  <VFEPD_UnfinishedCloth.description>Куски недоделанной ткани. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_UnfinishedCloth.description>
+  <VFEPD_WoodenMallet.label>киянка</VFEPD_WoodenMallet.label>
+  <VFEPD_WoodenMallet.description>Небольшой деревянный молоток. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_WoodenMallet.description>
+  <Blueprint_VFEP_ShortWalls.label>низкая стена (проект)</Blueprint_VFEP_ShortWalls.label>
+  <Frame_VFEP_ShortWalls.label>низкая стена (в процессе сборки)</Frame_VFEP_ShortWalls.label>
+  <Frame_VFEP_ShortWalls.description>Стена высотой по грудь, через которую можно пройти. Не поддерживает крышу.</Frame_VFEP_ShortWalls.description>
+</LanguageData>

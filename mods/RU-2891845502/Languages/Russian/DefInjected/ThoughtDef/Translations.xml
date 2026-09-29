@@ -1,0 +1,34 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AG_Disgust.stages.disgusting_colonist.label>отвратительный поселенец</AG_Disgust.stages.disgusting_colonist.label>
+  <AG_Disgust.stages.disgusting_colonist.description>Не могу избавиться от этой мысли. Как кто-то может быть ТАКИМ отвратительным и уродливым?</AG_Disgust.stages.disgusting_colonist.description>
+  <AG_Awe.stages.angelic_colonist.label>ангельский поселенец</AG_Awe.stages.angelic_colonist.label>
+  <AG_Awe.stages.angelic_colonist.description>Не могу избавиться от этой мысли. Как кто-то может быть ТАКИМ красивым?</AG_Awe.stages.angelic_colonist.description>
+  <AG_PsychicDrone.stages.psychic_drone.label>пси-успокоение</AG_PsychicDrone.stages.psychic_drone.label>
+  <AG_PsychicDrone.stages.psychic_drone.description>Я чувствую спокойствие и умиротворение.</AG_PsychicDrone.stages.psychic_drone.description>
+  <AG_CorpseFeeding.stages.smell_of_corpserotting_gas.label>запах разлагающего трупы газа</AG_CorpseFeeding.stages.smell_of_corpserotting_gas.label>
+  <AG_CorpseFeeding.stages.smell_of_corpserotting_gas.description>Запах гнилостной трупной желчи и разлагающего трупы газа просто невыносим!</AG_CorpseFeeding.stages.smell_of_corpserotting_gas.description>
+  <AG_SunlightSensitivity_Minor.stages.sunlight_sensitivity.label>чувствительность к солнцу</AG_SunlightSensitivity_Minor.stages.sunlight_sensitivity.label>
+  <AG_SunlightSensitivity_Minor.stages.sunlight_sensitivity.description>От солнца у меня болят глаза.</AG_SunlightSensitivity_Minor.stages.sunlight_sensitivity.description>
+  <AG_Thalassophobia.stages.afraid_of_water.label>боязнь воды</AG_Thalassophobia.stages.afraid_of_water.label>
+  <AG_Thalassophobia.stages.afraid_of_water.description>Я не выношу даже находиться рядом с водой! Она приводит меня в ужас.</AG_Thalassophobia.stages.afraid_of_water.description>
+  <AG_PukedRats.stages.puked_rats.label>вырвало крысами</AG_PukedRats.stages.puked_rats.label>
+  <AG_PukedRats.stages.puked_rats.description>Сколько бы раз это ни происходило, я никогда к этому не привыкну.</AG_PukedRats.stages.puked_rats.description>
+  <AG_Implanted.stages.forcefully_implanted_by.label>насильно вживлены гены от {0}</AG_Implanted.stages.forcefully_implanted_by.label>
+  <AG_Implanted.stages.forcefully_implanted_by.description>В меня против воли вонзили жало и что-то ввели.</AG_Implanted.stages.forcefully_implanted_by.description>
+  <AG_Implanted_Social.stages.forcefully_implanted.label>насильно вживлены гены</AG_Implanted_Social.stages.forcefully_implanted.label>
+  <AG_Parasite.stages.parasitized_by.label>вживлены паразиты от {0}</AG_Parasite.stages.parasitized_by.label>
+  <AG_Parasite.stages.parasitized_by.description>Я ЧУВСТВУЮ, КАК ЯЙЦА ДВИГАЮТСЯ ВНУТРИ МОЕГО ТЕЛА!</AG_Parasite.stages.parasitized_by.description>
+  <AG_Parasite_Social.stages.parasitized.label>вживлены паразиты</AG_Parasite_Social.stages.parasitized.label>
+  <AG_RaidedBioLab.stages.raided_biolab.label>налёт на биолабораторию</AG_RaidedBioLab.stages.raided_biolab.label>
+  <AG_RaidedBioLab.stages.raided_biolab.description>Азарт приключений захватывает дух!</AG_RaidedBioLab.stages.raided_biolab.description>
+  <AG_UsedXenotypeInjector.stages.used_xenotype_injector.label>использован инъектор ксенотипа</AG_UsedXenotypeInjector.stages.used_xenotype_injector.label>
+  <AG_UsedXenotypeInjector.stages.used_xenotype_injector.description>Мне довелось воспользоваться инъектором ксенотипа.</AG_UsedXenotypeInjector.stages.used_xenotype_injector.description>
+  <AG_Mood_Volatile.stages.genetic_joy.label>генетическое счастье</AG_Mood_Volatile.stages.genetic_joy.label>
+  <AG_Mood_Volatile.stages.genetic_joy.description>Естественное влияние гена «нестабильное настроение».</AG_Mood_Volatile.stages.genetic_joy.description>
+  <AG_Mood_Volatile.stages.genetic_depression.label>генетическая депрессия</AG_Mood_Volatile.stages.genetic_depression.label>
+  <AG_Mood_Volatile.stages.genetic_depression.description>Естественное влияние гена «нестабильное настроение».</AG_Mood_Volatile.stages.genetic_depression.description>
+  <AG_UnsettlingAppearance.stages.unsettling_appearance.label>пугающая внешность</AG_UnsettlingAppearance.stages.unsettling_appearance.label>
+  <AG_EldritchVisage.stages.eldritch.label>ужасающая внешность</AG_EldritchVisage.stages.eldritch.label>
+  <AG_Stinky.stages.stinky.label>зловонность</AG_Stinky.stages.stinky.label>
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VRE_SummonOcularSlinger.label>призвать окулярного метателя</VRE_SummonOcularSlinger.label>
+  <VRE_SummonOcularSlinger.description>Призвать окулярного метателя под свой контроль. Существо остаётся животным колонии навсегда, и его можно призывать в бой. Если метатель погибнет, можно призвать нового.</VRE_SummonOcularSlinger.description>
+  <VRE_StrikeEyes.label>поразить глаза</VRE_StrikeEyes.label>
+  <VRE_StrikeEyes.description>Силой мысли нагреть стекловидное тело в глазах цели до кипения, разрушив глаза и навсегда лишив жертву зрения.</VRE_StrikeEyes.description>
+  <AG_OcularConversionAlphaAnimals.label>окулярное преобразование</AG_OcularConversionAlphaAnimals.label>
+  <AG_OcularConversionAlphaBiomes.label>окулярное преобразование</AG_OcularConversionAlphaBiomes.label>
+  <AG_OcularConversionAlphaAnimals.description>Превратить растения в выбранной области в их окулярные разновидности.</AG_OcularConversionAlphaAnimals.description>
+  <AG_OcularConversionAlphaBiomes.description>Превратить растения в выбранной области в их окулярные разновидности.</AG_OcularConversionAlphaBiomes.description>
+  <AG_EyeProjectile.label>глаз</AG_EyeProjectile.label>
+  <AG_EyeProjectile.description>Лучше об этом не задумываться.</AG_EyeProjectile.description>
+</LanguageData>

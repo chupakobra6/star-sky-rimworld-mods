@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AG_WorkerDroidHead.label>голова рабочего дроида</AG_WorkerDroidHead.label>
+  <AG_WorkerDroidHead.description>Лицо андроидов с этим оборудованием выглядит совершенно нечеловеческим, как у робота.</AG_WorkerDroidHead.description>
+  <AG_ServantDroidHead.description>Лицо андроидов с этим оборудованием выглядит совершенно нечеловеческим, как у робота.</AG_ServantDroidHead.description>
+  <AG_KillerDroidHead.description>Лицо андроидов с этим оборудованием выглядит совершенно нечеловеческим, как у робота.</AG_KillerDroidHead.description>
+  <AG_WorkerDroidHead.customEffectDescriptions.0>Сочетание с другими косметическими генами может выглядеть странно.</AG_WorkerDroidHead.customEffectDescriptions.0>
+  <AG_ServantDroidHead.customEffectDescriptions.0>Сочетание с другими косметическими генами может выглядеть странно.</AG_ServantDroidHead.customEffectDescriptions.0>
+  <AG_KillerDroidHead.customEffectDescriptions.0>Сочетание с другими косметическими генами может выглядеть странно.</AG_KillerDroidHead.customEffectDescriptions.0>
+  <AG_ServantDroidHead.label>голова дроида-слуги</AG_ServantDroidHead.label>
+  <AG_KillerDroidHead.label>голова дроида-убийцы</AG_KillerDroidHead.label>
+  <AG_HalfSyntheticHead.label>полусинтетическая голова</AG_HalfSyntheticHead.label>
+  <AG_HalfSyntheticHead.description>У андроидов с этим оборудованием синтетическое лицо с удивительно обычными человеческими глазами.</AG_HalfSyntheticHead.description>
+  <AG_RoboticBodyPlastic.label>пластиковое тело</AG_RoboticBodyPlastic.label>
+  <AG_RoboticBodyPlastic.description>Тело андроидов с этим оборудованием выглядит пластиковым.</AG_RoboticBodyPlastic.description>
+  <AG_RoboticBodySkeletal.label>роботизированное тело</AG_RoboticBodySkeletal.label>
+  <AG_RoboticBodySkeletal.description>Тело андроидов с этим оборудованием выглядит полностью механическим.</AG_RoboticBodySkeletal.description>
+  <AG_LightLED.label>синий светодиод</AG_LightLED.label>
+  <AG_LightLED.description>У андроидов с этим оборудованием сбоку на голове горит синий светодиод, выдающий их искусственную природу.</AG_LightLED.description>
+  <AG_LightLEDRed.label>красный светодиод</AG_LightLEDRed.label>
+  <AG_LightLEDRed.description>У андроидов с этим оборудованием сбоку на голове горит красный светодиод, выдающий их искусственную природу.</AG_LightLEDRed.description>
+  <AG_MechAntenna.label>антенна механоида</AG_MechAntenna.label>
+  <AG_MechAntenna.description>У андроидов с этим оборудованием на голове установлена антенна механоида.</AG_MechAntenna.description>
+</LanguageData>

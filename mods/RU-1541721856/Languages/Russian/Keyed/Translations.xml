@@ -1,0 +1,277 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AA_LetterLabelAlphaCargoPodCrash>Грузовая капсула Alpha Animals</AA_LetterLabelAlphaCargoPodCrash>
+  <AA_AlphaCargoPodCrash>Поблизости упала грузовая капсула. Похоже, внутри находятся экзотические животные в неволе.
+
+Кто знает, возможно, среди обломков найдётся что-нибудь полезное.</AA_AlphaCargoPodCrash>
+  <AA_AsexualHatched>Бесполое размножение: {0}.</AA_AsexualHatched>
+  <AA_AsexualCloning>Самоклонирование: {0}.</AA_AsexualCloning>
+  <AA_AsexualHatchedEgg>Образование спор: {0}.</AA_AsexualHatchedEgg>
+  <NocturnalAnimals.BodyClock>Суточный ритм</NocturnalAnimals.BodyClock>
+  <NocturnalAnimals.BodyClock_Description>Определяет, когда животное спит и бодрствует.
+
+Дневные животные спят ночью и бодрствуют днём, ночные — наоборот. Сумеречные животные активны преимущественно в сумерках.</NocturnalAnimals.BodyClock_Description>
+  <NocturnalAnimals.BodyClock_Diurnal>Дневной</NocturnalAnimals.BodyClock_Diurnal>
+  <NocturnalAnimals.BodyClock_Nocturnal>Ночной</NocturnalAnimals.BodyClock_Nocturnal>
+  <NocturnalAnimals.BodyClock_Crepuscular>Сумеречный</NocturnalAnimals.BodyClock_Crepuscular>
+  <AA_TimeToMetamorphosis>До метаморфоза: {0}</AA_TimeToMetamorphosis>
+  <AA_NotTameable>Это существо нельзя приручить</AA_NotTameable>
+  <AA_GallatrossNotTameable>Умирающий галлатросс не поддаётся приручению и быстро дичает, ожидая смерти</AA_GallatrossNotTameable>
+  <AA_MimeNotTameable>Мим не поддаётся приручению</AA_MimeNotTameable>
+  <AA_ClutchmotherNotTameable>Матка слишком дика, чтобы оставаться ручной!</AA_ClutchmotherNotTameable>
+  <AA_StomachContents>Проглочено целиком существ: {0}. </AA_StomachContents>
+  <AA_DigestionTime>До переваривания: {0}</AA_DigestionTime>
+  <AA_DestroyFlamingoEggsLabel>Разбить яйцо</AA_DestroyFlamingoEggsLabel>
+  <AA_DestroyFlamingoEggsDesc>Поручить разбить это яйцо как можно скорее.</AA_DestroyFlamingoEggsDesc>
+  <AA_CancelDestroyFlamingoEggsLabel>Отменить разбивание яйца</AA_CancelDestroyFlamingoEggsLabel>
+  <AA_CancelDestroyFlamingoEggsDesc>Отменить поручение разбить это яйцо как можно скорее.</AA_CancelDestroyFlamingoEggsDesc>
+  <AA_HuskNotTameable>Грибковая оболочка существует лишь для распространения инфекции; приручить её нельзя</AA_HuskNotTameable>
+  <AA_Detonate>Взорвать</AA_Detonate>
+  <AA_DetonateDesc>Заставить животное взорваться. Оно погибнет, вызвав взрыв.</AA_DetonateDesc>
+  <AA_AnimalDoingWeirdJob>Животное занято работой.</AA_AnimalDoingWeirdJob>
+  <AA_VFEI_CreatingCocoon>До создания кокона: {0}</AA_VFEI_CreatingCocoon>
+  <AA_EcholocativeFeedbackReason>Причиной кататонии стала обратная связь эхолокации. Внезапный оглушительный звук оказался невыносимым.</AA_EcholocativeFeedbackReason>
+  <LetterLabelColossalAerofleetPasses>Колоссальный аэрофлит</LetterLabelColossalAerofleetPasses>
+  <LetterColossalAerofleetPasses>Вдали подпрыгивает странное парящее существо, неуклюже блуждая по местности.
+
+К нему тянется небольшая толпа мелких сородичей, следующих на некотором расстоянии.
+
+Они выглядят почти безвредными и, вероятно, уйдут, когда насытятся.</LetterColossalAerofleetPasses>
+  <LetterLabelSkyAsteroid>Странный астероид</LetterLabelSkyAsteroid>
+  <LetterSkyAsteroid>Небольшой странный астероид вошёл в атмосферу планеты. Столкновение неизбежно.</LetterSkyAsteroid>
+  <LetterLabelBumbledroneMigration>Миграция дронов-шмелей</LetterLabelBumbledroneMigration>
+  <LetterBumbledroneMigration>В область вошла небольшая группа дронов-шмелей во главе с маткой.
+
+Обычно они неагрессивны, пока им не угрожают.
+
+Вероятно, через некоторое время они уйдут искать место потише: в колонии для них слишком шумно.</LetterBumbledroneMigration>
+  <LetterLabelManhuntingArcticLion>Арктический лев выслеживает добычу</LetterLabelManhuntingArcticLion>
+  <ManhuntingArcticLion>Арктический лев выслеживает одного из поселенцев из тени.
+
+Он почти невидим, пока не решит напасть и не получит повреждения от поселенцев. Призванные и бдительные поселенцы, а также автоматические оборонительные системы смогут его обнаружить — скорее готовьтесь!
+
+Арктические львы — страшные генетически созданные звери, выведенные для боя в холодном климате.</ManhuntingArcticLion>
+  <LetterLabelBlizzariskClutchMother>Матка метелисков</LetterLabelBlizzariskClutchMother>
+  <BlizzariskClutchMother>По этим землям бродит огромное паукоподобное существо — метелиск, приспособленный к холоду.
+
+Этот метелиск гораздо крупнее обычного и несёт на спине кладку яиц. Если быстро с ним не разобраться, беды не миновать.</BlizzariskClutchMother>
+  <LetterLabelDunealiskClutchMother>Матка дюналисков</LetterLabelDunealiskClutchMother>
+  <DunealiskClutchMother>По этим землям бродит огромное паукоподобное существо — дюналиск, приспособленный к жаре.
+
+Этот дюналиск гораздо крупнее обычного и несёт на спине кладку яиц. Если быстро с ним не разобраться, беды не миновать.</DunealiskClutchMother>
+  <LetterLabelFeraliskClutchMother>Матка фералисков</LetterLabelFeraliskClutchMother>
+  <FeraliskClutchMother>По этим землям бродит огромное паукоподобное существо — фералиск.
+
+Этот фералиск гораздо крупнее обычного и несёт на спине кладку яиц. Если быстро с ним не разобраться, беды не миновать.</FeraliskClutchMother>
+  <AA_LetterLabelAnimaliskEnters>Замечен анималиск</AA_LetterLabelAnimaliskEnters>
+  <AA_LetterAnimaliskEnters>По этим землям бродит огромное паукоподобное существо с таинственными рунами на внешнем скелете.
+
+Это анималиск — гигантское травоядное насекомое, пожирающее аниматраву и анимадеревья.</AA_LetterAnimaliskEnters>
+  <LetterLabelSummitCrab>Горный краб</LetterLabelSummitCrab>
+  <SummitCrab>Земля дрожит: огромный краб-отшельник, живущий внутри гигантского валуна, тащится через эту область.
+
+Исполинский глыбонос не враждебен, но почти неуязвим для обстрела и уничтожит всё на пути, если его не остановить.</SummitCrab>
+  <LetterLabelCactipinePod>Странная транспортная капсула</LetterLabelCactipinePod>
+  <CactipineDropPod>Воздух оглашает знакомый рёв транспортной капсулы, входящей в атмосферу. Сканеры обнаруживают внутри признаки жизни — но ОЧЕНЬ странные, словно не могут отличить животное от растения.</CactipineDropPod>
+  <LetterLabelGallatrossPasses>Странствующий галлатросс</LetterLabelGallatrossPasses>
+  <LetterGallatrossPasses>Легенды повествуют о существе столь огромном и могучем, что целые племена бежали при одном его виде. Источником этих легенд стал галлатросс — исполин с ненасытным аппетитом. Может быть, он как-то связан с неуловимым трумбо? На такие вопросы, вероятно, невозможно ответить.</LetterGallatrossPasses>
+  <LetterLabelBlackHiveAttack>Атака чёрного улья</LetterLabelBlackHiveAttack>
+  <LetterBlackHiveAttack>Инсектоиды окраин — генетически изменённые организмы для борьбы с вторжениями механоидов. Чёрный улей был лучшим из лучших: намного агрессивнее обычного, способный осаждать неприступные механоидные крепости. Существующие виды улучшили, а несколько новых создали и добавили в улей, повышая его смертоносность.
+
+Группа инсектоидов чёрного улья проложила туннель сюда и немедленно атакует вашу базу.</LetterBlackHiveAttack>
+  <AA_LetterLabelMechanoidSappers>Механоиды-сапёры</AA_LetterLabelMechanoidSappers>
+  <AA_LetterMechanoidSappers>Поблизости загадочным образом появился древний сборщик механоидов, до сих пор скрытый маскировкой.
+
+Из него хлынул рой механоидов, быстро готовящихся к атаке.
+
+Среди них есть опасный разрушитель, так что, вероятно, они пойдут прямо сквозь стены!</AA_LetterMechanoidSappers>
+  <AA_LetterLabelMatureFleshbeast>Проглочено целиком</AA_LetterLabelMatureFleshbeast>
+  <AA_LetterMatureFleshbeast>{0}: чудовище проглотило эту пешку целиком! Если поспешить, {0_objective} ещё можно спасти жизнь.</AA_LetterMatureFleshbeast>
+  <AA_LetterLabelFungalHusk>Грибковые оболочки</AA_LetterLabelFungalHusk>
+  <AA_LetterFungalHusk>В область вошли раздутые шаркающие трупы, оживлённые страшным боевым грибом!
+
+Не позволяйте им атаковать поселенцев: они разносят стремительную грибковую инфекцию, которая без лечения быстро убивает.</AA_LetterFungalHusk>
+  <AA_LetterLabelMime>Мим раскрыт</AA_LetterLabelMime>
+  <AA_LetterMime>«{0}» — это мим! {0_possessive} голод стал нестерпимым. {0_objective} больше не удаётся скрывать истинную сущность. Теперь {0_pronoun} нападёт на остальных поселенцев, пытаясь насытиться.</AA_LetterMime>
+  <AA_LetterLabelBehemothPasses>Редкий бегемот</AA_LetterLabelBehemothPasses>
+  <AA_LetterBehemothPasses>В область забрело небольшое стадо бегемотов.
+
+Эти громадные существа обладают ненасытным аппетитом и крайне опасным огненным дыханием, способным, вероятно, поджечь целый лес.
+
+Грозная раса Отверженных часто использует их как вьючных зверей.</AA_LetterBehemothPasses>
+  <HyperweaveDesc>Производство гиперткани</HyperweaveDesc>
+  <AA_UraniumCrystalsDesc>Отделение урановых кристаллов</AA_UraniumCrystalsDesc>
+  <StoneChunkDesc>Отделение случайного обломка породы</StoneChunkDesc>
+  <StoneBlockDesc>Отделение случайного каменного блока</StoneBlockDesc>
+  <MedicinalQuillDesc>Рост лечебных игл</MedicinalQuillDesc>
+  <DevilstrandDesc>Производство дьявлоткани</DevilstrandDesc>
+  <SynthreadDesc>Производство синткани</SynthreadDesc>
+  <AA_SeasonalWoolDesc>Производство шерсти яка-хамелеона</AA_SeasonalWoolDesc>
+  <BoomthreadDesc>Производство взрывонити</BoomthreadDesc>
+  <ChunkSlagSteelDesc>Отделение стального обломка</ChunkSlagSteelDesc>
+  <RawMushrooms>Рост съедобных грибов</RawMushrooms>
+  <AA_MealNutrientPaste>Производство питательной пасты</AA_MealNutrientPaste>
+  <AA_Wood>До «стрижки» деревьев</AA_Wood>
+  <AA_MutantImplantsDesc>До извлечения импланта</AA_MutantImplantsDesc>
+  <AA_CinderSilkDesc>Производство пеплошёлка</AA_CinderSilkDesc>
+  <AA_MothSilkDesc>Производство шёлка моли</AA_MothSilkDesc>
+  <AA_BlueGel>Производство синего геля</AA_BlueGel>
+  <AA_Luciferium>Производство люциферия</AA_Luciferium>
+  <AA_RandomItems>До сборки ресурса</AA_RandomItems>
+  <AA_HemogenPackDesc>До получения пакета гемогена</AA_HemogenPackDesc>
+  <VFEI2_BlackInsectJelly>Запас желе чёрного улья:</VFEI2_BlackInsectJelly>
+  <alternatePokemonGraphics>Милые текстуры некоторых животных от Roidgy</alternatePokemonGraphics>
+  <alternatePokemonGraphics_Desc>Включает альтернативные текстуры Roidgy для следующих животных: грибоход, грибобрюх, арктический лев, дрейк распада, пустынный цезарь, галлатросс, гигантелопа, землеход, червь-мамонт, мегавошь, грибной колосс, заросший колосс, радиак, песчаный лев и термадон.</alternatePokemonGraphics_Desc>
+  <allowVanillaAnimals>Разрешить животных базовой игры (только появление в природе)</allowVanillaAnimals>
+  <allowBlackHive>Разрешить нападения чёрного улья</allowBlackHive>
+  <allowStalkingLions>Разрешить охоту арктических львов на поселенцев</allowStalkingLions>
+  <allowCactipineDroppods>Разрешить капсулы с кактипинами</allowCactipineDroppods>
+  <allowSpiderClutchMothers>Разрешить появление паучьих маток</allowSpiderClutchMothers>
+  <allowAerofleet>Разрешить миграции колоссальных аэрофлитов</allowAerofleet>
+  <allowGallatross>Разрешить миграции галлатроссов</allowGallatross>
+  <allowSummitCrab>Разрешить появление горного краба</allowSummitCrab>
+  <allowBehemoth>Разрешить странствующих бегемотов</allowBehemoth>
+  <allowBumbledrones>Разрешить миграции маток дронов-шмелей</allowBumbledrones>
+  <allowFrostmiteCorpses>Разрешить морозным клещам самостоятельно выкапывать трупы</allowFrostmiteCorpses>
+  <allowAsteroids>Разрешить падение астероидов с арктурианскими небесными угрями</allowAsteroids>
+  <allowAlphaMechanoids>Разрешить механоидов Alpha в налётах, кластерах и других событиях</allowAlphaMechanoids>
+  <allowMechanoidSappers>Разрешить нападения механоидов-сапёров</allowMechanoidSappers>
+  <allowHelixienCorpseEffect>Разрешить эффект геликсиена (отключите при ошибках из-за других модов)</allowHelixienCorpseEffect>
+  <removeAnimalParticles>Убрать частицы животных</removeAnimalParticles>
+  <allowAnimalisk>Разрешить появление анималиска (требуется Royalty)</allowAnimalisk>
+  <allowMime>Разрешить событие присоединения мима</allowMime>
+  <allowFungalHusk>Разрешить нападения грибковых оболочек</allowFungalHusk>
+  <AA_AlphaAnimalSpawnMultiplier>Множитель частоты появления Alpha Animals</AA_AlphaAnimalSpawnMultiplier>
+  <AA_AlphaAnimalSpawnMultiplierTooltip>Меняет частоту появления ВСЕХ животных этого мода. Например, при 0,5 они будут появляться вдвое реже стандартного значения 1, а при 2 — вдвое чаще. Влияет только на появление диких животных.</AA_AlphaAnimalSpawnMultiplierTooltip>
+  <AA_Reset>Сбросить множитель</AA_Reset>
+  <AA_DisableAnimal>Отключить: {0}</AA_DisableAnimal>
+  <AA_PrimaryRole>Основная роль</AA_PrimaryRole>
+  <AA_SecondaryRole>Дополнительная роль</AA_SecondaryRole>
+  <AA_RangedAttacks>Атакует на расстоянии</AA_RangedAttacks>
+  <AA_Yes>Да</AA_Yes>
+  <AA_No>Нет</AA_No>
+  <AA_NoRanged>У этого животного нет дальнобойных атак. Для атаки его нужно обучить преданности и натравливанию, а затем назначить следовать за хозяином при призыве и/или работе. Кнопка «Натравить» на панели хозяина заставит животное атаковать в ближнем бою.</AA_NoRanged>
+  <AA_Ranged>Это животное атакует на расстоянии и переходит в ближний бой только вплотную к врагу. Для атаки его нужно обучить преданности и натравливанию, а затем назначить следовать за хозяином при призыве и/или работе. Кнопка «Натравить» на панели хозяина заставит животное искать подходящее укрытие и применять дальнобойную атаку.</AA_Ranged>
+  <AA_Tank>Тяжёлый боец</AA_Tank>
+  <AA_Artillery>Артиллерия</AA_Artillery>
+  <AA_ShockTroop>Штурмовик</AA_ShockTroop>
+  <AA_DOTShockTroop>Штурмовик с длительным уроном</AA_DOTShockTroop>
+  <AA_ParalyzingShockTroop>Парализующий штурмовик</AA_ParalyzingShockTroop>
+  <AA_InfectiousShockTroop>Заразный штурмовик</AA_InfectiousShockTroop>
+  <AA_PoisonShockTroop>Ядовитый штурмовик</AA_PoisonShockTroop>
+  <AA_FireyShockTroop>Огненный штурмовик</AA_FireyShockTroop>
+  <AA_EMPShockTroop>ЭМИ-штурмовик</AA_EMPShockTroop>
+  <AA_RegeneratingShockTroop>Регенерирующий штурмовик</AA_RegeneratingShockTroop>
+  <AA_AntiInsectoidShockTroop>Штурмовик против инсектоидов</AA_AntiInsectoidShockTroop>
+  <AA_ParalizingRanged>Парализующая дальнобойная атака</AA_ParalizingRanged>
+  <AA_DamageRanged>Дальнобойный боец</AA_DamageRanged>
+  <AA_DamageRangedPoison>Ядовитый дальнобойный боец</AA_DamageRangedPoison>
+  <AA_DamageRangedElectric>Электрический дальнобойный боец</AA_DamageRangedElectric>
+  <AA_DamageRangedFire>Огненный дальнобойный боец</AA_DamageRangedFire>
+  <AA_DamageRangedDOT>Дальнобойный боец с длительным уроном</AA_DamageRangedDOT>
+  <AA_Farm>Сельскохозяйственное животное</AA_Farm>
+  <AA_MountFast>Быстрое верховое животное</AA_MountFast>
+  <AA_MountArmoured>Бронированное верховое животное</AA_MountArmoured>
+  <AA_MountFastArmoured>Быстрое бронированное верховое животное</AA_MountFastArmoured>
+  <AA_Utility>Помощник</AA_Utility>
+  <AA_Boomer>Взрывающееся животное</AA_Boomer>
+  <AA_Larva>Личинка</AA_Larva>
+  <AA_PackAnimal>Вьючное животное</AA_PackAnimal>
+  <AA_Pest>Вредитель</AA_Pest>
+  <AA_Pet>Питомец</AA_Pet>
+  <AA_ArtilleryDesc>Атакует на расстоянии очень опасными взрывными атаками.</AA_ArtilleryDesc>
+  <AA_VenomousTankDesc>Тяжёлые бойцы специализируются на ближнем бою. Большой урон, прочность, запас здоровья или другие способности позволяют им выживать на передовой.
+
+Это животное также обладает мощными ядовитыми атаками.</AA_VenomousTankDesc>
+  <AA_ArmouredTankDesc>Тяжёлые бойцы специализируются на ближнем бою. Большой урон, прочность, запас здоровья или другие способности позволяют им выживать на передовой.</AA_ArmouredTankDesc>
+  <AA_ShockTroopDesc>Штурмовики отличаются высокой скоростью и особыми способностями, полезными в ближнем бою. Прочность и запас здоровья могут быть невелики, но при правильном применении эффект бывает сокрушительным.</AA_ShockTroopDesc>
+  <AA_EMPShockTroopDesc>Штурмовики отличаются высокой скоростью и особыми способностями, полезными в ближнем бою. Прочность и запас здоровья могут быть невелики, но при правильном применении эффект бывает сокрушительным.
+
+Обладает ЭМИ-атакой, наносящей дополнительный урон механоидам.</AA_EMPShockTroopDesc>
+  <AA_RegeneratingShockTroopDesc>Штурмовики отличаются высокой скоростью и особыми способностями, полезными в ближнем бою. Прочность и запас здоровья могут быть невелики, но при правильном применении эффект бывает сокрушительным.
+
+Восстанавливает здоровье, что повышает живучесть.</AA_RegeneratingShockTroopDesc>
+  <AA_ShockTroopDOTDesc>Штурмовики отличаются высокой скоростью и особыми способностями, полезными в ближнем бою. Прочность и запас здоровья могут быть невелики, но при правильном применении эффект бывает сокрушительным.
+
+Атака ближнего боя наносит длительный урон.</AA_ShockTroopDOTDesc>
+  <AA_PoisonShockTroopDesc>Штурмовики отличаются высокой скоростью и особыми способностями, полезными в ближнем бою. Прочность и запас здоровья могут быть невелики, но при правильном применении эффект бывает сокрушительным.
+
+Атака ближнего боя вызывает отравление токсинами.</AA_PoisonShockTroopDesc>
+  <AA_ParalyzingShockTroopDesc>Штурмовики отличаются высокой скоростью и особыми способностями, полезными в ближнем бою. Прочность и запас здоровья могут быть невелики, но при правильном применении эффект бывает сокрушительным.
+
+Обладает атаками, способными обездвиживать нападающих.</AA_ParalyzingShockTroopDesc>
+  <AA_FireyShockTroopDesc>Штурмовики отличаются высокой скоростью и особыми способностями, полезными в ближнем бою. Прочность и запас здоровья могут быть невелики, но при правильном применении эффект бывает сокрушительным.
+
+Обладает атаками, поджигающими врагов.</AA_FireyShockTroopDesc>
+  <AA_InfectiousShockTroopDesc>Штурмовики отличаются высокой скоростью и особыми способностями, полезными в ближнем бою. Прочность и запас здоровья могут быть невелики, но при правильном применении эффект бывает сокрушительным.
+
+Раны от его атак заражаются гораздо чаще обычного.</AA_InfectiousShockTroopDesc>
+  <AA_AntiInsectoidShockTroopDesc>Штурмовики отличаются высокой скоростью и особыми способностями, полезными в ближнем бою. Прочность и запас здоровья могут быть невелики, но при правильном применении эффект бывает сокрушительным.
+
+Раздирающие атаки наносят дополнительный урон инсектоидам.</AA_AntiInsectoidShockTroopDesc>
+  <AA_DamageRangedDesc>Поражает нападающих дальнобойными атаками. В ближнем бою, вероятно, менее полезно.</AA_DamageRangedDesc>
+  <AA_ParalyzingRangedDesc>Парализующими дальнобойными атаками обездвиживает нападающих. В ближнем бою, вероятно, менее полезно.</AA_ParalyzingRangedDesc>
+  <AA_DamageRangedFireDesc>Поражает нападающих дальнобойными атаками. Атаки поджигают врагов. В ближнем бою, вероятно, менее полезно.</AA_DamageRangedFireDesc>
+  <AA_DamageRangedDOTDesc>Поражает нападающих дальнобойными атаками. Атаки наносят длительный урон. В ближнем бою, вероятно, менее полезно.</AA_DamageRangedDOTDesc>
+  <AA_DamageRangedPoisonDesc>Поражает нападающих дальнобойными атаками. Атаки наносят токсический урон. В ближнем бою, вероятно, менее полезно.</AA_DamageRangedPoisonDesc>
+  <AA_DamageRangedElectricDesc>Поражает нападающих дальнобойными атаками. Атаки наносят электрический урон, способный вызвать сердечный приступ. В ближнем бою, вероятно, менее полезно.</AA_DamageRangedElectricDesc>
+  <AA_FarmMilkDesc>Сельскохозяйственное животное, дающее молоко.</AA_FarmMilkDesc>
+  <AA_FarmFoodDesc>Сельскохозяйственное животное, дающее пищу.</AA_FarmFoodDesc>
+  <AA_FarmWoolDesc>Сельскохозяйственное животное, дающее шерсть или другие текстильные материалы.</AA_FarmWoolDesc>
+  <AA_FarmChemfuelDesc>Сельскохозяйственное животное, дающее химтопливо.</AA_FarmChemfuelDesc>
+  <AA_FarmWoolAndMilkDesc>Сельскохозяйственное животное, дающее шерсть или другие текстильные материалы, а также молоко.</AA_FarmWoolAndMilkDesc>
+  <AA_FarmWoolAndEggsDesc>Сельскохозяйственное животное, дающее шерсть или другие текстильные материалы, а также яйца.</AA_FarmWoolAndEggsDesc>
+  <AA_FarmBuildingAndMilkDesc>Сельскохозяйственное животное, дающее строительные материалы и молоко.</AA_FarmBuildingAndMilkDesc>
+  <AA_FarmBuildingDesc>Сельскохозяйственное животное, дающее строительные материалы.</AA_FarmBuildingDesc>
+  <AA_FarmMedicineDesc>Сельскохозяйственное животное, дающее лекарства.</AA_FarmMedicineDesc>
+  <AA_FarmDrugsDesc>Сельскохозяйственное животное, дающее наркотики.</AA_FarmDrugsDesc>
+  <AA_FarmImplantsDesc>Сельскохозяйственное животное, дающее импланты.</AA_FarmImplantsDesc>
+  <AA_FarmRandomDesc>Сельскохозяйственное животное, дающее случайные предметы.</AA_FarmRandomDesc>
+  <AA_FarmBloodDesc>Сельскохозяйственное животное, дающее пакеты гемогена.</AA_FarmBloodDesc>
+  <AA_MountFastDesc>Поселенцы могут ездить на этом животном верхом, значительно повышая скорость передвижения. Животное также может сражаться в ближнем бою вместе со всадником. Вся эта механика доступна только с установленным Giddy Up! Если у вас его ещё нет, чего вы ждёте?</AA_MountFastDesc>
+  <AA_MountArmouredDesc>Поселенцы могут ездить на этом животном верхом, значительно усиливая защиту благодаря дополнительной броне. Животное также может сражаться в ближнем бою вместе со всадником. Вся эта механика доступна только с установленным Giddy Up! Если у вас его ещё нет, чего вы ждёте?</AA_MountArmouredDesc>
+  <AA_MountFastArmouredDesc>Поселенцы могут ездить на этом животном верхом, значительно повышая скорость передвижения и усиливая защиту благодаря дополнительной броне. Животное также может сражаться в ближнем бою вместе со всадником. Вся эта механика доступна только с установленным Giddy Up! Если у вас его ещё нет, чего вы ждёте?</AA_MountFastArmouredDesc>
+  <AA_UtilityMoodDesc>Физически слабое животное, непригодное для боя. Зато улучшает настроение поселенцев лаской или другими способностями.</AA_UtilityMoodDesc>
+  <AA_UtilityWorkerDesc>Физически слабое животное, непригодное для боя. Зато помогает поселенцам с отдельными задачами — добычей, сбором урожая, уборкой и другими — и значительно снижает их нагрузку.</AA_UtilityWorkerDesc>
+  <AA_UtilityBeautyDesc>Физически слабое животное, непригодное для боя. Зато повышает красоту колонии.</AA_UtilityBeautyDesc>
+  <AA_UtilityHealthDesc>Физически слабое животное, непригодное для боя. Зато помогает здоровью поселенцев: лечит раны или иначе укрепляет организм.</AA_UtilityHealthDesc>
+  <AA_UtilityTemperatureDesc>Физически слабое животное, непригодное для боя. Зато помогает регулировать температуру в колонии.</AA_UtilityTemperatureDesc>
+  <AA_UtilityPowerDesc>Физически слабое животное, непригодное для боя. Зато производит предметы, пригодные для строительства генераторов.</AA_UtilityPowerDesc>
+  <AA_UtilityRecycling>Физически слабое животное, непригодное для боя. Поедает текстиль, избавляя от ненужных вещей и помогая регулировать богатство колонии.</AA_UtilityRecycling>
+  <AA_UtilityRechargerDesc>Физически слабое животное, непригодное для боя. Периодически подзаряжает ближайшие аккумуляторы.</AA_UtilityRechargerDesc>
+  <AA_BoomerDesc>Взрывается при смерти.</AA_BoomerDesc>
+  <AA_LarvaDesc>Личиночная форма, непригодная для боя. Хорошо защищайте её, если хотите дождаться превращения во взрослую особь.</AA_LarvaDesc>
+  <AA_PackAnimalDesc>Вьючное животное. Может нести в караване больше веса, чем обычные животные.</AA_PackAnimalDesc>
+  <AA_PestDesc>Обычно считается вредителем и не приносит пользы колонии: либо только вредит, либо требует больше, чем даёт. Впрочем, возможно, вы найдёте ему особое применение!</AA_PestDesc>
+  <AA_PetDesc>Это питомец. Разве не прелесть?</AA_PetDesc>
+  <AA_OnlyBlackHive>Целью этой способности должно быть насекомое чёрного улья</AA_OnlyBlackHive>
+  <AA_OnlyOneHivePerMap>Можно построить только один вход в улей</AA_OnlyOneHivePerMap>
+  <AA_NoMoreLarvaeAllowed>Новые личинки не появятся: в колонии уже есть не менее 4 инсектоидов чёрного улья</AA_NoMoreLarvaeAllowed>
+  <AA_LarvaeTimeSpawn>До появления новых чёрных личинок: {0}</AA_LarvaeTimeSpawn>
+  <AA_HiveInvalidPosition>Здесь нельзя построить вход в улей</AA_HiveInvalidPosition>
+  <AA_CocoonInsectSpawnIn>До появления насекомого: {0}</AA_CocoonInsectSpawnIn>
+  <AA_PlantConversionRadius>Радиус преобразования растений</AA_PlantConversionRadius>
+  <AA_RadiusExpandRate>Скорость расширения</AA_RadiusExpandRate>
+  <AA_OnlyNumberAllowed>Допустимое количество на карте: {0}</AA_OnlyNumberAllowed>
+  <AA_MeleeWeaponNeeded>Нужно оружие ближнего боя</AA_MeleeWeaponNeeded>
+  <AA_PsychicSlice>Псионический разрез!</AA_PsychicSlice>
+  <AA_PsychicSliceFailed>Псионический разрез не удался</AA_PsychicSliceFailed>
+  <AA_ClawFrenzy>Бешенство когтей!</AA_ClawFrenzy>
+  <AA_ClawFrenzyFailed>Бешенство когтей не удалось</AA_ClawFrenzyFailed>
+  <AA_DisablingStrike>Обездвиживающий удар!</AA_DisablingStrike>
+  <AA_DisablingStrikeFailed>Обездвиживающий удар не удался</AA_DisablingStrikeFailed>
+  <AA_Skewer>Пронзание!</AA_Skewer>
+  <AA_SkewerFailed>Пронзание не удалось</AA_SkewerFailed>
+  <AA_Charge>Рывок!</AA_Charge>
+  <AA_ChargeFailed>Рывок не удался</AA_ChargeFailed>
+  <AA_ChargeAndSkewer>Рывок с пронзанием!</AA_ChargeAndSkewer>
+  <AA_ChargeAndSkewerFailed>Рывок с пронзанием не удался</AA_ChargeAndSkewerFailed>
+  <AA_EMPBlow>ЭМИ-удар!</AA_EMPBlow>
+  <AA_EMPBlowFailed>ЭМИ-удар не удался</AA_EMPBlowFailed>
+  <AA_SpinCut>Круговой разрез!</AA_SpinCut>
+  <AA_SpinCutFailed>Круговой разрез не удался</AA_SpinCutFailed>
+  <AA_LegSkip>Пси-подсечка!</AA_LegSkip>
+  <AA_LegSkipFailed>Пси-подсечка не удалась</AA_LegSkipFailed>
+  <AA_KO>Нокаут!</AA_KO>
+  <AA_KOFailed>Нокаут не удался</AA_KOFailed>
+</LanguageData>

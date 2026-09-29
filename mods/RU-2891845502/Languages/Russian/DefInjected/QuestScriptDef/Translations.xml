@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AG_OpportunitySite_AbandonedBiotechLab.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true)-&gt;Заброшенный радиомаяк передаёт слабый сигнал с координатами. Расшифровав его, мы обнаружили, что он ведёт к древней биотехнологической лаборатории неподалёку от [map_definite]. Возможно, там ещё сохранилось пригодное генетическое оборудование. Стоит проверить.
+
+Нужно хорошо подготовиться: сигнал маяка может привлечь к лаборатории врагов.</li>
+  </AG_OpportunitySite_AbandonedBiotechLab.questDescriptionRules.rulesStrings>
+  <AG_OpportunitySite_AbandonedBiotechLab.questNameRules.rulesStrings>
+    <li>questName(priority=1)-&gt;[discovered] [biotechlab]</li>
+    <li>biotechlab-&gt;биотехнологическая лаборатория</li>
+    <li>biotechlab-&gt;генетическая лаборатория</li>
+    <li>biotechlab-&gt;экспериментальная биолаборатория</li>
+    <li>biotechlab-&gt;лаборатория по изучению ксенотипов</li>
+    <li>biotechlab-&gt;лаборатория генетики человека</li>
+    <li>discovered-&gt;Обнаружена</li>
+    <li>discovered-&gt;Найдена</li>
+    <li>discovered-&gt;Отыскана</li>
+    <li>discovered-&gt;Обнаружена</li>
+    <li>discovered-&gt;Найдена</li>
+    <li>discovered-&gt;Отыскана</li>
+  </AG_OpportunitySite_AbandonedBiotechLab.questNameRules.rulesStrings>
+  <AG_OpportunitySite_AbandonedBiotechLab.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Срок задания истёк: [resolvedQuestName]</AG_OpportunitySite_AbandonedBiotechLab.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <AG_OpportunitySite_AbandonedBiotechLab.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Судя по перехваченным сообщениям, заброшенную биотехнологическую лабораторию уже обыскали другие. Срок задания «[resolvedQuestName]» истёк.</AG_OpportunitySite_AbandonedBiotechLab.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+</LanguageData>

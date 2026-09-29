@@ -1,0 +1,307 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFEPD_AncientBlastDoor.label>древняя бронированная дверь, закрытая</VFEPD_AncientBlastDoor.label>
+  <VFEPD_AncientBlastDoor.description>Наглухо закрытая особо прочная дверь из высокотехнологичного полимера.</VFEPD_AncientBlastDoor.description>
+  <VFEPD_AncientBlastDoor_Frame.label>древняя бронированная дверь, рама</VFEPD_AncientBlastDoor_Frame.label>
+  <VFEPD_AncientBlastDoor_Frame.description>Особо прочная дверная рама из высокотехнологичного полимера.</VFEPD_AncientBlastDoor_Frame.description>
+  <VFEPD_RubblePile.label>куча обломков</VFEPD_RubblePile.label>
+  <VFEPD_RubblePile.description>Обломки разрушенного древнего сооружения.</VFEPD_RubblePile.description>
+  <VFEPD_AncientExcavator.label>древний экскаватор</VFEPD_AncientExcavator.label>
+  <VFEPD_AncientExcavator.description>Остатки горной машины. Всё ценное давно растащили.</VFEPD_AncientExcavator.description>
+  <VFEPD_AncientDrillPlatform.label>древняя буровая установка</VFEPD_AncientDrillPlatform.label>
+  <VFEPD_AncientDrillPlatform.description>Устройство для глубокого бурения земли. Все ценные детали давно растащили.</VFEPD_AncientDrillPlatform.description>
+  <VFEPD_AncientTunnelerClaw.label>клешня древнего туннельщика</VFEPD_AncientTunnelerClaw.label>
+  <VFEPD_AncientTunnelerClaw.description>Клешня древнего шахтёрского механоида. Все детали пришли в полную негодность.</VFEPD_AncientTunnelerClaw.description>
+  <VFEPD_AncientTunnelerHusk.label>корпус древнего туннельщика</VFEPD_AncientTunnelerHusk.label>
+  <VFEPD_AncientTunnelerHusk.description>Остатки древнего шахтёрского механоида. Все сложные узлы пришли в полную негодность.</VFEPD_AncientTunnelerHusk.description>
+  <VFEPD_AncientSimpleResearchBench.label>древний исследовательский стол</VFEPD_AncientSimpleResearchBench.label>
+  <VFEPD_AncientSimpleResearchBench.description>Старый примитивный исследовательский стол с проржавевшими инструментами и выцветшими записями. Ничего ценного не осталось.</VFEPD_AncientSimpleResearchBench.description>
+  <VFEPD_AncientTableBrewery.label>древняя пивоварня</VFEPD_AncientTableBrewery.label>
+  <VFEPD_AncientTableBrewery.description>Обветшалый пивоваренный стол, некогда служивший для брожения. Оборудование безнадёжно проржавело.</VFEPD_AncientTableBrewery.description>
+  <VFEPD_AncientTableButcher.label>древний стол мясника</VFEPD_AncientTableButcher.label>
+  <VFEPD_AncientTableButcher.description>Сломанный стол мясника, покрытый старыми пятнами.</VFEPD_AncientTableButcher.description>
+  <VFEPD_AncientTableDrugLab.label>древняя нарколаборатория</VFEPD_AncientTableDrugLab.label>
+  <VFEPD_AncientTableDrugLab.description>Разваливающийся лабораторный стол с разбитой посудой. Оборудование непригодно к использованию и загрязнено.</VFEPD_AncientTableDrugLab.description>
+  <VFEPD_AncientSingleBed.label>ржавая кровать</VFEPD_AncientSingleBed.label>
+  <VFEPD_AncientSingleBed.description>Односпальная кровать с ржавым металлическим каркасом и рваным матрасом. Чуть лучше, чем спать на земле.</VFEPD_AncientSingleBed.description>
+  <VFEPD_AncientDoubleBed.label>ржавая двуспальная кровать</VFEPD_AncientDoubleBed.label>
+  <VFEPD_AncientDoubleBed.description>Двуспальная кровать со сломанными пружинами и изорванным матрасом. Уюта почти нет, но при крайней нужде здесь можно спать вдвоём.</VFEPD_AncientDoubleBed.description>
+  <VFEPD_AncientAmmoStack.label>древний ящик боеприпасов</VFEPD_AncientAmmoStack.label>
+  <VFEPD_AncientAmmoStack.description>Ящик для древних боеприпасов. Почти пуст; оставшиеся патроны проржавели и ни на что не годятся.</VFEPD_AncientAmmoStack.description>
+  <VFEPD_AncientAntenna.label>древняя антенна</VFEPD_AncientAntenna.label>
+  <VFEPD_AncientAntenna.description>Ржавая антенна, когда-то передававшая давно забытые сообщения.</VFEPD_AncientAntenna.description>
+  <VFEPD_AncientMilitaryGeneratorSmall.label>древний военный генератор</VFEPD_AncientMilitaryGeneratorSmall.label>
+  <VFEPD_AncientMilitaryGeneratorSmall.description>Небольшой ржавый генератор. Топливный бак пуст, двигатель не подлежит ремонту.</VFEPD_AncientMilitaryGeneratorSmall.description>
+  <VFEPD_AncientAutocannonTurret.label>сломанная автопушка</VFEPD_AncientAutocannonTurret.label>
+  <VFEPD_AncientAutocannonTurret.description>Турель с автоматической пушкой и разбитым стволом. Система наведения отсутствует, все компоненты проржавели и погнулись до полной негодности.</VFEPD_AncientAutocannonTurret.description>
+  <VFEPD_AncientUraniumSlugTurret.label>сломанная турель с урановыми снарядами</VFEPD_AncientUraniumSlugTurret.label>
+  <VFEPD_AncientUraniumSlugTurret.description>Тяжёлая турель, стрелявшая урановыми снарядами. Механизм разбит, боеприпасы закончились.</VFEPD_AncientUraniumSlugTurret.description>
+  <VFEPD_AncientMortar.label>разбитый миномёт</VFEPD_AncientMortar.label>
+  <VFEPD_AncientMortar.description>Разбитая миномётная установка. Она уничтожена и больше никогда не заработает.</VFEPD_AncientMortar.description>
+  <VFEPD_AncientMediumContainer.label>древний контейнер</VFEPD_AncientMediumContainer.label>
+  <VFEPD_AncientSmallContainer.label>древний контейнер</VFEPD_AncientSmallContainer.label>
+  <VFEPD_AncientMediumContainer.description>Ржавый грузовой контейнер. Совершенно пуст.</VFEPD_AncientMediumContainer.description>
+  <VFEPD_AncientSmallContainer.description>Ржавый грузовой контейнер. Совершенно пуст.</VFEPD_AncientSmallContainer.description>
+  <VFEPD_AncientOpenContainer.label>ржавый открытый контейнер</VFEPD_AncientOpenContainer.label>
+  <VFEPD_AncientOpenContainer.description>Ржавый грузовой контейнер. Его содержимое ничего не стоит.</VFEPD_AncientOpenContainer.description>
+  <VFEPD_AncientCratePallet.label>древний поддон для ящиков</VFEPD_AncientCratePallet.label>
+  <VFEPD_AncientCratePallet.description>Поддон для складывания и перевозки ящиков. Всё содержимое давно растащили.</VFEPD_AncientCratePallet.description>
+  <VFEPD_AncientWoodenCrate.label>старый деревянный ящик</VFEPD_AncientWoodenCrate.label>
+  <VFEPD_AncientWoodenCrate.description>Обветшалый деревянный ящик. Пустой, а древесина стала хрупкой.</VFEPD_AncientWoodenCrate.description>
+  <VFEPD_AncientCraneBase.label>разрушенное основание крана</VFEPD_AncientCraneBase.label>
+  <VFEPD_AncientCraneBase.description>Основание большого промышленного крана.</VFEPD_AncientCraneBase.description>
+  <VFEPD_AncientCraneArm.label>разрушенная стрела крана</VFEPD_AncientCraneArm.label>
+  <VFEPD_AncientCraneArmSmall.label>разрушенная стрела крана</VFEPD_AncientCraneArmSmall.label>
+  <VFEPD_AncientCraneArm.description>Ржавая стрела крана, искорёженная и сломанная.</VFEPD_AncientCraneArm.description>
+  <VFEPD_AncientCraneArmSmall.description>Небольшой обломок стрелы крана, переломленный и ржавый.</VFEPD_AncientCraneArmSmall.description>
+  <VFEPD_AncientCraneColumn.label>разрушенная колонна крана</VFEPD_AncientCraneColumn.label>
+  <VFEPD_AncientCraneColumn.description>Вертикальная опорная колонна разрушенного крана. Проржавела и потеряла устойчивость.</VFEPD_AncientCraneColumn.description>
+  <VFEPD_AncientForklift.label>разрушенный погрузчик</VFEPD_AncientForklift.label>
+  <VFEPD_AncientForklift.description>Сломанный вилочный погрузчик, ржавый и лишившийся части деталей. Повреждения слишком велики для ремонта.</VFEPD_AncientForklift.description>
+  <VFEPD_AncientIndustrialTruck.label>ржавый промышленный грузовик</VFEPD_AncientIndustrialTruck.label>
+  <VFEPD_AncientIndustrialTruck.description>Заброшенный промышленный грузовик, сильно изъеденный ржавчиной. Двигатель не подлежит ремонту.</VFEPD_AncientIndustrialTruck.description>
+  <VFEPD_AncientMetalCrate.label>ржавый металлический ящик</VFEPD_AncientMetalCrate.label>
+  <VFEPD_AncientMetalCrate.description>Металлический ящик с намертво приржавевшей крышкой. Пустой и бесполезный.</VFEPD_AncientMetalCrate.description>
+  <VFEPD_AncientCardboardBox.label>старая картонная коробка</VFEPD_AncientCardboardBox.label>
+  <VFEPD_AncientCardboardBox.description>Размокшая картонная коробка, набитая старым мусором.</VFEPD_AncientCardboardBox.description>
+  <VFEPD_AncientIndustrialShelf.label>древний промышленный стеллаж</VFEPD_AncientIndustrialShelf.label>
+  <VFEPD_AncientIndustrialShelf.description>Промышленный стеллаж, покрытый ржавчиной. Ничего ценного на нём нет.</VFEPD_AncientIndustrialShelf.description>
+  <VFEPD_AncientShelf.label>древний стеллаж</VFEPD_AncientShelf.label>
+  <VFEPD_AncientShelf.description>Древний стеллаж. На нём нет ничего интересного.</VFEPD_AncientShelf.description>
+  <VFEPD_AncientSmallShelf.label>древний малый стеллаж</VFEPD_AncientSmallShelf.label>
+  <VFEPD_AncientSmallShelf.description>Древний стеллаж. Ничего полезного на нём не осталось.</VFEPD_AncientSmallShelf.description>
+  <VFEPD_AncientDestroyedConsole.label>древняя разрушенная консоль</VFEPD_AncientDestroyedConsole.label>
+  <VFEPD_AncientDestroyedConsoleLarge.label>древняя разрушенная консоль</VFEPD_AncientDestroyedConsoleLarge.label>
+  <VFEPD_AncientDestroyedConsole.description>Разрушенная консоль, полностью вышедшая из строя. Все пригодные детали давно разбиты или растащены.</VFEPD_AncientDestroyedConsole.description>
+  <VFEPD_AncientDestroyedConsoleLarge.description>Разрушенная консоль, полностью вышедшая из строя. Все пригодные детали давно разбиты или растащены.</VFEPD_AncientDestroyedConsoleLarge.description>
+  <VFEPD_Pallet_Medicine.label>поддон с медикаментами</VFEPD_Pallet_Medicine.label>
+  <VFEPD_Pallet_Medicine.description>Поддон с муляжами медицинских принадлежностей.</VFEPD_Pallet_Medicine.description>
+  <VFEPD_Pallet_SurvivalMeals.label>поддон с сухпайками</VFEPD_Pallet_SurvivalMeals.label>
+  <VFEPD_Pallet_SurvivalMeals.description>Поддон с муляжами сухпайков.</VFEPD_Pallet_SurvivalMeals.description>
+  <VFEPD_AncientBox_ComponentIndustrial.label>ящик с компонентами</VFEPD_AncientBox_ComponentIndustrial.label>
+  <VFEPD_AncientBox_ComponentIndustrial.description>Ящик с муляжами компонентов.</VFEPD_AncientBox_ComponentIndustrial.description>
+  <VFEPD_AncientBox_ComponentSpacer.label>ящик с продвинутыми компонентами</VFEPD_AncientBox_ComponentSpacer.label>
+  <VFEPD_AncientBox_ComponentSpacer.description>Ящик с муляжами продвинутых компонентов.</VFEPD_AncientBox_ComponentSpacer.description>
+  <VFEPD_AncientBox_SteelSlag.label>ящик со стальным ломом</VFEPD_AncientBox_SteelSlag.label>
+  <VFEPD_AncientBox_SteelSlag.description>Ящик, наполненный имитацией стального лома. Тяжёлый.</VFEPD_AncientBox_SteelSlag.description>
+  <VFEPD_MalfunctioningTransportPod.label>неисправная транспортная капсула</VFEPD_MalfunctioningTransportPod.label>
+  <VFEPD_MalfunctioningTransportPod.description>Грузовая капсула со сломанным механизмом открывания. Всё ещё закрыта и пуста.</VFEPD_MalfunctioningTransportPod.description>
+  <VFEPD_AncientChemfuelCanister.label>канистра для химтоплива</VFEPD_AncientChemfuelCanister.label>
+  <VFEPD_AncientChemfuelCanister.description>Закрытая канистра для химтоплива. Она пуста.</VFEPD_AncientChemfuelCanister.description>
+  <VFEPD_AncientSafe.label>ржавый сейф</VFEPD_AncientSafe.label>
+  <VFEPD_AncientSafe.description>Запертый сейф. Сильно проржавел и пуст.</VFEPD_AncientSafe.description>
+  <VFEPD_AncientPallet_SteelSlag.label>поддон со стальным ломом</VFEPD_AncientPallet_SteelSlag.label>
+  <VFEPD_AncientPallet_SteelSlag.description>Поддон с имитацией стального лома.</VFEPD_AncientPallet_SteelSlag.description>
+  <VFEPD_AncientSealedCrate.label>закрытый ящик</VFEPD_AncientSealedCrate.label>
+  <VFEPD_AncientSealedCrate.description>Небольшой ящик, который всё ещё закрыт.</VFEPD_AncientSealedCrate.description>
+  <VFEPD_AncientSealedCrate_Open.label>открытый ящик</VFEPD_AncientSealedCrate_Open.label>
+  <VFEPD_AncientSealedCrate_Open.description>Небольшой ящик.</VFEPD_AncientSealedCrate_Open.description>
+  <VFEPD_AncientSealedContainer.label>закрытый контейнер</VFEPD_AncientSealedContainer.label>
+  <VFEPD_AncientSealedContainer.description>Небольшой контейнер, который всё ещё закрыт.</VFEPD_AncientSealedContainer.description>
+  <VFEPD_AncientSealedContainer_Open.label>открытый контейнер</VFEPD_AncientSealedContainer_Open.label>
+  <VFEPD_AncientSealedContainer_Open.description>Небольшой контейнер.</VFEPD_AncientSealedContainer_Open.description>
+  <VFEPD_ShipChunk_Mech.label>обломок корабля механоидов</VFEPD_ShipChunk_Mech.label>
+  <VFEPD_ShipChunk_Mech.description>Обломок космического корабля механоидов из стальных и гравилитовых панелей. Похоже, его оторвало при неуправляемом входе в атмосферу или попадании какого-то оружия.</VFEPD_ShipChunk_Mech.description>
+  <VFEPD_GravEngine_Prop.label>гравидвигатель</VFEPD_GravEngine_Prop.label>
+  <VFEPD_GravEngine_Prop.description>Высокотехнологичное сердце гравикорабля. Создаёт подъёмную силу, обращая и усиливая гравитацию в окружающем поле. При ближайшем рассмотрении оказывается сделанным из картона.</VFEPD_GravEngine_Prop.description>
+  <VFEPD_GravFieldExtender_Prop.label>расширитель гравитационного поля</VFEPD_GravFieldExtender_Prop.label>
+  <VFEPD_GravFieldExtender_Prop.description>Расширяет область строительства надстройки и увеличивает её допустимый размер. Этот расширитель, похоже, совершенно не работает.</VFEPD_GravFieldExtender_Prop.description>
+  <VFEPD_PilotConsole_Prop.label>пульт пилота</VFEPD_PilotConsole_Prop.label>
+  <VFEPD_PilotConsole_Prop.description>Интерфейс для взлёта и управления гравикораблём. Этот пульт, похоже, совершенно не работает.</VFEPD_PilotConsole_Prop.description>
+  <VFEPD_ChemfuelTank_Prop.label>малый бак для химтоплива</VFEPD_ChemfuelTank_Prop.label>
+  <VFEPD_ChemfuelTank_Prop.description>Бак для хранения химтоплива, питающего ускорители гравикорабля. Этот бак, похоже, совершенно не работает.</VFEPD_ChemfuelTank_Prop.description>
+  <VFEPD_LargeChemfuelTank_Prop.label>большой бак для химтоплива</VFEPD_LargeChemfuelTank_Prop.label>
+  <VFEPD_LargeChemfuelTank_Prop.description>Огромный бак для хранения химтоплива, питающего ускорители гравикорабля. Этот бак, похоже, совершенно не работает.</VFEPD_LargeChemfuelTank_Prop.description>
+  <VFEPD_SmallThruster_Prop.label>малый ускоритель</VFEPD_SmallThruster_Prop.label>
+  <VFEPD_SmallThruster_Prop.description>Ускоритель на химтопливе, увеличивающий дальность полёта гравикорабля. Этот ускоритель, похоже, совершенно не работает.</VFEPD_SmallThruster_Prop.description>
+  <VFEPD_LargeThruster_Prop.label>большой ускоритель</VFEPD_LargeThruster_Prop.label>
+  <VFEPD_LargeThruster_Prop.description>Усовершенствованный ускоритель на химтопливе, значительно увеличивающий дальность полёта гравикорабля. Этот ускоритель, похоже, совершенно не работает.</VFEPD_LargeThruster_Prop.description>
+  <VFEPD_FuelOptimizer_Prop.label>оптимизатор топлива</VFEPD_FuelOptimizer_Prop.label>
+  <VFEPD_FuelOptimizer_Prop.description>Гравитехнологическое устройство, снижающее расход топлива при полёте гравикорабля. Этот оптимизатор, похоже, совершенно не работает.</VFEPD_FuelOptimizer_Prop.description>
+  <VFEPD_SignalJammer_Prop.label>глушитель сигналов</VFEPD_SignalJammer_Prop.label>
+  <VFEPD_SignalJammer_Prop.description>Излучатель, маскирующий электромагнитную сигнатуру гравикорабля. Этот излучатель, похоже, совершенно не работает.</VFEPD_SignalJammer_Prop.description>
+  <VFEPD_GravcorePowerCell_Prop.label>энергоячейка гравиядра</VFEPD_GravcorePowerCell_Prop.label>
+  <VFEPD_GravcorePowerCell_Prop.description>Генератор, извлекающий энергию из гравитационных волн, проходящих через гравикорабль. Этот генератор, похоже, совершенно не работает.</VFEPD_GravcorePowerCell_Prop.description>
+  <VFEPD_PilotSubpersonaCore_Prop.label>ядро субперсоны пилота</VFEPD_PilotSubpersonaCore_Prop.label>
+  <VFEPD_PilotSubpersonaCore_Prop.description>Примитивная субперсона, специализирующаяся на управлении гравикораблём. У этой есть доступ только к ChatGPT, поэтому она глупее комментатора модов в Steam.</VFEPD_PilotSubpersonaCore_Prop.description>
+  <VFEPD_GravshipShieldGenerator_Prop.label>генератор щита гравикорабля</VFEPD_GravshipShieldGenerator_Prop.label>
+  <VFEPD_GravshipShieldGenerator_Prop.description>Создаёт недолговечную поверхность, отталкивающую снаряды. Этот генератор, похоже, совершенно не работает.</VFEPD_GravshipShieldGenerator_Prop.description>
+  <VFEPD_GravAnchor_Prop.label>гравиякорь</VFEPD_GravAnchor_Prop.label>
+  <VFEPD_GravAnchor_Prop.description>Сохраняет локальную карту при взлёте гравикорабля. Этот якорь, похоже, совершенно не работает.</VFEPD_GravAnchor_Prop.description>
+  <VFEPD_MechStabilizer.label>стабилизатор ретранслятора</VFEPD_MechStabilizer.label>
+  <VFEPD_MechStabilizer.description>Генератор щита, защищающий ближайший ретранслятор механоидов. Этот совершенно не работает.</VFEPD_MechStabilizer.description>
+  <VFEPD_MechRelay.label>ретранслятор механоидов</VFEPD_MechRelay.label>
+  <VFEPD_MechRelay.description>Узел, координирующий сигналы в планетарной сети связи механоидов. Этот совершенно не работает.</VFEPD_MechRelay.description>
+  <VFEPD_MechRelay_Crashed.label>рухнувший ретранслятор механоидов</VFEPD_MechRelay_Crashed.label>
+  <VFEPD_MechRelay_Crashed.description>Узел, координирующий сигналы в планетарной сети связи механоидов. Разрушен.</VFEPD_MechRelay_Crashed.description>
+  <VFEPD_AncientGravReactor.label>древний гравитационный реактор</VFEPD_AncientGravReactor.label>
+  <VFEPD_AncientGravReactor.description>Древний генератор, работающий от гравиядра. Когда-то вырабатывал огромное количество энергии, но теперь пришёл в негодность.</VFEPD_AncientGravReactor.description>
+  <VFEPD_AncientGravEngine.label>древний гравидвигатель</VFEPD_AncientGravEngine.label>
+  <VFEPD_AncientGravEngine.description>Высокотехнологичный двигатель для вывода крупных сооружений и кораблей на орбиту. Не работает уже много лет.</VFEPD_AncientGravEngine.description>
+  <VFEPD_AncientMiningCharge.label>древний шахтный заряд</VFEPD_AncientMiningCharge.label>
+  <VFEPD_AncientMiningCharge.description>Взрывное устройство из очищенного химтоплива для быстрого разрушения горной породы. Взрывчатка старая и неактивная.</VFEPD_AncientMiningCharge.description>
+  <VFEPD_AncientExplosivesCrate.label>древний ящик взрывчатки</VFEPD_AncientExplosivesCrate.label>
+  <VFEPD_AncientExplosivesCrate.description>Ящик с древними шахтными зарядами. Неактивны.</VFEPD_AncientExplosivesCrate.description>
+  <VFEPD_EggSac.label>яйцевой мешок</VFEPD_EggSac.label>
+  <VFEPD_EggSac.description>Склизкий мешок для личинки насекомого. Этот пуст.</VFEPD_EggSac.description>
+  <VFEPD_CocoonLocust.label>кокон саранчи</VFEPD_CocoonLocust.label>
+  <VFEPD_CocoonLocust.description>Стазисный кокон для саранчи. Этот пуст.</VFEPD_CocoonLocust.description>
+  <VFEPD_AncientTransportPod.label>древняя транспортная капсула</VFEPD_AncientTransportPod.label>
+  <VFEPD_AncientTransportPod.description>Древняя грузовая капсула для перевозки людей, животных и предметов. Не работает.</VFEPD_AncientTransportPod.description>
+  <VFEPD_AncientHatch.label>древний вход на склад</VFEPD_AncientHatch.label>
+  <VFEPD_AncientHatch.description>Вход в давно заброшенный подземный комплекс. Наглухо закрыт.</VFEPD_AncientHatch.description>
+  <VFEPD_MechanoidDropPod.label>десантная капсула механоидов</VFEPD_MechanoidDropPod.label>
+  <VFEPD_MechanoidDropPod.description>Запускаемая грузовая капсула для перевозки механоидов. Не работает.</VFEPD_MechanoidDropPod.description>
+  <VFEPD_AncientTerraformer.label>древний терраформер</VFEPD_AncientTerraformer.label>
+  <VFEPD_AncientTerraformer.description>Древнее устройство для терраформирования, работающее от гравиядра. Неактивно.</VFEPD_AncientTerraformer.description>
+  <VFEPD_CerebrexCore.label>ядро церебрекса</VFEPD_CerebrexCore.label>
+  <VFEPD_CerebrexCore.description>Мыслящий разум роя механоидов. Работает на Linux.</VFEPD_CerebrexCore.description>
+  <VFEPD_CerebrexCore_Destroyed.label>уничтоженное ядро церебрекса</VFEPD_CerebrexCore_Destroyed.label>
+  <VFEPD_CerebrexCore_Destroyed.description>Разбитый нейронный узел роя, когда-то командовавший механоидами по всей планете.</VFEPD_CerebrexCore_Destroyed.description>
+  <VFEPD_CerebrexStabilizer.label>стабилизатор церебрекса</VFEPD_CerebrexStabilizer.label>
+  <VFEPD_CerebrexStabilizer.description>Дистанционный генератор щита, делающий ближайшее ядро церебрекса почти неуязвимым. Вернее, делал бы, если бы не был бутафорским.</VFEPD_CerebrexStabilizer.description>
+  <VFEPD_MechanoidProcessor.label>процессор механоидов</VFEPD_MechanoidProcessor.label>
+  <VFEPD_MechanoidProcessor.description>Мощный компьютер механоидов под управлением Windows 98.</VFEPD_MechanoidProcessor.description>
+  <VFEPD_PassengerShuttle.label>пассажирский челнок</VFEPD_PassengerShuttle.label>
+  <VFEPD_PassengerShuttle.description>Челнок на химтопливе для дальних перелётов. Этот отказывается заводиться.</VFEPD_PassengerShuttle.description>
+  <VFEPD_MechPylon.label>мех-маятник</VFEPD_MechPylon.label>
+  <VFEPD_MechPylon.description>Узел распределённой вычислительной сети механоидов.</VFEPD_MechPylon.description>
+  <VFEPD_SurveyScanner.label>сканер местности</VFEPD_SurveyScanner.label>
+  <VFEPD_SurveyScanner.description>Декоративная копия широкополосного сканера для обнаружения и нанесения на карту различных особенностей окружающей местности. Этот экземпляр не работает.</VFEPD_SurveyScanner.description>
+  <VFEPD_AncientUplink.label>древний канал связи</VFEPD_AncientUplink.label>
+  <VFEPD_AncientUplink.description>Древний передатчик для защищённой связи между поверхностью и орбитой.</VFEPD_AncientUplink.description>
+  <VFEPD_GaussCannon.label>гаусс-пушка</VFEPD_GaussCannon.label>
+  <VFEPD_GaussCannon.description>Огромная противокорабельная пушка, электромагнитами разгоняющая крупные металлические дротики до чудовищной скорости. Пиу-пиу.</VFEPD_GaussCannon.description>
+  <VFEPD_AnticraftBeam.label>противокорабельный луч</VFEPD_AnticraftBeam.label>
+  <VFEPD_AnticraftBeam.description>Огромное противокорабельное лучевое оружие. Пиу-пиу.</VFEPD_AnticraftBeam.description>
+  <VFEPD_MechhiveAssembler.label>сборщик мехроя</VFEPD_MechhiveAssembler.label>
+  <VFEPD_MechhiveAssembler.description>Декоративная копия автоматизированного завода, который периодически создаёт новых механоидов. Этот экземпляр ничего не производит.</VFEPD_MechhiveAssembler.description>
+  <VFEPD_InsectLairEntrance.label>вход в пещеру</VFEPD_InsectLairEntrance.label>
+  <VFEPD_InsectLairEntrance.description>Вход в сеть пещер. Кажется, он просто нарисован на полу.</VFEPD_InsectLairEntrance.description>
+  <VFEPD_GeothermalVent.label>серный источник</VFEPD_GeothermalVent.label>
+  <VFEPD_GeothermalVent.description>Естественная трещина в земле, из которой выходят вулканические газы. Такие источники выносят питательные вещества из недр на поверхность. Вместе они выбрасывают достаточно испарений, чтобы заслонить солнце.</VFEPD_GeothermalVent.description>
+  <VFEPD_AncientSmokeVent.label>древняя дымовая шахта</VFEPD_AncientSmokeVent.label>
+  <VFEPD_AncientSmokeVent.description>Вытяжная шахта давно забытого подземного мегасооружения. Навсегда отключена.</VFEPD_AncientSmokeVent.description>
+  <VFEPD_AncientToxVent.label>древний газоотвод</VFEPD_AncientToxVent.label>
+  <VFEPD_AncientToxVent.description>Огромный канал, выводивший ядовитые испарения из подземного мегасооружения. Навсегда отключён.</VFEPD_AncientToxVent.description>
+  <VFEPD_AncientHeatVent.label>древняя тепловая шахта</VFEPD_AncientHeatVent.label>
+  <VFEPD_AncientHeatVent.description>Огромная шахта, уходящая в бездонную глубину. Навсегда отключена.</VFEPD_AncientHeatVent.description>
+  <VFEPD_AncientEmergencyLight_Red.label>древний аварийный светильник</VFEPD_AncientEmergencyLight_Red.label>
+  <VFEPD_AncientEmergencyLight_Red.description>Древний светильник с долговечной батареей. Не работает.</VFEPD_AncientEmergencyLight_Red.description>
+  <VFEPD_LifeSupportUnit.label>блок жизнеобеспечения</VFEPD_LifeSupportUnit.label>
+  <VFEPD_LifeSupportUnit.description>Декоративная копия блока общей сети жизнеобеспечения орбитальной платформы. Настоящий блок обогревает помещения и поддерживает в них давление; этот экземпляр не работает.</VFEPD_LifeSupportUnit.description>
+  <VFEPD_OrbitalScanner.label>орбитальный сканер</VFEPD_OrbitalScanner.label>
+  <VFEPD_OrbitalScanner.description>Датчик, пассивно сканирующий орбиту планеты в поисках необычных объектов. Неактивен.</VFEPD_OrbitalScanner.description>
+  <VFEPD_OxygenPump.label>кислородный насос</VFEPD_OxygenPump.label>
+  <VFEPD_OxygenPump.description>Небольшое настенное устройство, которое ничего не делает.</VFEPD_OxygenPump.description>
+  <VFEPD_HunterDroneTrap.label>охотничья ловушка</VFEPD_HunterDroneTrap.label>
+  <VFEPD_HunterDroneTrap.description>Спящая и неактивная ловушка с дроном-охотником.</VFEPD_HunterDroneTrap.description>
+  <VFEPD_WaspDroneTrap.label>осиная ловушка</VFEPD_WaspDroneTrap.label>
+  <VFEPD_WaspDroneTrap.description>Несколько спящих и неактивных дронов-ос.</VFEPD_WaspDroneTrap.description>
+  <VFEPD_AncientTableMachining.label>древний станок</VFEPD_AncientTableMachining.label>
+  <VFEPD_AncientTableMachining.description>Ржавый механический станок, заваленный мусором. Все полезные детали растащили.</VFEPD_AncientTableMachining.description>
+  <VFEPD_AncientTableSmithingFueled.label>древняя топливная кузница</VFEPD_AncientTableSmithingFueled.label>
+  <VFEPD_AncientTableSmithingFueled.description>Древняя кузница, когда-то сжигавшая топливо для работы. Теперь она покрыта сажей и ржавчиной.</VFEPD_AncientTableSmithingFueled.description>
+  <VFEPD_AncientTableSmithingElectric.label>древняя электрическая кузница</VFEPD_AncientTableSmithingElectric.label>
+  <VFEPD_AncientTableSmithingElectric.description>Разрушенная электрическая кузница с обтрёпанными проводами и обгоревшими поверхностями. Не подлежит ремонту.</VFEPD_AncientTableSmithingElectric.description>
+  <VFEPD_AncientTableStoveElectric.label>древняя электроплита</VFEPD_AncientTableStoveElectric.label>
+  <VFEPD_AncientTableStoveElectric.description>Старая электроплита с разбитыми нагревательными элементами. Слишком сильно повреждена для использования.</VFEPD_AncientTableStoveElectric.description>
+  <VFEPD_AncientTableStoveFueled.label>древняя топливная плита</VFEPD_AncientTableStoveFueled.label>
+  <VFEPD_AncientTableStoveFueled.description>Ржавая кухонная плита. Совершенно непригодна к использованию.</VFEPD_AncientTableStoveFueled.description>
+  <VFEPD_AncientTableTailorElectric.label>древний электрический портняжный стол</VFEPD_AncientTableTailorElectric.label>
+  <VFEPD_AncientTableTailorElectric.description>Разрушенный портняжный стол с рваной тканью и сломанными инструментами. Спасать здесь уже нечего.</VFEPD_AncientTableTailorElectric.description>
+  <VFEPD_AncientTableTailorHand.label>древний ручной портняжный стол</VFEPD_AncientTableTailorHand.label>
+  <VFEPD_AncientTableTailorHand.description>Простой портняжный стол с расщеплённой древесиной и ржавыми иглами. Ничего полезного не осталось.</VFEPD_AncientTableTailorHand.description>
+  <VFEPD_AncientWindTurbineBody.label>древний ветрогенератор</VFEPD_AncientWindTurbineBody.label>
+  <VFEPD_AncientWindTurbineBody.description>Опрокинутый ветрогенератор со сломанными лопастями. Все полезные детали давно растащили.</VFEPD_AncientWindTurbineBody.description>
+  <VFEPD_AncientBarrierLong.label>большое бетонное заграждение</VFEPD_AncientBarrierLong.label>
+  <VFEPD_AncientBarrierLong.description>Бетонное заграждение для перекрытия проезда транспорту.</VFEPD_AncientBarrierLong.description>
+  <VFEPD_AncientMilitaryBarrier.label>древнее военное заграждение</VFEPD_AncientMilitaryBarrier.label>
+  <VFEPD_AncientMilitaryBarrier.description>Бетонное заграждение, когда-то использовавшееся на военных блокпостах.</VFEPD_AncientMilitaryBarrier.description>
+  <VFEPD_AncientChembarrel.label>древняя бочка химтоплива</VFEPD_AncientChembarrel.label>
+  <VFEPD_AncientChembarrel.description>Ржавая бочка, в которой когда-то хранили химтопливо. Пустая и изъеденная коррозией.</VFEPD_AncientChembarrel.description>
+  <VFEPD_AncientChembarrelPallet.label>древний поддон с бочками химтоплива</VFEPD_AncientChembarrelPallet.label>
+  <VFEPD_AncientChembarrelPallet.description>Ржавые бочки на сгнившем поддоне. Всё ценное топливо давно вытекло.</VFEPD_AncientChembarrelPallet.description>
+  <VFEPD_AncientChemtruck.label>древний топливозаправщик</VFEPD_AncientChemtruck.label>
+  <VFEPD_AncientChemtruck.description>Заброшенный грузовик для перевозки химтоплива. Все пригодные детали давно растащили.</VFEPD_AncientChemtruck.description>
+  <VFEPD_AncientArmchair.label>древнее кресло</VFEPD_AncientArmchair.label>
+  <VFEPD_AncientArmchair.description>Выцветшее и рваное кресло. В нынешнем состоянии непригодно к использованию.</VFEPD_AncientArmchair.description>
+  <VFEPD_AncientPlantPot.label>древний цветочный горшок</VFEPD_AncientPlantPot.label>
+  <VFEPD_AncientPlantPot.description>Большой треснувший горшок с мёртвой почвой. Здесь больше ничего не вырастет.</VFEPD_AncientPlantPot.description>
+  <VFEPD_AncientTV.label>разбитый телевизор</VFEPD_AncientTV.label>
+  <VFEPD_AncientTV.description>Разбитый телевизор. Экран уничтожен, электроника выдрана.</VFEPD_AncientTV.description>
+  <VFEPD_AncientBathtub.label>треснувшая ванна</VFEPD_AncientBathtub.label>
+  <VFEPD_AncientBathtub.description>Ванна с глубокими трещинами и пятнами ржавчины. Совершенно непригодна к использованию.</VFEPD_AncientBathtub.description>
+  <VFEPD_AncientShower.label>треснувшая душевая кабина</VFEPD_AncientShower.label>
+  <VFEPD_AncientShower.description>Сломанная душевая кабина. Трубы проржавели, керамика разбита.</VFEPD_AncientShower.description>
+  <VFEPD_AncientFilingCabinet.label>ржавая картотека</VFEPD_AncientFilingCabinet.label>
+  <VFEPD_AncientFilingCabinet.description>Проржавевший картотечный шкаф. Внутри не осталось ничего полезного.</VFEPD_AncientFilingCabinet.description>
+  <VFEPD_AncientColdStorage.label>древняя холодильная камера</VFEPD_AncientColdStorage.label>
+  <VFEPD_AncientColdStorage.description>Старая холодильная камера с намертво приржавевшей дверью. Всё содержимое давно истлело в прах.</VFEPD_AncientColdStorage.description>
+  <VFEPD_AncientLockers.label>ржавые шкафчики</VFEPD_AncientLockers.label>
+  <VFEPD_AncientLockers.description>Ряд металлических шкафчиков, сильно проржавевших и погнутых. Их обчистили полностью.</VFEPD_AncientLockers.description>
+  <VFEPD_AncientRustedMicrowave.label>ржавая микроволновка</VFEPD_AncientRustedMicrowave.label>
+  <VFEPD_AncientRustedMicrowave.description>Древняя микроволновая печь, покрытая ржавчиной. Не подлежит ремонту.</VFEPD_AncientRustedMicrowave.description>
+  <VFEPD_AncientPipes_Odyssey.label>древняя труба</VFEPD_AncientPipes_Odyssey.label>
+  <VFEPD_AncientPipes_Odyssey.description>Стальные трубы. По ним ничего не поступает.</VFEPD_AncientPipes_Odyssey.description>
+  <VFEPD_Filth_ChippedIce.label>ледяная крошка</VFEPD_Filth_ChippedIce.label>
+  <VFEPD_Filth_ChippedIce.description>Куча ледяной крошки.</VFEPD_Filth_ChippedIce.description>
+  <VFEPD_Filth_VolcanicAsh.label>вулканический пепел</VFEPD_Filth_VolcanicAsh.label>
+  <VFEPD_Filth_VolcanicAsh.description>Куча вулканического пепла.</VFEPD_Filth_VolcanicAsh.description>
+  <VFEPD_ArcheanTree.label>архейское дерево</VFEPD_ArcheanTree.label>
+  <VFEPD_ArcheanTree.description>Имитация дерева, биоинженерными методами созданного для терраформирования мёртвых миров и молодых миров окраин. Неработающий муляж.</VFEPD_ArcheanTree.description>
+  <VFEPD_Plant_Reeds.label>камыш</VFEPD_Plant_Reeds.label>
+  <VFEPD_Plant_Reeds.description>Искусственная копия высокого тонкого растения, растущего в воде.</VFEPD_Plant_Reeds.description>
+  <VFEPD_Plant_LilyPad.label>кувшинка</VFEPD_Plant_LilyPad.label>
+  <VFEPD_Plant_LilyPad.description>Искусственное водное растение с широким плавающим листом.</VFEPD_Plant_LilyPad.description>
+  <VFEPD_Plant_Bulrush.label>рогоз</VFEPD_Plant_Bulrush.label>
+  <VFEPD_Plant_Bulrush.description>Искусственная копия болотного растения, узнаваемого по коричневому соцветию в форме сигары.</VFEPD_Plant_Bulrush.description>
+  <VFEPD_Plant_Lotus.label>лотос</VFEPD_Plant_Lotus.label>
+  <VFEPD_Plant_Lotus.description>Искусственная копия водного растения, известного своими душистыми цветками.</VFEPD_Plant_Lotus.description>
+  <VFEPD_Plant_Thornvine.label>шиполоза</VFEPD_Plant_Thornvine.label>
+  <VFEPD_Plant_Thornvine.description>Искусственная колючая лоза, приспособленная к суровым условиям.
+
+Это неживой муляж, не выполняющий никаких биологических функций.</VFEPD_Plant_Thornvine.description>
+  <VFEPD_Plant_TreeSnagroot.label>коряга</VFEPD_Plant_TreeSnagroot.label>
+  <VFEPD_Plant_TreeSnagroot.description>Искусственное узловатое медленно растущее дерево, приспособленное к токсичным пустошам.
+
+Это неживой муляж, не выполняющий никаких биологических функций.</VFEPD_Plant_TreeSnagroot.description>
+  <VFEPD_Plant_MagmaCactus.label>магмовый кактус</VFEPD_Plant_MagmaCactus.label>
+  <VFEPD_Plant_MagmaCactus.description>Искусственная копия выносливого кактуса, способного переносить сильнейшую жару.
+
+Это неживой муляж, не выполняющий никаких биологических функций.</VFEPD_Plant_MagmaCactus.description>
+  <VFEPD_Plant_Nightgrass.label>ночная трава</VFEPD_Plant_Nightgrass.label>
+  <VFEPD_Plant_Nightgrass.description>Искусственная копия травоподобного гриба, растущего как часть огромной сети грибницы.
+
+Это неживой муляж, не выполняющий никаких биологических функций.</VFEPD_Plant_Nightgrass.description>
+  <VFEPD_Boomshroom.label>бум-гриб</VFEPD_Boomshroom.label>
+  <VFEPD_Boomshroom.description>Эти грибы вырабатывают летучие химические вещества для защиты. Из них можно собирать химтопливо, но делать это нужно крайне осторожно: при уничтожении грибы способны взорваться.
+
+Исследователи миров-утопий использовали генетический материал бум-грибов для создания нескольких видов животных, вырабатывающих химтопливо.
+
+Этот экземпляр — неживой муляж, не выполняющий никаких биологических функций.</VFEPD_Boomshroom.description>
+  <VFEPD_Plant_Psilocap.label>псилошляпка</VFEPD_Plant_Psilocap.label>
+  <VFEPD_Plant_Psilocap.description>Гриб, испускающий галлюциногенные споры. Достаточно постоять рядом, чтобы появились лёгкие галлюцинации. Собранные псилошляпки можно съесть, чтобы испытать яркие ощущения и улучшить настроение.
+
+Этот экземпляр — неживой муляж, не выполняющий никаких биологических функций.</VFEPD_Plant_Psilocap.description>
+  <VFEPD_Plant_Willowgill.label>ивожабра</VFEPD_Plant_Willowgill.label>
+  <VFEPD_Plant_Willowgill.description>Высокий тонкий медленно растущий гриб с пластинками, свисающими подобно ветвям ивы. Испускает мягкое свечение.
+
+Этот экземпляр — неживой муляж, не выполняющий никаких биологических функций.</VFEPD_Plant_Willowgill.description>
+  <VFEPD_Plant_NightRafflesia.label>ночная раффлезия</VFEPD_Plant_NightRafflesia.label>
+  <VFEPD_Plant_NightRafflesia.description>Дальняя родственница гигантской раффлезии, приспособившаяся к тёмным местам. Её красоту омрачает сильный запах мускуса и тухлых яиц.
+
+Этот экземпляр — неживой муляж, не выполняющий никаких биологических функций.</VFEPD_Plant_NightRafflesia.description>
+  <VFEPD_Plant_YellowGrass.label>жёлтая трава</VFEPD_Plant_YellowGrass.label>
+  <VFEPD_Plant_YellowGrass.description>Дикая трава. Растёт везде, где есть немного света и хотя бы минимально плодородная почва.
+
+Это неживой муляж, не выполняющий никаких биологических функций.</VFEPD_Plant_YellowGrass.description>
+  <VFEPD_Plant_YellowTallGrass.label>высокая жёлтая трава</VFEPD_Plant_YellowTallGrass.label>
+  <VFEPD_Plant_YellowTallGrass.description>Дикая высокая трава, образующая жёсткие заросли и замедляющая движение через них.
+
+Это неживой муляж, не выполняющий никаких биологических функций.</VFEPD_Plant_YellowTallGrass.description>
+  <VFEPD_Plant_Fireweed.label>огневик</VFEPD_Plant_Fireweed.label>
+  <VFEPD_Plant_Fireweed.description>Низкорослое растение с соцветиями фиолетовых цветков. Часто встречается в высокогорье.
+
+Это неживой муляж, не выполняющий никаких биологических функций.</VFEPD_Plant_Fireweed.description>
+</LanguageData>

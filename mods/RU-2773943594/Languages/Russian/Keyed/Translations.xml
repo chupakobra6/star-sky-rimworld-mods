@@ -1,0 +1,226 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <GeologicalLandforms.Editor.Open>Открыть</GeologicalLandforms.Editor.Open>
+  <GeologicalLandforms.Editor.Open.Tooltip>Выбрать форму рельефа для редактирования</GeologicalLandforms.Editor.Open.Tooltip>
+  <GeologicalLandforms.Editor.Reset>Сбросить</GeologicalLandforms.Editor.Reset>
+  <GeologicalLandforms.Editor.Reset.Long>Восстановить исходную форму рельефа</GeologicalLandforms.Editor.Reset.Long>
+  <GeologicalLandforms.Editor.Reset.Tooltip>Восстановить исходные настройки этой формы рельефа</GeologicalLandforms.Editor.Reset.Tooltip>
+  <GeologicalLandforms.Editor.Copy>Копировать</GeologicalLandforms.Editor.Copy>
+  <GeologicalLandforms.Editor.Copy.Long>Создать копию этой формы рельефа</GeologicalLandforms.Editor.Copy.Long>
+  <GeologicalLandforms.Editor.Copy.Tooltip>Создать собственную форму рельефа на основе выбранной</GeologicalLandforms.Editor.Copy.Tooltip>
+  <GeologicalLandforms.Editor.Delete>Удалить</GeologicalLandforms.Editor.Delete>
+  <GeologicalLandforms.Editor.Delete.Long>Удалить эту пользовательскую форму рельефа</GeologicalLandforms.Editor.Delete.Long>
+  <GeologicalLandforms.Editor.Delete.Tooltip>Удалить выбранную пользовательскую форму рельефа</GeologicalLandforms.Editor.Delete.Tooltip>
+  <GeologicalLandforms.Editor.Tools>Инструменты</GeologicalLandforms.Editor.Tools>
+  <GeologicalLandforms.Editor.Tools.ForModDevs>Для разработчиков модов</GeologicalLandforms.Editor.Tools.ForModDevs>
+  <GeologicalLandforms.Editor.SaveInMod>Сохранить изменения в моде «{0}»</GeologicalLandforms.Editor.SaveInMod>
+  <GeologicalLandforms.Editor.SaveInMod.Success>Изменения сохранены в файле «{0}».</GeologicalLandforms.Editor.SaveInMod.Success>
+  <GeologicalLandforms.Editor.SaveInMod.NoChanges>Новых изменений для сохранения нет.</GeologicalLandforms.Editor.SaveInMod.NoChanges>
+  <GeologicalLandforms.Editor.SaveInMod.Error>Не удалось сохранить изменения в файле «{0}».</GeologicalLandforms.Editor.SaveInMod.Error>
+  <GeologicalLandforms.Editor.ConfirmReset>Восстановить исходные настройки выбранной формы рельефа?</GeologicalLandforms.Editor.ConfirmReset>
+  <GeologicalLandforms.Editor.ConfirmDelete>Удалить выбранную пользовательскую форму рельефа? Восстановить её будет нельзя!</GeologicalLandforms.Editor.ConfirmDelete>
+  <GeologicalLandforms.Editor.ConfirmSaveInMod>Эта форма рельефа добавлена модом «{0}». Обычно её изменения сохраняются в вашей папке настроек, а исходный файл в папке мода остаётся нетронутым. Поэтому обновление мода, например через Steam, не перезаписывает ваши изменения.\n\nЕсли вы разрабатываете мод «{0}», изменения можно записать в исходный файл, чтобы затем зафиксировать их в Git или включить в обновление мода. Сохранить изменения в исходном файле мода?</GeologicalLandforms.Editor.ConfirmSaveInMod>
+  <GeologicalLandforms.Settings.Landform.Id>Идентификатор</GeologicalLandforms.Settings.Landform.Id>
+  <GeologicalLandforms.Settings.Landform.DisplayName>Отображаемое название</GeologicalLandforms.Settings.Landform.DisplayName>
+  <GeologicalLandforms.Settings.Landform.DisplayNameHasDirection>Показывать направление</GeologicalLandforms.Settings.Landform.DisplayNameHasDirection>
+  <GeologicalLandforms.Settings.Landform.Topology>Топология</GeologicalLandforms.Settings.Landform.Topology>
+  <GeologicalLandforms.Settings.Landform.AllowedBiomes>Биом</GeologicalLandforms.Settings.Landform.AllowedBiomes>
+  <GeologicalLandforms.Settings.Landform.AllowedBiomes.Some>(выбрано биомов: {0})</GeologicalLandforms.Settings.Landform.AllowedBiomes.Some>
+  <GeologicalLandforms.Settings.Landform.WorldObjectNearby>Объекты на карте мира поблизости</GeologicalLandforms.Settings.Landform.WorldObjectNearby>
+  <GeologicalLandforms.Settings.Landform.WorldObjectNearby.Some>(объектов на карте мира: {0})</GeologicalLandforms.Settings.Landform.WorldObjectNearby.Some>
+  <GeologicalLandforms.Settings.Landform.AllowedRiverTypes>Форма реки</GeologicalLandforms.Settings.Landform.AllowedRiverTypes>
+  <GeologicalLandforms.Settings.Landform.AllowedRiverTypes.Some>(выбрано форм: {0})</GeologicalLandforms.Settings.Landform.AllowedRiverTypes.Some>
+  <GeologicalLandforms.Settings.Landform.Commonness>Распространённость</GeologicalLandforms.Settings.Landform.Commonness>
+  <GeologicalLandforms.Settings.Landform.HillinessRequirement>Холмистость</GeologicalLandforms.Settings.Landform.HillinessRequirement>
+  <GeologicalLandforms.Settings.Landform.RoadRequirement>Дорога</GeologicalLandforms.Settings.Landform.RoadRequirement>
+  <GeologicalLandforms.Settings.Landform.RiverRequirement>Река</GeologicalLandforms.Settings.Landform.RiverRequirement>
+  <GeologicalLandforms.Settings.Landform.RiverOrRoadRequirement>Река или дорога</GeologicalLandforms.Settings.Landform.RiverOrRoadRequirement>
+  <GeologicalLandforms.Settings.Landform.ElevationRequirement>Высота над уровнем моря</GeologicalLandforms.Settings.Landform.ElevationRequirement>
+  <GeologicalLandforms.Settings.Landform.AvgTemperatureRequirement>Средняя температура</GeologicalLandforms.Settings.Landform.AvgTemperatureRequirement>
+  <GeologicalLandforms.Settings.Landform.RainfallRequirement>Осадки</GeologicalLandforms.Settings.Landform.RainfallRequirement>
+  <GeologicalLandforms.Settings.Landform.SwampinessRequirement>Болотистость</GeologicalLandforms.Settings.Landform.SwampinessRequirement>
+  <GeologicalLandforms.Settings.Landform.BiomeTransitionsRequirement>Соседние биомы</GeologicalLandforms.Settings.Landform.BiomeTransitionsRequirement>
+  <GeologicalLandforms.Settings.Landform.TopologyValueRequirement>Значение топологии</GeologicalLandforms.Settings.Landform.TopologyValueRequirement>
+  <GeologicalLandforms.Settings.Landform.DepthInCaveSystemRequirement>Глубина пещерной системы</GeologicalLandforms.Settings.Landform.DepthInCaveSystemRequirement>
+  <GeologicalLandforms.Settings.Landform.AddRequirement>Добавить требование</GeologicalLandforms.Settings.Landform.AddRequirement>
+  <GeologicalLandforms.Settings.Landform.AllowSettlements>Разрешить поселения других фракций</GeologicalLandforms.Settings.Landform.AllowSettlements>
+  <GeologicalLandforms.Settings.Landform.AllowSites>Разрешить места заданий</GeologicalLandforms.Settings.Landform.AllowSites>
+  <GeologicalLandforms.Settings.Landform.CaveChance>Вероятность пещер</GeologicalLandforms.Settings.Landform.CaveChance>
+  <GeologicalLandforms.Settings.Landform.AllowCaves>Разрешить пещеры</GeologicalLandforms.Settings.Landform.AllowCaves>
+  <GeologicalLandforms.Settings.Landform.RequireCaves>Обязательное наличие пещер</GeologicalLandforms.Settings.Landform.RequireCaves>
+  <GeologicalLandforms.Settings.Landform.Priority>Приоритет</GeologicalLandforms.Settings.Landform.Priority>
+  <GeologicalLandforms.Settings.Landform.LayerId>Слой</GeologicalLandforms.Settings.Landform.LayerId>
+  <GeologicalLandforms.Settings.Landform.WorldTileGraphic.AtlasSize>Размер атласа</GeologicalLandforms.Settings.Landform.WorldTileGraphic.AtlasSize>
+  <GeologicalLandforms.Settings.Landform.WorldTileGraphic.TexPath>Путь к текстуре</GeologicalLandforms.Settings.Landform.WorldTileGraphic.TexPath>
+  <GeologicalLandforms.Settings.Landform.WorldTileGraphic.DrawMode>Режим отрисовки</GeologicalLandforms.Settings.Landform.WorldTileGraphic.DrawMode>
+  <GeologicalLandforms.Settings.Landform.WorldTileGraphic.DrawMode.HexRandom>Шестиугольник: случайный</GeologicalLandforms.Settings.Landform.WorldTileGraphic.DrawMode.HexRandom>
+  <GeologicalLandforms.Settings.Landform.WorldTileGraphic.DrawMode.HexAdjacency>Шестиугольник: по соседним участкам</GeologicalLandforms.Settings.Landform.WorldTileGraphic.DrawMode.HexAdjacency>
+  <GeologicalLandforms.Settings.Landform.WorldTileGraphic.DrawMode.HexAdjacencyCaves>Шестиугольник: по соседним пещерам</GeologicalLandforms.Settings.Landform.WorldTileGraphic.DrawMode.HexAdjacencyCaves>
+  <GeologicalLandforms.Settings.Landform.WorldTileGraphic.DrawMode.QuadRandom>Четырёхугольник: случайный</GeologicalLandforms.Settings.Landform.WorldTileGraphic.DrawMode.QuadRandom>
+  <GeologicalLandforms.Settings.Landform.WorldTileGraphic.DrawMode.QuadStatic>Четырёхугольник: фиксированный</GeologicalLandforms.Settings.Landform.WorldTileGraphic.DrawMode.QuadStatic>
+  <GeologicalLandforms.Settings.Landform.Topology.Any>Любая</GeologicalLandforms.Settings.Landform.Topology.Any>
+  <GeologicalLandforms.Settings.Landform.Topology.Inland>Внутри суши</GeologicalLandforms.Settings.Landform.Topology.Inland>
+  <GeologicalLandforms.Settings.Landform.Topology.CoastOneSide>Берег с одной стороны</GeologicalLandforms.Settings.Landform.Topology.CoastOneSide>
+  <GeologicalLandforms.Settings.Landform.Topology.CoastTwoSides>Берег с двух смежных сторон</GeologicalLandforms.Settings.Landform.Topology.CoastTwoSides>
+  <GeologicalLandforms.Settings.Landform.Topology.CoastLandbridge>Берег с двух противоположных сторон</GeologicalLandforms.Settings.Landform.Topology.CoastLandbridge>
+  <GeologicalLandforms.Settings.Landform.Topology.CoastThreeSides>Берег с трёх сторон</GeologicalLandforms.Settings.Landform.Topology.CoastThreeSides>
+  <GeologicalLandforms.Settings.Landform.Topology.CoastAllSides>Берег со всех сторон</GeologicalLandforms.Settings.Landform.Topology.CoastAllSides>
+  <GeologicalLandforms.Settings.Landform.Topology.CliffOneSide>Утёс с одной стороны</GeologicalLandforms.Settings.Landform.Topology.CliffOneSide>
+  <GeologicalLandforms.Settings.Landform.Topology.CliffTwoSides>Утёс с двух смежных сторон</GeologicalLandforms.Settings.Landform.Topology.CliffTwoSides>
+  <GeologicalLandforms.Settings.Landform.Topology.CliffValley>Утёс с двух противоположных сторон</GeologicalLandforms.Settings.Landform.Topology.CliffValley>
+  <GeologicalLandforms.Settings.Landform.Topology.CliffThreeSides>Утёс с трёх сторон</GeologicalLandforms.Settings.Landform.Topology.CliffThreeSides>
+  <GeologicalLandforms.Settings.Landform.Topology.CliffAllSides>Утёс со всех сторон</GeologicalLandforms.Settings.Landform.Topology.CliffAllSides>
+  <GeologicalLandforms.Settings.Landform.Topology.CliffAndCoast>Утёс и берег</GeologicalLandforms.Settings.Landform.Topology.CliffAndCoast>
+  <GeologicalLandforms.Settings.Landform.Topology.CaveEntrance>Вход в пещерную систему</GeologicalLandforms.Settings.Landform.Topology.CaveEntrance>
+  <GeologicalLandforms.Settings.Landform.Topology.CaveTunnel>Туннель пещерной системы</GeologicalLandforms.Settings.Landform.Topology.CaveTunnel>
+  <GeologicalLandforms.Settings.Landform.Topology.Ocean>Океан</GeologicalLandforms.Settings.Landform.Topology.Ocean>
+  <GeologicalLandforms.LandformManager.LandformUpgrade>Для некоторых изменённых вами форм рельефа доступны новые версии. Заменить старые формы новыми или сохранить ваши изменения?\n\nЗатронутые формы рельефа: </GeologicalLandforms.LandformManager.LandformUpgrade>
+  <GeologicalLandforms.LandformManager.LandformUpgradeYes>Заменить новыми</GeologicalLandforms.LandformManager.LandformUpgradeYes>
+  <GeologicalLandforms.LandformManager.LandformUpgradeNo>Сохранить изменённые</GeologicalLandforms.LandformManager.LandformUpgradeNo>
+  <GeologicalLandforms.WorldMap.Landform>Форма рельефа</GeologicalLandforms.WorldMap.Landform>
+  <GeologicalLandforms.WorldMap.BorderingBiomes>Соседние биомы</GeologicalLandforms.WorldMap.BorderingBiomes>
+  <GeologicalLandforms.WorldMap.SelectLandform>Выбрать форму рельефа</GeologicalLandforms.WorldMap.SelectLandform>
+  <GeologicalLandforms.WorldParams.Mountains>Горы</GeologicalLandforms.WorldParams.Mountains>
+  <GeologicalLandforms.WorldParams.CaveSystems>Пещерные системы</GeologicalLandforms.WorldParams.CaveSystems>
+  <GeologicalLandforms.Rot4.0>север</GeologicalLandforms.Rot4.0>
+  <GeologicalLandforms.Rot4.1>восток</GeologicalLandforms.Rot4.1>
+  <GeologicalLandforms.Rot4.2>юг</GeologicalLandforms.Rot4.2>
+  <GeologicalLandforms.Rot4.3>запад</GeologicalLandforms.Rot4.3>
+  <GeologicalLandforms.Rot4.Double.0>северо-восток</GeologicalLandforms.Rot4.Double.0>
+  <GeologicalLandforms.Rot4.Double.1>юго-восток</GeologicalLandforms.Rot4.Double.1>
+  <GeologicalLandforms.Rot4.Double.2>юго-запад</GeologicalLandforms.Rot4.Double.2>
+  <GeologicalLandforms.Rot4.Double.3>северо-запад</GeologicalLandforms.Rot4.Double.3>
+  <GeologicalLandforms.Landform.Corner>(угловой вариант)</GeologicalLandforms.Landform.Corner>
+  <GeologicalLandforms.Integration.PrepareLanding.Title>Geological Landforms</GeologicalLandforms.Integration.PrepareLanding.Title>
+  <GeologicalLandforms.Integration.MapDesigner.RiverCardOverride>Заменять реки и побережья Geological Landforms</GeologicalLandforms.Integration.MapDesigner.RiverCardOverride>
+  <GeologicalLandforms.Settings.Tab.General>Общие</GeologicalLandforms.Settings.Tab.General>
+  <GeologicalLandforms.Settings.Tab.Landforms>Особенности карты</GeologicalLandforms.Settings.Tab.Landforms>
+  <GeologicalLandforms.Settings.Tab.BiomeConfig>Настройка биомов</GeologicalLandforms.Settings.Tab.BiomeConfig>
+  <GeologicalLandforms.Settings.Tab.BiomeVariants>Варианты биомов</GeologicalLandforms.Settings.Tab.BiomeVariants>
+  <GeologicalLandforms.Settings.Tab.Debug>Отладка</GeologicalLandforms.Settings.Tab.Debug>
+  <GeologicalLandforms.Settings.MaxLandformSearchRadius>Максимальный радиус поиска особенностей на карте мира</GeologicalLandforms.Settings.MaxLandformSearchRadius>
+  <GeologicalLandforms.Settings.AnimalDensityFactorForSecludedAreas>Количество животных в изолированных местах: островах, фьордах и т. п.</GeologicalLandforms.Settings.AnimalDensityFactorForSecludedAreas>
+  <GeologicalLandforms.Settings.EnableCellFinderOptimization>Оптимизировать поиск клеток карты</GeologicalLandforms.Settings.EnableCellFinderOptimization>
+  <GeologicalLandforms.Settings.ShowTileMutatorContentSourceLabel>Показывать источник особенностей карты</GeologicalLandforms.Settings.ShowTileMutatorContentSourceLabel>
+  <GeologicalLandforms.Settings.EnableLandformScaling>Масштабировать формы рельефа под размер карты</GeologicalLandforms.Settings.EnableLandformScaling>
+  <GeologicalLandforms.Settings.EnableExperimentalLandforms>Включить экспериментальные формы рельефа</GeologicalLandforms.Settings.EnableExperimentalLandforms>
+  <GeologicalLandforms.Settings.EnableGodMode>Режим бога: разрешить ручное размещение форм рельефа</GeologicalLandforms.Settings.EnableGodMode>
+  <GeologicalLandforms.Settings.OpenEditor>Открыть редактор форм рельефа</GeologicalLandforms.Settings.OpenEditor>
+  <GeologicalLandforms.Settings.ResetAll>Восстановить все исходные настройки</GeologicalLandforms.Settings.ResetAll>
+  <GeologicalLandforms.Settings.OpenDataDir>Открыть папку пользовательских форм рельефа</GeologicalLandforms.Settings.OpenDataDir>
+  <GeologicalLandforms.Settings.ConfirmResetAll>Восстановить исходные настройки мода, включая все формы рельефа? Все созданные вами пользовательские формы будут безвозвратно удалены!</GeologicalLandforms.Settings.ConfirmResetAll>
+  <GeologicalLandforms.Settings.Landforms.Custom>пользовательская</GeologicalLandforms.Settings.Landforms.Custom>
+  <GeologicalLandforms.Settings.Landforms.Experimental>экспериментальная</GeologicalLandforms.Settings.Landforms.Experimental>
+  <GeologicalLandforms.Settings.Landforms.DefinedInMod>из мода {0}</GeologicalLandforms.Settings.Landforms.DefinedInMod>
+  <GeologicalLandforms.Settings.Landforms.ZeroCommonness>неверные настройки: распространённость равна 0</GeologicalLandforms.Settings.Landforms.ZeroCommonness>
+  <GeologicalLandforms.Settings.Landforms.ReplacesVanillaCliff>заменяет обычный утёс</GeologicalLandforms.Settings.Landforms.ReplacesVanillaCliff>
+  <GeologicalLandforms.Settings.Landforms.ReplacesVanillaCoast>заменяет обычное побережье</GeologicalLandforms.Settings.Landforms.ReplacesVanillaCoast>
+  <GeologicalLandforms.Settings.Landforms.ReplacesVanillaRiver>заменяет обычную реку</GeologicalLandforms.Settings.Landforms.ReplacesVanillaRiver>
+  <GeologicalLandforms.Settings.Landforms.ReplacesMutator>заменяет особенность «{0}» (источник: {1})</GeologicalLandforms.Settings.Landforms.ReplacesMutator>
+  <GeologicalLandforms.Settings.Landforms.MadeObsoleteByMutator>устарела: её заменяет особенность «{0}» из {1}</GeologicalLandforms.Settings.Landforms.MadeObsoleteByMutator>
+  <GeologicalLandforms.Settings.BiomeConfig.Header>Укажите для каждого биома, разрешены ли в нём формы рельефа (LF) и переходы между биомами (MB):</GeologicalLandforms.Settings.BiomeConfig.Header>
+  <GeologicalLandforms.Settings.BiomeConfig.ExcludedByAuthor>задано автором</GeologicalLandforms.Settings.BiomeConfig.ExcludedByAuthor>
+  <GeologicalLandforms.Settings.Landforms.Subheader.GeologicalLandforms>Geological Landforms</GeologicalLandforms.Settings.Landforms.Subheader.GeologicalLandforms>
+  <GeologicalLandforms.Settings.Landforms.ExclusionToLandform>Включённая форма рельефа «{0}» несовместима с особенностью карты «{1}» из {2}. Эта особенность из {2} автоматически отключена.</GeologicalLandforms.Settings.Landforms.ExclusionToLandform>
+  <GeologicalLandforms.Settings.Landforms.ExclusionToMutator>Включённая особенность карты «{1}» из {2} несовместима с формой рельефа «{0}». Форма «{0}» автоматически отключена.</GeologicalLandforms.Settings.Landforms.ExclusionToMutator>
+  <GeologicalLandforms.Settings.Debug.ShowWorldTileDebugInfo>Показывать подробные сведения для отладки</GeologicalLandforms.Settings.Debug.ShowWorldTileDebugInfo>
+  <GeologicalLandforms.Settings.Debug.UnidirectionalBiomeTransitions>Использовать односторонний алгоритм перехода биомов (экспериментальный)</GeologicalLandforms.Settings.Debug.UnidirectionalBiomeTransitions>
+  <GeologicalLandforms.Settings.Debug.DisableBiomeTransitionPostProcessing>Отключить постобработку переходов биомов</GeologicalLandforms.Settings.Debug.DisableBiomeTransitionPostProcessing>
+  <GeologicalLandforms.Settings.Debug.BiomeGridEnabledForCurrentMap>Сетка биомов включена на текущей карте</GeologicalLandforms.Settings.Debug.BiomeGridEnabledForCurrentMap>
+  <GeologicalLandforms.Settings.Debug.IgnoreWorldTileReqInGodMode>Игнорировать требования к участкам карты мира (небезопасно)</GeologicalLandforms.Settings.Debug.IgnoreWorldTileReqInGodMode>
+  <GeologicalLandforms.Settings.Debug.ReplaceStoneOnCurrentMap>Заменить весь камень на текущей карте</GeologicalLandforms.Settings.Debug.ReplaceStoneOnCurrentMap>
+  <GeologicalLandforms.Settings.Debug.SetTerrainInArea>Задать поверхность в области</GeologicalLandforms.Settings.Debug.SetTerrainInArea>
+  <GeologicalLandforms.Settings.Debug.RefreshWorldTileData>Обновить все участки карты мира</GeologicalLandforms.Settings.Debug.RefreshWorldTileData>
+  <GeologicalLandforms.Settings.Debug.RefreshWorldTileDataForced>Принудительно обновить все участки карты мира</GeologicalLandforms.Settings.Debug.RefreshWorldTileDataForced>
+  <GeologicalLandforms.Settings.Debug.BiomeGridEntriesHeader>Записи сетки биомов</GeologicalLandforms.Settings.Debug.BiomeGridEntriesHeader>
+  <GeologicalLandforms.Settings.Debug.WholeMapDesiredPlants>Общая ёмкость растительной экосистемы</GeologicalLandforms.Settings.Debug.WholeMapDesiredPlants>
+  <GeologicalLandforms.Settings.Debug.OpenGroundFactor>Коэффициент открытой местности</GeologicalLandforms.Settings.Debug.OpenGroundFactor>
+  <GeologicalLandforms.Settings.Debug.AnimalDensityFactor>Коэффициент плотности животных</GeologicalLandforms.Settings.Debug.AnimalDensityFactor>
+  <GeologicalLandforms.Settings.Debug.DevQuickTestOverrideEnabled>Изменять генерацию карты быстрого отладочного запуска</GeologicalLandforms.Settings.Debug.DevQuickTestOverrideEnabled>
+  <GeologicalLandforms.Settings.Debug.DevQuickTestOverrideLandform>Форма рельефа тестовой карты</GeologicalLandforms.Settings.Debug.DevQuickTestOverrideLandform>
+  <GeologicalLandforms.Settings.Debug.DevQuickTestOverrideBiome>Биом тестовой карты</GeologicalLandforms.Settings.Debug.DevQuickTestOverrideBiome>
+  <GeologicalLandforms.Settings.Debug.DevQuickTestOverrideMapSize>Размер тестовой карты</GeologicalLandforms.Settings.Debug.DevQuickTestOverrideMapSize>
+  <GeologicalLandforms.Settings.Debug.BiomeGridEntryAddShort>+</GeologicalLandforms.Settings.Debug.BiomeGridEntryAddShort>
+  <GeologicalLandforms.Settings.Debug.BiomeGridEntryRemoveShort>-</GeologicalLandforms.Settings.Debug.BiomeGridEntryRemoveShort>
+  <GeologicalLandforms.Settings.Debug.BiomeGridEntryExportToAreasShort>Э</GeologicalLandforms.Settings.Debug.BiomeGridEntryExportToAreasShort>
+  <GeologicalLandforms.Settings.Debug.BiomeGridEntrySetBaseShort>Б</GeologicalLandforms.Settings.Debug.BiomeGridEntrySetBaseShort>
+  <GeologicalLandforms.Settings.Debug.BiomeGridEntryInfoShort>И</GeologicalLandforms.Settings.Debug.BiomeGridEntryInfoShort>
+  <GeologicalLandforms.Settings.Debug.BiomeGridEntryAddVariantShort>В+</GeologicalLandforms.Settings.Debug.BiomeGridEntryAddVariantShort>
+  <GeologicalLandforms.Settings.Debug.BiomeGridEntryRemoveVariantShort>В−</GeologicalLandforms.Settings.Debug.BiomeGridEntryRemoveVariantShort>
+  <GeologicalLandforms.Settings.Debug.BiomeGridEntrySetFromAreaShort>З</GeologicalLandforms.Settings.Debug.BiomeGridEntrySetFromAreaShort>
+  <GeologicalLandforms.Settings.Debug.BiomeGridEntryRegenerateAllShort>П</GeologicalLandforms.Settings.Debug.BiomeGridEntryRegenerateAllShort>
+  <GeologicalLandforms.Settings.Debug.BiomeGridEntryAdd>Добавить запись</GeologicalLandforms.Settings.Debug.BiomeGridEntryAdd>
+  <GeologicalLandforms.Settings.Debug.BiomeGridEntryRemove>Удалить запись</GeologicalLandforms.Settings.Debug.BiomeGridEntryRemove>
+  <GeologicalLandforms.Settings.Debug.BiomeGridEntryExportToAreas>Перенести все записи в области карты</GeologicalLandforms.Settings.Debug.BiomeGridEntryExportToAreas>
+  <GeologicalLandforms.Settings.Debug.BiomeGridEntrySetBase>Установить основной биом</GeologicalLandforms.Settings.Debug.BiomeGridEntrySetBase>
+  <GeologicalLandforms.Settings.Debug.BiomeGridEntryInfo>Показать сведения</GeologicalLandforms.Settings.Debug.BiomeGridEntryInfo>
+  <GeologicalLandforms.Settings.Debug.BiomeGridEntryAddVariant>Добавить вариант</GeologicalLandforms.Settings.Debug.BiomeGridEntryAddVariant>
+  <GeologicalLandforms.Settings.Debug.BiomeGridEntryRemoveVariant>Удалить вариант</GeologicalLandforms.Settings.Debug.BiomeGridEntryRemoveVariant>
+  <GeologicalLandforms.Settings.Debug.BiomeGridEntrySetFromArea>Задать клетки по области карты</GeologicalLandforms.Settings.Debug.BiomeGridEntrySetFromArea>
+  <GeologicalLandforms.Settings.Debug.BiomeGridEntryRegenerateAll>Восстановить по участку карты мира</GeologicalLandforms.Settings.Debug.BiomeGridEntryRegenerateAll>
+  <GeologicalLandforms.Settings.Debug.BiomeGridDetails.PotentialPlants>Распространённость растений</GeologicalLandforms.Settings.Debug.BiomeGridDetails.PotentialPlants>
+  <GeologicalLandforms.Settings.Debug.BiomeGridDetails.PotentialAnimals>Распространённость животных</GeologicalLandforms.Settings.Debug.BiomeGridDetails.PotentialAnimals>
+  <GeologicalLandforms.WorldMap.Topology>Топология</GeologicalLandforms.WorldMap.Topology>
+  <GeologicalLandforms.WorldMap.TopologyDirection>Направление топологии</GeologicalLandforms.WorldMap.TopologyDirection>
+  <GeologicalLandforms.WorldMap.Swampiness>Болотистость</GeologicalLandforms.WorldMap.Swampiness>
+  <GeologicalLandforms.WorldMap.RiverWidth>Ширина реки</GeologicalLandforms.WorldMap.RiverWidth>
+  <GeologicalLandforms.WorldMap.RiverAngle>Угол поворота реки</GeologicalLandforms.WorldMap.RiverAngle>
+  <GeologicalLandforms.WorldMap.MainRoadMultiplier>Множитель основной дороги</GeologicalLandforms.WorldMap.MainRoadMultiplier>
+  <GeologicalLandforms.WorldMap.MainRoadAngle>Угол поворота основной дороги</GeologicalLandforms.WorldMap.MainRoadAngle>
+  <GeologicalLandforms.WorldMap.DepthInCaveSystem>Глубина в пещерной системе</GeologicalLandforms.WorldMap.DepthInCaveSystem>
+  <GeologicalLandforms.WorldMap.FeatureLabelBiomeTransition>переход между биомами</GeologicalLandforms.WorldMap.FeatureLabelBiomeTransition>
+  <GeologicalLandforms.WorldMap.FeatureDescriptionBiomeTransition>Биомы соседних участков заходят на часть этого участка карты мира.</GeologicalLandforms.WorldMap.FeatureDescriptionBiomeTransition>
+  <GeologicalLandforms.WorldMap.FeatureDescriptionLandform>Форма рельефа из мода {0}.</GeologicalLandforms.WorldMap.FeatureDescriptionLandform>
+  <GeologicalLandforms.WorldMap.FindLandform>Найти особенность карты поблизости</GeologicalLandforms.WorldMap.FindLandform>
+  <GeologicalLandforms.WorldMap.FindLandformPrefix>(Форма рельефа)</GeologicalLandforms.WorldMap.FindLandformPrefix>
+  <GeologicalLandforms.WorldMap.FindLandformAny>(Форма рельефа) Любая</GeologicalLandforms.WorldMap.FindLandformAny>
+  <GeologicalLandforms.WorldMap.FindLandformAnyPOI>(Форма рельефа) Любая достопримечательность</GeologicalLandforms.WorldMap.FindLandformAnyPOI>
+  <GeologicalLandforms.WorldMap.FindLandformSuccess>Найдена особенность карты: {0}. Расстояние в участках: {1}.</GeologicalLandforms.WorldMap.FindLandformSuccess>
+  <GeologicalLandforms.WorldMap.FindLandformFail>Поиск не дал результатов: {0}. Радиус поиска: {1} участков. Максимальное расстояние можно изменить в настройках мода.</GeologicalLandforms.WorldMap.FindLandformFail>
+  <GeologicalLandforms.WorldMap.SetLandform>Принудительно задать форму рельефа (режим бога)</GeologicalLandforms.WorldMap.SetLandform>
+  <GeologicalLandforms.WorldMap.SetLandformAuto>Автоматически</GeologicalLandforms.WorldMap.SetLandformAuto>
+  <GeologicalLandforms.Landform.Coast>берег</GeologicalLandforms.Landform.Coast>
+  <GeologicalLandforms.Landform.CoastCorner>берег</GeologicalLandforms.Landform.CoastCorner>
+  <GeologicalLandforms.Landform.Cove>бухта</GeologicalLandforms.Landform.Cove>
+  <GeologicalLandforms.Landform.CoveWithIsland>бухта с островом</GeologicalLandforms.Landform.CoveWithIsland>
+  <GeologicalLandforms.Landform.Peninsula>полуостров</GeologicalLandforms.Landform.Peninsula>
+  <GeologicalLandforms.Landform.Landbridge>перешеек</GeologicalLandforms.Landform.Landbridge>
+  <GeologicalLandforms.Landform.Tombolo>томболо</GeologicalLandforms.Landform.Tombolo>
+  <GeologicalLandforms.Landform.CoastalIsland>прибрежный остров</GeologicalLandforms.Landform.CoastalIsland>
+  <GeologicalLandforms.Landform.Island>остров</GeologicalLandforms.Landform.Island>
+  <GeologicalLandforms.Landform.Atoll>атолл</GeologicalLandforms.Landform.Atoll>
+  <GeologicalLandforms.Landform.Archipelago>архипелаг</GeologicalLandforms.Landform.Archipelago>
+  <GeologicalLandforms.Landform.Lake>озеро</GeologicalLandforms.Landform.Lake>
+  <GeologicalLandforms.Landform.LakeWithIsland>озеро с островом</GeologicalLandforms.Landform.LakeWithIsland>
+  <GeologicalLandforms.Landform.DryLake>высохшее озеро</GeologicalLandforms.Landform.DryLake>
+  <GeologicalLandforms.Landform.Cliff>утёс</GeologicalLandforms.Landform.Cliff>
+  <GeologicalLandforms.Landform.CliffCorner>утёс</GeologicalLandforms.Landform.CliffCorner>
+  <GeologicalLandforms.Landform.CliffAndCoast>берег с утёсом</GeologicalLandforms.Landform.CliffAndCoast>
+  <GeologicalLandforms.Landform.Cirque>ледниковый цирк</GeologicalLandforms.Landform.Cirque>
+  <GeologicalLandforms.Landform.Valley>долина</GeologicalLandforms.Landform.Valley>
+  <GeologicalLandforms.Landform.Canyon>каньон</GeologicalLandforms.Landform.Canyon>
+  <GeologicalLandforms.Landform.LoneMountain>одинокая гора</GeologicalLandforms.Landform.LoneMountain>
+  <GeologicalLandforms.Landform.Caldera>кальдера</GeologicalLandforms.Landform.Caldera>
+  <GeologicalLandforms.Landform.Rift>расселина</GeologicalLandforms.Landform.Rift>
+  <GeologicalLandforms.Landform.Crater>кратер</GeologicalLandforms.Landform.Crater>
+  <GeologicalLandforms.Landform.Oasis>оазис</GeologicalLandforms.Landform.Oasis>
+  <GeologicalLandforms.Landform.SwampHill>болотный холм</GeologicalLandforms.Landform.SwampHill>
+  <GeologicalLandforms.Landform.IceOasis>ледяной оазис</GeologicalLandforms.Landform.IceOasis>
+  <GeologicalLandforms.Landform.Badlands>бедленд</GeologicalLandforms.Landform.Badlands>
+  <GeologicalLandforms.Landform.DesertPlateau>пустынное плато</GeologicalLandforms.Landform.DesertPlateau>
+  <GeologicalLandforms.Landform.Skerry>шхерный остров</GeologicalLandforms.Landform.Skerry>
+  <GeologicalLandforms.Landform.Fjord>фьорд</GeologicalLandforms.Landform.Fjord>
+  <GeologicalLandforms.Landform.SecludedCove>укромная бухта</GeologicalLandforms.Landform.SecludedCove>
+  <GeologicalLandforms.Landform.SurfaceCave>пещера на поверхности</GeologicalLandforms.Landform.SurfaceCave>
+  <GeologicalLandforms.Landform.CaveEntrance>вход в пещеру</GeologicalLandforms.Landform.CaveEntrance>
+  <GeologicalLandforms.Landform.Sinkhole>карстовая воронка</GeologicalLandforms.Landform.Sinkhole>
+  <GeologicalLandforms.Landform.SecludedValley>укромная долина</GeologicalLandforms.Landform.SecludedValley>
+  <GeologicalLandforms.Landform.River>река</GeologicalLandforms.Landform.River>
+  <GeologicalLandforms.Landform.RiverTerrain>речная местность</GeologicalLandforms.Landform.RiverTerrain>
+  <GeologicalLandforms.Landform.RiverConfluence>слияние рек</GeologicalLandforms.Landform.RiverConfluence>
+  <GeologicalLandforms.Landform.RiverSource>исток реки</GeologicalLandforms.Landform.RiverSource>
+  <GeologicalLandforms.Landform.RiverIsland>речной остров</GeologicalLandforms.Landform.RiverIsland>
+  <GeologicalLandforms.Landform.RiverDelta>дельта реки</GeologicalLandforms.Landform.RiverDelta>
+  <GeologicalLandforms.Landform.Gorge>ущелье</GeologicalLandforms.Landform.Gorge>
+  <GeologicalLandforms.Landform.Glacier>ледник</GeologicalLandforms.Landform.Glacier>
+</LanguageData>

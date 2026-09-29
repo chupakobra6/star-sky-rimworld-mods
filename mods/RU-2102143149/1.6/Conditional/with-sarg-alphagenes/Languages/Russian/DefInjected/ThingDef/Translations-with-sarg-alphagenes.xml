@@ -1,0 +1,43 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFEPD_AlphaGenesAncientGeneAssembler.label>древний генный сборщик</VFEPD_AlphaGenesAncientGeneAssembler.label>
+  <VFEPD_AlphaGenesAncientGeneAssembler.description>Станок для создания вживляемых ксеносемян из генных пакетов, хранящихся в ближайших генных банках. Устройство провалилось внутрь собственного корпуса и совершенно бесполезно.</VFEPD_AlphaGenesAncientGeneAssembler.description>
+  <VFEPD_AlphaGenesAncientGeneBank.label>древний генный банк</VFEPD_AlphaGenesAncientGeneBank.label>
+  <VFEPD_AlphaGenesAncientGeneBank.description>Устройство хранило генные пакеты и позволяло использовать их для создания ксеносемян в расположенном рядом генном сборщике. Оно безнадёжно проржавело, а хранившиеся внутри пакеты давно пропали.</VFEPD_AlphaGenesAncientGeneBank.description>
+  <VFEPD_AlphaGenesAncientGeneExtractor.label>древний генный экстрактор</VFEPD_AlphaGenesAncientGeneExtractor.label>
+  <VFEPD_AlphaGenesAncientGeneExtractor.description>Автоматическая хирургическая машина, которая извлекала гены человека и создавала из них генный пакет. Внутренние механизмы полностью сплавились и проржавели.</VFEPD_AlphaGenesAncientGeneExtractor.description>
+  <VFEPD_AlphaGenesAncientGeneProcessor.label>древний генетический обработчик</VFEPD_AlphaGenesAncientGeneProcessor.label>
+  <VFEPD_AlphaGenesAncientGeneProcessor.description>Система генетического анализа и обработки. Разрушена и непригодна к использованию.</VFEPD_AlphaGenesAncientGeneProcessor.description>
+  <VFEPD_AlphaGenesAncientGrowthVat.label>древний инкубатор</VFEPD_AlphaGenesAncientGrowthVat.label>
+  <VFEPD_AlphaGenesAncientGrowthVat.description>Резервуар с жидкостью, в котором можно было вырастить эмбрион или ускорить рост ребёнка. Прозрачная пласталевая оболочка разбита — похоже, изнутри... Зловеще.</VFEPD_AlphaGenesAncientGrowthVat.description>
+  <VFEPD_AlphaGenesAncientHugeBank.label>древний огромный генный банк</VFEPD_AlphaGenesAncientHugeBank.label>
+  <VFEPD_AlphaGenesAncientHugeBank.description>Огромный генный банк, значительно превосходящий размерами современные. Полностью сломан.</VFEPD_AlphaGenesAncientHugeBank.description>
+  <VFEPD_AlphaGenesAncientLamp.label>древняя разбитая лампа</VFEPD_AlphaGenesAncientLamp.label>
+  <VFEPD_AlphaGenesAncientLamp.description>Разбитая лампа.</VFEPD_AlphaGenesAncientLamp.description>
+  <VFEPD_AlphaGenesAncientVitalsMonitor.label>древний монитор показателей</VFEPD_AlphaGenesAncientVitalsMonitor.label>
+  <VFEPD_AlphaGenesAncientVitalsMonitor.description>Сломанный монитор жизненных показателей с погасшим экраном.</VFEPD_AlphaGenesAncientVitalsMonitor.description>
+  <VFEPD_AlphaGenesAncientBandNode.label>древний канальный узел</VFEPD_AlphaGenesAncientBandNode.label>
+  <VFEPD_AlphaGenesAncientBandNode.description>Сломанный усилитель сигнала управления механоидами. Его антенны согнуты под странными углами.</VFEPD_AlphaGenesAncientBandNode.description>
+  <VFEPD_AlphaGenesAncientBasicRecharger.label>древняя зарядная станция механоидов</VFEPD_AlphaGenesAncientBasicRecharger.label>
+  <VFEPD_AlphaGenesAncientBasicRecharger.description>Сломанная зарядная станция механоидов. Соединительные контакты погнуты и обломаны, поэтому всё устройство бесполезно.</VFEPD_AlphaGenesAncientBasicRecharger.description>
+  <VFEPD_AlphaGenesAncientLargeRecharger.label>древняя большая зарядная станция механоидов</VFEPD_AlphaGenesAncientLargeRecharger.label>
+  <VFEPD_AlphaGenesAncientLargeRecharger.description>Сломанная зарядная станция механоидов. Соединительные контакты погнуты и обломаны, поэтому всё устройство бесполезно.</VFEPD_AlphaGenesAncientLargeRecharger.description>
+  <VFEPD_AlphaGenesAncientMechGestator.label>древний гестатор механоидов</VFEPD_AlphaGenesAncientMechGestator.label>
+  <VFEPD_AlphaGenesAncientMechGestator.description>Резервуар для создания новых механоидов. Ёмкость с механитами давно пробита, а вся жидкость испарилась.</VFEPD_AlphaGenesAncientMechGestator.description>
+  <VFEPD_AlphaGenesAncientLargeMechGestator.label>древний большой гестатор механоидов</VFEPD_AlphaGenesAncientLargeMechGestator.label>
+  <VFEPD_AlphaGenesAncientLargeMechGestator.description>Резервуар для создания новых механоидов. Ёмкость с механитами давно пробита, а вся жидкость испарилась.</VFEPD_AlphaGenesAncientLargeMechGestator.description>
+  <VFEPD_AlphaGenesAncientSubcoreRipscanner.label>древний душегуб</VFEPD_AlphaGenesAncientSubcoreRipscanner.label>
+  <VFEPD_AlphaGenesAncientSubcoreRipscanner.description>Ну и мрачняк. Просто ЗАПРЕДЕЛЬНЫЙ мрачняк. По сути, больничная кровать с шипами. Спорим, она работала только под симфонический метал? Во всём виноват Оскар.</VFEPD_AlphaGenesAncientSubcoreRipscanner.description>
+  <VFEPD_AlphaGenesAncientWastepackAtomizer.label>древний расщепитель отходов</VFEPD_AlphaGenesAncientWastepackAtomizer.label>
+  <VFEPD_AlphaGenesAncientWastepackAtomizer.description>Раньше это было просто навороченное мусорное ведро. Теперь — просто сломанное мусорное ведро.</VFEPD_AlphaGenesAncientWastepackAtomizer.description>
+  <VFEPD_RuinedHospitalBed.label>древняя больничная кровать</VFEPD_RuinedHospitalBed.label>
+  <VFEPD_RuinedHospitalBed.description>Кровать, специально предназначенная для больниц. Матрас сгнил без остатка.</VFEPD_RuinedHospitalBed.description>
+  <VFEPD_AlphaGenesAncientShelf.label>древний стеллаж</VFEPD_AlphaGenesAncientShelf.label>
+  <VFEPD_AlphaGenesAncientShelf.description>Проржавевший стеллаж.</VFEPD_AlphaGenesAncientShelf.description>
+  <VFEPD_AlphaGenesAncientPollutionPump.label>древняя очистная помпа</VFEPD_AlphaGenesAncientPollutionPump.label>
+  <VFEPD_AlphaGenesAncientPollutionPump.description>В ближайшее время эта помпа точно ничего не выкачает.</VFEPD_AlphaGenesAncientPollutionPump.description>
+  <VFEPD_AlphaGenesAncientFaultyLamp.label>древняя неисправная лампа</VFEPD_AlphaGenesAncientFaultyLamp.label>
+  <VFEPD_AlphaGenesAncientFaultyLamp.description>Металлическая капсула с каким-то биолюминесцентным веществом. Кажется, она перестала светиться.</VFEPD_AlphaGenesAncientFaultyLamp.description>
+  <VFEPD_RuinedLabLamp.label>древняя лабораторная лампа</VFEPD_RuinedLabLamp.label>
+  <VFEPD_RuinedLabLamp.description>Металлическая стойка со стеклянным цилиндром, наполненным каким-то биолюминесцентным веществом. Кажется, она перестала светиться.</VFEPD_RuinedLabLamp.description>
+</LanguageData>

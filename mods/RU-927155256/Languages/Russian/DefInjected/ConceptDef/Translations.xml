@@ -1,0 +1,40 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Concept_SimpleSidearmsBasic.label>SS: запасное оружие</Concept_SimpleSidearmsBasic.label>
+  <Concept_SimpleSidearmsBasic.helpText>Simple Sidearms
+
+Чтобы взять оружие в качестве запасного, щёлкните по нему правой кнопкой мыши и выберите «Экипировать… как запасное оружие».
+
+По умолчанию поселенцы выбирают тип оружия с учётом своих навыков и интересов. Стрелки также переключаются на оружие ближнего боя, когда на них нападают врукопашную. Это поведение можно изменить в настройках мода.</Concept_SimpleSidearmsBasic.helpText>
+  <Concept_SidearmsDropping.label>SS: сброс запасного оружия</Concept_SidearmsDropping.label>
+  <Concept_SidearmsDropping.helpText>Серый фон означает, что запасное оружие находится в инвентаре поселенца и доступно для использования. Щёлкните правой кнопкой мыши, чтобы бросить его.</Concept_SidearmsDropping.helpText>
+  <Concept_SidearmsMissing.label>SS: недостающее запасное оружие</Concept_SidearmsMissing.label>
+  <Concept_SidearmsMissing.helpText>Тёмно-фиолетовый фон означает, что оружие записано в комплекте поселенца, но сейчас отсутствует. Поселенец постарается найти замену при первой возможности. Щёлкните правой кнопкой мыши, чтобы убрать оружие из запомненного комплекта.</Concept_SidearmsMissing.helpText>
+  <Concept_SimpleSidearmsPreference.label>SS: предпочтительный тип оружия</Concept_SimpleSidearmsPreference.label>
+  <Concept_SimpleSidearmsPreference.helpText>Предпочтения можно настроить отдельно для каждого поселенца:
+• оружие дальнего боя;
+• оружие по навыкам и интересам;
+• оружие ближнего боя.</Concept_SimpleSidearmsPreference.helpText>
+  <Concept_SimpleSidearmsAdvancedRanged.label>SS: управление оружием дальнего боя</Concept_SimpleSidearmsAdvancedRanged.label>
+  <Concept_SimpleSidearmsAdvancedRanged.helpText>Щёлкните левой кнопкой мыши по носимому оружию дальнего боя, чтобы назначить его основным стрелковым оружием. Поселенец будет держать его вне активного боя, если предпочитает дальний бой либо выбирает по навыкам и лучше стреляет, чем дерётся. Это же оружие используется на охоте.
+
+Повторный щелчок предписывает использовать его независимо от дистанции и урона в секунду.
+
+Правая кнопка мыши снимает принудительный выбор или назначение основным оружием.</Concept_SimpleSidearmsAdvancedRanged.helpText>
+  <Concept_SimpleSidearmsAdvancedMelee.label>SS: управление оружием ближнего боя</Concept_SimpleSidearmsAdvancedMelee.label>
+  <Concept_SimpleSidearmsAdvancedMelee.helpText>Щёлкните левой кнопкой мыши по носимому оружию ближнего боя, чтобы назначить его предпочтительным. Поселенец будет использовать его, если предпочитает ближний бой либо выбирает по навыкам и лучше дерётся, чем стреляет, а также при вынужденном переходе к рукопашной.
+
+Повторный щелчок предписывает использовать это оружие постоянно.
+
+Правая кнопка мыши снимает принудительный выбор или предпочтение.</Concept_SimpleSidearmsAdvancedMelee.helpText>
+  <Concept_SimpleSidearmsAdvancedDrafted.label>SS: управление при мобилизации</Concept_SimpleSidearmsAdvancedDrafted.label>
+  <Concept_SimpleSidearmsAdvancedDrafted.helpText>Щёлкните левой кнопкой мыши по носимому оружию, пока поселенец мобилизован, чтобы предписать использовать его до конца боя.
+
+Большинство изменений комплекта запасного оружия доступно только немобилизованным пешкам.</Concept_SimpleSidearmsAdvancedDrafted.helpText>
+  <Concept_SimpleSidearmsLosingWeapons.label>SS: потеря оружия</Concept_SimpleSidearmsLosingWeapons.label>
+  <Concept_SimpleSidearmsLosingWeapons.helpText>В зависимости от настроек поселенцы могут выронить оружие при его смене. По умолчанию это возможно при атаке в ближнем бою. После сражения они постараются подобрать оружие.
+
+Условия потери и подбора можно изменить в настройках мода.</Concept_SimpleSidearmsLosingWeapons.helpText>
+  <Concept_CEOverride.label>SS: совместимость с Combat Extended</Concept_CEOverride.label>
+  <Concept_CEOverride.helpText>Загружен Combat Extended. Управление инвентарём через Simple Sidearms отключено.</Concept_CEOverride.helpText>
+</LanguageData>

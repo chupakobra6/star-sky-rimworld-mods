@@ -1,0 +1,17 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AG_OcularAffinity.label>окулярная связь</AG_OcularAffinity.label>
+  <AG_OcularAffinity.description>Носители этого гена связаны с окулярными деревьями и усиливают их особые свойства, получая доступ к мощным врождённым пси-способностям.</AG_OcularAffinity.description>
+  <AG_OcularAffinity.customEffectDescriptions.0>Даёт природный тип медитации.</AG_OcularAffinity.customEffectDescriptions.0>
+  <AG_OcularAffinity.customEffectDescriptions.1>При наличии Alpha Animals или Alpha Biomes даёт способность «окулярное преобразование».</AG_OcularAffinity.customEffectDescriptions.1>
+  <AG_OcularAffinity.symbolPack.prefixSymbols.0.symbol>глазо</AG_OcularAffinity.symbolPack.prefixSymbols.0.symbol>
+  <VRE_SkinColor_OcularBark.symbolPack.prefixSymbols.1.symbol>глазо</VRE_SkinColor_OcularBark.symbolPack.prefixSymbols.1.symbol>
+  <AG_OcularAffinity.symbolPack.prefixSymbols.1.symbol>окуло</AG_OcularAffinity.symbolPack.prefixSymbols.1.symbol>
+  <VRE_SkinColor_OcularBark.symbolPack.prefixSymbols.0.symbol>окуло</VRE_SkinColor_OcularBark.symbolPack.prefixSymbols.0.symbol>
+  <VRE_HairColor_Ocular.label>окулярные волосы</VRE_HairColor_Ocular.label>
+  <VRE_HairColor_Ocular.description>Носители этого гена имеют определённый цвет волос. При наличии нескольких генов цвета волос один из них выбирается случайным образом.</VRE_HairColor_Ocular.description>
+  <VRE_SkinColor_OcularBark.label>кожа цвета окулярной коры</VRE_SkinColor_OcularBark.label>
+  <VRE_SkinColor_OcularBark.description>Кожа носителей этого гена содержит пигмент, придающий ей цвет, схожий с корой окулярных деревьев.</VRE_SkinColor_OcularBark.description>
+  <VRE_SkinColor_OcularBark.labelShortAdj>красный</VRE_SkinColor_OcularBark.labelShortAdj>
+  <VRE_SkinColor_OcularBark.symbolPack.wholeNameSymbols.0.symbol>окулон</VRE_SkinColor_OcularBark.symbolPack.wholeNameSymbols.0.symbol>
+</LanguageData>

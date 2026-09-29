@@ -1,0 +1,139 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VEE_Whiteout.label>белая мгла</VEE_Whiteout.label>
+  <VEE_Whiteout.description>Глобальная климатическая катастрофа, вызвавшая экстремальное похолодание на всей планете. Передвижение караванов и торговля между поселениями полностью прекращаются, а всему живому приходится выживать в условиях долгой и суровой зимы.</VEE_Whiteout.description>
+  <VEE_Whiteout.endMessage>Белая мгла прошла.</VEE_Whiteout.endMessage>
+  <VEE_Whiteout.modExtensions.0.stages.0.letterLabel>похолодание</VEE_Whiteout.modExtensions.0.stages.0.letterLabel>
+  <VEE_Whiteout.modExtensions.0.stages.0.letterText>Температура по всей планете неуклонно снижается.
+
+Это не обычные заморозки. В скором времени планету ожидает катастрофическое оледенение, которое в конечном итоге приведёт к белой мгле. У вас осталось совсем немного времени, чтобы запастись топливом, собрать последний урожай и установить обогреватели, прежде чем наступят настоящие холода.</VEE_Whiteout.modExtensions.0.stages.0.letterText>
+  <VEE_Whiteout.modExtensions.0.stages.1.letterLabel>стужа</VEE_Whiteout.modExtensions.0.stages.1.letterLabel>
+  <VEE_Whiteout.modExtensions.0.stages.1.letterText>Похолодание стремительно усиливается.
+
+Дикие животные покидают местность, а растения погибают. По возможности не выпускайте поселенцев на улицу и убедитесь, что ваша энергосистема выдержит непрерывную работу обогревателей. Худшее ещё впереди.</VEE_Whiteout.modExtensions.0.stages.1.letterText>
+  <VEE_Whiteout.modExtensions.0.stages.2.letterLabel>белая мгла</VEE_Whiteout.modExtensions.0.stages.2.letterLabel>
+  <VEE_Whiteout.modExtensions.0.stages.2.letterText>Наступила белая мгла.
+
+Температура упала до значений, при которых невозможно выжить. Путешествовать по планете крайне опасно: торговые караваны и человеческие налёты прекратятся. Механоидов, однако, лютый холод не беспокоит.
+
+Если вы выдержите, морозы со временем отступят.</VEE_Whiteout.modExtensions.0.stages.2.letterText>
+  <VEE_Whiteout.modExtensions.0.stages.3.letterLabel>оттепель</VEE_Whiteout.modExtensions.0.stages.3.letterLabel>
+  <VEE_Whiteout.modExtensions.0.stages.3.letterText>Небо постепенно проясняется, а лютый холод начинает отступать.
+
+Белая мгла подходит к концу. В течение следующего сезона температура постепенно вернётся к норме, и природа начнёт восстанавливаться.</VEE_Whiteout.modExtensions.0.stages.3.letterText>
+  <VEE_Scorch.label>пекло</VEE_Scorch.label>
+  <VEE_Scorch.description>Экстремальная жара, охватившая всю планету в результате глобальной климатической катастрофы. Земледелие под открытым небом становится невозможным, передвижение караванов прекращается, а всему живому приходится приспосабливаться к долгому и опасному лету.</VEE_Scorch.description>
+  <VEE_Scorch.endMessage>Пекло прошло.</VEE_Scorch.endMessage>
+  <VEE_Scorch.modExtensions.0.stages.0.letterLabel>неестественная жара</VEE_Scorch.modExtensions.0.stages.0.letterLabel>
+  <VEE_Scorch.modExtensions.0.stages.0.letterText>Атмосфера планеты начинает удерживать огромное количество солнечного излучения, окутывая регион неестественной гнетущей жарой.
+
+Путешественники предупреждают: это лишь начало масштабной волны жары. Температура продолжит резко расти. У вас осталось немного времени, чтобы обеспечить запас продовольствия, построить кондиционеры и сшить защитные головные уборы, прежде чем солнце станет смертельно опасным.</VEE_Scorch.modExtensions.0.stages.0.letterText>
+  <VEE_Scorch.modExtensions.0.stages.1.letterLabel>зной</VEE_Scorch.modExtensions.0.stages.1.letterLabel>
+  <VEE_Scorch.modExtensions.0.stages.1.letterText>Жара достигла опасного уровня, а дождевые облака полностью исчезли.
+
+Посевы под открытым небом едва растут в пересохшей земле. Интенсивное ультрафиолетовое излучение вызывает солнечные ожоги у всех, кто выходит наружу без головного убора. Из-за ожогов значительно усиливается уязвимость к тепловому удару. Держите поселенцев под крышей или убедитесь, что на них надеты головные уборы.</VEE_Scorch.modExtensions.0.stages.1.letterText>
+  <VEE_Scorch.modExtensions.0.stages.2.letterLabel>пекло</VEE_Scorch.modExtensions.0.stages.2.letterLabel>
+  <VEE_Scorch.modExtensions.0.stages.2.letterText>Жара достигла катастрофического пика.
+
+Густое раскалённое марево окутало окрестности, и растения под открытым небом полностью перестали расти. Хуже того, перегретая атмосфера порождает мощные сухие грозы. Ожидайте частых молний и разрушительных природных пожаров.
+
+Оставайтесь в помещениях, поддерживайте работу кондиционеров и ждите возвращения дождей.</VEE_Scorch.modExtensions.0.stages.2.letterText>
+  <VEE_Scorch.modExtensions.0.stages.3.letterLabel>спад жары</VEE_Scorch.modExtensions.0.stages.3.letterLabel>
+  <VEE_Scorch.modExtensions.0.stages.3.letterText>Раскалённое марево наконец начинает рассеиваться, а палящее солнце уже не представляет такой опасности.
+
+Зной заканчивается. В течение следующих нескольких дней температура постепенно вернётся к норме, а на небе вновь начнут собираться дождевые облака.</VEE_Scorch.modExtensions.0.stages.3.letterText>
+  <VEE_LongNight.label>долгая ночь</VEE_LongNight.label>
+  <VEE_LongNight.description>Катастрофическое затмение, погружающее планету в бесконечные сумерки и приносящее продолжительные холода. Искусственное освещение становится жизненной необходимостью, психочувствительность усиливается, а вместе с темнотой приходят ночные хищники и пробуждаются подземные угрозы.</VEE_LongNight.description>
+  <VEE_LongNight.endMessage>Долгая ночь закончилась.</VEE_LongNight.endMessage>
+  <VEE_LongNight.modExtensions.0.stages.0.letterLabel>полутень</VEE_LongNight.modExtensions.0.stages.0.letterLabel>
+  <VEE_LongNight.modExtensions.0.stages.0.letterText>Космическая сущность невообразимых размеров приблизилась к местной звезде, положив начало затяжному затмению.
+
+С каждым днём света становится всё меньше и планету постепенно окутывает полутень. По мере развития затмения температура будет снижаться, а солнечные батареи станут вырабатывать всё меньше энергии. Подготовьте энергосистему и всё необходимое для выращивания растений в помещениях, пока не наступила настоящая тьма.</VEE_LongNight.modExtensions.0.stages.0.letterText>
+  <VEE_LongNight.modExtensions.0.stages.1.letterLabel>тень</VEE_LongNight.modExtensions.0.stages.1.letterLabel>
+  <VEE_LongNight.modExtensions.0.stages.1.letterText>Космическая сущность начала пересекать центр солнечного диска.
+
+Планета окутана холодными сумерками. Солнечные батареи почти перестали вырабатывать энергию, а растения под открытым небом погибают. Чтобы пережить надвигающуюся тьму, полагайтесь на искусственное освещение и отопление.</VEE_LongNight.modExtensions.0.stages.1.letterText>
+  <VEE_LongNight.modExtensions.0.stages.2.letterLabel>полное затмение</VEE_LongNight.modExtensions.0.stages.2.letterLabel>
+  <VEE_LongNight.modExtensions.0.stages.2.letterText>Солнце полностью скрыто.
+
+Полная фаза затмения погрузила мир в бесконечную ледяную ночь. Космическая сущность испускает мощные резонансные колебания: поселенцы устают гораздо быстрее обычного, а их психочувствительность опасно усилилась.
+
+Животные стали гораздо агрессивнее. Защищайте ярко освещённую базу от ночных хищников и подземных инсектоидов.</VEE_LongNight.modExtensions.0.stages.2.letterText>
+  <VEE_LongNight.modExtensions.0.stages.3.letterLabel>прояснение</VEE_LongNight.modExtensions.0.stages.3.letterLabel>
+  <VEE_LongNight.modExtensions.0.stages.3.letterText>Яркая вспышка света прорезала горизонт!
+
+Космическая сущность наконец смещается от центра солнечного диска. Полная фаза затмения завершилась. Абсолютная тьма вновь уступает место сумеркам. Солнечные батареи снова начинают вырабатывать энергию, а с повышением температуры растения возобновят рост.</VEE_LongNight.modExtensions.0.stages.3.letterText>
+  <VEE_LongNight.modExtensions.0.stages.4.letterLabel>конец затмения</VEE_LongNight.modExtensions.0.stages.4.letterLabel>
+  <VEE_LongNight.modExtensions.0.stages.4.letterText>Космическая сущность завершает свой проход перед местной звездой.
+
+Долгая ночь подходит к концу. В ближайшие дни остатки тьмы рассеются, температура постепенно вернётся к норме, и планета окончательно пробудится от мрака.</VEE_LongNight.modExtensions.0.stages.4.letterText>
+  <VEE_PsychicBloom.label>психическое цветение</VEE_PsychicBloom.label>
+  <VEE_PsychicBloom.description>Разлом между измерениями прорезает небо, озаряя мир постоянным фиолетовым сиянием. Инопланетные ростки появляются повсюду, а местная флора превращается в пси-лотосы. Жителям мира приходится бороться с быстро разрастающейся чуждой растительностью и усиливающимся психическим давлением.</VEE_PsychicBloom.description>
+  <VEE_PsychicBloom.endMessage>Психическое цветение закончилось.</VEE_PsychicBloom.endMessage>
+  <VEE_PsychicBloom.modExtensions.0.stages.0.letterLabel>прорастание</VEE_PsychicBloom.modExtensions.0.stages.0.letterLabel>
+  <VEE_PsychicBloom.modExtensions.0.stages.0.letterText>Граница между этой реальностью и иным миром опасно истончается.
+
+Разлом в ткани пространства озарил небо неестественным фиолетовым сиянием, и там, где психическая энергия прорывается в этот мир, появляются странные ростки пси-лотосов. Пока они безвредны, но им не место в этой реальности. Возможно, стоит выкорчевать их, прежде чем они окончательно закрепятся в ней.</VEE_PsychicBloom.modExtensions.0.stages.0.letterText>
+  <VEE_PsychicBloom.modExtensions.0.stages.1.letterLabel>начало цветения</VEE_PsychicBloom.modExtensions.0.stages.1.letterLabel>
+  <VEE_PsychicBloom.modExtensions.0.stages.1.letterText>Граница между измерениями продолжает размываться. Ростки созрели и превратились в пси-лотосы, которые активно перестраивают этот мир по образу своего.
+
+Пси-лотосы преобразуют окружающую растительность в яркие инопланетные формы, а психочувствительность всех существ в регионе удвоилась.
+
+Сквозь разлом начинают проникать облака из иного мира, приносящие с собой психический дождь. В измерении, откуда он приходит, время течёт иначе, поэтому его воздействие может оказаться губительным.</VEE_PsychicBloom.modExtensions.0.stages.1.letterText>
+  <VEE_PsychicBloom.modExtensions.0.stages.2.letterLabel>суперцветение</VEE_PsychicBloom.modExtensions.0.stages.2.letterLabel>
+  <VEE_PsychicBloom.modExtensions.0.stages.2.letterText>Граница между реальностями окончательно стёрлась!
+
+Инопланетная флора достигла стадии суперцветения и теперь распространяется с неконтролируемой скоростью. Что ещё хуже, пси-лотосы стали проводниками сокрушительного психического давления, исходящего из иной реальности. Чем больше пси-лотосов удерживают разлом открытым, тем сильнее становится этот гнетущий психический гул.
+
+Вы должны немедленно уничтожить пси-лотосы, тем самым разорвав связь с иным миром, пока чудовищное психическое давление другой реальности не свело ваших поселенцев с ума.</VEE_PsychicBloom.modExtensions.0.stages.2.letterText>
+  <VEE_PsychicBloom.modExtensions.0.stages.3.letterLabel>увядание</VEE_PsychicBloom.modExtensions.0.stages.3.letterLabel>
+  <VEE_PsychicBloom.modExtensions.0.stages.3.letterText>Привычная реальность резко восстановилась.
+
+Разлом между измерениями захлопнулся. Лишившись психической энергии родной вселенной, бурно цветущая инопланетная флора мгновенно превратилась в жуткую увядшую пустошь. Сводящий с ума гул исчез, но мёртвые растения будут разлагаться годами. Их придётся выжечь или вырубить, чтобы освободить место для посевов.
+
+Психический дождь остаётся угрозой, пока небо окончательно не восстановится и сияние не рассеется.</VEE_PsychicBloom.modExtensions.0.stages.3.letterText>
+  <PsychicRain.label>психический дождь</PsychicRain.label>
+  <PsychicRain.description>Опасная психическая сущность вызвала возмущение на субатомных уровнях, отозвавшееся во всех частицах атмосферы.
+
+Начался, казалось бы, бесконечный сверхъестественный дождь, изменивший само течение времени. Любой персонаж или существо, не находящееся под крышей, будет стареть значительно быстрее.
+
+Психический дождь может длиться от одного сезона до нескольких лет.</PsychicRain.description>
+  <PsychicRain.endMessage>Психический дождь закончился.</PsychicRain.endMessage>
+  <VEE_Drought.label>засуха</VEE_Drought.label>
+  <VEE_Drought.description>В этой области началась сильнейшая засуха. Дождевые облака исчезли, а палящее солнце иссушает почву.
+
+Дикие растения и посевы, находящиеся под открытым небом, сильно пострадают от нехватки влаги. Их рост почти прекратится, а со временем они погибнут. Кроме того, пожары будут распространяться гораздо быстрее.
+
+Растения, выращиваемые в гидропонных системах, не пострадают.</VEE_Drought.description>
+  <VEE_Drought.endMessage>Засуха прошла.</VEE_Drought.endMessage>
+  <VEE_Drought.letterText>В этой области началась сильнейшая засуха. Дождевые облака исчезли, а палящее солнце иссушает почву.
+
+Дикие растения и посевы, находящиеся под открытым небом, сильно пострадают от нехватки влаги. Их рост почти прекратится, а со временем они погибнут. Кроме того, пожары будут распространяться гораздо быстрее.
+
+Растения, выращиваемые в гидропонных системах, не пострадают.</VEE_Drought.letterText>
+  <SpaceBattle.label>крушение орбитального корабля</SpaceBattle.label>
+  <SpaceBattle.description>Огромный орбитальный корабль начал разваливаться на куски прямо над вашим регионом!</SpaceBattle.description>
+  <SpaceBattle.endMessage>Крушение орбитального корабля закончилось.</SpaceBattle.endMessage>
+  <VEE_PsychicStimulation.label>психическая стимуляция</VEE_PsychicStimulation.label>
+  <VEE_PsychicStimulation.description>Некий далёкий механизм излучает психические сигналы, вызывающие чувство глубокой радости. Их волны прокатываются по региону, воздействуя на сознание представителей определённой демографической группы.</VEE_PsychicStimulation.description>
+  <VEE_PsychicStimulation.endMessage>Психическая стимуляция закончилась.</VEE_PsychicStimulation.endMessage>
+  <VEE_PsychicStimulation.letterText>Некоторые поселенцы ощущают прилив радости. Затронутая группа — {0}.
+
+Далёкий источник радости посылает психические колебания, которые прокатываются по региону и особенно сильно отзываются в сознании этой группы. Незримая энергия дарит глубокое умиротворение и покой. В течение нескольких дней потребность этих поселенцев в досуге будет полностью удовлетворена.</VEE_PsychicStimulation.letterText>
+  <VEE_PsychicOverdrive.label>психическая перегрузка</VEE_PsychicOverdrive.label>
+  <VEE_PsychicOverdrive.description>Волна пси-энергии прокатилась по окрестности, входя в резонанс с сознанием некоторых ваших поселенцев!</VEE_PsychicOverdrive.description>
+  <VEE_PsychicOverdrive.endMessage>Психическая перегрузка закончилась.</VEE_PsychicOverdrive.endMessage>
+  <VEE_PsychicOverdrive.letterText>Некоторые поселенцы работают с необычайной сосредоточенностью. Затронутая группа — {0}.
+
+Волна психической энергии прокатилась по колонии, входя в резонанс с их сознанием. Мысли несутся стремительно, а движения стали точнее и эффективнее. На несколько дней психическая перегрузка значительно повысит скорость их работы.</VEE_PsychicOverdrive.letterText>
+  <VEE_PsychicHum.label>психический шум</VEE_PsychicHum.label>
+  <VEE_PsychicHum.description>Сознание некоторых поселенцев, словно выбранных наугад, охватывает странный дисгармоничный психический шум.</VEE_PsychicHum.description>
+  <VEE_PsychicHum.endMessage>Психический шум прошёл.</VEE_PsychicHum.endMessage>
+  <VEE_PsychicHum.letterText>Сознание некоторых людей, словно выбранных наугад, охватывает странный дисгармоничный психический шум.
+
+Они не могут ни отдохнуть, ни найти облегчения. Изнеможение и потребность в досуге быстро нарастают, а душевное состояние стремительно ухудшается.
+
+Под воздействием находятся:
+
+{0}.</VEE_PsychicHum.letterText>
+</LanguageData>

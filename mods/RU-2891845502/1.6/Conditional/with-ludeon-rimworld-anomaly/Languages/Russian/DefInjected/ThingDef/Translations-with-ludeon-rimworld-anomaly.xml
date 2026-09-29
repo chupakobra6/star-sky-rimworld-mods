@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AG_GrayWall.label>серая стена</AG_GrayWall.label>
+  <AG_GrayWall.description>Непроходимая серая стена. Может поддерживать крышу.</AG_GrayWall.description>
+  <AG_GrayDoor.label>серая дверь</AG_GrayDoor.label>
+  <AG_GrayDoor.description>Разделяет помещения. Простые двери открываются вручную и замедляют проходящих через них людей. Величина замедления зависит от материала двери.</AG_GrayDoor.description>
+  <AG_GrayStatue.label>серая статуя</AG_GrayStatue.label>
+  <AG_GrayStatue.description>Странная искривлённая скульптура тревожащих очертаний. Тихо гудит от неведомой внутренней энергии.</AG_GrayStatue.description>
+  <AG_FloorEtching.label>рисунок на полу</AG_FloorEtching.label>
+  <AG_FloorEtching.description>Грубый набросок, нанесённый на землю.</AG_FloorEtching.description>
+  <AG_EndlessPit2x2c.label>бездонная яма</AG_EndlessPit2x2c.label>
+  <AG_EndlessPit2x2c.description>Яма с гладкими стенами, бесконечно уходящая вниз.</AG_EndlessPit2x2c.description>
+  <AG_EndlessPit3x2c.label>бездонная яма</AG_EndlessPit3x2c.label>
+  <AG_EndlessPit3x2c.description>Яма с гладкими стенами, бесконечно уходящая вниз.</AG_EndlessPit3x2c.description>
+  <AG_EndlessPit3x3c.label>бездонная яма</AG_EndlessPit3x3c.label>
+  <AG_EndlessPit3x3c.description>Яма с гладкими стенами, бесконечно уходящая вниз.</AG_EndlessPit3x3c.description>
+  <AG_GrayBox.label>серый ящик</AG_GrayBox.label>
+  <AG_GrayBox.description>Пустой странный серый контейнер с гладкими поверхностями без каких-либо особенностей. Он сделан не из металла, бетона или любого другого узнаваемого материала.</AG_GrayBox.description>
+  <AG_FleshBulb_OnAir.label>плотяная луковица</AG_FleshBulb_OnAir.label>
+  <AG_FleshBulb.label>плотяная луковица</AG_FleshBulb.label>
+</LanguageData>

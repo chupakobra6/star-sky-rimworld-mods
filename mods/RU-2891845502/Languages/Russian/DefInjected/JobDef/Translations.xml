@@ -1,0 +1,17 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AG_ConsumeMetal.reportString>поедает TargetA.</AG_ConsumeMetal.reportString>
+  <AG_FeedMetal.reportString>кормит TargetB.</AG_FeedMetal.reportString>
+  <AG_DeliverMetal.reportString>доставляет груз к TargetC.</AG_DeliverMetal.reportString>
+  <AG_UseGeneRemover.reportString>использует удалитель генов.</AG_UseGeneRemover.reportString>
+  <AG_UseEndogenefier.reportString>использует эндогенефикатор.</AG_UseEndogenefier.reportString>
+  <AG_UseXenogenefier.reportString>использует ксеногенефикатор.</AG_UseXenogenefier.reportString>
+  <AG_UseXenotypeNullifier.reportString>использует обнулитель ксенотипа.</AG_UseXenotypeNullifier.reportString>
+  <AG_UseGermlineMutator.reportString>использует мутатор наследуемых генов.</AG_UseGermlineMutator.reportString>
+  <AG_UseXenotypeInjector.reportString>использует инъектор ксенотипа.</AG_UseXenotypeInjector.reportString>
+  <AG_UseGenepackTweaker.reportString>использует модификатор генных пакетов.</AG_UseGenepackTweaker.reportString>
+  <AG_UseGenepackDisruptor.reportString>использует деструктор генных пакетов.</AG_UseGenepackDisruptor.reportString>
+  <AG_UseArchoGeneRemover.reportString>использует архотехнологический удалитель генов.</AG_UseArchoGeneRemover.reportString>
+  <AG_UseArchoEndogenefier.reportString>использует архотехнологический эндогенефикатор.</AG_UseArchoEndogenefier.reportString>
+  <AG_UseArchoXenogenefier.reportString>использует архотехнологический ксеногенефикатор.</AG_UseArchoXenogenefier.reportString>
+</LanguageData>

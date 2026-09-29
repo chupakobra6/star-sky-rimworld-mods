@@ -1,0 +1,45 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AA_ExtractUranium.label>переработать урановые кристаллы</AA_ExtractUranium.label>
+  <AA_ExtractUranium.description>Извлечь уран из неочищенных урановых кристаллов.</AA_ExtractUranium.description>
+  <AA_ExtractUranium.jobString>Извлекает полезные материалы из неочищенных урановых кристаллов.</AA_ExtractUranium.jobString>
+  <AA_BlueGel_To_Hexagel.label>сжать синий гель в гексагель</AA_BlueGel_To_Hexagel.label>
+  <AA_BlueGel_To_Hexagel.description>Получить кристаллический куб гексагеля, сжав синий гель под высоким давлением.</AA_BlueGel_To_Hexagel.description>
+  <AA_BlueGel_To_Hexagel.jobString>Сжимает синий гель.</AA_BlueGel_To_Hexagel.jobString>
+  <AA_Make_HexagelCore.label>создать гексагелевые ядра</AA_Make_HexagelCore.label>
+  <AA_Make_HexagelCore.description>Изготовить гексагелевые ядра из гексагеля, используя уран в качестве стабилизатора.</AA_Make_HexagelCore.description>
+  <AA_Make_HexagelCore.jobString>Изготавливает гексагелевые ядра.</AA_Make_HexagelCore.jobString>
+  <AA_InstallMutantLeg.label>вживить мутантную ногу</AA_InstallMutantLeg.label>
+  <AA_InstallMutantLeg.description>Вживить мутантную ногу.</AA_InstallMutantLeg.description>
+  <AA_InstallMutantLeg.jobString>Вживляет мутантную ногу.</AA_InstallMutantLeg.jobString>
+  <AA_InstallMutantArm.label>вживить мутантную руку</AA_InstallMutantArm.label>
+  <AA_InstallMutantArm.description>Вживить мутантную руку.</AA_InstallMutantArm.description>
+  <AA_InstallMutantArm.jobString>Вживляет мутантную руку.</AA_InstallMutantArm.jobString>
+  <AA_InstallMutantEye.label>вживить мутантный глаз</AA_InstallMutantEye.label>
+  <AA_InstallMutantEye.description>Вживить мутантный глаз.</AA_InstallMutantEye.description>
+  <AA_InstallMutantEye.jobString>Вживляет мутантный глаз.</AA_InstallMutantEye.jobString>
+  <AA_ShutDownMechanoid.label>отключить</AA_ShutDownMechanoid.label>
+  <AA_ShutDownMechanoid.description>Отключить механоида.</AA_ShutDownMechanoid.description>
+  <AA_ShutDownMechanoid.jobString>Отключает механоида.</AA_ShutDownMechanoid.jobString>
+  <AA_InstallOmniscientEye.label>вживить всеведущий глаз</AA_InstallOmniscientEye.label>
+  <AA_InstallOmniscientEye.description>Вживить всеведущий глаз.</AA_InstallOmniscientEye.description>
+  <AA_InstallOmniscientEye.jobString>Вживляет всеведущий глаз.</AA_InstallOmniscientEye.jobString>
+  <AA_InstallRecalcitrantEye.label>вживить непокорный глаз</AA_InstallRecalcitrantEye.label>
+  <AA_InstallRecalcitrantEye.description>Вживить непокорный глаз.</AA_InstallRecalcitrantEye.description>
+  <AA_InstallRecalcitrantEye.jobString>Вживляет непокорный глаз.</AA_InstallRecalcitrantEye.jobString>
+  <AA_InstallQuiescentEye.label>вживить безмятежный глаз</AA_InstallQuiescentEye.label>
+  <AA_InstallQuiescentEye.description>Вживить безмятежный глаз.</AA_InstallQuiescentEye.description>
+  <AA_InstallQuiescentEye.jobString>Вживляет безмятежный глаз.</AA_InstallQuiescentEye.jobString>
+  <AA_InstallNumbingEye.label>вживить бесчувственный глаз</AA_InstallNumbingEye.label>
+  <AA_InstallNumbingEye.description>Вживить бесчувственный глаз.</AA_InstallNumbingEye.description>
+  <AA_InstallNumbingEye.jobString>Вживляет бесчувственный глаз.</AA_InstallNumbingEye.jobString>
+  <AA_InstallSpasmodicEye.label>вживить судорожный глаз</AA_InstallSpasmodicEye.label>
+  <AA_InstallSpasmodicEye.description>Вживить судорожный глаз.</AA_InstallSpasmodicEye.description>
+  <AA_InstallSpasmodicEye.jobString>Вживляет судорожный глаз.</AA_InstallSpasmodicEye.jobString>
+  <AA_InstallMeretriciousEye.label>вживить обольстительный глаз</AA_InstallMeretriciousEye.label>
+  <AA_InstallMeretriciousEye.description>Вживить обольстительный глаз.</AA_InstallMeretriciousEye.description>
+  <AA_InstallMeretriciousEye.jobString>Вживляет обольстительный глаз.</AA_InstallMeretriciousEye.jobString>
+  <AA_InstallHeuristicEye.label>вживить эвристический глаз</AA_InstallHeuristicEye.label>
+  <AA_InstallHeuristicEye.description>Вживить эвристический глаз.</AA_InstallHeuristicEye.description>
+  <AA_InstallHeuristicEye.jobString>Вживляет эвристический глаз.</AA_InstallHeuristicEye.jobString>
+</LanguageData>

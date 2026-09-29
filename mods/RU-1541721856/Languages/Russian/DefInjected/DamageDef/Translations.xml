@@ -1,0 +1,73 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AA_OverpoweringSecondaryAcidBurn.label>кислотный ожог</AA_OverpoweringSecondaryAcidBurn.label>
+  <AA_OverpoweringSecondaryAcidBurn.deathMessage>{0} {PAWN_gender ? погиб : погибла : погибло} от кислоты.</AA_OverpoweringSecondaryAcidBurn.deathMessage>
+  <AA_AcidSpit.deathMessage>{0} {PAWN_gender ? погиб : погибла : погибло} от кислоты.</AA_AcidSpit.deathMessage>
+  <AA_AcidRainDamage.deathMessage>{0} {PAWN_gender ? погиб : погибла : погибло} от кислоты.</AA_AcidRainDamage.deathMessage>
+  <AA_ToxicSting.label>ядовитое жало</AA_ToxicSting.label>
+  <AA_ToxicBolt.label>ядовитое жало</AA_ToxicBolt.label>
+  <AA_ToxicSting.deathMessage>{0} {PAWN_gender ? ужален : ужалена : ужалено} насмерть.</AA_ToxicSting.deathMessage>
+  <AA_ToxicBolt.deathMessage>{0} {PAWN_gender ? ужален : ужалена : ужалено} насмерть.</AA_ToxicBolt.deathMessage>
+  <AA_VeryToxicSting.deathMessage>{0} {PAWN_gender ? ужален : ужалена : ужалено} насмерть.</AA_VeryToxicSting.deathMessage>
+  <AA_ToxicBite.label>ядовитый укус</AA_ToxicBite.label>
+  <AA_ToxicBite.deathMessage>{0} {PAWN_gender ? загрызен : загрызена : загрызено} насмерть.</AA_ToxicBite.deathMessage>
+  <AA_InfectedClaws.label>заразные когти</AA_InfectedClaws.label>
+  <AA_FungalClaws.label>заразные когти</AA_FungalClaws.label>
+  <AA_InfectedClaws.deathMessage>{0} {PAWN_gender ? изрезан : изрезана : изрезано} насмерть.</AA_InfectedClaws.deathMessage>
+  <AA_ExtraDamageInsectoidsClaws.deathMessage>{0} {PAWN_gender ? изрезан : изрезана : изрезано} насмерть.</AA_ExtraDamageInsectoidsClaws.deathMessage>
+  <AA_SwarmlingClaws.deathMessage>{0} {PAWN_gender ? изрезан : изрезана : изрезано} насмерть.</AA_SwarmlingClaws.deathMessage>
+  <AA_ExtraDamageInsectoidsClaws.label>раздирающие когти</AA_ExtraDamageInsectoidsClaws.label>
+  <AA_ExtraDamageMechanoidsClaws.label>раздирающие когти</AA_ExtraDamageMechanoidsClaws.label>
+  <AA_ExtraDamageMechanoidsClaws.deathMessage>{0} {PAWN_gender ? загрызен : загрызена : загрызено} насмерть.</AA_ExtraDamageMechanoidsClaws.deathMessage>
+  <AA_ParalysingBite.deathMessage>{0} {PAWN_gender ? загрызен : загрызена : загрызено} насмерть.</AA_ParalysingBite.deathMessage>
+  <AA_LockJawDamage.deathMessage>{0} {PAWN_gender ? загрызен : загрызена : загрызено} насмерть.</AA_LockJawDamage.deathMessage>
+  <AA_BurningBite.deathMessage>{0} {PAWN_gender ? загрызен : загрызена : загрызено} насмерть.</AA_BurningBite.deathMessage>
+  <AA_ExtraDamageMechanoidsTusk.label>раздирающий бивень</AA_ExtraDamageMechanoidsTusk.label>
+  <AA_ExtraDamageMechanoidsTusk.deathMessage>{0} {PAWN_gender ? загрызен : загрызена : загрызено} насмерть.</AA_ExtraDamageMechanoidsTusk.deathMessage>
+  <FO_PlaguedBite.deathMessage>{0} {PAWN_gender ? загрызен : загрызена : загрызено} насмерть.</FO_PlaguedBite.deathMessage>
+  <AA_ExtraDamageMechanoidsBite.label>раздирающий укус</AA_ExtraDamageMechanoidsBite.label>
+  <AA_ExtraDamageMechanoidsBite.deathMessage>{0} {PAWN_gender ? изрезан : изрезана : изрезано} насмерть.</AA_ExtraDamageMechanoidsBite.deathMessage>
+  <AA_EMPSlash.deathMessage>{0} {PAWN_gender ? изрезан : изрезана : изрезано} насмерть.</AA_EMPSlash.deathMessage>
+  <AA_FungalClaws.deathMessage>{0} {PAWN_gender ? изрезан : изрезана : изрезано} насмерть.</AA_FungalClaws.deathMessage>
+  <AA_BlackHiveBolt.label>скверный плевок</AA_BlackHiveBolt.label>
+  <AA_BlackHiveBolt.deathMessage>{0} {PAWN_gender ? погиб : погибла : погибло} от отравления.</AA_BlackHiveBolt.deathMessage>
+  <AA_EMPBlunt.label>ЭМИ-импульс</AA_EMPBlunt.label>
+  <AA_EMPBlunt.deathMessage>{0} {PAWN_gender ? забит : забита : забито} насмерть.</AA_EMPBlunt.deathMessage>
+  <AA_EMPSlash.label>ЭМИ-разрез</AA_EMPSlash.label>
+  <AA_AcidSpit.label>кислотный плевок</AA_AcidSpit.label>
+  <AA_LuciferiumExplosion.label>люцифериевый взрыв</AA_LuciferiumExplosion.label>
+  <AA_LuciferiumExplosion.deathMessage>{0} {PAWN_gender ? погиб : погибла : погибло} от передозировки.</AA_LuciferiumExplosion.deathMessage>
+  <AA_AcidRainDamage.label>кислотный дождь</AA_AcidRainDamage.label>
+  <AA_VeryToxicSting.label>крайне ядовитое жало</AA_VeryToxicSting.label>
+  <AA_ParalysingBite.label>парализующий укус</AA_ParalysingBite.label>
+  <AA_Electric.label>удар током</AA_Electric.label>
+  <AA_Electric.deathMessage>{0} {PAWN_gender ? погиб : погибла : погибло} от удара током.</AA_Electric.deathMessage>
+  <AA_FrostBomb.label>морозный взрыв</AA_FrostBomb.label>
+  <AA_FrostBomb.deathMessage>{0} {PAWN_gender ? заморожен : заморожена : заморожено} насмерть.</AA_FrostBomb.deathMessage>
+  <AA_FrostClaws.deathMessage>{0} {PAWN_gender ? заморожен : заморожена : заморожено} насмерть.</AA_FrostClaws.deathMessage>
+  <AA_FrostBite.deathMessage>{0} {PAWN_gender ? заморожен : заморожена : заморожено} насмерть.</AA_FrostBite.deathMessage>
+  <AA_SiegeBlunt.label>сдавливание</AA_SiegeBlunt.label>
+  <BodyCrush.label>сдавливание</BodyCrush.label>
+  <AA_SiegeBlunt.deathMessage>{0} {PAWN_gender ? раздавлен : раздавлена : раздавлено} насмерть.</AA_SiegeBlunt.deathMessage>
+  <BodyCrush.deathMessage>{0} {PAWN_gender ? раздавлен : раздавлена : раздавлено} насмерть.</BodyCrush.deathMessage>
+  <AA_PermanentBurn.label>неизлечимый ожог</AA_PermanentBurn.label>
+  <AA_PermanentBurn.deathMessage>{0} {PAWN_gender ? погиб : погибла : погибло} от ожогов.</AA_PermanentBurn.deathMessage>
+  <AA_BoulderScratch.label>царапина</AA_BoulderScratch.label>
+  <AA_BoulderScratch.deathMessage>{0} {PAWN_gender ? раздавлен : раздавлена : раздавлено} насмерть.</AA_BoulderScratch.deathMessage>
+  <AA_LockJawDamage.label>укус челюстяна</AA_LockJawDamage.label>
+  <AA_Pierce.label>прокол</AA_Pierce.label>
+  <AA_Pierce.deathMessage>{0} {PAWN_gender ? заколот : заколота : заколото} насмерть.</AA_Pierce.deathMessage>
+  <AA_RegenerativePierce.deathMessage>{0} {PAWN_gender ? заколот : заколота : заколото} насмерть.</AA_RegenerativePierce.deathMessage>
+  <AA_BurningBite.label>обжигающий укус</AA_BurningBite.label>
+  <Frostbite.label>обморожение</Frostbite.label>
+  <Frostbite.deathMessage>{0} {PAWN_gender ? погиб : погибла : погибло} от обморожения.</Frostbite.deathMessage>
+  <AA_FrostClaws.label>морозные когти</AA_FrostClaws.label>
+  <AA_FrostBite.label>морозный укус</AA_FrostBite.label>
+  <AA_BurningAndFeedingBite.label>обжигающая атака</AA_BurningAndFeedingBite.label>
+  <AA_BurningAndFeedingBite.deathMessage>{0} {PAWN_gender ? погиб : погибла : погибло} от ожогов и колотых ран.</AA_BurningAndFeedingBite.deathMessage>
+  <AA_RegenerativePierce.label>вампирический укол</AA_RegenerativePierce.label>
+  <AA_SwallowWhole.label>проглатывание целиком</AA_SwallowWhole.label>
+  <AA_SwallowWhole.deathMessage>{0} {PAWN_gender ? загрызен : загрызена : загрызено} насмерть.</AA_SwallowWhole.deathMessage>
+  <AA_SwarmlingClaws.label>когти роевика</AA_SwarmlingClaws.label>
+  <FO_PlaguedBite.label>чумной укус</FO_PlaguedBite.label>
+</LanguageData>

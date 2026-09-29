@@ -1,0 +1,53 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFEPD_UnstablePowerCell.label>муляж энергоячейки</VFEPD_UnstablePowerCell.label>
+  <VFEPD_UnstablePowerCell.description>Муляж механоидного источника энергии. Электричества не вырабатывает.</VFEPD_UnstablePowerCell.description>
+  <VFEPD_Gloomlight.label>отключённый узел механоидов</VFEPD_Gloomlight.label>
+  <VFEPD_Gloomlight.description>Автономный механоидный узел неизвестного назначения. Отключён.</VFEPD_Gloomlight.description>
+  <VFEPD_Defoliator.label>неактивный дефолиатор</VFEPD_Defoliator.label>
+  <VFEPD_Defoliator.description>Устройство, уничтожающее растения поблизости, не затрагивая животных, и делающее местность непригодной для жизни. Безвозвратно вышло из строя.</VFEPD_Defoliator.description>
+  <VFEPD_Activator.label>активатор с таймером</VFEPD_Activator.label>
+  <VFEPD_Activator.description>Устройство активации механоидов с таймером. Когда отсчёт закончится, оно... ничего не сделает... Такие дела.</VFEPD_Activator.description>
+  <VFEPD_ActivatorProx.label>активатор приближения</VFEPD_ActivatorProx.label>
+  <VFEPD_ActivatorProx.description>Сигнализация для спящих механоидов. Если поблизости появится угроза в лице человекоподобного существа, она... ничего не сделает... Такие дела.</VFEPD_ActivatorProx.description>
+  <VFEPD_ShieldGenerator.label>муляж щита</VFEPD_ShieldGenerator.label>
+  <VFEPD_ShieldGenerator.description>Защитное устройство, создающее поле, которое отражает летящие объекты. Точнее, создавало бы, если бы не было муляжом.</VFEPD_ShieldGenerator.description>
+  <VFEPD_ShieldGeneratorLow.label>муляж низкого щита</VFEPD_ShieldGeneratorLow.label>
+  <VFEPD_ShieldGeneratorLow.description>Защитное устройство, создающее поле, которое отражает летящие объекты. Точнее, создавало бы, если бы не было муляжом.</VFEPD_ShieldGeneratorLow.description>
+  <VFEPD_MechCapsule.label>капсула с механоидами</VFEPD_MechCapsule.label>
+  <VFEPD_MechCapsule.description>Капсула для хранения и высадки механоидов. Наглухо закрыта и не работает.</VFEPD_MechCapsule.description>
+  <VFEPD_MechCapsuleOpen.label>капсула с механоидами, открытая</VFEPD_MechCapsuleOpen.label>
+  <VFEPD_MechCapsuleOpen.description>Капсула для хранения и высадки механоидов. Открыта и пуста.</VFEPD_MechCapsuleOpen.description>
+  <VFEPD_MechAssembler.label>породитель механоидов</VFEPD_MechAssembler.label>
+  <VFEPD_MechAssembler.description>Автоматический завод механоидов. Отключён и наглухо закрыт.</VFEPD_MechAssembler.description>
+  <VFEPD_MechDropBeacon.label>маяк высадки</VFEPD_MechDropBeacon.label>
+  <VFEPD_MechDropBeacon.description>Маяк высадки механоидного подкрепления. При активации ничего не делает, потому что он ненастоящий. Воображаемые механоиды вам не навредят.</VFEPD_MechDropBeacon.description>
+  <VFEPD_SunBlocker.label>блокировщик солнца</VFEPD_SunBlocker.label>
+  <VFEPD_SunBlocker.description>Устройство миров-утопий, создающее на большой высоте слой экзотических полей, который делает небо непрозрачным и закрывает солнце. Заглянув внутрь, вы обнаружите, что это картонная декорация без каких-либо нужных механизмов.</VFEPD_SunBlocker.description>
+  <VFEPD_SmokeSpewer.label>дымообразователь</VFEPD_SmokeSpewer.label>
+  <VFEPD_SmokeSpewer.description>Оружие массового поражения миров-утопий, делающее местность непригодной для жизни. Оно собирает доступные вещества и превращает их в самовоспроизводящиеся непрозрачные молекулы, испуская достаточно дыма, чтобы закрыть солнце над целым регионом планеты. Заглянув внутрь, вы обнаружите, что это картонная декорация без каких-либо нужных механизмов.</VFEPD_SmokeSpewer.description>
+  <VFEPD_ToxicSpewer.label>генератор токсинов</VFEPD_ToxicSpewer.label>
+  <VFEPD_ToxicSpewer.description>Оружие массового поражения миров-утопий, делающее местность непригодной для жизни. Устройство собирает доступные вещества и превращает их в самовоспроизводящиеся яды. Выбрасывая их в атмосферу, оно способно отравить целый регион планеты. Заглянув внутрь, вы обнаружите, что это картонная декорация без каких-либо нужных механизмов.</VFEPD_ToxicSpewer.description>
+  <VFEPD_WeatherController.label>контроллер погоды</VFEPD_WeatherController.label>
+  <VFEPD_WeatherController.description>Устройство миров-утопий для управления погодой. С помощью химических веществ и экзотических полей оно поддерживает заданную погоду. Заглянув внутрь, вы обнаружите, что это картонная декорация без каких-либо нужных механизмов.</VFEPD_WeatherController.description>
+  <VFEPD_ClimateAdjuster.label>регулятор климата</VFEPD_ClimateAdjuster.label>
+  <VFEPD_ClimateAdjuster.description>Устройство миров-утопий для управления климатом. Воздействуя на атмосферу химическими веществами и экзотическими полями, оно меняет температуру в этом регионе мира. Заглянув внутрь, вы обнаружите, что это картонная декорация без каких-либо нужных механизмов.</VFEPD_ClimateAdjuster.description>
+  <VFEPD_PsychicDroner.label>психический излучатель</VFEPD_PsychicDroner.label>
+  <VFEPD_PsychicDroner.description>Архотехнологическое устройство, передающее мысли безумного сверхразума. Оно создаёт мощный психический гул, настроенный на один пол и охватывающий целый регион планеты. Заглянув внутрь, вы обнаружите, что это картонная декорация без каких-либо нужных механизмов.</VFEPD_PsychicDroner.description>
+  <VFEPD_PsychicSuppressor.label>психический подавитель</VFEPD_PsychicSuppressor.label>
+  <VFEPD_PsychicSuppressor.description>Архотехнологическое устройство, создающее мощное поле психического подавления, настроенное на определённый пол. Оно подавляет психическую активность людей этого пола, снижая их сознание. Заглянув внутрь, вы обнаружите, что это картонная декорация без каких-либо нужных механизмов.</VFEPD_PsychicSuppressor.description>
+  <VFEPD_EMIDynamo.label>ЭМИ-генератор</VFEPD_EMIDynamo.label>
+  <VFEPD_EMIDynamo.description>Мощный генератор электромагнитных помех. Нарушает работу электрических устройств в соседних регионах или полностью отключает их. Заглянув внутрь, вы обнаружите, что это картонная декорация без каких-либо нужных механизмов.</VFEPD_EMIDynamo.description>
+  <VFEPD_DrapeProp.label>декоративная драпировка</VFEPD_DrapeProp.label>
+  <VFEPD_DrapeProp.description>Декоративная драпировка. Не удовлетворяет требованиям знати, поскольку служит только украшением.</VFEPD_DrapeProp.description>
+  <VFEPD_Shuttle.label>челнок</VFEPD_Shuttle.label>
+  <VFEPD_Shuttle.description>Неисправный имперский челнок.</VFEPD_Shuttle.description>
+  <VFEPD_ShuttleCrashed.label>разбившийся челнок</VFEPD_ShuttleCrashed.label>
+  <VFEPD_ShuttleCrashed.description>ОЧЕНЬ неисправный имперский челнок.</VFEPD_ShuttleCrashed.description>
+  <VFEPD_FakeAnimaGrass.label>муляж травы анимы</VFEPD_FakeAnimaGrass.label>
+  <VFEPD_FakeAnimaGrass.description>Пластиковая трава, покрашенная под траву анимы. Наверняка ужасно вредна для природы.</VFEPD_FakeAnimaGrass.description>
+  <VFEPD_FakeAnimaTree.label>муляж древа анимы</VFEPD_FakeAnimaTree.label>
+  <VFEPD_FakeAnimaTree.description>Пластиковое дерево, изображающее древо анимы. Никаких психических сил не даёт.</VFEPD_FakeAnimaTree.description>
+  <VFEPD_ShipLandingBeacon.label>посадочный маяк</VFEPD_ShipLandingBeacon.label>
+  <VFEPD_ShipLandingBeacon.description>Обозначает угол посадочной площадки. Челноки проигнорируют этот маяк, поскольку он не работает.</VFEPD_ShipLandingBeacon.description>
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AA_DamageEvent_Crushing.rulePack.rulesStrings>
+    <li>damageSource-&gt;[grinding] горный краб [crushed]</li>
+    <li>destroyed_participle(p=3)-&gt;отрывая</li>
+    <li>grinding-&gt;несущийся напролом</li>
+    <li>grinding-&gt;проходящий мимо</li>
+    <li>grinding(p=10)-&gt;</li>
+    <li>crushed(p=8)-&gt;давит</li>
+    <li>crushed-&gt;расплющивает</li>
+    <li>crushed-&gt;сминает</li>
+  </AA_DamageEvent_Crushing.rulePack.rulesStrings>
+</LanguageData>

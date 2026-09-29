@@ -1,0 +1,54 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<ModMetaData>
+  <name>Vanilla Furniture Expanded - Props and Decor — русский перевод [Star Sky Mods]</name>
+  <author>chupakobra6 | Star Sky Mods</author>
+  <packageId>starsky.rimworld.ru.2102143149</packageId>
+  <modVersion>1.0.0</modVersion>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>vanillaexpanded.vfepropsanddecor</packageId>
+      <displayName>Vanilla Furniture Expanded - Props and Decor</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2102143149</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>oskarpotocki.vanillafactionsexpanded.core</packageId>
+      <displayName>Vanilla Expanded Framework</displayName>
+    </li>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>vanillaexpanded.vfepropsanddecor</li>
+  </loadAfter>
+  <description>Русский перевод Vanilla Furniture Expanded - Props and Decor (https://steamcommunity.com/sharedfiles/filedetails/?id=2102143149) для RimWorld 1.6. Оригинальный мод устанавливается отдельно.
+
+Переведены названия и описания декораций, категории меню, настройки и строка, встроенная в код. Оригинальный мод помогает обустроить колонию сотнями предметов: от растений и мебели до деталей космического корабля. Это декорации, а не работающие устройства.
+
+&lt;b&gt;ЧТО ПЕРЕВЕДЕНО&lt;/b&gt;
+Переведены тексты декораций, настройки и подписи игрового интерфейса.
+
+• Названия и описания декоративных предметов и растений, в том числе содержимого для подключённых дополнений.
+• Категории и короткие подписи в меню размещения декораций.
+• Настройки стоимости и возврата серебра, сообщения и строка из кода мода.
+
+&lt;b&gt;КАК ПОЛЬЗОВАТЬСЯ&lt;/b&gt;
+Выберите русский язык в настройках RimWorld.
+
+Размещайте предметы через меню декораций. Их стоимость и долю возвращаемого серебра можно менять в настройках Vanilla Furniture Expanded - Props and Decor.
+
+&lt;b&gt;СОВМЕСТИМОСТЬ&lt;/b&gt;
+Требуются Harmony (https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077), Vanilla Expanded Framework (https://steamcommunity.com/sharedfiles/filedetails/?id=2023507013) и Vanilla Furniture Expanded - Props and Decor (https://steamcommunity.com/sharedfiles/filedetails/?id=2102143149). Порядок загрузки: Harmony → Vanilla Expanded Framework → оригинальный мод → этот перевод.
+
+&lt;b&gt;ОБРАТНАЯ СВЯЗЬ&lt;/b&gt;
+Заметили ошибку или неточность? Напишите в комментариях на странице мода или на Boosty.
+
+Авторы оригинального мода: Oskar Potocki, Sarg Bjornson.
+
+Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.</description>
+</ModMetaData>

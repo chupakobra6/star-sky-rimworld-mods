@@ -1,0 +1,83 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFEPD_FakeCube.label>муляж куба</VFEPD_FakeCube.label>
+  <VFEPD_FakeCube.description>Разве это не ересь?? Ведь ересь же, да??</VFEPD_FakeCube.description>
+  <VFEPD_DecorativePlatform.label>декоративная платформа</VFEPD_DecorativePlatform.label>
+  <VFEPD_DecorativePlatform.description>Декоративная платформа для удержания объектов. Для настоящего сдерживания совершенно непригодна.</VFEPD_DecorativePlatform.description>
+  <VFEPD_AtmosphericHeater.label>обогреватель атмосферы</VFEPD_AtmosphericHeater.label>
+  <VFEPD_AtmosphericHeater.description>Устройство для теплового воздействия, питаемое найденными осколками тёмных архотехнологий. Не работает.</VFEPD_AtmosphericHeater.description>
+  <VFEPD_AtmosphericHeaterLit.label>обогреватель атмосферы, с подсветкой</VFEPD_AtmosphericHeaterLit.label>
+  <VFEPD_AtmosphericHeaterLit.description>Устройство для теплового воздействия, питаемое найденными осколками тёмных архотехнологий. Не работает.</VFEPD_AtmosphericHeaterLit.description>
+  <VFEPD_DecorativeCubeSculture_Dirt.label>декоративный куб из земли</VFEPD_DecorativeCubeSculture_Dirt.label>
+  <VFEPD_DecorativeCubeSculture_Dirt.description>Наспех сделанная скульптура, напоминающая куб.</VFEPD_DecorativeCubeSculture_Dirt.description>
+  <VFEPD_DecorativeCubeSculture_Stone.label>декоративный куб из камня</VFEPD_DecorativeCubeSculture_Stone.label>
+  <VFEPD_DecorativeCubeSculture_Stone.description>Наспех сделанная скульптура, напоминающая куб.</VFEPD_DecorativeCubeSculture_Stone.description>
+  <VFEPD_DecorativeCubeSculture_Sand.label>декоративный куб из песка</VFEPD_DecorativeCubeSculture_Sand.label>
+  <VFEPD_DecorativeCubeSculture_Sand.description>Наспех сделанная скульптура, напоминающая куб.</VFEPD_DecorativeCubeSculture_Sand.description>
+  <VFEPD_DecorativeCubeSculture_Scrap.label>декоративный куб из хлама</VFEPD_DecorativeCubeSculture_Scrap.label>
+  <VFEPD_DecorativeCubeSculture_Scrap.description>Наспех сделанная скульптура, напоминающая куб.</VFEPD_DecorativeCubeSculture_Scrap.description>
+  <VFEPD_GrayBox.label>серый ящик</VFEPD_GrayBox.label>
+  <VFEPD_GrayBox.description>Странный серый контейнер с гладкими поверхностями без каких-либо примет. Он сделан не из металла, не из бетона и не из какого-либо другого узнаваемого материала. Наглухо закрыт.</VFEPD_GrayBox.description>
+  <VFEPD_GrayBox_Empty.label>пустой серый ящик</VFEPD_GrayBox_Empty.label>
+  <VFEPD_GrayBox_Empty.description>Странный серый контейнер с гладкими поверхностями без каких-либо примет. Он сделан не из металла, не из бетона и не из какого-либо другого узнаваемого материала. Пуст.</VFEPD_GrayBox_Empty.description>
+  <VFEPD_FakeGrayDoor.label>муляж серой двери</VFEPD_FakeGrayDoor.label>
+  <VFEPD_FakeGrayDoor.description>Неработающая дверь. Это всего лишь две покрашенные фанерные панели, которые не открываются. Через них можно проходить.</VFEPD_FakeGrayDoor.description>
+  <VFEPD_FakeSecurityDoor.label>муляж защитной двери</VFEPD_FakeSecurityDoor.label>
+  <VFEPD_FakeSecurityDoor.description>Неработающая защитная дверь. Это всего лишь две покрашенные фанерные панели, которые не открываются. Через них можно проходить.</VFEPD_FakeSecurityDoor.description>
+  <VFEPD_GrayStatue.label>декоративная серая статуя</VFEPD_GrayStatue.label>
+  <VFEPD_GrayStatue.description>Странная искривлённая скульптура тревожных очертаний. Тихо гудит от какой-то внутренней энергии. Служит только украшением.</VFEPD_GrayStatue.description>
+  <VFEPD_Noctolith.label>ноктолит</VFEPD_Noctolith.label>
+  <VFEPD_Noctolith.description>Искривлённый столп из зазубренных лезвиеподобных конструкций, сделанных из тёмного маслянистого металла. Служит только украшением.</VFEPD_Noctolith.description>
+  <VFEPD_InactiveTwistedObelisk.label>неактивный изогнутый обелиск</VFEPD_InactiveTwistedObelisk.label>
+  <VFEPD_InactiveTwistedObelisk.description>Большой металлический столп. Не работает и служит только украшением.</VFEPD_InactiveTwistedObelisk.description>
+  <VFEPD_InactiveCorruptedObelisk.label>неактивный деформированный обелиск</VFEPD_InactiveCorruptedObelisk.label>
+  <VFEPD_InactiveCorruptedObelisk.description>Большой металлический столп. Не работает и служит только украшением.</VFEPD_InactiveCorruptedObelisk.description>
+  <VFEPD_InactiveWarpedObelisk.label>неактивный кривой обелиск</VFEPD_InactiveWarpedObelisk.label>
+  <VFEPD_InactiveWarpedObelisk.description>Большой металлический столп. Не работает и служит только украшением.</VFEPD_InactiveWarpedObelisk.description>
+  <VFEPD_PitBurrow.label>муляж норы</VFEPD_PitBurrow.label>
+  <VFEPD_PitBurrow.description>Небольшое отверстие, ведущее в невидимую сеть пещер глубоко под землёй... Хотя при ближайшем рассмотрении оказывается, что оно просто нарисовано на земле...</VFEPD_PitBurrow.description>
+  <VFEPD_EndlessPit2x2c.label>муляж провала, малый</VFEPD_EndlessPit2x2c.label>
+  <VFEPD_EndlessPit2x2c.description>Отверстие с гладкими стенками, уходящее бесконечно глубоко... Хотя при ближайшем рассмотрении оказывается, что оно просто нарисовано на земле...</VFEPD_EndlessPit2x2c.description>
+  <VFEPD_EndlessPit3x2c.label>муляж провала, средний</VFEPD_EndlessPit3x2c.label>
+  <VFEPD_EndlessPit3x2c.description>Отверстие с гладкими стенками, уходящее бесконечно глубоко... Хотя при ближайшем рассмотрении оказывается, что оно просто нарисовано на земле...</VFEPD_EndlessPit3x2c.description>
+  <VFEPD_EndlessPit3x3c.label>муляж провала, большой</VFEPD_EndlessPit3x3c.label>
+  <VFEPD_EndlessPit3x3c.description>Отверстие с гладкими стенками, уходящее бесконечно глубоко... Хотя при ближайшем рассмотрении оказывается, что оно просто нарисовано на земле...</VFEPD_EndlessPit3x3c.description>
+  <VFEPD_PitGate.label>хтонические врата</VFEPD_PitGate.label>
+  <VFEPD_PitGate.description>Огромный зловещий провал, соединяющий поверхность с тёмной сетью подземных пещер... Хотя при ближайшем рассмотрении оказывается, что он просто нарисован на земле...</VFEPD_PitGate.description>
+  <VFEPD_ArchotechSupport_Small.label>архотехнологическая опора</VFEPD_ArchotechSupport_Small.label>
+  <VFEPD_ArchotechSupport_Small.description>Искривлённая архотехнологическая конструкция. Не работает и служит только украшением.</VFEPD_ArchotechSupport_Small.description>
+  <VFEPD_ArchotechSupport_Large.label>большая архотехнологическая опора</VFEPD_ArchotechSupport_Large.label>
+  <VFEPD_ArchotechSupport_Large.description>Искривлённая архотехнологическая конструкция. Не работает и служит только украшением.</VFEPD_ArchotechSupport_Large.description>
+  <VFEPD_ArchotechSupport_Vertical.label>вертикальная архотехнологическая опора</VFEPD_ArchotechSupport_Vertical.label>
+  <VFEPD_ArchotechSupport_Vertical.description>Искривлённая архотехнологическая конструкция. Не работает и служит только украшением.</VFEPD_ArchotechSupport_Vertical.description>
+  <VFEPD_VoidSculpture.label>декоративная скульптура пустоты</VFEPD_VoidSculpture.label>
+  <VFEPD_VoidSculpture.description>Тревожная скульптура из биоферрита. Не работает и служит только украшением.</VFEPD_VoidSculpture.description>
+  <VFEPD_VoidStructure.label>конструкция пустоты</VFEPD_VoidStructure.label>
+  <VFEPD_VoidStructure.description>Искажённая конструкция из зазубренных маслянистых деталей, похожих на металлические. Не работает и служит только украшением.</VFEPD_VoidStructure.description>
+  <VFEPD_VoidStructureLit.label>конструкция пустоты, с подсветкой</VFEPD_VoidStructureLit.label>
+  <VFEPD_VoidStructureLit.description>Искажённая конструкция из зазубренных маслянистых деталей, похожих на металлические. Не работает и служит только украшением.</VFEPD_VoidStructureLit.description>
+  <VFEPD_Fleshmassfilth.label>остатки биомассы</VFEPD_Fleshmassfilth.label>
+  <VFEPD_Fleshmassfilth.description>Остатки биомассы. Прямо как у бабушки.</VFEPD_Fleshmassfilth.description>
+  <VFEPD_RevenantSmear.label>след ревенанта</VFEPD_RevenantSmear.label>
+  <VFEPD_RevenantSmear.description>След ревенанта. Именно так называется моя блэк-метал-группа.</VFEPD_RevenantSmear.description>
+  <VFEPD_RevenantGorePool.label>лужа крови ревенанта</VFEPD_RevenantGorePool.label>
+  <VFEPD_RevenantGorePool.description>Лужа крови ревенанта. Пахнет малиной.</VFEPD_RevenantGorePool.description>
+  <VFEPD_LooseGround.label>рыхлая земля</VFEPD_LooseGround.label>
+  <VFEPD_LooseGround.description>Россыпь рыхлой земли.</VFEPD_LooseGround.description>
+  <VFEPD_TwistedFlesh.label>искажённая плоть</VFEPD_TwistedFlesh.label>
+  <VFEPD_TwistedFlesh.description>Ошмётки искажённой плоти. Органический продукт.</VFEPD_TwistedFlesh.description>
+  <VFEPD_MetalhorrorDebris.label>останки металлической жути</VFEPD_MetalhorrorDebris.label>
+  <VFEPD_MetalhorrorDebris.description>Обломки металлической жути.</VFEPD_MetalhorrorDebris.description>
+  <VFEPD_FloorEtchings.label>узоры на полу</VFEPD_FloorEtchings.label>
+  <VFEPD_FloorEtchings.description>Узоры, выцарапанные на полу.</VFEPD_FloorEtchings.description>
+  <VFEPD_FakeHarbingerTree.label>муляж древа-предвестника</VFEPD_FakeHarbingerTree.label>
+  <VFEPD_FakeHarbingerTree.description>Пластиковое дерево, изображающее древо-предвестник. Ничего не жуёт.</VFEPD_FakeHarbingerTree.description>
+  <VFEPD_NociosphereDeparting.label>уход ноциосферы</VFEPD_NociosphereDeparting.label>
+  <VFEPD_NociosphereDeparting.description>Декоративный эффект ухода ноциосферы. Требователен к производительности; используйте умеренно.</VFEPD_NociosphereDeparting.description>
+  <VFEPD_TachycardiacArrest.label>тахикардическая остановка сердца</VFEPD_TachycardiacArrest.label>
+  <VFEPD_TachycardiacArrest.description>Декоративный эффект тахикардической остановки сердца. Требователен к производительности; используйте умеренно.</VFEPD_TachycardiacArrest.description>
+  <VFEPD_ShamblerRaise.label>подъём шамблера</VFEPD_ShamblerRaise.label>
+  <VFEPD_ShamblerRaise.description>Декоративный эффект подъёма шамблера. Требователен к производительности; используйте умеренно.</VFEPD_ShamblerRaise.description>
+  <VFEPD_AbductWarmup.label>подготовка похищения</VFEPD_AbductWarmup.label>
+  <VFEPD_AbductWarmup.description>Декоративный эффект подъёма шамблера. Требователен к производительности; используйте умеренно.</VFEPD_AbductWarmup.description>
+</LanguageData>

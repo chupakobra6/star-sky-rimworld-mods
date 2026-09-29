@@ -1,0 +1,43 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AG_OcularJellyAffinity.symbolPack.prefixSymbols.0.symbol>окуло</AG_OcularJellyAffinity.symbolPack.prefixSymbols.0.symbol>
+  <AG_BlueGelProduction.label>выделение синего геля</AG_BlueGelProduction.label>
+  <AG_BlueGelProduction.description>Кожа носителей этого гена постоянно выделяет сгустки синего геля — вещества с высокой энергоёмкостью, которое может использоваться для питания механизмов, работающих на синем геле.</AG_BlueGelProduction.description>
+  <AG_BlueGelProduction.customEffectDescriptions.0>Вырабатывает 10 единиц синего геля в день</AG_BlueGelProduction.customEffectDescriptions.0>
+  <AG_NightlingAffinity.label>связь с найтлингами</AG_NightlingAffinity.label>
+  <AG_NightlingAffinity.description>Носители этого гена обладают врождённой связью с найтлингами и могут мгновенно приручить одного из них.</AG_NightlingAffinity.description>
+  <AG_FissionMouseAffinity.label>связь с делящимися мышами</AG_FissionMouseAffinity.label>
+  <AG_FissionMouseAffinity.description>Носители этого гена привлекают делящихся мышей: вокруг них постоянно собирается стайка ручных зверьков.</AG_FissionMouseAffinity.description>
+  <AG_FissionMouseAffinity.customEffectDescriptions.0>Начинает игру с 3 ручными делящимися мышами.</AG_FissionMouseAffinity.customEffectDescriptions.0>
+  <AG_FissionMouseAffinity.customEffectDescriptions.1>Этот ген можно выбрать только при создании персонажа, и действует он только в этот момент. В ходе игры он не появляется.</AG_FissionMouseAffinity.customEffectDescriptions.1>
+  <AG_NeedlerollAffinity.customEffectDescriptions.1>Этот ген можно выбрать только при создании персонажа, и действует он только в этот момент. В ходе игры он не появляется.</AG_NeedlerollAffinity.customEffectDescriptions.1>
+  <AG_OcularJellyAffinity.customEffectDescriptions.1>Этот ген можно выбрать только при создании персонажа, и действует он только в этот момент. В ходе игры он не появляется.</AG_OcularJellyAffinity.customEffectDescriptions.1>
+  <AG_AveAffinity.customEffectDescriptions.1>Этот ген можно выбрать только при создании персонажа, и действует он только в этот момент. В ходе игры он не появляется.</AG_AveAffinity.customEffectDescriptions.1>
+  <AG_FissionMouseAffinity.symbolPack.prefixSymbols.0.symbol>деляще</AG_FissionMouseAffinity.symbolPack.prefixSymbols.0.symbol>
+  <AG_FissionMouseAffinity.symbolPack.prefixSymbols.1.symbol>вредо</AG_FissionMouseAffinity.symbolPack.prefixSymbols.1.symbol>
+  <AG_NeedlerollAffinity.label>связь с иглокатами</AG_NeedlerollAffinity.label>
+  <AG_NeedlerollAffinity.description>Носители этого гена привлекают иглокатов: вокруг них постоянно собирается стайка ручных зверьков.</AG_NeedlerollAffinity.description>
+  <AG_NeedlerollAffinity.customEffectDescriptions.0>Начинает игру с 3 ручными иглокатами.</AG_NeedlerollAffinity.customEffectDescriptions.0>
+  <AG_NeedlerollAffinity.symbolPack.prefixSymbols.0.symbol>кактусо</AG_NeedlerollAffinity.symbolPack.prefixSymbols.0.symbol>
+  <AG_NeedlerollAffinity.symbolPack.prefixSymbols.1.symbol>растение</AG_NeedlerollAffinity.symbolPack.prefixSymbols.1.symbol>
+  <AG_OcularJellyAffinity.label>связь с окулярной медузой</AG_OcularJellyAffinity.label>
+  <AG_OcularJellyAffinity.description>Носители этого гена прорвали завесу между реальностями и получили доступ к иному измерению, воплощающему чистое безумие.</AG_OcularJellyAffinity.description>
+  <AG_OcularJellyAffinity.customEffectDescriptions.0>Начинает игру с ручной окулярной медузой.</AG_OcularJellyAffinity.customEffectDescriptions.0>
+  <AG_AveAffinity.label>связь с луговым цезарем</AG_AveAffinity.label>
+  <AG_AveAffinity.description>Носители этого гена обладают мистической пси-связью с луговым цезарем.</AG_AveAffinity.description>
+  <AG_AveAffinity.customEffectDescriptions.0>Начинает игру с ручным луговым цезарем.</AG_AveAffinity.customEffectDescriptions.0>
+  <AG_AveAffinity.symbolPack.prefixSymbols.0.symbol>птице</AG_AveAffinity.symbolPack.prefixSymbols.0.symbol>
+  <AG_AveAffinity.symbolPack.prefixSymbols.1.symbol>авиа</AG_AveAffinity.symbolPack.prefixSymbols.1.symbol>
+  <AG_AerofleetLeather.label>кожа аэрофлита</AG_AerofleetLeather.label>
+  <AG_AerofleetLeather.description>При разделке носителей этого гена получают мех аэрофлита. Для них одежда из такого меха считается одеждой из человеческой кожи.</AG_AerofleetLeather.description>
+  <AG_ChitinLeather.label>хитиновая кожа</AG_ChitinLeather.label>
+  <AG_ChitinLeather.description>При разделке носителей этого гена получают хитин. Для них хитиновая одежда считается одеждой из человеческой кожи.</AG_ChitinLeather.description>
+  <AG_BlackChitinLeather.label>чёрная хитиновая кожа</AG_BlackChitinLeather.label>
+  <AG_BlackChitinLeather.description>При разделке носителей этого гена получают чёрный хитин насекомых. Для них одежда из такого хитина считается одеждой из человеческой кожи.</AG_BlackChitinLeather.description>
+  <AG_AerofleetFlesh.label>плоть аэрофлита</AG_AerofleetFlesh.label>
+  <AG_AerofleetFlesh.description>У носителей этого гена вязкая, студенистая и безвкусная плоть, по текстуре напоминающая медузу. Употребление такого мяса для них считается каннибализмом.</AG_AerofleetFlesh.description>
+  <AG_PlantFlesh.label>растительная плоть</AG_PlantFlesh.label>
+  <AG_PlantFlesh.description>Плоть носителей этого гена сочетает растительную и животную природу. Мягко говоря, странное сочетание. Употребление такого мяса для них считается каннибализмом.</AG_PlantFlesh.description>
+  <AG_OcularFlesh.label>окулярная плоть</AG_OcularFlesh.label>
+  <AG_OcularFlesh.description>У носителей этого гена красная, вязкая, студенистая и безвкусная плоть, по текстуре напоминающая медузу. Употребление такого мяса для них считается каннибализмом.</AG_OcularFlesh.description>
+</LanguageData>

@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AA_PsionicNuzzleInteraction.label>псионическая ласка</AA_PsionicNuzzleInteraction.label>
+  <AA_PsionicNuzzleInteraction.logRulesInitiator.rulesStrings>
+    <li>r_logentry(p=2)-&gt;[RECIPIENT_nameDef] [nuzzled], пока [INITIATOR_nameDef] [nuzzleadverb] ласкается.</li>
+    <li>r_logentry-&gt;[RECIPIENT_nameDef] чувствует, как [INITIATOR_nameDef] [nuzzleadverb] трётся носом о [RECIPIENT_possessive] [rubbedpart].</li>
+    <li>nuzzled(p=2)-&gt;ощущает успокаивающую псионическую волну</li>
+    <li>nuzzled-&gt;чувствует псионическую ласку</li>
+    <li>nuzzleadverb(p=4)-&gt;</li>
+    <li>nuzzleadverb-&gt;нежно</li>
+    <li>nuzzleadverb-&gt;ободряюще</li>
+    <li>nuzzleadverb-&gt;радостно</li>
+    <li>nuzzleadverb-&gt;мягко</li>
+    <li>nuzzleadverb-&gt;заботливо</li>
+    <li>nuzzleadverb-&gt;легонько</li>
+    <li>nuzzleadverb-&gt;тепло</li>
+    <li>nuzzleadverb-&gt;жалобно</li>
+    <li>nuzzleadverb-&gt;с любовью</li>
+    <li>nuzzleadverb-&gt;ласково</li>
+    <li>rubbedpart-&gt;ногу</li>
+    <li>rubbedpart-&gt;колено</li>
+    <li>rubbedpart-&gt;ступню</li>
+    <li>rubbedpart-&gt;локоть</li>
+    <li>rubbedpart-&gt;бедро</li>
+    <li>rubbedpart-&gt;плечо</li>
+    <li>rubbedpart-&gt;ладонь</li>
+    <li>rubbedpart-&gt;бок</li>
+    <li>rubbedpart-&gt;руку</li>
+  </AA_PsionicNuzzleInteraction.logRulesInitiator.rulesStrings>
+</LanguageData>

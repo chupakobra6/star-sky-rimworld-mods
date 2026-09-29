@@ -1,0 +1,235 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFEPD_AncientTerminal.label>древний терминал</VFEPD_AncientTerminal.label>
+  <VFEPD_AncientTerminal.description>Древний компьютерный терминал.</VFEPD_AncientTerminal.description>
+  <VFEPD_AncientEnemyTerminal.label>древний вражеский терминал</VFEPD_AncientEnemyTerminal.label>
+  <VFEPD_AncientEnemyTerminal.description>Древний компьютерный терминал.</VFEPD_AncientEnemyTerminal.description>
+  <VFEPD_AncientHermetic.label>древний герметичный ящик</VFEPD_AncientHermetic.label>
+  <VFEPD_AncientHermetic.description>Автономный герметичный ящик для хранения ценных предметов. Способен долго сохранять содержимое. Наглухо закрыт.</VFEPD_AncientHermetic.description>
+  <VFEPD_AncientSecurityCrate.label>древний защищённый ящик</VFEPD_AncientSecurityCrate.label>
+  <VFEPD_AncientSecurityCrate.description>Большой автономный герметичный ящик со встроенной сигнализацией. Способен долго сохранять содержимое. Наглухо закрыт.</VFEPD_AncientSecurityCrate.description>
+  <VFEPD_AncientCommsConsole.label>древняя консоль связи</VFEPD_AncientCommsConsole.label>
+  <VFEPD_AncientCommsConsole.description>Древняя консоль с антенной связи. Ценных деталей не осталось, а всё остальное пришло в негодность.</VFEPD_AncientCommsConsole.description>
+  <VFEPD_AncientFuelNode.label>древний топливный узел</VFEPD_AncientFuelNode.label>
+  <VFEPD_AncientFuelNode.description>Древний опустевший топливный узел, когда-то служивший для заправки машин.</VFEPD_AncientFuelNode.description>
+  <VFEPD_AncientSystemRack.label>древняя аппаратная стойка</VFEPD_AncientSystemRack.label>
+  <VFEPD_AncientSystemRack.description>Древняя стойка, заполненная устройствами неизвестного назначения. Ценных деталей не осталось, а всё остальное пришло в негодность.</VFEPD_AncientSystemRack.description>
+  <VFEPD_AncientEquipmentBlocks.label>древние блоки оборудования</VFEPD_AncientEquipmentBlocks.label>
+  <VFEPD_AncientEquipmentBlocks.description>Набор древних блоков оборудования неизвестного назначения. Ценных деталей не осталось, а всё остальное пришло в негодность.</VFEPD_AncientEquipmentBlocks.description>
+  <VFEPD_AncientMachine.label>древняя машина</VFEPD_AncientMachine.label>
+  <VFEPD_AncientMachine.description>Большой корпус древней машины, заполненный неизвестными механизмами. Ценных деталей не осталось, а всё остальное пришло в негодность.</VFEPD_AncientMachine.description>
+  <VFEPD_AncientStorageCylinder.label>древний резервуар</VFEPD_AncientStorageCylinder.label>
+  <VFEPD_AncientStorageCylinder.description>Древнее устройство, в котором, похоже, когда-то хранилась какая-то жидкость. Ценных деталей не осталось, а всё остальное пришло в негодность.</VFEPD_AncientStorageCylinder.description>
+  <VFEPD_AncientBed.label>древняя кровать</VFEPD_AncientBed.label>
+  <VFEPD_AncientBed.description>Старый сгнивший матрас на ржавой раме.</VFEPD_AncientBed.description>
+  <VFEPD_AncientDisplayBank.label>древний пульт с экранами</VFEPD_AncientDisplayBank.label>
+  <VFEPD_AncientDisplayBank.description>Древний компьютерный пульт. Ценных деталей не осталось, а всё остальное пришло в негодность.</VFEPD_AncientDisplayBank.description>
+  <VFEPD_AncientLockerBank.label>древние шкафчики</VFEPD_AncientLockerBank.label>
+  <VFEPD_AncientLockerBank.description>Ряд древних проржавевших шкафчиков. Все они взломаны, внутри не осталось ничего ценного.</VFEPD_AncientLockerBank.description>
+  <VFEPD_AncientCrate.label>древний ящик</VFEPD_AncientCrate.label>
+  <VFEPD_AncientCrate.description>Древний сломанный ящик. Всё ценное, что когда-то в нём хранилось, пришло в негодность.</VFEPD_AncientCrate.description>
+  <VFEPD_AncientMilitaryCrate.label>древний военный ящик</VFEPD_AncientMilitaryCrate.label>
+  <VFEPD_AncientMilitaryCrate.description>Древний ящик, похожий на военный. Его давно сломали, а всё ценное из него разграбили.</VFEPD_AncientMilitaryCrate.description>
+  <VFEPD_AncientSpacerCrate.label>древний космический ящик</VFEPD_AncientSpacerCrate.label>
+  <VFEPD_AncientSpacerCrate.description>Древний сломанный ящик. Всё ценное из него давно забрали.</VFEPD_AncientSpacerCrate.description>
+  <VFEPD_AncientBarrel.label>древняя бочка</VFEPD_AncientBarrel.label>
+  <VFEPD_AncientBarrel.description>Древняя разбитая бочка, в которой, похоже, когда-то хранились какие-то отходы. Теперь внутри лишь следы засохшего осадка.</VFEPD_AncientBarrel.description>
+  <VFEPD_AncientGenerator.label>древний генератор</VFEPD_AncientGenerator.label>
+  <VFEPD_AncientGenerator.description>Древний электрогенератор. Все пригодные детали давно разбили или растащили, а остальное проржавело и пришло в негодность.</VFEPD_AncientGenerator.description>
+  <VFEPD_AncientOperatingTable.label>древний операционный стол</VFEPD_AncientOperatingTable.label>
+  <VFEPD_AncientOperatingTable.description>Стол, когда-то служивший для хирургических операций. Давно пришёл в негодность.</VFEPD_AncientOperatingTable.description>
+  <VFEPD_AncientShoppingCart.label>древняя тележка для покупок</VFEPD_AncientShoppingCart.label>
+  <VFEPD_AncientShoppingCart.description>Древняя проржавевшая тележка для покупок. Как она здесь оказалась — загадка, но история наверняка долгая и довольно грустная.</VFEPD_AncientShoppingCart.description>
+  <VFEPD_AncientPostbox.label>древний почтовый ящик</VFEPD_AncientPostbox.label>
+  <VFEPD_AncientPostbox.description>Древний почтовый ящик, разбитый и пришедший в полную негодность. Похоже, его давно перенесли сюда по неизвестной причине.</VFEPD_AncientPostbox.description>
+  <VFEPD_AncientVendingMachine.label>древний торговый автомат</VFEPD_AncientVendingMachine.label>
+  <VFEPD_AncientVendingMachine.description>Древний торговый автомат. Его разбили много веков назад, а поколения мародёров забрали все хоть сколько-нибудь полезные детали. Как он здесь оказался — загадка.</VFEPD_AncientVendingMachine.description>
+  <VFEPD_AncientAirConditioner.label>древний кондиционер</VFEPD_AncientAirConditioner.label>
+  <VFEPD_AncientAirConditioner.description>Древний кондиционер. Внутренние механизмы давно разбиты, а всё, что не растащили, с тех пор проржавело.</VFEPD_AncientAirConditioner.description>
+  <VFEPD_AncientKitchenSink.label>древняя кухонная мойка</VFEPD_AncientKitchenSink.label>
+  <VFEPD_AncientKitchenSink.description>Древняя кухонная мойка из какого-то неметаллического листового волокнистого материала. Сильно разрушена, и ничего полезного из неё уже не извлечь.
+
+За её появлением здесь наверняка стоит долгая история.</VFEPD_AncientKitchenSink.description>
+  <VFEPD_AncientStove.label>древняя плита</VFEPD_AncientStove.label>
+  <VFEPD_AncientStove.description>Древняя плита. Разбитая и проржавевшая, теперь она совершенно бесполезна.
+
+Трудно сказать, как она здесь оказалась.</VFEPD_AncientStove.description>
+  <VFEPD_AncientOven.label>древняя духовка</VFEPD_AncientOven.label>
+  <VFEPD_AncientOven.description>Древняя духовка. Разбитая и проржавевшая, теперь она совершенно бесполезна.
+
+Трудно сказать, как она здесь оказалась.</VFEPD_AncientOven.description>
+  <VFEPD_AncientATM.label>древний банкомат</VFEPD_AncientATM.label>
+  <VFEPD_AncientATM.description>Древний банкомат. Разбитый и проржавевший, теперь он совершенно бесполезен.
+
+Трудно сказать, как он здесь оказался.</VFEPD_AncientATM.description>
+  <VFEPD_AncientWashingMachine.label>древняя стиральная машина</VFEPD_AncientWashingMachine.label>
+  <VFEPD_AncientWashingMachine.description>Древнее устройство для стирки тканей. Разбитое и проржавевшее, теперь оно совершенно бесполезно.
+
+Трудно сказать, как оно здесь оказалось.</VFEPD_AncientWashingMachine.description>
+  <VFEPD_AncientHydrant.label>древний гидрант</VFEPD_AncientHydrant.label>
+  <VFEPD_AncientHydrant.description>Древний гидрант. Сильно проржавел и теперь совершенно бесполезен.
+
+Трудно сказать, как он здесь оказался.</VFEPD_AncientHydrant.description>
+  <VFEPD_AncientMicrowave.label>древняя микроволновая печь</VFEPD_AncientMicrowave.label>
+  <VFEPD_AncientMicrowave.description>Древнее устройство для разогрева пищи. Разбитое и проржавевшее, теперь оно совершенно бесполезно.
+
+Трудно сказать, как оно здесь оказалось.</VFEPD_AncientMicrowave.description>
+  <VFEPD_AncientToilet.label>древний унитаз</VFEPD_AncientToilet.label>
+  <VFEPD_AncientToilet.description>Древний унитаз. Давно разбит и теперь совершенно бесполезен.
+
+Трудно сказать, как он здесь оказался.</VFEPD_AncientToilet.description>
+  <VFEPD_AncientRefrigerator.label>древний холодильник</VFEPD_AncientRefrigerator.label>
+  <VFEPD_AncientRefrigerator.description>Древний холодильник. Все интересные детали из него давно вынули.</VFEPD_AncientRefrigerator.description>
+  <VFEPD_AncientSmallCrate.label>древний малый ящик</VFEPD_AncientSmallCrate.label>
+  <VFEPD_AncientSmallCrate.description>Маленький пустой ящик, брошенный много веков назад. Слишком проржавел, чтобы что-либо хранить.</VFEPD_AncientSmallCrate.description>
+  <VFEPD_AncientLongCrate.label>древний длинный ящик</VFEPD_AncientLongCrate.label>
+  <VFEPD_AncientLongCrate.description>Длинный пустой ящик, брошенный много веков назад. Слишком проржавел, чтобы что-либо хранить.</VFEPD_AncientLongCrate.description>
+  <VFEPD_AncientLargeCrate.label>древний большой ящик</VFEPD_AncientLargeCrate.label>
+  <VFEPD_AncientLargeCrate.description>Большой ящик, брошенный много веков назад. Слишком проржавел, чтобы что-либо хранить.</VFEPD_AncientLargeCrate.description>
+  <VFEPD_AncientWheel.label>древнее колесо</VFEPD_AncientWheel.label>
+  <VFEPD_AncientWheel.description>Древнее колесо от какого-то транспорта. Резина разрушилась, а металл погнут и проржавел.</VFEPD_AncientWheel.description>
+  <VFEPD_AncientGiantWheel.label>древнее гигантское колесо</VFEPD_AncientGiantWheel.label>
+  <VFEPD_AncientGiantWheel.description>Гигантское колесо, много веков назад отвалившееся от крупной машины. Резина рассыпалась, а металл погнут и проржавел.</VFEPD_AncientGiantWheel.description>
+  <VFEPD_AncientRustedCar.label>древний автомобиль</VFEPD_AncientRustedCar.label>
+  <VFEPD_AncientRustedCar.description>Древний разбитый автомобиль. Всё, что не съела ржавчина, давно растащили.</VFEPD_AncientRustedCar.description>
+  <VFEPD_AncientRustedTruck.label>древний грузовик</VFEPD_AncientRustedTruck.label>
+  <VFEPD_AncientRustedTruck.description>Древний разбитый грузовик. Все полезные детали либо проржавели, либо были давно растащены.</VFEPD_AncientRustedTruck.description>
+  <VFEPD_AncientRustedJeep.label>древний войсковой транспорт</VFEPD_AncientRustedJeep.label>
+  <VFEPD_AncientRustedJeep.description>Древняя разбитая машина для перевозки войск. Всё, что не съела ржавчина, давно растащили.</VFEPD_AncientRustedJeep.description>
+  <VFEPD_AncientRustedCarFrame.label>древняя рама автомобиля</VFEPD_AncientRustedCarFrame.label>
+  <VFEPD_AncientRustedCarFrame.description>Древняя проржавевшая автомобильная рама. Кузов давно полностью сгнил.</VFEPD_AncientRustedCarFrame.description>
+  <VFEPD_AncientWarwalkerTorso.label>остов древнего боевого шагохода</VFEPD_AncientWarwalkerTorso.label>
+  <VFEPD_AncientWarwalkerTorso.description>Торс боевого шагохода среднего размера, павшего здесь в древности. Все ценные детали давно растащили.</VFEPD_AncientWarwalkerTorso.description>
+  <VFEPD_AncientRustedDropship.label>древний десантный корабль</VFEPD_AncientRustedDropship.label>
+  <VFEPD_AncientRustedDropship.description>Останки древнего десантного корабля. Ценные детали давно растащили, а остальное пришло в негодность.</VFEPD_AncientRustedDropship.description>
+  <VFEPD_AncientWarwalkerClaw.label>коготь древнего шагохода</VFEPD_AncientWarwalkerClaw.label>
+  <VFEPD_AncientWarwalkerClaw.description>Штурмовой коготь древнего боевого шагохода среднего размера. Это оружие предназначалось для разрывания тяжёлой пласталевой брони в ближнем бою. Ценные детали давно растащили.</VFEPD_AncientWarwalkerClaw.description>
+  <VFEPD_AncientWarwalkerLeg.label>нога древнего шагохода</VFEPD_AncientWarwalkerLeg.label>
+  <VFEPD_AncientWarwalkerLeg.description>Разбитая нога боевого шагохода среднего размера, давно павшего здесь. Мародёры обобрали её дочиста, ценных деталей не осталось.</VFEPD_AncientWarwalkerLeg.description>
+  <VFEPD_AncientMiniWarwalkerRemains.label>останки древнего паука</VFEPD_AncientMiniWarwalkerRemains.label>
+  <VFEPD_AncientMiniWarwalkerRemains.description>Разбитые останки древней малой боевой машины-спринтера. Все детали, уцелевшие при её уничтожении, давно растащили.</VFEPD_AncientMiniWarwalkerRemains.description>
+  <VFEPD_AncientWarspiderRemains.label>останки древнего паука</VFEPD_AncientWarspiderRemains.label>
+  <VFEPD_AncientWarspiderRemains.description>Разрушенные останки древнего боевого паука среднего размера. Его обирали столько раз, что ничего ценного не осталось.</VFEPD_AncientWarspiderRemains.description>
+  <VFEPD_AncientPipelineSection.label>секция древнего трубопровода</VFEPD_AncientPipelineSection.label>
+  <VFEPD_AncientPipelineSection.description>Секция древнего трубопровода. Когда-то по нему передавали ценную жидкость на большие расстояния. Теперь он разграблен и пришёл в негодность.</VFEPD_AncientPipelineSection.description>
+  <VFEPD_AncientWarwalkerFoot.label>ступня древнего шагохода</VFEPD_AncientWarwalkerFoot.label>
+  <VFEPD_AncientWarwalkerFoot.description>Массивная ступня древнего боевого шагохода. Похоже, её оторвало каким-то тяжёлым оружием. Все полезные детали давно растащили, либо они пришли в негодность.</VFEPD_AncientWarwalkerFoot.description>
+  <VFEPD_AncientTank.label>древний разбитый танк</VFEPD_AncientTank.label>
+  <VFEPD_AncientTank.description>Останки древнего танка, уничтоженного каким-то тяжёлым оружием. Все полезные детали давно растащили, либо они пришли в негодность.</VFEPD_AncientTank.description>
+  <VFEPD_AncientAPC.label>древний разбитый бронетранспортёр</VFEPD_AncientAPC.label>
+  <VFEPD_AncientAPC.description>Останки древнего бронетранспортёра, уничтоженного каким-то тяжёлым оружием. Все полезные детали давно растащили, либо они пришли в негодность.</VFEPD_AncientAPC.description>
+  <VFEPD_AncientWarwalkerShell.label>древний корпус шагохода</VFEPD_AncientWarwalkerShell.label>
+  <VFEPD_AncientWarwalkerShell.description>Большая часть бронекорпуса боевого шагохода. Похоже, её сорвало попаданием какого-то колоссального оружия. Все ценные детали растащили, а остальное сильно разрушено.</VFEPD_AncientWarwalkerShell.description>
+  <VFEPD_AncientJetEngine.label>древний реактивный двигатель</VFEPD_AncientJetEngine.label>
+  <VFEPD_AncientJetEngine.description>Древний реактивный двигатель, вероятно оторвавшийся от большого самолёта. Его хрупкие внутренние механизмы проржавели и пришли в негодность, а ценные детали давно растащили.</VFEPD_AncientJetEngine.description>
+  <VFEPD_AncientDropshipEngine.label>древний двигатель десантного корабля</VFEPD_AncientDropshipEngine.label>
+  <VFEPD_AncientDropshipEngine.description>Древний двигатель десантного корабля. Вероятно, он оторвался от военного транспорта для перевозки войск. Его хрупкие внутренние механизмы проржавели и пришли в негодность, а ценные детали давно растащили.</VFEPD_AncientDropshipEngine.description>
+  <VFEPD_AncientPodCar.label>древний капсуломобиль</VFEPD_AncientPodCar.label>
+  <VFEPD_AncientPodCar.description>Древний капсуломобиль, когда-то способный летать в автоматическом режиме. Ценные детали давно растащили, а остальное сильно разрушено.</VFEPD_AncientPodCar.description>
+  <VFEPD_AncientTankTrap.label>древнее противотанковое заграждение</VFEPD_AncientTankTrap.label>
+  <VFEPD_AncientTankTrap.description>Оборонительное заграждение, препятствующее движению транспорта. Разрушается уже много лет.</VFEPD_AncientTankTrap.description>
+  <VFEPD_AncientLargeRustedEngineBlock.label>древний блок макродвигателя</VFEPD_AncientLargeRustedEngineBlock.label>
+  <VFEPD_AncientLargeRustedEngineBlock.description>Большой древний блок двигателя от какой-то гигантской машины или источника энергии. Он насквозь проржавел, а все полезные детали исчезли. Никакой ремонт его не спасёт.</VFEPD_AncientLargeRustedEngineBlock.description>
+  <VFEPD_AncientFence.label>древний забор</VFEPD_AncientFence.label>
+  <VFEPD_AncientFence.description>Древний забор из железобетонных столбов, соединённых бетонными панелями.</VFEPD_AncientFence.description>
+  <VFEPD_AncientRazorWire.label>древняя колючая лента</VFEPD_AncientRazorWire.label>
+  <VFEPD_AncientRazorWire.description>Кусок древней колючей ленты. Разрушается уже много лет и больше не представляет опасности.</VFEPD_AncientRazorWire.description>
+  <VFEPD_AncientPipes.label>древние трубы</VFEPD_AncientPipes.label>
+  <VFEPD_AncientPipes.description>Куча старых ржавых труб. Трудно сказать, как они здесь оказались.</VFEPD_AncientPipes.description>
+  <VFEPD_AncientMegaCannonTripod.label>древняя платформа мегаорудия</VFEPD_AncientMegaCannonTripod.label>
+  <VFEPD_AncientMegaCannonTripod.description>Монтажная платформа, на которой когда-то стояла пушка. Она сломана уже много лет, а все полезные детали давно растащили.</VFEPD_AncientMegaCannonTripod.description>
+  <VFEPD_AncientMegaCannonBarrel.label>древний ствол мегаорудия</VFEPD_AncientMegaCannonBarrel.label>
+  <VFEPD_AncientMegaCannonBarrel.description>Ствол дальнобойного орудия для артиллерийского или противокорабельного огня. Когда оно было новым, его мощь, должно быть, внушала ужас. Теперь оно не подлежит ремонту, а все полезные детали растащили.</VFEPD_AncientMegaCannonBarrel.description>
+  <VFEPD_AncientContainer.label>древний контейнер</VFEPD_AncientContainer.label>
+  <VFEPD_AncientContainer.description>Большой контейнер от какого-то древнего грузового транспорта. Давно разграблен и пришёл в негодность.</VFEPD_AncientContainer.description>
+  <VFEPD_AncientMechDetritus.label>обломки механоида</VFEPD_AncientMechDetritus.label>
+  <VFEPD_AncientMechDetritus.description>Останки разбитого механоида. Все полезные детали и материалы уничтожены или отсутствуют.</VFEPD_AncientMechDetritus.description>
+  <VFEPD_AncientMechDropBeacon.label>древний маяк высадки механоидов</VFEPD_AncientMechDropBeacon.label>
+  <VFEPD_AncientMechDropBeacon.description>Разбитый корпус маяка высадки механоидов. Полезных деталей не осталось, а корпус разрушился за долгие годы.</VFEPD_AncientMechDropBeacon.description>
+  <VFEPD_AncientSecurityTurret.label>древняя охранная турель</VFEPD_AncientSecurityTurret.label>
+  <VFEPD_AncientSecurityTurret.description>Древняя сломанная охранная турель. Все ценные детали растащили или разбили.</VFEPD_AncientSecurityTurret.description>
+  <VFEPD_AncientRustedEngineBlock.label>древний блок двигателя</VFEPD_AncientRustedEngineBlock.label>
+  <VFEPD_AncientRustedEngineBlock.description>Древний блок двигателя, проржавевший насквозь. Никакой ремонт его не спасёт.</VFEPD_AncientRustedEngineBlock.description>
+  <VFEPD_AncientShipBeacon.label>древний навигационный маяк</VFEPD_AncientShipBeacon.label>
+  <VFEPD_AncientShipBeacon.description>Древний сломанный корабельный навигационный маяк. Все полезные детали давно растащили.</VFEPD_AncientShipBeacon.description>
+  <VFEPD_HackingEffect.label>взлом</VFEPD_HackingEffect.label>
+  <VFEPD_HackingEffect.description>Декоративный эффект взлома. Требователен к производительности; используйте умеренно.</VFEPD_HackingEffect.description>
+  <VFEPD_HairCuttingEffect.label>стрижка волос</VFEPD_HairCuttingEffect.label>
+  <VFEPD_HairCuttingEffect.description>Декоративный эффект стрижки волос. Требователен к производительности; используйте умеренно.</VFEPD_HairCuttingEffect.description>
+  <VFEPD_BurnbongSmokeEffect.label>дым одноразового бонга</VFEPD_BurnbongSmokeEffect.label>
+  <VFEPD_BurnbongSmokeEffect.description>Декоративный эффект дыма одноразового бонга. Требователен к производительности; используйте умеренно.</VFEPD_BurnbongSmokeEffect.description>
+  <VFEPD_MakingSkylanternEffect.label>изготовление небесного фонарика</VFEPD_MakingSkylanternEffect.label>
+  <VFEPD_MakingSkylanternEffect.description>Декоративный эффект изготовления небесного фонарика. Требователен к производительности; используйте умеренно.</VFEPD_MakingSkylanternEffect.description>
+  <VFEPD_ChristmasTreeTwinkleEffect.label>мерцание рождественской ёлки</VFEPD_ChristmasTreeTwinkleEffect.label>
+  <VFEPD_ChristmasTreeTwinkleEffect.description>Декоративный эффект мерцающих огней рождественской ёлки. Требователен к производительности; используйте умеренно.</VFEPD_ChristmasTreeTwinkleEffect.description>
+  <VFEPD_FireSmokeEffect.label>дым от огня</VFEPD_FireSmokeEffect.label>
+  <VFEPD_FireSmokeEffect.description>Декоративный эффект дыма от огня. Требователен к производительности; используйте умеренно.</VFEPD_FireSmokeEffect.description>
+  <VFEPD_SleepAcceleratorActiveEffect.label>стимулятор сна</VFEPD_SleepAcceleratorActiveEffect.label>
+  <VFEPD_SleepAcceleratorActiveEffect.description>Декоративный эффект работающего стимулятора сна. Требователен к производительности; используйте умеренно.</VFEPD_SleepAcceleratorActiveEffect.description>
+  <VFEPD_BiosculpterPod_OperatingEffect.label>биоскульптор</VFEPD_BiosculpterPod_OperatingEffect.label>
+  <VFEPD_BiosculpterPod_OperatingEffect.description>Декоративный эффект работающего биоскульптора. Требователен к производительности; используйте умеренно.</VFEPD_BiosculpterPod_OperatingEffect.description>
+  <VFEPD_GauranlenDebrisEffect.label>опад древа Гауранлен</VFEPD_GauranlenDebrisEffect.label>
+  <VFEPD_GauranlenDebrisEffect.description>Декоративный эффект растительного опада древа Гауранлен. Требователен к производительности; используйте умеренно.</VFEPD_GauranlenDebrisEffect.description>
+  <VFEPD_GauranlenLeavesEffect.label>листья древа Гауранлен</VFEPD_GauranlenLeavesEffect.label>
+  <VFEPD_GauranlenLeavesEffect.description>Декоративный эффект листьев древа Гауранлен. Требователен к производительности; используйте умеренно.</VFEPD_GauranlenLeavesEffect.description>
+  <VFEPD_GauranlenLeavesBatchEffect.label>листья древа Гауранлен, группа</VFEPD_GauranlenLeavesBatchEffect.label>
+  <VFEPD_GauranlenLeavesBatchEffect.description>Декоративный эффект группы листьев древа Гауранлен. Требователен к производительности; используйте умеренно.</VFEPD_GauranlenLeavesBatchEffect.description>
+  <VFEPD_ChristmasTree.label>рождественская ёлка</VFEPD_ChristmasTree.label>
+  <VFEPD_ChristmasTree.description>Праздничное дерево с игрушками и огнями, которое традиционно наряжают на Рождество. Сделано из пластика.</VFEPD_ChristmasTree.description>
+  <VFEPD_FakeGauranlenMoss.label>муляж мха Гауранлен</VFEPD_FakeGauranlenMoss.label>
+  <VFEPD_FakeGauranlenMoss.description>Пластиковая трава, покрашенная под мох Гауранлен. Наверняка ужасно вредна для природы.</VFEPD_FakeGauranlenMoss.description>
+  <VFEPD_FakeGauranlenTree.label>муляж древа Гауранлен</VFEPD_FakeGauranlenTree.label>
+  <VFEPD_FakeGauranlenTree.description>Пластиковое дерево, изображающее древо Гауранлен. Дриад здесь нет.</VFEPD_FakeGauranlenTree.description>
+  <VFEPD_Nutrifungus.label>нутригриб</VFEPD_Nutrifungus.label>
+  <VFEPD_Nutrifungus.description>Муляж мясистого биоинженерного гриба, который выращивают ради его питательности.</VFEPD_Nutrifungus.description>
+  <VFEPD_Fibercorn.label>волокноцвет</VFEPD_Fibercorn.label>
+  <VFEPD_Fibercorn.description>Муляж несъедобного волокнистого растения, обычно дающего немного древесноподобного вещества.</VFEPD_Fibercorn.description>
+  <VFEPD_Timbershroom.label>древогриб</VFEPD_Timbershroom.label>
+  <VFEPD_Timbershroom.description>Муляж высокого коричневого гриба с длинной ножкой.</VFEPD_Timbershroom.description>
+  <VFEPD_TreeBonsai.label>бонсай</VFEPD_TreeBonsai.label>
+  <VFEPD_TreeBonsai.description>Муляж дерева, подстриженного и сформированного ради красоты.</VFEPD_TreeBonsai.description>
+  <VFEPD_ArchonexusCore.label>ядро архонексуса</VFEPD_ArchonexusCore.label>
+  <VFEPD_ArchonexusCore.description>Картонная имитация центрального ядра архонексуса.</VFEPD_ArchonexusCore.description>
+  <VFEPD_GrandArchotechStructure.label>огромное сооружение архотеков</VFEPD_GrandArchotechStructure.label>
+  <VFEPD_GrandArchotechStructure.description>Картонная имитация величественного архотехнологического сооружения огромной высоты и внушительных размеров.</VFEPD_GrandArchotechStructure.description>
+  <VFEPD_MajorArchotechStructure.label>большое сооружение архотеков</VFEPD_MajorArchotechStructure.label>
+  <VFEPD_MajorArchotechStructure.description>Картонная имитация большого архотехнологического сооружения.</VFEPD_MajorArchotechStructure.description>
+  <VFEPD_ArchotechTower.label>башня архотека</VFEPD_ArchotechTower.label>
+  <VFEPD_ArchotechTower.description>Картонная имитация большого архотехнологического сооружения.</VFEPD_ArchotechTower.description>
+  <VFEPD_FalseBlueFire.label>муляж тёмного пламени</VFEPD_FalseBlueFire.label>
+  <VFEPD_FalseBlueFire.description>Всего лишь дым и зеркала.</VFEPD_FalseBlueFire.description>
+  <VFEPD_SpaceDrone.label>космический дрон</VFEPD_SpaceDrone.label>
+  <VFEPD_SpaceDrone.description>Древний космический дрон миров-утопий. Отключён.</VFEPD_SpaceDrone.description>
+  <VFEPD_DriedBlood.label>засохшая кровь</VFEPD_DriedBlood.label>
+  <VFEPD_DriedBlood.description>Брызги засохшей крови. Прелесть!</VFEPD_DriedBlood.description>
+  <VFEPD_ScatteredDocuments.label>разбросанные документы</VFEPD_ScatteredDocuments.label>
+  <VFEPD_ScatteredDocuments.description>Похоже, никакой важной информации в них нет.</VFEPD_ScatteredDocuments.description>
+  <VFEPD_MoldyUniform.label>рваная униформа</VFEPD_MoldyUniform.label>
+  <VFEPD_MoldyUniform.description>Это явно НЕ последний писк моды.</VFEPD_MoldyUniform.description>
+  <VFEPD_PodSlime.label>слизь из капсулы</VFEPD_PodSlime.label>
+  <VFEPD_PodSlime.description>Думаю, на вкус она как растворимый напиток Tang.</VFEPD_PodSlime.description>
+  <VFEPD_OilSmear.label>масляное пятно</VFEPD_OilSmear.label>
+  <VFEPD_OilSmear.description>Если такие появляются под вашей машиной, отвезите её к механику.</VFEPD_OilSmear.description>
+  <VFEPD_FakeGibbetCage.label>муляж клетки для трупов</VFEPD_FakeGibbetCage.label>
+  <VFEPD_FakeGibbetCage.description>Муляж пустой клетки для трупов. Наглухо закрыт.</VFEPD_FakeGibbetCage.description>
+  <VFEPD_Mote_RitualGlowRays.label>лучи ритуального сияния</VFEPD_Mote_RitualGlowRays.label>
+  <VFEPD_Mote_RitualGlowRays.description>Декоративные частицы лучей ритуального сияния. Требовательны к производительности, хотя и меньше, чем декоративные эффекты. Используйте умеренно.</VFEPD_Mote_RitualGlowRays.description>
+  <VFEPD_Mote_TotemOutline.label>тотем</VFEPD_Mote_TotemOutline.label>
+  <VFEPD_Mote_TotemOutline.description>Декоративные частицы контура тотема. Требовательны к производительности, хотя и меньше, чем декоративные эффекты. Используйте умеренно.</VFEPD_Mote_TotemOutline.description>
+  <VFEPD_Mote_RolePositionHighlight.label>место участника ритуала</VFEPD_Mote_RolePositionHighlight.label>
+  <VFEPD_Mote_RolePositionHighlight.description>Декоративные частицы подсветки места участника ритуала. Требовательны к производительности, хотя и меньше, чем декоративные эффекты. Используйте умеренно.</VFEPD_Mote_RolePositionHighlight.description>
+  <VFEPD_Mote_RolePawnHighlight.label>подсветка участника ритуала</VFEPD_Mote_RolePawnHighlight.label>
+  <VFEPD_Mote_RolePawnHighlight.description>Декоративные частицы подсветки участника ритуала. Требовательны к производительности, хотя и меньше, чем декоративные эффекты. Используйте умеренно.</VFEPD_Mote_RolePawnHighlight.description>
+  <VFEPD_Mote_SpikePipe.label>шипастая труба</VFEPD_Mote_SpikePipe.label>
+  <VFEPD_Mote_SpikePipe.description>Декоративные частицы шипастой трубы. Требовательны к производительности, хотя и меньше, чем декоративные эффекты. Используйте умеренно.</VFEPD_Mote_SpikePipe.description>
+  <VFEPD_Mote_RitualTechLineA.label>технологические линии A</VFEPD_Mote_RitualTechLineA.label>
+  <VFEPD_Mote_RitualTechLineA.description>Декоративные частицы технологических линий ритуала, вариант A. Требовательны к производительности, хотя и меньше, чем декоративные эффекты. Используйте умеренно.</VFEPD_Mote_RitualTechLineA.description>
+  <VFEPD_Mote_RitualTechLineB.label>технологические линии B</VFEPD_Mote_RitualTechLineB.label>
+  <VFEPD_Mote_RitualTechLineB.description>Декоративные частицы технологических линий ритуала, вариант B. Требовательны к производительности, хотя и меньше, чем декоративные эффекты. Используйте умеренно.</VFEPD_Mote_RitualTechLineB.description>
+  <VFEPD_Mote_RitualTechLineC.label>технологические линии C</VFEPD_Mote_RitualTechLineC.label>
+  <VFEPD_Mote_RitualTechLineC.description>Декоративные частицы технологических линий ритуала, вариант C. Требовательны к производительности, хотя и меньше, чем декоративные эффекты. Используйте умеренно.</VFEPD_Mote_RitualTechLineC.description>
+  <VFEPD_Mote_RitualGlowSingleRay.label>одиночный луч сияния</VFEPD_Mote_RitualGlowSingleRay.label>
+  <VFEPD_Mote_RitualGlowSingleRay.description>Декоративные частицы одиночного луча ритуального сияния. Требовательны к производительности, хотя и меньше, чем декоративные эффекты. Используйте умеренно.</VFEPD_Mote_RitualGlowSingleRay.description>
+  <VFEPD_FakeBonsaiPot.label>горшок для бонсай</VFEPD_FakeBonsaiPot.label>
+  <VFEPD_FakeBonsaiPot.description>Муляж горшка, похожего на те, в которых выращивают бонсай. Поселенцы ничего сюда не посадят, поэтому сверху можно поставить искусственный цветок.</VFEPD_FakeBonsaiPot.description>
+</LanguageData>

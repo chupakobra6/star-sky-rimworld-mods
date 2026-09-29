@@ -1,0 +1,14 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AG_Invisibility.label>психическая невидимость</AG_Invisibility.label>
+  <AG_Invisibility.description>Психически изменяет цвет кожи, маскируясь почти в любом окружении.</AG_Invisibility.description>
+  <AG_PsychicSight.label>психическое зрение</AG_PsychicSight.label>
+  <AG_PsychicSight.description>Полностью слеп без пси-сил. Внутреннее психическое зрение становится острее по мере роста психической силы.</AG_PsychicSight.description>
+  <AG_PsychicInsanity.label>психическое безумие</AG_PsychicInsanity.label>
+  <AG_PsychicInsanity.description>Пси-силы зависят от настроения. Низкое настроение и повышенный риск срыва дают психические бонусы. Во время катарсиса эти бонусы ещё сильнее, даже если настроение при этом улучшается.</AG_PsychicInsanity.description>
+  <AG_PsychicInsanity.stages.no_effect.label>нет эффекта</AG_PsychicInsanity.stages.no_effect.label>
+  <AG_PsychicInsanity.stages.cathartic.label>катарсис</AG_PsychicInsanity.stages.cathartic.label>
+  <AG_PsychicInsanity.stages.extreme.label>крайняя</AG_PsychicInsanity.stages.extreme.label>
+  <AG_PsychicInsanity.stages.major.label>сильная</AG_PsychicInsanity.stages.major.label>
+  <AG_PsychicInsanity.stages.minor.label>слабая</AG_PsychicInsanity.stages.minor.label>
+</LanguageData>

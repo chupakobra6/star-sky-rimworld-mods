@@ -1,0 +1,57 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VEE_Drought.label>засуха</VEE_Drought.label>
+  <VEE_Drought.letterLabel>Засуха</VEE_Drought.letterLabel>
+  <VEE_Drought.letterText>В этой области началась сильнейшая засуха. Дождевые облака исчезли, а палящее солнце иссушает почву.
+
+Дикие растения и посевы, находящиеся под открытым небом, сильно пострадают от нехватки влаги. Их рост почти прекратится, а со временем они погибнут. Кроме того, пожары будут распространяться гораздо быстрее.
+
+Растения, выращиваемые в гидропонных системах, не пострадают.</VEE_Drought.letterText>
+  <VEE_SpaceBattle.label>крушение орбитального корабля</VEE_SpaceBattle.label>
+  <VEE_MeteoriteShower.label>метеоритный дождь</VEE_MeteoriteShower.label>
+  <VEE_MeteoriteShower.letterLabel>Метеоритный дождь</VEE_MeteoriteShower.letterLabel>
+  <VEE_MeteoriteShower.letterText>Над вашей территорией в атмосфере начал распадаться крупный метеороид!
+
+В течение следующих нескольких часов его обломки упадут на землю в пределах ограниченной области. Всё, во что они попадут, будет уничтожено.
+
+Подобные метеориты, скорее всего, содержат ценные ресурсы.</VEE_MeteoriteShower.letterText>
+  <VEE_CropSprout.label>дикие заросли</VEE_CropSprout.label>
+  <VEE_AnimalPodCrash.label>крушение капсулы с животным</VEE_AnimalPodCrash.label>
+  <VEE_ShuttleCrash.label>крушение челнока</VEE_ShuttleCrash.label>
+  <VEE_Earthquake.label>землетрясение</VEE_Earthquake.label>
+  <VEE_Cargopodsweapons.label>грузовые контейнеры (оружие)</VEE_Cargopodsweapons.label>
+  <VEE_Cargopodsapparel.label>грузовые контейнеры (одежда)</VEE_Cargopodsapparel.label>
+  <VEE_CaravanAnimalsWanderIn.label>приход караванных животных</VEE_CaravanAnimalsWanderIn.label>
+  <VEE_BattleAnimalsWanderIn.label>боевые животные присоединились</VEE_BattleAnimalsWanderIn.label>
+  <VEE_WildMenWanderIn.label>приход диких людей</VEE_WildMenWanderIn.label>
+  <VEE_HuntingParty.label>охотничий отряд</VEE_HuntingParty.label>
+  <VEE_WandererJoinsTraitor.label>пополнение (предатель)</VEE_WandererJoinsTraitor.label>
+  <VEE_ManhunterSingleArrival.label>агрессивное животное</VEE_ManhunterSingleArrival.label>
+  <VEE_Crashlanded.label>выжившие после крушения</VEE_Crashlanded.label>
+  <VEE_PsychicStimulation.label>психическая стимуляция</VEE_PsychicStimulation.label>
+  <VEE_PsychicOverdrive.label>психическая перегрузка</VEE_PsychicOverdrive.label>
+  <VEE_PsychicHum.label>психический шум</VEE_PsychicHum.label>
+  <VEE_VisitorGroupRaid.label>гости</VEE_VisitorGroupRaid.label>
+  <RaidEnemyPurple.label>налёт (белая мгла)</RaidEnemyPurple.label>
+  <ManhunterPackPurple.label>агрессивные животные</ManhunterPackPurple.label>
+  <InfestationPurple.label>насекомые</InfestationPurple.label>
+  <InfestationPurple.letterLabel>Насекомые!</InfestationPurple.letterLabel>
+  <InfestationPurple.letterText>К вам пробираются гигантские насекомые! Через несколько секунд они со своими ульями будут уже у вас.
+
+Ульи порождают новых насекомых и новые ульи.
+
+Если вы не хотите, чтобы в будущем всё вокруг кишело ими, вам придётся собрать свои силы и избавиться от этих паразитов. Но будьте осторожны: насекомые будут защищать свой дом.</InfestationPurple.letterText>
+  <AnimalInsanityMassPurple.label>массовая агрессия животных</AnimalInsanityMassPurple.label>
+  <VEE_WhiteoutRefugees.label>отчаявшиеся беженцы</VEE_WhiteoutRefugees.label>
+  <VEE_Whiteout.label>белая мгла</VEE_Whiteout.label>
+  <VEE_Scorch.label>пекло</VEE_Scorch.label>
+  <VEE_LongNight.label>долгая ночь</VEE_LongNight.label>
+  <VEE_PsychicBloom.label>психическое цветение</VEE_PsychicBloom.label>
+  <VEE_PsychicRain.label>психический дождь</VEE_PsychicRain.label>
+  <VEE_PsychicRain.letterLabel>Психический дождь</VEE_PsychicRain.letterLabel>
+  <VEE_PsychicRain.letterText>Опасная психическая сущность вызвала возмущение на субатомных уровнях, отозвавшееся во всех частицах атмосферы.
+
+Начался, казалось бы, бесконечный сверхъестественный дождь, изменивший само течение времени. Любой персонаж или существо, не находящееся под крышей, будет стареть значительно быстрее.
+
+Психический дождь может длиться от одного сезона до нескольких лет.</VEE_PsychicRain.letterText>
+</LanguageData>

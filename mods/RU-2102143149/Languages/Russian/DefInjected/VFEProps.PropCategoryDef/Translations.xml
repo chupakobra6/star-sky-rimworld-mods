@@ -1,0 +1,83 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AP_PropCategory_Floors.label>полы</AP_PropCategory_Floors.label>
+  <AP_PropCategory_Floors.description>Полы, предназначенные исключительно для украшения.</AP_PropCategory_Floors.description>
+  <AP_PropCategory_Walls.label>стены</AP_PropCategory_Walls.label>
+  <AP_PropCategory_Walls.description>Стены, предназначенные главным образом для украшения.</AP_PropCategory_Walls.description>
+  <VFE_PropCategory_Structures.label>постройки</VFE_PropCategory_Structures.label>
+  <VFE_PropCategory_Structures.description>Разнообразные конструкции: муляжи колонн, дверей, труб и прочего.</VFE_PropCategory_Structures.description>
+  <VFE_PropCategory_Borders.label>бордюры</VFE_PropCategory_Borders.label>
+  <VFE_PropCategory_Borders.description>Напольные бордюры для аккуратного обозначения границ дорожек.</VFE_PropCategory_Borders.description>
+  <VFE_PropCategory_Decals.label>разметка</VFE_PropCategory_Decals.label>
+  <VFE_PropCategory_Decals.description>Напольные рисунки, знаки и надписи с различной информацией.</VFE_PropCategory_Decals.description>
+  <VFE_PropCategory_LargeDecals.label>крупная разметка</VFE_PropCategory_LargeDecals.label>
+  <VFE_PropCategory_LargeDecals.description>Крупные напольные рисунки, знаки и надписи с различной информацией.</VFE_PropCategory_LargeDecals.description>
+  <VFE_PropCategory_Medieval.label>средневековье</VFE_PropCategory_Medieval.label>
+  <VFE_PropCategory_Medieval.description>Средневековые декорации для величественного замка или простой крестьянской деревни.</VFE_PropCategory_Medieval.description>
+  <VFE_PropCategory_Farm.label>ферма</VFE_PropCategory_Farm.label>
+  <VFE_PropCategory_Farm.description>Фермерские декорации: тюки сена, стопки брёвен, деревянные повозки и прочее.</VFE_PropCategory_Farm.description>
+  <VFE_PropCategory_Furniture.label>мебель</VFE_PropCategory_Furniture.label>
+  <VFE_PropCategory_Furniture.description>Мебель без игровых функций: декоративные шкафы, зеркала и прочее.</VFE_PropCategory_Furniture.description>
+  <VFE_PropCategory_Office.label>офис</VFE_PropCategory_Office.label>
+  <VFE_PropCategory_Office.description>Письменные столы, стулья, компьютеры, лабораторное оборудование, маркерные доски, канцелярские принадлежности и другие предметы рабочего пространства.</VFE_PropCategory_Office.description>
+  <VFE_PropCategory_Industrial.label>промышленность</VFE_PropCategory_Industrial.label>
+  <VFE_PropCategory_Industrial.description>Промышленные декорации: бочки, поддоны, ящики и контейнеры.</VFE_PropCategory_Industrial.description>
+  <VFE_PropCategory_Kitchen.label>кухня</VFE_PropCategory_Kitchen.label>
+  <VFE_PropCategory_Kitchen.description>Кухонные декорации: бытовая техника, кухонная мебель и прочее.</VFE_PropCategory_Kitchen.description>
+  <VFE_PropCategory_Power.label>энергетика</VFE_PropCategory_Power.label>
+  <VFE_PropCategory_Power.description>Декоративные энергетические установки, генераторы, газовые резервуары и прочее.</VFE_PropCategory_Power.description>
+  <VFE_PropCategory_Spacer.label>космические технологии</VFE_PropCategory_Spacer.label>
+  <VFE_PropCategory_Spacer.description>Высокотехнологичные декорации космического технологического уровня.</VFE_PropCategory_Spacer.description>
+  <VFE_PropCategory_Vehicles.label>транспорт</VFE_PropCategory_Vehicles.label>
+  <VFE_PropCategory_Vehicles.description>Декоративные транспортные средства: фургоны, легковые автомобили, грузовики и прочее.</VFE_PropCategory_Vehicles.description>
+  <VFE_PropCategory_Spaceships.label>космические корабли</VFE_PropCategory_Spaceships.label>
+  <VFE_PropCategory_Spaceships.description>Декоративные космические корабли — всевозможные аппараты для полётов в космосе.</VFE_PropCategory_Spaceships.description>
+  <VFE_PropCategory_Park.label>парки</VFE_PropCategory_Park.label>
+  <VFE_PropCategory_Park.description>Разнообразные декорации для обустройства природы под открытым небом.</VFE_PropCategory_Park.description>
+  <VFE_PropCategory_Workshop.label>мастерская</VFE_PropCategory_Workshop.label>
+  <VFE_PropCategory_Workshop.description>Производственные декорации для мастерских.</VFE_PropCategory_Workshop.description>
+  <VFE_PropCategory_Filth.label>грязь</VFE_PropCategory_Filth.label>
+  <VFE_PropCategory_Filth.description>Декоративная грязь из основной игры. Cradle of Filth в комплект не входят.</VFE_PropCategory_Filth.description>
+  <VFE_PropCategory_Anomaly.label>аномалия</VFE_PropCategory_Anomaly.label>
+  <VFE_PropCategory_Anomaly.description>Мебель и разнообразные декорации, связанные с дополнением Anomaly.</VFE_PropCategory_Anomaly.description>
+  <VFE_PropCategory_Ancient.label>древности</VFE_PropCategory_Ancient.label>
+  <VFE_PropCategory_Ancient.description>Древние предметы, которые обычно разбросаны по карте. Они служат исключительно украшением и не подходят для мема «Сборщик лома» из Vanilla Ideology Expanded — Memes and Structures.</VFE_PropCategory_Ancient.description>
+  <VFE_PropCategory_Vaults.label>убежища</VFE_PropCategory_Vaults.label>
+  <VFE_PropCategory_Vaults.description>Декорации из древних убежищ.</VFE_PropCategory_Vaults.description>
+  <VFE_PropCategory_Empire.label>империя</VFE_PropCategory_Empire.label>
+  <VFE_PropCategory_Empire.description>Декорации Империи.</VFE_PropCategory_Empire.description>
+  <VFE_PropCategory_Labs.label>лаборатории</VFE_PropCategory_Labs.label>
+  <VFE_PropCategory_Labs.description>Декорации из древних заброшенных лабораторий. Обычно весьма обветшалые.</VFE_PropCategory_Labs.description>
+  <VFE_PropCategory_Bedroom.label>спальня</VFE_PropCategory_Bedroom.label>
+  <VFE_PropCategory_Bedroom.description>Кровати, постельные принадлежности, комоды, тумбочки, лампы, занавески и другие украшения спальни.</VFE_PropCategory_Bedroom.description>
+  <VFE_PropCategory_DiningRoom.label>столовая</VFE_PropCategory_DiningRoom.label>
+  <VFE_PropCategory_DiningRoom.description>Столы, стулья, тарелки, стаканы, столовые приборы, скатерти, настольные композиции и другие украшения столовой.</VFE_PropCategory_DiningRoom.description>
+  <VFE_PropCategory_Hospital.label>больница</VFE_PropCategory_Hospital.label>
+  <VFE_PropCategory_Hospital.description>Медицинское оборудование — кровати, хирургические инструменты, мониторы, — а также указатели и другие предметы лечебных учреждений.</VFE_PropCategory_Hospital.description>
+  <VFE_PropCategory_Military.label>военное дело</VFE_PropCategory_Military.label>
+  <VFE_PropCategory_Military.description>Муляжи оружия, форма, шлемы, знаки различия и другая военная атрибутика для воссоздания внешнего облика и атмосферы.</VFE_PropCategory_Military.description>
+  <VFE_PropCategory_Prison.label>тюрьма</VFE_PropCategory_Prison.label>
+  <VFE_PropCategory_Prison.description>Тюремные решётки, камеры, форма заключённых и охраны, камеры наблюдения, указатели и другие элементы исправительных учреждений.</VFE_PropCategory_Prison.description>
+  <VFE_PropCategory_Royal.label>королевский двор</VFE_PropCategory_Royal.label>
+  <VFE_PropCategory_Royal.description>Короны, скипетры, троны, монаршие наряды, гербы, церемониальные мечи и другие символы царской власти.</VFE_PropCategory_Royal.description>
+  <VFE_PropCategory_Storage.label>хранение</VFE_PropCategory_Storage.label>
+  <VFE_PropCategory_Storage.description>Полки, контейнеры, ящики, ёмкости и ярлыки, а также инструменты и оборудование для организации хранения.</VFE_PropCategory_Storage.description>
+  <VFE_PropCategory_Temple.label>храм</VFE_PropCategory_Temple.label>
+  <VFE_PropCategory_Temple.description>Религиозные реликвии, церемониальные предметы, статуи, алтари, ритуальные инструменты и другие элементы духовной и культурной жизни храма.</VFE_PropCategory_Temple.description>
+  <VFE_PropCategory_Recreation.label>отдых</VFE_PropCategory_Recreation.label>
+  <VFE_PropCategory_Recreation.description>Спортивный инвентарь, игры, принадлежности для пикника, садовая мебель и другие предметы для досуга и развлечений.</VFE_PropCategory_Recreation.description>
+  <VFE_PropCategory_Children.label>детская</VFE_PropCategory_Children.label>
+  <VFE_PropCategory_Children.description>Детские декорации: игрушки, детская мебель и прочее.</VFE_PropCategory_Children.description>
+  <VFE_PropCategory_Plants.label>растения</VFE_PropCategory_Plants.label>
+  <VFE_PropCategory_Plants.description>Декоративные растения из основной игры. Они не растут, ничего не производят и служат только украшением.</VFE_PropCategory_Plants.description>
+  <VFE_PropCategory_ExoticPlants.label>экзотические растения</VFE_PropCategory_ExoticPlants.label>
+  <VFE_PropCategory_ExoticPlants.description>Декоративные экзотические растения из Alpha Biomes. Они не растут, ничего не производят и служат только украшением.</VFE_PropCategory_ExoticPlants.description>
+  <VFE_PropCategory_Mechs.label>механоиды</VFE_PropCategory_Mechs.label>
+  <VFE_PropCategory_Mechs.description>Декорации в стиле кластеров и других сооружений механоидов.</VFE_PropCategory_Mechs.description>
+  <VFE_PropCategory_Insectoids.label>насекомые</VFE_PropCategory_Insectoids.label>
+  <VFE_PropCategory_Insectoids.description>Декорации в стиле насекомых: коконы, паутина и прочее.</VFE_PropCategory_Insectoids.description>
+  <VFE_PropCategory_Effecters.label>эффекты</VFE_PropCategory_Effecters.label>
+  <VFE_PropCategory_Effecters.description>Невидимые декоративные объекты, испускающие частицы визуальных эффектов. Создают нагрузку на игру; не размещайте слишком много таких объектов.</VFE_PropCategory_Effecters.description>
+  <VFE_PropCategory_Misc.label>разное</VFE_PropCategory_Misc.label>
+  <VFE_PropCategory_Misc.description>Прочие декорации, не вошедшие в другие категории.</VFE_PropCategory_Misc.description>
+</LanguageData>

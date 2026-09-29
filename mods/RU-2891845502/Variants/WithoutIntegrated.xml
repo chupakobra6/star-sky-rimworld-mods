@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AG_Alphapack.label>альфа-пакет</AG_Alphapack.label>
+  <AG_Mixedpack.label>смешанный пакет</AG_Mixedpack.label>
+  <AG_Alphapack.description>Небольшая капсула с генетической информацией. Чтобы использовать генный пакет, поместите его в генный банк рядом с генным сборщиком и включите в состав вживляемого ксеносемени.
+
+Вне генного банка с работающим электропитанием пакет постепенно портится.
+
+Альфа-пакеты содержат только альфа-гены.</AG_Alphapack.description>
+  <AG_Mixedpack.description>Небольшая капсула с генетической информацией. Чтобы использовать генный пакет, поместите его в генный банк рядом с генным сборщиком и включите в состав вживляемого ксеносемени.
+
+Вне генного банка с работающим электропитанием пакет постепенно портится.
+
+Смешанные пакеты содержат альфа-гены и обычные гены.</AG_Mixedpack.description>
+  <AG_GenepackTweaker.description>Генетический инструмент, добавляющий один случайный ген в существующий генный, альфа- или смешанный пакет. Пакет должен содержать не более 3 генов. Архитные гены таким способом добавить нельзя.</AG_GenepackTweaker.description>
+  <AG_GenepackDisruptor.description>Генетический инструмент, удаляющий один случайный ген из существующего генного, альфа- или смешанного пакета. Пакет должен содержать не менее 2 генов.</AG_GenepackDisruptor.description>
+  <AG_NamerAlphapack.rulePack.rulesStrings>
+    <li>r_name-&gt;альфа-пакет ([geneWord][otherGenesInfo])</li>
+    <li>otherGenesInfo(geneCount==1)-&gt;</li>
+    <li>otherGenesInfo(geneCount&gt;=2)-&gt; +[geneCountMinusOne]</li>
+  </AG_NamerAlphapack.rulePack.rulesStrings>
+  <AG_NamerMixedpack.rulePack.rulesStrings>
+    <li>r_name-&gt;смешанный пакет ([geneWord][otherGenesInfo])</li>
+    <li>otherGenesInfo(geneCount==1)-&gt;</li>
+    <li>otherGenesInfo(geneCount&gt;=2)-&gt; +[geneCountMinusOne]</li>
+  </AG_NamerMixedpack.rulePack.rulesStrings>
+</LanguageData>

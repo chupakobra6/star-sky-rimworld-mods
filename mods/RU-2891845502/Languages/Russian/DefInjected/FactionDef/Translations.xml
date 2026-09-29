@@ -1,0 +1,19 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AG_OutlanderCivilUnion.label>мирный союз ксенолюдей</AG_OutlanderCivilUnion.label>
+  <AG_OutlanderCivilUnion.description>Непрочный союз городков, основанных генетически изменёнными людьми самых разных видов. Обычно они дружелюбно относятся к чужакам.</AG_OutlanderCivilUnion.description>
+  <AG_OutlanderCivilUnion.leaderTitle>первый советник</AG_OutlanderCivilUnion.leaderTitle>
+  <AG_OutlanderCivilUnion.messageDefendersAttacking>{0} из фракции {1} атакуют: {2}.</AG_OutlanderCivilUnion.messageDefendersAttacking>
+  <AG_XenohumanPirates.messageDefendersAttacking>{0} из фракции {1} атакуют: {2}.</AG_XenohumanPirates.messageDefendersAttacking>
+  <AG_OutlanderCivilUnion.pawnSingular>чужеземец</AG_OutlanderCivilUnion.pawnSingular>
+  <AG_OutlanderCivilUnion.pawnsPlural>чужеземцы</AG_OutlanderCivilUnion.pawnsPlural>
+  <AG_XenohumanPirates.label>банда пиратов-ксенолюдей</AG_XenohumanPirates.label>
+  <AG_XenohumanPirates.description>Непрочный союз пиратских банд, состоящих из генетически изменённых людей самых разных видов.
+
+Они мало интересуются строительством и земледелием, предпочитая силой отбирать у других всё необходимое для жизни.
+
+Их техническое оснащение зависит прежде всего от того, кого им недавно удалось ограбить. Большинство пользуется огнестрельным оружием, хотя некоторые предпочитают резать жертв в ближнем бою.</AG_XenohumanPirates.description>
+  <AG_XenohumanPirates.leaderTitle>главарь</AG_XenohumanPirates.leaderTitle>
+  <AG_XenohumanPirates.pawnSingular>пират</AG_XenohumanPirates.pawnSingular>
+  <AG_XenohumanPirates.pawnsPlural>пираты</AG_XenohumanPirates.pawnsPlural>
+</LanguageData>

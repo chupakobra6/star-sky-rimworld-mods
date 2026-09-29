@@ -1,0 +1,51 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AA_Web.label>паутина лиска</AA_Web.label>
+  <AA_Web.description>Выпустить липкую шёлковую паутину, способную оглушить цель.</AA_Web.description>
+  <AA_BarbedQuills.label>иглы с зазубринами</AA_BarbedQuills.label>
+  <AA_Quill.label>иглы с зазубринами</AA_Quill.label>
+  <AA_BarbedQuills.description>Метнуть три иглы с микроскопическими зазубринами, направленными назад. Вонзившись в плоть, такие иглы трудно извлечь.</AA_BarbedQuills.description>
+  <AA_Quill.description>Метнуть три иглы с микроскопическими зазубринами, направленными назад. Вонзившись в плоть, такие иглы трудно извлечь.</AA_Quill.description>
+  <AA_FlameBreathAnimated.label>огненное дыхание</AA_FlameBreathAnimated.label>
+  <AA_FlameBreathAnimated.description>Выдохнуть конус раскалённого пламени, поджигающего горючие предметы и обжигающего всё на своём пути.</AA_FlameBreathAnimated.description>
+  <AA_BlackHiveBolt.label>гибельный плевок</AA_BlackHiveBolt.label>
+  <AA_BlackHiveBolt.description>Выплюнуть сгусток яда, обжигающий плоть и усиливающий отравление токсинами. Очень эффективен против механоидов.</AA_BlackHiveBolt.description>
+  <AA_FrostWeb.label>морозная паутина лиска</AA_FrostWeb.label>
+  <AA_FrostWeb.description>Выпустить липкую шёлковую паутину, способную оглушить цель и вызвать обморожения.</AA_FrostWeb.description>
+  <AA_FireWeb.label>огненная паутина лиска</AA_FireWeb.label>
+  <AA_FireWeb.description>Выпустить липкую шёлковую паутину, способную оглушить цель и нанести ожоги.</AA_FireWeb.description>
+  <AA_LaserBullet.label>лазерная очередь</AA_LaserBullet.label>
+  <AA_LaserBullet.description>Выпустить сосредоточенную очередь розовых лазерных импульсов, быстро и точно прожигающих цели.</AA_LaserBullet.description>
+  <AA_DarkBolt.label>сгусток тьмы</AA_DarkBolt.label>
+  <AA_DarkBolt.description>Выпустить сгусток сосредоточенной тёмной энергии, обжигающий всё, к чему прикоснётся.</AA_DarkBolt.description>
+  <AA_AcidicVomit.label>кислотная рвота</AA_AcidicVomit.label>
+  <AA_AcidicVomit.description>Извергнуть едкую кислотную желчь, разъедающую броню и плоть и оставляющую за собой шипящий след разрушения.</AA_AcidicVomit.description>
+  <AA_Bullet_Rock.label>пси-заряженный камень</AA_Bullet_Rock.label>
+  <AA_Bullet_Rock.description>Метнуть огромный камень, заряженный психической энергией. Он потрескивает от энергии, взрывается при ударе и посылает ударные волны.</AA_Bullet_Rock.description>
+  <AA_PoisonBolt.label>ядовитый плевок</AA_PoisonBolt.label>
+  <AA_PoisonBolt.description>Выплюнуть сгусток ядовитой желчи, усиливающий отравление цели токсинами.</AA_PoisonBolt.description>
+  <AA_AcidicWeb.label>кислотная паутина лиска</AA_AcidicWeb.label>
+  <AA_AcidicWeb.description>Выпустить липкую шёлковую паутину, способную оглушить цель и периодически наносить кислотные ожоги.</AA_AcidicWeb.description>
+  <AA_AcidBolt.label>кислотный плевок</AA_AcidBolt.label>
+  <AA_AcidBolt.description>Выплюнуть сгусток кислотной желчи, который долгое время будет периодически наносить кислотные ожоги.</AA_AcidBolt.description>
+  <AA_Bullet_VenomBarb.label>ядовитый шип</AA_Bullet_VenomBarb.label>
+  <AA_Bullet_VenomBarb_Minor.label>ядовитый шип</AA_Bullet_VenomBarb_Minor.label>
+  <AA_RedPoisonBolt.label>ядовитый шип</AA_RedPoisonBolt.label>
+  <AA_Bullet_VenomBarb.description>Выпустить ядовитый шип, пронзающий плоть и впрыскивающий сильный токсин.</AA_Bullet_VenomBarb.description>
+  <AA_Bullet_VenomBarb_Minor.description>Выпустить ядовитый шип, пронзающий плоть и впрыскивающий сильный токсин.</AA_Bullet_VenomBarb_Minor.description>
+  <AA_RedPoisonBolt.description>Выпустить ядовитый шип, пронзающий плоть и впрыскивающий сильный токсин.</AA_RedPoisonBolt.description>
+  <AA_FireSpit.label>огненный плевок</AA_FireSpit.label>
+  <AA_FireSpit.description>Выплюнуть сгусток самовоспламеняющейся жидкости, обжигающий цель.</AA_FireSpit.description>
+  <AA_Plasma.label>счетверённая пушка Теслы</AA_Plasma.label>
+  <AA_Plasma.description>Выпустить залп ионизированных плазменных снарядов. Применяется главным образом для обороны.</AA_Plasma.description>
+  <AA_IncendiaryMote.label>взрывающийся термоплевок</AA_IncendiaryMote.label>
+  <AA_IncendiaryMote.description>Выплюнуть нестабильный сгусток, который прилипает к поверхности и вскоре взрывается вспышкой обжигающего жара.</AA_IncendiaryMote.description>
+  <AA_ElectricBolt.label>электрический разряд</AA_ElectricBolt.label>
+  <AA_ElectricBolt.description>Выпустить обжигающий электрический разряд, опаляющий плоть и оставляющий в воздухе треск и жар.</AA_ElectricBolt.description>
+  <AA_FrostBolt.label>морозный снаряд</AA_FrostBolt.label>
+  <AA_FrostBolt.description>Выпустить ледяной снаряд, который замораживает плоть при попадании и замедляет цель обморожением.</AA_FrostBolt.description>
+  <AA_GazeAttack.label>испепеляющий взгляд</AA_GazeAttack.label>
+  <AA_GazeAttack.description>Сосредоточить на цели раскалённый взгляд, от которого плоть и броня вздуваются и плавятся.</AA_GazeAttack.description>
+  <AA_WindBolt.label>порыв ветра</AA_WindBolt.label>
+  <AA_WindBolt.description>Выпустить мощный порыв ветра, наносящий травмы от тупого удара.</AA_WindBolt.description>
+</LanguageData>

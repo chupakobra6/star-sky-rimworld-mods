@@ -1,0 +1,40 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AG_SterilizingBreath_Rules.rulePack.rulesStrings>
+    <li>damaged-&gt;стерилизует</li>
+    <li>damaged-&gt;очищает</li>
+    <li>destroyed-&gt;[damaged]</li>
+    <li>damaged_participle-&gt;стерилизуя</li>
+    <li>damaged_participle-&gt;очищая</li>
+    <li>destroyed_participle-&gt;[damaged_participle]</li>
+  </AG_SterilizingBreath_Rules.rulePack.rulesStrings>
+  <AG_BansheeScream_Rules.rulePack.rulesStrings>
+    <li>damaged-&gt;оглушает</li>
+    <li>damaged-&gt;поражает криком</li>
+    <li>damaged-&gt;поражает звуком</li>
+    <li>destroyed-&gt;[damaged]</li>
+    <li>damaged_participle-&gt;оглушая</li>
+    <li>damaged_participle-&gt;поражая криком</li>
+    <li>damaged_participle-&gt;поражая звуком</li>
+    <li>destroyed_participle-&gt;[damaged_participle]</li>
+  </AG_BansheeScream_Rules.rulePack.rulesStrings>
+  <AG_NoxiousBreath_Rules.rulePack.rulesStrings>
+    <li>damaged-&gt;обдаёт зловонным дыханием</li>
+    <li>damaged-&gt;окатывает рвотой</li>
+    <li>destroyed-&gt;[damaged]</li>
+    <li>damaged_participle-&gt;обдавая зловонным дыханием</li>
+    <li>damaged_participle-&gt;окатывая рвотой</li>
+    <li>destroyed_participle-&gt;[damaged_participle]</li>
+  </AG_NoxiousBreath_Rules.rulePack.rulesStrings>
+  <AG_NamerPersonForsaken.rulePack.rulesStrings>
+    <li>r_name-&gt;[firstName] [lastName]</li>
+    <li>firstName-&gt;[Forsaken]</li>
+    <li>lastName-&gt;[Forsaken]</li>
+  </AG_NamerPersonForsaken.rulePack.rulesStrings>
+  <AG_NamerAlphapack.rulePack.rulesStrings>
+    <li>r_name-&gt;[geneWord]</li>
+  </AG_NamerAlphapack.rulePack.rulesStrings>
+  <AG_NamerMixedpack.rulePack.rulesStrings>
+    <li>r_name-&gt;[geneWord]</li>
+  </AG_NamerMixedpack.rulePack.rulesStrings>
+</LanguageData>

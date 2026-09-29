@@ -1,0 +1,11 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AG_GreyPocketPlane.label>серое карманное измерение</AG_GreyPocketPlane.label>
+  <AG_GreyPocketPlane.description>Открывает проход во внепространственное измерение, доступное только обладателю способности. При использовании внутри карманного измерения возвращает на исходную карту, в ту же точку, откуда был совершён переход.</AG_GreyPocketPlane.description>
+  <AG_TentacleGrapple.label>захват щупальцем</AG_TentacleGrapple.label>
+  <AG_TentacleGrapple.description>Атаковать цель цепким щупальцем, схватив и ненадолго обездвижив её.</AG_TentacleGrapple.description>
+  <AG_FleshBulb.label>плотяная луковица</AG_FleshBulb.label>
+  <AG_FleshBulb.description>Выпустить светящуюся плотяную луковицу, действующую как ракета-дизраптор.</AG_FleshBulb.description>
+  <AG_FleshSack.label>поглотить биошмата</AG_FleshSack.label>
+  <AG_FleshSack.description>Поглотить биошмата, уничтожив его, ненадолго усилив обладателя способности и залечив часть его ран.</AG_FleshSack.description>
+</LanguageData>

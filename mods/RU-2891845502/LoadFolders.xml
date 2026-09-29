@@ -1,0 +1,16 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<loadFolders>
+  <v1.6>
+    <li>/</li>
+    <li IfModActive="dankpyon.medieval.overhaul">1.6/Conditional/with-dankpyon-medieval-overhaul</li>
+    <li IfModActive="ludeon.rimworld.anomaly">1.6/Conditional/with-ludeon-rimworld-anomaly</li>
+    <li IfModActive="ludeon.rimworld.royalty">1.6/Conditional/with-ludeon-rimworld-royalty</li>
+    <li IfModActive="sarg.alphaanimals">1.6/Conditional/with-sarg-alphaanimals</li>
+    <li IfModActive="vanillaexpanded.vaewaste">1.6/Conditional/with-vanillaexpanded-vaewaste</li>
+    <li IfModActive="vanillaracesexpanded.android">1.6/Conditional/with-vanillaracesexpanded-android</li>
+    <li IfModActive="vanillaracesexpanded.fungoid">1.6/Conditional/with-vanillaracesexpanded-fungoid</li>
+    <li IfModActive="vanillaracesexpanded.insector">1.6/Conditional/with-vanillaracesexpanded-insector</li>
+    <li IfModActive="vanillaracesexpanded.phytokin">1.6/Conditional/with-vanillaracesexpanded-phytokin</li>
+    <li IfModActive="vanillaracesexpanded.sanguophage">1.6/Conditional/with-vanillaracesexpanded-sanguophage</li>
+  </v1.6>
+</loadFolders>

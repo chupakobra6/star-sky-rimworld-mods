@@ -1,0 +1,154 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AA_PermanentBurn.label>неизлечимый ожог</AA_PermanentBurn.label>
+  <AA_PermanentBurn.description>Неизлечимый шрам от ожога.</AA_PermanentBurn.description>
+  <AA_PermanentBurn.comps.HediffComp_GetsPermanent.permanentLabel>неизлечимый ожог</AA_PermanentBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <AA_PermanentBurn.labelNoun>неизлечимый ожог</AA_PermanentBurn.labelNoun>
+  <AA_PermanentBurn.labelNounPretty>{0} ({1})</AA_PermanentBurn.labelNounPretty>
+  <AA_InvisibleArcticLion.label>скрадывание добычи</AA_InvisibleArcticLion.label>
+  <AA_InvisibleArcticLion.description>Этот арктический лев подкрадывается к добыче и… Эй, как ты это читаешь, читер?!</AA_InvisibleArcticLion.description>
+  <AA_CrushingEverything.label>сокрушение всего на пути</AA_CrushingEverything.label>
+  <AA_CrushingEverything.description>На вашем месте я бы не вставал на пути разбушевавшегося горного краба…</AA_CrushingEverything.description>
+  <AA_Nocturnal.label>ночное животное</AA_Nocturnal.label>
+  <AA_Nocturnal.description>Устаревший эффект ночного образа жизни. Он не должен появляться в игре.</AA_Nocturnal.description>
+  <AA_LockJawDisease.label>челюстной спазм</AA_LockJawDisease.label>
+  <AA_LockJawDisease.description>Болезненное воспаление челюсти, из-за которого трудно есть и разговаривать. Болезнь проходит после нескольких успешных обработок.</AA_LockJawDisease.description>
+  <AA_Paralysis.label>паралич</AA_Paralysis.label>
+  <AA_Paralysis.description>По крови этого существа распространяется быстродействующий токсин, парализующий мышцы. Через некоторое время его действие прекратится.</AA_Paralysis.description>
+  <AA_Paralysis.stages.initial.label>начальная стадия</AA_Paralysis.stages.initial.label>
+  <AA_Electric.stages.initial.label>начальная стадия</AA_Electric.stages.initial.label>
+  <AA_Paralysis.stages.stunned.label>оцепенение</AA_Paralysis.stages.stunned.label>
+  <AA_Paralysis.stages.very_stunned.label>сильное оцепенение</AA_Paralysis.stages.very_stunned.label>
+  <AA_Paralysis.stages.paralysed.label>паралич</AA_Paralysis.stages.paralysed.label>
+  <AA_Electric.stages.paralysed.label>паралич</AA_Electric.stages.paralysed.label>
+  <AA_Electric.label>поражение током</AA_Electric.label>
+  <AA_Electric.description>Опасное поражение электрическим током. Может повредить сердце; чем сильнее разряд, тем выше вероятность сердечного приступа.</AA_Electric.description>
+  <AA_Electric.stages.shocked.label>поражение</AA_Electric.stages.shocked.label>
+  <AA_Electric.stages.very_shocked.label>сильное поражение</AA_Electric.stages.very_shocked.label>
+  <AA_ToxicBuildup.label>отравление токсинами</AA_ToxicBuildup.label>
+  <AA_ToxicBuildup.description>Накопление токсинов в крови. Причиной могут стать ядовитые вещества в окружающей среде, укусы ядовитых существ или отравленное оружие.
+
+Высокие дозы смертельны. Даже небольшое отравление может вызвать рак.
+
+В отличие от обычного отравления токсинами из базовой игры, этот эффект не делает мясо погибшего существа несъедобным.</AA_ToxicBuildup.description>
+  <AA_ToxicBuildup.stages.initial-0.label>начальная стадия</AA_ToxicBuildup.stages.initial-0.label>
+  <AA_ToxicBuildup.stages.initial-1.label>начальная стадия</AA_ToxicBuildup.stages.initial-1.label>
+  <AA_ToxicBuildup.stages.minor.label>лёгкое</AA_ToxicBuildup.stages.minor.label>
+  <AA_ToxicBuildup.stages.moderate.label>среднее</AA_ToxicBuildup.stages.moderate.label>
+  <AA_ToxicBuildup.stages.serious.label>тяжёлое</AA_ToxicBuildup.stages.serious.label>
+  <AA_ToxicBuildup.stages.extreme.label>крайнее</AA_ToxicBuildup.stages.extreme.label>
+  <AA_SwarmlingImplantation.stages.extreme-1.label>крайнее</AA_SwarmlingImplantation.stages.extreme-1.label>
+  <AA_LowRest_LowestRank.label>обычная потребность во сне</AA_LowRest_LowestRank.label>
+  <AA_LowRest_LowestRank.description>Из-за неудачного набора генов это существо нуждается во сне не меньше обычных животных.</AA_LowRest_LowestRank.description>
+  <AA_LowRest_LowRank.label>пониженная потребность во сне</AA_LowRest_LowRank.label>
+  <AA_LowRest_LowRank.description>Этому существу требуется меньше сна, чем другим животным, и оно может бодрствовать немного дольше.</AA_LowRest_LowRank.description>
+  <AA_LowRest.label>низкая потребность во сне</AA_LowRest.label>
+  <AA_LowRest.description>Этому существу требуется мало сна, и оно может долго бодрствовать.</AA_LowRest.description>
+  <AA_LowRest_HighRank.label>очень низкая потребность во сне</AA_LowRest_HighRank.label>
+  <AA_LowRest_HighRank.description>Этому существу требуется очень мало сна, и оно может долго бодрствовать.</AA_LowRest_HighRank.description>
+  <AA_LowRest_HighestRank.label>почти не нуждается во сне</AA_LowRest_HighestRank.label>
+  <AA_LowRest_HighestRank.description>Это существо почти не нуждается во сне и может бодрствовать невероятно долго.</AA_LowRest_HighestRank.description>
+  <AA_PsionicallyNuzzled.label>псионическая ласка</AA_PsionicallyNuzzled.label>
+  <AA_PsionicallyNuzzled.description>Благословение духолиса.</AA_PsionicallyNuzzled.description>
+  <AA_GatheredResource.label>собран продукт животного</AA_GatheredResource.label>
+  <AA_GatheredResource.description>Этот поселенец недавно собрал продукт животного.</AA_GatheredResource.description>
+  <AA_CorpseFeast.label>пиршество на человеческих трупах</AA_CorpseFeast.label>
+  <AA_CorpseFeast.description>Это животное недавно полакомилось разлагающимися человеческими трупами. Вкуснейшее мясо.</AA_CorpseFeast.description>
+  <AA_AteFinestClothes.label>пиршество на легендарной одежде</AA_AteFinestClothes.label>
+  <AA_AteFinestClothes.description>Эта ангельская моль недавно съела одежду легендарного качества.</AA_AteFinestClothes.description>
+  <AA_RechargingBatteries.label>подзарядка аккумуляторов</AA_RechargingBatteries.label>
+  <AA_RechargingBatteries.description>Это существо недавно подзарядило ближайший аккумулятор.</AA_RechargingBatteries.description>
+  <AA_FertilizedTerrain.label>удобрение почвы</AA_FertilizedTerrain.label>
+  <AA_FertilizedTerrain.description>Этот песчаный кальмар недавно удобрил участок песчаной почвы.</AA_FertilizedTerrain.description>
+  <AA_SwarmlingImplantation.label>заражение роевиками</AA_SwarmlingImplantation.label>
+  <AA_SwarmlingImplantation.description>В организм внедрились личинки роевика. Если не лечить заражение должным образом или если существо погибнет на достаточно поздней стадии, личинки пожрут его изнутри и выберутся из трупа.</AA_SwarmlingImplantation.description>
+  <AA_SwarmlingImplantation.stages.minor.label>лёгкое</AA_SwarmlingImplantation.stages.minor.label>
+  <AA_SwarmlingImplantation.stages.major.label>тяжёлое</AA_SwarmlingImplantation.stages.major.label>
+  <AA_SwarmlingImplantation.stages.extreme-0.label>крайнее</AA_SwarmlingImplantation.stages.extreme-0.label>
+  <AA_Resurrection.label>восстань из могилы!</AA_Resurrection.label>
+  <AA_Resurrection.description>У этого животного 9 жизней, включая текущую. Оно может вернуться с того света до восьми раз.</AA_Resurrection.description>
+  <AA_MimeHediff.label>скрывается у всех на виду</AA_MimeHediff.label>
+  <AA_MimeHediff.description>Возможно, этот поселенец вовсе не человек…</AA_MimeHediff.description>
+  <AA_BurrowingUnderSand.label>закапывание в песок</AA_BurrowingUnderSand.label>
+  <AA_BurrowingUnderSand.description>Этот песчаный бродяга закапывается в песок, становясь очень устойчивым к урону. Ненавижу песок. Жёсткий, грубый, раздражает. И забивается повсюду.</AA_BurrowingUnderSand.description>
+  <AA_VirulentFungalInfection.label>стремительная грибковая инфекция</AA_VirulentFungalInfection.label>
+  <AA_VirulentFungalInfection.description>Грибковая инфекция в ране. Без лечения развивается с пугающей скоростью и убивает за несколько часов. К счастью, она легко поддаётся лечению: если врач быстро обработает рану с приемлемым качеством, инфекцию удастся сдержать и устранить.</AA_VirulentFungalInfection.description>
+  <AA_VirulentFungalInfection.labelNoun>стремительная грибковая инфекция</AA_VirulentFungalInfection.labelNoun>
+  <AA_VirulentFungalInfection.stages.minor.label>лёгкая</AA_VirulentFungalInfection.stages.minor.label>
+  <AA_VirulentFungalInfection.stages.major.label>тяжёлая</AA_VirulentFungalInfection.stages.major.label>
+  <AA_VirulentFungalInfection.stages.extreme-0.label>крайняя</AA_VirulentFungalInfection.stages.extreme-0.label>
+  <AA_VirulentFungalInfection.stages.extreme-1.label>крайняя</AA_VirulentFungalInfection.stages.extreme-1.label>
+  <AA_AnoleGrown.label>взрывной рост</AA_AnoleGrown.label>
+  <AA_AnoleGrown.description>Нестабильная смесь гормонов роста и биомеханических механитов вызывает безудержный рост клеток этого существа. На несколько часов это резко ускорит обмен веществ, повысит боевую мощь и устойчивость к повреждениям. После этого существо будет истощено и потребует больше еды, чтобы восстановить силы.</AA_AnoleGrown.description>
+  <AA_AnoleGrown.comps.HediffComp_VerbGiver.tools.claws.label>когти</AA_AnoleGrown.comps.HediffComp_VerbGiver.tools.claws.label>
+  <AA_AnoleGrownExhausted.label>взрывной рост (истощение)</AA_AnoleGrownExhausted.label>
+  <AA_AnoleGrownExhausted.description>Это существо недавно пережило аномальный рост, который истощил его и вызвал зверский голод. Повторно вызвать взрывной рост нельзя, пока это состояние не пройдёт.</AA_AnoleGrownExhausted.description>
+  <AA_EatenACorpse.label>съеден труп</AA_EatenACorpse.label>
+  <AA_EatenACorpse.description>Эрины любят хорошие, вкусные трупы. Свежий труп значительно укрепляет здоровье эрина почти на полдня.</AA_EatenACorpse.description>
+  <AA_WinterPelt.label>зимний мех</AA_WinterPelt.label>
+  <AA_WinterPelt.description>У этого животного густой зимний мех, хорошо защищающий от холода.</AA_WinterPelt.description>
+  <AA_JunglePelt.label>тропический мех</AA_JunglePelt.label>
+  <AA_JunglePelt.description>У этого животного лёгкий тропический мех, немного повышающий устойчивость к жаре.</AA_JunglePelt.description>
+  <AA_DesertPelt.label>пустынный мех</AA_DesertPelt.label>
+  <AA_DesertPelt.description>У этого животного мех, приспособленный к пустыне и хорошо защищающий от жары.</AA_DesertPelt.description>
+  <AA_NoPain.label>нечувствительность к боли</AA_NoPain.label>
+  <AA_NoPain.description>Это существо не чувствует боли; его порог болевого шока также повышен.</AA_NoPain.description>
+  <AA_Kamikaze.label>внезапный взрыв</AA_Kamikaze.label>
+  <AA_Kamikaze.description>Бум.</AA_Kamikaze.description>
+  <AA_Kamikaze.stages.initialhidden.label>начальная — скрытая</AA_Kamikaze.stages.initialhidden.label>
+  <AA_Kamikaze.stages.critical.label>критическая</AA_Kamikaze.stages.critical.label>
+  <AA_AteBlackTruffleIngredient.label>съеден чёрный трюфель (в блюде)</AA_AteBlackTruffleIngredient.label>
+  <AA_AteBlackTruffleIngredient.description>Употреблены чёрные трюфели — вкусные и ценные грибы.</AA_AteBlackTruffleIngredient.description>
+  <AA_AcidBuildup_AgainstMechs.label>кислотный ожог</AA_AcidBuildup_AgainstMechs.label>
+  <AA_AcidBuildup_AgainstMechs.description>Кислота продолжает причинять ожоги ещё долго после попадания. Действует даже на механоидов, обычно невосприимчивых к кислоте!</AA_AcidBuildup_AgainstMechs.description>
+  <AA_AcidBuildup_AgainstMechs.stages.minor_receiving_burns.label>лёгкий, продолжает обжигать</AA_AcidBuildup_AgainstMechs.stages.minor_receiving_burns.label>
+  <AA_AcidBuildup_AgainstMechs.stages.moderate_receiving_burns.label>средний, продолжает обжигать</AA_AcidBuildup_AgainstMechs.stages.moderate_receiving_burns.label>
+  <AA_AcidBuildup_AgainstMechs.stages.serious_receiving_burns.label>тяжёлый, продолжает обжигать</AA_AcidBuildup_AgainstMechs.stages.serious_receiving_burns.label>
+  <AA_CarryWeight1.label>повышенная переносимость веса (ужасная)</AA_CarryWeight1.label>
+  <AA_CarryWeight1.description>Это существо может переносить больше веса как при переноске предметов, так и в караванах.</AA_CarryWeight1.description>
+  <AA_CarryWeight2.description>Это существо может переносить больше веса как при переноске предметов, так и в караванах.</AA_CarryWeight2.description>
+  <AA_CarryWeight3.description>Это существо может переносить больше веса как при переноске предметов, так и в караванах.</AA_CarryWeight3.description>
+  <AA_CarryWeight4.description>Это существо может переносить больше веса как при переноске предметов, так и в караванах.</AA_CarryWeight4.description>
+  <AA_CarryWeight5.description>Это существо может переносить больше веса как при переноске предметов, так и в караванах.</AA_CarryWeight5.description>
+  <AA_CarryWeight6.description>Это существо может переносить больше веса как при переноске предметов, так и в караванах.</AA_CarryWeight6.description>
+  <AA_CarryWeight7.description>Это существо может переносить больше веса как при переноске предметов, так и в караванах.</AA_CarryWeight7.description>
+  <AA_CarryWeight2.label>повышенная переносимость веса (низкая)</AA_CarryWeight2.label>
+  <AA_CarryWeight3.label>повышенная переносимость веса (обычная)</AA_CarryWeight3.label>
+  <AA_CarryWeight4.label>повышенная переносимость веса (хорошая)</AA_CarryWeight4.label>
+  <AA_CarryWeight5.label>повышенная переносимость веса (отличная)</AA_CarryWeight5.label>
+  <AA_CarryWeight6.label>повышенная переносимость веса (мастерская)</AA_CarryWeight6.label>
+  <AA_CarryWeight7.label>повышенная переносимость веса (легендарная)</AA_CarryWeight7.label>
+  <AA_MutantLeg.label>мутантная нога</AA_MutantLeg.label>
+  <AA_MutantLeg.description>Эта нога покрыта скользкими выделениями, непрерывно сочащимися из каждой поры. С ней что-то… не так, словно она не вполне естественного происхождения.</AA_MutantLeg.description>
+  <AA_MutantLeg.labelNoun>мутантная нога</AA_MutantLeg.labelNoun>
+  <AA_MutantArm.label>мутантная рука</AA_MutantArm.label>
+  <AA_MutantArm.description>Эта рука дёргается и неестественно изгибается, словно живёт собственной жизнью. С ней что-то… не так, словно она не вполне естественного происхождения.</AA_MutantArm.description>
+  <AA_MutantArm.comps.HediffComp_VerbGiver.tools.fist.label>кулак</AA_MutantArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <AA_MutantArm.labelNoun>мутантная рука</AA_MutantArm.labelNoun>
+  <AA_MutantEye.label>мутантный глаз</AA_MutantEye.label>
+  <AA_MutantEye.description>Этот глаз непрерывно моргает сам по себе, будто от нервного тика. За обычными человеческими веками, похоже, скрыта ещё одна, вертикальная пара. С ним что-то… не так, словно он не вполне естественного происхождения.</AA_MutantEye.description>
+  <AA_MutantEye.labelNoun>мутантный глаз</AA_MutantEye.labelNoun>
+  <AA_TheOmniscientEye.label>всеведущий глаз</AA_TheOmniscientEye.label>
+  <AA_TheOmniscientEye.description>Налитый кровью глаз с треугольным зрачком. Этот жуткий мутантный орган дарует усиленное псионическое зрение.</AA_TheOmniscientEye.description>
+  <AA_TheOmniscientEye.labelNoun>всеведущий глаз</AA_TheOmniscientEye.labelNoun>
+  <AA_TheRecalcitrantEye.label>непокорный глаз</AA_TheRecalcitrantEye.label>
+  <AA_TheRecalcitrantEye.description>Странный мутантный глаз, который никогда не открывается полностью и обычно наполовину прикрыт болезненным на вид веком. Каким-то образом обеспечивает обычное зрение и одновременно защищает владельца от псионических атак.</AA_TheRecalcitrantEye.description>
+  <AA_TheRecalcitrantEye.labelNoun>непокорный глаз</AA_TheRecalcitrantEye.labelNoun>
+  <AA_TheQuiescentEye.label>безмятежный глаз</AA_TheQuiescentEye.label>
+  <AA_TheQuiescentEye.description>Этот глаз никогда не моргает, поддерживая влажность неизвестным способом. Наполняет владельца сверхъестественным спокойствием.</AA_TheQuiescentEye.description>
+  <AA_TheQuiescentEye.labelNoun>безмятежный глаз</AA_TheQuiescentEye.labelNoun>
+  <AA_TheNumbingEye.label>бесчувственный глаз</AA_TheNumbingEye.label>
+  <AA_TheNumbingEye.description>Вместо обычного мясистого века этот странный мутантный глаз прикрывают плотные костяные пластинки. Кажется почти нечувствительным к боли.</AA_TheNumbingEye.description>
+  <AA_TheNumbingEye.labelNoun>бесчувственный глаз</AA_TheNumbingEye.labelNoun>
+  <AA_TheSpasmodicEye.label>судорожный глаз</AA_TheSpasmodicEye.label>
+  <AA_TheSpasmodicEye.description>Этот глаз не может перестать бесконтрольно моргать. Это крайне отвлекает и тревожит, но позволяет владельцу применять больше пси-способностей до наступления истощения.</AA_TheSpasmodicEye.description>
+  <AA_TheSpasmodicEye.labelNoun>судорожный глаз</AA_TheSpasmodicEye.labelNoun>
+  <AA_TheMeretriciousEye.label>обольстительный глаз</AA_TheMeretriciousEye.label>
+  <AA_TheMeretriciousEye.description>Этот броский глаз словно живёт собственной жизнью. Он привлекает внимание окружающих выверенными подмигиваниями и украдкой брошенными томными взглядами, манящими обманчивым очарованием. Позволяет владельцу быстрее восстанавливаться после псионического истощения.</AA_TheMeretriciousEye.description>
+  <AA_TheMeretriciousEye.labelNoun>обольстительный глаз</AA_TheMeretriciousEye.labelNoun>
+  <AA_TheHeuristicEye.label>эвристический глаз</AA_TheHeuristicEye.label>
+  <AA_TheHeuristicEye.description>Этот глаз методично исследует окружающее пространство, не упуская ни одной детали.</AA_TheHeuristicEye.description>
+  <AA_TheHeuristicEye.labelNoun>эвристический глаз</AA_TheHeuristicEye.labelNoun>
+  <AA_PermanentBurn.injuryProps.destroyedLabel>Сожжено</AA_PermanentBurn.injuryProps.destroyedLabel>
+  <AA_PermanentBurn.injuryProps.destroyedOutLabel>Выжжено</AA_PermanentBurn.injuryProps.destroyedOutLabel>
+</LanguageData>

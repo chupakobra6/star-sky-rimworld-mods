@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<loadFolders>
+  <v1.6>
+    <li>/</li>
+    <li IfModActive="ludeon.rimworld.anomaly">1.6/Conditional/with-ludeon-rimworld-anomaly</li>
+    <li IfModActive="ludeon.rimworld.biotech">1.6/Conditional/with-ludeon-rimworld-biotech</li>
+    <li IfModActive="ludeon.rimworld.ideology">1.6/Conditional/with-ludeon-rimworld-ideology</li>
+    <li IfModActive="ludeon.rimworld.odyssey">1.6/Conditional/with-ludeon-rimworld-odyssey</li>
+    <li IfModActive="ludeon.rimworld.royalty">1.6/Conditional/with-ludeon-rimworld-royalty</li>
+    <li IfModActive="oskarpotocki.vfe.classical">1.6/Conditional/with-oskarpotocki-vfe-classical</li>
+    <li IfModActive="sarg.alphagenes">1.6/Conditional/with-sarg-alphagenes</li>
+    <li IfModActive="vanillaexpanded.vpeflowers">1.6/Conditional/with-vanillaexpanded-vpeflowers</li>
+    <li IfModActive="vanillaexpanded.vplantse">1.6/Conditional/with-vanillaexpanded-vplantse</li>
+    <li IfModActive="vanillaexpanded.vplantsemore">1.6/Conditional/with-vanillaexpanded-vplantsemore</li>
+    <li IfModActive="vanillaexpanded.vplantsemushrooms">1.6/Conditional/with-vanillaexpanded-vplantsemushrooms</li>
+    <li IfModActive="vanillaexpanded.vplantsesucculents">1.6/Conditional/with-vanillaexpanded-vplantsesucculents</li>
+  </v1.6>
+</loadFolders>

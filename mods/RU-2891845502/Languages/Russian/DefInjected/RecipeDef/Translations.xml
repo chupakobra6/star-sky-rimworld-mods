@@ -1,0 +1,7 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AG_RemoveImplantation.label>удалить паразитические яйца</AG_RemoveImplantation.label>
+  <AG_RemoveImplantation.description>Удалить паразитические яйца.</AG_RemoveImplantation.description>
+  <AG_RemoveImplantation.jobString>Удаляет паразитические яйца.</AG_RemoveImplantation.jobString>
+  <AG_RemoveImplantation.successfullyRemovedHediffMessage>{0}: паразитические яйца у {1} успешно удалены.</AG_RemoveImplantation.successfullyRemovedHediffMessage>
+</LanguageData>

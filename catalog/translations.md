@@ -295,3 +295,73 @@ RimWorld 1.6 · Версия 1.0.0
 RimWorld 1.6 · Версия 1.0.2
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3807830501) · [Исходники и руководство](../mods/RU-1874644848/README.md) · [История изменений](../mods/RU-1874644848/CHANGELOG.md) · [Лицензия](../mods/RU-1874644848/LICENSE) · [Источники и уведомления](../mods/RU-1874644848/NOTICES.md)
+
+## Vanilla Furniture Expanded - Power — русский перевод
+
+Русский перевод Vanilla Furniture Expanded - Power: генераторы, аккумуляторы, исследования и хеликсиновая газовая сеть.
+
+[![Vanilla Furniture Expanded - Power — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/vanilla-furniture-expanded-power-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306723)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306723) · [Исходники и руководство](../mods/RU-2062943477/README.md) · [История изменений](../mods/RU-2062943477/CHANGELOG.md) · [Лицензия](../mods/RU-2062943477/LICENSE) · [Источники и уведомления](../mods/RU-2062943477/NOTICES.md)
+
+## Vanilla Events Expanded — русский перевод
+
+Русский перевод Vanilla Events Expanded: события, письма, игровые условия и задания.
+
+[![Vanilla Events Expanded — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/vanilla-events-expanded-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306734)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306734) · [Исходники и руководство](../mods/RU-1938420742/README.md) · [История изменений](../mods/RU-1938420742/CHANGELOG.md) · [Лицензия](../mods/RU-1938420742/LICENSE) · [Источники и уведомления](../mods/RU-1938420742/NOTICES.md)
+
+## Vanilla Furniture Expanded - Props and Decor — русский перевод
+
+Русский перевод Vanilla Furniture Expanded - Props and Decor: декорации, растения, категории меню и настройки.
+
+[![Vanilla Furniture Expanded - Props and Decor — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/vanilla-furniture-expanded-props-and-decor-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306748)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306748) · [Исходники и руководство](../mods/RU-2102143149/README.md) · [История изменений](../mods/RU-2102143149/CHANGELOG.md) · [Лицензия](../mods/RU-2102143149/LICENSE) · [Источники и уведомления](../mods/RU-2102143149/NOTICES.md)
+
+## Alpha Animals — русский перевод
+
+Русский перевод Alpha Animals: животные, способности, события, рецепты и настройки.
+
+[![Alpha Animals — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/alpha-animals-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306758)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306758) · [Исходники и руководство](../mods/RU-1541721856/README.md) · [История изменений](../mods/RU-1541721856/CHANGELOG.md) · [Лицензия](../mods/RU-1541721856/LICENSE) · [Источники и уведомления](../mods/RU-1541721856/NOTICES.md)
+
+## Geological Landforms — русский перевод
+
+Русский перевод Geological Landforms: настройки форм рельефа и редактор TerrainGraph.
+
+[![Geological Landforms — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/geological-landforms-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306768)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306768) · [Исходники и руководство](../mods/RU-2773943594/README.md) · [История изменений](../mods/RU-2773943594/CHANGELOG.md) · [Лицензия](../mods/RU-2773943594/LICENSE) · [Источники и уведомления](../mods/RU-2773943594/NOTICES.md)
+
+## Alpha Genes — русский перевод
+
+Русский перевод Alpha Genes: гены, ксенотипы, способности, задания и сообщения.
+
+[![Alpha Genes — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/alpha-genes-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306776)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306776) · [Исходники и руководство](../mods/RU-2891845502/README.md) · [История изменений](../mods/RU-2891845502/CHANGELOG.md) · [Лицензия](../mods/RU-2891845502/LICENSE) · [Источники и уведомления](../mods/RU-2891845502/NOTICES.md)
+
+## Simple sidearms — русский перевод
+
+Русский перевод Simple sidearms: панель оружия, автоматическое переключение, настройки и подсказки.
+
+[![Simple sidearms — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/simple-sidearms-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306782)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306782) · [Исходники и руководство](../mods/RU-927155256/README.md) · [История изменений](../mods/RU-927155256/CHANGELOG.md) · [Лицензия](../mods/RU-927155256/LICENSE) · [Источники и уведомления](../mods/RU-927155256/NOTICES.md)

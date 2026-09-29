@@ -1,0 +1,10 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AA_BlackHive.label>чёрный улей</AA_BlackHive.label>
+  <AA_BlackHive.description>Всех инсектоидов создали для борьбы с механоидами. Чёрный улей был лучшим из лучших: настолько свирепым и ужасающим, что любой механоид хоть с каплей разума предпочёл бы бежать при встрече с ним. Но это было много лет назад. Теперь остатки чёрного улья бродят по мирам окраин, представляя скрытую угрозу для всех, кто пользуется передовыми технологиями.</AA_BlackHive.description>
+  <AA_BlackHive.fixedName>Чёрный улей</AA_BlackHive.fixedName>
+  <AA_BlackHive.leaderTitle>вожак</AA_BlackHive.leaderTitle>
+  <AA_BlackHive.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</AA_BlackHive.messageDefendersAttacking>
+  <AA_BlackHive.pawnSingular>насекомое чёрного улья</AA_BlackHive.pawnSingular>
+  <AA_BlackHive.pawnsPlural>насекомые чёрного улья</AA_BlackHive.pawnsPlural>
+</LanguageData>

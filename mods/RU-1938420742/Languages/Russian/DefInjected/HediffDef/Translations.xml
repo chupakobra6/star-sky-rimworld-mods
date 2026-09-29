@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Traitor.label>предатель</Traitor.label>
+  <Traitor.description>Ах ты читер, не подглядывай!</Traitor.description>
+  <MightJoin.label>может присоединиться</MightJoin.label>
+  <MightJoin.description>Может присоединиться.</MightJoin.description>
+  <VEE_SunSickness.label>солнечный ожог</VEE_SunSickness.label>
+  <VEE_SunSickness.description>Тяжёлое повреждение клеток и образование волдырей из-за воздействия солнечного излучения без защиты. Восстановление крайне медленное, а кожа остаётся очень чувствительной в течение нескольких дней.</VEE_SunSickness.description>
+  <VEE_SunSickness.stages.initial.label>начальный</VEE_SunSickness.stages.initial.label>
+  <VEE_SunSickness.stages.minor.label>лёгкий</VEE_SunSickness.stages.minor.label>
+  <VEE_SunSickness.stages.moderate.label>умеренный</VEE_SunSickness.stages.moderate.label>
+  <VEE_SunSickness.stages.serious.label>серьёзный</VEE_SunSickness.stages.serious.label>
+  <VEE_SunSickness.stages.extreme.label>сильнейший</VEE_SunSickness.stages.extreme.label>
+  <VEE_LongNight.label>долгая ночь</VEE_LongNight.label>
+  <VEE_LongNight.description>Космическая сущность испускает мощные резонансные колебания. Органические существа устают гораздо быстрее обычного, а их психочувствительность опасно усиливается.</VEE_LongNight.description>
+  <VEE_BloomPsychicSensitivity.label>психическое цветение</VEE_BloomPsychicSensitivity.label>
+  <VEE_BloomPsychicSensitivity.description>Пси-лотосы превращают окружающую флору в яркие растения иного мира. Психочувствительность всех существ в регионе удвоилась.</VEE_BloomPsychicSensitivity.description>
+  <VEE_PsychicRelaxationHediff.label>психическая безмятежность</VEE_PsychicRelaxationHediff.label>
+  <VEE_PsychicRelaxationHediff.description>Далёкий источник радости посылает психические колебания, которые прокатываются по региону и особенно сильно отзываются в сознании определённой группы людей.</VEE_PsychicRelaxationHediff.description>
+  <VEE_PsychicOverdriveHediff.label>психическая перегрузка</VEE_PsychicOverdriveHediff.label>
+  <VEE_PsychicOverdriveHediff.description>Волна психической энергии прокатилась по колонии, входя в резонанс с сознанием некоторых поселенцев.</VEE_PsychicOverdriveHediff.description>
+  <VEE_PsychicHumHediff.label>психический шум</VEE_PsychicHumHediff.label>
+  <VEE_PsychicHumHediff.description>Сознание некоторых людей, словно выбранных наугад, охватывает странный дисгармоничный психический шум.</VEE_PsychicHumHediff.description>
+</LanguageData>

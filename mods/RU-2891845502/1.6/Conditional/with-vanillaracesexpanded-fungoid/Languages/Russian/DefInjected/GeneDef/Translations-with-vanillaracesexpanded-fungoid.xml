@@ -1,0 +1,11 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AlphaGenes_FungalStrength.label>грибная сила</AlphaGenes_FungalStrength.label>
+  <AlphaGenes_FungalStrength.description>Носители этого гена обладают усиленными грибковыми структурами, наделяющими их невероятной силой, что делает их крайне опасными в ближнем бою.</AlphaGenes_FungalStrength.description>
+  <AlphaGenes_FungalStrength.customEffectDescriptions.0>Этот ген доступен исключительно в редакторе ксенотипов или у микоморфов и не встречается в генных пакетах.</AlphaGenes_FungalStrength.customEffectDescriptions.0>
+  <AlphaGenes_FungalSpeed.customEffectDescriptions.0>Этот ген доступен исключительно в редакторе ксенотипов или у микоморфов и не встречается в генных пакетах.</AlphaGenes_FungalSpeed.customEffectDescriptions.0>
+  <AlphaGenes_FungalSpeed.label>грибная скорость</AlphaGenes_FungalSpeed.label>
+  <AlphaGenes_FungalSpeed.description>Носители этого гена двигаются с повышенной скоростью по мере развития инфекции. Со временем эффект усиливается.</AlphaGenes_FungalSpeed.description>
+  <AG_GeneInfectionImmunity.label>иммунитет к генной инфекции</AG_GeneInfectionImmunity.label>
+  <AG_GeneInfectionImmunity.description>Носители этого гена невосприимчивы к генным инфекциям.</AG_GeneInfectionImmunity.description>
+</LanguageData>

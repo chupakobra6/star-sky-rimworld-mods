@@ -1,0 +1,264 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AG_Exploder.label>химтопливные мешки</AG_Exploder.label>
+  <AG_Exploder.description>Выращенные благодаря гену мешки с химтопливом взрываются при гибели носителя.</AG_Exploder.description>
+  <AG_AcidicExploder.label>кислотная кровь</AG_AcidicExploder.label>
+  <AG_AcidicExploder.description>Нестабильная едкая кровь при гибели носителя взрывается облаком кислоты.</AG_AcidicExploder.description>
+  <AG_LungRotStrengthHediff.label>усиление трупным газом</AG_LungRotStrengthHediff.label>
+  <AG_LungRotStrengthHediff.description>Особые структуры в лёгких превращают воздействие трупного газа в источник силы. Груды трупов выглядят... заманчиво.</AG_LungRotStrengthHediff.description>
+  <AG_Electrified.label>наэлектризованность</AG_Electrified.label>
+  <AG_Electrified.description>Кровь генетически изменена и накапливает электрическую энергию. Это позволяет заряжать аккумуляторы одним своим присутствием рядом с ними. Изменение необратимо и весьма травматично.</AG_Electrified.description>
+  <AG_Electric.label>электрический удар</AG_Electric.label>
+  <AG_Electric.description>Опасный удар током мог повредить сердце. Чем сильнее воздействие, тем выше риск сердечного приступа.</AG_Electric.description>
+  <AG_Electric.stages.initial.label>начальный</AG_Electric.stages.initial.label>
+  <AG_Electric.stages.shocked.label>лёгкий</AG_Electric.stages.shocked.label>
+  <AG_Electric.stages.very_shocked.label>серьёзный</AG_Electric.stages.very_shocked.label>
+  <AG_Electric.stages.paralysed.label>паралич</AG_Electric.stages.paralysed.label>
+  <AG_Petrification.label>окаменение</AG_Petrification.label>
+  <AG_Petrification.description>Кожа жертвы твердеет и превращается в хрупкий камень. Состояние обратимо и проходит само через несколько часов, но при достижении тяжести 100% убивает жертву.</AG_Petrification.description>
+  <AG_Petrification.stages.initial.label>начальное</AG_Petrification.stages.initial.label>
+  <AG_Petrification.stages.stiff_joints.label>скованность суставов</AG_Petrification.stages.stiff_joints.label>
+  <AG_Petrification.stages.rocky_skin.label>окаменение кожи</AG_Petrification.stages.rocky_skin.label>
+  <AG_Petrification.stages.brittle_bones.label>хрупкость костей</AG_Petrification.stages.brittle_bones.label>
+  <AG_Petrification.stages.turned_to_stone.label>полное окаменение</AG_Petrification.stages.turned_to_stone.label>
+  <AG_InsectRally.label>зов насекомых</AG_InsectRally.label>
+  <AG_InsectRally_Buff.label>зов насекомых</AG_InsectRally_Buff.label>
+  <AG_InsectRally.description>Носитель выделяет облако феромонов, неотразимо привлекающих насекомых. Рядом с ним насекомые получают прилив сил и становятся сильнее.</AG_InsectRally.description>
+  <AG_InsectRally_Buff.description>Облако феромонов придаёт этому насекомому силы.</AG_InsectRally_Buff.description>
+  <AG_TemporarySummon.label>призванное существо</AG_TemporarySummon.label>
+  <AG_TemporarySummon.description>Существо призвано врождённой пси-способностью и исчезнет через 4 часа.</AG_TemporarySummon.description>
+  <AG_TemporarySummonMech.label>призванный механоид</AG_TemporarySummonMech.label>
+  <AG_TemporarySummonMech.description>Механоид призван врождённой пси-способностью и исчезнет через сутки.</AG_TemporarySummonMech.description>
+  <AG_ScrambledIFF.label>система распознавания взломана</AG_ScrambledIFF.label>
+  <AG_ScrambledIFF.description>Система «свой — чужой» механоида взломана, и он не может правильно распознавать врагов. Сутки он будет сражаться на стороне колонии, а затем вернётся к прежней фракции.</AG_ScrambledIFF.description>
+  <AG_TempNodeEffect.label>временная пропускная способность</AG_TempNodeEffect.label>
+  <AG_TempNodeEffect.description>Временный канальный узел увеличивает пропускную способность носителя.</AG_TempNodeEffect.description>
+  <AG_SterilizingBreath.label>под действием стерилизующего дыхания</AG_SterilizingBreath.label>
+  <AG_SterilizingBreath.description>Стерилизующее дыхание ускоряет выработку иммунитета, но снижает плодовитость. Эффект исчезнет через 12 часов.</AG_SterilizingBreath.description>
+  <AG_BansheeScream.label>под действием крика банши</AG_BansheeScream.label>
+  <AG_BansheeScream.description>Крик банши ухудшает слух, точность стрельбы и уклонение в ближнем бою. Эффект исчезнет через 12 часов.</AG_BansheeScream.description>
+  <AG_FreezingBreath.label>под действием ледяного дыхания</AG_FreezingBreath.label>
+  <AG_FreezingBreath.description>Ледяное дыхание снижает скорость передвижения. Эффект исчезнет через 12 часов.</AG_FreezingBreath.description>
+  <AG_NoxiousBreath.label>под действием зловонного дыхания</AG_NoxiousBreath.label>
+  <AG_NoxiousBreath.description>Зловонное дыхание вызывает неудержимую рвоту. Эффект исчезнет через 12 часов.</AG_NoxiousBreath.description>
+  <AG_FungalSkin.label>грибная кожа</AG_FungalSkin.label>
+  <AG_FungalSkin.description>Из кожи прорастают грибные наросты. Они не причиняют боли и дают значительную естественную защиту, но делают носителя ОЧЕНЬ уязвимым к огню.</AG_FungalSkin.description>
+  <AG_ArmourMinor.label>древесная кожа</AG_ArmourMinor.label>
+  <AG_ArmourMinor.description>Твёрдая кожа, похожая на древесину, даёт небольшую естественную защиту.</AG_ArmourMinor.description>
+  <AG_ArmourMedium.label>железистая кожа</AG_ArmourMedium.label>
+  <AG_ArmourMedium.description>Кожа укреплена нанорешёткой из металлических соединений и даёт умеренную естественную защиту.</AG_ArmourMedium.description>
+  <AG_ArmourMajor.label>пластальная кожа</AG_ArmourMajor.label>
+  <AG_ArmourMajor.description>Кожа укреплена пластальной нанорешёткой и даёт значительную естественную защиту.</AG_ArmourMajor.description>
+  <AG_HornAttack.label>большие рога</AG_HornAttack.label>
+  <AG_HornAttack.description>Рога, пригодные для использования в ближнем бою.</AG_HornAttack.description>
+  <AG_HornAttack.comps.HediffComp_VerbGiver.tools.horns.label>рога</AG_HornAttack.comps.HediffComp_VerbGiver.tools.horns.label>
+  <AG_ChainsawHands.label>рука-бензопила</AG_ChainsawHands.label>
+  <AG_ChainsawHands.description>Бензопила. Вместо кисти. Честно говоря, понять это не так уж сложно.</AG_ChainsawHands.description>
+  <AG_ChainsawHands.comps.HediffComp_VerbGiver.tools.chainsaw.label>бензопила</AG_ChainsawHands.comps.HediffComp_VerbGiver.tools.chainsaw.label>
+  <AG_ScytherHands.label>клинок жнеца</AG_ScytherHands.label>
+  <AG_ScytherHands.description>Острый клинок жнеца.</AG_ScytherHands.description>
+  <AG_ScytherHands.comps.HediffComp_VerbGiver.tools.scyther_blade.label>клинок жнеца</AG_ScytherHands.comps.HediffComp_VerbGiver.tools.scyther_blade.label>
+  <AG_ClawedHands.label>когтистая рука</AG_ClawedHands.label>
+  <AG_ClawedHands.description>Когтистые руки, подходящие для быстрой атаки в ближнем бою.</AG_ClawedHands.description>
+  <AG_ClawedHands.comps.HediffComp_VerbGiver.tools.clawed_hand.label>когтистая рука</AG_ClawedHands.comps.HediffComp_VerbGiver.tools.clawed_hand.label>
+  <AG_CrabClaw.label>клешня краба</AG_CrabClaw.label>
+  <AG_CrabClaw.description>Гигантская, но удивительно универсальная клешня краба.</AG_CrabClaw.description>
+  <AG_CrabClaw.comps.HediffComp_VerbGiver.tools.claw.label>клешня</AG_CrabClaw.comps.HediffComp_VerbGiver.tools.claw.label>
+  <AG_VFEI_PneumaticClaw.comps.HediffComp_VerbGiver.tools.claw.label>клешня</AG_VFEI_PneumaticClaw.comps.HediffComp_VerbGiver.tools.claw.label>
+  <AG_VenomFangs.label>ядовитые клыки</AG_VenomFangs.label>
+  <AG_VenomFangs.description>Большие клыки, способные впрыскивать сильнодействующий яд при атаке в ближнем бою.</AG_VenomFangs.description>
+  <AG_VenomFangs.comps.HediffComp_VerbGiver.tools.venom_fangs.label>ядовитые клыки</AG_VenomFangs.comps.HediffComp_VerbGiver.tools.venom_fangs.label>
+  <AG_AcidFangs.label>кислотные клыки</AG_AcidFangs.label>
+  <AG_SlowerAcidFangs.label>кислотные клыки</AG_SlowerAcidFangs.label>
+  <AG_AcidFangs.description>Большие клыки, способные впрыскивать сильнодействующую кислоту при атаке в ближнем бою.</AG_AcidFangs.description>
+  <AG_SlowerAcidFangs.description>Большие клыки, способные впрыскивать сильнодействующую кислоту при атаке в ближнем бою.</AG_SlowerAcidFangs.description>
+  <AG_AcidFangs.comps.HediffComp_VerbGiver.tools.acid_fangs.label>кислотные клыки</AG_AcidFangs.comps.HediffComp_VerbGiver.tools.acid_fangs.label>
+  <AG_SlowerAcidFangs.comps.HediffComp_VerbGiver.tools.acid_fangs.label>кислотные клыки</AG_SlowerAcidFangs.comps.HediffComp_VerbGiver.tools.acid_fangs.label>
+  <AG_DevouredShooting.label>поглощённый мозг: дальний бой</AG_DevouredShooting.label>
+  <AG_DevouredShooting.description>Поглощён мозг умелого стрелка. Усиление длится 2 суток.</AG_DevouredShooting.description>
+  <AG_DevouredMelee.label>поглощённый мозг: ближний бой</AG_DevouredMelee.label>
+  <AG_DevouredMelee.description>Поглощён мозг мастера ближнего боя. Усиление длится 2 суток.</AG_DevouredMelee.description>
+  <AG_DevouredConstruction.label>поглощённый мозг: строительство</AG_DevouredConstruction.label>
+  <AG_DevouredConstruction.description>Поглощён мозг умелого строителя. Усиление длится 2 суток.</AG_DevouredConstruction.description>
+  <AG_DevouredMining.label>поглощённый мозг: горное дело</AG_DevouredMining.label>
+  <AG_DevouredMining.description>Поглощён мозг умелого шахтёра. Усиление длится 2 суток.</AG_DevouredMining.description>
+  <AG_DevouredCooking.label>поглощённый мозг: кулинария</AG_DevouredCooking.label>
+  <AG_DevouredCooking.description>Поглощён мозг умелого повара. Усиление длится 2 суток.</AG_DevouredCooking.description>
+  <AG_DevouredPlants.label>поглощённый мозг: растениеводство</AG_DevouredPlants.label>
+  <AG_DevouredPlants.description>Поглощён мозг умелого растениевода. Усиление длится 2 суток.</AG_DevouredPlants.description>
+  <AG_DevouredAnimals.label>поглощённый мозг: животноводство</AG_DevouredAnimals.label>
+  <AG_DevouredAnimals.description>Поглощён мозг умелого животновода. Усиление длится 2 суток.</AG_DevouredAnimals.description>
+  <AG_DevouredCrafting.label>поглощённый мозг: ремесло</AG_DevouredCrafting.label>
+  <AG_DevouredCrafting.description>Поглощён мозг умелого ремесленника. Усиление длится 2 суток.</AG_DevouredCrafting.description>
+  <AG_DevouredArtistic.label>поглощённый мозг: искусство</AG_DevouredArtistic.label>
+  <AG_DevouredArtistic.description>Поглощён мозг мастера искусств. Усиление длится 2 суток и повышает качество создаваемых произведений искусства на 1 ступень. Эффект складывается с похожими бонусами из других модов, что может привести к Очень Нелепым Результатам. Уиии.</AG_DevouredArtistic.description>
+  <AG_DevouredMedical.label>поглощённый мозг: медицина</AG_DevouredMedical.label>
+  <AG_DevouredMedical.description>Поглощён мозг умелого врача. Усиление длится 2 суток.</AG_DevouredMedical.description>
+  <AG_DevouredSocial.label>поглощённый мозг: общение</AG_DevouredSocial.label>
+  <AG_DevouredSocial.description>Поглощён мозг мастера общения. Усиление длится 2 суток.</AG_DevouredSocial.description>
+  <AG_DevouredIntellectual.label>поглощённый мозг: умственный труд</AG_DevouredIntellectual.label>
+  <AG_DevouredIntellectual.description>Поглощён мозг мастера умственного труда. Усиление длится 2 суток.</AG_DevouredIntellectual.description>
+  <AG_GeneRemovalComa.label>кома от изменения генов</AG_GeneRemovalComa.label>
+  <AG_GeneRemovalComa.description>Искусственное вмешательство в гены сильно нагружает организм и вызывает кому на 3 суток.</AG_GeneRemovalComa.description>
+  <AG_XenogerminationComa.label>кома от насильственного вживления</AG_XenogerminationComa.label>
+  <AG_XenogerminationComa.description>Насильственное вживление ксеносемени вызывает кому на 4 суток.</AG_XenogerminationComa.description>
+  <AG_EndoimplantationComa.label>кома от вживления наследуемых генов</AG_EndoimplantationComa.label>
+  <AG_EndoimplantationComa.description>Насильственное вживление нового набора наследуемых генов вызывает кому на 4 суток.</AG_EndoimplantationComa.description>
+  <AG_UnstableMind.label>нестабильный разум</AG_UnstableMind.label>
+  <AG_UnstableMind.description>Психическая нестабильность повышает вероятность нервных срывов и значительно увеличивает психочувствительность.</AG_UnstableMind.description>
+  <AG_Helixien.label>питание трупами</AG_Helixien.label>
+  <AG_Helixien.description>Носитель постоянно выделяет зловонный едкий газ, вызывающий у живых существ зуд и неприятные ощущения. Сам по себе газ почти безвреден, но при контакте с разлагающейся органикой резко ускоряет гниение трупов. При этом выделяется чёрная гнилостная жидкость — так называемая трупная желчь. Носитель поглощает эту жижу через кожу, хотя при необходимости может питаться и другой органикой.</AG_Helixien.description>
+  <AG_NoFood.label>минимальная потребность в питании</AG_NoFood.label>
+  <AG_NoFood.description>Голод почти не ощущается: достаточно поесть раз в несколько недель.</AG_NoFood.description>
+  <AG_LightSustenance.label>фотосинтез</AG_LightSustenance.label>
+  <AG_LightSustenance.description>Хлорофилл в коже позволяет получать питание от солнечного света, почти полностью избавляя от потребности в еде. Однако для жизни необходимо регулярно находиться на свету.</AG_LightSustenance.description>
+  <AG_SmokeProducer.label>дымообразователь</AG_SmokeProducer.label>
+  <AG_SmokeProducer.description>Носитель периодически выдыхает облака густого дыма. Он мешает стрелять как по носителю, так и ему самому.</AG_SmokeProducer.description>
+  <AG_RotStinkProducer.label>выделение трупного газа</AG_RotStinkProducer.label>
+  <AG_RotStinkProducer.description>Это существо периодически выдыхает облака трупного газа. Омерзительно!</AG_RotStinkProducer.description>
+  <AG_ToxGasProducer.label>выделение токсичного газа</AG_ToxGasProducer.label>
+  <AG_ToxGasProducer.description>Это существо периодически выдыхает облака токсичного газа.</AG_ToxGasProducer.description>
+  <AG_Polluter.label>загрязнитель</AG_Polluter.label>
+  <AG_Polluter.description>Это существо постоянно загрязняет окружающую среду, со временем превращая местность в безжизненную пустошь.</AG_Polluter.description>
+  <AG_Regeneration.label>регенерация</AG_Regeneration.label>
+  <AG_Regeneration.description>В крови циркулирует сеть специализированных механитов. Они периодически залечивают внутренние повреждения, не требуя отдыха.</AG_Regeneration.description>
+  <AG_RegenerationMinor.label>малая регенерация</AG_RegenerationMinor.label>
+  <AG_RegenerationMinor.description>В крови циркулирует небольшая сеть специализированных механитов. Они периодически залечивают внутренние повреждения, не требуя отдыха.</AG_RegenerationMinor.description>
+  <AG_WaterRegeneration.label>водная регенерация</AG_WaterRegeneration.label>
+  <AG_WaterRegeneration.description>Здоровье медленно восстанавливается, пока носитель находится в воде.</AG_WaterRegeneration.description>
+  <AG_PassiveRegenerator.label>пассивный восстановитель</AG_PassiveRegenerator.label>
+  <AG_PassiveRegenerator.description>Носитель постоянно выделяет невидимое облако специализированных механитов. Они периодически залечивают раны людей и животных поблизости, не требуя отдыха.</AG_PassiveRegenerator.description>
+  <AG_LethalInstability.label>смертельная нестабильность</AG_LethalInstability.label>
+  <AG_LethalInstability.description>Для поддержания жизни требуется гораздо меньше энергии. Цена — чудовищная нестабильность деления клеток и очень, ОЧЕНЬ короткая жизнь, которую невозможно продлить никаким способом.</AG_LethalInstability.description>
+  <AG_UnstableMutation.label>нестабильная мутация</AG_UnstableMutation.label>
+  <AG_UnstableMutation.description>Нестабильная мутация тела активирует новый случайный ген на 12 часов, после чего он перестаёт действовать.</AG_UnstableMutation.description>
+  <AG_UnstableMutationMajor.label>серьёзная нестабильная мутация</AG_UnstableMutationMajor.label>
+  <AG_UnstableMutationMajor.description>Неподконтрольная нестабильная мутация раз в сутки активирует два новых случайных гена. На следующие сутки они перестают действовать, и их место занимают ещё два.</AG_UnstableMutationMajor.description>
+  <AG_UnstableMutationCatastrophic.label>катастрофическая нестабильная мутация</AG_UnstableMutationCatastrophic.label>
+  <AG_UnstableMutationCatastrophic.description>Неподконтрольная нестабильная мутация раз в сутки активирует десять новых случайных генов. На следующие сутки они перестают действовать, и их место занимает новая десятка.</AG_UnstableMutationCatastrophic.description>
+  <AG_NearBlindness.label>практически полная слепота</AG_NearBlindness.label>
+  <AG_NearBlindness.description>Глаза почти бесполезны: носитель практически полностью слеп.</AG_NearBlindness.description>
+  <AG_Deafness.label>глухота</AG_Deafness.label>
+  <AG_Deafness.description>Это существо полностью лишено способности слышать.</AG_Deafness.description>
+  <AG_Teratogenesis.label>тератогенез</AG_Teratogenesis.label>
+  <AG_Teratogenesis.description>Гены вызывают непрерывное появление опухолей по всему телу. Защиты от смерти из-за этих опухолей нет.
+
+Новая карцинома появляется каждые 42 000–72 000 тактов (0,7–1,2 суток). Одновременно в теле может быть не более десяти карцином.</AG_Teratogenesis.description>
+  <AG_LimbRegeneration.label>регенерация конечностей</AG_LimbRegeneration.label>
+  <AG_LimbRegeneration.description>Усиленные факторы регенерации в ДНК позволяют медленно отращивать даже полностью утраченные конечности. Сначала восстанавливаются повреждённые, но сохранившиеся конечности.</AG_LimbRegeneration.description>
+  <AG_VFEI_InsectoidLeg.label>нога инсектоида</AG_VFEI_InsectoidLeg.label>
+  <AG_VFEI_InsectoidLeg.description>Членистая нога инсектоида, состоящая из нескольких сегментов, покрытых хитином. Мутация крайне болезненна, но нога гораздо лучше выдерживает повреждения.</AG_VFEI_InsectoidLeg.description>
+  <AG_VFEI_InsectoidLeg.labelNoun>нога инсектоида</AG_VFEI_InsectoidLeg.labelNoun>
+  <AG_VFEI_InsectoidArm.label>рука инсектоида</AG_VFEI_InsectoidArm.label>
+  <AG_VFEI_InsectoidArm.description>Членистая рука инсектоида, состоящая из нескольких сегментов, покрытых хитином. Мутация крайне болезненна, но рука гораздо лучше выдерживает повреждения.</AG_VFEI_InsectoidArm.description>
+  <AG_VFEI_InsectoidArm.labelNoun>рука инсектоида</AG_VFEI_InsectoidArm.labelNoun>
+  <AG_VFEI_SegmentedEye.label>фасеточный глаз</AG_VFEI_SegmentedEye.label>
+  <AG_VFEI_SegmentedEye.description>Глаз, состоящий из тысяч отдельных светочувствительных элементов. Он даёт широкий угол обзора и помогает замечать быстрое движение, но дальность зрения значительно меньше. Мутация крайне болезненна, однако глаз лучше выдерживает повреждения.</AG_VFEI_SegmentedEye.description>
+  <AG_VFEI_SegmentedEye.labelNoun>фасеточный глаз</AG_VFEI_SegmentedEye.labelNoun>
+  <AG_VFEI_Mandibles.label>жвалы</AG_VFEI_Mandibles.label>
+  <AG_VFEI_Mandibles.description>Пара отростков по бокам рта, помогающих дробить и разрезать пищу. Они гораздо менее удобны, чем обычная челюсть, но позволяют значительно быстрее есть.</AG_VFEI_Mandibles.description>
+  <AG_VFEI_Mandibles.labelNoun>жвалы</AG_VFEI_Mandibles.labelNoun>
+  <AG_VFEI_VenomGland.label>ядовитая железа</AG_VFEI_VenomGland.label>
+  <AG_VFEI_VenomGland.description>Мешковидная железа под языком выделяет кислоту, разжижающую даже самую опасную пищу и делающую её безопасной для употребления. Усиленная стимуляция железы позволяет выплюнуть кислоту на небольшое расстояние — такая атака хорошо пробивает броню.</AG_VFEI_VenomGland.description>
+  <AG_VFEI_VenomGland.comps.HediffComp_VerbGiver.tools.venom_gland.label>ядовитая железа</AG_VFEI_VenomGland.comps.HediffComp_VerbGiver.tools.venom_gland.label>
+  <AG_VFEI_VenomGland.labelNoun>ядовитая железа</AG_VFEI_VenomGland.labelNoun>
+  <AG_VFEI_PneumaticClaw.label>пневматическая клешня</AG_VFEI_PneumaticClaw.label>
+  <AG_VFEI_PneumaticClaw.description>Мощная пневматическая рука-клешня способна многократно сжимать цель с огромной силой, но ухудшает мелкую моторику.</AG_VFEI_PneumaticClaw.description>
+  <AG_VFEI_PneumaticClaw.labelNoun>пневматическая клешня</AG_VFEI_PneumaticClaw.labelNoun>
+  <AG_VFEI_AdrenalSecretor.label>надпочечный секретор</AG_VFEI_AdrenalSecretor.label>
+  <AG_VFEI_AdrenalSecretor.description>Почка инсектоида с гиперактивным надпочечником. Мутация может приносить удовольствие от причинения боли, но также вызывает беспричинную агрессию.</AG_VFEI_AdrenalSecretor.description>
+  <AG_VFEI_AdrenalSecretor.labelNoun>надпочечный секретор</AG_VFEI_AdrenalSecretor.labelNoun>
+  <AG_VFEI_Antenna.label>усик</AG_VFEI_Antenna.label>
+  <AG_VFEI_Antenna.description>Тонкий подвижный орган чувств дополняет зрение и помогает ориентироваться в пространстве. Темнота больше не мешает носителю, однако сенсорная перегрузка сильно затрудняет общение.</AG_VFEI_Antenna.description>
+  <AG_VFEI_Antenna.labelNoun>усик</AG_VFEI_Antenna.labelNoun>
+  <AG_VFEI_PredatorStomach.label>желудок хищника</AG_VFEI_PredatorStomach.label>
+  <AG_VFEI_PredatorStomach.description>Простой, но очень эффективный заменитель желудка позволяет дольше жить при меньшем количестве еды. Повышает питательность приготовленной пищи на 10%.</AG_VFEI_PredatorStomach.description>
+  <AG_VFEI_PredatorStomach.labelNoun>желудок хищника</AG_VFEI_PredatorStomach.labelNoun>
+  <AG_VFEI_PheromoneSecretor.label>секретор феромонов</AG_VFEI_PheromoneSecretor.label>
+  <AG_VFEI_PheromoneSecretor.description>Железы инсектоида медленно выделяют липкий, бесцветный и лишённый запаха феромон, вызывающий у окружающих лёгкую эйфорию.</AG_VFEI_PheromoneSecretor.description>
+  <AG_VFEI_VentricularSleeve.label>оболочка желудочка сердца</AG_VFEI_VentricularSleeve.label>
+  <AG_VFEI_VentricularSleeve.description>Малоизученная мутация сердца и артерий заставляет кровь сворачиваться в насыщенный кислородом гель. При порезах и даже потере конечности он мгновенно закрывает рану. К сожалению, это создаёт большую нагрузку на сердечно-сосудистую систему.</AG_VFEI_VentricularSleeve.description>
+  <AG_VFEI_VentricularSleeve.labelNoun>оболочка желудочка сердца</AG_VFEI_VentricularSleeve.labelNoun>
+  <AG_VFEI_SynapticCerebellum.label>синаптический мозжечок</AG_VFEI_SynapticCerebellum.label>
+  <AG_VFEI_SynapticCerebellum.description>Мозг инсектоида особенно чувствителен к остаточным пси-сигналам. Мутация даёт развитое коллективное мышление и высокую психочувствительность, но носитель едва способен составлять связные предложения.</AG_VFEI_SynapticCerebellum.description>
+  <AG_IncreasedCommandRange.label>увеличенный командный радиус</AG_IncreasedCommandRange.label>
+  <AG_IncreasedCommandRange.description>Позволяет управлять призванными в бой механоидами на большем расстоянии.</AG_IncreasedCommandRange.description>
+  <AG_DecreasedCommandRange.label>пониженный командный радиус</AG_DecreasedCommandRange.label>
+  <AG_DecreasedCommandRange.description>Ограничивает расстояние, на котором можно управлять призванными в бой механоидами.</AG_DecreasedCommandRange.description>
+  <AG_MechRepairBoost.label>улучшение после ремонта</AG_MechRepairBoost.label>
+  <AG_MechRepairBoost.description>Механитору с генетически улучшенными навыками ремонта удалось усилить этого механоида.</AG_MechRepairBoost.description>
+  <AG_MineralCraving.label>жажда минералов</AG_MineralCraving.label>
+  <AG_MineralCraving.description>Без минералов организм больше не может поддерживать свой обмен веществ. Голод невозможно утолить.</AG_MineralCraving.description>
+  <AG_MineralCraving.stages.minor.label>лёгкая</AG_MineralCraving.stages.minor.label>
+  <AG_MineralCraving.stages.moderate.label>умеренная</AG_MineralCraving.stages.moderate.label>
+  <AG_MineralCraving.stages.major.label>сильная</AG_MineralCraving.stages.major.label>
+  <AG_MineralFueled.label>питание минералами</AG_MineralFueled.label>
+  <AG_MineralFueled.description>Скрыто: питание минералами</AG_MineralFueled.description>
+  <AG_MineralFueled.stages.off.label>неактивно</AG_MineralFueled.stages.off.label>
+  <AG_MineralFueled.stages.on.label>активно</AG_MineralFueled.stages.on.label>
+  <AG_ReactiveArmourHediff.label>реактивная броня</AG_ReactiveArmourHediff.label>
+  <AG_ReactiveArmourHediff.description>Запасённые минералы укрепляют кожу. Чем больше запас, тем сильнее защита.</AG_ReactiveArmourHediff.description>
+  <AG_ReactiveArmourHediff.stages.minimal_armour.label>минимальная защита</AG_ReactiveArmourHediff.stages.minimal_armour.label>
+  <AG_ReactiveArmourHediff.stages.wavering_armour.label>слабеющая защита</AG_ReactiveArmourHediff.stages.wavering_armour.label>
+  <AG_ReactiveArmourHediff.stages.hardened_armour.label>прочная защита</AG_ReactiveArmourHediff.stages.hardened_armour.label>
+  <AG_ReactiveArmourHediff.stages.impenetrable_armour.label>непробиваемая защита</AG_ReactiveArmourHediff.stages.impenetrable_armour.label>
+  <AG_MineralOverdriveHediff.label>минеральная перегрузка</AG_MineralOverdriveHediff.label>
+  <AG_MineralOverdriveHediff.description>Запасы минералов стремительно расходуются, позволяя работать с бешеной скоростью!</AG_MineralOverdriveHediff.description>
+  <AG_MineralOverdriveHediff.stages.overdrive.label>перегрузка</AG_MineralOverdriveHediff.stages.overdrive.label>
+  <AG_Hover.label>парение</AG_Hover.label>
+  <AG_Hover.description>Способность подпрыгивать и планировать на небольшие расстояния позволяет передвигаться без замедления от местности.</AG_Hover.description>
+  <AG_WaterStriding.label>хождение по воде</AG_WaterStriding.label>
+  <AG_WaterStriding.description>Позволяет передвигаться по воде без замедления от местности.</AG_WaterStriding.description>
+  <AG_HoverExploder.label>водородное парение</AG_HoverExploder.label>
+  <AG_HoverExploder.description>Ограниченная способность к полёту позволяет парить над землёй и передвигаться без замедления от местности. При гибели носителя водород в газовых мешках взрывается.</AG_HoverExploder.description>
+  <AG_SpeedBurst.label>под действием ускорения</AG_SpeedBurst.label>
+  <AG_SpeedBurst.description>Временное ускорение повышает скорость передвижения. Эффект исчезнет через 1 час.</AG_SpeedBurst.description>
+  <AG_AsexualFission.label>деление</AG_AsexualFission.label>
+  <AG_AsexualFission.description>На спине периодически образуются небольшие сгустки органического вещества. Постепенно они развиваются в полноценных людей и отделяются от родительского организма путём стробиляции. Это неиссякаемый источник новых поселенцев, но колония рискует оказаться переполненной младенцами.</AG_AsexualFission.description>
+  <AG_HumanEggLaying.label>откладывание яиц</AG_HumanEggLaying.label>
+  <AG_HumanEggLaying.description>Женщины с этим геном после оплодотворения периодически откладывают яйца.</AG_HumanEggLaying.description>
+  <AG_ParasiticImplantation.label>паразитарное вживление</AG_ParasiticImplantation.label>
+  <AG_ParasiticImplantation.description>В тело внедрены паразитические яйца. Когда развитие достигнет 100%, человеческие личинки пожрут жертву изнутри и вылупятся из её трупа. То же произойдёт, если жертва погибнет при развитии паразитов свыше 90%. Вынашивание длится 15 суток.</AG_ParasiticImplantation.description>
+  <AG_ParasiticImplantation.stages.minor.label>лёгкое</AG_ParasiticImplantation.stages.minor.label>
+  <AG_ParasiticImplantation.stages.major.label>серьёзное</AG_ParasiticImplantation.stages.major.label>
+  <AG_ParasiticImplantation.stages.extreme-0.label>тяжёлое</AG_ParasiticImplantation.stages.extreme-0.label>
+  <AG_ParasiticImplantation.stages.extreme-1.label>критическое</AG_ParasiticImplantation.stages.extreme-1.label>
+  <AG_InsectJellyProduction.label>выделение желе</AG_InsectJellyProduction.label>
+  <AG_InsectJellyProduction.description>Кожа этого существа непрерывно выделяет сгустки желе насекомых, которые могут быть использованы в качестве дополнительного источника пищи.</AG_InsectJellyProduction.description>
+  <AG_Sensitivity_Vicious_Hediff.label>гиперчувствительность к солнцу</AG_Sensitivity_Vicious_Hediff.label>
+  <AG_Sensitivity_Vicious_Hediff.description>Под прямыми солнечными лучами это существо теряет сознание.</AG_Sensitivity_Vicious_Hediff.description>
+  <AG_UVSensitivity_Minor_Hediff.label>лёгкая чувствительность к солнцу</AG_UVSensitivity_Minor_Hediff.label>
+  <AG_UVSensitivity_Minor_Hediff.description>Под прямым солнечным светом глаза слегка болят.</AG_UVSensitivity_Minor_Hediff.description>
+  <AG_Sensitivity_Lethal_Hediff.label>смертельная чувствительность к солнцу</AG_Sensitivity_Lethal_Hediff.label>
+  <AG_Sensitivity_Lethal_Hediff.description>Под прямым солнечным светом носитель быстро сгорает заживо.</AG_Sensitivity_Lethal_Hediff.description>
+  <AG_HeatRadiating.label>излучение тепла</AG_HeatRadiating.label>
+  <AG_HeatRadiating.description>Сильно нагревает воздух — до 80 °C. Само по себе это состояние не защищает носителя от жары.</AG_HeatRadiating.description>
+  <AG_ColdRadiating.label>излучение холода</AG_ColdRadiating.label>
+  <AG_ColdRadiating.description>Сильно охлаждает воздух — до −20 °C. Само по себе это состояние не защищает носителя от холода.</AG_ColdRadiating.description>
+  <AG_SpeedByTemperature.label>температурный отклик</AG_SpeedByTemperature.label>
+  <AG_SpeedByTemperature.description>Повышает скорость передвижения при высокой температуре, но заставляет гораздо быстрее уставать.</AG_SpeedByTemperature.description>
+  <AG_TeratogenicManipulation.label>тератогенная координация</AG_TeratogenicManipulation.label>
+  <AG_TeratogenicManipulation.description>Улучшает работу рук и ловкость.</AG_TeratogenicManipulation.description>
+  <AG_TeratogenicSwiftness.label>тератогенная скорость</AG_TeratogenicSwiftness.label>
+  <AG_TeratogenicSwiftness.description>Повышает скорость передвижения и работы.</AG_TeratogenicSwiftness.description>
+  <AG_TeratogenicStamina.label>тератогенная выносливость</AG_TeratogenicStamina.label>
+  <AG_TeratogenicStamina.description>Значительно укрепляет иммунитет и повышает выносливость.</AG_TeratogenicStamina.description>
+  <AG_Disgust.label>непостижимое уродство</AG_Disgust.label>
+  <AG_Disgust.description>Нет слов, чтобы описать, насколько отвратительно это существо.</AG_Disgust.description>
+  <AG_Awe.label>ангельская красота</AG_Awe.label>
+  <AG_Awe.description>Это существо излучает ауру сверхъестественной красоты.</AG_Awe.description>
+  <AG_PsychicDrone.label>пси-успокоение</AG_PsychicDrone.label>
+  <AG_PsychicDrone.description>Рядом с носителем становится спокойно и хорошо.</AG_PsychicDrone.description>
+  <AG_Fogger.label>создание тумана</AG_Fogger.label>
+  <AG_Fogger.description>С ДНК носителя связано облако механитов. Они изменяют влажность окружающего воздуха, сгущая вокруг густой плотный туман.</AG_Fogger.description>
+  <AG_RainMaker.label>создание дождя</AG_RainMaker.label>
+  <AG_RainMaker.description>С ДНК носителя связано облако механитов. Они резко понижают атмосферное давление вокруг, вызывая непрерывные осадки.</AG_RainMaker.description>
+  <AG_FoggyRainMaker.label>создание туманного дождя</AG_FoggyRainMaker.label>
+  <AG_FoggyRainMaker.description>С ДНК носителя связано облако механитов. Они резко понижают атмосферное давление вокруг, вызывая непрерывные осадки и густой плотный туман.</AG_FoggyRainMaker.description>
+  <AG_RainyThunderstormMaker.label>создание дождевой грозы</AG_RainyThunderstormMaker.label>
+  <AG_RainyThunderstormMaker.description>С ДНК носителя связано облако механитов. Они резко усиливают электростатический заряд и понижают атмосферное давление, вызывая сильную грозу с дождём.</AG_RainyThunderstormMaker.description>
+  <AG_DryThunderstormMaker.label>создание сухой грозы</AG_DryThunderstormMaker.label>
+  <AG_DryThunderstormMaker.description>С ДНК носителя связано облако механитов. Они резко усиливают электростатический заряд в атмосфере, вызывая сильную сухую грозу. Ген не защищает носителя от ударов молнии!</AG_DryThunderstormMaker.description>
+  <AG_SnowMaker.label>создание снега</AG_SnowMaker.label>
+  <AG_SnowMaker.description>С ДНК носителя связано облако механитов. Они резко понижают температуру в верхних слоях атмосферы, вызывая снегопад.</AG_SnowMaker.description>
+</LanguageData>

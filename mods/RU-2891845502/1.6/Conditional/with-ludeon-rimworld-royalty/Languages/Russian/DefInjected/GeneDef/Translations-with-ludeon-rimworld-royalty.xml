@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AG_Invisibility.label>психическая маскировка</AG_Invisibility.label>
+  <AG_Invisibility.description>Носители этого гена могут психически изменять цвет кожи, маскируясь почти в любом окружении.</AG_Invisibility.description>
+  <AG_InnatePsylink.label>врождённая пси-связь</AG_InnatePsylink.label>
+  <AG_InnatePsylink.description>Носители этого гена обладают врождённой способностью использовать пси-силы.</AG_InnatePsylink.description>
+  <AG_InnatePsylink.customEffectDescriptions.0>При утрате гена поселенец теряет ВСЕ уровни пси-связи, но сохраняет уже изученные пси-способности.</AG_InnatePsylink.customEffectDescriptions.0>
+  <AG_InnatePsylink.symbolPack.prefixSymbols.0.symbol>пси</AG_InnatePsylink.symbolPack.prefixSymbols.0.symbol>
+  <AG_InnatePsylink.symbolPack.prefixSymbols.1.symbol>мысл</AG_InnatePsylink.symbolPack.prefixSymbols.1.symbol>
+  <AG_InnatePsylink.symbolPack.suffixSymbols.0.symbol>пси</AG_InnatePsylink.symbolPack.suffixSymbols.0.symbol>
+  <AG_PsychicSight.label>психическое зрение</AG_PsychicSight.label>
+  <AG_PsychicSight.description>Носители этого гена почти полностью слепы… пока не обретут пси-силы. Они могут направлять внутреннее психическое зрение, которое становится острее по мере роста их силы.</AG_PsychicSight.description>
+  <AG_PsychicSight.customEffectDescriptions.0>Зрение зависит от уровня пси-связи носителя.</AG_PsychicSight.customEffectDescriptions.0>
+  <AG_PsychicSight.customEffectDescriptions.1>При установленном Vanilla Psycasts Expanded результат, вероятно, будет весьма необычным.</AG_PsychicSight.customEffectDescriptions.1>
+  <AG_PsychicSight.symbolPack.prefixSymbols.0.symbol>пси</AG_PsychicSight.symbolPack.prefixSymbols.0.symbol>
+  <AG_PsychicSight.symbolPack.prefixSymbols.1.symbol>слеп</AG_PsychicSight.symbolPack.prefixSymbols.1.symbol>
+  <AG_PsychicSight.symbolPack.suffixSymbols.0.symbol>зритель</AG_PsychicSight.symbolPack.suffixSymbols.0.symbol>
+  <AG_PsychicSight.symbolPack.suffixSymbols.1.symbol>гляд</AG_PsychicSight.symbolPack.suffixSymbols.1.symbol>
+  <AG_PsychicInsanity.label>психическое безумие</AG_PsychicInsanity.label>
+  <AG_PsychicInsanity.description>Пси-силы носителей этого гена зависят от настроения. Низкое настроение и повышенный риск срыва дают психические бонусы. Во время катарсиса эти бонусы ещё сильнее, даже если настроение при этом улучшается.</AG_PsychicInsanity.description>
+  <AG_PsychicInsanity.symbolPack.prefixSymbols.0.symbol>безум</AG_PsychicInsanity.symbolPack.prefixSymbols.0.symbol>
+  <AG_PsychicInsanity.symbolPack.prefixSymbols.1.symbol>невмен</AG_PsychicInsanity.symbolPack.prefixSymbols.1.symbol>
+  <AG_PsychicInsanity.symbolPack.prefixSymbols.2.symbol>сумасброд</AG_PsychicInsanity.symbolPack.prefixSymbols.2.symbol>
+  <AG_SelfSkip.label>самоскачок</AG_SelfSkip.label>
+  <AG_SelfSkip.description>Носители могут переносить собственное тело скачком на небольшие расстояния.</AG_SelfSkip.description>
+  <AG_Invisibility_Astrogene.label>психическая маскировка</AG_Invisibility_Astrogene.label>
+  <AG_Invisibility_Astrogene.description>Носители этого гена могут психически изменять цвет кожи, маскируясь почти в любом окружении.</AG_Invisibility_Astrogene.description>
+  <AG_InnatePsylink_Astrogene.label>врождённая пси-связь</AG_InnatePsylink_Astrogene.label>
+  <AG_InnatePsylink_Astrogene.description>Носители этого гена обладают врождённой способностью использовать пси-силы.</AG_InnatePsylink_Astrogene.description>
+  <AG_InnatePsylink_Astrogene.customEffectDescriptions.0>При утрате гена поселенец теряет ВСЕ уровни пси-связи, но сохраняет уже изученные пси-способности.</AG_InnatePsylink_Astrogene.customEffectDescriptions.0>
+  <AG_InnatePsylink_Astrogene.symbolPack.prefixSymbols.0.symbol>пси</AG_InnatePsylink_Astrogene.symbolPack.prefixSymbols.0.symbol>
+  <AG_InnatePsylink_Astrogene.symbolPack.prefixSymbols.1.symbol>мысл</AG_InnatePsylink_Astrogene.symbolPack.prefixSymbols.1.symbol>
+  <AG_InnatePsylink_Astrogene.symbolPack.suffixSymbols.0.symbol>пси</AG_InnatePsylink_Astrogene.symbolPack.suffixSymbols.0.symbol>
+  <AG_PsychicSight_Astrogene.label>психическое зрение</AG_PsychicSight_Astrogene.label>
+  <AG_PsychicSight_Astrogene.description>Носители этого гена почти полностью слепы… пока не обретут пси-силы. Они могут направлять внутреннее психическое зрение, которое становится острее по мере роста их силы.</AG_PsychicSight_Astrogene.description>
+  <AG_PsychicSight_Astrogene.customEffectDescriptions.0>Зрение зависит от уровня пси-связи носителя.</AG_PsychicSight_Astrogene.customEffectDescriptions.0>
+  <AG_PsychicSight_Astrogene.customEffectDescriptions.1>При установленном Vanilla Psycasts Expanded результат, вероятно, будет весьма необычным.</AG_PsychicSight_Astrogene.customEffectDescriptions.1>
+  <AG_PsychicSight_Astrogene.symbolPack.prefixSymbols.0.symbol>пси</AG_PsychicSight_Astrogene.symbolPack.prefixSymbols.0.symbol>
+  <AG_PsychicSight_Astrogene.symbolPack.prefixSymbols.1.symbol>слеп</AG_PsychicSight_Astrogene.symbolPack.prefixSymbols.1.symbol>
+  <AG_PsychicSight_Astrogene.symbolPack.suffixSymbols.0.symbol>зритель</AG_PsychicSight_Astrogene.symbolPack.suffixSymbols.0.symbol>
+  <AG_PsychicSight_Astrogene.symbolPack.suffixSymbols.1.symbol>гляд</AG_PsychicSight_Astrogene.symbolPack.suffixSymbols.1.symbol>
+  <AG_SelfSkip_Astrogene.label>самоскачок</AG_SelfSkip_Astrogene.label>
+  <AG_SelfSkip_Astrogene.description>Носители могут переносить собственное тело скачком на небольшие расстояния.</AG_SelfSkip_Astrogene.description>
+</LanguageData>

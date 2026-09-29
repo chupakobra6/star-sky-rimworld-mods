@@ -1,0 +1,10 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AG_Thalassophobia.label>паническое бегство от воды</AG_Thalassophobia.label>
+  <AG_Thalassophobia.baseInspectLine>Психическое состояние: бегство от воды</AG_Thalassophobia.baseInspectLine>
+  <AG_Thalassophobia.beginLetter>{0} в панике бежит от воды.</AG_Thalassophobia.beginLetter>
+  <AG_Thalassophobia.beginLetterLabel>бегство от воды</AG_Thalassophobia.beginLetterLabel>
+  <AG_Thalassophobia.recoveryMessage>{0} больше не бежит от воды.</AG_Thalassophobia.recoveryMessage>
+  <AG_SelectiveManhunter.label>ярость</AG_SelectiveManhunter.label>
+  <AG_SelectiveManhunter.baseInspectLine>В ярости</AG_SelectiveManhunter.baseInspectLine>
+</LanguageData>

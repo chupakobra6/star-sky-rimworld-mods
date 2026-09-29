@@ -1,0 +1,74 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AG_AsexualHatched>{0}: бесполое размножение завершено.</AG_AsexualHatched>
+  <AG_DeathIn>Смерть через {0}</AG_DeathIn>
+  <AG_RandomGenesGained>{0}: новая нестабильная мутация — {1}</AG_RandomGenesGained>
+  <AG_PregnancySlower>Ген замедленной беременности: скорость вынашивания −25%</AG_PregnancySlower>
+  <AG_PregnancyFaster>Ген ускоренной беременности: скорость вынашивания +25%</AG_PregnancyFaster>
+  <AG_ReativeArmourOn>Включить броню</AG_ReativeArmourOn>
+  <AG_ReativeArmourOff>Выключить броню</AG_ReativeArmourOff>
+  <AG_OverdriveOn>Включить перегрузку</AG_OverdriveOn>
+  <AG_OverdriveOff>Выключить перегрузку</AG_OverdriveOff>
+  <AG_AbilityMineralCost>Расход минералов</AG_AbilityMineralCost>
+  <AG_AbilityDisabledNoMineralGene>{0_labelShort} не обладает геном поглощения минералов.</AG_AbilityDisabledNoMineralGene>
+  <AG_AbilityDisabledNoMineral>У {0_labelShort} недостаточно минералов.</AG_AbilityDisabledNoMineral>
+  <AG_AlreadyFourGenes>Генный пакет уже содержит максимально допустимое число генов</AG_AlreadyFourGenes>
+  <AG_NeedsMoreThanTwoGenes>Деструктор не работает с пакетом, в котором остался только один ген</AG_NeedsMoreThanTwoGenes>
+  <AG_CannotBeUsedAsWeapon>Эту способность нельзя применить к врагу для мгновенного убийства</AG_CannotBeUsedAsWeapon>
+  <AG_ParasitesHatchedLabel>Грудолом!</AG_ParasitesHatchedLabel>
+  <AG_ParasitesHatched>На свет появляется {0}, разрывая тело носителя и убивая его.</AG_ParasitesHatched>
+  <AG_UnsummonedIn>Исчезнет через {0}</AG_UnsummonedIn>
+  <AG_ResistedInsanityBlast>Цель сопротивляется приступу безумия!</AG_ResistedInsanityBlast>
+  <AG_MechsImmuneToInsanityBlast>Приступ безумия не действует на механоидов!</AG_MechsImmuneToInsanityBlast>
+  <AG_DownedOrLyingInBed>Цель должна лежать в кровати или быть обездвижена</AG_DownedOrLyingInBed>
+  <AG_PawnWithoutBrain>У цели нет мозга. Увы, в этом мире такое не редкость</AG_PawnWithoutBrain>
+  <AG_CannotBeUsedOnDeathless>Ген бессмертия защищает от внедрения паразитических яиц</AG_CannotBeUsedOnDeathless>
+  <AG_CannotBeUsedOnAndroids>В андроидов нельзя внедрять паразитические яйца</AG_CannotBeUsedOnAndroids>
+  <VRE_OneScorpionPerColonist>На одного поселенца с геном «окулярная связь» может приходиться только один окулярный метатель</VRE_OneScorpionPerColonist>
+  <VRE_UnlockedByGeneOcular>Открывается геном «окулярная связь»</VRE_UnlockedByGeneOcular>
+  <AM_CantUseOnNonMechs>Эта способность действует только на механоидов</AM_CantUseOnNonMechs>
+  <AM_OnlyMechanitorCanUse>Эту способность может применять только механитор</AM_OnlyMechanitorCanUse>
+  <AM_CantUseOnBossMechs>У механоидов-боссов усиленная система «свой — чужой», которую нельзя взломать</AM_CantUseOnBossMechs>
+  <AM_NotEnoughBandwidth>Недостаточная пропускная способность для применения способности к цели «{0}»</AM_NotEnoughBandwidth>
+  <AM_CantUseVEMechs>Этим механоидом дистанционно управляет пилот-человек, поэтому его нельзя взломать</AM_CantUseVEMechs>
+  <AG_CantSpawnThere>Здесь нельзя создать временный канальный узел</AG_CantSpawnThere>
+  <AG_OnlyOnFriendlyMechs>{0} не принадлежит колонии. Эта способность действует только на механоидов игрока</AG_OnlyOnFriendlyMechs>
+  <AG_NotOnAndroids>Эта способность не действует на андроидов</AG_NotOnAndroids>
+  <AG_TargetTooBig>{0}: размер тела слишком велик для захвата (максимум: {1})</AG_TargetTooBig>
+  <AG_Hybrid>Гибрид</AG_Hybrid>
+  <AG_PsychicAbsorptionNoMoods>У {0} нет негативных воспоминаний, которые можно поглотить</AG_PsychicAbsorptionNoMoods>
+  <AG_NeedToTargetCaster>Эту способность нужно применять на себя</AG_NeedToTargetCaster>
+  <AG_PocketPlaneMapNotActive>Карманное измерение сейчас закрыто</AG_PocketPlaneMapNotActive>
+  <AG_PawnCantCollapsePocket>{0} не может разрушить карманное измерение, находясь внутри!</AG_PawnCantCollapsePocket>
+  <AG_CantTeleportItemsOutOfPocketPlane>Предметы нельзя переносить из карманного измерения.</AG_CantTeleportItemsOutOfPocketPlane>
+  <AG_OnlyOnFleshbeasts>{0} — не биошмат!</AG_OnlyOnFleshbeasts>
+  <AG_FleshbeastTooBig>{0}: размер тела слишком велик для этой способности!</AG_FleshbeastTooBig>
+  <AG_TrappedForever>Место возвращения больше недоступно! {0} навсегда останется в этом карманном измерении!</AG_TrappedForever>
+  <AG_NeedsForsakenKnowledge>Строить могут только обладатели гена «знания забытых»</AG_NeedsForsakenKnowledge>
+  <AG_NeedsForsakenKnowledgeToWield>Использовать могут только обладатели гена «знания забытых»</AG_NeedsForsakenKnowledgeToWield>
+  <AG_ChooseGeneToRemove>Выберите ген для удаления</AG_ChooseGeneToRemove>
+  <AG_ChooseEndogeneToConvert>Выберите эндоген для превращения в ксеноген</AG_ChooseEndogeneToConvert>
+  <AG_ChooseXenogeneToConvert>Выберите ксеноген для превращения в эндоген</AG_ChooseXenogeneToConvert>
+  <AG_NoEndogenes>У цели нет эндогенов</AG_NoEndogenes>
+  <AG_NoXenogenes>У цели нет ксеногенов</AG_NoXenogenes>
+  <AG_NoGenesAtAll>У цели нет генов</AG_NoGenesAtAll>
+  <AM_OnlyNightlings>Эта способность действует только на найтлингов</AM_OnlyNightlings>
+  <AM_OnlyWildNightlings>Этот найтлинг не является диким животным</AM_OnlyWildNightlings>
+  <AM_NightlingDead>Он мёртв, Джим</AM_NightlingDead>
+  <AG_GeneSyphoned>{0}: поглощён ген «{1}»!</AG_GeneSyphoned>
+  <AG_DisableMutationsMessage>Отключить сообщения о нестабильных мутациях</AG_DisableMutationsMessage>
+  <AG_DisableMutationsMessage_Description>По умолчанию три гена нестабильных мутаций сообщают, какие новые гены получает каждый поселенец. С одним поселенцем это удобно, с двадцатью — уже не очень... Эта настройка отключает такие сообщения.</AG_DisableMutationsMessage_Description>
+  <AG_DisableThalassophobiaMessage>Отключить уведомления о талассофобии</AG_DisableThalassophobiaMessage>
+  <AG_DisableThalassophobiaMessage_Description>По умолчанию игра присылает уведомление всякий раз, когда персонаж с геном талассофобии убегает от воды. Если таких персонажей много и они часто паникуют, уведомления могут надоесть. Эта настройка отключает только уведомления: персонажи по-прежнему будут убегать.</AG_DisableThalassophobiaMessage_Description>
+  <AG_GeneRemovalComa>Генетические инструменты вызывают кому</AG_GeneRemovalComa>
+  <AG_GeneRemovalComa_Description>Применение генетического инструмента вызывает кому на 3 дня. Поселенец остаётся без сознания, и другие генетические инструменты в этот период на него не действуют. По умолчанию включено ради баланса.</AG_GeneRemovalComa_Description>
+  <AG_DisableQuests>Отключить задания о заброшенных биолабораториях</AG_DisableQuests>
+  <AG_DisableQuests_Description>Отключает появление заданий о заброшенных биотехнологических лабораториях. Они возникают независимо от остальных заданий и событий рассказчика: налётов, нападений животных-людоедов и так далее. ВНИМАНИЕ: без этих заданий большинство альфа-генов и генетических инструментов станет недоступно в обычной игре.</AG_DisableQuests_Description>
+  <AG_QuestRate>Множитель интервала между заданиями о биолабораториях (меньше — чаще)</AG_QuestRate>
+  <AG_QuestRateTooltip>Интервал между предложениями посетить заброшенную биотехнологическую лабораторию умножается на это число. При значении 1 он случайно выбирается в пределах 15–30 дней. Значения меньше 1 сокращают ожидание, больше 1 — увеличивают. Эти задания появляются независимо от обычных и не занимают их место.</AG_QuestRateTooltip>
+  <AG_Reset>Сбросить</AG_Reset>
+  <AG_ShowAllAnimalSummonGenes>Показывать ВСЕ гены призыва животных (нужен перезапуск игры)</AG_ShowAllAnimalSummonGenes>
+  <AG_ShowAllAnimalSummonGenes_Description>Показывать в редакторе ксенотипов ВСЕ гены призыва животных. Они создаются для животных из основной игры и установленных модов, так что список может оказаться огромным! По умолчанию отдельные варианты скрыты: вместо них показаны три гена, случайно выбирающие существо для призыва.</AG_ShowAllAnimalSummonGenes_Description>
+  <AG_RandomGenesToShamblers>Добавлять шамблерам случайные гены шамблеров</AG_RandomGenesToShamblers>
+  <AG_RandomGenesToShamblers_Description>Каждый появившийся на карте шамблер получит от 1 до 3 случайных генов, предназначенных только для шамблеров.</AG_RandomGenesToShamblers_Description>
+</LanguageData>

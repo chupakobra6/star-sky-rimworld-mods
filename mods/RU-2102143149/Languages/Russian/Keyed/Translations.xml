@@ -1,0 +1,19 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFE_ChoosePropCategory>Выберите категорию декораций:</VFE_ChoosePropCategory>
+  <VFE_GoBack>Назад</VFE_GoBack>
+  <VFE_PrefabSearch>Поиск</VFE_PrefabSearch>
+  <VFE_NoSilver>На складах недостаточно серебра. Для размещения этой декорации нужно не менее {0} ед. серебра.</VFE_NoSilver>
+  <VFE_PropCostMultiplier>Множитель стоимости декораций</VFE_PropCostMultiplier>
+  <VFE_PropCostMultiplierDesc>Стоимость готовых декораций в серебре зависит от их размера, прочности и эффективности укрытия. Этот ползунок меняет итоговую цену. При значении 0 серебро не требуется.</VFE_PropCostMultiplierDesc>
+  <VFE_SilverReturnMultiplier>Доля возвращаемого серебра</VFE_SilverReturnMultiplier>
+  <VFE_SilverReturnMultiplierDesc>При уничтожении декораций возвращается потраченное на них серебро. По умолчанию возвращается 100% стоимости; этой настройкой можно уменьшить долю возврата.</VFE_SilverReturnMultiplierDesc>
+  <VFE_Reset>Сбросить</VFE_Reset>
+  <VPE_NeedsMats>Строительство</VPE_NeedsMats>
+  <VPE_NeedsMatsDesc>Для этой декорации нужны строительные материалы вместо серебра. Поселенцы должны построить её сами.</VPE_NeedsMatsDesc>
+  <VFEPD_BuildProps>декорации</VFEPD_BuildProps>
+  <VFEPD_BuildPropsDesc>Открыть меню размещения декораций за серебро.</VFEPD_BuildPropsDesc>
+  <VFEPD_ResearchNeeded>Сначала необходимо завершить исследование «{0}».</VFEPD_ResearchNeeded>
+  <VFEPD_MakeCopy>Создать копию</VFEPD_MakeCopy>
+  <VFEPD_MakeCopyDesc>Разместить ещё одну такую декорацию. На складах должно быть достаточно серебра для её оплаты.</VFEPD_MakeCopyDesc>
+</LanguageData>

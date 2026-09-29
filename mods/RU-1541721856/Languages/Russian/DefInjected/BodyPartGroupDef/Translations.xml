@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AA_Body.label>тело</AA_Body.label>
+  <AA_Mouth.label>рот</AA_Mouth.label>
+  <AA_Sting.label>жало</AA_Sting.label>
+  <AA_PincerAttackTool.label>клешня</AA_PincerAttackTool.label>
+  <AA_BladeAttackTool.label>клинок</AA_BladeAttackTool.label>
+  <AA_TentacleAttackTool.label>щупальце</AA_TentacleAttackTool.label>
+  <AA_EyestalkAttackTool.label>глазной стебелёк</AA_EyestalkAttackTool.label>
+  <LegAttackTool.label>нога</LegAttackTool.label>
+  <TuskAttackTool.label>бивень</TuskAttackTool.label>
+  <AA_Tail.label>хвост</AA_Tail.label>
+  <AA_SmallButterflyA.label>бабочка</AA_SmallButterflyA.label>
+  <AA_SmallButterflyB.label>бабочка</AA_SmallButterflyB.label>
+  <AA_SmallButterflyC.label>бабочка</AA_SmallButterflyC.label>
+  <AA_SmallButterflyD.label>бабочка</AA_SmallButterflyD.label>
+  <AA_LocustsA.label>саранча</AA_LocustsA.label>
+  <AA_LocustsB.label>саранча</AA_LocustsB.label>
+  <AA_LocustsC.label>саранча</AA_LocustsC.label>
+  <AA_LocustsD.label>саранча</AA_LocustsD.label>
+  <AA_WingBlades.label>клинки крыльев</AA_WingBlades.label>
+  <AA_WingBlades.labelShort>клинок крыла</AA_WingBlades.labelShort>
+  <AA_MechaClaws.label>когти механоида</AA_MechaClaws.label>
+  <AA_MechaClaws.labelShort>коготь механоида</AA_MechaClaws.labelShort>
+  <AA_NoseBlade.label>клинок на морде</AA_NoseBlade.label>
+  <AA_NoseBlade.labelShort>клинок на морде</AA_NoseBlade.labelShort>
+</LanguageData>

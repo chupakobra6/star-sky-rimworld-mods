@@ -1,0 +1,8 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<loadFolders>
+  <v1.6>
+    <li>/</li>
+    <li IfModActive="mehni.numbers">1.6/Conditional/with-mehni-numbers</li>
+    <li IfModActive="vanillastorytellersexpanded.winstonwave">1.6/Conditional/with-vanillastorytellersexpanded-winstonwave</li>
+  </v1.6>
+</loadFolders>

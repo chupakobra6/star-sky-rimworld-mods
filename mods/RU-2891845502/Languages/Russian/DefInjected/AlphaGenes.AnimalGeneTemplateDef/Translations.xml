@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AlphaGenes_AnimalSumMinor.label>малый призыв: {0}</AlphaGenes_AnimalSumMinor.label>
+  <AlphaGenes_AnimalSumMinor.description>Носители этого гена могут призывать существо «{0}».</AlphaGenes_AnimalSumMinor.description>
+  <AlphaGenes_AnimalSummon.description>Носители этого гена могут призывать существо «{0}».</AlphaGenes_AnimalSummon.description>
+  <AlphaGenes_AnimalSumMajor.description>Носители этого гена могут призывать существо «{0}».</AlphaGenes_AnimalSumMajor.description>
+  <AlphaGenes_AnimalSumMinor.customEffectDescriptions.0>Эти гены действуют только у персонажей игрока; налётчики ими не пользуются.</AlphaGenes_AnimalSumMinor.customEffectDescriptions.0>
+  <AlphaGenes_AnimalSummon.customEffectDescriptions.0>Эти гены действуют только у персонажей игрока; налётчики ими не пользуются.</AlphaGenes_AnimalSummon.customEffectDescriptions.0>
+  <AlphaGenes_AnimalSumMajor.customEffectDescriptions.0>Эти гены действуют только у персонажей игрока; налётчики ими не пользуются.</AlphaGenes_AnimalSumMajor.customEffectDescriptions.0>
+  <AlphaGenes_AnimalSummon.label>призыв: {0}</AlphaGenes_AnimalSummon.label>
+  <AlphaGenes_AnimalSumMajor.label>великий призыв: {0}</AlphaGenes_AnimalSumMajor.label>
+</LanguageData>

@@ -1,0 +1,1575 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<vocabulary>
+  <entry>
+    <english>None</english>
+    <russian>Нет</russian>
+  </entry>
+  <entry>
+    <english>Const</english>
+    <russian>Константа</russian>
+  </entry>
+  <entry>
+    <english>Input</english>
+    <russian>Вход</russian>
+  </entry>
+  <entry>
+    <english>Output</english>
+    <russian>Выход</russian>
+  </entry>
+  <entry>
+    <english>Option</english>
+    <russian>Вариант</russian>
+  </entry>
+  <entry>
+    <english>Branch</english>
+    <russian>Ветвь</russian>
+  </entry>
+  <entry>
+    <english>Curve</english>
+    <russian>Кривая</russian>
+  </entry>
+  <entry>
+    <english>Grid</english>
+    <russian>Сетка</russian>
+  </entry>
+  <entry>
+    <english>Value</english>
+    <russian>Значение</russian>
+  </entry>
+  <entry>
+    <english>Path</english>
+    <russian>Траектория</russian>
+  </entry>
+  <entry>
+    <english>Terrain</english>
+    <russian>Поверхность</russian>
+  </entry>
+  <entry>
+    <english>Biome</english>
+    <russian>Биом</russian>
+  </entry>
+  <entry>
+    <english>Roof</english>
+    <russian>Крыша</russian>
+  </entry>
+  <entry>
+    <english>World</english>
+    <russian>Карта мира</russian>
+  </entry>
+  <entry>
+    <english>Other</english>
+    <russian>Прочее</russian>
+  </entry>
+  <entry>
+    <english>Named</english>
+    <russian>Именованный</russian>
+  </entry>
+  <entry>
+    <english>Named Input</english>
+    <russian>Именованный вход</russian>
+  </entry>
+  <entry>
+    <english>Named Output</english>
+    <russian>Именованный выход</russian>
+  </entry>
+  <entry>
+    <english>Map Sides</english>
+    <russian>Стороны карты</russian>
+  </entry>
+  <entry>
+    <english>Map Size</english>
+    <russian>Размер карты</russian>
+  </entry>
+  <entry>
+    <english>Front</english>
+    <russian>Спереди</russian>
+  </entry>
+  <entry>
+    <english>Back</english>
+    <russian>Сзади</russian>
+  </entry>
+  <entry>
+    <english>Left</english>
+    <russian>Слева</russian>
+  </entry>
+  <entry>
+    <english>Right</english>
+    <russian>Справа</russian>
+  </entry>
+  <entry>
+    <english>Add branch</english>
+    <russian>Добавить ветвь</russian>
+  </entry>
+  <entry>
+    <english>Remove branch</english>
+    <russian>Удалить ветвь</russian>
+  </entry>
+  <entry>
+    <english>Preview</english>
+    <russian>Предпросмотр</russian>
+  </entry>
+  <entry>
+    <english>Apply Layer</english>
+    <russian>Применить слой</russian>
+  </entry>
+  <entry>
+    <english>Run GenStep</english>
+    <russian>Шаг генерации</russian>
+  </entry>
+  <entry>
+    <english>Order</english>
+    <russian>Порядок</russian>
+  </entry>
+  <entry>
+    <english>Map Transform</english>
+    <russian>Масштаб карты</russian>
+  </entry>
+  <entry>
+    <english>Dynamic Perlin Noise</english>
+    <russian>Динамический шум Перлина</russian>
+  </entry>
+  <entry>
+    <english>Perlin Noise</english>
+    <russian>Шум Перлина</russian>
+  </entry>
+  <entry>
+    <english>Octaves</english>
+    <russian>Октавы</russian>
+  </entry>
+  <entry>
+    <english>Enable dynamic seed</english>
+    <russian>Включить динамическое зерно</russian>
+  </entry>
+  <entry>
+    <english>Disable dynamic seed</english>
+    <russian>Выключить динамическое зерно</russian>
+  </entry>
+  <entry>
+    <english>Enable map size compensation</english>
+    <russian>Включить поправку на размер карты</russian>
+  </entry>
+  <entry>
+    <english>Disable map size compensation</english>
+    <russian>Выключить поправку на размер карты</russian>
+  </entry>
+  <entry>
+    <english>Tunnels</english>
+    <russian>Туннели</russian>
+  </entry>
+  <entry>
+    <english>Threshold</english>
+    <russian>Порог</russian>
+  </entry>
+  <entry>
+    <english>Open per 10k</english>
+    <russian>Открытых на 10 тыс.</russian>
+  </entry>
+  <entry>
+    <english>Closed per 10k</english>
+    <russian>Закрытых на 10 тыс.</russian>
+  </entry>
+  <entry>
+    <english>Max open</english>
+    <russian>Максимум открытых</russian>
+  </entry>
+  <entry>
+    <english>Max closed</english>
+    <russian>Максимум закрытых</russian>
+  </entry>
+  <entry>
+    <english>Width min</english>
+    <russian>Мин. ширина</russian>
+  </entry>
+  <entry>
+    <english>Width max</english>
+    <russian>Макс. ширина</russian>
+  </entry>
+  <entry>
+    <english>Width loss</english>
+    <russian>Убывание ширины</russian>
+  </entry>
+  <entry>
+    <english>Branch chance</english>
+    <russian>Вероятность ветвления</russian>
+  </entry>
+  <entry>
+    <english>Min branch dist</english>
+    <russian>Мин. расстояние между ветвями</russian>
+  </entry>
+  <entry>
+    <english>Branch min width</english>
+    <russian>Мин. ширина ветви</russian>
+  </entry>
+  <entry>
+    <english>Angle change</english>
+    <russian>Изменение угла</russian>
+  </entry>
+  <entry>
+    <english>Min edge cells</english>
+    <russian>Мин. клеток у края</russian>
+  </entry>
+  <entry>
+    <english>Biomes</english>
+    <russian>Биомы</russian>
+  </entry>
+  <entry>
+    <english>Caves</english>
+    <russian>Пещеры</russian>
+  </entry>
+  <entry>
+    <english>Elevation</english>
+    <russian>Высоты</russian>
+  </entry>
+  <entry>
+    <english>Fertility</english>
+    <russian>Плодородие</russian>
+  </entry>
+  <entry>
+    <english>Roof Grid</english>
+    <russian>Сетка крыш</russian>
+  </entry>
+  <entry>
+    <english>Scatterers</english>
+    <russian>Размещение объектов</russian>
+  </entry>
+  <entry>
+    <english>Mineables</english>
+    <russian>Залежи ресурсов</russian>
+  </entry>
+  <entry>
+    <english>Cave Hives</english>
+    <russian>Ульи в пещерах</russian>
+  </entry>
+  <entry>
+    <english>Base</english>
+    <russian>Основа</russian>
+  </entry>
+  <entry>
+    <english>Stone</english>
+    <russian>Камень</russian>
+  </entry>
+  <entry>
+    <english>Cave</english>
+    <russian>Пещера</russian>
+  </entry>
+  <entry>
+    <english>Terrain Patches</english>
+    <russian>Участки поверхности</russian>
+  </entry>
+  <entry>
+    <english>Offset</english>
+    <russian>Смещение</russian>
+  </entry>
+  <entry>
+    <english>Frequency</english>
+    <russian>Частота</russian>
+  </entry>
+  <entry>
+    <english>Lacunarity</english>
+    <russian>Лакунарность</russian>
+  </entry>
+  <entry>
+    <english>Persistence</english>
+    <russian>Затухание амплитуды</russian>
+  </entry>
+  <entry>
+    <english>Water Flow</english>
+    <russian>Течение воды</russian>
+  </entry>
+  <entry>
+    <english>River Terrain</english>
+    <russian>Поверхность реки</russian>
+  </entry>
+  <entry>
+    <english>Flow Alpha</english>
+    <russian>Течение α</russian>
+  </entry>
+  <entry>
+    <english>Flow Beta</english>
+    <russian>Течение β</russian>
+  </entry>
+  <entry>
+    <english>Natural Priority</english>
+    <russian>Естественный приоритет</russian>
+  </entry>
+  <entry>
+    <english>Natural Rock</english>
+    <russian>Горные породы</russian>
+  </entry>
+  <entry>
+    <english>Rock Grid</english>
+    <russian>Сетка пород</russian>
+  </entry>
+  <entry>
+    <english>Biome Terrain</english>
+    <russian>Поверхность биома</russian>
+  </entry>
+  <entry>
+    <english>Natural Water</english>
+    <russian>Естественные воды</russian>
+  </entry>
+  <entry>
+    <english>Deep</english>
+    <russian>Глубокая вода</russian>
+  </entry>
+  <entry>
+    <english>Shallow</english>
+    <russian>Мелководье</russian>
+  </entry>
+  <entry>
+    <english>Beach</english>
+    <russian>Пляж</russian>
+  </entry>
+  <entry>
+    <english>RiverDeep</english>
+    <russian>Глубокая река</russian>
+  </entry>
+  <entry>
+    <english>RiverShallow</english>
+    <russian>Мелкая река</russian>
+  </entry>
+  <entry>
+    <english>Riverbank</english>
+    <russian>Берег реки</russian>
+  </entry>
+  <entry>
+    <english>Custom Landform</english>
+    <russian>Своя форма рельефа</russian>
+  </entry>
+  <entry>
+    <english>Landform Manifest</english>
+    <russian>Описание формы рельефа</russian>
+  </entry>
+  <entry>
+    <english>Layer Config</english>
+    <russian>Настройки слоя</russian>
+  </entry>
+  <entry>
+    <english>Events &amp; Incidents</english>
+    <russian>События и происшествия</russian>
+  </entry>
+  <entry>
+    <english>Map Incidents</english>
+    <russian>События на карте</russian>
+  </entry>
+  <entry>
+    <english>World Tile Graphic</english>
+    <russian>Значок участка</russian>
+  </entry>
+  <entry>
+    <english>World Tile Requirements</english>
+    <russian>Требования к участку</russian>
+  </entry>
+  <entry>
+    <english>Tile Graphic</english>
+    <russian>Значок участка</russian>
+  </entry>
+  <entry>
+    <english>Tile Requirements</english>
+    <russian>Требования к участку</russian>
+  </entry>
+  <entry>
+    <english>River Links</english>
+    <russian>Речные соединения</russian>
+  </entry>
+  <entry>
+    <english>Inflow Angle</english>
+    <russian>Угол входящей реки</russian>
+  </entry>
+  <entry>
+    <english>Inflow Offset</english>
+    <russian>Смещение входящей реки</russian>
+  </entry>
+  <entry>
+    <english>Inflow Width</english>
+    <russian>Ширина входящей реки</russian>
+  </entry>
+  <entry>
+    <english>Tributary Angle</english>
+    <russian>Угол притока</russian>
+  </entry>
+  <entry>
+    <english>Tributary Offset</english>
+    <russian>Смещение притока</russian>
+  </entry>
+  <entry>
+    <english>Tributary Width</english>
+    <russian>Ширина притока</russian>
+  </entry>
+  <entry>
+    <english>Tertiary Angle</english>
+    <russian>Угол третьего притока</russian>
+  </entry>
+  <entry>
+    <english>Tertiary Offset</english>
+    <russian>Смещение третьего притока</russian>
+  </entry>
+  <entry>
+    <english>Tertiary Width</english>
+    <russian>Ширина третьего притока</russian>
+  </entry>
+  <entry>
+    <english>Outflow Angle</english>
+    <russian>Угол выходящей реки</russian>
+  </entry>
+  <entry>
+    <english>Outflow Width</english>
+    <russian>Ширина выходящей реки</russian>
+  </entry>
+  <entry>
+    <english>Rivers &amp; Roads</english>
+    <russian>Реки и дороги</russian>
+  </entry>
+  <entry>
+    <english>Angle</english>
+    <russian>Угол</russian>
+  </entry>
+  <entry>
+    <english>River Size</english>
+    <russian>Размер реки</russian>
+  </entry>
+  <entry>
+    <english>Road Size</english>
+    <russian>Размер дороги</russian>
+  </entry>
+  <entry>
+    <english>River Width</english>
+    <russian>Ширина реки</russian>
+  </entry>
+  <entry>
+    <english>Road Width</english>
+    <russian>Ширина дороги</russian>
+  </entry>
+  <entry>
+    <english>World Tile</english>
+    <russian>Участок карты мира</russian>
+  </entry>
+  <entry>
+    <english>Tile Values</english>
+    <russian>Параметры участка</russian>
+  </entry>
+  <entry>
+    <english>Hilliness</english>
+    <russian>Рельеф</russian>
+  </entry>
+  <entry>
+    <english>Temperature</english>
+    <russian>Температура</russian>
+  </entry>
+  <entry>
+    <english>Rainfall</english>
+    <russian>Осадки</russian>
+  </entry>
+  <entry>
+    <english>Topology Value</english>
+    <russian>Значение топологии</russian>
+  </entry>
+  <entry>
+    <english>Topology Angle</english>
+    <russian>Угол топологии</russian>
+  </entry>
+  <entry>
+    <english>Cave Depth</english>
+    <russian>Глубина пещер</russian>
+  </entry>
+  <entry>
+    <english>Landform</english>
+    <russian>Форма рельефа</russian>
+  </entry>
+  <entry>
+    <english>Linear Function</english>
+    <russian>Линейная функция</russian>
+  </entry>
+  <entry>
+    <english>Circular Function</english>
+    <russian>Круговая функция</russian>
+  </entry>
+  <entry>
+    <english>Operator</english>
+    <russian>Операция</russian>
+  </entry>
+  <entry>
+    <english>Select</english>
+    <russian>Выбор</russian>
+  </entry>
+  <entry>
+    <english>Interpolate</english>
+    <russian>Интерполяция</russian>
+  </entry>
+  <entry>
+    <english>Transform</english>
+    <russian>Преобразование</russian>
+  </entry>
+  <entry>
+    <english>Displace</english>
+    <russian>Смещение</russian>
+  </entry>
+  <entry>
+    <english>Scale</english>
+    <russian>Масштаб</russian>
+  </entry>
+  <entry>
+    <english>Apply Curve</english>
+    <russian>Применить кривую</russian>
+  </entry>
+  <entry>
+    <english>Cache</english>
+    <russian>Кэш</russian>
+  </entry>
+  <entry>
+    <english>Delta Map</english>
+    <russian>Сетка разностей</russian>
+  </entry>
+  <entry>
+    <english>Step</english>
+    <russian>Шаг</russian>
+  </entry>
+  <entry>
+    <english>Kernel</english>
+    <russian>Фильтр окрестности</russian>
+  </entry>
+  <entry>
+    <english>Size</english>
+    <russian>Размер</russian>
+  </entry>
+  <entry>
+    <english>Morph</english>
+    <russian>Морфология</russian>
+  </entry>
+  <entry>
+    <english>Group Filter</english>
+    <russian>Фильтр групп</russian>
+  </entry>
+  <entry>
+    <english>Morph: Group Filter</english>
+    <russian>Морфология: фильтр групп</russian>
+  </entry>
+  <entry>
+    <english>Min size</english>
+    <russian>Мин. размер</russian>
+  </entry>
+  <entry>
+    <english>Max size</english>
+    <russian>Макс. размер</russian>
+  </entry>
+  <entry>
+    <english>Thin limit</english>
+    <russian>Порог тонких участков</russian>
+  </entry>
+  <entry>
+    <english>Rotate</english>
+    <russian>Поворот</russian>
+  </entry>
+  <entry>
+    <english>Slice</english>
+    <russian>Срез</russian>
+  </entry>
+  <entry>
+    <english>Grid Slice</english>
+    <russian>Срез сетки</russian>
+  </entry>
+  <entry>
+    <english>Position</english>
+    <russian>Положение</russian>
+  </entry>
+  <entry>
+    <english>DisplaceX</english>
+    <russian>Смещение X</russian>
+  </entry>
+  <entry>
+    <english>DisplaceZ</english>
+    <russian>Смещение Z</russian>
+  </entry>
+  <entry>
+    <english>ScaleX</english>
+    <russian>Масштаб X</russian>
+  </entry>
+  <entry>
+    <english>ScaleZ</english>
+    <russian>Масштаб Z</russian>
+  </entry>
+  <entry>
+    <english>Turbulence</english>
+    <russian>Турбулентность</russian>
+  </entry>
+  <entry>
+    <english>Intensity X</english>
+    <russian>Интенсивность X</russian>
+  </entry>
+  <entry>
+    <english>Intensity Z</english>
+    <russian>Интенсивность Z</russian>
+  </entry>
+  <entry>
+    <english>Output X</english>
+    <russian>Выход X</russian>
+  </entry>
+  <entry>
+    <english>Output Z</english>
+    <russian>Выход Z</russian>
+  </entry>
+  <entry>
+    <english>OutputX</english>
+    <russian>Выход X</russian>
+  </entry>
+  <entry>
+    <english>OutputZ</english>
+    <russian>Выход Z</russian>
+  </entry>
+  <entry>
+    <english>InputX</english>
+    <russian>Вход X</russian>
+  </entry>
+  <entry>
+    <english>InputZ</english>
+    <russian>Вход Z</russian>
+  </entry>
+  <entry>
+    <english>Validate</english>
+    <russian>Проверка</russian>
+  </entry>
+  <entry>
+    <english>Validate Edges</english>
+    <russian>Проверка краёв</russian>
+  </entry>
+  <entry>
+    <english>Min value</english>
+    <russian>Мин. значение</russian>
+  </entry>
+  <entry>
+    <english>Max value</english>
+    <russian>Макс. значение</russian>
+  </entry>
+  <entry>
+    <english>Min cells</english>
+    <russian>Мин. клеток</russian>
+  </entry>
+  <entry>
+    <english>Max cells</english>
+    <russian>Макс. клеток</russian>
+  </entry>
+  <entry>
+    <english>Max tries</english>
+    <russian>Макс. попыток</russian>
+  </entry>
+  <entry>
+    <english>Collision</english>
+    <russian>Столкновения</russian>
+  </entry>
+  <entry>
+    <english>Combine</english>
+    <russian>Объединение</russian>
+  </entry>
+  <entry>
+    <english>Cost</english>
+    <russian>Стоимость</russian>
+  </entry>
+  <entry>
+    <english>Density</english>
+    <russian>Плотность</russian>
+  </entry>
+  <entry>
+    <english>End Condition</english>
+    <russian>Условие завершения</russian>
+  </entry>
+  <entry>
+    <english>Extend</english>
+    <russian>Продление</russian>
+  </entry>
+  <entry>
+    <english>Extend Towards</english>
+    <russian>Продление к цели</russian>
+  </entry>
+  <entry>
+    <english>Loss</english>
+    <russian>Убывание</russian>
+  </entry>
+  <entry>
+    <english>Origin</english>
+    <russian>Начало</russian>
+  </entry>
+  <entry>
+    <english>Speed</english>
+    <russian>Скорость</russian>
+  </entry>
+  <entry>
+    <english>Split</english>
+    <russian>Разветвление</russian>
+  </entry>
+  <entry>
+    <english>Swerve</english>
+    <russian>Отклонение</russian>
+  </entry>
+  <entry>
+    <english>Tenacity</english>
+    <russian>Устойчивость</russian>
+  </entry>
+  <entry>
+    <english>Trace</english>
+    <russian>Построение</russian>
+  </entry>
+  <entry>
+    <english>Width</english>
+    <russian>Ширина</russian>
+  </entry>
+  <entry>
+    <english>Path: Collision</english>
+    <russian>Траектория: столкновения</russian>
+  </entry>
+  <entry>
+    <english>Path: Combine</english>
+    <russian>Траектория: объединение</russian>
+  </entry>
+  <entry>
+    <english>Path: Cost</english>
+    <russian>Траектория: стоимость</russian>
+  </entry>
+  <entry>
+    <english>Path: Density</english>
+    <russian>Траектория: плотность</russian>
+  </entry>
+  <entry>
+    <english>Path: End Condition</english>
+    <russian>Траектория: завершение</russian>
+  </entry>
+  <entry>
+    <english>Path: Extend</english>
+    <russian>Траектория: продление</russian>
+  </entry>
+  <entry>
+    <english>Path: Extend Towards</english>
+    <russian>Траектория: к цели</russian>
+  </entry>
+  <entry>
+    <english>Path: Loss</english>
+    <russian>Траектория: убывание</russian>
+  </entry>
+  <entry>
+    <english>Path: Origin</english>
+    <russian>Траектория: начало</russian>
+  </entry>
+  <entry>
+    <english>Path: Speed</english>
+    <russian>Траектория: скорость</russian>
+  </entry>
+  <entry>
+    <english>Path: Split</english>
+    <russian>Траектория: ветвление</russian>
+  </entry>
+  <entry>
+    <english>Path: Swerve</english>
+    <russian>Траектория: отклонение</russian>
+  </entry>
+  <entry>
+    <english>Path: Tenacity</english>
+    <russian>Траектория: устойчивость</russian>
+  </entry>
+  <entry>
+    <english>Path: Trace</english>
+    <russian>Траектория: построение</russian>
+  </entry>
+  <entry>
+    <english>Path: Width</english>
+    <russian>Траектория: ширина</russian>
+  </entry>
+  <entry>
+    <english>Arc range</english>
+    <russian>Дальность дуги</russian>
+  </entry>
+  <entry>
+    <english>Arc intensity</english>
+    <russian>Сила дуги</russian>
+  </entry>
+  <entry>
+    <english>Stable range</english>
+    <russian>Устойчивый участок</russian>
+  </entry>
+  <entry>
+    <english>Trim merged</english>
+    <russian>Обрезка при слиянии</russian>
+  </entry>
+  <entry>
+    <english>Split turn lock</english>
+    <russian>Блокировка поворота при ветвлении</russian>
+  </entry>
+  <entry>
+    <english>Width mask</english>
+    <russian>Маска ширины</russian>
+  </entry>
+  <entry>
+    <english>Length</english>
+    <russian>Длина</russian>
+  </entry>
+  <entry>
+    <english>Step size</english>
+    <russian>Длина шага</russian>
+  </entry>
+  <entry>
+    <english>Target X</english>
+    <russian>Цель X</russian>
+  </entry>
+  <entry>
+    <english>Target Z</english>
+    <russian>Цель Z</russian>
+  </entry>
+  <entry>
+    <english>Density loss</english>
+    <russian>Убывание плотности</russian>
+  </entry>
+  <entry>
+    <english>Speed loss</english>
+    <russian>Убывание скорости</russian>
+  </entry>
+  <entry>
+    <english>Position x</english>
+    <russian>Положение X</russian>
+  </entry>
+  <entry>
+    <english>Position z</english>
+    <russian>Положение Z</russian>
+  </entry>
+  <entry>
+    <english>Direction</english>
+    <russian>Направление</russian>
+  </entry>
+  <entry>
+    <english>Count</english>
+    <russian>Количество</russian>
+  </entry>
+  <entry>
+    <english>Angle tenacity</english>
+    <russian>Устойчивость угла</russian>
+  </entry>
+  <entry>
+    <english>Split tenacity</english>
+    <russian>Устойчивость при ветвлении</russian>
+  </entry>
+  <entry>
+    <english>Angle limit abs</english>
+    <russian>Абсолютный предел угла</russian>
+  </entry>
+  <entry>
+    <english>Main Output</english>
+    <russian>Основной выход</russian>
+  </entry>
+  <entry>
+    <english>Side Output</english>
+    <russian>Боковой выход</russian>
+  </entry>
+  <entry>
+    <english>Value Output</english>
+    <russian>Выход значений</russian>
+  </entry>
+  <entry>
+    <english>Offset Output</english>
+    <russian>Выход смещений</russian>
+  </entry>
+  <entry>
+    <english>Distance Output</english>
+    <russian>Выход расстояний</russian>
+  </entry>
+  <entry>
+    <english>Grid Margin</english>
+    <russian>Отступ сетки</russian>
+  </entry>
+  <entry>
+    <english>Inner Margin</english>
+    <russian>Внутренний отступ</russian>
+  </entry>
+  <entry>
+    <english>Outer Margin</english>
+    <russian>Внешний отступ</russian>
+  </entry>
+  <entry>
+    <english>Angle Delta</english>
+    <russian>Разность углов</russian>
+  </entry>
+  <entry>
+    <english>First</english>
+    <russian>Первое</russian>
+  </entry>
+  <entry>
+    <english>Second</english>
+    <russian>Второе</russian>
+  </entry>
+  <entry>
+    <english>Polar Rect</english>
+    <russian>Полярный прямоугольник</russian>
+  </entry>
+  <entry>
+    <english>Polar Rect Position</english>
+    <russian>Положение на прямоугольнике</russian>
+  </entry>
+  <entry>
+    <english>Margin</english>
+    <russian>Отступ</russian>
+  </entry>
+  <entry>
+    <english>Random</english>
+    <russian>Случайное</russian>
+  </entry>
+  <entry>
+    <english>Random Value</english>
+    <russian>Случайное значение</russian>
+  </entry>
+  <entry>
+    <english>Dynamic Random Value</english>
+    <russian>Случайное (динамическое)</russian>
+  </entry>
+  <entry>
+    <english>Average</english>
+    <russian>Среднее</russian>
+  </entry>
+  <entry>
+    <english>Deviation</english>
+    <russian>Отклонение</russian>
+  </entry>
+  <entry>
+    <english>Validate Position</english>
+    <russian>Проверка положения</russian>
+  </entry>
+  <entry>
+    <english>Validator</english>
+    <russian>Условие проверки</russian>
+  </entry>
+  <entry>
+    <english>Exclusion</english>
+    <russian>Радиус исключения</russian>
+  </entry>
+  <entry>
+    <english>Attempts</english>
+    <russian>Попытки</russian>
+  </entry>
+  <entry>
+    <english>Remove clamp</english>
+    <russian>Убрать ограничение</russian>
+  </entry>
+  <entry>
+    <english>Add clamp</english>
+    <russian>Добавить ограничение</russian>
+  </entry>
+  <entry>
+    <english>Bias</english>
+    <russian>Сдвиг</russian>
+  </entry>
+  <entry>
+    <english>Clamp min</english>
+    <russian>Нижний предел</russian>
+  </entry>
+  <entry>
+    <english>Clamp max</english>
+    <russian>Верхний предел</russian>
+  </entry>
+  <entry>
+    <english>Slope</english>
+    <russian>Наклон</russian>
+  </entry>
+  <entry>
+    <english>Edit viewport</english>
+    <russian>Изменить область просмотра</russian>
+  </entry>
+  <entry>
+    <english>Finish viewport</english>
+    <russian>Завершить изменение области</russian>
+  </entry>
+  <entry>
+    <english>Set preview model</english>
+    <russian>Модель предпросмотра</russian>
+  </entry>
+  <entry>
+    <english>Set preview transform</english>
+    <russian>Преобразование предпросмотра</russian>
+  </entry>
+  <entry>
+    <english>Change type</english>
+    <russian>Изменить тип</russian>
+  </entry>
+  <entry>
+    <english>Change operation</english>
+    <russian>Изменить операцию</russian>
+  </entry>
+  <entry>
+    <english>Span</english>
+    <russian>Длина</russian>
+  </entry>
+  <entry>
+    <english>Origin x</english>
+    <russian>Начало X</russian>
+  </entry>
+  <entry>
+    <english>Origin z</english>
+    <russian>Начало Z</russian>
+  </entry>
+  <entry>
+    <english>Span px</english>
+    <russian>Длина +X</russian>
+  </entry>
+  <entry>
+    <english>Span nx</english>
+    <russian>Длина −X</russian>
+  </entry>
+  <entry>
+    <english>Span pz</english>
+    <russian>Длина +Z</russian>
+  </entry>
+  <entry>
+    <english>Span nz</english>
+    <russian>Длина −Z</russian>
+  </entry>
+  <entry>
+    <english>Switch to 1d</english>
+    <russian>Одно измерение</russian>
+  </entry>
+  <entry>
+    <english>Switch to 2d</english>
+    <russian>Два измерения</russian>
+  </entry>
+  <entry>
+    <english>Switch to symmetric</english>
+    <russian>Симметричная форма</russian>
+  </entry>
+  <entry>
+    <english>Switch to asymmetric</english>
+    <russian>Асимметричная форма</russian>
+  </entry>
+  <entry>
+    <english>Switch to linear</english>
+    <russian>Линейная форма</russian>
+  </entry>
+  <entry>
+    <english>Switch to circular</english>
+    <russian>Круговая форма</russian>
+  </entry>
+  <entry>
+    <english>Default</english>
+    <russian>Стандартная</russian>
+  </entry>
+  <entry>
+    <english>Default x10</english>
+    <russian>Стандартная ×10</russian>
+  </entry>
+  <entry>
+    <english>Default x100</english>
+    <russian>Стандартная ×100</russian>
+  </entry>
+  <entry>
+    <english>Large</english>
+    <russian>Расширенная область</russian>
+  </entry>
+  <entry>
+    <english>Quad</english>
+    <russian>Вокруг начала координат</russian>
+  </entry>
+  <entry>
+    <english>Switch to full</english>
+    <russian>Проверять всю сетку</russian>
+  </entry>
+  <entry>
+    <english>Switch to edges</english>
+    <russian>Проверять края</russian>
+  </entry>
+  <entry>
+    <english>Remove apply chance</english>
+    <russian>Убрать вероятность применения</russian>
+  </entry>
+  <entry>
+    <english>Add apply chance</english>
+    <russian>Добавить вероятность применения</russian>
+  </entry>
+  <entry>
+    <english>Remove stacking</english>
+    <russian>Убрать повторение</russian>
+  </entry>
+  <entry>
+    <english>Add stacking</english>
+    <russian>Добавить повторение</russian>
+  </entry>
+  <entry>
+    <english>Add input</english>
+    <russian>Добавить вход</russian>
+  </entry>
+  <entry>
+    <english>Remove input</english>
+    <russian>Удалить вход</russian>
+  </entry>
+  <entry>
+    <english>Apply chance</english>
+    <russian>Вероятность применения</russian>
+  </entry>
+  <entry>
+    <english>Stack count</english>
+    <russian>Число повторений</russian>
+  </entry>
+  <entry>
+    <english>Smoothness</english>
+    <russian>Сглаживание</russian>
+  </entry>
+  <entry>
+    <english>Add interpolation</english>
+    <russian>Добавить интерполяцию</russian>
+  </entry>
+  <entry>
+    <english>Remove interpolation</english>
+    <russian>Убрать интерполяцию</russian>
+  </entry>
+  <entry>
+    <english>~ Position</english>
+    <russian>По положению</russian>
+  </entry>
+  <entry>
+    <english>~ Overlap (P)</english>
+    <russian>Перекрытие родителя</russian>
+  </entry>
+  <entry>
+    <english>~ Overlap (O)</english>
+    <russian>Прочие перекрытия</russian>
+  </entry>
+  <entry>
+    <english>~ Extent</english>
+    <russian>По протяжённости</russian>
+  </entry>
+  <entry>
+    <english>~ Pattern</english>
+    <russian>По рисунку</russian>
+  </entry>
+  <entry>
+    <english>~ Width</english>
+    <russian>По ширине</russian>
+  </entry>
+  <entry>
+    <english>~ Cost</english>
+    <russian>По стоимости</russian>
+  </entry>
+  <entry>
+    <english>Pattern Scaling</english>
+    <russian>Масштаб рисунка</russian>
+  </entry>
+  <entry>
+    <english>Main Grid</english>
+    <russian>Основная сетка</russian>
+  </entry>
+  <entry>
+    <english>Side Grid</english>
+    <russian>Боковая сетка</russian>
+  </entry>
+  <entry>
+    <english>Value Grid</english>
+    <russian>Сетка значений</russian>
+  </entry>
+  <entry>
+    <english>Offset Grid</english>
+    <russian>Сетка смещений</russian>
+  </entry>
+  <entry>
+    <english>Distance Grid</english>
+    <russian>Сетка расстояний</russian>
+  </entry>
+  <entry>
+    <english>Side Balance</english>
+    <russian>Баланс сторон</russian>
+  </entry>
+  <entry>
+    <english>Buildup</english>
+    <russian>Накопление</russian>
+  </entry>
+  <entry>
+    <english>Add</english>
+    <russian>Сложение</russian>
+  </entry>
+  <entry>
+    <english>Subtract</english>
+    <russian>Вычитание</russian>
+  </entry>
+  <entry>
+    <english>Multiply</english>
+    <russian>Умножение</russian>
+  </entry>
+  <entry>
+    <english>Divide</english>
+    <russian>Деление</russian>
+  </entry>
+  <entry>
+    <english>Min</english>
+    <russian>Минимум</russian>
+  </entry>
+  <entry>
+    <english>Max</english>
+    <russian>Максимум</russian>
+  </entry>
+  <entry>
+    <english>Smooth Min</english>
+    <russian>Сглаженный минимум</russian>
+  </entry>
+  <entry>
+    <english>Smooth Max</english>
+    <russian>Сглаженный максимум</russian>
+  </entry>
+  <entry>
+    <english>Invert</english>
+    <russian>Инверсия</russian>
+  </entry>
+  <entry>
+    <english>Invert Below</english>
+    <russian>Инверсия снизу</russian>
+  </entry>
+  <entry>
+    <english>Invert Above</english>
+    <russian>Инверсия сверху</russian>
+  </entry>
+  <entry>
+    <english>Scale Around 1</english>
+    <russian>Масштабирование относительно 1</russian>
+  </entry>
+  <entry>
+    <english>Delete</english>
+    <russian>Удалить</russian>
+  </entry>
+  <entry>
+    <english>Duplicate</english>
+    <russian>Создать копию</russian>
+  </entry>
+  <entry>
+    <english>Create Group</english>
+    <russian>Создать группу</russian>
+  </entry>
+  <entry>
+    <english>Group</english>
+    <russian>Группа</russian>
+  </entry>
+  <entry>
+    <english>File</english>
+    <russian>Файл</russian>
+  </entry>
+  <entry>
+    <english>New Canvas</english>
+    <russian>Новая схема</russian>
+  </entry>
+  <entry>
+    <english>Load Canvas</english>
+    <russian>Загрузить схему</russian>
+  </entry>
+  <entry>
+    <english>Save Canvas</english>
+    <russian>Сохранить схему</russian>
+  </entry>
+  <entry>
+    <english>Import</english>
+    <russian>Импорт</russian>
+  </entry>
+  <entry>
+    <english>Export</english>
+    <russian>Экспорт</russian>
+  </entry>
+  <entry>
+    <english>ValueFunc</english>
+    <russian>Функция значения</russian>
+  </entry>
+  <entry>
+    <english>GridFunc</english>
+    <russian>Функция сетки</russian>
+  </entry>
+  <entry>
+    <english>CurveFunc</english>
+    <russian>Функция кривой</russian>
+  </entry>
+  <entry>
+    <english>PathFunc</english>
+    <russian>Функция траектории</russian>
+  </entry>
+  <entry>
+    <english>BiomeFunc</english>
+    <russian>Функция биома</russian>
+  </entry>
+  <entry>
+    <english>TerrainFunc</english>
+    <russian>Функция поверхности</russian>
+  </entry>
+  <entry>
+    <english>RoofFunc</english>
+    <russian>Функция крыши</russian>
+  </entry>
+  <entry>
+    <english>BiomeGridFunc</english>
+    <russian>Сетка биомов</russian>
+  </entry>
+  <entry>
+    <english>TerrainGridFunc</english>
+    <russian>Сетка поверхностей</russian>
+  </entry>
+  <entry>
+    <english>RoofGridFunc</english>
+    <russian>Сетка крыш</russian>
+  </entry>
+  <entry>
+    <english>Biome Grid</english>
+    <russian>Сетка биомов</russian>
+  </entry>
+  <entry>
+    <english>Terrain Grid</english>
+    <russian>Сетка поверхностей</russian>
+  </entry>
+  <entry>
+    <english>CavesOutput</english>
+    <russian>Выход пещер</russian>
+  </entry>
+  <entry>
+    <english>ElevationInput</english>
+    <russian>Вход высот</russian>
+  </entry>
+  <entry>
+    <english>ElevationOutput</english>
+    <russian>Выход высот</russian>
+  </entry>
+  <entry>
+    <english>FertilityOutput</english>
+    <russian>Выход плодородия</russian>
+  </entry>
+  <entry>
+    <english>TerrainOutput</english>
+    <russian>Выход поверхности</russian>
+  </entry>
+  <entry>
+    <english>Depths</english>
+    <russian>Глубины</russian>
+  </entry>
+  <entry>
+    <english>Offsets</english>
+    <russian>Смещения</russian>
+  </entry>
+  <entry>
+    <english>Transitions</english>
+    <russian>Переходы</russian>
+  </entry>
+  <entry>
+    <english>Input A</english>
+    <russian>Вход A</russian>
+  </entry>
+  <entry>
+    <english>Input B</english>
+    <russian>Вход B</russian>
+  </entry>
+  <entry>
+    <english>Input threshold</english>
+    <russian>Входной порог</russian>
+  </entry>
+  <entry>
+    <english>Open per 10K</english>
+    <russian>Открытых на 10 тыс.</russian>
+  </entry>
+  <entry>
+    <english>Closed per 10K</english>
+    <russian>Закрытых на 10 тыс.</russian>
+  </entry>
+  <entry>
+    <english>Loss per cell</english>
+    <russian>Убывание за клетку</russian>
+  </entry>
+  <entry>
+    <english>Branch min dist</english>
+    <russian>Мин. расстояние между ветвями</russian>
+  </entry>
+  <entry>
+    <english>Branch width</english>
+    <russian>Ширина ветви</russian>
+  </entry>
+  <entry>
+    <english>Biome Input</english>
+    <russian>Вход биомов</russian>
+  </entry>
+  <entry>
+    <english>Caves Input</english>
+    <russian>Вход пещер</russian>
+  </entry>
+  <entry>
+    <english>Elevation Input</english>
+    <russian>Вход высот</russian>
+  </entry>
+  <entry>
+    <english>Fertility Input</english>
+    <russian>Вход плодородия</russian>
+  </entry>
+  <entry>
+    <english>Terrain Input</english>
+    <russian>Вход поверхности</russian>
+  </entry>
+  <entry>
+    <english>Biome Output</english>
+    <russian>Выход биомов</russian>
+  </entry>
+  <entry>
+    <english>Caves Output</english>
+    <russian>Выход пещер</russian>
+  </entry>
+  <entry>
+    <english>Elevation Output</english>
+    <russian>Выход высот</russian>
+  </entry>
+  <entry>
+    <english>Fertility Output</english>
+    <russian>Выход плодородия</russian>
+  </entry>
+  <entry>
+    <english>Roof Output</english>
+    <russian>Выход крыш</russian>
+  </entry>
+  <entry>
+    <english>Terrain Output</english>
+    <russian>Выход поверхности</russian>
+  </entry>
+  <entry>
+    <english>Value offset</english>
+    <russian>Сдвиг значения</russian>
+  </entry>
+  <entry>
+    <english>Frequency multiplier</english>
+    <russian>Множитель частоты</russian>
+  </entry>
+  <entry>
+    <english>Lacunarity multiplier</english>
+    <russian>Множитель лакунарности</russian>
+  </entry>
+  <entry>
+    <english>Persistence multiplier</english>
+    <russian>Множитель затухания</russian>
+  </entry>
+  <entry>
+    <english>  Prioritize water</english>
+    <russian>  Приоритет воды</russian>
+  </entry>
+  <entry>
+    <english>  Prioritize moving water</english>
+    <russian>  Приоритет текущей воды</russian>
+  </entry>
+  <entry>
+    <english>  Prioritize ice</english>
+    <russian>  Приоритет льда</russian>
+  </entry>
+  <entry>
+    <english>  Prioritize fertility</english>
+    <russian>  Приоритет плодородия</russian>
+  </entry>
+  <entry>
+    <english>  Invert fertility</english>
+    <russian>  Обратить плодородие</russian>
+  </entry>
+  <entry>
+    <english>Deep Water</english>
+    <russian>Глубокая вода</russian>
+  </entry>
+  <entry>
+    <english>Shallow Water</english>
+    <russian>Мелководье</russian>
+  </entry>
+  <entry>
+    <english>Deep River</english>
+    <russian>Глубокая река</russian>
+  </entry>
+  <entry>
+    <english>Shallow River</english>
+    <russian>Мелкая река</russian>
+  </entry>
+  <entry>
+    <english>Events and Incidents</english>
+    <russian>События и происшествия</russian>
+  </entry>
+  <entry>
+    <english>Topo Value</english>
+    <russian>Значение топологии</russian>
+  </entry>
+  <entry>
+    <english>Topo Angle</english>
+    <russian>Угол топологии</russian>
+  </entry>
+  <entry>
+    <english>Reseed</english>
+    <russian>Новое зерно</russian>
+  </entry>
+  <entry>
+    <english>Reset View</english>
+    <russian>Сбросить вид</russian>
+  </entry>
+  <entry>
+    <english>Close</english>
+    <russian>Закрыть</russian>
+  </entry>
+  <entry>
+    <english>Load Canvas from Scene</english>
+    <russian>Загрузить схему из сцены</russian>
+  </entry>
+  <entry>
+    <english>Save Canvas to Scene</english>
+    <russian>Сохранить схему в сцене</russian>
+  </entry>
+  <entry>
+    <english>Save Canvas To Scene</english>
+    <russian>Сохранить схему в сцене</russian>
+  </entry>
+  <entry>
+    <english>Asset</english>
+    <russian>Ресурс</russian>
+  </entry>
+  <entry>
+    <english>Scene</english>
+    <russian>Сцена</russian>
+  </entry>
+  <entry>
+    <english>Quit</english>
+    <russian>Выйти</russian>
+  </entry>
+  <entry>
+    <english>A canvas with the specified name already exists. It will be overwritten!</english>
+    <russian>Схема с таким именем уже существует и будет перезаписана!</russian>
+  </entry>
+  <entry>
+    <english>Cancel</english>
+    <russian>Отмена</russian>
+  </entry>
+  <entry>
+    <english>Save</english>
+    <russian>Сохранить</russian>
+  </entry>
+  <entry>
+    <english>Overwrite</english>
+    <russian>Перезаписать</russian>
+  </entry>
+  <entry>
+    <english>Save the canvas to the Scene</english>
+    <russian>Сохранить схему в сцене</russian>
+  </entry>
+  <entry>
+    <english>Select...</english>
+    <russian>Выбрать…</russian>
+  </entry>
+  <entry>
+    <english>Calculation</english>
+    <russian>Вычисления</russian>
+  </entry>
+  <entry>
+    <english>MinMax</english>
+    <russian>Минимум и максимум</russian>
+  </entry>
+  <entry>
+    <english>Source</english>
+    <russian>Исток</russian>
+  </entry>
+  <entry>
+    <english>Normal</english>
+    <russian>Обычная река</russian>
+  </entry>
+  <entry>
+    <english>Confluence</english>
+    <russian>Слияние рек</russian>
+  </entry>
+  <entry>
+    <english>Estuary</english>
+    <russian>Устье</russian>
+  </entry>
+  <entry>
+    <english>Span p</english>
+    <russian>Длина +</russian>
+  </entry>
+  <entry>
+    <english>Span n</english>
+    <russian>Длина −</russian>
+  </entry>
+</vocabulary>

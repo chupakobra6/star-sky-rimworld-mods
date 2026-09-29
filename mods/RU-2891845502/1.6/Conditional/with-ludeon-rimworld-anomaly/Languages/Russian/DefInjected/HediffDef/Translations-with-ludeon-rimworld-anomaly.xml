@@ -1,0 +1,32 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AG_PlaguedClaws_Hands.label>заразный коготь</AG_PlaguedClaws_Hands.label>
+  <AG_PlaguedClaws_Hands.description>Заразный коготь, передающий чуму шамблеров.</AG_PlaguedClaws_Hands.description>
+  <AG_PlaguedClaws_Hands.comps.HediffComp_VerbGiver.tools.plagued_claw.label>заразный коготь</AG_PlaguedClaws_Hands.comps.HediffComp_VerbGiver.tools.plagued_claw.label>
+  <AG_GreaterToughspikes.label>большие когти твёрдошипа</AG_GreaterToughspikes.label>
+  <AG_GreaterToughspikes.description>Четыре действующих когтя твёрдошипа, растущих из спины и пригодных для атак в ближнем бою.</AG_GreaterToughspikes.description>
+  <AG_GreaterToughspikes.comps.HediffComp_VerbGiver.tools.greater_toughspikes.label>большие когти твёрдошипа</AG_GreaterToughspikes.comps.HediffComp_VerbGiver.tools.greater_toughspikes.label>
+  <AG_GreaterFleshWhip.label>большая плотяная плеть</AG_GreaterFleshWhip.label>
+  <AG_GreaterFleshWhip.description>Два мясистых мускулистых щупальца с лезвиями на концах. Эти плотяные плети служат отличным оружием ближнего боя.</AG_GreaterFleshWhip.description>
+  <AG_GreaterFleshWhip.comps.HediffComp_VerbGiver.tools.greater_flesh_whip.label>большая плотяная плеть</AG_GreaterFleshWhip.comps.HediffComp_VerbGiver.tools.greater_flesh_whip.label>
+  <AG_FleshSpitter.label>плотяной плеватель</AG_FleshSpitter.label>
+  <AG_FleshSpitter.description>Уродливая злокачественная опухоль на плече, способная самостоятельно плеваться кислотой.</AG_FleshSpitter.description>
+  <AG_FleshSpitter.comps.HediffComp_ExtendedVerbGiver.verbs.acid_spit.label>кислотный плевок</AG_FleshSpitter.comps.HediffComp_ExtendedVerbGiver.verbs.acid_spit.label>
+  <AG_DeadlifeProducer.label>выработка порошка мёртвой жизни</AG_DeadlifeProducer.label>
+  <AG_DeadlifeProducer.description>Периодически выдыхает облака порошка мёртвой жизни, превращающего находящиеся рядом трупы в шамблеров.</AG_DeadlifeProducer.description>
+  <AG_PseudoDeadlife.label>псевдомёртвая жизнь</AG_PseudoDeadlife.label>
+  <AG_PseudoDeadlife.description>Окружённое облаком микроскопических архитов тело находится в состоянии псевдомёртвой жизни. Это даёт высокую стойкость, не убивая человека.</AG_PseudoDeadlife.description>
+  <AG_PlaguedClaws.label>чума шамблеров</AG_PlaguedClaws.label>
+  <AG_PlaguedClaws.description>Заразная болезнь, вызывающая сильное истощение. Если больной умирает при развитии болезни более 80%, он восстаёт шамблером и продолжает распространять инфекцию.</AG_PlaguedClaws.description>
+  <AG_PlaguedClaws.labelNoun>чума шамблеров</AG_PlaguedClaws.labelNoun>
+  <AG_PlaguedClaws.stages.minor.label>слабая</AG_PlaguedClaws.stages.minor.label>
+  <AG_PlaguedClaws.stages.major.label>сильная</AG_PlaguedClaws.stages.major.label>
+  <AG_PlaguedClaws.stages.extreme-0.label>крайняя</AG_PlaguedClaws.stages.extreme-0.label>
+  <AG_PlaguedClaws.stages.extreme-1.label>крайняя</AG_PlaguedClaws.stages.extreme-1.label>
+  <AG_Regeneration_InTheSun.label>солнечная регенерация</AG_Regeneration_InTheSun.label>
+  <AG_Regeneration_InTheSun.description>Солнечный свет исцеляет этого шамблера.</AG_Regeneration_InTheSun.description>
+  <AG_MeatBurst.label>плотяной взрыв</AG_MeatBurst.label>
+  <AG_MeatBurst.description>При смерти взрывается, выпуская небольшое количество биошматов.</AG_MeatBurst.description>
+  <AG_FleshPower.label>плотяной катарсис</AG_FleshPower.label>
+  <AG_FleshPower.description>Эйфория после поглощения биошмата повышает силу и переносимость боли примерно на день.</AG_FleshPower.description>
+</LanguageData>
