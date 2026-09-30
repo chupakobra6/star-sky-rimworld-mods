@@ -320,23 +320,23 @@
   "files": [
     {
       "path": "catalog/collections.md",
-      "bytes": 202,
-      "sha256": "71ac6135957767555a8829ed77ddd2820c134c20bee5dc2744142336b24fca02"
+      "bytes": 205,
+      "sha256": "1a48556f8204c7058b1d4f09fccc717eb3c8cceaf465032522281e73527f0cdf"
     },
     {
       "path": "catalog/fixes.md",
-      "bytes": 875,
-      "sha256": "6f7912d33039d33924b460f066c32a1fb33bff495438ced6e1e55804e05073ea"
+      "bytes": 1342,
+      "sha256": "95f2f25c46b3d11ef2ee0456e246271f7dd0755710ff754ee6bccfd479deb68a"
     },
     {
       "path": "catalog/mods.md",
-      "bytes": 2272,
-      "sha256": "d70a4821951c94171860657b968ec8262c6c684f753cdcd22d1e0a6f319210cf"
+      "bytes": 2757,
+      "sha256": "46af687af9b90b710d45e6118f60a4f35c715bb315e125fef3c61549d0dee90c"
     },
     {
       "path": "catalog/translations.md",
-      "bytes": 32066,
-      "sha256": "e9f8e2e4cfbafa280a2a43a85cef79c108dfed69a0c847917b2c533ea5a7a2a8"
+      "bytes": 32548,
+      "sha256": "428524ee948979204567aa8d497b4bb3fd7451a7bba9ba318ee12c59e17d8f1f"
     },
     {
       "path": "mods/CharacterEditor-Fixes/About/About.xml",
@@ -4475,8 +4475,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 2829,
-      "sha256": "f88a379b2295e2c33cdf840a3c35887860c8b357240e3a0fe2e4cd8ac8482ba6"
+      "bytes": 2409,
+      "sha256": "007a7e95c3902a6ebf9f0f4a5590b2800908838c88abe9f9413963ca4c270298"
     }
   ]
 }

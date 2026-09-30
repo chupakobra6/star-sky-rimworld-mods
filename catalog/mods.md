@@ -1,14 +1,16 @@
+[![Support on Boosty](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-support-en.png)](https://boosty.to/chupakobra6?utm_source=github&utm_medium=repository&utm_campaign=star_sky_mods&utm_content=readme&utm_term=support)
+
 # Mods
 
-Gameplay additions, balance and quality-of-life tools.
+Original mods with focused gameplay changes and quality-of-life tools
 
 [All categories](../README.md) · [Steam Workshop](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)
 
-[Browse the mods collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3803223434)
+### [Browse the mods collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3803223434)
 
 ## ISEKAI — Balanced Stats
 
-Control stat allocation for colonists and pets, enemy builds, high-level movement and equipment upgrade balance.
+Control stat allocation for colonists and pets, enemy builds, high-level movement and equipment upgrade balance
 
 [![ISEKAI — Balanced Stats](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/isekai-balanced.gif)](https://steamcommunity.com/sharedfiles/filedetails/?id=3789339468)
 
@@ -18,7 +20,7 @@ RimWorld 1.6 · Version 1.4.0
 
 ## ISEKAI — Quick Quests
 
-Middle-click an ISEKAI quest letter to accept it when no choice is needed.
+Middle-click an ISEKAI quest letter to accept it when no choice is needed
 
 [![ISEKAI — Quick Quests](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/isekai-quests.gif)](https://steamcommunity.com/sharedfiles/filedetails/?id=3802965084)
 
@@ -28,10 +30,12 @@ RimWorld 1.6 · Version 1.0.0
 
 ## ISEKAI — No Auto Camera Jump
 
-Keep your camera in place when local ISEKAI hunts spawn.
+Keep your camera in place when local ISEKAI hunts spawn
 
 [![ISEKAI — No Auto Camera Jump](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/isekai-camera.gif)](https://steamcommunity.com/sharedfiles/filedetails/?id=3789336886)
 
 RimWorld 1.6 · Version 1.1.2
 
 [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3789336886) · [Source & guide](../mods/IsekaiNoAutoCameraJump/README.md) · [Changelog](../mods/IsekaiNoAutoCameraJump/CHANGELOG.md) · [License](../mods/IsekaiNoAutoCameraJump/LICENSE) · [Sources & notices](../mods/IsekaiNoAutoCameraJump/NOTICES.md)
+
+[![Explore other mods on Steam Workshop](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-en.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)

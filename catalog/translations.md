@@ -1,14 +1,16 @@
+[![Поддержать на Boosty](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-support-ru.png)](https://boosty.to/chupakobra6?utm_source=github&utm_medium=repository&utm_campaign=star_sky_mods&utm_content=readme&utm_term=support)
+
 # Русские переводы
 
-Полные русские переводы модов RimWorld: интерфейс, настройки, подсказки и сообщения.
+Полные русские переводы модов RimWorld - интерфейс, настройки, подсказки и игровые сообщения
 
 [Все категории](../README.md) · [Мастерская Steam](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)
 
-[Коллекция русских переводов](https://steamcommunity.com/sharedfiles/filedetails/?id=3803359239)
+### [Коллекция русских переводов](https://steamcommunity.com/sharedfiles/filedetails/?id=3803359239)
 
 ## RimSaves — русский перевод
 
-Полный русский перевод RimSaves: управление папками и сохранениями, предпросмотр и настройки автосохранения.
+Полный русский перевод RimSaves: управление папками и сохранениями, предпросмотр и настройки автосохранения
 
 [![RimSaves — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/rimsaves-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803300028)
 
@@ -18,7 +20,7 @@ RimWorld 1.6 · Версия 1.0.2
 
 ## Visible Raid Points — русский перевод
 
-Полный русский перевод Visible Raid Points: подписи очков угрозы, подробный расчёт и настройки отображения.
+Полный русский перевод Visible Raid Points: подписи очков угрозы, подробный расчёт и настройки отображения
 
 [![Visible Raid Points — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/visible-raid-points-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803300103)
 
@@ -28,7 +30,7 @@ RimWorld 1.6 · Версия 1.0.2
 
 ## SimpleCameraSetting — русский перевод
 
-Полный русский перевод SimpleCameraSetting: настройки и сообщения о масштабе и движении камеры, слежении за пешкой.
+Полный русский перевод SimpleCameraSetting: настройки и сообщения о масштабе и движении камеры, слежении за пешкой
 
 [![SimpleCameraSetting — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/simple-camera-setting-translation.gif)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803300163)
 
@@ -38,7 +40,7 @@ RimWorld 1.6 · Версия 1.0.2
 
 ## QualityBuilder Unofficial 1.6 — русский перевод
 
-Полный русский перевод QualityBuilder Unofficial 1.6: команды выбора качества, настройки строителей и уведомления о лимите перестроек.
+Полный русский перевод QualityBuilder Unofficial 1.6: команды выбора качества, настройки строителей и уведомления о лимите перестроек
 
 [![QualityBuilder Unofficial 1.6 — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/qualitybuilder-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803300243)
 
@@ -48,7 +50,7 @@ RimWorld 1.6 · Версия 1.0.2
 
 ## Goodwill Preview — русский перевод
 
-Полный русский перевод Goodwill Preview: прогноз изменения отношений за подарок и подписи расстояния до поселения.
+Полный русский перевод Goodwill Preview: прогноз изменения отношений за подарок и подписи расстояния до поселения
 
 [![Goodwill Preview — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/goodwill-preview-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803300296)
 
@@ -58,7 +60,7 @@ RimWorld 1.6 · Версия 1.0.2
 
 ## Go Explore! — русский перевод
 
-Полный русский перевод Go Explore!: события, экспедиции и настройки.
+Полный русский перевод Go Explore!: события, экспедиции и настройки
 
 [![Go Explore! — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/go-explore-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803465492)
 
@@ -68,7 +70,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 ## Adaptive Storage Framework — русский перевод
 
-Полный русский перевод Adaptive Storage Framework: интерфейс, подписи и настройки.
+Полный русский перевод Adaptive Storage Framework: интерфейс, подписи и настройки
 
 [![Adaptive Storage Framework — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/adaptive-storage-framework-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803465496)
 
@@ -78,7 +80,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 ## Hunt for Me — русский перевод
 
-Полный русский перевод Hunt for Me: обучение животных охоте, команды и настройки.
+Полный русский перевод Hunt for Me: обучение животных охоте, команды и настройки
 
 [![Hunt for Me — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/hunt-for-me-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803465500)
 
@@ -88,7 +90,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 ## Useful Marks — русский перевод
 
-Полный русский перевод Useful Marks: метки персонажей, условия и настройки.
+Полный русский перевод Useful Marks: метки персонажей, условия и настройки
 
 [![Useful Marks — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/useful-marks-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803465503)
 
@@ -98,7 +100,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 ## Nice Bill Tab — русский перевод
 
-Полный русский перевод Nice Bill Tab: рецепты, сравнение изделий и настройки.
+Полный русский перевод Nice Bill Tab: рецепты, сравнение изделий и настройки
 
 [![Nice Bill Tab — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/nice-bill-tab-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803465507)
 
@@ -108,7 +110,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 ## Mythic Ages: Megafauna Bestiary — русский перевод
 
-Русский перевод Mythic Ages: Megafauna Bestiary: огромные звери, необычные ресурсы, рецепты и события.
+Русский перевод Mythic Ages: Megafauna Bestiary: огромные звери, необычные ресурсы, рецепты и события
 
 [![Mythic Ages: Megafauna Bestiary — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/mythic-ages-megafauna-bestiary-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803697838)
 
@@ -118,7 +120,7 @@ RimWorld 1.6 · Версия 1.0.1
 
 ## Nice Inventory Tab — русский перевод
 
-Полный русский перевод Nice Inventory Tab: снаряжение, характеристики вещей и мастер подбора одежды.
+Полный русский перевод Nice Inventory Tab: снаряжение, характеристики вещей и мастер подбора одежды
 
 [![Nice Inventory Tab — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/nice-inventory-tab-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803878917)
 
@@ -128,7 +130,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 ## Dawn of a New Day — русский перевод
 
-Полный русский перевод Dawn of a New Day: утренние объявления, шаблоны и настройки оформления.
+Полный русский перевод Dawn of a New Day: утренние объявления, шаблоны и настройки оформления
 
 [![Dawn of a New Day — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/dawn-of-a-new-day-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803878920)
 
@@ -138,7 +140,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 ## Nice Research Tab — русский перевод
 
-Полный русский перевод Nice Research Tab: поиск и очередь исследований, требования и подсказки.
+Полный русский перевод Nice Research Tab: поиск и очередь исследований, требования и подсказки
 
 [![Nice Research Tab — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/nice-research-tab-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803878927)
 
@@ -148,7 +150,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 ## Common Sense — русский перевод
 
-Полный русский перевод Common Sense: настройки повседневных действий поселенцев, команды и подсказки.
+Полный русский перевод Common Sense: настройки повседневных действий поселенцев, команды и подсказки
 
 [![Common Sense — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/common-sense-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803878932)
 
@@ -158,7 +160,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 ## Performance Esmolas — русский перевод
 
-Полный русский перевод Performance Esmolas: настройки оптимизаций, редактор кэша характеристик и подсказки.
+Полный русский перевод Performance Esmolas: настройки оптимизаций, редактор кэша характеристик и подсказки
 
 [![Performance Esmolas — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/performance-esmolas-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803878938)
 
@@ -168,7 +170,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 ## Medieval Overhaul: House Ignivar — русский перевод
 
-Полный русский перевод House Ignivar: фракции, сценарии, снаряжение, еда, исследования и события.
+Полный русский перевод House Ignivar: фракции, сценарии, снаряжение, еда, исследования и события
 
 [![Medieval Overhaul: House Ignivar — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/house-ignivar-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3804220749)
 
@@ -178,7 +180,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 ## SimpleBabyCarry — русский перевод
 
-Полный русский перевод SimpleBabyCarry: переноски, уход за младенцами, задания, предупреждения и настройки.
+Полный русский перевод SimpleBabyCarry: переноски, уход за младенцами, задания, предупреждения и настройки
 
 [![SimpleBabyCarry — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/simple-baby-carry-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3804220755)
 
@@ -188,7 +190,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 ## Seamless Doors — русский перевод
 
-Русский перевод Seamless Doors: названия бесшовных дверей и игровая подпись покрытия.
+Русский перевод Seamless Doors: названия бесшовных дверей и игровая подпись покрытия
 
 [![Seamless Doors — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/seamless-doors-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3804220761)
 
@@ -198,7 +200,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 ## Bio Tab+ — русский перевод
 
-Полный русский перевод Bio Tab+: разделы биографии, подсказки, внешний вид и совместимость.
+Полный русский перевод Bio Tab+: разделы биографии, подсказки, внешний вид и совместимость
 
 [![Bio Tab+ — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/bio-tab-plus-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3804220769)
 
@@ -208,7 +210,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 ## Gravship Cutscene Speed — русский перевод
 
-Полный русский перевод настроек скорости взлёта и посадки гравилёта.
+Полный русский перевод настроек скорости взлёта и посадки гравилёта
 
 [![Gravship Cutscene Speed — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/gravship-cutscene-speed-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3804220772)
 
@@ -218,7 +220,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 ## Enhanced Carrying Capacity — русский перевод
 
-Полный русский перевод настроек грузоподъёмности, массы и объёма Enhanced Carrying Capacity.
+Полный русский перевод настроек грузоподъёмности, массы и объёма Enhanced Carrying Capacity
 
 [![Enhanced Carrying Capacity — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/enhanced-carrying-capacity-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3804220779)
 
@@ -228,7 +230,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 ## RimHUD — русский перевод
 
-Русский перевод RimHUD: информационная панель, предупреждения, настройки макета и подсказки.
+Русский перевод RimHUD: информационная панель, предупреждения, настройки макета и подсказки
 
 [![RimHUD — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/rimhud-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3807814388)
 
@@ -238,7 +240,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 ## Vanilla Furniture Expanded — русский перевод
 
-Русский перевод Vanilla Furniture Expanded: мебель, исследования, сообщения и строки из кода.
+Русский перевод Vanilla Furniture Expanded: мебель, исследования, сообщения и строки из кода
 
 [![Vanilla Furniture Expanded — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/vanilla-furniture-expanded-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3807814430)
 
@@ -248,7 +250,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 ## Humanoid Alien Races — русский перевод
 
-Русский перевод Humanoid Alien Races: настройки рас, определения и сообщения.
+Русский перевод Humanoid Alien Races: настройки рас, определения и сообщения
 
 [![Humanoid Alien Races — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/humanoid-alien-races-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3807814478)
 
@@ -258,7 +260,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 ## Map Preview — русский перевод
 
-Русский перевод Map Preview: настройки предпросмотра, панель инструментов и сообщения карты мира.
+Русский перевод Map Preview: настройки предпросмотра, панель инструментов и сообщения карты мира
 
 [![Map Preview — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/map-preview-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3807814502)
 
@@ -268,7 +270,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 ## Vanilla Furniture Expanded - Security — русский перевод
 
-Русский перевод Vanilla Furniture Expanded - Security: защитные постройки, исследования и сообщения.
+Русский перевод Vanilla Furniture Expanded - Security: защитные постройки, исследования и сообщения
 
 [![Vanilla Furniture Expanded - Security — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/vanilla-furniture-expanded-security-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3807814514)
 
@@ -278,7 +280,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 ## Vanilla Expanded Framework — русский перевод
 
-Русский перевод Vanilla Expanded Framework: добавление фракций, определения, настройки и строки интерфейса.
+Русский перевод Vanilla Expanded Framework: добавление фракций, определения, настройки и строки интерфейса
 
 [![Vanilla Expanded Framework — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/vanilla-expanded-framework-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3807830484)
 
@@ -288,7 +290,7 @@ RimWorld 1.6 · Версия 1.0.2
 
 ## Character Editor — русский перевод
 
-Русский перевод Character Editor: окна, настройки и команды редактора персонажей.
+Русский перевод Character Editor: окна, настройки и команды редактора персонажей
 
 [![Character Editor — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/character-editor-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3807830501)
 
@@ -298,7 +300,7 @@ RimWorld 1.6 · Версия 1.0.2
 
 ## Vanilla Furniture Expanded - Power — русский перевод
 
-Русский перевод Vanilla Furniture Expanded - Power: генераторы, аккумуляторы, исследования и хеликсиновая газовая сеть.
+Русский перевод Vanilla Furniture Expanded - Power: генераторы, аккумуляторы, исследования и хеликсиновая газовая сеть
 
 [![Vanilla Furniture Expanded - Power — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/vanilla-furniture-expanded-power-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306723)
 
@@ -308,7 +310,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 ## Vanilla Events Expanded — русский перевод
 
-Русский перевод Vanilla Events Expanded: события, письма, игровые условия и задания.
+Русский перевод Vanilla Events Expanded: события, письма, игровые условия и задания
 
 [![Vanilla Events Expanded — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/vanilla-events-expanded-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306734)
 
@@ -318,7 +320,7 @@ RimWorld 1.6 · Версия 1.0.1
 
 ## Vanilla Furniture Expanded - Props and Decor — русский перевод
 
-Русский перевод Vanilla Furniture Expanded - Props and Decor: декорации, растения, категории меню и настройки.
+Русский перевод Vanilla Furniture Expanded - Props and Decor: декорации, растения, категории меню и настройки
 
 [![Vanilla Furniture Expanded - Props and Decor — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/vanilla-furniture-expanded-props-and-decor-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306748)
 
@@ -328,7 +330,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 ## Alpha Animals — русский перевод
 
-Русский перевод Alpha Animals: животные, способности, события, рецепты и настройки.
+Русский перевод Alpha Animals: животные, способности, события, рецепты и настройки
 
 [![Alpha Animals — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/alpha-animals-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306758)
 
@@ -338,7 +340,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 ## Geological Landforms — русский перевод
 
-Русский перевод Geological Landforms: настройки форм рельефа и редактор TerrainGraph.
+Русский перевод Geological Landforms: настройки форм рельефа и редактор TerrainGraph
 
 [![Geological Landforms — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/geological-landforms-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306768)
 
@@ -348,7 +350,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 ## Alpha Genes — русский перевод
 
-Русский перевод Alpha Genes: гены, ксенотипы, способности, задания и сообщения.
+Русский перевод Alpha Genes: гены, ксенотипы, способности, задания и сообщения
 
 [![Alpha Genes — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/alpha-genes-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306776)
 
@@ -358,10 +360,12 @@ RimWorld 1.6 · Версия 1.0.1
 
 ## Simple sidearms — русский перевод
 
-Русский перевод Simple sidearms: панель оружия, автоматическое переключение, настройки и подсказки.
+Русский перевод Simple sidearms: панель оружия, автоматическое переключение, настройки и подсказки
 
 [![Simple sidearms — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/simple-sidearms-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306782)
 
 RimWorld 1.6 · Версия 1.0.0
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306782) · [Исходники и руководство](../mods/RU-927155256/README.md) · [История изменений](../mods/RU-927155256/CHANGELOG.md) · [Лицензия](../mods/RU-927155256/LICENSE) · [Источники и уведомления](../mods/RU-927155256/NOTICES.md)
+
+[![Другие моды в Мастерской Steam](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-ru.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)

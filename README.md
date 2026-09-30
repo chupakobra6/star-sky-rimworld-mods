@@ -1,37 +1,31 @@
-![Star Sky Mods — RimWorld mods, fixes and Russian translations](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/star-sky-banner.png)
+[![Support Star Sky Mods on Boosty](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-support-en.png)](https://boosty.to/chupakobra6?utm_source=github&utm_medium=repository&utm_campaign=star_sky_mods&utm_content=readme&utm_term=support)
 
 # Star Sky Mods
 
-Free RimWorld mods, fixes and Russian translations by **chupakobra6**.
+Original RimWorld mods, focused fixes and complete Russian translations by **chupakobra6**
 
 ## Browse the catalog
 
-| Browse | Released | |
+| Browse | Releases | What you'll find |
 | :--- | ---: | :--- |
-| [Collections](catalog/collections.md) | 0 | Curated mod lists and ready-to-play setups. |
-| [Mods](catalog/mods.md) | 3 | Gameplay additions, balance and quality-of-life tools. |
-| [Fixes](catalog/fixes.md) | 1 | Focused bug fixes and compatibility patches. |
-| [Русские переводы](catalog/translations.md) | 36 | Полные русские переводы модов RimWorld: интерфейс, настройки, подсказки и сообщения. |
+| [Mods](catalog/mods.md) | 3 | Original mods with focused gameplay changes and quality-of-life tools |
+| [Fixes](catalog/fixes.md) | 1 | Focused bug fixes and compatibility patches |
+| [Russian translations](catalog/translations.md) | 36 | Complete Russian translations with reviewed text and consistent terminology |
 
-Only published releases appear here. Each category links to Workshop pages, source code and guides.
+Every listed release is free to use, with its own Workshop page, source, installation guide and credits
 
 ## Install and play
 
-Subscribe through [Steam Workshop](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100), then enable the mod after its dependencies. For a manual install, copy its folder from `mods/` into RimWorld’s `Mods` directory. Compiled DLLs are included where needed; game and dependency files are obtained separately.
+Subscribe on [Steam Workshop](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100) and enable each mod after its dependencies, or copy its folder from `mods/` into RimWorld’s `Mods` directory for a manual install
 
-Each mod’s guide explains requirements, settings and upgrading. Its changelog records releases.
+Each mod’s guide covers its requirements and settings, and its changelog tracks releases. Compiled DLLs are included where needed; game and dependency files are obtained separately
 
-Found a bug or an inaccuracy? Leave a comment on the mod page or on Boosty.
+Found a bug or an inaccuracy? Leave a comment on the relevant Workshop page or [reach me on Boosty](https://boosty.to/chupakobra6?utm_source=github&utm_medium=repository&utm_campaign=star_sky_mods&utm_content=readme&utm_term=support)
 
-## Support the work
-
-Optional support helps me spend more time building and maintaining the mods. All releases remain free.
-
-[![Support on Boosty](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/button-support.png)](https://boosty.to/chupakobra6?utm_source=github&utm_medium=repository&utm_campaign=star_sky_mods&utm_content=readme&utm_term=support)
-[![Explore other mods](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/button-workshop.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)
+[![Explore other mods on Steam Workshop](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-en.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)
 
 ## Source and rights
 
-Each mod carries its own `LICENSE` and `NOTICES.md`; the category pages link to both. Code licenses do not cover third-party artwork or trademarks. Shared branding and artwork sources live in [Star Sky Assets](https://github.com/chupakobra6/star-sky-assets/blob/main/assets/SOURCES.md).
+Each release links to its own `LICENSE` and `NOTICES.md`, including credits for third-party work. Shared artwork sources are listed in [Star Sky Assets](https://github.com/chupakobra6/star-sky-assets/blob/main/assets/SOURCES.md)
 
-Our original mod code is released under MIT, and our translation text under CC BY-SA 4.0 except where upstream copyleft requires another license. Third-party licenses and permissions already granted for earlier copies remain valid; see each package’s `LICENSE` and `NOTICES.md`. Internal development tools remain private and are not publicly licensed. Star Sky Mods branding has separate terms: you may display its name and logo to refer to our work, without implying that your work is official or endorsed by us.
+Original mod code is MIT, and original translation text is CC BY-SA 4.0 unless upstream copyleft requires another license. Third-party artwork, trademarks, licenses and previously granted permissions retain their own terms. Internal tools remain private. You may display the Star Sky Mods name and logo to refer to this work without implying an official release or endorsement
