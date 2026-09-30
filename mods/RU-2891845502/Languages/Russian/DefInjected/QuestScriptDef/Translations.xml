@@ -6,18 +6,18 @@
 Нужно хорошо подготовиться: сигнал маяка может привлечь к лаборатории врагов.</li>
   </AG_OpportunitySite_AbandonedBiotechLab.questDescriptionRules.rulesStrings>
   <AG_OpportunitySite_AbandonedBiotechLab.questNameRules.rulesStrings>
-    <li>questName(priority=1)-&gt;[discovered] [biotechlab]</li>
-    <li>biotechlab-&gt;биотехнологическая лаборатория</li>
-    <li>biotechlab-&gt;генетическая лаборатория</li>
-    <li>biotechlab-&gt;экспериментальная биолаборатория</li>
-    <li>biotechlab-&gt;лаборатория по изучению ксенотипов</li>
-    <li>biotechlab-&gt;лаборатория генетики человека</li>
-    <li>discovered-&gt;Обнаружена</li>
-    <li>discovered-&gt;Найдена</li>
-    <li>discovered-&gt;Отыскана</li>
-    <li>discovered-&gt;Обнаружена</li>
-    <li>discovered-&gt;Найдена</li>
-    <li>discovered-&gt;Отыскана</li>
+    <li>questName(priority=1)-&gt;[biotechlab] [discovered]</li>
+    <li>biotechlab-&gt;Биотехнологическая лаборатория</li>
+    <li>biotechlab-&gt;Лаборатория биотехнологической генетики</li>
+    <li>biotechlab-&gt;Биотехнологическая экспериментальная лаборатория</li>
+    <li>biotechlab-&gt;Лаборатория биотехнологических ксенотипов</li>
+    <li>biotechlab-&gt;Биотехнологическая лаборатория генетики человека</li>
+    <li>discovered-&gt;обнаружена</li>
+    <li>discovered-&gt;найдена</li>
+    <li>discovered-&gt;локализована</li>
+    <li>discovered-&gt;выявлена</li>
+    <li>discovered-&gt;разыскана</li>
+    <li>discovered-&gt;открыта</li>
   </AG_OpportunitySite_AbandonedBiotechLab.questNameRules.rulesStrings>
   <AG_OpportunitySite_AbandonedBiotechLab.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Срок задания истёк: [resolvedQuestName]</AG_OpportunitySite_AbandonedBiotechLab.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
   <AG_OpportunitySite_AbandonedBiotechLab.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Перехваченные сообщения указывают, что заброшенную биотехнологическую лабораторию уже обобрали другие. Срок задания «[resolvedQuestName]» истёк.</AG_OpportunitySite_AbandonedBiotechLab.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>

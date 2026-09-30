@@ -10,13 +10,11 @@ Vanilla Furniture Expanded - Security расширяет оборону коло
 
 ## Что переведено
 
-<!-- rimmods:readme features begin -->
 Переведены названия и описания защитных построек, исследования и команды.
 
 - Названия и описания ловушек, заграждений и турелей.
 - Исследования и команды для новых оборонительных сооружений.
 - Сообщения и подсказки, связанные с работой защитных построек.
-<!-- rimmods:readme features end -->
 
 ## Установка
 
@@ -31,11 +29,11 @@ Vanilla Furniture Expanded - Security расширяет оборону коло
 ## Обратная связь
 
 <!-- rimmods:readme feedback begin -->
-Заметили ошибку или неточность? Напишите в комментариях на странице мода или на Boosty.
+Заметили ошибку или неточность? Напишите в комментариях на странице мода или на Boosty
 <!-- rimmods:readme feedback end -->
 
 <!-- rimmods:readme credit begin -->
-Авторы оригинального мода: Oskar Potocki, Sokyran и Taranchuk.
+Авторы оригинального мода: Oskar Potocki, Sokyran и Taranchuk
 <!-- rimmods:readme credit end -->
 
 ## Лицензии

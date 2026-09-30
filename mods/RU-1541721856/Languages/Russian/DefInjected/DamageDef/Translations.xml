@@ -54,7 +54,7 @@
   <AA_PermanentBurn.deathMessage>{0} {PAWN_gender ? погиб : погибла : погибло} от ожогов.</AA_PermanentBurn.deathMessage>
   <AA_BoulderScratch.label>царапина</AA_BoulderScratch.label>
   <AA_BoulderScratch.deathMessage>{0} {PAWN_gender ? раздавлен : раздавлена : раздавлено} насмерть.</AA_BoulderScratch.deathMessage>
-  <AA_LockJawDamage.label>укус челюстяна</AA_LockJawDamage.label>
+  <AA_LockJawDamage.label>укус капканника</AA_LockJawDamage.label>
   <AA_Pierce.label>прокол</AA_Pierce.label>
   <AA_Pierce.deathMessage>{0} {PAWN_gender ? заколот : заколота : заколото} насмерть.</AA_Pierce.deathMessage>
   <AA_RegenerativePierce.deathMessage>{0} {PAWN_gender ? заколот : заколота : заколото} насмерть.</AA_RegenerativePierce.deathMessage>

@@ -6,22 +6,22 @@
   <VFES_NeedsManned>Требуется оператор.</VFES_NeedsManned>
   <VFES_ArtilleryNeedsVisibleMap>Для артиллерийского обстрела нужно выбрать открытую, разведанную местность.</VFES_ArtilleryNeedsVisibleMap>
   <VFES_Deploy>Развернуть</VFES_Deploy>
-  <VFES_DeployDesc>Развернуть постройку, подняв её из-под поверхности пола.</VFES_DeployDesc>
+  <VFES_DeployDesc>Поднять сооружение из-под земли.</VFES_DeployDesc>
   <VFES_Submerge>Свернуть</VFES_Submerge>
-  <VFES_SubmergeDesc>Погрузить постройку под поверхность пола для защиты её от повреждений.</VFES_SubmergeDesc>
+  <VFES_SubmergeDesc>Убрать сооружение под землю, чтобы его было гораздо труднее повредить.</VFES_SubmergeDesc>
   <VFES_OnCooldown>Перезаряжается: {0}</VFES_OnCooldown>
   <VFES_DesignatorRearmTraps>Перезарядить ловушки</VFES_DesignatorRearmTraps>
-  <VFES_DesignatorRearmTraps_Description>Отметить незаряженные ловушки для повторного взведения поселенцами.</VFES_DesignatorRearmTraps_Description>
+  <VFES_DesignatorRearmTraps_Description>Отметить ловушки, которые поселенцы должны взвести снова.</VFES_DesignatorRearmTraps_Description>
   <VFES_MessageMustDesignateRearmables>Необходимо выбрать перезаряжаемые ловушки.</VFES_MessageMustDesignateRearmables>
   <VFES_Armed>Заряжено</VFES_Armed>
   <VFES_NeedsRearming>Необходима перезарядка</VFES_NeedsRearming>
   <VFES_SetWorldTarget>Указать цель на карте мира</VFES_SetWorldTarget>
-  <VFES_SetWorldTargetDesc>Указать цель на карте мира для обстрела артиллерией. Выстрелы по карте мира менее точны. Можно стрелять только по разведанным локациям.</VFES_SetWorldTargetDesc>
+  <VFES_SetWorldTargetDesc>Выбрать цель на мировой карте для артиллерийского обстрела. При стрельбе через мировую карту точность ниже. Стрелять можно только по разведанным местам.</VFES_SetWorldTargetDesc>
   <VFES_ArtilleryOutOfRange>Цель вне радиуса действия.</VFES_ArtilleryOutOfRange>
   <VFES_ArtilleryInvalidFiringMode>Артиллерия не может стрелять в этом направлении.</VFES_ArtilleryInvalidFiringMode>
-  <VFES_ArtilleryInvalidGroundToSpace>Артиллерия не может стрелять с планеты в космос.</VFES_ArtilleryInvalidGroundToSpace>
-  <VFES_ArtilleryInvalidSpaceToSpace>Артиллерия не может стрелять из космоса в космос.</VFES_ArtilleryInvalidSpaceToSpace>
-  <VFES_ArtilleryInvalidSpaceToGround>Артиллерия не может стрелять из космоса на землю.</VFES_ArtilleryInvalidSpaceToGround>
-  <VFES_ArtilleryInvalidGroundToGround>Артиллерия не может стрелять с земли на землю.</VFES_ArtilleryInvalidGroundToGround>
+  <VFES_ArtilleryInvalidGroundToSpace>Артиллерия не может стрелять с поверхности планеты в космос.</VFES_ArtilleryInvalidGroundToSpace>
+  <VFES_ArtilleryInvalidSpaceToSpace>Артиллерия не может стрелять из космоса по космической цели.</VFES_ArtilleryInvalidSpaceToSpace>
+  <VFES_ArtilleryInvalidSpaceToGround>Артиллерия не может стрелять из космоса по наземной цели.</VFES_ArtilleryInvalidSpaceToGround>
+  <VFES_ArtilleryInvalidGroundToGround>Артиллерия не может стрелять с одной наземной позиции по другой.</VFES_ArtilleryInvalidGroundToGround>
   <chupakobra6_1845154007_Transitioning>Механизм ещё движется.</chupakobra6_1845154007_Transitioning>
 </LanguageData>

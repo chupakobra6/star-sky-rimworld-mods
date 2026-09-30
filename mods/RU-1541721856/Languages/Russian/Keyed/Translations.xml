@@ -51,10 +51,10 @@
 Он почти невидим, пока не решит напасть и не получит повреждения от поселенцев. Призванные и бдительные поселенцы, а также автоматические оборонительные системы смогут его обнаружить — скорее готовьтесь!
 
 Арктические львы — страшные генетически созданные звери, выведенные для боя в холодном климате.</ManhuntingArcticLion>
-  <LetterLabelBlizzariskClutchMother>Матка метелисков</LetterLabelBlizzariskClutchMother>
-  <BlizzariskClutchMother>По этим землям бродит огромное паукоподобное существо — метелиск, приспособленный к холоду.
+  <LetterLabelBlizzariskClutchMother>Вьюгариск-матка</LetterLabelBlizzariskClutchMother>
+  <BlizzariskClutchMother>По этим землям бродит огромное паукоподобное существо — вьюгариск, приспособленный к холоду.
 
-Этот метелиск гораздо крупнее обычного и несёт на спине кладку яиц. Если быстро с ним не разобраться, беды не миновать.</BlizzariskClutchMother>
+Этот вьюгариск гораздо крупнее обычного и несёт на спине кладку яиц. Если быстро с ним не разобраться, беды не миновать.</BlizzariskClutchMother>
   <LetterLabelDunealiskClutchMother>Матка дюналисков</LetterLabelDunealiskClutchMother>
   <DunealiskClutchMother>По этим землям бродит огромное паукоподобное существо — дюналиск, приспособленный к жаре.
 
@@ -70,7 +70,7 @@
   <LetterLabelSummitCrab>Горный краб</LetterLabelSummitCrab>
   <SummitCrab>Земля дрожит: огромный краб-отшельник, живущий внутри гигантского валуна, тащится через эту область.
 
-Исполинский глыбонос не враждебен, но почти неуязвим для обстрела и уничтожит всё на пути, если его не остановить.</SummitCrab>
+Исполинский валунник не враждебен, но почти неуязвим для обстрела и уничтожит всё на пути, если его не остановить.</SummitCrab>
   <LetterLabelCactipinePod>Странная транспортная капсула</LetterLabelCactipinePod>
   <CactipineDropPod>Воздух оглашает знакомый рёв транспортной капсулы, входящей в атмосферу. Сканеры обнаруживают внутри признаки жизни — но ОЧЕНЬ странные, словно не могут отличить животное от растения.</CactipineDropPod>
   <LetterLabelGallatrossPasses>Странствующий галлатросс</LetterLabelGallatrossPasses>
@@ -121,7 +121,7 @@
   <AA_HemogenPackDesc>До получения пакета гемогена</AA_HemogenPackDesc>
   <VFEI2_BlackInsectJelly>Запас желе чёрного улья:</VFEI2_BlackInsectJelly>
   <alternatePokemonGraphics>Милые текстуры некоторых животных от Roidgy</alternatePokemonGraphics>
-  <alternatePokemonGraphics_Desc>Включает альтернативные текстуры Roidgy для следующих животных: грибоход, грибобрюх, арктический лев, дрейк распада, пустынный цезарь, галлатросс, гигантелопа, землеход, червь-мамонт, мегавошь, грибной колосс, заросший колосс, радиак, песчаный лев и термадон.</alternatePokemonGraphics_Desc>
+  <alternatePokemonGraphics_Desc>Включает альтернативные текстуры Roidgy для следующих животных: агарипон, агарипод, арктический лев, дрейк распада, пустынная аве, галлатросс, гигантелопа, землеход, червь-мамонт, мегавошь, грибной колосс, заросший колосс, радиак, песчаный лев и термадон.</alternatePokemonGraphics_Desc>
   <allowVanillaAnimals>Разрешить животных базовой игры (только появление в природе)</allowVanillaAnimals>
   <allowBlackHive>Разрешить нападения чёрного улья</allowBlackHive>
   <allowStalkingLions>Разрешить охоту арктических львов на поселенцев</allowStalkingLions>

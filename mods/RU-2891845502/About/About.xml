@@ -3,7 +3,7 @@
   <name>Alpha Genes — русский перевод [Star Sky Mods]</name>
   <author>chupakobra6 | Star Sky Mods</author>
   <packageId>starsky.rimworld.ru.2891845502</packageId>
-  <modVersion>1.0.1</modVersion>
+  <modVersion>1.0.2</modVersion>
   <supportedVersions>
     <li>1.6</li>
   </supportedVersions>
@@ -31,29 +31,20 @@
     <li>sarg.alphagenes</li>
     <li>kupa.alphagenesintegrated</li>
   </loadAfter>
-  <description>Русский перевод Alpha Genes (https://steamcommunity.com/sharedfiles/filedetails/?id=2891845502) для RimWorld 1.6. Оригинальный мод устанавливается отдельно.
+  <description>Русский перевод Alpha Genes (https://steamcommunity.com/sharedfiles/filedetails/?id=2891845502) для RimWorld 1.6. Оригинальный мод устанавливается отдельно
 
-Переведены гены, ксенотипы, способности и задания, а также тексты, которые оригинал выводит из кода. Alpha Genes расширяет Biotech более чем 250 генами и 16 ксенотипами. Заброшенные лаборатории и генетические инструменты дают новые способы находить гены и менять колонистов во время игры.
+Alpha Genes получил русский текст, в котором названия не спорят с терминологией игры
 
-&lt;b&gt;ЧТО ПЕРЕВЕДЕНО&lt;/b&gt;
-Переведены тексты генов, ксенотипов, событий и интерфейса.
-
-• Названия, описания и эффекты генов, категории генов и ксенотипы.
-• Способности, состояния, предметы, существа и фракции Alpha Genes.
-• Задания заброшенных лабораторий, сценарии, сообщения и строки игровых событий.
-
-&lt;b&gt;КАК ПОЛЬЗОВАТЬСЯ&lt;/b&gt;
-Выберите русский язык в настройках RimWorld.
-
-Создавайте ксенотипы с новыми генами в редакторе персонажей. Новые гены и генетические инструменты также встречаются в заданиях заброшенных лабораторий и в обычных наградах за задания.
+&lt;b&gt;О ПЕРЕВОДЕ&lt;/b&gt;
+Я перевёл и вычитал текст Alpha Genes, сверяя формулировки со смыслом оригинала. Выберите русский язык в настройках RimWorld
 
 &lt;b&gt;СОВМЕСТИМОСТЬ&lt;/b&gt;
-Требуются Biotech (https://store.steampowered.com/app/1826140/), Harmony (https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077), Vanilla Expanded Framework (https://steamcommunity.com/sharedfiles/filedetails/?id=2023507013) и Alpha Genes (https://steamcommunity.com/sharedfiles/filedetails/?id=2891845502). Порядок загрузки: Harmony → Vanilla Expanded Framework → оригинальный мод → этот перевод.
+Требуются Biotech (https://store.steampowered.com/app/1826140/), Harmony (https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077), Vanilla Expanded Framework (https://steamcommunity.com/sharedfiles/filedetails/?id=2023507013) и Alpha Genes (https://steamcommunity.com/sharedfiles/filedetails/?id=2891845502). Порядок загрузки: Harmony → Vanilla Expanded Framework → оригинальный мод → этот перевод
 
 &lt;b&gt;ОБРАТНАЯ СВЯЗЬ&lt;/b&gt;
-Заметили ошибку или неточность? Напишите в комментариях на странице мода или на Boosty.
+Заметили ошибку или неточность? Напишите в комментариях на странице мода или на Boosty
 
-Авторы оригинального мода: Allie, Erin, Major Quadrangle, Matsay, Sarg.
+Авторы оригинального мода: Allie, Erin, Major Quadrangle, Matsay, Sarg
 
 Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.</description>
 </ModMetaData>

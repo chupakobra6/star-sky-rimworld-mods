@@ -3,7 +3,7 @@
   <name>Alpha Animals — русский перевод [Star Sky Mods]</name>
   <author>chupakobra6 | Star Sky Mods</author>
   <packageId>starsky.rimworld.ru.1541721856</packageId>
-  <modVersion>1.0.0</modVersion>
+  <modVersion>1.0.1</modVersion>
   <supportedVersions>
     <li>1.6</li>
   </supportedVersions>
@@ -26,29 +26,18 @@
   <loadAfter>
     <li>sarg.alphaanimals</li>
   </loadAfter>
-  <description>Русский перевод Alpha Animals (https://steamcommunity.com/sharedfiles/filedetails/?id=1541721856) для RimWorld 1.6. Оригинальный мод устанавливается отдельно.
+  <description>Русский перевод Alpha Animals (https://steamcommunity.com/sharedfiles/filedetails/?id=1541721856) для RimWorld 1.6. Оригинальный мод устанавливается отдельно
 
-Переведены животные, их особенности, связанные события, настройки и строки из кода. Оригинальный мод добавляет более сотни необычных существ с собственными способностями: одни появляются в разных биомах, других можно встретить у торговцев. Среди них есть существа, дающие ресурсы, ночные охотники и инсектоиды чёрного улья.
-
-&lt;b&gt;ЧТО ПЕРЕВЕДЕНО&lt;/b&gt;
-Переведены тексты животных, игровых событий и настроек.
-
-• Названия и описания животных, их продуктов, яиц, анатомии, состояний здоровья и способностей.
-• События, сообщения, задания, рецепты и связанные с существами игровые определения.
-• Настройки появления животных и чёрного улья, строки из кода и счётчик жизней совокота-феникса.
-
-&lt;b&gt;КАК ПОЛЬЗОВАТЬСЯ&lt;/b&gt;
-Выберите русский язык в настройках RimWorld.
-
-Исследуйте биомы и предложения торговцев, чтобы встретить разных животных. Появление существ и нападения чёрного улья можно настроить в параметрах Alpha Animals.
+&lt;b&gt;О ПЕРЕВОДЕ&lt;/b&gt;
+Названия существ и связанные тексты сверены с английским оригиналом. Выберите русский язык в настройках RimWorld
 
 &lt;b&gt;СОВМЕСТИМОСТЬ&lt;/b&gt;
-Требуются Harmony (https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077), Vanilla Expanded Framework (https://steamcommunity.com/sharedfiles/filedetails/?id=2023507013) и Alpha Animals (https://steamcommunity.com/sharedfiles/filedetails/?id=1541721856). Порядок загрузки: Harmony → Vanilla Expanded Framework → оригинальный мод → этот перевод.
+Требуются Harmony (https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077), Vanilla Expanded Framework (https://steamcommunity.com/sharedfiles/filedetails/?id=2023507013) и Alpha Animals (https://steamcommunity.com/sharedfiles/filedetails/?id=1541721856). Порядок загрузки: Harmony → Vanilla Expanded Framework → оригинальный мод → этот перевод
 
 &lt;b&gt;ОБРАТНАЯ СВЯЗЬ&lt;/b&gt;
-Заметили ошибку или неточность? Напишите в комментариях на странице мода или на Boosty.
+Заметили ошибку или неточность? Напишите в комментариях на странице мода или на Boosty
 
-Авторы оригинального мода: Sarg Bjornson, AFriend.
+Авторы оригинального мода: Sarg Bjornson, AFriend
 
 Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.</description>
 </ModMetaData>

@@ -10,13 +10,11 @@ Vanilla Furniture Expanded - Power расширяет производство �
 
 ## Что переведено
 
-<!-- rimmods:readme features begin -->
 Переведены тексты энергетических технологий и оборудования.
 
 - Названия и описания генераторов, аккумуляторов и вспомогательных построек.
 - Исследования новых источников энергии и связанных технологий.
 - Сообщения и подсказки, включая работу с хеликсиновым газом.
-<!-- rimmods:readme features end -->
 
 ## Установка
 
@@ -31,11 +29,11 @@ Vanilla Furniture Expanded - Power расширяет производство �
 ## Обратная связь
 
 <!-- rimmods:readme feedback begin -->
-Заметили ошибку или неточность? Напишите в комментариях на странице мода или на Boosty.
+Заметили ошибку или неточность? Напишите в комментариях на странице мода или на Boosty
 <!-- rimmods:readme feedback end -->
 
 <!-- rimmods:readme credit begin -->
-Авторы оригинального мода: Oskar Potocki и Sarg Bjornson.
+Авторы оригинального мода: Oskar Potocki и Sarg Bjornson
 <!-- rimmods:readme credit end -->
 
 ## Лицензии

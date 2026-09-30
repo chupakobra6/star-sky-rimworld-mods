@@ -2,6 +2,7 @@
 <loadFolders>
   <v1.6>
     <li>/</li>
+    <li IfModActive="ludeon.rimworld.odyssey">1.6/Conditional/with-ludeon-rimworld-odyssey</li>
     <li IfModActive="mehni.numbers">1.6/Conditional/with-mehni-numbers</li>
   </v1.6>
 </loadFolders>

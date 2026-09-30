@@ -10,13 +10,11 @@ Vanilla Expanded Framework — общая библиотека для модов
 
 ## Что переведено
 
-<!-- rimmods:readme features begin -->
 Переведены игровые тексты оригинального мода.
 
 - Окно добавления фракций, выбор поселений и сообщения об отношениях с фракциями.
 - Названия и описания способностей, характеристик, щитов и других определений.
 - Настройки связанных систем и строки интерфейса, встроенные в код.
-<!-- rimmods:readme features end -->
 
 ## Установка
 
@@ -31,11 +29,11 @@ Vanilla Expanded Framework — общая библиотека для модов
 ## Обратная связь
 
 <!-- rimmods:readme feedback begin -->
-Заметили ошибку или неточность? Напишите в комментариях на странице мода или на Boosty.
+Заметили ошибку или неточность? Напишите в комментариях на странице мода или на Boosty
 <!-- rimmods:readme feedback end -->
 
 <!-- rimmods:readme credit begin -->
-Авторы оригинального мода: Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson, Erdelf.
+Авторы оригинального мода: Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson, Erdelf
 <!-- rimmods:readme credit end -->
 
 ## Лицензии

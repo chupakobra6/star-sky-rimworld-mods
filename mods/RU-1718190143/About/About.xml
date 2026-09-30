@@ -1,9 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
+﻿<?xml version='1.0' encoding='utf-8'?>
 <ModMetaData>
   <name>Vanilla Furniture Expanded — русский перевод [Star Sky Mods]</name>
   <author>chupakobra6 | Star Sky Mods</author>
   <packageId>starsky.rimworld.ru.1718190143</packageId>
-  <modVersion>1.0.0</modVersion>
+  <modVersion>1.0.1</modVersion>
   <supportedVersions>
     <li>1.6</li>
   </supportedVersions>
@@ -18,39 +18,24 @@
       <displayName>Harmony</displayName>
       <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
     </li>
-    <li>
-      <packageId>OskarPotocki.VanillaFactionsExpanded.Core</packageId>
-      <displayName>Vanilla Expanded Framework</displayName>
-      <steamWorkshopUrl>steam://url/CommunityFilePage/2023507013</steamWorkshopUrl>
-    </li>
   </modDependencies>
   <loadAfter>
     <li>vanillaexpanded.vfecore</li>
-    <li>OskarPotocki.VanillaFactionsExpanded.Core</li>
   </loadAfter>
-  <description>Русский перевод Vanilla Furniture Expanded (https://steamcommunity.com/sharedfiles/filedetails/?id=1718190143) для RimWorld 1.6. Оригинальный мод устанавливается отдельно.
+  <description>Играйте с Vanilla Furniture Expanded по-русски
 
-Переведены названия и описания мебели, исследования, сообщения и подписи предметов. Оригинальный мод расширяет обустройство колонии мебелью и добавляет новые ступени развития после изучения сложной мебели.
+Это русский перевод Vanilla Furniture Expanded (https://steamcommunity.com/sharedfiles/filedetails/?id=1718190143) для RimWorld 1.6; оригинальный мод устанавливается отдельно
 
-&lt;b&gt;ЧТО ПЕРЕВЕДЕНО&lt;/b&gt;
-Переведены тексты мода с учётом окончаний и согласования слов.
-
-• Названия и описания новой мебели для разных помещений колонии.
-• Исследования и связанные с мебелью игровые сообщения.
-• Строки из кода, которые не находятся в обычных файлах локализации.
-
-&lt;b&gt;КАК ПОЛЬЗОВАТЬСЯ&lt;/b&gt;
-Выберите русский язык в настройках RimWorld.
-
-Изучайте новые технологии мебели и размещайте открывшиеся предметы через меню строительства.
+&lt;b&gt;О ПЕРЕВОДЕ&lt;/b&gt;
+Я перевёл мод полностью. Выверил смысл, формулировки и окончания, чтобы текст читался естественно в игре. После установки выберите русский язык в настройках RimWorld
 
 &lt;b&gt;СОВМЕСТИМОСТЬ&lt;/b&gt;
-Требуются Harmony (https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077), Vanilla Expanded Framework (https://steamcommunity.com/sharedfiles/filedetails/?id=2023507013) и Vanilla Furniture Expanded (https://steamcommunity.com/sharedfiles/filedetails/?id=1718190143). Порядок загрузки: Harmony → Vanilla Expanded Framework → оригинальный мод → этот перевод.
+Требуются Harmony (https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077), Vanilla Expanded Framework (https://steamcommunity.com/sharedfiles/filedetails/?id=2023507013) и Vanilla Furniture Expanded (https://steamcommunity.com/sharedfiles/filedetails/?id=1718190143). Порядок загрузки: Harmony → Vanilla Expanded Framework → оригинальный мод → этот перевод
 
 &lt;b&gt;ОБРАТНАЯ СВЯЗЬ&lt;/b&gt;
-Заметили ошибку или неточность? Напишите в комментариях на странице мода или на Boosty.
+Заметили ошибку или неточность? Напишите в комментариях на странице мода или на Boosty
 
-Авторы оригинального мода: OskarPotocki, Atlas, Kikohi, Sarg, Sokyran.
+Авторы оригинального мода: OskarPotocki, Atlas, Kikohi, Sarg, Sokyran
 
 Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.</description>
 </ModMetaData>

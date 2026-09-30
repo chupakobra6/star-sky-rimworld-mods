@@ -1060,9 +1060,9 @@
   <AG_MineralEfficencyGood.label>отличное усвоение минералов</AG_MineralEfficencyGood.label>
   <AG_MineralEfficencyGood.description>Носители этого гена необычайно эффективно преобразуют металлы в минералы, пригодные для организма. Поэтому им нужно потреблять гораздо меньше металла, чем большинству.</AG_MineralEfficencyGood.description>
   <AG_NightOwl.label>сова</AG_NightOwl.label>
-  <AG_NightOwl.description>Носители этого гена предпочитают бодрствовать ночью и спать днём.</AG_NightOwl.description>
+  <AG_NightOwl.description>Обладатели этого гена предпочитают спать днём и бодрствовать ночью.</AG_NightOwl.description>
   <AlphaGenes_Randomizer.label>рандомизатор</AlphaGenes_Randomizer.label>
-  <AlphaGenes_Randomizer.description>После получения этого гена ксенотип персонажа изменится на один из пользовательских ксенотипов, созданных игроком.</AlphaGenes_Randomizer.description>
+  <AlphaGenes_Randomizer.description>Получив этот ген, персонаж сменит свой ксенотип на один из пользовательских ксенотипов, созданных игроком.</AlphaGenes_Randomizer.description>
   <AlphaGenes_ExoticOrganism.label>экзотический организм</AlphaGenes_ExoticOrganism.label>
   <AlphaGenes_ExoticOrganism.description>Если добавить этот ген в созданный игроком ксенотип, тот перестанет автоматически появляться в двух фракциях Alpha Genes.</AlphaGenes_ExoticOrganism.description>
   <AG_ArmouredSpeed.label>быстрота в броне</AG_ArmouredSpeed.label>
@@ -1128,10 +1128,10 @@
   <AG_NereidTail.description>У носителей этого гена растёт большой рыбий хвост.</AG_NereidTail.description>
   <AG_HeatSlowness.label>замедление от жары</AG_HeatSlowness.label>
   <AG_HeatSlowness.description>Носители этого гена передвигаются гораздо медленнее при температуре выше 40ºC.</AG_HeatSlowness.description>
-  <AG_HeatSlowness.customEffectDescriptions.0>Это три галлона на квадратный дюйм по Фаренгейту!</AG_HeatSlowness.customEffectDescriptions.0>
-  <AG_HeatSpeed.customEffectDescriptions.0>Это три галлона на квадратный дюйм по Фаренгейту!</AG_HeatSpeed.customEffectDescriptions.0>
-  <AG_ColdSlowness.customEffectDescriptions.0>Это три галлона на квадратный дюйм по Фаренгейту!</AG_ColdSlowness.customEffectDescriptions.0>
-  <AG_ColdSpeed.customEffectDescriptions.0>Это три галлона на квадратный дюйм по Фаренгейту!</AG_ColdSpeed.customEffectDescriptions.0>
+  <AG_HeatSlowness.customEffectDescriptions.0>Три галлона на квадратный дюйм, да ещё и по Фаренгейту!</AG_HeatSlowness.customEffectDescriptions.0>
+  <AG_HeatSpeed.customEffectDescriptions.0>Три галлона на квадратный дюйм, да ещё и по Фаренгейту!</AG_HeatSpeed.customEffectDescriptions.0>
+  <AG_ColdSlowness.customEffectDescriptions.0>Три галлона на квадратный дюйм, да ещё и по Фаренгейту!</AG_ColdSlowness.customEffectDescriptions.0>
+  <AG_ColdSpeed.customEffectDescriptions.0>Три галлона на квадратный дюйм, да ещё и по Фаренгейту!</AG_ColdSpeed.customEffectDescriptions.0>
   <AG_HeatSlowness.symbolPack.prefixSymbols.0.symbol>тепло</AG_HeatSlowness.symbolPack.prefixSymbols.0.symbol>
   <AG_HeatSpeed.symbolPack.prefixSymbols.0.symbol>тепло</AG_HeatSpeed.symbolPack.prefixSymbols.0.symbol>
   <AG_HeatRadiating.symbolPack.prefixSymbols.0.symbol>тепло</AG_HeatRadiating.symbolPack.prefixSymbols.0.symbol>

@@ -27,15 +27,15 @@
   <VFE_LargeAdvancedBattery.label>большой продвинутый аккумулятор</VFE_LargeAdvancedBattery.label>
   <VPE_NuclearGenerator.label>ядерный реактор</VPE_NuclearGenerator.label>
   <VFE_PortableWoodFiredGenerator.label>переносной генератор на дровах</VFE_PortableWoodFiredGenerator.label>
-  <VFE_PortableWoodFiredGenerator.description>Производит небольшое количество электричества, потребляя в качестве топлива древесину. Необходимо заправлять вручную. Этот генератор достаточно лёгкий, чтобы его можно было носить с собой.</VFE_PortableWoodFiredGenerator.description>
+  <VFE_PortableWoodFiredGenerator.description>Производит немного электроэнергии, сжигая древесину. Нужно время от времени вручную подкладывать дрова. Генератор достаточно лёгкий, чтобы его переносить.</VFE_PortableWoodFiredGenerator.description>
   <VFE_PortableChemfuelPoweredGenerator.label>переносной генератор на химтопливе</VFE_PortableChemfuelPoweredGenerator.label>
-  <VFE_PortableChemfuelPoweredGenerator.description>Производит небольшое количество электричества, потребляя химическое топливо. Необходимо заправлять вручную. Этот генератор достаточно лёгкий, чтобы его можно было носить с собой.</VFE_PortableChemfuelPoweredGenerator.description>
+  <VFE_PortableChemfuelPoweredGenerator.description>Производит немного электроэнергии, расходуя химтопливо. Нужно время от времени заправлять вручную. Генератор достаточно лёгкий, чтобы его переносить.</VFE_PortableChemfuelPoweredGenerator.description>
   <VFE_IndustrialWoodFiredGenerator.label>промышленный генератор на дровах</VFE_IndustrialWoodFiredGenerator.label>
-  <VFE_IndustrialWoodFiredGenerator.description>Производит большое количество электричества, потребляя в качестве топлива древесину. Необходимо заправлять вручную.</VFE_IndustrialWoodFiredGenerator.description>
+  <VFE_IndustrialWoodFiredGenerator.description>Производит много электроэнергии, сжигая древесину. Нужно время от времени вручную подкладывать дрова.</VFE_IndustrialWoodFiredGenerator.description>
   <VFE_IndustrialChemfuelPoweredGenerator.label>промышленный генератор на химтопливе</VFE_IndustrialChemfuelPoweredGenerator.label>
-  <VFE_IndustrialChemfuelPoweredGenerator.description>Производит большое количество электричества, потребляя химическое топливо. Необходимо заправлять вручную.</VFE_IndustrialChemfuelPoweredGenerator.description>
+  <VFE_IndustrialChemfuelPoweredGenerator.description>Производит много электроэнергии, расходуя химтопливо. Нужно время от времени заправлять вручную.</VFE_IndustrialChemfuelPoweredGenerator.description>
   <VFE_TidalGenerator.label>приливный генератор</VFE_TidalGenerator.label>
-  <VFE_TidalGenerator.description>Вырабатывает электричество из движущихся масс воды, в частности — приливов. Должен быть размещён на воде.</VFE_TidalGenerator.description>
+  <VFE_TidalGenerator.description>Вырабатывает электричество за счёт движения больших масс воды, прежде всего приливов. Должен стоять на воде.</VFE_TidalGenerator.description>
   <VFE_SmallVanometricPowerCell.label>небольшой ванометрический генератор</VFE_SmallVanometricPowerCell.label>
   <VFE_LargeVanometricPowerCell.label>большой ванометрический генератор</VFE_LargeVanometricPowerCell.label>
   <VPE_ArchotechViolenceGenerator.label>жестокий архогенератор</VPE_ArchotechViolenceGenerator.label>

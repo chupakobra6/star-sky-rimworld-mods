@@ -13,7 +13,7 @@
   <VPE_MeltdownLetter>Из-за высокой температуры в реакторном зале произошло частичное расплавление реактора! До ремонта он будет крайне опасен для всего живого в большом радиусе.
 
 Если ничего не предпринять, за несколько часов может погибнуть вся колония.</VPE_MeltdownLetter>
-  <VPE_NotLightningProducing>Энергия молнии израсходована. Похоже, придётся ждать следующей грозы.</VPE_NotLightningProducing>
+  <VPE_NotLightningProducing>Запас энергии молний исчерпан. Похоже, придётся дождаться следующей грозы.</VPE_NotLightningProducing>
   <VPE_GasExplosion>Из-за неисправности произошёл взрыв газа. Источник: {0}.</VPE_GasExplosion>
   <VPE_GasExplosionStartedFire>Из-за неисправности произошли взрыв газа и пожар. Источник: {0}.</VPE_GasExplosionStartedFire>
   <VPE_GasExplosionLostGas>Мощный взрыв уничтожил весь запас газа в подключённых резервуарах: {0} л·сут.</VPE_GasExplosionLostGas>
@@ -28,16 +28,16 @@
   <VPE_SoulMultiplier>Множитель запаса энергии от трупа</VPE_SoulMultiplier>
   <VPE_SoulMultiplierTooltip>Каждый свежий труп человека или другого гуманоида даёт запас энергии на 2 часа работы, умноженный на это значение. Штатное значение 2 даёт 4 часа работы от одного трупа.</VPE_SoulMultiplierTooltip>
   <VPE_TidalSeparationTooltip>Минимальное расстояние между приливными генераторами. По умолчанию — 40 клеток.</VPE_TidalSeparationTooltip>
-  <VPE_PipesNotConnected>Трубы не подключены к генератору или цистернам.</VPE_PipesNotConnected>
+  <VPE_PipesNotConnected>Трубы не подключены к генератору или резервуарам</VPE_PipesNotConnected>
   <VPE_LiquidTankStored>Хранится газа</VPE_LiquidTankStored>
   <VPE_LiquidTankEfficiency>КПД цистерны</VPE_LiquidTankEfficiency>
   <VPE_NutrientNeeded>Потребление газа</VPE_NutrientNeeded>
   <VPE_LiquidOutput>Добыча газа</VPE_LiquidOutput>
-  <VPE_MustPlaceOnGasGeyser>Этот объект следует размещать непосредственно на месторождении хеликсинового газа.</VPE_MustPlaceOnGasGeyser>
-  <VPE_MustPlaceAdjacentToPipe>Постройки, работающие на газе, должны располагаться рядом с газовыми трубами, а не сверху на них.</VPE_MustPlaceAdjacentToPipe>
+  <VPE_MustPlaceOnGasGeyser>Это сооружение нужно строить прямо на гейзере геликсиенового газа</VPE_MustPlaceOnGasGeyser>
+  <VPE_MustPlaceAdjacentToPipe>Газовые сооружения нужно ставить рядом с трубами, а не поверх них</VPE_MustPlaceAdjacentToPipe>
   <VPE_DeconstructGasPipes>Разобрать газовую сеть</VPE_DeconstructGasPipes>
-  <VPE_DeconstructGasPipesDesc>Разобрать только газовые трубы и подземные газовые трубы.</VPE_DeconstructGasPipesDesc>
-  <VPE_DisableGasPathCalculations>Отключить расчёты пути хеликсинового газа (для повышения производительности игры)</VPE_DisableGasPathCalculations>
+  <VPE_DeconstructGasPipesDesc>Разобрать только газовые и подземные газовые трубы</VPE_DeconstructGasPipesDesc>
+  <VPE_DisableGasPathCalculations>Отключить расчёт путей геликсиенового газа (для повышения производительности)</VPE_DisableGasPathCalculations>
   <Fluffy.GasNetwork.GasNetworkInspectString>Избыток газа в сети: {0} (накоплено: {1})</Fluffy.GasNetwork.GasNetworkInspectString>
   <Fluffy.GasNetwork.Stored>Хранится газа: {0}/{1}</Fluffy.GasNetwork.Stored>
   <Fluffy.GasNetwork.Production>Добывается газа: {0}</Fluffy.GasNetwork.Production>
@@ -46,53 +46,53 @@
   <Fluffy.GasNetwork.NoNetwork>Не подключено к газовой сети.</Fluffy.GasNetwork.NoNetwork>
   <Fluffy.GasNetwork.ValveOpen>Газовый вентиль открыт.</Fluffy.GasNetwork.ValveOpen>
   <Fluffy.GasNetwork.ValveClosed>Газовый вентиль закрыт.</Fluffy.GasNetwork.ValveClosed>
-  <Fluffy.GasNetwork.CommandToggleGas.Desc>Дать команду включения или отключения подачи газа. Вскоре поселенец подойдёт и переключит вентиль.</Fluffy.GasNetwork.CommandToggleGas.Desc>
+  <Fluffy.GasNetwork.CommandToggleGas.Desc>Отметить подачу газа для включения или выключения. Поселенец вскоре переключит выключатель.</Fluffy.GasNetwork.CommandToggleGas.Desc>
   <Fluffy.GasNetwork.DesiredBuffer>Целевой объём газа: {0}/{1}</Fluffy.GasNetwork.DesiredBuffer>
   <Fluffy.GasNetwork.BufferOff>Газовое хранилище отключено от сети.</Fluffy.GasNetwork.BufferOff>
   <Fluffy.GasNetwork.Settings.Wind.WindSpeedUnit>Предпочитаемая единица измерения скорости ветра</Fluffy.GasNetwork.Settings.Wind.WindSpeedUnit>
   <Fluffy.GasNetwork.Settings.Wind.Category>Симуляция ветра</Fluffy.GasNetwork.Settings.Wind.Category>
-  <VPE_RadiationProduced>Внимание: реактор испускает радиоактивное излучение в радиусе {0} клеток</VPE_RadiationProduced>
+  <VPE_RadiationProduced>Внимание: реактор излучает радиацию в радиусе {0} м</VPE_RadiationProduced>
   <VPE_MeltdownLetterLabel>Расплавление ядерного реактора</VPE_MeltdownLetterLabel>
-  <VPE_NoReactorRoom>Реакторный зал должен быть закрытым помещением с крышей.</VPE_NoReactorRoom>
-  <VPE_MustPlaceRoofed>Это сооружение должно быть установлено внутри помещения, под крышей.</VPE_MustPlaceRoofed>
+  <VPE_NoReactorRoom>Помещение реактора должно быть закрытым и находиться под крышей</VPE_NoReactorRoom>
+  <VPE_MustPlaceRoofed>Это сооружение нужно размещать в помещении под крышей</VPE_MustPlaceRoofed>
   <VPE_SoulsTime>Запасено душ на: </VPE_SoulsTime>
   <VPE_Producing>Производит {0} Вт электроэнергии</VPE_Producing>
-  <VPE_NotProducing>Нет поглощённых душ. Боги-Машины жаждут человеческих душ!</VPE_NotProducing>
+  <VPE_NotProducing>Ни одной души не поглощено. Машинные боги жаждут человеческих душ.</VPE_NotProducing>
   <VPE_ToggleViolenceGenerator>Переключить генератор</VPE_ToggleViolenceGenerator>
   <VPE_ToggleViolenceGeneratorDesc>Включить или выключить генератор.</VPE_ToggleViolenceGeneratorDesc>
-  <VPE_GeneratorIsOff>Этот генератор выключен и на данный момент не производит энергию.</VPE_GeneratorIsOff>
+  <VPE_GeneratorIsOff>Жестокий архогенератор сейчас выключен и не работает</VPE_GeneratorIsOff>
   <VPE_LightningTime>Запасено энергии молнии на: </VPE_LightningTime>
   <VPE_AGasPipe>газовая труба</VPE_AGasPipe>
-  <VPE_GasExplosionLWasLarge>Высокая концентрация газа вызвала взрыв значительной силы.</VPE_GasExplosionLWasLarge>
+  <VPE_GasExplosionLWasLarge>Из-за большого количества газа произошёл сильный взрыв.</VPE_GasExplosionLWasLarge>
   <VPE_GasExplosionLWasHuge>Вот это огромный взрыв! Ничего себе!</VPE_GasExplosionLWasHuge>
   <VPE_LetterLabelGasExplosion>Бабах!</VPE_LetterLabelGasExplosion>
-  <VPE_PondHasFuel>В этом месторождении химического топлива осталось {0} ед. химтоплива</VPE_PondHasFuel>
+  <VPE_PondHasFuel>Остаток химтоплива в пруду: {0} ед.</VPE_PondHasFuel>
   <VPE_PondNoFuel>Это химтопливное месторождение выработано.</VPE_PondNoFuel>
-  <VPE_MustPlaceOnChemfuelPond>Этот объект следует размещать над химтопливным месторождением.</VPE_MustPlaceOnChemfuelPond>
-  <VPE_NeedsWater>Эта электростанция должна быть построена на воде.</VPE_NeedsWater>
-  <VPE_NeedsDistance>Приливные генераторы должны быть размещены на расстоянии не менее 40 клеток друг от друга.</VPE_NeedsDistance>
+  <VPE_MustPlaceOnChemfuelPond>Насос химтоплива нужно строить прямо на пруду с химтопливом</VPE_MustPlaceOnChemfuelPond>
+  <VPE_NeedsWater>Эту электростанцию нужно строить на воде</VPE_NeedsWater>
+  <VPE_NeedsDistance>Между приливными электростанциями должно быть не менее 40 клеток</VPE_NeedsDistance>
   <VPE_GasUpdateNoticeLetterLabel>Обновление модуля «Power»</VPE_GasUpdateNoticeLetterLabel>
   <VPE_Reset>Сбросить</VPE_Reset>
   <VPE_NuclearPlantHeader>Ядерный реактор</VPE_NuclearPlantHeader>
   <VPE_NuclearPlantMultiplier>Множитель мощности ядерного реактора</VPE_NuclearPlantMultiplier>
-  <VPE_NuclearPlantMultiplierTooltip>На это значение будет умножено количество электроэнергии, произведённой ядерным реактором.</VPE_NuclearPlantMultiplierTooltip>
+  <VPE_NuclearPlantMultiplierTooltip>Выработка ядерной электростанции умножается на это значение.</VPE_NuclearPlantMultiplierTooltip>
   <VPE_NuclearPlantRadiationMultiplier>Множитель радиуса излучения</VPE_NuclearPlantRadiationMultiplier>
   <VPE_DisableNuclearMeltdowns>Отключить расплавление ядерного реактора</VPE_DisableNuclearMeltdowns>
   <VPE_SolarHeader>Продвинутая солнечная батарея</VPE_SolarHeader>
   <VPE_AdvSolarOutputMultiplier>Множитель мощности продв. солнечной батареи</VPE_AdvSolarOutputMultiplier>
-  <VPE_AdvSolarOutputMultiplierTooltip>На это значение будет умножено количество электроэнергии, произведённой продвинутой солнечной батареей.</VPE_AdvSolarOutputMultiplierTooltip>
+  <VPE_AdvSolarOutputMultiplierTooltip>Выработка усовершенствованного солнечного генератора умножается на это значение.</VPE_AdvSolarOutputMultiplierTooltip>
   <VPE_SoulHeader>Жестокий архогенератор</VPE_SoulHeader>
   <VPE_TidalHeader>Приливный генератор</VPE_TidalHeader>
   <VPE_TidalMultiplier>Множитель мощности приливного генератора</VPE_TidalMultiplier>
-  <VPE_TidalMultiplierTooltip>На это значение будет умножено количество электроэнергии, произведённой приливным генератором.</VPE_TidalMultiplierTooltip>
+  <VPE_TidalMultiplierTooltip>Выработка приливного генератора умножается на это значение.</VPE_TidalMultiplierTooltip>
   <VPE_TidalSeparation>Расстояние между генераторами</VPE_TidalSeparation>
   <VPE_WindmillHeader>Продвинутый ветрогенератор</VPE_WindmillHeader>
   <VPE_AdvWindmillOutputMultiplier>Множитель мощности продв. ветрогенератора</VPE_AdvWindmillOutputMultiplier>
-  <VPE_AdvWindmillOutputMultiplierTooltip>На это значение будет умножено количество электроэнергии, произведённой продвинутым ветрогенератором.</VPE_AdvWindmillOutputMultiplierTooltip>
+  <VPE_AdvWindmillOutputMultiplierTooltip>Выработка усовершенствованного ветрогенератора умножается на это значение.</VPE_AdvWindmillOutputMultiplierTooltip>
   <VPE_WatermillHeader>Продвинутый водяной генератор</VPE_WatermillHeader>
   <VPE_AdvWatermillOutputMultiplier>Множитель мощности продв. водяного генератора</VPE_AdvWatermillOutputMultiplier>
-  <VPE_AdvWatermillOutputMultiplierTooltip>На это значение будет умножено количество электроэнергии, произведённой продвинутым водяным генератором.</VPE_AdvWatermillOutputMultiplierTooltip>
+  <VPE_AdvWatermillOutputMultiplierTooltip>Выработка усовершенствованного водяного генератора умножается на это значение.</VPE_AdvWatermillOutputMultiplierTooltip>
   <VPE_AdvGeoHeader>Продвинутый геотермальный генератор</VPE_AdvGeoHeader>
   <VPE_AdvGeoOutputMultiplier>Множитель мощности продв. геотермального генератора</VPE_AdvGeoOutputMultiplier>
-  <VPE_AdvGeoOutputMultiplierTooltip>На это значение будет умножено количество электроэнергии, произведённой продвинутым геотермальным генератором.</VPE_AdvGeoOutputMultiplierTooltip>
+  <VPE_AdvGeoOutputMultiplierTooltip>Выработка усовершенствованного геотермального генератора умножается на это значение.</VPE_AdvGeoOutputMultiplierTooltip>
 </LanguageData>

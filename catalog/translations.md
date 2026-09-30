@@ -244,7 +244,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 [![Vanilla Furniture Expanded — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/vanilla-furniture-expanded-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3807814430)
 
-RimWorld 1.6 · Версия 1.0.0
+RimWorld 1.6 · Версия 1.0.1
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3807814430) · [Исходники и руководство](../mods/RU-1718190143/README.md) · [История изменений](../mods/RU-1718190143/CHANGELOG.md) · [Лицензия](../mods/RU-1718190143/LICENSE) · [Источники и уведомления](../mods/RU-1718190143/NOTICES.md)
 
@@ -274,7 +274,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 [![Vanilla Furniture Expanded - Security — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/vanilla-furniture-expanded-security-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3807814514)
 
-RimWorld 1.6 · Версия 1.0.0
+RimWorld 1.6 · Версия 1.0.1
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3807814514) · [Исходники и руководство](../mods/RU-1845154007/README.md) · [История изменений](../mods/RU-1845154007/CHANGELOG.md) · [Лицензия](../mods/RU-1845154007/LICENSE) · [Источники и уведомления](../mods/RU-1845154007/NOTICES.md)
 
@@ -284,7 +284,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 [![Vanilla Expanded Framework — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/vanilla-expanded-framework-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3807830484)
 
-RimWorld 1.6 · Версия 1.0.2
+RimWorld 1.6 · Версия 1.0.3
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3807830484) · [Исходники и руководство](../mods/RU-2023507013/README.md) · [История изменений](../mods/RU-2023507013/CHANGELOG.md) · [Лицензия](../mods/RU-2023507013/LICENSE) · [Источники и уведомления](../mods/RU-2023507013/NOTICES.md)
 
@@ -304,7 +304,7 @@ RimWorld 1.6 · Версия 1.0.2
 
 [![Vanilla Furniture Expanded - Power — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/vanilla-furniture-expanded-power-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306723)
 
-RimWorld 1.6 · Версия 1.0.0
+RimWorld 1.6 · Версия 1.0.1
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306723) · [Исходники и руководство](../mods/RU-2062943477/README.md) · [История изменений](../mods/RU-2062943477/CHANGELOG.md) · [Лицензия](../mods/RU-2062943477/LICENSE) · [Источники и уведомления](../mods/RU-2062943477/NOTICES.md)
 
@@ -314,7 +314,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 [![Vanilla Events Expanded — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/vanilla-events-expanded-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306734)
 
-RimWorld 1.6 · Версия 1.0.1
+RimWorld 1.6 · Версия 1.0.2
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306734) · [Исходники и руководство](../mods/RU-1938420742/README.md) · [История изменений](../mods/RU-1938420742/CHANGELOG.md) · [Лицензия](../mods/RU-1938420742/LICENSE) · [Источники и уведомления](../mods/RU-1938420742/NOTICES.md)
 
@@ -334,7 +334,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 [![Alpha Animals — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/alpha-animals-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306758)
 
-RimWorld 1.6 · Версия 1.0.0
+RimWorld 1.6 · Версия 1.0.1
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306758) · [Исходники и руководство](../mods/RU-1541721856/README.md) · [История изменений](../mods/RU-1541721856/CHANGELOG.md) · [Лицензия](../mods/RU-1541721856/LICENSE) · [Источники и уведомления](../mods/RU-1541721856/NOTICES.md)
 
@@ -354,9 +354,11 @@ RimWorld 1.6 · Версия 1.0.0
 
 [![Alpha Genes — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/alpha-genes-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306776)
 
-RimWorld 1.6 · Версия 1.0.1
+RimWorld 1.6 · Версия 1.0.2
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306776) · [Исходники и руководство](../mods/RU-2891845502/README.md) · [История изменений](../mods/RU-2891845502/CHANGELOG.md) · [Лицензия](../mods/RU-2891845502/LICENSE) · [Источники и уведомления](../mods/RU-2891845502/NOTICES.md)
+
+[![Другие моды в Мастерской Steam](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-ru.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)
 
 ## Simple sidearms — русский перевод
 

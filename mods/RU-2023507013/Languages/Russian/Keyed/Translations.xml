@@ -13,9 +13,9 @@
   <VEF_EnableCorpseDecaying>Включить разложение трупов</VEF_EnableCorpseDecaying>
   <VEF_EnableCorpseDecayingDesc>Включить способность этого животного постоянно разлагать трупы.</VEF_EnableCorpseDecayingDesc>
   <VEF_DisableDigging>Отключить поиск пищи в земле</VEF_DisableDigging>
-  <VEF_DisableDiggingDesc>Отключить способность этого животного раскапывать землю в поисках пищи.</VEF_DisableDiggingDesc>
+  <VEF_DisableDiggingDesc>Отключить способность этого животного добывать пищу, роя землю.</VEF_DisableDiggingDesc>
   <VEF_EnableDigging>Включить поиск пищи в земле</VEF_EnableDigging>
-  <VEF_EnableDiggingDesc>Включить способность этого животного раскапывать землю в поисках пищи.</VEF_EnableDiggingDesc>
+  <VEF_EnableDiggingDesc>Включить способность этого животного добывать пищу, роя землю.</VEF_EnableDiggingDesc>
   <VEF_DisableGas>Отключить выделение газа</VEF_DisableGas>
   <VEF_DisableGasDesc>Отключить способность этого животного выделять газ.</VEF_DisableGasDesc>
   <VEF_EnableGas>Включить выделение газа</VEF_EnableGas>

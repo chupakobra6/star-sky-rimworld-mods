@@ -51,11 +51,11 @@
   <VEF_MTBLovinFactor.label>интервал между попытками близости</VEF_MTBLovinFactor.label>
   <VEF_MTBLovinFactor.description>Множитель среднего времени между попытками этого персонажа заняться любовью.</VEF_MTBLovinFactor.description>
   <VEF_PositiveThoughtDurationFactor.label>длительность позитивных мыслей</VEF_PositiveThoughtDurationFactor.label>
-  <VEF_PositiveThoughtDurationFactor.description>Длительность позитивных мыслей умножается на это значение.</VEF_PositiveThoughtDurationFactor.description>
+  <VEF_PositiveThoughtDurationFactor.description>Длительность положительных мыслей умножается на это значение.</VEF_PositiveThoughtDurationFactor.description>
   <VEF_NeutralThoughtDurationFactor.label>длительность нейтральных мыслей</VEF_NeutralThoughtDurationFactor.label>
   <VEF_NeutralThoughtDurationFactor.description>Длительность нейтральных мыслей умножается на это значение.</VEF_NeutralThoughtDurationFactor.description>
   <VEF_NegativeThoughtDurationFactor.label>длительность негативных мыслей</VEF_NegativeThoughtDurationFactor.label>
-  <VEF_NegativeThoughtDurationFactor.description>Длительность негативных мыслей умножается на это значение.</VEF_NegativeThoughtDurationFactor.description>
+  <VEF_NegativeThoughtDurationFactor.description>Длительность отрицательных мыслей умножается на это значение.</VEF_NegativeThoughtDurationFactor.description>
   <VEF_RangedDodgeChance.label>шанс уклонения от выстрела</VEF_RangedDodgeChance.label>
   <VEF_RangedDodgeChance.description>Вероятность уклониться от дальней атаки, которая иначе попала бы в цель. При отрицательном значении — вероятность попасть под дальнюю атаку, предназначенную другой цели.</VEF_RangedDodgeChance.description>
   <VEF_HeatstrokeBuildupMultiplier.label>множитель развития теплового удара</VEF_HeatstrokeBuildupMultiplier.label>
