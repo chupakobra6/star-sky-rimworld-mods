@@ -336,7 +336,7 @@
     {
       "path": "catalog/translations.md",
       "bytes": 32066,
-      "sha256": "ea90829ead4c84df242cc4b81b214a8a7b6c6433b9f4807d1c4abf35278cbf43"
+      "sha256": "cc2c3b0dce7d58d48090ec4acc518694314f7b52cf4a060fb040d78e908fe336"
     },
     {
       "path": "mods/CharacterEditor-Fixes/About/About.xml",
@@ -1811,7 +1811,7 @@
     {
       "path": "mods/RU-2023507013/About/About.xml",
       "bytes": 3687,
-      "sha256": "ca02a7d8bff2218020a98920b11bc52544203d65e5c2798f6deaa3369c7e72b3"
+      "sha256": "d64903cac017ccc29897aae7e7346972717876644f2111c7c5eff4408ca085e6"
     },
     {
       "path": "mods/RU-2023507013/About/Preview.png",
@@ -1830,8 +1830,8 @@
     },
     {
       "path": "mods/RU-2023507013/CHANGELOG.md",
-      "bytes": 837,
-      "sha256": "1794d10c5efc51762aaf84e7c8e3d1e10b238cb66939687a7d5ac15eef6e633b"
+      "bytes": 965,
+      "sha256": "cb5066d6371409ffd90fd93ec3f19e7aa8ae7ccc84689c300359f7411092bc62"
     },
     {
       "path": "mods/RU-2023507013/Languages/English/Keyed/Additional.xml",
@@ -1926,7 +1926,7 @@
     {
       "path": "mods/RU-2023507013/Languages/Russian/DefInjected/VEF.OptionalFeatures.OptionalFeaturesDef/Translations.xml",
       "bytes": 842,
-      "sha256": "6372cccb4e1a64963652cb4808ef130aa807b1c22167354a6651692dad2adebf"
+      "sha256": "08e1a16ebd0c769c1300178d834cf010a8a39243c8e3c49c0764dc5e77413da3"
     },
     {
       "path": "mods/RU-2023507013/Languages/Russian/DefInjected/WorkGiverDef/Translations.xml",
