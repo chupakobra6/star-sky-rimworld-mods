@@ -336,7 +336,7 @@
     {
       "path": "catalog/translations.md",
       "bytes": 32066,
-      "sha256": "b4e1c860ea52e094198a63a7c3c13e0499dee934bba425675e90f105fd5d0067"
+      "sha256": "ea90829ead4c84df242cc4b81b214a8a7b6c6433b9f4807d1c4abf35278cbf43"
     },
     {
       "path": "mods/CharacterEditor-Fixes/About/About.xml",
@@ -1810,8 +1810,8 @@
     },
     {
       "path": "mods/RU-2023507013/About/About.xml",
-      "bytes": 3683,
-      "sha256": "26fec7b1302852323c991a7bb0a58366f7dca04976e7e5e0857b28ba2eb5857a"
+      "bytes": 3687,
+      "sha256": "ca02a7d8bff2218020a98920b11bc52544203d65e5c2798f6deaa3369c7e72b3"
     },
     {
       "path": "mods/RU-2023507013/About/Preview.png",
@@ -1826,12 +1826,12 @@
     {
       "path": "mods/RU-2023507013/Assemblies/RU2023507013.dll",
       "bytes": 38912,
-      "sha256": "b0afdeff56f7c0803e26848b46ca01a788dc1d47a60fd88168a42036fd842f28"
+      "sha256": "99196d527bd849bc345fd1d6be8b634ca31283e8fcaa7eb312738ab7babea350"
     },
     {
       "path": "mods/RU-2023507013/CHANGELOG.md",
-      "bytes": 496,
-      "sha256": "a4dcc5f28bebedddf96c2f77047d247ea9dc8c31d7b70c95b544a909ddbe289b"
+      "bytes": 837,
+      "sha256": "1794d10c5efc51762aaf84e7c8e3d1e10b238cb66939687a7d5ac15eef6e633b"
     },
     {
       "path": "mods/RU-2023507013/Languages/English/Keyed/Additional.xml",
@@ -1900,8 +1900,8 @@
     },
     {
       "path": "mods/RU-2023507013/Languages/Russian/DefInjected/StatDef/Translations.xml",
-      "bytes": 11551,
-      "sha256": "ff757eee9119607d7bb7d805cb06d36b55f746c2532c9d339d6d89468301dedb"
+      "bytes": 12015,
+      "sha256": "8992f105b5bae823fa0c10449bb3f4da322734dfb5a8e6f49d064e58bea83c72"
     },
     {
       "path": "mods/RU-2023507013/Languages/Russian/DefInjected/TerrainDef/Translations.xml",
@@ -2006,7 +2006,7 @@
     {
       "path": "mods/RU-2023507013/Source/Literals.cs",
       "bytes": 24997,
-      "sha256": "b4edf285789ff5bb785fdca9a4b9865f74e31dbcb25410c83462ddaaf5456639"
+      "sha256": "a48791b3ab1b95cb7020a80f8bfbd44434d937ca8b6db1726f84c98a4efea046"
     },
     {
       "path": "mods/RU-2023507013/Source/Overrides.cs",

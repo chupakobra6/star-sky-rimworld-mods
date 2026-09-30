@@ -282,7 +282,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 [![Vanilla Expanded Framework — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/vanilla-expanded-framework-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3807830484)
 
-RimWorld 1.6 · Версия 1.0.0
+RimWorld 1.6 · Версия 1.0.1
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3807830484) · [Исходники и руководство](../mods/RU-2023507013/README.md) · [История изменений](../mods/RU-2023507013/CHANGELOG.md) · [Лицензия](../mods/RU-2023507013/LICENSE) · [Источники и уведомления](../mods/RU-2023507013/NOTICES.md)
 

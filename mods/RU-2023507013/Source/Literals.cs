@@ -123,7 +123,7 @@ namespace Igor.RU_2023507013
                 { "DEV: Break", "Отладка: пробить щит" },
                 { "DEV: Clear reset", "Отладка: восстановить щит" }
             } },
-            { "VEF.AnimalGenes.CompAnimalGenes+<CompGetGizmosExtra>d__15:MoveNext", new Dictionary<string,string> {
+            { "VEF.AnimalGenes.CompAnimalGenes+<CompGetGizmosExtra>d__16:MoveNext", new Dictionary<string,string> {
                 { "DEV: Do birth", "Отладка: вызвать роды" }
             } },
             { "VEF.AnimalBehaviours.CompAnimalProduct+<CompGetGizmosExtra>d__15:MoveNext", new Dictionary<string,string> {
