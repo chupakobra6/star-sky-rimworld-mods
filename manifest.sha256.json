@@ -336,7 +336,7 @@
     {
       "path": "catalog/translations.md",
       "bytes": 32066,
-      "sha256": "cc2c3b0dce7d58d48090ec4acc518694314f7b52cf4a060fb040d78e908fe336"
+      "sha256": "e9f8e2e4cfbafa280a2a43a85cef79c108dfed69a0c847917b2c533ea5a7a2a8"
     },
     {
       "path": "mods/CharacterEditor-Fixes/About/About.xml",
@@ -1651,7 +1651,7 @@
     {
       "path": "mods/RU-1938420742/About/About.xml",
       "bytes": 3403,
-      "sha256": "2919bf18f4709dac7ee6b9f7fa41641bf0c929cc661a689e0ba86f20858abd53"
+      "sha256": "b9ae4248b2311a05568103f9d7698a5b105dfc8d45411c9d092bcc1efb68dda9"
     },
     {
       "path": "mods/RU-1938420742/About/Preview.png",
@@ -1670,13 +1670,13 @@
     },
     {
       "path": "mods/RU-1938420742/CHANGELOG.md",
-      "bytes": 425,
-      "sha256": "521c23cd8c366ab8661a29057cd5cc8e5f610867c0cdf02185d34b0052144ed9"
+      "bytes": 605,
+      "sha256": "ec34fa3998b4c056ba5e2cce8cae96d0610ea8043cf2005dcedf65b0521c6048"
     },
     {
       "path": "mods/RU-1938420742/Languages/Russian/DefInjected/GameConditionDef/Translations.xml",
-      "bytes": 24299,
-      "sha256": "e1e69ec92b466b143707bf28461cbd4202724161ad80bfca43e3ca60a3bad153"
+      "bytes": 24356,
+      "sha256": "72e2785527dcc9f7c6a3a3e91c0a41efbf67a456cff1307271426908d61f9e49"
     },
     {
       "path": "mods/RU-1938420742/Languages/Russian/DefInjected/HediffDef/Translations.xml",

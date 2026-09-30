@@ -312,7 +312,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 [![Vanilla Events Expanded — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/vanilla-events-expanded-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306734)
 
-RimWorld 1.6 · Версия 1.0.0
+RimWorld 1.6 · Версия 1.0.1
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306734) · [Исходники и руководство](../mods/RU-1938420742/README.md) · [История изменений](../mods/RU-1938420742/CHANGELOG.md) · [Лицензия](../mods/RU-1938420742/LICENSE) · [Источники и уведомления](../mods/RU-1938420742/NOTICES.md)
 
