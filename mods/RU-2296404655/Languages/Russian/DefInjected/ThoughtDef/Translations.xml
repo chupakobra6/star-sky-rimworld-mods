@@ -1,0 +1,91 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VTE_BondedAnimalDiedHater.stages.0.label>смерть питомца {0}</VTE_BondedAnimalDiedHater.stages.0.label>
+  <VTE_BondedAnimalDiedHater.stages.0.description>Такое мерзкое, надоедливое животное. Как хорошо, что его больше нет.</VTE_BondedAnimalDiedHater.stages.0.description>
+  <VTE_BondedAnimalLostHater.stages.0.label>потеря питомца {0}</VTE_BondedAnimalLostHater.stages.0.label>
+  <VTE_BondedAnimalLostHater.stages.0.description>Такое мерзкое, надоедливое животное. Как хорошо, что его больше нет.</VTE_BondedAnimalLostHater.stages.0.description>
+  <VTE_BondedAnimalBanishedHater.stages.0.label>изгнание питомца {0}</VTE_BondedAnimalBanishedHater.stages.0.label>
+  <VTE_BondedAnimalBanishedHater.stages.0.description>Животное, с которым у меня была связь, изгнали. Отлично.</VTE_BondedAnimalBanishedHater.stages.0.description>
+  <VTE_NuzzledHater.stages.0.label>приставание</VTE_NuzzledHater.stages.0.label>
+  <VTE_NuzzledHater.stages.0.description>Отвратительное животное трётся об меня.</VTE_NuzzledHater.stages.0.description>
+  <VTE_KilledMyBondedAnimalHater.stages.0.label>{PAWN_gender ? Убил : Убила} моего питомца</VTE_KilledMyBondedAnimalHater.stages.0.label>
+  <VTE_SoldMyBondedAnimalHater.stages.0.label>питомец отдан</VTE_SoldMyBondedAnimalHater.stages.0.label>
+  <VTE_SoldMyBondedAnimalHater.stages.0.description>Моего мерзкого питомца отдали. Давно пора.</VTE_SoldMyBondedAnimalHater.stages.0.description>
+  <VTE_SoldMyBondedAnimalHater.stages.0.labelSocial>моего питомца отдали</VTE_SoldMyBondedAnimalHater.stages.0.labelSocial>
+  <VTE_SoldMyBondedAnimalMoodHater.stages.0.label>питомец отдан</VTE_SoldMyBondedAnimalMoodHater.stages.0.label>
+  <VTE_SoldMyBondedAnimalMoodHater.stages.0.description>Моего мерзкого питомца отдали. Давно пора.</VTE_SoldMyBondedAnimalMoodHater.stages.0.description>
+  <VTE_SoldMyBondedAnimalMoodHater.stages.0.labelSocial>моего питомца отдали</VTE_SoldMyBondedAnimalMoodHater.stages.0.labelSocial>
+  <VTE_KilledColonyAnimalHater.stages.0.label>{PAWN_gender ? Убил : Убила} животное поселения</VTE_KilledColonyAnimalHater.stages.0.label>
+  <VTE_BondedAnimalMasterHater.stages.0.label>хозяин {0}</VTE_BondedAnimalMasterHater.stages.0.label>
+  <VTE_BondedAnimalMasterHater.stages.0.description>Рядом с этой мерзкой тварью я ненавижу саму жизнь.</VTE_BondedAnimalMasterHater.stages.0.description>
+  <VTE_BondedAnimalMasterHater.stages.1.label>хозяин {0}</VTE_BondedAnimalMasterHater.stages.1.label>
+  <VTE_BondedAnimalMasterHater.stages.1.description>Рядом с этой мерзкой тварью я ненавижу саму жизнь.</VTE_BondedAnimalMasterHater.stages.1.description>
+  <VTE_NotBondedAnimalMasterHater.stages.0.label>не хозяин {0}</VTE_NotBondedAnimalMasterHater.stages.0.label>
+  <VTE_NotBondedAnimalMasterHater.stages.0.description>Может, я и нравлюсь этой твари, но она мне точно нет. Как хорошо, что её взял кто-то другой.</VTE_NotBondedAnimalMasterHater.stages.0.description>
+  <VTE_NotBondedAnimalMasterHater.stages.1.label>не хозяин {0}</VTE_NotBondedAnimalMasterHater.stages.1.label>
+  <VTE_NotBondedAnimalMasterHater.stages.1.description>Может, я и нравлюсь этой твари, но она мне точно нет. Как хорошо, что её взял кто-то другой.</VTE_NotBondedAnimalMasterHater.stages.1.description>
+  <VTE_CreatedLowQualityItem.stages.0.label>создан низкокачественный предмет</VTE_CreatedLowQualityItem.stages.0.label>
+  <VTE_CreatedLowQualityItem.stages.0.description>Моя работа — сплошной хлам. Кажется, у меня вообще ничего не получается.</VTE_CreatedLowQualityItem.stages.0.description>
+  <VTE_CouldNotFinishItem.stages.0.label>не получается доделать</VTE_CouldNotFinishItem.stages.0.label>
+  <VTE_CouldNotFinishItem.stages.0.description>Закончить работу не удалось: всё шло как-то не так.</VTE_CouldNotFinishItem.stages.0.description>
+  <VTE_PassionateCleaningWork.stages.0.label>энтузиазм чистюли</VTE_PassionateCleaningWork.stages.0.label>
+  <VTE_PassionateCleaningWork.stages.0.description>Мне нравится приводить в порядок это место!</VTE_PassionateCleaningWork.stages.0.description>
+  <VTE_MyRivalsAreAlive.stages.0.label>враги живы</VTE_MyRivalsAreAlive.stages.0.label>
+  <VTE_MyRivalsAreAlive.stages.0.description>Ненавижу их. Почему они продолжают жить?</VTE_MyRivalsAreAlive.stages.0.description>
+  <VTE_MechanoidIsKilled.stages.0.label>механоид уничтожен</VTE_MechanoidIsKilled.stages.0.label>
+  <VTE_MechanoidIsKilled.stages.0.description>Эти злые машины не заслуживают существования.</VTE_MechanoidIsKilled.stages.0.description>
+  <VTE_ObservedManyBlood.stages.0.label>слишком много крови</VTE_ObservedManyBlood.stages.0.label>
+  <VTE_ObservedManyBlood.stages.0.description>Столько крови и ошмётков. От одного воспоминания тошнит.</VTE_ObservedManyBlood.stages.0.description>
+  <VTE_WatchedTelevisor.stages.0.label>просмотр телевизора</VTE_WatchedTelevisor.stages.0.label>
+  <VTE_WatchedTelevisor.stages.0.description>Удалось поваляться без дела и посмотреть пропущенные передачи.</VTE_WatchedTelevisor.stages.0.description>
+  <VTE_NoDedicatedLaboratory.stages.0.label>нет отдельной лаборатории</VTE_NoDedicatedLaboratory.stages.0.label>
+  <VTE_NoDedicatedLaboratory.stages.0.description>Мне негде спокойно заниматься исследованиями. Как же это раздражает.</VTE_NoDedicatedLaboratory.stages.0.description>
+  <VTE_AnimalsInColony.stages.0.label>в поселении нет животных</VTE_AnimalsInColony.stages.0.label>
+  <VTE_AnimalsInColony.stages.0.description>У нас совсем нет животных.</VTE_AnimalsInColony.stages.0.description>
+  <VTE_AnimalsInColony.stages.1.label>в поселении почти нет животных</VTE_AnimalsInColony.stages.1.label>
+  <VTE_AnimalsInColony.stages.1.description>У нас почти нет животных, это отстой.</VTE_AnimalsInColony.stages.1.description>
+  <VTE_AnimalsInColony.stages.2.label>в поселении почти нет животных</VTE_AnimalsInColony.stages.2.label>
+  <VTE_AnimalsInColony.stages.2.description>Животных в поселении почти нет. Ну, хоть что-то.</VTE_AnimalsInColony.stages.2.description>
+  <VTE_AnimalsInColony.stages.3.label>в поселении почти нет животных</VTE_AnimalsInColony.stages.3.label>
+  <VTE_AnimalsInColony.stages.3.description>Животных в поселении почти нет. Ну, хоть что-то.</VTE_AnimalsInColony.stages.3.description>
+  <VTE_AnimalsInColony.stages.4.label>в поселении немного животных</VTE_AnimalsInColony.stages.4.label>
+  <VTE_AnimalsInColony.stages.4.description>У нас в поселении есть несколько животных. Это приятно.</VTE_AnimalsInColony.stages.4.description>
+  <VTE_AnimalsInColony.stages.5.label>в поселении немного животных</VTE_AnimalsInColony.stages.5.label>
+  <VTE_AnimalsInColony.stages.5.description>У нас в поселении есть несколько животных. Это приятно.</VTE_AnimalsInColony.stages.5.description>
+  <VTE_AnimalsInColony.stages.6.label>в поселении несколько животных</VTE_AnimalsInColony.stages.6.label>
+  <VTE_AnimalsInColony.stages.6.description>У нас есть несколько животных, это радует.</VTE_AnimalsInColony.stages.6.description>
+  <VTE_AnimalsInColony.stages.7.label>в поселении несколько животных</VTE_AnimalsInColony.stages.7.label>
+  <VTE_AnimalsInColony.stages.7.description>У нас есть несколько животных, это радует.</VTE_AnimalsInColony.stages.7.description>
+  <VTE_AnimalsInColony.stages.8.label>в поселении несколько животных</VTE_AnimalsInColony.stages.8.label>
+  <VTE_AnimalsInColony.stages.8.description>У нас есть несколько животных, это хорошо.</VTE_AnimalsInColony.stages.8.description>
+  <VTE_AnimalsInColony.stages.9.label>в поселении несколько животных</VTE_AnimalsInColony.stages.9.label>
+  <VTE_AnimalsInColony.stages.9.description>Животных у нас уже немало. Дело идёт.</VTE_AnimalsInColony.stages.9.description>
+  <VTE_AnimalsInColony.stages.10.label>в поселении много животных</VTE_AnimalsInColony.stages.10.label>
+  <VTE_AnimalsInColony.stages.10.description>Теперь в поселении много животных. Они чудесные.</VTE_AnimalsInColony.stages.10.description>
+  <VTE_AnimalsInColony.stages.11.label>в поселении много животных</VTE_AnimalsInColony.stages.11.label>
+  <VTE_AnimalsInColony.stages.11.description>Теперь в поселении много животных. Они чудесные.</VTE_AnimalsInColony.stages.11.description>
+  <VTE_AnimalsInColony.stages.12.label>в поселении много животных</VTE_AnimalsInColony.stages.12.label>
+  <VTE_AnimalsInColony.stages.12.description>Теперь в поселении много животных. Они чудесные.</VTE_AnimalsInColony.stages.12.description>
+  <VTE_AnimalsInColony.stages.13.label>в поселении стада животных</VTE_AnimalsInColony.stages.13.label>
+  <VTE_AnimalsInColony.stages.13.description>Как же много у нас теперь животных! Смотреть на них — такое счастье.</VTE_AnimalsInColony.stages.13.description>
+  <VTE_AnimalsInColony.stages.14.label>в поселении стада животных</VTE_AnimalsInColony.stages.14.label>
+  <VTE_AnimalsInColony.stages.14.description>Как же много у нас теперь животных! Смотреть на них — такое счастье.</VTE_AnimalsInColony.stages.14.description>
+  <VTE_AnimalsInColony.stages.15.label>в поселении стада животных</VTE_AnimalsInColony.stages.15.label>
+  <VTE_AnimalsInColony.stages.15.description>Как же много у нас теперь животных! Смотреть на них — такое счастье.</VTE_AnimalsInColony.stages.15.description>
+  <VTE_ChildOfSea.stages.0.label>любитель моря</VTE_ChildOfSea.stages.0.label>
+  <VTE_ChildOfSea.stages.0.description>Мне очень нравится быть рядом с океаном и реками. Вода прекрасна.</VTE_ChildOfSea.stages.0.description>
+  <VTE_ChildOfMountain.stages.0.label>любитель гор</VTE_ChildOfMountain.stages.0.label>
+  <VTE_ChildOfMountain.stages.0.description>Мне очень нравится быть рядом с горами. От них захватывает дух.</VTE_ChildOfMountain.stages.0.description>
+  <VTE_HaventHarvestedOrgansForLongTime.stages.0.label>органы не собраны</VTE_HaventHarvestedOrgansForLongTime.stages.0.label>
+  <VTE_HaventHarvestedOrgansForLongTime.stages.0.description>Я теряю терпение. Мне нужно больше подопытных.</VTE_HaventHarvestedOrgansForLongTime.stages.0.description>
+  <VTE_HarvestedOrgans.stages.0.label>органы собраны</VTE_HarvestedOrgans.stages.0.label>
+  <VTE_HarvestedOrgans.stages.0.description>Операция прошла по плану, моя коллекция расширилась.</VTE_HarvestedOrgans.stages.0.description>
+  <VTE_HaventExitedColonyForLongTime.stages.0.label>заперт в поселении</VTE_HaventExitedColonyForLongTime.stages.0.label>
+  <VTE_HaventExitedColonyForLongTime.stages.0.description>Я уже давно никуда не выбираюсь из дома. Так хочется для разнообразия отправиться в путешествие.</VTE_HaventExitedColonyForLongTime.stages.0.description>
+  <VTE_SoakingWetChildOfTheSea.stages.0.label>{PAWN_gender ? Промок : Промокла}</VTE_SoakingWetChildOfTheSea.stages.0.label>
+  <VTE_SoakingWetChildOfTheSea.stages.0.description>Меня насквозь промочило. Обожаю это.</VTE_SoakingWetChildOfTheSea.stages.0.description>
+  <VTE_EnvironmentDark.stages.0.label>темно</VTE_EnvironmentDark.stages.0.label>
+  <VTE_EnvironmentDark.stages.0.description>Я уже какое-то время в темноте. Мне нравится.</VTE_EnvironmentDark.stages.0.description>
+  <VTE_Dunce.stages.0.label>отсталый</VTE_Dunce.stages.0.label>
+  <VTE_Dunce.stages.0.description>Не понимаю, почему все постоянно чем-то расстроены.</VTE_Dunce.stages.0.description>
+</LanguageData>

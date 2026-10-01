@@ -1,0 +1,235 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <NL_FA_Core_GeneralSettings>Основные настройки</NL_FA_Core_GeneralSettings>
+  <NL_FA_Force_No-Cache>Отключить кэширование</NL_FA_Force_No-Cache>
+  <NL_FA_Force_No-Cache_Hint>Отключите этот параметр при конфликтах с другими модами, принудительно обновляющими графику.</NL_FA_Force_No-Cache_Hint>
+  <NL_FA_Enable_Facial_Animation_in_Portraits>Анимировать лица на портретах</NL_FA_Enable_Facial_Animation_in_Portraits>
+  <NL_FA_Enable_Facial_Animation_in_Portraits_Hint>Если игра замедляется, увеличьте интервал обновления или отключите анимацию портретов.</NL_FA_Enable_Facial_Animation_in_Portraits_Hint>
+  <NL_FA_Update_Interval>Интервал обновления в тиках: {0}</NL_FA_Update_Interval>
+  <NL_FA_Draw_Settings>Отрисовка</NL_FA_Draw_Settings>
+  <NL_FA_Switch_Left_And_Right_Eyes>Поменять местами левый и правый глаз</NL_FA_Switch_Left_And_Right_Eyes>
+  <NL_FA_Switch_Left_And_Right_Eyes_Hint>Исправляет перепутанное расположение шрамов на левом и правом глазу.</NL_FA_Switch_Left_And_Right_Eyes_Hint>
+  <NL_FA_Disable_Eye_Attachment>Скрывать стандартные текстуры поверх глаз</NL_FA_Disable_Eye_Attachment>
+  <NL_FA_Disable_Eye_Attachment_Hint>Скрывает стандартные текстуры, перекрывающие глаза Facial Animation.</NL_FA_Disable_Eye_Attachment_Hint>
+  <NL_FA_Draw_the_eyebrows_above_the_hat>Рисовать брови поверх головных уборов</NL_FA_Draw_the_eyebrows_above_the_hat>
+  <NL_FA_Draw_the_eyebrows_above_the_hat_Hint>Брови будут видны поверх головного убора.</NL_FA_Draw_the_eyebrows_above_the_hat_Hint>
+  <NL_FA_Core_GeneSettings>Внешность, заданная генами</NL_FA_Core_GeneSettings>
+  <NL_FA_Draw_face_type_for_genes>Особые черты лица от генов</NL_FA_Draw_face_type_for_genes>
+  <NL_FA_Draw_face_type_for_genes_Hint>Добавляет особые части лица для поддерживаемых генов.</NL_FA_Draw_face_type_for_genes_Hint>
+  <NL_FA_Draw_the_gene_parts>Стандартные части лица от генов (экспериментально)</NL_FA_Draw_the_gene_parts>
+  <NL_FA_Draw_the_gene_parts_Hint>Отображает заданные генами части лица из основной игры. Экспериментальная настройка.</NL_FA_Draw_the_gene_parts_Hint>
+  <NL_FA_Draw_the_Headbone_parts>Костные наросты на голове</NL_FA_Draw_the_Headbone_parts>
+  <NL_FA_Draw_the_Headbone_parts_Hint>Отображает костные наросты, заданные генами. Экспериментальная настройка.</NL_FA_Draw_the_Headbone_parts_Hint>
+  <NL_FA_Draw_the_Ears_parts>Уши</NL_FA_Draw_the_Ears_parts>
+  <NL_FA_Draw_the_Ears_parts_Hint>Отображает уши, заданные генами. Экспериментальная настройка.</NL_FA_Draw_the_Ears_parts_Hint>
+  <NL_FA_Draw_the_Eyes_parts>Глаза</NL_FA_Draw_the_Eyes_parts>
+  <NL_FA_Draw_the_Eyes_parts_Hint>Отображает глаза, заданные генами. Экспериментальная настройка.</NL_FA_Draw_the_Eyes_parts_Hint>
+  <NL_FA_Draw_the_Nose_parts>Нос</NL_FA_Draw_the_Nose_parts>
+  <NL_FA_Draw_the_Nose_parts_Hint>Отображает нос, заданный генами. Экспериментальная настройка.</NL_FA_Draw_the_Nose_parts_Hint>
+  <NL_FA_Core_RaceSettings>Расы и ксенотипы</NL_FA_Core_RaceSettings>
+  <NL_FA_Core_RaceSettings_Hint>Позволяет отключать Facial Animation для отдельных рас и ксенотипов.</NL_FA_Core_RaceSettings_Hint>
+  <NL_FA_Core_RaceSelector>Выберите расу</NL_FA_Core_RaceSelector>
+  <NL_FA_Core_RaceSelector_Hint>Снимите отметку, чтобы отключить Facial Animation для выбранного сочетания расы и ксенотипа.</NL_FA_Core_RaceSelector_Hint>
+  <NL_FA_Animation_Settings>Анимация</NL_FA_Animation_Settings>
+  <NL_FA_Enable_Male_Drawing>Головы Facial Animation для мужчин</NL_FA_Enable_Male_Drawing>
+  <NL_FA_Enable_Male_Drawing_Hint>Использовать головы Facial Animation для мужских персонажей.</NL_FA_Enable_Male_Drawing_Hint>
+  <NL_FA_Enable_Female_Drawing>Головы Facial Animation для женщин</NL_FA_Enable_Female_Drawing>
+  <NL_FA_Enable_Female_Drawing_Hint>Использовать головы Facial Animation для женских персонажей.</NL_FA_Enable_Female_Drawing_Hint>
+  <NL_FA_Enable_Neither_Drawing>Головы Facial Animation для бесполых персонажей</NL_FA_Enable_Neither_Drawing>
+  <NL_FA_Enable_Neither_Drawing_Hint>Использовать головы Facial Animation для персонажей без пола.</NL_FA_Enable_Neither_Drawing_Hint>
+  <NL_FA_Enable_Facial_Animation_For_All_Pawns>Анимировать лица персонажей</NL_FA_Enable_Facial_Animation_For_All_Pawns>
+  <NL_FA_Enable_Facial_Animation_For_All_Pawns_Hint>Если выключено, лица остаются неподвижными, но их внешность можно менять. Отключение анимации снижает нагрузку.</NL_FA_Enable_Facial_Animation_For_All_Pawns_Hint>
+  <NL_FA_Enable_Facial_Animation_For_Non_Colonists>Анимировать лица персонажей вне колонии</NL_FA_Enable_Facial_Animation_For_Non_Colonists>
+  <NL_FA_Enable_Facial_Animation_For_Non_Colonists_Hint>Если выключено, лица персонажей, не входящих в колонию, остаются неподвижными. Это снижает нагрузку от анимации.</NL_FA_Enable_Facial_Animation_For_Non_Colonists_Hint>
+  <NL_FA_Remove_Eye_Hediff_Graphic>Скрывать изображения болезней и имплантов глаз</NL_FA_Remove_Eye_Hediff_Graphic>
+  <NL_FA_Remove_Eye_Hediff_Graphic_Hint>Скрывает изображения поверх глаз, в том числе признаки слепоты, глазные сенсоры и архотек-глаза.</NL_FA_Remove_Eye_Hediff_Graphic_Hint>
+  <NL_FA_Ignore_beard_mesh_and_offset>Исправлять смещение бороды (экспериментально)</NL_FA_Ignore_beard_mesh_and_offset>
+  <NL_FA_Ignore_beard_mesh_and_offset_Hint>Игнорирует заданные размер и смещение сетки бороды.</NL_FA_Ignore_beard_mesh_and_offset_Hint>
+  <NL_FA_Ignore_hair_mesh>Исправлять смещение волос (экспериментально)</NL_FA_Ignore_hair_mesh>
+  <NL_FA_Ignore_hair_mesh_Hint>Игнорирует заданный размер сетки волос.</NL_FA_Ignore_hair_mesh_Hint>
+  <NL_FA_Odd_Eye_Probability>Вероятность разных цветов глаз: {0} %</NL_FA_Odd_Eye_Probability>
+  <NL_FA_Enable_MainTab>Кнопка редактора на основной панели</NL_FA_Enable_MainTab>
+  <NL_FA_Enable_MainTab_Hint>Если выключено, кнопка редактора Facial Animation скрыта с основной панели.</NL_FA_Enable_MainTab_Hint>
+  <NL_FA_UI_Head_Label>Голова</NL_FA_UI_Head_Label>
+  <NL_FA_UI_Brow_Label>Брови</NL_FA_UI_Brow_Label>
+  <NL_FA_UI_Lid_Label>Веки</NL_FA_UI_Lid_Label>
+  <NL_FA_UI_Eyeball_Label>Глаза</NL_FA_UI_Eyeball_Label>
+  <NL_FA_UI_Mouth_Label>Рот</NL_FA_UI_Mouth_Label>
+  <NL_FA_UI_Skin_Label>Кожа</NL_FA_UI_Skin_Label>
+  <NL_FA_UI_HairType_Label>Волосы</NL_FA_UI_HairType_Label>
+  <NL_FA_UI_BodyType_Label>Телосложение</NL_FA_UI_BodyType_Label>
+  <NL_FA_UI_HeadType_Label>Форма головы</NL_FA_UI_HeadType_Label>
+  <NL_FA_UI_AnimationController_Label>Управление анимацией</NL_FA_UI_AnimationController_Label>
+  <NL_FA_UI_Support_Label>Поддерживается</NL_FA_UI_Support_Label>
+  <NL_FA_UI_Not_Support_Label>Не поддерживается</NL_FA_UI_Not_Support_Label>
+  <NL_FA_UI_Status_Simulation_Label>Имитация состояния</NL_FA_UI_Status_Simulation_Label>
+  <NL_FA_Enable_dark_skin_shader>Убирать красный оттенок тёмной кожи</NL_FA_Enable_dark_skin_shader>
+  <NL_FA_Enable_dark_skin_shader_Hint>Стандартное затенение иногда придаёт тёмной коже красноватый оттенок. Этот параметр применяет к ней тот же способ обработки, что и к коже ксенолюдей. Требуется перезапуск игры.</NL_FA_Enable_dark_skin_shader_Hint>
+  <NL_FA_dark_skin_threshold>Порог яркости: {0} %</NL_FA_dark_skin_threshold>
+  <chupakobra6_1635901197_Def_NOT_Skin>Без слоя кожи</chupakobra6_1635901197_Def_NOT_Skin>
+  <chupakobra6_1635901197_Def_NOT_Eyes>Без глаз</chupakobra6_1635901197_Def_NOT_Eyes>
+  <chupakobra6_1635901197_Def_NOT_Head>Без головы</chupakobra6_1635901197_Def_NOT_Head>
+  <chupakobra6_1635901197_Def_NOT_Mouth>Без рта</chupakobra6_1635901197_Def_NOT_Mouth>
+  <chupakobra6_1635901197_Def_NOT_Lid>Без век</chupakobra6_1635901197_Def_NOT_Lid>
+  <chupakobra6_1635901197_Def_NOT_Brow>Без бровей</chupakobra6_1635901197_Def_NOT_Brow>
+  <chupakobra6_1635901197_Def_BrowNormal>Обычные брови</chupakobra6_1635901197_Def_BrowNormal>
+  <chupakobra6_1635901197_Def_EmotionNormal>Обычные эмоции</chupakobra6_1635901197_Def_EmotionNormal>
+  <chupakobra6_1635901197_Def_EyeNormal>Обычные глаза</chupakobra6_1635901197_Def_EyeNormal>
+  <chupakobra6_1635901197_Def_LidNormal>Обычные веки</chupakobra6_1635901197_Def_LidNormal>
+  <chupakobra6_1635901197_Def_MouthNormal>Обычный рот</chupakobra6_1635901197_Def_MouthNormal>
+  <chupakobra6_1635901197_Def_SkinNormal>Обычная кожа</chupakobra6_1635901197_Def_SkinNormal>
+  <chupakobra6_1635901197_Def_BrowWide>Широкие брови</chupakobra6_1635901197_Def_BrowWide>
+  <chupakobra6_1635901197_Def_BrowMighty>Густые брови</chupakobra6_1635901197_Def_BrowMighty>
+  <chupakobra6_1635901197_Def_EyeColored>Цветные глаза</chupakobra6_1635901197_Def_EyeColored>
+  <chupakobra6_1635901197_Def_EyeColoredDeep>Насыщенный цвет глаз</chupakobra6_1635901197_Def_EyeColoredDeep>
+  <chupakobra6_1635901197_Def_EyeInverted>Инвертированные цвета глаз</chupakobra6_1635901197_Def_EyeInverted>
+  <chupakobra6_1635901197_Def_EyeBionicLeft>Бионический левый глаз</chupakobra6_1635901197_Def_EyeBionicLeft>
+  <chupakobra6_1635901197_Def_EyeBionicRight>Бионический правый глаз</chupakobra6_1635901197_Def_EyeBionicRight>
+  <chupakobra6_1635901197_Def_EyeVampireCat>Кошачьи глаза вампира</chupakobra6_1635901197_Def_EyeVampireCat>
+  <chupakobra6_1635901197_Def_EyeStar>Звёздчатые зрачки</chupakobra6_1635901197_Def_EyeStar>
+  <chupakobra6_1635901197_Def_HeadNormal>Обычная голова</chupakobra6_1635901197_Def_HeadNormal>
+  <chupakobra6_1635901197_Def_HeadNormalPointy>Обычная голова, острый подбородок</chupakobra6_1635901197_Def_HeadNormalPointy>
+  <chupakobra6_1635901197_Def_HeadNormalWide>Обычная голова, широкое лицо</chupakobra6_1635901197_Def_HeadNormalWide>
+  <chupakobra6_1635901197_Def_HeadNarrow>Узкая голова</chupakobra6_1635901197_Def_HeadNarrow>
+  <chupakobra6_1635901197_Def_HeadNarrowPointy>Узкая голова, острый подбородок</chupakobra6_1635901197_Def_HeadNarrowPointy>
+  <chupakobra6_1635901197_Def_HeadNarrowWide>Узкая голова, широкое лицо</chupakobra6_1635901197_Def_HeadNarrowWide>
+  <chupakobra6_1635901197_Def_LidStuffed>Тяжёлые веки</chupakobra6_1635901197_Def_LidStuffed>
+  <chupakobra6_1635901197_Def_LidWide>Широко раскрытые веки</chupakobra6_1635901197_Def_LidWide>
+  <chupakobra6_1635901197_Def_LidAccentuated>Выразительные веки</chupakobra6_1635901197_Def_LidAccentuated>
+  <chupakobra6_1635901197_Def_SkinFreckles>Веснушки</chupakobra6_1635901197_Def_SkinFreckles>
+  <chupakobra6_1635901197_Def_SkinNoseScar>Шрам на носу</chupakobra6_1635901197_Def_SkinNoseScar>
+  <chupakobra6_1635901197_Def_SkinEyeScarRight>Шрам у правого глаза</chupakobra6_1635901197_Def_SkinEyeScarRight>
+  <chupakobra6_1635901197_Def_SkinEyeScarLeft>Шрам у левого глаза</chupakobra6_1635901197_Def_SkinEyeScarLeft>
+  <chupakobra6_1635901197_Def_SkinAngryFace>Сердитое лицо</chupakobra6_1635901197_Def_SkinAngryFace>
+  <chupakobra6_1635901197_Def_SkinBags>Мешки под глазами</chupakobra6_1635901197_Def_SkinBags>
+  <chupakobra6_1635901197_Def_SkinLines>Морщины</chupakobra6_1635901197_Def_SkinLines>
+  <chupakobra6_1635901197_Def_SkinScar>Шрам на лице</chupakobra6_1635901197_Def_SkinScar>
+  <chupakobra6_1635901197_Def_SkinCheeks>Выраженные щёки</chupakobra6_1635901197_Def_SkinCheeks>
+  <chupakobra6_1635901197_Def_SkinBeauty>Красивое лицо</chupakobra6_1635901197_Def_SkinBeauty>
+  <chupakobra6_1635901197_Def_Gaunt>Измождённое лицо</chupakobra6_1635901197_Def_Gaunt>
+  <chupakobra6_1635901197_Def_HeavyJaw>Тяжёлая челюсть</chupakobra6_1635901197_Def_HeavyJaw>
+  <chupakobra6_1635901197_Def_Biotech_Eyes_Gray>Серые глаза</chupakobra6_1635901197_Def_Biotech_Eyes_Gray>
+  <chupakobra6_1635901197_Def_Biotech_Eyes_Red>Красные глаза</chupakobra6_1635901197_Def_Biotech_Eyes_Red>
+  <chupakobra6_1635901197_Def_AGFA_Slug_Brow>Брови слизняка</chupakobra6_1635901197_Def_AGFA_Slug_Brow>
+  <chupakobra6_1635901197_Def_ForsakenBrow>Брови забытых</chupakobra6_1635901197_Def_ForsakenBrow>
+  <chupakobra6_1635901197_Def_AGFA_Slug_Eye>Глаза слизняка</chupakobra6_1635901197_Def_AGFA_Slug_Eye>
+  <chupakobra6_1635901197_Def_AGFA_Forsaken_Eye>Глаза забытых</chupakobra6_1635901197_Def_AGFA_Forsaken_Eye>
+  <chupakobra6_1635901197_Def_AGFA_Forsaken_Lid>Веки забытых</chupakobra6_1635901197_Def_AGFA_Forsaken_Lid>
+  <chupakobra6_1635901197_Def_AGFA_Slug_Lid>Веки слизняка</chupakobra6_1635901197_Def_AGFA_Slug_Lid>
+  <chupakobra6_1635901197_Def_AGFA_Slug_Normal_Head>Голова слизняка</chupakobra6_1635901197_Def_AGFA_Slug_Normal_Head>
+  <chupakobra6_1635901197_Def_AGFA_Slug_Wide_Head>Широкая голова слизняка</chupakobra6_1635901197_Def_AGFA_Slug_Wide_Head>
+  <chupakobra6_1635901197_Def_AGFA_Fox_Invisible_Mouth>Лисье лицо: отдельный рот скрыт</chupakobra6_1635901197_Def_AGFA_Fox_Invisible_Mouth>
+  <chupakobra6_1635901197_Def_AGFA_Drakonori_Invisible_Mouth>Голова драконори: отдельный рот скрыт</chupakobra6_1635901197_Def_AGFA_Drakonori_Invisible_Mouth>
+  <chupakobra6_1635901197_Def_AGFA_Drakonori_Mouth>Рот драконори</chupakobra6_1635901197_Def_AGFA_Drakonori_Mouth>
+  <chupakobra6_1635901197_Def_AGFA_Nereid_Invisible_Mouth>Голова нереиды: отдельный рот скрыт</chupakobra6_1635901197_Def_AGFA_Nereid_Invisible_Mouth>
+  <chupakobra6_1635901197_Def_FurCoveredGaunt>Измождённое лицо с мехом</chupakobra6_1635901197_Def_FurCoveredGaunt>
+  <chupakobra6_1635901197_Def_HeadPointy>Голова с острым подбородком</chupakobra6_1635901197_Def_HeadPointy>
+  <chupakobra6_1635901197_Def_HeadSquare>Квадратная голова</chupakobra6_1635901197_Def_HeadSquare>
+  <chupakobra6_1635901197_Def_SkinRightEye>Отметина у правого глаза</chupakobra6_1635901197_Def_SkinRightEye>
+  <chupakobra6_1635901197_Def_SkinLeftChin>Отметина слева на подбородке</chupakobra6_1635901197_Def_SkinLeftChin>
+  <chupakobra6_1635901197_Def_EyeWide>Широкие глаза</chupakobra6_1635901197_Def_EyeWide>
+  <chupakobra6_1635901197_Def_EyePointy>Заострённые глаза</chupakobra6_1635901197_Def_EyePointy>
+  <chupakobra6_1635901197_Def_EyeDull>Тусклые глаза</chupakobra6_1635901197_Def_EyeDull>
+  <chupakobra6_1635901197_Def_LidPointy>Заострённые веки</chupakobra6_1635901197_Def_LidPointy>
+  <chupakobra6_1635901197_Def_LidFlashy>Броские веки</chupakobra6_1635901197_Def_LidFlashy>
+  <chupakobra6_1635901197_Def_LidQuite>Спокойные веки</chupakobra6_1635901197_Def_LidQuite>
+  <chupakobra6_1635901197_Def_LidSleepy>Сонные веки</chupakobra6_1635901197_Def_LidSleepy>
+  <chupakobra6_1635901197_Def_Skull>Череп</chupakobra6_1635901197_Def_Skull>
+  <chupakobra6_1635901197_Def_Stump>Обрубок шеи</chupakobra6_1635901197_Def_Stump>
+  <chupakobra6_1635901197_Def_Male>Мужское телосложение</chupakobra6_1635901197_Def_Male>
+  <chupakobra6_1635901197_Def_Female>Женское телосложение</chupakobra6_1635901197_Def_Female>
+  <chupakobra6_1635901197_Def_Thin>Худое телосложение</chupakobra6_1635901197_Def_Thin>
+  <chupakobra6_1635901197_Def_Fat>Полное телосложение</chupakobra6_1635901197_Def_Fat>
+  <chupakobra6_1635901197_Def_Hulk>Мускулистое телосложение</chupakobra6_1635901197_Def_Hulk>
+  <chupakobra6_1635901197_Def_Baby>Телосложение младенца</chupakobra6_1635901197_Def_Baby>
+  <chupakobra6_1635901197_Def_Child>Детское телосложение</chupakobra6_1635901197_Def_Child>
+  <chupakobra6_1635901197_Def_FurCoveredAverage1>Обычное лицо с мехом — 1</chupakobra6_1635901197_Def_FurCoveredAverage1>
+  <chupakobra6_1635901197_Def_FurCoveredHeavyJaw1>Тяжёлая челюсть с мехом — 1</chupakobra6_1635901197_Def_FurCoveredHeavyJaw1>
+  <chupakobra6_1635901197_Def_FurCoveredAverage2>Обычное лицо с мехом — 2</chupakobra6_1635901197_Def_FurCoveredAverage2>
+  <chupakobra6_1635901197_Def_FurCoveredHeavyJaw2>Тяжёлая челюсть с мехом — 2</chupakobra6_1635901197_Def_FurCoveredHeavyJaw2>
+  <chupakobra6_1635901197_Def_FurCoveredAverage3>Обычное лицо с мехом — 3</chupakobra6_1635901197_Def_FurCoveredAverage3>
+  <chupakobra6_1635901197_Def_FurCoveredHeavyJaw3>Тяжёлая челюсть с мехом — 3</chupakobra6_1635901197_Def_FurCoveredHeavyJaw3>
+  <chupakobra6_1635901197_Def_AGFA_Eyeless_Female_Normal_Head>Голова для глаз фералиска, женская: обычное лицо</chupakobra6_1635901197_Def_AGFA_Eyeless_Female_Normal_Head>
+  <chupakobra6_1635901197_Def_AGFA_Fox_Female_Normal_Head>Лисья голова, женская: обычное лицо</chupakobra6_1635901197_Def_AGFA_Fox_Female_Normal_Head>
+  <chupakobra6_1635901197_Def_AGFA_Silver_Female_Normal_Head>Серебристая голова, женская: обычное лицо</chupakobra6_1635901197_Def_AGFA_Silver_Female_Normal_Head>
+  <chupakobra6_1635901197_Def_AGFA_Golden_Female_Normal_Head>Золотистая голова, женская: обычное лицо</chupakobra6_1635901197_Def_AGFA_Golden_Female_Normal_Head>
+  <chupakobra6_1635901197_Def_AGFA_TrueBlack_Female_Normal_Head>Насыщенно-чёрная голова, женская: обычное лицо</chupakobra6_1635901197_Def_AGFA_TrueBlack_Female_Normal_Head>
+  <chupakobra6_1635901197_Def_Female_AverageNormal>Голова женская, обычная: обычное лицо</chupakobra6_1635901197_Def_Female_AverageNormal>
+  <chupakobra6_1635901197_Def_Female_NarrowNormal>Голова женская, узкая: обычное лицо</chupakobra6_1635901197_Def_Female_NarrowNormal>
+  <chupakobra6_1635901197_Def_AGFA_Eyeless_Female_Pointy_Head>Голова для глаз фералиска, женская: острый подбородок</chupakobra6_1635901197_Def_AGFA_Eyeless_Female_Pointy_Head>
+  <chupakobra6_1635901197_Def_AGFA_Fox_Female_Pointy_Head>Лисья голова, женская: острый подбородок</chupakobra6_1635901197_Def_AGFA_Fox_Female_Pointy_Head>
+  <chupakobra6_1635901197_Def_AGFA_Silver_Female_Pointy_Head>Серебристая голова, женская: острый подбородок</chupakobra6_1635901197_Def_AGFA_Silver_Female_Pointy_Head>
+  <chupakobra6_1635901197_Def_AGFA_Golden_Female_Pointy_Head>Золотистая голова, женская: острый подбородок</chupakobra6_1635901197_Def_AGFA_Golden_Female_Pointy_Head>
+  <chupakobra6_1635901197_Def_AGFA_TrueBlack_Female_Pointy_Head>Насыщенно-чёрная голова, женская: острый подбородок</chupakobra6_1635901197_Def_AGFA_TrueBlack_Female_Pointy_Head>
+  <chupakobra6_1635901197_Def_Female_AveragePointy>Голова женская, обычная: острый подбородок</chupakobra6_1635901197_Def_Female_AveragePointy>
+  <chupakobra6_1635901197_Def_Female_NarrowPointy>Голова женская, узкая: острый подбородок</chupakobra6_1635901197_Def_Female_NarrowPointy>
+  <chupakobra6_1635901197_Def_AGFA_Eyeless_Female_Wide_Head>Голова для глаз фералиска, женская: широкое лицо</chupakobra6_1635901197_Def_AGFA_Eyeless_Female_Wide_Head>
+  <chupakobra6_1635901197_Def_AGFA_Fox_Female_Wide_Head>Лисья голова, женская: широкое лицо</chupakobra6_1635901197_Def_AGFA_Fox_Female_Wide_Head>
+  <chupakobra6_1635901197_Def_AGFA_Silver_Female_Wide_Head>Серебристая голова, женская: широкое лицо</chupakobra6_1635901197_Def_AGFA_Silver_Female_Wide_Head>
+  <chupakobra6_1635901197_Def_AGFA_Golden_Female_Wide_Head>Золотистая голова, женская: широкое лицо</chupakobra6_1635901197_Def_AGFA_Golden_Female_Wide_Head>
+  <chupakobra6_1635901197_Def_AGFA_TrueBlack_Female_Wide_Head>Насыщенно-чёрная голова, женская: широкое лицо</chupakobra6_1635901197_Def_AGFA_TrueBlack_Female_Wide_Head>
+  <chupakobra6_1635901197_Def_Female_AverageWide>Голова женская, обычная: широкое лицо</chupakobra6_1635901197_Def_Female_AverageWide>
+  <chupakobra6_1635901197_Def_Female_NarrowWide>Голова женская, узкая: широкое лицо</chupakobra6_1635901197_Def_Female_NarrowWide>
+  <chupakobra6_1635901197_Def_AGFA_Terato_Female_Normal_Head>Голова с опухолями, женская: обычное лицо</chupakobra6_1635901197_Def_AGFA_Terato_Female_Normal_Head>
+  <chupakobra6_1635901197_Def_AGFA_Terato_Female_Melting_Head>Голова с опухолями, женская: оплывшее лицо</chupakobra6_1635901197_Def_AGFA_Terato_Female_Melting_Head>
+  <chupakobra6_1635901197_Def_AGFA_Drakonori_Female_Head>Голова драконори, женская</chupakobra6_1635901197_Def_AGFA_Drakonori_Female_Head>
+  <chupakobra6_1635901197_Def_AGFA_VeryGaunt_Female_Head>Голова крайне измождённая, женская</chupakobra6_1635901197_Def_AGFA_VeryGaunt_Female_Head>
+  <chupakobra6_1635901197_Def_AGFA_Nereid_Female_Head>Голова нереиды, женская</chupakobra6_1635901197_Def_AGFA_Nereid_Female_Head>
+  <chupakobra6_1635901197_Def_Female_HeavyJawNormal>Голова женская: тяжёлая челюсть</chupakobra6_1635901197_Def_Female_HeavyJawNormal>
+  <chupakobra6_1635901197_Def_AGFA_Eyeless_Male_Normal_Head>Голова для глаз фералиска, мужская: обычное лицо</chupakobra6_1635901197_Def_AGFA_Eyeless_Male_Normal_Head>
+  <chupakobra6_1635901197_Def_AGFA_Fox_Male_Normal_Head>Лисья голова, мужская: обычное лицо</chupakobra6_1635901197_Def_AGFA_Fox_Male_Normal_Head>
+  <chupakobra6_1635901197_Def_AGFA_Silver_Male_Normal_Head>Серебристая голова, мужская: обычное лицо</chupakobra6_1635901197_Def_AGFA_Silver_Male_Normal_Head>
+  <chupakobra6_1635901197_Def_AGFA_Golden_Male_Normal_Head>Золотистая голова, мужская: обычное лицо</chupakobra6_1635901197_Def_AGFA_Golden_Male_Normal_Head>
+  <chupakobra6_1635901197_Def_AGFA_TrueBlack_Male_Normal_Head>Насыщенно-чёрная голова, мужская: обычное лицо</chupakobra6_1635901197_Def_AGFA_TrueBlack_Male_Normal_Head>
+  <chupakobra6_1635901197_Def_Male_AverageNormal>Голова мужская, обычная: обычное лицо</chupakobra6_1635901197_Def_Male_AverageNormal>
+  <chupakobra6_1635901197_Def_Male_NarrowNormal>Голова мужская, узкая: обычное лицо</chupakobra6_1635901197_Def_Male_NarrowNormal>
+  <chupakobra6_1635901197_Def_AGFA_Eyeless_Male_Pointy_Head>Голова для глаз фералиска, мужская: острый подбородок</chupakobra6_1635901197_Def_AGFA_Eyeless_Male_Pointy_Head>
+  <chupakobra6_1635901197_Def_AGFA_Fox_Male_Pointy_Head>Лисья голова, мужская: острый подбородок</chupakobra6_1635901197_Def_AGFA_Fox_Male_Pointy_Head>
+  <chupakobra6_1635901197_Def_AGFA_Silver_Male_Pointy_Head>Серебристая голова, мужская: острый подбородок</chupakobra6_1635901197_Def_AGFA_Silver_Male_Pointy_Head>
+  <chupakobra6_1635901197_Def_AGFA_Golden_Male_Pointy_Head>Золотистая голова, мужская: острый подбородок</chupakobra6_1635901197_Def_AGFA_Golden_Male_Pointy_Head>
+  <chupakobra6_1635901197_Def_AGFA_TrueBlack_Male_Pointy_Head>Насыщенно-чёрная голова, мужская: острый подбородок</chupakobra6_1635901197_Def_AGFA_TrueBlack_Male_Pointy_Head>
+  <chupakobra6_1635901197_Def_Male_AveragePointy>Голова мужская, обычная: острый подбородок</chupakobra6_1635901197_Def_Male_AveragePointy>
+  <chupakobra6_1635901197_Def_Male_NarrowPointy>Голова мужская, узкая: острый подбородок</chupakobra6_1635901197_Def_Male_NarrowPointy>
+  <chupakobra6_1635901197_Def_AGFA_Eyeless_Male_Wide_Head>Голова для глаз фералиска, мужская: широкое лицо</chupakobra6_1635901197_Def_AGFA_Eyeless_Male_Wide_Head>
+  <chupakobra6_1635901197_Def_AGFA_Fox_Male_Wide_Head>Лисья голова, мужская: широкое лицо</chupakobra6_1635901197_Def_AGFA_Fox_Male_Wide_Head>
+  <chupakobra6_1635901197_Def_AGFA_Silver_Male_Wide_Head>Серебристая голова, мужская: широкое лицо</chupakobra6_1635901197_Def_AGFA_Silver_Male_Wide_Head>
+  <chupakobra6_1635901197_Def_AGFA_Golden_Male_Wide_Head>Золотистая голова, мужская: широкое лицо</chupakobra6_1635901197_Def_AGFA_Golden_Male_Wide_Head>
+  <chupakobra6_1635901197_Def_AGFA_TrueBlack_Male_Wide_Head>Насыщенно-чёрная голова, мужская: широкое лицо</chupakobra6_1635901197_Def_AGFA_TrueBlack_Male_Wide_Head>
+  <chupakobra6_1635901197_Def_Male_AverageWide>Голова мужская, обычная: широкое лицо</chupakobra6_1635901197_Def_Male_AverageWide>
+  <chupakobra6_1635901197_Def_Male_NarrowWide>Голова мужская, узкая: широкое лицо</chupakobra6_1635901197_Def_Male_NarrowWide>
+  <chupakobra6_1635901197_Def_AGFA_Terato_Male_Normal_Head>Голова с опухолями, мужская: обычное лицо</chupakobra6_1635901197_Def_AGFA_Terato_Male_Normal_Head>
+  <chupakobra6_1635901197_Def_AGFA_Terato_Male_Melting_Head>Голова с опухолями, мужская: оплывшее лицо</chupakobra6_1635901197_Def_AGFA_Terato_Male_Melting_Head>
+  <chupakobra6_1635901197_Def_AGFA_Drakonori_Male_Head>Голова драконори, мужская</chupakobra6_1635901197_Def_AGFA_Drakonori_Male_Head>
+  <chupakobra6_1635901197_Def_AGFA_VeryGaunt_Male_Head>Голова крайне измождённая, мужская</chupakobra6_1635901197_Def_AGFA_VeryGaunt_Male_Head>
+  <chupakobra6_1635901197_Def_AGFA_Nereid_Male_Head>Голова нереиды, мужская</chupakobra6_1635901197_Def_AGFA_Nereid_Male_Head>
+  <chupakobra6_1635901197_Def_Male_HeavyJawNormal>Голова мужская: тяжёлая челюсть</chupakobra6_1635901197_Def_Male_HeavyJawNormal>
+  <chupakobra6_1635901197_Def_Furskin_Average1>Голова с мехом, обычная — 1</chupakobra6_1635901197_Def_Furskin_Average1>
+  <chupakobra6_1635901197_Def_Furskin_Average2>Голова с мехом, обычная — 2</chupakobra6_1635901197_Def_Furskin_Average2>
+  <chupakobra6_1635901197_Def_Furskin_Average3>Голова с мехом, обычная — 3</chupakobra6_1635901197_Def_Furskin_Average3>
+  <chupakobra6_1635901197_Def_Furskin_Narrow1>Голова с мехом, узкая — 1</chupakobra6_1635901197_Def_Furskin_Narrow1>
+  <chupakobra6_1635901197_Def_Furskin_Narrow2>Голова с мехом, узкая — 2</chupakobra6_1635901197_Def_Furskin_Narrow2>
+  <chupakobra6_1635901197_Def_Furskin_Narrow3>Голова с мехом, узкая — 3</chupakobra6_1635901197_Def_Furskin_Narrow3>
+  <chupakobra6_1635901197_Def_Furskin_Heavy1>Голова с мехом, с тяжёлой челюстью — 1</chupakobra6_1635901197_Def_Furskin_Heavy1>
+  <chupakobra6_1635901197_Def_Furskin_Heavy2>Голова с мехом, с тяжёлой челюстью — 2</chupakobra6_1635901197_Def_Furskin_Heavy2>
+  <chupakobra6_1635901197_Def_Furskin_Heavy3>Голова с мехом, с тяжёлой челюстью — 3</chupakobra6_1635901197_Def_Furskin_Heavy3>
+  <chupakobra6_1635901197_Def_Furskin_Gaunt>Измождённая голова с мехом</chupakobra6_1635901197_Def_Furskin_Gaunt>
+  <chupakobra6_1635901197_Job_ConstantJob>Постоянная анимация</chupakobra6_1635901197_Job_ConstantJob>
+  <chupakobra6_1635901197_Job_AttackMelee>Ближний бой</chupakobra6_1635901197_Job_AttackMelee>
+  <chupakobra6_1635901197_Job_AttackStatic>Дальний бой</chupakobra6_1635901197_Job_AttackStatic>
+  <chupakobra6_1635901197_Job_DoBill>Выполнение поручения</chupakobra6_1635901197_Job_DoBill>
+  <chupakobra6_1635901197_Job_Goto>Перемещение</chupakobra6_1635901197_Job_Goto>
+  <chupakobra6_1635901197_Job_Ingest>Приём пищи</chupakobra6_1635901197_Job_Ingest>
+  <chupakobra6_1635901197_Job_LayDown>Отдых лёжа</chupakobra6_1635901197_Job_LayDown>
+  <chupakobra6_1635901197_Job_Lovin>Занятия любовью</chupakobra6_1635901197_Job_Lovin>
+  <chupakobra6_1635901197_Job_MLI_Jobs_MassLoveIn>Групповые занятия любовью</chupakobra6_1635901197_Job_MLI_Jobs_MassLoveIn>
+  <chupakobra6_1635901197_Job_MLI_Jobs_SingleLoveIn>Занятия любовью</chupakobra6_1635901197_Job_MLI_Jobs_SingleLoveIn>
+  <chupakobra6_1635901197_Job_Mine>Добыча породы</chupakobra6_1635901197_Job_Mine>
+  <chupakobra6_1635901197_Job_RemoveApparel>Снятие одежды</chupakobra6_1635901197_Job_RemoveApparel>
+  <chupakobra6_1635901197_Job_Research>Исследование</chupakobra6_1635901197_Job_Research>
+  <chupakobra6_1635901197_Job_SocialRelax>Общение за столом</chupakobra6_1635901197_Job_SocialRelax>
+  <chupakobra6_1635901197_Job_StandAndBeSociallyActive>Общение</chupakobra6_1635901197_Job_StandAndBeSociallyActive>
+  <chupakobra6_1635901197_Job_Strip>Раздевание персонажа</chupakobra6_1635901197_Job_Strip>
+  <chupakobra6_1635901197_Job_Wait_Combat>Ожидание в бою</chupakobra6_1635901197_Job_Wait_Combat>
+  <chupakobra6_1635901197_Job_Wait_Downed>Ожидание без возможности встать</chupakobra6_1635901197_Job_Wait_Downed>
+  <chupakobra6_1635901197_Job_Wear>Надевание одежды</chupakobra6_1635901197_Job_Wear>
+</LanguageData>

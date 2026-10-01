@@ -1,0 +1,399 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VU_Darkness_MoveSpeed_Quick_Astrogene.symbolPack.prefixSymbols.0.symbol>скоро</VU_Darkness_MoveSpeed_Quick_Astrogene.symbolPack.prefixSymbols.0.symbol>
+  <VU_Darkness_MoveSpeed_VeryQuick_Astrogene.symbolPack.prefixSymbols.0.symbol>скоро</VU_Darkness_MoveSpeed_VeryQuick_Astrogene.symbolPack.prefixSymbols.0.symbol>
+  <VU_Darkness_MoveSpeed_Quick_Astrogene.symbolPack.prefixSymbols.1.symbol>быстро</VU_Darkness_MoveSpeed_Quick_Astrogene.symbolPack.prefixSymbols.1.symbol>
+  <VU_Darkness_MoveSpeed_VeryQuick_Astrogene.symbolPack.prefixSymbols.1.symbol>быстро</VU_Darkness_MoveSpeed_VeryQuick_Astrogene.symbolPack.prefixSymbols.1.symbol>
+  <VU_Darkness_MoveSpeed_Quick_Astrogene.symbolPack.prefixSymbols.2.symbol>резво</VU_Darkness_MoveSpeed_Quick_Astrogene.symbolPack.prefixSymbols.2.symbol>
+  <VU_Darkness_MoveSpeed_VeryQuick_Astrogene.symbolPack.prefixSymbols.2.symbol>резво</VU_Darkness_MoveSpeed_VeryQuick_Astrogene.symbolPack.prefixSymbols.2.symbol>
+  <VU_Darkness_MoveSpeed_Quick_Astrogene.symbolPack.prefixSymbols.3.symbol>ловко</VU_Darkness_MoveSpeed_Quick_Astrogene.symbolPack.prefixSymbols.3.symbol>
+  <VU_Darkness_MoveSpeed_VeryQuick_Astrogene.symbolPack.prefixSymbols.3.symbol>ловко</VU_Darkness_MoveSpeed_VeryQuick_Astrogene.symbolPack.prefixSymbols.3.symbol>
+  <VU_Darkness_MoveSpeed_Quick_Astrogene.symbolPack.prefixSymbols.4.symbol>прытко</VU_Darkness_MoveSpeed_Quick_Astrogene.symbolPack.prefixSymbols.4.symbol>
+  <VU_Darkness_MoveSpeed_VeryQuick_Astrogene.symbolPack.prefixSymbols.4.symbol>прытко</VU_Darkness_MoveSpeed_VeryQuick_Astrogene.symbolPack.prefixSymbols.4.symbol>
+  <VU_Darkness_MoveSpeed_Quick_Astrogene.symbolPack.prefixSymbols.5.symbol>стремительно</VU_Darkness_MoveSpeed_Quick_Astrogene.symbolPack.prefixSymbols.5.symbol>
+  <VU_Darkness_MoveSpeed_VeryQuick_Astrogene.symbolPack.prefixSymbols.5.symbol>стремительно</VU_Darkness_MoveSpeed_VeryQuick_Astrogene.symbolPack.prefixSymbols.5.symbol>
+  <VU_Darkness_MoveSpeed_Quick_Astrogene.symbolPack.prefixSymbols.6.symbol>молние</VU_Darkness_MoveSpeed_Quick_Astrogene.symbolPack.prefixSymbols.6.symbol>
+  <VU_Darkness_MoveSpeed_Quick_Astrogene.symbolPack.suffixSymbols.0.symbol>молние</VU_Darkness_MoveSpeed_Quick_Astrogene.symbolPack.suffixSymbols.0.symbol>
+  <VU_Darkness_MoveSpeed_VeryQuick_Astrogene.symbolPack.prefixSymbols.6.symbol>молние</VU_Darkness_MoveSpeed_VeryQuick_Astrogene.symbolPack.prefixSymbols.6.symbol>
+  <VU_Darkness_MoveSpeed_VeryQuick_Astrogene.symbolPack.suffixSymbols.0.symbol>молние</VU_Darkness_MoveSpeed_VeryQuick_Astrogene.symbolPack.suffixSymbols.0.symbol>
+  <VU_Darkness_MoveSpeed_Quick_Astrogene.symbolPack.suffixSymbols.1.symbol>бегун</VU_Darkness_MoveSpeed_Quick_Astrogene.symbolPack.suffixSymbols.1.symbol>
+  <VU_Darkness_MoveSpeed_VeryQuick_Astrogene.symbolPack.suffixSymbols.1.symbol>бегун</VU_Darkness_MoveSpeed_VeryQuick_Astrogene.symbolPack.suffixSymbols.1.symbol>
+  <VU_Darkness_MoveSpeed_Quick_Astrogene.symbolPack.suffixSymbols.2.symbol>спринтер</VU_Darkness_MoveSpeed_Quick_Astrogene.symbolPack.suffixSymbols.2.symbol>
+  <VU_Darkness_MoveSpeed_VeryQuick_Astrogene.symbolPack.suffixSymbols.2.symbol>спринтер</VU_Darkness_MoveSpeed_VeryQuick_Astrogene.symbolPack.suffixSymbols.2.symbol>
+  <VU_Darkness_MoveSpeed_Quick_Astrogene.symbolPack.wholeNameSymbols.0.symbol>скороход</VU_Darkness_MoveSpeed_Quick_Astrogene.symbolPack.wholeNameSymbols.0.symbol>
+  <VU_Darkness_MoveSpeed_VeryQuick_Astrogene.symbolPack.wholeNameSymbols.0.symbol>скороход</VU_Darkness_MoveSpeed_VeryQuick_Astrogene.symbolPack.wholeNameSymbols.0.symbol>
+  <BS_MinimalPregnancy_Astrogene.label>лёгкая беременность</BS_MinimalPregnancy_Astrogene.label>
+  <BS_MinimalPregnancy_Astrogene.description>Беременность носителей этого гена проходит легче и почти без третьего триместра. Осложнения при родах также случаются гораздо реже.
+
+Совместим с геном «Короткая беременность».</BS_MinimalPregnancy_Astrogene.description>
+  <BS_AutoPregnancy_Astrogene.label>самопроизвольная беременность</BS_AutoPregnancy_Astrogene.label>
+  <BS_AutoPregnancy_Astrogene.description>Носители этого гена периодически вынашивают собственного клона.</BS_AutoPregnancy_Astrogene.description>
+  <MinTemp_HugeDecrease_Astrogene.symbolPack.prefixSymbols.0.symbol>крио</MinTemp_HugeDecrease_Astrogene.symbolPack.prefixSymbols.0.symbol>
+  <MaxTemp_HugeIncrease_Astrogene.symbolPack.prefixSymbols.0.symbol>жаро</MaxTemp_HugeIncrease_Astrogene.symbolPack.prefixSymbols.0.symbol>
+  <MaxTemp_HugeIncrease_Astrogene.symbolPack.prefixSymbols.1.symbol>термо</MaxTemp_HugeIncrease_Astrogene.symbolPack.prefixSymbols.1.symbol>
+  <MaxTemp_HugeIncrease_Astrogene.symbolPack.prefixSymbols.2.symbol>гелио</MaxTemp_HugeIncrease_Astrogene.symbolPack.prefixSymbols.2.symbol>
+  <MaxTemp_HugeIncrease_Astrogene.symbolPack.prefixSymbols.3.symbol>пото</MaxTemp_HugeIncrease_Astrogene.symbolPack.prefixSymbols.3.symbol>
+  <MaxTemp_HugeIncrease_Astrogene.symbolPack.prefixSymbols.4.symbol>пиро</MaxTemp_HugeIncrease_Astrogene.symbolPack.prefixSymbols.4.symbol>
+  <BS_FoamSpray_Astrogene.symbolPack.prefixSymbols.0.symbol>пено</BS_FoamSpray_Astrogene.symbolPack.prefixSymbols.0.symbol>
+  <FireImmunity_Astrogene.symbolPack.prefixSymbols.0.symbol>пено</FireImmunity_Astrogene.symbolPack.prefixSymbols.0.symbol>
+  <FireImmunity_Astrogene.symbolPack.suffixSymbols.0.symbol>пено</FireImmunity_Astrogene.symbolPack.suffixSymbols.0.symbol>
+  <FireImmunity_Astrogene.symbolPack.prefixSymbols.1.symbol>влаго</FireImmunity_Astrogene.symbolPack.prefixSymbols.1.symbol>
+  <BS_StickyAcidSpray_Astrogene.symbolPack.prefixSymbols.0.symbol>кисло</BS_StickyAcidSpray_Astrogene.symbolPack.prefixSymbols.0.symbol>
+  <BS_StickyAcidSpray_Astrogene.symbolPack.prefixSymbols.1.symbol>едко</BS_StickyAcidSpray_Astrogene.symbolPack.prefixSymbols.1.symbol>
+  <BS_StickyAcidSpray_Astrogene.symbolPack.prefixSymbols.2.symbol>акри</BS_StickyAcidSpray_Astrogene.symbolPack.prefixSymbols.2.symbol>
+  <BS_StickyAcidSpray_Astrogene.symbolPack.prefixSymbols.3.symbol>оксо</BS_StickyAcidSpray_Astrogene.symbolPack.prefixSymbols.3.symbol>
+  <BS_StickyAcidSpray_Astrogene.symbolPack.suffixSymbols.0.symbol>распылитель</BS_StickyAcidSpray_Astrogene.symbolPack.suffixSymbols.0.symbol>
+  <BS_StickyAcidSpray_Astrogene.symbolPack.suffixSymbols.1.symbol>плеватель</BS_StickyAcidSpray_Astrogene.symbolPack.suffixSymbols.1.symbol>
+  <BS_FoamSpray_Astrogene.symbolPack.prefixSymbols.1.symbol>плюно</BS_FoamSpray_Astrogene.symbolPack.prefixSymbols.1.symbol>
+  <BS_FoamSpray_Astrogene.symbolPack.prefixSymbols.2.symbol>брызго</BS_FoamSpray_Astrogene.symbolPack.prefixSymbols.2.symbol>
+  <BS_FoamSpray_Astrogene.symbolPack.prefixSymbols.3.symbol>мыло</BS_FoamSpray_Astrogene.symbolPack.prefixSymbols.3.symbol>
+  <BS_FoamSpray_Astrogene.symbolPack.prefixSymbols.4.symbol>кремо</BS_FoamSpray_Astrogene.symbolPack.prefixSymbols.4.symbol>
+  <BS_FoamSpray_Astrogene.symbolPack.prefixSymbols.5.symbol>пенисто</BS_FoamSpray_Astrogene.symbolPack.prefixSymbols.5.symbol>
+  <BS_FoamSpray_Astrogene.symbolPack.suffixSymbols.0.symbol>пенник</BS_FoamSpray_Astrogene.symbolPack.suffixSymbols.0.symbol>
+  <BS_FoamSpray_Astrogene.symbolPack.wholeNameSymbols.0.symbol>пенник</BS_FoamSpray_Astrogene.symbolPack.wholeNameSymbols.0.symbol>
+  <BS_FoamSpray_Astrogene.symbolPack.suffixSymbols.1.symbol>мыльник</BS_FoamSpray_Astrogene.symbolPack.suffixSymbols.1.symbol>
+  <VU_Pounce_Astrogene.symbolPack.prefixSymbols.0.symbol>прыго</VU_Pounce_Astrogene.symbolPack.prefixSymbols.0.symbol>
+  <VU_Pounce_Astrogene.symbolPack.prefixSymbols.1.symbol>скако</VU_Pounce_Astrogene.symbolPack.prefixSymbols.1.symbol>
+  <VU_Pounce_Astrogene.symbolPack.prefixSymbols.2.symbol>взлёто</VU_Pounce_Astrogene.symbolPack.prefixSymbols.2.symbol>
+  <VU_Pounce_Astrogene.symbolPack.prefixSymbols.3.symbol>долго</VU_Pounce_Astrogene.symbolPack.prefixSymbols.3.symbol>
+  <VU_Pounce_Astrogene.symbolPack.prefixSymbols.4.symbol>лето</VU_Pounce_Astrogene.symbolPack.prefixSymbols.4.symbol>
+  <VU_Pounce_Astrogene.symbolPack.prefixSymbols.5.symbol>поскоко</VU_Pounce_Astrogene.symbolPack.prefixSymbols.5.symbol>
+  <VU_Pounce_Astrogene.symbolPack.wholeNameSymbols.0.symbol>прыгун</VU_Pounce_Astrogene.symbolPack.wholeNameSymbols.0.symbol>
+  <VU_Pounce_Astrogene.symbolPack.wholeNameSymbols.1.symbol>скакун</VU_Pounce_Astrogene.symbolPack.wholeNameSymbols.1.symbol>
+  <VU_Pounce_Astrogene.symbolPack.wholeNameSymbols.2.symbol>попрыгун</VU_Pounce_Astrogene.symbolPack.wholeNameSymbols.2.symbol>
+  <BS_ToughSkin_Astrogene.symbolPack.prefixSymbols.0.symbol>толстокожий</BS_ToughSkin_Astrogene.symbolPack.prefixSymbols.0.symbol>
+  <BS_NaturalArmor_Astrogene.symbolPack.prefixSymbols.0.symbol>крепко</BS_NaturalArmor_Astrogene.symbolPack.prefixSymbols.0.symbol>
+  <BS_DrunkenPower_Astrogene.symbolPack.prefixSymbols.0.symbol>пьяно</BS_DrunkenPower_Astrogene.symbolPack.prefixSymbols.0.symbol>
+  <BS_DrunkenPower_Astrogene.symbolPack.prefixSymbols.1.symbol>хаосо</BS_DrunkenPower_Astrogene.symbolPack.prefixSymbols.1.symbol>
+  <BS_DrunkenPower_Astrogene.symbolPack.prefixSymbols.2.symbol>они</BS_DrunkenPower_Astrogene.symbolPack.prefixSymbols.2.symbol>
+  <BS_MajesticBird_Astrogene.symbolPack.prefixSymbols.0.symbol>крылатый</BS_MajesticBird_Astrogene.symbolPack.prefixSymbols.0.symbol>
+  <BS_MajesticBird_Mid_Astrogene.symbolPack.prefixSymbols.0.symbol>крылатый</BS_MajesticBird_Mid_Astrogene.symbolPack.prefixSymbols.0.symbol>
+  <BS_AngelWings_Astrogene.symbolPack.prefixSymbols.0.symbol>крылатый</BS_AngelWings_Astrogene.symbolPack.prefixSymbols.0.symbol>
+  <BS_AngelWings_Mid_Astrogene.symbolPack.prefixSymbols.0.symbol>крылатый</BS_AngelWings_Mid_Astrogene.symbolPack.prefixSymbols.0.symbol>
+  <BS_GoldenGorgonWings_Astrogene.symbolPack.prefixSymbols.0.symbol>крылатый</BS_GoldenGorgonWings_Astrogene.symbolPack.prefixSymbols.0.symbol>
+  <BS_GracefulAngelwings_Astrogene.symbolPack.prefixSymbols.0.symbol>крылатый</BS_GracefulAngelwings_Astrogene.symbolPack.prefixSymbols.0.symbol>
+  <BS_HolyAngelwings_Astrogene.symbolPack.prefixSymbols.0.symbol>крылатый</BS_HolyAngelwings_Astrogene.symbolPack.prefixSymbols.0.symbol>
+  <BS_MenacingAngelwings_Astrogene.symbolPack.prefixSymbols.0.symbol>крылатый</BS_MenacingAngelwings_Astrogene.symbolPack.prefixSymbols.0.symbol>
+  <BS_DemonAngelwings_Astrogene.symbolPack.prefixSymbols.0.symbol>крылатый</BS_DemonAngelwings_Astrogene.symbolPack.prefixSymbols.0.symbol>
+  <BS_SmallDemonWings_Astrogene.symbolPack.prefixSymbols.0.symbol>крылатый</BS_SmallDemonWings_Astrogene.symbolPack.prefixSymbols.0.symbol>
+  <BS_LargeDemonWings_Astrogene.symbolPack.prefixSymbols.0.symbol>крылатый</BS_LargeDemonWings_Astrogene.symbolPack.prefixSymbols.0.symbol>
+  <BS_AncientDemonWings_Astrogene.symbolPack.prefixSymbols.0.symbol>крылатый</BS_AncientDemonWings_Astrogene.symbolPack.prefixSymbols.0.symbol>
+  <BS_HealingWithSoul_Astrogene.label>восстановление силой души</BS_HealingWithSoul_Astrogene.label>
+  <BS_HealingWithSoul_Astrogene.description>Повышает скорость заживления в зависимости от силы души.</BS_HealingWithSoul_Astrogene.description>
+  <BS_FurryBody_Astrogene.label>мохнатое тело</BS_FurryBody_Astrogene.label>
+  <BS_FurryBody_Astrogene.description>Тело носителей этого гена покрыто шерстью. На голову это не влияет.</BS_FurryBody_Astrogene.description>
+  <BS_WerewolfSnoot_Astrogene.symbolPack.prefixSymbols.0.symbol>ликано</BS_WerewolfSnoot_Astrogene.symbolPack.prefixSymbols.0.symbol>
+  <BS_WerewolfSnoot_Astrogene.symbolPack.prefixSymbols.1.symbol>лунно</BS_WerewolfSnoot_Astrogene.symbolPack.prefixSymbols.1.symbol>
+  <BS_WerewolfSnoot_Astrogene.symbolPack.prefixSymbols.2.symbol>безумно</BS_WerewolfSnoot_Astrogene.symbolPack.prefixSymbols.2.symbol>
+  <BS_WerewolfSnoot_Astrogene.symbolPack.prefixSymbols.3.symbol>мордо</BS_WerewolfSnoot_Astrogene.symbolPack.prefixSymbols.3.symbol>
+  <BS_WerewolfSnoot_Astrogene.symbolPack.prefixSymbols.4.symbol>рыло</BS_WerewolfSnoot_Astrogene.symbolPack.prefixSymbols.4.symbol>
+  <BS_WerewolfSnoot_Astrogene.symbolPack.prefixSymbols.5.symbol>волко</BS_WerewolfSnoot_Astrogene.symbolPack.prefixSymbols.5.symbol>
+  <BS_WerewolfSnoot_Astrogene.symbolPack.suffixSymbols.0.symbol>волко</BS_WerewolfSnoot_Astrogene.symbolPack.suffixSymbols.0.symbol>
+  <BS_WerewolfSnoot_Astrogene.symbolPack.prefixSymbols.6.symbol>луно</BS_WerewolfSnoot_Astrogene.symbolPack.prefixSymbols.6.symbol>
+  <BS_WerewolfSnoot_Astrogene.symbolPack.suffixSymbols.1.symbol>луно</BS_WerewolfSnoot_Astrogene.symbolPack.suffixSymbols.1.symbol>
+  <BS_WerewolfSnoot_Astrogene.symbolPack.suffixSymbols.2.symbol>безумец</BS_WerewolfSnoot_Astrogene.symbolPack.suffixSymbols.2.symbol>
+  <Cannibal_Astrogene.labelShortAdj>каннибальский</Cannibal_Astrogene.labelShortAdj>
+  <BS_Pain_None_Astrogene.symbolPack.prefixSymbols.0.symbol>тупо</BS_Pain_None_Astrogene.symbolPack.prefixSymbols.0.symbol>
+  <BS_Pain_None_Astrogene.symbolPack.prefixSymbols.1.symbol>одуро</BS_Pain_None_Astrogene.symbolPack.prefixSymbols.1.symbol>
+  <BS_Pain_None_Astrogene.symbolPack.prefixSymbols.2.symbol>крепко</BS_Pain_None_Astrogene.symbolPack.prefixSymbols.2.symbol>
+  <BS_MimicBody_Astrogene.label>тело чудовищного обжоры</BS_MimicBody_Astrogene.label>
+  <BS_MimicBody_Astrogene.description>У носителей этого гена тело, словно у ужасающего демона чревоугодия.</BS_MimicBody_Astrogene.description>
+  <BS_DemonTail_Astrogene.label>ловкий демонический хвост</BS_DemonTail_Astrogene.label>
+  <BS_DemonTail_Astrogene.description>У носителей этого гена вырастает мощный хвост демонического вида.</BS_DemonTail_Astrogene.description>
+  <Gigantism_Astrogene.label>гигантизм</Gigantism_Astrogene.label>
+  <Gigantism_Astrogene.description>Носители этого гена страдают генетическим гигантизмом.</Gigantism_Astrogene.description>
+  <Large_Astrogene.label>увеличенный размер</Large_Astrogene.label>
+  <Large_Astrogene.description>Носители этого гена генетически изменены, чтобы быть крупнее.</Large_Astrogene.description>
+  <BS_EVA_Gene_Astrogene.label>защита от вакуума</BS_EVA_Gene_Astrogene.label>
+  <MinTemp_HugeDecrease_Astrogene.label>невосприимчивость к холоду</MinTemp_HugeDecrease_Astrogene.label>
+  <MinTemp_HugeDecrease_Astrogene.labelShortAdj>леденящий</MinTemp_HugeDecrease_Astrogene.labelShortAdj>
+  <MaxTemp_HugeIncrease_Astrogene.label>невосприимчивость к жаре</MaxTemp_HugeIncrease_Astrogene.label>
+  <MaxTemp_HugeIncrease_Astrogene.labelShortAdj>кипящий</MaxTemp_HugeIncrease_Astrogene.labelShortAdj>
+  <FireImmunity_Astrogene.label>невосприимчивость к огню</FireImmunity_Astrogene.label>
+  <FireImmunity_Astrogene.labelShortAdj>огнеупорный</FireImmunity_Astrogene.labelShortAdj>
+  <BS_CentaurBody_Astrogene.label>тело кентавра</BS_CentaurBody_Astrogene.label>
+  <BS_CentaurBody_Astrogene.description>У носителей этого гена четыре ноги.</BS_CentaurBody_Astrogene.description>
+  <BS_FourArms_Astrogene.label>четыре руки</BS_FourArms_Astrogene.label>
+  <BS_FourArms_Astrogene.description>НЕТ! Я просил потрясающие предплечья, а не лишнюю пару плеч!</BS_FourArms_Astrogene.description>
+  <BS_SpiderBody_Synthread_Astrogene.label>паучье брюшко: синткань</BS_SpiderBody_Synthread_Astrogene.label>
+  <BS_SpiderBody_Synthread_Astrogene.description>Нижнюю половину тела заменяет паучье тело. Не зашла ли наука слишком далеко?
+
+Базовая выработка — 40 ед. синткани раз в 4 дня; итоговое количество зависит от размера тела.
+
+Паучья часть тела имеет цвет кожи.</BS_SpiderBody_Synthread_Astrogene.description>
+  <BS_SpiderBody_Devil_Astrogene.label>паучье брюшко: дьявлоткань</BS_SpiderBody_Devil_Astrogene.label>
+  <BS_SpiderBody_Devil_Astrogene.description>Нижнюю половину тела заменяет паучье тело. Не зашла ли наука слишком далеко?
+
+Базовая выработка — 20 ед. дьявлоткани раз в 4 дня; итоговое количество зависит от размера тела.
+
+Паучья часть тела имеет цвет волос.</BS_SpiderBody_Devil_Astrogene.description>
+  <LoS_MarlithBody_Astrogene.label>тело марилита</LoS_MarlithBody_Astrogene.label>
+  <LoS_MarlithBody_Astrogene.description>У носителей этого гена три пары рук и большой змеиный хвост вместо обычных человеческих ног.</LoS_MarlithBody_Astrogene.description>
+  <BS_SpiderBody_Astrogene.label>паучье тело</BS_SpiderBody_Astrogene.label>
+  <BS_SpiderBody_Astrogene.description>У носителей этого гена восемь ног, как у паука.</BS_SpiderBody_Astrogene.description>
+  <BS_StickyAcidSpray_Astrogene.label>распыление липкой кислоты</BS_StickyAcidSpray_Astrogene.label>
+  <BS_StickyAcidSpray_Astrogene.description>Носители этого гена могут выплёвывать липкую едкую кислоту, покрывая ею область в форме конуса.</BS_StickyAcidSpray_Astrogene.description>
+  <BS_FoamSpray_Astrogene.label>распыление огнепены</BS_FoamSpray_Astrogene.label>
+  <BS_FoamSpray_Astrogene.description>Носители этого гена вырабатывают и накапливают огнепену. Они могут выплёвывать её, чтобы тушить огонь на некоторой площади.</BS_FoamSpray_Astrogene.description>
+  <VU_Pounce_Astrogene.label>бросок на добычу</VU_Pounce_Astrogene.label>
+  <VU_Pounce_Astrogene.description>Носители этого гена могут прыгать на добычу.</VU_Pounce_Astrogene.description>
+  <BS_SnekEngulf_Astrogene.label>заглатывание</BS_SnekEngulf_Astrogene.label>
+  <BS_SnekEngulf_Astrogene.description>Позволяет временно проглотить существо меньшего размера, чтобы переварить или удерживать его внутри.
+
+Умелых бойцов лучше не удерживать долго: они могут ранить носителя изнутри любым имеющимся у них оружием.
+
+Если заставить персонажа, не склонного к каннибализму, переварить гуманоида, это сильно его расстроит.</BS_SnekEngulf_Astrogene.description>
+  <BS_ToughSkin_Astrogene.label>прочная кожа</BS_ToughSkin_Astrogene.label>
+  <BS_ToughSkin_Astrogene.description>У носителей этого гена от природы прочная кожа, которая частично защищает от тупых и режущих атак.</BS_ToughSkin_Astrogene.description>
+  <BS_NaturalArmor_Astrogene.label>природная броня</BS_NaturalArmor_Astrogene.label>
+  <BS_NaturalArmor_Astrogene.description>Носители этого гена выдерживают удары так, будто носят мягкую защитную броню.</BS_NaturalArmor_Astrogene.description>
+  <BS_DrunkenPower_Astrogene.label>пьяная мощь</BS_DrunkenPower_Astrogene.label>
+  <BS_DrunkenPower_Astrogene.description>Носители этого гена невероятно сильны и выносливы, но только под действием алкоголя. Чем сильнее опьянение, тем заметнее эффект.
+
+Ген также ослабляет снижение сознания от алкоголя, хотя до трезвого состояния всё равно далеко.
+
+Эффект СКЛАДЫВАЕТСЯ с генами крепкого организма и повышенного урона в ближнем бою. Вот это да.</BS_DrunkenPower_Astrogene.description>
+  <BS_DvergrConstitution_Astrogene.label>дворфийская стойкость</BS_DvergrConstitution_Astrogene.label>
+  <BS_DvergrConstitution_Astrogene.description>Носители этого гена сильнее и выносливее, чем можно подумать по их размерам.</BS_DvergrConstitution_Astrogene.description>
+  <BS_DvergrConstitution_Astrogene.labelShortAdj>крепкий как дворф</BS_DvergrConstitution_Astrogene.labelShortAdj>
+  <VU_NoBlood_Astrogene.label>отсутствие крови</VU_NoBlood_Astrogene.label>
+  <VU_NoBlood_Astrogene.description>У носителей этого гена не бывает кровотечений.</VU_NoBlood_Astrogene.description>
+  <BS_SlowBleeding_Astrogene.label>слабые кровотечения</BS_SlowBleeding_Astrogene.label>
+  <BS_SlowBleeding_Astrogene.description>Носители этого гена теряют кровь медленнее обычного. Возможно, она быстрее сворачивается или медленнее течёт, чем у базовых людей.</BS_SlowBleeding_Astrogene.description>
+  <VU_Unliving_Astrogene.label>неживое тело</VU_Unliving_Astrogene.label>
+  <VU_Unliving_Astrogene.description>У носителей этого гена неживое или почти мёртвое тело. Они не страдают от некоторых хронических возрастных болезней, в том числе рака, инфарктов, астмы и деменции.</VU_Unliving_Astrogene.description>
+  <BS_Diet_Universal_Astrogene.label>универсальное пищеварение</BS_Diet_Universal_Astrogene.label>
+  <BS_Diet_Universal_Astrogene.description>Носители этого гена могут употреблять большинство видов пищи, а также некоторые разновидности химтоплива.</BS_Diet_Universal_Astrogene.description>
+  <Cannibal_Astrogene.label>каннибализм</Cannibal_Astrogene.label>
+  <Cannibal_Astrogene.description>Носителям этого гена свойственна жестокая склонность к людоедству.</Cannibal_Astrogene.description>
+  <BS_Concussive_Resistance_Astrogene.label>сопротивление ударной волне</BS_Concussive_Resistance_Astrogene.label>
+  <BS_Concussive_Resistance_Astrogene.description>Носители этого гена хорошо переносят воздействие ударной волны на всё тело, например при взрыве.</BS_Concussive_Resistance_Astrogene.description>
+  <BS_AcidResistanceMid_Astrogene.label>сопротивление кислоте</BS_AcidResistanceMid_Astrogene.label>
+  <BS_AcidResistanceMid_Astrogene.description>Носители этого гена обладают высокой устойчивостью к кислоте.</BS_AcidResistanceMid_Astrogene.description>
+  <BS_AcidResistanceTotal_Astrogene.label>невосприимчивость к кислоте</BS_AcidResistanceTotal_Astrogene.label>
+  <BS_AcidResistanceTotal_Astrogene.description>Носители этого гена невосприимчивы к кислоте и не получают от неё урона независимо от источника.</BS_AcidResistanceTotal_Astrogene.description>
+  <BS_Passioned_Learning_Gene_Astrogene.label>усердие в учёбе</BS_Passioned_Learning_Gene_Astrogene.label>
+  <BS_Passioned_Learning_Gene_Astrogene.description>Носители этого гена хорошо усваивают новое, даже если испытывают лишь небольшой интерес.</BS_Passioned_Learning_Gene_Astrogene.description>
+  <BS_Passioned_Learning_Gene_Astrogene.labelShortAdj>прилежный</BS_Passioned_Learning_Gene_Astrogene.labelShortAdj>
+  <BS_Very_Passioned_Learning_Gene_Astrogene.labelShortAdj>прилежный</BS_Very_Passioned_Learning_Gene_Astrogene.labelShortAdj>
+  <BS_Very_Passioned_Learning_Gene_Astrogene.label>исключительное усердие в учёбе</BS_Very_Passioned_Learning_Gene_Astrogene.label>
+  <BS_Very_Passioned_Learning_Gene_Astrogene.description>Носители этого гена исключительно хорошо усваивают новое, даже если испытывают лишь небольшой интерес.</BS_Very_Passioned_Learning_Gene_Astrogene.description>
+  <BS_EVA_Gene_Astrogene.description>Носители этого гена выдерживают космический вакуум. Однако это не помогает им быстрее двигаться в пустоте.</BS_EVA_Gene_Astrogene.description>
+  <BS_Pain_None_Astrogene.label>отсутствие боли</BS_Pain_None_Astrogene.label>
+  <BS_Pain_None_Astrogene.description>Носители этого гена не чувствуют боли. Иногда это даёт преимущество, но может быть и крайне опасным.</BS_Pain_None_Astrogene.description>
+  <BS_Pain_None_Astrogene.labelShortAdj>нечувствительный к боли</BS_Pain_None_Astrogene.labelShortAdj>
+  <BS_Unarmed_Strong_Astrogene.label>сильные безоружные атаки</BS_Unarmed_Strong_Astrogene.label>
+  <BS_Unarmed_Strong_Astrogene.description>Носители этого гена наносят больше урона в ближнем бою, но используют для этого только естественное или бионическое оружие.
+
+Ген совместим и лучше всего сочетается с генами «Рукопашный бой без оружия» и «Невозможность держать оружие».</BS_Unarmed_Strong_Astrogene.description>
+  <BS_Unarmed_Strong_Astrogene.labelShortAdj>сильный</BS_Unarmed_Strong_Astrogene.labelShortAdj>
+  <BS_Unarmed_VeryStrong_Astrogene.labelShortAdj>сильный</BS_Unarmed_VeryStrong_Astrogene.labelShortAdj>
+  <VU_DarknessMelee_Astrogene.labelShortAdj>сильный</VU_DarknessMelee_Astrogene.labelShortAdj>
+  <VU_DarknessMelee_Strong_Astrogene.labelShortAdj>сильный</VU_DarknessMelee_Strong_Astrogene.labelShortAdj>
+  <BS_Unarmed_VeryStrong_Astrogene.label>очень сильные безоружные атаки</BS_Unarmed_VeryStrong_Astrogene.label>
+  <BS_Unarmed_VeryStrong_Astrogene.description>Носители этого гена наносят значительно больше урона в ближнем бою, но используют для этого только естественное или бионическое оружие.
+
+Ген совместим и лучше всего сочетается с генами «Рукопашный бой без оружия» и «Невозможность держать оружие».</BS_Unarmed_VeryStrong_Astrogene.description>
+  <BS_Damaged_Genes_Astrogene.label>повреждённые ксеногены</BS_Damaged_Genes_Astrogene.label>
+  <BS_Damaged_Genes_Astrogene.description>Повреждённые ксеногены вышли из-под контроля и резко снизили метаболическую эффективность этого существа. Эффект можно полностью подавить архитным метаболизмом.</BS_Damaged_Genes_Astrogene.description>
+  <BS_ChocolateProduction_Astrogene.label>выработка шоколада</BS_ChocolateProduction_Astrogene.label>
+  <BS_ChocolateProduction_Astrogene.description>На головах носителей этого гена вырастают плитки шоколада — иногда даже в обёртке.</BS_ChocolateProduction_Astrogene.description>
+  <BS_JellyProduction_Astrogene.label>выработка инсектожеле</BS_JellyProduction_Astrogene.label>
+  <BS_JellyProduction_Astrogene.description>Носители этого гена вырабатывают небольшое количество инсектожеле.</BS_JellyProduction_Astrogene.description>
+  <BS_ShortPregnancy_Astrogene.label>короткая беременность</BS_ShortPregnancy_Astrogene.label>
+  <BS_ShortPregnancy_Astrogene.description>Беременность носителей этого гена длится менее половины обычного срока.</BS_ShortPregnancy_Astrogene.description>
+  <BS_EarlyMaturity_Astrogene.label>раннее развитие</BS_EarlyMaturity_Astrogene.label>
+  <BS_EarlyMaturity_Astrogene.description>Как у многих животных, потомство носителей этого гена уже при рождении умеет ходить и учиться.</BS_EarlyMaturity_Astrogene.description>
+  <BS_BirthLitter_Astrogene.label>большой помёт</BS_BirthLitter_Astrogene.label>
+  <BS_BirthLitter_Astrogene.description>Носители этого гена рождают многочисленное потомство, обычно от четырёх до шести детёнышей за раз. Поэтому новорождённые очень малы.</BS_BirthLitter_Astrogene.description>
+  <MinTemp_HugeDecrease_Astrogene.description>Носители этого гена почти невосприимчивы к холоду.</MinTemp_HugeDecrease_Astrogene.description>
+  <MaxTemp_HugeIncrease_Astrogene.description>Носители этого гена почти невосприимчивы к высокой температуре окружающей среды. Даже механоиды начинают перегреваться и сбоить раньше них.</MaxTemp_HugeIncrease_Astrogene.description>
+  <FireImmunity_Astrogene.description>Носители этого гена не боятся огня и большинства тепловых атак.</FireImmunity_Astrogene.description>
+  <BS_PerfectMemory_Astrogene.label>эйдетическая память</BS_PerfectMemory_Astrogene.label>
+  <BS_PerfectMemory_Astrogene.description>У носителей этого гена безупречная память.</BS_PerfectMemory_Astrogene.description>
+  <BS_PerfectMemory_Astrogene.labelShortAdj>незабывающий</BS_PerfectMemory_Astrogene.labelShortAdj>
+  <BS_Unpretentious_Astrogene.label>непритязательность</BS_Unpretentious_Astrogene.label>
+  <BS_Unpretentious_Astrogene.description>Носителей этого гена не смущают неказистая обстановка и некоторые бытовые неудобства. Ген также подавляет многие противоречащие ему черты характера.</BS_Unpretentious_Astrogene.description>
+  <BS_InsultProof_Astrogene.label>невосприимчивость к оскорблениям</BS_InsultProof_Astrogene.label>
+  <BS_InsultProof_Astrogene.description>Носители этого гена не реагируют на оскорбления и неудачный флирт с любой стороны.</BS_InsultProof_Astrogene.description>
+  <BS_AnimalFriend_Astrogene.label>друг животных</BS_AnimalFriend_Astrogene.label>
+  <BS_AnimalFriend_Astrogene.description>Голодные хищники никогда не выбирают носителей этого гена своей добычей.</BS_AnimalFriend_Astrogene.description>
+  <BS_SlimeAttack_Astrogene.label>кислотная атака</BS_SlimeAttack_Astrogene.label>
+  <BS_SlimeAttack_Astrogene.description>Носители этого гена могут атаковать едкой липкой кислотой.</BS_SlimeAttack_Astrogene.description>
+  <LoS_VenomTalons_Astrogene.label>ядовитые когти</LoS_VenomTalons_Astrogene.label>
+  <LoS_VenomTalons_Astrogene.description>Носители этого гена обладают опасными ядовитыми когтями, которые хорошо проникают в сочленения брони.
+
+Строго говоря, выделяемое вещество скорее едкое, чем ядовитое. Когти замедляют большинство видов работы.</LoS_VenomTalons_Astrogene.description>
+  <BS_Talons_Astrogene.label>когти</BS_Talons_Astrogene.label>
+  <BS_Talons_Astrogene.description>Носители этого гена обладают опасными когтями, которые хорошо проникают в сочленения брони.</BS_Talons_Astrogene.description>
+  <BS_FeedingFrenzy_Astrogene.label>ненасытное пожирание</BS_FeedingFrenzy_Astrogene.label>
+  <BS_FeedingFrenzy_Astrogene.description>Носители этого гена набрасываются на врагов, словно голодные сверхзомби.
+
+Они атакуют очень часто, но слабо пробивают броню. Даже получив более эффективное оружие, они часто используют своё естественное оружие и чаще добивают упавших противников.</BS_FeedingFrenzy_Astrogene.description>
+  <BS_SoulPower_Astrogene.label>крупица силы души</BS_SoulPower_Astrogene.label>
+  <BS_SoulPower_Astrogene.description>Носители этого гена от природы обладают небольшой силой души. Её можно увеличивать с помощью тёмных архотехнологических осколков; для их изготовления требуется Anomaly.</BS_SoulPower_Astrogene.description>
+  <BS_AnomalousPsychicPower_Astrogene.label>созвучие души</BS_AnomalousPsychicPower_Astrogene.label>
+  <BS_AnomalousPsychicPower_Astrogene.description>Усиливает пси-возможности в зависимости от силы души. Совместим с другими генами, усиливающими пси-возможности.</BS_AnomalousPsychicPower_Astrogene.description>
+  <BS_AnomalousForm_Astrogene.label>воплощение души</BS_AnomalousForm_Astrogene.label>
+  <BS_AnomalousForm_Astrogene.description>Форма и размер этого существа определяются его силой души. Если сила души не превышает 0%, ген не действует.</BS_AnomalousForm_Astrogene.description>
+  <BS_TrueForm_Angelic_Astrogene.label>истинная форма: ангельская</BS_TrueForm_Angelic_Astrogene.label>
+  <BS_TrueForm_Angelic_Astrogene.description>Носители этого гена могут временно принимать более крупную и могущественную форму. Её мощь зависит от силы души. Вырастают великолепные пернатые крылья и нимб, повышается устойчивость к ранениям и появляется временная защита от смерти.</BS_TrueForm_Angelic_Astrogene.description>
+  <BS_TrueForm_Demonic_Astrogene.label>истинная форма: демоническая</BS_TrueForm_Demonic_Astrogene.label>
+  <BS_TrueForm_Demonic_Astrogene.description>Носители этого гена могут временно принимать более крупную и могущественную форму. Её мощь зависит от силы души. Вырастают устрашающие крылья и когти, появляется огненное дыхание.</BS_TrueForm_Demonic_Astrogene.description>
+  <BS_TrueForm_Goliath_Astrogene.label>форма голиафа</BS_TrueForm_Goliath_Astrogene.label>
+  <BS_TrueForm_Goliath_Astrogene.description>Носители этого гена могут временно принимать более крупную и могущественную форму. Её мощь зависит от силы души. В форме голиафа существо становится невероятно стойким.</BS_TrueForm_Goliath_Astrogene.description>
+  <BS_WerewolfSnoot_Astrogene.label>тело оборотня</BS_WerewolfSnoot_Astrogene.label>
+  <BS_WerewolfSnoot_Astrogene.description>Р-р-р! У носителей этого гена свирепая голова, похожая на голову оборотня, и слегка мохнатое тело.</BS_WerewolfSnoot_Astrogene.description>
+  <VU_DarknessWoundHealing_Fast_Astrogene.label>быстрое заживление в темноте</VU_DarknessWoundHealing_Fast_Astrogene.label>
+  <VU_DarknessWoundHealing_Fast_Astrogene.description>Раны носителей этого гена заживают с пугающей скоростью ночью, но плохо заживают днём, особенно под солнечным светом.</VU_DarknessWoundHealing_Fast_Astrogene.description>
+  <VU_DarknessWoundHealing_Fast_Astrogene.labelShortAdj>быстро заживающий</VU_DarknessWoundHealing_Fast_Astrogene.labelShortAdj>
+  <VU_DarknessWoundHealing_UltraFast_Astrogene.labelShortAdj>быстро заживающий</VU_DarknessWoundHealing_UltraFast_Astrogene.labelShortAdj>
+  <VU_DarknessWoundHealing_UltraFast_Astrogene.label>сверхбыстрое заживление в темноте</VU_DarknessWoundHealing_UltraFast_Astrogene.label>
+  <VU_DarknessWoundHealing_UltraFast_Astrogene.description>Носители этого гена восстанавливаются с невероятной скоростью под покровом темноты, но плохо заживают днём, особенно под солнечным светом.</VU_DarknessWoundHealing_UltraFast_Astrogene.description>
+  <VU_DarknessMelee_Astrogene.label>ближний бой в темноте</VU_DarknessMelee_Astrogene.label>
+  <VU_DarknessMelee_Astrogene.description>Носители этого гена наносят больше урона в ближнем бою ночью. На улице под солнцем они значительно слабеют.</VU_DarknessMelee_Astrogene.description>
+  <VU_DarknessMelee_Strong_Astrogene.label>усиленный ближний бой в темноте</VU_DarknessMelee_Strong_Astrogene.label>
+  <VU_DarknessMelee_Strong_Astrogene.description>Носители этого гена наносят больше урона в ближнем бою ночью. Днём они слабее, особенно под солнечным светом.</VU_DarknessMelee_Strong_Astrogene.description>
+  <VU_Darkness_MoveSpeed_Quick_Astrogene.label>быстрое движение в темноте</VU_Darkness_MoveSpeed_Quick_Astrogene.label>
+  <VU_Darkness_MoveSpeed_Quick_Astrogene.description>Носители этого гена двигаются быстрее обычного после наступления ночи, но медленнее днём, особенно под солнечным светом.</VU_Darkness_MoveSpeed_Quick_Astrogene.description>
+  <VU_Darkness_MoveSpeed_Quick_Astrogene.labelShortAdj>быстрый</VU_Darkness_MoveSpeed_Quick_Astrogene.labelShortAdj>
+  <VU_Darkness_MoveSpeed_VeryQuick_Astrogene.labelShortAdj>быстрый</VU_Darkness_MoveSpeed_VeryQuick_Astrogene.labelShortAdj>
+  <VU_Darkness_MoveSpeed_VeryQuick_Astrogene.label>очень быстрое движение в темноте</VU_Darkness_MoveSpeed_VeryQuick_Astrogene.label>
+  <VU_Darkness_MoveSpeed_VeryQuick_Astrogene.description>Носители этого гена двигаются гораздо быстрее обычного после наступления ночи, но медленнее днём, особенно под солнечным светом.</VU_Darkness_MoveSpeed_VeryQuick_Astrogene.description>
+  <HalfJotunFrame_Astrogene.label>телосложение полуйотуна</HalfJotunFrame_Astrogene.label>
+  <HalfJotunFrame_Astrogene.description>Носители этого гена вырастают гораздо крупнее базовых людей и обладают удивительными скоростью и силой.</HalfJotunFrame_Astrogene.description>
+  <BS_LargeFrame_Astrogene.label>крупное телосложение</BS_LargeFrame_Astrogene.label>
+  <BS_LargeFrame_Astrogene.description>Носители этого гена вырастают крупнее базовых людей. По размерам они сопоставимы с базовым человеком, страдающим гигантизмом, но без связанных с ним проблем со здоровьем.</BS_LargeFrame_Astrogene.description>
+  <HalfColossusFrame_Astrogene.description>Носители этого гена вырастают гораздо крупнее и массивнее базовых людей. Они невероятно сильны, но им недостаёт ловкости.</HalfColossusFrame_Astrogene.description>
+  <HalfColossusFrame_Astrogene.label>телосложение полуколосса</HalfColossusFrame_Astrogene.label>
+  <OgreFrame_Astrogene.label>телосложение огра</OgreFrame_Astrogene.label>
+  <OgreFrame_Astrogene.description>Носители этого гена вырастают большими и неповоротливыми. Они неуклюжи, а размеры вызывают проблемы со здоровьем. Массивное тело сильно затрудняет движение, особенно в тяжёлой броне. Зато они удивительно крепки.</OgreFrame_Astrogene.description>
+  <VU_LethalLover_Astrogene.label>паразитическая связь</VU_LethalLover_Astrogene.label>
+  <VU_LethalLover_Astrogene.description>Носители этого гена образуют со своими любовниками паразитическую пси-связь. Смерть носителя становится для партнёров тяжелейшим ударом.</VU_LethalLover_Astrogene.description>
+  <BS_MajesticBird_Astrogene.label>величественные птичьи крылья: большие</BS_MajesticBird_Astrogene.label>
+  <BS_MajesticBird_Astrogene.description>У носителей этого гена ангельские крылья.</BS_MajesticBird_Astrogene.description>
+  <BS_MajesticBird_Mid_Astrogene.description>У носителей этого гена ангельские крылья.</BS_MajesticBird_Mid_Astrogene.description>
+  <BS_AngelWings_Astrogene.description>У носителей этого гена ангельские крылья.</BS_AngelWings_Astrogene.description>
+  <BS_AngelWings_Mid_Astrogene.description>У носителей этого гена ангельские крылья.</BS_AngelWings_Mid_Astrogene.description>
+  <BS_MajesticBird_Mid_Astrogene.label>величественные птичьи крылья</BS_MajesticBird_Mid_Astrogene.label>
+  <BS_AngelWings_Astrogene.label>крылья ангельского вестника: большие</BS_AngelWings_Astrogene.label>
+  <BS_AngelWings_Mid_Astrogene.label>крылья ангельского вестника</BS_AngelWings_Mid_Astrogene.label>
+  <BS_GoldenGorgonWings_Astrogene.label>золотые крылья горгоны</BS_GoldenGorgonWings_Astrogene.label>
+  <BS_GoldenGorgonWings_Astrogene.description>У носителей этого гена огромные божественные золотые крылья.</BS_GoldenGorgonWings_Astrogene.description>
+  <BS_GracefulAngelwings_Astrogene.label>изящные ангельские крылья</BS_GracefulAngelwings_Astrogene.label>
+  <BS_GracefulAngelwings_Astrogene.description>У носителей этого гена божественные крылья.</BS_GracefulAngelwings_Astrogene.description>
+  <BS_HolyAngelwings_Astrogene.description>У носителей этого гена божественные крылья.</BS_HolyAngelwings_Astrogene.description>
+  <BS_MenacingAngelwings_Astrogene.description>У носителей этого гена божественные крылья.</BS_MenacingAngelwings_Astrogene.description>
+  <BS_HolyAngelwings_Astrogene.label>пушистые ангельские крылья</BS_HolyAngelwings_Astrogene.label>
+  <BS_MenacingAngelwings_Astrogene.label>грозные ангельские крылья</BS_MenacingAngelwings_Astrogene.label>
+  <BS_DemonAngelwings_Astrogene.label>крылья падшего ангела</BS_DemonAngelwings_Astrogene.label>
+  <BS_DemonAngelwings_Astrogene.description>У носителей этого гена демонические крылья.</BS_DemonAngelwings_Astrogene.description>
+  <BS_SmallDemonWings_Astrogene.label>маленькие крылья демона</BS_SmallDemonWings_Astrogene.label>
+  <BS_SmallDemonWings_Astrogene.description>У носителей этого гена вырастают небольшие кожистые крылья.</BS_SmallDemonWings_Astrogene.description>
+  <BS_LargeDemonWings_Astrogene.label>большие крылья демона</BS_LargeDemonWings_Astrogene.label>
+  <BS_LargeDemonWings_Astrogene.description>У носителей этого гена вырастают кожистые крылья.</BS_LargeDemonWings_Astrogene.description>
+  <BS_AncientDemonWings_Astrogene.label>крылья древнего демона</BS_AncientDemonWings_Astrogene.label>
+  <BS_AncientDemonWings_Astrogene.description>У носителей этого гена вырастают величественные крылья.</BS_AncientDemonWings_Astrogene.description>
+  <BS_AngelWings_Mid_Astrogene.customEffectDescriptions.0>Убирает штраф к скорости движения по труднопроходимой местности.</BS_AngelWings_Mid_Astrogene.customEffectDescriptions.0>
+  <BS_MajesticBird_Astrogene.customEffectDescriptions.0>Убирает штраф к скорости движения по труднопроходимой местности.</BS_MajesticBird_Astrogene.customEffectDescriptions.0>
+  <BS_SpiderBody_Synthread_Astrogene.customEffectDescriptions.0>По возможности заменяет «расу» персонажа на подходящую для новой формы тела.</BS_SpiderBody_Synthread_Astrogene.customEffectDescriptions.0>
+  <BS_SpiderBody_Synthread_Astrogene.customEffectDescriptions.1>Уменьшает штраф к скорости движения по труднопроходимой местности.</BS_SpiderBody_Synthread_Astrogene.customEffectDescriptions.1>
+  <HalfColossusFrame_Astrogene.customEffectDescriptions.0>— — — — — — — — — — — — — — — — — — —</HalfColossusFrame_Astrogene.customEffectDescriptions.0>
+  <HalfColossusFrame_Astrogene.customEffectDescriptions.1>— Общие эффекты размера тела —</HalfColossusFrame_Astrogene.customEffectDescriptions.1>
+  <HalfColossusFrame_Astrogene.customEffectDescriptions.2>Изменяет размер тела и связанные с ним свойства.</HalfColossusFrame_Astrogene.customEffectDescriptions.2>
+  <HalfColossusFrame_Astrogene.customEffectDescriptions.3>Очень сильно влияет на потребление пищи.</HalfColossusFrame_Astrogene.customEffectDescriptions.3>
+  <HalfColossusFrame_Astrogene.customEffectDescriptions.4>Сильно изменяет запас здоровья.</HalfColossusFrame_Astrogene.customEffectDescriptions.4>
+  <HalfColossusFrame_Astrogene.customEffectDescriptions.5>Значительно повышает бронепробитие в ближнем бою.</HalfColossusFrame_Astrogene.customEffectDescriptions.5>
+  <HalfColossusFrame_Astrogene.customEffectDescriptions.6>Несколько повышает урон в ближнем бою.</HalfColossusFrame_Astrogene.customEffectDescriptions.6>
+  <HalfColossusFrame_Astrogene.customEffectDescriptions.7>Сильно влияет на шанс уклонения в ближнем бою: меньший размер даёт преимущество.</HalfColossusFrame_Astrogene.customEffectDescriptions.7>
+  <HalfColossusFrame_Astrogene.customEffectDescriptions.8>Очень сильно влияет на выработку ресурсов самим персонажем через гены Alpha Genes и Biotech Expansion.</HalfColossusFrame_Astrogene.customEffectDescriptions.8>
+  <BS_HolyAngelwings_Astrogene.customEffectDescriptions.0>Убирает штраф к скорости движения по труднопроходимой местности.</BS_HolyAngelwings_Astrogene.customEffectDescriptions.0>
+  <LoS_MarlithBody_Astrogene.customEffectDescriptions.0>Заменяет «расу» персонажа на подходящую для новой формы тела.</LoS_MarlithBody_Astrogene.customEffectDescriptions.0>
+  <LoS_MarlithBody_Astrogene.customEffectDescriptions.1>Превращает персонажа в марилита.</LoS_MarlithBody_Astrogene.customEffectDescriptions.1>
+  <LoS_MarlithBody_Astrogene.customEffectDescriptions.2>Уменьшает штраф к скорости движения по труднопроходимой местности.</LoS_MarlithBody_Astrogene.customEffectDescriptions.2>
+  <LoS_VenomTalons_Astrogene.customEffectDescriptions.0>Эффективность кистей: 90%.</LoS_VenomTalons_Astrogene.customEffectDescriptions.0>
+  <BS_DemonAngelwings_Astrogene.customEffectDescriptions.0>Убирает штраф к скорости движения по труднопроходимой местности.</BS_DemonAngelwings_Astrogene.customEffectDescriptions.0>
+  <BS_DrunkenPower_Astrogene.customEffectDescriptions.0>Снижает получаемый урон на 5–30% в зависимости от степени опьянения.</BS_DrunkenPower_Astrogene.customEffectDescriptions.0>
+  <BS_DrunkenPower_Astrogene.customEffectDescriptions.1>Повышает урон в ближнем бою на 5–45% в зависимости от степени опьянения.</BS_DrunkenPower_Astrogene.customEffectDescriptions.1>
+  <BS_DrunkenPower_Astrogene.customEffectDescriptions.2>Ослабляет негативные последствия опьянения.</BS_DrunkenPower_Astrogene.customEffectDescriptions.2>
+  <BS_DrunkenPower_Astrogene.customEffectDescriptions.3>Усиливает улучшение настроения от опьянения.</BS_DrunkenPower_Astrogene.customEffectDescriptions.3>
+  <BS_TrueForm_Goliath_Astrogene.customEffectDescriptions.0>Эффект гена слабее у персонажей, которые и так велики.</BS_TrueForm_Goliath_Astrogene.customEffectDescriptions.0>
+  <BS_HealingWithSoul_Astrogene.customEffectDescriptions.0>Повышает скорость заживления ран на величину, равную четырёхкратной силе души.</BS_HealingWithSoul_Astrogene.customEffectDescriptions.0>
+  <BS_MenacingAngelwings_Astrogene.customEffectDescriptions.0>Убирает штраф к скорости движения по труднопроходимой местности.</BS_MenacingAngelwings_Astrogene.customEffectDescriptions.0>
+  <BS_NaturalArmor_Astrogene.customEffectDescriptions.0>Эффект усиливается в сочетании с генами, запрещающими носить броню.</BS_NaturalArmor_Astrogene.customEffectDescriptions.0>
+  <BS_NaturalArmor_Astrogene.customEffectDescriptions.1>Эффект почти удваивается в сочетании с генами, запрещающими носить одежду.</BS_NaturalArmor_Astrogene.customEffectDescriptions.1>
+  <BS_LargeFrame_Astrogene.customEffectDescriptions.0>— — — — — — — — — — — — — — — — — — —</BS_LargeFrame_Astrogene.customEffectDescriptions.0>
+  <BS_LargeFrame_Astrogene.customEffectDescriptions.1>— Общие эффекты размера тела —</BS_LargeFrame_Astrogene.customEffectDescriptions.1>
+  <BS_LargeFrame_Astrogene.customEffectDescriptions.2>Изменяет размер тела и связанные с ним свойства.</BS_LargeFrame_Astrogene.customEffectDescriptions.2>
+  <BS_LargeFrame_Astrogene.customEffectDescriptions.3>Очень сильно влияет на потребление пищи.</BS_LargeFrame_Astrogene.customEffectDescriptions.3>
+  <BS_LargeFrame_Astrogene.customEffectDescriptions.4>Сильно изменяет запас здоровья.</BS_LargeFrame_Astrogene.customEffectDescriptions.4>
+  <BS_LargeFrame_Astrogene.customEffectDescriptions.5>Значительно повышает бронепробитие в ближнем бою.</BS_LargeFrame_Astrogene.customEffectDescriptions.5>
+  <BS_LargeFrame_Astrogene.customEffectDescriptions.6>Несколько повышает урон в ближнем бою.</BS_LargeFrame_Astrogene.customEffectDescriptions.6>
+  <BS_LargeFrame_Astrogene.customEffectDescriptions.7>Сильно влияет на шанс уклонения в ближнем бою: меньший размер даёт преимущество.</BS_LargeFrame_Astrogene.customEffectDescriptions.7>
+  <BS_LargeFrame_Astrogene.customEffectDescriptions.8>Очень сильно влияет на выработку ресурсов самим персонажем через гены Alpha Genes и Biotech Expansion.</BS_LargeFrame_Astrogene.customEffectDescriptions.8>
+  <BS_SnekEngulf_Astrogene.customEffectDescriptions.0>Максимальный размер тела жертвы — 35% от размера тела носителя. Увеличенный запас сытости может поднять этот предел до 85%.</BS_SnekEngulf_Astrogene.customEffectDescriptions.0>
+  <BS_SnekEngulf_Astrogene.customEffectDescriptions.1>Базовый урон кислотой: 6.</BS_SnekEngulf_Astrogene.customEffectDescriptions.1>
+  <BS_SnekEngulf_Astrogene.customEffectDescriptions.2>Жертва может наносить ответные удары в ближнем бою со 100% обычного урона.</BS_SnekEngulf_Astrogene.customEffectDescriptions.2>
+  <BS_AnomalousForm_Astrogene.customEffectDescriptions.0>Размер тела +0,6; эффект зависит от силы души.</BS_AnomalousForm_Astrogene.customEffectDescriptions.0>
+  <BS_AnomalousForm_Astrogene.customEffectDescriptions.1>Богатство для расчёта рейдов +1000; эффект зависит от силы души.</BS_AnomalousForm_Astrogene.customEffectDescriptions.1>
+  <BS_AnomalousForm_Astrogene.customEffectDescriptions.2>Скорость горных работ ×1,35; эффект зависит от силы души.</BS_AnomalousForm_Astrogene.customEffectDescriptions.2>
+  <BS_AnomalousForm_Astrogene.customEffectDescriptions.3>Скорость глубинного бурения ×1,2; эффект зависит от силы души.</BS_AnomalousForm_Astrogene.customEffectDescriptions.3>
+  <BS_AnomalousForm_Astrogene.customEffectDescriptions.4>Скорость строительства ×1,1; эффект зависит от силы души.</BS_AnomalousForm_Astrogene.customEffectDescriptions.4>
+  <BS_AnomalousForm_Astrogene.customEffectDescriptions.5>Богатство для расчёта рейдов ×1,35; эффект зависит от силы души.</BS_AnomalousForm_Astrogene.customEffectDescriptions.5>
+  <BS_AnomalousForm_Astrogene.customEffectDescriptions.6>Переносимый вес, в том числе в караване, ×1,5; эффект зависит от силы души.</BS_AnomalousForm_Astrogene.customEffectDescriptions.6>
+  <BS_AnomalousForm_Astrogene.customEffectDescriptions.7>— — — — — — — — — — — — — — — — — — —</BS_AnomalousForm_Astrogene.customEffectDescriptions.7>
+  <BS_AnomalousForm_Astrogene.customEffectDescriptions.8>— Общие эффекты размера тела —</BS_AnomalousForm_Astrogene.customEffectDescriptions.8>
+  <BS_AnomalousForm_Astrogene.customEffectDescriptions.9>Изменяет размер тела и связанные с ним свойства.</BS_AnomalousForm_Astrogene.customEffectDescriptions.9>
+  <BS_AnomalousForm_Astrogene.customEffectDescriptions.10>Сильно влияет на максимальный запас сытости.</BS_AnomalousForm_Astrogene.customEffectDescriptions.10>
+  <BS_AnomalousForm_Astrogene.customEffectDescriptions.11>Очень сильно влияет на потребление пищи.</BS_AnomalousForm_Astrogene.customEffectDescriptions.11>
+  <BS_AnomalousForm_Astrogene.customEffectDescriptions.12>Сильно изменяет запас здоровья.</BS_AnomalousForm_Astrogene.customEffectDescriptions.12>
+  <BS_AnomalousForm_Astrogene.customEffectDescriptions.13>Изменяет урон, но слабее, чем при линейной зависимости от размера.</BS_AnomalousForm_Astrogene.customEffectDescriptions.13>
+  <BS_AnomalousForm_Astrogene.customEffectDescriptions.14>Сильно влияет на шанс уклонения в ближнем бою: меньший размер даёт преимущество.</BS_AnomalousForm_Astrogene.customEffectDescriptions.14>
+  <BS_AnomalousForm_Astrogene.customEffectDescriptions.15>Очень сильно влияет на выработку ресурсов самим персонажем через гены Alpha Genes и Biotech Expansion.</BS_AnomalousForm_Astrogene.customEffectDescriptions.15>
+  <BS_SlowBleeding_Astrogene.customEffectDescriptions.0>Скорость кровотечения ×0,5.</BS_SlowBleeding_Astrogene.customEffectDescriptions.0>
+  <BS_GracefulAngelwings_Astrogene.customEffectDescriptions.0>Убирает штраф к скорости движения по труднопроходимой местности.</BS_GracefulAngelwings_Astrogene.customEffectDescriptions.0>
+  <BS_LargeDemonWings_Astrogene.customEffectDescriptions.0>Убирает штраф к скорости движения по труднопроходимой местности.</BS_LargeDemonWings_Astrogene.customEffectDescriptions.0>
+  <BS_AngelWings_Astrogene.customEffectDescriptions.0>Убирает штраф к скорости движения по труднопроходимой местности.</BS_AngelWings_Astrogene.customEffectDescriptions.0>
+  <BS_CentaurBody_Astrogene.customEffectDescriptions.0>По возможности заменяет «расу» персонажа на подходящую для новой формы тела.</BS_CentaurBody_Astrogene.customEffectDescriptions.0>
+  <BS_ToughSkin_Astrogene.customEffectDescriptions.0>Эффект усиливается в сочетании с генами, запрещающими носить броню.</BS_ToughSkin_Astrogene.customEffectDescriptions.0>
+  <BS_ToughSkin_Astrogene.customEffectDescriptions.1>Эффект удваивается в сочетании с генами, запрещающими носить одежду.</BS_ToughSkin_Astrogene.customEffectDescriptions.1>
+  <BS_SoulPower_Astrogene.customEffectDescriptions.0>Сознание +5%; эффект зависит от силы души.</BS_SoulPower_Astrogene.customEffectDescriptions.0>
+  <BS_SoulPower_Astrogene.customEffectDescriptions.1>Урон в ближнем бою +5%; эффект зависит от силы души.</BS_SoulPower_Astrogene.customEffectDescriptions.1>
+  <BS_SoulPower_Astrogene.customEffectDescriptions.2>Скорость движения +5%; эффект зависит от силы души.</BS_SoulPower_Astrogene.customEffectDescriptions.2>
+  <BS_SoulPower_Astrogene.customEffectDescriptions.3>Снижение урона на 0,05; эффект зависит от силы души.</BS_SoulPower_Astrogene.customEffectDescriptions.3>
+  <BS_GoldenGorgonWings_Astrogene.customEffectDescriptions.0>Убирает штраф к скорости движения по труднопроходимой местности.</BS_GoldenGorgonWings_Astrogene.customEffectDescriptions.0>
+  <BS_MajesticBird_Mid_Astrogene.customEffectDescriptions.0>Убирает штраф к скорости движения по труднопроходимой местности.</BS_MajesticBird_Mid_Astrogene.customEffectDescriptions.0>
+  <BS_Talons_Astrogene.customEffectDescriptions.0>Эффективность кистей: 90%.</BS_Talons_Astrogene.customEffectDescriptions.0>
+  <VU_NoBlood_Astrogene.customEffectDescriptions.0>Нет кровотечений.</VU_NoBlood_Astrogene.customEffectDescriptions.0>
+  <VU_Unliving_Astrogene.customEffectDescriptions.0>Невосприимчивость к вампиризму.</VU_Unliving_Astrogene.customEffectDescriptions.0>
+  <VU_Unliving_Astrogene.customEffectDescriptions.1>Невосприимчивость к превращению в зомби.</VU_Unliving_Astrogene.customEffectDescriptions.1>
+  <HalfJotunFrame_Astrogene.customEffectDescriptions.0>— — — — — — — — — — — — — — — — — — —</HalfJotunFrame_Astrogene.customEffectDescriptions.0>
+  <HalfJotunFrame_Astrogene.customEffectDescriptions.1>— Общие эффекты размера тела —</HalfJotunFrame_Astrogene.customEffectDescriptions.1>
+  <HalfJotunFrame_Astrogene.customEffectDescriptions.2>Изменяет размер тела и связанные с ним свойства.</HalfJotunFrame_Astrogene.customEffectDescriptions.2>
+  <HalfJotunFrame_Astrogene.customEffectDescriptions.3>Очень сильно влияет на потребление пищи.</HalfJotunFrame_Astrogene.customEffectDescriptions.3>
+  <HalfJotunFrame_Astrogene.customEffectDescriptions.4>Сильно изменяет запас здоровья.</HalfJotunFrame_Astrogene.customEffectDescriptions.4>
+  <HalfJotunFrame_Astrogene.customEffectDescriptions.5>Значительно повышает бронепробитие в ближнем бою.</HalfJotunFrame_Astrogene.customEffectDescriptions.5>
+  <HalfJotunFrame_Astrogene.customEffectDescriptions.6>Несколько повышает урон в ближнем бою.</HalfJotunFrame_Astrogene.customEffectDescriptions.6>
+  <HalfJotunFrame_Astrogene.customEffectDescriptions.7>Сильно влияет на шанс уклонения в ближнем бою: меньший размер даёт преимущество.</HalfJotunFrame_Astrogene.customEffectDescriptions.7>
+  <HalfJotunFrame_Astrogene.customEffectDescriptions.8>Очень сильно влияет на выработку ресурсов самим персонажем через гены Alpha Genes и Biotech Expansion.</HalfJotunFrame_Astrogene.customEffectDescriptions.8>
+  <BS_AnomalousPsychicPower_Astrogene.customEffectDescriptions.0>Повышает психочувствительность на величину, равную 25% силы души.</BS_AnomalousPsychicPower_Astrogene.customEffectDescriptions.0>
+  <BS_AncientDemonWings_Astrogene.customEffectDescriptions.0>Убирает штраф к скорости движения по труднопроходимой местности.</BS_AncientDemonWings_Astrogene.customEffectDescriptions.0>
+  <BS_SpiderBody_Devil_Astrogene.customEffectDescriptions.0>По возможности заменяет «расу» персонажа на подходящую для новой формы тела.</BS_SpiderBody_Devil_Astrogene.customEffectDescriptions.0>
+  <BS_SpiderBody_Devil_Astrogene.customEffectDescriptions.1>Уменьшает штраф к скорости движения по труднопроходимой местности.</BS_SpiderBody_Devil_Astrogene.customEffectDescriptions.1>
+  <BS_FourArms_Astrogene.customEffectDescriptions.0>По возможности заменяет «расу» персонажа на подходящую для новой формы тела.</BS_FourArms_Astrogene.customEffectDescriptions.0>
+  <BS_FourArms_Astrogene.customEffectDescriptions.1>Четыре руки. Совместимы с бионикой.</BS_FourArms_Astrogene.customEffectDescriptions.1>
+  <BS_SpiderBody_Astrogene.customEffectDescriptions.0>По возможности заменяет «расу» персонажа на подходящую для новой формы тела.</BS_SpiderBody_Astrogene.customEffectDescriptions.0>
+  <BS_BirthLitter_Astrogene.customEffectDescriptions.0>Гены детей-гибридов из одного помёта могут различаться.</BS_BirthLitter_Astrogene.customEffectDescriptions.0>
+  <BS_SmallDemonWings_Astrogene.customEffectDescriptions.0>Убирает штраф к скорости движения по труднопроходимой местности.</BS_SmallDemonWings_Astrogene.customEffectDescriptions.0>
+  <OgreFrame_Astrogene.customEffectDescriptions.0>— — — — — — — — — — — — — — — — — — —</OgreFrame_Astrogene.customEffectDescriptions.0>
+  <OgreFrame_Astrogene.customEffectDescriptions.1>— Общие эффекты размера тела —</OgreFrame_Astrogene.customEffectDescriptions.1>
+  <OgreFrame_Astrogene.customEffectDescriptions.2>Изменяет размер тела и связанные с ним свойства.</OgreFrame_Astrogene.customEffectDescriptions.2>
+  <OgreFrame_Astrogene.customEffectDescriptions.3>Очень сильно влияет на потребление пищи.</OgreFrame_Astrogene.customEffectDescriptions.3>
+  <OgreFrame_Astrogene.customEffectDescriptions.4>Сильно изменяет запас здоровья.</OgreFrame_Astrogene.customEffectDescriptions.4>
+  <OgreFrame_Astrogene.customEffectDescriptions.5>Значительно повышает бронепробитие в ближнем бою.</OgreFrame_Astrogene.customEffectDescriptions.5>
+  <OgreFrame_Astrogene.customEffectDescriptions.6>Несколько повышает урон в ближнем бою.</OgreFrame_Astrogene.customEffectDescriptions.6>
+  <OgreFrame_Astrogene.customEffectDescriptions.7>Сильно влияет на шанс уклонения в ближнем бою: меньший размер даёт преимущество.</OgreFrame_Astrogene.customEffectDescriptions.7>
+  <OgreFrame_Astrogene.customEffectDescriptions.8>Очень сильно влияет на выработку ресурсов самим персонажем через гены Alpha Genes и Biotech Expansion.</OgreFrame_Astrogene.customEffectDescriptions.8>
+  <BS_TrueForm_Angelic_Astrogene.customEffectDescriptions.0>Эффект гена слабее у персонажей, которые и так велики.</BS_TrueForm_Angelic_Astrogene.customEffectDescriptions.0>
+  <BS_TrueForm_Demonic_Astrogene.customEffectDescriptions.0>Эффект гена слабее у персонажей, которые и так велики.</BS_TrueForm_Demonic_Astrogene.customEffectDescriptions.0>
+</LanguageData>

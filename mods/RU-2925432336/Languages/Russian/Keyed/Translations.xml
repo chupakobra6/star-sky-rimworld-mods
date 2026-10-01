@@ -1,0 +1,334 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BS_ParasiteTargetNotImpaired>Цель должна быть ослаблена, оглушена, испытывать сильную боль или не замечать угрозы.</BS_ParasiteTargetNotImpaired>
+  <BS_ParasiteTargetTooSmall>Цель слишком мала для паразитирования.</BS_ParasiteTargetTooSmall>
+  <BS_ParasiteTargetNotHumanlike>Цель должна быть человекоподобной.</BS_ParasiteTargetNotHumanlike>
+  <BS_EngulfedContents>Содержимое:</BS_EngulfedContents>
+  <BS_InTooMuchPain>Слишком сильная боль для использования.</BS_InTooMuchPain>
+  <DigestiveAbilityTooLow>Пищеварение слишком слабое.</DigestiveAbilityTooLow>
+  <BS_TooLargeToSwallow>Цель слишком велика для проглатывания.</BS_TooLargeToSwallow>
+  <BS_NotEnoughRoom>Внутри недостаточно места.</BS_NotEnoughRoom>
+  <BS_EngulfedVomit>{0}: рвота из-за внутренних повреждений, боли или ухудшения пищеварения.</BS_EngulfedVomit>
+  <BS_EngulfedColonist>Проглоченная жертва — {1}. Проглотившее её существо — {0}! Пока {1} не находится в беспомощном состоянии, жертва будет пытаться выбраться, атакуя изнутри. Если {0} испытывает боль или получает ранения желудка либо туловища, жертва освобождается.</BS_EngulfedColonist>
+  <BS_RestoreAutoPregnancy>Разрешить спонтанную беременность</BS_RestoreAutoPregnancy>
+  <BS_RestoreAutoPregnancyDesc>Снова разрешить случайное самопроизвольное наступление беременности.</BS_RestoreAutoPregnancyDesc>
+  <BS_EnoughAutoPregnancy>Запретить спонтанную беременность</BS_EnoughAutoPregnancy>
+  <BS_EnoughAutoPregnancyDesc>Запретить случайное самопроизвольное наступление беременности. Уже начавшаяся беременность продолжится.</BS_EnoughAutoPregnancyDesc>
+  <BS_DraftHuntLabel>Автобой</BS_DraftHuntLabel>
+  <BS_HuntDescription>Находить и атаковать ближайших врагов. Способности с включённым автоприменением будут использоваться автоматически. Автоприменение включается правой кнопкой мыши.</BS_HuntDescription>
+  <BS_TakeCoverLabel>Поиск укрытия</BS_TakeCoverLabel>
+  <BS_TakeCoverDescription>Автоматически пытаться занять укрытие во время боя.</BS_TakeCoverDescription>
+  <BS_MeleeChargeLabel>Дальнее сближение</BS_MeleeChargeLabel>
+  <BS_MeleeChargeDescription>Сближаться с замеченными противниками даже на большом расстоянии. Если отключено, сближаться только с ближайшими врагами.</BS_MeleeChargeDescription>
+  <BS_FullAIControlLabel>Управление ИИ</BS_FullAIControlLabel>
+  <BS_FullAIControlDescription>Передать управление ИИ: преследовать врагов по всей карте, выбивать двери и делать всё необходимое для устранения известных угроз. Настройки укрытий и автоприменения способностей продолжают действовать.</BS_FullAIControlDescription>
+  <BS_AutoUseAllAbilitiesLabel>Все способности — авто</BS_AutoUseAllAbilitiesLabel>
+  <BS_AutoUseAllAbilitiesDescription>Включить или отключить автоматическое применение ВСЕХ способностей.\n\nЭту кнопку можно скрыть в настройках и вместо неё нажимать правой кнопкой мыши на кнопку «Автобой».\n\nОтдельная кнопка появилась главным образом потому, что некоторые игроки не знали о возможности автоприменения.</BS_AutoUseAllAbilitiesDescription>
+  <BS_IsEnabledP>(Включено)</BS_IsEnabledP>
+  <BS_IsDisabledP>(Отключено)</BS_IsDisabledP>
+  <BP_GenePrerequisites>Требования гена</BP_GenePrerequisites>
+  <BP_PrerequisiteSet>требования</BP_PrerequisiteSet>
+  <BP_AnyOf>Нужен ЛЮБОЙ из перечисленных</BP_AnyOf>
+  <BP_AllOf>Нужны ВСЕ перечисленные</BP_AllOf>
+  <BP_AllOfPercent>Требуется {0}% перечисленных</BP_AllOfPercent>
+  <BP_NoneOf>Не должно быть НИ ОДНОГО из перечисленных</BP_NoneOf>
+  <BP_NoneOfPercent>Допускается не более {0}% перечисленных</BP_NoneOfPercent>
+  <BP_GeneNotFoundInGame>Ген недоступен в вашей игре</BP_GeneNotFoundInGame>
+  <BP_GenesSuppressed>Подавляемые гены</BP_GenesSuppressed>
+  <BP_ActiveOnCondition>Условия активации</BP_ActiveOnCondition>
+  <BS_ActiveIf>активируется, если</BS_ActiveIf>
+  <BS_PickAListedGene>Выберите один из перечисленных генов для получения</BS_PickAListedGene>
+  <BS_Metabolism>М</BS_Metabolism>
+  <GenePreventsEquipping>Ген не позволяет это экипировать.</GenePreventsEquipping>
+  <BS_PawnIsNotAGiant>Персонаж не является великаном.</BS_PawnIsNotAGiant>
+  <BS_UserTooYoung>Слишком юный возраст для использования.</BS_UserTooYoung>
+  <BS_TargetTooYoung>Цель слишком юна.</BS_TargetTooYoung>
+  <BS_TargetLacksSlimeProliferation>У цели нет гена размножения слизи.</BS_TargetLacksSlimeProliferation>
+  <BS_ProliferationBirth>Успешное размножение</BS_ProliferationBirth>
+  <BS_ProliferationDescription>Родился новый детёныш.</BS_ProliferationDescription>
+  <BS_ZombieApocalypse>В воздухе чувствуется тревога…</BS_ZombieApocalypse>
+  <BS_ZombieReason>Возвращение из мёртвых</BS_ZombieReason>
+  <BS_EnterPilotable>Занять место оператора</BS_EnterPilotable>
+  <BS_TooLargeToPilot>не помещается на месте оператора</BS_TooLargeToPilot>
+  <BS_NotEnoughRoomForPilot>Недостаточно места для оператора</BS_NotEnoughRoomForPilot>
+  <BS_PilotCapReached>Все места операторов заняты</BS_PilotCapReached>
+  <BS_CannotPilotNonDownedEnemy>Для управления существом другой фракции оно должно быть повержено и освобождено от содержимого.</BS_CannotPilotNonDownedEnemy>
+  <BS_CannotEnterEnemyAsOperator>Нельзя занять место оператора внутри существа другой фракции</BS_CannotEnterEnemyAsOperator>
+  <BS_ConsciousnessFromPilot>Вклад оператора в сознание</BS_ConsciousnessFromPilot>
+  <BS_EjectPilots>Высадить операторов</BS_EjectPilots>
+  <BS_PilotedBy>Внутри: </BS_PilotedBy>
+  <BS_PilotEjectCoutndown>Не функционирует; скоро начнётся высадка операторов…</BS_PilotEjectCoutndown>
+  <BS_StatsReport_Warm>Алкоголь: согревающее действие</BS_StatsReport_Warm>
+  <BS_StatsReport_Tipsy>Алкоголь: лёгкое опьянение</BS_StatsReport_Tipsy>
+  <BS_StatsReport_Drunk>Алкоголь: опьянение</BS_StatsReport_Drunk>
+  <BS_TargetAlreadyUndead>Цель уже является нежитью.</BS_TargetAlreadyUndead>
+  <MessageMimicryGenesRemoved>Мимикрия значительно превысила предел метаболизма (−15). Часть случайных ксеногенов утрачена.</MessageMimicryGenesRemoved>
+  <SizeOffsetByAge>Изменение размера с возрастом</SizeOffsetByAge>
+  <SizeByAgeOffset>Прибавка к размеру в возрасте</SizeByAgeOffset>
+  <BS_ReturningSoul_FireTitle>{0}: гибель в огне</BS_ReturningSoul_FireTitle>
+  <BS_ReturningSoul_Fire>{0}: возвращение невозможно из-за гибели в огне. На этот раз смерть может оказаться окончательной.</BS_ReturningSoul_Fire>
+  <BS_ReturningSoul_Failed>{0}: не удалось найти подходящее невысохшее тело для возвращения в мир. Каждая неудача повышает риск исчезнуть навсегда.</BS_ReturningSoul_Failed>
+  <BS_ReturningSoul_FailedPermanent>{0}: подходящее тело не нашлось. Вероятно, душа решила вернуться где-то далеко или навсегда покинула этот мир.</BS_ReturningSoul_FailedPermanent>
+  <BS_WasKilled_Title>{0}: гибель</BS_WasKilled_Title>
+  <BS_WasKilledSoulless>{0}: гибель без возможности возвращения, поскольку души уже нет.</BS_WasKilledSoulless>
+  <BS_ReturningSoul_Success>{0}: возвращение из пустоты.</BS_ReturningSoul_Success>
+  <BS_ReturningSoulCorpse_Success>{0}: возвращение из пустоты через вселение в чужое мёртвое тело. Его прежний владелец — {1}.</BS_ReturningSoulCorpse_Success>
+  <BS_CannotUseOnSoulless>Нельзя применить к персонажу без души.</BS_CannotUseOnSoulless>
+  <BS_GainedSoulPower>Получатель — {0}. Получено: {1} {2}. Источник — {3}.</BS_GainedSoulPower>
+  <BS_GainedSkillFromPawnAmount>{0}: способность даёт {1} ед. опыта навыка «{2}». Источник — {3}.</BS_GainedSkillFromPawnAmount>
+  <BS_StoleSkillAmount>{0}: способность похищает {1} ед. опыта навыка «{2}». Жертва — {3}.</BS_StoleSkillAmount>
+  <BS_StoleSkillAmount_Influence>{0}: получено {1} ед. опыта навыка «{2}» благодаря влиянию на чувства. Под влиянием — {3}.</BS_StoleSkillAmount_Influence>
+  <BS_StoleSkillAmount_Attack>{0}: атака похищает {1} ед. опыта навыка «{2}». Жертва — {3}.</BS_StoleSkillAmount_Attack>
+  <BS_LovinnBloodfeed>{0}: питание кровью во время близости. Партнёр — {1}.</BS_LovinnBloodfeed>
+  <BS_LovinSoulFeed>{0}: во время близости поглощена частица души ({2}). Партнёр — {1}.</BS_LovinSoulFeed>
+  <BS_LowPsyfocusTarget>{0}: получено очень мало силы. Цель — {1}. Вероятно, {1} обладает низкой психочувствительностью. Это предупреждение больше не появится.</BS_LowPsyfocusTarget>
+  <BS_UseAndroidCharger>заряжаться</BS_UseAndroidCharger>
+  <BS_InsufficientBatteryPower>недостаточно энергии в аккумуляторах</BS_InsufficientBatteryPower>
+  <BS_GenesRemovedByOverLimit>{0}: из-за достижения предела метаболизма ({2}) утрачены гены. Количество: {1}.</BS_GenesRemovedByOverLimit>
+  <BS_ProductionTooltip>Носитель вырабатывает ресурс «{1}» в количестве {0} ед. каждые {2} сут. Носители крупнее обычного человека производят больше.</BS_ProductionTooltip>
+  <BS_StatsReport_BodySize>Множитель изменения размера тела: {0}</BS_StatsReport_BodySize>
+  <BS_Sapient>разумное существо ({0})</BS_Sapient>
+  <BS_And>и</BS_And>
+  <BS_With>с</BS_With>
+  <BS_Right>правый</BS_Right>
+  <BS_Left>левый</BS_Left>
+  <BS_Mech>механический</BS_Mech>
+  <BS_Artificial>искусственный</BS_Artificial>
+  <BS_Applies>накладывает</BS_Applies>
+  <BS_StatChangesDescriptions>Эффекты</BS_StatChangesDescriptions>
+  <BS_RacialFeatures>Особенности расы</BS_RacialFeatures>
+  <BS_ApplyBodyHediff>{0}</BS_ApplyBodyHediff>
+  <BS_ApplyPartHediff>эффект: {0}; часть тела: {1}</BS_ApplyPartHediff>
+  <BS_ThingDefSwap>меняет расу или создаёт гибридную расу</BS_ThingDefSwap>
+  <BS_ThingDefSwapDesc>Применяет: {0}</BS_ThingDefSwapDesc>
+  <BS_DroneDesc>считается дроном — слабее реагирует на смерть и другие события</BS_DroneDesc>
+  <BS_NoFamilyRelationsDesc>не имеет родственных связей</BS_NoFamilyRelationsDesc>
+  <BS_ForceUnarmed>безоружный боец</BS_ForceUnarmed>
+  <BS_ForceUnarmedDesc>сражается в ближнем бою без оружия или с помощью бионики</BS_ForceUnarmedDesc>
+  <BS_BleedRate>скорость кровотечения</BS_BleedRate>
+  <BS_BleedRateDesc>скорость кровотечения: {0}</BS_BleedRateDesc>
+  <BS_SoulPower>сила души</BS_SoulPower>
+  <BS_SoulPowerFalloffDesc>порог снижения эффективности поглощения душ: {0}</BS_SoulPowerFalloffDesc>
+  <BS_SiphonSoulOffsetDesc>множитель поглощения силы души: {0}</BS_SiphonSoulOffsetDesc>
+  <BS_SiphonSkillOffsetDesc>множитель поглощения навыков: {0}</BS_SiphonSkillOffsetDesc>
+  <BS_ConsumeSoulOnHit>поглощает энергию души при убийстве</BS_ConsumeSoulOnHit>
+  <BS_SiphonSoul>поглощение души</BS_SiphonSoul>
+  <BS_SiphonSoulOnHit>поглощение души при смертельном ударе</BS_SiphonSoulOnHit>
+  <BS_SiphonInfluence>энергия души при вербовке</BS_SiphonInfluence>
+  <BS_SiphonLovin>поглощение энергии во время близости</BS_SiphonLovin>
+  <BS_SiphonCustom>может получать энергию души особым способом</BS_SiphonCustom>
+  <BS_SiphonUnknown>источник энергии души не указан</BS_SiphonUnknown>
+  <BS_ConsumeSoulOnHitDesc>эффективность: {0}</BS_ConsumeSoulOnHitDesc>
+  <BS_PawnDiet>рацион персонажа</BS_PawnDiet>
+  <BS_UnlivingDesc>считается неживым существом</BS_UnlivingDesc>
+  <BS_DeathlikeDesc>сродство со смертью</BS_DeathlikeDesc>
+  <BS_MechanicalDesc>считается механическим существом</BS_MechanicalDesc>
+  <BS_BloodfeederDesc>считается кровопийцей</BS_BloodfeederDesc>
+  <BS_AmorphousDesc>считается аморфным существом</BS_AmorphousDesc>
+  <BS_HasApparelRestrictions>меняет доступную одежду</BS_HasApparelRestrictions>
+  <BS_HasNullThoughts>отключает мысли</BS_HasNullThoughts>
+  <BS_HasNullThoughtsCount>отключено мыслей: {0}</BS_HasNullThoughtsCount>
+  <SoulPowerFalloffStartDescription>порог снижения эффективности накопления силы души: +{0}%</SoulPowerFalloffStartDescription>
+  <BS_Produces>производит</BS_Produces>
+  <BS_Production>производство</BS_Production>
+  <BS_Progress>прогресс</BS_Progress>
+  <BS_ConditionalDescription>условия активации</BS_ConditionalDescription>
+  <BS_Aptitudes>Предрасположенности</BS_Aptitudes>
+  <BS_DisableSkillBelowAptitudeDescription>Навыки недоступны при предрасположенности ниже порога</BS_DisableSkillBelowAptitudeDescription>
+  <BS_DisabledWorkTypes>Недоступные виды работ</BS_DisabledWorkTypes>
+  <BS_LearnedSkillRange>Ограничение уровня навыков</BS_LearnedSkillRange>
+  <BS_CreatureTag>классификация</BS_CreatureTag>
+  <BS_RomanceTags>романтическая совместимость</BS_RomanceTags>
+  <BS_FocedEndoImmutable>обязательные неизменяемые эндогены</BS_FocedEndoImmutable>
+  <BS_FocedEndo>обязательные эндогены</BS_FocedEndo>
+  <BS_FocedXeno>обязательный ксеноген</BS_FocedXeno>
+  <BS_SizeByAgeOffset>Прибавка к размеру в возрасте</BS_SizeByAgeOffset>
+  <BS_SizeMultiplayerByAge>Множитель размера в возрасте</BS_SizeMultiplayerByAge>
+  <BS_LockedNeeds>Зафиксированные потребности</BS_LockedNeeds>
+  <BS_PreventDisfigurementDesc>предотвращает обезображивание</BS_PreventDisfigurementDesc>
+  <BS_CanWalkOnCreep>Покров насекомых</BS_CanWalkOnCreep>
+  <BS_CanWalkOnCreepDesc>передвигается по покрову насекомых без замедления</BS_CanWalkOnCreepDesc>
+  <BS_Priority>приоритет: {0}</BS_Priority>
+  <BS_Modified>может ограничивать выбор одежды</BS_Modified>
+  <BS_CorpseOf>Труп: {0}</BS_CorpseOf>
+  <BS_RequirementNotMet>требования для активации не выполнены</BS_RequirementNotMet>
+  <BS_PrerequisitesNotMet>не выполнены требования: {0}</BS_PrerequisitesNotMet>
+  <BS_PrerequisitesNotMetAnyOf>нужен хотя бы один из перечисленных: {0}</BS_PrerequisitesNotMetAnyOf>
+  <BS_PrerequisitesNotMetAllOf>требуются все перечисленные: {0}</BS_PrerequisitesNotMetAllOf>
+  <BS_PrerequisitesNotMetNoneOf>активации препятствуют: {0}</BS_PrerequisitesNotMetNoneOf>
+  <BS_ConditionForActivationNotMet>условия активации не выполнены</BS_ConditionForActivationNotMet>
+  <BS_DisabledByHediff>отключено чертой характера или состоянием здоровья</BS_DisabledByHediff>
+  <BS_DisabledByFilter>категория генов отключена</BS_DisabledByFilter>
+  <BS_NotEnoughSoulEnergy>Недостаточно энергии души</BS_NotEnoughSoulEnergy>
+  <BS_StopSomething>Остановить: {0}</BS_StopSomething>
+  <BS_StopActiveDesc>Прекратить действие активного эффекта</BS_StopActiveDesc>
+  <BS_SapientAnimal>Разумное животное</BS_SapientAnimal>
+  <BS_Insect>Разумное насекомое</BS_Insect>
+  <BS_General>Общее</BS_General>
+  <BS_Races>Расы</BS_Races>
+  <BS_Size>Размер</BS_Size>
+  <BS_AutoCombat>Автобой</BS_AutoCombat>
+  <BS_GameMechanics_Tab>Механики</BS_GameMechanics_Tab>
+  <BS_Extras>Дополнения</BS_Extras>
+  <BS_Advanced>Расширенные</BS_Advanced>
+  <BS_Developer>Разработчик</BS_Developer>
+  <BS_BigAndSmall>Big and Small</BS_BigAndSmall>
+  <BS_ResetCache>Очистить и пересоздать кэши</BS_ResetCache>
+  <BS_ResetSettings>Восстановить настройки по умолчанию</BS_ResetSettings>
+  <BS_ResetToRecommendedSettings>Восстановить рекомендуемые настройки</BS_ResetToRecommendedSettings>
+  <BS_ToggleFeatures>Включение контента — нужен перезапуск</BS_ToggleFeatures>
+  <BS_Surgery>Бионика и хирургия</BS_Surgery>
+  <BS_SapientSettings>Настройки разумных животных</BS_SapientSettings>
+  <BS_SapientAnimals_Forced>Разумные животные — принудительно включены другими модами</BS_SapientAnimals_Forced>
+  <BS_SapientAnimals>Включить разумных животных — нужен перезапуск</BS_SapientAnimals>
+  <BS_AnimalsNoSkillPenalty>Снизить штраф к навыкам из-за отсутствия рук</BS_AnimalsNoSkillPenalty>
+  <BS_AllAnimalsHaveHands>У всех животных есть руки</BS_AllAnimalsHaveHands>
+  <BS_SapientAnimalsCanRomanceAnySapientAnimals>Разрешить романтические отношения между любыми разумными животными</BS_SapientAnimalsCanRomanceAnySapientAnimals>
+  <BS_SapientMechanoids>Включить разумных механоидов — нужен перезапуск</BS_SapientMechanoids>
+  <BS_SapientMechsMinAge>Повышать возраст разумных механоидов до минимально допустимого</BS_SapientMechsMinAge>
+  <BS_ScaleAnimals>Применять изменение размеров и другие механики к животным</BS_ScaleAnimals>
+  <BS_LowestUsed>Для бонуса к урону в ближнем бою используется меньшее из двух рассчитанных значений.</BS_LowestUsed>
+  <BS_MultDamageExplain>Изменение множителя урона в зависимости от размера</BS_MultDamageExplain>
+  <BS_FlatDMGExplain>Прибавка к урону атак за каждую единицу размера</BS_FlatDMGExplain>
+  <BS_HungerMultiplierField>Влияние размера на голод</BS_HungerMultiplierField>
+  <BS_Rendering>Отображение</BS_Rendering>
+  <BS_SizeOffsetPawn>Смещать изображение гуманоидов с учётом размера</BS_SizeOffsetPawn>
+  <BS_SizeOffsetAnimalPawn>Смещать изображение животных с учётом размера</BS_SizeOffsetAnimalPawn>
+  <BS_DisabeVFCachine>Отключить кэш текстур — помогает при обрезанном изображении персонажей:</BS_DisabeVFCachine>
+  <BS_ScalePawnDefault>Масштаб изображения персонажей. Значения по умолчанию — 1.</BS_ScalePawnDefault>
+  <BS_ScaleLargerPawns>Масштаб крупных персонажей</BS_ScaleLargerPawns>
+  <BS_ScaleSmallerPawns>Масштаб мелких персонажей</BS_ScaleSmallerPawns>
+  <BS_HeadSizeExplain>Размер головы крупных персонажей: чем выше значение, тем крупнее голова.</BS_HeadSizeExplain>
+  <BS_HeadExponentLargeField>Показатель степени для головы крупных персонажей</BS_HeadExponentLargeField>
+  <BS_HeadExponentSmallExplain>Размер головы мелких персонажей: чем ниже значение, тем крупнее голова.</BS_HeadExponentSmallExplain>
+  <BS_HeadExponentSmalleField>Показатель степени для головы мелких персонажей</BS_HeadExponentSmalleField>
+  <BS_NormalizeBodyType>Нормализовать масштаб телосложения «Мускулистый» и «Толстый» — рекомендуется</BS_NormalizeBodyType>
+  <BS_GameMechanics>Игровые механики</BS_GameMechanics>
+  <BS_PreventUndead>Не допускать случайного появления нежити</BS_PreventUndead>
+  <BS_InflitratorChance>Вероятность появления лазутчиков</BS_InflitratorChance>
+  <BS_InflitratorRaidChance>Вероятность налёта лазутчиков</BS_InflitratorRaidChance>
+  <BS_ImmortalReturnFactor>Множитель срока возвращения бессмертных — меньшее значение ускоряет возвращение</BS_ImmortalReturnFactor>
+  <BS_SoulPowerFalloffOffset>Смещение порога ослабления прироста силы души</BS_SoulPowerFalloffOffset>
+  <BS_SoulPowerGainMultiplier>Множитель прироста силы души</BS_SoulPowerGainMultiplier>
+  <BS_MetabolismLimitOffset>Изменение предела метаболизма при усвоении генов и подобных действиях</BS_MetabolismLimitOffset>
+  <BS_ExtraUIForceDisabledWarning>Дополнительные элементы интерфейса отключены. Это может нарушить работу модов, которым они нужны.</BS_ExtraUIForceDisabledWarning>
+  <BS_ForceDisableExtraUIWidgets>Принудительно отключить дополнительные кнопки и элементы интерфейса</BS_ForceDisableExtraUIWidgets>
+  <BS_ShowColorPaletteBtn>Показывать кнопку палитры цветов</BS_ShowColorPaletteBtn>
+  <BS_ShowColorPaletteBtn_Forced>Палитра цветов — принудительно включена модами</BS_ShowColorPaletteBtn_Forced>
+  <BS_ShowRaceBtn>Показывать кнопку расы</BS_ShowRaceBtn>
+  <BS_ShowRaceBtn_Forced>Кнопка расы — принудительно включена модами</BS_ShowRaceBtn_Forced>
+  <BS_SciFiNames>Использовать научно-фантастические названия — нужен перезапуск</BS_SciFiNames>
+  <BS_FantasyNames>Автоматически заменять названия на фэнтезийные — нужен перезапуск</BS_FantasyNames>
+  <BS_PatchPlayerFactions>Изменять фракцию игрока</BS_PatchPlayerFactions>
+  <BS_AutoCombatExplain>Настройки частичной самостоятельности персонажей в бою.</BS_AutoCombatExplain>
+  <BS_EnabledDraftedJobs>Включить кнопку автобоя</BS_EnabledDraftedJobs>
+  <BS_AutoCombatResets>Отключать автобой при снятии призыва</BS_AutoCombatResets>
+  <BS_LongChargeDefaultOff>Отключать дальнее сближение при снятии призыва</BS_LongChargeDefaultOff>
+  <BS_ShowMeleeChargeBtn>Показывать кнопку дальнего сближения</BS_ShowMeleeChargeBtn>
+  <BS_ShowTakeCoverBtn>Показывать кнопку поиска укрытия</BS_ShowTakeCoverBtn>
+  <BS_FullAIControl>Показывать кнопку полного управления ИИ</BS_FullAIControl>
+  <BS_RightClickAutoCombat>Действие правой кнопки мыши на кнопке автобоя</BS_RightClickAutoCombat>
+  <BS_RightClickAutoCombat_ShowMenu>Открыть контекстное меню</BS_RightClickAutoCombat_ShowMenu>
+  <BS_RightClickAutoCombat_Toggle>Включить или отключить автоприменение способностей</BS_RightClickAutoCombat_Toggle>
+  <BS_ShowAutoUseAllAbilitiesBtn>Показывать кнопку автоприменения всех способностей</BS_ShowAutoUseAllAbilitiesBtn>
+  <BS_RecolourAnything>Включить экспериментальные функции</BS_RecolourAnything>
+  <BS_RecolourAnythingDisable>Отключить экспериментальные функции</BS_RecolourAnythingDisable>
+  <BS_MakeBionicsAndGenesRecolourable>Разрешить изменение цвета большинства бионических частей тела и генов</BS_MakeBionicsAndGenesRecolourable>
+  <BS_ActivateExperimental>Экспериментальные функции — нужен перезапуск</BS_ActivateExperimental>
+  <BS_GenesSpecific>Настройки Big and Small Genes</BS_GenesSpecific>
+  <BS_DoDefGeneration>Создавать гены превращения в ксенотипы</BS_DoDefGeneration>
+  <BS_DevSettings>Параметры разработчика</BS_DevSettings>
+  <BS_JesusMode>Заполнить все шкалы потребностей</BS_JesusMode>
+  <BS_RecruitDevSpawned>Включать персонажей, созданных инструментами разработчика B&amp;S, во фракцию игрока</BS_RecruitDevSpawned>
+  <BS_HideNonBSGene>Скрыть гены из других модов и базовой игры</BS_HideNonBSGene>
+  <BS_EditThing_Title>Редактирование: {0}</BS_EditThing_Title>
+  <BS_Reset_Custom>Сбросить пользовательские настройки</BS_Reset_Custom>
+  <BS_Tab_Thing>Объект</BS_Tab_Thing>
+  <BS_Tab_Apparel>Одежда</BS_Tab_Apparel>
+  <BS_Tab_CustomTag>По меткам</BS_Tab_CustomTag>
+  <BS_Skin>цвет кожи</BS_Skin>
+  <BS_Hair>цвет волос</BS_Hair>
+  <BS_Custom>пользовательский</BS_Custom>
+  <BS_Custom_Str>пользовательский цвет {0}</BS_Custom_Str>
+  <BS_GlobalColors>общие цвета</BS_GlobalColors>
+  <BS_Color>цвет</BS_Color>
+  <BS_CustomizableColor>настроить цвет</BS_CustomizableColor>
+  <BS_BaseColor>базовый цвет</BS_BaseColor>
+  <BS_Primary>основной</BS_Primary>
+  <BS_Secondary>дополнительный</BS_Secondary>
+  <BS_Tertiary>третий</BS_Tertiary>
+  <BS_Default>По умолчанию</BS_Default>
+  <BS_Reset>Сбросить</BS_Reset>
+  <BS_PrimaryColor>основной цвет</BS_PrimaryColor>
+  <BS_SecondaryColor>дополнительный цвет</BS_SecondaryColor>
+  <BS_TertiaryColor>третий цвет</BS_TertiaryColor>
+  <BS_VariantsOf>Варианты: {0}</BS_VariantsOf>
+  <BS_Enable>включить</BS_Enable>
+  <BS_Shader>шейдер</BS_Shader>
+  <BS_ShowPawnRaceTooltip>Показать сведения о расе: {0} ({1})</BS_ShowPawnRaceTooltip>
+  <BS_EditPawnTooltip>Изменить внешность персонажа</BS_EditPawnTooltip>
+  <BS_RestartRequired>Изменения вступят в силу после перезапуска</BS_RestartRequired>
+  <BS_RacialFeatures_Mech>Механическое устройство</BS_RacialFeatures_Mech>
+  <BS_MechEndo>Основные системы</BS_MechEndo>
+  <BS_MechXeno>Механитные структуры</BS_MechXeno>
+  <BS_VampEndo>Сущность</BS_VampEndo>
+  <BS_VampXeno>Родословная</BS_VampXeno>
+  <BS_SupernaturalEndo>Происхождение</BS_SupernaturalEndo>
+  <BS_FantasyXeno>Временные силы</BS_FantasyXeno>
+  <BS_ViewGenetics>Просмотр: {0}</BS_ViewGenetics>
+  <BS_RacialFeatureDescription>Список особенностей расы</BS_RacialFeatureDescription>
+  <BS_RacialTraits>Черты расы</BS_RacialTraits>
+  <MessagerTargetTooBigToFeastOn>Цель слишком велика для поедания.</MessagerTargetTooBigToFeastOn>
+  <MessageUserIsNotHungry>Нет голода.</MessageUserIsNotHungry>
+  <StatsReport_AtNight>Ночью</StatsReport_AtNight>
+  <BS_TargetNoBlood>У цели нет крови</BS_TargetNoBlood>
+  <PsychicSensitivity_High>Психочувствительность выше 160%</PsychicSensitivity_High>
+  <PsychicSensitivity_VeryHigh>Психочувствительность выше 225%</PsychicSensitivity_VeryHigh>
+  <PsychicSensitivity_Normal>Психочувствительность выше 90%</PsychicSensitivity_Normal>
+  <BS_GenePreventsEquipping>Эта раса не может пользоваться оружием</BS_GenePreventsEquipping>
+  <BS_CanWieldThings>Может пользоваться инструментами</BS_CanWieldThings>
+  <BS_LacksRequiredTag>Эта раса не может это экипировать</BS_LacksRequiredTag>
+  <BS_LacksRequiredClassTag>Эта раса не может экипировать предметы этого класса</BS_LacksRequiredClassTag>
+  <BS_CannotWearApparel>Эта раса не может носить одежду и броню</BS_CannotWearApparel>
+  <BS_CannotWearClothing>Эта раса не может носить обычную одежду</BS_CannotWearClothing>
+  <BS_CannotWearArmor>Эта раса не может носить специализированную броню</BS_CannotWearArmor>
+  <BS_CannotWearThis>Эта раса не может носить этот предмет</BS_CannotWearThis>
+  <BS_CannotWearPants>Эта раса не может носить штаны</BS_CannotWearPants>
+  <BS_CannotWearFoot>Эта раса не может носить этот предмет</BS_CannotWearFoot>
+  <BS_CannotWearOverHead>Эта раса не может носить головные уборы</BS_CannotWearOverHead>
+  <BS_CannotWearOuter>Эта раса не может носить одежду наружного слоя</BS_CannotWearOuter>
+  <BS_CannotWearMiddle>Эта раса не может носить одежду среднего слоя</BS_CannotWearMiddle>
+  <BS_CannotWearInner>Эта раса не может носить одежду внутреннего слоя</BS_CannotWearInner>
+  <BS_CannotWearExact>Особенности расы не позволяют носить этот конкретный предмет.</BS_CannotWearExact>
+  <BS_CannotWearLayer>Эта раса не может носить одежду в слое, который занимает предмет.</BS_CannotWearLayer>
+  <BS_CannotWearBodyPart>Эта раса не может носить одежду на части тела, которую занимает предмет.</BS_CannotWearBodyPart>
+  <BS_CannotWearTag>Эта раса не может носить одежду этого типа.</BS_CannotWearTag>
+  <BS_CannotWearThisApparel>Эта раса не может носить эту одежду</BS_CannotWearThisApparel>
+  <BS_AccumulateSlimeUntil>Преобразовывать питательные вещества в слизь до</BS_AccumulateSlimeUntil>
+  <AbilityPoolCost>Затраты</AbilityPoolCost>
+  <BS_LifeSizeStatueOf>Статуя в натуральную величину: </BS_LifeSizeStatueOf>
+  <BS_StatueSurprised>. На лице застыло удивление.</BS_StatueSurprised>
+  <BS_StatueFrightened>. На лице застыл ужас.</BS_StatueFrightened>
+  <BS_StatueAngry>. Поза выражает неистовую ярость.</BS_StatueAngry>
+  <BS_StatuePain>. Фигура корчится от боли, исказившей лицо.</BS_StatuePain>
+  <BS_StatueDisoriented>. На лице застыла полная растерянность.</BS_StatueDisoriented>
+  <BS_StatueDespair>. Фигура выражает крайнее отчаяние.</BS_StatueDespair>
+  <BS_StatueScreaming>. Фигура будто кричит на что-то.</BS_StatueScreaming>
+  <BS_StatueOblivious>. Кажется, изображённое существо ничего не замечает.</BS_StatueOblivious>
+  <BS_StatueStone>; твёрдая как камень, детка.</BS_StatueStone>
+  <RED_Health>Red Health</RED_Health>
+  <RED_HealthSettings>Red Health</RED_HealthSettings>
+  <RED_HealthEnabledForAllPawns>Включить</RED_HealthEnabledForAllPawns>
+  <RED_AddTrackersToValidPawns>Добавить отслеживание здоровья персонажам, у которых его нет</RED_AddTrackersToValidPawns>
+  <RED_RemoveAddTrackersToValidPawns>Удалить отслеживание здоровья у всех персонажей</RED_RemoveAddTrackersToValidPawns>
+  <RED_HideHealthTracker>Скрыть индикатор здоровья</RED_HideHealthTracker>
+  <RED_HealthDisableForAll>Принудительно отключить для всех, даже если включено геном или состоянием здоровья</RED_HealthDisableForAll>
+  <RED_SpecificTrackers>Выбрать отслеживаемые аспекты</RED_SpecificTrackers>
+  <RED_ShowPercentages>Показывать проценты</RED_ShowPercentages>
+  <RED_DevSettings>Настройки разработчика</RED_DevSettings>
+  <RED_DevTimeAcceleration>Частота событий, связанных со здоровьем</RED_DevTimeAcceleration>
+  <RED_Logging>Включить подробный журнал</RED_Logging>
+  <chupakobra6_2925432336_BS_InVacuum>В вакууме</chupakobra6_2925432336_BS_InVacuum>
+  <chupakobra6_2925432336_BP_GenePrerequisitesUnknownType>Неизвестный тип требования</chupakobra6_2925432336_BP_GenePrerequisitesUnknownType>
+  <chupakobra6_2925432336_BS_PreventDisfigurement>Предотвращение обезображивания</chupakobra6_2925432336_BS_PreventDisfigurement>
+</LanguageData>

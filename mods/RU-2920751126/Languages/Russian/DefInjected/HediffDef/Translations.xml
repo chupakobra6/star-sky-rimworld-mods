@@ -1,0 +1,173 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BS_AcidBuildUp.label>кислота на теле</BS_AcidBuildUp.label>
+  <BS_AcidBuildUp.description>Тело покрыто кислотой.</BS_AcidBuildUp.description>
+  <BS_AcidBuildUp.stages.acid_buildup_light.label>кислота на теле: лёгкое покрытие</BS_AcidBuildUp.stages.acid_buildup_light.label>
+  <BS_AcidBuildUp.stages.acid_buildup_light.extraTooltip>Небольшие участки тела покрыты едким веществом.</BS_AcidBuildUp.stages.acid_buildup_light.extraTooltip>
+  <BS_AcidBuildUp.stages.acid_buildup_moderate.label>кислота на теле: умеренное покрытие</BS_AcidBuildUp.stages.acid_buildup_moderate.label>
+  <BS_AcidBuildUp.stages.acid_buildup_moderate.extraTooltip>Значительная часть тела покрыта едким веществом.</BS_AcidBuildUp.stages.acid_buildup_moderate.extraTooltip>
+  <BS_AcidBuildUp.stages.acid_buildup_severe.label>кислота на теле: сильное покрытие</BS_AcidBuildUp.stages.acid_buildup_severe.label>
+  <BS_AcidBuildUp.stages.acid_buildup_severe.extraTooltip>Тело почти целиком покрыто едким веществом.</BS_AcidBuildUp.stages.acid_buildup_severe.extraTooltip>
+  <BS_AcidBuildUp.stages.acid_buildup_maximal.label>кислота на теле: полное покрытие</BS_AcidBuildUp.stages.acid_buildup_maximal.label>
+  <BS_AcidBuildUp.stages.acid_buildup_maximal.extraTooltip>Тело залито едким веществом. Дополнительная кислота лишь продлит действие эффекта.</BS_AcidBuildUp.stages.acid_buildup_maximal.extraTooltip>
+  <BS_ToughSkin_NoArmor.label>особо прочная кожа</BS_ToughSkin_NoArmor.label>
+  <BS_ToughSkin_NoArmor.description>Не позволяет носить броню, но значительно усиливает защиту тела.</BS_ToughSkin_NoArmor.description>
+  <BS_NaturalArmor_NoArmor.description>Не позволяет носить броню, но значительно усиливает защиту тела.</BS_NaturalArmor_NoArmor.description>
+  <BS_NaturalArmor_Great_NoArmor.description>Не позволяет носить броню, но значительно усиливает защиту тела.</BS_NaturalArmor_Great_NoArmor.description>
+  <BS_ToughSkin_NoApparel.label>непрорезаемая кожа</BS_ToughSkin_NoApparel.label>
+  <BS_ToughSkin_NoApparel.description>Не позволяет носить одежду, но значительно усиливает защиту тела.</BS_ToughSkin_NoApparel.description>
+  <BS_NaturalArmor_NoApparel.description>Не позволяет носить одежду, но значительно усиливает защиту тела.</BS_NaturalArmor_NoApparel.description>
+  <BS_NaturalArmor_Great_NoApparel.description>Не позволяет носить одежду, но значительно усиливает защиту тела.</BS_NaturalArmor_Great_NoApparel.description>
+  <BS_NaturalArmor_NoArmor.label>тяжёлая природная броня</BS_NaturalArmor_NoArmor.label>
+  <BS_NaturalArmor_NoApparel.label>невероятная природная броня</BS_NaturalArmor_NoApparel.label>
+  <BS_NaturalArmor_Great_NoArmor.label>почти полная неуязвимость</BS_NaturalArmor_Great_NoArmor.label>
+  <BS_NaturalArmor_Great_NoApparel.label>практическая неуязвимость</BS_NaturalArmor_Great_NoApparel.label>
+  <BS_DrunkenPower1.label>разогрев</BS_DrunkenPower1.label>
+  <BS_DrunkenPower1.description>Без капли алкоголя в крови не повоюешь!</BS_DrunkenPower1.description>
+  <BS_DrunkenPower2.label>пьяный боец</BS_DrunkenPower2.label>
+  <BS_DrunkenPower2.description>Ха-ха-ха! А ну пустите меня к ним!</BS_DrunkenPower2.description>
+  <BS_DrunkenPower3.label>пьяный ужас</BS_DrunkenPower3.label>
+  <BS_DrunkenPower3.description>Ни ты, ни твой летающий призрачный двойник меня не остановите-е-е!</BS_DrunkenPower3.description>
+  <BS_LesserDeathless_Death.label>смертельное разрушение организма</BS_LesserDeathless_Death.label>
+  <BS_LesserDeathless_Death.description>Жизнь угасает: организм не может стабилизироваться после смертельных ранений.</BS_LesserDeathless_Death.description>
+  <BS_BurnReturnDenial.label>недавние ожоги</BS_BurnReturnDenial.label>
+  <BS_BurnReturnDenial.description>Недавно полученные ожоги могут помешать возвращению после смерти.</BS_BurnReturnDenial.description>
+  <BS_PsychicArmor_Stage1.label>пси-укрепление</BS_PsychicArmor_Stage1.label>
+  <BS_PsychicArmor_Stage1.description>Мягкая оболочка пси-энергии защищает от повреждений.</BS_PsychicArmor_Stage1.description>
+  <BS_PsychicArmor_Stage2.label>психокинетическая аура</BS_PsychicArmor_Stage2.label>
+  <BS_PsychicArmor_Stage2.description>В бою вокруг тела бушует психокинетическая энергия, усиливая удары и отражая атаки.</BS_PsychicArmor_Stage2.description>
+  <BS_PsychicArmor_Stage3.label>между двумя мирами</BS_PsychicArmor_Stage3.label>
+  <BS_PsychicArmor_Stage3.description>Могущественная астральная форма частично слилась с физическим телом.</BS_PsychicArmor_Stage3.description>
+  <BS_Glamour_Stage1.label>сильные чары обаяния</BS_Glamour_Stage1.label>
+  <BS_Glamour_Stage1.description>Сильно искажает восприятие окружающих в свою пользу.</BS_Glamour_Stage1.description>
+  <BS_Glamour_Stage2.label>неодолимые чары обаяния</BS_Glamour_Stage2.label>
+  <BS_Glamour_Stage2.description>Полностью искажает восприятие всех поблизости, преимущественно в свою пользу.</BS_Glamour_Stage2.description>
+  <BS_IndestructibelApparel.label>архотехнологический интегратор одежды</BS_IndestructibelApparel.label>
+  <BS_IndestructibelApparel.description>Установленный архотехнологический интегратор одежды. Неизвестным способом он соединяется с любой надетой одеждой и не позволяет её прочности опуститься ниже текущего значения.</BS_IndestructibelApparel.description>
+  <BS_Piloted.label>управление изнутри</BS_Piloted.label>
+  <BS_Piloted.description>Этому существу необходим оператор, чтобы действовать.</BS_Piloted.description>
+  <BS_PilotedSameSize.description>Этому существу необходим оператор, чтобы действовать.</BS_PilotedSameSize.description>
+  <BS_Piloted.stages.pilot_missing.label>оператор отсутствует</BS_Piloted.stages.pilot_missing.label>
+  <BS_PilotedSameSize.stages.pilot_missing.label>оператор отсутствует</BS_PilotedSameSize.stages.pilot_missing.label>
+  <BS_Piloted.stages.pilot_present.label>оператор внутри</BS_Piloted.stages.pilot_present.label>
+  <BS_PilotedSameSize.stages.pilot_present.label>оператор внутри</BS_PilotedSameSize.stages.pilot_present.label>
+  <BS_PilotedSameSize.label>управление изнутри: равный размер</BS_PilotedSameSize.label>
+  <BS_PilotAssisted.label>помощь оператора</BS_PilotAssisted.label>
+  <BS_PilotAssisted.description>Этому существу нужен оператор для работы с наибольшей эффективностью.</BS_PilotAssisted.description>
+  <BS_PilotAssisted.stages.pilot_missing.label>оператор отсутствует</BS_PilotAssisted.stages.pilot_missing.label>
+  <BS_PilotRequired.stages.pilot_missing.label>оператор отсутствует</BS_PilotRequired.stages.pilot_missing.label>
+  <BS_PilotAssisted.stages.pilot_present.label>оператор внутри</BS_PilotAssisted.stages.pilot_present.label>
+  <BS_PilotRequired.stages.pilot_present.label>оператор внутри</BS_PilotRequired.stages.pilot_present.label>
+  <BS_PilotRequired.label>зависимость от оператора</BS_PilotRequired.label>
+  <BS_PilotRequired.description>У этого существа есть собственный разум, но без оператора оно отключается.</BS_PilotRequired.description>
+  <BS_ParasitePilot.label>управление паразитом</BS_ParasitePilot.label>
+  <BS_ParasitePilot.description>Этим существом управляет паразит. Он усиливает возможности хозяина, но заставляет его обмен веществ работать на пределе.</BS_ParasitePilot.description>
+  <BS_ParasitePilot.stages.parasite_present.label>паразит внутри</BS_ParasitePilot.stages.parasite_present.label>
+  <BS_Engulfed.label>проглоченное содержимое</BS_Engulfed.label>
+  <BS_Engulfed.description>Список содержимого внутри тела.</BS_Engulfed.description>
+  <BS_Engulfed.stages.engulfed.label>содержимое внутри</BS_Engulfed.stages.engulfed.label>
+  <BS_EngulfedEnchumberance.label>внутренняя нагрузка</BS_EngulfedEnchumberance.label>
+  <BS_EngulfedEnchumberance.description>Нагрузка от содержимого внутри тела.</BS_EngulfedEnchumberance.description>
+  <BS_EngulfedEnchumberance.stages.no_encumbrance.label>без нагрузки</BS_EngulfedEnchumberance.stages.no_encumbrance.label>
+  <BS_EngulfedEnchumberance.stages.light_encumbrance.label>лёгкая нагрузка</BS_EngulfedEnchumberance.stages.light_encumbrance.label>
+  <BS_EngulfedEnchumberance.stages.moderate_encumbrance.label>умеренная нагрузка</BS_EngulfedEnchumberance.stages.moderate_encumbrance.label>
+  <BS_EngulfedEnchumberance.stages.severe_encumbrance.label>тяжёлая нагрузка</BS_EngulfedEnchumberance.stages.severe_encumbrance.label>
+  <BS_EngulfedEnchumberance.stages.overencumbered.label>перегрузка</BS_EngulfedEnchumberance.stages.overencumbered.label>
+  <BS_HeatGenerator.label>живая печь</BS_HeatGenerator.label>
+  <BS_HeatGenerator.description>Это существо выделяет много тепла.
+
+Примерно столько же, сколько два обогревателя на полной мощности. Эффект отчасти зависит от размера тела.</BS_HeatGenerator.description>
+  <BS_ColdGenerator.label>криогенератор</BS_ColdGenerator.label>
+  <BS_ColdGenerator.description>Это существо сильно охлаждает всё вокруг.
+
+Почти как два кондиционера на полной мощности. Эффект отчасти зависит от размера тела.</BS_ColdGenerator.description>
+  <BS_AcidAttack.label>кислотная атака</BS_AcidAttack.label>
+  <BS_AcidAttack.description>Позволяет атаковать кислотой, прилипающей к жертве.</BS_AcidAttack.description>
+  <BS_AcidAttack.comps.HediffComp_VerbGiver.tools.acid_splash-0.label>кислотный всплеск</BS_AcidAttack.comps.HediffComp_VerbGiver.tools.acid_splash-0.label>
+  <BS_AcidAttack.comps.HediffComp_VerbGiver.tools.acid_splash-1.label>кислотный всплеск</BS_AcidAttack.comps.HediffComp_VerbGiver.tools.acid_splash-1.label>
+  <LoS_VenomClaws.label>ядовитые когти</LoS_VenomClaws.label>
+  <LoS_VenomClaws.description>Длинные ядовитые когти. Очень хорошо проникают в сочленения брони. Строго говоря, выделяемое вещество скорее едкое, чем ядовитое.</LoS_VenomClaws.description>
+  <LoS_VenomClaws.comps.HediffComp_VerbGiver.tools.venomus_talons.label>ядовитые когти</LoS_VenomClaws.comps.HediffComp_VerbGiver.tools.venomus_talons.label>
+  <BS_Talons.label>когти</BS_Talons.label>
+  <BS_Talons.description>Длинные грозные когти, довольно эффективные против брони.</BS_Talons.description>
+  <BS_Talons.comps.HediffComp_VerbGiver.tools.talons.label>когти</BS_Talons.comps.HediffComp_VerbGiver.tools.talons.label>
+  <BS_FeedingFrenzy.label>ненасытное пожирание</BS_FeedingFrenzy.label>
+  <BS_FeedingFrenzy.description>Позволяет набрасываться на врагов, словно голодный сверхзомби. Атаки очень частые, но слабо пробивают броню.</BS_FeedingFrenzy.description>
+  <BS_FeedingFrenzy.comps.HediffComp_VerbGiver.tools.bite.label>укус</BS_FeedingFrenzy.comps.HediffComp_VerbGiver.tools.bite.label>
+  <LS_SnakeTail.label>хвост удава</LS_SnakeTail.label>
+  <LS_SnakeTail.description>Длинное змеиное тело вместо ног. Позволяет сдавливать противника кольцами.</LS_SnakeTail.description>
+  <LS_SnakeTail.comps.HediffComp_VerbGiver.tools.tail.label>хвост</LS_SnakeTail.comps.HediffComp_VerbGiver.tools.tail.label>
+  <VU_SuccubusBond.label>пси-вампиризм</VU_SuccubusBond.label>
+  <VU_SuccubusBond.description>Паразитическая пси-связь с другим человеком, созданная геном пси-связи.</VU_SuccubusBond.description>
+  <VU_SuccubusBond_Victim.label>жертва пси-вампиризма</VU_SuccubusBond_Victim.label>
+  <VU_SuccubusBond_Victim.description>Другой человек установил с этой жертвой паразитическую пси-связь с помощью соответствующего гена.</VU_SuccubusBond_Victim.description>
+  <VU_SuccubusBond_Victim.stages.endured.label>сопротивление связи</VU_SuccubusBond_Victim.stages.endured.label>
+  <VU_SuccubusBond_Victim.stages.endured.extraTooltip>Пси-силы жертвы позволяют выдерживать эту связь.</VU_SuccubusBond_Victim.stages.endured.extraTooltip>
+  <VU_Euphoria.label>эйфория</VU_Euphoria.label>
+  <VU_Euphoria.description>Странное приятное ощущение.</VU_Euphoria.description>
+  <VU_WhiteRoseBite.label>метка Белой Розы</VU_WhiteRoseBite.label>
+  <VU_WhiteRoseBite.description>Недавний укус вампира Белой Розы.</VU_WhiteRoseBite.description>
+  <VU_WhiteRoseBite.stages.mindwandering.label>рассеянность</VU_WhiteRoseBite.stages.mindwandering.label>
+  <VU_WhiteRoseBite.stages.mindwandering.extraTooltip>В последнее время я чувствую себя немного странно.</VU_WhiteRoseBite.stages.mindwandering.extraTooltip>
+  <VU_WhiteRoseBite.stages.intrusive_thoughts.label>навязчивые мысли</VU_WhiteRoseBite.stages.intrusive_thoughts.label>
+  <VU_WhiteRoseBite.stages.intrusive_thoughts.extraTooltip>Стоит расслабиться, и мысли уносятся куда-то сами собой.</VU_WhiteRoseBite.stages.intrusive_thoughts.extraTooltip>
+  <VU_WhiteRoseBite.stages.obsessive_thoughtpatterns.label>одержимость мыслями</VU_WhiteRoseBite.stages.obsessive_thoughtpatterns.label>
+  <VU_WhiteRoseBite.stages.obsessive_thoughtpatterns.extraTooltip>Я постоянно теряю сосредоточенность.</VU_WhiteRoseBite.stages.obsessive_thoughtpatterns.extraTooltip>
+  <VU_WhiteRoseThrall.label>служение Белой Розе</VU_WhiteRoseThrall.label>
+  <VU_WhiteRoseThrall.description>Вампир Белой Розы неоднократно питался кровью этого человека.</VU_WhiteRoseThrall.description>
+  <VU_WhiteRoseThrall.stages.crumbling_bond.label>разрушающаяся связь</VU_WhiteRoseThrall.stages.crumbling_bond.label>
+  <VU_WhiteRoseThrall.stages.weakening_bond.label>ослабевающая связь</VU_WhiteRoseThrall.stages.weakening_bond.label>
+  <VU_WhiteRoseThrall.stages.weakening_bond.extraTooltip>Я чувствую упадок сил.</VU_WhiteRoseThrall.stages.weakening_bond.extraTooltip>
+  <VU_WhiteRoseThrall.stages.strong_bond.label>крепкая связь</VU_WhiteRoseThrall.stages.strong_bond.label>
+  <VU_WhiteRoseThrall.stages.strong_bond.extraTooltip>Связь крепка, и я ощущаю странный прилив сил и решимости.</VU_WhiteRoseThrall.stages.strong_bond.extraTooltip>
+  <VU_DraculVampirism.label>вампиризм</VU_DraculVampirism.label>
+  <VU_DraculVampirism.description>Недавнее заражение вампиризмом от дракула или дракулины. Необходимо срочное лечение.</VU_DraculVampirism.description>
+  <VU_DraculVampirism.stages.weakened.label>слабость</VU_DraculVampirism.stages.weakened.label>
+  <VU_DraculVampirism.stages.weakened.extraTooltip>Я чувствую лёгкую вялость, и мне трудно сосредоточиться.</VU_DraculVampirism.stages.weakened.extraTooltip>
+  <VU_DraculVampirism.stages.drained.label>истощение</VU_DraculVampirism.stages.drained.label>
+  <VU_DraculVampirism.stages.drained.extraTooltip>Мне очень плохо: похоже, это серьёзная болезнь.</VU_DraculVampirism.stages.drained.extraTooltip>
+  <VU_DraculVampirism.stages.signs_of_infection.label>признаки заражения</VU_DraculVampirism.stages.signs_of_infection.label>
+  <VU_DraculVampirism.stages.signs_of_infection.extraTooltip>Я чувствую лёгкое недомогание, но оно мне не мешает.</VU_DraculVampirism.stages.signs_of_infection.extraTooltip>
+  <VU_DraculVampirism.stages.infected.label>заражение</VU_DraculVampirism.stages.infected.label>
+  <VU_DraculVampirism.stages.infected.extraTooltip>Кажется, мне нужно чуть больше сна, чем обычно, но в остальном всё хорошо. Даже чувствую прилив сил.</VU_DraculVampirism.stages.infected.extraTooltip>
+  <VU_DraculVampirism.stages.turning.label>обращение</VU_DraculVampirism.stages.turning.label>
+  <VU_DraculVampirism.stages.turning.extraTooltip>Мне нужно много спать, но в остальном всё хорошо. Когда я не отдыхаю, я чувствую себя прекрасно, сил хоть отбавляй.</VU_DraculVampirism.stages.turning.extraTooltip>
+  <VU_DraculAge.label>зрелость дракула</VU_DraculAge.label>
+  <VU_DraculAge.description>Показывает, насколько близок переход к следующей стадии вампиризма дракула.
+
+Рабы, пленники и поселенцы в принудительном торпоре не могут перейти на следующую стадию.
+
+Также требуется запас гемогена не ниже 75%.</VU_DraculAge.description>
+  <VU_DraculAnimalVampirism.label>вампирское воскрешение</VU_DraculAnimalVampirism.label>
+  <VU_DraculAnimalVampirism.description>Это животное восстало из мёртвых в полуживом состоянии и подчиняется вампиру.</VU_DraculAnimalVampirism.description>
+  <VU_DraculAnimalVampirism.extraTooltip>Значительно снижает скорость кровотечения.</VU_DraculAnimalVampirism.extraTooltip>
+  <VU_AnimalReturned.label>вернувшийся: целое тело</VU_AnimalReturned.label>
+  <VU_AnimalReturned.description>Это животное восстало из мёртвых в виде аномальной нежити.</VU_AnimalReturned.description>
+  <VU_AnimalReturnedRotted.label>вернувшийся</VU_AnimalReturnedRotted.label>
+  <VU_AnimalReturnedRotted.description>Это животное восстало из мёртвых в виде аномальной нежити.</VU_AnimalReturnedRotted.description>
+  <VU_AnimalReturnedSkeletal.label>вернувшийся: скелет</VU_AnimalReturnedSkeletal.label>
+  <VU_AnimalReturnedSkeletal.description>Это животное восстало из мёртвых в виде аномальной нежити.</VU_AnimalReturnedSkeletal.description>
+  <BS_ReturnedReanimation.label>возвращение</BS_ReturnedReanimation.label>
+  <BS_ReturnedReanimation.description>Этот текст не должен отображаться.</BS_ReturnedReanimation.description>
+  <BS_ReturnedReanimation.stages.hmm.label>хм...</BS_ReturnedReanimation.stages.hmm.label>
+  <BS_SoulSize.label>воплощение души</BS_SoulSize.label>
+  <BS_SoulSize.description>Размер и мощь физического тела этого существа растут вместе с силой души.</BS_SoulSize.description>
+  <BS_SoulPsychicPower.label>созвучие души</BS_SoulPsychicPower.label>
+  <BS_SoulPsychicPower.description>Сила души усиливает пси-возможности.</BS_SoulPsychicPower.description>
+  <BS_HealingSoulPower.label>стирание ран</BS_HealingSoulPower.label>
+  <BS_HealingSoulPower.description>Сверхъестественное исцеление силой души.</BS_HealingSoulPower.description>
+  <BS_TrueForm_Angelic.label>истинная форма: ангельская</BS_TrueForm_Angelic.label>
+  <BS_TrueForm_Angelic.description>Истинная мощь вырвалась на свободу!</BS_TrueForm_Angelic.description>
+  <BS_TrueForm_HemoDemonic.label>истинная форма: гемодемоническая</BS_TrueForm_HemoDemonic.label>
+  <BS_TrueForm_HemoDemonic.description>Истинная мощь вырвалась на свободу!</BS_TrueForm_HemoDemonic.description>
+  <BS_TrueForm_Demonic.description>Истинная мощь вырвалась на свободу!</BS_TrueForm_Demonic.description>
+  <BS_TrueForm_HemoDemonic.comps.HediffComp_VerbGiver.tools.talons.label>когти</BS_TrueForm_HemoDemonic.comps.HediffComp_VerbGiver.tools.talons.label>
+  <BS_TrueForm_Demonic.comps.HediffComp_VerbGiver.tools.talons.label>когти</BS_TrueForm_Demonic.comps.HediffComp_VerbGiver.tools.talons.label>
+  <BS_WerewolfForm.comps.HediffComp_VerbGiver.tools.talons.label>когти</BS_WerewolfForm.comps.HediffComp_VerbGiver.tools.talons.label>
+  <BS_TrueForm_Demonic.label>истинная форма: демоническая</BS_TrueForm_Demonic.label>
+  <BS_TrueForm_Goliath.label>форма голиафа</BS_TrueForm_Goliath.label>
+  <BS_TrueForm_Goliath.description>Трепещите перед мощью скал и камня!</BS_TrueForm_Goliath.description>
+  <BS_TrueForm_Goliath.comps.HediffComp_VerbGiver.tools.stone_fist.label>каменный кулак</BS_TrueForm_Goliath.comps.HediffComp_VerbGiver.tools.stone_fist.label>
+  <BS_WerewolfForm.label>форма оборотня</BS_WerewolfForm.label>
+  <BS_WerewolfForm.description>Превращение в ужасающего оборотня.</BS_WerewolfForm.description>
+</LanguageData>

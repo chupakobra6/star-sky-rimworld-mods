@@ -1,0 +1,17 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VTE_SlowWorkSpeed.stages.0.label>не действует</VTE_SlowWorkSpeed.stages.0.label>
+  <VTE_SlowWorkSpeed.stages.1.label>действует</VTE_SlowWorkSpeed.stages.1.label>
+  <VTE_SlowWorkSpeed.label>медленная работа</VTE_SlowWorkSpeed.label>
+  <VTE_SlowWorkSpeed.description>Медленная работа.</VTE_SlowWorkSpeed.description>
+  <VTE_SlowWorkSpeed.labelNoun>медленная работа</VTE_SlowWorkSpeed.labelNoun>
+  <VTE_RestSlowFallFactor.label>бессонница</VTE_RestSlowFallFactor.label>
+  <VTE_RestSlowFallFactor.description>Сильное душевное или физическое беспокойство вызывает бессонницу. Человек часто чувствует вялость и истощение, но почти не может уснуть.</VTE_RestSlowFallFactor.description>
+  <VTE_RestSlowFallFactor.labelNoun>бессонница</VTE_RestSlowFallFactor.labelNoun>
+  <VTE_SlowerBleedingRate.label>гиперкоагуляция</VTE_SlowerBleedingRate.label>
+  <VTE_SlowerBleedingRate.description>Повышенное количество эритроцитов вызывает усиленную свёртываемость крови, поэтому раны кровоточат гораздо слабее.</VTE_SlowerBleedingRate.description>
+  <VTE_SlowerBleedingRate.labelNoun>гиперкоагуляция</VTE_SlowerBleedingRate.labelNoun>
+  <VTE_HigherBleedingRate.label>гемофилия</VTE_HigherBleedingRate.label>
+  <VTE_HigherBleedingRate.description>При гемофилии кровь плохо свёртывается, поэтому раны кровоточат гораздо сильнее.</VTE_HigherBleedingRate.description>
+  <VTE_HigherBleedingRate.labelNoun>гемофилия</VTE_HigherBleedingRate.labelNoun>
+</LanguageData>

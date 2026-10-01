@@ -1,0 +1,96 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFEC_Opium.label>опиум</VFEC_Opium.label>
+  <VFEC_Opium.description>Очень сильное обезболивающее, полностью подавляющее боль и быстро вызывающее зависимость. Начав употребление, обычно приходится принимать его ежедневно: ломка начинается быстро и переносится крайне тяжело.</VFEC_Opium.description>
+  <VFEC_Opium.ingestible.ingestCommandString>Принять: {0}</VFEC_Opium.ingestible.ingestCommandString>
+  <VFEC_Opium.ingestible.ingestReportString>принимает: {0}.</VFEC_Opium.ingestible.ingestReportString>
+  <VFEC_Tent.label>палатка</VFEC_Tent.label>
+  <VFEC_Tent.description>Небольшая одноместная палатка размером с обычную кровать. В установленном виде защищает от жары и холода, но отдых в ней не слишком удобен: лежать всё равно приходится на земле.</VFEC_Tent.description>
+  <VFEC_Thermaebath.label>термы</VFEC_Thermaebath.label>
+  <VFEC_Thermaebath.description>Очень большая каменная купальня с подогревом для нескольких человек. Позволяет ненадолго отвлечься от невзгод окружающего мира. В большой компании купальщики иногда увлекаются и позволяют себе больше близости, чем обычно.</VFEC_Thermaebath.description>
+  <VFEC_TheatreStage.label>сцена</VFEC_TheatreStage.label>
+  <VFEC_TheatreStage.description>Скромно украшенная деревянная сцена с местом для актёров и реквизита. Позволяет ставить захватывающие представления, которые радуют и исполнителей, и зрителей.</VFEC_TheatreStage.description>
+  <VFEC_Beacon.label>сигнальный костёр</VFEC_Beacon.label>
+  <VFEC_Beacon.description>Большой костёр на высокой платформе. Горит ярко и медленно в течение 3 дней. Его огонь сообщает дружественной фракции, что вашему поселению нужна помощь. Обычно вскоре прибывают военные инженеры вспомогательных войск, готовые сражаться и строить вместе с вами. Когда костёр погаснет, его нужно построить заново. Одновременно можно вызвать только один отряд, а повторный вызов доступен через 3 дня.</VFEC_Beacon.description>
+  <VFEC_MeatDryingRack.label>стойка для сушки мяса</VFEC_MeatDryingRack.label>
+  <VFEC_MeatDryingRack.description>Прочная деревянная стойка с металлическими крючками на поперечной балке. Подвешенное мясо медленно вялится на воздухе и после обработки хранится неограниченно долго. В тепле процесс идёт быстрее.</VFEC_MeatDryingRack.description>
+  <VFEC_CraftingBench.label>рабочий стол</VFEC_CraftingBench.label>
+  <VFEC_CraftingBench.description>Простой верстак с такими же простыми инструментами для изготовления примитивных изделий и оружия.</VFEC_CraftingBench.description>
+  <VFEC_WoodFiredCrematorium.label>дровяной крематорий</VFEC_WoodFiredCrematorium.label>
+  <VFEC_WoodFiredCrematorium.description>Дровяная печь для сжигания тел и ненужных предметов.</VFEC_WoodFiredCrematorium.description>
+  <VFEC_ConcretePress.label>пресс для цемента</VFEC_ConcretePress.label>
+  <VFEC_ConcretePress.description>Прочная открытая каменная ёмкость, в которой смесь глины, песка и измельчённого камня затвердевает в форме строительных блоков.</VFEC_ConcretePress.description>
+  <VFEC_TyrianFarm.label>ферма пурпура</VFEC_TyrianFarm.label>
+  <VFEC_TyrianFarm.description>Большое деревянное ограждение для мелководья, куда помещают ткань. Особые улитки, распространённые во многих окраинных мирах, оставляют на ней красящие выделения. Со временем обычная ткань превращается в небольшое количество дорогой пурпурной ткани.</VFEC_TyrianFarm.description>
+  <VFEC_Turret_Scorpion.label>стационарный скорпион</VFEC_Turret_Scorpion.label>
+  <VFEC_Turret_Scorpion.description>Орудие наподобие баллисты. В установленном виде с оператором стреляет быстро и эффективно поражает пехоту. Достаточно лёгкое, чтобы стрелять с рук, но тогда скорострельность снижается.</VFEC_Turret_Scorpion.description>
+  <VFEC_TurretGun_Scorpion.description>Орудие наподобие баллисты. В установленном виде с оператором стреляет быстро и эффективно поражает пехоту. Достаточно лёгкое, чтобы стрелять с рук, но тогда скорострельность снижается.</VFEC_TurretGun_Scorpion.description>
+  <VFEC_Weapon_Scorpion.description>Орудие наподобие баллисты. В установленном виде с оператором стреляет быстро и эффективно поражает пехоту. Достаточно лёгкое, чтобы стрелять с рук, но тогда скорострельность снижается.</VFEC_Weapon_Scorpion.description>
+  <VFEC_Turret_Scorpion.comps.CompRefuelable.fuelGizmoLabel>Состояние</VFEC_Turret_Scorpion.comps.CompRefuelable.fuelGizmoLabel>
+  <VFEC_Turret_Scorpion.comps.CompRefuelable.fuelLabel>Выстрелов до перезарядки</VFEC_Turret_Scorpion.comps.CompRefuelable.fuelLabel>
+  <VFEC_Turret_Scorpion.comps.CompRefuelable.outOfFuelMessage>Стрельба невозможна: требуется перезарядка</VFEC_Turret_Scorpion.comps.CompRefuelable.outOfFuelMessage>
+  <VFEC_TurretGun_Scorpion.label>скорпион</VFEC_TurretGun_Scorpion.label>
+  <VFEC_Weapon_Scorpion.label>скорпион</VFEC_Weapon_Scorpion.label>
+  <VFEC_TurretGun_Scorpion.verbs.Verb_Shoot.label>скорпион</VFEC_TurretGun_Scorpion.verbs.Verb_Shoot.label>
+  <VFEC_Weapon_Scorpion.verbs.Verb_Shoot.label>скорпион</VFEC_Weapon_Scorpion.verbs.Verb_Shoot.label>
+  <VFEC_LargePassiveCooler.label>большой испарительный охладитель</VFEC_LargePassiveCooler.label>
+  <VFEC_LargePassiveCooler.description>Прочный испарительный охладитель, значительно крупнее обычного. Не требует электричества и охлаждает помещение до точки замерзания за счёт испарения воды. Через несколько дней исчерпает запас и разрушится.</VFEC_LargePassiveCooler.description>
+  <VFEC_HeatStones.label>каменный обогреватель</VFEC_HeatStones.label>
+  <VFEC_HeatStones.description>Тонкий квадратный каменный ящик с отверстиями сверху и снизу. Внутри поддерживается небольшой огонь, а нагретые камни постепенно отдают тепло, долго согревая помещение.</VFEC_HeatStones.description>
+  <VFEC_Jerky.label>вяленое мясо</VFEC_Jerky.label>
+  <VFEC_Jerky.description>Тонкие солёные полоски плотного мяса. Хранятся неограниченно долго и для такой простой пищи весьма приятны на вкус.</VFEC_Jerky.description>
+  <VFEC_Bronze.label>бронза</VFEC_Bronze.label>
+  <VFEC_Bronze.description>Сплав стали со следовыми количествами меди из камней. Подходит для изготовления брони и мебели при нехватке стали.</VFEC_Bronze.description>
+  <VFEC_BlocksConcrete.label>бетонные блоки</VFEC_BlocksConcrete.label>
+  <VFEC_BlocksConcrete.description>Крепкие и практичные цементные блоки для строительства любой инфраструктуры. Они уступают граниту по прочности и мрамору по красоте, но явно превосходят менее прочные материалы вроде сланца и песчаника.</VFEC_BlocksConcrete.description>
+  <VFEC_BlocksConcrete.stuffProps.stuffAdjective>бетона</VFEC_BlocksConcrete.stuffProps.stuffAdjective>
+  <VFEC_Tyrian.label>пурпур</VFEC_Tyrian.label>
+  <VFEC_Tyrian.description>Рулон очень красивой и роскошной фиолетовой ткани, идеально подходящей для одежды знатных людей.</VFEC_Tyrian.description>
+  <VFEC_Wreath.label>венок</VFEC_Wreath.label>
+  <VFEC_Wreath.description>Отполированный металлический венок, похожий на лавровый. Подчёркивает богатство и положение владельца; одинаково привлекателен для сенаторов и знати.</VFEC_Wreath.description>
+  <VFEC_Apparel_LegionnaireHelmet.label>шлем легионера</VFEC_Apparel_LegionnaireHelmet.label>
+  <VFEC_Apparel_LegionnaireHelmet.description>Тщательно продуманный шлем из одного большого куска дерева или металла. Широкий вырез у рта и глаз сохраняет полный боковой обзор и позволяет говорить без приглушения голоса.</VFEC_Apparel_LegionnaireHelmet.description>
+  <VFEC_Apparel_CenturionHelmet.label>шлем центуриона</VFEC_Apparel_CenturionHelmet.label>
+  <VFEC_Apparel_CenturionHelmet.description>Тщательно продуманный и украшенный шлем из одного большого куска дерева или металла. Широкий вырез у рта и глаз сохраняет полный боковой обзор и позволяет говорить без приглушения голоса. Украшения этого шлема воодушевляют и владельца, и окружающих: в бою плечом к плечу с центурионом даже боль словно притупляется.</VFEC_Apparel_CenturionHelmet.description>
+  <VFEC_Toga.label>тога</VFEC_Toga.label>
+  <VFEC_Toga.description>Полукруглое одеяние, закрывающее тело и плечи и открытое снизу. Напоминает племенную одежду, но сшито тщательнее и служит достойным повседневным нарядом.</VFEC_Toga.description>
+  <VFEC_Apparel_LegionnaireArmor.label>броня легионера</VFEC_Apparel_LegionnaireArmor.label>
+  <VFEC_Apparel_LegionnaireArmor.description>Тщательно продуманный доспех из ряда укреплённых металлических или деревянных пластин. Он образует подобие панциря, лишь умеренно ограничивая подвижность. Известно, что такие доспехи укрепляют силу духа.</VFEC_Apparel_LegionnaireArmor.description>
+  <VFEC_Apparel_CenturionArmor.label>броня центуриона</VFEC_Apparel_CenturionArmor.label>
+  <VFEC_Apparel_CenturionArmor.description>Тщательно продуманный и украшенный доспех из ряда укреплённых металлических или деревянных пластин. Он образует подобие панциря, лишь умеренно ограничивая подвижность. Известно, что такие доспехи укрепляют силу духа.</VFEC_Apparel_CenturionArmor.description>
+  <VFEC_MoteCenturionLink.label>связь центуриона</VFEC_MoteCenturionLink.label>
+  <VFEC_Shield_Heavy.label>ростовой щит</VFEC_Shield_Heavy.label>
+  <VFEC_Shield_Heavy.description>Сильно укреплённый квадратный щит, закрывающий тело от голеней до плеч. Его тяжесть замедляет владельца, но взамен даёт превосходную защиту.</VFEC_Shield_Heavy.description>
+  <VFEC_Shield_Heavy.tools.base.label>основание</VFEC_Shield_Heavy.tools.base.label>
+  <VFEC_Shield_Heavy.tools.centre.label>центр</VFEC_Shield_Heavy.tools.centre.label>
+  <VFEC_Plant_Poppy.label>мак</VFEC_Plant_Poppy.label>
+  <VFEC_Plant_Poppy.description>Крошечный багровый цветок, из которого можно получать опиум — сильное обезболивающее средство.</VFEC_Plant_Poppy.description>
+  <VFEC_MeleeWeapon_Spatha.label>спата</VFEC_MeleeWeapon_Spatha.label>
+  <VFEC_MeleeWeapon_Spatha.description>Тяжёлый короткий меч для колющих и рубящих ударов. Многие учёные считают его несколько менее эффективным предшественником длинного меча.</VFEC_MeleeWeapon_Spatha.description>
+  <VFEC_MeleeWeapon_Spatha.tools.handle.label>рукоять</VFEC_MeleeWeapon_Spatha.tools.handle.label>
+  <VFEC_MeleeWeapon_Dagger.tools.handle.label>рукоять</VFEC_MeleeWeapon_Dagger.tools.handle.label>
+  <VFEC_MeleeWeapon_Spatha.tools.point.label>остриё</VFEC_MeleeWeapon_Spatha.tools.point.label>
+  <VFEC_MeleeWeapon_Dagger.tools.point.label>остриё</VFEC_MeleeWeapon_Dagger.tools.point.label>
+  <VFEC_Javelin.tools.point.label>остриё</VFEC_Javelin.tools.point.label>
+  <VFEC_MeleeWeapon_Spatha.tools.edge.label>лезвие</VFEC_MeleeWeapon_Spatha.tools.edge.label>
+  <VFEC_MeleeWeapon_Dagger.label>кинжал</VFEC_MeleeWeapon_Dagger.label>
+  <VFEC_MeleeWeapon_Dagger.description>Простой удлинённый нож, которым можно наносить очень быстрые удары. Обычно его предпочитают убийцы либо держат как запасное оружие на случай потери копья или спаты.</VFEC_MeleeWeapon_Dagger.description>
+  <VFEC_MeleeWeapon_Dagger.tools.blade.label>лезвие</VFEC_MeleeWeapon_Dagger.tools.blade.label>
+  <VFEC_Javelin.label>метательное копьё</VFEC_Javelin.label>
+  <VFEC_Javelin_Thrown.label>метательное копьё</VFEC_Javelin_Thrown.label>
+  <VFEC_Javelin.description>Метательное копьё с длинным наконечником, специально предназначенное для пробивания и брони, и щитов.</VFEC_Javelin.description>
+  <VFEC_Javelin.tools.shaft.label>древко</VFEC_Javelin.tools.shaft.label>
+  <VFEC_Javelin.verbs.Verb_Shoot.label>метательное копьё</VFEC_Javelin.verbs.Verb_Shoot.label>
+  <VFEC_Weapon_Scorpion.tools.limb.label>плечо</VFEC_Weapon_Scorpion.tools.limb.label>
+  <VFEC_Arrow_Scorpion.label>стрела скорпиона</VFEC_Arrow_Scorpion.label>
+  <Frame_VFEC_MosaicsSandstone.description>Укладка покрытия.</Frame_VFEC_MosaicsSandstone.description>
+  <Frame_VFEC_MosaicsGranite.description>Укладка покрытия.</Frame_VFEC_MosaicsGranite.description>
+  <Frame_VFEC_MosaicsLimestone.description>Укладка покрытия.</Frame_VFEC_MosaicsLimestone.description>
+  <Frame_VFEC_MosaicsSlate.description>Укладка покрытия.</Frame_VFEC_MosaicsSlate.description>
+  <Frame_VFEC_MosaicsMarble.description>Укладка покрытия.</Frame_VFEC_MosaicsMarble.description>
+  <Frame_VFEC_BronzeTile.description>Укладка покрытия.</Frame_VFEC_BronzeTile.description>
+  <Frame_VFEC_TileConcrete.description>Укладка покрытия.</Frame_VFEC_TileConcrete.description>
+  <Frame_VFEC_FlagstoneConcrete.description>Укладка покрытия.</Frame_VFEC_FlagstoneConcrete.description>
+  <VFEC_Apparel_CenturionArmor.comps.CompToggleHediff.label>Вдохновлять союзников</VFEC_Apparel_CenturionArmor.comps.CompToggleHediff.label>
+  <VFEC_Apparel_CenturionArmor.comps.CompToggleHediff.description>Включить или выключить усиление ближайших союзников. Если игра замедляется, отключайте его вне боя.</VFEC_Apparel_CenturionArmor.comps.CompToggleHediff.description>
+</LanguageData>

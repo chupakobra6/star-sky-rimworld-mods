@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BuildPath.label>Проложить тропу</BuildPath.label>
+  <BuildPath.description>Приказать каравану расчистить путь и протоптать тропу.</BuildPath.description>
+  <BuildDirtRoad.label>Проложить грунтовку</BuildDirtRoad.label>
+  <BuildDirtRoad.description>Приказать участникам каравана расчистить растительность и утрамбовать землю, чтобы проложить грунтовую дорогу, по которой будет сравнительно легко передвигаться.</BuildDirtRoad.description>
+  <BuildStoneRoad.label>Построить каменную дорогу</BuildStoneRoad.label>
+  <BuildStoneRoad.description>Приказать участникам каравана расчистить растительность, затем вытесать и уложить блоки, чтобы проложить удобную каменную дорогу.</BuildStoneRoad.description>
+</LanguageData>

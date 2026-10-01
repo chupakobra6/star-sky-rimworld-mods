@@ -1,0 +1,273 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BS_BigFrame_Android.label>увеличенный корпус</BS_BigFrame_Android.label>
+  <BS_BigFrame_Android.description>Очень крупный и прочный андроид.</BS_BigFrame_Android.description>
+  <BS_GiantFrame_Android.label>гигантский робот</BS_GiantFrame_Android.label>
+  <BS_GiantFrame_Android.description>Этот андроид огромен. Огро-о-омен.</BS_GiantFrame_Android.description>
+  <BS_TitanFrame_Android.label>андроид-мех</BS_TitanFrame_Android.label>
+  <BS_TitanFrame_Android.description>В этого андроида поместилась бы целая кабина управления. Правда, обеспечить его энергией — та ещё задача.</BS_TitanFrame_Android.description>
+  <BS_SmallFrame_Android.label>маленький андроид</BS_SmallFrame_Android.label>
+  <BS_SmallFrame_Android.description>Маленький андроид для небольших задач. Несмотря на размеры, он довольно прочен.</BS_SmallFrame_Android.description>
+  <BS_TinyFrame_Android.label>миниатюрный андроид</BS_TinyFrame_Android.label>
+  <BS_TinyFrame_Android.description>Крошечный андроид. Он немного прочнее животных такого же размера, но его всё равно лучше беречь от опасностей.</BS_TinyFrame_Android.description>
+  <BS_RoboticResilienceLesser.label>стойкость неживого тела</BS_RoboticResilienceLesser.label>
+  <BS_RoboticResilienceLesser.description>Такие андроиды способны продолжать работу даже со сквозными пробоинами в корпусе. Они получают 50% урона от пуль и стрел и 75% урона от колющих атак.
+
+Корпус также герметизирован для защиты от вакуума.</BS_RoboticResilienceLesser.description>
+  <BS_RoboticResilience.label>повышенная стойкость неживого тела</BS_RoboticResilience.label>
+  <BS_RoboticResilience.description>Такие андроиды способны продолжать работу, даже когда значительная часть корпуса превратилась в решето. Они получают 35% урона от пуль и стрел и 67,5% урона от колющих атак.
+
+Корпус также герметизирован для защиты от вакуума.</BS_RoboticResilience.description>
+  <BS_AndroidEVA_Gene.label>герметичный корпус</BS_AndroidEVA_Gene.label>
+  <BS_AndroidEVA_Gene.description>Эта модификация позволяет андроиду выдерживать космический вакуум. Однако она мало помогает против холода и замедленного движения в пустоте.</BS_AndroidEVA_Gene.description>
+  <BS_UnarmedOnly_Android.label>рукопашный бой без оружия</BS_UnarmedOnly_Android.label>
+  <BS_UnarmedOnly_Android.description>Андроиды с этой модификацией не могут или не желают использовать оружие в ближнем бою.</BS_UnarmedOnly_Android.description>
+  <BS_Unarmed_Strong_Android.label>сильные безоружные атаки</BS_Unarmed_Strong_Android.label>
+  <BS_Unarmed_Strong_Android.description>Повышает урон в ближнем бою, но только при атаках без оружия.</BS_Unarmed_Strong_Android.description>
+  <BS_Unarmed_Strong_Android.labelShortAdj>сильный</BS_Unarmed_Strong_Android.labelShortAdj>
+  <BS_Unarmed_VeryStrong_Android.labelShortAdj>сильный</BS_Unarmed_VeryStrong_Android.labelShortAdj>
+  <BS_Unarmed_VeryStrong_Android.label>очень сильные безоружные атаки</BS_Unarmed_VeryStrong_Android.label>
+  <BS_Unarmed_VeryStrong_Android.description>Значительно повышает урон в ближнем бою, но только при атаках без оружия.</BS_Unarmed_VeryStrong_Android.description>
+  <BS_Pilotable_Android.label>управление изнутри</BS_Pilotable_Android.label>
+  <BS_Pilotable_Android.description>Этот андроид служит продолжением тела оператора и не способен действовать самостоятельно. Он использует навыки и черты характера оператора.
+
+Размер тела оператора не должен превышать половины размера андроида. Во время управления оператор также не может нормально общаться с окружающими.
+
+Примечание разработчика: андроиды удаляют некоторые потребности, поэтому для правильной работы может понадобиться убрать часть их «генов». Возможно, когда-нибудь я это исправлю.</BS_Pilotable_Android.description>
+  <BS_PilotAssistible_Android.label>помощь оператора</BS_PilotAssistible_Android.label>
+  <BS_PilotAssistible_Android.description>Этот андроид может пользоваться помощью оператора и работает с ним значительно эффективнее.
+
+Размер тела оператора не должен превышать половины размера андроида.</BS_PilotAssistible_Android.description>
+  <BS_PilotableSameSize_Android.label>вторая кожа</BS_PilotableSameSize_Android.label>
+  <BS_PilotableSameSize_Android.description>Этот андроид служит продолжением тела оператора и не способен действовать самостоятельно. Он использует навыки и черты характера оператора.
+
+Размер тела оператора не должен превышать размер андроида.</BS_PilotableSameSize_Android.description>
+  <BS_MinTemp_HugeDecrease_Android.label>невосприимчивость к холоду</BS_MinTemp_HugeDecrease_Android.label>
+  <BS_MinTemp_HugeDecrease_Android.description>Этот андроид выдерживает температуры, близкие к абсолютному нулю.</BS_MinTemp_HugeDecrease_Android.description>
+  <BS_MinTemp_HugeDecrease_Android.labelShortAdj>леденящий</BS_MinTemp_HugeDecrease_Android.labelShortAdj>
+  <BS_MinTemp_HugeDecrease_Android.symbolPack.prefixSymbols.0.symbol>крио</BS_MinTemp_HugeDecrease_Android.symbolPack.prefixSymbols.0.symbol>
+  <BS_MaxTemp_HugeIncrease_Android.label>невосприимчивость к жаре</BS_MaxTemp_HugeIncrease_Android.label>
+  <BS_MaxTemp_HugeIncrease_Android.description>Этот андроид выдерживает невероятно высокие температуры.</BS_MaxTemp_HugeIncrease_Android.description>
+  <BS_MaxTemp_HugeIncrease_Android.labelShortAdj>кипящий</BS_MaxTemp_HugeIncrease_Android.labelShortAdj>
+  <BS_MaxTemp_HugeIncrease_Android.symbolPack.prefixSymbols.0.symbol>жаро</BS_MaxTemp_HugeIncrease_Android.symbolPack.prefixSymbols.0.symbol>
+  <BS_MaxTemp_HugeIncrease_Android.symbolPack.prefixSymbols.1.symbol>термо</BS_MaxTemp_HugeIncrease_Android.symbolPack.prefixSymbols.1.symbol>
+  <BS_MaxTemp_HugeIncrease_Android.symbolPack.prefixSymbols.2.symbol>гелио</BS_MaxTemp_HugeIncrease_Android.symbolPack.prefixSymbols.2.symbol>
+  <BS_MaxTemp_HugeIncrease_Android.symbolPack.prefixSymbols.3.symbol>пото</BS_MaxTemp_HugeIncrease_Android.symbolPack.prefixSymbols.3.symbol>
+  <BS_MaxTemp_HugeIncrease_Android.symbolPack.prefixSymbols.4.symbol>пиро</BS_MaxTemp_HugeIncrease_Android.symbolPack.prefixSymbols.4.symbol>
+  <BS_FireImmunity_Android.label>невосприимчивость к огню</BS_FireImmunity_Android.label>
+  <BS_FireImmunity_Android.description>Андроиды с этими модификациями не боятся огня и большинства тепловых атак.</BS_FireImmunity_Android.description>
+  <BS_FireImmunity_Android.labelShortAdj>огнеупорный</BS_FireImmunity_Android.labelShortAdj>
+  <BS_FireImmunity_Android.symbolPack.prefixSymbols.0.symbol>пено</BS_FireImmunity_Android.symbolPack.prefixSymbols.0.symbol>
+  <BS_FireImmunity_Android.symbolPack.suffixSymbols.0.symbol>пено</BS_FireImmunity_Android.symbolPack.suffixSymbols.0.symbol>
+  <BS_FireImmunity_Android.symbolPack.prefixSymbols.1.symbol>влаго</BS_FireImmunity_Android.symbolPack.prefixSymbols.1.symbol>
+  <VREA_BS_TrollEars.symbolPack.prefixSymbols.2.symbol>тролле</VREA_BS_TrollEars.symbolPack.prefixSymbols.2.symbol>
+  <VREA_BS_TrollEars_Great.symbolPack.prefixSymbols.2.symbol>тролле</VREA_BS_TrollEars_Great.symbolPack.prefixSymbols.2.symbol>
+  <VREA_BS_DragonEars.symbolPack.prefixSymbols.0.symbol>драко</VREA_BS_DragonEars.symbolPack.prefixSymbols.0.symbol>
+  <VREA_BS_DragonEars.symbolPack.prefixSymbols.1.symbol>дракон</VREA_BS_DragonEars.symbolPack.prefixSymbols.1.symbol>
+  <VREA_Hair_MediumRed.description>У носителей этого гена особый цвет волос. Если генов цвета волос несколько, один из них выбирается случайно.</VREA_Hair_MediumRed.description>
+  <VREA_Hair_MediumBlue.description>У носителей этого гена особый цвет волос. Если генов цвета волос несколько, один из них выбирается случайно.</VREA_Hair_MediumBlue.description>
+  <VREA_BS_Hair_TrueWhite.description>У носителей этого гена особый цвет волос. Если генов цвета волос несколько, один из них выбирается случайно.</VREA_BS_Hair_TrueWhite.description>
+  <VREA_BS_HairFrostWhite.description>У носителей этого гена особый цвет волос. Если генов цвета волос несколько, один из них выбирается случайно.</VREA_BS_HairFrostWhite.description>
+  <VREA_BS_HairPermafrost.description>У носителей этого гена особый цвет волос. Если генов цвета волос несколько, один из них выбирается случайно.</VREA_BS_HairPermafrost.description>
+  <VREA_BS_BloodHair.description>У носителей этого гена особый цвет волос. Если генов цвета волос несколько, один из них выбирается случайно.</VREA_BS_BloodHair.description>
+  <VREA_BS_Hair_DarkGray.description>У носителей этого гена особый цвет волос. Если генов цвета волос несколько, один из них выбирается случайно.</VREA_BS_Hair_DarkGray.description>
+  <VREA_BS_BurgundyHair.label>бордовые волосы</VREA_BS_BurgundyHair.label>
+  <VREA_BS_BurgundyHair.description>У носителей этого гена тёмные красновато-фиолетовые волосы.</VREA_BS_BurgundyHair.description>
+  <VREA_BS_DeepVioletHair.label>насыщенно-фиолетовые волосы</VREA_BS_DeepVioletHair.label>
+  <VREA_BS_DeepVioletHair.description>У носителей этого гена насыщенно-фиолетовые волосы.</VREA_BS_DeepVioletHair.description>
+  <VREA_BS_LightGreenSkin.symbolPack.prefixSymbols.0.symbol>зелено</VREA_BS_LightGreenSkin.symbolPack.prefixSymbols.0.symbol>
+  <VREA_BS_LightGreenSkin.symbolPack.prefixSymbols.1.symbol>лаймо</VREA_BS_LightGreenSkin.symbolPack.prefixSymbols.1.symbol>
+  <VREA_BS_LightGreenSkin.symbolPack.prefixSymbols.2.symbol>нефрито</VREA_BS_LightGreenSkin.symbolPack.prefixSymbols.2.symbol>
+  <VREA_BS_LightGreenSkin.symbolPack.prefixSymbols.3.symbol>листо</VREA_BS_LightGreenSkin.symbolPack.prefixSymbols.3.symbol>
+  <VREA_BS_LightGreenSkin.symbolPack.wholeNameSymbols.0.symbol>зеленокожий</VREA_BS_LightGreenSkin.symbolPack.wholeNameSymbols.0.symbol>
+  <VREA_BS_BurgundySkin.label>бордовая кожа</VREA_BS_BurgundySkin.label>
+  <VREA_BS_BurgundySkin.description>У носителей этого гена тёмная красновато-фиолетовая кожа.</VREA_BS_BurgundySkin.description>
+  <VREA_BS_BurgundySkin.labelShortAdj>бордовый</VREA_BS_BurgundySkin.labelShortAdj>
+  <VREA_BS_BurgundyHair.labelShortAdj>бордовый</VREA_BS_BurgundyHair.labelShortAdj>
+  <VREA_BS_DeepVioletSkin.label>насыщенно-фиолетовая кожа</VREA_BS_DeepVioletSkin.label>
+  <VREA_BS_DeepVioletSkin.description>У носителей этого гена насыщенно-фиолетовая кожа.</VREA_BS_DeepVioletSkin.description>
+  <VREA_BS_DeepVioletSkin.labelShortAdj>насыщенно-фиолетовый</VREA_BS_DeepVioletSkin.labelShortAdj>
+  <VREA_BS_DeepVioletHair.labelShortAdj>насыщенно-фиолетовый</VREA_BS_DeepVioletHair.labelShortAdj>
+  <VREA_BS_FoxEars.symbolPack.prefixSymbols.0.symbol>лисо</VREA_BS_FoxEars.symbolPack.prefixSymbols.0.symbol>
+  <VREA_BS_FoxEars.symbolPack.prefixSymbols.1.symbol>лисий</VREA_BS_FoxEars.symbolPack.prefixSymbols.1.symbol>
+  <VREA_BS_FoxEars.symbolPack.prefixSymbols.2.symbol>тама</VREA_BS_FoxEars.symbolPack.prefixSymbols.2.symbol>
+  <VREA_BS_FoxEars.symbolPack.suffixSymbols.0.symbol>ух</VREA_BS_FoxEars.symbolPack.suffixSymbols.0.symbol>
+  <VREA_BS_Ears_PointedHD.symbolPack.suffixSymbols.0.symbol>ух</VREA_BS_Ears_PointedHD.symbolPack.suffixSymbols.0.symbol>
+  <VREA_BS_TrollEars.symbolPack.suffixSymbols.0.symbol>ух</VREA_BS_TrollEars.symbolPack.suffixSymbols.0.symbol>
+  <VREA_BS_TrollEars_Great.symbolPack.suffixSymbols.0.symbol>ух</VREA_BS_TrollEars_Great.symbolPack.suffixSymbols.0.symbol>
+  <VREA_BS_DragonEars.symbolPack.suffixSymbols.0.symbol>ух</VREA_BS_DragonEars.symbolPack.suffixSymbols.0.symbol>
+  <VREA_BS_Ears_PointedHD.symbolPack.prefixSymbols.0.symbol>остро</VREA_BS_Ears_PointedHD.symbolPack.prefixSymbols.0.symbol>
+  <VREA_BS_Ears_PointedHD.symbolPack.suffixSymbols.1.symbol>остро</VREA_BS_Ears_PointedHD.symbolPack.suffixSymbols.1.symbol>
+  <VREA_BS_TrollEars.symbolPack.prefixSymbols.0.symbol>остро</VREA_BS_TrollEars.symbolPack.prefixSymbols.0.symbol>
+  <VREA_BS_TrollEars_Great.symbolPack.prefixSymbols.0.symbol>остро</VREA_BS_TrollEars_Great.symbolPack.prefixSymbols.0.symbol>
+  <VREA_BS_Ears_PointedHD.symbolPack.prefixSymbols.1.symbol>колко</VREA_BS_Ears_PointedHD.symbolPack.prefixSymbols.1.symbol>
+  <VREA_BS_TrollEars.symbolPack.prefixSymbols.1.symbol>колко</VREA_BS_TrollEars.symbolPack.prefixSymbols.1.symbol>
+  <VREA_BS_TrollEars_Great.symbolPack.prefixSymbols.1.symbol>колко</VREA_BS_TrollEars_Great.symbolPack.prefixSymbols.1.symbol>
+  <VREA_BS_DevourerHead.label>голова пожирателя</VREA_BS_DevourerHead.label>
+  <VREA_BS_DevourerHead.description>У носителей этого гена угрожающая голова пожирателя.</VREA_BS_DevourerHead.description>
+  <VREA_BS_DragonHead.label>драконья голова</VREA_BS_DragonHead.label>
+  <VREA_BS_DragonHead.description>У носителей этого гена устрашающая голова, похожая на драконью.</VREA_BS_DragonHead.description>
+  <VREA_BS_StonemaskHead.label>каменная маска</VREA_BS_StonemaskHead.label>
+  <VREA_BS_StonemaskHead.description>Голова носителей этого гена напоминает каменную маску.</VREA_BS_StonemaskHead.description>
+  <VREA_BS_SatanHead.label>панцирная голова</VREA_BS_SatanHead.label>
+  <VREA_BS_SatanHead.description>Голова носителей этого гена напоминает панцирь.</VREA_BS_SatanHead.description>
+  <VREA_VU_Hermaphromorph.label>смена пола</VREA_VU_Hermaphromorph.label>
+  <VREA_VU_Hermaphromorph.description>Носители этого гена могут по желанию менять пол своего тела.</VREA_VU_Hermaphromorph.description>
+  <VREA_VU_Pallor.label>бледность</VREA_VU_Pallor.label>
+  <VREA_VU_Pallor.description>Носители этого гена отличаются трупной бледностью.</VREA_VU_Pallor.description>
+  <VREA_BS_AlienApperanceStandards_Lesser.label>странная внешность</VREA_BS_AlienApperanceStandards_Lesser.label>
+  <VREA_BS_AlienApperanceStandards_Lesser.description>Носители этого гена выглядят довольно странно или непривычно и оценивают внешность по собственным меркам.
+
+Их взаимное мнение о персонажах без этого гена зависит от сходства. Учитываются определённые общие гены, влияющие на романтическую привлекательность, например свиные носы.
+
+В отличие от более выраженного варианта этого гена, красота продолжает действовать как обычно.</VREA_BS_AlienApperanceStandards_Lesser.description>
+  <VREA_BS_AlienApperanceStandards.label>чуждая внешность</VREA_BS_AlienApperanceStandards.label>
+  <VREA_BS_AlienApperanceStandards.description>Носители этого гена выглядят очень странно или непривычно и оценивают внешность по собственным меркам.
+
+Их взаимное мнение о персонажах без этого гена зависит от сходства. Учитываются определённые общие гены, влияющие на романтическую привлекательность, например свиные носы.
+
+Этот ген также в значительной мере лишает красоты её преимуществ при разных представлениях о привлекательности. Поэтому итоговый штраф может оказаться меньше указанного ниже.</VREA_BS_AlienApperanceStandards.description>
+  <VREA_Body_Androgynous.label>андрогинное телосложение</VREA_Body_Androgynous.label>
+  <VREA_Body_Androgynous.description>Носители этого гена обычно имеют андрогинное телосложение с женственными чертами. У персонажа может быть несколько генов телосложения; из разрешённых вариантов выбирается один.
+
+Некоторые моды, к сожалению, переопределяют этот выбор. В таком случае нужное телосложение можно восстановить через Character Editor.</VREA_Body_Androgynous.description>
+  <VREA_BS_BrokenTitanBody.label>кибернетическое тело урба</VREA_BS_BrokenTitanBody.label>
+  <VREA_BS_BrokenTitanBody.description>Тело носителей этого гена частично состоит из механизмов. Принудительно задаёт мощное телосложение.</VREA_BS_BrokenTitanBody.description>
+  <VREA_BS_BrokenTitanBody.labelShortAdj>тело урба</VREA_BS_BrokenTitanBody.labelShortAdj>
+  <VREA_BS_OgreBody.label>тело огра</VREA_BS_OgreBody.label>
+  <VREA_BS_OgreBody.description>У носителей этого гена тучное тело огра.</VREA_BS_OgreBody.description>
+  <VREA_BS_OgreBody.labelShortAdj>тело огра</VREA_BS_OgreBody.labelShortAdj>
+  <VREA_BS_MimicBody.label>тело чудовищного обжоры</VREA_BS_MimicBody.label>
+  <VREA_BS_MimicBody.description>У носителей этого гена тело, словно у ужасающего демона чревоугодия.</VREA_BS_MimicBody.description>
+  <VREA_BS_DessicatedBody.label>скелетообразное тело</VREA_BS_DessicatedBody.label>
+  <VREA_BS_DessicatedBody.description>Голова и тело носителей этого гена выглядят как высохший труп.</VREA_BS_DessicatedBody.description>
+  <VREA_BS_DessicatedBodyWithHair.label>скелетообразное тело с волосами</VREA_BS_DessicatedBodyWithHair.label>
+  <VREA_BS_DessicatedBodyWithHair.description>Голова и тело носителей этого гена выглядят как высохший труп. Волосы сохраняются.</VREA_BS_DessicatedBodyWithHair.description>
+  <VREA_BS_DessicatedBodyWithGreyHair.label>скелетообразное тело с выцветшими волосами</VREA_BS_DessicatedBodyWithGreyHair.label>
+  <VREA_BS_DessicatedBodyWithGreyHair.description>Голова и тело носителей этого гена выглядят как высохший труп. Волосы спутаны и свалялись.</VREA_BS_DessicatedBodyWithGreyHair.description>
+  <VREA_BS_SkinFrostWhite.label>снежно-белая кожа</VREA_BS_SkinFrostWhite.label>
+  <VREA_BS_SkinFrostWhite.description>У носителей этого гена ледяная белизна кожи.</VREA_BS_SkinFrostWhite.description>
+  <VREA_BS_SkinFrostWhite.labelShortAdj>снежный</VREA_BS_SkinFrostWhite.labelShortAdj>
+  <VREA_BS_SkinPermafrost.label>кожа вечной мерзлоты</VREA_BS_SkinPermafrost.label>
+  <VREA_BS_SkinPermafrost.description>У носителей этого гена тёмно-синяя кожа.</VREA_BS_SkinPermafrost.description>
+  <VREA_BS_SkinPermafrost.labelShortAdj>мерзлотный</VREA_BS_SkinPermafrost.labelShortAdj>
+  <VREA_BS_Skin_Marble_White.label>мраморно-белая кожа</VREA_BS_Skin_Marble_White.label>
+  <VREA_BS_Skin_Marble_White.description>Специально созданное светоотражающее покрытие клеток придаёт коже носителей этого гена чистый белый цвет, не встречающийся среди естественных оттенков кожи.</VREA_BS_Skin_Marble_White.description>
+  <VREA_BS_Skin_Marble_White.labelShortAdj>мраморный</VREA_BS_Skin_Marble_White.labelShortAdj>
+  <VREA_BS_SkinBurningOrange.label>светло-оранжевая кожа</VREA_BS_SkinBurningOrange.label>
+  <VREA_BS_SkinBurningOrange.description>Носители этого гена вырабатывают пигмент, окрашивающий кожу в светло-оранжевый цвет.</VREA_BS_SkinBurningOrange.description>
+  <VREA_BS_VeryLightOrange.description>Носители этого гена вырабатывают пигмент, окрашивающий кожу в светло-оранжевый цвет.</VREA_BS_VeryLightOrange.description>
+  <VREA_BS_VeryLightOrange.label>золотисто-платиновая кожа</VREA_BS_VeryLightOrange.label>
+  <VREA_BS_SkinBloodRed.label>кроваво-красная кожа</VREA_BS_SkinBloodRed.label>
+  <VREA_BS_SkinBloodRed.description>Носители этого гена вырабатывают пигмент, окрашивающий кожу в тёмно-красный цвет.</VREA_BS_SkinBloodRed.description>
+  <VREA_BS_SkinBloodRed.labelShortAdj>кроваво-красный</VREA_BS_SkinBloodRed.labelShortAdj>
+  <VREA_BS_Skin_DarkAsh.label>тёмно-пепельная кожа</VREA_BS_Skin_DarkAsh.label>
+  <VREA_BS_Skin_DarkAsh.description>Носители этого гена вырабатывают тёмно-фиолетовый пигмент, который придаёт коже болезненный вид.</VREA_BS_Skin_DarkAsh.description>
+  <VREA_BS_Skin_DarkAsh.labelShortAdj>пепельный</VREA_BS_Skin_DarkAsh.labelShortAdj>
+  <VREA_BS_BorealSkin.label>светлая кожа</VREA_BS_BorealSkin.label>
+  <VREA_BS_BorealSkin.description>У носителей этого гена светлая кожа.</VREA_BS_BorealSkin.description>
+  <VREA_VU_LightPallorSkin.label>светлая бледная кожа</VREA_VU_LightPallorSkin.label>
+  <VREA_VU_LightPallorSkin.description>У носителей этого гена очень светлая кожа с зеленоватым оттенком.</VREA_VU_LightPallorSkin.description>
+  <VREA_VU_DarkPallorSkin.label>тёмная бледная кожа</VREA_VU_DarkPallorSkin.label>
+  <VREA_VU_DarkPallorSkin.description>У носителей этого гена приглушённая серо-зелёная кожа.</VREA_VU_DarkPallorSkin.description>
+  <VREA_VU_NosferatuSkin.label>бледно-зелёная кожа</VREA_VU_NosferatuSkin.label>
+  <VREA_VU_NosferatuSkin.description>У носителей этого гена бледно-зелёная кожа.</VREA_VU_NosferatuSkin.description>
+  <VREA_VU_ZombieSkin.label>серовато-зелёная кожа</VREA_VU_ZombieSkin.label>
+  <VREA_VU_ZombieSkin.description>У носителей этого гена серовато-зелёная кожа.</VREA_VU_ZombieSkin.description>
+  <VREA_BS_CreamSkin.label>кремовая кожа</VREA_BS_CreamSkin.label>
+  <VREA_BS_CreamSkin.description>У носителей этого гена белая кожа с кремовым оттенком.</VREA_BS_CreamSkin.description>
+  <VREA_BS_CreamSkin.labelShortAdj>кремовый</VREA_BS_CreamSkin.labelShortAdj>
+  <VREA_BS_LightGreenSkin.label>светло-зелёная кожа</VREA_BS_LightGreenSkin.label>
+  <VREA_BS_LightGreenSkin.description>Носители этого гена вырабатывают пигмент, окрашивающий кожу в зелёный цвет.</VREA_BS_LightGreenSkin.description>
+  <VREA_BS_LightGreenSkin.labelShortAdj>зелёный</VREA_BS_LightGreenSkin.labelShortAdj>
+  <VREA_BS_AnimalEars.label>пушистые уши</VREA_BS_AnimalEars.label>
+  <VREA_BS_AnimalEars.description>У носителей этого гена пушистые уши.
+
+Уву.</VREA_BS_AnimalEars.description>
+  <VREA_BS_FoxEars.label>лисьи уши</VREA_BS_FoxEars.label>
+  <VREA_BS_FoxEars.description>У носителей этого гена пушистые уши.
+
+Уву.</VREA_BS_FoxEars.description>
+  <VREA_BS_Ears_PointedHD.label>заострённые уши: другой вариант</VREA_BS_Ears_PointedHD.label>
+  <VREA_BS_DragonEars.label>уши дракона</VREA_BS_DragonEars.label>
+  <VREA_BS_Ears_PointedHD.description>У носителей этого гена заострённые уши.</VREA_BS_Ears_PointedHD.description>
+  <VREA_BS_DragonEars.description>У носителей этого гена драконьи уши.</VREA_BS_DragonEars.description>
+  <VREA_BS_TrollEars.label>уши тролля</VREA_BS_TrollEars.label>
+  <VREA_BS_TrollEars.description>У носителей этого гена большие заострённые уши.</VREA_BS_TrollEars.description>
+  <VREA_BS_TrollEars_Great.description>У носителей этого гена очень большие заострённые уши.</VREA_BS_TrollEars_Great.description>
+  <VREA_BS_TrollEars_Great.label>огромные уши тролля</VREA_BS_TrollEars_Great.label>
+  <VREA_BS_TrollHair.label>волосы тролля</VREA_BS_TrollHair.label>
+  <VREA_BS_TrollHair.description>У носителей этого гена часто вырастают длинные растрёпанные волосы, которые с возрастом становятся ещё длиннее. Впрочем, вместо этого может наступить облысение, особенно у мужчин.</VREA_BS_TrollHair.description>
+  <VREA_BS_TrollHairShort.label>волосы тролля: короткие</VREA_BS_TrollHairShort.label>
+  <VREA_BS_TrollHairShort.description>У носителей этого гена растрёпанные волосы.</VREA_BS_TrollHairShort.description>
+  <VREA_BS_TrollHairGreat.label>волосы тролля: длинные</VREA_BS_TrollHairGreat.label>
+  <VREA_BS_TrollHairGreat.description>У носителей этого гена очень длинные растрёпанные волосы.</VREA_BS_TrollHairGreat.description>
+  <VREA_Hair_MediumRed.label>тёмно-красные волосы</VREA_Hair_MediumRed.label>
+  <VREA_Hair_MediumBlue.label>тёмно-синие волосы</VREA_Hair_MediumBlue.label>
+  <VREA_BS_Hair_TrueWhite.label>ослепительно белые волосы</VREA_BS_Hair_TrueWhite.label>
+  <VREA_BS_HairFrostWhite.label>снежно-белые волосы</VREA_BS_HairFrostWhite.label>
+  <VREA_BS_HairPermafrost.label>волосы вечной мерзлоты</VREA_BS_HairPermafrost.label>
+  <VREA_BS_BloodHair.label>кроваво-красные волосы</VREA_BS_BloodHair.label>
+  <VREA_BS_CreamHair.label>кремовые волосы</VREA_BS_CreamHair.label>
+  <VREA_BS_CreamHair.description>У носителей этого гена белые волосы с кремовым оттенком.</VREA_BS_CreamHair.description>
+  <VREA_BS_CreamHair.labelShortAdj>кремовый</VREA_BS_CreamHair.labelShortAdj>
+  <VREA_BS_MatteGreenHair.label>змеевиковые волосы</VREA_BS_MatteGreenHair.label>
+  <VREA_BS_MatteGreenHair.description>У носителей этого гена матово-зелёные волосы.</VREA_BS_MatteGreenHair.description>
+  <VREA_BS_MatteGreenHair.labelShortAdj>змеевиковый</VREA_BS_MatteGreenHair.labelShortAdj>
+  <VREA_BS_Hair_DarkGray.label>тёмно-серые волосы</VREA_BS_Hair_DarkGray.label>
+  <VREA_BS_MossGreenHair.label>мшисто-зелёные волосы</VREA_BS_MossGreenHair.label>
+  <VREA_BS_MossGreenHair.description>У носителей этого гена зелёные волосы цвета мха.</VREA_BS_MossGreenHair.description>
+  <VREA_BS_MossGreenHair.labelShortAdj>мшистый</VREA_BS_MossGreenHair.labelShortAdj>
+  <VREA_BS_BrokenTitanHead.label>кибернетическая голова урба</VREA_BS_BrokenTitanHead.label>
+  <VREA_BS_BrokenTitanHead.description>Голова носителей этого гена выглядит частично кибернетической.</VREA_BS_BrokenTitanHead.description>
+  <VREA_BS_OgreHead.label>голова огра: жуткая</VREA_BS_OgreHead.label>
+  <VREA_BS_OgreHead.description>У носителей этого гена большая голова огра с глуповатым выражением лица.</VREA_BS_OgreHead.description>
+  <VREA_BS_FomorialHead_Savage.label>голова огра: бугристая</VREA_BS_FomorialHead_Savage.label>
+  <VREA_BS_FomorialHead_Savage.description>У носителей этого гена бугристая голова огра.</VREA_BS_FomorialHead_Savage.description>
+  <VREA_Gigantism.label>гигантизм</VREA_Gigantism.label>
+  <VREA_Gigantism.description>Носители этого гена страдают генетическим гигантизмом.</VREA_Gigantism.description>
+  <VREA_Large.label>увеличенный размер</VREA_Large.label>
+  <VREA_Large.description>Носители этого гена генетически изменены, чтобы быть крупнее.</VREA_Large.description>
+  <VREA_Small.label>уменьшенный размер</VREA_Small.label>
+  <VREA_Small.description>Носители этого гена генетически изменены, чтобы быть немного меньше.</VREA_Small.description>
+  <VREA_Dwarfism.label>карликовость</VREA_Dwarfism.label>
+  <VREA_Dwarfism.description>Носители этого гена страдают генетической карликовостью.</VREA_Dwarfism.description>
+  <BS_BigFrame_Android.customEffectDescriptions.0>— Общие эффекты размера тела —</BS_BigFrame_Android.customEffectDescriptions.0>
+  <BS_BigFrame_Android.customEffectDescriptions.1>Очень сильно влияет на расход энергии при зарядке.</BS_BigFrame_Android.customEffectDescriptions.1>
+  <BS_BigFrame_Android.customEffectDescriptions.2>Изменяет размер тела и связанные с ним свойства.</BS_BigFrame_Android.customEffectDescriptions.2>
+  <BS_BigFrame_Android.customEffectDescriptions.3>Сильно изменяет запас здоровья.</BS_BigFrame_Android.customEffectDescriptions.3>
+  <BS_BigFrame_Android.customEffectDescriptions.4>Изменяет урон, но слабее, чем при линейной зависимости от размера.</BS_BigFrame_Android.customEffectDescriptions.4>
+  <BS_BigFrame_Android.customEffectDescriptions.5>Сильно влияет на шанс уклонения в ближнем бою: меньший размер даёт преимущество.</BS_BigFrame_Android.customEffectDescriptions.5>
+  <BS_BigFrame_Android.customEffectDescriptions.6>Очень сильно влияет на выработку ресурсов самим персонажем через гены этого мода и Alpha Genes.</BS_BigFrame_Android.customEffectDescriptions.6>
+  <BS_GiantFrame_Android.customEffectDescriptions.0>— Общие эффекты размера тела —</BS_GiantFrame_Android.customEffectDescriptions.0>
+  <BS_GiantFrame_Android.customEffectDescriptions.1>Очень сильно влияет на расход энергии при зарядке.</BS_GiantFrame_Android.customEffectDescriptions.1>
+  <BS_GiantFrame_Android.customEffectDescriptions.2>Изменяет размер тела и связанные с ним свойства.</BS_GiantFrame_Android.customEffectDescriptions.2>
+  <BS_GiantFrame_Android.customEffectDescriptions.3>Сильно изменяет запас здоровья.</BS_GiantFrame_Android.customEffectDescriptions.3>
+  <BS_GiantFrame_Android.customEffectDescriptions.4>Изменяет урон, но слабее, чем при линейной зависимости от размера.</BS_GiantFrame_Android.customEffectDescriptions.4>
+  <BS_GiantFrame_Android.customEffectDescriptions.5>Сильно влияет на шанс уклонения в ближнем бою: меньший размер даёт преимущество.</BS_GiantFrame_Android.customEffectDescriptions.5>
+  <BS_GiantFrame_Android.customEffectDescriptions.6>Очень сильно влияет на выработку ресурсов самим персонажем через гены этого мода и Alpha Genes.</BS_GiantFrame_Android.customEffectDescriptions.6>
+  <BS_TitanFrame_Android.customEffectDescriptions.0>— Общие эффекты размера тела —</BS_TitanFrame_Android.customEffectDescriptions.0>
+  <BS_TitanFrame_Android.customEffectDescriptions.1>Очень сильно влияет на расход энергии при зарядке.</BS_TitanFrame_Android.customEffectDescriptions.1>
+  <BS_TitanFrame_Android.customEffectDescriptions.2>Изменяет размер тела и связанные с ним свойства.</BS_TitanFrame_Android.customEffectDescriptions.2>
+  <BS_TitanFrame_Android.customEffectDescriptions.3>Сильно изменяет запас здоровья.</BS_TitanFrame_Android.customEffectDescriptions.3>
+  <BS_TitanFrame_Android.customEffectDescriptions.4>Изменяет урон, но слабее, чем при линейной зависимости от размера.</BS_TitanFrame_Android.customEffectDescriptions.4>
+  <BS_TitanFrame_Android.customEffectDescriptions.5>Сильно влияет на шанс уклонения в ближнем бою: меньший размер даёт преимущество.</BS_TitanFrame_Android.customEffectDescriptions.5>
+  <BS_TitanFrame_Android.customEffectDescriptions.6>Очень сильно влияет на выработку ресурсов самим персонажем через гены этого мода и Alpha Genes.</BS_TitanFrame_Android.customEffectDescriptions.6>
+  <BS_SmallFrame_Android.customEffectDescriptions.0>— Общие эффекты размера тела —</BS_SmallFrame_Android.customEffectDescriptions.0>
+  <BS_SmallFrame_Android.customEffectDescriptions.1>Очень сильно влияет на расход энергии при зарядке.</BS_SmallFrame_Android.customEffectDescriptions.1>
+  <BS_SmallFrame_Android.customEffectDescriptions.2>Изменяет размер тела и связанные с ним свойства.</BS_SmallFrame_Android.customEffectDescriptions.2>
+  <BS_SmallFrame_Android.customEffectDescriptions.3>Сильно изменяет запас здоровья.</BS_SmallFrame_Android.customEffectDescriptions.3>
+  <BS_SmallFrame_Android.customEffectDescriptions.4>Изменяет урон, но слабее, чем при линейной зависимости от размера.</BS_SmallFrame_Android.customEffectDescriptions.4>
+  <BS_SmallFrame_Android.customEffectDescriptions.5>Сильно влияет на шанс уклонения в ближнем бою: меньший размер даёт преимущество.</BS_SmallFrame_Android.customEffectDescriptions.5>
+  <BS_SmallFrame_Android.customEffectDescriptions.6>Очень сильно влияет на выработку ресурсов самим персонажем через гены этого мода и Alpha Genes.</BS_SmallFrame_Android.customEffectDescriptions.6>
+  <BS_TinyFrame_Android.customEffectDescriptions.0>— Общие эффекты размера тела —</BS_TinyFrame_Android.customEffectDescriptions.0>
+  <BS_TinyFrame_Android.customEffectDescriptions.1>Очень сильно влияет на расход энергии при зарядке.</BS_TinyFrame_Android.customEffectDescriptions.1>
+  <BS_TinyFrame_Android.customEffectDescriptions.2>Изменяет размер тела и связанные с ним свойства.</BS_TinyFrame_Android.customEffectDescriptions.2>
+  <BS_TinyFrame_Android.customEffectDescriptions.3>Сильно изменяет запас здоровья.</BS_TinyFrame_Android.customEffectDescriptions.3>
+  <BS_TinyFrame_Android.customEffectDescriptions.4>Изменяет урон, но слабее, чем при линейной зависимости от размера.</BS_TinyFrame_Android.customEffectDescriptions.4>
+  <BS_TinyFrame_Android.customEffectDescriptions.5>Сильно влияет на шанс уклонения в ближнем бою: меньший размер даёт преимущество.</BS_TinyFrame_Android.customEffectDescriptions.5>
+  <BS_TinyFrame_Android.customEffectDescriptions.6>Очень сильно влияет на выработку ресурсов самим персонажем через гены этого мода и Alpha Genes.</BS_TinyFrame_Android.customEffectDescriptions.6>
+  <VREA_BS_AlienApperanceStandards_Lesser.customEffectDescriptions.0>Изменяет взаимное мнение на величину от +10 до −25 в зависимости от сходства.</VREA_BS_AlienApperanceStandards_Lesser.customEffectDescriptions.0>
+  <VREA_BS_AlienApperanceStandards.customEffectDescriptions.0>Изменяет взаимное мнение на величину от +10 до −45 в зависимости от сходства.</VREA_BS_AlienApperanceStandards.customEffectDescriptions.0>
+  <VREA_BS_AlienApperanceStandards.customEffectDescriptions.1>Частично отменяет преимущество красоты при сильных различиях во внешности.</VREA_BS_AlienApperanceStandards.customEffectDescriptions.1>
+</LanguageData>

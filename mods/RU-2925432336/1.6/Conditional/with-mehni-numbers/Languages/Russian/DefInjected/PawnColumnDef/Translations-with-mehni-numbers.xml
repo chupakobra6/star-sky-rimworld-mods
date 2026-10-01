@@ -1,0 +1,83 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Numbers_RimWorld_StatDef_BS_MaxNutritionFromSize.label>Фактическое изменение размера</Numbers_RimWorld_StatDef_BS_MaxNutritionFromSize.label>
+  <Numbers_RimWorld_StatDef_BS_MaxNutritionFromSize.headerTip>Скрытая величина для расчёта питания.
+
+Щёлкните правой кнопкой мыши, чтобы удалить столбец. Для перемещения удерживайте левую кнопку и перетащите столбец.</Numbers_RimWorld_StatDef_BS_MaxNutritionFromSize.headerTip>
+  <Numbers_RimWorld_StatDef_SM_BodySizeOffset.label>Прибавка к размеру тела</Numbers_RimWorld_StatDef_SM_BodySizeOffset.label>
+  <Numbers_RimWorld_StatDef_SM_BodySizeOffset.headerTip>Добавляет указанную величину к размеру тела персонажа. Влияет на различные игровые механики.
+
+Щёлкните правой кнопкой мыши, чтобы удалить столбец. Для перемещения удерживайте левую кнопку и перетащите столбец.</Numbers_RimWorld_StatDef_SM_BodySizeOffset.headerTip>
+  <Numbers_RimWorld_StatDef_SM_Cosmetic_BodySizeOffset.label>Прибавка к видимому размеру тела</Numbers_RimWorld_StatDef_SM_Cosmetic_BodySizeOffset.label>
+  <Numbers_RimWorld_StatDef_SM_Cosmetic_BodySizeOffset.headerTip>
+
+Щёлкните правой кнопкой мыши, чтобы удалить столбец. Для перемещения удерживайте левую кнопку и перетащите столбец.</Numbers_RimWorld_StatDef_SM_Cosmetic_BodySizeOffset.headerTip>
+  <Numbers_RimWorld_StatDef_SM_HeadSize_Cosmetic.headerTip>
+
+Щёлкните правой кнопкой мыши, чтобы удалить столбец. Для перемещения удерживайте левую кнопку и перетащите столбец.</Numbers_RimWorld_StatDef_SM_HeadSize_Cosmetic.headerTip>
+  <Numbers_RimWorld_StatDef_SM_EVA_Level.headerTip>
+
+Щёлкните правой кнопкой мыши, чтобы удалить столбец. Для перемещения удерживайте левую кнопку и перетащите столбец.</Numbers_RimWorld_StatDef_SM_EVA_Level.headerTip>
+  <Numbers_RimWorld_StatDef_SM_BodySizeMultiplier.label>Множитель размера тела</Numbers_RimWorld_StatDef_SM_BodySizeMultiplier.label>
+  <Numbers_RimWorld_StatDef_SM_BodySizeMultiplier.headerTip>Умножает размер тела персонажа на указанную величину. Влияет на различные игровые механики.
+
+Щёлкните правой кнопкой мыши, чтобы удалить столбец. Для перемещения удерживайте левую кнопку и перетащите столбец.</Numbers_RimWorld_StatDef_SM_BodySizeMultiplier.headerTip>
+  <Numbers_RimWorld_StatDef_SM_Cosmetic_BodySizeMultiplier.label>Множитель видимого размера тела</Numbers_RimWorld_StatDef_SM_Cosmetic_BodySizeMultiplier.label>
+  <Numbers_RimWorld_StatDef_SM_Cosmetic_BodySizeMultiplier.headerTip>Умножает видимый размер тела персонажа на указанную величину.
+
+Щёлкните правой кнопкой мыши, чтобы удалить столбец. Для перемещения удерживайте левую кнопку и перетащите столбец.</Numbers_RimWorld_StatDef_SM_Cosmetic_BodySizeMultiplier.headerTip>
+  <Numbers_RimWorld_StatDef_SM_RaidWealthMultiplier.label>Множитель ценности при расчёте налётов</Numbers_RimWorld_StatDef_SM_RaidWealthMultiplier.label>
+  <Numbers_RimWorld_StatDef_SM_RaidWealthMultiplier.headerTip>Изменяет ценность персонажа, учитываемую при расчёте силы налётов, умножая её на указанную величину.
+
+Щёлкните правой кнопкой мыши, чтобы удалить столбец. Для перемещения удерживайте левую кнопку и перетащите столбец.</Numbers_RimWorld_StatDef_SM_RaidWealthMultiplier.headerTip>
+  <Numbers_RimWorld_StatDef_SM_RaidWealthOffset.label>Ценность при расчёте налётов</Numbers_RimWorld_StatDef_SM_RaidWealthOffset.label>
+  <Numbers_RimWorld_StatDef_SM_RaidWealthOffset.headerTip>Изменяет ценность персонажа, учитываемую при расчёте силы налётов. Применяется после множителя этой ценности.
+
+Щёлкните правой кнопкой мыши, чтобы удалить столбец. Для перемещения удерживайте левую кнопку и перетащите столбец.</Numbers_RimWorld_StatDef_SM_RaidWealthOffset.headerTip>
+  <Numbers_RimWorld_StatDef_SM_HeadSize_Cosmetic.label>Множитель размера головы</Numbers_RimWorld_StatDef_SM_HeadSize_Cosmetic.label>
+  <Numbers_RimWorld_StatDef_BS_BatteryCharging.label>Зарядка от аккумуляторов</Numbers_RimWorld_StatDef_BS_BatteryCharging.label>
+  <Numbers_RimWorld_StatDef_BS_BatteryCharging.headerTip>Эффективность и скорость зарядки за счёт энергии аккумуляторов.
+
+Щёлкните правой кнопкой мыши, чтобы удалить столбец. Для перемещения удерживайте левую кнопку и перетащите столбец.</Numbers_RimWorld_StatDef_BS_BatteryCharging.headerTip>
+  <Numbers_RimWorld_StatDef_SM_EVA_Level.label>Уровень защиты в космосе (переопределение)</Numbers_RimWorld_StatDef_SM_EVA_Level.label>
+  <Numbers_RimWorld_StatDef_BS_SoulPower.label>Сила души</Numbers_RimWorld_StatDef_BS_SoulPower.label>
+  <Numbers_RimWorld_StatDef_BS_SoulPower.headerTip>Сила души, обычно дарованная тёмными архотеками или украденная у них.
+
+Щёлкните правой кнопкой мыши, чтобы удалить столбец. Для перемещения удерживайте левую кнопку и перетащите столбец.</Numbers_RimWorld_StatDef_BS_SoulPower.headerTip>
+  <Numbers_RimWorld_StatDef_SM_Minimum_Learning_Speed.label>Обучение навыкам без интереса</Numbers_RimWorld_StatDef_SM_Minimum_Learning_Speed.label>
+  <Numbers_RimWorld_StatDef_SM_Minimum_Learning_Speed.headerTip>Скорость изучения навыков, к которым у персонажа нет интереса.
+
+Щёлкните правой кнопкой мыши, чтобы удалить столбец. Для перемещения удерживайте левую кнопку и перетащите столбец.</Numbers_RimWorld_StatDef_SM_Minimum_Learning_Speed.headerTip>
+  <Numbers_RimWorld_StatDef_SM_GrowthPointAccumulation.label>Прирост очков развития</Numbers_RimWorld_StatDef_SM_GrowthPointAccumulation.label>
+  <Numbers_RimWorld_StatDef_SM_GrowthPointAccumulation.headerTip>Изменяет скорость накопления очков развития у детей.
+
+Щёлкните правой кнопкой мыши, чтобы удалить столбец. Для перемещения удерживайте левую кнопку и перетащите столбец.</Numbers_RimWorld_StatDef_SM_GrowthPointAccumulation.headerTip>
+  <Numbers_RimWorld_StatDef_SM_Food_Need_Capacity.label>Множитель запаса сытости</Numbers_RimWorld_StatDef_SM_Food_Need_Capacity.label>
+  <Numbers_RimWorld_StatDef_SM_Food_Need_Capacity.headerTip>Изменяет запас сытости персонажа. Чем он больше, тем реже нужно есть.
+
+Щёлкните правой кнопкой мыши, чтобы удалить столбец. Для перемещения удерживайте левую кнопку и перетащите столбец.</Numbers_RimWorld_StatDef_SM_Food_Need_Capacity.headerTip>
+  <Numbers_RimWorld_StatDef_SM_AttackSpeed.label>Скорость атак в ближнем бою</Numbers_RimWorld_StatDef_SM_AttackSpeed.label>
+  <Numbers_RimWorld_StatDef_SM_AttackSpeed.headerTip>Сокращает время между любыми атаками в ближнем бою.
+
+Щёлкните правой кнопкой мыши, чтобы удалить столбец. Для перемещения удерживайте левую кнопку и перетащите столбец.</Numbers_RimWorld_StatDef_SM_AttackSpeed.headerTip>
+  <Numbers_RimWorld_StatDef_SM_UnarmedAttackSpeed.label>Скорость безоружных атак</Numbers_RimWorld_StatDef_SM_UnarmedAttackSpeed.label>
+  <Numbers_RimWorld_StatDef_SM_UnarmedAttackSpeed.headerTip>Сокращает время между атаками без оружия, в том числе атаками с помощью имплантов.
+
+Щёлкните правой кнопкой мыши, чтобы удалить столбец. Для перемещения удерживайте левую кнопку и перетащите столбец.</Numbers_RimWorld_StatDef_SM_UnarmedAttackSpeed.headerTip>
+  <Numbers_RimWorld_StatDef_SM_BulletDmgMult.label>Множитель получаемого колющего урона</Numbers_RimWorld_StatDef_SM_BulletDmgMult.label>
+  <Numbers_RimWorld_StatDef_SM_BulletDmgMult.headerTip>Множитель урона от пуль и стрел. На колющие удары в ближнем бою влияет вдвое слабее.
+
+Щёлкните правой кнопкой мыши, чтобы удалить столбец. Для перемещения удерживайте левую кнопку и перетащите столбец.</Numbers_RimWorld_StatDef_SM_BulletDmgMult.headerTip>
+  <Numbers_RimWorld_StatDef_SM_ConcussiveDmgMult.label>Множитель урона от взрывов и ударов</Numbers_RimWorld_StatDef_SM_ConcussiveDmgMult.label>
+  <Numbers_RimWorld_StatDef_SM_ConcussiveDmgMult.headerTip>Множитель получаемого урона от взрывов и сдавливания. На удары тупым оружием влияет вдвое слабее.
+
+Щёлкните правой кнопкой мыши, чтобы удалить столбец. Для перемещения удерживайте левую кнопку и перетащите столбец.</Numbers_RimWorld_StatDef_SM_ConcussiveDmgMult.headerTip>
+  <Numbers_RimWorld_StatDef_SM_AcidDmgMult.label>Множитель урона от кислоты</Numbers_RimWorld_StatDef_SM_AcidDmgMult.label>
+  <Numbers_RimWorld_StatDef_SM_AcidDmgMult.headerTip>Множитель получаемого урона от кислоты. На урон от ядов влияет вдвое слабее. Нулевые и отрицательные значения дают невосприимчивость к кислотному урону.
+
+Щёлкните правой кнопкой мыши, чтобы удалить столбец. Для перемещения удерживайте левую кнопку и перетащите столбец.</Numbers_RimWorld_StatDef_SM_AcidDmgMult.headerTip>
+  <Numbers_RimWorld_StatDef_SM_FlirtChance.label>Вероятность флирта</Numbers_RimWorld_StatDef_SM_FlirtChance.label>
+  <Numbers_RimWorld_StatDef_SM_FlirtChance.headerTip>Влияет на вероятность того, что персонаж начнёт флиртовать.
+
+Щёлкните правой кнопкой мыши, чтобы удалить столбец. Для перемещения удерживайте левую кнопку и перетащите столбец.</Numbers_RimWorld_StatDef_SM_FlirtChance.headerTip>
+</LanguageData>

@@ -1,0 +1,109 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VTE_AbsentMinded.degreeDatas.0.label>рассеянность</VTE_AbsentMinded.degreeDatas.0.label>
+  <VTE_AbsentMinded.degreeDatas.0.description>{PAWN_nameDef} часто витает в облаках даже во время работы. {PAWN_pronoun} иногда внезапно бросает начатое дело.</VTE_AbsentMinded.degreeDatas.0.description>
+  <VTE_Eccentric.degreeDatas.0.label>эксцентричность</VTE_Eccentric.degreeDatas.0.label>
+  <VTE_Eccentric.degreeDatas.0.description>{PAWN_nameDef} немного не в себе, зато обладает более острым научным умом.</VTE_Eccentric.degreeDatas.0.description>
+  <VTE_Perfectionist.degreeDatas.0.label>перфекционист</VTE_Perfectionist.degreeDatas.0.label>
+  <VTE_Perfectionist.degreeDatas.0.description>{PAWN_nameDef} стремится к совершенству в работе. {PAWN_pronoun} создаёт более качественные изделия, но работает медленнее. Несоответствие собственным стандартам расстраивает, а в редких случаях {PAWN_pronoun} может бросить проект на полпути.</VTE_Perfectionist.degreeDatas.0.description>
+  <VTE_Coward.degreeDatas.0.label>трусость</VTE_Coward.degreeDatas.0.label>
+  <VTE_Coward.degreeDatas.0.description>{PAWN_nameDef} склоняется к трусости. При опасности {PAWN_pronoun} часто прячется или убегает вместо того, чтобы сражаться.</VTE_Coward.degreeDatas.0.description>
+  <VTE_Brave.degreeDatas.0.label>храбрость</VTE_Brave.degreeDatas.0.label>
+  <VTE_Brave.degreeDatas.0.description>{PAWN_nameDef} обладает необычайной физической и душевной стойкостью. {PAWN_pronoun} легче переносит боль и дольше выдерживает тяжёлые условия без срыва.</VTE_Brave.degreeDatas.0.description>
+  <VTE_Clumsy.degreeDatas.0.label>неуклюжий</VTE_Clumsy.degreeDatas.0.label>
+  <VTE_Clumsy.degreeDatas.0.description>{PAWN_nameDef} постоянно получает мелкие ушибы и царапины: плохая координация заставляет спотыкаться и падать.</VTE_Clumsy.degreeDatas.0.description>
+  <VTE_HeatInclined.degreeDatas.0.label>теплолюбивый</VTE_HeatInclined.degreeDatas.0.label>
+  <VTE_HeatInclined.degreeDatas.0.description>{PAWN_nameDef} любит жару сухого летнего дня. {PAWN_pronoun} не против работать до пота или спать в тепле.</VTE_HeatInclined.degreeDatas.0.description>
+  <VTE_ColdInclined.degreeDatas.0.label>любитель холода</VTE_ColdInclined.degreeDatas.0.label>
+  <VTE_ColdInclined.degreeDatas.0.description>{PAWN_nameDef} любит морозную свежесть зимней ночи. {PAWN_pronoun} не против помёрзнуть или поспать на холоде.</VTE_ColdInclined.degreeDatas.0.description>
+  <VTE_HeavySleeper.degreeDatas.0.label>соня</VTE_HeavySleeper.degreeDatas.0.label>
+  <VTE_HeavySleeper.degreeDatas.0.description>{PAWN_nameDef} не проснётся, даже если рядом взорвётся бомба. Во время сна {PAWN_pronoun} не станет ни работать, ни защищать поселение.</VTE_HeavySleeper.degreeDatas.0.description>
+  <VTE_Neat.degreeDatas.0.label>чистюля</VTE_Neat.degreeDatas.0.label>
+  <VTE_Neat.degreeDatas.0.description>{PAWN_nameDef} от природы любит чистоту и порядок. {PAWN_pronoun} не натаскивает грязь, не разбрасывает мусор и с удовольствием занимается уборкой.</VTE_Neat.degreeDatas.0.description>
+  <VTE_Slob.degreeDatas.0.label>неряха</VTE_Slob.degreeDatas.0.label>
+  <VTE_Slob.degreeDatas.0.description>{PAWN_nameDef} от природы неаккуратно обращается с вещами, оставляя повсюду мусор и грязь. Зато {PAWN_pronoun} почти не замечает беспорядка вокруг.</VTE_Slob.degreeDatas.0.description>
+  <VTE_Workaholic.degreeDatas.0.label>трудоголик</VTE_Workaholic.degreeDatas.0.label>
+  <VTE_Workaholic.degreeDatas.0.description>{PAWN_nameDef} с трудом делает перерывы в работе и отдыхает. {PAWN_pronoun} продолжает трудиться даже в ущерб здоровью и сну.</VTE_Workaholic.degreeDatas.0.description>
+  <VTE_IronStomach.degreeDatas.0.label>железный желудок</VTE_IronStomach.degreeDatas.0.label>
+  <VTE_IronStomach.degreeDatas.0.description>{PAWN_nameDef} не знает тошноты. Пищевые отравления и рвота чужды {PAWN_objective}.</VTE_IronStomach.degreeDatas.0.description>
+  <VTE_AnimalLover.degreeDatas.0.label>друг животных</VTE_AnimalLover.degreeDatas.0.label>
+  <VTE_AnimalLover.degreeDatas.0.description>{PAWN_nameDef} не терпит жестокости к животным. {PAWN_pronoun} сильнее радуется их ласке и связи с приручённым питомцем, но тяжелее переживает его потерю. {PAWN_pronoun} также отказывается разделывать животных.</VTE_AnimalLover.degreeDatas.0.description>
+  <VTE_AnimalHater.degreeDatas.0.label>враг животных</VTE_AnimalHater.degreeDatas.0.label>
+  <VTE_AnimalHater.degreeDatas.0.description>{PAWN_nameDef} верит в превосходство людей над животными. {PAWN_pronoun} не любит привязываться к ним или принимать их ласку, зато радуется их смерти или продаже.</VTE_AnimalHater.degreeDatas.0.description>
+  <VTE_BigBoned.degreeDatas.0.label>широкая кость</VTE_BigBoned.degreeDatas.0.label>
+  <VTE_BigBoned.degreeDatas.0.description>Из-за большого веса или неудобной позы {PAWN_nameDef} уже {PAWN_gender ? сломал : сломала} несколько стульев и, вероятно, сломает ещё.</VTE_BigBoned.degreeDatas.0.description>
+  <VTE_Rebel.degreeDatas.0.label>бунтарь</VTE_Rebel.degreeDatas.0.label>
+  <VTE_Rebel.degreeDatas.0.description>{PAWN_nameDef} следует только собственным правилам. Под принуждением {PAWN_pronoun} тянет время и работает медленнее.</VTE_Rebel.degreeDatas.0.description>
+  <VTE_Submissive.degreeDatas.0.label>покорный</VTE_Submissive.degreeDatas.0.label>
+  <VTE_Submissive.degreeDatas.0.description>{PAWN_nameDef} нуждается в чётких указаниях, когда и как действовать. {PAWN_pronoun} работает с обычной скоростью только по приказу, а без него — медленнее.</VTE_Submissive.degreeDatas.0.description>
+  <VTE_Vengeful.degreeDatas.0.label>мстительный</VTE_Vengeful.degreeDatas.0.label>
+  <VTE_Vengeful.degreeDatas.0.description>{PAWN_nameDef} живёт жаждой мести. {PAWN_pronoun} не выносит соседства с соперниками в поселении и радуется их смерти.</VTE_Vengeful.degreeDatas.0.description>
+  <VTE_Technophobe.degreeDatas.0.label>технофоб</VTE_Technophobe.degreeDatas.0.label>
+  <VTE_Technophobe.degreeDatas.0.description>{PAWN_nameDef} отвергает современные технологии — то ли из-за пережитой травмы, то ли из страха перемен. {PAWN_pronoun} может срывать злость на машинах, отказывается заниматься исследованиями и получает удовлетворение от уничтожения механоидов.</VTE_Technophobe.degreeDatas.0.description>
+  <VTE_FunLoving.degreeDatas.0.label>тусовщик</VTE_FunLoving.degreeDatas.0.label>
+  <VTE_FunLoving.degreeDatas.0.description>{PAWN_nameDef} живёт ради удовольствий. {PAWN_pronoun} с теплом вспоминает вечеринки, и радость от них сохраняется гораздо дольше, чем у большинства.</VTE_FunLoving.degreeDatas.0.description>
+  <VTE_Dunce.degreeDatas.0.label>отсталый</VTE_Dunce.degreeDatas.0.label>
+  <VTE_Dunce.degreeDatas.0.description>{PAWN_nameDef} обладает ограниченными умственными способностями. {PAWN_pronoun} медленно учится и с трудом поддерживает разговор, зато обычно радуется жизни без особых причин.</VTE_Dunce.degreeDatas.0.description>
+  <VTE_MartialArtist.degreeDatas.0.label>мастер боевых искусств</VTE_MartialArtist.degreeDatas.0.label>
+  <VTE_MartialArtist.degreeDatas.0.description>{PAWN_nameDef} занимается ближним боем и знает особый приём, позволяющий обезоруживать противников.</VTE_MartialArtist.degreeDatas.0.description>
+  <VTE_Snob.degreeDatas.0.label>сноб</VTE_Snob.degreeDatas.0.label>
+  <VTE_Snob.degreeDatas.0.description>{PAWN_nameDef} считает себя частью высшего общества и больше всего любит оценивать искусство и общаться со знатью.</VTE_Snob.degreeDatas.0.description>
+  <VTE_Squeamish.degreeDatas.0.label>брезгливый</VTE_Squeamish.degreeDatas.0.label>
+  <VTE_Squeamish.degreeDatas.0.description>{PAWN_nameDef} испытывает тошноту при виде крови или трупов. Рвота стала привычной частью жизни, и {PAWN_objective} приходится с этим мириться.</VTE_Squeamish.degreeDatas.0.description>
+  <VTE_Anxious.degreeDatas.0.label>нервный</VTE_Anxious.degreeDatas.0.label>
+  <VTE_Anxious.degreeDatas.0.description>{PAWN_nameDef} от природы испытывает тревогу, особенно при общении с другими. {PAWN_pronoun} избегает собраний. Иногда {PAWN_possessive} комната становится местом уединения, где проще справиться с тревогой.</VTE_Anxious.degreeDatas.0.description>
+  <VTE_Insatiable.degreeDatas.0.label>ненасытный</VTE_Insatiable.degreeDatas.0.label>
+  <VTE_Insatiable.degreeDatas.0.description>{PAWN_nameDef} не может насытиться любовными утехами. {PAWN_pronoun} часто меняет партнёров и стремится к близости.</VTE_Insatiable.degreeDatas.0.description>
+  <VTE_Prude.degreeDatas.0.label>поборник приличий</VTE_Prude.degreeDatas.0.label>
+  <VTE_Prude.degreeDatas.0.description>{PAWN_nameDef} допускает близость только в браке: {PAWN_possessive} тело предназначено лишь для супруга или супруги. {PAWN_pronoun} никогда не станет инициатором развода и сильнее большинства не любит наготу.</VTE_Prude.degreeDatas.0.description>
+  <VTE_CouchPotato.degreeDatas.0.label>диванный лежебока</VTE_CouchPotato.degreeDatas.0.label>
+  <VTE_CouchPotato.degreeDatas.0.description>{PAWN_nameDef} находит счастье в кресле перед экраном. {PAWN_pronoun} никогда не устаёт смотреть телевизор, и после просмотра настроение всегда хорошее.</VTE_CouchPotato.degreeDatas.0.description>
+  <VTE_CatPerson.degreeDatas.0.label>кошатник</VTE_CatPerson.degreeDatas.0.label>
+  <VTE_CatPerson.degreeDatas.0.description>{PAWN_nameDef} любит общество кошек и легко привязывается к ним, но недолюбливает собак.</VTE_CatPerson.degreeDatas.0.description>
+  <VTE_DogPerson.degreeDatas.0.label>собачник</VTE_DogPerson.degreeDatas.0.label>
+  <VTE_DogPerson.degreeDatas.0.description>{PAWN_nameDef} любит общество собак и легко привязывается к ним, но недолюбливает кошек.</VTE_DogPerson.degreeDatas.0.description>
+  <VTE_Prodigy.degreeDatas.0.label>вундеркинд</VTE_Prodigy.degreeDatas.0.label>
+  <VTE_Prodigy.degreeDatas.0.description>{PAWN_nameDef} обладает острым умом и логическим мышлением. {PAWN_pronoun} проводит исследования быстрее большинства; {PAWN_possessive} рациональный взгляд на мир помогает {PAWN_objective} реже переживать психические срывы.</VTE_Prodigy.degreeDatas.0.description>
+  <VTE_Menagerist.degreeDatas.0.label>любитель зверинцев</VTE_Menagerist.degreeDatas.0.label>
+  <VTE_Menagerist.degreeDatas.0.description>{PAWN_nameDef} считает животных необходимой частью жизни и общества. {PAWN_pronoun} чувствует себя счастливее, когда вокруг больше животных, и особенно хорошо умеет их приручать и обучать.</VTE_Menagerist.degreeDatas.0.description>
+  <VTE_ChildOfSea.degreeDatas.0.label>любитель моря</VTE_ChildOfSea.degreeDatas.0.label>
+  <VTE_ChildOfSea.degreeDatas.0.description>{PAWN_nameDef} чувствует зов моря. {PAWN_pronoun} счастливее рядом с океаном или глубокой рекой.</VTE_ChildOfSea.degreeDatas.0.description>
+  <VTE_ChildOfMountain.degreeDatas.0.label>любитель гор</VTE_ChildOfMountain.degreeDatas.0.label>
+  <VTE_ChildOfMountain.degreeDatas.0.description>{PAWN_nameDef} чувствует зов гор. {PAWN_pronoun} становится счастливее вблизи большой горы.</VTE_ChildOfMountain.degreeDatas.0.description>
+  <VTE_MadSurgeon.degreeDatas.0.label>безумный доктор</VTE_MadSurgeon.degreeDatas.0.label>
+  <VTE_MadSurgeon.degreeDatas.0.description>{PAWN_nameDef} скрывает извращённую одержимость. {PAWN_pronoun} считает извлечение органов мрачным экспериментом и получает от него удовольствие. Операции приносят радость, а долгие перерывы вызывают всё большее беспокойство.</VTE_MadSurgeon.degreeDatas.0.description>
+  <VTE_DrunkenMaster.degreeDatas.0.label>пьяный мастер</VTE_DrunkenMaster.degreeDatas.0.label>
+  <VTE_DrunkenMaster.degreeDatas.0.description>{PAWN_nameDef} лучше всего дерётся в состоянии опьянения. Чем больше {PAWN_pronoun} пьянеет, тем опаснее {PAWN_pronoun} становится в ближнем бою.</VTE_DrunkenMaster.degreeDatas.0.description>
+  <VTE_Kleptomaniac.degreeDatas.0.label>клептоман</VTE_Kleptomaniac.degreeDatas.0.label>
+  <VTE_Kleptomaniac.degreeDatas.0.description>{PAWN_nameDef} испытывает непреодолимую тягу к воровству даже у гостей и союзников, рискуя вызвать их гнев.</VTE_Kleptomaniac.degreeDatas.0.description>
+  <VTE_Stoner.degreeDatas.0.label>торчок</VTE_Stoner.degreeDatas.0.label>
+  <VTE_Stoner.degreeDatas.0.description>{PAWN_nameDef} обожает дымолист и считает его частью своего образа жизни. {PAWN_pronoun} скорее умрёт, чем откажется от него.</VTE_Stoner.degreeDatas.0.description>
+  <VTE_Lush.degreeDatas.0.label>пропойца</VTE_Lush.degreeDatas.0.label>
+  <VTE_Lush.degreeDatas.0.description>{PAWN_nameDef} считает алкоголь образом жизни. {PAWN_pronoun} обожает выпивать и скорее умрёт, чем откажется от спиртного.</VTE_Lush.degreeDatas.0.description>
+  <VTE_Wanderlust.degreeDatas.0.label>жажда странствий</VTE_Wanderlust.degreeDatas.0.label>
+  <VTE_Wanderlust.degreeDatas.0.description>{PAWN_nameDef} любит путешествия и счастливее всего в пути. Долгое пребывание на одном месте вызывает беспокойство, зато в караване {PAWN_pronoun} быстро передвигается и хорошо добывает пищу.</VTE_Wanderlust.degreeDatas.0.description>
+  <VTE_Insomniac.degreeDatas.0.label>бессонница</VTE_Insomniac.degreeDatas.0.label>
+  <VTE_Insomniac.degreeDatas.0.description>{PAWN_nameDef} никогда не спит и не бодрствует в полной мере. {PAWN_pronoun} медленно бредёт, словно зомби, и спит лишь раз в несколько дней.</VTE_Insomniac.degreeDatas.0.description>
+  <VTE_WorldWeary.degreeDatas.0.label>усталость от мира</VTE_WorldWeary.degreeDatas.0.label>
+  <VTE_WorldWeary.degreeDatas.0.description>{PAWN_nameDef} устало смотрит на мир и борется с мрачными мыслями. Из-за этого характера {PAWN_pronoun} с трудом заводит друзей.</VTE_WorldWeary.degreeDatas.0.description>
+  <VTE_Desensitized.degreeDatas.0.label>эмоциональная невосприимчивость</VTE_Desensitized.degreeDatas.0.label>
+  <VTE_Desensitized.degreeDatas.0.description>{PAWN_nameDef} испытывает эмоциональную глухоту после давней душевной травмы. {PAWN_pronoun} ничего не чувствует при смерти или утрате животных, поселенцев, родных и заключённых.</VTE_Desensitized.degreeDatas.0.description>
+  <VTE_RefinedPalate.degreeDatas.0.label>утончённый вкус</VTE_RefinedPalate.degreeDatas.0.label>
+  <VTE_RefinedPalate.degreeDatas.0.description>{PAWN_nameDef} ценит лишь лучшие блюда. {PAWN_pronoun} безразлично относится к обычной еде, зато смакует роскошные блюда и получает от них больше радости.</VTE_RefinedPalate.degreeDatas.0.description>
+  <VTE_Academian.degreeDatas.0.label>учёный</VTE_Academian.degreeDatas.0.label>
+  <VTE_Academian.degreeDatas.0.description>{PAWN_nameDef} обладает обширными знаниями благодаря усердной учёбе. {PAWN_pronoun} преуспевает в науке и медицине и умело заботится о пациентах.</VTE_Academian.degreeDatas.0.description>
+  <VTE_Groundbreaker.degreeDatas.0.label>первопроходец</VTE_Groundbreaker.degreeDatas.0.label>
+  <VTE_Groundbreaker.degreeDatas.0.description>{PAWN_nameDef} считает инфраструктуру основой всего. Природные способности к строительству и работе с камнем позволяют строить и добывать быстрее и эффективнее.</VTE_Groundbreaker.degreeDatas.0.description>
+  <VTE_Gastronomist.degreeDatas.0.label>гастроном</VTE_Gastronomist.degreeDatas.0.label>
+  <VTE_Gastronomist.degreeDatas.0.description>{PAWN_nameDef} считает еду искусством. {PAWN_pronoun} готовит красивые и вкусные блюда, которые почти всегда безопасны для здоровья.</VTE_Gastronomist.degreeDatas.0.description>
+  <VTE_Ecologist.degreeDatas.0.label>эколог</VTE_Ecologist.degreeDatas.0.label>
+  <VTE_Ecologist.degreeDatas.0.description>{PAWN_nameDef} ценит растительный и животный мир. {PAWN_pronoun} использует все части растений и животных и дорожит дарами природы.</VTE_Ecologist.degreeDatas.0.description>
+  <VTE_Tycoon.degreeDatas.0.label>делец</VTE_Tycoon.degreeDatas.0.label>
+  <VTE_Tycoon.degreeDatas.0.description>{PAWN_nameDef} чует серебро и умеет убеждать. {PAWN_pronoun} высоко ценит свои товары и заставляет других ценить их так же.</VTE_Tycoon.degreeDatas.0.description>
+  <VTE_ThickSkinned.degreeDatas.0.label>толстая кожа</VTE_ThickSkinned.degreeDatas.0.label>
+  <VTE_ThickSkinned.degreeDatas.0.description>{PAWN_nameDef} отличается необычно высокой свёртываемостью крови, поэтому кровотечения гораздо слабее обычного.</VTE_ThickSkinned.degreeDatas.0.description>
+  <VTE_ThinSkinned.degreeDatas.0.label>тонкая кожа</VTE_ThinSkinned.degreeDatas.0.label>
+  <VTE_ThinSkinned.degreeDatas.0.description>{PAWN_nameDef} страдает необычной гемофилией, из-за которой кровотечения гораздо сильнее обычного.</VTE_ThinSkinned.degreeDatas.0.description>
+  <VTE_Schizoid.degreeDatas.0.label>шизоид</VTE_Schizoid.degreeDatas.0.label>
+  <VTE_Schizoid.degreeDatas.0.description>{PAWN_nameDef} подолгу подавляет свои чувства. Когда напряжение становится слишком сильным, {PAWN_pronoun} может внезапно сорваться.</VTE_Schizoid.degreeDatas.0.description>
+</LanguageData>

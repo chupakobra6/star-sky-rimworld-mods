@@ -1,0 +1,19 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RED_LinearCurve.label>линейная кривая</RED_LinearCurve.label>
+  <RED_LinearCurve.description>Линейная зависимость.</RED_LinearCurve.description>
+  <RED_ExponentialCurve.label>экспоненциальная кривая</RED_ExponentialCurve.label>
+  <RED_ExponentialCurve.description>Сначала растёт медленно и резко поднимается лишь ближе к концу. Лучшая форма кривой.</RED_ExponentialCurve.description>
+  <RED_CubicCurve.label>кубическая кривая</RED_CubicCurve.label>
+  <RED_CubicCurve.description>Сначала растёт медленно, затем быстро. Вторая по удачности форма кривой.</RED_CubicCurve.description>
+  <RED_LogisticCurve.label>логистическая кривая</RED_LogisticCurve.label>
+  <RED_LogisticCurve.description>Сначала растёт медленно, затем ускоряется и вновь выравнивается.</RED_LogisticCurve.description>
+  <RED_ReverseLogisticCurve.label>обратная логистическая кривая</RED_ReverseLogisticCurve.label>
+  <RED_ReverseLogisticCurve.description>Сначала растёт быстро, затем замедляется, а под конец снова резко поднимается.</RED_ReverseLogisticCurve.description>
+  <RED_LogarithmicCurve.label>логарифмическая кривая</RED_LogarithmicCurve.label>
+  <RED_LogarithmicCurve.description>Сначала растёт быстро, затем замедляется. Самая паршивая форма кривой.</RED_LogarithmicCurve.description>
+  <RED_LogarithmicCurve_EarlyOnset.label>логарифмическая кривая (раннее начало)</RED_LogarithmicCurve_EarlyOnset.label>
+  <RED_LogarithmicCurve_EarlyOnset.description>Сначала растёт быстро, затем замедляется. Хуже этой формы кривой нет ничего.</RED_LogarithmicCurve_EarlyOnset.description>
+  <RED_LogarithmicCurve_LateOnset.label>логарифмическая кривая (позднее начало)</RED_LogarithmicCurve_LateOnset.label>
+  <RED_LogarithmicCurve_LateOnset.description>Сначала растёт быстро, затем замедляется.</RED_LogarithmicCurve_LateOnset.description>
+</LanguageData>

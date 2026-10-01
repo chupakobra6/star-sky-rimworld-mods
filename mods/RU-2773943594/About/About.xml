@@ -22,29 +22,20 @@
   <loadAfter>
     <li>m00nl1ght.geologicallandforms</li>
   </loadAfter>
-  <description>Русский перевод Geological Landforms (https://steamcommunity.com/sharedfiles/filedetails/?id=2773943594) для RimWorld 1.6. Оригинальный мод устанавливается отдельно.
+  <description>Русский перевод Geological Landforms (https://steamcommunity.com/sharedfiles/filedetails/?id=2773943594) для RimWorld 1.6. Оригинальный мод устанавливается отдельно
 
-Переведены настройки форм рельефа и редактор TerrainGraph: названия узлов, параметры, подсказки и динамические подписи. Geological Landforms добавляет разнообразные формы местности, которые меняют очертания карты независимо от биома: побережья, острова, каньоны, кратеры и пещеры.
+Geological Landforms читается по-русски, даже когда названия формируются на ходу
 
-&lt;b&gt;ЧТО ПЕРЕВЕДЕНО&lt;/b&gt;
-Переведены настройки форм рельефа и элементы редактора TerrainGraph.
-
-• Настройки форм рельефа, условия появления на клетках мира и поиск подходящего места.
-• Команды редактора TerrainGraph, названия узлов, входов и выходов, параметры и подсказки.
-• Таблица форм рек, выпадающие списки и динамические названия в редакторе.
-
-&lt;b&gt;КАК ПОЛЬЗОВАТЬСЯ&lt;/b&gt;
-Выберите русский язык в настройках RimWorld.
-
-Форма рельефа выбранной клетки показана на вкладке «Местность» карты мира. В настройках Geological Landforms можно изменить существующие формы и открыть редактор для создания собственных.
+&lt;b&gt;О ПЕРЕВОДЕ&lt;/b&gt;
+Я перевёл и вычитал текст Geological Landforms, сверяя формулировки со смыслом оригинала. Выберите русский язык в настройках RimWorld
 
 &lt;b&gt;СОВМЕСТИМОСТЬ&lt;/b&gt;
-Требуются Harmony (https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077) и Geological Landforms (https://steamcommunity.com/sharedfiles/filedetails/?id=2773943594). Порядок загрузки: Harmony → оригинальный мод → этот перевод.
+Требуются Harmony (https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077) и Geological Landforms (https://steamcommunity.com/sharedfiles/filedetails/?id=2773943594). Порядок загрузки: Harmony → оригинальный мод → этот перевод
 
 &lt;b&gt;ОБРАТНАЯ СВЯЗЬ&lt;/b&gt;
-Заметили ошибку или неточность? Напишите в комментариях на странице мода или на Boosty.
+Заметили ошибку или неточность? Напишите в комментариях на странице мода или на Boosty
 
-Автор оригинального мода: m00nl1ght.
+Автор оригинального мода: m00nl1ght
 
 Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.</description>
 </ModMetaData>

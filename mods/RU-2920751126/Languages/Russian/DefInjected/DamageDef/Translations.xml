@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BS_AcidDmgDirect.label>кислота</BS_AcidDmgDirect.label>
+  <BS_AcidBuildUpDmg.label>кислота</BS_AcidBuildUpDmg.label>
+  <BS_AcidDmgDirect.deathMessage>{0} {PAWN_gender ? погиб : погибла : погибло} от кислотных ожогов.</BS_AcidDmgDirect.deathMessage>
+  <BS_AcidBuildUpDmg.deathMessage>{0} {PAWN_gender ? погиб : погибла : погибло} от кислотных ожогов.</BS_AcidBuildUpDmg.deathMessage>
+  <BS_AcidDmgDirectQuiet.label>кислота</BS_AcidDmgDirectQuiet.label>
+  <BS_AcidDmgDirectQuiet.deathMessage>{0} {PAWN_gender ? погиб : погибла : погибло} от кислотных ожогов.</BS_AcidDmgDirectQuiet.deathMessage>
+  <BS_BiteDevourDmg.label>укус</BS_BiteDevourDmg.label>
+  <BS_BiteDevourDmg.deathMessage>{0} {PAWN_gender ? погиб : погибла : погибло} от укусов.</BS_BiteDevourDmg.deathMessage>
+  <BS_IndictedDamage.label>косвенный урон</BS_IndictedDamage.label>
+  <BS_IndictedDamage.deathMessage>{0} {PAWN_gender ? погиб : погибла : погибло} от косвенного урона.</BS_IndictedDamage.deathMessage>
+  <BS_IndirectDamage_Electric.label>косвенный урон</BS_IndirectDamage_Electric.label>
+  <BS_IndirectDamage_Electric.deathMessage>{0} {PAWN_gender ? погиб : погибла : погибло} от косвенного урона.</BS_IndirectDamage_Electric.deathMessage>
+</LanguageData>

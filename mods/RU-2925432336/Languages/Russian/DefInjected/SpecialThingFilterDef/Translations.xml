@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BS_AllowCorpsesColonistRobot.label>разрешить трупы поселенцев</BS_AllowCorpsesColonistRobot.label>
+  <BS_AllowCorpsesColonistRobot.description>Разрешить хранение тел погибших поселенцев.</BS_AllowCorpsesColonistRobot.description>
+  <BS_AllowCorpsesSlaveRobot.label>разрешить трупы рабов</BS_AllowCorpsesSlaveRobot.label>
+  <BS_AllowCorpsesSlaveRobot.description>Разрешить хранение тел погибших рабов.</BS_AllowCorpsesSlaveRobot.description>
+  <BS_AllowCorpsesStrangerRobot.label>разрешить трупы чужаков</BS_AllowCorpsesStrangerRobot.label>
+  <BS_AllowCorpsesStrangerRobot.description>Разрешить хранение тел погибших чужаков и врагов.</BS_AllowCorpsesStrangerRobot.description>
+</LanguageData>

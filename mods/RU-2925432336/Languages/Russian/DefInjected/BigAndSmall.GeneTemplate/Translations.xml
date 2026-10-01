@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BS_MetamorphTemplate.label>метаморф</BS_MetamorphTemplate.label>
+  <BS_MetamorphTemplate.description>При подходящих условиях носители этого гена могут пройти метаморфоз и обрести новую форму: {0}.</BS_MetamorphTemplate.description>
+  <BS_RetromorphDownTemplate.label>ретроморф</BS_RetromorphDownTemplate.label>
+  <BS_RetromorphDownTemplate.description>При подходящих условиях носители этого гена могут пройти ретроморфоз и обрести новую форму: {0}.</BS_RetromorphDownTemplate.description>
+  <BS_MetamorphTemplate.customEffectDescriptions.0>Условие превращения могут задавать, например, гены «Метаморфоза во взрослом возрасте», «Метаморфоза при беременности» или «Дневная метаморфоза».</BS_MetamorphTemplate.customEffectDescriptions.0>
+  <BS_RetromorphDownTemplate.customEffectDescriptions.0>Условие обратного превращения может задавать, например, ген «Обратная метаморфоза до взросления».</BS_RetromorphDownTemplate.customEffectDescriptions.0>
+</LanguageData>

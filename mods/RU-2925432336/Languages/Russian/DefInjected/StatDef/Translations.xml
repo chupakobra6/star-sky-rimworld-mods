@@ -1,0 +1,40 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BS_MaxNutritionFromSize.label>фактическое изменение размера</BS_MaxNutritionFromSize.label>
+  <BS_MaxNutritionFromSize.description>Скрытая величина для расчёта питания.</BS_MaxNutritionFromSize.description>
+  <SM_BodySizeOffset.label>прибавка к размеру тела</SM_BodySizeOffset.label>
+  <SM_BodySizeOffset.description>Добавляет указанную величину к размеру тела персонажа. Влияет на различные игровые механики.</SM_BodySizeOffset.description>
+  <SM_Cosmetic_BodySizeOffset.label>прибавка к видимому размеру тела</SM_Cosmetic_BodySizeOffset.label>
+  <SM_BodySizeMultiplier.label>множитель размера тела</SM_BodySizeMultiplier.label>
+  <SM_BodySizeMultiplier.description>Умножает размер тела персонажа на указанную величину. Влияет на различные игровые механики.</SM_BodySizeMultiplier.description>
+  <SM_Cosmetic_BodySizeMultiplier.label>множитель видимого размера тела</SM_Cosmetic_BodySizeMultiplier.label>
+  <SM_Cosmetic_BodySizeMultiplier.description>Умножает видимый размер тела персонажа на указанную величину.</SM_Cosmetic_BodySizeMultiplier.description>
+  <SM_RaidWealthMultiplier.label>множитель ценности при расчёте налётов</SM_RaidWealthMultiplier.label>
+  <SM_RaidWealthMultiplier.description>Изменяет ценность персонажа, учитываемую при расчёте силы налётов, умножая её на указанную величину.</SM_RaidWealthMultiplier.description>
+  <SM_RaidWealthOffset.label>ценность при расчёте налётов</SM_RaidWealthOffset.label>
+  <SM_RaidWealthOffset.description>Изменяет ценность персонажа, учитываемую при расчёте силы налётов. Применяется после множителя этой ценности.</SM_RaidWealthOffset.description>
+  <SM_HeadSize_Cosmetic.label>множитель размера головы</SM_HeadSize_Cosmetic.label>
+  <BS_BatteryCharging.label>зарядка от аккумуляторов</BS_BatteryCharging.label>
+  <BS_BatteryCharging.description>Эффективность и скорость зарядки за счёт энергии аккумуляторов.</BS_BatteryCharging.description>
+  <SM_EVA_Level.label>уровень защиты в космосе (переопределение)</SM_EVA_Level.label>
+  <BS_SoulPower.label>сила души</BS_SoulPower.label>
+  <BS_SoulPower.description>Сила души, обычно дарованная тёмными архотеками или украденная у них.</BS_SoulPower.description>
+  <SM_Minimum_Learning_Speed.label>обучение навыкам без интереса</SM_Minimum_Learning_Speed.label>
+  <SM_Minimum_Learning_Speed.description>Скорость изучения навыков, к которым у персонажа нет интереса.</SM_Minimum_Learning_Speed.description>
+  <SM_GrowthPointAccumulation.label>прирост очков развития</SM_GrowthPointAccumulation.label>
+  <SM_GrowthPointAccumulation.description>Изменяет скорость накопления очков развития у детей.</SM_GrowthPointAccumulation.description>
+  <SM_Food_Need_Capacity.label>множитель запаса сытости</SM_Food_Need_Capacity.label>
+  <SM_Food_Need_Capacity.description>Изменяет запас сытости персонажа. Чем он больше, тем реже нужно есть.</SM_Food_Need_Capacity.description>
+  <SM_AttackSpeed.label>скорость атак в ближнем бою</SM_AttackSpeed.label>
+  <SM_AttackSpeed.description>Сокращает время между любыми атаками в ближнем бою.</SM_AttackSpeed.description>
+  <SM_UnarmedAttackSpeed.label>скорость безоружных атак</SM_UnarmedAttackSpeed.label>
+  <SM_UnarmedAttackSpeed.description>Сокращает время между атаками без оружия, в том числе атаками с помощью имплантов.</SM_UnarmedAttackSpeed.description>
+  <SM_BulletDmgMult.label>множитель получаемого колющего урона</SM_BulletDmgMult.label>
+  <SM_BulletDmgMult.description>Множитель урона от пуль и стрел. На колющие удары в ближнем бою влияет вдвое слабее.</SM_BulletDmgMult.description>
+  <SM_ConcussiveDmgMult.label>множитель урона от взрывов и ударов</SM_ConcussiveDmgMult.label>
+  <SM_ConcussiveDmgMult.description>Множитель получаемого урона от взрывов и сдавливания. На удары тупым оружием влияет вдвое слабее.</SM_ConcussiveDmgMult.description>
+  <SM_AcidDmgMult.label>множитель урона от кислоты</SM_AcidDmgMult.label>
+  <SM_AcidDmgMult.description>Множитель получаемого урона от кислоты. На урон от ядов влияет вдвое слабее. Нулевые и отрицательные значения дают невосприимчивость к кислотному урону.</SM_AcidDmgMult.description>
+  <SM_FlirtChance.label>вероятность флирта</SM_FlirtChance.label>
+  <SM_FlirtChance.description>Влияет на вероятность того, что персонаж начнёт флиртовать.</SM_FlirtChance.description>
+</LanguageData>

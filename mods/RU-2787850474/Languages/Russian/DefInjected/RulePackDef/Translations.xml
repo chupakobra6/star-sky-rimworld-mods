@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFEC_NamerSettlementClassical.rulePack.rulesStrings>
+    <li>r_name-&gt;[ClassicalName]</li>
+  </VFEC_NamerSettlementClassical.rulePack.rulesStrings>
+  <VFEC_NamerPersonClassical.rulePack.rulesStrings>
+    <li>r_name(p=2)-&gt;[Classical_First_Male] [Classical_Last]</li>
+  </VFEC_NamerPersonClassical.rulePack.rulesStrings>
+  <VFEC_NamerPersonClassicalFemale.rulePack.rulesStrings>
+    <li>r_name(p=2)-&gt;[Classical_First_Female] [Classical_Last]</li>
+  </VFEC_NamerPersonClassicalFemale.rulePack.rulesStrings>
+  <VFEC_LeaderTitleMaker_Classical.rulePack.rulesStrings>
+    <li>r_leaderTitle-&gt;Сенатор</li>
+  </VFEC_LeaderTitleMaker_Classical.rulePack.rulesStrings>
+  <VFEC_NamerFactionCentral.rulePack.rulesStrings>
+    <li>r_name-&gt;Центральная республика</li>
+  </VFEC_NamerFactionCentral.rulePack.rulesStrings>
+  <VFEC_NamerFactionWestern.rulePack.rulesStrings>
+    <li>r_name-&gt;Западная республика</li>
+  </VFEC_NamerFactionWestern.rulePack.rulesStrings>
+  <VFEC_NamerFactionEastern.rulePack.rulesStrings>
+    <li>r_name-&gt;Восточная республика</li>
+  </VFEC_NamerFactionEastern.rulePack.rulesStrings>
+</LanguageData>

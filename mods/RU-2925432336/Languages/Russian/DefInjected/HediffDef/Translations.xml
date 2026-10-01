@@ -1,0 +1,113 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RED_SecretHealthTracker.label>наблюдение за здоровьем</RED_SecretHealthTracker.label>
+  <RED_SecretHealthTracker.description>Незаметно наблюдает за вами.</RED_SecretHealthTracker.description>
+  <RED_SecretHealthTracker.stages.health_tracking.label>наблюдение за здоровьем</RED_SecretHealthTracker.stages.health_tracking.label>
+  <RED_FailingOrganDamage.label>повреждение органа</RED_FailingOrganDamage.label>
+  <RED_FailingOrganDamage.description>Эта часть тела отказывает.</RED_FailingOrganDamage.description>
+  <RED_FailingOrganDamage.comps.HediffComp_GetsPermanent.permanentLabel>отказ органа</RED_FailingOrganDamage.comps.HediffComp_GetsPermanent.permanentLabel>
+  <RED_FailingOrganDamage.labelNoun>отказ органа</RED_FailingOrganDamage.labelNoun>
+  <RED_FailingOrganDamage.labelNounPretty>отказ: {1}</RED_FailingOrganDamage.labelNounPretty>
+  <RED_BrainFailure.label>энцефалопатия</RED_BrainFailure.label>
+  <RED_BrainFailure.description>Серьёзное заболевание или нарушение работы мозга, затрагивающее его функции или структуру. На этой стадии обычные методы лечения уже не помогают.</RED_BrainFailure.description>
+  <RED_BrainFailure.stages.minor.label>лёгкая степень</RED_BrainFailure.stages.minor.label>
+  <RED_OrganFailure.stages.minor.label>лёгкая степень</RED_OrganFailure.stages.minor.label>
+  <BS_CryogenicInhibition.stages.minor-0.label>лёгкая степень</BS_CryogenicInhibition.stages.minor-0.label>
+  <BS_CryogenicInhibition.stages.minor-1.label>лёгкая степень</BS_CryogenicInhibition.stages.minor-1.label>
+  <ThermalOverload.stages.minor-0.label>лёгкая степень</ThermalOverload.stages.minor-0.label>
+  <ThermalOverload.stages.minor-1.label>лёгкая степень</ThermalOverload.stages.minor-1.label>
+  <BS_RobotBloodloss.stages.minor-0.label>лёгкая степень</BS_RobotBloodloss.stages.minor-0.label>
+  <BS_RobotBloodloss.stages.minor-1.label>лёгкая степень</BS_RobotBloodloss.stages.minor-1.label>
+  <RED_BrainFailure.stages.moderate.label>умеренная степень</RED_BrainFailure.stages.moderate.label>
+  <RED_OrganFailure.stages.moderate.label>умеренная степень</RED_OrganFailure.stages.moderate.label>
+  <BS_CryogenicInhibition.stages.moderate.label>умеренная степень</BS_CryogenicInhibition.stages.moderate.label>
+  <ThermalOverload.stages.moderate.label>умеренная степень</ThermalOverload.stages.moderate.label>
+  <BS_RobotBloodloss.stages.moderate.label>умеренная степень</BS_RobotBloodloss.stages.moderate.label>
+  <RED_BrainFailure.stages.severe.label>тяжёлая степень</RED_BrainFailure.stages.severe.label>
+  <RED_OrganFailure.stages.severe.label>тяжёлая степень</RED_OrganFailure.stages.severe.label>
+  <BS_RobotBloodloss.stages.severe.label>тяжёлая степень</BS_RobotBloodloss.stages.severe.label>
+  <RED_BrainFailure.stages.extreme.label>крайняя степень</RED_BrainFailure.stages.extreme.label>
+  <RED_OrganFailure.stages.extreme.label>крайняя степень</RED_OrganFailure.stages.extreme.label>
+  <BS_CryogenicInhibition.stages.extreme.label>крайняя степень</BS_CryogenicInhibition.stages.extreme.label>
+  <ThermalOverload.stages.extreme.label>крайняя степень</ThermalOverload.stages.extreme.label>
+  <BS_RobotBloodloss.stages.extreme.label>крайняя степень</BS_RobotBloodloss.stages.extreme.label>
+  <RED_OrganFailure.label>органная недостаточность</RED_OrganFailure.label>
+  <RED_OrganFailure.description>Серьёзное заболевание, аутоиммунная реакция или другое нарушение, затрагивающее функции или структуру органа. На этой стадии обычные методы лечения уже не помогают.</RED_OrganFailure.description>
+  <BS_Vacuum_sealed.label>герметизация компонентов</BS_Vacuum_sealed.label>
+  <BS_Vacuum_sealed.description>Компоненты защищены от воздействия вакуума. Эти модификации также обеспечивают неплохую теплоизоляцию, но немного снижают подвижность.</BS_Vacuum_sealed.description>
+  <BS_BasicMech_Morph.label>превращение в меха</BS_BasicMech_Morph.label>
+  <BS_BasicMech_Morph.description>Превращает существо в меха.</BS_BasicMech_Morph.description>
+  <BS_CentaurRace.label>кентавроид</BS_CentaurRace.label>
+  <BS_CentaurRace.description>Четвероногое существо с человекоподобным торсом.</BS_CentaurRace.description>
+  <BS_HumanoidWithFourArms_Race.label>четырёхрукий гуманоид</BS_HumanoidWithFourArms_Race.label>
+  <BS_HumanoidWithFourArms_Race.description>Человекоподобное существо с прекрасными предплечьями… нет, погодите: с четырьмя прекрасными руками.</BS_HumanoidWithFourArms_Race.description>
+  <BS_Naga_Race.label>змеечеловек</BS_Naga_Race.label>
+  <BS_Naga_Race.description>Змееподобное существо с человекоподобной верхней частью тела.</BS_Naga_Race.description>
+  <BS_UrbMech_Race.label>механическая природа</BS_UrbMech_Race.label>
+  <BS_UrbMech_Race.description>Это существо состоит главным образом из чрезвычайно прочных механизмов.</BS_UrbMech_Race.description>
+  <BS_CryogenicInhibition.label>подавление холодом</BS_CryogenicInhibition.label>
+  <BS_CryogenicInhibition.description>При сильном холоде смазка густеет, аккумуляторы разряжаются, а оборудование начинает давать сбои.
+
+Со временем робот переходит в спящий режим, чтобы избежать повреждений. Выходит из него он очень медленно.</BS_CryogenicInhibition.description>
+  <BS_CryogenicInhibition.stages.serious.label>серьёзная степень</BS_CryogenicInhibition.stages.serious.label>
+  <ThermalOverload.stages.serious.label>серьёзная степень</ThermalOverload.stages.serious.label>
+  <ThermalOverload.label>тепловая перегрузка</ThermalOverload.label>
+  <ThermalOverload.description>Высокая температура окружающей среды мешает эффективно отводить тепло. Процессоры вынуждены снижать частоту, чтобы избежать быстрого перегрева.
+
+Длительное воздействие жары приводит к аварийному отключению. Восстановление после него занимает много времени.</ThermalOverload.description>
+  <ThermalOverload.stages.critical_level.label>критический уровень</ThermalOverload.stages.critical_level.label>
+  <BS_RobotBloodloss.stages.critical_level.label>критический уровень</BS_RobotBloodloss.stages.critical_level.label>
+  <BS_RobotBloodloss.label>потеря жидкости</BS_RobotBloodloss.label>
+  <BS_RobotBloodloss.description>Нехватка смазки и других жидкостей, необходимых для бесперебойной работы систем робота. Снижает подвижность и может вызывать сбои, а при критическом уровне потерь — аварийное отключение.</BS_RobotBloodloss.description>
+  <BS_HumanoidWithSixArms_Race.label>шестирукий гуманоид</BS_HumanoidWithSixArms_Race.label>
+  <BS_HumanoidWithSixArms_Race.description>Гуманоид с шестью руками.</BS_HumanoidWithSixArms_Race.description>
+  <BS_SpiderPersonRace.label>паукочеловек</BS_SpiderPersonRace.label>
+  <BS_SpiderPersonRace.description>Человекоподобное существо с множеством подвижных лап.</BS_SpiderPersonRace.description>
+  <BS_HumanoidWithTailRace.label>хвостатый гуманоид</BS_HumanoidWithTailRace.label>
+  <BS_HumanoidWithTailRace.description>Гуманоид… с хвостом!</BS_HumanoidWithTailRace.description>
+  <BS_HumanoidWithWings_Race.label>крылатый гуманоид</BS_HumanoidWithWings_Race.label>
+  <BS_HumanoidWithWings_Race.description>У этого существа есть крылья.</BS_HumanoidWithWings_Race.description>
+  <BS_JustAHeadTracker.label>юккури</BS_JustAHeadTracker.label>
+  <BS_JustAHeadTracker.description>Заказчик велел мне сделать им голову как можно больше. Я в точности выполнил его пожелание. Проект «Воплотить аниме в реальность», попытка 412.</BS_JustAHeadTracker.description>
+  <BS_DroneHediff.label>дрон</BS_DroneHediff.label>
+  <BS_DroneHediff.description>Это существо — дрон с ограниченными способностями к сложному мышлению и творчеству.</BS_DroneHediff.description>
+  <BS_VacuumInsulationPoor.label>умеренная теплоизоляция для вакуума</BS_VacuumInsulationPoor.label>
+  <BS_VacuumInsulationPoor.description>Это существо отчасти приспособлено к экстремальным температурам космоса.</BS_VacuumInsulationPoor.description>
+  <BS_VacuumInsulation.label>теплоизоляция для вакуума</BS_VacuumInsulation.label>
+  <BS_VacuumInsulation.description>Это существо приспособлено к экстремальным температурам космоса.</BS_VacuumInsulation.description>
+  <BS_Skeletal.label>скелетный облик</BS_Skeletal.label>
+  <BS_Skeletal.description>Это существо внешне напоминает скелет.</BS_Skeletal.description>
+  <BS_Amphibious.label>земноводность</BS_Amphibious.label>
+  <BS_Amphibious.description>Это существо легко передвигается по воде и сырой местности.</BS_Amphibious.description>
+  <BS_Slither.label>ползание</BS_Slither.label>
+  <BS_Slither.description>Обычно это существо передвигается медленнее, зато почти любая труднопроходимая местность не мешает ему ползти.</BS_Slither.description>
+  <BS_Stride.label>широкий шаг</BS_Stride.label>
+  <BS_Stride.description>Некоторые виды труднопроходимой местности не мешают этому существу ходить.</BS_Stride.description>
+  <BS_Floating.label>скольжение</BS_Floating.label>
+  <BS_Floating.description>Это существо скользит, прыгает или иным способом пересекает любую местность без дополнительных затруднений.</BS_Floating.description>
+  <BS_NoHands.label>нет тонкой моторики</BS_NoHands.label>
+  <BS_NoHands.description>Это существо не способно к тонким манипуляциям.
+
+В лучшем случае оно может что-нибудь нести во рту или обхватив руками.</BS_NoHands.description>
+  <BS_PoorHands.label>слабая тонкая моторика</BS_PoorHands.label>
+  <BS_PoorHands.description>Тонкая моторика этого существа уступает человеческой.
+
+Однако, проявив изобретательность, оно всё же может пользоваться инструментами или оружием.</BS_PoorHands.description>
+  <BS_Soulless.label>бездушная оболочка</BS_Soulless.label>
+  <BS_Soulless.description>У этого существа отняли духовную сущность, причинив необратимый вред.</BS_Soulless.description>
+  <BS_SoulCollector.label>запас силы души</BS_SoulCollector.label>
+  <BS_SoulCollector.description>Духовная сила странного происхождения.</BS_SoulCollector.description>
+  <BS_SoulPowerHediff.label>сила души</BS_SoulPowerHediff.label>
+  <BS_SoulPowerHediff.description>Ограниченное проявление духовной силы.</BS_SoulPowerHediff.description>
+  <RED_FailingOrganDamage.injuryProps.destroyedLabel>разрушение</RED_FailingOrganDamage.injuryProps.destroyedLabel>
+  <RED_BrainFailure.comps.HediffComp_DestroyOrgan.messageText>{PAWN_labelShort}: отказ органа ({1}).</RED_BrainFailure.comps.HediffComp_DestroyOrgan.messageText>
+  <RED_OrganFailure.comps.HediffComp_DestroyOrgan.messageText>{PAWN_labelShort}: отказ органа ({1}).</RED_OrganFailure.comps.HediffComp_DestroyOrgan.messageText>
+  <BS_ChargerCompatible.label>питание от аккумуляторов</BS_ChargerCompatible.label>
+  <BS_ChargerCompatible.description>Позволяет пользоваться зарядными станциями.</BS_ChargerCompatible.description>
+  <BS_BionicStriderLeg.label>бионическая нога ходока</BS_BionicStriderLeg.label>
+  <BS_BionicStriderLeg.description>Вживлённая бионическая нога с биогелевым нейросоединением, мощными миниатюрными сервоприводами и обеспечивающим самовосстановление решётчатым напылением. Обычно немного уступает бионической ноге базового человека, но несколько лучше подходит существам, у которых больше двух ног.</BS_BionicStriderLeg.description>
+  <BS_BionicStriderLeg.labelNoun>бионическая нога ходока</BS_BionicStriderLeg.labelNoun>
+  <BS_BionicLocomotiveSpine.label>бионический двигательный позвоночник</BS_BionicLocomotiveSpine.label>
+  <BS_BionicLocomotiveSpine.description>Вживлённый бионический позвоночник для замены нижней части позвоночника змееподобного существа. В отличие от обычного бионического позвоночника, значительно улучшает передвижение таких существ.</BS_BionicLocomotiveSpine.description>
+  <BS_BionicLocomotiveSpine.labelNoun>бионический двигательный позвоночник</BS_BionicLocomotiveSpine.labelNoun>
+</LanguageData>

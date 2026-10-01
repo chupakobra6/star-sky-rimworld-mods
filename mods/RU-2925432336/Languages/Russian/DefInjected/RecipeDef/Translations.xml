@@ -1,0 +1,48 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BS_ShredRobot.label>разобрать робота</BS_ShredRobot.label>
+  <BS_ShredRobot.description>Разобрать уничтоженного робота, чтобы извлечь пригодные для использования материалы.</BS_ShredRobot.description>
+  <BS_ShredRobot.jobString>Разбирает робота.</BS_ShredRobot.jobString>
+  <BS_SmashRobot.label>разбить робота</BS_SmashRobot.label>
+  <BS_SmashRobot.description>Разбить уничтоженного робота, чтобы извлечь пригодные для использования материалы.</BS_SmashRobot.description>
+  <BS_SmashRobot.jobString>Разбивает робота.</BS_SmashRobot.jobString>
+  <BS_VacuumProof.label>адаптировать компоненты к вакууму</BS_VacuumProof.label>
+  <BS_VacuumProof.description>Подготовить механические компоненты к работе в вакууме. Необходимо для роботов, которым требуется такая защита.</BS_VacuumProof.description>
+  <BS_VacuumProof.jobString>Адаптирует компоненты к вакууму.</BS_VacuumProof.jobString>
+  <BS_RepairAndroidBrain.label>починить мозг андроида</BS_RepairAndroidBrain.label>
+  <BS_RepairAndroidBrain.description>Восстановить повреждённый мозг андроида до исходного состояния. Очень рискованная операция.</BS_RepairAndroidBrain.description>
+  <BS_RepairAndroidBrain.jobString>Восстанавливает мозг.</BS_RepairAndroidBrain.jobString>
+  <BS_RepairAndroidReactor.label>починить реактор андроида</BS_RepairAndroidReactor.label>
+  <BS_RepairAndroidReactor.description>Восстановить повреждённый, заменённый или отсутствующий реактор андроида до исходного состояния. Очень рискованная операция.</BS_RepairAndroidReactor.description>
+  <BS_RepairAndroidReactor.jobString>Восстанавливает реактор.</BS_RepairAndroidReactor.jobString>
+  <BS_RepairAndroidOrgan.label>починить компонент андроида</BS_RepairAndroidOrgan.label>
+  <BS_RepairAndroidOrgan.description>Восстановить повреждённую, заменённую или отсутствующую деталь андроида до исходного состояния.</BS_RepairAndroidOrgan.description>
+  <BS_RepairAndroidMinorOrganPart.description>Восстановить повреждённую, заменённую или отсутствующую деталь андроида до исходного состояния.</BS_RepairAndroidMinorOrganPart.description>
+  <BS_RepairAndroidPart.description>Восстановить повреждённую, заменённую или отсутствующую деталь андроида до исходного состояния.</BS_RepairAndroidPart.description>
+  <BS_RepairAndroidPartSmall.description>Восстановить повреждённую, заменённую или отсутствующую деталь андроида до исходного состояния.</BS_RepairAndroidPartSmall.description>
+  <BS_RepairAndroidOrgan.jobString>Восстанавливает деталь.</BS_RepairAndroidOrgan.jobString>
+  <BS_RepairAndroidMinorOrganPart.label>восстановить деталь андроида</BS_RepairAndroidMinorOrganPart.label>
+  <BS_RepairAndroidPart.label>восстановить деталь андроида</BS_RepairAndroidPart.label>
+  <BS_RepairAndroidPartSmall.label>восстановить деталь андроида</BS_RepairAndroidPartSmall.label>
+  <BS_RepairAndroidMinorOrganPart.jobString>Восстанавливает деталь.</BS_RepairAndroidMinorOrganPart.jobString>
+  <BS_RepairAndroidPart.jobString>Восстанавливает деталь.</BS_RepairAndroidPart.jobString>
+  <BS_RepairAndroidPartSmall.jobString>Восстанавливает деталь.</BS_RepairAndroidPartSmall.jobString>
+  <InstallBS_BionicStriderLeg.label>установить бионическую ногу ходока</InstallBS_BionicStriderLeg.label>
+  <InstallBS_BionicStriderLeg.description>Установить бионическую ногу ходока.</InstallBS_BionicStriderLeg.description>
+  <InstallBS_BionicStriderLeg.jobString>Устанавливает бионическую ногу ходока.</InstallBS_BionicStriderLeg.jobString>
+  <InstallBS_BionicLocomotiveSpine.label>установить бионический двигательный позвоночник</InstallBS_BionicLocomotiveSpine.label>
+  <InstallBS_BionicLocomotiveSpine.description>Установить бионический двигательный позвоночник.</InstallBS_BionicLocomotiveSpine.description>
+  <InstallBS_BionicLocomotiveSpine.jobString>Устанавливает бионический двигательный позвоночник.</InstallBS_BionicLocomotiveSpine.jobString>
+  <BS_MakeAndroidFuelFromChemfuel_CookingStation.label>изготовить топливо для андроидов из химтоплива (неэффективно)</BS_MakeAndroidFuelFromChemfuel_CookingStation.label>
+  <BS_MakeAndroidFuelFromChemfuel_CookingStation.description>Переработать сырьё в топливо, безопасное для употребления андроидами. Медленнее и менее эффективно, чем на специальной установке.</BS_MakeAndroidFuelFromChemfuel_CookingStation.description>
+  <BS_MakeAndroidFuelFromChemfuel_CookingStation.jobString>Производит топливо для андроидов.</BS_MakeAndroidFuelFromChemfuel_CookingStation.jobString>
+  <BS_MakeAndroidFuelFromChemfuel_Refinery.label>изготовить топливо для андроидов из химтоплива</BS_MakeAndroidFuelFromChemfuel_Refinery.label>
+  <BS_MakeAndroidFuelFromChemfuel_Refinery.description>Переработать сырьё в топливо, безопасное для употребления андроидами.</BS_MakeAndroidFuelFromChemfuel_Refinery.description>
+  <BS_MakeAndroidFuelFromChemfuel_Refinery.jobString>Производит топливо для андроидов.</BS_MakeAndroidFuelFromChemfuel_Refinery.jobString>
+  <BS_MakeAndroidFuelFromWood_CookingStation.label>изготовить топливо для андроидов из древесины (неэффективно)</BS_MakeAndroidFuelFromWood_CookingStation.label>
+  <BS_MakeAndroidFuelFromWood_CookingStation.description>Переработать сырьё в топливо, безопасное для употребления андроидами. Очень медленно и неэффективно по сравнению с использованием химтоплива или специальной установки.</BS_MakeAndroidFuelFromWood_CookingStation.description>
+  <BS_MakeAndroidFuelFromWood_CookingStation.jobString>Производит топливо для андроидов.</BS_MakeAndroidFuelFromWood_CookingStation.jobString>
+  <BS_MakeAndroidFuelFromWood_Refinery.label>изготовить топливо для андроидов из древесины</BS_MakeAndroidFuelFromWood_Refinery.label>
+  <BS_MakeAndroidFuelFromWood_Refinery.description>Переработать сырьё в топливо, безопасное для употребления андроидами.</BS_MakeAndroidFuelFromWood_Refinery.description>
+  <BS_MakeAndroidFuelFromWood_Refinery.jobString>Производит топливо для андроидов.</BS_MakeAndroidFuelFromWood_Refinery.jobString>
+</LanguageData>

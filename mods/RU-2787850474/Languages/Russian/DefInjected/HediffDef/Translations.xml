@@ -1,0 +1,19 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFEC_OpiumHigh.label>под кайфом от опиума</VFEC_OpiumHigh.label>
+  <VFEC_OpiumHigh.description>Опиум действует в крови и полностью подавляет боль.</VFEC_OpiumHigh.description>
+  <VFEC_OpiumHigh.labelNoun>кайф от опиума</VFEC_OpiumHigh.labelNoun>
+  <VFEC_OpiumTolerance.label>толерантность к опиуму</VFEC_OpiumTolerance.label>
+  <VFEC_OpiumTolerance.description>Выработанная толерантность к опиуму. Чем она сильнее, тем больше опиума требуется для того же эффекта.</VFEC_OpiumTolerance.description>
+  <VFEC_OpiumTolerance.stages.small.label>небольшая</VFEC_OpiumTolerance.stages.small.label>
+  <VFEC_OpiumTolerance.stages.large.label>высокая</VFEC_OpiumTolerance.stages.large.label>
+  <VFEC_OpiumTolerance.stages.massive.label>сильная</VFEC_OpiumTolerance.stages.massive.label>
+  <VFEC_OpiumAddiction.label>опиумная зависимость</VFEC_OpiumAddiction.label>
+  <VFEC_OpiumAddiction.description>Химическая зависимость от опиума. Длительное воздействие опиума вызвало изменения нервной системы на клеточном уровне, и теперь мозг не может нормально работать без наркотика.
+\nБез регулярных доз опиума начнётся абстиненция. Однако длительное воздержание заставит мозг вернуться к нормальной работе и избавит от зависимости.</VFEC_OpiumAddiction.description>
+  <VFEC_OpiumAddiction.stages.withdrawal.label>ломка</VFEC_OpiumAddiction.stages.withdrawal.label>
+  <VFEC_CenturionArmor.label>доспех центуриона</VFEC_CenturionArmor.label>
+  <VFEC_CenturionArmor.description>Вид доспеха центуриона вдохновляет находящихся рядом союзников сражаться, превозмогая боль.</VFEC_CenturionArmor.description>
+  <VFEC_CenturionArmorBuff.label>воодушевление центурионом</VFEC_CenturionArmorBuff.label>
+  <VFEC_CenturionArmorBuff.description>Находящийся рядом воин в доспехе центуриона помогает переносить боль.</VFEC_CenturionArmorBuff.description>
+</LanguageData>

@@ -1,0 +1,50 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VCEF_FishingGrowingZone>Рыбное место</VCEF_FishingGrowingZone>
+  <VCEF_FishingGrowingZoneDesc>Создать зону, в которой поселенцы будут пытаться ловить рыбу</VCEF_FishingGrowingZoneDesc>
+  <VCEF_ChooseFish>Стараться ловить</VCEF_ChooseFish>
+  <VCEF_ChooseFishDesc>Выбрать предпочтительный размер рыбы среди видов этого биома. Мелкая рыба ловится быстрее, но менее питательна; крупная — дольше, но более питательна. Средняя занимает промежуточное положение. Всегда остаётся шанс поймать другую рыбу или особый предмет.</VCEF_ChooseFishDesc>
+  <VCEF_ChooseFishSmallLabel>Ловить мелкую рыбу</VCEF_ChooseFishSmallLabel>
+  <VCEF_ChooseFishMediumLabel>Ловить среднюю рыбу</VCEF_ChooseFishMediumLabel>
+  <VCEF_ChooseFishLargeLabel>Ловить крупную рыбу</VCEF_ChooseFishLargeLabel>
+  <VCEF_CommandAllowFishing>Разрешить рыбачить</VCEF_CommandAllowFishing>
+  <VCEF_CommandAllowFishingDesc>Разрешить ловить рыбу в этой зоне</VCEF_CommandAllowFishingDesc>
+  <VCEF_ZoneSetTo>Размер зоны: {0}. Выбранный размер рыбы:</VCEF_ZoneSetTo>
+  <VCEF_FishesInThisZone>Можно поймать: </VCEF_FishesInThisZone>
+  <VCEF_IsZoneOceanZone>Океан: </VCEF_IsZoneOceanZone>
+  <VCEF_Yes>Да</VCEF_Yes>
+  <VCEF_No>Нет</VCEF_No>
+  <VCEF_ZoneTooSmall>Эта зона слишком мала: {0}. Минимальный размер зоны для рыбалки: {1} клеток. Проверка выполняется раз в несколько секунд; снимите игру с паузы, чтобы обновить данные.</VCEF_ZoneTooSmall>
+  <VCEF_NoFish>В этом биоме нет рыбы. Возможно, биом из мода не поддерживается — попросите его автора добавить поддержку. Либо этот биом просто безжизненный.</VCEF_NoFish>
+  <VCEF_CaughtSpecial>Особый улов во время рыбалки: {1}. Рыбак: {0}.</VCEF_CaughtSpecial>
+  <VCEF_minimumZoneSize>Минимальный размер зоны для рыбалки</VCEF_minimumZoneSize>
+  <VCEF_minimumZoneSizeTooltip>Минимальный размер зоны рыбалки. По умолчанию — 25 клеток</VCEF_minimumZoneSizeTooltip>
+  <VCEF_smallFishDurationFactor>Базовая продолжительность ловли в тиках</VCEF_smallFishDurationFactor>
+  <VCEF_smallFishDurationFactorTooltip>Базовая продолжительность ловли в тиках. По умолчанию мелкая рыба требует 4500 тиков, средняя — вдвое больше, крупная — втрое. Уменьшение значения повышает дневной улов, увеличение — снижает.</VCEF_smallFishDurationFactorTooltip>
+  <VCEF_chanceForSpecials>Шанс получить особый предмет вместо рыбы</VCEF_chanceForSpecials>
+  <VCEF_chanceForSpecialsTooltip>Вероятность выловить особый предмет вместо рыбы. По умолчанию — 1% за одну попытку рыбалки.</VCEF_chanceForSpecialsTooltip>
+  <VCEF_chanceForSpecialsTooltip_Odyssey>Вероятность выловить особый предмет вместо рыбы. По умолчанию — 1% за одну попытку рыбалки. Учтите, что в Odyssey между «редкими» уловами по умолчанию должно пройти 5 дней. Этот интервал тоже можно изменить в данных настройках.</VCEF_chanceForSpecialsTooltip_Odyssey>
+  <VCEF_minDaysBetweenRareCatches>Минимальное количество дней между редкими уловами</VCEF_minDaysBetweenRareCatches>
+  <VCEF_minDaysBetweenRareCatchesTooltip>В Odyssey «редкий» улов по умолчанию возможен, только если с предыдущего такого улова прошло 5 дней. Здесь можно изменить минимальный интервал.</VCEF_minDaysBetweenRareCatchesTooltip>
+  <VCEF_minMapTempForLowFish>Минимальная температура для снижения клёва</VCEF_minMapTempForLowFish>
+  <VCEF_minMapTempForLowFishTooltip>Нижний температурный порог снижения улова. При более низкой температуре улов значительно уменьшается. По умолчанию — 0ºC.</VCEF_minMapTempForLowFishTooltip>
+  <VCEF_maxMapTempForLowFish>Максимальная температура для снижения клёва</VCEF_maxMapTempForLowFish>
+  <VCEF_maxMapTempForLowFishTooltip>Предельная температура на карте, после которой улов значительно сокращается. По умолчанию — 50ºC.</VCEF_maxMapTempForLowFishTooltip>
+  <VCEF_fishingYieldMultiplier>Множитель улова рыбы</VCEF_fishingYieldMultiplier>
+  <VCEF_fishingYieldMultiplierTooltip>Количество пойманной рыбы умножается на это значение.</VCEF_fishingYieldMultiplierTooltip>
+  <VCEF_fishingSpeedMultiplier>Множитель скорости ловли</VCEF_fishingSpeedMultiplier>
+  <VCEF_fishingSpeedMultiplierTooltip>Скорость ловли рыбы умножается на это значение.</VCEF_fishingSpeedMultiplierTooltip>
+  <VCEF_maxFishPopulationMultiplier>Множитель максимальной популяции рыбы</VCEF_maxFishPopulationMultiplier>
+  <VCEF_maxFishPopulationMultiplierTooltip>В Odyssey максимальная популяция рыбы в водоёме зависит от биома. Этот коэффициент умножает установленный предел.</VCEF_maxFishPopulationMultiplierTooltip>
+  <VCEF_fishAmountMultiplier>Множитель количества рыбы (в рыбном месте)</VCEF_fishAmountMultiplier>
+  <VCEF_fishAmountMultiplierTooltip>Этот коэффициент умножает количество рыбы в зоне для рыбалки.</VCEF_fishAmountMultiplierTooltip>
+  <VCEF_chanceForNegativeOutcome>Шанс негативных последствий</VCEF_chanceForNegativeOutcome>
+  <VCEF_chanceForNegativeOutcomeTooltip>По умолчанию каждая попытка рыбалки с вероятностью 2% может закончиться неприятностью.</VCEF_chanceForNegativeOutcomeTooltip>
+  <VCEF_dropFish>Рыбак оставляет рыбу на земле вместо переноса на склад</VCEF_dropFish>
+  <VCEF_Reset_Plain>Сбросить всё</VCEF_Reset_Plain>
+  <VCEF_DisableGillRot>Отключить жаброгниль</VCEF_DisableGillRot>
+  <VCEF_DisableGillRotDesc>Если включено, жаберная гниль не сможет возникнуть ни при каких обстоятельствах.</VCEF_DisableGillRotDesc>
+  <VCEF_UseWorktype>Переместить работу «Рыбалка» на последнее место в порядке приоритетов (требуется перезапуск игры)</VCEF_UseWorktype>
+  <VCEF_UseWorktypeDesc>По умолчанию Odyssey помещает рыбалку между изготовлением и переноской в порядке приоритетов работы. Эта настройка назначает рыбалке приоритет 90, после исследований, как было в этом моде без Odyssey.</VCEF_UseWorktypeDesc>
+  <VCEF_TooPolluted>Эта зона слишком загрязнена для рыбалки</VCEF_TooPolluted>
+</LanguageData>

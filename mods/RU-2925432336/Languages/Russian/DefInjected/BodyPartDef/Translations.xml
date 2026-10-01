@@ -1,0 +1,45 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BS_Wing.label>крыло</BS_Wing.label>
+  <BS_SpiderAbdomen.label>паучье брюшко</BS_SpiderAbdomen.label>
+  <BS_SnakeBody.label>змеиное тело</BS_SnakeBody.label>
+  <BS_SnakeSpine.label>позвоночник змеиного тела</BS_SnakeSpine.label>
+  <BS_Mech_Wing.label>механическое крыло</BS_Mech_Wing.label>
+  <BS_Mech_SpiderAbdomen.label>брюшко восьминогого механоида</BS_Mech_SpiderAbdomen.label>
+  <BS_Mech_SnakeBody.label>тело механической змеи</BS_Mech_SnakeBody.label>
+  <BS_Mech_SnakeSpine.label>удлинённый механический позвоночник</BS_Mech_SnakeSpine.label>
+  <BS_InorganicWaist.label>разъём вспомогательных устройств</BS_InorganicWaist.label>
+  <BS_FuelProcessor.label>топливный переработчик</BS_FuelProcessor.label>
+  <BS_ArtificialBrain.label>искусственный мозг</BS_ArtificialBrain.label>
+  <BS_Reactor.label>реактор</BS_Reactor.label>
+  <BS_FluidReprocessor.label>переработчик жидкостей</BS_FluidReprocessor.label>
+  <BS_Sustainer.label>поддерживающий модуль</BS_Sustainer.label>
+  <BS_AirCoolingUnit.label>воздушный охладитель</BS_AirCoolingUnit.label>
+  <BS_SightSensor.label>оптический датчик</BS_SightSensor.label>
+  <BS_HearingSensor.label>акустический датчик</BS_HearingSensor.label>
+  <BS_SmellSensor.label>химический анализатор</BS_SmellSensor.label>
+  <BS_MechanicalNeck.label>шейный шарнир</BS_MechanicalNeck.label>
+  <BS_MechanicalShoulder.label>сферический подшипник</BS_MechanicalShoulder.label>
+  <BS_MechanicalArm.label>шарнирная рука</BS_MechanicalArm.label>
+  <BS_MechanicalHand.label>механическая кисть</BS_MechanicalHand.label>
+  <BS_MechanicalFinger.label>привод кисти</BS_MechanicalFinger.label>
+  <BS_MechanicalLeg.label>механическая нога</BS_MechanicalLeg.label>
+  <BS_MechanicalFoot.label>привод стопы</BS_MechanicalFoot.label>
+  <BS_MechanicalRibs.label>защитный кожух</BS_MechanicalRibs.label>
+  <BS_MechanicalTorso.label>центральная рама</BS_MechanicalTorso.label>
+  <BS_MechanicalSkull.label>корпус ядра</BS_MechanicalSkull.label>
+  <BS_MechanicalJaw.label>челюстной зажим</BS_MechanicalJaw.label>
+  <BS_MechanicalTongue.label>искусственный язык</BS_MechanicalTongue.label>
+  <BS_MechanicalTongue.removeRecipeLabelOverride>удалить</BS_MechanicalTongue.removeRecipeLabelOverride>
+  <BS_MechanicalPelvis.label>тазовая опора</BS_MechanicalPelvis.label>
+  <BS_MechanicalClavicle.label>соединительная тяга</BS_MechanicalClavicle.label>
+  <BS_MechanicalTibia.label>шаровой шарнир</BS_MechanicalTibia.label>
+  <BS_MechanicalRadius.label>поворотный шарнир</BS_MechanicalRadius.label>
+  <BS_MechanicalToe.label>привод пальца ноги</BS_MechanicalToe.label>
+  <BS_MechanicalWheel.label>колесо</BS_MechanicalWheel.label>
+  <BS_MechanicalSternum.label>шасси</BS_MechanicalSternum.label>
+  <BS_MechanicalHumerus.label>привод руки</BS_MechanicalHumerus.label>
+  <BS_MechanicalSpine.label>позвоночный столб</BS_MechanicalSpine.label>
+  <BS_LocomotiveLung.label>двигательное лёгкое</BS_LocomotiveLung.label>
+  <BS_AirThrusters.label>двигательные сопла</BS_AirThrusters.label>
+</LanguageData>

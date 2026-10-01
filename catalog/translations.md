@@ -371,3 +371,75 @@ RimWorld 1.6 · Версия 1.0.0
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306782) · [Исходники и руководство](../mods/RU-927155256/README.md) · [История изменений](../mods/RU-927155256/CHANGELOG.md) · [Лицензия](../mods/RU-927155256/LICENSE) · [Источники и уведомления](../mods/RU-927155256/NOTICES.md)
 
 [![Другие моды в Мастерской Steam](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-ru.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)
+
+## Achtung! — русский перевод
+
+Русский перевод Achtung! для RimWorld 1.6. Я перевёл команды, настройки и подсказки Achtung!, сохраняя смысл действий и единые названия. Выберите русский язык в настройках RimWorld
+
+[![Achtung! — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/achtung-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3811275239)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3811275239) · [Исходники и руководство](../mods/RU-730936602/README.md) · [История изменений](../mods/RU-730936602/CHANGELOG.md) · [Лицензия](../mods/RU-730936602/LICENSE) · [Источники и уведомления](../mods/RU-730936602/NOTICES.md)
+
+## Vanilla Factions Expanded - Classical — русский перевод
+
+Русский перевод Vanilla Factions Expanded - Classical для RimWorld 1.6. Я перевёл тексты республик и сенаторов, сохраняя смысл заданий и согласованные названия. Выберите русский язык в настройках RimWorld
+
+[![Vanilla Factions Expanded - Classical — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/vanilla-factions-expanded-classical-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3811275241)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3811275241) · [Исходники и руководство](../mods/RU-2787850474/README.md) · [История изменений](../mods/RU-2787850474/CHANGELOG.md) · [Лицензия](../mods/RU-2787850474/LICENSE) · [Источники и уведомления](../mods/RU-2787850474/NOTICES.md)
+
+## Vanilla Fishing Expanded — русский перевод
+
+Русский перевод Vanilla Fishing Expanded для RimWorld 1.6. Я перевёл названия рыб, настройки и подсказки рыбалки, сохраняя смысл оригинала. Выберите русский язык в настройках RimWorld
+
+[![Vanilla Fishing Expanded — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/vanilla-fishing-expanded-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3811275244)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3811275244) · [Исходники и руководство](../mods/RU-1914064942/README.md) · [История изменений](../mods/RU-1914064942/CHANGELOG.md) · [Лицензия](../mods/RU-1914064942/LICENSE) · [Источники и уведомления](../mods/RU-1914064942/NOTICES.md)
+
+## Vanilla Traits Expanded — русский перевод
+
+Русский перевод Vanilla Traits Expanded для RimWorld 1.6. Я перевёл черты характера и связанные сообщения, согласовав названия с русским интерфейсом игры. Выберите русский язык в настройках RimWorld
+
+[![Vanilla Traits Expanded — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/vanilla-traits-expanded-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3811275250)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3811275250) · [Исходники и руководство](../mods/RU-2296404655/README.md) · [История изменений](../mods/RU-2296404655/CHANGELOG.md) · [Лицензия](../mods/RU-2296404655/LICENSE) · [Источники и уведомления](../mods/RU-2296404655/NOTICES.md)
+
+## Facial Animation - WIP — русский перевод
+
+Русский перевод Facial Animation - WIP для RimWorld 1.6. Я перевёл настройки и редактор лиц, сохраняя смысл параметров и единые названия. Выберите русский язык в настройках RimWorld
+
+[![Facial Animation - WIP — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/facial-animation-translation.gif)](https://steamcommunity.com/sharedfiles/filedetails/?id=3811275253)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3811275253) · [Исходники и руководство](../mods/RU-1635901197/README.md) · [История изменений](../mods/RU-1635901197/CHANGELOG.md) · [Лицензия](../mods/RU-1635901197/LICENSE) · [Источники и уведомления](../mods/RU-1635901197/NOTICES.md)
+
+## Big and Small - Genes & More — русский перевод
+
+Русский перевод Big and Small - Genes & More для RimWorld 1.6. Я перевёл гены, способности и связанные описания, согласовав термины с русской локализацией Biotech. Выберите русский язык в настройках RimWorld
+
+[![Big and Small - Genes & More — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/big-and-small-genes-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3811275257)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3811275257) · [Исходники и руководство](../mods/RU-2920751126/README.md) · [История изменений](../mods/RU-2920751126/CHANGELOG.md) · [Лицензия](../mods/RU-2920751126/LICENSE) · [Источники и уведомления](../mods/RU-2920751126/NOTICES.md)
+
+## Big and Small - Framework — русский перевод
+
+Русский перевод Big and Small - Framework для RimWorld 1.6. Я перевёл тексты и настройки Big and Small - Framework, сохраняя смысл параметров и согласованные названия. Выберите русский язык в настройках RimWorld
+
+[![Big and Small - Framework — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/big-and-small-framework-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3811275263)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3811275263) · [Исходники и руководство](../mods/RU-2925432336/README.md) · [История изменений](../mods/RU-2925432336/CHANGELOG.md) · [Лицензия](../mods/RU-2925432336/LICENSE) · [Источники и уведомления](../mods/RU-2925432336/NOTICES.md)
+
+[![Другие моды в Мастерской Steam](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-ru.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)

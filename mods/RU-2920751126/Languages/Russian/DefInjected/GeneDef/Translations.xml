@@ -1,0 +1,1322 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BS_SlowAging.description>Носители этого гена стареют вдвое медленнее базовых людей.</BS_SlowAging.description>
+  <BS_VerySlowAging.label>очень медленное старение</BS_VerySlowAging.label>
+  <BS_VerySlowAging.description>Носители этого гена стареют примерно вчетверо медленнее базовых людей.</BS_VerySlowAging.description>
+  <BS_TrulyAgeless.label>полная нестареемость</BS_TrulyAgeless.label>
+  <BS_TrulyAgeless.description>Носители этого гена выглядят не старше 25 лет независимо от своего настоящего возраста.</BS_TrulyAgeless.description>
+  <BS_JotunArchiteMetabolism.label>метаболизм йотуна</BS_JotunArchiteMetabolism.label>
+  <BS_JotunArchiteMetabolism.description>В клетках носителей этого гена есть особые архиты, которые облегчают и оптимизируют обмен веществ. Этот вариант приспособлен для йотунов, чьим архитным системам требуется много энергии.</BS_JotunArchiteMetabolism.description>
+  <BS_JotunArchiteMetabolism.labelShortAdj>архитный метаболизм</BS_JotunArchiteMetabolism.labelShortAdj>
+  <BS_Deathlike.label>близость к нежити</BS_Deathlike.label>
+  <BS_Deathlike.description>В носителях этого гена есть что-то от мертвецов, что, по-видимому, сбивает шамблеров с толку. В бою шамблеры могут медлить, вести себя непредсказуемо или даже переходить на другую сторону.</BS_Deathlike.description>
+  <BS_UnarmedOnly.label>рукопашный бой без оружия</BS_UnarmedOnly.label>
+  <BS_UnarmedOnly.description>Носители этого гена не используют оружие в ближнем бою.</BS_UnarmedOnly.description>
+  <BS_NoEquip.label>невозможность держать оружие</BS_NoEquip.label>
+  <BS_NoEquip.description>Носители этого гена не могут или не хотят держать оружие и инструменты своими конечностями.</BS_NoEquip.description>
+  <BS_Unarmed_Strong.label>сильные безоружные атаки</BS_Unarmed_Strong.label>
+  <BS_Unarmed_Strong.description>Носители этого гена наносят больше урона в ближнем бою, но используют для этого только естественное или бионическое оружие.
+
+Ген совместим и лучше всего сочетается с генами «Рукопашный бой без оружия» и «Невозможность держать оружие».</BS_Unarmed_Strong.description>
+  <BS_Unarmed_Strong.labelShortAdj>сильный</BS_Unarmed_Strong.labelShortAdj>
+  <BS_Unarmed_VeryStrong.labelShortAdj>сильный</BS_Unarmed_VeryStrong.labelShortAdj>
+  <VU_DarknessMelee.labelShortAdj>сильный</VU_DarknessMelee.labelShortAdj>
+  <VU_DarknessMelee_Strong.labelShortAdj>сильный</VU_DarknessMelee_Strong.labelShortAdj>
+  <BS_Unarmed_VeryStrong.label>очень сильные безоружные атаки</BS_Unarmed_VeryStrong.label>
+  <BS_Unarmed_VeryStrong.description>Носители этого гена наносят значительно больше урона в ближнем бою, но используют для этого только естественное или бионическое оружие.
+
+Ген совместим и лучше всего сочетается с генами «Рукопашный бой без оружия» и «Невозможность держать оружие».</BS_Unarmed_VeryStrong.description>
+  <BS_MoveSpeed_UltraQuick.label>невероятная скорость движения</BS_MoveSpeed_UltraQuick.label>
+  <BS_MoveSpeed_UltraQuick.description>Носители этого гена двигаются намного быстрее обычного.</BS_MoveSpeed_UltraQuick.description>
+  <BS_MoveSpeed_UltraQuick.labelShortAdj>быстрый</BS_MoveSpeed_UltraQuick.labelShortAdj>
+  <VU_Darkness_MoveSpeed_Quick.labelShortAdj>быстрый</VU_Darkness_MoveSpeed_Quick.labelShortAdj>
+  <VU_Darkness_MoveSpeed_VeryQuick.labelShortAdj>быстрый</VU_Darkness_MoveSpeed_VeryQuick.labelShortAdj>
+  <BS_MoveSpeed_UltraQuick.symbolPack.prefixSymbols.0.symbol>скоро</BS_MoveSpeed_UltraQuick.symbolPack.prefixSymbols.0.symbol>
+  <VU_Darkness_MoveSpeed_Quick.symbolPack.prefixSymbols.0.symbol>скоро</VU_Darkness_MoveSpeed_Quick.symbolPack.prefixSymbols.0.symbol>
+  <VU_Darkness_MoveSpeed_VeryQuick.symbolPack.prefixSymbols.0.symbol>скоро</VU_Darkness_MoveSpeed_VeryQuick.symbolPack.prefixSymbols.0.symbol>
+  <BS_MoveSpeed_UltraQuick.symbolPack.prefixSymbols.1.symbol>быстро</BS_MoveSpeed_UltraQuick.symbolPack.prefixSymbols.1.symbol>
+  <VU_Darkness_MoveSpeed_Quick.symbolPack.prefixSymbols.1.symbol>быстро</VU_Darkness_MoveSpeed_Quick.symbolPack.prefixSymbols.1.symbol>
+  <VU_Darkness_MoveSpeed_VeryQuick.symbolPack.prefixSymbols.1.symbol>быстро</VU_Darkness_MoveSpeed_VeryQuick.symbolPack.prefixSymbols.1.symbol>
+  <BS_MoveSpeed_UltraQuick.symbolPack.prefixSymbols.2.symbol>резво</BS_MoveSpeed_UltraQuick.symbolPack.prefixSymbols.2.symbol>
+  <VU_Darkness_MoveSpeed_Quick.symbolPack.prefixSymbols.2.symbol>резво</VU_Darkness_MoveSpeed_Quick.symbolPack.prefixSymbols.2.symbol>
+  <VU_Darkness_MoveSpeed_VeryQuick.symbolPack.prefixSymbols.2.symbol>резво</VU_Darkness_MoveSpeed_VeryQuick.symbolPack.prefixSymbols.2.symbol>
+  <BS_MoveSpeed_UltraQuick.symbolPack.prefixSymbols.3.symbol>ловко</BS_MoveSpeed_UltraQuick.symbolPack.prefixSymbols.3.symbol>
+  <VU_Darkness_MoveSpeed_Quick.symbolPack.prefixSymbols.3.symbol>ловко</VU_Darkness_MoveSpeed_Quick.symbolPack.prefixSymbols.3.symbol>
+  <VU_Darkness_MoveSpeed_VeryQuick.symbolPack.prefixSymbols.3.symbol>ловко</VU_Darkness_MoveSpeed_VeryQuick.symbolPack.prefixSymbols.3.symbol>
+  <BS_MoveSpeed_UltraQuick.symbolPack.prefixSymbols.4.symbol>прытко</BS_MoveSpeed_UltraQuick.symbolPack.prefixSymbols.4.symbol>
+  <VU_Darkness_MoveSpeed_Quick.symbolPack.prefixSymbols.4.symbol>прытко</VU_Darkness_MoveSpeed_Quick.symbolPack.prefixSymbols.4.symbol>
+  <VU_Darkness_MoveSpeed_VeryQuick.symbolPack.prefixSymbols.4.symbol>прытко</VU_Darkness_MoveSpeed_VeryQuick.symbolPack.prefixSymbols.4.symbol>
+  <BS_MoveSpeed_UltraQuick.symbolPack.prefixSymbols.5.symbol>стремительно</BS_MoveSpeed_UltraQuick.symbolPack.prefixSymbols.5.symbol>
+  <VU_Darkness_MoveSpeed_Quick.symbolPack.prefixSymbols.5.symbol>стремительно</VU_Darkness_MoveSpeed_Quick.symbolPack.prefixSymbols.5.symbol>
+  <VU_Darkness_MoveSpeed_VeryQuick.symbolPack.prefixSymbols.5.symbol>стремительно</VU_Darkness_MoveSpeed_VeryQuick.symbolPack.prefixSymbols.5.symbol>
+  <BS_MoveSpeed_UltraQuick.symbolPack.prefixSymbols.6.symbol>молние</BS_MoveSpeed_UltraQuick.symbolPack.prefixSymbols.6.symbol>
+  <BS_MoveSpeed_UltraQuick.symbolPack.suffixSymbols.0.symbol>молние</BS_MoveSpeed_UltraQuick.symbolPack.suffixSymbols.0.symbol>
+  <VU_Darkness_MoveSpeed_Quick.symbolPack.prefixSymbols.6.symbol>молние</VU_Darkness_MoveSpeed_Quick.symbolPack.prefixSymbols.6.symbol>
+  <VU_Darkness_MoveSpeed_Quick.symbolPack.suffixSymbols.0.symbol>молние</VU_Darkness_MoveSpeed_Quick.symbolPack.suffixSymbols.0.symbol>
+  <VU_Darkness_MoveSpeed_VeryQuick.symbolPack.prefixSymbols.6.symbol>молние</VU_Darkness_MoveSpeed_VeryQuick.symbolPack.prefixSymbols.6.symbol>
+  <VU_Darkness_MoveSpeed_VeryQuick.symbolPack.suffixSymbols.0.symbol>молние</VU_Darkness_MoveSpeed_VeryQuick.symbolPack.suffixSymbols.0.symbol>
+  <BS_MoveSpeed_UltraQuick.symbolPack.suffixSymbols.1.symbol>бегун</BS_MoveSpeed_UltraQuick.symbolPack.suffixSymbols.1.symbol>
+  <VU_Darkness_MoveSpeed_Quick.symbolPack.suffixSymbols.1.symbol>бегун</VU_Darkness_MoveSpeed_Quick.symbolPack.suffixSymbols.1.symbol>
+  <VU_Darkness_MoveSpeed_VeryQuick.symbolPack.suffixSymbols.1.symbol>бегун</VU_Darkness_MoveSpeed_VeryQuick.symbolPack.suffixSymbols.1.symbol>
+  <BS_MoveSpeed_UltraQuick.symbolPack.suffixSymbols.2.symbol>спринтер</BS_MoveSpeed_UltraQuick.symbolPack.suffixSymbols.2.symbol>
+  <VU_Darkness_MoveSpeed_Quick.symbolPack.suffixSymbols.2.symbol>спринтер</VU_Darkness_MoveSpeed_Quick.symbolPack.suffixSymbols.2.symbol>
+  <VU_Darkness_MoveSpeed_VeryQuick.symbolPack.suffixSymbols.2.symbol>спринтер</VU_Darkness_MoveSpeed_VeryQuick.symbolPack.suffixSymbols.2.symbol>
+  <BS_MoveSpeed_UltraQuick.symbolPack.wholeNameSymbols.0.symbol>скороход</BS_MoveSpeed_UltraQuick.symbolPack.wholeNameSymbols.0.symbol>
+  <VU_Darkness_MoveSpeed_Quick.symbolPack.wholeNameSymbols.0.symbol>скороход</VU_Darkness_MoveSpeed_Quick.symbolPack.wholeNameSymbols.0.symbol>
+  <VU_Darkness_MoveSpeed_VeryQuick.symbolPack.wholeNameSymbols.0.symbol>скороход</VU_Darkness_MoveSpeed_VeryQuick.symbolPack.wholeNameSymbols.0.symbol>
+  <BS_Damaged_Genes.label>повреждённые ксеногены</BS_Damaged_Genes.label>
+  <BS_Damaged_Genes.description>Повреждённые ксеногены вышли из-под контроля и резко снизили метаболическую эффективность этого существа. Эффект можно полностью подавить архитным метаболизмом.</BS_Damaged_Genes.description>
+  <BS_Corrupted.label>глубокое искажение</BS_Corrupted.label>
+  <BS_Corrupted.description>Это существо изуродовано вышедшими из-под контроля наномашинами и ксеногенами. Его психика крайне нестабильна. Всё очень, очень плохо. Возможно, какой-нибудь архоген способен это подавить.</BS_Corrupted.description>
+  <BS_Xenolocked.label>блокировка ксеносемян</BS_Xenolocked.label>
+  <BS_Xenolocked.description>Носителям этого гена нельзя имплантировать новые ксеносемена.</BS_Xenolocked.description>
+  <BS_Pilotable.label>управление изнутри</BS_Pilotable.label>
+  <BS_Pilotable.description>Это существо создано как продолжение тела оператора и не способно действовать самостоятельно. Оно использует навыки и черты характера оператора.
+
+Размер тела оператора не должен превышать половины размера носителя. Во время управления оператор также не может нормально общаться с окружающими.</BS_Pilotable.description>
+  <BS_PilotAssistible.label>помощь оператора</BS_PilotAssistible.label>
+  <BS_PilotAssistible.description>Это существо может пользоваться помощью оператора и действует с ним значительно эффективнее.
+
+Размер тела оператора не должен превышать половины размера носителя.</BS_PilotAssistible.description>
+  <BS_PilotRequired.label>зависимость от оператора</BS_PilotRequired.label>
+  <BS_PilotRequired.description>Это существо обладает собственным разумом, но не способно действовать без оператора. С оператором оно действует с высокой эффективностью.
+
+Размер тела оператора не должен превышать половины размера носителя.</BS_PilotRequired.description>
+  <BS_PilotableSameSize.label>вторая кожа</BS_PilotableSameSize.label>
+  <BS_PilotableSameSize.description>Это существо создано как продолжение тела оператора и не способно действовать самостоятельно. Оно использует навыки и черты характера оператора.
+
+Размер тела оператора не должен превышать размер носителя.</BS_PilotableSameSize.description>
+  <BS_Parasite.label>паразитизм</BS_Parasite.label>
+  <BS_Parasite.description>Носители этого гена могут проникать в тело хозяина и захватывать управление им. Носитель должен быть несколько меньше своей цели.</BS_Parasite.description>
+  <BS_ChocolateProduction.label>выработка шоколада</BS_ChocolateProduction.label>
+  <BS_ChocolateProduction.description>На головах носителей этого гена вырастают плитки шоколада — иногда даже в обёртке.</BS_ChocolateProduction.description>
+  <BS_JellyProduction.label>выработка инсектожеле</BS_JellyProduction.label>
+  <BS_JellyProduction.description>Носители этого гена вырабатывают небольшое количество инсектожеле.</BS_JellyProduction.description>
+  <BS_EltexPsychic.label>синхронизация с элтексом</BS_EltexPsychic.label>
+  <BS_EltexPsychic.description>Носители этого гена чувствительны к пси-воздействию и лучше используют экипировку и импланты, усиливающие пси-способности.</BS_EltexPsychic.description>
+  <BS_EltexPsychic.labelShortAdj>элтексовый</BS_EltexPsychic.labelShortAdj>
+  <BS_EltexPsychic.symbolPack.prefixSymbols.0.symbol>пси</BS_EltexPsychic.symbolPack.prefixSymbols.0.symbol>
+  <BS_NaturalPsychic.symbolPack.prefixSymbols.0.symbol>пси</BS_NaturalPsychic.symbolPack.prefixSymbols.0.symbol>
+  <BS_EltexPsychic.symbolPack.prefixSymbols.1.symbol>сенсо</BS_EltexPsychic.symbolPack.prefixSymbols.1.symbol>
+  <BS_NaturalPsychic.symbolPack.prefixSymbols.1.symbol>сенсо</BS_NaturalPsychic.symbolPack.prefixSymbols.1.symbol>
+  <BS_EltexPsychic.symbolPack.prefixSymbols.2.symbol>чувство</BS_EltexPsychic.symbolPack.prefixSymbols.2.symbol>
+  <BS_NaturalPsychic.symbolPack.prefixSymbols.2.symbol>чувство</BS_NaturalPsychic.symbolPack.prefixSymbols.2.symbol>
+  <BS_NaturalPsychic.label>прирождённый псионик</BS_NaturalPsychic.label>
+  <BS_NaturalPsychic.description>Носители этого гена обладают высокой психочувствительностью и эффективно рассеивают пси-энтропию. Однако они заметно хуже используют экипировку и импланты, усиливающие пси-способности.</BS_NaturalPsychic.description>
+  <BS_NaturalPsychic.labelShortAdj>псионический</BS_NaturalPsychic.labelShortAdj>
+  <BS_PsychicWarrior.label>пси-воин</BS_PsychicWarrior.label>
+  <BS_PsychicWarrior.description>Носители этого гена направляют пси-силу внутрь себя, усиливая физические возможности. Чем выше психочувствительность, тем сильнее бонусы.</BS_PsychicWarrior.description>
+  <BS_PsychicWarrior.labelShortAdj>пси-воинственный</BS_PsychicWarrior.labelShortAdj>
+  <BS_Glamour.label>чары обаяния</BS_Glamour.label>
+  <BS_Glamour.description>Носители этого гена с помощью пси-силы меняют то, как их воспринимают окружающие. Для действия гена нужна хотя бы минимальная психочувствительность.
+
+Чем выше психочувствительность, тем сильнее эффект.</BS_Glamour.description>
+  <VU_Libido_None.label>отсутствие либидо</VU_Libido_None.label>
+  <VU_Libido_None.description>Носители этого гена почти никогда не занимаются любовью со своим партнёром.</VU_Libido_None.description>
+  <BS_Flirty.label>склонность к флирту</BS_Flirty.label>
+  <BS_Flirty.description>Носители этого гена флиртуют гораздо чаще обычного. Зато их мало волнуют чужие знаки внимания и отказы в ответ на собственные ухаживания.</BS_Flirty.description>
+  <BS_NotFlirty.label>отсутствие флирта</BS_NotFlirty.label>
+  <BS_NotFlirty.description>Носители этого гена не флиртуют сами и не становятся объектом чужого флирта.</BS_NotFlirty.description>
+  <BS_ShortPregnancy.label>короткая беременность</BS_ShortPregnancy.label>
+  <BS_ShortPregnancy.description>Беременность носителей этого гена длится менее половины обычного срока.</BS_ShortPregnancy.description>
+  <BS_MinimalPregnancy.label>лёгкая беременность</BS_MinimalPregnancy.label>
+  <BS_MinimalPregnancy.description>Беременность носителей этого гена проходит легче и почти без третьего триместра. Осложнения при родах также случаются гораздо реже.
+
+Совместим с геном «Короткая беременность».</BS_MinimalPregnancy.description>
+  <BS_AutoPregnancy.label>самопроизвольная беременность</BS_AutoPregnancy.label>
+  <BS_AutoPregnancy.description>Носители этого гена периодически вынашивают собственного клона.</BS_AutoPregnancy.description>
+  <BS_AutoPregnancyArchite.label>архитная беременность</BS_AutoPregnancyArchite.label>
+  <BS_AutoPregnancyArchite.description>Носители этого гена периодически беременеют без оплодотворения.
+
+У потомства довольно часто появляются гены неизвестного происхождения.</BS_AutoPregnancyArchite.description>
+  <BS_EarlyMaturity.label>раннее развитие</BS_EarlyMaturity.label>
+  <BS_EarlyMaturity.description>Как у многих животных, потомство носителей этого гена уже при рождении умеет ходить и учиться.</BS_EarlyMaturity.description>
+  <BS_VeryEarlyMaturity.label>очень раннее развитие</BS_VeryEarlyMaturity.label>
+  <BS_VeryEarlyMaturity.description>Потомство носителей этого гена с рождения почти так же развито, как взрослые особи, подобно детёнышам многих животных. При этом новорождённые всё ещё очень малы.</BS_VeryEarlyMaturity.description>
+  <BS_BirthTwins.label>многоплодие</BS_BirthTwins.label>
+  <BS_BirthTwins.description>Носители этого гена обычно рождают нескольких детей за раз — в среднем двоих. Поэтому новорождённые несколько меньше обычного.</BS_BirthTwins.description>
+  <BS_BirthLitter.label>большой помёт</BS_BirthLitter.label>
+  <BS_BirthLitter.description>Носители этого гена рождают многочисленное потомство, обычно от четырёх до шести детёнышей за раз. Поэтому новорождённые очень малы.</BS_BirthLitter.description>
+  <BS_EverFertile.label>неувядающая плодовитость</BS_EverFertile.label>
+  <BS_EverFertile.description>Носители этого гена не теряют способность к размножению с возрастом.</BS_EverFertile.description>
+  <VU_NearSterile.label>почти полное бесплодие</VU_NearSterile.label>
+  <VU_NearSterile.description>Носители этого гена почти не способны размножаться естественным путём.</VU_NearSterile.description>
+  <MinTemp_HugeDecrease.label>невосприимчивость к холоду</MinTemp_HugeDecrease.label>
+  <MinTemp_HugeDecrease.description>Носители этого гена почти невосприимчивы к холоду.</MinTemp_HugeDecrease.description>
+  <MinTemp_HugeDecrease.labelShortAdj>леденящий</MinTemp_HugeDecrease.labelShortAdj>
+  <BS_ColdGenerator.labelShortAdj>леденящий</BS_ColdGenerator.labelShortAdj>
+  <MinTemp_HugeNeed.labelShortAdj>леденящий</MinTemp_HugeNeed.labelShortAdj>
+  <MaxTemp_HugeIncrease.label>невосприимчивость к жаре</MaxTemp_HugeIncrease.label>
+  <MaxTemp_HugeIncrease.description>Носители этого гена почти невосприимчивы к высокой температуре окружающей среды. Даже механоиды начинают перегреваться и сбоить раньше них.</MaxTemp_HugeIncrease.description>
+  <MaxTemp_HugeIncrease.labelShortAdj>кипящий</MaxTemp_HugeIncrease.labelShortAdj>
+  <MaxTemp_HugeNeed.labelShortAdj>кипящий</MaxTemp_HugeNeed.labelShortAdj>
+  <FireImmunity.label>невосприимчивость к огню</FireImmunity.label>
+  <FireImmunity.description>Носители этого гена не боятся огня и большинства тепловых атак.</FireImmunity.description>
+  <FireImmunity.labelShortAdj>огнеупорный</FireImmunity.labelShortAdj>
+  <BS_HeatGenerator.label>живая печь</BS_HeatGenerator.label>
+  <BS_HeatGenerator.description>Носители этого гена нагревают окружающую среду. Они также невосприимчивы к огню и переносят чрезвычайно высокие температуры. Хотя они выдерживают некоторый холод, обморожения для них особенно опасны. Эффективность отчасти зависит от размера тела.</BS_HeatGenerator.description>
+  <BS_HeatGenerator.labelShortAdj>согревающий</BS_HeatGenerator.labelShortAdj>
+  <BS_ColdGenerator.label>криогенератор</BS_ColdGenerator.label>
+  <BS_ColdGenerator.description>Носители этого гена сильно охлаждают окружающую среду. Они также невосприимчивы к обморожениям и чрезвычайно низким температурам. Не загораются, но получают повышенный урон от прямых тепловых атак. Эффективность отчасти зависит от размера тела.</BS_ColdGenerator.description>
+  <BS_ColdGenerator.symbolPack.prefixSymbols.0.symbol>ледяно</BS_ColdGenerator.symbolPack.prefixSymbols.0.symbol>
+  <MinTemp_HugeNeed.label>потребность в холоде</MinTemp_HugeNeed.label>
+  <MinTemp_HugeNeed.description>Носителям этого гена нужны чрезвычайно низкие температуры, иначе у них развивается тепловой удар. Экипировка с хорошей теплоизоляцией может отчасти помочь. Сам по себе ген не даёт устойчивости к сильному холоду, но без неё носитель обречён.</MinTemp_HugeNeed.description>
+  <MaxTemp_HugeNeed.label>потребность в жаре</MaxTemp_HugeNeed.label>
+  <MaxTemp_HugeNeed.description>Носителям этого гена нужны чрезвычайно высокие температуры, чтобы выжить. Экипировка с хорошей теплоизоляцией может отчасти помочь. Сам по себе ген не даёт устойчивости к сильной жаре, но без неё носитель обречён.</MaxTemp_HugeNeed.description>
+  <BS_NightOwl.label>ночной образ жизни</BS_NightOwl.label>
+  <BS_NightOwl.description>Носители этого гена предпочитают бодрствовать ночью и спокойно переносят темноту.</BS_NightOwl.description>
+  <Undergrounder.label>подземный житель</Undergrounder.label>
+  <Undergrounder.description>Носители этого гена предпочитают находиться в помещении.</Undergrounder.description>
+  <Undergrounder.labelShortAdj>подземный</Undergrounder.labelShortAdj>
+  <BS_PerfectMemory.label>эйдетическая память</BS_PerfectMemory.label>
+  <BS_PerfectMemory.description>У носителей этого гена безупречная память.</BS_PerfectMemory.description>
+  <BS_PerfectMemory.labelShortAdj>незабывающий</BS_PerfectMemory.labelShortAdj>
+  <BS_Bisexual.label>бисексуальность</BS_Bisexual.label>
+  <BS_Bisexual.description>Носители этого гена бисексуальны.</BS_Bisexual.description>
+  <BS_Bloodlust.label>кровожадность</BS_Bloodlust.label>
+  <BS_Bloodlust.description>Носителям этого гена свойственен безжалостный нрав.</BS_Bloodlust.description>
+  <BS_Unpretentious.label>непритязательность</BS_Unpretentious.label>
+  <BS_Unpretentious.description>Носителей этого гена не смущают неказистая обстановка и некоторые бытовые неудобства. Ген также подавляет многие противоречащие ему черты характера.</BS_Unpretentious.description>
+  <BS_Abrasive.label>грубость</BS_Abrasive.label>
+  <BS_Abrasive.description>Носители этого гена часто отпускают грубые замечания, испытывая терпение окружающих.
+
+Говорят, на значке изображён аватар коварного воина с пером в руке. Он сошёлся в смертельной схватке с руководителем проекта по причинам, давно утраченным для истории.</BS_Abrasive.description>
+  <BS_InsultProof.label>невосприимчивость к оскорблениям</BS_InsultProof.label>
+  <BS_InsultProof.description>Носители этого гена не реагируют на оскорбления и неудачный флирт с любой стороны.</BS_InsultProof.description>
+  <BS_AnimalFriend.label>друг животных</BS_AnimalFriend.label>
+  <BS_AnimalFriend.description>Голодные хищники никогда не выбирают носителей этого гена своей добычей.</BS_AnimalFriend.description>
+  <BS_AlcoholAddict.label>алкогольная зависимость</BS_AlcoholAddict.label>
+  <BS_AlcoholAddict.description>Носители этого гена испытывают сильную психологическую потребность в алкоголе.
+
+Ген можно сочетать с генетической потребностью в алкоголе. Тогда у носителя будут одновременно и зависимость, и физиологическая потребность.</BS_AlcoholAddict.description>
+  <VU_GreaterHemogenDrain.label>усиленный расход гемогена</VU_GreaterHemogenDrain.label>
+  <BS_DevourerHead.label>голова пожирателя</BS_DevourerHead.label>
+  <BS_DevourerHead.description>У носителей этого гена угрожающая голова пожирателя.</BS_DevourerHead.description>
+  <BS_DragonHead.label>драконья голова</BS_DragonHead.label>
+  <BS_DragonHead.description>У носителей этого гена устрашающая голова, похожая на драконью.</BS_DragonHead.description>
+  <BS_StonemaskHead.label>каменная маска</BS_StonemaskHead.label>
+  <BS_StonemaskHead.description>Голова носителей этого гена напоминает каменную маску.</BS_StonemaskHead.description>
+  <BS_SatanHead.label>панцирная голова</BS_SatanHead.label>
+  <BS_SatanHead.description>Голова носителей этого гена напоминает панцирь.</BS_SatanHead.description>
+  <MinTemp_HugeDecrease.symbolPack.prefixSymbols.0.symbol>крио</MinTemp_HugeDecrease.symbolPack.prefixSymbols.0.symbol>
+  <MinTemp_HugeNeed.symbolPack.prefixSymbols.0.symbol>крио</MinTemp_HugeNeed.symbolPack.prefixSymbols.0.symbol>
+  <MaxTemp_HugeIncrease.symbolPack.prefixSymbols.0.symbol>жаро</MaxTemp_HugeIncrease.symbolPack.prefixSymbols.0.symbol>
+  <BS_HeatGenerator.symbolPack.prefixSymbols.0.symbol>жаро</BS_HeatGenerator.symbolPack.prefixSymbols.0.symbol>
+  <MaxTemp_HugeNeed.symbolPack.prefixSymbols.0.symbol>жаро</MaxTemp_HugeNeed.symbolPack.prefixSymbols.0.symbol>
+  <MaxTemp_HugeIncrease.symbolPack.prefixSymbols.1.symbol>термо</MaxTemp_HugeIncrease.symbolPack.prefixSymbols.1.symbol>
+  <BS_HeatGenerator.symbolPack.prefixSymbols.1.symbol>термо</BS_HeatGenerator.symbolPack.prefixSymbols.1.symbol>
+  <MaxTemp_HugeNeed.symbolPack.prefixSymbols.1.symbol>термо</MaxTemp_HugeNeed.symbolPack.prefixSymbols.1.symbol>
+  <MaxTemp_HugeIncrease.symbolPack.prefixSymbols.2.symbol>гелио</MaxTemp_HugeIncrease.symbolPack.prefixSymbols.2.symbol>
+  <BS_HeatGenerator.symbolPack.prefixSymbols.2.symbol>гелио</BS_HeatGenerator.symbolPack.prefixSymbols.2.symbol>
+  <MaxTemp_HugeNeed.symbolPack.prefixSymbols.2.symbol>гелио</MaxTemp_HugeNeed.symbolPack.prefixSymbols.2.symbol>
+  <MaxTemp_HugeIncrease.symbolPack.prefixSymbols.3.symbol>пото</MaxTemp_HugeIncrease.symbolPack.prefixSymbols.3.symbol>
+  <MaxTemp_HugeNeed.symbolPack.prefixSymbols.3.symbol>пото</MaxTemp_HugeNeed.symbolPack.prefixSymbols.3.symbol>
+  <MaxTemp_HugeIncrease.symbolPack.prefixSymbols.4.symbol>пиро</MaxTemp_HugeIncrease.symbolPack.prefixSymbols.4.symbol>
+  <MaxTemp_HugeNeed.symbolPack.prefixSymbols.4.symbol>пиро</MaxTemp_HugeNeed.symbolPack.prefixSymbols.4.symbol>
+  <BS_FoamSpray.symbolPack.prefixSymbols.0.symbol>пено</BS_FoamSpray.symbolPack.prefixSymbols.0.symbol>
+  <FireImmunity.symbolPack.prefixSymbols.0.symbol>пено</FireImmunity.symbolPack.prefixSymbols.0.symbol>
+  <FireImmunity.symbolPack.suffixSymbols.0.symbol>пено</FireImmunity.symbolPack.suffixSymbols.0.symbol>
+  <FireImmunity.symbolPack.prefixSymbols.1.symbol>влаго</FireImmunity.symbolPack.prefixSymbols.1.symbol>
+  <BS_CentaurBody.label>тело кентавра</BS_CentaurBody.label>
+  <BS_CentaurBody.description>У носителей этого гена четыре ноги.</BS_CentaurBody.description>
+  <BS_FourArms.label>четыре руки</BS_FourArms.label>
+  <BS_FourArms.description>НЕТ! Я просил потрясающие предплечья, а не лишнюю пару плеч!</BS_FourArms.description>
+  <BS_SpiderBody_Synthread.label>паучье брюшко: синткань</BS_SpiderBody_Synthread.label>
+  <BS_SpiderBody_Synthread.description>Нижнюю половину тела заменяет паучье тело. Не зашла ли наука слишком далеко?
+
+Базовая выработка — 40 ед. синткани раз в 4 дня; итоговое количество зависит от размера тела.
+
+Паучья часть тела имеет цвет кожи.</BS_SpiderBody_Synthread.description>
+  <BS_SpiderBody_Devil.label>паучье брюшко: дьявлоткань</BS_SpiderBody_Devil.label>
+  <BS_SpiderBody_Devil.description>Нижнюю половину тела заменяет паучье тело. Не зашла ли наука слишком далеко?
+
+Базовая выработка — 20 ед. дьявлоткани раз в 4 дня; итоговое количество зависит от размера тела.
+
+Паучья часть тела имеет цвет волос.</BS_SpiderBody_Devil.description>
+  <LoS_Snake_Tail.label>змеиный хвост</LoS_Snake_Tail.label>
+  <LoS_Snake_Tail.description>Вместо обычных человеческих ног у носителей этого гена большой змеиный хвост. Они едят гораздо реже базовых людей.</LoS_Snake_Tail.description>
+  <LoS_Snake_Tail_HairClr.label>змеиный хвост: цвет волос</LoS_Snake_Tail_HairClr.label>
+  <LoS_Snake_Tail_HairClr.description>Вместо обычных человеческих ног у носителей этого гена большой змеиный хвост. Они едят гораздо реже базовых людей.</LoS_Snake_Tail_HairClr.description>
+  <LoS_MarlithBody.label>тело марилита</LoS_MarlithBody.label>
+  <LoS_MarlithBody.description>У носителей этого гена три пары рук и большой змеиный хвост вместо обычных человеческих ног.</LoS_MarlithBody.description>
+  <BS_SpiderBody.label>паучье тело</BS_SpiderBody.label>
+  <BS_SpiderBody.description>У носителей этого гена восемь ног, как у паука.</BS_SpiderBody.description>
+  <BS_HumanoidWithTail.label>человек с хвостом</BS_HumanoidWithTail.label>
+  <BS_HumanoidWithTail.description>У носителей этого гена обычно есть хвост.</BS_HumanoidWithTail.description>
+  <BS_StickyAcidSpray.label>распыление липкой кислоты</BS_StickyAcidSpray.label>
+  <BS_StickyAcidSpray.description>Носители этого гена могут выплёвывать липкую едкую кислоту, покрывая ею область в форме конуса.</BS_StickyAcidSpray.description>
+  <BS_StickyAcidSpray.symbolPack.prefixSymbols.0.symbol>кисло</BS_StickyAcidSpray.symbolPack.prefixSymbols.0.symbol>
+  <BS_StickyAcidSpray.symbolPack.prefixSymbols.1.symbol>едко</BS_StickyAcidSpray.symbolPack.prefixSymbols.1.symbol>
+  <BS_StickyAcidSpray.symbolPack.prefixSymbols.2.symbol>акри</BS_StickyAcidSpray.symbolPack.prefixSymbols.2.symbol>
+  <BS_StickyAcidSpray.symbolPack.prefixSymbols.3.symbol>оксо</BS_StickyAcidSpray.symbolPack.prefixSymbols.3.symbol>
+  <BS_StickyAcidSpray.symbolPack.suffixSymbols.0.symbol>распылитель</BS_StickyAcidSpray.symbolPack.suffixSymbols.0.symbol>
+  <BS_StickyAcidSpray.symbolPack.suffixSymbols.1.symbol>плеватель</BS_StickyAcidSpray.symbolPack.suffixSymbols.1.symbol>
+  <VU_Hermaphromorph.label>смена пола</VU_Hermaphromorph.label>
+  <VU_Hermaphromorph.description>Носители этого гена могут по желанию менять пол своего тела.</VU_Hermaphromorph.description>
+  <BS_FoamSpray.label>распыление огнепены</BS_FoamSpray.label>
+  <BS_FoamSpray.description>Носители этого гена вырабатывают и накапливают огнепену. Они могут выплёвывать её, чтобы тушить огонь на некоторой площади.</BS_FoamSpray.description>
+  <BS_FoamSpray.symbolPack.prefixSymbols.1.symbol>плюно</BS_FoamSpray.symbolPack.prefixSymbols.1.symbol>
+  <BS_FoamSpray.symbolPack.prefixSymbols.2.symbol>брызго</BS_FoamSpray.symbolPack.prefixSymbols.2.symbol>
+  <BS_FoamSpray.symbolPack.prefixSymbols.3.symbol>мыло</BS_FoamSpray.symbolPack.prefixSymbols.3.symbol>
+  <BS_FoamSpray.symbolPack.prefixSymbols.4.symbol>кремо</BS_FoamSpray.symbolPack.prefixSymbols.4.symbol>
+  <BS_FoamSpray.symbolPack.prefixSymbols.5.symbol>пенисто</BS_FoamSpray.symbolPack.prefixSymbols.5.symbol>
+  <BS_FoamSpray.symbolPack.suffixSymbols.0.symbol>пенник</BS_FoamSpray.symbolPack.suffixSymbols.0.symbol>
+  <BS_FoamSpray.symbolPack.wholeNameSymbols.0.symbol>пенник</BS_FoamSpray.symbolPack.wholeNameSymbols.0.symbol>
+  <BS_FoamSpray.symbolPack.suffixSymbols.1.symbol>мыльник</BS_FoamSpray.symbolPack.suffixSymbols.1.symbol>
+  <VU_Pounce.label>бросок на добычу</VU_Pounce.label>
+  <VU_Pounce.description>Носители этого гена могут прыгать на добычу.</VU_Pounce.description>
+  <VU_Pounce.symbolPack.prefixSymbols.0.symbol>прыго</VU_Pounce.symbolPack.prefixSymbols.0.symbol>
+  <VU_Pounce.symbolPack.prefixSymbols.1.symbol>скако</VU_Pounce.symbolPack.prefixSymbols.1.symbol>
+  <VU_Pounce.symbolPack.prefixSymbols.2.symbol>взлёто</VU_Pounce.symbolPack.prefixSymbols.2.symbol>
+  <VU_Pounce.symbolPack.prefixSymbols.3.symbol>долго</VU_Pounce.symbolPack.prefixSymbols.3.symbol>
+  <VU_Pounce.symbolPack.prefixSymbols.4.symbol>лето</VU_Pounce.symbolPack.prefixSymbols.4.symbol>
+  <VU_Pounce.symbolPack.prefixSymbols.5.symbol>поскоко</VU_Pounce.symbolPack.prefixSymbols.5.symbol>
+  <VU_Pounce.symbolPack.wholeNameSymbols.0.symbol>прыгун</VU_Pounce.symbolPack.wholeNameSymbols.0.symbol>
+  <VU_Pounce.symbolPack.wholeNameSymbols.1.symbol>скакун</VU_Pounce.symbolPack.wholeNameSymbols.1.symbol>
+  <VU_Pounce.symbolPack.wholeNameSymbols.2.symbol>попрыгун</VU_Pounce.symbolPack.wholeNameSymbols.2.symbol>
+  <BS_SnekEngulf.label>заглатывание</BS_SnekEngulf.label>
+  <BS_SnekEngulf.description>Позволяет временно проглотить существо меньшего размера, чтобы переварить или удерживать его внутри.
+
+Умелых бойцов лучше не удерживать долго: они могут ранить носителя изнутри любым имеющимся у них оружием.
+
+Если заставить персонажа, не склонного к каннибализму, переварить гуманоида, это сильно его расстроит.</BS_SnekEngulf.description>
+  <VU_Pallor.label>бледность</VU_Pallor.label>
+  <VU_Pallor.description>Носители этого гена отличаются трупной бледностью.</VU_Pallor.description>
+  <BS_AlienApperanceStandards_Lesser.label>странная внешность</BS_AlienApperanceStandards_Lesser.label>
+  <BS_AlienApperanceStandards_Lesser.description>Носители этого гена выглядят довольно странно или непривычно и оценивают внешность по собственным меркам.
+
+Их взаимное мнение о персонажах без этого гена зависит от сходства. Учитываются определённые общие гены, влияющие на романтическую привлекательность, например свиные носы.
+
+В отличие от более выраженного варианта этого гена, красота продолжает действовать как обычно.</BS_AlienApperanceStandards_Lesser.description>
+  <BS_AlienApperanceStandards.label>чуждая внешность</BS_AlienApperanceStandards.label>
+  <BS_AlienApperanceStandards.description>Носители этого гена выглядят очень странно или непривычно и оценивают внешность по собственным меркам.
+
+Их взаимное мнение о персонажах без этого гена зависит от сходства. Учитываются определённые общие гены, влияющие на романтическую привлекательность, например свиные носы.
+
+Этот ген также в значительной мере лишает красоты её преимуществ при разных представлениях о привлекательности. Поэтому итоговый штраф может оказаться меньше указанного ниже.</BS_AlienApperanceStandards.description>
+  <BS_CannotWearClothing.label>отказ от одежды</BS_CannotWearClothing.label>
+  <BS_CannotWearClothing.description>Носители этого гена не могут или не хотят носить обычную одежду. При этом они могут носить броню.</BS_CannotWearClothing.description>
+  <BS_CannotWearArmor.label>отказ от брони</BS_CannotWearArmor.label>
+  <BS_CannotWearArmor.description>Носители этого гена не могут или не хотят носить большинство видов брони.</BS_CannotWearArmor.description>
+  <BS_CannotWearClothingOrArmor.label>отказ от одежды и брони</BS_CannotWearClothingOrArmor.label>
+  <BS_CannotWearClothingOrArmor.description>Носители этого гена не могут или не хотят носить какую-либо одежду или броню.</BS_CannotWearClothingOrArmor.description>
+  <VeryNakedSpeed.label>высокая скорость без одежды</VeryNakedSpeed.label>
+  <VeryNakedSpeed.description>Носители этого гена двигаются гораздо медленнее в одежде и значительно быстрее без неё.</VeryNakedSpeed.description>
+  <BS_ToughSkin.label>прочная кожа</BS_ToughSkin.label>
+  <BS_ToughSkin.description>У носителей этого гена от природы прочная кожа, которая частично защищает от тупых и режущих атак.</BS_ToughSkin.description>
+  <BS_ToughSkin.symbolPack.prefixSymbols.0.symbol>толстокожий</BS_ToughSkin.symbolPack.prefixSymbols.0.symbol>
+  <BS_NaturalArmor.label>природная броня</BS_NaturalArmor.label>
+  <BS_NaturalArmor.description>Носители этого гена выдерживают удары так, будто носят мягкую защитную броню.</BS_NaturalArmor.description>
+  <BS_NaturalArmor.symbolPack.prefixSymbols.0.symbol>крепко</BS_NaturalArmor.symbolPack.prefixSymbols.0.symbol>
+  <BS_NaturalArmor_Great.label>укреплённое тело</BS_NaturalArmor_Great.label>
+  <BS_NaturalArmor_Great.description>Носители этого гена выдерживают удары так, будто носят тяжёлую противоударную экипировку.</BS_NaturalArmor_Great.description>
+  <BS_NaturalArmor_Great.symbolPack.prefixSymbols.0.symbol>непробиваемый</BS_NaturalArmor_Great.symbolPack.prefixSymbols.0.symbol>
+  <BS_NaturalArmor_Great.symbolPack.prefixSymbols.1.symbol>неуязвимый</BS_NaturalArmor_Great.symbolPack.prefixSymbols.1.symbol>
+  <BS_DrunkenPower.label>пьяная мощь</BS_DrunkenPower.label>
+  <BS_DrunkenPower.description>Носители этого гена невероятно сильны и выносливы, но только под действием алкоголя. Чем сильнее опьянение, тем заметнее эффект.
+
+Ген также ослабляет снижение сознания от алкоголя, хотя до трезвого состояния всё равно далеко.
+
+Эффект СКЛАДЫВАЕТСЯ с генами крепкого организма и повышенного урона в ближнем бою. Вот это да.</BS_DrunkenPower.description>
+  <BS_DrunkenPower.symbolPack.prefixSymbols.0.symbol>пьяно</BS_DrunkenPower.symbolPack.prefixSymbols.0.symbol>
+  <BS_DrunkenPower.symbolPack.prefixSymbols.1.symbol>хаосо</BS_DrunkenPower.symbolPack.prefixSymbols.1.symbol>
+  <BS_DrunkenPower.symbolPack.prefixSymbols.2.symbol>они</BS_DrunkenPower.symbolPack.prefixSymbols.2.symbol>
+  <BS_VeryDelicate.label>крайняя хрупкость</BS_VeryDelicate.label>
+  <BS_VeryDelicate.description>Носители этого гена невероятно хрупки, и их очень легко ранить.</BS_VeryDelicate.description>
+  <BS_VeryDelicate.labelShortAdj>очень хрупкий</BS_VeryDelicate.labelShortAdj>
+  <BS_TinyTough.label>стойкость малютки</BS_TinyTough.label>
+  <BS_TinyTough.description>Носители этого гена удивительно крепки, несмотря на крошечный размер.</BS_TinyTough.description>
+  <BS_TinyTough.labelShortAdj>маленький и крепкий</BS_TinyTough.labelShortAdj>
+  <BS_DvergrConstitution.label>дворфийская стойкость</BS_DvergrConstitution.label>
+  <BS_DvergrConstitution.description>Носители этого гена сильнее и выносливее, чем можно подумать по их размерам.</BS_DvergrConstitution.description>
+  <BS_DvergrConstitution.labelShortAdj>крепкий как дворф</BS_DvergrConstitution.labelShortAdj>
+  <BS_SelfRepairingApparel.label>самовосстанавливающаяся одежда</BS_SelfRepairingApparel.label>
+  <BS_SelfRepairingApparel.description>Носители этого гена обладают особыми архитами, которые чинят надетую одежду.
+
+Они не могут восстановить её прочность выше значения, которое было при последнем надевании.</BS_SelfRepairingApparel.description>
+  <BS_IndestructibleApparel.label>неразрушимая одежда</BS_IndestructibleApparel.label>
+  <BS_IndestructibleApparel.description>Носители этого гена обладают особыми архитами, которые почти мгновенно чинят надетую экипировку, не позволяя ей изнашиваться или повреждаться.
+
+Они не могут восстановить её прочность выше значения, которое было при надевании.</BS_IndestructibleApparel.description>
+  <VU_NoBlood.label>отсутствие крови</VU_NoBlood.label>
+  <VU_NoBlood.description>У носителей этого гена не бывает кровотечений.</VU_NoBlood.description>
+  <BS_SlowBleeding.label>слабые кровотечения</BS_SlowBleeding.label>
+  <BS_SlowBleeding.description>Носители этого гена теряют кровь медленнее обычного. Возможно, она быстрее сворачивается или медленнее течёт, чем у базовых людей.</BS_SlowBleeding.description>
+  <BS_GracefulAngelwings.description>У носителей этого гена божественные крылья.</BS_GracefulAngelwings.description>
+  <BS_HolyAngelwings.description>У носителей этого гена божественные крылья.</BS_HolyAngelwings.description>
+  <BS_MenacingAngelwings.description>У носителей этого гена божественные крылья.</BS_MenacingAngelwings.description>
+  <BS_HolyAngelwings.label>пушистые ангельские крылья</BS_HolyAngelwings.label>
+  <BS_MenacingAngelwings.label>грозные ангельские крылья</BS_MenacingAngelwings.label>
+  <BS_DemonAngelwings.label>крылья падшего ангела</BS_DemonAngelwings.label>
+  <BS_DemonAngelwings.description>У носителей этого гена демонические крылья.</BS_DemonAngelwings.description>
+  <BS_SmallDemonWings.label>маленькие крылья демона</BS_SmallDemonWings.label>
+  <BS_SmallDemonWings.description>У носителей этого гена вырастают небольшие кожистые крылья.</BS_SmallDemonWings.description>
+  <BS_LargeDemonWings.label>большие крылья демона</BS_LargeDemonWings.label>
+  <BS_LargeDemonWings.description>У носителей этого гена вырастают кожистые крылья.</BS_LargeDemonWings.description>
+  <BS_AncientDemonWings.label>крылья древнего демона</BS_AncientDemonWings.label>
+  <BS_AncientDemonWings.description>У носителей этого гена вырастают величественные крылья.</BS_AncientDemonWings.description>
+  <BS_TrollEars.symbolPack.prefixSymbols.2.symbol>тролле</BS_TrollEars.symbolPack.prefixSymbols.2.symbol>
+  <BS_TrollEars_Great.symbolPack.prefixSymbols.2.symbol>тролле</BS_TrollEars_Great.symbolPack.prefixSymbols.2.symbol>
+  <BS_TrollNose.symbolPack.prefixSymbols.1.symbol>тролле</BS_TrollNose.symbolPack.prefixSymbols.1.symbol>
+  <BS_TrollNoseAlways.symbolPack.prefixSymbols.1.symbol>тролле</BS_TrollNoseAlways.symbolPack.prefixSymbols.1.symbol>
+  <BS_TrollEars_Great.label>огромные уши тролля</BS_TrollEars_Great.label>
+  <BS_TrollEars_Great.description>У носителей этого гена очень большие заострённые уши.</BS_TrollEars_Great.description>
+  <BS_DragonEars.label>уши дракона</BS_DragonEars.label>
+  <BS_DragonEars.description>У носителей этого гена драконьи уши.</BS_DragonEars.description>
+  <BS_DragonEars.symbolPack.prefixSymbols.0.symbol>драко</BS_DragonEars.symbolPack.prefixSymbols.0.symbol>
+  <BS_DragonEars.symbolPack.prefixSymbols.1.symbol>дракон</BS_DragonEars.symbolPack.prefixSymbols.1.symbol>
+  <BS_TrollBeard.label>огромная борода тролля</BS_TrollBeard.label>
+  <BS_TrollBeard.description>У носителей этого гена, особенно у мужчин, обычно вырастает огромная борода, как у тролля.</BS_TrollBeard.description>
+  <BS_FuzzyBrows.label>густые брови</BS_FuzzyBrows.label>
+  <BS_FuzzyBrows.description>У носителей этого гена часто бывают заметные густые брови, которые разрастаются с возрастом.</BS_FuzzyBrows.description>
+  <BS_TrollHair.label>волосы тролля</BS_TrollHair.label>
+  <BS_TrollHair.description>У носителей этого гена часто вырастают длинные растрёпанные волосы, которые с возрастом становятся ещё длиннее. Впрочем, вместо этого может наступить облысение, особенно у мужчин.</BS_TrollHair.description>
+  <BS_TrollHairShort.label>волосы тролля: короткие</BS_TrollHairShort.label>
+  <BS_TrollHairShort.description>У носителей этого гена растрёпанные волосы.</BS_TrollHairShort.description>
+  <BS_TrollHairGreat.label>волосы тролля: длинные</BS_TrollHairGreat.label>
+  <BS_TrollHairGreat.description>У носителей этого гена очень длинные растрёпанные волосы.</BS_TrollHairGreat.description>
+  <Hair_MediumRed.label>тёмно-красные волосы</Hair_MediumRed.label>
+  <Hair_MediumRed.description>У носителей этого гена особый цвет волос. Если генов цвета волос несколько, один из них выбирается случайно.</Hair_MediumRed.description>
+  <Hair_MediumBlue.description>У носителей этого гена особый цвет волос. Если генов цвета волос несколько, один из них выбирается случайно.</Hair_MediumBlue.description>
+  <BS_Hair_TrueWhite.description>У носителей этого гена особый цвет волос. Если генов цвета волос несколько, один из них выбирается случайно.</BS_Hair_TrueWhite.description>
+  <BS_HairFrostWhite.description>У носителей этого гена особый цвет волос. Если генов цвета волос несколько, один из них выбирается случайно.</BS_HairFrostWhite.description>
+  <BS_HairPermafrost.description>У носителей этого гена особый цвет волос. Если генов цвета волос несколько, один из них выбирается случайно.</BS_HairPermafrost.description>
+  <BS_BloodHair.description>У носителей этого гена особый цвет волос. Если генов цвета волос несколько, один из них выбирается случайно.</BS_BloodHair.description>
+  <BS_Hair_DarkGray.description>У носителей этого гена особый цвет волос. Если генов цвета волос несколько, один из них выбирается случайно.</BS_Hair_DarkGray.description>
+  <Hair_MediumBlue.label>тёмно-синие волосы</Hair_MediumBlue.label>
+  <BS_Hair_TrueWhite.label>ослепительно белые волосы</BS_Hair_TrueWhite.label>
+  <BS_HairFrostWhite.label>снежно-белые волосы</BS_HairFrostWhite.label>
+  <BS_HairPermafrost.label>волосы вечной мерзлоты</BS_HairPermafrost.label>
+  <BS_BloodHair.label>кроваво-красные волосы</BS_BloodHair.label>
+  <BS_CreamHair.label>кремовые волосы</BS_CreamHair.label>
+  <BS_CreamHair.description>У носителей этого гена белые волосы с кремовым оттенком.</BS_CreamHair.description>
+  <BS_CreamHair.labelShortAdj>кремовый</BS_CreamHair.labelShortAdj>
+  <BS_MatteGreenHair.label>змеевиковые волосы</BS_MatteGreenHair.label>
+  <BS_MatteGreenHair.description>У носителей этого гена матово-зелёные волосы.</BS_MatteGreenHair.description>
+  <BS_MatteGreenHair.labelShortAdj>змеевиковый</BS_MatteGreenHair.labelShortAdj>
+  <BS_Hair_DarkGray.label>тёмно-серые волосы</BS_Hair_DarkGray.label>
+  <BS_MossGreenHair.label>мшисто-зелёные волосы</BS_MossGreenHair.label>
+  <BS_MossGreenHair.description>У носителей этого гена зелёные волосы цвета мха.</BS_MossGreenHair.description>
+  <BS_MossGreenHair.labelShortAdj>мшистый</BS_MossGreenHair.labelShortAdj>
+  <BS_BurgundyHair.label>бордовые волосы</BS_BurgundyHair.label>
+  <BS_BurgundyHair.description>У носителей этого гена тёмные красновато-фиолетовые волосы.</BS_BurgundyHair.description>
+  <BS_DeepVioletHair.label>насыщенно-фиолетовые волосы</BS_DeepVioletHair.label>
+  <BS_DeepVioletHair.description>У носителей этого гена насыщенно-фиолетовые волосы.</BS_DeepVioletHair.description>
+  <BS_BrokenTitanHead.label>кибернетическая голова урба</BS_BrokenTitanHead.label>
+  <BS_BrokenTitanHead.description>Голова носителей этого гена выглядит частично кибернетической.</BS_BrokenTitanHead.description>
+  <BS_Smallhead.label>маленькая голова</BS_Smallhead.label>
+  <BS_Smallhead.description>Голова носителей этого гена на 15% меньше обычной.</BS_Smallhead.description>
+  <BS_Smallhead.symbolPack.prefixSymbols.0.symbol>мелкоголовый</BS_Smallhead.symbolPack.prefixSymbols.0.symbol>
+  <BS_OgreHead.label>голова огра: жуткая</BS_OgreHead.label>
+  <BS_OgreHead.description>У носителей этого гена большая голова огра с глуповатым выражением лица.</BS_OgreHead.description>
+  <BS_FomorialHead_Savage.label>голова огра: бугристая</BS_FomorialHead_Savage.label>
+  <BS_FomorialHead_Savage.description>У носителей этого гена бугристая голова огра.</BS_FomorialHead_Savage.description>
+  <Jotun_Horns.label>рога йотуна</Jotun_Horns.label>
+  <Jotun_Horns.description>У носителей этого гена большие внушительные рога.</Jotun_Horns.description>
+  <Jotun_Horns.symbolPack.prefixSymbols.0.symbol>рого</Jotun_Horns.symbolPack.prefixSymbols.0.symbol>
+  <Jotun_Horns.symbolPack.suffixSymbols.0.symbol>рого</Jotun_Horns.symbolPack.suffixSymbols.0.symbol>
+  <Jotun_Horns_skin.symbolPack.prefixSymbols.0.symbol>рого</Jotun_Horns_skin.symbolPack.prefixSymbols.0.symbol>
+  <Jotun_Horns_skin.symbolPack.suffixSymbols.0.symbol>рого</Jotun_Horns_skin.symbolPack.suffixSymbols.0.symbol>
+  <Jotun_Horns_Small.symbolPack.prefixSymbols.0.symbol>рого</Jotun_Horns_Small.symbolPack.prefixSymbols.0.symbol>
+  <Jotun_Horns_Small.symbolPack.suffixSymbols.0.symbol>рого</Jotun_Horns_Small.symbolPack.suffixSymbols.0.symbol>
+  <Jotun_Horns_Small_skin.symbolPack.prefixSymbols.0.symbol>рого</Jotun_Horns_Small_skin.symbolPack.prefixSymbols.0.symbol>
+  <Jotun_Horns_Small_skin.symbolPack.suffixSymbols.0.symbol>рого</Jotun_Horns_Small_skin.symbolPack.suffixSymbols.0.symbol>
+  <BS_TrollHorns.symbolPack.prefixSymbols.0.symbol>рого</BS_TrollHorns.symbolPack.prefixSymbols.0.symbol>
+  <BS_TrollHorns.symbolPack.suffixSymbols.0.symbol>рого</BS_TrollHorns.symbolPack.suffixSymbols.0.symbol>
+  <BS_Arching_Horns.symbolPack.prefixSymbols.0.symbol>рого</BS_Arching_Horns.symbolPack.prefixSymbols.0.symbol>
+  <BS_Arching_Horns.symbolPack.suffixSymbols.0.symbol>рого</BS_Arching_Horns.symbolPack.suffixSymbols.0.symbol>
+  <BS_Arching_Horns_skin.symbolPack.prefixSymbols.0.symbol>рого</BS_Arching_Horns_skin.symbolPack.prefixSymbols.0.symbol>
+  <BS_Arching_Horns_skin.symbolPack.suffixSymbols.0.symbol>рого</BS_Arching_Horns_skin.symbolPack.suffixSymbols.0.symbol>
+  <BS_TallJotunHorns.symbolPack.prefixSymbols.0.symbol>рого</BS_TallJotunHorns.symbolPack.prefixSymbols.0.symbol>
+  <BS_TallJotunHorns.symbolPack.suffixSymbols.0.symbol>рого</BS_TallJotunHorns.symbolPack.suffixSymbols.0.symbol>
+  <BS_TallJotunHorns_Skin.symbolPack.prefixSymbols.0.symbol>рого</BS_TallJotunHorns_Skin.symbolPack.prefixSymbols.0.symbol>
+  <BS_TallJotunHorns_Skin.symbolPack.suffixSymbols.0.symbol>рого</BS_TallJotunHorns_Skin.symbolPack.suffixSymbols.0.symbol>
+  <BS_StubbyDemonHorns.symbolPack.prefixSymbols.0.symbol>рого</BS_StubbyDemonHorns.symbolPack.prefixSymbols.0.symbol>
+  <BS_StubbyDemonHorns.symbolPack.suffixSymbols.0.symbol>рого</BS_StubbyDemonHorns.symbolPack.suffixSymbols.0.symbol>
+  <BS_StubbyDemonHorns_Skin.symbolPack.prefixSymbols.0.symbol>рого</BS_StubbyDemonHorns_Skin.symbolPack.prefixSymbols.0.symbol>
+  <BS_StubbyDemonHorns_Skin.symbolPack.suffixSymbols.0.symbol>рого</BS_StubbyDemonHorns_Skin.symbolPack.suffixSymbols.0.symbol>
+  <BS_ForwardArchingHorns.symbolPack.prefixSymbols.0.symbol>рого</BS_ForwardArchingHorns.symbolPack.prefixSymbols.0.symbol>
+  <BS_ForwardArchingHorns.symbolPack.suffixSymbols.0.symbol>рого</BS_ForwardArchingHorns.symbolPack.suffixSymbols.0.symbol>
+  <BS_ForwardArchingHorns_Skin.symbolPack.prefixSymbols.0.symbol>рого</BS_ForwardArchingHorns_Skin.symbolPack.prefixSymbols.0.symbol>
+  <BS_ForwardArchingHorns_Skin.symbolPack.suffixSymbols.0.symbol>рого</BS_ForwardArchingHorns_Skin.symbolPack.suffixSymbols.0.symbol>
+  <BS_TyrantCrown.symbolPack.prefixSymbols.0.symbol>рого</BS_TyrantCrown.symbolPack.prefixSymbols.0.symbol>
+  <BS_TyrantCrown.symbolPack.suffixSymbols.0.symbol>рого</BS_TyrantCrown.symbolPack.suffixSymbols.0.symbol>
+  <BS_TyrantCrown_Skin.symbolPack.prefixSymbols.0.symbol>рого</BS_TyrantCrown_Skin.symbolPack.prefixSymbols.0.symbol>
+  <BS_TyrantCrown_Skin.symbolPack.suffixSymbols.0.symbol>рого</BS_TyrantCrown_Skin.symbolPack.suffixSymbols.0.symbol>
+  <BS_SmallQuadHorns.symbolPack.prefixSymbols.0.symbol>рого</BS_SmallQuadHorns.symbolPack.prefixSymbols.0.symbol>
+  <BS_SmallQuadHorns.symbolPack.suffixSymbols.0.symbol>рого</BS_SmallQuadHorns.symbolPack.suffixSymbols.0.symbol>
+  <BS_SmallQuadHorns_Skin.symbolPack.prefixSymbols.0.symbol>рого</BS_SmallQuadHorns_Skin.symbolPack.prefixSymbols.0.symbol>
+  <BS_SmallQuadHorns_Skin.symbolPack.suffixSymbols.0.symbol>рого</BS_SmallQuadHorns_Skin.symbolPack.suffixSymbols.0.symbol>
+  <BS_HexaHorns.symbolPack.prefixSymbols.0.symbol>рого</BS_HexaHorns.symbolPack.prefixSymbols.0.symbol>
+  <BS_HexaHorns.symbolPack.suffixSymbols.0.symbol>рого</BS_HexaHorns.symbolPack.suffixSymbols.0.symbol>
+  <BS_HexaHorns_Skin.symbolPack.prefixSymbols.0.symbol>рого</BS_HexaHorns_Skin.symbolPack.prefixSymbols.0.symbol>
+  <BS_HexaHorns_Skin.symbolPack.suffixSymbols.0.symbol>рого</BS_HexaHorns_Skin.symbolPack.suffixSymbols.0.symbol>
+  <BS_OniHorns.symbolPack.prefixSymbols.0.symbol>рого</BS_OniHorns.symbolPack.prefixSymbols.0.symbol>
+  <BS_OniHorns.symbolPack.suffixSymbols.0.symbol>рого</BS_OniHorns.symbolPack.suffixSymbols.0.symbol>
+  <BS_OniSingleHorn.symbolPack.prefixSymbols.0.symbol>рого</BS_OniSingleHorn.symbolPack.prefixSymbols.0.symbol>
+  <BS_OniSingleHorn.symbolPack.suffixSymbols.0.symbol>рого</BS_OniSingleHorn.symbolPack.suffixSymbols.0.symbol>
+  <BS_DragonHorns.symbolPack.prefixSymbols.0.symbol>рого</BS_DragonHorns.symbolPack.prefixSymbols.0.symbol>
+  <BS_DragonHorns.symbolPack.suffixSymbols.0.symbol>рого</BS_DragonHorns.symbolPack.suffixSymbols.0.symbol>
+  <Jotun_Horns.symbolPack.prefixSymbols.1.symbol>дьяволо</Jotun_Horns.symbolPack.prefixSymbols.1.symbol>
+  <Jotun_Horns_skin.symbolPack.prefixSymbols.1.symbol>дьяволо</Jotun_Horns_skin.symbolPack.prefixSymbols.1.symbol>
+  <Jotun_Horns_Small.symbolPack.prefixSymbols.1.symbol>дьяволо</Jotun_Horns_Small.symbolPack.prefixSymbols.1.symbol>
+  <Jotun_Horns_Small_skin.symbolPack.prefixSymbols.1.symbol>дьяволо</Jotun_Horns_Small_skin.symbolPack.prefixSymbols.1.symbol>
+  <BS_TrollHorns.symbolPack.prefixSymbols.1.symbol>дьяволо</BS_TrollHorns.symbolPack.prefixSymbols.1.symbol>
+  <BS_Arching_Horns.symbolPack.prefixSymbols.1.symbol>дьяволо</BS_Arching_Horns.symbolPack.prefixSymbols.1.symbol>
+  <BS_Arching_Horns_skin.symbolPack.prefixSymbols.1.symbol>дьяволо</BS_Arching_Horns_skin.symbolPack.prefixSymbols.1.symbol>
+  <BS_TallJotunHorns.symbolPack.prefixSymbols.1.symbol>дьяволо</BS_TallJotunHorns.symbolPack.prefixSymbols.1.symbol>
+  <BS_TallJotunHorns_Skin.symbolPack.prefixSymbols.1.symbol>дьяволо</BS_TallJotunHorns_Skin.symbolPack.prefixSymbols.1.symbol>
+  <BS_StubbyDemonHorns.symbolPack.prefixSymbols.1.symbol>дьяволо</BS_StubbyDemonHorns.symbolPack.prefixSymbols.1.symbol>
+  <BS_StubbyDemonHorns_Skin.symbolPack.prefixSymbols.1.symbol>дьяволо</BS_StubbyDemonHorns_Skin.symbolPack.prefixSymbols.1.symbol>
+  <BS_ForwardArchingHorns.symbolPack.prefixSymbols.1.symbol>дьяволо</BS_ForwardArchingHorns.symbolPack.prefixSymbols.1.symbol>
+  <BS_ForwardArchingHorns_Skin.symbolPack.prefixSymbols.1.symbol>дьяволо</BS_ForwardArchingHorns_Skin.symbolPack.prefixSymbols.1.symbol>
+  <BS_TyrantCrown.symbolPack.prefixSymbols.1.symbol>дьяволо</BS_TyrantCrown.symbolPack.prefixSymbols.1.symbol>
+  <BS_TyrantCrown_Skin.symbolPack.prefixSymbols.1.symbol>дьяволо</BS_TyrantCrown_Skin.symbolPack.prefixSymbols.1.symbol>
+  <BS_SmallQuadHorns.symbolPack.prefixSymbols.1.symbol>дьяволо</BS_SmallQuadHorns.symbolPack.prefixSymbols.1.symbol>
+  <BS_SmallQuadHorns_Skin.symbolPack.prefixSymbols.1.symbol>дьяволо</BS_SmallQuadHorns_Skin.symbolPack.prefixSymbols.1.symbol>
+  <BS_HexaHorns.symbolPack.prefixSymbols.1.symbol>дьяволо</BS_HexaHorns.symbolPack.prefixSymbols.1.symbol>
+  <BS_HexaHorns_Skin.symbolPack.prefixSymbols.1.symbol>дьяволо</BS_HexaHorns_Skin.symbolPack.prefixSymbols.1.symbol>
+  <BS_OniHorns.symbolPack.prefixSymbols.1.symbol>дьяволо</BS_OniHorns.symbolPack.prefixSymbols.1.symbol>
+  <BS_OniSingleHorn.symbolPack.prefixSymbols.1.symbol>дьяволо</BS_OniSingleHorn.symbolPack.prefixSymbols.1.symbol>
+  <BS_DragonHorns.symbolPack.prefixSymbols.1.symbol>дьяволо</BS_DragonHorns.symbolPack.prefixSymbols.1.symbol>
+  <Jotun_Horns.symbolPack.prefixSymbols.2.symbol>демоно</Jotun_Horns.symbolPack.prefixSymbols.2.symbol>
+  <Jotun_Horns_skin.symbolPack.prefixSymbols.2.symbol>демоно</Jotun_Horns_skin.symbolPack.prefixSymbols.2.symbol>
+  <Jotun_Horns_Small.symbolPack.prefixSymbols.2.symbol>демоно</Jotun_Horns_Small.symbolPack.prefixSymbols.2.symbol>
+  <Jotun_Horns_Small_skin.symbolPack.prefixSymbols.2.symbol>демоно</Jotun_Horns_Small_skin.symbolPack.prefixSymbols.2.symbol>
+  <BS_TrollHorns.symbolPack.prefixSymbols.2.symbol>демоно</BS_TrollHorns.symbolPack.prefixSymbols.2.symbol>
+  <BS_Arching_Horns.symbolPack.prefixSymbols.2.symbol>демоно</BS_Arching_Horns.symbolPack.prefixSymbols.2.symbol>
+  <BS_Arching_Horns_skin.symbolPack.prefixSymbols.2.symbol>демоно</BS_Arching_Horns_skin.symbolPack.prefixSymbols.2.symbol>
+  <BS_TallJotunHorns.symbolPack.prefixSymbols.2.symbol>демоно</BS_TallJotunHorns.symbolPack.prefixSymbols.2.symbol>
+  <BS_TallJotunHorns_Skin.symbolPack.prefixSymbols.2.symbol>демоно</BS_TallJotunHorns_Skin.symbolPack.prefixSymbols.2.symbol>
+  <BS_StubbyDemonHorns.symbolPack.prefixSymbols.2.symbol>демоно</BS_StubbyDemonHorns.symbolPack.prefixSymbols.2.symbol>
+  <BS_StubbyDemonHorns_Skin.symbolPack.prefixSymbols.2.symbol>демоно</BS_StubbyDemonHorns_Skin.symbolPack.prefixSymbols.2.symbol>
+  <BS_ForwardArchingHorns.symbolPack.prefixSymbols.2.symbol>демоно</BS_ForwardArchingHorns.symbolPack.prefixSymbols.2.symbol>
+  <BS_ForwardArchingHorns_Skin.symbolPack.prefixSymbols.2.symbol>демоно</BS_ForwardArchingHorns_Skin.symbolPack.prefixSymbols.2.symbol>
+  <BS_TyrantCrown.symbolPack.prefixSymbols.2.symbol>демоно</BS_TyrantCrown.symbolPack.prefixSymbols.2.symbol>
+  <BS_TyrantCrown_Skin.symbolPack.prefixSymbols.2.symbol>демоно</BS_TyrantCrown_Skin.symbolPack.prefixSymbols.2.symbol>
+  <BS_SmallQuadHorns.symbolPack.prefixSymbols.2.symbol>демоно</BS_SmallQuadHorns.symbolPack.prefixSymbols.2.symbol>
+  <BS_SmallQuadHorns_Skin.symbolPack.prefixSymbols.2.symbol>демоно</BS_SmallQuadHorns_Skin.symbolPack.prefixSymbols.2.symbol>
+  <BS_HexaHorns.symbolPack.prefixSymbols.2.symbol>демоно</BS_HexaHorns.symbolPack.prefixSymbols.2.symbol>
+  <BS_HexaHorns_Skin.symbolPack.prefixSymbols.2.symbol>демоно</BS_HexaHorns_Skin.symbolPack.prefixSymbols.2.symbol>
+  <BS_OniHorns.symbolPack.prefixSymbols.2.symbol>демоно</BS_OniHorns.symbolPack.prefixSymbols.2.symbol>
+  <BS_OniSingleHorn.symbolPack.prefixSymbols.2.symbol>демоно</BS_OniSingleHorn.symbolPack.prefixSymbols.2.symbol>
+  <BS_DragonHorns.symbolPack.prefixSymbols.2.symbol>демоно</BS_DragonHorns.symbolPack.prefixSymbols.2.symbol>
+  <Jotun_Horns.symbolPack.prefixSymbols.3.symbol>люци</Jotun_Horns.symbolPack.prefixSymbols.3.symbol>
+  <Jotun_Horns_skin.symbolPack.prefixSymbols.3.symbol>люци</Jotun_Horns_skin.symbolPack.prefixSymbols.3.symbol>
+  <Jotun_Horns_Small.symbolPack.prefixSymbols.3.symbol>люци</Jotun_Horns_Small.symbolPack.prefixSymbols.3.symbol>
+  <Jotun_Horns_Small_skin.symbolPack.prefixSymbols.3.symbol>люци</Jotun_Horns_Small_skin.symbolPack.prefixSymbols.3.symbol>
+  <BS_TrollHorns.symbolPack.prefixSymbols.3.symbol>люци</BS_TrollHorns.symbolPack.prefixSymbols.3.symbol>
+  <BS_Arching_Horns.symbolPack.prefixSymbols.3.symbol>люци</BS_Arching_Horns.symbolPack.prefixSymbols.3.symbol>
+  <BS_Arching_Horns_skin.symbolPack.prefixSymbols.3.symbol>люци</BS_Arching_Horns_skin.symbolPack.prefixSymbols.3.symbol>
+  <BS_TallJotunHorns.symbolPack.prefixSymbols.3.symbol>люци</BS_TallJotunHorns.symbolPack.prefixSymbols.3.symbol>
+  <BS_TallJotunHorns_Skin.symbolPack.prefixSymbols.3.symbol>люци</BS_TallJotunHorns_Skin.symbolPack.prefixSymbols.3.symbol>
+  <BS_StubbyDemonHorns.symbolPack.prefixSymbols.3.symbol>люци</BS_StubbyDemonHorns.symbolPack.prefixSymbols.3.symbol>
+  <BS_StubbyDemonHorns_Skin.symbolPack.prefixSymbols.3.symbol>люци</BS_StubbyDemonHorns_Skin.symbolPack.prefixSymbols.3.symbol>
+  <BS_ForwardArchingHorns.symbolPack.prefixSymbols.3.symbol>люци</BS_ForwardArchingHorns.symbolPack.prefixSymbols.3.symbol>
+  <BS_ForwardArchingHorns_Skin.symbolPack.prefixSymbols.3.symbol>люци</BS_ForwardArchingHorns_Skin.symbolPack.prefixSymbols.3.symbol>
+  <BS_TyrantCrown.symbolPack.prefixSymbols.3.symbol>люци</BS_TyrantCrown.symbolPack.prefixSymbols.3.symbol>
+  <BS_TyrantCrown_Skin.symbolPack.prefixSymbols.3.symbol>люци</BS_TyrantCrown_Skin.symbolPack.prefixSymbols.3.symbol>
+  <BS_SmallQuadHorns.symbolPack.prefixSymbols.3.symbol>люци</BS_SmallQuadHorns.symbolPack.prefixSymbols.3.symbol>
+  <BS_SmallQuadHorns_Skin.symbolPack.prefixSymbols.3.symbol>люци</BS_SmallQuadHorns_Skin.symbolPack.prefixSymbols.3.symbol>
+  <BS_HexaHorns.symbolPack.prefixSymbols.3.symbol>люци</BS_HexaHorns.symbolPack.prefixSymbols.3.symbol>
+  <BS_HexaHorns_Skin.symbolPack.prefixSymbols.3.symbol>люци</BS_HexaHorns_Skin.symbolPack.prefixSymbols.3.symbol>
+  <BS_OniHorns.symbolPack.prefixSymbols.3.symbol>люци</BS_OniHorns.symbolPack.prefixSymbols.3.symbol>
+  <BS_OniSingleHorn.symbolPack.prefixSymbols.3.symbol>люци</BS_OniSingleHorn.symbolPack.prefixSymbols.3.symbol>
+  <BS_DragonHorns.symbolPack.prefixSymbols.3.symbol>люци</BS_DragonHorns.symbolPack.prefixSymbols.3.symbol>
+  <Jotun_Horns.symbolPack.prefixSymbols.4.symbol>вельзе</Jotun_Horns.symbolPack.prefixSymbols.4.symbol>
+  <Jotun_Horns_skin.symbolPack.prefixSymbols.4.symbol>вельзе</Jotun_Horns_skin.symbolPack.prefixSymbols.4.symbol>
+  <Jotun_Horns_Small.symbolPack.prefixSymbols.4.symbol>вельзе</Jotun_Horns_Small.symbolPack.prefixSymbols.4.symbol>
+  <Jotun_Horns_Small_skin.symbolPack.prefixSymbols.4.symbol>вельзе</Jotun_Horns_Small_skin.symbolPack.prefixSymbols.4.symbol>
+  <BS_TrollHorns.symbolPack.prefixSymbols.4.symbol>вельзе</BS_TrollHorns.symbolPack.prefixSymbols.4.symbol>
+  <BS_Arching_Horns.symbolPack.prefixSymbols.4.symbol>вельзе</BS_Arching_Horns.symbolPack.prefixSymbols.4.symbol>
+  <BS_Arching_Horns_skin.symbolPack.prefixSymbols.4.symbol>вельзе</BS_Arching_Horns_skin.symbolPack.prefixSymbols.4.symbol>
+  <BS_TallJotunHorns.symbolPack.prefixSymbols.4.symbol>вельзе</BS_TallJotunHorns.symbolPack.prefixSymbols.4.symbol>
+  <BS_TallJotunHorns_Skin.symbolPack.prefixSymbols.4.symbol>вельзе</BS_TallJotunHorns_Skin.symbolPack.prefixSymbols.4.symbol>
+  <BS_StubbyDemonHorns.symbolPack.prefixSymbols.4.symbol>вельзе</BS_StubbyDemonHorns.symbolPack.prefixSymbols.4.symbol>
+  <BS_StubbyDemonHorns_Skin.symbolPack.prefixSymbols.4.symbol>вельзе</BS_StubbyDemonHorns_Skin.symbolPack.prefixSymbols.4.symbol>
+  <BS_ForwardArchingHorns.symbolPack.prefixSymbols.4.symbol>вельзе</BS_ForwardArchingHorns.symbolPack.prefixSymbols.4.symbol>
+  <BS_ForwardArchingHorns_Skin.symbolPack.prefixSymbols.4.symbol>вельзе</BS_ForwardArchingHorns_Skin.symbolPack.prefixSymbols.4.symbol>
+  <BS_TyrantCrown.symbolPack.prefixSymbols.4.symbol>вельзе</BS_TyrantCrown.symbolPack.prefixSymbols.4.symbol>
+  <BS_TyrantCrown_Skin.symbolPack.prefixSymbols.4.symbol>вельзе</BS_TyrantCrown_Skin.symbolPack.prefixSymbols.4.symbol>
+  <BS_SmallQuadHorns.symbolPack.prefixSymbols.4.symbol>вельзе</BS_SmallQuadHorns.symbolPack.prefixSymbols.4.symbol>
+  <BS_SmallQuadHorns_Skin.symbolPack.prefixSymbols.4.symbol>вельзе</BS_SmallQuadHorns_Skin.symbolPack.prefixSymbols.4.symbol>
+  <BS_HexaHorns.symbolPack.prefixSymbols.4.symbol>вельзе</BS_HexaHorns.symbolPack.prefixSymbols.4.symbol>
+  <BS_HexaHorns_Skin.symbolPack.prefixSymbols.4.symbol>вельзе</BS_HexaHorns_Skin.symbolPack.prefixSymbols.4.symbol>
+  <BS_OniHorns.symbolPack.prefixSymbols.4.symbol>вельзе</BS_OniHorns.symbolPack.prefixSymbols.4.symbol>
+  <BS_OniSingleHorn.symbolPack.prefixSymbols.4.symbol>вельзе</BS_OniSingleHorn.symbolPack.prefixSymbols.4.symbol>
+  <BS_DragonHorns.symbolPack.prefixSymbols.4.symbol>вельзе</BS_DragonHorns.symbolPack.prefixSymbols.4.symbol>
+  <Jotun_Horns.symbolPack.prefixSymbols.5.symbol>адо</Jotun_Horns.symbolPack.prefixSymbols.5.symbol>
+  <Jotun_Horns_skin.symbolPack.prefixSymbols.5.symbol>адо</Jotun_Horns_skin.symbolPack.prefixSymbols.5.symbol>
+  <Jotun_Horns_Small.symbolPack.prefixSymbols.5.symbol>адо</Jotun_Horns_Small.symbolPack.prefixSymbols.5.symbol>
+  <Jotun_Horns_Small_skin.symbolPack.prefixSymbols.5.symbol>адо</Jotun_Horns_Small_skin.symbolPack.prefixSymbols.5.symbol>
+  <BS_TrollHorns.symbolPack.prefixSymbols.5.symbol>адо</BS_TrollHorns.symbolPack.prefixSymbols.5.symbol>
+  <BS_Arching_Horns.symbolPack.prefixSymbols.5.symbol>адо</BS_Arching_Horns.symbolPack.prefixSymbols.5.symbol>
+  <BS_Arching_Horns_skin.symbolPack.prefixSymbols.5.symbol>адо</BS_Arching_Horns_skin.symbolPack.prefixSymbols.5.symbol>
+  <BS_TallJotunHorns.symbolPack.prefixSymbols.5.symbol>адо</BS_TallJotunHorns.symbolPack.prefixSymbols.5.symbol>
+  <BS_TallJotunHorns_Skin.symbolPack.prefixSymbols.5.symbol>адо</BS_TallJotunHorns_Skin.symbolPack.prefixSymbols.5.symbol>
+  <BS_StubbyDemonHorns.symbolPack.prefixSymbols.5.symbol>адо</BS_StubbyDemonHorns.symbolPack.prefixSymbols.5.symbol>
+  <BS_StubbyDemonHorns_Skin.symbolPack.prefixSymbols.5.symbol>адо</BS_StubbyDemonHorns_Skin.symbolPack.prefixSymbols.5.symbol>
+  <BS_ForwardArchingHorns.symbolPack.prefixSymbols.5.symbol>адо</BS_ForwardArchingHorns.symbolPack.prefixSymbols.5.symbol>
+  <BS_ForwardArchingHorns_Skin.symbolPack.prefixSymbols.5.symbol>адо</BS_ForwardArchingHorns_Skin.symbolPack.prefixSymbols.5.symbol>
+  <BS_TyrantCrown.symbolPack.prefixSymbols.5.symbol>адо</BS_TyrantCrown.symbolPack.prefixSymbols.5.symbol>
+  <BS_TyrantCrown_Skin.symbolPack.prefixSymbols.5.symbol>адо</BS_TyrantCrown_Skin.symbolPack.prefixSymbols.5.symbol>
+  <BS_SmallQuadHorns.symbolPack.prefixSymbols.5.symbol>адо</BS_SmallQuadHorns.symbolPack.prefixSymbols.5.symbol>
+  <BS_SmallQuadHorns_Skin.symbolPack.prefixSymbols.5.symbol>адо</BS_SmallQuadHorns_Skin.symbolPack.prefixSymbols.5.symbol>
+  <BS_HexaHorns.symbolPack.prefixSymbols.5.symbol>адо</BS_HexaHorns.symbolPack.prefixSymbols.5.symbol>
+  <BS_HexaHorns_Skin.symbolPack.prefixSymbols.5.symbol>адо</BS_HexaHorns_Skin.symbolPack.prefixSymbols.5.symbol>
+  <BS_OniHorns.symbolPack.prefixSymbols.5.symbol>адо</BS_OniHorns.symbolPack.prefixSymbols.5.symbol>
+  <BS_OniSingleHorn.symbolPack.prefixSymbols.5.symbol>адо</BS_OniSingleHorn.symbolPack.prefixSymbols.5.symbol>
+  <BS_DragonHorns.symbolPack.prefixSymbols.5.symbol>адо</BS_DragonHorns.symbolPack.prefixSymbols.5.symbol>
+  <Jotun_Horns.symbolPack.suffixSymbols.1.symbol>вил</Jotun_Horns.symbolPack.suffixSymbols.1.symbol>
+  <Jotun_Horns_skin.symbolPack.suffixSymbols.1.symbol>вил</Jotun_Horns_skin.symbolPack.suffixSymbols.1.symbol>
+  <Jotun_Horns_Small.symbolPack.suffixSymbols.1.symbol>вил</Jotun_Horns_Small.symbolPack.suffixSymbols.1.symbol>
+  <Jotun_Horns_Small_skin.symbolPack.suffixSymbols.1.symbol>вил</Jotun_Horns_Small_skin.symbolPack.suffixSymbols.1.symbol>
+  <BS_TrollHorns.symbolPack.suffixSymbols.1.symbol>вил</BS_TrollHorns.symbolPack.suffixSymbols.1.symbol>
+  <BS_Arching_Horns.symbolPack.suffixSymbols.1.symbol>вил</BS_Arching_Horns.symbolPack.suffixSymbols.1.symbol>
+  <BS_Arching_Horns_skin.symbolPack.suffixSymbols.1.symbol>вил</BS_Arching_Horns_skin.symbolPack.suffixSymbols.1.symbol>
+  <BS_TallJotunHorns.symbolPack.suffixSymbols.1.symbol>вил</BS_TallJotunHorns.symbolPack.suffixSymbols.1.symbol>
+  <BS_TallJotunHorns_Skin.symbolPack.suffixSymbols.1.symbol>вил</BS_TallJotunHorns_Skin.symbolPack.suffixSymbols.1.symbol>
+  <BS_StubbyDemonHorns.symbolPack.suffixSymbols.1.symbol>вил</BS_StubbyDemonHorns.symbolPack.suffixSymbols.1.symbol>
+  <BS_StubbyDemonHorns_Skin.symbolPack.suffixSymbols.1.symbol>вил</BS_StubbyDemonHorns_Skin.symbolPack.suffixSymbols.1.symbol>
+  <BS_ForwardArchingHorns.symbolPack.suffixSymbols.1.symbol>вил</BS_ForwardArchingHorns.symbolPack.suffixSymbols.1.symbol>
+  <BS_ForwardArchingHorns_Skin.symbolPack.suffixSymbols.1.symbol>вил</BS_ForwardArchingHorns_Skin.symbolPack.suffixSymbols.1.symbol>
+  <BS_TyrantCrown.symbolPack.suffixSymbols.1.symbol>вил</BS_TyrantCrown.symbolPack.suffixSymbols.1.symbol>
+  <BS_TyrantCrown_Skin.symbolPack.suffixSymbols.1.symbol>вил</BS_TyrantCrown_Skin.symbolPack.suffixSymbols.1.symbol>
+  <BS_SmallQuadHorns.symbolPack.suffixSymbols.1.symbol>вил</BS_SmallQuadHorns.symbolPack.suffixSymbols.1.symbol>
+  <BS_SmallQuadHorns_Skin.symbolPack.suffixSymbols.1.symbol>вил</BS_SmallQuadHorns_Skin.symbolPack.suffixSymbols.1.symbol>
+  <BS_HexaHorns.symbolPack.suffixSymbols.1.symbol>вил</BS_HexaHorns.symbolPack.suffixSymbols.1.symbol>
+  <BS_HexaHorns_Skin.symbolPack.suffixSymbols.1.symbol>вил</BS_HexaHorns_Skin.symbolPack.suffixSymbols.1.symbol>
+  <BS_OniHorns.symbolPack.suffixSymbols.1.symbol>вил</BS_OniHorns.symbolPack.suffixSymbols.1.symbol>
+  <BS_OniSingleHorn.symbolPack.suffixSymbols.1.symbol>вил</BS_OniSingleHorn.symbolPack.suffixSymbols.1.symbol>
+  <BS_DragonHorns.symbolPack.suffixSymbols.1.symbol>вил</BS_DragonHorns.symbolPack.suffixSymbols.1.symbol>
+  <Jotun_Horns_skin.label>рога йотуна цвета кожи</Jotun_Horns_skin.label>
+  <Jotun_Horns_skin.description>У носителей этого гена большие внушительные рога того же цвета, что и кожа.</Jotun_Horns_skin.description>
+  <Jotun_Horns_Small.label>маленькие рога йотуна</Jotun_Horns_Small.label>
+  <Jotun_Horns_Small.description>У носителей этого гена два маленьких рога.</Jotun_Horns_Small.description>
+  <Jotun_Horns_Small_skin.label>маленькие рога йотуна цвета кожи</Jotun_Horns_Small_skin.label>
+  <Jotun_Horns_Small_skin.description>У носителей этого гена два маленьких рога того же цвета, что и кожа.</Jotun_Horns_Small_skin.description>
+  <BS_TrollHorns.label>рога тролля</BS_TrollHorns.label>
+  <BS_TrollHorns.description>У носителей этого гена два рога, похожих на ветви.</BS_TrollHorns.description>
+  <BS_Arching_Horns.label>дугообразные рога</BS_Arching_Horns.label>
+  <BS_Arching_Horns.description>У носителей этого гена два дугообразных рога, окрашенных в тон волос.</BS_Arching_Horns.description>
+  <BS_Arching_Horns_skin.label>дугообразные рога цвета кожи</BS_Arching_Horns_skin.label>
+  <BS_Arching_Horns_skin.description>У носителей этого гена два дугообразных рога того же цвета, что и кожа.</BS_Arching_Horns_skin.description>
+  <BS_TallJotunHorns.label>высокие рога йотуна</BS_TallJotunHorns.label>
+  <BS_TallJotunHorns.description>У носителей этого гена большие внушительные рога.</BS_TallJotunHorns.description>
+  <BS_TallJotunHorns_Skin.label>высокие рога йотуна цвета кожи</BS_TallJotunHorns_Skin.label>
+  <BS_TallJotunHorns_Skin.description>У носителей этого гена длинные внушительные рога того же цвета, что и кожа.</BS_TallJotunHorns_Skin.description>
+  <BS_StubbyDemonHorns.label>короткие рога демона</BS_StubbyDemonHorns.label>
+  <BS_StubbyDemonHorns.description>У носителей этого гена короткие рога.</BS_StubbyDemonHorns.description>
+  <BS_StubbyDemonHorns_Skin.label>короткие рога демона цвета кожи</BS_StubbyDemonHorns_Skin.label>
+  <BS_StubbyDemonHorns_Skin.description>У носителей этого гена короткие рога того же цвета, что и кожа.</BS_StubbyDemonHorns_Skin.description>
+  <BS_ForwardArchingHorns.label>загнутые вперёд рога</BS_ForwardArchingHorns.label>
+  <BS_ForwardArchingHorns.description>У носителей этого гена изогнутые рога.</BS_ForwardArchingHorns.description>
+  <BS_ForwardArchingHorns_Skin.label>загнутые вперёд рога цвета кожи</BS_ForwardArchingHorns_Skin.label>
+  <BS_ForwardArchingHorns_Skin.description>У носителей этого гена изогнутые рога того же цвета, что и кожа.</BS_ForwardArchingHorns_Skin.description>
+  <BS_DragonHorns.description>У носителей этого гена изогнутые рога того же цвета, что и кожа.</BS_DragonHorns.description>
+  <BS_TyrantCrown.label>корона тирана</BS_TyrantCrown.label>
+  <BS_TyrantCrown.description>У носителей этого гена рога, похожие на бычьи.</BS_TyrantCrown.description>
+  <BS_TyrantCrown_Skin.label>корона тирана цвета кожи</BS_TyrantCrown_Skin.label>
+  <BS_TyrantCrown_Skin.description>У носителей этого гена рога, похожие на бычьи.</BS_TyrantCrown_Skin.description>
+  <BS_SmallQuadHorns.label>четыре рога</BS_SmallQuadHorns.label>
+  <BS_SmallQuadHorns.description>У носителей этого гена две пары рогов.</BS_SmallQuadHorns.description>
+  <BS_SmallQuadHorns_Skin.label>четыре рога цвета кожи</BS_SmallQuadHorns_Skin.label>
+  <BS_SmallQuadHorns_Skin.description>У носителей этого гена две пары рогов того же цвета, что и кожа.</BS_SmallQuadHorns_Skin.description>
+  <BS_HexaHorns.label>шесть рогов демона</BS_HexaHorns.label>
+  <BS_HexaHorns.description>У носителей этого гена три пары рогов.</BS_HexaHorns.description>
+  <BS_HexaHorns_Skin.label>шесть рогов демона цвета кожи</BS_HexaHorns_Skin.label>
+  <BS_HexaHorns_Skin.description>У носителей этого гена три пары рогов того же цвета, что и кожа.</BS_HexaHorns_Skin.description>
+  <BS_OniHorns.label>рога они</BS_OniHorns.label>
+  <BS_OniHorns.description>У носителей этого гена устрашающие рога они.</BS_OniHorns.description>
+  <BS_OniSingleHorn.label>одиночный рог они</BS_OniSingleHorn.label>
+  <BS_OniSingleHorn.description>У носителей этого гена один устрашающий рог они.</BS_OniSingleHorn.description>
+  <BS_DragonHorns.label>драконьи рога цвета кожи</BS_DragonHorns.label>
+  <BS_TrollNose.label>нос тролля</BS_TrollNose.label>
+  <BS_TrollNose.description>У носителей этого гена иногда вырастает большой нос, особенно с возрастом.</BS_TrollNose.description>
+  <BS_TrollNose.symbolPack.prefixSymbols.0.symbol>больше</BS_TrollNose.symbolPack.prefixSymbols.0.symbol>
+  <BS_TrollNoseAlways.symbolPack.prefixSymbols.0.symbol>больше</BS_TrollNoseAlways.symbolPack.prefixSymbols.0.symbol>
+  <BS_TrollNose.symbolPack.suffixSymbols.0.symbol>нос</BS_TrollNose.symbolPack.suffixSymbols.0.symbol>
+  <BS_TrollNoseAlways.symbolPack.suffixSymbols.0.symbol>нос</BS_TrollNoseAlways.symbolPack.suffixSymbols.0.symbol>
+  <BS_TrollNoseAlways.label>неизменный нос тролля</BS_TrollNoseAlways.label>
+  <BS_TrollNoseAlways.description>У носителей этого гена большой нос.</BS_TrollNoseAlways.description>
+  <BS_DemonTail.label>ловкий демонический хвост</BS_DemonTail.label>
+  <BS_DemonTail.description>У носителей этого гена вырастает мощный хвост демонического вида.</BS_DemonTail.description>
+  <VU_DarknessWoundHealing_Fast.label>быстрое заживление в темноте</VU_DarknessWoundHealing_Fast.label>
+  <VU_DarknessWoundHealing_Fast.description>Раны носителей этого гена заживают с пугающей скоростью ночью, но плохо заживают днём, особенно под солнечным светом.</VU_DarknessWoundHealing_Fast.description>
+  <VU_DarknessWoundHealing_Fast.labelShortAdj>быстро заживающий</VU_DarknessWoundHealing_Fast.labelShortAdj>
+  <VU_DarknessWoundHealing_UltraFast.labelShortAdj>быстро заживающий</VU_DarknessWoundHealing_UltraFast.labelShortAdj>
+  <VU_DarknessWoundHealing_UltraFast.label>сверхбыстрое заживление в темноте</VU_DarknessWoundHealing_UltraFast.label>
+  <VU_DarknessWoundHealing_UltraFast.description>Раны носителей этого гена заживают с невероятной скоростью под покровом темноты, но медленно заживают днём, особенно под солнечным светом.</VU_DarknessWoundHealing_UltraFast.description>
+  <VU_DarknessMelee.label>ближний бой в темноте</VU_DarknessMelee.label>
+  <VU_DarknessMelee.description>Носители этого гена наносят больше урона в ближнем бою ночью. На улице под солнцем они значительно слабеют.</VU_DarknessMelee.description>
+  <VU_DarknessMelee_Strong.label>усиленный ближний бой в темноте</VU_DarknessMelee_Strong.label>
+  <VU_DarknessMelee_Strong.description>Носители этого гена наносят больше урона в ближнем бою ночью. Днём они слабее, особенно под солнечным светом.</VU_DarknessMelee_Strong.description>
+  <VU_Darkness_MoveSpeed_Quick.label>быстрое движение в темноте</VU_Darkness_MoveSpeed_Quick.label>
+  <VU_Darkness_MoveSpeed_Quick.description>Носители этого гена двигаются быстрее обычного после наступления ночи, но медленнее днём, особенно под солнечным светом.</VU_Darkness_MoveSpeed_Quick.description>
+  <VU_Darkness_MoveSpeed_VeryQuick.label>очень быстрое движение в темноте</VU_Darkness_MoveSpeed_VeryQuick.label>
+  <VU_Darkness_MoveSpeed_VeryQuick.description>Носители этого гена двигаются гораздо быстрее обычного после наступления ночи, но медленнее днём, особенно под солнечным светом.</VU_Darkness_MoveSpeed_VeryQuick.description>
+  <JotunFrame.label>телосложение йотуна</JotunFrame.label>
+  <JotunFrame.description>Носители этого гена вырастают до внушительных размеров, сохраняя при этом достаточную ловкость.</JotunFrame.description>
+  <HalfJotunFrame.label>телосложение полуйотуна</HalfJotunFrame.label>
+  <HalfJotunFrame.description>Носители этого гена вырастают гораздо крупнее базовых людей и обладают удивительными скоростью и силой.</HalfJotunFrame.description>
+  <BS_LargeFrame.label>крупное телосложение</BS_LargeFrame.label>
+  <BS_LargeFrame.description>Носители этого гена вырастают крупнее базовых людей. По размерам они сопоставимы с базовым человеком, страдающим гигантизмом, но без связанных с ним проблем со здоровьем.</BS_LargeFrame.description>
+  <HalfColossusFrame.label>телосложение полуколосса</HalfColossusFrame.label>
+  <HalfColossusFrame.description>Носители этого гена вырастают гораздо крупнее и массивнее базовых людей. Они невероятно сильны, но им недостаёт ловкости.</HalfColossusFrame.description>
+  <OgreFrame.label>телосложение огра</OgreFrame.label>
+  <OgreFrame.description>Носители этого гена вырастают большими и неповоротливыми. Они неуклюжи, а размеры вызывают проблемы со здоровьем. Массивное тело сильно затрудняет движение, особенно в тяжёлой броне. Зато они удивительно крепки.</OgreFrame.description>
+  <GreatOgreFrame.label>телосложение огромного огра</GreatOgreFrame.label>
+  <GreatOgreFrame.description>Носители этого гена вырастают огромными и неповоротливыми. Они неуклюжи, а размеры вызывают проблемы со здоровьем. Массивное тело сильно затрудняет движение, особенно в тяжёлой броне. Зато они удивительно крепки.</GreatOgreFrame.description>
+  <TitanFrame.label>телосложение титана</TitanFrame.label>
+  <TitanFrame.description>Носители этого гена достигают немыслимых размеров, возможных лишь благодаря архитным технологиям. Они слишком велики, чтобы эффективно пользоваться силовой бронёй и экзоскелетами, поэтому их тела изнутри перестроены и заполнены бионическими системами. Эти огромные тела также поддерживают громадные дозы препарата, похожего на люциферий, и энергетические ядра с миров-утопий.
+
+Рекомендуются ядерный желудок и подобные средства.</TitanFrame.description>
+  <BS_EndlessGrowth.label>бесконечный рост</BS_EndlessGrowth.label>
+  <BS_EndlessGrowth.description>Носители этого гена вырастают до немыслимых размеров.</BS_EndlessGrowth.description>
+  <DwarfFrame.label>телосложение дворфа</DwarfFrame.label>
+  <DwarfFrame.description>Взрослые носители этого гена невысоки, но довольно коренасты.</DwarfFrame.description>
+  <BS_SmallFrame.label>маленькое телосложение</BS_SmallFrame.label>
+  <BS_SmallFrame.description>Взрослые носители этого гена едва выше детей, но очень быстры для своих размеров.</BS_SmallFrame.description>
+  <GnomeFrame.label>телосложение ниссе</GnomeFrame.label>
+  <GnomeFrame.description>Носители этого гена крошечные, но удивительно ловкие и способные для своих размеров.</GnomeFrame.description>
+  <BS_RabbitFrame.label>телосложение кролика</BS_RabbitFrame.label>
+  <BS_RabbitFrame.description>Носители этого гена крошечные, но, несмотря на размеры, удивительно быстрые.</BS_RabbitFrame.description>
+  <BS_AriettyFrame.label>неприлично крошечное телосложение</BS_AriettyFrame.label>
+  <BS_AriettyFrame.description>Носители этого гена махонькие-премахонькие. Просто до неприличия крошечные. Настолько маленькие, что без вмешательства архотека тут не обошлось.
+
+Возможно, именно этим объясняются и их невероятные для такого размера способности.
+
+Ген добавлен по многочисленным просьбам и, вероятно, не слишком хорошо сбалансирован. Сочетайте его с чем-нибудь вроде «Стойкости малютки», если не хотите, чтобы носителя убил порыв ветра.</BS_AriettyFrame.description>
+  <Gigantism.label>гигантизм</Gigantism.label>
+  <Gigantism.description>Носители этого гена страдают генетическим гигантизмом.</Gigantism.description>
+  <Large.label>увеличенный размер</Large.label>
+  <Large.description>Носители этого гена генетически изменены, чтобы быть крупнее.</Large.description>
+  <Small.label>уменьшенный размер</Small.label>
+  <Small.description>Носители этого гена генетически изменены, чтобы быть немного меньше.</Small.description>
+  <Dwarfism.label>карликовость</Dwarfism.label>
+  <Dwarfism.description>Носители этого гена страдают генетической карликовостью.</Dwarfism.description>
+  <VU_SuccubusBloodFeeder.label>кровопийца: демон</VU_SuccubusBloodFeeder.label>
+  <VU_SuccubusBloodFeeder.description>У носителей этого гена есть небольшие выдвижные клыки и орган на нёбе, извлекающий гемоген из свежей тёплой крови. Они могут укусить не сопротивляющегося человека, высосать кровь и получить гемоген напрямую.
+Носители этого гена также склонны кусать своих любовников.</VU_SuccubusBloodFeeder.description>
+  <VU_SuccubusBloodFeeder.symbolPack.prefixSymbols.0.symbol>гемо</VU_SuccubusBloodFeeder.symbolPack.prefixSymbols.0.symbol>
+  <VU_SuccubusBloodFeeder.symbolPack.prefixSymbols.1.symbol>крово</VU_SuccubusBloodFeeder.symbolPack.prefixSymbols.1.symbol>
+  <VU_SuccubusBloodFeeder.symbolPack.prefixSymbols.2.symbol>вамп</VU_SuccubusBloodFeeder.symbolPack.prefixSymbols.2.symbol>
+  <VU_SuccubusBloodFeeder.symbolPack.prefixSymbols.3.symbol>клыко</VU_SuccubusBloodFeeder.symbolPack.prefixSymbols.3.symbol>
+  <VU_SuccubusBloodFeeder.symbolPack.suffixSymbols.0.symbol>клыко</VU_SuccubusBloodFeeder.symbolPack.suffixSymbols.0.symbol>
+  <VU_SuccubusBloodFeeder.symbolPack.suffixSymbols.1.symbol>ед</VU_SuccubusBloodFeeder.symbolPack.suffixSymbols.1.symbol>
+  <VU_SuccubusBloodFeeder.symbolPack.suffixSymbols.2.symbol>уб</VU_SuccubusBloodFeeder.symbolPack.suffixSymbols.2.symbol>
+  <VU_SuccubusBloodFeeder.symbolPack.wholeNameSymbols.0.symbol>кровопийца</VU_SuccubusBloodFeeder.symbolPack.wholeNameSymbols.0.symbol>
+  <VU_Libido_Succubus.label>очень высокое либидо</VU_Libido_Succubus.label>
+  <VU_Libido_Succubus.description>Носители этого гена почти не упускают возможности заняться любовью.</VU_Libido_Succubus.description>
+  <VU_LethalLover.label>паразитическая связь</VU_LethalLover.label>
+  <VU_LethalLover.description>Носители этого гена образуют со своими любовниками паразитическую пси-связь. Смерть носителя становится для партнёров тяжелейшим ударом.</VU_LethalLover.description>
+  <BS_MajesticBird.label>величественные птичьи крылья: большие</BS_MajesticBird.label>
+  <BS_MajesticBird.description>У носителей этого гена ангельские крылья.</BS_MajesticBird.description>
+  <BS_MajesticBird_Mid.description>У носителей этого гена ангельские крылья.</BS_MajesticBird_Mid.description>
+  <BS_AngelWings.description>У носителей этого гена ангельские крылья.</BS_AngelWings.description>
+  <BS_AngelWings_Mid.description>У носителей этого гена ангельские крылья.</BS_AngelWings_Mid.description>
+  <BS_MajesticBird.symbolPack.prefixSymbols.0.symbol>крылатый</BS_MajesticBird.symbolPack.prefixSymbols.0.symbol>
+  <BS_MajesticBird_Mid.symbolPack.prefixSymbols.0.symbol>крылатый</BS_MajesticBird_Mid.symbolPack.prefixSymbols.0.symbol>
+  <BS_AngelWings.symbolPack.prefixSymbols.0.symbol>крылатый</BS_AngelWings.symbolPack.prefixSymbols.0.symbol>
+  <BS_AngelWings_Mid.symbolPack.prefixSymbols.0.symbol>крылатый</BS_AngelWings_Mid.symbolPack.prefixSymbols.0.symbol>
+  <BS_GoldenGorgonWings.symbolPack.prefixSymbols.0.symbol>крылатый</BS_GoldenGorgonWings.symbolPack.prefixSymbols.0.symbol>
+  <BS_GracefulAngelwings.symbolPack.prefixSymbols.0.symbol>крылатый</BS_GracefulAngelwings.symbolPack.prefixSymbols.0.symbol>
+  <BS_HolyAngelwings.symbolPack.prefixSymbols.0.symbol>крылатый</BS_HolyAngelwings.symbolPack.prefixSymbols.0.symbol>
+  <BS_MenacingAngelwings.symbolPack.prefixSymbols.0.symbol>крылатый</BS_MenacingAngelwings.symbolPack.prefixSymbols.0.symbol>
+  <BS_DemonAngelwings.symbolPack.prefixSymbols.0.symbol>крылатый</BS_DemonAngelwings.symbolPack.prefixSymbols.0.symbol>
+  <BS_SmallDemonWings.symbolPack.prefixSymbols.0.symbol>крылатый</BS_SmallDemonWings.symbolPack.prefixSymbols.0.symbol>
+  <BS_LargeDemonWings.symbolPack.prefixSymbols.0.symbol>крылатый</BS_LargeDemonWings.symbolPack.prefixSymbols.0.symbol>
+  <BS_AncientDemonWings.symbolPack.prefixSymbols.0.symbol>крылатый</BS_AncientDemonWings.symbolPack.prefixSymbols.0.symbol>
+  <BS_MajesticBird_Mid.label>величественные птичьи крылья</BS_MajesticBird_Mid.label>
+  <BS_AngelWings.label>крылья ангельского вестника: большие</BS_AngelWings.label>
+  <BS_AngelWings_Mid.label>крылья ангельского вестника</BS_AngelWings_Mid.label>
+  <BS_GoldenGorgonWings.label>золотые крылья горгоны</BS_GoldenGorgonWings.label>
+  <BS_GoldenGorgonWings.description>У носителей этого гена огромные божественные золотые крылья.</BS_GoldenGorgonWings.description>
+  <BS_GracefulAngelwings.label>изящные ангельские крылья</BS_GracefulAngelwings.label>
+  <VU_GreaterHemogenDrain.description>Из-за биологического распада носители этого гена теряют дополнительно 16 единиц гемогена в день.</VU_GreaterHemogenDrain.description>
+  <VU_GreaterHemogenDrain.labelShortAdj>кровоистощающий</VU_GreaterHemogenDrain.labelShortAdj>
+  <VU_GreaterHemogenDrain.resourceLabel>гемоген</VU_GreaterHemogenDrain.resourceLabel>
+  <VU_VampireLover.label>кормление любовью</VU_VampireLover.label>
+  <VU_VampireLover.description>Носители этого гена имеют неприятную привычку кусать своих любовников.</VU_VampireLover.description>
+  <BS_SlimeAttack.label>кислотная атака</BS_SlimeAttack.label>
+  <BS_SlimeAttack.description>Носители этого гена могут атаковать едкой липкой кислотой.</BS_SlimeAttack.description>
+  <LoS_VenomTalons.label>ядовитые когти</LoS_VenomTalons.label>
+  <LoS_VenomTalons.description>Носители этого гена обладают опасными ядовитыми когтями, которые хорошо проникают в сочленения брони.
+
+Строго говоря, выделяемое вещество скорее едкое, чем ядовитое. Когти замедляют большинство видов работы.</LoS_VenomTalons.description>
+  <BS_Talons.label>когти</BS_Talons.label>
+  <BS_Talons.description>Носители этого гена обладают опасными когтями, которые хорошо проникают в сочленения брони.</BS_Talons.description>
+  <BS_FeedingFrenzy.label>ненасытное пожирание</BS_FeedingFrenzy.label>
+  <BS_FeedingFrenzy.description>Носители этого гена набрасываются на врагов, словно голодные сверхзомби.
+
+Они атакуют очень часто, но слабо пробивают броню. Даже получив более эффективное оружие, они часто используют своё естественное оружие и чаще добивают упавших противников.</BS_FeedingFrenzy.description>
+  <BS_Metamorph_TimeTeenage.label>метаморфоза в подростковом возрасте</BS_Metamorph_TimeTeenage.label>
+  <BS_Metamorph_TimeTeenage.description>Вскоре после наступления подросткового возраста носитель этого гена переходит в одну из форм метаморфозы.</BS_Metamorph_TimeTeenage.description>
+  <BS_Retromorph_TimeUnderTeenage.label>обратная метаморфоза до подросткового возраста</BS_Retromorph_TimeUnderTeenage.label>
+  <BS_Retromorph_TimeUnderTeenage.description>Если носитель этого гена ещё не достиг подросткового возраста, через некоторое время он переходит в одну из предыдущих форм.</BS_Retromorph_TimeUnderTeenage.description>
+  <BS_Metamorph_TimeAdult.label>метаморфоза во взрослом возрасте</BS_Metamorph_TimeAdult.label>
+  <BS_Metamorph_TimeAdult.description>Вскоре после взросления носитель этого гена переходит в одну из форм метаморфозы.</BS_Metamorph_TimeAdult.description>
+  <BS_Retromorph_TimeUnderAdult.label>обратная метаморфоза до взросления</BS_Retromorph_TimeUnderAdult.label>
+  <BS_Retromorph_TimeUnderAdult.description>Если носитель этого гена ещё не достиг взрослого возраста, через некоторое время он переходит в одну из предыдущих форм.</BS_Retromorph_TimeUnderAdult.description>
+  <BS_Metamorph_TimeElder.label>метаморфоза в старости</BS_Metamorph_TimeElder.label>
+  <BS_Metamorph_TimeElder.description>Приближаясь к пожилому по человеческим меркам возрасту, носитель этого гена вскоре переходит в одну из форм метаморфозы.</BS_Metamorph_TimeElder.description>
+  <BS_Retromorph_TimeUnderElder.label>обратная метаморфоза до старости</BS_Retromorph_TimeUnderElder.label>
+  <BS_Retromorph_TimeUnderElder.description>Если носитель этого гена ещё не достиг пожилого по человеческим меркам возраста, через некоторое время он переходит в одну из предыдущих форм.</BS_Retromorph_TimeUnderElder.description>
+  <BS_Metamorph_Pregnant.label>метаморфоза при беременности</BS_Metamorph_Pregnant.label>
+  <BS_Metamorph_Pregnant.description>Носитель этого гена меняет форму при наступлении беременности.</BS_Metamorph_Pregnant.description>
+  <BS_Metamorph_Day.label>дневная метаморфоза</BS_Metamorph_Day.label>
+  <BS_Metamorph_Day.description>Носитель этого гена меняет форму днём.</BS_Metamorph_Day.description>
+  <BS_Metamorph_Night.label>ночная метаморфоза</BS_Metamorph_Night.label>
+  <BS_Metamorph_Night.description>Носитель этого гена меняет форму ночью.</BS_Metamorph_Night.description>
+  <BS_ConsumeSoul.label>поглощение души</BS_ConsumeSoul.label>
+  <BS_ConsumeSoul.description>Позволяет высасывать сущность поверженного врага, убивая его. Способность даёт силу души и похищает небольшую часть наиболее развитого навыка жертвы. По мере накопления отдача снижается. Эффект гораздо сильнее против целей с психочувствительностью выше 100%, большим числом архогенов или собственной силой души.</BS_ConsumeSoul.description>
+  <BS_ConsumeSoul_Enslave.label>поглощение души: оболочка</BS_ConsumeSoul_Enslave.label>
+  <BS_ConsumeSoul_Enslave.description>Позволяет высасывать сущность поверженного врага, подчиняя его. Способность даёт силу души и похищает небольшую часть наиболее развитого навыка жертвы. По мере накопления отдача снижается. Эффект гораздо сильнее против целей с психочувствительностью выше 100%, большим числом архогенов или собственной силой души.
+
+Без Ideology цель вместо порабощения становится пленником с нулевым сопротивлением вербовке.</BS_ConsumeSoul_Enslave.description>
+  <BS_ConsumeSoulOnHit.label>поглощение души в ближнем бою</BS_ConsumeSoulOnHit.label>
+  <BS_ConsumeSoulOnHit.description>Смертельный удар в ближнем бою вызывает поглощение души. В отличие от обычной способности, этот вариант похищает лишь крошечную часть навыка жертвы.
+
+Эффект гораздо сильнее против целей с высокой психочувствительностью.</BS_ConsumeSoulOnHit.description>
+  <BS_GainSoulOnRecruit.label>сила почитания</BS_GainSoulOnRecruit.label>
+  <BS_GainSoulOnRecruit.description>Покоряя сердца и умы, вы питаете свою душу. Буквально.
+
+Вербовка новых членов фракции усиливает вас и позволяет поглощать часть их навыков.
+
+Ради общего блага! Наверное!
+
+Эффект гораздо сильнее против целей с высокой психочувствительностью и архогенами.</BS_GainSoulOnRecruit.description>
+  <BS_GainSoulOnLovin.label>поглощение души при близости</BS_GainSoulOnLovin.label>
+  <BS_GainSoulOnLovin.description>Носители этого гена поглощают душу и разум партнёра во время занятий любовью.
+
+Особенно сильно похищает навыки.
+
+К добру или к худу, эффект гораздо сильнее против целей с высокой психочувствительностью и архогенами.</BS_GainSoulOnLovin.description>
+  <BS_SoulSiphonEfficiency.label>эффективное поглощение души</BS_SoulSiphonEfficiency.label>
+  <BS_SoulSiphonEfficiency.description>Носители этого гена гораздо эффективнее поглощают духовную энергию любым способом.
+
+Без способности добывать силу души от гена мало пользы.</BS_SoulSiphonEfficiency.description>
+  <BS_SoulPower.label>крупица силы души</BS_SoulPower.label>
+  <BS_SoulPower.description>Носители этого гена от природы обладают небольшой силой души. Её можно увеличивать с помощью тёмных архотехнологических осколков; для их изготовления требуется Anomaly.</BS_SoulPower.description>
+  <BS_SoulPowerGreat.label>сила души</BS_SoulPowerGreat.label>
+  <BS_SoulPowerGreat.description>Носители этого гена от природы обладают значительной силой души. Её можно увеличивать с помощью тёмных архотехнологических осколков; для их изготовления требуется Anomaly.</BS_SoulPowerGreat.description>
+  <BS_AnomalousPsychicPower.label>созвучие души</BS_AnomalousPsychicPower.label>
+  <BS_AnomalousPsychicPower.description>Усиливает пси-возможности в зависимости от силы души. Совместим с другими генами, усиливающими пси-возможности.</BS_AnomalousPsychicPower.description>
+  <BS_AnomalousForm.label>воплощение души</BS_AnomalousForm.label>
+  <BS_AnomalousForm.description>Форма и размер этого существа определяются его силой души. Если сила души не превышает 0%, ген не действует.</BS_AnomalousForm.description>
+  <BS_HealingWithSoul.label>восстановление силой души</BS_HealingWithSoul.label>
+  <BS_HealingWithSoul.description>Повышает скорость заживления в зависимости от силы души.</BS_HealingWithSoul.description>
+  <BS_TrueForm_Angelic.label>истинная форма: ангельская</BS_TrueForm_Angelic.label>
+  <BS_TrueForm_Angelic.description>Носители этого гена могут временно принимать более крупную и могущественную форму. Её мощь зависит от силы души. Вырастают великолепные пернатые крылья и нимб, повышается устойчивость к ранениям и появляется временная защита от смерти.</BS_TrueForm_Angelic.description>
+  <BS_TrueForm_Demonic.label>истинная форма: демоническая</BS_TrueForm_Demonic.label>
+  <BS_TrueForm_Demonic.description>Носители этого гена могут временно принимать более крупную и могущественную форму. Её мощь зависит от силы души. Вырастают устрашающие крылья и когти, появляется огненное дыхание.</BS_TrueForm_Demonic.description>
+  <BS_TrueForm_Goliath.label>форма голиафа</BS_TrueForm_Goliath.label>
+  <BS_TrueForm_Goliath.description>Носители этого гена могут временно принимать более крупную и могущественную форму. Её мощь зависит от силы души. В форме голиафа существо становится невероятно стойким.</BS_TrueForm_Goliath.description>
+  <BS_TrueForm_Demonic_Hemo.label>истинная форма: демоническая, гемогенная</BS_TrueForm_Demonic_Hemo.label>
+  <BS_TrueForm_Demonic_Hemo.description>Носители этого гена могут временно принимать более крупную и могущественную форму. Её мощь зависит от силы души. Вырастают устрашающие крылья и когти, появляется огненное дыхание.
+
+Этот гемогенный вариант позволяет тратить ресурсы, чтобы быстрее повторно применять способности истинной формы и сбрасывать их перезарядку.</BS_TrueForm_Demonic_Hemo.description>
+  <BS_BrokenTitanBody.label>кибернетическое тело урба</BS_BrokenTitanBody.label>
+  <BS_BrokenTitanBody.description>Тело носителей этого гена частично состоит из механизмов. Принудительно задаёт мощное телосложение.</BS_BrokenTitanBody.description>
+  <BS_BrokenTitanBody.labelShortAdj>тело урба</BS_BrokenTitanBody.labelShortAdj>
+  <BS_OgreBody.label>тело огра</BS_OgreBody.label>
+  <BS_OgreBody.description>У носителей этого гена тучное тело огра.</BS_OgreBody.description>
+  <BS_OgreBody.labelShortAdj>тело огра</BS_OgreBody.labelShortAdj>
+  <BS_MimicBody.label>тело чудовищного обжоры</BS_MimicBody.label>
+  <BS_MimicBody.description>У носителей этого гена тело, словно у ужасающего демона чревоугодия.</BS_MimicBody.description>
+  <BS_DessicatedBody.label>скелетообразное тело</BS_DessicatedBody.label>
+  <BS_DessicatedBody.description>Голова и тело носителей этого гена выглядят как у высохшего трупа.</BS_DessicatedBody.description>
+  <BS_DessicatedBodyWithHair.label>скелетообразное тело с волосами</BS_DessicatedBodyWithHair.label>
+  <BS_DessicatedBodyWithHair.description>Голова и тело носителей этого гена выглядят как у высохшего трупа. Волосы сохраняются.</BS_DessicatedBodyWithHair.description>
+  <BS_DessicatedBodyWithGreyHair.label>скелетообразное тело с выцветшими волосами</BS_DessicatedBodyWithGreyHair.label>
+  <BS_DessicatedBodyWithGreyHair.description>Голова и тело носителей этого гена выглядят как у высохшего трупа. Волосы спутаны и свалялись.</BS_DessicatedBodyWithGreyHair.description>
+  <BS_FurryBody.label>мохнатое тело</BS_FurryBody.label>
+  <BS_FurryBody.description>Тело носителей этого гена покрыто шерстью. На голову это не влияет.</BS_FurryBody.description>
+  <BS_WerewolfSnoot.label>тело оборотня</BS_WerewolfSnoot.label>
+  <BS_WerewolfSnoot.description>Р-р-р! У носителей этого гена свирепая голова, похожая на голову оборотня, и слегка мохнатое тело.</BS_WerewolfSnoot.description>
+  <BS_WerewolfSnoot.symbolPack.prefixSymbols.0.symbol>ликано</BS_WerewolfSnoot.symbolPack.prefixSymbols.0.symbol>
+  <BS_WerewolfSnoot.symbolPack.prefixSymbols.1.symbol>лунно</BS_WerewolfSnoot.symbolPack.prefixSymbols.1.symbol>
+  <BS_WerewolfSnoot.symbolPack.prefixSymbols.2.symbol>безумно</BS_WerewolfSnoot.symbolPack.prefixSymbols.2.symbol>
+  <BS_WerewolfSnoot.symbolPack.prefixSymbols.3.symbol>мордо</BS_WerewolfSnoot.symbolPack.prefixSymbols.3.symbol>
+  <BS_WerewolfSnoot.symbolPack.prefixSymbols.4.symbol>рыло</BS_WerewolfSnoot.symbolPack.prefixSymbols.4.symbol>
+  <BS_WerewolfSnoot.symbolPack.prefixSymbols.5.symbol>волко</BS_WerewolfSnoot.symbolPack.prefixSymbols.5.symbol>
+  <BS_WerewolfSnoot.symbolPack.suffixSymbols.0.symbol>волко</BS_WerewolfSnoot.symbolPack.suffixSymbols.0.symbol>
+  <BS_WerewolfSnoot.symbolPack.prefixSymbols.6.symbol>луно</BS_WerewolfSnoot.symbolPack.prefixSymbols.6.symbol>
+  <BS_WerewolfSnoot.symbolPack.suffixSymbols.1.symbol>луно</BS_WerewolfSnoot.symbolPack.suffixSymbols.1.symbol>
+  <BS_WerewolfSnoot.symbolPack.suffixSymbols.2.symbol>безумец</BS_WerewolfSnoot.symbolPack.suffixSymbols.2.symbol>
+  <BS_BananaSplitHair.label>кошачий банановый десерт с посыпкой</BS_BananaSplitHair.label>
+  <BS_BananaSplitHair.description>У носителей этого гена вырастают рога, похожие на бананы, а между ними — сливки и нечто вроде вишенки сверху.
+
+Такого просто не может быть.</BS_BananaSplitHair.description>
+  <BS_SkinFrostWhite.label>снежно-белая кожа</BS_SkinFrostWhite.label>
+  <BS_SkinFrostWhite.description>У носителей этого гена ледяная белизна кожи.</BS_SkinFrostWhite.description>
+  <BS_SkinFrostWhite.labelShortAdj>снежный</BS_SkinFrostWhite.labelShortAdj>
+  <BS_SkinPermafrost.label>кожа вечной мерзлоты</BS_SkinPermafrost.label>
+  <BS_SkinPermafrost.description>У носителей этого гена тёмно-синяя кожа.</BS_SkinPermafrost.description>
+  <BS_SkinPermafrost.labelShortAdj>мерзлотный</BS_SkinPermafrost.labelShortAdj>
+  <BS_Skin_Marble_White.label>мраморно-белая кожа</BS_Skin_Marble_White.label>
+  <BS_Skin_Marble_White.description>Специально созданное светоотражающее покрытие клеток придаёт коже носителей этого гена чистый белый цвет, не встречающийся среди естественных оттенков кожи.</BS_Skin_Marble_White.description>
+  <BS_Skin_Marble_White.labelShortAdj>мраморный</BS_Skin_Marble_White.labelShortAdj>
+  <BS_SkinBurningOrange.label>светло-оранжевая кожа</BS_SkinBurningOrange.label>
+  <BS_SkinBurningOrange.description>Носители этого гена вырабатывают пигмент, окрашивающий кожу в светло-оранжевый цвет.</BS_SkinBurningOrange.description>
+  <BS_VeryLightOrange.description>Носители этого гена вырабатывают пигмент, окрашивающий кожу в светло-оранжевый цвет.</BS_VeryLightOrange.description>
+  <BS_VeryLightOrange.label>золотисто-платиновая кожа</BS_VeryLightOrange.label>
+  <BS_SkinBloodRed.label>кроваво-красная кожа</BS_SkinBloodRed.label>
+  <BS_SkinBloodRed.description>Носители этого гена вырабатывают пигмент, окрашивающий кожу в тёмно-красный цвет.</BS_SkinBloodRed.description>
+  <BS_SkinBloodRed.labelShortAdj>кроваво-красный</BS_SkinBloodRed.labelShortAdj>
+  <BS_Skin_DarkAsh.label>тёмно-пепельная кожа</BS_Skin_DarkAsh.label>
+  <BS_Skin_DarkAsh.description>Носители этого гена вырабатывают тёмно-фиолетовый пигмент, который придаёт коже болезненный вид.</BS_Skin_DarkAsh.description>
+  <BS_Skin_DarkAsh.labelShortAdj>пепельный</BS_Skin_DarkAsh.labelShortAdj>
+  <BS_BorealSkin.label>светлая кожа</BS_BorealSkin.label>
+  <BS_BorealSkin.description>У носителей этого гена светлая кожа.</BS_BorealSkin.description>
+  <VU_LightPallorSkin.label>светлая бледная кожа</VU_LightPallorSkin.label>
+  <VU_LightPallorSkin.description>У носителей этого гена очень светлая кожа с зеленоватым оттенком.</VU_LightPallorSkin.description>
+  <VU_DarkPallorSkin.label>тёмная бледная кожа</VU_DarkPallorSkin.label>
+  <VU_DarkPallorSkin.description>У носителей этого гена приглушённая серо-зелёная кожа.</VU_DarkPallorSkin.description>
+  <VU_NosferatuSkin.label>бледно-зелёная кожа</VU_NosferatuSkin.label>
+  <VU_NosferatuSkin.description>У носителей этого гена бледно-зелёная кожа.</VU_NosferatuSkin.description>
+  <VU_ZombieSkin.label>серовато-зелёная кожа</VU_ZombieSkin.label>
+  <VU_ZombieSkin.description>У носителей этого гена серовато-зелёная кожа.</VU_ZombieSkin.description>
+  <BS_CreamSkin.label>кремовая кожа</BS_CreamSkin.label>
+  <BS_CreamSkin.description>У носителей этого гена белая кожа с кремовым оттенком.</BS_CreamSkin.description>
+  <BS_CreamSkin.labelShortAdj>кремовый</BS_CreamSkin.labelShortAdj>
+  <BS_LightGreenSkin.label>светло-зелёная кожа</BS_LightGreenSkin.label>
+  <BS_LightGreenSkin.description>Носители этого гена вырабатывают пигмент, окрашивающий кожу в зелёный цвет.</BS_LightGreenSkin.description>
+  <BS_LightGreenSkin.labelShortAdj>зелёный</BS_LightGreenSkin.labelShortAdj>
+  <BS_LightGreenSkin.symbolPack.prefixSymbols.0.symbol>зелено</BS_LightGreenSkin.symbolPack.prefixSymbols.0.symbol>
+  <BS_LightGreenSkin.symbolPack.prefixSymbols.1.symbol>лаймо</BS_LightGreenSkin.symbolPack.prefixSymbols.1.symbol>
+  <BS_LightGreenSkin.symbolPack.prefixSymbols.2.symbol>нефрито</BS_LightGreenSkin.symbolPack.prefixSymbols.2.symbol>
+  <BS_LightGreenSkin.symbolPack.prefixSymbols.3.symbol>листо</BS_LightGreenSkin.symbolPack.prefixSymbols.3.symbol>
+  <BS_LightGreenSkin.symbolPack.wholeNameSymbols.0.symbol>зеленокожий</BS_LightGreenSkin.symbolPack.wholeNameSymbols.0.symbol>
+  <BS_BurgundySkin.label>бордовая кожа</BS_BurgundySkin.label>
+  <BS_BurgundySkin.description>У носителей этого гена тёмная красновато-фиолетовая кожа.</BS_BurgundySkin.description>
+  <BS_BurgundySkin.labelShortAdj>бордовый</BS_BurgundySkin.labelShortAdj>
+  <BS_BurgundyHair.labelShortAdj>бордовый</BS_BurgundyHair.labelShortAdj>
+  <BS_DeepVioletSkin.label>насыщенно-фиолетовая кожа</BS_DeepVioletSkin.label>
+  <BS_DeepVioletSkin.description>У носителей этого гена насыщенно-фиолетовая кожа.</BS_DeepVioletSkin.description>
+  <BS_DeepVioletSkin.labelShortAdj>насыщенно-фиолетовый</BS_DeepVioletSkin.labelShortAdj>
+  <BS_DeepVioletHair.labelShortAdj>насыщенно-фиолетовый</BS_DeepVioletHair.labelShortAdj>
+  <BS_AnimalEars.label>пушистые уши</BS_AnimalEars.label>
+  <BS_AnimalEars.description>У носителей этого гена пушистые уши.
+
+Уву.</BS_AnimalEars.description>
+  <BS_FoxEars.label>лисьи уши</BS_FoxEars.label>
+  <BS_FoxEars.description>У носителей этого гена пушистые уши.
+
+Уву.</BS_FoxEars.description>
+  <BS_FoxEars.symbolPack.prefixSymbols.0.symbol>лисо</BS_FoxEars.symbolPack.prefixSymbols.0.symbol>
+  <BS_FoxEars.symbolPack.prefixSymbols.1.symbol>лисий</BS_FoxEars.symbolPack.prefixSymbols.1.symbol>
+  <BS_FoxEars.symbolPack.prefixSymbols.2.symbol>тама</BS_FoxEars.symbolPack.prefixSymbols.2.symbol>
+  <BS_FoxEars.symbolPack.suffixSymbols.0.symbol>ух</BS_FoxEars.symbolPack.suffixSymbols.0.symbol>
+  <BS_Ears_PointedHD.symbolPack.suffixSymbols.0.symbol>ух</BS_Ears_PointedHD.symbolPack.suffixSymbols.0.symbol>
+  <BS_TrollEars.symbolPack.suffixSymbols.0.symbol>ух</BS_TrollEars.symbolPack.suffixSymbols.0.symbol>
+  <BS_TrollEars_Great.symbolPack.suffixSymbols.0.symbol>ух</BS_TrollEars_Great.symbolPack.suffixSymbols.0.symbol>
+  <BS_DragonEars.symbolPack.suffixSymbols.0.symbol>ух</BS_DragonEars.symbolPack.suffixSymbols.0.symbol>
+  <BS_Ears_PointedHD.label>заострённые уши: другой вариант</BS_Ears_PointedHD.label>
+  <BS_Ears_PointedHD.description>У носителей этого гена заострённые уши.</BS_Ears_PointedHD.description>
+  <BS_Ears_PointedHD.symbolPack.prefixSymbols.0.symbol>остро</BS_Ears_PointedHD.symbolPack.prefixSymbols.0.symbol>
+  <BS_Ears_PointedHD.symbolPack.suffixSymbols.1.symbol>остро</BS_Ears_PointedHD.symbolPack.suffixSymbols.1.symbol>
+  <BS_TrollEars.symbolPack.prefixSymbols.0.symbol>остро</BS_TrollEars.symbolPack.prefixSymbols.0.symbol>
+  <BS_TrollEars_Great.symbolPack.prefixSymbols.0.symbol>остро</BS_TrollEars_Great.symbolPack.prefixSymbols.0.symbol>
+  <BS_Ears_PointedHD.symbolPack.prefixSymbols.1.symbol>колко</BS_Ears_PointedHD.symbolPack.prefixSymbols.1.symbol>
+  <BS_TrollEars.symbolPack.prefixSymbols.1.symbol>колко</BS_TrollEars.symbolPack.prefixSymbols.1.symbol>
+  <BS_TrollEars_Great.symbolPack.prefixSymbols.1.symbol>колко</BS_TrollEars_Great.symbolPack.prefixSymbols.1.symbol>
+  <BS_TrollEars.label>уши тролля</BS_TrollEars.label>
+  <BS_TrollEars.description>У носителей этого гена большие заострённые уши.</BS_TrollEars.description>
+  <VU_Unliving.label>неживое тело</VU_Unliving.label>
+  <VU_Unliving.description>У носителей этого гена неживое или почти мёртвое тело. Они не страдают от некоторых хронических возрастных болезней, в том числе рака, инфарктов, астмы и деменции.</VU_Unliving.description>
+  <BS_LesserDeathless.label>нестабильное бессмертие</BS_LesserDeathless.label>
+  <BS_LesserDeathless.description>Носители этого гена могут переживать смертельные ранения лишь немногим дольше суток.</BS_LesserDeathless.description>
+  <BS_ReturningSoul.label>возвращающаяся душа</BS_ReturningSoul.label>
+  <BS_ReturningSoul.description>Носителей этого гена можно окончательно убить только огнём. В остальных случаях их сущность находит новый неповреждённый труп, вселяется в него и оживляет.</BS_ReturningSoul.description>
+  <BS_Immortal.label>бессмертное возвращение</BS_Immortal.label>
+  <BS_Immortal.description>Носителей этого гена можно окончательно убить только огнём. В остальных случаях они рано или поздно возвращаются к жизни.</BS_Immortal.description>
+  <BS_Diet_Carnivore.label>плотоядность</BS_Diet_Carnivore.label>
+  <BS_Diet_Carnivore.description>Носители этого гена питаются только животной пищей. Они не едят растительную пищу по собственной воле, а при принудительном кормлении их рвёт.</BS_Diet_Carnivore.description>
+  <BS_Diet_Herbivore.label>растительноядность</BS_Diet_Herbivore.label>
+  <BS_Diet_Herbivore.description>Носители этого гена питаются только растительной пищей. Они не едят животную пищу по собственной воле, а при принудительном кормлении их рвёт.</BS_Diet_Herbivore.description>
+  <BS_Diet_Fuel.label>питание топливом</BS_Diet_Fuel.label>
+  <BS_Diet_Fuel.description>Носители этого гена могут питаться только топливом, обычно предназначенным для андроидов.</BS_Diet_Fuel.description>
+  <BS_Diet_Universal.label>универсальное пищеварение</BS_Diet_Universal.label>
+  <BS_Diet_Universal.description>Носители этого гена могут употреблять большинство видов пищи, а также некоторые разновидности химтоплива.</BS_Diet_Universal.description>
+  <Cannibal.label>каннибализм</Cannibal.label>
+  <Cannibal.description>Носителям этого гена свойственна жестокая склонность к людоедству.</Cannibal.description>
+  <Cannibal.labelShortAdj>каннибальский</Cannibal.labelShortAdj>
+  <BS_DroneKind.label>неразумный дрон</BS_DroneKind.label>
+  <BS_DroneKind.description>Носителям этого гена недоступны отвлечённое мышление и подлинное творчество. Это могут быть сложные ИИ, которые имитируют разум, собирают и объединяют сведения, но не являются ни сильным ИИ, ни искусственной личностью, ни архотеком.
+
+Такой носитель может быть и животным или инсектоидом с подобными свойствами и ограничениями. В этом случае ген часто сочетается с ограниченной способностью к обучению.
+
+Носители этого гена обычно не вполне осмысляют события, которых не видели своими глазами, а большинство воспоминаний сохраняют гораздо меньше времени.</BS_DroneKind.description>
+  <BS_NoFamilyRelations.label>отсутствие родственных связей</BS_NoFamilyRelations.label>
+  <BS_NoFamilyRelations.description>Носители этого гена не признают родство в привычном эмоциональном или генетическом смысле.
+
+Биологические носители могут размножаться бесполым путём — посредством автомиксиса, а существа из кастового улья могут нести несколько наборов генов, чтобы отсрочить последствия близкородственного скрещивания.
+
+Механические, архотехнологические или ещё более необычные существа могут обходить эти ограничения за счёт своего устройства либо вовсе не иметь генов в обычном понимании.</BS_NoFamilyRelations.description>
+  <BS_BulletVulnerability.label>уязвимость к проникающим ранениям</BS_BulletVulnerability.label>
+  <BS_BulletVulnerability.description>Внутренние органы или механизмы носителей этого гена особенно уязвимы. Они получают повышенный урон от проникающих атак, например от пуль.</BS_BulletVulnerability.description>
+  <BS_Concussive_Resistance.label>сопротивление ударной волне</BS_Concussive_Resistance.label>
+  <BS_Concussive_Resistance.description>Носители этого гена хорошо переносят воздействие ударной волны на всё тело, например при взрыве.</BS_Concussive_Resistance.description>
+  <BS_AcidWeakness.label>уязвимость к кислоте</BS_AcidWeakness.label>
+  <BS_AcidWeakness.description>Носители этого гена крайне уязвимы к кислоте.</BS_AcidWeakness.description>
+  <BS_AcidResistanceMid.label>сопротивление кислоте</BS_AcidResistanceMid.label>
+  <BS_AcidResistanceMid.description>Носители этого гена обладают высокой устойчивостью к кислоте.</BS_AcidResistanceMid.description>
+  <BS_AcidResistanceTotal.label>невосприимчивость к кислоте</BS_AcidResistanceTotal.label>
+  <BS_AcidResistanceTotal.description>Носители этого гена невосприимчивы к кислоте и не получают от неё урона независимо от источника.</BS_AcidResistanceTotal.description>
+  <VU_Lesser_Unliving_Resilience.label>стойкость неживого тела</VU_Lesser_Unliving_Resilience.label>
+  <VU_Lesser_Unliving_Resilience.description>Сквозные ранения вредят носителям этого гена меньше, чем большинству существ.
+
+Они также не страдают от разгерметизации или отсутствия кислорода в космическом вакууме.</VU_Lesser_Unliving_Resilience.description>
+  <VU_Unliving_Resilience.label>повышенная стойкость неживого тела</VU_Unliving_Resilience.label>
+  <VU_Unliving_Resilience.description>Пулевые пробоины вредят носителям этого гена гораздо меньше, чем большинству существ.
+
+Они также не страдают от разгерметизации или отсутствия кислорода в космическом вакууме.</VU_Unliving_Resilience.description>
+  <Body_Androgynous.label>андрогинное телосложение</Body_Androgynous.label>
+  <Body_Androgynous.description>Носители этого гена обычно имеют андрогинное телосложение с женственными чертами. У персонажа может быть несколько генов телосложения; из разрешённых вариантов выбирается один.
+
+Некоторые моды, к сожалению, переопределяют этот выбор. В таком случае нужное телосложение можно восстановить через Character Editor.</Body_Androgynous.description>
+  <BS_Incorporate.label>усвоение генов</BS_Incorporate.label>
+  <BS_Incorporate.description>Носители этого гена могут забирать гены у трупов.
+
+При этом даётся выбор как минимум из четырёх вариантов. Некоторые черты характера также можно превратить в гены.
+
+Если метаболическая эффективность опускается ниже −9, случайные гены удаляются, пока она не вернётся в допустимые пределы. Порог можно сдвинуть в настройках Big and Small.</BS_Incorporate.description>
+  <BS_Mimic.label>мимикрия</BS_Mimic.label>
+  <BS_Mimic.description>Носители этого гена могут копировать все гены трупа, заменяя ими свои ксеногены.
+
+Ген усвоения генов, если он уже имеется или приобретён любым способом, всегда сохраняется.</BS_Mimic.description>
+  <BS_IntegrateGenes.label>закрепление генов</BS_IntegrateGenes.label>
+  <BS_IntegrateGenes.description>Носители этого гена могут встраивать ксеногены в зародышевую линию, навсегда превращая их в эндогены. Обычно этот процесс необратим; все неактивные на тот момент гены удаляются.</BS_IntegrateGenes.description>
+  <BS_DisintegrateXenoGenes.label>разрушение ксеногенов</BS_DisintegrateXenoGenes.label>
+  <BS_DisintegrateXenoGenes.description>Носители этого гена могут по желанию мгновенно избавляться от своих ксеногенов. Лишь некоторые редкие виды ксеногенов нельзя удалить этим способом.</BS_DisintegrateXenoGenes.description>
+  <BS_GeneEater.label>пожирание генов</BS_GeneEater.label>
+  <BS_GeneEater.description>Носители этого гена обладают пугающей способностью копировать гены трупов, которые поедают. Сам по себе этот ген НЕ делает их каннибалами.</BS_GeneEater.description>
+  <WoundHealing_VerySlow.label>очень медленное заживление ран</WoundHealing_VerySlow.label>
+  <WoundHealing_VerySlow.description>Раны носителей этого гена заживают втрое медленнее обычного.</WoundHealing_VerySlow.description>
+  <WoundHealing_VerySlow.labelShortAdj>медленно заживающий</WoundHealing_VerySlow.labelShortAdj>
+  <WoundHealing_VerySlow.symbolPack.prefixSymbols.0.symbol>незаживающий</WoundHealing_VerySlow.symbolPack.prefixSymbols.0.symbol>
+  <WoundHealing_UltraFast.label>сверхбыстрое заживление ран</WoundHealing_UltraFast.label>
+  <WoundHealing_UltraFast.description>Раны носителей этого гена заживают с невероятной скоростью, а кровотечения почти мгновенно прекращаются. Единственный недостаток — сильно ослабленная боль, из-за которой они часто продолжают сражаться до самой смерти.</WoundHealing_UltraFast.description>
+  <WoundHealing_UltraFast.labelShortAdj>быстро заживающий</WoundHealing_UltraFast.labelShortAdj>
+  <BS_Xenoreconstruction.label>ксенореконструкция</BS_Xenoreconstruction.label>
+  <BS_Xenoreconstruction.description>Носители этого гена могут исцелять постоянные повреждения у себя и других.</BS_Xenoreconstruction.description>
+  <BS_Fast_TotalHealing.label>регенерация</BS_Fast_TotalHealing.label>
+  <BS_Fast_TotalHealing.description>Носители этого гена могут заживлять шрамы и отращивать утраченные конечности. Из-за особенностей регенерации их органы и части тела непригодны для пересадки или изъятия. В сочетании со сверхсвёртываемостью крови раны затягиваются гораздо лучше.</BS_Fast_TotalHealing.description>
+  <BS_Fast_TotalHealing.labelShortAdj>регенерирующий</BS_Fast_TotalHealing.labelShortAdj>
+  <BS_Passioned_Learning_Gene.label>усердие в учёбе</BS_Passioned_Learning_Gene.label>
+  <BS_Passioned_Learning_Gene.description>Носители этого гена хорошо усваивают новое, даже если испытывают лишь небольшой интерес.</BS_Passioned_Learning_Gene.description>
+  <BS_Passioned_Learning_Gene.labelShortAdj>прилежный</BS_Passioned_Learning_Gene.labelShortAdj>
+  <BS_Very_Passioned_Learning_Gene.labelShortAdj>прилежный</BS_Very_Passioned_Learning_Gene.labelShortAdj>
+  <BS_Very_Passioned_Learning_Gene.label>исключительное усердие в учёбе</BS_Very_Passioned_Learning_Gene.label>
+  <BS_Very_Passioned_Learning_Gene.description>Носители этого гена исключительно хорошо усваивают новое, даже если испытывают лишь небольшой интерес.</BS_Very_Passioned_Learning_Gene.description>
+  <BS_SimpleMind.label>примитивное мышление</BS_SimpleMind.label>
+  <BS_SimpleMind.description>Носители этого гена неспособны выполнять сложные задачи.</BS_SimpleMind.description>
+  <BS_VerySimpleMind.label>крайне примитивное мышление</BS_VerySimpleMind.label>
+  <BS_VerySimpleMind.description>Носители этого гена способны лишь на простейший физический труд.</BS_VerySimpleMind.description>
+  <BS_Learning_None.label>неспособность к обучению</BS_Learning_None.label>
+  <BS_Learning_None.description>Носители этого гена неспособны усваивать новые знания.</BS_Learning_None.description>
+  <BS_Learning_None.symbolPack.prefixSymbols.0.symbol>туго</BS_Learning_None.symbolPack.prefixSymbols.0.symbol>
+  <BS_Learning_None.symbolPack.prefixSymbols.1.symbol>ворчу</BS_Learning_None.symbolPack.prefixSymbols.1.symbol>
+  <BS_Learning_None.symbolPack.suffixSymbols.0.symbol>ворчу</BS_Learning_None.symbolPack.suffixSymbols.0.symbol>
+  <BS_Learning_None.symbolPack.prefixSymbols.2.symbol>медло</BS_Learning_None.symbolPack.prefixSymbols.2.symbol>
+  <BS_Learning_None.symbolPack.prefixSymbols.3.symbol>тупо</BS_Learning_None.symbolPack.prefixSymbols.3.symbol>
+  <BS_Pain_None.symbolPack.prefixSymbols.0.symbol>тупо</BS_Pain_None.symbolPack.prefixSymbols.0.symbol>
+  <BS_Learning_None.symbolPack.prefixSymbols.4.symbol>глупо</BS_Learning_None.symbolPack.prefixSymbols.4.symbol>
+  <BS_Very_Slow.label>очень медленное движение</BS_Very_Slow.label>
+  <BS_Very_Slow.description>Носители этого гена двигаются крайне медленно.</BS_Very_Slow.description>
+  <BS_EVA_Gene.label>защита от вакуума</BS_EVA_Gene.label>
+  <BS_EVA_Gene.description>Носители этого гена выдерживают космический вакуум. Однако это не помогает им быстрее двигаться в пустоте.</BS_EVA_Gene.description>
+  <BS_Pain_None.label>отсутствие боли</BS_Pain_None.label>
+  <BS_Pain_None.description>Носители этого гена не чувствуют боли. Иногда это даёт преимущество, но может быть и крайне опасным.</BS_Pain_None.description>
+  <BS_Pain_None.labelShortAdj>нечувствительный к боли</BS_Pain_None.labelShortAdj>
+  <BS_PainNumb.labelShortAdj>нечувствительный к боли</BS_PainNumb.labelShortAdj>
+  <BS_Pain_None.symbolPack.prefixSymbols.1.symbol>одуро</BS_Pain_None.symbolPack.prefixSymbols.1.symbol>
+  <BS_Pain_None.symbolPack.prefixSymbols.2.symbol>крепко</BS_Pain_None.symbolPack.prefixSymbols.2.symbol>
+  <BS_PainNumb.label>отсутствие осязания</BS_PainNumb.label>
+  <BS_PainNumb.description>Носители этого гена почти или совсем лишены осязания, не чувствуют ни боли, ни комфорта. Иногда это даёт преимущество, но зачастую бывает очень опасным.</BS_PainNumb.description>
+  <BS_PainNumb.symbolPack.prefixSymbols.0.symbol>немо</BS_PainNumb.symbolPack.prefixSymbols.0.symbol>
+  <BS_Instability_Catastrophic.label>катастрофическая клеточная нестабильность</BS_Instability_Catastrophic.label>
+  <BS_Instability_Catastrophic.description>Носителям этого гена нужно гораздо меньше энергии для поддержания жизни, но механизм деления их клеток становится катастрофически нестабильным.</BS_Instability_Catastrophic.description>
+  <BS_GeneStabilizing_Moderate.label>стабилизация генов</BS_GeneStabilizing_Moderate.label>
+  <BS_GeneStabilizing_Moderate.description>Носителям этого гена нужно немного меньше энергии для поддержания жизни, однако тонкая настройка генома значительно повышает его сложность.
+
+Внимание: при получении этого гена иным способом, кроме имплантации ксеносемени, он может превратиться в слабую клеточную нестабильность.</BS_GeneStabilizing_Moderate.description>
+  <BS_GeneStabilizing_Great.label>усиленная стабилизация генов</BS_GeneStabilizing_Great.label>
+  <BS_GeneStabilizing_Great.description>Носителям этого гена нужно гораздо меньше энергии для поддержания жизни, но столь сложная настройка генома доступна лишь самым передовым биотехнологическим лабораториям.
+
+Лаборатории с большим запасом капсул с архитами часто предпочитают варианты с менее выраженной клеточной нестабильностью и архитные способы предотвращения рака. В таких случаях лечение действительно может оказаться лучше профилактики.
+
+Внимание: при получении этого гена иным способом, кроме имплантации ксеносемени, он может превратиться в сильную клеточную нестабильность.</BS_GeneStabilizing_Great.description>
+  <BS_GeneStabilizing_Extreme.label>предельная стабилизация генов</BS_GeneStabilizing_Extreme.label>
+  <BS_GeneStabilizing_Extreme.description>Носителям этого гена нужно намного меньше энергии для поддержания жизни. Это требует такой тонкой настройки генома, которую большинство биотехнологических лабораторий считает лишь теоретически возможной.
+
+Внимание: при получении этого гена иным способом, кроме имплантации ксеносемени, он может превратиться в катастрофическую клеточную нестабильность.</BS_GeneStabilizing_Extreme.description>
+  <BS_CellPandemonium.label>клеточный хаос</BS_CellPandemonium.label>
+  <BS_CellPandemonium.description>Носители этого гена — почти ходячие сверхопухоли. Их клетки непрерывно меняются, а сдерживает этот процесс странная, самоуравновешивающаяся система архитов непостижимой сложности.
+
+У носителей всё равно часто развиваются неконтролируемые карциномы или инфекции, требующие ампутации. Долго прожить могут лишь самые крепкие подопытные — или те, у кого больше всего бионики. Вершина безрассудной науки.
+
+Этот ген отключает идеальный иммунитет, но не отключает обычные гены усиленного иммунитета.</BS_CellPandemonium.description>
+  <BS_CellPandemonium.symbolPack.prefixSymbols.0.symbol>безумно</BS_CellPandemonium.symbolPack.prefixSymbols.0.symbol>
+  <BS_GiantWeaponWielder.label>владение гигантским оружием</BS_GiantWeaponWielder.label>
+  <BS_GiantWeaponWielder.description>Носители этого гена могут пользоваться гигантским оружием, даже если обычно были бы слишком малы для него.</BS_GiantWeaponWielder.description>
+  <BS_NoFood.label>без питания</BS_NoFood.label>
+  <BS_NoFood.description>Носители этого гена получают энергию не из пищи. Их сытость зафиксирована на 90% — это позволяет избежать проблем, которые, например, мешали бы употреблять пакеты гемогена.
+
+При использовании Dubs Bad Hygiene так же фиксируются потребности в воде и опорожнении мочевого пузыря.</BS_NoFood.description>
+  <BS_NoFood_Hemogenic.label>питание гемогеном</BS_NoFood_Hemogenic.label>
+  <BS_NoFood_Hemogenic.description>Носители этого гена получают энергию из гемогена. Их сытость зафиксирована на 90% — это позволяет избежать проблем, которые, например, мешали бы употреблять пакеты гемогена.
+
+При использовании Dubs Bad Hygiene так же фиксируются потребности в воде и опорожнении мочевого пузыря. Упырям из Anomaly этот ген не даёт преимуществ.</BS_NoFood_Hemogenic.description>
+  <VU_UltraRapidAging.label>разрушение организма</VU_UltraRapidAging.label>
+  <VU_UltraRapidAging.description>Организм носителей этого гена быстро разрушается со временем, например из-за неспособности нормально восстанавливаться.
+
+Некоторые архогены могут подавлять этот эффект.</VU_UltraRapidAging.description>
+  <VU_UltraRapidAging.symbolPack.prefixSymbols.0.symbol>падший</VU_UltraRapidAging.symbolPack.prefixSymbols.0.symbol>
+  <VU_UltraRapidAging.symbolPack.prefixSymbols.1.symbol>распадающийся</VU_UltraRapidAging.symbolPack.prefixSymbols.1.symbol>
+  <VU_UltraRapidAging.symbolPack.prefixSymbols.2.symbol>угасающий</VU_UltraRapidAging.symbolPack.prefixSymbols.2.symbol>
+  <VU_UltraRapidAging.symbolPack.wholeNameSymbols.0.symbol>разлагающийся</VU_UltraRapidAging.symbolPack.wholeNameSymbols.0.symbol>
+  <VU_UltraRapidAging.symbolPack.wholeNameSymbols.1.symbol>ветшающий</VU_UltraRapidAging.symbolPack.wholeNameSymbols.1.symbol>
+  <BS_VeryFastAging.label>очень быстрое старение</BS_VeryFastAging.label>
+  <BS_VeryFastAging.description>Носители этого гена стареют гораздо быстрее базовых людей.</BS_VeryFastAging.description>
+  <BS_FastAging.label>быстрое старение</BS_FastAging.label>
+  <BS_FastAging.description>Носители этого гена стареют примерно вдвое быстрее базовых людей.</BS_FastAging.description>
+  <BS_SlowAging.label>медленное старение</BS_SlowAging.label>
+  <BS_SpiderBody_Synthread.modExtensions.1.progressName>Выработка синткани</BS_SpiderBody_Synthread.modExtensions.1.progressName>
+  <BS_SpiderBody_Devil.modExtensions.1.progressName>Выработка дьявлоткани</BS_SpiderBody_Devil.modExtensions.1.progressName>
+  <BS_ChocolateProduction.modExtensions.1.progressName>Выработка шоколада Marabou Switzere</BS_ChocolateProduction.modExtensions.1.progressName>
+  <BS_JellyProduction.modExtensions.0.progressName>Выработка инсектожеле</BS_JellyProduction.modExtensions.0.progressName>
+  <BS_NaturalPsychic.customEffectDescriptions.0>Психочувствительность: прибавка +120% и множитель ×0,8 дают обычному персонажу примерно +75% к итоговому значению.</BS_NaturalPsychic.customEffectDescriptions.0>
+  <VU_Libido_None.customEffectDescriptions.0>Резко снижает вероятность занятий любовью.</VU_Libido_None.customEffectDescriptions.0>
+  <BS_NotFlirty.customEffectDescriptions.0>Никогда не флиртует и не становится объектом флирта.</BS_NotFlirty.customEffectDescriptions.0>
+  <BS_BirthTwins.customEffectDescriptions.0>Гены детей-гибридов из одного помёта могут различаться.</BS_BirthTwins.customEffectDescriptions.0>
+  <BS_BirthLitter.customEffectDescriptions.0>Гены детей-гибридов из одного помёта могут различаться.</BS_BirthLitter.customEffectDescriptions.0>
+  <BS_HeatGenerator.customEffectDescriptions.0>Выделяет примерно столько же тепла, сколько два обогревателя на полной мощности.</BS_HeatGenerator.customEffectDescriptions.0>
+  <BS_ColdGenerator.customEffectDescriptions.0>Охлаждает примерно как два кондиционера на полной мощности.</BS_ColdGenerator.customEffectDescriptions.0>
+  <BS_CentaurBody.customEffectDescriptions.0>По возможности заменяет «расу» персонажа на подходящую для новой формы тела.</BS_CentaurBody.customEffectDescriptions.0>
+  <BS_FourArms.customEffectDescriptions.0>По возможности заменяет «расу» персонажа на подходящую для новой формы тела.</BS_FourArms.customEffectDescriptions.0>
+  <BS_FourArms.customEffectDescriptions.1>Четыре руки. Совместимы с бионикой.</BS_FourArms.customEffectDescriptions.1>
+  <BS_SpiderBody.customEffectDescriptions.0>По возможности заменяет «расу» персонажа на подходящую для новой формы тела.</BS_SpiderBody.customEffectDescriptions.0>
+  <BS_HumanoidWithTail.customEffectDescriptions.0>По возможности заменяет «расу» персонажа на подходящую для новой формы тела.</BS_HumanoidWithTail.customEffectDescriptions.0>
+  <BS_SpiderBody_Synthread.customEffectDescriptions.0>По возможности заменяет «расу» персонажа на подходящую для новой формы тела.</BS_SpiderBody_Synthread.customEffectDescriptions.0>
+  <BS_SpiderBody_Synthread.customEffectDescriptions.1>Уменьшает штраф к скорости движения по труднопроходимой местности.</BS_SpiderBody_Synthread.customEffectDescriptions.1>
+  <BS_SpiderBody_Devil.customEffectDescriptions.0>По возможности заменяет «расу» персонажа на подходящую для новой формы тела.</BS_SpiderBody_Devil.customEffectDescriptions.0>
+  <BS_SpiderBody_Devil.customEffectDescriptions.1>Уменьшает штраф к скорости движения по труднопроходимой местности.</BS_SpiderBody_Devil.customEffectDescriptions.1>
+  <LoS_Snake_Tail.customEffectDescriptions.0>Заменяет «расу» персонажа на подходящую для новой формы тела.</LoS_Snake_Tail.customEffectDescriptions.0>
+  <LoS_Snake_Tail.customEffectDescriptions.1>Уменьшает штраф к скорости движения по труднопроходимой местности.</LoS_Snake_Tail.customEffectDescriptions.1>
+  <LoS_Snake_Tail_HairClr.customEffectDescriptions.0>Заменяет «расу» персонажа на подходящую для новой формы тела.</LoS_Snake_Tail_HairClr.customEffectDescriptions.0>
+  <LoS_Snake_Tail_HairClr.customEffectDescriptions.1>Уменьшает штраф к скорости движения по труднопроходимой местности.</LoS_Snake_Tail_HairClr.customEffectDescriptions.1>
+  <LoS_MarlithBody.customEffectDescriptions.0>Заменяет «расу» персонажа на подходящую для новой формы тела.</LoS_MarlithBody.customEffectDescriptions.0>
+  <LoS_MarlithBody.customEffectDescriptions.1>Превращает персонажа в марилита.</LoS_MarlithBody.customEffectDescriptions.1>
+  <LoS_MarlithBody.customEffectDescriptions.2>Уменьшает штраф к скорости движения по труднопроходимой местности.</LoS_MarlithBody.customEffectDescriptions.2>
+  <BS_SnekEngulf.customEffectDescriptions.0>Максимальный размер тела жертвы — 35% от размера тела носителя. Увеличенный запас сытости может поднять этот предел до 85%.</BS_SnekEngulf.customEffectDescriptions.0>
+  <BS_SnekEngulf.customEffectDescriptions.1>Базовый урон кислотой: 6.</BS_SnekEngulf.customEffectDescriptions.1>
+  <BS_SnekEngulf.customEffectDescriptions.2>Жертва может наносить ответные удары в ближнем бою со 100% обычного урона.</BS_SnekEngulf.customEffectDescriptions.2>
+  <BS_AlienApperanceStandards_Lesser.customEffectDescriptions.0>Изменяет взаимное мнение на величину от +10 до −25 в зависимости от сходства.</BS_AlienApperanceStandards_Lesser.customEffectDescriptions.0>
+  <BS_AlienApperanceStandards.customEffectDescriptions.0>Изменяет взаимное мнение на величину от +10 до −45 в зависимости от сходства.</BS_AlienApperanceStandards.customEffectDescriptions.0>
+  <BS_AlienApperanceStandards.customEffectDescriptions.1>Частично отменяет преимущество красоты при сильных различиях во внешности.</BS_AlienApperanceStandards.customEffectDescriptions.1>
+  <BS_ToughSkin.customEffectDescriptions.0>Эффект усиливается в сочетании с генами, запрещающими носить броню.</BS_ToughSkin.customEffectDescriptions.0>
+  <BS_ToughSkin.customEffectDescriptions.1>Эффект удваивается в сочетании с генами, запрещающими носить одежду.</BS_ToughSkin.customEffectDescriptions.1>
+  <BS_NaturalArmor.customEffectDescriptions.0>Эффект усиливается в сочетании с генами, запрещающими носить броню.</BS_NaturalArmor.customEffectDescriptions.0>
+  <BS_NaturalArmor.customEffectDescriptions.1>Эффект почти удваивается в сочетании с генами, запрещающими носить одежду.</BS_NaturalArmor.customEffectDescriptions.1>
+  <BS_NaturalArmor_Great.customEffectDescriptions.0>Эффект усиливается в сочетании с генами, запрещающими носить броню.</BS_NaturalArmor_Great.customEffectDescriptions.0>
+  <BS_NaturalArmor_Great.customEffectDescriptions.1>Эффект почти удваивается в сочетании с генами, запрещающими носить одежду.</BS_NaturalArmor_Great.customEffectDescriptions.1>
+  <BS_DrunkenPower.customEffectDescriptions.0>Снижает получаемый урон на 5–30% в зависимости от степени опьянения.</BS_DrunkenPower.customEffectDescriptions.0>
+  <BS_DrunkenPower.customEffectDescriptions.1>Повышает урон в ближнем бою на 5–45% в зависимости от степени опьянения.</BS_DrunkenPower.customEffectDescriptions.1>
+  <BS_DrunkenPower.customEffectDescriptions.2>Ослабляет негативные последствия опьянения.</BS_DrunkenPower.customEffectDescriptions.2>
+  <BS_DrunkenPower.customEffectDescriptions.3>Усиливает улучшение настроения от опьянения.</BS_DrunkenPower.customEffectDescriptions.3>
+  <VU_NoBlood.customEffectDescriptions.0>Нет кровотечений.</VU_NoBlood.customEffectDescriptions.0>
+  <JotunFrame.customEffectDescriptions.0>— — — — — — — — — — — — — — — — — — —</JotunFrame.customEffectDescriptions.0>
+  <JotunFrame.customEffectDescriptions.1>— Общие эффекты размера тела —</JotunFrame.customEffectDescriptions.1>
+  <JotunFrame.customEffectDescriptions.2>Изменяет размер тела и связанные с ним свойства.</JotunFrame.customEffectDescriptions.2>
+  <JotunFrame.customEffectDescriptions.3>Очень сильно влияет на потребление пищи.</JotunFrame.customEffectDescriptions.3>
+  <JotunFrame.customEffectDescriptions.4>Сильно изменяет запас здоровья.</JotunFrame.customEffectDescriptions.4>
+  <JotunFrame.customEffectDescriptions.5>Значительно повышает бронепробитие в ближнем бою.</JotunFrame.customEffectDescriptions.5>
+  <JotunFrame.customEffectDescriptions.6>Несколько повышает урон в ближнем бою.</JotunFrame.customEffectDescriptions.6>
+  <JotunFrame.customEffectDescriptions.7>Сильно влияет на шанс уклонения в ближнем бою: меньший размер даёт преимущество.</JotunFrame.customEffectDescriptions.7>
+  <JotunFrame.customEffectDescriptions.8>Очень сильно влияет на выработку ресурсов самим персонажем через гены Alpha Genes и Biotech Expansion.</JotunFrame.customEffectDescriptions.8>
+  <HalfJotunFrame.customEffectDescriptions.0>— — — — — — — — — — — — — — — — — — —</HalfJotunFrame.customEffectDescriptions.0>
+  <HalfJotunFrame.customEffectDescriptions.1>— Общие эффекты размера тела —</HalfJotunFrame.customEffectDescriptions.1>
+  <HalfJotunFrame.customEffectDescriptions.2>Изменяет размер тела и связанные с ним свойства.</HalfJotunFrame.customEffectDescriptions.2>
+  <HalfJotunFrame.customEffectDescriptions.3>Очень сильно влияет на потребление пищи.</HalfJotunFrame.customEffectDescriptions.3>
+  <HalfJotunFrame.customEffectDescriptions.4>Сильно изменяет запас здоровья.</HalfJotunFrame.customEffectDescriptions.4>
+  <HalfJotunFrame.customEffectDescriptions.5>Значительно повышает бронепробитие в ближнем бою.</HalfJotunFrame.customEffectDescriptions.5>
+  <HalfJotunFrame.customEffectDescriptions.6>Несколько повышает урон в ближнем бою.</HalfJotunFrame.customEffectDescriptions.6>
+  <HalfJotunFrame.customEffectDescriptions.7>Сильно влияет на шанс уклонения в ближнем бою: меньший размер даёт преимущество.</HalfJotunFrame.customEffectDescriptions.7>
+  <HalfJotunFrame.customEffectDescriptions.8>Очень сильно влияет на выработку ресурсов самим персонажем через гены Alpha Genes и Biotech Expansion.</HalfJotunFrame.customEffectDescriptions.8>
+  <BS_LargeFrame.customEffectDescriptions.0>— — — — — — — — — — — — — — — — — — —</BS_LargeFrame.customEffectDescriptions.0>
+  <BS_LargeFrame.customEffectDescriptions.1>— Общие эффекты размера тела —</BS_LargeFrame.customEffectDescriptions.1>
+  <BS_LargeFrame.customEffectDescriptions.2>Изменяет размер тела и связанные с ним свойства.</BS_LargeFrame.customEffectDescriptions.2>
+  <BS_LargeFrame.customEffectDescriptions.3>Очень сильно влияет на потребление пищи.</BS_LargeFrame.customEffectDescriptions.3>
+  <BS_LargeFrame.customEffectDescriptions.4>Сильно изменяет запас здоровья.</BS_LargeFrame.customEffectDescriptions.4>
+  <BS_LargeFrame.customEffectDescriptions.5>Значительно повышает бронепробитие в ближнем бою.</BS_LargeFrame.customEffectDescriptions.5>
+  <BS_LargeFrame.customEffectDescriptions.6>Несколько повышает урон в ближнем бою.</BS_LargeFrame.customEffectDescriptions.6>
+  <BS_LargeFrame.customEffectDescriptions.7>Сильно влияет на шанс уклонения в ближнем бою: меньший размер даёт преимущество.</BS_LargeFrame.customEffectDescriptions.7>
+  <BS_LargeFrame.customEffectDescriptions.8>Очень сильно влияет на выработку ресурсов самим персонажем через гены Alpha Genes и Biotech Expansion.</BS_LargeFrame.customEffectDescriptions.8>
+  <HalfColossusFrame.customEffectDescriptions.0>— — — — — — — — — — — — — — — — — — —</HalfColossusFrame.customEffectDescriptions.0>
+  <HalfColossusFrame.customEffectDescriptions.1>— Общие эффекты размера тела —</HalfColossusFrame.customEffectDescriptions.1>
+  <HalfColossusFrame.customEffectDescriptions.2>Изменяет размер тела и связанные с ним свойства.</HalfColossusFrame.customEffectDescriptions.2>
+  <HalfColossusFrame.customEffectDescriptions.3>Очень сильно влияет на потребление пищи.</HalfColossusFrame.customEffectDescriptions.3>
+  <HalfColossusFrame.customEffectDescriptions.4>Сильно изменяет запас здоровья.</HalfColossusFrame.customEffectDescriptions.4>
+  <HalfColossusFrame.customEffectDescriptions.5>Значительно повышает бронепробитие в ближнем бою.</HalfColossusFrame.customEffectDescriptions.5>
+  <HalfColossusFrame.customEffectDescriptions.6>Несколько повышает урон в ближнем бою.</HalfColossusFrame.customEffectDescriptions.6>
+  <HalfColossusFrame.customEffectDescriptions.7>Сильно влияет на шанс уклонения в ближнем бою: меньший размер даёт преимущество.</HalfColossusFrame.customEffectDescriptions.7>
+  <HalfColossusFrame.customEffectDescriptions.8>Очень сильно влияет на выработку ресурсов самим персонажем через гены Alpha Genes и Biotech Expansion.</HalfColossusFrame.customEffectDescriptions.8>
+  <OgreFrame.customEffectDescriptions.0>— — — — — — — — — — — — — — — — — — —</OgreFrame.customEffectDescriptions.0>
+  <OgreFrame.customEffectDescriptions.1>— Общие эффекты размера тела —</OgreFrame.customEffectDescriptions.1>
+  <OgreFrame.customEffectDescriptions.2>Изменяет размер тела и связанные с ним свойства.</OgreFrame.customEffectDescriptions.2>
+  <OgreFrame.customEffectDescriptions.3>Очень сильно влияет на потребление пищи.</OgreFrame.customEffectDescriptions.3>
+  <OgreFrame.customEffectDescriptions.4>Сильно изменяет запас здоровья.</OgreFrame.customEffectDescriptions.4>
+  <OgreFrame.customEffectDescriptions.5>Значительно повышает бронепробитие в ближнем бою.</OgreFrame.customEffectDescriptions.5>
+  <OgreFrame.customEffectDescriptions.6>Несколько повышает урон в ближнем бою.</OgreFrame.customEffectDescriptions.6>
+  <OgreFrame.customEffectDescriptions.7>Сильно влияет на шанс уклонения в ближнем бою: меньший размер даёт преимущество.</OgreFrame.customEffectDescriptions.7>
+  <OgreFrame.customEffectDescriptions.8>Очень сильно влияет на выработку ресурсов самим персонажем через гены Alpha Genes и Biotech Expansion.</OgreFrame.customEffectDescriptions.8>
+  <GreatOgreFrame.customEffectDescriptions.0>— — — — — — — — — — — — — — — — — — —</GreatOgreFrame.customEffectDescriptions.0>
+  <GreatOgreFrame.customEffectDescriptions.1>— Общие эффекты размера тела —</GreatOgreFrame.customEffectDescriptions.1>
+  <GreatOgreFrame.customEffectDescriptions.2>Изменяет размер тела и связанные с ним свойства.</GreatOgreFrame.customEffectDescriptions.2>
+  <GreatOgreFrame.customEffectDescriptions.3>Очень сильно влияет на потребление пищи.</GreatOgreFrame.customEffectDescriptions.3>
+  <GreatOgreFrame.customEffectDescriptions.4>Сильно изменяет запас здоровья.</GreatOgreFrame.customEffectDescriptions.4>
+  <GreatOgreFrame.customEffectDescriptions.5>Значительно повышает бронепробитие в ближнем бою.</GreatOgreFrame.customEffectDescriptions.5>
+  <GreatOgreFrame.customEffectDescriptions.6>Несколько повышает урон в ближнем бою.</GreatOgreFrame.customEffectDescriptions.6>
+  <GreatOgreFrame.customEffectDescriptions.7>Сильно влияет на шанс уклонения в ближнем бою: меньший размер даёт преимущество.</GreatOgreFrame.customEffectDescriptions.7>
+  <GreatOgreFrame.customEffectDescriptions.8>Очень сильно влияет на выработку ресурсов самим персонажем через гены Alpha Genes и Biotech Expansion.</GreatOgreFrame.customEffectDescriptions.8>
+  <TitanFrame.customEffectDescriptions.0>— — — — — — — — — — — — — — — — — — —</TitanFrame.customEffectDescriptions.0>
+  <TitanFrame.customEffectDescriptions.1>— Общие эффекты размера тела —</TitanFrame.customEffectDescriptions.1>
+  <TitanFrame.customEffectDescriptions.2>Изменяет размер тела и связанные с ним свойства.</TitanFrame.customEffectDescriptions.2>
+  <TitanFrame.customEffectDescriptions.3>Очень сильно влияет на потребление пищи.</TitanFrame.customEffectDescriptions.3>
+  <TitanFrame.customEffectDescriptions.4>Сильно изменяет запас здоровья.</TitanFrame.customEffectDescriptions.4>
+  <TitanFrame.customEffectDescriptions.5>Значительно повышает бронепробитие в ближнем бою.</TitanFrame.customEffectDescriptions.5>
+  <TitanFrame.customEffectDescriptions.6>Несколько повышает урон в ближнем бою.</TitanFrame.customEffectDescriptions.6>
+  <TitanFrame.customEffectDescriptions.7>Сильно влияет на шанс уклонения в ближнем бою: меньший размер даёт преимущество.</TitanFrame.customEffectDescriptions.7>
+  <TitanFrame.customEffectDescriptions.8>Очень сильно влияет на выработку ресурсов самим персонажем через гены Alpha Genes и Biotech Expansion.</TitanFrame.customEffectDescriptions.8>
+  <BS_EndlessGrowth.customEffectDescriptions.0>— — — — — — — — — — — — — — — — — — —</BS_EndlessGrowth.customEffectDescriptions.0>
+  <BS_EndlessGrowth.customEffectDescriptions.1>— Общие эффекты размера тела —</BS_EndlessGrowth.customEffectDescriptions.1>
+  <BS_EndlessGrowth.customEffectDescriptions.2>Изменяет размер тела и связанные с ним свойства.</BS_EndlessGrowth.customEffectDescriptions.2>
+  <BS_EndlessGrowth.customEffectDescriptions.3>Очень сильно влияет на потребление пищи.</BS_EndlessGrowth.customEffectDescriptions.3>
+  <BS_EndlessGrowth.customEffectDescriptions.4>Сильно изменяет запас здоровья.</BS_EndlessGrowth.customEffectDescriptions.4>
+  <BS_EndlessGrowth.customEffectDescriptions.5>Значительно повышает бронепробитие в ближнем бою.</BS_EndlessGrowth.customEffectDescriptions.5>
+  <BS_EndlessGrowth.customEffectDescriptions.6>Несколько повышает урон в ближнем бою.</BS_EndlessGrowth.customEffectDescriptions.6>
+  <BS_EndlessGrowth.customEffectDescriptions.7>Сильно влияет на шанс уклонения в ближнем бою: меньший размер даёт преимущество.</BS_EndlessGrowth.customEffectDescriptions.7>
+  <BS_EndlessGrowth.customEffectDescriptions.8>Очень сильно влияет на выработку ресурсов самим персонажем через гены Alpha Genes и Biotech Expansion.</BS_EndlessGrowth.customEffectDescriptions.8>
+  <DwarfFrame.customEffectDescriptions.0>— — — — — — — — — — — — — — — — — — —</DwarfFrame.customEffectDescriptions.0>
+  <DwarfFrame.customEffectDescriptions.1>— Общие эффекты размера тела —</DwarfFrame.customEffectDescriptions.1>
+  <DwarfFrame.customEffectDescriptions.2>Изменяет размер тела и связанные с ним свойства.</DwarfFrame.customEffectDescriptions.2>
+  <DwarfFrame.customEffectDescriptions.3>Очень сильно влияет на потребление пищи.</DwarfFrame.customEffectDescriptions.3>
+  <DwarfFrame.customEffectDescriptions.4>Сильно изменяет запас здоровья.</DwarfFrame.customEffectDescriptions.4>
+  <DwarfFrame.customEffectDescriptions.5>Значительно повышает бронепробитие в ближнем бою.</DwarfFrame.customEffectDescriptions.5>
+  <DwarfFrame.customEffectDescriptions.6>Несколько повышает урон в ближнем бою.</DwarfFrame.customEffectDescriptions.6>
+  <DwarfFrame.customEffectDescriptions.7>Сильно влияет на шанс уклонения в ближнем бою: меньший размер даёт преимущество.</DwarfFrame.customEffectDescriptions.7>
+  <DwarfFrame.customEffectDescriptions.8>Очень сильно влияет на выработку ресурсов самим персонажем через гены Alpha Genes и Biotech Expansion.</DwarfFrame.customEffectDescriptions.8>
+  <BS_SmallFrame.customEffectDescriptions.0>— — — — — — — — — — — — — — — — — — —</BS_SmallFrame.customEffectDescriptions.0>
+  <BS_SmallFrame.customEffectDescriptions.1>— Общие эффекты размера тела —</BS_SmallFrame.customEffectDescriptions.1>
+  <BS_SmallFrame.customEffectDescriptions.2>Изменяет размер тела и связанные с ним свойства.</BS_SmallFrame.customEffectDescriptions.2>
+  <BS_SmallFrame.customEffectDescriptions.3>Очень сильно влияет на потребление пищи.</BS_SmallFrame.customEffectDescriptions.3>
+  <BS_SmallFrame.customEffectDescriptions.4>Сильно изменяет запас здоровья.</BS_SmallFrame.customEffectDescriptions.4>
+  <BS_SmallFrame.customEffectDescriptions.5>Значительно повышает бронепробитие в ближнем бою.</BS_SmallFrame.customEffectDescriptions.5>
+  <BS_SmallFrame.customEffectDescriptions.6>Несколько повышает урон в ближнем бою.</BS_SmallFrame.customEffectDescriptions.6>
+  <BS_SmallFrame.customEffectDescriptions.7>Сильно влияет на шанс уклонения в ближнем бою: меньший размер даёт преимущество.</BS_SmallFrame.customEffectDescriptions.7>
+  <BS_SmallFrame.customEffectDescriptions.8>Очень сильно влияет на выработку ресурсов самим персонажем через гены Alpha Genes и Biotech Expansion.</BS_SmallFrame.customEffectDescriptions.8>
+  <GnomeFrame.customEffectDescriptions.0>— — — — — — — — — — — — — — — — — — —</GnomeFrame.customEffectDescriptions.0>
+  <GnomeFrame.customEffectDescriptions.1>— Общие эффекты размера тела —</GnomeFrame.customEffectDescriptions.1>
+  <GnomeFrame.customEffectDescriptions.2>Изменяет размер тела и связанные с ним свойства.</GnomeFrame.customEffectDescriptions.2>
+  <GnomeFrame.customEffectDescriptions.3>Очень сильно влияет на потребление пищи.</GnomeFrame.customEffectDescriptions.3>
+  <GnomeFrame.customEffectDescriptions.4>Сильно изменяет запас здоровья.</GnomeFrame.customEffectDescriptions.4>
+  <GnomeFrame.customEffectDescriptions.5>Значительно повышает бронепробитие в ближнем бою.</GnomeFrame.customEffectDescriptions.5>
+  <GnomeFrame.customEffectDescriptions.6>Несколько повышает урон в ближнем бою.</GnomeFrame.customEffectDescriptions.6>
+  <GnomeFrame.customEffectDescriptions.7>Сильно влияет на шанс уклонения в ближнем бою: меньший размер даёт преимущество.</GnomeFrame.customEffectDescriptions.7>
+  <GnomeFrame.customEffectDescriptions.8>Очень сильно влияет на выработку ресурсов самим персонажем через гены Alpha Genes и Biotech Expansion.</GnomeFrame.customEffectDescriptions.8>
+  <BS_RabbitFrame.customEffectDescriptions.0>— — — — — — — — — — — — — — — — — — —</BS_RabbitFrame.customEffectDescriptions.0>
+  <BS_RabbitFrame.customEffectDescriptions.1>— Общие эффекты размера тела —</BS_RabbitFrame.customEffectDescriptions.1>
+  <BS_RabbitFrame.customEffectDescriptions.2>Изменяет размер тела и связанные с ним свойства.</BS_RabbitFrame.customEffectDescriptions.2>
+  <BS_RabbitFrame.customEffectDescriptions.3>Очень сильно влияет на потребление пищи.</BS_RabbitFrame.customEffectDescriptions.3>
+  <BS_RabbitFrame.customEffectDescriptions.4>Сильно изменяет запас здоровья.</BS_RabbitFrame.customEffectDescriptions.4>
+  <BS_RabbitFrame.customEffectDescriptions.5>Значительно повышает бронепробитие в ближнем бою.</BS_RabbitFrame.customEffectDescriptions.5>
+  <BS_RabbitFrame.customEffectDescriptions.6>Несколько повышает урон в ближнем бою.</BS_RabbitFrame.customEffectDescriptions.6>
+  <BS_RabbitFrame.customEffectDescriptions.7>Сильно влияет на шанс уклонения в ближнем бою: меньший размер даёт преимущество.</BS_RabbitFrame.customEffectDescriptions.7>
+  <BS_RabbitFrame.customEffectDescriptions.8>Очень сильно влияет на выработку ресурсов самим персонажем через гены Alpha Genes и Biotech Expansion.</BS_RabbitFrame.customEffectDescriptions.8>
+  <BS_AriettyFrame.customEffectDescriptions.0>— — — — — — — — — — — — — — — — — — —</BS_AriettyFrame.customEffectDescriptions.0>
+  <BS_AriettyFrame.customEffectDescriptions.1>— Общие эффекты размера тела —</BS_AriettyFrame.customEffectDescriptions.1>
+  <BS_AriettyFrame.customEffectDescriptions.2>Изменяет размер тела и связанные с ним свойства.</BS_AriettyFrame.customEffectDescriptions.2>
+  <BS_AriettyFrame.customEffectDescriptions.3>Очень сильно влияет на потребление пищи.</BS_AriettyFrame.customEffectDescriptions.3>
+  <BS_AriettyFrame.customEffectDescriptions.4>Сильно изменяет запас здоровья.</BS_AriettyFrame.customEffectDescriptions.4>
+  <BS_AriettyFrame.customEffectDescriptions.5>Значительно повышает бронепробитие в ближнем бою.</BS_AriettyFrame.customEffectDescriptions.5>
+  <BS_AriettyFrame.customEffectDescriptions.6>Несколько повышает урон в ближнем бою.</BS_AriettyFrame.customEffectDescriptions.6>
+  <BS_AriettyFrame.customEffectDescriptions.7>Сильно влияет на шанс уклонения в ближнем бою: меньший размер даёт преимущество.</BS_AriettyFrame.customEffectDescriptions.7>
+  <BS_AriettyFrame.customEffectDescriptions.8>Очень сильно влияет на выработку ресурсов самим персонажем через гены Alpha Genes и Biotech Expansion.</BS_AriettyFrame.customEffectDescriptions.8>
+  <VU_Libido_Succubus.customEffectDescriptions.0>Значительно повышает вероятность занятий любовью.</VU_Libido_Succubus.customEffectDescriptions.0>
+  <BS_MajesticBird.customEffectDescriptions.0>Убирает штраф к скорости движения по труднопроходимой местности.</BS_MajesticBird.customEffectDescriptions.0>
+  <BS_MajesticBird_Mid.customEffectDescriptions.0>Убирает штраф к скорости движения по труднопроходимой местности.</BS_MajesticBird_Mid.customEffectDescriptions.0>
+  <BS_AngelWings.customEffectDescriptions.0>Убирает штраф к скорости движения по труднопроходимой местности.</BS_AngelWings.customEffectDescriptions.0>
+  <BS_AngelWings_Mid.customEffectDescriptions.0>Убирает штраф к скорости движения по труднопроходимой местности.</BS_AngelWings_Mid.customEffectDescriptions.0>
+  <BS_GoldenGorgonWings.customEffectDescriptions.0>Убирает штраф к скорости движения по труднопроходимой местности.</BS_GoldenGorgonWings.customEffectDescriptions.0>
+  <BS_GracefulAngelwings.customEffectDescriptions.0>Убирает штраф к скорости движения по труднопроходимой местности.</BS_GracefulAngelwings.customEffectDescriptions.0>
+  <BS_HolyAngelwings.customEffectDescriptions.0>Убирает штраф к скорости движения по труднопроходимой местности.</BS_HolyAngelwings.customEffectDescriptions.0>
+  <BS_MenacingAngelwings.customEffectDescriptions.0>Убирает штраф к скорости движения по труднопроходимой местности.</BS_MenacingAngelwings.customEffectDescriptions.0>
+  <BS_DemonAngelwings.customEffectDescriptions.0>Убирает штраф к скорости движения по труднопроходимой местности.</BS_DemonAngelwings.customEffectDescriptions.0>
+  <BS_SmallDemonWings.customEffectDescriptions.0>Убирает штраф к скорости движения по труднопроходимой местности.</BS_SmallDemonWings.customEffectDescriptions.0>
+  <BS_LargeDemonWings.customEffectDescriptions.0>Убирает штраф к скорости движения по труднопроходимой местности.</BS_LargeDemonWings.customEffectDescriptions.0>
+  <BS_AncientDemonWings.customEffectDescriptions.0>Убирает штраф к скорости движения по труднопроходимой местности.</BS_AncientDemonWings.customEffectDescriptions.0>
+  <LoS_VenomTalons.customEffectDescriptions.0>Эффективность кистей: 90%.</LoS_VenomTalons.customEffectDescriptions.0>
+  <BS_Talons.customEffectDescriptions.0>Эффективность кистей: 90%.</BS_Talons.customEffectDescriptions.0>
+  <BS_Metamorph_TimeTeenage.customEffectDescriptions.0>Если есть другие гены условий метаморфозы, их условия тоже должны выполняться.</BS_Metamorph_TimeTeenage.customEffectDescriptions.0>
+  <BS_Metamorph_TimeTeenage.customEffectDescriptions.1>Допускает переход в любую доступную форму метаморфозы.</BS_Metamorph_TimeTeenage.customEffectDescriptions.1>
+  <BS_Retromorph_TimeUnderTeenage.customEffectDescriptions.0>Если есть другие гены условий метаморфозы, их условия тоже должны выполняться.</BS_Retromorph_TimeUnderTeenage.customEffectDescriptions.0>
+  <BS_Retromorph_TimeUnderTeenage.customEffectDescriptions.1>Допускает возврат к любой доступной предыдущей форме.</BS_Retromorph_TimeUnderTeenage.customEffectDescriptions.1>
+  <BS_Metamorph_TimeAdult.customEffectDescriptions.0>Если есть другие гены условий метаморфозы, их условия тоже должны выполняться.</BS_Metamorph_TimeAdult.customEffectDescriptions.0>
+  <BS_Metamorph_TimeAdult.customEffectDescriptions.1>Допускает переход в любую доступную форму метаморфозы.</BS_Metamorph_TimeAdult.customEffectDescriptions.1>
+  <BS_Retromorph_TimeUnderAdult.customEffectDescriptions.0>Если есть другие гены условий метаморфозы, их условия тоже должны выполняться.</BS_Retromorph_TimeUnderAdult.customEffectDescriptions.0>
+  <BS_Retromorph_TimeUnderAdult.customEffectDescriptions.1>Допускает возврат к любой доступной предыдущей форме.</BS_Retromorph_TimeUnderAdult.customEffectDescriptions.1>
+  <BS_Metamorph_TimeElder.customEffectDescriptions.0>Если есть другие гены условий метаморфозы, их условия тоже должны выполняться.</BS_Metamorph_TimeElder.customEffectDescriptions.0>
+  <BS_Metamorph_TimeElder.customEffectDescriptions.1>Допускает переход в любую доступную форму метаморфозы.</BS_Metamorph_TimeElder.customEffectDescriptions.1>
+  <BS_Retromorph_TimeUnderElder.customEffectDescriptions.0>Если есть другие гены условий метаморфозы, их условия тоже должны выполняться.</BS_Retromorph_TimeUnderElder.customEffectDescriptions.0>
+  <BS_Retromorph_TimeUnderElder.customEffectDescriptions.1>Допускает возврат к любой доступной предыдущей форме.</BS_Retromorph_TimeUnderElder.customEffectDescriptions.1>
+  <BS_Metamorph_Pregnant.customEffectDescriptions.0>Если есть другие гены условий метаморфозы, их условия тоже должны выполняться.</BS_Metamorph_Pregnant.customEffectDescriptions.0>
+  <BS_Metamorph_Pregnant.customEffectDescriptions.1>Допускает переход в любую доступную форму метаморфозы.</BS_Metamorph_Pregnant.customEffectDescriptions.1>
+  <BS_Metamorph_Day.customEffectDescriptions.0>Если есть другие гены условий метаморфозы, их условия тоже должны выполняться.</BS_Metamorph_Day.customEffectDescriptions.0>
+  <BS_Metamorph_Day.customEffectDescriptions.1>Допускает переход в любую доступную форму метаморфозы.</BS_Metamorph_Day.customEffectDescriptions.1>
+  <BS_Metamorph_Night.customEffectDescriptions.0>Если есть другие гены условий метаморфозы, их условия тоже должны выполняться.</BS_Metamorph_Night.customEffectDescriptions.0>
+  <BS_Metamorph_Night.customEffectDescriptions.1>Допускает переход в любую доступную форму метаморфозы.</BS_Metamorph_Night.customEffectDescriptions.1>
+  <BS_SoulPower.customEffectDescriptions.0>Сознание +5%; эффект зависит от силы души.</BS_SoulPower.customEffectDescriptions.0>
+  <BS_SoulPower.customEffectDescriptions.1>Урон в ближнем бою +5%; эффект зависит от силы души.</BS_SoulPower.customEffectDescriptions.1>
+  <BS_SoulPower.customEffectDescriptions.2>Скорость движения +5%; эффект зависит от силы души.</BS_SoulPower.customEffectDescriptions.2>
+  <BS_SoulPower.customEffectDescriptions.3>Снижение урона на 0,05; эффект зависит от силы души.</BS_SoulPower.customEffectDescriptions.3>
+  <BS_SoulPowerGreat.customEffectDescriptions.0>Сознание +5%; эффект зависит от силы души.</BS_SoulPowerGreat.customEffectDescriptions.0>
+  <BS_SoulPowerGreat.customEffectDescriptions.1>Урон в ближнем бою +5%; эффект зависит от силы души.</BS_SoulPowerGreat.customEffectDescriptions.1>
+  <BS_SoulPowerGreat.customEffectDescriptions.2>Скорость движения +5%; эффект зависит от силы души.</BS_SoulPowerGreat.customEffectDescriptions.2>
+  <BS_SoulPowerGreat.customEffectDescriptions.3>Снижение урона на 0,05; эффект зависит от силы души.</BS_SoulPowerGreat.customEffectDescriptions.3>
+  <BS_AnomalousPsychicPower.customEffectDescriptions.0>Повышает психочувствительность на величину, равную 25% силы души.</BS_AnomalousPsychicPower.customEffectDescriptions.0>
+  <BS_AnomalousForm.customEffectDescriptions.0>Размер тела +0,6; эффект зависит от силы души.</BS_AnomalousForm.customEffectDescriptions.0>
+  <BS_AnomalousForm.customEffectDescriptions.1>Богатство для расчёта рейдов +1000; эффект зависит от силы души.</BS_AnomalousForm.customEffectDescriptions.1>
+  <BS_AnomalousForm.customEffectDescriptions.2>Скорость горных работ ×1,35; эффект зависит от силы души.</BS_AnomalousForm.customEffectDescriptions.2>
+  <BS_AnomalousForm.customEffectDescriptions.3>Скорость глубинного бурения ×1,2; эффект зависит от силы души.</BS_AnomalousForm.customEffectDescriptions.3>
+  <BS_AnomalousForm.customEffectDescriptions.4>Скорость строительства ×1,1; эффект зависит от силы души.</BS_AnomalousForm.customEffectDescriptions.4>
+  <BS_AnomalousForm.customEffectDescriptions.5>Богатство для расчёта рейдов ×1,35; эффект зависит от силы души.</BS_AnomalousForm.customEffectDescriptions.5>
+  <BS_AnomalousForm.customEffectDescriptions.6>Переносимый вес, в том числе в караване, ×1,5; эффект зависит от силы души.</BS_AnomalousForm.customEffectDescriptions.6>
+  <BS_AnomalousForm.customEffectDescriptions.7>— — — — — — — — — — — — — — — — — — —</BS_AnomalousForm.customEffectDescriptions.7>
+  <BS_AnomalousForm.customEffectDescriptions.8>— Общие эффекты размера тела —</BS_AnomalousForm.customEffectDescriptions.8>
+  <BS_AnomalousForm.customEffectDescriptions.9>Изменяет размер тела и связанные с ним свойства.</BS_AnomalousForm.customEffectDescriptions.9>
+  <BS_AnomalousForm.customEffectDescriptions.10>Сильно влияет на максимальный запас сытости.</BS_AnomalousForm.customEffectDescriptions.10>
+  <BS_AnomalousForm.customEffectDescriptions.11>Очень сильно влияет на потребление пищи.</BS_AnomalousForm.customEffectDescriptions.11>
+  <BS_AnomalousForm.customEffectDescriptions.12>Сильно изменяет запас здоровья.</BS_AnomalousForm.customEffectDescriptions.12>
+  <BS_AnomalousForm.customEffectDescriptions.13>Изменяет урон, но слабее, чем при линейной зависимости от размера.</BS_AnomalousForm.customEffectDescriptions.13>
+  <BS_AnomalousForm.customEffectDescriptions.14>Сильно влияет на шанс уклонения в ближнем бою: меньший размер даёт преимущество.</BS_AnomalousForm.customEffectDescriptions.14>
+  <BS_AnomalousForm.customEffectDescriptions.15>Очень сильно влияет на выработку ресурсов самим персонажем через гены Alpha Genes и Biotech Expansion.</BS_AnomalousForm.customEffectDescriptions.15>
+  <BS_HealingWithSoul.customEffectDescriptions.0>Повышает скорость заживления ран на величину, равную четырёхкратной силе души.</BS_HealingWithSoul.customEffectDescriptions.0>
+  <BS_TrueForm_Angelic.customEffectDescriptions.0>Эффект гена слабее у персонажей, которые и так велики.</BS_TrueForm_Angelic.customEffectDescriptions.0>
+  <BS_TrueForm_Demonic.customEffectDescriptions.0>Эффект гена слабее у персонажей, которые и так велики.</BS_TrueForm_Demonic.customEffectDescriptions.0>
+  <BS_TrueForm_Goliath.customEffectDescriptions.0>Эффект гена слабее у персонажей, которые и так велики.</BS_TrueForm_Goliath.customEffectDescriptions.0>
+  <BS_TrueForm_Demonic_Hemo.customEffectDescriptions.0>Эффект гена слабее у персонажей, которые и так велики.</BS_TrueForm_Demonic_Hemo.customEffectDescriptions.0>
+  <BS_SlowBleeding.customEffectDescriptions.0>Скорость кровотечения ×0,5.</BS_SlowBleeding.customEffectDescriptions.0>
+  <VU_Unliving.customEffectDescriptions.0>Невосприимчивость к вампиризму.</VU_Unliving.customEffectDescriptions.0>
+  <VU_Unliving.customEffectDescriptions.1>Невосприимчивость к превращению в зомби.</VU_Unliving.customEffectDescriptions.1>
+  <BS_DroneKind.customEffectDescriptions.0>Большинство воспоминаний сохраняется лишь 20% обычного времени.</BS_DroneKind.customEffectDescriptions.0>
+  <BS_DroneKind.customEffectDescriptions.1>Нет реакции на смерть поселенца, если носитель не был её свидетелем.</BS_DroneKind.customEffectDescriptions.1>
+  <BS_DroneKind.customEffectDescriptions.2>Смерть дрона переживается легче.</BS_DroneKind.customEffectDescriptions.2>
+  <BS_Fast_TotalHealing.customEffectDescriptions.0>Заживляет шрамы, восстанавливает утраченные конечности и органы. Эффективность отчасти зависит от скорости заживления ран.</BS_Fast_TotalHealing.customEffectDescriptions.0>
+  <BS_BatteryChargeable.label>подзарядка от сети</BS_BatteryChargeable.label>
+  <BS_BatteryChargeable.description>Носителей этого гена можно подзаряжать на специальных зарядных станциях.
+
+Такой способ довольно неэффективен и расходует много энергии аккумуляторов.</BS_BatteryChargeable.description>
+  <BS_BatteryChargeable.labelShortAdj>перезаряжаемый</BS_BatteryChargeable.labelShortAdj>
+</LanguageData>

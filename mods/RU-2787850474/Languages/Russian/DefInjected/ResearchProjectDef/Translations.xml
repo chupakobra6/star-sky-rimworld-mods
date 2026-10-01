@@ -1,0 +1,255 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFEC_Togas.label>тоги</VFEC_Togas.label>
+  <VFEC_Togas.description>Изготавливать тоги — повседневную одежду граждан республики.</VFEC_Togas.description>
+  <VFEC_Togas.generalRules.rulesStrings>
+    <li>subject-&gt;тоги</li>
+    <li>subject-&gt;ткань общества</li>
+    <li>subject_gen-&gt;тог</li>
+    <li>subject_gen-&gt;ткани общества</li>
+    <li>subject_dat-&gt;тогам</li>
+    <li>subject_dat-&gt;ткани общества</li>
+    <li>subject_pre_about-&gt;о тогах</li>
+    <li>subject_pre_about-&gt;о ткани общества</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? вернул : вернула : вернуло} тоге изящество и простоту, вновь сделав её символом гражданства и утончённого вкуса</li>
+    <li>subject_gerund-&gt;облачения республики в достоинство и грацию её предков</li>
+  </VFEC_Togas.generalRules.rulesStrings>
+  <VFEC_TemperatureControl.label>контроль температуры</VFEC_TemperatureControl.label>
+  <VFEC_TemperatureControl.description>Позволяет строить большие испарительные охладители, способные без электричества понижать температуру в помещении ниже нуля, и примитивные каменные обогреватели.</VFEC_TemperatureControl.description>
+  <VFEC_TemperatureControl.generalRules.rulesStrings>
+    <li>subject-&gt;контроль температуры</li>
+    <li>subject-&gt;власть над стихиями</li>
+    <li>subject_gen-&gt;контроля температуры</li>
+    <li>subject_gen-&gt;власти над стихиями</li>
+    <li>subject_dat-&gt;контролю температуры</li>
+    <li>subject_dat-&gt;власти над стихиями</li>
+    <li>subject_pre_about-&gt;о контроле температуры</li>
+    <li>subject_pre_about-&gt;о власти над стихиями</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? освоил : освоила : освоило} естественные способы противостоять капризам погоды, создавая уютные помещения с помощью пассивных охладителей и горячих камней</li>
+    <li>subject_gerund-&gt;создания тёплых и прохладных убежищ вопреки условиям внешнего мира</li>
+  </VFEC_TemperatureControl.generalRules.rulesStrings>
+  <VFEC_MeatDrying.label>сушка мяса</VFEC_MeatDrying.label>
+  <VFEC_MeatDrying.description>Позволяет строить стойки для вяления мяса, чтобы надолго сохранять его и готовить древнеримский деликатес.</VFEC_MeatDrying.description>
+  <VFEC_MeatDrying.generalRules.rulesStrings>
+    <li>subject-&gt;сушка мяса</li>
+    <li>subject-&gt;наследие консервации</li>
+    <li>subject_gen-&gt;сушки мяса</li>
+    <li>subject_gen-&gt;наследия консервации</li>
+    <li>subject_dat-&gt;сушке мяса</li>
+    <li>subject_dat-&gt;наследию консервации</li>
+    <li>subject_pre_about-&gt;о сушке мяса</li>
+    <li>subject_pre_about-&gt;о наследии консервации</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? возродил : возродила : возродило} древнее искусство вяления мяса, обеспечив запасы пищи и порадовав ценителей вкусами, отточенными временем</li>
+    <li>subject_gerund-&gt;продления изобилия охотничьей добычи благодаря мудрости древних</li>
+  </VFEC_MeatDrying.generalRules.rulesStrings>
+  <VFEC_Mosaics.label>мозаики</VFEC_Mosaics.label>
+  <VFEC_Mosaics.description>Позволяет выкладывать красивые каменные мозаики разных цветов и форм. Работа занимает много времени.</VFEC_Mosaics.description>
+  <VFEC_Mosaics.generalRules.rulesStrings>
+    <li>subject-&gt;мозаики</li>
+    <li>subject-&gt;мозаика цивилизации</li>
+    <li>subject_gen-&gt;мозаик</li>
+    <li>subject_gen-&gt;мозаики цивилизации</li>
+    <li>subject_dat-&gt;мозаикам</li>
+    <li>subject_dat-&gt;мозаике цивилизации</li>
+    <li>subject_pre_about-&gt;о мозаиках</li>
+    <li>subject_pre_about-&gt;о мозаике цивилизации</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? создал : создала : создало} каменные мозаики, в которых красота и истории обретают выражение через цвет и форму</li>
+    <li>subject_gerund-&gt;воплощения истории народа в камнях, которыми вымощен его путь</li>
+  </VFEC_Mosaics.generalRules.rulesStrings>
+  <VFEC_Thermaebath.label>термы</VFEC_Thermaebath.label>
+  <VFEC_Thermaebath.description>Позволяет строить большие термы с подогревом воды от паровых гейзеров. В них одновременно купаются до 8 человек; иногда совместное купание приводит к групповой близости.</VFEC_Thermaebath.description>
+  <VFEC_Thermaebath.generalRules.rulesStrings>
+    <li>subject-&gt;термы</li>
+    <li>subject-&gt;святилища пара</li>
+    <li>subject_gen-&gt;терм</li>
+    <li>subject_gen-&gt;святилищ пара</li>
+    <li>subject_dat-&gt;термам</li>
+    <li>subject_dat-&gt;святилищам пара</li>
+    <li>subject_pre_about-&gt;о термах</li>
+    <li>subject_pre_about-&gt;о святилищах пара</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? построил : построила : построило} термы — общие места отдыха и тепла, согреваемые дыханием земли</li>
+    <li>subject_gerund-&gt;укрепления общего благополучия и близости в объятиях природного тепла</li>
+  </VFEC_Thermaebath.generalRules.rulesStrings>
+  <VFEC_DramaAndComedy.label>драма и комедия</VFEC_DramaAndComedy.label>
+  <VFEC_DramaAndComedy.description>Позволяет ставить драматические и комедийные представления на театральной сцене для отдыха и развлечения.</VFEC_DramaAndComedy.description>
+  <VFEC_DramaAndComedy.generalRules.rulesStrings>
+    <li>subject-&gt;драма и комедия</li>
+    <li>subject-&gt;сцена жизни</li>
+    <li>subject_gen-&gt;драмы и комедии</li>
+    <li>subject_gen-&gt;сцены жизни</li>
+    <li>subject_dat-&gt;драме и комедии</li>
+    <li>subject_dat-&gt;сцене жизни</li>
+    <li>subject_pre_about-&gt;о драме и комедии</li>
+    <li>subject_pre_about-&gt;о сцене жизни</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? возродил : возродила : возродило} вечные искусства драмы и комедии, обогащая душу республики представлениями и игрой</li>
+    <li>subject_gerund-&gt;отражения человеческой жизни, от трагедии до фарса, на общей сцене</li>
+  </VFEC_DramaAndComedy.generalRules.rulesStrings>
+  <VFEC_BronzeWorking.label>производство бронзы</VFEC_BronzeWorking.label>
+  <VFEC_BronzeWorking.description>Позволяет смешивать сталь с каменными обломками, получая большое количество несколько менее прочного металла.</VFEC_BronzeWorking.description>
+  <VFEC_BronzeWorking.generalRules.rulesStrings>
+    <li>subject-&gt;производство бронзы</li>
+    <li>subject-&gt;сплав античности</li>
+    <li>subject_gen-&gt;производства бронзы</li>
+    <li>subject_gen-&gt;сплава античности</li>
+    <li>subject_dat-&gt;производству бронзы</li>
+    <li>subject_dat-&gt;сплаву античности</li>
+    <li>subject_pre_about-&gt;о производстве бронзы</li>
+    <li>subject_pre_about-&gt;о сплаве античности</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? открыл : открыла : открыло} способ соединения стали с камнем для получения бронзы, положив начало новой эпохе металлургии</li>
+    <li>subject_gerund-&gt;открытия эпохи, в которой металл становится основой прогресса и могущества</li>
+  </VFEC_BronzeWorking.generalRules.rulesStrings>
+  <VFEC_CraftingBench.label>рабочий стол</VFEC_CraftingBench.label>
+  <VFEC_CraftingBench.description>Позволяет строить рабочие столы для изготовления простых предметов, например дубинок и луков.</VFEC_CraftingBench.description>
+  <VFEC_CraftingBench.generalRules.rulesStrings>
+    <li>subject-&gt;рабочий стол</li>
+    <li>subject-&gt;основа ремесленника</li>
+    <li>subject_gen-&gt;рабочего стола</li>
+    <li>subject_gen-&gt;основы ремесленника</li>
+    <li>subject_dat-&gt;рабочему столу</li>
+    <li>subject_dat-&gt;основе ремесленника</li>
+    <li>subject_pre_about-&gt;о рабочем столе</li>
+    <li>subject_pre_about-&gt;об основе ремесленника</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? сделал : сделала : сделало} ремесленные верстаки центром производства, где сырьё превращается в инструменты и ценные изделия</li>
+    <li>subject_gerund-&gt;созидания будущего с каждым изготовленным предметом, от простейшей дубины до самого точного лука</li>
+  </VFEC_CraftingBench.generalRules.rulesStrings>
+  <VFEC_CementMaking.label>производство цемента</VFEC_CementMaking.label>
+  <VFEC_CementMaking.description>Построить цементный пресс для превращения обломков камня в чрезвычайно прочный каменный материал.</VFEC_CementMaking.description>
+  <VFEC_CementMaking.generalRules.rulesStrings>
+    <li>subject-&gt;производство цемента</li>
+    <li>subject-&gt;основа цивилизации</li>
+    <li>subject_gen-&gt;производства цемента</li>
+    <li>subject_gen-&gt;основы цивилизации</li>
+    <li>subject_dat-&gt;производству цемента</li>
+    <li>subject_dat-&gt;основе цивилизации</li>
+    <li>subject_pre_about-&gt;о производстве цемента</li>
+    <li>subject_pre_about-&gt;об основе цивилизации</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? изобрёл : изобрела : изобрело} производство цемента, превратив камень в прочное основание для строительства империй</li>
+    <li>subject_gerund-&gt;закладки основания долговечных строений и памятников благодаря прочности цемента</li>
+  </VFEC_CementMaking.generalRules.rulesStrings>
+  <VFEC_WoodfiredCrematorium.label>дровяной крематорий</VFEC_WoodfiredCrematorium.label>
+  <VFEC_WoodfiredCrematorium.description>Позволяет строить огромные каменные крематории на дровах, сжигающие тела при высокой температуре.</VFEC_WoodfiredCrematorium.description>
+  <VFEC_WoodfiredCrematorium.generalRules.rulesStrings>
+    <li>subject-&gt;крематорий</li>
+    <li>subject-&gt;очищение огнём</li>
+    <li>subject_gen-&gt;крематория</li>
+    <li>subject_gen-&gt;очищения огнём</li>
+    <li>subject_dat-&gt;крематорию</li>
+    <li>subject_dat-&gt;очищению огнём</li>
+    <li>subject_pre_about-&gt;о крематории</li>
+    <li>subject_pre_about-&gt;об очищении огнём</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? разработал : разработала : разработало} дровяной крематорий — способ обращения с умершими, учитывающий и культурные обычаи, и требования санитарии</li>
+    <li>subject_gerund-&gt;принятия круговорота жизни и смерти через очистительную силу огня</li>
+  </VFEC_WoodfiredCrematorium.generalRules.rulesStrings>
+  <VFEC_TyrianProduction.label>пурпур</VFEC_TyrianProduction.label>
+  <VFEC_TyrianProduction.description>Позволяет строить на речных берегах фермы пурпура, где обычная ткань окрашивается и превращается в дорогую ткань для знати.</VFEC_TyrianProduction.description>
+  <VFEC_TyrianProduction.generalRules.rulesStrings>
+    <li>subject-&gt;пурпур</li>
+    <li>subject-&gt;оттенок королей</li>
+    <li>subject_gen-&gt;пурпура</li>
+    <li>subject_gen-&gt;оттенка королей</li>
+    <li>subject_dat-&gt;пурпуру</li>
+    <li>subject_dat-&gt;оттенку королей</li>
+    <li>subject_pre_about-&gt;о пурпуре</li>
+    <li>subject_pre_about-&gt;об оттенке королей</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? устроил : устроила : устроило} тирские хозяйства вдоль речных берегов и {ANYPAWN_gender ? освоил : освоила : освоило} окрашивание ткани в царский пурпур — символ богатства и положения</li>
+    <li>subject_gerund-&gt;переплетения ткани общества цветами, вызывающими уважение и восхищение</li>
+  </VFEC_TyrianProduction.generalRules.rulesStrings>
+  <VFEC_RoadBuilding.label>прокладка дорог</VFEC_RoadBuilding.label>
+  <VFEC_RoadBuilding.description>Строить тропы, грунтовые и каменные дороги прямо на карте мира, чтобы караваны передвигались быстрее.</VFEC_RoadBuilding.description>
+  <VFEC_RoadBuilding.generalRules.rulesStrings>
+    <li>subject-&gt;прокладка дорог</li>
+    <li>subject-&gt;пути прогресса</li>
+    <li>subject_gen-&gt;прокладки дорог</li>
+    <li>subject_gen-&gt;путей прогресса</li>
+    <li>subject_dat-&gt;прокладке дорог</li>
+    <li>subject_dat-&gt;путям прогресса</li>
+    <li>subject_pre_about-&gt;о прокладке дорог</li>
+    <li>subject_pre_about-&gt;о путях прогресса</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? проложил : проложила : проложило} путь к расширению цивилизации, строя дороги, соединяя поселения и развивая торговлю</li>
+    <li>subject_gerund-&gt;прокладки артерий торговли и общения с каждой новой дорогой, ведущей цивилизацию вперёд</li>
+  </VFEC_RoadBuilding.generalRules.rulesStrings>
+  <VFEC_HeavyShieldMaking.label>тяжёлые щиты</VFEC_HeavyShieldMaking.label>
+  <VFEC_HeavyShieldMaking.description>Позволяет изготавливать скутумы — тяжёлые щиты легионеров.</VFEC_HeavyShieldMaking.description>
+  <VFEC_HeavyShieldMaking.generalRules.rulesStrings>
+    <li>subject-&gt;тяжёлые щиты</li>
+    <li>subject-&gt;оплот легиона</li>
+    <li>subject_gen-&gt;тяжёлых щитов</li>
+    <li>subject_gen-&gt;оплота легиона</li>
+    <li>subject_dat-&gt;тяжёлым щитам</li>
+    <li>subject_dat-&gt;оплоту легиона</li>
+    <li>subject_pre_about-&gt;о тяжёлых щитах</li>
+    <li>subject_pre_about-&gt;об оплоте легиона</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? возродил : возродила : возродило} традицию изготовления тяжёлых щитов, дающих непревзойдённую защиту тем, кто держит строй</li>
+    <li>subject_gerund-&gt;изготовления щитов-скутумов, надёжных защитников легионеров</li>
+  </VFEC_HeavyShieldMaking.generalRules.rulesStrings>
+  <VFEC_LegionaryArmaments.label>снабжение легиона</VFEC_LegionaryArmaments.label>
+  <VFEC_LegionaryArmaments.description>Позволяет изготавливать палатки, метательные копья, спаты и кинжалы для оснащения легионов.</VFEC_LegionaryArmaments.description>
+  <VFEC_LegionaryArmaments.generalRules.rulesStrings>
+    <li>subject-&gt;снабжение легиона</li>
+    <li>subject-&gt;арсенал древних</li>
+    <li>subject_gen-&gt;снабжения легиона</li>
+    <li>subject_gen-&gt;арсенала древних</li>
+    <li>subject_dat-&gt;снабжению легиона</li>
+    <li>subject_dat-&gt;арсеналу древних</li>
+    <li>subject_pre_about-&gt;о снабжении легиона</li>
+    <li>subject_pre_about-&gt;об арсенале древних</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? освоил : освоила : освоило} изготовление дротиков, спат и кинжалов, обеспечив легиону гибкость и готовность к бою</li>
+    <li>subject_gerund-&gt;оснащения легионов разнообразным оружием для завоеваний и обороны</li>
+  </VFEC_LegionaryArmaments.generalRules.rulesStrings>
+  <VFEC_LegionnaireArmor.label>доспех легионера</VFEC_LegionnaireArmor.label>
+  <VFEC_LegionnaireArmor.description>Позволяет изготавливать тяжёлую броню легионеров, надёжно защищающую от колюще-режущих повреждений.</VFEC_LegionnaireArmor.description>
+  <VFEC_LegionnaireArmor.generalRules.rulesStrings>
+    <li>subject-&gt;доспех легионера</li>
+    <li>subject-&gt;железная кожа</li>
+    <li>subject_gen-&gt;доспеха легионера</li>
+    <li>subject_gen-&gt;железной кожи</li>
+    <li>subject_dat-&gt;доспеху легионера</li>
+    <li>subject_dat-&gt;железной коже</li>
+    <li>subject_pre_about-&gt;о доспехе легионера</li>
+    <li>subject_pre_about-&gt;о железной коже</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? создал : создала : создало} тяжёлую броню, превращающую воинов в несокрушимую силу на поле боя и позволяющую выдержать самые свирепые удары</li>
+    <li>subject_gerund-&gt;облачения легионеров в броню, сплетающую неуязвимость из нитей войны</li>
+  </VFEC_LegionnaireArmor.generalRules.rulesStrings>
+  <VFEC_CenturionArmor.label>доспех центуриона</VFEC_CenturionArmor.label>
+  <VFEC_CenturionArmor.description>Ковать доспехи центурионов, в которых достойно вести воинов в героические сражения.</VFEC_CenturionArmor.description>
+  <VFEC_CenturionArmor.generalRules.rulesStrings>
+    <li>subject-&gt;доспех центуриона</li>
+    <li>subject-&gt;мантия командования</li>
+    <li>subject_gen-&gt;доспеха центуриона</li>
+    <li>subject_gen-&gt;мантии командования</li>
+    <li>subject_dat-&gt;доспеху центуриона</li>
+    <li>subject_dat-&gt;мантии командования</li>
+    <li>subject_pre_about-&gt;о доспехе центуриона</li>
+    <li>subject_pre_about-&gt;о мантии командования</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? выковал : выковала : выковало} доспехи центурионов, дав командирам и защиту, и внушительный облик</li>
+    <li>subject_gerund-&gt;облачения командиров в доспехи, достойные их доблести и благородства</li>
+  </VFEC_CenturionArmor.generalRules.rulesStrings>
+  <VFEC_Scorpion.label>скорпионы</VFEC_Scorpion.label>
+  <VFEC_Scorpion.description>Позволяет строить скорпионы — переносные полевые орудия, которые также можно использовать как тяжёлые полуавтоматические арбалеты.</VFEC_Scorpion.description>
+  <VFEC_Scorpion.generalRules.rulesStrings>
+    <li>subject-&gt;скорпионы</li>
+    <li>subject-&gt;жало легиона</li>
+    <li>subject_gen-&gt;скорпионов</li>
+    <li>subject_gen-&gt;жала легиона</li>
+    <li>subject_dat-&gt;скорпионам</li>
+    <li>subject_dat-&gt;жалу легиона</li>
+    <li>subject_pre_about-&gt;о скорпионах</li>
+    <li>subject_pre_about-&gt;о жале легиона</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? разработал : разработала : разработало} скорпионы, сочетающие точность арбалета с разрушительной силой полевой артиллерии</li>
+    <li>subject_gerund-&gt;применения смертоносной точности древних боевых машин на современном поле боя</li>
+  </VFEC_Scorpion.generalRules.rulesStrings>
+  <VFEC_Beacons.label>сигнальный огонь</VFEC_Beacons.label>
+  <VFEC_Beacons.description>Строить большие деревянные сигнальные костры, которые при зажигании гарантированно вызывают дружественные подкрепления.</VFEC_Beacons.description>
+  <VFEC_Beacons.generalRules.rulesStrings>
+    <li>subject-&gt;сигнальный огонь</li>
+    <li>subject-&gt;костры призыва</li>
+    <li>subject_gen-&gt;сигнального огня</li>
+    <li>subject_gen-&gt;костров призыва</li>
+    <li>subject_dat-&gt;сигнальному огню</li>
+    <li>subject_dat-&gt;кострам призыва</li>
+    <li>subject_pre_about-&gt;о сигнальном огне</li>
+    <li>subject_pre_about-&gt;о кострах призыва</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? построил : построила : построило} большие деревянные сигнальные костры, чей свет в небесах зовёт союзников на поле боя</li>
+    <li>subject_gerund-&gt;соединения судеб союзников пламенем, ведущим их в сражение</li>
+  </VFEC_Beacons.generalRules.rulesStrings>
+</LanguageData>

@@ -1,0 +1,22 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BS_PlayerTribeXenoPlus.label>Новое ксеноплемя</BS_PlayerTribeXenoPlus.label>
+  <BS_PlayerTribeXenoPlus.description>Небольшое племя на планете с большим разнообразием ксенотипов.</BS_PlayerTribeXenoPlus.description>
+  <BS_PlayerTribeXenoPlus.leaderTitle>лидер</BS_PlayerTribeXenoPlus.leaderTitle>
+  <BS_PlayerColonyXenoPlus.leaderTitle>лидер</BS_PlayerColonyXenoPlus.leaderTitle>
+  <BS_ZombieFaction.leaderTitle>лидер</BS_ZombieFaction.leaderTitle>
+  <BS_PlayerTribeXenoPlus.messageDefendersAttacking>{0} из фракции {1} атакуют ваших {lookup: {2}; Case; 3}.</BS_PlayerTribeXenoPlus.messageDefendersAttacking>
+  <BS_PlayerColonyXenoPlus.messageDefendersAttacking>{0} из фракции {1} атакуют ваших {lookup: {2}; Case; 3}.</BS_PlayerColonyXenoPlus.messageDefendersAttacking>
+  <BS_ZombieFaction.messageDefendersAttacking>{0} из фракции {1} атакуют ваших {lookup: {2}; Case; 3}.</BS_ZombieFaction.messageDefendersAttacking>
+  <BS_PlayerTribeXenoPlus.pawnSingular>соплеменник</BS_PlayerTribeXenoPlus.pawnSingular>
+  <BS_PlayerTribeXenoPlus.pawnsPlural>соплеменники</BS_PlayerTribeXenoPlus.pawnsPlural>
+  <BS_PlayerColonyXenoPlus.label>Прибывшие ксенолюди</BS_PlayerColonyXenoPlus.label>
+  <BS_PlayerColonyXenoPlus.description>Колония недавно прибывших переселенцев с других планет, оказавшихся в мире с большим разнообразием ксенотипов.</BS_PlayerColonyXenoPlus.description>
+  <BS_PlayerColonyXenoPlus.pawnSingular>поселенец</BS_PlayerColonyXenoPlus.pawnSingular>
+  <BS_PlayerColonyXenoPlus.pawnsPlural>поселенцы</BS_PlayerColonyXenoPlus.pawnsPlural>
+  <BS_ZombieFaction.label>потерянные</BS_ZombieFaction.label>
+  <BS_ZombieFaction.description>Эти существа почти утратили рассудок и нападают на всех без разбора.</BS_ZombieFaction.description>
+  <BS_ZombieFaction.fixedName>Потерянные</BS_ZombieFaction.fixedName>
+  <BS_ZombieFaction.pawnSingular>берсерк</BS_ZombieFaction.pawnSingular>
+  <BS_ZombieFaction.pawnsPlural>берсерки</BS_ZombieFaction.pawnsPlural>
+</LanguageData>

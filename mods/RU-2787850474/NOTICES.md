@@ -1,0 +1,25 @@
+# Источники и уведомления
+
+Русский перевод [Vanilla Factions Expanded - Classical](https://steamcommunity.com/sharedfiles/filedetails/?id=2787850474). Авторы оригинального мода: Oskar Potocki, ISOREX, xrushha, legodude17 и Chowder.
+
+Исходный проект: [Vanilla-Expanded/VanillaFactionsExpanded-Classical](https://github.com/Vanilla-Expanded/VanillaFactionsExpanded-Classical). Авторство проверено по About/About.xml установленного оригинала 1 октября 2026 года.
+
+## Тексты и код
+
+Собственные русские тексты выпускаются под [CC BY-SA 4.0](LICENSE). Отдельная лицензия оригинала в проверенных установленных файлах не найдена. CC BY-SA 4.0 охватывает только права на наш вклад и не заменяет условия исходных и иных чужих материалов.
+
+Русский перевод и редактура: chupakobra6 | Star Sky Mods, 2026. Изменения: перевод интерфейса, настроек и определений на русский язык; терминологическая и грамматическая редактура. CC BY-SA 4.0 охватывает собственный вклад в `Languages/Russian/` и переведённые строковые значения в `Source/` и собранной DLL.
+
+Собственный код интеграции C# в `Source/` и его собранная форма, кроме строк перевода, распространяются под [MIT](Licenses/MIT.txt). Самостоятельные сопроводительные тексты README, описания и истории изменений — под [CC BY-SA 4.0](LICENSE). Эти лицензии не заменяют условия исходных и иных чужих материалов. Ранее выданные права на полученные копии сохраняются.
+
+Перевод распространяется отдельно и требует оригинальный мод.
+
+## Уведомление Ludeon
+
+Материалы RimWorld принадлежат Ludeon Studios; перевод не является официальной работой студии и не одобрен ею. Обязательное уведомление:
+
+Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.
+
+## Оформление
+
+Основа обложки — файл `About/Preview` оригинального мода из [Workshop-пакета](https://steamcommunity.com/sharedfiles/filedetails/?id=2787850474); права на исходную иллюстрацию сохраняются за её правообладателями. Оформление Star Sky Mods добавлено поверх оригинала. Разрешено показывать название и знак Star Sky Mods для ссылки на проект и описания его работ; нельзя выдавать свою работу за официальную или создавать впечатление одобрения автором. Условия бренда и лицензии нашего вклада не заменяют условия исходной иллюстрации.

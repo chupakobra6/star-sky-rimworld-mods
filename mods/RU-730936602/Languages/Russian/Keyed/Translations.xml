@@ -1,0 +1,125 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Feature_Achtung_Formations>Строй</Feature_Achtung_Formations>
+  <PositioningSettingsHeader>Расстановка</PositioningSettingsHeader>
+  <PositioningDraggingTitle>Перетаскивание и строй</PositioningDraggingTitle>
+  <PositioningEnabledTitle>Расстановка мышью</PositioningEnabledTitle>
+  <PositioningEnabledExplained>Включает расстановку правой кнопкой мыши, перетаскивание поселенцев и управление строем Achtung.</PositioningEnabledExplained>
+  <AchtungModifierExplained>Удерживайте эту клавишу при расстановке, чтобы призвать выбранных поселенцев. При перетаскивании правой кнопкой мыши они сохраняют строй. После нажатия правой кнопки клавишу Achtung! можно отпустить. Q и E поворачивают строй.</AchtungModifierExplained>
+  <CommandMenuModeOptionAutoExplained>Выбирать между контекстным меню и расстановкой поселенцев в зависимости от того, призваны ли они.</CommandMenuModeOptionAutoExplained>
+  <CommandMenuModeOptionPressForPosition>Клавиша расстановки</CommandMenuModeOptionPressForPosition>
+  <CommandMenuModeOptionPressForPositionExplained>Удерживайте клавишу, чтобы расставлять поселенцев вместо открытия контекстного меню.</CommandMenuModeOptionPressForPositionExplained>
+  <CommandMenuModeOptionDelayedExplained>Нажмите правую кнопку для расстановки; удерживайте её заданное время, чтобы открыть контекстное меню.</CommandMenuModeOptionDelayedExplained>
+  <DraftedColonistDraggingModeExplained>Определяет, когда нажатие правой кнопки на призванном поселенце начинает перетаскивание или расстановку в строй.</DraftedColonistDraggingModeExplained>
+  <DraftedColonistDraggingModeOptionAlwaysExplained>Нажатие правой кнопки на призванном поселенце всегда позволяет перетаскивать его или расставлять строй.</DraftedColonistDraggingModeOptionAlwaysExplained>
+  <RescueEnabledExplained>Добавить приоритет работы «Спасение», чтобы поселенцы автоматически переносили в кровати союзников, которые не могут передвигаться.</RescueEnabledExplained>
+  <BuildingSmartDesc>Не даёт оставлять недоступные участки и замуровывать строителей. Строительство идёт медленнее, продвигаясь от начальной точки наружу.</BuildingSmartDesc>
+  <HealthLevelOptionShouldBeTendedNow>Требуется немедленное лечение</HealthLevelOptionShouldBeTendedNow>
+  <IgnoreAssignmentsTitle>Игнорировать отключённые виды работ</IgnoreAssignmentsTitle>
+  <IgnoreAssignmentsExplained>Разрешить принудительную работу, даже если приоритет соответствующего вида работ отключён.</IgnoreAssignmentsExplained>
+  <JobInterruptedBadHealth>{0}: плохое состояние здоровья.</JobInterruptedBadHealth>
+  <CouldNotFindMoreForcedWork>{0}: больше не удалось найти принудительную работу. Оставшиеся цели, вероятно, заняты или недоступны.</CouldNotFindMoreForcedWork>
+  <WorkType_Rescue_Description>Переносить в кровати для лечения союзников, которые не могут передвигаться.</WorkType_Rescue_Description>
+  <AchtungModKeyOptionAlt>Alt</AchtungModKeyOptionAlt>
+  <AchtungModKeyOptionCtrl>Ctrl</AchtungModKeyOptionCtrl>
+  <AchtungModKeyOptionMeta>Win/Cmd</AchtungModKeyOptionMeta>
+  <AchtungModKeyOptionNone>Отключено</AchtungModKeyOptionNone>
+  <AchtungModKeyOptionShift>Shift</AchtungModKeyOptionShift>
+  <AchtungModifierTitle>Клавиша Achtung!</AchtungModifierTitle>
+  <AchtungTutorialButton>Обучение</AchtungTutorialButton>
+  <AlreadyDoing>(Задание № {0})</AlreadyDoing>
+  <BreakLevelExplained>Прекращать принудительную работу, когда риск психического срыва у поселенца достигает этого уровня.</BreakLevelExplained>
+  <BreakLevelOptionAlmostExtreme>Почти тяжёлый</BreakLevelOptionAlmostExtreme>
+  <BreakLevelOptionExtreme>Тяжёлый</BreakLevelOptionExtreme>
+  <BreakLevelOptionMajor>Серьёзный</BreakLevelOptionMajor>
+  <BreakLevelOptionMinor>Лёгкий</BreakLevelOptionMinor>
+  <BreakLevelOptionNone>Игнорировать</BreakLevelOptionNone>
+  <BreakLevelTitle>Риск нервного срыва</BreakLevelTitle>
+  <BuildingSmart>Умное строительство</BuildingSmart>
+  <BuildingSmartExplained>По умолчанию использовать более безопасный порядок строительства для новых принудительных заданий.</BuildingSmartExplained>
+  <BuildingSmartTitle>Умное строительство по умолчанию</BuildingSmartTitle>
+  <CleanRoomDescription>Убрать всю комнату, а не только одно место.</CleanRoomDescription>
+  <CleanRoomInfoText>Тщательная уборка комнаты</CleanRoomInfoText>
+  <CleanRoomLabel>Убрать комнату (Achtung)</CleanRoomLabel>
+  <CleanRoomReport>Уборка{0}: {1}</CleanRoomReport>
+  <CommandMenuModeOptionAuto>Режим призыва</CommandMenuModeOptionAuto>
+  <CommandMenuModeOptionDelayed>Удерживать для меню</CommandMenuModeOptionDelayed>
+  <CommandMenuModeOptionPressForMenu>Клавиша меню</CommandMenuModeOptionPressForMenu>
+  <CommandMenuModeOptionPressForMenuExplained>Удерживайте клавишу, чтобы открыть контекстное меню вместо выполнения действия по умолчанию.</CommandMenuModeOptionPressForMenuExplained>
+  <DecreaseForceRadius>Уменьшить радиус</DecreaseForceRadius>
+  <DecreaseForceRadiusDesc>Уменьшает радиус поиска принудительной работы (сейчас {0}).</DecreaseForceRadiusDesc>
+  <DelayExplained>Время удержания правой кнопки мыши до открытия контекстного меню, в миллисекундах.</DelayExplained>
+  <DelayTitle>Задержка открытия меню</DelayTitle>
+  <DraftedColonistDraggingModeOptionAlways>Всегда</DraftedColonistDraggingModeOptionAlways>
+  <DraftedColonistDraggingModeOptionOff>Выкл</DraftedColonistDraggingModeOptionOff>
+  <DraftedColonistDraggingModeOptionOffExplained>Щелчок правой кнопкой мыши по призванным поселенцам не начинает перетаскивание.</DraftedColonistDraggingModeOptionOffExplained>
+  <DraftedColonistDraggingModeOptionUnselected>Никто не выбран</DraftedColonistDraggingModeOptionUnselected>
+  <DraftedColonistDraggingModeOptionUnselectedExplained>Начинать перетаскивание, только если до щелчка правой кнопкой мыши не был выбран ни один поселенец, которому можно отдавать приказы.</DraftedColonistDraggingModeOptionUnselectedExplained>
+  <DraftedColonistDraggingModeTitle>Поселенцы в режиме призыва</DraftedColonistDraggingModeTitle>
+  <Feature_Achtung_Cooperation>Совместная работа</Feature_Achtung_Cooperation>
+  <Feature_Achtung_Draftstatus>Режим призыва</Feature_Achtung_Draftstatus>
+  <Feature_Achtung_Dragging>Перетаскивание в режиме призыва</Feature_Achtung_Dragging>
+  <Feature_Achtung_Forcing>Принудительная работа</Feature_Achtung_Forcing>
+  <Feature_Achtung_FourModes>Четыре режима</Feature_Achtung_FourModes>
+  <Feature_Achtung_MenuError>Ошибки меню</Feature_Achtung_MenuError>
+  <Feature_Achtung_Rescue>Спасение</Feature_Achtung_Rescue>
+  <Feature_Achtung_Settings>Настройки</Feature_Achtung_Settings>
+  <Feature_Achtung_Welcome>Добро пожаловать в Achtung!</Feature_Achtung_Welcome>
+  <FireFightDescription>Полностью тушит пожар даже вне домашней области.</FireFightDescription>
+  <FireFightInfoText>Тушит пожар</FireFightInfoText>
+  <FireFightLabel>Потушить пожар (Achtung)</FireFightLabel>
+  <FireFightReport>Тушение пожара: {0}</FireFightReport>
+  <ForceCommandMenuKeyTitle>Клавиша-переключатель</ForceCommandMenuKeyTitle>
+  <ForceCommandMenuModeTitle>Режим правой кнопки мыши</ForceCommandMenuModeTitle>
+  <ForceCommandsEnabledExplained>Показывать кнопку с молнией у обычных заданий в меню правой кнопки мыши. Она запускает принудительную работу и может добавлять подходящие цели поблизости.</ForceCommandsEnabledExplained>
+  <ForceCommandsEnabledTitle>Команды принудительной работы</ForceCommandsEnabledTitle>
+  <ForceMenuButtonText>Заставить</ForceMenuButtonText>
+  <ForcedCommandState>Приказано продолжать работу до завершения.</ForcedCommandState>
+  <ForcedWorkWasInterrupted>{0}: принудительная работа была прервана.</ForcedWorkWasInterrupted>
+  <ForcingCommandsTitle>Команды</ForcingCommandsTitle>
+  <ForcingFeedbackTitle>Маркеры и уведомления</ForcingFeedbackTitle>
+  <ForcingJobBehaviorTitle>Поведение при работе</ForcingJobBehaviorTitle>
+  <ForcingSettingsHeader>Принудительная работа</ForcingSettingsHeader>
+  <ForcingStopRulesTitle>Правила остановки</ForcingStopRulesTitle>
+  <HealthLevelExplained>Прекращать принудительную работу, когда здоровье поселенца ухудшается до этого состояния.</HealthLevelExplained>
+  <HealthLevelOptionInPainShock>Болевой шок</HealthLevelOptionInPainShock>
+  <HealthLevelOptionNeedsMedicalRest>Срочно нужен постельный режим</HealthLevelOptionNeedsMedicalRest>
+  <HealthLevelOptionNone>Игнорировать</HealthLevelOptionNone>
+  <HealthLevelOptionPrefersMedicalRest>Нужен постельный режим</HealthLevelOptionPrefersMedicalRest>
+  <HealthLevelTitle>Состояние здоровья</HealthLevelTitle>
+  <IgnoreForbiddenExplained>Разрешает принудительную работу с запрещёнными предметами.</IgnoreForbiddenExplained>
+  <IgnoreForbiddenTitle>Игнорировать запреты</IgnoreForbiddenTitle>
+  <IgnoreRestrictionsExplained>Разрешает принудительную работу вне доступной области поселенца.</IgnoreRestrictionsExplained>
+  <IgnoreRestrictionsTitle>Игнорировать ограничения доступной области</IgnoreRestrictionsTitle>
+  <IncreaseForceRadius>Увеличить радиус</IncreaseForceRadius>
+  <IncreaseForceRadiusDesc>Увеличивает радиус поиска принудительной работы (сейчас {0}).</IncreaseForceRadiusDesc>
+  <JobInterruptedBreakdown>{0}: {1}</JobInterruptedBreakdown>
+  <JobInterruptedLabel>Отменено: {0}</JobInterruptedLabel>
+  <KeepDraftedAndUndraftedCommandsSeparateExplained>Разделять команды правой кнопки мыши для призванных и непризванных поселенцев, как в RimWorld без модов.</KeepDraftedAndUndraftedCommandsSeparateExplained>
+  <KeepDraftedAndUndraftedCommandsSeparateTitle>Разделять команды по режиму призыва</KeepDraftedAndUndraftedCommandsSeparateTitle>
+  <MaxForcedItemsExplained>Ограничить количество подходящих целей поблизости, которые Achtung добавляет к одному приказу на принудительную работу.</MaxForcedItemsExplained>
+  <MaxForcedItemsTitle>Лимит целей принудительной работы</MaxForcedItemsTitle>
+  <MaxForcedItemsUnlimited>Не ограничен</MaxForcedItemsUnlimited>
+  <NoForcedWork>Нет принудительной работы</NoForcedWork>
+  <PositioningRightClickTitle>Правая кнопка</PositioningRightClickTitle>
+  <ReplaceCleanRoomExplained>Использовать команду тщательной уборки комнаты из Achtung вместо команды RimWorld.</ReplaceCleanRoomExplained>
+  <ReplaceCleanRoomTitle>Заменить команду «Убрать комнату»</ReplaceCleanRoomTitle>
+  <ReplaceFightFireExplained>Использовать команду тщательного тушения пожара из Achtung вместо команды RimWorld.</ReplaceFightFireExplained>
+  <ReplaceFightFireTitle>Заменить команду «Потушить пожар»</ReplaceFightFireTitle>
+  <RescueEnabledTitle>Столбец «Спасение» на вкладке «Работа»</RescueEnabledTitle>
+  <ShowForceEndLetterExplained>Показывать письмо, когда у поселенца не остаётся принудительной работы.</ShowForceEndLetterExplained>
+  <ShowForceEndLetterTitle>Сообщать о завершении работы</ShowForceEndLetterTitle>
+  <SowZoneDescription>Засевает всю зону выращивания или комнату.</SowZoneDescription>
+  <SowZoneInfoText>Засевает зону или комнату</SowZoneInfoText>
+  <SowZoneLabel>Засеять эту зону или комнату</SowZoneLabel>
+  <SowZoneReport>Посев{0}: {1}</SowZoneReport>
+  <WorkMarkersExplained>Показывает небольшие маркеры на целях принудительной работы.</WorkMarkersExplained>
+  <WorkMarkersOptionAnimated>Анимированные</WorkMarkersOptionAnimated>
+  <WorkMarkersOptionOff>Выкл</WorkMarkersOptionOff>
+  <WorkMarkersOptionStatic>Статичные</WorkMarkersOptionStatic>
+  <WorkMarkersTitle>Маркеры принудительной работы</WorkMarkersTitle>
+  <WorkType_Rescue_GerundLabel>спасение</WorkType_Rescue_GerundLabel>
+  <WorkType_Rescue_Label>спасение</WorkType_Rescue_Label>
+  <WorkType_Rescue_PawnLabel>Спасатель</WorkType_Rescue_PawnLabel>
+  <WorkType_Rescue_Verb>Спасти</WorkType_Rescue_Verb>
+</LanguageData>

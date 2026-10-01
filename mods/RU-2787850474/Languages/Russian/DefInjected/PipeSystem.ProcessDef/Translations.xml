@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFEC_PressConcrete.label>Изготовить бетон из обломка</VFEC_PressConcrete.label>
+  <VFEC_PressConcrete.description>Переработать 1 каменный обломок в 75 ед. бетона.</VFEC_PressConcrete.description>
+  <VFEC_DryMeat.label>Завялить мясо</VFEC_DryMeat.label>
+  <VFEC_DryMeat.description>Приготовить 75 ед. вяленого мяса из 75 ед. сырого мяса.</VFEC_DryMeat.description>
+  <VFEC_ProcessCloth.label>Окрасить ткань пурпуром</VFEC_ProcessCloth.label>
+  <VFEC_ProcessCloth.description>Получить 150 ед. пурпурной ткани из 150 ед. обычной ткани.</VFEC_ProcessCloth.description>
+  <VFEC_PressConcrete.labelOverride>Изготовить 75 ед. бетона из 1 каменного обломка</VFEC_PressConcrete.labelOverride>
+  <VFEC_DryMeat.labelOverride>Приготовить 75 ед. вяленого мяса из 75 ед. мяса</VFEC_DryMeat.labelOverride>
+  <VFEC_ProcessCloth.labelOverride>Получить 150 ед. пурпурной ткани из 150 ед. ткани</VFEC_ProcessCloth.labelOverride>
+</LanguageData>

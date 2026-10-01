@@ -1,0 +1,17 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Outpost_Farming.label>фермерский аванпост</Outpost_Farming.label>
+  <Outpost_Farming.description>Самостоятельно управляемый временный лагерь, где выращивают неприхотливые растения. Нельзя размещать в пустынях. Когда накопится достаточно урожая, его доставят к краю карты основного поселения фракции.</Outpost_Farming.description>
+  <Outpost_Hunting.label>аванпост охотников</Outpost_Hunting.label>
+  <Outpost_Hunting.description>Самостоятельно управляемый временный лагерь охотников и мясников. Когда накопится достаточно добычи, её доставят к краю карты основного поселения фракции.</Outpost_Hunting.description>
+  <Outpost_Logging.label>аванпост лесорубов</Outpost_Logging.label>
+  <Outpost_Logging.description>Самостоятельно управляемый временный лагерь для заготовки древесины. Нельзя размещать в пустынях. Когда накопится достаточно дерева, его доставят к краю карты основного поселения фракции.</Outpost_Logging.description>
+  <Outpost_Mining.label>аванпост шахтёров</Outpost_Mining.label>
+  <Outpost_Mining.description>Самостоятельно управляемый временный лагерь для добычи и обработки камня или металлов. Размещается только в холмах или горах. Когда накопится достаточно ресурсов, их доставят к краю карты основного поселения фракции.</Outpost_Mining.description>
+  <Outpost_Farming.modExtensions.0.ChooseDesc>Выбрать растение для выращивания на аванпосте.</Outpost_Farming.modExtensions.0.ChooseDesc>
+  <Outpost_Farming.modExtensions.0.ChooseLabel>Выбрать растение</Outpost_Farming.modExtensions.0.ChooseLabel>
+  <Outpost_Hunting.modExtensions.0.ChooseDesc>Выбрать животное для охоты на аванпосте.</Outpost_Hunting.modExtensions.0.ChooseDesc>
+  <Outpost_Hunting.modExtensions.0.ChooseLabel>Добыча: {0}</Outpost_Hunting.modExtensions.0.ChooseLabel>
+  <Outpost_Mining.modExtensions.0.ChooseDesc>Изменить добываемый ресурс.</Outpost_Mining.modExtensions.0.ChooseDesc>
+  <Outpost_Mining.modExtensions.0.ChooseLabel>Добывается: {0}</Outpost_Mining.modExtensions.0.ChooseLabel>
+</LanguageData>

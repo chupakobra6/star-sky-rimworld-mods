@@ -1,0 +1,19 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VTE.HasDestroyedItem>{PAWN_nameDef} уничтожает только что созданный предмет из-за недостаточно высокого качества.</VTE.HasDestroyedItem>
+  <VTE.GotBruise>{PAWN_nameDef} получает ушиб из-за неуклюжести.</VTE.GotBruise>
+  <VTE.CantBeWokenUpHeavySleeper>{PAWN_nameDef} слишком крепко спит, чтобы перейти в боевой режим.</VTE.CantBeWokenUpHeavySleeper>
+  <VTE.DecisesInterruptCurrentCostructionJob>{PAWN_nameDef} из-за перфекционизма на время бросает проект: {0}.</VTE.DecisesInterruptCurrentCostructionJob>
+  <VTE.CavaranSpeedIsDoubledWanderlusts>Жажда странствий позволяет путешествовать с увеличенной скоростью</VTE.CavaranSpeedIsDoubledWanderlusts>
+  <VTE.KleptomaniacStealsItemFrom>{PAWN_nameDef} крадёт имущество другой фракции. Это может ухудшить отношения между фракциями.</VTE.KleptomaniacStealsItemFrom>
+  <VTE.KleptomaniacFailedToStealItemFrom>{PAWN_nameDef}: попытка кражи имущества другой фракции замечена. Это может ухудшить отношения между фракциями.</VTE.KleptomaniacFailedToStealItemFrom>
+  <VTE.PawnBreaksChairs>{PAWN_nameDef} повреждает мебель из-за своего веса или неудобной позы: {0}.</VTE.PawnBreaksChairs>
+  <VTE.PawnStoleItem>{PAWN_nameDef} совершает кражу. Украдено: {0}. Владелец: {VICTIM_nameDef}.</VTE.PawnStoleItem>
+  <VTE.PawnFailedToStealItem>{PAWN_nameDef}: кража не удалась. Предмет: {0}. Владелец: {VICTIM_nameDef}. Фракция персонажа {VICTIM_nameDef} возмущена.</VTE.PawnFailedToStealItem>
+  <VTE.PawnCowardlyFlees>{PAWN_nameDef} трусливо бежит с поля боя.</VTE.PawnCowardlyFlees>
+  <VTE.PawnCowardlyExitMapHostile>{PAWN_nameDef} трусливо бежит с поля боя.</VTE.PawnCowardlyExitMapHostile>
+  <VTE.PawnCowardlyExitMapAlly>{PAWN_nameDef} трусливо бежит с поля боя.</VTE.PawnCowardlyExitMapAlly>
+  <VTE.PawnCowardlyExitMapNeutral>{PAWN_nameDef} трусливо бежит с поля боя.</VTE.PawnCowardlyExitMapNeutral>
+  <VTE.PawnStopsForcedJob>{PAWN_nameDef} игнорирует или забывает приказ и на время прекращает работу.</VTE.PawnStopsForcedJob>
+  <VTE.VictimDropsEquipmentMartialArtist>{PAWN_nameDef} проводит обезоруживающий приём в ближнем бою. Противник: {VICTIM_nameDef}.</VTE.VictimDropsEquipmentMartialArtist>
+</LanguageData>

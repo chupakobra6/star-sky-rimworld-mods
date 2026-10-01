@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Body_Size.label>размер тела</Body_Size.label>
+  <Body_Size_Multiplier.label>множитель размера тела</Body_Size_Multiplier.label>
+  <BS_Diet.label>Питание</BS_Diet.label>
+  <BS_Learning.label>Обучение</BS_Learning.label>
+  <BS_Armour.label>Броня</BS_Armour.label>
+  <BS_Pilotable.label>Управляемое тело</BS_Pilotable.label>
+  <BS_InnateAttacks.label>Природные атаки</BS_InnateAttacks.label>
+  <BS_Production.label>Производство</BS_Production.label>
+  <BS_Aging.label>Старение</BS_Aging.label>
+  <BS_Soul_Category.label>Душа</BS_Soul_Category.label>
+  <LoS_Snake_Vis.label>Змеиные части тела</LoS_Snake_Vis.label>
+  <LoS_Snake_NoVis.label>Змеиная природа</LoS_Snake_NoVis.label>
+  <BS_Horns.label>Рога</BS_Horns.label>
+  <BS_DO_NOT.label>Не выбирайте эти гены</BS_DO_NOT.label>
+  <VU_Unliving.label>неживая природа</VU_Unliving.label>
+  <BS_BodySwap.label>Изменение тела</BS_BodySwap.label>
+  <BS_Deathless.label>Преодоление смерти</BS_Deathless.label>
+  <BS_Transformation.label>Превращения</BS_Transformation.label>
+</LanguageData>

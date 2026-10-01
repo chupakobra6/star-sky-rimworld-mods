@@ -26,29 +26,20 @@
   <loadAfter>
     <li>vanillaexpanded.vfepropsanddecor</li>
   </loadAfter>
-  <description>Русский перевод Vanilla Furniture Expanded - Props and Decor (https://steamcommunity.com/sharedfiles/filedetails/?id=2102143149) для RimWorld 1.6. Оригинальный мод устанавливается отдельно.
+  <description>Русский перевод Vanilla Furniture Expanded - Props and Decor (https://steamcommunity.com/sharedfiles/filedetails/?id=2102143149) для RimWorld 1.6. Оригинальный мод устанавливается отдельно
 
-Переведены названия и описания декораций, категории меню, настройки и строка, встроенная в код. Оригинальный мод помогает обустроить колонию сотнями предметов: от растений и мебели до деталей космического корабля. Это декорации, а не работающие устройства.
+Vanilla Furniture Expanded - Props and Decor получил вычитанный русский текст с едиными названиями
 
-&lt;b&gt;ЧТО ПЕРЕВЕДЕНО&lt;/b&gt;
-Переведены тексты декораций, настройки и подписи игрового интерфейса.
-
-• Названия и описания декоративных предметов и растений, в том числе содержимого для подключённых дополнений.
-• Категории и короткие подписи в меню размещения декораций.
-• Настройки стоимости и возврата серебра, сообщения и строка из кода мода.
-
-&lt;b&gt;КАК ПОЛЬЗОВАТЬСЯ&lt;/b&gt;
-Выберите русский язык в настройках RimWorld.
-
-Размещайте предметы через меню декораций. Их стоимость и долю возвращаемого серебра можно менять в настройках Vanilla Furniture Expanded - Props and Decor.
+&lt;b&gt;О ПЕРЕВОДЕ&lt;/b&gt;
+Я перевёл и вычитал текст Vanilla Furniture Expanded - Props and Decor, сверяя формулировки со смыслом оригинала. Выберите русский язык в настройках RimWorld
 
 &lt;b&gt;СОВМЕСТИМОСТЬ&lt;/b&gt;
-Требуются Harmony (https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077), Vanilla Expanded Framework (https://steamcommunity.com/sharedfiles/filedetails/?id=2023507013) и Vanilla Furniture Expanded - Props and Decor (https://steamcommunity.com/sharedfiles/filedetails/?id=2102143149). Порядок загрузки: Harmony → Vanilla Expanded Framework → оригинальный мод → этот перевод.
+Требуются Harmony (https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077), Vanilla Expanded Framework (https://steamcommunity.com/sharedfiles/filedetails/?id=2023507013) и Vanilla Furniture Expanded - Props and Decor (https://steamcommunity.com/sharedfiles/filedetails/?id=2102143149). Порядок загрузки: Harmony → Vanilla Expanded Framework → оригинальный мод → этот перевод
 
 &lt;b&gt;ОБРАТНАЯ СВЯЗЬ&lt;/b&gt;
-Заметили ошибку или неточность? Напишите в комментариях на странице мода или на Boosty.
+Заметили ошибку или неточность? Напишите в комментариях на странице мода или на Boosty
 
-Авторы оригинального мода: Oskar Potocki, Sarg Bjornson.
+Авторы оригинального мода: Oskar Potocki, Sarg Bjornson
 
 Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.</description>
 </ModMetaData>

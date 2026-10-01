@@ -1,0 +1,63 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFEC_MeatDryingRackNotWorking>Мясо сейчас не вялится</VFEC_MeatDryingRackNotWorking>
+  <VFEC_ConcretePressNotWorking>Пресс сейчас не работает</VFEC_ConcretePressNotWorking>
+  <VFEC_TyrianFarmNotWorking>Ткань сейчас не окрашивается</VFEC_TyrianFarmNotWorking>
+  <VFEC.Letters.SenatorJoins>Присоединение сенатора: {0}</VFEC.Letters.SenatorJoins>
+  <VFEC.Letters.SenatorJoins.Desc>К вам присоединяется сенатор фракции {1}: {0}. Открыта привилегия «{2}».</VFEC.Letters.SenatorJoins.Desc>
+  <VFEC.Letters.SenatorJoins.Desc.Research>Они также поделились с вами знаниями: исследование «{0}» завершено автоматически.</VFEC.Letters.SenatorJoins.Desc.Research>
+  <VFEC.Letters.SenatorJoins.Desc.All>Теперь вас поддерживают все сенаторы фракции {0}. Открыта привилегия «{1}», а смерть сенатора больше не лишит вас полученных привилегий.</VFEC.Letters.SenatorJoins.Desc.All>
+  <VFEC.Letters.SenatorJoins.Desc.All.Research>Общие знания всех {0} сенаторов также позволили завершить исследование «{1}».</VFEC.Letters.SenatorJoins.Desc.All.Research>
+  <VFEC.Letters.SenatorLost>Гибель сенатора: {0}</VFEC.Letters.SenatorLost>
+  <VFEC.Letters.SenatorLost.Desc>Сенатора фракции {1} больше нет в живых: {0}. Теперь {1} изберёт замену, и вам придётся заново заслужить поддержку. Привилегия «{2}» утрачена.</VFEC.Letters.SenatorLost.Desc>
+  <VFEC.Letters.Donation>Получена дань от {0}</VFEC.Letters.Donation>
+  <VFEC.Letters.Donation.Desc>Фракция {0} передала вам дань: {1}.</VFEC.Letters.Donation.Desc>
+  <VFEC.Letters.Researched>Получена технология: «{0}»</VFEC.Letters.Researched>
+  <VFEC.Letters.Researched.Desc>Недавно {1} удалось добиться технологического прорыва, и теперь эта технология доступна и вам.
+Открытая технология:
+{0}</VFEC.Letters.Researched.Desc>
+  <VFEC.Senators.Open>Открыть экран сенаторов</VFEC.Senators.Open>
+  <VFEC.Senators.GainFavor>Вы получаете поддержку сенатора фракции {1}: {0}.</VFEC.Senators.GainFavor>
+  <VFEC.Senators.FavorOf>Поддержка: {0}</VFEC.Senators.FavorOf>
+  <VFEC.Senators.FavorTip>Вы заслужите поддержку сенатора, который присоединится к вашей колонии: {0}. Откроется соответствующая привилегия и автоматически завершится связанное с ней исследование.</VFEC.Senators.FavorTip>
+  <VFEC.TransferToColony>Отправить в поселение</VFEC.TransferToColony>
+  <VFEC.PerkUnlocked>Привилегия {0} разблокирована.</VFEC.PerkUnlocked>
+  <VFEC.Scorpion.PickUp>Поднять скорпион</VFEC.Scorpion.PickUp>
+  <VFEC.Scorpion.SetUp>Установить скорпион</VFEC.Scorpion.SetUp>
+  <VFEC.LightTheBeacon>Зажечь костёр</VFEC.LightTheBeacon>
+  <VFEC.Cooldown>Ещё не готово.</VFEC.Cooldown>
+  <VFEC.NoAllies>Нет союзников.</VFEC.NoAllies>
+  <VFEC.NoReinforce>Нет доступных подкреплений.</VFEC.NoReinforce>
+  <VFEC.NoHostiles>у союзников нет врагов</VFEC.NoHostiles>
+  <VFEC.ReinforcementLegionFailed>Легион подкрепления не в состоянии помочь: {0}.</VFEC.ReinforcementLegionFailed>
+  <VFEC.LightTheBeacon.Desc>Зажечь сигнальный костёр для вызова подкреплений.</VFEC.LightTheBeacon.Desc>
+  <VFEC.BuildingRoad>Строительство дороги: {0}. Прогресс: {1} ({2}/{3})</VFEC.BuildingRoad>
+  <VFEC.RoadFinished>Дорога готова: {1}. Караван: {0}.</VFEC.RoadFinished>
+  <VFEC.Unknown>Неизвестно</VFEC.Unknown>
+  <Outposts.MustBeMade>Место размещения: {0}</Outposts.MustBeMade>
+  <Outposts.MustBeMade.Hill>Нужно создать в горах или на холмах</Outposts.MustBeMade.Hill>
+  <Outposts.SkillTooLow>Общий уровень навыка слишком низок. Требуется {0}</Outposts.SkillTooLow>
+  <Outposts.Settings.Shooting>Влияние навыка стрельбы</Outposts.Settings.Shooting>
+  <Outposts.Settings.Animals>Влияние навыка обращения с животными</Outposts.Settings.Animals>
+  <Outposts.Settings.NeedPods>Требовать технологию транспортных капсул для отправки подкреплений?</Outposts.Settings.NeedPods>
+  <Outposts.Settings.Leather>Множитель добычи кожи</Outposts.Settings.Leather>
+  <Outposts.Settings.Meat>Множитель добычи мяса</Outposts.Settings.Meat>
+  <VFEC.UI.SenatorsOf>Сенаторы: {0}</VFEC.UI.SenatorsOf>
+  <VFEC.UI.GainingFavor>Благосклонность этого сенатора откроет:</VFEC.UI.GainingFavor>
+  <VFEC.UI.Perk>Привилегия «{0}»</VFEC.UI.Perk>
+  <VFEC.UI.Research>Исследование «{0}»</VFEC.UI.Research>
+  <VFEC.UI.ReQuest>Запросить задание</VFEC.UI.ReQuest>
+  <VFEC.UI.Bribe>Взятка ({0} серебра)</VFEC.UI.Bribe>
+  <VFEC.UI.GainingFavorAll>Поддержка всех сенаторов откроет:</VFEC.UI.GainingFavorAll>
+  <VFEC.UI.SenatorsInFavor>Поддержавшие вас сенаторы: {0}/{1}</VFEC.UI.SenatorsInFavor>
+  <VFEC.UI.Info>Сенатор, чью поддержку вы заслужили, присоединяется к вашей колонии. После его смерти придётся добиваться расположения нового сенатора, поэтому берегите своих сторонников.
+
+Поддержка всех сенаторов открывает уникальные привилегии и позволяет со временем объединить республики под вашей властью. Когда вас поддержат все 5 сенаторов одной республики, её привилегии останутся с вами навсегда, независимо от дальнейшей судьбы сенаторов.</VFEC.UI.Info>
+  <VFEC.UI.NotEnoughMoney>У вас не хватает денег для этого.</VFEC.UI.NotEnoughMoney>
+  <VFEC.UI.BribeReject>Взятка отвергнута. Этого сенатора больше нельзя подкупить: {0}.</VFEC.UI.BribeReject>
+  <VFEC.UI.AlreadyQuest>Задание от этого сенатора уже взято.</VFEC.UI.AlreadyQuest>
+  <VFEC.UI.ViewPerks>Показать привилегии</VFEC.UI.ViewPerks>
+  <VFEC.UI.ViewSenators>Показать сенаторов</VFEC.UI.ViewSenators>
+  <VFEC.UI.NoQuestsAvailable>У этого сенатора пока нет доступных заданий.</VFEC.UI.NoQuestsAvailable>
+  <VFEC.Senators.RequiresCaravan>Чтобы обратиться к сенату, караван должен находиться в этом поселении.</VFEC.Senators.RequiresCaravan>
+</LanguageData>

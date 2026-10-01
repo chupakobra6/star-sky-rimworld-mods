@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BS_MinTemp_HugeDecrease_Android_Astrogene.symbolPack.prefixSymbols.0.symbol>крио</BS_MinTemp_HugeDecrease_Android_Astrogene.symbolPack.prefixSymbols.0.symbol>
+  <BS_MaxTemp_HugeIncrease_Android_Astrogene.symbolPack.prefixSymbols.0.symbol>жаро</BS_MaxTemp_HugeIncrease_Android_Astrogene.symbolPack.prefixSymbols.0.symbol>
+  <BS_MaxTemp_HugeIncrease_Android_Astrogene.symbolPack.prefixSymbols.1.symbol>термо</BS_MaxTemp_HugeIncrease_Android_Astrogene.symbolPack.prefixSymbols.1.symbol>
+  <BS_MaxTemp_HugeIncrease_Android_Astrogene.symbolPack.prefixSymbols.2.symbol>гелио</BS_MaxTemp_HugeIncrease_Android_Astrogene.symbolPack.prefixSymbols.2.symbol>
+  <BS_MaxTemp_HugeIncrease_Android_Astrogene.symbolPack.prefixSymbols.3.symbol>пото</BS_MaxTemp_HugeIncrease_Android_Astrogene.symbolPack.prefixSymbols.3.symbol>
+  <BS_MaxTemp_HugeIncrease_Android_Astrogene.symbolPack.prefixSymbols.4.symbol>пиро</BS_MaxTemp_HugeIncrease_Android_Astrogene.symbolPack.prefixSymbols.4.symbol>
+  <BS_FireImmunity_Android_Astrogene.symbolPack.prefixSymbols.0.symbol>пено</BS_FireImmunity_Android_Astrogene.symbolPack.prefixSymbols.0.symbol>
+  <BS_FireImmunity_Android_Astrogene.symbolPack.suffixSymbols.0.symbol>пено</BS_FireImmunity_Android_Astrogene.symbolPack.suffixSymbols.0.symbol>
+  <BS_FireImmunity_Android_Astrogene.symbolPack.prefixSymbols.1.symbol>влаго</BS_FireImmunity_Android_Astrogene.symbolPack.prefixSymbols.1.symbol>
+  <BS_AndroidEVA_Gene_Astrogene.label>герметичный корпус</BS_AndroidEVA_Gene_Astrogene.label>
+  <BS_AndroidEVA_Gene_Astrogene.description>Эта модификация позволяет андроиду выдерживать космический вакуум. Однако она мало помогает против холода и замедленного движения в пустоте.</BS_AndroidEVA_Gene_Astrogene.description>
+  <BS_MinTemp_HugeDecrease_Android_Astrogene.label>невосприимчивость к холоду</BS_MinTemp_HugeDecrease_Android_Astrogene.label>
+  <BS_MinTemp_HugeDecrease_Android_Astrogene.description>Этот андроид выдерживает температуры, близкие к абсолютному нулю.</BS_MinTemp_HugeDecrease_Android_Astrogene.description>
+  <BS_MinTemp_HugeDecrease_Android_Astrogene.labelShortAdj>леденящий</BS_MinTemp_HugeDecrease_Android_Astrogene.labelShortAdj>
+  <BS_MaxTemp_HugeIncrease_Android_Astrogene.label>невосприимчивость к жаре</BS_MaxTemp_HugeIncrease_Android_Astrogene.label>
+  <BS_MaxTemp_HugeIncrease_Android_Astrogene.description>Этот андроид выдерживает невероятно высокие температуры.</BS_MaxTemp_HugeIncrease_Android_Astrogene.description>
+  <BS_MaxTemp_HugeIncrease_Android_Astrogene.labelShortAdj>кипящий</BS_MaxTemp_HugeIncrease_Android_Astrogene.labelShortAdj>
+  <BS_FireImmunity_Android_Astrogene.label>невосприимчивость к огню</BS_FireImmunity_Android_Astrogene.label>
+  <BS_FireImmunity_Android_Astrogene.description>Андроиды с этими модификациями не боятся огня и большинства тепловых атак.</BS_FireImmunity_Android_Astrogene.description>
+  <BS_FireImmunity_Android_Astrogene.labelShortAdj>огнеупорный</BS_FireImmunity_Android_Astrogene.labelShortAdj>
+</LanguageData>

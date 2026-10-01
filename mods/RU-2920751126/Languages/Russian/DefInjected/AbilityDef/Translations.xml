@@ -1,0 +1,74 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BS_StickyAcidSpray.label>струя липкой кислоты</BS_StickyAcidSpray.label>
+  <BS_StickyAcidSpray.description>Выпускает из желёз веер липкой кислоты. Она прилипает к целям и обжигает их.</BS_StickyAcidSpray.description>
+  <BS_SnekEngulf_New.label>поглотить</BS_SnekEngulf_New.label>
+  <BS_SnekEngulf_New.description>Прыгает к цели и заглатывает её.</BS_SnekEngulf_New.description>
+  <BS_SnekEngulf_New.verbProperties.label>Ой-ой</BS_SnekEngulf_New.verbProperties.label>
+  <BS_Parasite.verbProperties.label>Ой-ой</BS_Parasite.verbProperties.label>
+  <VU_Pounce.label>засада</VU_Pounce.label>
+  <VU_Pounce.description>Прыгает в указанное место неподалёку.</VU_Pounce.description>
+  <VU_Pounce.verbProperties.label>прыжок</VU_Pounce.verbProperties.label>
+  <BS_Regenerate.label>ксенореконструкция</BS_Regenerate.label>
+  <BS_Regenerate.description>Излечивает самое тяжёлое нарушение здоровья у цели, затрачивая большое количество энергии.</BS_Regenerate.description>
+  <VU_Hermaphromorph.label>сменить пол</VU_Hermaphromorph.label>
+  <VU_Hermaphromorph.description>Меняет биологический пол.</VU_Hermaphromorph.description>
+  <VU_Hermaphromorph.verbProperties.label>смена пола</VU_Hermaphromorph.verbProperties.label>
+  <BS_FoamSpray.label>веер пены</BS_FoamSpray.label>
+  <BS_FoamSpray.description>Выпускает через рот густой веер огнегасящей пены, которую вырабатывают железы в шее. Пена покрывает небольшой участок и тушит любой огонь, которого касается.
+
+Откровенно превосходит обычное распыление пены.</BS_FoamSpray.description>
+  <BS_Regurgitate.label>отрыгнуть</BS_Regurgitate.label>
+  <BS_Regurgitate.description>Отрыгивает всё проглоченное.</BS_Regurgitate.description>
+  <BS_Regurgitate.verbProperties.label>отрыгивание</BS_Regurgitate.verbProperties.label>
+  <BS_EjectPilot.label>высадить оператора</BS_EjectPilot.label>
+  <BS_EjectPilot.description>Высаживает оператора из управляемого тела.
+
+Если это тело теряет способность передвигаться, оператор через некоторое время высаживается автоматически.</BS_EjectPilot.description>
+  <BS_EjectPilot.verbProperties.label>высадка оператора</BS_EjectPilot.verbProperties.label>
+  <BS_Incorporate_Abillity.label>усвоить ген</BS_Incorporate_Abillity.label>
+  <BS_Incorporate_Abillity.description>Позволяет забирать гены из трупа.
+
+На выбор предлагается не менее четырёх вариантов. Некоторые черты характера можно превратить в гены.
+
+Если эффективность метаболизма станет слишком низкой, случайные гены будут удаляться, пока она не вернётся к допустимому уровню (предел: −9).</BS_Incorporate_Abillity.description>
+  <BS_Mimic_Abillity.label>мимикрия</BS_Mimic_Abillity.label>
+  <BS_Mimic_Abillity.description>Позволяет забрать все гены из трупа и использовать их как собственные ксеногены.</BS_Mimic_Abillity.description>
+  <BS_StopMimic.label>прекратить мимикрию</BS_StopMimic.label>
+  <BS_StopMimic.description>Прекращает мимикрию и пытается вернуть исходную форму. Прежний пол, телосложение и… причёска при этом не восстанавливаются.</BS_StopMimic.description>
+  <BS_StopMimic.verbProperties.label>прекращение мимикрии</BS_StopMimic.verbProperties.label>
+  <BS_IntegrateGenes.label>закрепить гены</BS_IntegrateGenes.label>
+  <BS_IntegrateGenes.description>Закрепляет все ксеногены в наследственном геноме. Изменение становится постоянным и НЕОБРАТИМЫМ.</BS_IntegrateGenes.description>
+  <BS_IntegrateGenes.verbProperties.label>закрепление генов</BS_IntegrateGenes.verbProperties.label>
+  <BS_DisintegrateXenoGenes.label>разрушить ксеногены</BS_DisintegrateXenoGenes.label>
+  <BS_DisintegrateXenoGenes.description>Удаляет все ксеногены, за исключением немногих, которые нельзя убрать этим способом.</BS_DisintegrateXenoGenes.description>
+  <BS_DisintegrateXenoGenes.verbProperties.label>удаление ксеногенов</BS_DisintegrateXenoGenes.verbProperties.label>
+  <BS_Parasite.label>паразитировать</BS_Parasite.label>
+  <BS_Parasite.description>Прыгает на цель, проникает в её нервную систему и влияет на её действия.
+
+Действует только на оглушённые цели или цели с пониженным сознанием.</BS_Parasite.description>
+  <BS_AngelicForm_Abillity.label>истинная форма</BS_AngelicForm_Abillity.label>
+  <BS_DemonicForm_Abillity.label>истинная форма</BS_DemonicForm_Abillity.label>
+  <BS_GoliathForm_Abillity.label>истинная форма</BS_GoliathForm_Abillity.label>
+  <BS_DemonicForm_Hemo_Abillity.label>истинная форма</BS_DemonicForm_Hemo_Abillity.label>
+  <BS_AngelicForm_Abillity.description>Временно принимает более могущественную форму.</BS_AngelicForm_Abillity.description>
+  <BS_DemonicForm_Abillity.description>Временно принимает более могущественную форму.</BS_DemonicForm_Abillity.description>
+  <BS_GoliathForm_Abillity.description>Временно принимает более могущественную форму.</BS_GoliathForm_Abillity.description>
+  <BS_DemonicForm_Hemo_Abillity.description>Временно принимает более могущественную форму.</BS_DemonicForm_Hemo_Abillity.description>
+  <BS_AngelicForm_Abillity.verbProperties.label>превращение</BS_AngelicForm_Abillity.verbProperties.label>
+  <BS_DemonicForm_Abillity.verbProperties.label>превращение</BS_DemonicForm_Abillity.verbProperties.label>
+  <BS_GoliathForm_Abillity.verbProperties.label>превращение</BS_GoliathForm_Abillity.verbProperties.label>
+  <BS_DemonicForm_Hemo_Abillity.verbProperties.label>превращение</BS_DemonicForm_Hemo_Abillity.verbProperties.label>
+  <BS_ConsumeSoul.label>поглотить душу</BS_ConsumeSoul.label>
+  <BS_ConsumeSoul.description>Вытягивает силу из поверженного врага. Убивает цель и наносит ей необратимый вред.</BS_ConsumeSoul.description>
+  <BS_ConsumeSoul_Enslave.label>создать оболочку</BS_ConsumeSoul_Enslave.label>
+  <BS_ConsumeSoul_Enslave.description>Вытягивает силу из поверженного врага. Цель остаётся жива, но её разум получает необратимые повреждения. Даёт меньше силы, чем полное поглощение души, зато эффективнее усваивает содержимое разума и сильнее повышает навыки.
+
+Без Ideology цель вместо порабощения становится пленником с нулевым сопротивлением вербовке.</BS_ConsumeSoul_Enslave.description>
+  <VU_CutBond.label>разорвать паразитическую связь</VU_CutBond.label>
+  <VU_CutBond.description>Паразитическую связь можно разорвать в любой момент. Психическая связь при этом исчезнет.</VU_CutBond.description>
+  <VU_CutBond.verbProperties.label>разрыв паразитической связи</VU_CutBond.verbProperties.label>
+  <BS_flying_jump.label>перелёт</BS_flying_jump.label>
+  <BS_flying_jump.description>Поднимается высоко в воздух с помощью крыльев.</BS_flying_jump.description>
+  <BS_flying_jump.verbProperties.label>перелёт</BS_flying_jump.verbProperties.label>
+</LanguageData>

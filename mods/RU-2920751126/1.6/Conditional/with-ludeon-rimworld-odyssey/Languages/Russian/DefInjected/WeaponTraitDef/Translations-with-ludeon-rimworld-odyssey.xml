@@ -1,0 +1,71 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BS_Primitive_ArchoTech.traitAdjectives.12>анимешный</BS_Primitive_ArchoTech.traitAdjectives.12>
+  <BS_Modern_ArchoTech.traitAdjectives.12>анимешный</BS_Modern_ArchoTech.traitAdjectives.12>
+  <BS_Primitive_ArchoTech.traitAdjectives.13>чужеродный</BS_Primitive_ArchoTech.traitAdjectives.13>
+  <BS_Modern_ArchoTech.traitAdjectives.13>чужеродный</BS_Modern_ArchoTech.traitAdjectives.13>
+  <BS_Primitive_ArchoTech.traitAdjectives.14>архотехнологичный</BS_Primitive_ArchoTech.traitAdjectives.14>
+  <BS_Modern_ArchoTech.traitAdjectives.14>архотехнологичный</BS_Modern_ArchoTech.traitAdjectives.14>
+  <BS_Primitive_ArchoTech.traitAdjectives.15>квантово-запутанный</BS_Primitive_ArchoTech.traitAdjectives.15>
+  <BS_Modern_ArchoTech.traitAdjectives.15>квантово-запутанный</BS_Modern_ArchoTech.traitAdjectives.15>
+  <BS_Modern_ArchoTech.description>На первый взгляд это обычное серийное оружие, но в деле его возможности не поддаются объяснению.
+
+Почти наверняка его создал древний архотек.</BS_Modern_ArchoTech.description>
+  <BS_DoubleTap.label>двойной выстрел</BS_DoubleTap.label>
+  <BS_DoubleTap.description>Изначально это оружие стреляло одним снарядом, но после довольно безрассудной переделки выпускает сразу два.</BS_DoubleTap.description>
+  <BS_DoubleTap.traitAdjectives.0>двуствольный</BS_DoubleTap.traitAdjectives.0>
+  <BS_DoubleTap.traitAdjectives.1>сдвоенный</BS_DoubleTap.traitAdjectives.1>
+  <BS_DoubleTap.traitAdjectives.2>зеркальный</BS_DoubleTap.traitAdjectives.2>
+  <BS_DoubleTap.traitAdjectives.3>удвоенный</BS_DoubleTap.traitAdjectives.3>
+  <BS_QuadShot.label>четверной выстрел</BS_QuadShot.label>
+  <BS_QuadShot.description>Какой-то законченный безумец переделал это оружие так, что оно выпускает сразу четыре поразительно неточных снаряда.</BS_QuadShot.description>
+  <BS_QuadShot.traitAdjectives.0>четверной</BS_QuadShot.traitAdjectives.0>
+  <BS_QuadShot.traitAdjectives.1>четырёхкратный</BS_QuadShot.traitAdjectives.1>
+  <BS_QuadShot.traitAdjectives.2>рассеивающий</BS_QuadShot.traitAdjectives.2>
+  <BS_QuadShot.traitAdjectives.3>безумный</BS_QuadShot.traitAdjectives.3>
+  <BS_QuadShot.traitAdjectives.4>бешеный</BS_QuadShot.traitAdjectives.4>
+  <BS_Primitive_Modernized.label>модернизация</BS_Primitive_Modernized.label>
+  <BS_Primitive_Modernized.description>С виду это примитивное оружие, но его усовершенствовали с помощью передовых материалов и производственных технологий космической эпохи.</BS_Primitive_Modernized.description>
+  <BS_Primitive_Modernized.traitAdjectives.0>модернизированный</BS_Primitive_Modernized.traitAdjectives.0>
+  <BS_Primitive_Modernized.traitAdjectives.1>переосмысленный</BS_Primitive_Modernized.traitAdjectives.1>
+  <BS_Primitive_Modernized.traitAdjectives.2>передовой</BS_Primitive_Modernized.traitAdjectives.2>
+  <BS_Primitive_Modernized.traitAdjectives.3>воссозданный</BS_Primitive_Modernized.traitAdjectives.3>
+  <BS_Primitive_Modernized.traitAdjectives.4>контрабандный</BS_Primitive_Modernized.traitAdjectives.4>
+  <BS_Primitive_UltraTech.label>ультратехнологии</BS_Primitive_UltraTech.label>
+  <BS_Primitive_UltraTech.description>Издали это оружие может показаться примитивным, но эксцентричный гений или ИИ почти полностью переделал его с помощью технологий, не уступающих самым передовым в галактике.</BS_Primitive_UltraTech.description>
+  <BS_Primitive_UltraTech.traitAdjectives.0>сверхмощный</BS_Primitive_UltraTech.traitAdjectives.0>
+  <BS_Primitive_UltraTech.traitAdjectives.1>ультратехнологичный</BS_Primitive_UltraTech.traitAdjectives.1>
+  <BS_Primitive_UltraTech.traitAdjectives.2>эксцентричный</BS_Primitive_UltraTech.traitAdjectives.2>
+  <BS_Primitive_UltraTech.traitAdjectives.3>экспериментальный</BS_Primitive_UltraTech.traitAdjectives.3>
+  <BS_Primitive_UltraTech.traitAdjectives.4>имперский</BS_Primitive_UltraTech.traitAdjectives.4>
+  <BS_Primitive_UltraTech.traitAdjectives.5>нанокованый</BS_Primitive_UltraTech.traitAdjectives.5>
+  <BS_Primitive_ArchoTech.label>архотехнологии</BS_Primitive_ArchoTech.label>
+  <BS_Modern_ArchoTech.label>архотехнологии</BS_Modern_ArchoTech.label>
+  <BS_Primitive_ArchoTech.description>На вид это почти ничем не примечательное оружие, но в деле его возможности не поддаются объяснению.
+
+Почти наверняка его создал древний архотек.</BS_Primitive_ArchoTech.description>
+  <BS_Primitive_ArchoTech.traitAdjectives.0>странный</BS_Primitive_ArchoTech.traitAdjectives.0>
+  <BS_Modern_ArchoTech.traitAdjectives.0>странный</BS_Modern_ArchoTech.traitAdjectives.0>
+  <BS_Primitive_ArchoTech.traitAdjectives.1>чудной</BS_Primitive_ArchoTech.traitAdjectives.1>
+  <BS_Modern_ArchoTech.traitAdjectives.1>чудной</BS_Modern_ArchoTech.traitAdjectives.1>
+  <BS_Primitive_ArchoTech.traitAdjectives.2>причудливый</BS_Primitive_ArchoTech.traitAdjectives.2>
+  <BS_Modern_ArchoTech.traitAdjectives.2>причудливый</BS_Modern_ArchoTech.traitAdjectives.2>
+  <BS_Primitive_ArchoTech.traitAdjectives.3>непостижимый</BS_Primitive_ArchoTech.traitAdjectives.3>
+  <BS_Modern_ArchoTech.traitAdjectives.3>непостижимый</BS_Modern_ArchoTech.traitAdjectives.3>
+  <BS_Primitive_ArchoTech.traitAdjectives.4>древний</BS_Primitive_ArchoTech.traitAdjectives.4>
+  <BS_Modern_ArchoTech.traitAdjectives.4>древний</BS_Modern_ArchoTech.traitAdjectives.4>
+  <BS_Primitive_ArchoTech.traitAdjectives.5>мистический</BS_Primitive_ArchoTech.traitAdjectives.5>
+  <BS_Modern_ArchoTech.traitAdjectives.5>мистический</BS_Modern_ArchoTech.traitAdjectives.5>
+  <BS_Primitive_ArchoTech.traitAdjectives.6>неземной</BS_Primitive_ArchoTech.traitAdjectives.6>
+  <BS_Modern_ArchoTech.traitAdjectives.6>неземной</BS_Modern_ArchoTech.traitAdjectives.6>
+  <BS_Primitive_ArchoTech.traitAdjectives.7>нереальный</BS_Primitive_ArchoTech.traitAdjectives.7>
+  <BS_Modern_ArchoTech.traitAdjectives.7>нереальный</BS_Modern_ArchoTech.traitAdjectives.7>
+  <BS_Primitive_ArchoTech.traitAdjectives.8>потусторонний</BS_Primitive_ArchoTech.traitAdjectives.8>
+  <BS_Modern_ArchoTech.traitAdjectives.8>потусторонний</BS_Modern_ArchoTech.traitAdjectives.8>
+  <BS_Primitive_ArchoTech.traitAdjectives.9>сводящий с ума</BS_Primitive_ArchoTech.traitAdjectives.9>
+  <BS_Modern_ArchoTech.traitAdjectives.9>сводящий с ума</BS_Modern_ArchoTech.traitAdjectives.9>
+  <BS_Primitive_ArchoTech.traitAdjectives.10>предсказанный</BS_Primitive_ArchoTech.traitAdjectives.10>
+  <BS_Modern_ArchoTech.traitAdjectives.10>предсказанный</BS_Modern_ArchoTech.traitAdjectives.10>
+  <BS_Primitive_ArchoTech.traitAdjectives.11>божественный</BS_Primitive_ArchoTech.traitAdjectives.11>
+  <BS_Modern_ArchoTech.traitAdjectives.11>божественный</BS_Modern_ArchoTech.traitAdjectives.11>
+</LanguageData>

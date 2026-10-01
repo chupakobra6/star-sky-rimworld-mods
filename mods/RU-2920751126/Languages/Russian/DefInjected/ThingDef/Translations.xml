@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BS_GluttonRace.label>обжора</BS_GluttonRace.label>
+  <BS_GluttonRace.description>Издалека это существо можно принять за человека...</BS_GluttonRace.description>
+  <BS_GluttonRace.tools.left_fist.label>левый кулак</BS_GluttonRace.tools.left_fist.label>
+  <BS_InsectoidHumanoid_FourArmed.tools.left_fist.label>левый кулак</BS_InsectoidHumanoid_FourArmed.tools.left_fist.label>
+  <BS_GluttonRace.tools.left_fist.labelNoLocation>кулак</BS_GluttonRace.tools.left_fist.labelNoLocation>
+  <BS_GluttonRace.tools.right_fist.labelNoLocation>кулак</BS_GluttonRace.tools.right_fist.labelNoLocation>
+  <BS_InsectoidHumanoid_FourArmed.tools.left_fist.labelNoLocation>кулак</BS_InsectoidHumanoid_FourArmed.tools.left_fist.labelNoLocation>
+  <BS_InsectoidHumanoid_FourArmed.tools.right_fist.labelNoLocation>кулак</BS_InsectoidHumanoid_FourArmed.tools.right_fist.labelNoLocation>
+  <BS_GluttonRace.tools.right_fist.label>правый кулак</BS_GluttonRace.tools.right_fist.label>
+  <BS_InsectoidHumanoid_FourArmed.tools.right_fist.label>правый кулак</BS_InsectoidHumanoid_FourArmed.tools.right_fist.label>
+  <BS_GluttonRace.tools.teeth.label>зубы</BS_GluttonRace.tools.teeth.label>
+  <BS_InsectoidHumanoid_FourArmed.tools.teeth.label>зубы</BS_InsectoidHumanoid_FourArmed.tools.teeth.label>
+  <BS_GluttonRace.tools.head.label>голова</BS_GluttonRace.tools.head.label>
+  <BS_InsectoidHumanoid_FourArmed.tools.head.label>голова</BS_InsectoidHumanoid_FourArmed.tools.head.label>
+  <BS_InsectoidHumanoid_FourArmed.label>насекомоподобный гуманоид</BS_InsectoidHumanoid_FourArmed.label>
+  <BS_InsectoidHumanoid_FourArmed.description>Человекоподобное существо с четырьмя руками, четырьмя глазами и вчетверо большим шансом напугать чужаков.</BS_InsectoidHumanoid_FourArmed.description>
+  <BS_Proj_Acid.label>кислота</BS_Proj_Acid.label>
+  <BS_IndestructibelApparel.label>архотехнологический интегратор одежды</BS_IndestructibelApparel.label>
+  <BS_IndestructibelApparel.description>Архотехнологический интегратор одежды. Неизвестным способом он соединяется с любой надетой одеждой и не позволяет её прочности опуститься ниже текущего значения.</BS_IndestructibelApparel.description>
+  <BS_TrueformAbilityMote.label>частица</BS_TrueformAbilityMote.label>
+  <BS_Proj_Fire.label>горящее топливо</BS_Proj_Fire.label>
+  <BS_Proj_FireExplosive.label>напалмовый шар</BS_Proj_FireExplosive.label>
+  <BS_FireBolt.label>огненный след</BS_FireBolt.label>
+  <BS_Proj_Fireball.label>огненный шарик</BS_Proj_Fireball.label>
+  <BS_Proj_FireBallBig.label>огненный шар</BS_Proj_FireBallBig.label>
+  <BS_Proj_FireBallBigger.label>большой огненный шар</BS_Proj_FireBallBigger.label>
+  <BS_Proj_FireBallBiggest.label>огромный огненный шар</BS_Proj_FireBallBiggest.label>
+  <BS_JotunSword.label>гигантский меч</BS_JotunSword.label>
+  <BS_JotunSword.description>Очень большой меч с рукоятью для одноручного хвата. Обычный человек не способен управиться с таким громоздким оружием.</BS_JotunSword.description>
+  <BS_JotunSword.tools.handle.label>рукоять</BS_JotunSword.tools.handle.label>
+  <BS_JotunSword.tools.point.label>остриё</BS_JotunSword.tools.point.label>
+  <BS_JotunSword.tools.edge.label>лезвие</BS_JotunSword.tools.edge.label>
+  <Corpse_BS_GluttonRace.label>труп обжоры</Corpse_BS_GluttonRace.label>
+  <Corpse_BS_GluttonRace.description>Издалека это существо можно принять за человека...</Corpse_BS_GluttonRace.description>
+  <Corpse_BS_InsectoidHumanoid_FourArmed.label>труп насекомоподобного гуманоида</Corpse_BS_InsectoidHumanoid_FourArmed.label>
+  <Corpse_BS_InsectoidHumanoid_FourArmed.description>Человекоподобное существо с четырьмя руками, четырьмя глазами и вчетверо большим шансом напугать чужаков.</Corpse_BS_InsectoidHumanoid_FourArmed.description>
+</LanguageData>

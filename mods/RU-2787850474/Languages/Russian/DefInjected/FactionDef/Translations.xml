@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFEC_CentralRepublic.label>центральная республика</VFEC_CentralRepublic.label>
+  <VFEC_CentralRepublic.description>Эти люди живут на планете очень давно. Их цивилизация возникла из союза племён, но быстро освоила письменность, каменное строительство и государственное управление.
+
+Несмотря на технологическую отсталость, республика может стать опасным врагом или ценным союзником благодаря умению воевать примитивным оружием, численности и выносливости своих воинов.
+
+Эта часть республики высоко ценит производство и развитие городов. Её поддержка открывает привилегии, повышающие благополучие жителей.</VFEC_CentralRepublic.description>
+  <VFEC_CentralRepublic.leaderTitle>патриций</VFEC_CentralRepublic.leaderTitle>
+  <VFEC_WesternRepublic.leaderTitle>патриций</VFEC_WesternRepublic.leaderTitle>
+  <VFEC_EasternRepublic.leaderTitle>патриций</VFEC_EasternRepublic.leaderTitle>
+  <VFEC_CentralRepublic.messageDefendersAttacking>{0} из {1} атакуют: {2}.</VFEC_CentralRepublic.messageDefendersAttacking>
+  <VFEC_WesternRepublic.messageDefendersAttacking>{0} из {1} атакуют: {2}.</VFEC_WesternRepublic.messageDefendersAttacking>
+  <VFEC_EasternRepublic.messageDefendersAttacking>{0} из {1} атакуют: {2}.</VFEC_EasternRepublic.messageDefendersAttacking>
+  <VFEC_NewEmpire.messageDefendersAttacking>{0} из {1} атакуют: {2}.</VFEC_NewEmpire.messageDefendersAttacking>
+  <VFEC_CentralRepublic.pawnSingular>плебей</VFEC_CentralRepublic.pawnSingular>
+  <VFEC_WesternRepublic.pawnSingular>плебей</VFEC_WesternRepublic.pawnSingular>
+  <VFEC_EasternRepublic.pawnSingular>плебей</VFEC_EasternRepublic.pawnSingular>
+  <VFEC_NewEmpire.pawnSingular>плебей</VFEC_NewEmpire.pawnSingular>
+  <VFEC_CentralRepublic.pawnsPlural>плебеи</VFEC_CentralRepublic.pawnsPlural>
+  <VFEC_WesternRepublic.pawnsPlural>плебеи</VFEC_WesternRepublic.pawnsPlural>
+  <VFEC_EasternRepublic.pawnsPlural>плебеи</VFEC_EasternRepublic.pawnsPlural>
+  <VFEC_NewEmpire.pawnsPlural>плебеи</VFEC_NewEmpire.pawnsPlural>
+  <VFEC_WesternRepublic.label>западная республика</VFEC_WesternRepublic.label>
+  <VFEC_WesternRepublic.description>Эти люди живут на планете очень давно. Их цивилизация возникла из союза племён, но быстро освоила письменность, каменное строительство и государственное управление.
+
+Несмотря на технологическую отсталость, республика может стать опасным врагом или ценным союзником благодаря умению воевать примитивным оружием, численности и выносливости своих воинов.
+
+Эта часть республики превыше всего ставит честь и превосходство в бою. Её поддержка открывает военные привилегии.</VFEC_WesternRepublic.description>
+  <VFEC_EasternRepublic.label>восточная республика</VFEC_EasternRepublic.label>
+  <VFEC_EasternRepublic.description>Эти люди живут на планете очень давно. Их цивилизация возникла из союза племён, но быстро освоила письменность, каменное строительство и государственное управление.
+
+Несмотря на технологическую отсталость, республика может стать опасным врагом или ценным союзником благодаря умению воевать примитивным оружием, численности и выносливости своих воинов.
+
+Эта часть республики предпочитает упорный труд и производство дракам и отвлечённым размышлениям. Её поддержка открывает привилегии, связанные с исследованиями и прогрессом.</VFEC_EasternRepublic.description>
+  <VFEC_NewEmpire.label>Новая империя</VFEC_NewEmpire.label>
+  <VFEC_NewEmpire.description>Новая империя.</VFEC_NewEmpire.description>
+  <VFEC_NewEmpire.leaderTitle>лидер</VFEC_NewEmpire.leaderTitle>
+</LanguageData>

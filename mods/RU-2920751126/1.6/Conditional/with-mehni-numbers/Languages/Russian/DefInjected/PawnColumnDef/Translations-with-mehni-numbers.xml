@@ -1,0 +1,103 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Numbers_RimWorld_AbilityDef_BS_StickyAcidSpray.label>струя липкой кислоты</Numbers_RimWorld_AbilityDef_BS_StickyAcidSpray.label>
+  <Numbers_RimWorld_AbilityDef_BS_StickyAcidSpray.headerTip>Выпускает из желёз веер липкой кислоты. Она прилипает к целям и обжигает их.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Для перемещения перетащите его левой кнопкой.</Numbers_RimWorld_AbilityDef_BS_StickyAcidSpray.headerTip>
+  <Numbers_RimWorld_AbilityDef_BS_SnekEngulf_New.label>поглотить</Numbers_RimWorld_AbilityDef_BS_SnekEngulf_New.label>
+  <Numbers_RimWorld_AbilityDef_BS_SnekEngulf_New.headerTip>Прыгает к цели и заглатывает её.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Для перемещения перетащите его левой кнопкой.</Numbers_RimWorld_AbilityDef_BS_SnekEngulf_New.headerTip>
+  <Numbers_RimWorld_AbilityDef_VU_Pounce.label>засада</Numbers_RimWorld_AbilityDef_VU_Pounce.label>
+  <Numbers_RimWorld_AbilityDef_VU_Pounce.headerTip>Прыгает в указанное место неподалёку.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Для перемещения перетащите его левой кнопкой.</Numbers_RimWorld_AbilityDef_VU_Pounce.headerTip>
+  <Numbers_RimWorld_AbilityDef_BS_Regenerate.label>ксенореконструкция</Numbers_RimWorld_AbilityDef_BS_Regenerate.label>
+  <Numbers_RimWorld_AbilityDef_BS_Regenerate.headerTip>Излечивает самое тяжёлое нарушение здоровья у цели, затрачивая большое количество энергии.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Для перемещения перетащите его левой кнопкой.</Numbers_RimWorld_AbilityDef_BS_Regenerate.headerTip>
+  <Numbers_RimWorld_AbilityDef_VU_Hermaphromorph.label>сменить пол</Numbers_RimWorld_AbilityDef_VU_Hermaphromorph.label>
+  <Numbers_RimWorld_AbilityDef_VU_Hermaphromorph.headerTip>Меняет биологический пол.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Для перемещения перетащите его левой кнопкой.</Numbers_RimWorld_AbilityDef_VU_Hermaphromorph.headerTip>
+  <Numbers_RimWorld_AbilityDef_BS_FoamSpray.label>веер пены</Numbers_RimWorld_AbilityDef_BS_FoamSpray.label>
+  <Numbers_RimWorld_AbilityDef_BS_FoamSpray.headerTip>Выпускает через рот густой веер огнегасящей пены, которую вырабатывают железы в шее. Пена покрывает небольшой участок и тушит любой огонь, которого касается.
+
+Откровенно превосходит обычное распыление пены.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Для перемещения перетащите его левой кнопкой.</Numbers_RimWorld_AbilityDef_BS_FoamSpray.headerTip>
+  <Numbers_RimWorld_AbilityDef_BS_Regurgitate.label>отрыгнуть</Numbers_RimWorld_AbilityDef_BS_Regurgitate.label>
+  <Numbers_RimWorld_AbilityDef_BS_Regurgitate.headerTip>Отрыгивает всё проглоченное.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Для перемещения перетащите его левой кнопкой.</Numbers_RimWorld_AbilityDef_BS_Regurgitate.headerTip>
+  <Numbers_RimWorld_AbilityDef_BS_EjectPilot.label>высадить оператора</Numbers_RimWorld_AbilityDef_BS_EjectPilot.label>
+  <Numbers_RimWorld_AbilityDef_BS_EjectPilot.headerTip>Высаживает оператора из управляемого тела.
+
+Если это тело теряет способность передвигаться, оператор через некоторое время высаживается автоматически.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Для перемещения перетащите его левой кнопкой.</Numbers_RimWorld_AbilityDef_BS_EjectPilot.headerTip>
+  <Numbers_RimWorld_AbilityDef_BS_Incorporate_Abillity.label>усвоить ген</Numbers_RimWorld_AbilityDef_BS_Incorporate_Abillity.label>
+  <Numbers_RimWorld_AbilityDef_BS_Incorporate_Abillity.headerTip>Позволяет забирать гены из трупа.
+
+На выбор предлагается не менее четырёх вариантов. Некоторые черты характера можно превратить в гены.
+
+Если эффективность метаболизма станет слишком низкой, случайные гены будут удаляться, пока она не вернётся к допустимому уровню (предел: −9).
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Для перемещения перетащите его левой кнопкой.</Numbers_RimWorld_AbilityDef_BS_Incorporate_Abillity.headerTip>
+  <Numbers_RimWorld_AbilityDef_BS_Mimic_Abillity.label>мимикрия</Numbers_RimWorld_AbilityDef_BS_Mimic_Abillity.label>
+  <Numbers_RimWorld_AbilityDef_BS_Mimic_Abillity.headerTip>Позволяет забрать все гены из трупа и использовать их как собственные ксеногены.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Для перемещения перетащите его левой кнопкой.</Numbers_RimWorld_AbilityDef_BS_Mimic_Abillity.headerTip>
+  <Numbers_RimWorld_AbilityDef_BS_StopMimic.label>прекратить мимикрию</Numbers_RimWorld_AbilityDef_BS_StopMimic.label>
+  <Numbers_RimWorld_AbilityDef_BS_StopMimic.headerTip>Прекращает мимикрию и пытается вернуть исходную форму. Прежний пол, телосложение и… причёска при этом не восстанавливаются.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Для перемещения перетащите его левой кнопкой.</Numbers_RimWorld_AbilityDef_BS_StopMimic.headerTip>
+  <Numbers_RimWorld_AbilityDef_BS_IntegrateGenes.label>закрепить гены</Numbers_RimWorld_AbilityDef_BS_IntegrateGenes.label>
+  <Numbers_RimWorld_AbilityDef_BS_IntegrateGenes.headerTip>Закрепляет все ксеногены в наследственном геноме. Изменение становится постоянным и НЕОБРАТИМЫМ.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Для перемещения перетащите его левой кнопкой.</Numbers_RimWorld_AbilityDef_BS_IntegrateGenes.headerTip>
+  <Numbers_RimWorld_AbilityDef_BS_DisintegrateXenoGenes.label>разрушить ксеногены</Numbers_RimWorld_AbilityDef_BS_DisintegrateXenoGenes.label>
+  <Numbers_RimWorld_AbilityDef_BS_DisintegrateXenoGenes.headerTip>Удаляет все ксеногены, за исключением немногих, которые нельзя убрать этим способом.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Для перемещения перетащите его левой кнопкой.</Numbers_RimWorld_AbilityDef_BS_DisintegrateXenoGenes.headerTip>
+  <Numbers_RimWorld_AbilityDef_BS_Parasite.label>паразитировать</Numbers_RimWorld_AbilityDef_BS_Parasite.label>
+  <Numbers_RimWorld_AbilityDef_BS_Parasite.headerTip>Прыгает на цель, проникает в её нервную систему и влияет на её действия.
+
+Действует только на оглушённые цели или цели с пониженным сознанием.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Для перемещения перетащите его левой кнопкой.</Numbers_RimWorld_AbilityDef_BS_Parasite.headerTip>
+  <Numbers_RimWorld_AbilityDef_BS_AngelicForm_Abillity.label>истинная форма</Numbers_RimWorld_AbilityDef_BS_AngelicForm_Abillity.label>
+  <Numbers_RimWorld_AbilityDef_BS_DemonicForm_Abillity.label>истинная форма</Numbers_RimWorld_AbilityDef_BS_DemonicForm_Abillity.label>
+  <Numbers_RimWorld_AbilityDef_BS_GoliathForm_Abillity.label>истинная форма</Numbers_RimWorld_AbilityDef_BS_GoliathForm_Abillity.label>
+  <Numbers_RimWorld_AbilityDef_BS_DemonicForm_Hemo_Abillity.label>истинная форма</Numbers_RimWorld_AbilityDef_BS_DemonicForm_Hemo_Abillity.label>
+  <Numbers_RimWorld_AbilityDef_BS_AngelicForm_Abillity.headerTip>Временно принимает более могущественную форму.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Для перемещения перетащите его левой кнопкой.</Numbers_RimWorld_AbilityDef_BS_AngelicForm_Abillity.headerTip>
+  <Numbers_RimWorld_AbilityDef_BS_DemonicForm_Abillity.headerTip>Временно принимает более могущественную форму.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Для перемещения перетащите его левой кнопкой.</Numbers_RimWorld_AbilityDef_BS_DemonicForm_Abillity.headerTip>
+  <Numbers_RimWorld_AbilityDef_BS_GoliathForm_Abillity.headerTip>Временно принимает более могущественную форму.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Для перемещения перетащите его левой кнопкой.</Numbers_RimWorld_AbilityDef_BS_GoliathForm_Abillity.headerTip>
+  <Numbers_RimWorld_AbilityDef_BS_DemonicForm_Hemo_Abillity.headerTip>Временно принимает более могущественную форму.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Для перемещения перетащите его левой кнопкой.</Numbers_RimWorld_AbilityDef_BS_DemonicForm_Hemo_Abillity.headerTip>
+  <Numbers_RimWorld_AbilityDef_BS_ConsumeSoul.label>поглотить душу</Numbers_RimWorld_AbilityDef_BS_ConsumeSoul.label>
+  <Numbers_RimWorld_AbilityDef_BS_ConsumeSoul.headerTip>Вытягивает силу из поверженного врага. Убивает цель и наносит ей необратимый вред.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Для перемещения перетащите его левой кнопкой.</Numbers_RimWorld_AbilityDef_BS_ConsumeSoul.headerTip>
+  <Numbers_RimWorld_AbilityDef_BS_ConsumeSoul_Enslave.label>создать оболочку</Numbers_RimWorld_AbilityDef_BS_ConsumeSoul_Enslave.label>
+  <Numbers_RimWorld_AbilityDef_BS_ConsumeSoul_Enslave.headerTip>Вытягивает силу из поверженного врага. Цель остаётся жива, но её разум получает необратимые повреждения. Даёт меньше силы, чем полное поглощение души, зато эффективнее усваивает содержимое разума и сильнее повышает навыки.
+
+Без Ideology цель вместо порабощения становится пленником с нулевым сопротивлением вербовке.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Для перемещения перетащите его левой кнопкой.</Numbers_RimWorld_AbilityDef_BS_ConsumeSoul_Enslave.headerTip>
+  <Numbers_RimWorld_AbilityDef_VU_CutBond.label>разорвать паразитическую связь</Numbers_RimWorld_AbilityDef_VU_CutBond.label>
+  <Numbers_RimWorld_AbilityDef_VU_CutBond.headerTip>Паразитическую связь можно разорвать в любой момент. Психическая связь при этом исчезнет.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Для перемещения перетащите его левой кнопкой.</Numbers_RimWorld_AbilityDef_VU_CutBond.headerTip>
+  <Numbers_RimWorld_AbilityDef_BS_flying_jump.label>перелёт</Numbers_RimWorld_AbilityDef_BS_flying_jump.label>
+  <Numbers_RimWorld_AbilityDef_BS_flying_jump.headerTip>Поднимается высоко в воздух с помощью крыльев.
+
+Щёлкните правой кнопкой, чтобы удалить столбец. Для перемещения перетащите его левой кнопкой.</Numbers_RimWorld_AbilityDef_BS_flying_jump.headerTip>
+</LanguageData>

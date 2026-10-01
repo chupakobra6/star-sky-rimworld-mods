@@ -1,0 +1,623 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BS_Centaur.label>кентавроид</BS_Centaur.label>
+  <BS_Centaur.description>Существо с четырьмя ногами и человекоподобной верхней частью туловища.</BS_Centaur.description>
+  <BS_Centaur.tools.left_fist.label>левый кулак</BS_Centaur.tools.left_fist.label>
+  <BS_HumanFouramed.tools.left_fist.label>левый кулак</BS_HumanFouramed.tools.left_fist.label>
+  <BS_Naga.tools.left_fist.label>левый кулак</BS_Naga.tools.left_fist.label>
+  <BS_Marlith.tools.left_fist.label>левый кулак</BS_Marlith.tools.left_fist.label>
+  <BS_UrbMech.tools.left_fist.label>левый кулак</BS_UrbMech.tools.left_fist.label>
+  <BS_SixArmedHuman.tools.left_fist.label>левый кулак</BS_SixArmedHuman.tools.left_fist.label>
+  <BS_SpiderPersonRace.tools.left_fist.label>левый кулак</BS_SpiderPersonRace.tools.left_fist.label>
+  <BS_HumanoidWithTail.tools.left_fist.label>левый кулак</BS_HumanoidWithTail.tools.left_fist.label>
+  <BS_HumanoidWithWings.tools.left_fist.label>левый кулак</BS_HumanoidWithWings.tools.left_fist.label>
+  <G_CentaurFourArm.tools.left_fist.label>левый кулак</G_CentaurFourArm.tools.left_fist.label>
+  <G_CentaurFourArmWinged.tools.left_fist.label>левый кулак</G_CentaurFourArmWinged.tools.left_fist.label>
+  <G_CentaurSixArm.tools.left_fist.label>левый кулак</G_CentaurSixArm.tools.left_fist.label>
+  <G_CentaurSixArmWinged.tools.left_fist.label>левый кулак</G_CentaurSixArmWinged.tools.left_fist.label>
+  <G_CentaurWinged.tools.left_fist.label>левый кулак</G_CentaurWinged.tools.left_fist.label>
+  <G_SnekFourArm.tools.left_fist.label>левый кулак</G_SnekFourArm.tools.left_fist.label>
+  <G_SnekFourArmWinged.tools.left_fist.label>левый кулак</G_SnekFourArmWinged.tools.left_fist.label>
+  <G_SnekSixArm.tools.left_fist.label>левый кулак</G_SnekSixArm.tools.left_fist.label>
+  <G_SnekSixArmWinged.tools.left_fist.label>левый кулак</G_SnekSixArmWinged.tools.left_fist.label>
+  <G_SnekWinged.tools.left_fist.label>левый кулак</G_SnekWinged.tools.left_fist.label>
+  <G_SpooderFourArm.tools.left_fist.label>левый кулак</G_SpooderFourArm.tools.left_fist.label>
+  <G_SpooderFourArmWinged.tools.left_fist.label>левый кулак</G_SpooderFourArmWinged.tools.left_fist.label>
+  <G_SpooderSixArm.tools.left_fist.label>левый кулак</G_SpooderSixArm.tools.left_fist.label>
+  <G_SpooderSixArmWinged.tools.left_fist.label>левый кулак</G_SpooderSixArmWinged.tools.left_fist.label>
+  <G_SpooderWinged.tools.left_fist.label>левый кулак</G_SpooderWinged.tools.left_fist.label>
+  <G_FourArmTailed.tools.left_fist.label>левый кулак</G_FourArmTailed.tools.left_fist.label>
+  <G_FourArmTailedWinged.tools.left_fist.label>левый кулак</G_FourArmTailedWinged.tools.left_fist.label>
+  <G_FourArmWinged.tools.left_fist.label>левый кулак</G_FourArmWinged.tools.left_fist.label>
+  <G_SixArmTailed.tools.left_fist.label>левый кулак</G_SixArmTailed.tools.left_fist.label>
+  <G_SixArmTailedWinged.tools.left_fist.label>левый кулак</G_SixArmTailedWinged.tools.left_fist.label>
+  <G_SixArmWinged.tools.left_fist.label>левый кулак</G_SixArmWinged.tools.left_fist.label>
+  <G_TailedWinged.tools.left_fist.label>левый кулак</G_TailedWinged.tools.left_fist.label>
+  <M_MechaCentaurFourArm.tools.left_fist.label>левый кулак</M_MechaCentaurFourArm.tools.left_fist.label>
+  <M_MechaCentaurFourArmWinged.tools.left_fist.label>левый кулак</M_MechaCentaurFourArmWinged.tools.left_fist.label>
+  <M_MechaCentaurSixArm.tools.left_fist.label>левый кулак</M_MechaCentaurSixArm.tools.left_fist.label>
+  <M_MechaCentaurSixArmWinged.tools.left_fist.label>левый кулак</M_MechaCentaurSixArmWinged.tools.left_fist.label>
+  <M_MechaCentaurWinged.tools.left_fist.label>левый кулак</M_MechaCentaurWinged.tools.left_fist.label>
+  <M_MechaSnekFourArm.tools.left_fist.label>левый кулак</M_MechaSnekFourArm.tools.left_fist.label>
+  <M_MechaSnekFourArmWinged.tools.left_fist.label>левый кулак</M_MechaSnekFourArmWinged.tools.left_fist.label>
+  <M_MechaSnekSixArm.tools.left_fist.label>левый кулак</M_MechaSnekSixArm.tools.left_fist.label>
+  <M_MechaSnekSixArmWinged.tools.left_fist.label>левый кулак</M_MechaSnekSixArmWinged.tools.left_fist.label>
+  <M_MechaSnekWinged.tools.left_fist.label>левый кулак</M_MechaSnekWinged.tools.left_fist.label>
+  <M_MechaSpooderFourArm.tools.left_fist.label>левый кулак</M_MechaSpooderFourArm.tools.left_fist.label>
+  <M_MechaSpooderFourArmWinged.tools.left_fist.label>левый кулак</M_MechaSpooderFourArmWinged.tools.left_fist.label>
+  <M_MechaSpooderSixArm.tools.left_fist.label>левый кулак</M_MechaSpooderSixArm.tools.left_fist.label>
+  <M_MechaSpooderSixArmWinged.tools.left_fist.label>левый кулак</M_MechaSpooderSixArmWinged.tools.left_fist.label>
+  <M_MechaSpooderWinged.tools.left_fist.label>левый кулак</M_MechaSpooderWinged.tools.left_fist.label>
+  <M_MechaFourArmTailed.tools.left_fist.label>левый кулак</M_MechaFourArmTailed.tools.left_fist.label>
+  <M_MechaFourArmTailedWinged.tools.left_fist.label>левый кулак</M_MechaFourArmTailedWinged.tools.left_fist.label>
+  <M_MechaFourArmWinged.tools.left_fist.label>левый кулак</M_MechaFourArmWinged.tools.left_fist.label>
+  <M_MechaSixArmTailed.tools.left_fist.label>левый кулак</M_MechaSixArmTailed.tools.left_fist.label>
+  <M_MechaSixArmTailedWinged.tools.left_fist.label>левый кулак</M_MechaSixArmTailedWinged.tools.left_fist.label>
+  <M_MechaSixArmWinged.tools.left_fist.label>левый кулак</M_MechaSixArmWinged.tools.left_fist.label>
+  <M_MechaTailedWinged.tools.left_fist.label>левый кулак</M_MechaTailedWinged.tools.left_fist.label>
+  <M_MechaCentaur.tools.left_fist.label>левый кулак</M_MechaCentaur.tools.left_fist.label>
+  <M_MechaSnek.tools.left_fist.label>левый кулак</M_MechaSnek.tools.left_fist.label>
+  <M_MechaSpooder.tools.left_fist.label>левый кулак</M_MechaSpooder.tools.left_fist.label>
+  <M_MechaFourArm.tools.left_fist.label>левый кулак</M_MechaFourArm.tools.left_fist.label>
+  <M_MechaSixArm.tools.left_fist.label>левый кулак</M_MechaSixArm.tools.left_fist.label>
+  <M_MechaTailed.tools.left_fist.label>левый кулак</M_MechaTailed.tools.left_fist.label>
+  <M_MechaWinged.tools.left_fist.label>левый кулак</M_MechaWinged.tools.left_fist.label>
+  <BS_Centaur.tools.left_fist.labelNoLocation>кулак</BS_Centaur.tools.left_fist.labelNoLocation>
+  <BS_Centaur.tools.right_fist.labelNoLocation>кулак</BS_Centaur.tools.right_fist.labelNoLocation>
+  <BS_HumanFouramed.tools.left_fist.labelNoLocation>кулак</BS_HumanFouramed.tools.left_fist.labelNoLocation>
+  <BS_HumanFouramed.tools.right_fist.labelNoLocation>кулак</BS_HumanFouramed.tools.right_fist.labelNoLocation>
+  <BS_Naga.tools.left_fist.labelNoLocation>кулак</BS_Naga.tools.left_fist.labelNoLocation>
+  <BS_Naga.tools.right_fist.labelNoLocation>кулак</BS_Naga.tools.right_fist.labelNoLocation>
+  <BS_Marlith.tools.left_fist.labelNoLocation>кулак</BS_Marlith.tools.left_fist.labelNoLocation>
+  <BS_Marlith.tools.right_fist.labelNoLocation>кулак</BS_Marlith.tools.right_fist.labelNoLocation>
+  <BS_UrbMech.tools.left_fist.labelNoLocation>кулак</BS_UrbMech.tools.left_fist.labelNoLocation>
+  <BS_UrbMech.tools.right_fist.labelNoLocation>кулак</BS_UrbMech.tools.right_fist.labelNoLocation>
+  <BS_SixArmedHuman.tools.left_fist.labelNoLocation>кулак</BS_SixArmedHuman.tools.left_fist.labelNoLocation>
+  <BS_SixArmedHuman.tools.right_fist.labelNoLocation>кулак</BS_SixArmedHuman.tools.right_fist.labelNoLocation>
+  <BS_SpiderPersonRace.tools.left_fist.labelNoLocation>кулак</BS_SpiderPersonRace.tools.left_fist.labelNoLocation>
+  <BS_SpiderPersonRace.tools.right_fist.labelNoLocation>кулак</BS_SpiderPersonRace.tools.right_fist.labelNoLocation>
+  <BS_HumanoidWithTail.tools.left_fist.labelNoLocation>кулак</BS_HumanoidWithTail.tools.left_fist.labelNoLocation>
+  <BS_HumanoidWithTail.tools.right_fist.labelNoLocation>кулак</BS_HumanoidWithTail.tools.right_fist.labelNoLocation>
+  <BS_HumanoidWithWings.tools.left_fist.labelNoLocation>кулак</BS_HumanoidWithWings.tools.left_fist.labelNoLocation>
+  <BS_HumanoidWithWings.tools.right_fist.labelNoLocation>кулак</BS_HumanoidWithWings.tools.right_fist.labelNoLocation>
+  <G_CentaurFourArm.tools.left_fist.labelNoLocation>кулак</G_CentaurFourArm.tools.left_fist.labelNoLocation>
+  <G_CentaurFourArm.tools.right_fist.labelNoLocation>кулак</G_CentaurFourArm.tools.right_fist.labelNoLocation>
+  <G_CentaurFourArmWinged.tools.left_fist.labelNoLocation>кулак</G_CentaurFourArmWinged.tools.left_fist.labelNoLocation>
+  <G_CentaurFourArmWinged.tools.right_fist.labelNoLocation>кулак</G_CentaurFourArmWinged.tools.right_fist.labelNoLocation>
+  <G_CentaurSixArm.tools.left_fist.labelNoLocation>кулак</G_CentaurSixArm.tools.left_fist.labelNoLocation>
+  <G_CentaurSixArm.tools.right_fist.labelNoLocation>кулак</G_CentaurSixArm.tools.right_fist.labelNoLocation>
+  <G_CentaurSixArmWinged.tools.left_fist.labelNoLocation>кулак</G_CentaurSixArmWinged.tools.left_fist.labelNoLocation>
+  <G_CentaurSixArmWinged.tools.right_fist.labelNoLocation>кулак</G_CentaurSixArmWinged.tools.right_fist.labelNoLocation>
+  <G_CentaurWinged.tools.left_fist.labelNoLocation>кулак</G_CentaurWinged.tools.left_fist.labelNoLocation>
+  <G_CentaurWinged.tools.right_fist.labelNoLocation>кулак</G_CentaurWinged.tools.right_fist.labelNoLocation>
+  <G_SnekFourArm.tools.left_fist.labelNoLocation>кулак</G_SnekFourArm.tools.left_fist.labelNoLocation>
+  <G_SnekFourArm.tools.right_fist.labelNoLocation>кулак</G_SnekFourArm.tools.right_fist.labelNoLocation>
+  <G_SnekFourArmWinged.tools.left_fist.labelNoLocation>кулак</G_SnekFourArmWinged.tools.left_fist.labelNoLocation>
+  <G_SnekFourArmWinged.tools.right_fist.labelNoLocation>кулак</G_SnekFourArmWinged.tools.right_fist.labelNoLocation>
+  <G_SnekSixArm.tools.left_fist.labelNoLocation>кулак</G_SnekSixArm.tools.left_fist.labelNoLocation>
+  <G_SnekSixArm.tools.right_fist.labelNoLocation>кулак</G_SnekSixArm.tools.right_fist.labelNoLocation>
+  <G_SnekSixArmWinged.tools.left_fist.labelNoLocation>кулак</G_SnekSixArmWinged.tools.left_fist.labelNoLocation>
+  <G_SnekSixArmWinged.tools.right_fist.labelNoLocation>кулак</G_SnekSixArmWinged.tools.right_fist.labelNoLocation>
+  <G_SnekWinged.tools.left_fist.labelNoLocation>кулак</G_SnekWinged.tools.left_fist.labelNoLocation>
+  <G_SnekWinged.tools.right_fist.labelNoLocation>кулак</G_SnekWinged.tools.right_fist.labelNoLocation>
+  <G_SpooderFourArm.tools.left_fist.labelNoLocation>кулак</G_SpooderFourArm.tools.left_fist.labelNoLocation>
+  <G_SpooderFourArm.tools.right_fist.labelNoLocation>кулак</G_SpooderFourArm.tools.right_fist.labelNoLocation>
+  <G_SpooderFourArmWinged.tools.left_fist.labelNoLocation>кулак</G_SpooderFourArmWinged.tools.left_fist.labelNoLocation>
+  <G_SpooderFourArmWinged.tools.right_fist.labelNoLocation>кулак</G_SpooderFourArmWinged.tools.right_fist.labelNoLocation>
+  <G_SpooderSixArm.tools.left_fist.labelNoLocation>кулак</G_SpooderSixArm.tools.left_fist.labelNoLocation>
+  <G_SpooderSixArm.tools.right_fist.labelNoLocation>кулак</G_SpooderSixArm.tools.right_fist.labelNoLocation>
+  <G_SpooderSixArmWinged.tools.left_fist.labelNoLocation>кулак</G_SpooderSixArmWinged.tools.left_fist.labelNoLocation>
+  <G_SpooderSixArmWinged.tools.right_fist.labelNoLocation>кулак</G_SpooderSixArmWinged.tools.right_fist.labelNoLocation>
+  <G_SpooderWinged.tools.left_fist.labelNoLocation>кулак</G_SpooderWinged.tools.left_fist.labelNoLocation>
+  <G_SpooderWinged.tools.right_fist.labelNoLocation>кулак</G_SpooderWinged.tools.right_fist.labelNoLocation>
+  <G_FourArmTailed.tools.left_fist.labelNoLocation>кулак</G_FourArmTailed.tools.left_fist.labelNoLocation>
+  <G_FourArmTailed.tools.right_fist.labelNoLocation>кулак</G_FourArmTailed.tools.right_fist.labelNoLocation>
+  <G_FourArmTailedWinged.tools.left_fist.labelNoLocation>кулак</G_FourArmTailedWinged.tools.left_fist.labelNoLocation>
+  <G_FourArmTailedWinged.tools.right_fist.labelNoLocation>кулак</G_FourArmTailedWinged.tools.right_fist.labelNoLocation>
+  <G_FourArmWinged.tools.left_fist.labelNoLocation>кулак</G_FourArmWinged.tools.left_fist.labelNoLocation>
+  <G_FourArmWinged.tools.right_fist.labelNoLocation>кулак</G_FourArmWinged.tools.right_fist.labelNoLocation>
+  <G_SixArmTailed.tools.left_fist.labelNoLocation>кулак</G_SixArmTailed.tools.left_fist.labelNoLocation>
+  <G_SixArmTailed.tools.right_fist.labelNoLocation>кулак</G_SixArmTailed.tools.right_fist.labelNoLocation>
+  <G_SixArmTailedWinged.tools.left_fist.labelNoLocation>кулак</G_SixArmTailedWinged.tools.left_fist.labelNoLocation>
+  <G_SixArmTailedWinged.tools.right_fist.labelNoLocation>кулак</G_SixArmTailedWinged.tools.right_fist.labelNoLocation>
+  <G_SixArmWinged.tools.left_fist.labelNoLocation>кулак</G_SixArmWinged.tools.left_fist.labelNoLocation>
+  <G_SixArmWinged.tools.right_fist.labelNoLocation>кулак</G_SixArmWinged.tools.right_fist.labelNoLocation>
+  <G_TailedWinged.tools.left_fist.labelNoLocation>кулак</G_TailedWinged.tools.left_fist.labelNoLocation>
+  <G_TailedWinged.tools.right_fist.labelNoLocation>кулак</G_TailedWinged.tools.right_fist.labelNoLocation>
+  <M_MechaCentaurFourArm.tools.left_fist.labelNoLocation>кулак</M_MechaCentaurFourArm.tools.left_fist.labelNoLocation>
+  <M_MechaCentaurFourArm.tools.right_fist.labelNoLocation>кулак</M_MechaCentaurFourArm.tools.right_fist.labelNoLocation>
+  <M_MechaCentaurFourArmWinged.tools.left_fist.labelNoLocation>кулак</M_MechaCentaurFourArmWinged.tools.left_fist.labelNoLocation>
+  <M_MechaCentaurFourArmWinged.tools.right_fist.labelNoLocation>кулак</M_MechaCentaurFourArmWinged.tools.right_fist.labelNoLocation>
+  <M_MechaCentaurSixArm.tools.left_fist.labelNoLocation>кулак</M_MechaCentaurSixArm.tools.left_fist.labelNoLocation>
+  <M_MechaCentaurSixArm.tools.right_fist.labelNoLocation>кулак</M_MechaCentaurSixArm.tools.right_fist.labelNoLocation>
+  <M_MechaCentaurSixArmWinged.tools.left_fist.labelNoLocation>кулак</M_MechaCentaurSixArmWinged.tools.left_fist.labelNoLocation>
+  <M_MechaCentaurSixArmWinged.tools.right_fist.labelNoLocation>кулак</M_MechaCentaurSixArmWinged.tools.right_fist.labelNoLocation>
+  <M_MechaCentaurWinged.tools.left_fist.labelNoLocation>кулак</M_MechaCentaurWinged.tools.left_fist.labelNoLocation>
+  <M_MechaCentaurWinged.tools.right_fist.labelNoLocation>кулак</M_MechaCentaurWinged.tools.right_fist.labelNoLocation>
+  <M_MechaSnekFourArm.tools.left_fist.labelNoLocation>кулак</M_MechaSnekFourArm.tools.left_fist.labelNoLocation>
+  <M_MechaSnekFourArm.tools.right_fist.labelNoLocation>кулак</M_MechaSnekFourArm.tools.right_fist.labelNoLocation>
+  <M_MechaSnekFourArmWinged.tools.left_fist.labelNoLocation>кулак</M_MechaSnekFourArmWinged.tools.left_fist.labelNoLocation>
+  <M_MechaSnekFourArmWinged.tools.right_fist.labelNoLocation>кулак</M_MechaSnekFourArmWinged.tools.right_fist.labelNoLocation>
+  <M_MechaSnekSixArm.tools.left_fist.labelNoLocation>кулак</M_MechaSnekSixArm.tools.left_fist.labelNoLocation>
+  <M_MechaSnekSixArm.tools.right_fist.labelNoLocation>кулак</M_MechaSnekSixArm.tools.right_fist.labelNoLocation>
+  <M_MechaSnekSixArmWinged.tools.left_fist.labelNoLocation>кулак</M_MechaSnekSixArmWinged.tools.left_fist.labelNoLocation>
+  <M_MechaSnekSixArmWinged.tools.right_fist.labelNoLocation>кулак</M_MechaSnekSixArmWinged.tools.right_fist.labelNoLocation>
+  <M_MechaSnekWinged.tools.left_fist.labelNoLocation>кулак</M_MechaSnekWinged.tools.left_fist.labelNoLocation>
+  <M_MechaSnekWinged.tools.right_fist.labelNoLocation>кулак</M_MechaSnekWinged.tools.right_fist.labelNoLocation>
+  <M_MechaSpooderFourArm.tools.left_fist.labelNoLocation>кулак</M_MechaSpooderFourArm.tools.left_fist.labelNoLocation>
+  <M_MechaSpooderFourArm.tools.right_fist.labelNoLocation>кулак</M_MechaSpooderFourArm.tools.right_fist.labelNoLocation>
+  <M_MechaSpooderFourArmWinged.tools.left_fist.labelNoLocation>кулак</M_MechaSpooderFourArmWinged.tools.left_fist.labelNoLocation>
+  <M_MechaSpooderFourArmWinged.tools.right_fist.labelNoLocation>кулак</M_MechaSpooderFourArmWinged.tools.right_fist.labelNoLocation>
+  <M_MechaSpooderSixArm.tools.left_fist.labelNoLocation>кулак</M_MechaSpooderSixArm.tools.left_fist.labelNoLocation>
+  <M_MechaSpooderSixArm.tools.right_fist.labelNoLocation>кулак</M_MechaSpooderSixArm.tools.right_fist.labelNoLocation>
+  <M_MechaSpooderSixArmWinged.tools.left_fist.labelNoLocation>кулак</M_MechaSpooderSixArmWinged.tools.left_fist.labelNoLocation>
+  <M_MechaSpooderSixArmWinged.tools.right_fist.labelNoLocation>кулак</M_MechaSpooderSixArmWinged.tools.right_fist.labelNoLocation>
+  <M_MechaSpooderWinged.tools.left_fist.labelNoLocation>кулак</M_MechaSpooderWinged.tools.left_fist.labelNoLocation>
+  <M_MechaSpooderWinged.tools.right_fist.labelNoLocation>кулак</M_MechaSpooderWinged.tools.right_fist.labelNoLocation>
+  <M_MechaFourArmTailed.tools.left_fist.labelNoLocation>кулак</M_MechaFourArmTailed.tools.left_fist.labelNoLocation>
+  <M_MechaFourArmTailed.tools.right_fist.labelNoLocation>кулак</M_MechaFourArmTailed.tools.right_fist.labelNoLocation>
+  <M_MechaFourArmTailedWinged.tools.left_fist.labelNoLocation>кулак</M_MechaFourArmTailedWinged.tools.left_fist.labelNoLocation>
+  <M_MechaFourArmTailedWinged.tools.right_fist.labelNoLocation>кулак</M_MechaFourArmTailedWinged.tools.right_fist.labelNoLocation>
+  <M_MechaFourArmWinged.tools.left_fist.labelNoLocation>кулак</M_MechaFourArmWinged.tools.left_fist.labelNoLocation>
+  <M_MechaFourArmWinged.tools.right_fist.labelNoLocation>кулак</M_MechaFourArmWinged.tools.right_fist.labelNoLocation>
+  <M_MechaSixArmTailed.tools.left_fist.labelNoLocation>кулак</M_MechaSixArmTailed.tools.left_fist.labelNoLocation>
+  <M_MechaSixArmTailed.tools.right_fist.labelNoLocation>кулак</M_MechaSixArmTailed.tools.right_fist.labelNoLocation>
+  <M_MechaSixArmTailedWinged.tools.left_fist.labelNoLocation>кулак</M_MechaSixArmTailedWinged.tools.left_fist.labelNoLocation>
+  <M_MechaSixArmTailedWinged.tools.right_fist.labelNoLocation>кулак</M_MechaSixArmTailedWinged.tools.right_fist.labelNoLocation>
+  <M_MechaSixArmWinged.tools.left_fist.labelNoLocation>кулак</M_MechaSixArmWinged.tools.left_fist.labelNoLocation>
+  <M_MechaSixArmWinged.tools.right_fist.labelNoLocation>кулак</M_MechaSixArmWinged.tools.right_fist.labelNoLocation>
+  <M_MechaTailedWinged.tools.left_fist.labelNoLocation>кулак</M_MechaTailedWinged.tools.left_fist.labelNoLocation>
+  <M_MechaTailedWinged.tools.right_fist.labelNoLocation>кулак</M_MechaTailedWinged.tools.right_fist.labelNoLocation>
+  <M_MechaCentaur.tools.left_fist.labelNoLocation>кулак</M_MechaCentaur.tools.left_fist.labelNoLocation>
+  <M_MechaCentaur.tools.right_fist.labelNoLocation>кулак</M_MechaCentaur.tools.right_fist.labelNoLocation>
+  <M_MechaSnek.tools.left_fist.labelNoLocation>кулак</M_MechaSnek.tools.left_fist.labelNoLocation>
+  <M_MechaSnek.tools.right_fist.labelNoLocation>кулак</M_MechaSnek.tools.right_fist.labelNoLocation>
+  <M_MechaSpooder.tools.left_fist.labelNoLocation>кулак</M_MechaSpooder.tools.left_fist.labelNoLocation>
+  <M_MechaSpooder.tools.right_fist.labelNoLocation>кулак</M_MechaSpooder.tools.right_fist.labelNoLocation>
+  <M_MechaFourArm.tools.left_fist.labelNoLocation>кулак</M_MechaFourArm.tools.left_fist.labelNoLocation>
+  <M_MechaFourArm.tools.right_fist.labelNoLocation>кулак</M_MechaFourArm.tools.right_fist.labelNoLocation>
+  <M_MechaSixArm.tools.left_fist.labelNoLocation>кулак</M_MechaSixArm.tools.left_fist.labelNoLocation>
+  <M_MechaSixArm.tools.right_fist.labelNoLocation>кулак</M_MechaSixArm.tools.right_fist.labelNoLocation>
+  <M_MechaTailed.tools.left_fist.labelNoLocation>кулак</M_MechaTailed.tools.left_fist.labelNoLocation>
+  <M_MechaTailed.tools.right_fist.labelNoLocation>кулак</M_MechaTailed.tools.right_fist.labelNoLocation>
+  <M_MechaWinged.tools.left_fist.labelNoLocation>кулак</M_MechaWinged.tools.left_fist.labelNoLocation>
+  <M_MechaWinged.tools.right_fist.labelNoLocation>кулак</M_MechaWinged.tools.right_fist.labelNoLocation>
+  <BS_Centaur.tools.right_fist.label>правый кулак</BS_Centaur.tools.right_fist.label>
+  <BS_HumanFouramed.tools.right_fist.label>правый кулак</BS_HumanFouramed.tools.right_fist.label>
+  <BS_Naga.tools.right_fist.label>правый кулак</BS_Naga.tools.right_fist.label>
+  <BS_Marlith.tools.right_fist.label>правый кулак</BS_Marlith.tools.right_fist.label>
+  <BS_UrbMech.tools.right_fist.label>правый кулак</BS_UrbMech.tools.right_fist.label>
+  <BS_SixArmedHuman.tools.right_fist.label>правый кулак</BS_SixArmedHuman.tools.right_fist.label>
+  <BS_SpiderPersonRace.tools.right_fist.label>правый кулак</BS_SpiderPersonRace.tools.right_fist.label>
+  <BS_HumanoidWithTail.tools.right_fist.label>правый кулак</BS_HumanoidWithTail.tools.right_fist.label>
+  <BS_HumanoidWithWings.tools.right_fist.label>правый кулак</BS_HumanoidWithWings.tools.right_fist.label>
+  <G_CentaurFourArm.tools.right_fist.label>правый кулак</G_CentaurFourArm.tools.right_fist.label>
+  <G_CentaurFourArmWinged.tools.right_fist.label>правый кулак</G_CentaurFourArmWinged.tools.right_fist.label>
+  <G_CentaurSixArm.tools.right_fist.label>правый кулак</G_CentaurSixArm.tools.right_fist.label>
+  <G_CentaurSixArmWinged.tools.right_fist.label>правый кулак</G_CentaurSixArmWinged.tools.right_fist.label>
+  <G_CentaurWinged.tools.right_fist.label>правый кулак</G_CentaurWinged.tools.right_fist.label>
+  <G_SnekFourArm.tools.right_fist.label>правый кулак</G_SnekFourArm.tools.right_fist.label>
+  <G_SnekFourArmWinged.tools.right_fist.label>правый кулак</G_SnekFourArmWinged.tools.right_fist.label>
+  <G_SnekSixArm.tools.right_fist.label>правый кулак</G_SnekSixArm.tools.right_fist.label>
+  <G_SnekSixArmWinged.tools.right_fist.label>правый кулак</G_SnekSixArmWinged.tools.right_fist.label>
+  <G_SnekWinged.tools.right_fist.label>правый кулак</G_SnekWinged.tools.right_fist.label>
+  <G_SpooderFourArm.tools.right_fist.label>правый кулак</G_SpooderFourArm.tools.right_fist.label>
+  <G_SpooderFourArmWinged.tools.right_fist.label>правый кулак</G_SpooderFourArmWinged.tools.right_fist.label>
+  <G_SpooderSixArm.tools.right_fist.label>правый кулак</G_SpooderSixArm.tools.right_fist.label>
+  <G_SpooderSixArmWinged.tools.right_fist.label>правый кулак</G_SpooderSixArmWinged.tools.right_fist.label>
+  <G_SpooderWinged.tools.right_fist.label>правый кулак</G_SpooderWinged.tools.right_fist.label>
+  <G_FourArmTailed.tools.right_fist.label>правый кулак</G_FourArmTailed.tools.right_fist.label>
+  <G_FourArmTailedWinged.tools.right_fist.label>правый кулак</G_FourArmTailedWinged.tools.right_fist.label>
+  <G_FourArmWinged.tools.right_fist.label>правый кулак</G_FourArmWinged.tools.right_fist.label>
+  <G_SixArmTailed.tools.right_fist.label>правый кулак</G_SixArmTailed.tools.right_fist.label>
+  <G_SixArmTailedWinged.tools.right_fist.label>правый кулак</G_SixArmTailedWinged.tools.right_fist.label>
+  <G_SixArmWinged.tools.right_fist.label>правый кулак</G_SixArmWinged.tools.right_fist.label>
+  <G_TailedWinged.tools.right_fist.label>правый кулак</G_TailedWinged.tools.right_fist.label>
+  <M_MechaCentaurFourArm.tools.right_fist.label>правый кулак</M_MechaCentaurFourArm.tools.right_fist.label>
+  <M_MechaCentaurFourArmWinged.tools.right_fist.label>правый кулак</M_MechaCentaurFourArmWinged.tools.right_fist.label>
+  <M_MechaCentaurSixArm.tools.right_fist.label>правый кулак</M_MechaCentaurSixArm.tools.right_fist.label>
+  <M_MechaCentaurSixArmWinged.tools.right_fist.label>правый кулак</M_MechaCentaurSixArmWinged.tools.right_fist.label>
+  <M_MechaCentaurWinged.tools.right_fist.label>правый кулак</M_MechaCentaurWinged.tools.right_fist.label>
+  <M_MechaSnekFourArm.tools.right_fist.label>правый кулак</M_MechaSnekFourArm.tools.right_fist.label>
+  <M_MechaSnekFourArmWinged.tools.right_fist.label>правый кулак</M_MechaSnekFourArmWinged.tools.right_fist.label>
+  <M_MechaSnekSixArm.tools.right_fist.label>правый кулак</M_MechaSnekSixArm.tools.right_fist.label>
+  <M_MechaSnekSixArmWinged.tools.right_fist.label>правый кулак</M_MechaSnekSixArmWinged.tools.right_fist.label>
+  <M_MechaSnekWinged.tools.right_fist.label>правый кулак</M_MechaSnekWinged.tools.right_fist.label>
+  <M_MechaSpooderFourArm.tools.right_fist.label>правый кулак</M_MechaSpooderFourArm.tools.right_fist.label>
+  <M_MechaSpooderFourArmWinged.tools.right_fist.label>правый кулак</M_MechaSpooderFourArmWinged.tools.right_fist.label>
+  <M_MechaSpooderSixArm.tools.right_fist.label>правый кулак</M_MechaSpooderSixArm.tools.right_fist.label>
+  <M_MechaSpooderSixArmWinged.tools.right_fist.label>правый кулак</M_MechaSpooderSixArmWinged.tools.right_fist.label>
+  <M_MechaSpooderWinged.tools.right_fist.label>правый кулак</M_MechaSpooderWinged.tools.right_fist.label>
+  <M_MechaFourArmTailed.tools.right_fist.label>правый кулак</M_MechaFourArmTailed.tools.right_fist.label>
+  <M_MechaFourArmTailedWinged.tools.right_fist.label>правый кулак</M_MechaFourArmTailedWinged.tools.right_fist.label>
+  <M_MechaFourArmWinged.tools.right_fist.label>правый кулак</M_MechaFourArmWinged.tools.right_fist.label>
+  <M_MechaSixArmTailed.tools.right_fist.label>правый кулак</M_MechaSixArmTailed.tools.right_fist.label>
+  <M_MechaSixArmTailedWinged.tools.right_fist.label>правый кулак</M_MechaSixArmTailedWinged.tools.right_fist.label>
+  <M_MechaSixArmWinged.tools.right_fist.label>правый кулак</M_MechaSixArmWinged.tools.right_fist.label>
+  <M_MechaTailedWinged.tools.right_fist.label>правый кулак</M_MechaTailedWinged.tools.right_fist.label>
+  <M_MechaCentaur.tools.right_fist.label>правый кулак</M_MechaCentaur.tools.right_fist.label>
+  <M_MechaSnek.tools.right_fist.label>правый кулак</M_MechaSnek.tools.right_fist.label>
+  <M_MechaSpooder.tools.right_fist.label>правый кулак</M_MechaSpooder.tools.right_fist.label>
+  <M_MechaFourArm.tools.right_fist.label>правый кулак</M_MechaFourArm.tools.right_fist.label>
+  <M_MechaSixArm.tools.right_fist.label>правый кулак</M_MechaSixArm.tools.right_fist.label>
+  <M_MechaTailed.tools.right_fist.label>правый кулак</M_MechaTailed.tools.right_fist.label>
+  <M_MechaWinged.tools.right_fist.label>правый кулак</M_MechaWinged.tools.right_fist.label>
+  <BS_Centaur.tools.teeth.label>зубы</BS_Centaur.tools.teeth.label>
+  <BS_HumanFouramed.tools.teeth.label>зубы</BS_HumanFouramed.tools.teeth.label>
+  <BS_Naga.tools.teeth.label>зубы</BS_Naga.tools.teeth.label>
+  <BS_Marlith.tools.teeth.label>зубы</BS_Marlith.tools.teeth.label>
+  <BS_UrbMech.tools.teeth.label>зубы</BS_UrbMech.tools.teeth.label>
+  <BS_SixArmedHuman.tools.teeth.label>зубы</BS_SixArmedHuman.tools.teeth.label>
+  <BS_SpiderPersonRace.tools.teeth.label>зубы</BS_SpiderPersonRace.tools.teeth.label>
+  <BS_HumanoidWithTail.tools.teeth.label>зубы</BS_HumanoidWithTail.tools.teeth.label>
+  <BS_HumanoidWithWings.tools.teeth.label>зубы</BS_HumanoidWithWings.tools.teeth.label>
+  <BS_JustAHead.tools.teeth.label>зубы</BS_JustAHead.tools.teeth.label>
+  <G_CentaurFourArm.tools.teeth.label>зубы</G_CentaurFourArm.tools.teeth.label>
+  <G_CentaurFourArmWinged.tools.teeth.label>зубы</G_CentaurFourArmWinged.tools.teeth.label>
+  <G_CentaurSixArm.tools.teeth.label>зубы</G_CentaurSixArm.tools.teeth.label>
+  <G_CentaurSixArmWinged.tools.teeth.label>зубы</G_CentaurSixArmWinged.tools.teeth.label>
+  <G_CentaurWinged.tools.teeth.label>зубы</G_CentaurWinged.tools.teeth.label>
+  <G_SnekFourArm.tools.teeth.label>зубы</G_SnekFourArm.tools.teeth.label>
+  <G_SnekFourArmWinged.tools.teeth.label>зубы</G_SnekFourArmWinged.tools.teeth.label>
+  <G_SnekSixArm.tools.teeth.label>зубы</G_SnekSixArm.tools.teeth.label>
+  <G_SnekSixArmWinged.tools.teeth.label>зубы</G_SnekSixArmWinged.tools.teeth.label>
+  <G_SnekWinged.tools.teeth.label>зубы</G_SnekWinged.tools.teeth.label>
+  <G_SpooderFourArm.tools.teeth.label>зубы</G_SpooderFourArm.tools.teeth.label>
+  <G_SpooderFourArmWinged.tools.teeth.label>зубы</G_SpooderFourArmWinged.tools.teeth.label>
+  <G_SpooderSixArm.tools.teeth.label>зубы</G_SpooderSixArm.tools.teeth.label>
+  <G_SpooderSixArmWinged.tools.teeth.label>зубы</G_SpooderSixArmWinged.tools.teeth.label>
+  <G_SpooderWinged.tools.teeth.label>зубы</G_SpooderWinged.tools.teeth.label>
+  <G_FourArmTailed.tools.teeth.label>зубы</G_FourArmTailed.tools.teeth.label>
+  <G_FourArmTailedWinged.tools.teeth.label>зубы</G_FourArmTailedWinged.tools.teeth.label>
+  <G_FourArmWinged.tools.teeth.label>зубы</G_FourArmWinged.tools.teeth.label>
+  <G_SixArmTailed.tools.teeth.label>зубы</G_SixArmTailed.tools.teeth.label>
+  <G_SixArmTailedWinged.tools.teeth.label>зубы</G_SixArmTailedWinged.tools.teeth.label>
+  <G_SixArmWinged.tools.teeth.label>зубы</G_SixArmWinged.tools.teeth.label>
+  <G_TailedWinged.tools.teeth.label>зубы</G_TailedWinged.tools.teeth.label>
+  <M_MechaCentaurFourArm.tools.teeth.label>зубы</M_MechaCentaurFourArm.tools.teeth.label>
+  <M_MechaCentaurFourArmWinged.tools.teeth.label>зубы</M_MechaCentaurFourArmWinged.tools.teeth.label>
+  <M_MechaCentaurSixArm.tools.teeth.label>зубы</M_MechaCentaurSixArm.tools.teeth.label>
+  <M_MechaCentaurSixArmWinged.tools.teeth.label>зубы</M_MechaCentaurSixArmWinged.tools.teeth.label>
+  <M_MechaCentaurWinged.tools.teeth.label>зубы</M_MechaCentaurWinged.tools.teeth.label>
+  <M_MechaSnekFourArm.tools.teeth.label>зубы</M_MechaSnekFourArm.tools.teeth.label>
+  <M_MechaSnekFourArmWinged.tools.teeth.label>зубы</M_MechaSnekFourArmWinged.tools.teeth.label>
+  <M_MechaSnekSixArm.tools.teeth.label>зубы</M_MechaSnekSixArm.tools.teeth.label>
+  <M_MechaSnekSixArmWinged.tools.teeth.label>зубы</M_MechaSnekSixArmWinged.tools.teeth.label>
+  <M_MechaSnekWinged.tools.teeth.label>зубы</M_MechaSnekWinged.tools.teeth.label>
+  <M_MechaSpooderFourArm.tools.teeth.label>зубы</M_MechaSpooderFourArm.tools.teeth.label>
+  <M_MechaSpooderFourArmWinged.tools.teeth.label>зубы</M_MechaSpooderFourArmWinged.tools.teeth.label>
+  <M_MechaSpooderSixArm.tools.teeth.label>зубы</M_MechaSpooderSixArm.tools.teeth.label>
+  <M_MechaSpooderSixArmWinged.tools.teeth.label>зубы</M_MechaSpooderSixArmWinged.tools.teeth.label>
+  <M_MechaSpooderWinged.tools.teeth.label>зубы</M_MechaSpooderWinged.tools.teeth.label>
+  <M_MechaFourArmTailed.tools.teeth.label>зубы</M_MechaFourArmTailed.tools.teeth.label>
+  <M_MechaFourArmTailedWinged.tools.teeth.label>зубы</M_MechaFourArmTailedWinged.tools.teeth.label>
+  <M_MechaFourArmWinged.tools.teeth.label>зубы</M_MechaFourArmWinged.tools.teeth.label>
+  <M_MechaSixArmTailed.tools.teeth.label>зубы</M_MechaSixArmTailed.tools.teeth.label>
+  <M_MechaSixArmTailedWinged.tools.teeth.label>зубы</M_MechaSixArmTailedWinged.tools.teeth.label>
+  <M_MechaSixArmWinged.tools.teeth.label>зубы</M_MechaSixArmWinged.tools.teeth.label>
+  <M_MechaTailedWinged.tools.teeth.label>зубы</M_MechaTailedWinged.tools.teeth.label>
+  <M_MechaCentaur.tools.teeth.label>зубы</M_MechaCentaur.tools.teeth.label>
+  <M_MechaSnek.tools.teeth.label>зубы</M_MechaSnek.tools.teeth.label>
+  <M_MechaSpooder.tools.teeth.label>зубы</M_MechaSpooder.tools.teeth.label>
+  <M_MechaFourArm.tools.teeth.label>зубы</M_MechaFourArm.tools.teeth.label>
+  <M_MechaSixArm.tools.teeth.label>зубы</M_MechaSixArm.tools.teeth.label>
+  <M_MechaTailed.tools.teeth.label>зубы</M_MechaTailed.tools.teeth.label>
+  <M_MechaWinged.tools.teeth.label>зубы</M_MechaWinged.tools.teeth.label>
+  <BS_Centaur.tools.head.label>голова</BS_Centaur.tools.head.label>
+  <BS_HumanFouramed.tools.head.label>голова</BS_HumanFouramed.tools.head.label>
+  <BS_Naga.tools.head.label>голова</BS_Naga.tools.head.label>
+  <BS_Marlith.tools.head.label>голова</BS_Marlith.tools.head.label>
+  <BS_UrbMech.tools.head.label>голова</BS_UrbMech.tools.head.label>
+  <BS_SixArmedHuman.tools.head.label>голова</BS_SixArmedHuman.tools.head.label>
+  <BS_SpiderPersonRace.tools.head.label>голова</BS_SpiderPersonRace.tools.head.label>
+  <BS_HumanoidWithTail.tools.head.label>голова</BS_HumanoidWithTail.tools.head.label>
+  <BS_HumanoidWithWings.tools.head.label>голова</BS_HumanoidWithWings.tools.head.label>
+  <BS_JustAHead.tools.head.label>голова</BS_JustAHead.tools.head.label>
+  <G_CentaurFourArm.tools.head.label>голова</G_CentaurFourArm.tools.head.label>
+  <G_CentaurFourArmWinged.tools.head.label>голова</G_CentaurFourArmWinged.tools.head.label>
+  <G_CentaurSixArm.tools.head.label>голова</G_CentaurSixArm.tools.head.label>
+  <G_CentaurSixArmWinged.tools.head.label>голова</G_CentaurSixArmWinged.tools.head.label>
+  <G_CentaurWinged.tools.head.label>голова</G_CentaurWinged.tools.head.label>
+  <G_SnekFourArm.tools.head.label>голова</G_SnekFourArm.tools.head.label>
+  <G_SnekFourArmWinged.tools.head.label>голова</G_SnekFourArmWinged.tools.head.label>
+  <G_SnekSixArm.tools.head.label>голова</G_SnekSixArm.tools.head.label>
+  <G_SnekSixArmWinged.tools.head.label>голова</G_SnekSixArmWinged.tools.head.label>
+  <G_SnekWinged.tools.head.label>голова</G_SnekWinged.tools.head.label>
+  <G_SpooderFourArm.tools.head.label>голова</G_SpooderFourArm.tools.head.label>
+  <G_SpooderFourArmWinged.tools.head.label>голова</G_SpooderFourArmWinged.tools.head.label>
+  <G_SpooderSixArm.tools.head.label>голова</G_SpooderSixArm.tools.head.label>
+  <G_SpooderSixArmWinged.tools.head.label>голова</G_SpooderSixArmWinged.tools.head.label>
+  <G_SpooderWinged.tools.head.label>голова</G_SpooderWinged.tools.head.label>
+  <G_FourArmTailed.tools.head.label>голова</G_FourArmTailed.tools.head.label>
+  <G_FourArmTailedWinged.tools.head.label>голова</G_FourArmTailedWinged.tools.head.label>
+  <G_FourArmWinged.tools.head.label>голова</G_FourArmWinged.tools.head.label>
+  <G_SixArmTailed.tools.head.label>голова</G_SixArmTailed.tools.head.label>
+  <G_SixArmTailedWinged.tools.head.label>голова</G_SixArmTailedWinged.tools.head.label>
+  <G_SixArmWinged.tools.head.label>голова</G_SixArmWinged.tools.head.label>
+  <G_TailedWinged.tools.head.label>голова</G_TailedWinged.tools.head.label>
+  <M_MechaCentaurFourArm.tools.head.label>голова</M_MechaCentaurFourArm.tools.head.label>
+  <M_MechaCentaurFourArmWinged.tools.head.label>голова</M_MechaCentaurFourArmWinged.tools.head.label>
+  <M_MechaCentaurSixArm.tools.head.label>голова</M_MechaCentaurSixArm.tools.head.label>
+  <M_MechaCentaurSixArmWinged.tools.head.label>голова</M_MechaCentaurSixArmWinged.tools.head.label>
+  <M_MechaCentaurWinged.tools.head.label>голова</M_MechaCentaurWinged.tools.head.label>
+  <M_MechaSnekFourArm.tools.head.label>голова</M_MechaSnekFourArm.tools.head.label>
+  <M_MechaSnekFourArmWinged.tools.head.label>голова</M_MechaSnekFourArmWinged.tools.head.label>
+  <M_MechaSnekSixArm.tools.head.label>голова</M_MechaSnekSixArm.tools.head.label>
+  <M_MechaSnekSixArmWinged.tools.head.label>голова</M_MechaSnekSixArmWinged.tools.head.label>
+  <M_MechaSnekWinged.tools.head.label>голова</M_MechaSnekWinged.tools.head.label>
+  <M_MechaSpooderFourArm.tools.head.label>голова</M_MechaSpooderFourArm.tools.head.label>
+  <M_MechaSpooderFourArmWinged.tools.head.label>голова</M_MechaSpooderFourArmWinged.tools.head.label>
+  <M_MechaSpooderSixArm.tools.head.label>голова</M_MechaSpooderSixArm.tools.head.label>
+  <M_MechaSpooderSixArmWinged.tools.head.label>голова</M_MechaSpooderSixArmWinged.tools.head.label>
+  <M_MechaSpooderWinged.tools.head.label>голова</M_MechaSpooderWinged.tools.head.label>
+  <M_MechaFourArmTailed.tools.head.label>голова</M_MechaFourArmTailed.tools.head.label>
+  <M_MechaFourArmTailedWinged.tools.head.label>голова</M_MechaFourArmTailedWinged.tools.head.label>
+  <M_MechaFourArmWinged.tools.head.label>голова</M_MechaFourArmWinged.tools.head.label>
+  <M_MechaSixArmTailed.tools.head.label>голова</M_MechaSixArmTailed.tools.head.label>
+  <M_MechaSixArmTailedWinged.tools.head.label>голова</M_MechaSixArmTailedWinged.tools.head.label>
+  <M_MechaSixArmWinged.tools.head.label>голова</M_MechaSixArmWinged.tools.head.label>
+  <M_MechaTailedWinged.tools.head.label>голова</M_MechaTailedWinged.tools.head.label>
+  <M_MechaCentaur.tools.head.label>голова</M_MechaCentaur.tools.head.label>
+  <M_MechaSnek.tools.head.label>голова</M_MechaSnek.tools.head.label>
+  <M_MechaSpooder.tools.head.label>голова</M_MechaSpooder.tools.head.label>
+  <M_MechaFourArm.tools.head.label>голова</M_MechaFourArm.tools.head.label>
+  <M_MechaSixArm.tools.head.label>голова</M_MechaSixArm.tools.head.label>
+  <M_MechaTailed.tools.head.label>голова</M_MechaTailed.tools.head.label>
+  <M_MechaWinged.tools.head.label>голова</M_MechaWinged.tools.head.label>
+  <BS_HumanFouramed.label>четырёхрукий человек</BS_HumanFouramed.label>
+  <BS_HumanFouramed.description>Человекоподобное существо с прекрасными предплечьями… Нет, погодите — с ЧЕТЫРЬМЯ прекрасными руками!</BS_HumanFouramed.description>
+  <G_FourArmTailed.description>Человекоподобное существо с прекрасными предплечьями… Нет, погодите — с ЧЕТЫРЬМЯ прекрасными руками!</G_FourArmTailed.description>
+  <G_FourArmTailedWinged.description>Человекоподобное существо с прекрасными предплечьями… Нет, погодите — с ЧЕТЫРЬМЯ прекрасными руками!</G_FourArmTailedWinged.description>
+  <G_FourArmWinged.description>Человекоподобное существо с прекрасными предплечьями… Нет, погодите — с ЧЕТЫРЬМЯ прекрасными руками!</G_FourArmWinged.description>
+  <Corpse_BS_HumanFouramed.description>Человекоподобное существо с прекрасными предплечьями… Нет, погодите — с ЧЕТЫРЬМЯ прекрасными руками!</Corpse_BS_HumanFouramed.description>
+  <BS_Naga.label>змеечеловек</BS_Naga.label>
+  <BS_Naga.description>Человекоподобное существо со змеиным хвостом вместо ног.</BS_Naga.description>
+  <BS_Marlith.label>шестирукий змеечеловек</BS_Marlith.label>
+  <BS_Marlith.description>Человекоподобное существо с шестью руками и змеиным хвостом вместо ног.</BS_Marlith.description>
+  <BS_UrbMech.label>мех</BS_UrbMech.label>
+  <BS_UrbMech.description>Существо, состоящее преимущественно из особо прочных механизмов.</BS_UrbMech.description>
+  <BS_SixArmedHuman.label>шестирукий человек</BS_SixArmedHuman.label>
+  <BS_SixArmedHuman.description>Человекоподобное существо с чрезмерным количеством рук.</BS_SixArmedHuman.description>
+  <BS_SpiderPersonRace.label>паукочеловек</BS_SpiderPersonRace.label>
+  <BS_SpiderPersonRace.description>Человекоподобное существо с паучьим брюшком.</BS_SpiderPersonRace.description>
+  <G_SpooderFourArm.description>Человекоподобное существо с паучьим брюшком.</G_SpooderFourArm.description>
+  <G_SpooderFourArmWinged.description>Человекоподобное существо с паучьим брюшком.</G_SpooderFourArmWinged.description>
+  <G_SpooderSixArm.description>Человекоподобное существо с паучьим брюшком.</G_SpooderSixArm.description>
+  <G_SpooderSixArmWinged.description>Человекоподобное существо с паучьим брюшком.</G_SpooderSixArmWinged.description>
+  <G_SpooderWinged.description>Человекоподобное существо с паучьим брюшком.</G_SpooderWinged.description>
+  <Corpse_BS_SpiderPersonRace.description>Человекоподобное существо с паучьим брюшком.</Corpse_BS_SpiderPersonRace.description>
+  <BS_HumanoidWithTail.label>хвостатый гуманоид</BS_HumanoidWithTail.label>
+  <BS_HumanoidWithTail.description>По статистике, хвост улучшает чувство равновесия у подопытного. uwu</BS_HumanoidWithTail.description>
+  <G_TailedWinged.description>По статистике, хвост улучшает чувство равновесия у подопытного. uwu</G_TailedWinged.description>
+  <Corpse_BS_HumanoidWithTail.description>По статистике, хвост улучшает чувство равновесия у подопытного. uwu</Corpse_BS_HumanoidWithTail.description>
+  <BS_HumanoidWithWings.label>крылатый гуманоид</BS_HumanoidWithWings.label>
+  <BS_HumanoidWithWings.description>Учёные считают, что люди не должны уметь летать.</BS_HumanoidWithWings.description>
+  <BS_JustAHead.label>голова без тела</BS_JustAHead.label>
+  <BS_JustAHead.description>Заказчик велел мне сделать им голову как можно больше. Я в точности выполнил его пожелание. Проект «Воплотить аниме в реальность», попытка 412.</BS_JustAHead.description>
+  <BS_MeatGeneric.label>мясо</BS_MeatGeneric.label>
+  <BS_MeatGeneric.description>Сырое мясо существа.</BS_MeatGeneric.description>
+  <G_CentaurFourArm.label>кентавроид с четырьмя руками</G_CentaurFourArm.label>
+  <G_CentaurFourArm.description>Существо с четырьмя ногами и человекоподобной верхней частью туловища.</G_CentaurFourArm.description>
+  <G_CentaurFourArmWinged.description>Существо с четырьмя ногами и человекоподобной верхней частью туловища.</G_CentaurFourArmWinged.description>
+  <G_CentaurSixArm.description>Существо с четырьмя ногами и человекоподобной верхней частью туловища.</G_CentaurSixArm.description>
+  <G_CentaurSixArmWinged.description>Существо с четырьмя ногами и человекоподобной верхней частью туловища.</G_CentaurSixArmWinged.description>
+  <G_CentaurWinged.description>Существо с четырьмя ногами и человекоподобной верхней частью туловища.</G_CentaurWinged.description>
+  <Corpse_BS_Centaur.description>Существо с четырьмя ногами и человекоподобной верхней частью туловища.</Corpse_BS_Centaur.description>
+  <G_CentaurFourArmWinged.label>кентавроид с четырьмя руками и крыльями</G_CentaurFourArmWinged.label>
+  <G_CentaurSixArm.label>кентавроид с шестью руками</G_CentaurSixArm.label>
+  <G_CentaurSixArmWinged.label>кентавроид с шестью руками и крыльями</G_CentaurSixArmWinged.label>
+  <G_CentaurWinged.label>кентавроид с крыльями</G_CentaurWinged.label>
+  <G_SnekFourArm.label>змеечеловек с четырьмя руками</G_SnekFourArm.label>
+  <G_SnekFourArm.description>Человекоподобное существо со змеиным хвостом вместо ног.</G_SnekFourArm.description>
+  <G_SnekFourArmWinged.description>Человекоподобное существо со змеиным хвостом вместо ног.</G_SnekFourArmWinged.description>
+  <G_SnekSixArm.description>Человекоподобное существо со змеиным хвостом вместо ног.</G_SnekSixArm.description>
+  <G_SnekSixArmWinged.description>Человекоподобное существо со змеиным хвостом вместо ног.</G_SnekSixArmWinged.description>
+  <G_SnekWinged.description>Человекоподобное существо со змеиным хвостом вместо ног.</G_SnekWinged.description>
+  <Corpse_BS_Naga.description>Человекоподобное существо со змеиным хвостом вместо ног.</Corpse_BS_Naga.description>
+  <G_SnekFourArmWinged.label>змеечеловек с четырьмя руками и крыльями</G_SnekFourArmWinged.label>
+  <G_SnekSixArm.label>змеечеловек с шестью руками</G_SnekSixArm.label>
+  <G_SnekSixArmWinged.label>змеечеловек с шестью руками и крыльями</G_SnekSixArmWinged.label>
+  <G_SnekWinged.label>змеечеловек с крыльями</G_SnekWinged.label>
+  <G_SpooderFourArm.label>паукочеловек с четырьмя руками</G_SpooderFourArm.label>
+  <G_SpooderFourArmWinged.label>паукочеловек с четырьмя руками и крыльями</G_SpooderFourArmWinged.label>
+  <G_SpooderSixArm.label>паукочеловек с шестью руками</G_SpooderSixArm.label>
+  <G_SpooderSixArmWinged.label>паукочеловек с шестью руками и крыльями</G_SpooderSixArmWinged.label>
+  <G_SpooderWinged.label>паукочеловек с крыльями</G_SpooderWinged.label>
+  <G_FourArmTailed.label>четырёхрукий гуманоид с хвостом</G_FourArmTailed.label>
+  <G_FourArmTailedWinged.label>четырёхрукий гуманоид с хвостом и крыльями</G_FourArmTailedWinged.label>
+  <G_FourArmWinged.label>четырёхрукий гуманоид с крыльями</G_FourArmWinged.label>
+  <G_SixArmTailed.label>шестирукий гуманоид с хвостом</G_SixArmTailed.label>
+  <G_SixArmTailed.description>Человекоподобное существо с чрезмерным количеством рук.</G_SixArmTailed.description>
+  <G_SixArmTailedWinged.description>Человекоподобное существо с чрезмерным количеством рук.</G_SixArmTailedWinged.description>
+  <G_SixArmWinged.description>Человекоподобное существо с чрезмерным количеством рук.</G_SixArmWinged.description>
+  <Corpse_BS_SixArmedHuman.description>Человекоподобное существо с чрезмерным количеством рук.</Corpse_BS_SixArmedHuman.description>
+  <G_SixArmTailedWinged.label>шестирукий гуманоид с хвостом и крыльями</G_SixArmTailedWinged.label>
+  <G_SixArmWinged.label>шестирукий гуманоид с крыльями</G_SixArmWinged.label>
+  <G_TailedWinged.label>хвостатый гуманоид с крыльями</G_TailedWinged.label>
+  <M_MechaCentaurFourArm.label>мех с четырьмя ногами и четырьмя руками</M_MechaCentaurFourArm.label>
+  <M_MechaCentaurFourArm.description>Существо, состоящее преимущественно из особо прочных механизмов.</M_MechaCentaurFourArm.description>
+  <M_MechaCentaurFourArmWinged.description>Существо, состоящее преимущественно из особо прочных механизмов.</M_MechaCentaurFourArmWinged.description>
+  <M_MechaCentaurSixArm.description>Существо, состоящее преимущественно из особо прочных механизмов.</M_MechaCentaurSixArm.description>
+  <M_MechaCentaurSixArmWinged.description>Существо, состоящее преимущественно из особо прочных механизмов.</M_MechaCentaurSixArmWinged.description>
+  <M_MechaCentaurWinged.description>Существо, состоящее преимущественно из особо прочных механизмов.</M_MechaCentaurWinged.description>
+  <M_MechaSnekFourArm.description>Существо, состоящее преимущественно из особо прочных механизмов.</M_MechaSnekFourArm.description>
+  <M_MechaSnekFourArmWinged.description>Существо, состоящее преимущественно из особо прочных механизмов.</M_MechaSnekFourArmWinged.description>
+  <M_MechaSnekSixArm.description>Существо, состоящее преимущественно из особо прочных механизмов.</M_MechaSnekSixArm.description>
+  <M_MechaSnekSixArmWinged.description>Существо, состоящее преимущественно из особо прочных механизмов.</M_MechaSnekSixArmWinged.description>
+  <M_MechaSnekWinged.description>Существо, состоящее преимущественно из особо прочных механизмов.</M_MechaSnekWinged.description>
+  <M_MechaSpooderFourArm.description>Существо, состоящее преимущественно из особо прочных механизмов.</M_MechaSpooderFourArm.description>
+  <M_MechaSpooderFourArmWinged.description>Существо, состоящее преимущественно из особо прочных механизмов.</M_MechaSpooderFourArmWinged.description>
+  <M_MechaSpooderSixArm.description>Существо, состоящее преимущественно из особо прочных механизмов.</M_MechaSpooderSixArm.description>
+  <M_MechaSpooderSixArmWinged.description>Существо, состоящее преимущественно из особо прочных механизмов.</M_MechaSpooderSixArmWinged.description>
+  <M_MechaSpooderWinged.description>Существо, состоящее преимущественно из особо прочных механизмов.</M_MechaSpooderWinged.description>
+  <M_MechaFourArmTailed.description>Существо, состоящее преимущественно из особо прочных механизмов.</M_MechaFourArmTailed.description>
+  <M_MechaFourArmTailedWinged.description>Существо, состоящее преимущественно из особо прочных механизмов.</M_MechaFourArmTailedWinged.description>
+  <M_MechaFourArmWinged.description>Существо, состоящее преимущественно из особо прочных механизмов.</M_MechaFourArmWinged.description>
+  <M_MechaSixArmTailed.description>Существо, состоящее преимущественно из особо прочных механизмов.</M_MechaSixArmTailed.description>
+  <M_MechaSixArmTailedWinged.description>Существо, состоящее преимущественно из особо прочных механизмов.</M_MechaSixArmTailedWinged.description>
+  <M_MechaSixArmWinged.description>Существо, состоящее преимущественно из особо прочных механизмов.</M_MechaSixArmWinged.description>
+  <M_MechaTailedWinged.description>Существо, состоящее преимущественно из особо прочных механизмов.</M_MechaTailedWinged.description>
+  <M_MechaCentaur.description>Существо, состоящее преимущественно из особо прочных механизмов.</M_MechaCentaur.description>
+  <M_MechaSnek.description>Существо, состоящее преимущественно из особо прочных механизмов.</M_MechaSnek.description>
+  <M_MechaSpooder.description>Существо, состоящее преимущественно из особо прочных механизмов.</M_MechaSpooder.description>
+  <M_MechaFourArm.description>Существо, состоящее преимущественно из особо прочных механизмов.</M_MechaFourArm.description>
+  <M_MechaSixArm.description>Существо, состоящее преимущественно из особо прочных механизмов.</M_MechaSixArm.description>
+  <M_MechaTailed.description>Существо, состоящее преимущественно из особо прочных механизмов.</M_MechaTailed.description>
+  <M_MechaWinged.description>Существо, состоящее преимущественно из особо прочных механизмов.</M_MechaWinged.description>
+  <Corpse_BS_UrbMech.description>Существо, состоящее преимущественно из особо прочных механизмов.</Corpse_BS_UrbMech.description>
+  <M_MechaCentaurFourArmWinged.label>мех с четырьмя ногами, четырьмя руками и крыльями</M_MechaCentaurFourArmWinged.label>
+  <M_MechaCentaurSixArm.label>мех с четырьмя ногами и шестью руками</M_MechaCentaurSixArm.label>
+  <M_MechaCentaurSixArmWinged.label>мех с четырьмя ногами, шестью руками и крыльями</M_MechaCentaurSixArmWinged.label>
+  <M_MechaCentaurWinged.label>мех с четырьмя ногами и крыльями</M_MechaCentaurWinged.label>
+  <M_MechaSnekFourArm.label>мех с змеиным хвостом и четырьмя руками</M_MechaSnekFourArm.label>
+  <M_MechaSnekFourArmWinged.label>мех с змеиным хвостом, четырьмя руками и крыльями</M_MechaSnekFourArmWinged.label>
+  <M_MechaSnekSixArm.label>мех с змеиным хвостом и шестью руками</M_MechaSnekSixArm.label>
+  <M_MechaSnekSixArmWinged.label>мех с змеиным хвостом, шестью руками и крыльями</M_MechaSnekSixArmWinged.label>
+  <M_MechaSnekWinged.label>мех с змеиным хвостом и крыльями</M_MechaSnekWinged.label>
+  <M_MechaSpooderFourArm.label>мех с паучьим брюшком и четырьмя руками</M_MechaSpooderFourArm.label>
+  <M_MechaSpooderFourArmWinged.label>мех с паучьим брюшком, четырьмя руками и крыльями</M_MechaSpooderFourArmWinged.label>
+  <M_MechaSpooderSixArm.label>мех с паучьим брюшком и шестью руками</M_MechaSpooderSixArm.label>
+  <M_MechaSpooderSixArmWinged.label>мех с паучьим брюшком, шестью руками и крыльями</M_MechaSpooderSixArmWinged.label>
+  <M_MechaSpooderWinged.label>мех с паучьим брюшком и крыльями</M_MechaSpooderWinged.label>
+  <M_MechaFourArmTailed.label>мех с четырьмя руками и хвостом</M_MechaFourArmTailed.label>
+  <M_MechaFourArmTailedWinged.label>мех с четырьмя руками, хвостом и крыльями</M_MechaFourArmTailedWinged.label>
+  <M_MechaFourArmWinged.label>мех с четырьмя руками и крыльями</M_MechaFourArmWinged.label>
+  <M_MechaSixArmTailed.label>мех с шестью руками и хвостом</M_MechaSixArmTailed.label>
+  <M_MechaSixArmTailedWinged.label>мех с шестью руками, хвостом и крыльями</M_MechaSixArmTailedWinged.label>
+  <M_MechaSixArmWinged.label>мех с шестью руками и крыльями</M_MechaSixArmWinged.label>
+  <M_MechaTailedWinged.label>мех с хвостом и крыльями</M_MechaTailedWinged.label>
+  <M_MechaCentaur.label>мех с четырьмя ногами</M_MechaCentaur.label>
+  <M_MechaSnek.label>мех с змеиным хвостом</M_MechaSnek.label>
+  <M_MechaSpooder.label>мех с паучьим брюшком</M_MechaSpooder.label>
+  <M_MechaFourArm.label>мех с четырьмя руками</M_MechaFourArm.label>
+  <M_MechaSixArm.label>мех с шестью руками</M_MechaSixArm.label>
+  <M_MechaTailed.label>мех с хвостом</M_MechaTailed.label>
+  <M_MechaWinged.label>мех с крыльями</M_MechaWinged.label>
+  <Corpse_BS_Centaur.label>труп кентавроида</Corpse_BS_Centaur.label>
+  <Corpse_BS_HumanFouramed.label>труп четырёхрукого человека</Corpse_BS_HumanFouramed.label>
+  <Corpse_BS_Naga.label>труп змеечеловека</Corpse_BS_Naga.label>
+  <Corpse_BS_Marlith.label>труп шестирукого змеечеловека</Corpse_BS_Marlith.label>
+  <Corpse_BS_Marlith.description>Человекоподобное существо с шестью руками и змеиным хвостом вместо ног.</Corpse_BS_Marlith.description>
+  <Corpse_BS_UrbMech.label>останки меха</Corpse_BS_UrbMech.label>
+  <Corpse_BS_SixArmedHuman.label>труп шестирукого человека</Corpse_BS_SixArmedHuman.label>
+  <Corpse_BS_SpiderPersonRace.label>труп паукочеловека</Corpse_BS_SpiderPersonRace.label>
+  <Corpse_BS_HumanoidWithTail.label>труп хвостатого гуманоида</Corpse_BS_HumanoidWithTail.label>
+  <Corpse_BS_HumanoidWithWings.label>труп крылатого гуманоида</Corpse_BS_HumanoidWithWings.label>
+  <Corpse_BS_HumanoidWithWings.description>Учёные считают, что люди не должны уметь летать.</Corpse_BS_HumanoidWithWings.description>
+  <Corpse_BS_JustAHead.label>труп головы без тела</Corpse_BS_JustAHead.label>
+  <Corpse_BS_JustAHead.description>Заказчик велел мне сделать им голову как можно больше. Я в точности выполнил его пожелание. Проект «Воплотить аниме в реальность», попытка 412.</Corpse_BS_JustAHead.description>
+  <G_CentaurFourArm_Corpse.label>труп кентавроида с четырьмя руками</G_CentaurFourArm_Corpse.label>
+  <G_CentaurFourArm_Corpse.description>Мёртвое тело кентавроида с четырьмя руками.</G_CentaurFourArm_Corpse.description>
+  <G_CentaurFourArmWinged_Corpse.label>труп кентавроида с четырьмя руками и крыльями</G_CentaurFourArmWinged_Corpse.label>
+  <G_CentaurFourArmWinged_Corpse.description>Мёртвое тело кентавроида с четырьмя руками и крыльями.</G_CentaurFourArmWinged_Corpse.description>
+  <G_CentaurSixArm_Corpse.label>труп кентавроида с шестью руками</G_CentaurSixArm_Corpse.label>
+  <G_CentaurSixArm_Corpse.description>Мёртвое тело кентавроида с шестью руками.</G_CentaurSixArm_Corpse.description>
+  <G_CentaurSixArmWinged_Corpse.label>труп кентавроида с шестью руками и крыльями</G_CentaurSixArmWinged_Corpse.label>
+  <G_CentaurSixArmWinged_Corpse.description>Мёртвое тело кентавроида с шестью руками и крыльями.</G_CentaurSixArmWinged_Corpse.description>
+  <G_CentaurWinged_Corpse.label>труп кентавроида с крыльями</G_CentaurWinged_Corpse.label>
+  <G_CentaurWinged_Corpse.description>Мёртвое тело кентавроида с крыльями.</G_CentaurWinged_Corpse.description>
+  <G_SnekFourArm_Corpse.label>труп змеечеловека с четырьмя руками</G_SnekFourArm_Corpse.label>
+  <G_SnekFourArm_Corpse.description>Мёртвое тело змеечеловека с четырьмя руками.</G_SnekFourArm_Corpse.description>
+  <G_SnekFourArmWinged_Corpse.label>труп змеечеловека с четырьмя руками и крыльями</G_SnekFourArmWinged_Corpse.label>
+  <G_SnekFourArmWinged_Corpse.description>Мёртвое тело змеечеловека с четырьмя руками и крыльями.</G_SnekFourArmWinged_Corpse.description>
+  <G_SnekSixArm_Corpse.label>труп змеечеловека с шестью руками</G_SnekSixArm_Corpse.label>
+  <G_SnekSixArm_Corpse.description>Мёртвое тело змеечеловека с шестью руками.</G_SnekSixArm_Corpse.description>
+  <G_SnekSixArmWinged_Corpse.label>труп змеечеловека с шестью руками и крыльями</G_SnekSixArmWinged_Corpse.label>
+  <G_SnekSixArmWinged_Corpse.description>Мёртвое тело змеечеловека с шестью руками и крыльями.</G_SnekSixArmWinged_Corpse.description>
+  <G_SnekWinged_Corpse.label>труп змеечеловека с крыльями</G_SnekWinged_Corpse.label>
+  <G_SnekWinged_Corpse.description>Мёртвое тело змеечеловека с крыльями.</G_SnekWinged_Corpse.description>
+  <G_SpooderFourArm_Corpse.label>труп паукочеловека с четырьмя руками</G_SpooderFourArm_Corpse.label>
+  <G_SpooderFourArm_Corpse.description>Мёртвое тело паукочеловека с четырьмя руками.</G_SpooderFourArm_Corpse.description>
+  <G_SpooderFourArmWinged_Corpse.label>труп паукочеловека с четырьмя руками и крыльями</G_SpooderFourArmWinged_Corpse.label>
+  <G_SpooderFourArmWinged_Corpse.description>Мёртвое тело паукочеловека с четырьмя руками и крыльями.</G_SpooderFourArmWinged_Corpse.description>
+  <G_SpooderSixArm_Corpse.label>труп паукочеловека с шестью руками</G_SpooderSixArm_Corpse.label>
+  <G_SpooderSixArm_Corpse.description>Мёртвое тело паукочеловека с шестью руками.</G_SpooderSixArm_Corpse.description>
+  <G_SpooderSixArmWinged_Corpse.label>труп паукочеловека с шестью руками и крыльями</G_SpooderSixArmWinged_Corpse.label>
+  <G_SpooderSixArmWinged_Corpse.description>Мёртвое тело паукочеловека с шестью руками и крыльями.</G_SpooderSixArmWinged_Corpse.description>
+  <G_SpooderWinged_Corpse.label>труп паукочеловека с крыльями</G_SpooderWinged_Corpse.label>
+  <G_SpooderWinged_Corpse.description>Мёртвое тело паукочеловека с крыльями.</G_SpooderWinged_Corpse.description>
+  <G_FourArmTailed_Corpse.label>труп четырёхрукого гуманоида с хвостом</G_FourArmTailed_Corpse.label>
+  <G_FourArmTailed_Corpse.description>Мёртвое тело четырёхрукого гуманоида с хвостом.</G_FourArmTailed_Corpse.description>
+  <G_FourArmTailedWinged_Corpse.label>труп четырёхрукого гуманоида с хвостом и крыльями</G_FourArmTailedWinged_Corpse.label>
+  <G_FourArmTailedWinged_Corpse.description>Мёртвое тело четырёхрукого гуманоида с хвостом и крыльями.</G_FourArmTailedWinged_Corpse.description>
+  <G_FourArmWinged_Corpse.label>труп четырёхрукого гуманоида с крыльями</G_FourArmWinged_Corpse.label>
+  <G_FourArmWinged_Corpse.description>Мёртвое тело четырёхрукого гуманоида с крыльями.</G_FourArmWinged_Corpse.description>
+  <G_SixArmTailed_Corpse.label>труп шестирукого гуманоида с хвостом</G_SixArmTailed_Corpse.label>
+  <G_SixArmTailed_Corpse.description>Мёртвое тело шестирукого гуманоида с хвостом.</G_SixArmTailed_Corpse.description>
+  <G_SixArmTailedWinged_Corpse.label>труп шестирукого гуманоида с хвостом и крыльями</G_SixArmTailedWinged_Corpse.label>
+  <G_SixArmTailedWinged_Corpse.description>Мёртвое тело шестирукого гуманоида с хвостом и крыльями.</G_SixArmTailedWinged_Corpse.description>
+  <G_SixArmWinged_Corpse.label>труп шестирукого гуманоида с крыльями</G_SixArmWinged_Corpse.label>
+  <G_SixArmWinged_Corpse.description>Мёртвое тело шестирукого гуманоида с крыльями.</G_SixArmWinged_Corpse.description>
+  <G_TailedWinged_Corpse.label>труп хвостатого гуманоида с крыльями</G_TailedWinged_Corpse.label>
+  <G_TailedWinged_Corpse.description>Мёртвое тело хвостатого гуманоида с крыльями.</G_TailedWinged_Corpse.description>
+  <M_MechaCentaurFourArm_Corpse.label>останки меха с четырьмя ногами и четырьмя руками</M_MechaCentaurFourArm_Corpse.label>
+  <M_MechaCentaurFourArm_Corpse.description>Останки меха с четырьмя ногами и четырьмя руками.</M_MechaCentaurFourArm_Corpse.description>
+  <M_MechaCentaurFourArmWinged_Corpse.label>останки меха с четырьмя ногами, четырьмя руками и крыльями</M_MechaCentaurFourArmWinged_Corpse.label>
+  <M_MechaCentaurFourArmWinged_Corpse.description>Останки меха с четырьмя ногами, четырьмя руками и крыльями.</M_MechaCentaurFourArmWinged_Corpse.description>
+  <M_MechaCentaurSixArm_Corpse.label>останки меха с четырьмя ногами и шестью руками</M_MechaCentaurSixArm_Corpse.label>
+  <M_MechaCentaurSixArm_Corpse.description>Останки меха с четырьмя ногами и шестью руками.</M_MechaCentaurSixArm_Corpse.description>
+  <M_MechaCentaurSixArmWinged_Corpse.label>останки меха с четырьмя ногами, шестью руками и крыльями</M_MechaCentaurSixArmWinged_Corpse.label>
+  <M_MechaCentaurSixArmWinged_Corpse.description>Останки меха с четырьмя ногами, шестью руками и крыльями.</M_MechaCentaurSixArmWinged_Corpse.description>
+  <M_MechaCentaurWinged_Corpse.label>останки меха с четырьмя ногами и крыльями</M_MechaCentaurWinged_Corpse.label>
+  <M_MechaCentaurWinged_Corpse.description>Останки меха с четырьмя ногами и крыльями.</M_MechaCentaurWinged_Corpse.description>
+  <M_MechaSnekFourArm_Corpse.label>останки меха с змеиным хвостом и четырьмя руками</M_MechaSnekFourArm_Corpse.label>
+  <M_MechaSnekFourArm_Corpse.description>Останки меха с змеиным хвостом и четырьмя руками.</M_MechaSnekFourArm_Corpse.description>
+  <M_MechaSnekFourArmWinged_Corpse.label>останки меха с змеиным хвостом, четырьмя руками и крыльями</M_MechaSnekFourArmWinged_Corpse.label>
+  <M_MechaSnekFourArmWinged_Corpse.description>Останки меха с змеиным хвостом, четырьмя руками и крыльями.</M_MechaSnekFourArmWinged_Corpse.description>
+  <M_MechaSnekSixArm_Corpse.label>останки меха с змеиным хвостом и шестью руками</M_MechaSnekSixArm_Corpse.label>
+  <M_MechaSnekSixArm_Corpse.description>Останки меха с змеиным хвостом и шестью руками.</M_MechaSnekSixArm_Corpse.description>
+  <M_MechaSnekSixArmWinged_Corpse.label>останки меха с змеиным хвостом, шестью руками и крыльями</M_MechaSnekSixArmWinged_Corpse.label>
+  <M_MechaSnekSixArmWinged_Corpse.description>Останки меха с змеиным хвостом, шестью руками и крыльями.</M_MechaSnekSixArmWinged_Corpse.description>
+  <M_MechaSnekWinged_Corpse.label>останки меха с змеиным хвостом и крыльями</M_MechaSnekWinged_Corpse.label>
+  <M_MechaSnekWinged_Corpse.description>Останки меха с змеиным хвостом и крыльями.</M_MechaSnekWinged_Corpse.description>
+  <M_MechaSpooderFourArm_Corpse.label>останки меха с паучьим брюшком и четырьмя руками</M_MechaSpooderFourArm_Corpse.label>
+  <M_MechaSpooderFourArm_Corpse.description>Останки меха с паучьим брюшком и четырьмя руками.</M_MechaSpooderFourArm_Corpse.description>
+  <M_MechaSpooderFourArmWinged_Corpse.label>останки меха с паучьим брюшком, четырьмя руками и крыльями</M_MechaSpooderFourArmWinged_Corpse.label>
+  <M_MechaSpooderFourArmWinged_Corpse.description>Останки меха с паучьим брюшком, четырьмя руками и крыльями.</M_MechaSpooderFourArmWinged_Corpse.description>
+  <M_MechaSpooderSixArm_Corpse.label>останки меха с паучьим брюшком и шестью руками</M_MechaSpooderSixArm_Corpse.label>
+  <M_MechaSpooderSixArm_Corpse.description>Останки меха с паучьим брюшком и шестью руками.</M_MechaSpooderSixArm_Corpse.description>
+  <M_MechaSpooderSixArmWinged_Corpse.label>останки меха с паучьим брюшком, шестью руками и крыльями</M_MechaSpooderSixArmWinged_Corpse.label>
+  <M_MechaSpooderSixArmWinged_Corpse.description>Останки меха с паучьим брюшком, шестью руками и крыльями.</M_MechaSpooderSixArmWinged_Corpse.description>
+  <M_MechaSpooderWinged_Corpse.label>останки меха с паучьим брюшком и крыльями</M_MechaSpooderWinged_Corpse.label>
+  <M_MechaSpooderWinged_Corpse.description>Останки меха с паучьим брюшком и крыльями.</M_MechaSpooderWinged_Corpse.description>
+  <M_MechaFourArmTailed_Corpse.label>останки меха с четырьмя руками и хвостом</M_MechaFourArmTailed_Corpse.label>
+  <M_MechaFourArmTailed_Corpse.description>Останки меха с четырьмя руками и хвостом.</M_MechaFourArmTailed_Corpse.description>
+  <M_MechaFourArmTailedWinged_Corpse.label>останки меха с четырьмя руками, хвостом и крыльями</M_MechaFourArmTailedWinged_Corpse.label>
+  <M_MechaFourArmTailedWinged_Corpse.description>Останки меха с четырьмя руками, хвостом и крыльями.</M_MechaFourArmTailedWinged_Corpse.description>
+  <M_MechaFourArmWinged_Corpse.label>останки меха с четырьмя руками и крыльями</M_MechaFourArmWinged_Corpse.label>
+  <M_MechaFourArmWinged_Corpse.description>Останки меха с четырьмя руками и крыльями.</M_MechaFourArmWinged_Corpse.description>
+  <M_MechaSixArmTailed_Corpse.label>останки меха с шестью руками и хвостом</M_MechaSixArmTailed_Corpse.label>
+  <M_MechaSixArmTailed_Corpse.description>Останки меха с шестью руками и хвостом.</M_MechaSixArmTailed_Corpse.description>
+  <M_MechaSixArmTailedWinged_Corpse.label>останки меха с шестью руками, хвостом и крыльями</M_MechaSixArmTailedWinged_Corpse.label>
+  <M_MechaSixArmTailedWinged_Corpse.description>Останки меха с шестью руками, хвостом и крыльями.</M_MechaSixArmTailedWinged_Corpse.description>
+  <M_MechaSixArmWinged_Corpse.label>останки меха с шестью руками и крыльями</M_MechaSixArmWinged_Corpse.label>
+  <M_MechaSixArmWinged_Corpse.description>Останки меха с шестью руками и крыльями.</M_MechaSixArmWinged_Corpse.description>
+  <M_MechaTailedWinged_Corpse.label>останки меха с хвостом и крыльями</M_MechaTailedWinged_Corpse.label>
+  <M_MechaTailedWinged_Corpse.description>Останки меха с хвостом и крыльями.</M_MechaTailedWinged_Corpse.description>
+  <M_MechaCentaur_Corpse.label>останки меха с четырьмя ногами</M_MechaCentaur_Corpse.label>
+  <M_MechaCentaur_Corpse.description>Останки меха с четырьмя ногами.</M_MechaCentaur_Corpse.description>
+  <M_MechaSnek_Corpse.label>останки меха с змеиным хвостом</M_MechaSnek_Corpse.label>
+  <M_MechaSnek_Corpse.description>Останки меха с змеиным хвостом.</M_MechaSnek_Corpse.description>
+  <M_MechaSpooder_Corpse.label>останки меха с паучьим брюшком</M_MechaSpooder_Corpse.label>
+  <M_MechaSpooder_Corpse.description>Останки меха с паучьим брюшком.</M_MechaSpooder_Corpse.description>
+  <M_MechaFourArm_Corpse.label>останки меха с четырьмя руками</M_MechaFourArm_Corpse.label>
+  <M_MechaFourArm_Corpse.description>Останки меха с четырьмя руками.</M_MechaFourArm_Corpse.description>
+  <M_MechaSixArm_Corpse.label>останки меха с шестью руками</M_MechaSixArm_Corpse.label>
+  <M_MechaSixArm_Corpse.description>Останки меха с шестью руками.</M_MechaSixArm_Corpse.description>
+  <M_MechaTailed_Corpse.label>останки меха с хвостом</M_MechaTailed_Corpse.label>
+  <M_MechaTailed_Corpse.description>Останки меха с хвостом.</M_MechaTailed_Corpse.description>
+  <M_MechaWinged_Corpse.label>останки меха с крыльями</M_MechaWinged_Corpse.label>
+  <M_MechaWinged_Corpse.description>Останки меха с крыльями.</M_MechaWinged_Corpse.description>
+  <BS_BionicStriderLeg.label>бионическая нога ходока</BS_BionicStriderLeg.label>
+  <BS_BionicStriderLeg.description>Совершенная искусственная нога с биогелевым нейросоединением, мощными миниатюрными сервоприводами и обеспечивающим самовосстановление решётчатым напылением. Обычно немного уступает бионической ноге базового человека, но несколько лучше подходит существам, у которых больше двух ног.</BS_BionicStriderLeg.description>
+  <BS_BionicLocomotiveSpine.label>бионический двигательный позвоночник</BS_BionicLocomotiveSpine.label>
+  <BS_BionicLocomotiveSpine.description>Совершенный искусственный позвоночник для замены нижней части позвоночника змееподобного существа. В отличие от обычного бионического позвоночника, значительно улучшает передвижение таких существ.</BS_BionicLocomotiveSpine.description>
+  <BS_AndroidFuelRefinery.label>установка производства топлива для андроидов</BS_AndroidFuelRefinery.label>
+  <BS_AndroidFuelRefinery.description>Эффективно перерабатывает древесину или химтопливо в топливо, пригодное для употребления андроидами. Предназначена для размещения на кухне.</BS_AndroidFuelRefinery.description>
+  <BS_AndroidFuel.label>топливо для андроидов</BS_AndroidFuel.label>
+  <BS_AndroidFuel.description>Переработанное энергоёмкое топливо, безопасное для андроидов.</BS_AndroidFuel.description>
+  <BS_AndroidChargingStation.label>зарядная станция</BS_AndroidChargingStation.label>
+  <BS_AndroidChargingStation.description>Станция для подзарядки энергоячеек андроидов. Требует аккумуляторов и мощной электросети.
+
+Изображение пока не окончательное.</BS_AndroidChargingStation.description>
+</LanguageData>

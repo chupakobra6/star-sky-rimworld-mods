@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Passioned_Learning.degreeDatas.diligent_student.label>усердный ученик</Passioned_Learning.degreeDatas.diligent_student.label>
+  <Passioned_Learning.degreeDatas.diligent_student.description>{PAWN_nameDef} быстрее осваивает навыки, к которым не проявляет интереса.
+
+Эта прибавка к скорости обучения не отображается в интерфейсе навыков.</Passioned_Learning.degreeDatas.diligent_student.description>
+  <Very_Passioned_Learning.degreeDatas.very_diligent_student.label>очень усердный ученик</Very_Passioned_Learning.degreeDatas.very_diligent_student.label>
+  <Very_Passioned_Learning.degreeDatas.very_diligent_student.description>{PAWN_nameDef} гораздо быстрее осваивает навыки, к которым не проявляет интереса.
+
+Эта прибавка к скорости обучения не отображается в интерфейсе навыков.</Very_Passioned_Learning.degreeDatas.very_diligent_student.description>
+  <BS_AnimalFriend.degreeDatas.Animal_Friend.label>друг животных</BS_AnimalFriend.degreeDatas.Animal_Friend.label>
+  <BS_AnimalFriend.degreeDatas.Animal_Friend.description>{PAWN_nameDef} обладает необычным свойством: хищники не воспринимают такого человека как добычу.</BS_AnimalFriend.degreeDatas.Animal_Friend.description>
+  <BS_AlcoholAddict.degreeDatas.alcohol_lover.label>любитель выпить</BS_AlcoholAddict.degreeDatas.alcohol_lover.label>
+  <BS_AlcoholAddict.degreeDatas.alcohol_lover.description>[PAWN_nameDef] обожает алкоголь. [PAWN_pronoun] никогда не избавится от зависимости от него.</BS_AlcoholAddict.degreeDatas.alcohol_lover.description>
+  <BS_Gentle.degreeDatas.gentle.label>мягкий характер</BS_Gentle.degreeDatas.gentle.label>
+  <BS_Gentle.degreeDatas.gentle.description>{PAWN_nameDef} отличается мягким характером и хладнокровием. {PAWN_pronoun} реже оскорбляет окружающих и затевает драки, а иногда поднимает другим настроение.</BS_Gentle.degreeDatas.gentle.description>
+  <BS_InsultProof.degreeDatas.uninsultable.label>невозмутимость</BS_InsultProof.degreeDatas.uninsultable.label>
+  <BS_InsultProof.degreeDatas.uninsultable.description>[PAWN_nameDef] не реагирует на оскорбления и неудачный флирт — как собственный, так и чужой.</BS_InsultProof.degreeDatas.uninsultable.description>
+  <BS_Unpretentious.degreeDatas.Unpretentious.label>неприхотливость</BS_Unpretentious.degreeDatas.Unpretentious.label>
+  <BS_Unpretentious.degreeDatas.Unpretentious.description>[PAWN_nameDef] не обращает внимания на неказистую внешность и небольшие бытовые лишения. [PAWN_nameDef] также придаёт меньше значения дворянским титулам.</BS_Unpretentious.degreeDatas.Unpretentious.description>
+  <Gigantism.degreeDatas.gigantism.label>гигантизм</Gigantism.degreeDatas.gigantism.label>
+  <Gigantism.degreeDatas.gigantism.description>{PAWN_nameDef} выделяется поистине гигантскими размерами среди своих сородичей. Это придаёт прочности, но столь большой размер замедляет движение и повышает риск ранних сердечных приступов и других проблем со здоровьем.</Gigantism.degreeDatas.gigantism.description>
+  <Large.degreeDatas.large.label>крупное телосложение</Large.degreeDatas.large.label>
+  <Large.degreeDatas.large.description>{PAWN_nameDef} выше и массивнее большинства сородичей. Такое телосложение придаёт прочности, но немного замедляет движение.</Large.degreeDatas.large.description>
+  <Small.degreeDatas.small.label>малый размер</Small.degreeDatas.small.label>
+  <Small.degreeDatas.small.description>{PAWN_nameDef} немного уступает большинству сородичей в размерах.</Small.degreeDatas.small.description>
+  <Dwarfism.degreeDatas.dwarfism.label>карликовость</Dwarfism.degreeDatas.dwarfism.label>
+  <Dwarfism.degreeDatas.dwarfism.description>{PAWN_nameDef} гораздо меньше большинства сородичей.</Dwarfism.degreeDatas.dwarfism.description>
+  <Passioned_Learning.degreeDatas.diligent_student.labelFemale>усердная ученица</Passioned_Learning.degreeDatas.diligent_student.labelFemale>
+  <Very_Passioned_Learning.degreeDatas.very_diligent_student.labelFemale>очень усердная ученица</Very_Passioned_Learning.degreeDatas.very_diligent_student.labelFemale>
+  <BS_AnimalFriend.degreeDatas.Animal_Friend.labelFemale>подруга животных</BS_AnimalFriend.degreeDatas.Animal_Friend.labelFemale>
+  <BS_AlcoholAddict.degreeDatas.alcohol_lover.labelFemale>любительница выпить</BS_AlcoholAddict.degreeDatas.alcohol_lover.labelFemale>
+</LanguageData>

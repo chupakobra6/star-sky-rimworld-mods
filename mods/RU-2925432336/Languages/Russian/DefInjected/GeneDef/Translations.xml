@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BS_FacialAnimDisabled.label>без анимации лица</BS_FacialAnimDisabled.label>
+  <BS_FacialAnimDisabled.description>Полностью отключает анимацию лица из мода Facial Animation от Nals и использует обычную голову. В большинстве случаев для отключения анимации следует выбирать этот вариант.</BS_FacialAnimDisabled.description>
+  <BS_FA_Keep_Brows.label>FA: только брови</BS_FA_Keep_Brows.label>
+  <BS_FA_Keep_Brows.description>Сохраняет только анимацию бровей.</BS_FA_Keep_Brows.description>
+  <BS_FA_Keep_Lid.label>FA: только веки</BS_FA_Keep_Lid.label>
+  <BS_FA_Keep_Lid.description>Сохраняет только анимацию век.</BS_FA_Keep_Lid.description>
+  <BS_FA_Keep_Eyes.label>FA: глаза и веки</BS_FA_Keep_Eyes.label>
+  <BS_FA_Keep_Eyes.description>Сохраняет только анимацию глаз и век.</BS_FA_Keep_Eyes.description>
+  <BS_FA_Keep_LidBrow.label>FA: веки и брови</BS_FA_Keep_LidBrow.label>
+  <BS_FA_Keep_LidBrow.description>Сохраняет анимацию век и бровей.</BS_FA_Keep_LidBrow.description>
+  <Body_FemaleOnly.label>женский пол</Body_FemaleOnly.label>
+  <Body_FemaleOnly.description>Носители этого гена имеют женский биологический пол.</Body_FemaleOnly.description>
+  <Body_MaleOnly.label>мужской пол</Body_MaleOnly.label>
+  <Body_MaleOnly.description>Носители этого гена имеют мужской биологический пол.</Body_MaleOnly.description>
+  <BS_OverrideDummyGene.label>условия активации не выполнены</BS_OverrideDummyGene.label>
+  <BS_OverrideDummyGene.description>Служебный ген. Его добавление персонажу ничего не меняет.
+
+По умолчанию он скрыт, а вероятность его появления равна нулю. Если вы его видите, скорее всего, включён режим разработчика или на него повлиял другой мод.</BS_OverrideDummyGene.description>
+</LanguageData>

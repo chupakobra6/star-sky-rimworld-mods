@@ -1,0 +1,41 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AmorVincitOmnia.label>Любовь побеждает всё</AmorVincitOmnia.label>
+  <AmorVincitOmnia.description>Мнение мужа и жены друг о друге всегда закреплено на уровне 100 и никогда не снижается.</AmorVincitOmnia.description>
+  <CarpeDiem.label>Лови мгновение</CarpeDiem.label>
+  <CarpeDiem.description>Все персонажи получают +3 к настроению.</CarpeDiem.description>
+  <NilDesperandum.label>Не отчаивайся</NilDesperandum.label>
+  <NilDesperandum.description>Порог нервного срыва снижается на 10 процентных пунктов.</NilDesperandum.description>
+  <PanemEtCircenses.label>Хлеба и зрелищ</PanemEtCircenses.label>
+  <PanemEtCircenses.description>Положительные воспоминания действуют на 20% дольше.</PanemEtCircenses.description>
+  <ArsLongaVitaBrevis.label>Жизнь коротка, искусство вечно</ArsLongaVitaBrevis.label>
+  <ArsLongaVitaBrevis.description>Красота всех скульптур и произведений искусства умножается на x1.25.</ArsLongaVitaBrevis.description>
+  <ExitusActaProbat.label>Цель оправдывает средства</ExitusActaProbat.label>
+  <ExitusActaProbat.description>Отрицательные воспоминания действуют на 10% меньше.</ExitusActaProbat.description>
+  <AleaIactaEst.label>Жребий брошен</AleaIactaEst.label>
+  <AleaIactaEst.description>Порог болевого шока повышается на 10 процентных пунктов.</AleaIactaEst.description>
+  <PecuniaNervusBelli.label>Деньги — сила войны</PecuniaNervusBelli.label>
+  <PecuniaNervusBelli.description>Множитель цены продажи любого оружия повышается на 5 процентных пунктов.</PecuniaNervusBelli.description>
+  <SiVisPacemParaBellum.label>Хочешь мира — готовься к войне</SiVisPacemParaBellum.label>
+  <SiVisPacemParaBellum.description>Пока поселенец призван, психические срывы невозможны.</SiVisPacemParaBellum.description>
+  <NosMorituriTeSalutant.label>Идущие на смерть приветствуют тебя</NosMorituriTeSalutant.label>
+  <NosMorituriTeSalutant.description>Штрафы к настроению из-за гибели поселенцев, родственников и других близких уменьшаются вдвое.</NosMorituriTeSalutant.description>
+  <NonOmniaPossumusOmnes.label>Не всем всё под силу</NonOmniaPossumusOmnes.label>
+  <NonOmniaPossumusOmnes.description>Показатель скорости обучения повышается на 5 процентных пунктов.</NonOmniaPossumusOmnes.description>
+  <TimendiCausaEstNescire.label>Причина страха — незнание</TimendiCausaEstNescire.label>
+  <TimendiCausaEstNescire.description>Показатель скорости исследований повышается на 5 процентных пунктов.</TimendiCausaEstNescire.description>
+  <MensSanaInCorporeSano.label>В здоровом теле здоровый дух</MensSanaInCorporeSano.label>
+  <MensSanaInCorporeSano.description>Показатель общей скорости работы повышается на 10 процентных пунктов, пока настроение не угрожает нервным срывом.</MensSanaInCorporeSano.description>
+  <ActaNonVerba.label>Дела, а не слова</ActaNonVerba.label>
+  <ActaNonVerba.description>Показатель общей скорости работы повышается на 5 процентных пунктов.</ActaNonVerba.description>
+  <NaturaNonConstristatur.label>Природа не скорбит</NaturaNonConstristatur.label>
+  <NaturaNonConstristatur.description>Штрафы к настроению из-за жары и холода уменьшаются вдвое: например, с −8 до −4.</NaturaNonConstristatur.description>
+  <Tributum.label>Дань</Tributum.label>
+  <Tributum.description>Ежегодно вы получаете серебро в размере 5% от богатства поселений. Цены покупки у торговцев Центральной республики снижаются вдвое.</Tributum.description>
+  <Auxilia.label>Вспомогательные войска</Auxilia.label>
+  <Auxilia.description>При каждом налёте с вероятностью 25% на помощь прибывает легион подкрепления. После этого он покидает карту.</Auxilia.description>
+  <Profectus.label>Прогресс</Profectus.label>
+  <Profectus.description>Время от времени автоматически завершается случайное доступное исследование. Первое — через 5 дней, затем каждый следующий интервал на день длиннее. Не затрагивает технологии, требующие техпринтов, изучения образцов, механитора или особых знаний.</Profectus.description>
+  <VeniVidiVici.label>Пришёл, увидел, победил</VeniVidiVici.label>
+  <VeniVidiVici.description>Теперь любого персонажа из любой из трёх республик можно завербовать мгновенно.</VeniVidiVici.description>
+</LanguageData>

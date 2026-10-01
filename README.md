@@ -10,7 +10,7 @@ Original RimWorld mods, focused fixes and complete Russian translations by **chu
 | :--- | ---: | :--- |
 | [Mods](catalog/mods.md) | 3 | Original mods with focused gameplay changes and quality-of-life tools |
 | [Fixes](catalog/fixes.md) | 1 | Focused bug fixes and compatibility patches |
-| [Russian translations](catalog/translations.md) | 36 | Complete Russian translations with reviewed text and consistent terminology |
+| [Russian translations](catalog/translations.md) | 43 | Complete Russian translations with reviewed text and consistent terminology |
 
 Every listed release is free to use, with its own Workshop page, source, installation guide and credits
 

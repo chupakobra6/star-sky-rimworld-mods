@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BS_AnimalBaby.description>{PAWN_nameDef} {PAWN_gender ? родился : родилась : родилось} обычным детёнышем животного.</BS_AnimalBaby.description>
+  <BS_AnimalBaby.title>детёныш животного</BS_AnimalBaby.title>
+  <BS_AnimalBaby.titleShort>детёныш</BS_AnimalBaby.titleShort>
+  <BS_AnimalAdult.description>{PAWN_nameDef} {PAWN_gender ? вырос : выросла : выросло} и {PAWN_gender ? стал : стала : стало} взрослым животным.</BS_AnimalAdult.description>
+  <BS_AnimalAdult.title>животное</BS_AnimalAdult.title>
+  <BS_AnimalAdult.titleShort>животное</BS_AnimalAdult.titleShort>
+</LanguageData>

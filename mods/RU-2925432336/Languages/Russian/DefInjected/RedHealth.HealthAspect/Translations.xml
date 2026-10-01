@@ -1,0 +1,67 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RED_BrainHealth.label>состояние нервной системы</RED_BrainHealth.label>
+  <RED_BrainHealth.description>Показатель того, насколько хорошо работает мозг.</RED_BrainHealth.description>
+  <RED_CardiHealth.label>состояние сердечно-сосудистой системы</RED_CardiHealth.label>
+  <RED_CardiHealth.description>Показатель того, насколько хорошо работают сердце и кровеносные сосуды. Отражает общее здоровье и физическое состояние.</RED_CardiHealth.description>
+  <RED_OrganHealth.label>состояние внутренних органов</RED_OrganHealth.label>
+  <RED_OrganHealth.description>Показатель того, насколько хорошо работают внутренние органы.</RED_OrganHealth.description>
+  <RED_OverallHealth.label>общее состояние здоровья</RED_OverallHealth.label>
+  <RED_OverallHealth.description>Показатель того, насколько хорошо работает организм в целом. Позволяет судить о продолжительности и качестве жизни.</RED_OverallHealth.description>
+  <RED_BrainHealth.labelSimple>состояние мозга</RED_BrainHealth.labelSimple>
+  <RED_BrainHealth.thresholds.0.label>хорошее</RED_BrainHealth.thresholds.0.label>
+  <RED_BrainHealth.thresholds.0.description>Заметных нарушений нет.</RED_BrainHealth.thresholds.0.description>
+  <RED_BrainHealth.thresholds.1.label>удовлетворительное</RED_BrainHealth.thresholds.1.label>
+  <RED_BrainHealth.thresholds.1.description>Незначительные нарушения когнитивных функций.</RED_BrainHealth.thresholds.1.description>
+  <RED_BrainHealth.thresholds.2.label>плохое</RED_BrainHealth.thresholds.2.label>
+  <RED_BrainHealth.thresholds.2.description>Умеренные нарушения когнитивных функций.</RED_BrainHealth.thresholds.2.description>
+  <RED_BrainHealth.thresholds.3.label>тяжёлое</RED_BrainHealth.thresholds.3.label>
+  <RED_BrainHealth.thresholds.3.description>Тяжёлые нарушения когнитивных функций.</RED_BrainHealth.thresholds.3.description>
+  <RED_BrainHealth.thresholds.4.label>критическое</RED_BrainHealth.thresholds.4.label>
+  <RED_BrainHealth.thresholds.4.description>Крайне тяжёлые нарушения когнитивных функций.</RED_BrainHealth.thresholds.4.description>
+  <RED_BrainHealth.thresholds.5.label>терминальное</RED_BrainHealth.thresholds.5.label>
+  <RED_BrainHealth.thresholds.5.description>Смертельно опасные нарушения работы мозга.</RED_BrainHealth.thresholds.5.description>
+  <RED_CardiHealth.labelSimple>состояние сердца</RED_CardiHealth.labelSimple>
+  <RED_CardiHealth.thresholds.0.label>хорошее</RED_CardiHealth.thresholds.0.label>
+  <RED_CardiHealth.thresholds.0.description>Заметных нарушений нет.</RED_CardiHealth.thresholds.0.description>
+  <RED_CardiHealth.thresholds.1.label>удовлетворительное</RED_CardiHealth.thresholds.1.label>
+  <RED_CardiHealth.thresholds.1.description>Незначительные нарушения работы сердечно-сосудистой системы.</RED_CardiHealth.thresholds.1.description>
+  <RED_CardiHealth.thresholds.2.label>плохое</RED_CardiHealth.thresholds.2.label>
+  <RED_CardiHealth.thresholds.2.description>Умеренные нарушения работы сердечно-сосудистой системы.</RED_CardiHealth.thresholds.2.description>
+  <RED_CardiHealth.thresholds.3.label>тяжёлое</RED_CardiHealth.thresholds.3.label>
+  <RED_CardiHealth.thresholds.3.description>Тяжёлые нарушения работы сердечно-сосудистой системы.</RED_CardiHealth.thresholds.3.description>
+  <RED_CardiHealth.thresholds.4.label>критическое</RED_CardiHealth.thresholds.4.label>
+  <RED_CardiHealth.thresholds.4.description>Крайне тяжёлые нарушения работы сердечно-сосудистой системы.</RED_CardiHealth.thresholds.4.description>
+  <RED_CardiHealth.thresholds.5.label>терминальное</RED_CardiHealth.thresholds.5.label>
+  <RED_CardiHealth.thresholds.5.description>Смертельно опасные нарушения работы сердечно-сосудистой системы.</RED_CardiHealth.thresholds.5.description>
+  <RED_OrganHealth.labelSimple>состояние органов</RED_OrganHealth.labelSimple>
+  <RED_OrganHealth.thresholds.0.label>хорошее</RED_OrganHealth.thresholds.0.label>
+  <RED_OrganHealth.thresholds.0.description>Заметных нарушений нет.</RED_OrganHealth.thresholds.0.description>
+  <RED_OrganHealth.thresholds.1.label>удовлетворительное</RED_OrganHealth.thresholds.1.label>
+  <RED_OrganHealth.thresholds.1.description>Незначительные нарушения работы внутренних органов.</RED_OrganHealth.thresholds.1.description>
+  <RED_OrganHealth.thresholds.2.label>плохое</RED_OrganHealth.thresholds.2.label>
+  <RED_OrganHealth.thresholds.2.description>Умеренные нарушения работы внутренних органов.</RED_OrganHealth.thresholds.2.description>
+  <RED_OrganHealth.thresholds.3.label>тяжёлое</RED_OrganHealth.thresholds.3.label>
+  <RED_OrganHealth.thresholds.3.description>Тяжёлые нарушения работы внутренних органов.</RED_OrganHealth.thresholds.3.description>
+  <RED_OrganHealth.thresholds.4.label>критическое</RED_OrganHealth.thresholds.4.label>
+  <RED_OrganHealth.thresholds.4.description>Крайне тяжёлые нарушения работы внутренних органов.</RED_OrganHealth.thresholds.4.description>
+  <RED_OrganHealth.thresholds.5.label>терминальное</RED_OrganHealth.thresholds.5.label>
+  <RED_OrganHealth.thresholds.5.description>Смертельно опасные нарушения работы внутренних органов.</RED_OrganHealth.thresholds.5.description>
+  <RED_OverallHealth.labelSimple>общее состояние</RED_OverallHealth.labelSimple>
+  <RED_OverallHealth.thresholds.0.label>безупречное</RED_OverallHealth.thresholds.0.label>
+  <RED_OverallHealth.thresholds.0.description>Здоровью ничего не угрожает.</RED_OverallHealth.thresholds.0.description>
+  <RED_OverallHealth.thresholds.1.label>хорошее</RED_OverallHealth.thresholds.1.label>
+  <RED_OverallHealth.thresholds.1.description>Новые проблемы со здоровьем маловероятны.</RED_OverallHealth.thresholds.1.description>
+  <RED_OverallHealth.thresholds.2.label>удовлетворительное</RED_OverallHealth.thresholds.2.label>
+  <RED_OverallHealth.thresholds.2.description>Проблемы со здоровьем возможны, но возникают редко.</RED_OverallHealth.thresholds.2.description>
+  <RED_OverallHealth.thresholds.3.label>плохое</RED_OverallHealth.thresholds.3.label>
+  <RED_OverallHealth.thresholds.3.description>Проблемы со здоровьем могут возникать довольно часто.</RED_OverallHealth.thresholds.3.description>
+  <RED_OverallHealth.thresholds.4.label>ухудшается</RED_OverallHealth.thresholds.4.label>
+  <RED_OverallHealth.thresholds.4.description>Велик риск того, что проблемы со здоровьем начнут накапливаться.</RED_OverallHealth.thresholds.4.description>
+  <RED_OverallHealth.thresholds.5.label>тяжёлое</RED_OverallHealth.thresholds.5.label>
+  <RED_OverallHealth.thresholds.5.description>Проблемы со здоровьем и опасные осложнения могут быстро накапливаться.</RED_OverallHealth.thresholds.5.description>
+  <RED_OverallHealth.thresholds.6.label>критическое</RED_OverallHealth.thresholds.6.label>
+  <RED_OverallHealth.thresholds.6.description>Смерть, вероятно, уже не за горами.</RED_OverallHealth.thresholds.6.description>
+  <RED_OverallHealth.thresholds.7.label>терминальное</RED_OverallHealth.thresholds.7.label>
+  <RED_OverallHealth.thresholds.7.description>Смерть уже не просто на пороге: она сидит в комнате и попивает чай.</RED_OverallHealth.thresholds.7.description>
+</LanguageData>
