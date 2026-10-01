@@ -18,6 +18,8 @@
 
 Переведены подписи информационной панели, предупреждения о состоянии персонажа, редактор макета и подсказки по настройке. RimHUD показывает подробные сведения о выбранном персонаже или животном прямо в панели осмотра либо в отдельном перемещаемом окне
 
+![Что переведено](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/section-features-ru.png)
+
 ## Что переведено
 
 Переведены тексты мода с учётом окончаний и согласования слов
@@ -25,6 +27,8 @@
 - Показатели персонажа, шкалы потребностей и предупреждения о здоровье и настроении
 - Настройки оформления, слоёв и пользовательских пресетов панели
 - Подсказки и команды управления панелью
+
+![Как пользоваться](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/section-how-to-use-ru.png)
 
 ## Установка
 
@@ -35,6 +39,8 @@
 <!-- rimmods:readme installation end -->
 
 Выберите персонажа и наведите указатель на панель осмотра. Кнопка с шестерёнкой открывает настройки RimHUD, где можно изменить содержимое и расположение панели
+
+![Обратная связь](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/section-feedback-ru.png)
 
 ## Обратная связь
 
@@ -55,3 +61,6 @@
 <!-- rimmods:readme ludeon begin -->
 Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.
 <!-- rimmods:readme ludeon end -->
+
+[![Поддержать на Boosty](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/button-support-ru.png)](https://boosty.to/chupakobra6?utm_source=github&utm_medium=repository&utm_campaign=star_sky_mods&utm_content=readme&utm_term=support)
+[![Другие моды](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/button-workshop-ru.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)

@@ -18,6 +18,8 @@ Vanilla Furniture Expanded - Props and Decor получил вычитанный
 
 Переведены названия и описания декораций, категории меню, настройки и строка, встроенная в код. Оригинальный мод помогает обустроить колонию сотнями предметов: от растений и мебели до деталей космического корабля. Это декорации, а не работающие устройства
 
+![Что переведено](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/section-features-ru.png)
+
 ## Что переведено
 
 Переведены тексты декораций, настройки и подписи игрового интерфейса
@@ -25,6 +27,8 @@ Vanilla Furniture Expanded - Props and Decor получил вычитанный
 - Названия и описания декоративных предметов и растений, в том числе содержимого для подключённых дополнений
 - Категории и короткие подписи в меню размещения декораций
 - Настройки стоимости и возврата серебра, сообщения и строка из кода мода
+
+![Как пользоваться](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/section-how-to-use-ru.png)
 
 ## Установка и использование
 
@@ -35,6 +39,8 @@ Vanilla Furniture Expanded - Props and Decor получил вычитанный
 <!-- rimmods:readme installation end -->
 
 Размещайте предметы через меню декораций. Их стоимость и долю возвращаемого серебра можно менять в настройках Vanilla Furniture Expanded - Props and Decor
+
+![Обратная связь](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/section-feedback-ru.png)
 
 ## Обратная связь
 
@@ -55,3 +61,6 @@ Vanilla Furniture Expanded - Props and Decor получил вычитанный
 <!-- rimmods:readme ludeon begin -->
 Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.
 <!-- rimmods:readme ludeon end -->
+
+[![Поддержать на Boosty](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/button-support-ru.png)](https://boosty.to/chupakobra6?utm_source=github&utm_medium=repository&utm_campaign=star_sky_mods&utm_content=readme&utm_term=support)
+[![Другие моды](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/button-workshop-ru.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)

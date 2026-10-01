@@ -14,10 +14,14 @@
 Я перевёл настройки и редактор лиц, сохраняя смысл параметров и единые названия. Выберите русский язык в настройках RimWorld
 <!-- rimmods:readme translation end -->
 
+![Что переведено](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/section-features-ru.png)
+
 ## Что переведено
 
 - Настройки отрисовки и анимации лиц, подписи вкладок и подсказки
 - Редактор внешности и строки из кода
+
+![Как пользоваться](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/section-how-to-use-ru.png)
 
 ## Установка
 
@@ -26,6 +30,8 @@
 2. Включите моды в порядке: Harmony → оригинальный мод → этот перевод.
 3. Выберите русский язык в настройках RimWorld.
 <!-- rimmods:readme installation end -->
+
+![Обратная связь](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/section-feedback-ru.png)
 
 ## Обратная связь
 
@@ -46,3 +52,6 @@
 <!-- rimmods:readme ludeon begin -->
 Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.
 <!-- rimmods:readme ludeon end -->
+
+[![Поддержать на Boosty](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/button-support-ru.png)](https://boosty.to/chupakobra6?utm_source=github&utm_medium=repository&utm_campaign=star_sky_mods&utm_content=readme&utm_term=support)
+[![Другие моды](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/button-workshop-ru.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)
