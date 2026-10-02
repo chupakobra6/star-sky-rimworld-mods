@@ -1,0 +1,10 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<loadFolders>
+  <v1.6>
+    <li>/</li>
+    <li IfModActive="dankpyon.medieval.overhaul">1.6/Conditional/with-dankpyon-medieval-overhaul</li>
+    <li IfModActive="ludeon.rimworld.biotech">1.6/Conditional/with-ludeon-rimworld-biotech</li>
+    <li IfModActive="ludeon.rimworld.royalty">1.6/Conditional/with-ludeon-rimworld-royalty</li>
+    <li IfModActive="sierra.rf.medievaloverhaul">1.6/Conditional/with-sierra-rf-medievaloverhaul</li>
+  </v1.6>
+</loadFolders>

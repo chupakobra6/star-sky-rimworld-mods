@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Addie_AncientNobleStart.description>Древний илланец и пробуждённый симулякр ищут новое предназначение в незнакомом мире после сотен лет криптосна.\n\nДревние илланцы великолепно сражаются в ближнем бою, пока им прохладно. Пробуждённые симулякры очень хрупки, зато не нуждаются во сне и мало едят.\n\nСложность этого сценария в основном зависит от начального биома, поскольку на старте у вас будет немного ресурсов.</Addie_AncientNobleStart.description>
+  <Addie_AncientNobleStart.label>Древний илланский скиталец</Addie_AncientNobleStart.label>
+  <Addie_AncientNobleStart.scenario.parts.0.xenotypeCounts.0.description>Пробуждённый симулякр</Addie_AncientNobleStart.scenario.parts.0.xenotypeCounts.0.description>
+  <Addie_AncientNobleStart.scenario.parts.0.xenotypeCounts.1.description>Древний илланец</Addie_AncientNobleStart.scenario.parts.0.xenotypeCounts.1.description>
+  <Addie_Exiles.description>Что бы ни привело к вашему изгнанию из дома Ван Илла, теперь ваша судьба в ваших руках. Да направит Возвышенная госпожа ваш путь.</Addie_Exiles.description>
+  <Addie_Exiles.label>Илланские изгнанники</Addie_Exiles.label>
+  <Addie_Exiles.scenario.parts.0.customSummary>В начале у вас будет четверо илланских изгнанников.</Addie_Exiles.scenario.parts.0.customSummary>
+  <Addie_Exiles.scenario.parts.0.xenotypeCounts.0.description>Илланские феи</Addie_Exiles.scenario.parts.0.xenotypeCounts.0.description>
+  <Addie_Exiles.scenario.parts.16.text>Изгнанные из чертогов дома Ван Илла, мы теперь сами прокладываем свой путь. Холодный ветер приносит шёпот родного дома, но назад дороги нет. Пусть Возвышенная госпожа будет нам свидетелем: из богатств диких земель мы создадим новое будущее.</Addie_Exiles.scenario.parts.16.text>
+  <Addie_IllanNobleStart.description>Возможно, вам опротивела размеренная жизнь знати, вас изгнали из-за придворных интриг или вы решили собственными руками вернуть утраченную славу Иллы. Что бы ни привело вас на этот путь, одно неизменно: вы одиноки, вам нечего терять и есть всё, что можно обрести.</Addie_IllanNobleStart.description>
+  <Addie_IllanNobleStart.label>Отвергнутый илланский аристократ</Addie_IllanNobleStart.label>
+  <Addie_IllanNobleStart.scenario.parts.0.customSummary>В начале у вас будет один илланский аристократ.</Addie_IllanNobleStart.scenario.parts.0.customSummary>
+  <Addie_IllanNobleStart.scenario.parts.0.xenotypeCounts.0.description>Илланские феи</Addie_IllanNobleStart.scenario.parts.0.xenotypeCounts.0.description>
+  <Addie_IllanNobleStart.scenario.parts.12.text>Удобства и тяготы жизни знати остались далеко позади. Вы прошли через нетронутые дикие земли, чтобы добраться сюда, где единственный закон — ваша воля, а единственное обещание — неизвестность. Безграничное небо над головой и кости в земле под ногами безмолвно напоминают, что слава вам не гарантирована: равнодушие природы и капризная рука судьбы ещё могут вас погубить. Но здесь у вас есть возможность заново создать своё наследие. Укрепите решимость: путь к величию открыт, если вам хватит смелости вступить на него.</Addie_IllanNobleStart.scenario.parts.12.text>
+  <Addie_IllanNobleStart.scenario.summary>Одинокий илланский аристократ прокладывает собственный путь.</Addie_IllanNobleStart.scenario.summary>
+</LanguageData>

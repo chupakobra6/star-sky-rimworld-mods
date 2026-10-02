@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <!-- Remove the duplicate only while the original South symbol is present. -->
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/KCSG.SymbolDef[defName="DankPyon_Lootable_RackSword_BlocksMarble" and rotation="South"]/../KCSG.SymbolDef[defName="DankPyon_Lootable_RackSword_BlocksMarble" and rotation="West"]</xpath>
+    <match Class="PatchOperationRemove">
+      <xpath>Defs/KCSG.SymbolDef[defName="DankPyon_Lootable_RackSword_BlocksMarble" and rotation="West"]</xpath>
+    </match>
+  </Operation>
+  <!-- Do not override a restored upstream tailor's bench or an updated recipe. -->
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="DankPyon_TailorsBench"]</xpath>
+    <nomatch Class="PatchOperationConditional">
+      <xpath>Defs/ThingDef[defName="HandTailoringBench"]/../ThingDef[defName="Addie_Rimeshroud"]/recipeMaker/recipeUsers/li[text()="DankPyon_TailorsBench"]</xpath>
+      <match Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Addie_Rimeshroud"]/recipeMaker/recipeUsers/li[text()="DankPyon_TailorsBench"]</xpath>
+        <value><li>HandTailoringBench</li></value>
+      </match>
+    </nomatch>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="Addie_ParryingDagger"]/comps/li[@Class="VEF.Apparels.CompProperties_Shield"]/offHandGraphicData/texPath[text()="Weapons/ParryingDagger/ParryingDagger"]</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/ThingDef[defName="Addie_ParryingDagger"]/comps/li[@Class="VEF.Apparels.CompProperties_Shield"]/offHandGraphicData/texPath[text()="Weapons/ParryingDagger/ParryingDagger"]</xpath>
+      <value><texPath>Things/Weapons/ParryingDagger/ParryingDagger</texPath></value>
+    </match>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="Addie_LunarCygnus"]/race/wildness[text()="0.25"]</xpath>
+    <match Class="PatchOperationSequence">
+      <operations>
+        <li Class="PatchOperationConditional">
+          <xpath>Defs/ThingDef[defName="Addie_LunarCygnus"]/statBases/Wildness</xpath>
+          <nomatch Class="PatchOperationAdd">
+            <xpath>Defs/ThingDef[defName="Addie_LunarCygnus"]/statBases</xpath>
+            <value><Wildness>0.25</Wildness></value>
+          </nomatch>
+        </li>
+        <li Class="PatchOperationRemove"><xpath>Defs/ThingDef[defName="Addie_LunarCygnus"]/race/wildness[text()="0.25"]</xpath></li>
+      </operations>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/HediffDef[defName="Addie_ZezavelHediff"]/comps/li[@Class="HouseVanIlla.HediffCompProperties_SkipDodge"]/teleportRadius[text()="1.9"]</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/HediffDef[defName="Addie_ZezavelHediff"]/comps/li[@Class="HouseVanIlla.HediffCompProperties_SkipDodge"]/teleportRadius[text()="1.9"]</xpath>
+      <value><teleportRadius>1</teleportRadius></value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs[not(SoundDef[defName="PsychicCalmCast"])]/AbilityDef[defName="Addie_SimulacrumCommandAbility"]/verbProperties/soundCast[text()="PsychicCalmCast"]</xpath>
+    <match Class="PatchOperationRemove">
+      <xpath>Defs/AbilityDef[defName="Addie_SimulacrumCommandAbility"]/verbProperties/soundCast[text()="PsychicCalmCast"]</xpath>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs[not(ThingDef[defName="DankPyon_RusticCookingTable"])]/RecipeDef[defName="Addie_CookMealVermillionEgg" or defName="DankPyon_CookVermillionEgg_Bulk" or defName="Addie_CookEggnog" or defName="Addie_CookFrostcream"]/recipeUsers/li[text()="DankPyon_RusticCookingTable"]</xpath>
+    <match Class="PatchOperationRemove">
+      <xpath>Defs/RecipeDef[defName="Addie_CookMealVermillionEgg" or defName="DankPyon_CookVermillionEgg_Bulk" or defName="Addie_CookEggnog" or defName="Addie_CookFrostcream"]/recipeUsers/li[text()="DankPyon_RusticCookingTable"]</xpath>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs[not(ResearchProjectDef[defName="DankPyon_Tailoring"]) and ResearchProjectDef[defName="ComplexClothing"]]/ResearchProjectDef[defName="Addie_IllanApparel"]/prerequisites/li[text()="DankPyon_Tailoring"]</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/ResearchProjectDef[defName="Addie_IllanApparel"]/prerequisites/li[text()="DankPyon_Tailoring"]</xpath>
+      <value><li>ComplexClothing</li></value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/MemeDef[defName="Cannibal"]/../FactionDef[defName="Addie_IllanRemnant"]/disallowedMemes/li[text()="Cannibalism"]</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/FactionDef[defName="Addie_IllanRemnant"]/disallowedMemes/li[text()="Cannibalism"]</xpath>
+      <value><li MayRequire="Ludeon.RimWorld.Ideology">Cannibal</li></value>
+    </match>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/FactionDef[@Name="Addie_RemnantFactionBase"]/disallowedPrecepts/li[normalize-space(.)="Nudity_Male_CoveringAnythingButGroinDisapproved" and .!="Nudity_Male_CoveringAnythingButGroinDisapproved"]</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/FactionDef[@Name="Addie_RemnantFactionBase"]/disallowedPrecepts/li[normalize-space(.)="Nudity_Male_CoveringAnythingButGroinDisapproved" and .!="Nudity_Male_CoveringAnythingButGroinDisapproved"]</xpath>
+      <value><li MayRequire="Ludeon.RimWorld.Ideology">Nudity_Male_CoveringAnythingButGroinDisapproved</li></value>
+    </match>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/FactionDef[@Name="Addie_RemnantFactionBase"]/disallowedPrecepts/li[normalize-space(.)="Nudity_Female_CoveringAnythingButGroinDisapproved" and .!="Nudity_Female_CoveringAnythingButGroinDisapproved"]</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/FactionDef[@Name="Addie_RemnantFactionBase"]/disallowedPrecepts/li[normalize-space(.)="Nudity_Female_CoveringAnythingButGroinDisapproved" and .!="Nudity_Female_CoveringAnythingButGroinDisapproved"]</xpath>
+      <value><li MayRequire="Ludeon.RimWorld.Ideology">Nudity_Female_CoveringAnythingButGroinDisapproved</li></value>
+    </match>
+  </Operation>
+</Patch>

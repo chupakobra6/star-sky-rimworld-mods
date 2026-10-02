@@ -443,3 +443,15 @@ RimWorld 1.6 · Версия 1.0.0
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3811275263) · [Исходники и руководство](../mods/RU-2925432336/README.md) · [История изменений](../mods/RU-2925432336/CHANGELOG.md) · [Лицензия](../mods/RU-2925432336/LICENSE) · [Источники и уведомления](../mods/RU-2925432336/NOTICES.md)
 
 [![Другие моды в Мастерской Steam](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-ru.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)
+
+## Medieval Overhaul: House Van Illa — русский перевод
+
+Русский перевод Дома Ван Илла для RimWorld 1.6: задания, письма, награды, имена и русские формы слов, с исправлениями оригинала
+
+[![Medieval Overhaul: House Van Illa — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/house-van-illa-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3811881608)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3811881608) · [Исходники и руководство](../mods/RU-3327601396/README.md) · [История изменений](../mods/RU-3327601396/CHANGELOG.md) · [Лицензия](../mods/RU-3327601396/LICENSE) · [Источники и уведомления](../mods/RU-3327601396/NOTICES.md)
+
+[![Другие моды в Мастерской Steam](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-ru.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)

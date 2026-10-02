@@ -1,0 +1,54 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Addie_AncientDuelingGround.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[asker_nameFull] присылает нам сообщение. Этот человек носит титул «[asker_faction_leaderTitle]» во фракции [asker_faction_name]. По имеющимся сведениям, обнаружена древняя илланская площадка для поединков, где находится легендарный воин. Нас просят разобраться с этим. [asker_label] сообщает: [sitePart0_description].</li>
+  </Addie_AncientDuelingGround.questDescriptionRules.rulesStrings>
+  <Addie_AncientDuelingGround.questNameRules.rulesStrings>
+    <li>questName-&gt;[ancient] [vault]</li>
+    <li>vault-&gt;площадка для поединков</li>
+    <li>ancient-&gt;древняя илланская</li>
+  </Addie_AncientDuelingGround.questNameRules.rulesStrings>
+  <Addie_AncientDuelingGround.root.nodes.12.node.nodes.0.label.slateRef>Срок задания истёк: [resolvedQuestName]</Addie_AncientDuelingGround.root.nodes.12.node.nodes.0.label.slateRef>
+  <Addie_AncientDuelingGround.root.nodes.12.node.nodes.0.text.slateRef>Древнюю площадку для поединков скрыло от глаз. Срок задания [resolvedQuestName] истёк.</Addie_AncientDuelingGround.root.nodes.12.node.nodes.0.text.slateRef>
+  <Addie_AncientDuelingGround.root.nodes.13.node.nodes.0.label.slateRef>Задание провалено: [resolvedQuestName]</Addie_AncientDuelingGround.root.nodes.13.node.nodes.0.label.slateRef>
+  <Addie_AncientDuelingGround.root.nodes.13.node.nodes.0.text.slateRef>Остатки Иллы погребли это место под горой льда. Задание [resolvedQuestName] завершилось.</Addie_AncientDuelingGround.root.nodes.13.node.nodes.0.text.slateRef>
+  <Addie_AncientDuelingGround.root.nodes.14.node.nodes.1.customLetterLabel.slateRef>Оплата прибыла</Addie_AncientDuelingGround.root.nodes.14.node.nodes.1.customLetterLabel.slateRef>
+  <Addie_AncientDuelingGround.root.nodes.14.node.nodes.1.customLetterText.slateRef>Вы зачистили руины!\n\nПрибыла оплата от фракции [asker_faction_name].</Addie_AncientDuelingGround.root.nodes.14.node.nodes.1.customLetterText.slateRef>
+  <Addie_AncientDuelingGround.root.nodes.14.node.nodes.1.nodeIfChosenPawnSignalUsed.label.slateRef>[asker_faction_royalFavorLabel]</Addie_AncientDuelingGround.root.nodes.14.node.nodes.1.nodeIfChosenPawnSignalUsed.label.slateRef>
+  <Addie_AncientDuelingGround.root.nodes.14.node.nodes.1.nodeIfChosenPawnSignalUsed.text.slateRef>Эти поселенцы участвовали в победе по заданию [resolvedQuestName]. [asker_definite] желает узнать, кому следует вручить награду за эту службу: [royalFavorReward_amount] [asker_faction_royalFavorLabel].</Addie_AncientDuelingGround.root.nodes.14.node.nodes.1.nodeIfChosenPawnSignalUsed.text.slateRef>
+  <Addie_IllanLargeRuinSite.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[asker_nameFull] присылает нам сообщение. Этот человек носит титул «[asker_faction_leaderTitle]» во фракции [asker_faction_name]. В недавно обнаруженном древнем хранилище находятся [siteFaction_pawnsPlural], мешающие местным путешественникам. Руины защищает фракция [siteFaction_name].
+\n[asker_nameDef] просит нас зачистить руины, уничтожив всех врагов. [asker_label] сообщает: [sitePart0_description].</li>
+  </Addie_IllanLargeRuinSite.questDescriptionRules.rulesStrings>
+  <Addie_IllanLargeRuinSite.questNameRules.rulesStrings>
+    <li>questName-&gt;[large] [ancient] [vault]</li>
+    <li>large-&gt;большие</li>
+    <li>vault-&gt;руины</li>
+    <li>ancient-&gt;древние илланские</li>
+  </Addie_IllanLargeRuinSite.questNameRules.rulesStrings>
+  <Addie_IllanLargeRuinSite.root.nodes.13.node.nodes.0.label.slateRef>Срок задания истёк: [resolvedQuestName]</Addie_IllanLargeRuinSite.root.nodes.13.node.nodes.0.label.slateRef>
+  <Addie_IllanLargeRuinSite.root.nodes.13.node.nodes.0.text.slateRef>Местные наёмники разобрались с руинами. Срок задания [resolvedQuestName] истёк.</Addie_IllanLargeRuinSite.root.nodes.13.node.nodes.0.text.slateRef>
+  <Addie_IllanLargeRuinSite.root.nodes.14.node.nodes.0.label.slateRef>Задание провалено: [resolvedQuestName]</Addie_IllanLargeRuinSite.root.nodes.14.node.nodes.0.label.slateRef>
+  <Addie_IllanLargeRuinSite.root.nodes.14.node.nodes.0.text.slateRef>Остатки Иллы погребли это место под горой льда и ушли дальше. Задание [resolvedQuestName] завершилось.</Addie_IllanLargeRuinSite.root.nodes.14.node.nodes.0.text.slateRef>
+  <Addie_IllanLargeRuinSite.root.nodes.15.node.nodes.1.customLetterLabel.slateRef>Оплата прибыла</Addie_IllanLargeRuinSite.root.nodes.15.node.nodes.1.customLetterLabel.slateRef>
+  <Addie_IllanLargeRuinSite.root.nodes.15.node.nodes.1.customLetterText.slateRef>Вы зачистили руины!\n\nПрибыла оплата от фракции [asker_faction_name].</Addie_IllanLargeRuinSite.root.nodes.15.node.nodes.1.customLetterText.slateRef>
+  <Addie_IllanLargeRuinSite.root.nodes.15.node.nodes.1.nodeIfChosenPawnSignalUsed.label.slateRef>[asker_faction_royalFavorLabel]</Addie_IllanLargeRuinSite.root.nodes.15.node.nodes.1.nodeIfChosenPawnSignalUsed.label.slateRef>
+  <Addie_IllanLargeRuinSite.root.nodes.15.node.nodes.1.nodeIfChosenPawnSignalUsed.text.slateRef>Эти поселенцы участвовали в победе по заданию [resolvedQuestName]. [asker_definite] желает узнать, кому следует вручить награду за эту службу: [royalFavorReward_amount] [asker_faction_royalFavorLabel].</Addie_IllanLargeRuinSite.root.nodes.15.node.nodes.1.nodeIfChosenPawnSignalUsed.text.slateRef>
+  <Addie_IllanSmallRuinSite.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[asker_nameFull] присылает нам сообщение. Этот человек носит титул «[asker_faction_leaderTitle]» во фракции [asker_faction_name]. В недавно обнаруженном древнем хранилище находятся [siteFaction_pawnsPlural], мешающие местным путешественникам. Руины защищает фракция [siteFaction_name].
+\n[asker_nameDef] просит нас зачистить руины, уничтожив всех врагов. [asker_label] сообщает: [sitePart0_description].</li>
+  </Addie_IllanSmallRuinSite.questDescriptionRules.rulesStrings>
+  <Addie_IllanSmallRuinSite.questNameRules.rulesStrings>
+    <li>questName-&gt;[ancient] [vault]</li>
+    <li>vault-&gt;хранилище</li>
+    <li>ancient-&gt;древнее илланское</li>
+  </Addie_IllanSmallRuinSite.questNameRules.rulesStrings>
+  <Addie_IllanSmallRuinSite.root.nodes.13.node.nodes.0.label.slateRef>Срок задания истёк: [resolvedQuestName]</Addie_IllanSmallRuinSite.root.nodes.13.node.nodes.0.label.slateRef>
+  <Addie_IllanSmallRuinSite.root.nodes.13.node.nodes.0.text.slateRef>Местные наёмники разобрались с руинами. Срок задания [resolvedQuestName] истёк.</Addie_IllanSmallRuinSite.root.nodes.13.node.nodes.0.text.slateRef>
+  <Addie_IllanSmallRuinSite.root.nodes.14.node.nodes.0.label.slateRef>Задание провалено: [resolvedQuestName]</Addie_IllanSmallRuinSite.root.nodes.14.node.nodes.0.label.slateRef>
+  <Addie_IllanSmallRuinSite.root.nodes.14.node.nodes.0.text.slateRef>Остатки Иллы погребли это место под горой льда и ушли дальше. Задание [resolvedQuestName] завершилось.</Addie_IllanSmallRuinSite.root.nodes.14.node.nodes.0.text.slateRef>
+  <Addie_IllanSmallRuinSite.root.nodes.15.node.nodes.1.customLetterLabel.slateRef>Оплата прибыла</Addie_IllanSmallRuinSite.root.nodes.15.node.nodes.1.customLetterLabel.slateRef>
+  <Addie_IllanSmallRuinSite.root.nodes.15.node.nodes.1.customLetterText.slateRef>Вы зачистили руины!\n\nПрибыла оплата от фракции [asker_faction_name].</Addie_IllanSmallRuinSite.root.nodes.15.node.nodes.1.customLetterText.slateRef>
+  <Addie_IllanSmallRuinSite.root.nodes.15.node.nodes.1.nodeIfChosenPawnSignalUsed.label.slateRef>[asker_faction_royalFavorLabel]</Addie_IllanSmallRuinSite.root.nodes.15.node.nodes.1.nodeIfChosenPawnSignalUsed.label.slateRef>
+  <Addie_IllanSmallRuinSite.root.nodes.15.node.nodes.1.nodeIfChosenPawnSignalUsed.text.slateRef>Эти поселенцы участвовали в победе по заданию [resolvedQuestName]. [asker_definite] желает узнать, кому следует вручить награду за эту службу: [royalFavorReward_amount] [asker_faction_royalFavorLabel].</Addie_IllanSmallRuinSite.root.nodes.15.node.nodes.1.nodeIfChosenPawnSignalUsed.text.slateRef>
+</LanguageData>

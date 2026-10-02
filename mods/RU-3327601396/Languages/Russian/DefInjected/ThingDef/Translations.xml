@@ -1,0 +1,105 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Addie_AncientIllan_ArmingSword.description>Многие воины считают оружие инструментом, поэтому самые распространённые мечи — самые практичные. Одноручные мечи ценят за малый вес, клинок с долом и рациональное изготовление; они полезны и новичкам, и ветеранам. Меч может принести воину богатство, так что при выборе орудия войны одноручный меч — удачная находка.\n\nЭтот украшенный, изношенный одноручный меч — реликвия Древней Иллы.</Addie_AncientIllan_ArmingSword.description>
+  <Addie_AncientIllan_ArmingSword.label>одноручный меч (древний илланский)</Addie_AncientIllan_ArmingSword.label>
+  <Addie_AncientIllan_ArmingSword.tools.0.label>рукоять</Addie_AncientIllan_ArmingSword.tools.0.label>
+  <Addie_AncientIllan_ArmingSword.tools.1.label>лезвие</Addie_AncientIllan_ArmingSword.tools.1.label>
+  <Addie_AncientIllan_PikeStandard.description>В отличие от копья, пику необходимо держать двумя руками, чтобы эффективно ею пользоваться. Она позволяет пронзать врагов на расстоянии, поэтому пикинёры внушают страх даже из задних рядов.\n\nЭта некогда величественная пика хранит наследие Старой Иллы.</Addie_AncientIllan_PikeStandard.description>
+  <Addie_AncientIllan_PikeStandard.label>пика (древняя илланская)</Addie_AncientIllan_PikeStandard.label>
+  <Addie_AncientIllan_PikeStandard.tools.0.label>древко</Addie_AncientIllan_PikeStandard.tools.0.label>
+  <Addie_AncientIllan_PikeStandard.tools.1.label>остриё</Addie_AncientIllan_PikeStandard.tools.1.label>
+  <Addie_AncientPod.description>Древняя капсула сна илланской работы. Остерегайтесь тех, кто веками спал внутри.</Addie_AncientPod.description>
+  <Addie_AncientPod.label>древняя капсула сна</Addie_AncientPod.label>
+  <Addie_AncientPodZezavel.description>Гроб на краю мира.</Addie_AncientPodZezavel.description>
+  <Addie_AncientPodZezavel.label>древняя капсула сна</Addie_AncientPodZezavel.label>
+  <Addie_Apparel_DuelistJacket.description>Стёганая однобортная куртка с гербом дома Ван Илла.\nСложное переплетение нитей значительно усиливает защиту, но её надёжность сильно зависит от материала.\n\nГоворят, эти куртки — лишь бледная тень роскошных нарядов, которые носили илланские дуэлянты в старину.</Addie_Apparel_DuelistJacket.description>
+  <Addie_Apparel_DuelistJacket.label>куртка дуэлянта</Addie_Apparel_DuelistJacket.label>
+  <Addie_Artillery_BoulderRimed.label>инеевый валун</Addie_Artillery_BoulderRimed.label>
+  <Addie_Coldbalm.description>Алхимическая добавка для приёма внутрь из травяного экстракта и инееросы, используемая как обезболивающее.\n\nПобочное действие хладобальзама — охлаждение тела, из-за которого холод переносится хуже.</Addie_Coldbalm.description>
+  <Addie_Coldbalm.ingestible.ingestCommandString>Использовать {0}</Addie_Coldbalm.ingestible.ingestCommandString>
+  <Addie_Coldbalm.ingestible.ingestReportString>Использует {0}.</Addie_Coldbalm.ingestible.ingestReportString>
+  <Addie_Coldbalm.label>хладобальзам</Addie_Coldbalm.label>
+  <Addie_EggLunarCygnusFertilized.description>Оплодотворённое яйцо лунного лебедя. Если всё пойдёт хорошо, из него вылупится лунный лебедёнок. Его можно есть сырым, но приготовленное намного вкуснее.</Addie_EggLunarCygnusFertilized.description>
+  <Addie_EggLunarCygnusFertilized.label>яйцо лунного лебедя (оплод.)</Addie_EggLunarCygnusFertilized.label>
+  <Addie_EggLunarCygnusUnfertilized.description>Неоплодотворённое яйцо лунного лебедя. Его можно есть сырым, но гораздо лучше приготовить из него алое яйцо.</Addie_EggLunarCygnusUnfertilized.description>
+  <Addie_EggLunarCygnusUnfertilized.label>яйцо лунного лебедя (неоплод.)</Addie_EggLunarCygnusUnfertilized.label>
+  <Addie_Eggnog.description>Любимый напиток знати дома Ван Илла, этот густой пряный эгг-ног согревает и ощутимо бодрит. Он славится изысканным вкусом и лёгким улучшением сосредоточенности и самообладания. Этот роскошный напиток неизменно подают и на площадках для поединков, и на знатных приёмах.</Addie_Eggnog.description>
+  <Addie_Eggnog.ingestible.ingestCommandString>Выпить {0}</Addie_Eggnog.ingestible.ingestCommandString>
+  <Addie_Eggnog.ingestible.ingestReportString>Пьёт {0}.</Addie_Eggnog.ingestible.ingestReportString>
+  <Addie_Eggnog.label>илланский эгг-ног</Addie_Eggnog.label>
+  <Addie_FrigidFlail.description>Смертоносная шипастая ударная головка на цепи, инкрустированная инеекристаллом.\n\nОружие явно не изящное, но некоторым илланцам оно почему-то пришлось по душе.</Addie_FrigidFlail.description>
+  <Addie_FrigidFlail.label>ледяной кистень</Addie_FrigidFlail.label>
+  <Addie_FrigidFlail.tools.0.label>древко</Addie_FrigidFlail.tools.0.label>
+  <Addie_FrigidFlail.tools.1.label>головка</Addie_FrigidFlail.tools.1.label>
+  <Addie_Icicle_RimedCrossbow.label>сосулька инеевого арбалета</Addie_Icicle_RimedCrossbow.label>
+  <Addie_IllanRapier.description>Тонкая изящная шпага илланской работы. Хотя она предназначена прежде всего для уколов, противника нередко застают врасплох быстрые рубящие удары движением кисти или локтя. Освоить это оружие чрезвычайно трудно, но в руках мастера оно по-настоящему опасно. \n \n Излюбленное оружие илланских дуэлянтов.</Addie_IllanRapier.description>
+  <Addie_IllanRapier.label>илланская шпага</Addie_IllanRapier.label>
+  <Addie_IllanRapier.tools.0.label>рукоять</Addie_IllanRapier.tools.0.label>
+  <Addie_IllanRapier.tools.1.label>остриё</Addie_IllanRapier.tools.1.label>
+  <Addie_IllanRapier.tools.2.label>лезвие</Addie_IllanRapier.tools.2.label>
+  <Addie_Illan_MeleeWeapon_PikeStandard.description>В отличие от копья, пику необходимо держать двумя руками, чтобы эффективно ею пользоваться. Она позволяет пронзать врагов на расстоянии, поэтому пикинёры внушают страх даже из задних рядов.\n\nЭта пика украшена цветами дома Ван Илла.</Addie_Illan_MeleeWeapon_PikeStandard.description>
+  <Addie_Illan_MeleeWeapon_PikeStandard.label>пика (илланская)</Addie_Illan_MeleeWeapon_PikeStandard.label>
+  <Addie_Illan_MeleeWeapon_PikeStandard.tools.0.label>древко</Addie_Illan_MeleeWeapon_PikeStandard.tools.0.label>
+  <Addie_Illan_MeleeWeapon_PikeStandard.tools.1.label>остриё</Addie_Illan_MeleeWeapon_PikeStandard.tools.1.label>
+  <Addie_Illan_MeleeWeapon_RimedRapier.description>Тонкая изящная шпага илланской работы. Хотя она предназначена прежде всего для уколов, противника нередко застают врасплох быстрые рубящие удары движением кисти или локтя. Освоить это оружие чрезвычайно трудно, но в руках мастера оно по-настоящему опасно.\n\nКлинок этой шпаги инкрустирован инеекристаллом, который наполняет её уколы лютым, вызывающим обморожение холодом.</Addie_Illan_MeleeWeapon_RimedRapier.description>
+  <Addie_Illan_MeleeWeapon_RimedRapier.label>инеевая шпага</Addie_Illan_MeleeWeapon_RimedRapier.label>
+  <Addie_Illan_MeleeWeapon_RimedRapier.tools.0.label>рукоять</Addie_Illan_MeleeWeapon_RimedRapier.tools.0.label>
+  <Addie_Illan_MeleeWeapon_RimedRapier.tools.1.label>остриё</Addie_Illan_MeleeWeapon_RimedRapier.tools.1.label>
+  <Addie_Illan_MeleeWeapon_RimedRapier.tools.2.label>лезвие</Addie_Illan_MeleeWeapon_RimedRapier.tools.2.label>
+  <Addie_LunarCygnus.description>Лунный лебедь — крупный волшебный родственник обычного лебедя, иногда встречающийся в холодных краях. Своим названием он обязан затейливому узору оперения на шее, напоминающему фазы луны. Несмотря на спокойный и мирный нрав, разъярённый лунный лебедь становится грозным противником: его леденящие атаки быстро вызывают обморожение.\n\nПерья лунного лебедя покрыты инееросой, которую можно время от времени собирать.</Addie_LunarCygnus.description>
+  <Addie_LunarCygnus.label>лунный лебедь</Addie_LunarCygnus.label>
+  <Addie_LunarCygnus.tools.0.label>когти</Addie_LunarCygnus.tools.0.label>
+  <Addie_LunarCygnus.tools.1.label>клюв</Addie_LunarCygnus.tools.1.label>
+  <Addie_LunarCygnus.tools.2.label>голова</Addie_LunarCygnus.tools.2.label>
+  <Addie_MealFrostcream.description>Восхитительная смесь молока, инееросы и пряностей. Морозное мороженое очень приятно на вкус и прекрасно помогает спасаться от жары.\n\nНи за что не угадаете, какой у него вкус.</Addie_MealFrostcream.description>
+  <Addie_MealFrostcream.label>морозное мороженое</Addie_MealFrostcream.label>
+  <Addie_MealVermillionEgg.description>Сваренное вкрутую яйцо лунного лебедя, разрезанное пополам и наполненное желтком, смешанным с пряностями и солью. Блюдо названо в честь яркого красного цвета обычно используемой пряности.\nНеизменная закуска на илланских пирах.</Addie_MealVermillionEgg.description>
+  <Addie_MealVermillionEgg.label>алое яйцо</Addie_MealVermillionEgg.label>
+  <Addie_MoonchillOrchid.description>Орхидея лунного холода — нежный ночной цветок с серебристыми лепестками, мерцающими в лунном свете. На её покрытых инеем цветках сверкает инеероса, которую можно собирать.</Addie_MoonchillOrchid.description>
+  <Addie_MoonchillOrchid.label>орхидея лунного холода</Addie_MoonchillOrchid.label>
+  <Addie_ParryingDagger.description>Кинжал для парирования вражеских атак.</Addie_ParryingDagger.description>
+  <Addie_ParryingDagger.label>парирующий кинжал</Addie_ParryingDagger.label>
+  <Addie_Proj_PotFrost.label>морозный горшок</Addie_Proj_PotFrost.label>
+  <Addie_Rimecloth.description>Ткань, усиленная нитями с покрытием из инееросы. Она немного прочнее обычной ткани и гораздо лучше защищает от жары.\n\nИлланские мастера создали инееткань, чтобы сохранять прохладу во время путешествий по тёплым землям. Защита от холода илланцев никогда не заботила.</Addie_Rimecloth.description>
+  <Addie_Rimecloth.label>инееткань</Addie_Rimecloth.label>
+  <Addie_Rimecrystal.description>Ярко-синий самоцвет, окутанный тонкой пеленой ледяного тумана, который охлаждает воздух вокруг.\n\nДаже эти чудесные самоцветы — лишь бледное подобие алхимических чудес Старой Иллы.</Addie_Rimecrystal.description>
+  <Addie_Rimecrystal.label>инеекристалл</Addie_Rimecrystal.label>
+  <Addie_RimedBardiche.description>Бердыш, инкрустированный зачарованным инеекристаллом. Он не столь изящен, как другие любимые илланцами виды оружия, но доказал свою эффективность, и отказываться от него было бы расточительством.</Addie_RimedBardiche.description>
+  <Addie_RimedBardiche.label>инеевый бердыш</Addie_RimedBardiche.label>
+  <Addie_RimedBardiche.tools.0.label>древко</Addie_RimedBardiche.tools.0.label>
+  <Addie_RimedBardiche.tools.1.label>лезвие</Addie_RimedBardiche.tools.1.label>
+  <Addie_RimedCrossbow.description>Метательное оружие, которое, подобно луку, накапливает энергию в натянутой тетиве и при её отпускании запускает снаряд. Однако замковый механизм арбалета позволяет сохранять взведённое состояние, делая это оружие одновременно доступным новичкам и мощным в бою.\n\nЭтот арбалет инкрустирован инеекристаллом и стреляет сосульками, вызывающими обморожение.</Addie_RimedCrossbow.description>
+  <Addie_RimedCrossbow.label>инеевый арбалет</Addie_RimedCrossbow.label>
+  <Addie_RimedCrossbow.tools.0.label>плечо</Addie_RimedCrossbow.tools.0.label>
+  <Addie_RimedLongsword.description>Длинный меч илланской работы, инкрустированный инеекристаллом. Дополнительная защита рук на илланских длинных мечах позволяла владельцам безнаказанно применять некоторые любопытные приёмы.</Addie_RimedLongsword.description>
+  <Addie_RimedLongsword.label>инеевый длинный меч</Addie_RimedLongsword.label>
+  <Addie_RimedLongsword.tools.0.label>рукоять</Addie_RimedLongsword.tools.0.label>
+  <Addie_RimedLongsword.tools.1.label>остриё</Addie_RimedLongsword.tools.1.label>
+  <Addie_RimedLongsword.tools.2.label>лезвие</Addie_RimedLongsword.tools.2.label>
+  <Addie_RimedSidesword.description>Достаточно небольшой и лёгкий меч, чтобы его могли носить и воины, и мирные жители. Он рубит несколько хуже обычного одноручного меча, зато надёжнее колет.\nПопулярное оружие среди илланской знати.\n\nКлинок этого меча инкрустирован инеекристаллом, наполняющим его лютым холодом.</Addie_RimedSidesword.description>
+  <Addie_RimedSidesword.label>инеевый поясной меч</Addie_RimedSidesword.label>
+  <Addie_RimedSidesword.tools.0.label>рукоять</Addie_RimedSidesword.tools.0.label>
+  <Addie_RimedSidesword.tools.1.label>остриё</Addie_RimedSidesword.tools.1.label>
+  <Addie_RimedSidesword.tools.2.label>лезвие</Addie_RimedSidesword.tools.2.label>
+  <Addie_Rimedew.description>Всегда холодный налёт на перьях лунного лебедя и лепестках орхидеи лунного холода. Высоко ценится мастерами, поварами и алхимиками.</Addie_Rimedew.description>
+  <Addie_Rimedew.label>инеероса</Addie_Rimedew.label>
+  <Addie_RimedewPopper.comps.1.useLabel>Активировать {0_label}</Addie_RimedewPopper.comps.1.useLabel>
+  <Addie_RimedewPopper.description>Обнаружив огонь, этот пузырь инееросы лопается и разбрызгивает воду по кругу вокруг себя. Его также можно активировать вручную.</Addie_RimedewPopper.description>
+  <Addie_RimedewPopper.label>огнетушитель с инееросой</Addie_RimedewPopper.label>
+  <Addie_Rimeshroud.description>Накидка из устойчивой к температуре инееткани, закрывающая верхнюю часть тела.\n\nЕё часто носят илланские скитальцы и путешественники.</Addie_Rimeshroud.description>
+  <Addie_Rimeshroud.label>инеевая накидка</Addie_Rimeshroud.label>
+  <Addie_SimulacrumSoul.description>Душа симулякра, холодная на ощупь и бесплотная.\n\nЕсли ввести её симулякру, она пробудит его воспоминания. Если её поглотит кто-то другой, его личность может частично заместиться, изменив навыки и черты характера.</Addie_SimulacrumSoul.description>
+  <Addie_SimulacrumSoul.ingestible.ingestCommandString>Использовать {0}</Addie_SimulacrumSoul.ingestible.ingestCommandString>
+  <Addie_SimulacrumSoul.ingestible.ingestReportString>Использует {0}.</Addie_SimulacrumSoul.ingestible.ingestReportString>
+  <Addie_SimulacrumSoul.label>душа симулякра</Addie_SimulacrumSoul.label>
+  <Addie_StoneBoulderRimed.description>Тяжёлый, крепкий и округлый кусок камня.\n\nПокрыт инееросой, которая при ударе быстро замораживает окружающее пространство.</Addie_StoneBoulderRimed.description>
+  <Addie_StoneBoulderRimed.label>инеевый каменный валун</Addie_StoneBoulderRimed.label>
+  <Addie_SwordOfDeneb.description>Легендарный клинок илланского происхождения. Говорят, он создан из тела самой Возвышенной госпожи.</Addie_SwordOfDeneb.description>
+  <Addie_SwordOfDeneb.label>Меч Денеба</Addie_SwordOfDeneb.label>
+  <Addie_SwordOfDeneb.tools.0.label>рукоять</Addie_SwordOfDeneb.tools.0.label>
+  <Addie_SwordOfDeneb.tools.1.label>остриё</Addie_SwordOfDeneb.tools.1.label>
+  <Addie_SwordOfDeneb.tools.2.label>лезвие</Addie_SwordOfDeneb.tools.2.label>
+  <Addie_Weapon_PotFrost.description>Взрывной глиняный горшок, заполненный инееросой и предназначенный для быстрого замораживания участка вокруг.</Addie_Weapon_PotFrost.description>
+  <Addie_Weapon_PotFrost.label>морозные горшки</Addie_Weapon_PotFrost.label>
+  <Addie_Weapon_PotFrost.verbs.0.label>бросать морозные горшки</Addie_Weapon_PotFrost.verbs.0.label>
+</LanguageData>

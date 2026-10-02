@@ -1,0 +1,11 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Addie_FrostStab.deathMessage>{0}: смерть от колотых ран.</Addie_FrostStab.deathMessage>
+  <Addie_FrostStab.label>морозный укол</Addie_FrostStab.label>
+  <Addie_Frostbite.deathMessage>{0}: смерть от инеевого мороза.</Addie_Frostbite.deathMessage>
+  <Addie_Frostbite.label>инеевый мороз</Addie_Frostbite.label>
+  <Addie_Frostblunt.label>морозный удар</Addie_Frostblunt.label>
+  <Addie_Frostcut.label>морозный порез</Addie_Frostcut.label>
+  <Addie_MysticBurn.deathMessage>{0}: смерть от колотых ран.</Addie_MysticBurn.deathMessage>
+  <Addie_MysticBurn.label>мистический ожог</Addie_MysticBurn.label>
+</LanguageData>

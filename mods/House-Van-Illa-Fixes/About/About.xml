@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>House Van Illa Fixes [Star Sky Mods]</name>
+  <author>chupakobra6 | Star Sky Mods</author>
+  <packageId>starsky.housevanillafixes</packageId>
+  <modVersion>1.0.0</modVersion>
+  <supportedVersions><li>1.6</li></supportedVersions>
+  <modDependencies>
+    <li><packageId>brrainz.harmony</packageId><displayName>Harmony</displayName><steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl></li>
+    <li><packageId>DankPyon.Medieval.Overhaul</packageId><displayName>Medieval Overhaul</displayName><steamWorkshopUrl>steam://url/CommunityFilePage/3219596926</steamWorkshopUrl></li>
+    <li><packageId>addie.housevanilla</packageId><displayName>Medieval Overhaul: House Van Illa</displayName><steamWorkshopUrl>steam://url/CommunityFilePage/3327601396</steamWorkshopUrl></li>
+    <li><packageId>ludeon.rimworld.biotech</packageId><displayName>Biotech</displayName></li>
+  </modDependencies>
+  <loadAfter><li>brrainz.harmony</li><li>DankPyon.Medieval.Overhaul</li><li>addie.housevanilla</li></loadAfter>
+  <description>Fix broken references, recipes and the Ideology content gate in Medieval Overhaul: House Van Illa for RimWorld 1.6
+
+&lt;b&gt;FEATURES&lt;/b&gt;
+
+• Remove the duplicate sword-rack definition while preserving its south-facing entry
+• Make the rimeshroud recipe use Medieval Overhaul's current hand tailoring bench
+• Point the offhand parrying dagger to its existing texture
+• Make LunarCygnus use its declared wildness of 0.25
+• Correct the dodge radius to the whole number 1, preserving the value the game already used
+• Remove an unavailable cooker from four recipes while retaining their other cooking stations
+• Replace the apparel research's missing DankPyon_Tailoring prerequisite with ComplexClothing
+• Trim whitespace in two precept references and replace the missing Cannibalism meme reference with Cannibal
+• Remove the ability's reference to the unavailable PsychicCalmCast sound
+• Check Ideology instead of Royalty when loading the original mod's Ideology content
+
+&lt;b&gt;COMPATIBILITY&lt;/b&gt;
+Requires Harmony (https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077), Medieval Overhaul (https://steamcommunity.com/sharedfiles/filedetails/?id=3219596926) and Medieval Overhaul: House Van Illa (https://steamcommunity.com/sharedfiles/filedetails/?id=3327601396). Load in this order: Harmony → Medieval Overhaul → House Van Illa → this fix
+
+See the original mod page for its RimWorld expansion requirements
+
+The Russian translation (https://steamcommunity.com/sharedfiles/filedetails/?id=3811881608) already includes these fixes and works without this package. This package works without the translation
+
+&lt;b&gt;FEEDBACK&lt;/b&gt;
+Found a bug? Leave a comment on the mod page or on Boosty
+
+Original mod by Addie Van Winters (Addie)
+
+Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.</description>
+</ModMetaData>

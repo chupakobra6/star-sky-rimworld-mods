@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Addie_AteFrostcream.description>Облегчает пищеварение и помогает переносить жару.</Addie_AteFrostcream.description>
+  <Addie_AteFrostcream.label>действие морозного мороженого</Addie_AteFrostcream.label>
+  <Addie_AteVermillionEgg.description>Бодрящая закуска, которая, как говорят, очищает тело от болезней.</Addie_AteVermillionEgg.description>
+  <Addie_AteVermillionEgg.label>действие алого яйца</Addie_AteVermillionEgg.label>
+  <Addie_DrankEggnog.description>Выпитый эгг-ног согревает тело и даёт некоторые необычные преимущества.</Addie_DrankEggnog.description>
+  <Addie_DrankEggnog.label>действие эгг-нога</Addie_DrankEggnog.label>
+  <Addie_FrostburnHediff.description>Начальная стадия воздействия мистического мороза: внутренняя температура тела снижается, а способность переносить низкие температуры разрушается.</Addie_FrostburnHediff.description>
+  <Addie_FrostburnHediff.label>мистическое обморожение</Addie_FrostburnHediff.label>
+  <Addie_FrostburnHediff.stages.0.label>незначительное</Addie_FrostburnHediff.stages.0.label>
+  <Addie_FrostburnHediff.stages.1.label>умеренное</Addie_FrostburnHediff.stages.1.label>
+  <Addie_FrostburnHediff.stages.2.label>сильное</Addie_FrostburnHediff.stages.2.label>
+  <Addie_FrostburnHediff.stages.3.label>тяжёлое</Addie_FrostburnHediff.stages.3.label>
+  <Addie_FrostburnHediff.stages.4.label>крайнее</Addie_FrostburnHediff.stages.4.label>
+  <Addie_SoulComa.description>Сейчас переживает духовное перерождение.</Addie_SoulComa.description>
+  <Addie_SoulComa.label>кома души</Addie_SoulComa.label>
+  <Addie_Used_Coldbalm.description>Хладобальзам временно снимает боль, но на некоторое время ухудшает переносимость холода.</Addie_Used_Coldbalm.description>
+  <Addie_Used_Coldbalm.label>действие хладобальзама</Addie_Used_Coldbalm.label>
+  <Addie_Used_Coldbalm.labelNoun>применение хладобальзама</Addie_Used_Coldbalm.labelNoun>
+  <Addie_ZezavelHediff.description>Дар Возвышенной госпожи.</Addie_ZezavelHediff.description>
+  <Addie_ZezavelHediff.label>благословение Йоля</Addie_ZezavelHediff.label>
+</LanguageData>
