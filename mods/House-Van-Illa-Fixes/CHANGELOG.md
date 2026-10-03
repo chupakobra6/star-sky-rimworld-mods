@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.1
+
+- Retained only the conditional sword-rack fix: remove the west-facing duplicate when the south-facing definition with the same name exists
+- Removed the other compatibility patches and the Ideology bootstrap because the original mod's author has fixed those issues
+- Removed this package's DLL and its Harmony dependency
+
 ## 1.0.0
 
 First standalone release of House Van Illa fixes for RimWorld 1.6

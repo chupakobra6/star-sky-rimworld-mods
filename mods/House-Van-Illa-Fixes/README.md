@@ -5,32 +5,24 @@
 [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3811902590) · [All categories](../../README.md) · [Sources & notices](NOTICES.md)
 
 <!-- rimmods:readme intro begin -->
-Fix broken references, recipes and the Ideology content gate in Medieval Overhaul: House Van Illa for RimWorld 1.6
+Remove a duplicate sword-rack definition in Medieval Overhaul: House Van Illa for RimWorld 1.6
 <!-- rimmods:readme intro end -->
 
 ## Fixes
 
 <!-- rimmods:readme features begin -->
-- Remove the duplicate sword-rack definition while preserving its south-facing entry
-- Make the rimeshroud recipe use Medieval Overhaul's current hand tailoring bench
-- Point the offhand parrying dagger to its existing texture
-- Make LunarCygnus use its declared wildness of 0.25
-- Correct the dodge radius to the whole number 1, preserving the value the game already used
-- Remove an unavailable cooker from four recipes while retaining their other cooking stations
-- Replace the apparel research's missing DankPyon_Tailoring prerequisite with ComplexClothing
-- Trim whitespace in two precept references and replace the missing Cannibalism meme reference with Cannibal
-- Remove the ability's reference to the unavailable PsychicCalmCast sound
-- Check Ideology instead of Royalty when loading the original mod's Ideology content
+- Remove the west-facing duplicate only when the south-facing definition with the same name exists
+- Preserve the south-facing sword rack
 <!-- rimmods:readme features end -->
 
 ## Installation and compatibility
 
 <!-- rimmods:readme compatibility begin -->
-Requires [Harmony](https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077), [Medieval Overhaul](https://steamcommunity.com/sharedfiles/filedetails/?id=3219596926) and [Medieval Overhaul: House Van Illa](https://steamcommunity.com/sharedfiles/filedetails/?id=3327601396). Load in this order: Harmony → Medieval Overhaul → House Van Illa → this fix
+Requires [Medieval Overhaul](https://steamcommunity.com/sharedfiles/filedetails/?id=3219596926) and [Medieval Overhaul: House Van Illa](https://steamcommunity.com/sharedfiles/filedetails/?id=3327601396). Load in this order: Medieval Overhaul → House Van Illa → this fix
 
 See the original mod page for its RimWorld expansion requirements
 
-The [Russian translation](https://steamcommunity.com/sharedfiles/filedetails/?id=3811881608) already includes these fixes and works without this package. This package works without the translation
+The [Russian translation](https://steamcommunity.com/sharedfiles/filedetails/?id=3811881608) already includes this fix and works without this package. This package works without the translation
 <!-- rimmods:readme compatibility end -->
 
 ## License

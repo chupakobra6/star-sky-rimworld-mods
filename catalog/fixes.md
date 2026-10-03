@@ -20,11 +20,11 @@ RimWorld 1.6 · Version 1.0.0
 
 ## House Van Illa Fixes
 
-Focused compatibility fixes for Medieval Overhaul: House Van Illa, without replacing its English text
+Conditional fix for the duplicate sword-rack definition in Medieval Overhaul: House Van Illa
 
 [![House Van Illa Fixes](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/house-van-illa-fixes.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3811902590)
 
-RimWorld 1.6 · Version 1.0.0
+RimWorld 1.6 · Version 1.0.1
 
 [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3811902590) · [Source & guide](../mods/House-Van-Illa-Fixes/README.md) · [Changelog](../mods/House-Van-Illa-Fixes/CHANGELOG.md) · [License](../mods/House-Van-Illa-Fixes/LICENSE) · [Sources & notices](../mods/House-Van-Illa-Fixes/NOTICES.md)
 

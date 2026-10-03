@@ -446,11 +446,11 @@ RimWorld 1.6 · Версия 1.0.0
 
 ## Medieval Overhaul: House Van Illa — русский перевод
 
-Русский перевод Дома Ван Илла для RimWorld 1.6: задания, письма, награды, имена и русские формы слов, с исправлениями оригинала
+Русский перевод Дома Ван Илла для RimWorld 1.6: задания, письма, награды, имена и русские формы слов, с исправлением дубликата стойки с мечами
 
 [![Medieval Overhaul: House Van Illa — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/house-van-illa-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3811881608)
 
-RimWorld 1.6 · Версия 1.0.0
+RimWorld 1.6 · Версия 1.0.1
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3811881608) · [Исходники и руководство](../mods/RU-3327601396/README.md) · [История изменений](../mods/RU-3327601396/CHANGELOG.md) · [Лицензия](../mods/RU-3327601396/LICENSE) · [Источники и уведомления](../mods/RU-3327601396/NOTICES.md)
 

@@ -383,9 +383,7 @@
     {
       "path": "mods/House-Van-Illa-Fixes",
       "workshopId": "3811902590",
-      "assemblies": [
-        "Assemblies/HouseVanIllaFixes.dll"
-      ],
+      "assemblies": [],
       "licenseId": "MIT"
     }
   ],
@@ -397,8 +395,8 @@
     },
     {
       "path": "catalog/fixes.md",
-      "bytes": 2221,
-      "sha256": "993e3cd5dd9f3f9994301787254deaefa3f7efb37398ea1569c62a21b61a67a6"
+      "bytes": 2212,
+      "sha256": "df98015019125035bd54f82a3f989a14b54d51728b980afbca892120d40d90e5"
     },
     {
       "path": "catalog/mods.md",
@@ -407,8 +405,8 @@
     },
     {
       "path": "catalog/translations.md",
-      "bytes": 41517,
-      "sha256": "25a18b6a9cbad9001d51ba1ec19e39d7a1d8619325c6925b9fed191540428915"
+      "bytes": 41544,
+      "sha256": "2d1eb98e4165c791d3d1f2e8c60e76657b79c837d94ec3d86bd151690367801e"
     },
     {
       "path": "mods/CharacterEditor-Fixes/About/About.xml",
@@ -457,8 +455,8 @@
     },
     {
       "path": "mods/House-Van-Illa-Fixes/About/About.xml",
-      "bytes": 3120,
-      "sha256": "b2c28ca8366e5f6d659d78c8f516612e0ea86fb4825fa9730328e69e1da43d69"
+      "bytes": 2114,
+      "sha256": "97ec3a4e74700fe7ee5bf664078bbf40f3ee9da56c611b4ad8bd00fef23d807c"
     },
     {
       "path": "mods/House-Van-Illa-Fixes/About/Preview.png",
@@ -471,14 +469,9 @@
       "sha256": "8e6aa55478a1b17e6c2de533dfbee7a26d101b690d39313a19167d88e44d1800"
     },
     {
-      "path": "mods/House-Van-Illa-Fixes/Assemblies/HouseVanIllaFixes.dll",
-      "bytes": 6144,
-      "sha256": "0bc1cc4c06345faa58c4659bd51d665277ff1a12da46bf37e31a05f3aee2b9ea"
-    },
-    {
       "path": "mods/House-Van-Illa-Fixes/CHANGELOG.md",
-      "bytes": 940,
-      "sha256": "7469ee58976cbd598c81632e4c3024f7c797dcfec8e5c35265e60dfeeb310d60"
+      "bytes": 1273,
+      "sha256": "ea173abeed367aac79b90c1213c93e5ea299570e97e8a3314f72ab428562c49b"
     },
     {
       "path": "mods/House-Van-Illa-Fixes/LICENSE",
@@ -492,18 +485,13 @@
     },
     {
       "path": "mods/House-Van-Illa-Fixes/Patches/HouseVanIllaCompatibility.xml",
-      "bytes": 6422,
-      "sha256": "c90e49bc9ce8c12e85f9013ab95d8ad215716639ea04853b6ccb4939279d3af0"
+      "bytes": 569,
+      "sha256": "c0d20cbb4d7d0625c78d788f882585be718fe2fdd54e3f34e9f9fbc11e2b2d19"
     },
     {
       "path": "mods/House-Van-Illa-Fixes/README.md",
-      "bytes": 2930,
-      "sha256": "6105d2c899aa8f37eb1cd198bff6c0b04ac70e2ba07441bd036818dacea8b7ce"
-    },
-    {
-      "path": "mods/House-Van-Illa-Fixes/Source/HouseVanIllaBootstrap.cs",
-      "bytes": 2927,
-      "sha256": "970060eb3ae2fe43cf517e23a9a95b2ae591684307b1a33e64f1397ddda875a9"
+      "bytes": 2126,
+      "sha256": "a1ae847940cb2f15885b76ea4df31485c871054a74641811d5108b8d1bc8c227"
     },
     {
       "path": "mods/IsekaiBalancedStatsQuickQuests/1.6/Assemblies/IsekaiBalancedStatsQuickQuests.dll",
@@ -4396,12 +4384,12 @@
       "sha256": "c8ca6dd68bda31197ed00d7208d1fb6f3fd66b65443a3481f2391a0c85029c8e"
     },
     {
-      "path": "mods/RU-3327601396/1.6/Conditional/with-ludeon-rimworld-royalty/Languages/Russian/DefInjected/CultureDef/Translations-with-ludeon-rimworld-royalty.xml",
+      "path": "mods/RU-3327601396/1.6/Conditional/with-ludeon-rimworld-ideology/Languages/Russian/DefInjected/CultureDef/Translations-with-ludeon-rimworld-ideology.xml",
       "bytes": 272,
       "sha256": "6f06eceff0e3b212d22a2c2637dd7bbbbbd7018469cecd94fb7a31c62812b0ad"
     },
     {
-      "path": "mods/RU-3327601396/1.6/Conditional/with-ludeon-rimworld-royalty/Languages/Russian/DefInjected/StyleCategoryDef/Translations-with-ludeon-rimworld-royalty.xml",
+      "path": "mods/RU-3327601396/1.6/Conditional/with-ludeon-rimworld-ideology/Languages/Russian/DefInjected/StyleCategoryDef/Translations-with-ludeon-rimworld-ideology.xml",
       "bytes": 154,
       "sha256": "76bde057caefbc3e8baff4746d552acb2900e447d117672146c5b46ae9cd2aff"
     },
@@ -4432,8 +4420,8 @@
     },
     {
       "path": "mods/RU-3327601396/About/About.xml",
-      "bytes": 3535,
-      "sha256": "ed9abab2897116b02feb90666701c1e3172d642356ad7877090cf3f328ee4cd8"
+      "bytes": 3335,
+      "sha256": "8a8f714f61a0d3e0e7cd653f5b140a55982204ffe5acbadc55c04da2b4acafd7"
     },
     {
       "path": "mods/RU-3327601396/About/Preview.png",
@@ -4447,13 +4435,13 @@
     },
     {
       "path": "mods/RU-3327601396/Assemblies/RU3327601396.dll",
-      "bytes": 17920,
-      "sha256": "63de083de324477c74076c3cbbad0a97fcd0058a6bc202c7a7d757e384963c23"
+      "bytes": 15872,
+      "sha256": "10320260024693999d90023d5cebaa9852187a0b759f62a13abf0df218009e1e"
     },
     {
       "path": "mods/RU-3327601396/CHANGELOG.md",
-      "bytes": 1924,
-      "sha256": "5f297b0377bef1472242f6110f8c49421d4ada4066ecc2a068b483f05ec713b8"
+      "bytes": 2651,
+      "sha256": "84bdc37c1e41c6ec273d895b3cee9f7cd06e0c161b074d6f9c66b9773adaba26"
     },
     {
       "path": "mods/RU-3327601396/Languages/Russian/DefInjected/AbilityDef/Translations.xml",
@@ -4597,13 +4585,13 @@
     },
     {
       "path": "mods/RU-3327601396/LoadFolders.xml",
-      "bytes": 501,
-      "sha256": "0c6052e5f06205fabe65efe19579b628f8361fceebf5e66f0f2f3203b0bd4c63"
+      "bytes": 599,
+      "sha256": "3bd2c4f6bcc08a3903f663d39594a5dba6f2c28979306cc34771abf159ea8b45"
     },
     {
       "path": "mods/RU-3327601396/NOTICES.md",
-      "bytes": 2254,
-      "sha256": "162e6f946dd26ea51216cc50cecffaeea33388edd7350825a9a40ac33858db2b"
+      "bytes": 2118,
+      "sha256": "5fba5d633ec88fd9d71f4342fb540d91491cd325a31f6b7a2ae4377804f692bb"
     },
     {
       "path": "mods/RU-3327601396/OverrideSources.xml",
@@ -4612,18 +4600,13 @@
     },
     {
       "path": "mods/RU-3327601396/Patches/HouseVanIllaCompatibility.xml",
-      "bytes": 6422,
-      "sha256": "c90e49bc9ce8c12e85f9013ab95d8ad215716639ea04853b6ccb4939279d3af0"
+      "bytes": 569,
+      "sha256": "c0d20cbb4d7d0625c78d788f882585be718fe2fdd54e3f34e9f9fbc11e2b2d19"
     },
     {
       "path": "mods/RU-3327601396/README.md",
-      "bytes": 7593,
-      "sha256": "897bf5a2b6a4e47797918fdddeca49cc4bd8b8c9ebf52d201f6084d6f3e1d725"
-    },
-    {
-      "path": "mods/RU-3327601396/Source/HouseVanIllaBootstrap.cs",
-      "bytes": 2924,
-      "sha256": "9bcb58d12d80053daf07fa37a6eaea16eac98e98a297b146dd6d22474fce8a2d"
+      "bytes": 5986,
+      "sha256": "ebeb79c03181c3148e7590091632d07eea5ab3ba21928adf93bcfec10521f81a"
     },
     {
       "path": "mods/RU-3327601396/Source/Literals.cs",
