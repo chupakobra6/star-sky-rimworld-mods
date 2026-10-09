@@ -1,0 +1,13 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AM_Bullet_BloodBelcher.label>кипящий гемоген</AM_Bullet_BloodBelcher.label>
+  <AM_Gun_BloodBelcher.description>Устрашающее оружие, использующее кипящую едкую кровь. Выпускает в цель струю кислотного гемогена под высоким давлением.</AM_Gun_BloodBelcher.description>
+  <AM_Gun_BloodBelcher.label>кровомёт</AM_Gun_BloodBelcher.label>
+  <AM_Gun_BloodBelcher.tools.0.label>ствол</AM_Gun_BloodBelcher.tools.0.label>
+  <AM_Gun_BloodBelcher.verbs.0.label>кровомёт</AM_Gun_BloodBelcher.verbs.0.label>
+  <AM_Mech_Sanguinarius.description>Мощный механоид, по строению напоминающий сентипеду и приспособленный к эффективному сбору и переработке гемогена. Острый выдвижной хоботок делает точные надрезы для извлечения гемогена, который затем перерабатывается и хранится во внутренних резервуарах.</AM_Mech_Sanguinarius.description>
+  <AM_Mech_Sanguinarius.label>сангвинарий</AM_Mech_Sanguinarius.label>
+  <AM_Mech_Sanguinarius.tools.0.label>передняя левая нога</AM_Mech_Sanguinarius.tools.0.label>
+  <AM_Mech_Sanguinarius.tools.1.label>передняя правая нога</AM_Mech_Sanguinarius.tools.1.label>
+  <AM_Mech_Sanguinarius.tools.2.label>голова</AM_Mech_Sanguinarius.tools.2.label>
+</LanguageData>

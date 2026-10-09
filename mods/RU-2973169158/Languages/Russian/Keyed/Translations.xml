@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AM_CantUseOnBossMechs>У механоидов-боссов усиленная система «свой — чужой», которую нельзя взломать</AM_CantUseOnBossMechs>
+  <AM_CantUseOnNonDowned>Цель должна быть обездвижена</AM_CantUseOnNonDowned>
+  <AM_CantUseOnNonMechs>Эта способность действует только на механоидов</AM_CantUseOnNonMechs>
+  <AM_CantUseVEMechs>Этим механоидом дистанционно управляет пилот-человек, поэтому его нельзя взломать</AM_CantUseVEMechs>
+  <AM_EjectHemogen>Выгрузить пакеты гемогена</AM_EjectHemogen>
+  <AM_EjectHemogenDesc>Выгрузить все пакеты гемогена из внутренних резервуаров механоида.</AM_EjectHemogenDesc>
+  <AM_HemogenStored>Пакетов гемогена в хранилище: {0}</AM_HemogenStored>
+  <AM_MealNutrientPaste>Производство питательной пасты</AM_MealNutrientPaste>
+  <AM_MustNotBePlacedCloseToAnother>Обычные, лучевые и пустотные канальные узлы нельзя размещать близко друг к другу</AM_MustNotBePlacedCloseToAnother>
+  <AM_NotEnoughBandwidth>Недостаточная пропускная способность для применения способности к цели «{0}»</AM_NotEnoughBandwidth>
+  <AM_OnlyMechanitorCanUse>Эту способность может применять только механитор</AM_OnlyMechanitorCanUse>
+  <AM_RandomItems>До производства ресурсов</AM_RandomItems>
+  <AM_Reset>Сбросить</AM_Reset>
+  <AM_Tier2BandAmount>Пропускная способность лучевого канального узла</AM_Tier2BandAmount>
+  <AM_Tier2BandAmountDesc>Каждый лучевой канальный узел увеличивает пропускную способность механитора на это значение. Действует только с активным DLC Biotech. Чтобы применить изменения, выключите питание узлов и включите его снова.</AM_Tier2BandAmountDesc>
+  <AM_Tier3BandAmount>Пропускная способность пустотного канального узла</AM_Tier3BandAmount>
+  <AM_Tier3BandAmountDesc>Каждый пустотный канальный узел увеличивает пропускную способность механитора на это значение. Действует только с активным DLC Biotech. Чтобы применить изменения, выключите питание узлов и включите его снова.</AM_Tier3BandAmountDesc>
+  <AM_allowAura>Разрешить появление аур</AM_allowAura>
+  <AM_allowDaggersnout>Разрешить появление кинжалорылов</AM_allowDaggersnout>
+  <AM_allowDemolisher>Разрешить появление разрушителей</AM_allowDemolisher>
+  <AM_allowFireworm>Разрешить появление огнечервей</AM_allowFireworm>
+  <AM_allowGoliath>Разрешить появление голиафов</AM_allowGoliath>
+  <AM_allowPhalanx>Разрешить появление фаланг</AM_allowPhalanx>
+  <AM_allowSiegebreaker>Разрешить появление осадных разрушителей</AM_allowSiegebreaker>
+</LanguageData>

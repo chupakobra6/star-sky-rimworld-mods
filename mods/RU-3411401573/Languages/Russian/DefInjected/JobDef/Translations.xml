@@ -1,0 +1,7 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VQE_FixCriticallyBrokenDownBuilding.reportString>Заменяет сломанные компоненты в TargetA.</VQE_FixCriticallyBrokenDownBuilding.reportString>
+  <VQE_MaintainGenetron.reportString>Обслуживает TargetA.</VQE_MaintainGenetron.reportString>
+  <VQE_SabotageGenetron.reportString>Выводит из строя TargetA.</VQE_SabotageGenetron.reportString>
+  <VQE_StudyGenetron.reportString>Изучает TargetA.</VQE_StudyGenetron.reportString>
+</LanguageData>

@@ -1,0 +1,7 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AM_MechConversion.description>Дистанционно взломать систему опознавания механоида и временно переманить его на свою сторону. Через сутки он вернётся к прежней фракции и начнёт нападать без разбора.</AM_MechConversion.description>
+  <AM_MechConversion.label>взлом системы «свой — чужой»</AM_MechConversion.label>
+  <AM_SwapWeapon.description>Переключиться между зарядным бластером и игломётом.</AM_SwapWeapon.description>
+  <AM_SwapWeapon.label>сменить оружие</AM_SwapWeapon.label>
+</LanguageData>

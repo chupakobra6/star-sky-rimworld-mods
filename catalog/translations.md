@@ -254,7 +254,7 @@ RimWorld 1.6 · Версия 1.0.1
 
 [![Humanoid Alien Races — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/humanoid-alien-races-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3807814478)
 
-RimWorld 1.6 · Версия 1.0.0
+RimWorld 1.6 · Версия 1.0.1
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3807814478) · [Исходники и руководство](../mods/RU-839005762/README.md) · [История изменений](../mods/RU-839005762/CHANGELOG.md) · [Лицензия](../mods/RU-839005762/LICENSE) · [Источники и уведомления](../mods/RU-839005762/NOTICES.md)
 
@@ -297,6 +297,8 @@ RimWorld 1.6 · Версия 1.0.3
 RimWorld 1.6 · Версия 1.0.2
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3807830501) · [Исходники и руководство](../mods/RU-1874644848/README.md) · [История изменений](../mods/RU-1874644848/CHANGELOG.md) · [Лицензия](../mods/RU-1874644848/LICENSE) · [Источники и уведомления](../mods/RU-1874644848/NOTICES.md)
+
+[![Другие моды в Мастерской Steam](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-ru.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)
 
 ## Vanilla Furniture Expanded - Power — русский перевод
 
@@ -455,3 +457,74 @@ RimWorld 1.6 · Версия 1.0.1
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3811881608) · [Исходники и руководство](../mods/RU-3327601396/README.md) · [История изменений](../mods/RU-3327601396/CHANGELOG.md) · [Лицензия](../mods/RU-3327601396/LICENSE) · [Источники и уведомления](../mods/RU-3327601396/NOTICES.md)
 
 [![Другие моды в Мастерской Steam](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-ru.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)
+
+## EBSG Framework — русский перевод
+
+перевёл тексты библиотеки, чтобы условия способностей и работа с ресурсами читались по-русски
+
+[![EBSG Framework — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/ebsg-framework-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3816649292)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3816649292) · [Исходники и руководство](../mods/RU-3112549163/README.md) · [История изменений](../mods/RU-3112549163/CHANGELOG.md) · [Лицензия](../mods/RU-3112549163/LICENSE) · [Источники и уведомления](../mods/RU-3112549163/NOTICES.md)
+
+## Replace Stuff - Continued — русский перевод
+
+русские команды и подсказки для замены материалов и перестройки зданий
+
+[![Replace Stuff - Continued — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/replace-stuff-continued-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3816649407)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3816649407) · [Исходники и руководство](../mods/RU-3526354009/README.md) · [История изменений](../mods/RU-3526354009/CHANGELOG.md) · [Лицензия](../mods/RU-3526354009/LICENSE) · [Источники и уведомления](../mods/RU-3526354009/NOTICES.md)
+
+## Alpha Mechs — русский перевод
+
+перевёл описания механоидов и связанных исследований, сохранив различия между их ролями и способностями
+
+[![Alpha Mechs — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/alpha-mechs-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3816649412)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3816649412) · [Исходники и руководство](../mods/RU-2973169158/README.md) · [История изменений](../mods/RU-2973169158/CHANGELOG.md) · [Лицензия](../mods/RU-2973169158/LICENSE) · [Источники и уведомления](../mods/RU-2973169158/NOTICES.md)
+
+## Vanilla Storytellers Expanded - Winston Waves — русский перевод
+
+перевёл меню выбора наград и описания усилений волн, чтобы проще разбираться в условиях следующего боя
+
+[![Vanilla Storytellers Expanded - Winston Waves — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/winston-waves-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3816649419)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3816649419) · [Исходники и руководство](../mods/RU-3215569151/README.md) · [История изменений](../mods/RU-3215569151/CHANGELOG.md) · [Лицензия](../mods/RU-3215569151/LICENSE) · [Источники и уведомления](../mods/RU-3215569151/NOTICES.md)
+
+## Vanilla Landmarks Expanded — русский перевод
+
+русские названия достопримечательностей и описания особенностей местности для путешествий с Odyssey
+
+[![Vanilla Landmarks Expanded — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/vanilla-landmarks-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3816649423)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3816649423) · [Исходники и руководство](../mods/RU-3656316229/README.md) · [История изменений](../mods/RU-3656316229/CHANGELOG.md) · [Лицензия](../mods/RU-3656316229/LICENSE) · [Источники и уведомления](../mods/RU-3656316229/NOTICES.md)
+
+## Worksites Expanded — русский перевод
+
+перевёл описания рабочих объектов и события вокруг них
+
+[![Worksites Expanded — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/worksites-expanded-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3816649426)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3816649426) · [Исходники и руководство](../mods/RU-3687071198/README.md) · [История изменений](../mods/RU-3687071198/CHANGELOG.md) · [Лицензия](../mods/RU-3687071198/LICENSE) · [Источники и уведомления](../mods/RU-3687071198/NOTICES.md)
+
+## Vanilla Quests Expanded - The Generator — русский перевод
+
+перевёл историю изобретателя, задания и улучшения ARC, сохранив связь между этапами этой истории
+
+[![Vanilla Quests Expanded - The Generator — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/the-generator-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3816649430)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3816649430) · [Исходники и руководство](../mods/RU-3411401573/README.md) · [История изменений](../mods/RU-3411401573/CHANGELOG.md) · [Лицензия](../mods/RU-3411401573/LICENSE) · [Источники и уведомления](../mods/RU-3411401573/NOTICES.md)
+

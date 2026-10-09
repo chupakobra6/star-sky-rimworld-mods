@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AM_Detonate.description>Взорвать механоида, мгновенно уничтожив его и нанеся урон всем поблизости — и врагам, и союзникам.</AM_Detonate.description>
+  <AM_Detonate.label>самоподрыв</AM_Detonate.label>
+  <AM_LongjumpMech.description>Прыгнуть в удалённую точку с помощью особых сверхбыстрых мышц механоида.</AM_LongjumpMech.description>
+  <AM_LongjumpMech.label>усиленный прыжок механоида</AM_LongjumpMech.label>
+  <AM_LongjumpMech.verbProperties.label>прыжок</AM_LongjumpMech.verbProperties.label>
+  <AM_ResurrectionMechSlow.description>Восстановить недавно уничтоженного механоида, извне усилив его процессы саморемонта. Механоид вернётся в строй с частью устранённых повреждений. Эта способность действует медленнее, чем аналогичная способность апокритона, зато не расходует заряды.</AM_ResurrectionMechSlow.description>
+  <AM_ResurrectionMechSlow.label>восстановить механоида</AM_ResurrectionMechSlow.label>
+  <AM_SwapWeapon_Mortar.description>Переключиться между мини-игломётом и миномётом.</AM_SwapWeapon_Mortar.description>
+  <AM_SwapWeapon_Mortar.label>сменить оружие</AM_SwapWeapon_Mortar.label>
+</LanguageData>

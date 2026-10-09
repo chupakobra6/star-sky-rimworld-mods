@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <DRG_AdministerResource.gerund>введение запаса ресурса</DRG_AdministerResource.gerund>
+  <DRG_AdministerResource.label>вводить запас ресурса</DRG_AdministerResource.label>
+  <DRG_AdministerResource.verb>ввести запас ресурса</DRG_AdministerResource.verb>
+  <DRG_DeliverResourceToPrisoner.gerund>доставка запаса ресурса</DRG_DeliverResourceToPrisoner.gerund>
+  <DRG_DeliverResourceToPrisoner.label>доставлять запас ресурса заключённым</DRG_DeliverResourceToPrisoner.label>
+  <DRG_DeliverResourceToPrisoner.verb>доставить запас ресурса</DRG_DeliverResourceToPrisoner.verb>
+  <EBSG_DeliverDependencyToPrisoner.gerund>доставка необходимого вещества</EBSG_DeliverDependencyToPrisoner.gerund>
+  <EBSG_DeliverDependencyToPrisoner.label>снабжать зависимых заключённых</EBSG_DeliverDependencyToPrisoner.label>
+  <EBSG_DeliverDependencyToPrisoner.verb>доставить необходимое вещество</EBSG_DeliverDependencyToPrisoner.verb>
+  <EBSG_FeedDependency.gerund>удовлетворение зависимости</EBSG_FeedDependency.gerund>
+  <EBSG_FeedDependency.label>удовлетворять зависимость</EBSG_FeedDependency.label>
+  <EBSG_FeedDependency.verb>удовлетворить зависимость</EBSG_FeedDependency.verb>
+</LanguageData>

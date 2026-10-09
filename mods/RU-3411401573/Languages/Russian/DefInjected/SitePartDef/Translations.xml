@@ -1,0 +1,17 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VQE_Quest1Site.description>Заброшенный объект с оставленным прототипом АРК.</VQE_Quest1Site.description>
+  <VQE_Quest1Site.label>прототип АРК</VQE_Quest1Site.label>
+  <VQE_Quest2Site.description>Заброшенный промышленный комплекс с прототипом АРК.</VQE_Quest2Site.description>
+  <VQE_Quest2Site.label>промышленный комплекс АРК</VQE_Quest2Site.label>
+  <VQE_Quest3Site.description>Ещё более крупная строительная площадка с прототипом АРК.</VQE_Quest3Site.description>
+  <VQE_Quest3Site.label>древний АРК</VQE_Quest3Site.label>
+  <VQE_Quest4Site.description>Забытый бункер, от которого исходит неестественный холод.</VQE_Quest4Site.description>
+  <VQE_Quest4Site.label>погребённый бункер</VQE_Quest4Site.label>
+  <VQE_Quest5Site.description>Заброшенный комплекс генератора АРК, где можно добыть компоненты АРК.</VQE_Quest5Site.description>
+  <VQE_Quest5Site.label>комплекс АРК</VQE_Quest5Site.label>
+  <VQE_Quest5Site_Geothermal.description>Заброшенный комплекс генератора АРК с руинами геотермального реактора.</VQE_Quest5Site_Geothermal.description>
+  <VQE_Quest5Site_Geothermal.label>геотермальный комплекс АРК</VQE_Quest5Site_Geothermal.label>
+  <VQE_Quest5Site_Nuclear.description>Заброшенный комплекс генератора АРК с руинами ядерного реактора.</VQE_Quest5Site_Nuclear.description>
+  <VQE_Quest5Site_Nuclear.label>ядерный комплекс АРК</VQE_Quest5Site_Nuclear.label>
+</LanguageData>

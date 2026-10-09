@@ -1,0 +1,55 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AM_ApoptosisRecipe.description>Вырастить механоида-апоптоза.</AM_ApoptosisRecipe.description>
+  <AM_ApoptosisRecipe.label>вырастить апоптоза</AM_ApoptosisRecipe.label>
+  <AM_ArtilleronRecipe.description>Вырастить механоида-артиллерона.</AM_ArtilleronRecipe.description>
+  <AM_ArtilleronRecipe.label>вырастить артиллерона</AM_ArtilleronRecipe.label>
+  <AM_AuraRecipe.description>Вырастить механоида-ауру.</AM_AuraRecipe.description>
+  <AM_AuraRecipe.label>вырастить ауру</AM_AuraRecipe.label>
+  <AM_BellicorRecipe.description>Вырастить механоида-белликора.</AM_BellicorRecipe.description>
+  <AM_BellicorRecipe.label>вырастить белликора</AM_BellicorRecipe.label>
+  <AM_BlitzkriegRecipe.description>Вырастить механоида «Блицкриг».</AM_BlitzkriegRecipe.description>
+  <AM_BlitzkriegRecipe.label>вырастить блицкриг</AM_BlitzkriegRecipe.label>
+  <AM_DaggersnoutRecipe.description>Вырастить механоида-кинжалорыла.</AM_DaggersnoutRecipe.description>
+  <AM_DaggersnoutRecipe.label>вырастить кинжалорыла</AM_DaggersnoutRecipe.label>
+  <AM_DemolisherRecipe.description>Вырастить механоида-разрушителя.</AM_DemolisherRecipe.description>
+  <AM_DemolisherRecipe.label>вырастить разрушителя</AM_DemolisherRecipe.label>
+  <AM_FirewormRecipe.description>Вырастить механоида-огнечервя.</AM_FirewormRecipe.description>
+  <AM_FirewormRecipe.label>вырастить огнечервя</AM_FirewormRecipe.label>
+  <AM_GoliathRecipe.description>Вырастить механоида-голиафа.</AM_GoliathRecipe.description>
+  <AM_GoliathRecipe.label>вырастить голиафа</AM_GoliathRecipe.label>
+  <AM_InfernusRecipe.description>Вырастить механоида-инфернуса.</AM_InfernusRecipe.description>
+  <AM_InfernusRecipe.label>вырастить инфернуса</AM_InfernusRecipe.label>
+  <AM_LuxRecipe.description>Вырастить механоида-люкса.</AM_LuxRecipe.description>
+  <AM_LuxRecipe.label>вырастить люкса</AM_LuxRecipe.label>
+  <AM_Mech_LegateRecipe.description>Вырастить механоида-легата.</AM_Mech_LegateRecipe.description>
+  <AM_Mech_LegateRecipe.label>вырастить легата</AM_Mech_LegateRecipe.label>
+  <AM_Mech_MasterChefRecipe.description>Вырастить механоида-кулинара.</AM_Mech_MasterChefRecipe.description>
+  <AM_Mech_MasterChefRecipe.label>вырастить кулинара</AM_Mech_MasterChefRecipe.label>
+  <AM_Mech_SagittariusRecipe.description>Вырастить механоида-сагиттария.</AM_Mech_SagittariusRecipe.description>
+  <AM_Mech_SagittariusRecipe.label>вырастить сагиттария</AM_Mech_SagittariusRecipe.label>
+  <AM_Mech_TurboCleanerRecipe.description>Вырастить механоида-турбочистильщика.</AM_Mech_TurboCleanerRecipe.description>
+  <AM_Mech_TurboCleanerRecipe.label>вырастить турбочистильщика</AM_Mech_TurboCleanerRecipe.label>
+  <AM_MunifexRecipe.description>Вырастить механоида-мунифекса.</AM_MunifexRecipe.description>
+  <AM_MunifexRecipe.label>вырастить мунифекса</AM_MunifexRecipe.label>
+  <AM_OptioRecipe.description>Вырастить механоида-оптио.</AM_OptioRecipe.description>
+  <AM_OptioRecipe.label>вырастить оптио</AM_OptioRecipe.label>
+  <AM_PhalanxRecipe.description>Вырастить механоида-фалангу.</AM_PhalanxRecipe.description>
+  <AM_PhalanxRecipe.label>вырастить фалангу</AM_PhalanxRecipe.label>
+  <AM_PolychoronRecipe.description>Вырастить механоида-полихорона.</AM_PolychoronRecipe.description>
+  <AM_PolychoronRecipe.label>вырастить полихорона</AM_PolychoronRecipe.label>
+  <AM_PristineAssemblerRecipe.description>Вырастить исправного сборщика.</AM_PristineAssemblerRecipe.description>
+  <AM_PristineAssemblerRecipe.label>вырастить исправного сборщика</AM_PristineAssemblerRecipe.label>
+  <AM_PristineSlurrypedeRecipe.description>Вырастить исправную жиженожку.</AM_PristineSlurrypedeRecipe.description>
+  <AM_PristineSlurrypedeRecipe.label>вырастить исправную жиженожку</AM_PristineSlurrypedeRecipe.label>
+  <AM_PristineStriderRecipe.description>Вырастить исправного шагохода.</AM_PristineStriderRecipe.description>
+  <AM_PristineStriderRecipe.label>вырастить исправного шагохода</AM_PristineStriderRecipe.label>
+  <AM_SiegebreakerRecipe.description>Вырастить осадного разрушителя.</AM_SiegebreakerRecipe.description>
+  <AM_SiegebreakerRecipe.label>вырастить осадного разрушителя</AM_SiegebreakerRecipe.label>
+  <AM_SiegemelterRecipe.description>Вырастить осадного плавителя.</AM_SiegemelterRecipe.description>
+  <AM_SiegemelterRecipe.label>вырастить осадного плавителя</AM_SiegemelterRecipe.label>
+  <AM_StarfireRecipe.description>Вырастить механоида «Звёздный огонь».</AM_StarfireRecipe.description>
+  <AM_StarfireRecipe.label>вырастить «Звёздный огонь»</AM_StarfireRecipe.label>
+  <AM_WarEmpressRecipe.description>Вырастить механоида «Императрица войны».</AM_WarEmpressRecipe.description>
+  <AM_WarEmpressRecipe.label>вырастить императрицу войны</AM_WarEmpressRecipe.label>
+</LanguageData>

@@ -1,0 +1,29 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <EBSG_BriefSterility.description>Кратковременное бесплодие предотвращает повторную беременность сразу после предыдущей.</EBSG_BriefSterility.description>
+  <EBSG_BriefSterility.label>кратковременное бесплодие</EBSG_BriefSterility.label>
+  <EBSG_GeneticDrugDependency.description>Генетически обусловленная биохимическая зависимость от определённого вещества. Без регулярных доз здоровье и настроение ухудшаются, что в итоге приводит к смерти.</EBSG_GeneticDrugDependency.description>
+  <EBSG_GeneticDrugDependency.label>химическая зависимость</EBSG_GeneticDrugDependency.label>
+  <EBSG_GeneticDrugDependency.stages.2.overrideLabel>кома из-за недостатка вещества</EBSG_GeneticDrugDependency.stages.2.overrideLabel>
+  <EBSG_GeneticDrugDependency.stages.deficiency.label>недостаток вещества</EBSG_GeneticDrugDependency.stages.deficiency.label>
+  <EBSG_GeneticDrugReliance.description>Генетически обусловленная биохимическая потребность в определённом веществе. Без частых доз здоровье и настроение ухудшаются, что в итоге приводит к смерти.</EBSG_GeneticDrugReliance.description>
+  <EBSG_GeneticDrugReliance.label>химическая потребность</EBSG_GeneticDrugReliance.label>
+  <EBSG_GeneticDrugReliance.stages.2.overrideLabel>кома из-за недостатка вещества</EBSG_GeneticDrugReliance.stages.2.overrideLabel>
+  <EBSG_GeneticDrugReliance.stages.deficiency.label>недостаток вещества</EBSG_GeneticDrugReliance.stages.deficiency.label>
+  <EBSG_GeneticFoodDependency.description>Генетически обусловленная биохимическая зависимость от определённой пищи. Без её регулярного употребления здоровье и настроение ухудшаются, что в итоге приводит к смерти.</EBSG_GeneticFoodDependency.description>
+  <EBSG_GeneticFoodDependency.label>пищевая зависимость</EBSG_GeneticFoodDependency.label>
+  <EBSG_GeneticFoodDependency.stages.2.overrideLabel>кома из-за недостатка вещества</EBSG_GeneticFoodDependency.stages.2.overrideLabel>
+  <EBSG_GeneticFoodDependency.stages.deficiency.label>недостаток вещества</EBSG_GeneticFoodDependency.stages.deficiency.label>
+  <EBSG_GeneticFoodGroupDependency.description>Генетически обусловленная биохимическая зависимость от определённой группы продуктов. Без их регулярного употребления здоровье и настроение ухудшаются, что в итоге приводит к смерти.</EBSG_GeneticFoodGroupDependency.description>
+  <EBSG_GeneticFoodGroupDependency.label>пищевая зависимость</EBSG_GeneticFoodGroupDependency.label>
+  <EBSG_GeneticFoodGroupDependency.stages.2.overrideLabel>кома из-за недостатка вещества</EBSG_GeneticFoodGroupDependency.stages.2.overrideLabel>
+  <EBSG_GeneticFoodGroupDependency.stages.deficiency.label>недостаток вещества</EBSG_GeneticFoodGroupDependency.stages.deficiency.label>
+  <EBSG_GeneticFoodGroupReliance.description>Генетически обусловленная биохимическая потребность в определённой группе продуктов. Без их частого употребления здоровье и настроение ухудшаются, что в итоге приводит к смерти.</EBSG_GeneticFoodGroupReliance.description>
+  <EBSG_GeneticFoodGroupReliance.label>пищевая потребность</EBSG_GeneticFoodGroupReliance.label>
+  <EBSG_GeneticFoodGroupReliance.stages.2.overrideLabel>кома из-за недостатка вещества</EBSG_GeneticFoodGroupReliance.stages.2.overrideLabel>
+  <EBSG_GeneticFoodGroupReliance.stages.deficiency.label>недостаток вещества</EBSG_GeneticFoodGroupReliance.stages.deficiency.label>
+  <EBSG_GeneticFoodReliance.description>Генетически обусловленная биохимическая потребность в определённой пище или группе продуктов. Без частого употребления такой пищи здоровье и настроение ухудшаются, что в итоге приводит к смерти.</EBSG_GeneticFoodReliance.description>
+  <EBSG_GeneticFoodReliance.label>пищевая потребность</EBSG_GeneticFoodReliance.label>
+  <EBSG_GeneticFoodReliance.stages.2.overrideLabel>кома из-за недостатка вещества</EBSG_GeneticFoodReliance.stages.2.overrideLabel>
+  <EBSG_GeneticFoodReliance.stages.deficiency.label>недостаток вещества</EBSG_GeneticFoodReliance.stages.deficiency.label>
+</LanguageData>

@@ -1,0 +1,22 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VEE_ColossalFauna.description>Все животные в этой местности намного крупнее обычного.</VEE_ColossalFauna.description>
+  <VEE_ColossalFauna.label>гигантская фауна</VEE_ColossalFauna.label>
+  <VEE_FertileRainsGameCondition.description>Регион охватили необычайно богатые питательными веществами дожди. Пока они идут, растения растут быстрее.</VEE_FertileRainsGameCondition.description>
+  <VEE_FertileRainsGameCondition.endMessage>Плодородный дождь закончился.</VEE_FertileRainsGameCondition.endMessage>
+  <VEE_FertileRainsGameCondition.label>плодородный дождь</VEE_FertileRainsGameCondition.label>
+  <VEE_GeomagneticStorm.description>Мощная геомагнитная буря охватывает регион и полностью отключает все электрические устройства.</VEE_GeomagneticStorm.description>
+  <VEE_GeomagneticStorm.label>геомагнитная буря</VEE_GeomagneticStorm.label>
+  <VEE_Microfauna.description>Все животные в этой местности намного мельче обычного.</VEE_Microfauna.description>
+  <VEE_Microfauna.label>миниатюрная фауна</VEE_Microfauna.label>
+  <VEE_NoWind.description>В этой области почти не бывает ветра.</VEE_NoWind.description>
+  <VEE_NoWind.label>отсутствие ветра</VEE_NoWind.label>
+  <VEE_RagingWind.description>В этой области дуют необычайно сильные ветры.</VEE_RagingWind.description>
+  <VEE_RagingWind.label>яростные ветра</VEE_RagingWind.label>
+  <VEE_RottenStench.description>Из земли сочатся едкие испарения. Воздух наполняется зловонием, которое обжигает лёгкие и портит настроение.</VEE_RottenStench.description>
+  <VEE_RottenStench.label>гнилостная вонь</VEE_RottenStench.label>
+  <VEE_SkygazingSpot.description>Безмятежное атмосферное явление побуждает поселенцев чаще любоваться небом. Повышает вероятность этого занятия и удовольствие от него.</VEE_SkygazingSpot.description>
+  <VEE_SkygazingSpot.label>звёздное небо</VEE_SkygazingSpot.label>
+  <VEE_TidalFlooding.description>На этой совершенно плоской прибрежной равнине приливы заходят далеко вглубь суши и регулярно затопляют обширные участки.</VEE_TidalFlooding.description>
+  <VEE_TidalFlooding.label>приливные наводнения</VEE_TidalFlooding.label>
+</LanguageData>

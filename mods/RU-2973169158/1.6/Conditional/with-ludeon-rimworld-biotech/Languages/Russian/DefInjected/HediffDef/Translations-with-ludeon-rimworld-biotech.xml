@@ -1,0 +1,19 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AM_ApoptosisHateAura.description>Такая ненависть... Я чувствую её до мозга костей. Меня сейчас стошнит.</AM_ApoptosisHateAura.description>
+  <AM_ApoptosisHateAura.label>аура ненависти апоптоза</AM_ApoptosisHateAura.label>
+  <AM_ArmorMechBoost.description>Броня этого механоида укреплена находящимся поблизости усилителем защиты механоидов.</AM_ArmorMechBoost.description>
+  <AM_ArmorMechBoost.label>усиленная броня</AM_ArmorMechBoost.label>
+  <AM_BeamncasterBandNode.description>Каждый настроенный лучевой канальный узел увеличивает пропускную способность этого механитора на 2.</AM_BeamncasterBandNode.description>
+  <AM_BeamncasterBandNode.label>лучевой канальный узел (настроен)</AM_BeamncasterBandNode.label>
+  <AM_EfficiencyMechBoost.description>Энергоэффективность этого механоида повышена находящимся поблизости усилителем энергоэффективности.</AM_EfficiencyMechBoost.description>
+  <AM_EfficiencyMechBoost.label>повышенная энергоэффективность</AM_EfficiencyMechBoost.label>
+  <AM_GreaterMechBoost.description>Способности этого механоида улучшены находящимся поблизости усилителем механоидов длительного действия. Эффект сохраняется ещё 3 часа после выхода из зоны его действия. Если механоид попадёт в зону обычного усилителя, тот заменит этот эффект своим.</AM_GreaterMechBoost.description>
+  <AM_GreaterMechBoost.label>длительное усиление</AM_GreaterMechBoost.label>
+  <AM_MechDisruption.description>Находящийся поблизости подавитель механоидов нарушает наведение, снижает скорость и ловкость этого механоида.</AM_MechDisruption.description>
+  <AM_MechDisruption.label>подавление систем механоида</AM_MechDisruption.label>
+  <AM_TargettingMechBoost.description>Система наведения этого механоида улучшена находящимся поблизости усилителем наведения механоидов.</AM_TargettingMechBoost.description>
+  <AM_TargettingMechBoost.label>улучшенное наведение</AM_TargettingMechBoost.label>
+  <AM_VoidlinkBandNode.description>Каждый настроенный пустотный канальный узел увеличивает пропускную способность этого механитора на 5.</AM_VoidlinkBandNode.description>
+  <AM_VoidlinkBandNode.label>пустотный канальный узел (настроен)</AM_VoidlinkBandNode.label>
+</LanguageData>

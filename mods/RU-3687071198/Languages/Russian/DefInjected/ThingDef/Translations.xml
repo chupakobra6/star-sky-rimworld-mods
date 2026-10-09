@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Blueprint_Install_PulseEmitter.label>импульсный излучатель (проект)</Blueprint_Install_PulseEmitter.label>
+  <Blueprint_PulseEmitter.label>импульсный излучатель (проект)</Blueprint_PulseEmitter.label>
+  <Filth_DyeBlue.description>Пятно пролитой синей краски.</Filth_DyeBlue.description>
+  <Filth_DyeBlue.label>синий краситель</Filth_DyeBlue.label>
+  <Filth_DyeCyan.description>Пятно пролитой голубой краски.</Filth_DyeCyan.description>
+  <Filth_DyeCyan.label>голубой краситель</Filth_DyeCyan.label>
+  <Filth_DyeGreen.description>Пятно пролитой зелёной краски.</Filth_DyeGreen.description>
+  <Filth_DyeGreen.label>зелёный краситель</Filth_DyeGreen.label>
+  <Filth_DyePurple.description>Пятно пролитой фиолетовой краски.</Filth_DyePurple.description>
+  <Filth_DyePurple.label>фиолетовый краситель</Filth_DyePurple.label>
+  <Filth_DyeRed.description>Пятно пролитой красной краски.</Filth_DyeRed.description>
+  <Filth_DyeRed.label>красный краситель</Filth_DyeRed.label>
+  <Filth_DyeYellow.description>Пятно пролитой жёлтой краски.</Filth_DyeYellow.description>
+  <Filth_DyeYellow.label>жёлтый краситель</Filth_DyeYellow.label>
+  <Frame_PulseEmitter.description>Пираты используют такие излучатели даже в самых отдалённых местах и суровых условиях, чтобы находить выгодные цели для набегов.</Frame_PulseEmitter.description>
+  <Frame_PulseEmitter.label>импульсный излучатель (в процессе сборки)</Frame_PulseEmitter.label>
+  <PulseEmitter.description>Пираты используют такие излучатели даже в самых отдалённых местах и суровых условиях, чтобы находить выгодные цели для набегов.</PulseEmitter.description>
+  <PulseEmitter.label>импульсный излучатель</PulseEmitter.label>
+</LanguageData>

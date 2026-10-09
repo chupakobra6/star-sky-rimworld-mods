@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<loadFolders>
+  <v1.6>
+    <li>/</li>
+    <li IfModActive="ludeon.rimworld.anomaly">1.6/Conditional/with-ludeon-rimworld-anomaly</li>
+    <li IfModActive="ludeon.rimworld.biotech">1.6/Conditional/with-ludeon-rimworld-biotech</li>
+    <li IfModActive="ludeon.rimworld.royalty">1.6/Conditional/with-ludeon-rimworld-royalty</li>
+    <li IfModActive="vanillaexpanded.helixiengas">1.6/Conditional/with-vanillaexpanded-helixiengas</li>
+    <li IfModActive="vanillaexpanded.vaewaste">1.6/Conditional/with-vanillaexpanded-vaewaste</li>
+    <li IfModActive="vanillaexpanded.vanillaanimalsexpanded">1.6/Conditional/with-vanillaexpanded-vanillaanimalsexpanded</li>
+    <li IfModActive="vanillaexpanded.vcooke">1.6/Conditional/with-vanillaexpanded-vcooke</li>
+    <li IfModActive="vanillaexpanded.vfepower">1.6/Conditional/with-vanillaexpanded-vfepower</li>
+    <li IfModActive="vanillaexpanded.vplantse">1.6/Conditional/with-vanillaexpanded-vplantse</li>
+    <li IfModActive="vanillaexpanded.vplantsemore">1.6/Conditional/with-vanillaexpanded-vplantsemore</li>
+    <li IfModActive="vanillaexpanded.vplantsesucculents">1.6/Conditional/with-vanillaexpanded-vplantsesucculents</li>
+    <li IfModActive="vanillaexpanded.vpsycastse">1.6/Conditional/with-vanillaexpanded-vpsycastse</li>
+  </v1.6>
+</loadFolders>

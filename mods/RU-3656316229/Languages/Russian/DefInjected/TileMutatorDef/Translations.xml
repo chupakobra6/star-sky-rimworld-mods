@@ -1,0 +1,276 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VEE_AbandonedFarmland.description>В этом регионе сохранились древние фермы, давно заброшенные из-за засух.</VEE_AbandonedFarmland.description>
+  <VEE_AbandonedFarmland.label>заброшенные пашни</VEE_AbandonedFarmland.label>
+  <VEE_AbundantPredators.description>Животные-хищники встречаются здесь в большем количестве.</VEE_AbundantPredators.description>
+  <VEE_AbundantPredators.label>много хищников</VEE_AbundantPredators.label>
+  <VEE_AbundantPrey.description>Животные, служащие добычей хищников, встречаются здесь в большем количестве.</VEE_AbundantPrey.description>
+  <VEE_AbundantPrey.label>много добычи</VEE_AbundantPrey.label>
+  <VEE_AggressiveHerds.description>Животные этого региона с большей вероятностью начинают охотиться на людей при получении урона.</VEE_AggressiveHerds.description>
+  <VEE_AggressiveHerds.label>агрессивная фауна</VEE_AggressiveHerds.label>
+  <VEE_AlluvialFan.description>Широкий веер богатых наносов, отложившихся там, где речное течение замедляется и растекается по суше.</VEE_AlluvialFan.description>
+  <VEE_AlluvialFan.label>конус выноса</VEE_AlluvialFan.label>
+  <VEE_Alphabeavers.description>В этой области были замечены альфабобры.</VEE_Alphabeavers.description>
+  <VEE_Alphabeavers.label>альфабобры</VEE_Alphabeavers.label>
+  <VEE_AnimaFauna.description>Спокойная обстановка анима-леса привлекает некоторых животных, затронутых анимой.</VEE_AnimaFauna.description>
+  <VEE_AnimaFauna.label>животные души</VEE_AnimaFauna.label>
+  <VEE_AnimaFlora.description>Регион покрыт густым лесом из деревьев анимы и более мелкой растительности анимы, тихо резонирующей с психической энергией. Кажется, сам воздух внимателен, словно земля прислушивается.</VEE_AnimaFlora.description>
+  <VEE_AnimaFlora.label>растения души</VEE_AnimaFlora.label>
+  <VEE_AnimaSoils.description>Местная почва насыщена скрытой энергией анимы, которая незаметно воздействует на растения, животных и разум.</VEE_AnimaSoils.description>
+  <VEE_AnimaSoils.label>почва души</VEE_AnimaSoils.label>
+  <VEE_AnimaSoils_Coast.description>Местная почва насыщена скрытой энергией анимы, которая незаметно воздействует на растения, животных и разум.</VEE_AnimaSoils_Coast.description>
+  <VEE_AnimaSoils_Coast.label>почва души</VEE_AnimaSoils_Coast.label>
+  <VEE_AuburnTree_Birches.description>В этом лесистом краю многие деревья остаются красными и золотыми, словно осень никогда не заканчивается.</VEE_AuburnTree_Birches.description>
+  <VEE_AuburnTree_Birches.label>пожелтевшие берёзы</VEE_AuburnTree_Birches.label>
+  <VEE_AuburnTree_Maples.description>В этом лесистом краю многие деревья остаются красными и золотыми, словно осень никогда не заканчивается.</VEE_AuburnTree_Maples.description>
+  <VEE_AuburnTree_Maples.label>пожелтевшие клёны</VEE_AuburnTree_Maples.label>
+  <VEE_AuburnTree_Oaks.description>В этом лесистом краю многие деревья остаются красными и золотыми, словно осень никогда не заканчивается.</VEE_AuburnTree_Oaks.description>
+  <VEE_AuburnTree_Oaks.label>пожелтевшие дубы</VEE_AuburnTree_Oaks.label>
+  <VEE_AuburnTree_Poplars.description>В этом лесистом краю многие деревья остаются красными и золотыми, словно осень никогда не заканчивается.</VEE_AuburnTree_Poplars.description>
+  <VEE_AuburnTree_Poplars.label>пожелтевшие тополя</VEE_AuburnTree_Poplars.label>
+  <VEE_BasaltCape.description>Выступающий мыс из тёмного базальта, расколотого древними лавовыми потоками на острые колонны. Богат вулканическими породами.</VEE_BasaltCape.description>
+  <VEE_BasaltCape.label>базальтовый мыс</VEE_BasaltCape.label>
+  <VEE_Blooming_Buttercup.description>В этой местности может расти множество ярких диких лютиков.</VEE_Blooming_Buttercup.description>
+  <VEE_Blooming_Buttercup.label>лютиковые луга</VEE_Blooming_Buttercup.label>
+  <VEE_Blooming_ForgetMeNot.description>В этой местности может расти множество ярких диких незабудок.</VEE_Blooming_ForgetMeNot.description>
+  <VEE_Blooming_ForgetMeNot.label>незабудковые луга</VEE_Blooming_ForgetMeNot.label>
+  <VEE_Blooming_Knapweed.description>В этой местности может расти множество ярких диких васильков.</VEE_Blooming_Knapweed.description>
+  <VEE_Blooming_Knapweed.label>васильковые луга</VEE_Blooming_Knapweed.label>
+  <VEE_Blooming_Loosestrife.description>В этой местности может расти множество яркого дикого дербенника.</VEE_Blooming_Loosestrife.description>
+  <VEE_Blooming_Loosestrife.label>дербенниковые луга</VEE_Blooming_Loosestrife.label>
+  <VEE_BombardedSurface.description>В далёком прошлом регион подвергся орбитальной или артиллерийской бомбардировке. Её воронки сохранились до сих пор.</VEE_BombardedSurface.description>
+  <VEE_BombardedSurface.label>разбомблённая местность</VEE_BombardedSurface.label>
+  <VEE_BurnedForest.description>Участок леса, серьёзно пострадавший от недавнего пожара.</VEE_BurnedForest.description>
+  <VEE_BurnedForest.label>выжженный лес</VEE_BurnedForest.label>
+  <VEE_Cactus_Barrel.description>В этой местности может расти множество диких бочковидных кактусов.</VEE_Cactus_Barrel.description>
+  <VEE_Cactus_Barrel.label>бочковидные кактусы</VEE_Cactus_Barrel.label>
+  <VEE_Cactus_Beavertail.description>В этой местности может расти множество диких опунций «бобровый хвост».</VEE_Cactus_Beavertail.description>
+  <VEE_Cactus_Beavertail.label>кактусы «бобровый хвост»</VEE_Cactus_Beavertail.label>
+  <VEE_Cactus_Hedgehog.description>В этой местности может расти множество диких кактусов-ежей.</VEE_Cactus_Hedgehog.description>
+  <VEE_Cactus_Hedgehog.label>ежовые кактусы</VEE_Cactus_Hedgehog.label>
+  <VEE_Cactus_OrganPipe.description>В этой местности может расти множество диких кактусов «органная труба».</VEE_Cactus_OrganPipe.description>
+  <VEE_Cactus_OrganPipe.label>колонновидные кактусы</VEE_Cactus_OrganPipe.label>
+  <VEE_CalmBasin.description>Широкий неглубокий кратер заполнен мелким нетронутым песком. Покатый край защищает котловину от ветра, и в ней царит жуткая неподвижность.</VEE_CalmBasin.description>
+  <VEE_CalmBasin.label>тихая котловина</VEE_CalmBasin.label>
+  <VEE_Cenotes.description>Разбросанная по местности сеть глубоких заполненных водой провалов, образованных обрушением породы.</VEE_Cenotes.description>
+  <VEE_Cenotes.label>сеноты</VEE_Cenotes.label>
+  <VEE_ColossalFauna.description>Все животные в этой местности намного крупнее обычного.</VEE_ColossalFauna.description>
+  <VEE_ColossalFauna.label>гигантская фауна</VEE_ColossalFauna.label>
+  <VEE_ContaminatedCoast.description>Участок берега, о который плещутся облучённые воды. Они отравляют мелководье и нарушают жизнь всего вокруг.</VEE_ContaminatedCoast.description>
+  <VEE_ContaminatedCoast.label>загрязнённое побережье</VEE_ContaminatedCoast.label>
+  <VEE_ContaminatedReservoir.description>Стоячий водоём, насыщенный остаточной радиацией. Его вода непригодна для питья, рыбалка опасна, а берега враждебны жизни.</VEE_ContaminatedReservoir.description>
+  <VEE_ContaminatedReservoir.label>загрязнённый водоём</VEE_ContaminatedReservoir.label>
+  <VEE_ContaminatedRiver.description>Река, заражённая остаточной радиацией. Она разносит загрязнение вниз по течению, делая воду непригодной для использования.</VEE_ContaminatedRiver.description>
+  <VEE_ContaminatedRiver.label>загрязнённая река</VEE_ContaminatedRiver.label>
+  <VEE_CoralReef.description>Большой атолл вдали от берега, окружённый кольцом растущих кораллов.</VEE_CoralReef.description>
+  <VEE_CoralReef.label>коралловый риф</VEE_CoralReef.label>
+  <VEE_CraterLake.description>Огромное кольцо скальных стен окружает спокойное тёмно-синее озеро.</VEE_CraterLake.description>
+  <VEE_CraterLake.label>кратерное озеро</VEE_CraterLake.label>
+  <VEE_DeepOreDevoid.description>Эта местность настолько бедна глубинными рудами, что их почти нет.</VEE_DeepOreDevoid.description>
+  <VEE_DeepOreDevoid.label>нет глубинных месторождений</VEE_DeepOreDevoid.label>
+  <VEE_DeepOrePoor.description>Местность бедна глубинными рудами: добыча глубинных буров снижена на 25%.</VEE_DeepOrePoor.description>
+  <VEE_DeepOrePoor.label>мало глубинных месторождений</VEE_DeepOrePoor.label>
+  <VEE_DeepOreRich.description>Местность богата глубинными рудами: добыча глубинных буров повышена на 25%.</VEE_DeepOreRich.description>
+  <VEE_DeepOreRich.label>много глубинных месторождений</VEE_DeepOreRich.label>
+  <VEE_DeepSnow.description>Регион покрыт тяжёлыми плотными слоями снега, которые затрудняют движение и приглушают звуки.</VEE_DeepSnow.description>
+  <VEE_DeepSnow.label>плотный снег</VEE_DeepSnow.label>
+  <VEE_DetachedIceberg.description>Плавающая ледяная масса, отколовшаяся от большого ледяного щита. Находится довольно далеко от берега.</VEE_DetachedIceberg.description>
+  <VEE_DetachedIceberg.label>изолированный айсберг</VEE_DetachedIceberg.label>
+  <VEE_DistressedWildlife.description>У всех животных этого региона повышена дикость.</VEE_DistressedWildlife.description>
+  <VEE_DistressedWildlife.label>встревоженная фауна</VEE_DistressedWildlife.label>
+  <VEE_DomesticatedEscapees.description>В дикой природе появляются небольшие стада сельскохозяйственных животных, например кур, свиней и коров, оставшихся от исчезнувших поселений или ферм.</VEE_DomesticatedEscapees.description>
+  <VEE_DomesticatedEscapees.label>одомашненные животные</VEE_DomesticatedEscapees.label>
+  <VEE_DriftwoodShore.description>Участок побережья, усеянный выбеленными брёвнами и обломками древесины. Приливы и штормы принесли их с далёких берегов.</VEE_DriftwoodShore.description>
+  <VEE_DriftwoodShore.label>берег с топляками</VEE_DriftwoodShore.label>
+  <VEE_DryRiver.description>Пересохший участок реки — предположительно из-за отсутствия осадков выше по течению.</VEE_DryRiver.description>
+  <VEE_DryRiver.label>высохшая река</VEE_DryRiver.label>
+  <VEE_DustBowl.description>Выжженная солнцем пустошь, заполненная пылью и сухими ветрами. Растительность почти исчезла, а нескончаемые песчаные бури делают выживание тяжёлым и беспощадным.</VEE_DustBowl.description>
+  <VEE_DustBowl.label>пылевая пустошь</VEE_DustBowl.label>
+  <VEE_DustStorms.description>Пыльные бури, мешающие обзору, в этой местности намного сильнее.</VEE_DustStorms.description>
+  <VEE_DustStorms.label>пыльные бури</VEE_DustStorms.label>
+  <VEE_EasyToTraverse.description>Рельеф этой области облегчает передвижение.</VEE_EasyToTraverse.description>
+  <VEE_EasyToTraverse.label>хорошая проходимость</VEE_EasyToTraverse.label>
+  <VEE_FeralKinship.description>У всех животных этого региона снижена дикость.</VEE_FeralKinship.description>
+  <VEE_FeralKinship.label>мирная фауна</VEE_FeralKinship.label>
+  <VEE_FertileRains.description>В этом регионе идут необычайно богатые питательными веществами дожди. Пока они идут, растения растут быстрее.</VEE_FertileRains.description>
+  <VEE_FertileRains.label>плодородные дожди</VEE_FertileRains.label>
+  <VEE_Fertility_Reduced.description>В этой области нет плодородной почвы.</VEE_Fertility_Reduced.description>
+  <VEE_Fertility_Reduced.label>неплодородная почва</VEE_Fertility_Reduced.label>
+  <VEE_FirewoodTrees.description>В этом регионе много огнедревов, приспособленных к плодородной вулканической почве.</VEE_FirewoodTrees.description>
+  <VEE_FirewoodTrees.label>пепельные деревья</VEE_FirewoodTrees.label>
+  <VEE_FloodPlains.description>Низменность, сформированная сезонными разливами. Богатая питательными веществами вода периодически выходит из берегов и отступает, оставляя плодородную почву.</VEE_FloodPlains.description>
+  <VEE_FloodPlains.label>паводковые равнины</VEE_FloodPlains.label>
+  <VEE_FrequentAuroras.description>В этой области полярные сияния происходят гораздо чаще.</VEE_FrequentAuroras.description>
+  <VEE_FrequentAuroras.label>частые полярные сияния</VEE_FrequentAuroras.label>
+  <VEE_GeomagneticStorm.description>Мощная геомагнитная буря охватывает регион и полностью отключает все электрические устройства.</VEE_GeomagneticStorm.description>
+  <VEE_GeomagneticStorm.label>геомагнитная буря</VEE_GeomagneticStorm.label>
+  <VEE_GlacialMoraine.description>Длинные гряды камня и осадочных пород, оставшиеся после отступления льда. Неровная неустойчивая земля полна водоёмов с талой ледниковой водой.</VEE_GlacialMoraine.description>
+  <VEE_GlacialMoraine.label>ледниковая морена</VEE_GlacialMoraine.label>
+  <VEE_GravelBeach.description>Суровый берег из рыхлого гравия и окатанных камней, где волны трут камни друг о друга.</VEE_GravelBeach.description>
+  <VEE_GravelBeach.label>гравийный пляж</VEE_GravelBeach.label>
+  <VEE_HardToTraverse.description>Рельеф этой области затрудняет передвижение.</VEE_HardToTraverse.description>
+  <VEE_HardToTraverse.label>затруднённая проходимость</VEE_HardToTraverse.label>
+  <VEE_IceAndFire.description>Плавающая глыба льда с действующим лавовым озером внутри. Брутальнее не бывает.</VEE_IceAndFire.description>
+  <VEE_IceAndFire.label>лёд и пламя</VEE_IceAndFire.label>
+  <VEE_IceSpires.description>Высокие узкие ледяные столбы поднимаются из мёрзлой земли, сформированные ветром и сильнейшим холодом.</VEE_IceSpires.description>
+  <VEE_IceSpires.label>ледяные шпили</VEE_IceSpires.label>
+  <VEE_IncreasedDiseases.description>Болезни встречаются в этом регионе на 25% чаще.</VEE_IncreasedDiseases.description>
+  <VEE_IncreasedDiseases.label>частые болезни</VEE_IncreasedDiseases.label>
+  <VEE_IncreasedInfestations.description>В этой области чаще происходят нападения насекомых.</VEE_IncreasedInfestations.description>
+  <VEE_IncreasedInfestations.label>потревоженные насекомые</VEE_IncreasedInfestations.label>
+  <VEE_JadeChunks.description>В этой области попадаются небольшие скопления жадеита.</VEE_JadeChunks.description>
+  <VEE_JadeChunks.label>обломки жадеита</VEE_JadeChunks.label>
+  <VEE_JadeiteMountains.description>Местная порода — минерал с высоким содержанием нефрита.</VEE_JadeiteMountains.description>
+  <VEE_JadeiteMountains.label>жадеитовые горы</VEE_JadeiteMountains.label>
+  <VEE_JaggedRocks.description>Эту область покрывает сеть узких скальных хребтов.</VEE_JaggedRocks.description>
+  <VEE_JaggedRocks.label>скальные гряды</VEE_JaggedRocks.label>
+  <VEE_LargeRiverBanks.description>Берега реки в этой области шире обычного.</VEE_LargeRiverBanks.description>
+  <VEE_LargeRiverBanks.label>широкие берега</VEE_LargeRiverBanks.label>
+  <VEE_LargerRegion.description>Эта область имеет размеры на 30% больше обычного.</VEE_LargerRegion.description>
+  <VEE_LargerRegion.label>большая площадь</VEE_LargerRegion.label>
+  <VEE_LaurelForest.description>Густой вечнозелёный лес, растущий при мягких температурах и постоянной влажности. Широколиственные деревья улавливают влагу проходящих облаков и круглый год сохраняют почву влажной и затенённой.</VEE_LaurelForest.description>
+  <VEE_LaurelForest.label>лавровый лес</VEE_LaurelForest.label>
+  <VEE_LessSolarPower.description>Солнечное облучение в этой местности слабее: выработка солнечной энергии снижена на 25%.</VEE_LessSolarPower.description>
+  <VEE_LessSolarPower.label>низкая инсоляция</VEE_LessSolarPower.label>
+  <VEE_LittoralDunes.description>Полоса плодородных дюн вдоль побережья, сформированных ветром из принесённого с моря песка.</VEE_LittoralDunes.description>
+  <VEE_LittoralDunes.label>прибрежные дюны</VEE_LittoralDunes.label>
+  <VEE_LoneIsland.description>Большой остров, расположенный на удалении от побережья.</VEE_LoneIsland.description>
+  <VEE_LoneIsland.label>изолированный прибрежный остров</VEE_LoneIsland.label>
+  <VEE_LoneIslandWithLake.description>Большой остров вдали от берега, с пресноводным озером внутри.</VEE_LoneIslandWithLake.description>
+  <VEE_LoneIslandWithLake.label>остров с озером</VEE_LoneIslandWithLake.label>
+  <VEE_LoneIslandWithMountain.description>Большой остров вдали от берега, с высокой вершиной в центре.</VEE_LoneIslandWithMountain.description>
+  <VEE_LoneIslandWithMountain.label>возвышающийся остров</VEE_LoneIslandWithMountain.label>
+  <VEE_LushLavaFields.description>Древние лавовые потоки, рассечённые трещинами и остывшим камнем, теперь покрыты густой растительностью. Под поверхностью всё ещё сохраняется жар. Жизнь расползается по чёрному камню, создавая необычный пейзаж.</VEE_LushLavaFields.description>
+  <VEE_LushLavaFields.label>заросшие лавовые поля</VEE_LushLavaFields.label>
+  <VEE_MangroveTerrain.description>Большую часть этой местности занимают крупные соединённые между собой водоёмы с солоноватой водой.</VEE_MangroveTerrain.description>
+  <VEE_MangroveTerrain.label>прибрежные топи</VEE_MangroveTerrain.label>
+  <VEE_MangroveTrees.description>В этой местности множество мангровых деревьев, чьи корни хорошо растут в солоноватой воде.</VEE_MangroveTrees.description>
+  <VEE_MangroveTrees.label>мангровые деревья</VEE_MangroveTrees.label>
+  <VEE_MarineSanctuary.description>В этой области чаще встречаются прибрежные животные.</VEE_MarineSanctuary.description>
+  <VEE_MarineSanctuary.label>обилие морских животных</VEE_MarineSanctuary.label>
+  <VEE_MechanoidShipChunks.description>По этому региону разбросаны обломки разбившегося корабля механоидов.</VEE_MechanoidShipChunks.description>
+  <VEE_MechanoidShipChunks.label>обломки корабля механоидов</VEE_MechanoidShipChunks.label>
+  <VEE_Megafauna.description>В этом регионе много представителей мегафауны, возвращённых к жизни с помощью генной инженерии.</VEE_Megafauna.description>
+  <VEE_Megafauna.label>обилие мегафауны</VEE_Megafauna.label>
+  <VEE_MeteorCrater.description>Огромный след удара с острыми скальными краями и котловиной, усеянной обломками.</VEE_MeteorCrater.description>
+  <VEE_MeteorCrater.label>метеоритный кратер</VEE_MeteorCrater.label>
+  <VEE_Microfauna.description>Все животные в этой местности намного мельче обычного.</VEE_Microfauna.description>
+  <VEE_Microfauna.label>миниатюрная фауна</VEE_Microfauna.label>
+  <VEE_MigratoryHerds.description>Эту область периодически пересекают мигрирующие стада животных.</VEE_MigratoryHerds.description>
+  <VEE_MigratoryHerds.label>мигрирующие стада</VEE_MigratoryHerds.label>
+  <VEE_MineableComponentSpacer.description>В этой области есть залежи продвинутых древних механизмов, из которых можно добывать продвинутые компоненты.</VEE_MineableComponentSpacer.description>
+  <VEE_MineableComponentSpacer.label>залежи продвинутых компонентов</VEE_MineableComponentSpacer.label>
+  <VEE_MineralDevoid.label>отсутствие минералов</VEE_MineralDevoid.label>
+  <VEE_Moor.description>Открытая местность, продуваемая ветрами. Низкие кустарники и травы растут на переувлажнённой почве. Торфяная земля неровна из-за постоянного воздействия стихии и плохого отвода воды.</VEE_Moor.description>
+  <VEE_Moor.label>болото</VEE_Moor.label>
+  <VEE_MoorFlora.description>В этом регионе много низких выносливых кустарников и трав вперемешку с искривлёнными узловатыми соснами. Все они приспособлены к кислой переувлажнённой почве и постоянному ветру.</VEE_MoorFlora.description>
+  <VEE_MoorFlora.label>болотная флора</VEE_MoorFlora.label>
+  <VEE_MoreSolarPower.description>Солнечное облучение в этой местности сильнее: выработка солнечной энергии повышена на 25%.</VEE_MoreSolarPower.description>
+  <VEE_MoreSolarPower.label>высокая инсоляция</VEE_MoreSolarPower.label>
+  <VEE_Mossy.description>В этой местности много участков почвы, покрытых мхом.</VEE_Mossy.description>
+  <VEE_Mossy.label>замшелый грунт</VEE_Mossy.label>
+  <VEE_Mycelium.description>Здесь часто встречаются разнообразные грибы, устойчивые к свету и похожие на грибы светящихся лесов.</VEE_Mycelium.description>
+  <VEE_Mycelium.label>мицелий</VEE_Mycelium.label>
+  <VEE_NaturalAerie.description>В этой области чаще встречаются летающие животные.</VEE_NaturalAerie.description>
+  <VEE_NaturalAerie.label>обилие птиц</VEE_NaturalAerie.label>
+  <VEE_NoDiseases.description>Болезни поражают этот регион крайне редко и почти не представляют угрозы.</VEE_NoDiseases.description>
+  <VEE_NoDiseases.label>отсутствие болезней</VEE_NoDiseases.label>
+  <VEE_NoTrees.description>Деревья любых видов здесь не растут естественным образом.</VEE_NoTrees.description>
+  <VEE_NoTrees.label>отсутствие деревьев</VEE_NoTrees.label>
+  <VEE_NoWind.description>В этой области почти не бывает ветра.</VEE_NoWind.description>
+  <VEE_NoWind.label>отсутствие ветра</VEE_NoWind.label>
+  <VEE_NobleSteeds.description>В этой области появляются лошади и ослы.</VEE_NobleSteeds.description>
+  <VEE_NobleSteeds.label>обилие скакунов</VEE_NobleSteeds.label>
+  <VEE_ObsidianChunks.description>В этой области попадаются небольшие обломки обсидиана.</VEE_ObsidianChunks.description>
+  <VEE_ObsidianChunks.label>обломки обсидиана</VEE_ObsidianChunks.label>
+  <VEE_PebbleDunes.description>Невысокие дюны из окатанной гальки, сформированные постоянным ветром и подвижным грунтом.</VEE_PebbleDunes.description>
+  <VEE_PebbleDunes.label>галечные дюны</VEE_PebbleDunes.label>
+  <VEE_PermafrostBasin.description>Неглубокая котловина, где под тонким оттаивающим поверхностным слоем земля остаётся вечно мёрзлой.</VEE_PermafrostBasin.description>
+  <VEE_PermafrostBasin.label>котловина вечной мерзлоты</VEE_PermafrostBasin.label>
+  <VEE_PlantLife_Decimated.description>В этой области растительность встречается крайне редко.</VEE_PlantLife_Decimated.description>
+  <VEE_PlantLife_Decimated.label>редкая растительность</VEE_PlantLife_Decimated.label>
+  <VEE_PlantLife_Overgrown.description>В этой области растительность чрезвычайно обильна.</VEE_PlantLife_Overgrown.description>
+  <VEE_PlantLife_Overgrown.label>густые заросли</VEE_PlantLife_Overgrown.label>
+  <VEE_PlentifulGrass.description>Эта область отличается обилием травы.</VEE_PlentifulGrass.description>
+  <VEE_PlentifulGrass.label>обилие трав</VEE_PlentifulGrass.label>
+  <VEE_PoisonousFlora.description>Сбор любых растений в этой местности вызывает накопление токсинов. Посевы, высаженные поселенцами, не затрагиваются.</VEE_PoisonousFlora.description>
+  <VEE_PoisonousFlora.label>ядовитая флора</VEE_PoisonousFlora.label>
+  <VEE_QuicksandDunes.description>Безжизненный простор песка и неглубоких зыбучих песков, затрудняющих движение. Крайне негостеприимная местность.</VEE_QuicksandDunes.description>
+  <VEE_QuicksandDunes.label>зыбучие дюны</VEE_QuicksandDunes.label>
+  <VEE_QuicksandPits.description>В этом регионе есть участки неглубоких зыбучих песков, затрудняющих движение.</VEE_QuicksandPits.description>
+  <VEE_QuicksandPits.label>зыбучие пески</VEE_QuicksandPits.label>
+  <VEE_RagingWind.description>В этой местности ветры необычайно сильны.</VEE_RagingWind.description>
+  <VEE_RagingWind.label>яростные ветра</VEE_RagingWind.label>
+  <VEE_RedDesert.description>Обширная пустыня из богатого железом песка, окрашенного в красный цвет медленным разрушением древней породы.</VEE_RedDesert.description>
+  <VEE_RedDesert.label>красная пустыня</VEE_RedDesert.label>
+  <VEE_RedDesertPlants.description>В этом регионе встречаются кактусы, приспособленные к красным пескам.</VEE_RedDesertPlants.description>
+  <VEE_RedDesertPlants.label>кактусы красной пустыни</VEE_RedDesertPlants.label>
+  <VEE_ReducedDiseases.description>Болезни встречаются в этом регионе на 25% реже.</VEE_ReducedDiseases.description>
+  <VEE_ReducedDiseases.label>редкие болезни</VEE_ReducedDiseases.label>
+  <VEE_ReducedPredators.description>Животные-хищники встречаются здесь в меньшем количестве.</VEE_ReducedPredators.description>
+  <VEE_ReducedPredators.label>мало хищников</VEE_ReducedPredators.label>
+  <VEE_ReducedPrey.description>Животные, служащие добычей хищников, встречаются здесь в меньшем количестве.</VEE_ReducedPrey.description>
+  <VEE_ReducedPrey.label>мало добычи</VEE_ReducedPrey.label>
+  <VEE_RelictDelta.description>Веер высохших русел и илистых отложений, сформированный рекой, которая когда-то давно разветвлялась и текла здесь.</VEE_RelictDelta.description>
+  <VEE_RelictDelta.label>реликтовая дельта</VEE_RelictDelta.label>
+  <VEE_ResurgentCaldera.description>Древняя область вулканического обрушения с крутыми стенами кратера, скальным куполом в центре и следами прошлых извержений.</VEE_ResurgentCaldera.description>
+  <VEE_ResurgentCaldera.label>кальдера с возрождающимся куполом</VEE_ResurgentCaldera.label>
+  <VEE_RisingWaters.description>Совершенно плоская прибрежная равнина, где приливы заходят далеко вглубь суши. Обширные участки регулярно затапливаются.</VEE_RisingWaters.description>
+  <VEE_RisingWaters.label>поднимающиеся воды</VEE_RisingWaters.label>
+  <VEE_RockRidge.description>Скальный хребет, разделяющий область на две части.</VEE_RockRidge.description>
+  <VEE_RockRidge.label>скалистый хребет</VEE_RockRidge.label>
+  <VEE_RodentPlagues.description>Эта область заражена крысами.</VEE_RodentPlagues.description>
+  <VEE_RodentPlagues.label>обилие грызунов</VEE_RodentPlagues.label>
+  <VEE_RotstinkVents.description>Зловонные гейзеры время от времени изрыгают облака трупных миазмов. Воздух становится удушливым от запаха разложения.</VEE_RotstinkVents.description>
+  <VEE_RotstinkVents.label>гейзеры трупного газа</VEE_RotstinkVents.label>
+  <VEE_RottenStench.description>Из земли сочатся едкие испарения. Воздух наполняется зловонием, которое обжигает лёгкие и портит настроение.</VEE_RottenStench.description>
+  <VEE_RottenStench.label>гнилостная вонь</VEE_RottenStench.label>
+  <VEE_SaltPlains.description>Высохшее дно внутреннего океана. Бесплодно, передвигаться по нему трудно.</VEE_SaltPlains.description>
+  <VEE_SaltPlains.label>соляные равнины</VEE_SaltPlains.label>
+  <VEE_Sandstorms.description>В этой области песчаные бури случаются гораздо чаще.</VEE_Sandstorms.description>
+  <VEE_Sandstorms.label>песчаные бури</VEE_Sandstorms.label>
+  <VEE_SerpentineCanyons.description>Движение земной коры образовало в этой горе несколько глубоких трещин.</VEE_SerpentineCanyons.description>
+  <VEE_SerpentineCanyons.label>извилистые каньоны</VEE_SerpentineCanyons.label>
+  <VEE_Sinkholes.description>В этом регионе несколько обвалов грунта образовали глубокие неустойчивые ямы, часто обнажающие лежащую под почвой скалу.</VEE_Sinkholes.description>
+  <VEE_Sinkholes.label>провалы</VEE_Sinkholes.label>
+  <VEE_SkygazingSpot.description>Безмятежное атмосферное явление побуждает поселенцев чаще любоваться небом. Повышает вероятность этого занятия и удовольствие от него.</VEE_SkygazingSpot.description>
+  <VEE_SkygazingSpot.label>звёздное небо</VEE_SkygazingSpot.label>
+  <VEE_SmallerRegion.description>Эта область имеет размеры на 30% меньше обычного.</VEE_SmallerRegion.description>
+  <VEE_SmallerRegion.label>маленькая площадь</VEE_SmallerRegion.label>
+  <VEE_SmokeVents.description>Тлеющие трещины время от времени выдыхают густой едкий дым. Он снижает видимость и душит лёгкие.</VEE_SmokeVents.description>
+  <VEE_SmokeVents.label>дымовые гейзеры</VEE_SmokeVents.label>
+  <VEE_StagnantRivulet.description>Медленная река, в которой вода почти не движется. Её русло забито илом и мелкими заводями.</VEE_StagnantRivulet.description>
+  <VEE_StagnantRivulet.label>застойный ручей</VEE_StagnantRivulet.label>
+  <VEE_SteamGeysers_Decreased.description>В этой области не встречаются паровые гейзеры.</VEE_SteamGeysers_Decreased.description>
+  <VEE_SteamGeysers_Decreased.label>нет геотермальной активности</VEE_SteamGeysers_Decreased.label>
+  <VEE_StoneForest.description>Необычный простор высоких каменных шпилей и острых скал, поднимающихся из земли словно огромные окаменевшие деревья.</VEE_StoneForest.description>
+  <VEE_StoneForest.label>каменный лес</VEE_StoneForest.label>
+  <VEE_SulfuricLake.description>Застойное вулканическое озеро с сильным зловонным запахом серы. Вода лишь слегка токсична, зато богатая питательными веществами почва вокруг поддерживает выносливые растения, устойчивые к сере.</VEE_SulfuricLake.description>
+  <VEE_SulfuricLake.label>серное озеро</VEE_SulfuricLake.label>
+  <VEE_SulfuricRiver.description>Зловонная река несёт кислую воду, насыщенную серой. Её берега выжжены и непригодны для большинства форм жизни.</VEE_SulfuricRiver.description>
+  <VEE_SulfuricRiver.label>серная река</VEE_SulfuricRiver.label>
+  <VEE_TornadoAlley.description>Частые сильные смерчи проносятся по этому региону и угрожают поселению.</VEE_TornadoAlley.description>
+  <VEE_TornadoAlley.label>зона смерчей</VEE_TornadoAlley.label>
+  <VEE_ToxicCrater.description>Развороченное кольцо камней окружает стоячий зловонный водоём. Вода слабо светится...</VEE_ToxicCrater.description>
+  <VEE_ToxicCrater.label>токсичный кратер</VEE_ToxicCrater.label>
+  <VEE_ToxicVents.description>Нестабильные трещины периодически извергают вредный зелёный газ. Он отравляет воздух и вызывает недомогание у всех, кто его вдыхает.</VEE_ToxicVents.description>
+  <VEE_ToxicVents.label>токсичные гейзеры</VEE_ToxicVents.label>
+  <VEE_TropicalBeach.description>Тёплый прибрежный регион, сформированный постоянными приливами и сезонными штормами. Песчаные пляжи и мелководье поддерживают густую растительность вдоль берега.</VEE_TropicalBeach.description>
+  <VEE_TropicalBeach.label>тропический пляж</VEE_TropicalBeach.label>
+  <VEE_TropicalBeachFlora.description>Этот регион богат пальмами, включая деревья какао, панданы и финиковые пальмы.</VEE_TropicalBeachFlora.description>
+  <VEE_TropicalBeachFlora.label>флора тропического пляжа</VEE_TropicalBeachFlora.label>
+  <VEE_VenomousEcosystem.description>В этой области чаще встречаются ядовитые животные.</VEE_VenomousEcosystem.description>
+  <VEE_VenomousEcosystem.label>обилие ядовитых животных</VEE_VenomousEcosystem.label>
+  <VEE_VolcanicRichSoil.description>В этой местности есть участки вулканической почвы с плодородием выше среднего.</VEE_VolcanicRichSoil.description>
+  <VEE_VolcanicRichSoil.label>вулканическая почва</VEE_VolcanicRichSoil.label>
+  <VEE_VolcanicSandDesert.description>Безжизненная пустыня из чёрного вулканического песка, порождённая давно угасшими извержениями.</VEE_VolcanicSandDesert.description>
+  <VEE_VolcanicSandDesert.label>вулканическая пустыня</VEE_VolcanicSandDesert.label>
+  <VEE_VolcanicSandDesertFlora.description>Здесь растут кактусы, приспособленные к вулканическим пескам. Травы нет.</VEE_VolcanicSandDesertFlora.description>
+  <VEE_VolcanicSandDesertFlora.label>флора вулканических пустынь</VEE_VolcanicSandDesertFlora.label>
+  <VEE_Volcano.description>Гряды обугленного камня образуют край древней кальдеры, в сердце которой пылает ярость расплава.</VEE_Volcano.description>
+  <VEE_Volcano.label>вулкан</VEE_Volcano.label>
+  <VEE_WanderingCompanions.description>Животные этого региона больше привыкли к людям, поэтому между ними и поселенцами легче возникает привязанность.</VEE_WanderingCompanions.description>
+  <VEE_WanderingCompanions.label>дружелюбные компаньоны</VEE_WanderingCompanions.label>
+  <VEE_WildRice.description>Здесь могут в изобилии расти дикие растения: {0}.</VEE_WildRice.description>
+  <VEE_WildRice.label>дикий рис</VEE_WildRice.label>
+</LanguageData>

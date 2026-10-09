@@ -1,0 +1,28 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VESWW_BulletProof.description>Этот человек получает вдвое меньше урона.</VESWW_BulletProof.description>
+  <VESWW_BulletProof.label>пулестойкость</VESWW_BulletProof.label>
+  <VESWW_DeathSuperAcidifier.description>Установлен усиленный посмертный кислотник. При пленении или порабощении носитель погибает; при смерти уничтожаются его оружие, одежда и импланты.</VESWW_DeathSuperAcidifier.description>
+  <VESWW_DeathSuperAcidifier.label>усиленный посмертный кислотник</VESWW_DeathSuperAcidifier.label>
+  <VESWW_DeathSuperAcidifier.labelNoun>усиленный посмертный кислотник</VESWW_DeathSuperAcidifier.labelNoun>
+  <VESWW_IncreasedStats.description>Бонусы к показателям, которые компенсируют возрастающую сложность волн Винстона.</VESWW_IncreasedStats.description>
+  <VESWW_IncreasedStats.label>повышенные показатели</VESWW_IncreasedStats.label>
+  <VESWW_Ninja.description>Здесь никого нет. О ком вы говорите?</VESWW_Ninja.description>
+  <VESWW_Ninja.label>ниндзя</VESWW_Ninja.label>
+  <VESWW_NoPain.description>Этот человек не чувствует боли. Без боли нет победы… или как там говорят?</VESWW_NoPain.description>
+  <VESWW_NoPain.label>отсутствие боли</VESWW_NoPain.label>
+  <VESWW_Veterans.description>Движение, манипуляция, приём пищи, зрение, слух, речь, дыхание, фильтрация крови, кровообращение и метаболизм повышены на 50 процентных пунктов.</VESWW_Veterans.description>
+  <VESWW_Veterans.label>ветеран</VESWW_Veterans.label>
+  <VSEWW_AdrenalineRush.description>При здоровье ниже 75% этот персонаж становится значительно опаснее.</VSEWW_AdrenalineRush.description>
+  <VSEWW_AdrenalineRush.label>выброс адреналина</VSEWW_AdrenalineRush.label>
+  <VSEWW_Boom.description>Бум!</VSEWW_Boom.description>
+  <VSEWW_Boom.label>взрывоопасность</VSEWW_Boom.label>
+  <VSEWW_BulletSponge.description>Здоровье частей тела этого человека удвоено.</VSEWW_BulletSponge.description>
+  <VSEWW_BulletSponge.label>живучесть</VSEWW_BulletSponge.label>
+  <VSEWW_GlassCannons.description>Этот персонаж наносит гораздо больше урона, но и получает значительно больше урона.</VSEWW_GlassCannons.description>
+  <VSEWW_GlassCannons.label>стеклянная пушка</VSEWW_GlassCannons.label>
+  <VSEWW_Regenerator.description>Здоровье этого персонажа восстанавливается быстрее обычного.</VSEWW_Regenerator.description>
+  <VSEWW_Regenerator.label>регенерация</VSEWW_Regenerator.label>
+  <VSEWW_Sprinter.description>Этот человек передвигается быстрее обычного. Беги, Барри, беги!</VSEWW_Sprinter.description>
+  <VSEWW_Sprinter.label>спринтер</VSEWW_Sprinter.label>
+</LanguageData>

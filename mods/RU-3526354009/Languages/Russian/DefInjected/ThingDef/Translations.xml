@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Cooler_Over.label>настенный кондиционер</Cooler_Over.label>
+  <Cooler_Over.description>Кондиционер, который устанавливается поверх стены, сохраняя её. С одной стороны подаётся холодный воздух, с другой отводится горячий. Подходит для охлаждения помещений летом и создания морозильной камеры.</Cooler_Over.description>
+  <Blueprint_Cooler_Over.label>настенный кондиционер (проект)</Blueprint_Cooler_Over.label>
+  <Frame_Cooler_Over.label>настенный кондиционер (в процессе сборки)</Frame_Cooler_Over.label>
+  <Frame_Cooler_Over.description>Кондиционер, который устанавливается поверх стены, сохраняя её. С одной стороны подаётся холодный воздух, с другой отводится горячий. Подходит для охлаждения помещений летом и создания морозильной камеры.</Frame_Cooler_Over.description>
+  <Cooler_Over2W.label>настенный кондиционер (широкий)</Cooler_Over2W.label>
+  <Cooler_Over2W.description>Широкий кондиционер для установки поверх двойной стены без её разборки. С одной стороны подаётся холодный воздух, с другой отводится горячий. Подходит для охлаждения помещений летом и создания морозильной камеры.</Cooler_Over2W.description>
+  <Blueprint_Cooler_Over2W.label>настенный кондиционер (широкий) (проект)</Blueprint_Cooler_Over2W.label>
+  <Frame_Cooler_Over2W.label>настенный кондиционер (широкий) (в процессе сборки)</Frame_Cooler_Over2W.label>
+  <Frame_Cooler_Over2W.description>Широкий кондиционер для установки поверх двойной стены без её разборки. С одной стороны подаётся холодный воздух, с другой отводится горячий. Подходит для охлаждения помещений летом и создания морозильной камеры.</Frame_Cooler_Over2W.description>
+  <Vent_Over.label>настенная вентиляция</Vent_Over.label>
+  <Vent_Over.description>Вентиляционное отверстие для выравнивания температуры между двумя помещениями. Устанавливается поверх стены, сохраняя её; через него проходит воздух, но не люди.</Vent_Over.description>
+  <Blueprint_Vent_Over.label>настенная вентиляция (проект)</Blueprint_Vent_Over.label>
+  <Frame_Vent_Over.label>настенная вентиляция (в процессе сборки)</Frame_Vent_Over.label>
+  <Frame_Vent_Over.description>Вентиляционное отверстие для выравнивания температуры между двумя помещениями. Устанавливается поверх стены, сохраняя её; через него проходит воздух, но не люди.</Frame_Vent_Over.description>
+  <Vent_Over2W.label>настенная вентиляция (широкая)</Vent_Over2W.label>
+  <Vent_Over2W.description>Широкое вентиляционное отверстие для выравнивания температуры между двумя помещениями. Устанавливается поверх двойной стены, сохраняя её; через него проходит воздух, но не люди.</Vent_Over2W.description>
+  <Blueprint_Vent_Over2W.label>настенная вентиляция (широкая) (проект)</Blueprint_Vent_Over2W.label>
+  <Frame_Vent_Over2W.label>настенная вентиляция (широкая) (в процессе сборки)</Frame_Vent_Over2W.label>
+  <Frame_Vent_Over2W.description>Широкое вентиляционное отверстие для выравнивания температуры между двумя помещениями. Устанавливается поверх двойной стены, сохраняя её; через него проходит воздух, но не люди.</Frame_Vent_Over2W.description>
+</LanguageData>

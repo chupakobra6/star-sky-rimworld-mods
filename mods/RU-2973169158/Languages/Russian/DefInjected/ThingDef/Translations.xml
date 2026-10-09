@@ -1,0 +1,116 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AM_Aura.description>Ауры, также известные как ангелы-мстители, — ангелоподобные механоиды с шестью парящими металлическими клинками. В ближнем бою они окружают жертву смертоносным вихрем лезвий. Быстродействующие механиты позволяют им восстанавливать повреждения.
+
+&lt;color=#E5E54C&gt;В игре:&lt;/color&gt; У аур немного здоровья, но они быстро ремонтируют себя: каждые 10 тактов, то есть 1/6 секунды на обычной скорости, случайное повреждение уменьшается на 0,1.
+
+Если отключить их появление в настройках мода, вместо них будут появляться жнецы.</AM_Aura.description>
+  <AM_Aura.label>аура</AM_Aura.label>
+  <AM_Aura.tools.head.label>голова</AM_Aura.tools.head.label>
+  <AM_Aura.tools.wing_blade.label>клинок крыла</AM_Aura.tools.wing_blade.label>
+  <AM_BeamGraserCannon.verbs.Verb_ShootBeam.label>гамма-лазерная пушка</AM_BeamGraserCannon.verbs.Verb_ShootBeam.label>
+  <AM_Blitzkrieg.tools.head-0.label>голова</AM_Blitzkrieg.tools.head-0.label>
+  <AM_Blitzkrieg.tools.head-1.label>голова</AM_Blitzkrieg.tools.head-1.label>
+  <AM_Bullet_Shell_Demolisher.label>подрывной заряд</AM_Bullet_Shell_Demolisher.label>
+  <AM_Bullet_Shell_Explosive.label>осколочный снаряд</AM_Bullet_Shell_Explosive.label>
+  <AM_CryoBullet.label>криогенная гранула</AM_CryoBullet.label>
+  <AM_CryogenicGun.description>Оружие, стреляющее замороженными гранулами или жидким азотом. Быстро охлаждает цель, замораживая или обездвиживая её. Урон от обморожения игнорирует броню.</AM_CryogenicGun.description>
+  <AM_CryogenicGun.label>криогенная пушка</AM_CryogenicGun.label>
+  <AM_CryogenicGun.tools.barrel.label>ствол</AM_CryogenicGun.tools.barrel.label>
+  <AM_CryogenicGun.verbs.Verb_Shoot.label>криогенная пушка</AM_CryogenicGun.verbs.Verb_Shoot.label>
+  <AM_Daggersnout.description>Быстрый насекомоподобный боевой механоид с острым клинком на голове. Уступает в опасности другим бойцам ближнего боя, например жнецам, зато обычно появляется большими группами.
+
+&lt;color=#E5E54C&gt;В игре:&lt;/color&gt; Если отключить его появление в настройках мода, вместо него будут появляться жнецы.</AM_Daggersnout.description>
+  <AM_Daggersnout.label>кинжалорыл</AM_Daggersnout.label>
+  <AM_Daggersnout.tools.head.label>голова</AM_Daggersnout.tools.head.label>
+  <AM_Daggersnout.tools.snout_blade.label>клинок на рыле</AM_Daggersnout.tools.snout_blade.label>
+  <AM_Demolisher.description>Странный механоид, похожий на помесь глубоководного краба, крота-звездоноса и бронемашины. Его опасная турель ближнего боя выпускает подрывные заряды, способные разрушить даже самую прочную стену за два-три попадания. Проломив внешнюю оборону колонии, он огромными усиленными пласталью клешнями быстро расправляется с теми, кто остался на пути.
+
+&lt;color=#E5E54C&gt;В игре:&lt;/color&gt; Появляется только в налётах с проломом стен как альтернатива термиту. Если отключить его появление в настройках мода, вместо него будут появляться термиты.</AM_Demolisher.description>
+  <AM_Demolisher.label>разрушитель</AM_Demolisher.label>
+  <AM_Demolisher.tools.mechanoid_claws.label>механические клешни</AM_Demolisher.tools.mechanoid_claws.label>
+  <AM_DemolisherChargeBase.description>Огромная турель на механоиде. Выпускает мощные подрывные заряды, способные уничтожать даже хорошо бронированные укрепления. Разумеется, живым существам тоже лучше не попадаться под выстрел.</AM_DemolisherChargeBase.description>
+  <AM_DemolisherChargeBase.label>подрывное орудие</AM_DemolisherChargeBase.label>
+  <AM_DemolisherChargeBase.verbs.Verb_Shoot.label>подрывное орудие</AM_DemolisherChargeBase.verbs.Verb_Shoot.label>
+  <AM_Fireworm.description>Огромный механический червь с опасным огнемётом на химтопливе. Оружие бьёт совсем недалеко — не подпускайте огнечервя к укреплениям!
+
+Внешне он напоминает морозного бегемота. Совпадение? Или механоиды берут живых существ за образец для своих машин? Если так, то лучше не знать, как выглядит биологический жнец...
+
+&lt;color=#E5E54C&gt;В игре:&lt;/color&gt; При гибели взрывается, нанося 15 единиц взрывного урона в радиусе 1,9 клетки.
+
+Если отключить его появление в настройках мода, вместо него будут появляться драгуны.</AM_Fireworm.description>
+  <AM_Fireworm.label>огнечервь</AM_Fireworm.label>
+  <AM_Fireworm.tools.head.label>голова</AM_Fireworm.tools.head.label>
+  <AM_Flamethrower.description>Огнемёт на химтопливе. Бьёт недалеко, но если подпустить огнечервя, пожары выйдут из-под контроля.</AM_Flamethrower.description>
+  <AM_Flamethrower.label>огнемёт</AM_Flamethrower.label>
+  <AM_Flamethrower.tools.barrel.label>ствол</AM_Flamethrower.tools.barrel.label>
+  <AM_Flamethrower.verbs.Verb_Shoot.label>огнемёт</AM_Flamethrower.verbs.Verb_Shoot.label>
+  <AM_FlamethrowerBullet.label>горящее химтопливо</AM_FlamethrowerBullet.label>
+  <AM_FrostPuff.label>морозный воздух</AM_FrostPuff.label>
+  <AM_Goliath.description>Тяжёлый боевой механоид с человекоподобным телом. Быстрее сентипеды и обычно вооружён тяжёлым механоидным оружием или игломётом.
+
+&lt;color=#E5E54C&gt;В игре:&lt;/color&gt; Быстрее сентипеды, но уступает ей в огневой мощи. Выращенный игроком голиаф получает способность «Сменить оружие», позволяющую выбирать между зарядным бластером и игломётом. Если отключить его появление в настройках мода, вместо него будут появляться пулемётные сентипеды.</AM_Goliath.description>
+  <AM_Goliath.label>голиаф</AM_Goliath.label>
+  <AM_Goliath.tools.head.label>голова</AM_Goliath.tools.head.label>
+  <AM_Gun_AcidSpewer.verbs.Verb_Shoot.label>кислотомёт</AM_Gun_AcidSpewer.verbs.Verb_Shoot.label>
+  <AM_Gun_CoilLance.verbs.Verb_Shoot.label>электромагнитное копьё</AM_Gun_CoilLance.verbs.Verb_Shoot.label>
+  <AM_Gun_GoliathChargeBlaster.description>Скорострельный импульсный бластер для подавления противника огнём по площади. Мощное охлаждение позволяет стрелять длинными смертоносными очередями.</AM_Gun_GoliathChargeBlaster.description>
+  <AM_Gun_GoliathChargeBlaster.label>зарядный бластер голиафа</AM_Gun_GoliathChargeBlaster.label>
+  <AM_Gun_GoliathChargeBlaster.tools.barrel.label>ствол</AM_Gun_GoliathChargeBlaster.tools.barrel.label>
+  <AM_Gun_GoliathChargeBlaster.verbs.Verb_Shoot.label>зарядный бластер голиафа</AM_Gun_GoliathChargeBlaster.verbs.Verb_Shoot.label>
+  <AM_Gun_GoliathNeedle.description>Дальнобойное оружие механоидов, названное по форме снарядов. Ведёт очень точный одиночный огонь. Уступает зарядному оружию по урону, зато стреляет на огромные расстояния.</AM_Gun_GoliathNeedle.description>
+  <AM_Gun_GoliathNeedle.label>игломёт голиафа</AM_Gun_GoliathNeedle.label>
+  <AM_Gun_GoliathNeedle.tools.barrel.label>ствол</AM_Gun_GoliathNeedle.tools.barrel.label>
+  <AM_Gun_GoliathNeedle.verbs.Verb_Shoot.label>игломёт голиафа</AM_Gun_GoliathNeedle.verbs.Verb_Shoot.label>
+  <AM_Gun_HellsphereOrbital.verbs.Verb_Shoot.label>целеуказатель орбитального удара</AM_Gun_HellsphereOrbital.verbs.Verb_Shoot.label>
+  <AM_Gun_MiniNeedle.verbs.Verb_Shoot.label>мини-игломёт</AM_Gun_MiniNeedle.verbs.Verb_Shoot.label>
+  <AM_Gun_SniperTurret.verbs.Verb_Shoot.label>снайперская турель</AM_Gun_SniperTurret.verbs.Verb_Shoot.label>
+  <AM_Gun_SoulDrainTurret.verbs.Verb_Shoot.label>турель апоптоза</AM_Gun_SoulDrainTurret.verbs.Verb_Shoot.label>
+  <AM_Gun_SuperHeavyChargeBlaster.verbs.Verb_Shoot.label>сверхтяжёлый зарядный бластер</AM_Gun_SuperHeavyChargeBlaster.verbs.Verb_Shoot.label>
+  <AM_Gun_TacticalShotgun.tools.barrel.label>ствол</AM_Gun_TacticalShotgun.tools.barrel.label>
+  <AM_Gun_TacticalShotgun.verbs.Verb_Shoot.label>тактический дробовик</AM_Gun_TacticalShotgun.verbs.Verb_Shoot.label>
+  <AM_HeatGlow.label>частица</AM_HeatGlow.label>
+  <AM_Mech_Guttersnipe.tools.head-0.label>голова</AM_Mech_Guttersnipe.tools.head-0.label>
+  <AM_Mech_Guttersnipe.tools.head-1.label>голова</AM_Mech_Guttersnipe.tools.head-1.label>
+  <AM_Mech_MasterChef.tools.head.label>голова</AM_Mech_MasterChef.tools.head.label>
+  <AM_Mech_Optio.tools.head.label>голова</AM_Mech_Optio.tools.head.label>
+  <AM_Mech_Optio.tools.left_fist.label>левый кулак</AM_Mech_Optio.tools.left_fist.label>
+  <AM_Mech_Optio.tools.left_fist.labelNoLocation>кулак</AM_Mech_Optio.tools.left_fist.labelNoLocation>
+  <AM_Mech_Optio.tools.right_fist.label>правый кулак</AM_Mech_Optio.tools.right_fist.label>
+  <AM_Mech_Optio.tools.right_fist.labelNoLocation>кулак</AM_Mech_Optio.tools.right_fist.labelNoLocation>
+  <AM_Mech_Polychoron.tools.head.label>голова</AM_Mech_Polychoron.tools.head.label>
+  <AM_Mech_Polychoron.tools.left_fist.label>левый кулак</AM_Mech_Polychoron.tools.left_fist.label>
+  <AM_Mech_Polychoron.tools.left_fist.labelNoLocation>кулак</AM_Mech_Polychoron.tools.left_fist.labelNoLocation>
+  <AM_Mech_Polychoron.tools.right_fist.label>правый кулак</AM_Mech_Polychoron.tools.right_fist.label>
+  <AM_Mech_Polychoron.tools.right_fist.labelNoLocation>кулак</AM_Mech_Polychoron.tools.right_fist.labelNoLocation>
+  <AM_Mech_TurboCleaner.tools.head-0.label>голова</AM_Mech_TurboCleaner.tools.head-0.label>
+  <AM_Mech_TurboCleaner.tools.head-1.label>голова</AM_Mech_TurboCleaner.tools.head-1.label>
+  <AM_MechanoidGunRotaryNeedle.tools.barrel.label>ствол</AM_MechanoidGunRotaryNeedle.tools.barrel.label>
+  <AM_MechanoidGunRotaryNeedle.verbs.Verb_Shoot.label>роторный игломёт</AM_MechanoidGunRotaryNeedle.verbs.Verb_Shoot.label>
+  <AM_MechanoidMortar.verbs.Verb_Shoot.label>миномёт</AM_MechanoidMortar.verbs.Verb_Shoot.label>
+  <AM_Mote_BloodPuff.label>частица</AM_Mote_BloodPuff.label>
+  <AM_Mote_GraserBeamBase.label>частица</AM_Mote_GraserBeamBase.label>
+  <AM_Mote_HellsphereCannon_Aim.label>частица</AM_Mote_HellsphereCannon_Aim.label>
+  <AM_Mote_HellsphereCannon_Target.label>частица</AM_Mote_HellsphereCannon_Target.label>
+  <AM_Phalanx.description>Громадный механоид с телом жука-носорога. Под пласталевым панцирем скрывается мощная криогенная установка, непрерывно производящая гранулы уплотнённого переохлаждённого газа. Механоид выстреливает ими из отверстия в голове.
+
+Это криогенное оружие бьёт недалеко, но крайне опасно для существ, подверженных обморожению.
+
+&lt;color=#E5E54C&gt;В игре:&lt;/color&gt; При гибели взрывается, нанося 10 единиц урона от обморожения в радиусе 2,9 клетки.
+
+Если отключить её появление в настройках мода, вместо неё будут появляться драгуны.</AM_Phalanx.description>
+  <AM_Phalanx.label>фаланга</AM_Phalanx.label>
+  <AM_Phalanx.tools.head.label>голова</AM_Phalanx.tools.head.label>
+  <AM_Siegebreaker.description>Особенно опасный танкоподобный механоид с пушкой, стреляющей разрывными снарядами. Обнаруживает противника за сотни метров и способен методично уничтожить даже самые крепкие укрепления. Передвигается невероятно медленно и долго готовится к следующему выстрелу, но обычно его стоит уничтожать в первую очередь.
+
+&lt;color=#E5E54C&gt;В игре:&lt;/color&gt; Стреляет с огромного расстояния, но требует прямой видимости. Это позволяет выманить его на ближнюю дистанцию, где пушка почти бесполезна. Если отключить его появление в настройках мода, вместо него будут появляться пулемётные сентипеды.</AM_Siegebreaker.description>
+  <AM_Siegebreaker.label>осадный разрушитель</AM_Siegebreaker.label>
+  <AM_Siegebreaker.tools.head.label>голова</AM_Siegebreaker.tools.head.label>
+  <AM_SiegebreakerTurret.description>Огромная турель, стреляющая разрывными боеголовками.</AM_SiegebreakerTurret.description>
+  <AM_SiegebreakerTurret.label>осадная турель</AM_SiegebreakerTurret.label>
+  <AM_SiegebreakerTurret.tools.barrel.label>ствол</AM_SiegebreakerTurret.tools.barrel.label>
+  <AM_SiegebreakerTurret.verbs.Verb_Shoot.label>осадная турель</AM_SiegebreakerTurret.verbs.Verb_Shoot.label>
+  <AM_SiegemelterTurret.verbs.Verb_Shoot.label>осадный огнемёт</AM_SiegemelterTurret.verbs.Verb_Shoot.label>
+  <AM_StarfireTurret.verbs.Verb_Shoot.label>пушка «Звёздный огонь»</AM_StarfireTurret.verbs.Verb_Shoot.label>
+  <AM_TeslaGun.verbs.Verb_Shoot.label>цепная пушка Теслы</AM_TeslaGun.verbs.Verb_Shoot.label>
+</LanguageData>

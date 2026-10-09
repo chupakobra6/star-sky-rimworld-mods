@@ -1,0 +1,496 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VEE_NamerLandmark_AbandonedFarmlands.rulePack.rulesStrings>
+    <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
+    <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
+    <li>r_name(p=0.2)-&gt;[terrain_word] [NamePerson_gen]</li>
+    <li>terrain_word(p=2)-&gt;покинутые пашни</li>
+    <li>terrain_word-&gt;заброшенные поля</li>
+    <li>terrain_word-&gt;покинутые поля</li>
+    <li>terrain_word-&gt;заросшие фермы</li>
+    <li>terrain_word-&gt;невозделанные поля</li>
+  </VEE_NamerLandmark_AbandonedFarmlands.rulePack.rulesStrings>
+  <VEE_NamerLandmark_AlluvialFan.rulePack.rulesStrings>
+    <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
+    <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
+    <li>r_name(p=0.2)-&gt;[terrain_word] [NamePerson_gen]</li>
+    <li>terrain_word(p=2)-&gt;конус выноса</li>
+    <li>terrain_word-&gt;наносной конус</li>
+    <li>terrain_word-&gt;осадочные низины</li>
+    <li>terrain_word-&gt;наносные равнины</li>
+  </VEE_NamerLandmark_AlluvialFan.rulePack.rulesStrings>
+  <VEE_NamerLandmark_AnimaCoast.rulePack.rulesStrings>
+    <li>r_name(p=0.2)-&gt;[terrain_word] имени [NamePerson]</li>
+    <li>terrain_word(p=3)-&gt;побережье анимы</li>
+    <li>terrain_word-&gt;берег анимы</li>
+    <li>terrain_word-&gt;берег, отмеченный духами</li>
+    <li>terrain_word-&gt;берег анима-леса</li>
+    <li>terrain_word-&gt;светящаяся прибрежная роща</li>
+  </VEE_NamerLandmark_AnimaCoast.rulePack.rulesStrings>
+  <VEE_NamerLandmark_AnimaForest.rulePack.rulesStrings>
+    <li>r_name(p=0.2)-&gt;[terrain_word] имени [NamePerson]</li>
+    <li>terrain_word(p=3)-&gt;лес анимы</li>
+    <li>terrain_word(p=2)-&gt;анима-лес</li>
+    <li>terrain_word-&gt;психоактивный лес</li>
+    <li>terrain_word-&gt;роща светящихся листьев</li>
+    <li>terrain_word-&gt;шепчущие деревья анимы</li>
+    <li>terrain_word-&gt;светозарный лес</li>
+  </VEE_NamerLandmark_AnimaForest.rulePack.rulesStrings>
+  <VEE_NamerLandmark_AuburnForest.rulePack.rulesStrings>
+    <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
+    <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
+    <li>terrain_word-&gt;пожелтевший лес</li>
+    <li>terrain_word-&gt;осенний лес</li>
+    <li>terrain_word-&gt;осенняя роща</li>
+    <li>terrain_word-&gt;пожелтевшая роща</li>
+    <li>terrain_word-&gt;осенняя чаща</li>
+  </VEE_NamerLandmark_AuburnForest.rulePack.rulesStrings>
+  <VEE_NamerLandmark_BasaltCape.rulePack.rulesStrings>
+    <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
+    <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
+    <li>terrain_word-&gt;базальтовый мыс</li>
+    <li>terrain_word-&gt;базальтовый утёс</li>
+    <li>terrain_word-&gt;базальтовые утёсы</li>
+    <li>terrain_word-&gt;вулканические скалы</li>
+    <li>terrain_word-&gt;базальтовые скалы</li>
+  </VEE_NamerLandmark_BasaltCape.rulePack.rulesStrings>
+  <VEE_NamerLandmark_BloomingFields.rulePack.rulesStrings>
+    <li>r_name(p=0.2)-&gt;[terrain_word] имени [NamePerson]</li>
+    <li>terrain_word(p=2)-&gt;луговое разноцветье</li>
+    <li>terrain_word-&gt;цветущее поле</li>
+    <li>terrain_word-&gt;цветочная равнина</li>
+    <li>terrain_word-&gt;луг под ковром лепестков</li>
+  </VEE_NamerLandmark_BloomingFields.rulePack.rulesStrings>
+  <VEE_NamerLandmark_BurnedForest.rulePack.rulesStrings>
+    <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
+    <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
+    <li>r_name(p=0.2)-&gt;[terrain_word] [NamePerson_gen]</li>
+    <li>terrain_word(p=2)-&gt;сгоревший лес</li>
+    <li>terrain_word-&gt;обугленный лес</li>
+    <li>terrain_word-&gt;выжженный лес</li>
+    <li>terrain_word-&gt;сгоревшая роща</li>
+  </VEE_NamerLandmark_BurnedForest.rulePack.rulesStrings>
+  <VEE_NamerLandmark_CactusFields.rulePack.rulesStrings>
+    <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
+    <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
+    <li>r_name(p=0.2)-&gt;[terrain_word] [NamePerson_gen]</li>
+    <li>terrain_word(p=2)-&gt;кактусовое поле</li>
+    <li>terrain_word-&gt;сад ксерофитов</li>
+    <li>terrain_word-&gt;кактусовая пустыня</li>
+    <li>terrain_word-&gt;колючие поля</li>
+    <li>terrain_word-&gt;колючее поле</li>
+    <li>terrain_word-&gt;колючая пустыня</li>
+  </VEE_NamerLandmark_CactusFields.rulePack.rulesStrings>
+  <VEE_NamerLandmark_CalmBasin.rulePack.rulesStrings>
+    <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
+    <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
+    <li>terrain_word(p=3)-&gt;тихая котловина</li>
+    <li>terrain_word-&gt;безмолвная котловина</li>
+    <li>terrain_word-&gt;безветренная лощина</li>
+  </VEE_NamerLandmark_CalmBasin.rulePack.rulesStrings>
+  <VEE_NamerLandmark_Canyons.rulePack.rulesStrings>
+    <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
+    <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
+    <li>r_name(p=0.2)-&gt;[terrain_word] [NamePerson_gen]</li>
+    <li>terrain_word(p=2)-&gt;каньоны</li>
+  </VEE_NamerLandmark_Canyons.rulePack.rulesStrings>
+  <VEE_NamerLandmark_Cenotes.rulePack.rulesStrings>
+    <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
+    <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
+    <li>terrain_word-&gt;край сенотов</li>
+    <li>terrain_word-&gt;сенотные озёра</li>
+    <li>terrain_word-&gt;водоёмы в известняковых провалах</li>
+    <li>terrain_word-&gt;сеноты, полные воды</li>
+    <li>terrain_word-&gt;карстовые впадины</li>
+  </VEE_NamerLandmark_Cenotes.rulePack.rulesStrings>
+  <VEE_NamerLandmark_CentralLakeIsland.rulePack.rulesStrings>
+    <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
+    <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
+    <li>terrain_word(p=3)-&gt;озёрный остров</li>
+    <li>terrain_word-&gt;остров водной глади</li>
+    <li>terrain_word-&gt;остров внутреннего озера</li>
+    <li>terrain_word-&gt;остров с озером</li>
+  </VEE_NamerLandmark_CentralLakeIsland.rulePack.rulesStrings>
+  <VEE_NamerLandmark_ContaminatedCoast.rulePack.rulesStrings>
+    <li>r_name(p=0.2)-&gt;[terrain_word] имени [NamePerson]</li>
+    <li>terrain_word(p=2)-&gt;заражённое побережье</li>
+    <li>terrain_word-&gt;облучённый берег</li>
+    <li>terrain_word-&gt;радиоактивное мелководье</li>
+    <li>terrain_word-&gt;берег светящейся воды</li>
+    <li>terrain_word-&gt;радиоактивный пляж</li>
+  </VEE_NamerLandmark_ContaminatedCoast.rulePack.rulesStrings>
+  <VEE_NamerLandmark_ContaminatedReservoir.rulePack.rulesStrings>
+    <li>r_name(p=0.2)-&gt;[terrain_word] имени [NamePerson]</li>
+    <li>terrain_word(p=2)-&gt;заражённый водоём</li>
+    <li>terrain_word-&gt;облучённое озеро</li>
+    <li>terrain_word-&gt;радиоактивные воды</li>
+    <li>terrain_word-&gt;котловина светящейся воды</li>
+    <li>terrain_word-&gt;радиоактивное озёрное дно</li>
+  </VEE_NamerLandmark_ContaminatedReservoir.rulePack.rulesStrings>
+  <VEE_NamerLandmark_ContaminatedRiver.rulePack.rulesStrings>
+    <li>r_name(p=0.2)-&gt;[terrain_word] имени [NamePerson]</li>
+    <li>terrain_word(p=2)-&gt;заражённая река</li>
+    <li>terrain_word-&gt;облучённая река</li>
+    <li>terrain_word-&gt;радиоактивные воды</li>
+    <li>terrain_word-&gt;ручей светящейся воды</li>
+    <li>terrain_word-&gt;радиоактивное русло</li>
+  </VEE_NamerLandmark_ContaminatedRiver.rulePack.rulesStrings>
+  <VEE_NamerLandmark_CoralReef.rulePack.rulesStrings>
+    <li>r_name(p=0.2)-&gt;[terrain_word] имени [NamePerson]</li>
+    <li>terrain_word(p=2)-&gt;коралловый риф</li>
+    <li>terrain_word-&gt;коралловая отмель</li>
+    <li>terrain_word-&gt;рифовый массив</li>
+    <li>terrain_word-&gt;барьерный риф</li>
+    <li>terrain_word-&gt;береговой риф</li>
+  </VEE_NamerLandmark_CoralReef.rulePack.rulesStrings>
+  <VEE_NamerLandmark_CradleOfLife.rulePack.rulesStrings>
+    <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
+    <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
+    <li>r_name(p=0.2)-&gt;[terrain_word] [NamePerson_gen]</li>
+    <li>terrain_word(p=3)-&gt;колыбель жизни</li>
+    <li>terrain_word(p=2)-&gt;котловина жизни</li>
+    <li>terrain_word-&gt;зелёная колыбель</li>
+    <li>terrain_word-&gt;пышная колыбель жизни</li>
+    <li>terrain_word-&gt;первозданная котловина</li>
+  </VEE_NamerLandmark_CradleOfLife.rulePack.rulesStrings>
+  <VEE_NamerLandmark_CraterLake.rulePack.rulesStrings>
+    <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
+    <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
+    <li>terrain_word(p=3)-&gt;кратерное озеро</li>
+    <li>terrain_word-&gt;озеро кальдеры</li>
+    <li>terrain_word-&gt;метеоритное озеро</li>
+  </VEE_NamerLandmark_CraterLake.rulePack.rulesStrings>
+  <VEE_NamerLandmark_DetachedIceberg.rulePack.rulesStrings>
+    <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
+    <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
+    <li>terrain_word-&gt;дрейфующий айсберг</li>
+    <li>terrain_word-&gt;массив пакового льда</li>
+    <li>terrain_word-&gt;плавучие льды</li>
+  </VEE_NamerLandmark_DetachedIceberg.rulePack.rulesStrings>
+  <VEE_NamerLandmark_DriftwoodShore.rulePack.rulesStrings>
+    <li>r_name(p=0.2)-&gt;[terrain_word] имени [NamePerson]</li>
+    <li>terrain_word(p=2)-&gt;берег плавника</li>
+    <li>terrain_word-&gt;побережье плавника</li>
+    <li>terrain_word-&gt;пляж корабельных обломков</li>
+    <li>terrain_word-&gt;полоса прибитых приливом брёвен</li>
+    <li>terrain_word-&gt;берег выбеленных брёвен</li>
+  </VEE_NamerLandmark_DriftwoodShore.rulePack.rulesStrings>
+  <VEE_NamerLandmark_DryRiver.rulePack.rulesStrings>
+    <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
+    <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
+    <li>terrain_word-&gt;высохшая река</li>
+    <li>terrain_word-&gt;сухое русло</li>
+    <li>terrain_word-&gt;пересохшая река</li>
+  </VEE_NamerLandmark_DryRiver.rulePack.rulesStrings>
+  <VEE_NamerLandmark_DustBowl.rulePack.rulesStrings>
+    <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
+    <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
+    <li>r_name(p=0.2)-&gt;[terrain_word] [NamePerson_gen]</li>
+    <li>terrain_word(p=2)-&gt;пылевая пустошь</li>
+    <li>terrain_word-&gt;впадина</li>
+    <li>terrain_word-&gt;высохшая пустошь</li>
+    <li>terrain_word-&gt;пыльная равнина</li>
+    <li>terrain_word-&gt;засушливая пустошь</li>
+  </VEE_NamerLandmark_DustBowl.rulePack.rulesStrings>
+  <VEE_NamerLandmark_FleshPits.rulePack.rulesStrings>
+    <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
+    <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
+    <li>terrain_word-&gt;хтонические врата</li>
+    <li>terrain_word-&gt;аномальные пещеры</li>
+    <li>terrain_word-&gt;аномальные подземные лабиринты</li>
+  </VEE_NamerLandmark_FleshPits.rulePack.rulesStrings>
+  <VEE_NamerLandmark_FloodPlains.rulePack.rulesStrings>
+    <li>r_name(p=0.2)-&gt;[terrain_word] имени [NamePerson]</li>
+    <li>terrain_word(p=2)-&gt;пойменная равнина</li>
+    <li>terrain_word-&gt;речные разливы</li>
+    <li>terrain_word-&gt;аллювиальная равнина</li>
+    <li>terrain_word-&gt;пойма сезонных разливов</li>
+    <li>terrain_word-&gt;илистые низины</li>
+  </VEE_NamerLandmark_FloodPlains.rulePack.rulesStrings>
+  <VEE_NamerLandmark_GlacialMoraine.rulePack.rulesStrings>
+    <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
+    <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
+    <li>terrain_word-&gt;ледниковая морена</li>
+    <li>terrain_word-&gt;вытолкнутый льдом гребень</li>
+    <li>terrain_word-&gt;морена, усеянная камнями</li>
+    <li>terrain_word-&gt;мёрзлые поля обломков</li>
+    <li>terrain_word-&gt;гряды ледникового щебня</li>
+  </VEE_NamerLandmark_GlacialMoraine.rulePack.rulesStrings>
+  <VEE_NamerLandmark_GravelBeach.rulePack.rulesStrings>
+    <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
+    <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
+    <li>terrain_word-&gt;гравийный берег</li>
+    <li>terrain_word-&gt;каменистый берег</li>
+    <li>terrain_word-&gt;каменистый пляж</li>
+    <li>terrain_word-&gt;галечный пляж</li>
+    <li>terrain_word-&gt;каменистое побережье</li>
+  </VEE_NamerLandmark_GravelBeach.rulePack.rulesStrings>
+  <VEE_NamerLandmark_IceAndFireIsland.rulePack.rulesStrings>
+    <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
+    <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
+    <li>terrain_word(p=3)-&gt;остров льда и пламени</li>
+    <li>terrain_word-&gt;замёрзшая кальдера</li>
+    <li>terrain_word-&gt;остров ледяного огня</li>
+    <li>terrain_word-&gt;остров ледяного вулкана</li>
+  </VEE_NamerLandmark_IceAndFireIsland.rulePack.rulesStrings>
+  <VEE_NamerLandmark_IceSpires.rulePack.rulesStrings>
+    <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
+    <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
+    <li>terrain_word-&gt;ледяные шпили</li>
+    <li>terrain_word-&gt;поле мёрзлых шпилей</li>
+    <li>terrain_word-&gt;ледниковые пики</li>
+    <li>terrain_word-&gt;равнина ледяных игл</li>
+    <li>terrain_word-&gt;заиндевелые башни</li>
+  </VEE_NamerLandmark_IceSpires.rulePack.rulesStrings>
+  <VEE_NamerLandmark_ImpactCrater.rulePack.rulesStrings>
+    <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
+    <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
+    <li>terrain_word(p=3)-&gt;ударный кратер</li>
+    <li>terrain_word-&gt;метеоритный кратер</li>
+    <li>terrain_word-&gt;ударная котловина</li>
+  </VEE_NamerLandmark_ImpactCrater.rulePack.rulesStrings>
+  <VEE_NamerLandmark_JaggedRocks.rulePack.rulesStrings>
+    <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
+    <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
+    <li>r_name(p=0.2)-&gt;[terrain_word] [NamePerson_gen]</li>
+    <li>terrain_word(p=2)-&gt;скалистые гребни</li>
+    <li>terrain_word-&gt;каменные гряды</li>
+  </VEE_NamerLandmark_JaggedRocks.rulePack.rulesStrings>
+  <VEE_NamerLandmark_LaurelForest.rulePack.rulesStrings>
+    <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
+    <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
+    <li>terrain_word-&gt;лавровый лес</li>
+    <li>terrain_word-&gt;вечнозелёный облачный лес</li>
+    <li>terrain_word-&gt;лес в пелене тумана</li>
+    <li>terrain_word-&gt;влажный вечнозелёный лес</li>
+    <li>terrain_word-&gt;вечнозелёный широколиственный лес</li>
+  </VEE_NamerLandmark_LaurelForest.rulePack.rulesStrings>
+  <VEE_NamerLandmark_LittoralDunes.rulePack.rulesStrings>
+    <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
+    <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
+    <li>terrain_word-&gt;приморские дюны</li>
+    <li>terrain_word-&gt;прибрежные песчаные дюны</li>
+    <li>terrain_word-&gt;поля береговых дюн</li>
+    <li>terrain_word-&gt;побережье, выточенное ветром</li>
+    <li>terrain_word-&gt;гряды пляжных дюн</li>
+  </VEE_NamerLandmark_LittoralDunes.rulePack.rulesStrings>
+  <VEE_NamerLandmark_LoneIsland.rulePack.rulesStrings>
+    <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
+    <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
+    <li>terrain_word(p=3)-&gt;уединённый остров</li>
+    <li>terrain_word-&gt;изолированный остров</li>
+    <li>terrain_word-&gt;отдалённый остров</li>
+    <li>terrain_word-&gt;одинокий остров</li>
+  </VEE_NamerLandmark_LoneIsland.rulePack.rulesStrings>
+  <VEE_NamerLandmark_LushLavaFields.rulePack.rulesStrings>
+    <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
+    <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
+    <li>terrain_word-&gt;цветущие лавовые поля</li>
+    <li>terrain_word-&gt;заросшая лавовая равнина</li>
+    <li>terrain_word-&gt;зелёные вулканические равнины</li>
+    <li>terrain_word-&gt;заросшие базальтовые поля</li>
+    <li>terrain_word-&gt;лавовые потоки, охваченные жизнью</li>
+  </VEE_NamerLandmark_LushLavaFields.rulePack.rulesStrings>
+  <VEE_NamerLandmark_Mangrove.rulePack.rulesStrings>
+    <li>r_name(p=0.2)-&gt;[terrain_word] имени [NamePerson]</li>
+    <li>terrain_word(p=2)-&gt;мангры</li>
+    <li>terrain_word-&gt;приливный лес</li>
+    <li>terrain_word-&gt;мангровые заросли</li>
+    <li>terrain_word-&gt;солоноватое болото</li>
+    <li>terrain_word-&gt;солончаковая чаща</li>
+    <li>terrain_word-&gt;лес солёных вод</li>
+  </VEE_NamerLandmark_Mangrove.rulePack.rulesStrings>
+  <VEE_NamerLandmark_Moor.rulePack.rulesStrings>
+    <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
+    <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
+    <li>terrain_word-&gt;болото</li>
+    <li>terrain_word-&gt;ветреное болото</li>
+    <li>terrain_word-&gt;ветреные топи</li>
+    <li>terrain_word-&gt;вересковая равнина</li>
+    <li>terrain_word-&gt;торфяное плоскогорье</li>
+  </VEE_NamerLandmark_Moor.rulePack.rulesStrings>
+  <VEE_NamerLandmark_PebbleDunes.rulePack.rulesStrings>
+    <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
+    <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
+    <li>terrain_word-&gt;галечные дюны</li>
+    <li>terrain_word-&gt;гравийные дюны</li>
+    <li>terrain_word-&gt;гравийные наносы</li>
+    <li>terrain_word-&gt;каменистые гряды</li>
+    <li>terrain_word-&gt;галечные холмы</li>
+  </VEE_NamerLandmark_PebbleDunes.rulePack.rulesStrings>
+  <VEE_NamerLandmark_PermafrostBasin.rulePack.rulesStrings>
+    <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
+    <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
+    <li>terrain_word-&gt;котловина вечной мерзлоты</li>
+    <li>terrain_word-&gt;мёрзлая низина</li>
+    <li>terrain_word-&gt;скованная льдом тундра</li>
+    <li>terrain_word-&gt;промёрзшая котловина</li>
+    <li>terrain_word-&gt;тундра вечных морозов</li>
+  </VEE_NamerLandmark_PermafrostBasin.rulePack.rulesStrings>
+  <VEE_NamerLandmark_QuicksandDunes.rulePack.rulesStrings>
+    <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
+    <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
+    <li>terrain_word(p=4)-&gt;зыбучие дюны</li>
+    <li>terrain_word-&gt;проседающие пески</li>
+    <li>terrain_word-&gt;рыхлые песчаные дюны</li>
+    <li>terrain_word-&gt;нестабильные дюны</li>
+  </VEE_NamerLandmark_QuicksandDunes.rulePack.rulesStrings>
+  <VEE_NamerLandmark_QuicksandPits.rulePack.rulesStrings>
+    <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
+    <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
+    <li>terrain_word(p=4)-&gt;зыбучие пески</li>
+    <li>terrain_word-&gt;проваливающиеся пески</li>
+    <li>terrain_word-&gt;проваливающаяся земля</li>
+    <li>terrain_word-&gt;нестабильные земли</li>
+  </VEE_NamerLandmark_QuicksandPits.rulePack.rulesStrings>
+  <VEE_NamerLandmark_RedSandDesert.rulePack.rulesStrings>
+    <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
+    <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
+    <li>terrain_word-&gt;красная пустыня</li>
+    <li>terrain_word-&gt;алая пустыня</li>
+    <li>terrain_word-&gt;красные пески</li>
+    <li>terrain_word-&gt;багровые пески</li>
+  </VEE_NamerLandmark_RedSandDesert.rulePack.rulesStrings>
+  <VEE_NamerLandmark_RelictDelta.rulePack.rulesStrings>
+    <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
+    <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
+    <li>terrain_word(p=2)-&gt;реликтовая дельта</li>
+    <li>terrain_word-&gt;древняя дельта</li>
+    <li>terrain_word-&gt;иссохшая дельта</li>
+    <li>terrain_word-&gt;илистая низина</li>
+    <li>terrain_word-&gt;разветвлённая равнина</li>
+  </VEE_NamerLandmark_RelictDelta.rulePack.rulesStrings>
+  <VEE_NamerLandmark_ResurgentCaldera.rulePack.rulesStrings>
+    <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
+    <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
+    <li>terrain_word(p=3)-&gt;возвышающаяся кальдера</li>
+    <li>terrain_word-&gt;приподнятая кальдера</li>
+    <li>terrain_word-&gt;кальдера с центральным куполом</li>
+  </VEE_NamerLandmark_ResurgentCaldera.rulePack.rulesStrings>
+  <VEE_NamerLandmark_ResurgentIsland.rulePack.rulesStrings>
+    <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
+    <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
+    <li>terrain_word(p=3)-&gt;возвышающийся остров</li>
+    <li>terrain_word-&gt;вздымающийся остров</li>
+    <li>terrain_word-&gt;остров с горной вершиной</li>
+    <li>terrain_word-&gt;выступающий остров</li>
+  </VEE_NamerLandmark_ResurgentIsland.rulePack.rulesStrings>
+  <VEE_NamerLandmark_Ridges.rulePack.rulesStrings>
+    <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
+    <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
+    <li>terrain_word(p=4)-&gt;горный хребет</li>
+    <li>terrain_word-&gt;хребет</li>
+    <li>terrain_word-&gt;скалистый хребет</li>
+  </VEE_NamerLandmark_Ridges.rulePack.rulesStrings>
+  <VEE_NamerLandmark_RisingWaters.rulePack.rulesStrings>
+    <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
+    <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
+    <li>terrain_word-&gt;поднимающиеся воды</li>
+    <li>terrain_word-&gt;приливные низины</li>
+    <li>terrain_word-&gt;затопленные низины</li>
+    <li>terrain_word-&gt;приливная пойма</li>
+    <li>terrain_word-&gt;затопленное побережье</li>
+  </VEE_NamerLandmark_RisingWaters.rulePack.rulesStrings>
+  <VEE_NamerLandmark_SaltPlains.rulePack.rulesStrings>
+    <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
+    <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
+    <li>terrain_word-&gt;соляная равнина</li>
+    <li>terrain_word-&gt;белый пустырь</li>
+    <li>terrain_word-&gt;соляной пустырь</li>
+    <li>terrain_word-&gt;солёное поле</li>
+    <li>terrain_word-&gt;белая равнина</li>
+  </VEE_NamerLandmark_SaltPlains.rulePack.rulesStrings>
+  <VEE_NamerLandmark_Sinkholes.rulePack.rulesStrings>
+    <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
+    <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
+    <li>terrain_word-&gt;карстовые провалы</li>
+    <li>terrain_word-&gt;карстовые воронки</li>
+    <li>terrain_word-&gt;подземные пустоты</li>
+    <li>terrain_word-&gt;подземные впадины</li>
+  </VEE_NamerLandmark_Sinkholes.rulePack.rulesStrings>
+  <VEE_NamerLandmark_StagnantRivulet.rulePack.rulesStrings>
+    <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
+    <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
+    <li>terrain_word(p=2)-&gt;застойный ручей</li>
+    <li>terrain_word-&gt;медленный ручей</li>
+    <li>terrain_word-&gt;застойное русло</li>
+    <li>terrain_word-&gt;стоячий проток</li>
+    <li>terrain_word-&gt;застойное русло</li>
+  </VEE_NamerLandmark_StagnantRivulet.rulePack.rulesStrings>
+  <VEE_NamerLandmark_StoneForest.rulePack.rulesStrings>
+    <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
+    <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
+    <li>terrain_word-&gt;роща острых камней</li>
+    <li>terrain_word-&gt;простор каменных столбов</li>
+    <li>terrain_word-&gt;поле скальных шпилей</li>
+    <li>terrain_word-&gt;расколотые монолиты</li>
+    <li>terrain_word-&gt;чаща скалистых камней</li>
+  </VEE_NamerLandmark_StoneForest.rulePack.rulesStrings>
+  <VEE_NamerLandmark_SulfuricLake.rulePack.rulesStrings>
+    <li>r_name(p=0.2)-&gt;[terrain_word] имени [NamePerson]</li>
+    <li>terrain_word(p=2)-&gt;серное озеро</li>
+    <li>terrain_word-&gt;кислотная котловина</li>
+    <li>terrain_word-&gt;серный источник</li>
+    <li>terrain_word-&gt;жгучие воды</li>
+    <li>terrain_word-&gt;вонючая заводь</li>
+    <li>terrain_word-&gt;жёлтая топь</li>
+  </VEE_NamerLandmark_SulfuricLake.rulePack.rulesStrings>
+  <VEE_NamerLandmark_SulfuricRiver.rulePack.rulesStrings>
+    <li>r_name(p=0.2)-&gt;[terrain_word] имени [NamePerson]</li>
+    <li>terrain_word(p=2)-&gt;серная река</li>
+    <li>terrain_word-&gt;кислотный ручей</li>
+    <li>terrain_word-&gt;серный поток</li>
+    <li>terrain_word-&gt;жгучие воды</li>
+    <li>terrain_word-&gt;зловонная река</li>
+    <li>terrain_word-&gt;жёлтый поток</li>
+  </VEE_NamerLandmark_SulfuricRiver.rulePack.rulesStrings>
+  <VEE_NamerLandmark_TemperateGrasslands.rulePack.rulesStrings>
+    <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
+    <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
+    <li>terrain_word-&gt;луга умеренного пояса</li>
+    <li>terrain_word-&gt;просторная равнина</li>
+    <li>terrain_word-&gt;степь умеренного пояса</li>
+    <li>terrain_word-&gt;ветреная степь</li>
+    <li>terrain_word-&gt;просторные луга</li>
+  </VEE_NamerLandmark_TemperateGrasslands.rulePack.rulesStrings>
+  <VEE_NamerLandmark_ToxicCraterLake.rulePack.rulesStrings>
+    <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
+    <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
+    <li>terrain_word(p=3)-&gt;токсичное кратерное озеро</li>
+    <li>terrain_word-&gt;отравленная кальдера</li>
+    <li>terrain_word-&gt;токсичный водоём</li>
+  </VEE_NamerLandmark_ToxicCraterLake.rulePack.rulesStrings>
+  <VEE_NamerLandmark_TropicalBeach.rulePack.rulesStrings>
+    <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
+    <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
+    <li>terrain_word-&gt;тропический пляж</li>
+    <li>terrain_word-&gt;берег с пальмами</li>
+    <li>terrain_word-&gt;тёплый прибрежный пляж</li>
+    <li>terrain_word-&gt;залитый солнцем берег</li>
+    <li>terrain_word-&gt;тропическое побережье</li>
+  </VEE_NamerLandmark_TropicalBeach.rulePack.rulesStrings>
+  <VEE_NamerLandmark_VolcanicSandDesert.rulePack.rulesStrings>
+    <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
+    <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
+    <li>terrain_word-&gt;вулканическая пустыня</li>
+    <li>terrain_word-&gt;пустыня чёрных песков</li>
+    <li>terrain_word-&gt;чёрная пустыня</li>
+    <li>terrain_word-&gt;обсидиановые пески</li>
+  </VEE_NamerLandmark_VolcanicSandDesert.rulePack.rulesStrings>
+  <VEE_NamerLandmark_Volcano.rulePack.rulesStrings>
+    <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
+    <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
+    <li>terrain_word(p=3)-&gt;вулкан</li>
+    <li>terrain_word-&gt;лавовая кальдера</li>
+    <li>terrain_word-&gt;лавовый кратер</li>
+  </VEE_NamerLandmark_Volcano.rulePack.rulesStrings>
+  <VEE_NamerLandmark_WindBlownPlateau.rulePack.rulesStrings>
+    <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
+    <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
+    <li>terrain_word-&gt;ветреное плато</li>
+    <li>terrain_word-&gt;продуваемое плато</li>
+    <li>terrain_word-&gt;открытое возвышение</li>
+    <li>terrain_word-&gt;ветреный холм</li>
+    <li>terrain_word-&gt;ветреное плоскогорье</li>
+  </VEE_NamerLandmark_WindBlownPlateau.rulePack.rulesStrings>
+</LanguageData>

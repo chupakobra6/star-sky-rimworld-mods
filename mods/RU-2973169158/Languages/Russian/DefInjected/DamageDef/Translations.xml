@@ -1,0 +1,11 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AM_AcidSpit.deathMessage>{0} {PAWN_gender ? погиб : погибла : погибло} от кислоты.</AM_AcidSpit.deathMessage>
+  <AM_AcidSpit.label>кислота</AM_AcidSpit.label>
+  <AM_FreezingBurst.deathMessage>{0} {PAWN_gender ? погиб : погибла : погибло} от обморожения.</AM_FreezingBurst.deathMessage>
+  <AM_FreezingBurst.label>ледяной взрыв</AM_FreezingBurst.label>
+  <AM_SiegeBlunt.deathMessage>{0} {PAWN_gender ? раздавлен : раздавлена : раздавлено} насмерть.</AM_SiegeBlunt.deathMessage>
+  <AM_SiegeBlunt.label>сокрушение</AM_SiegeBlunt.label>
+  <AM_SoulDrain.deathMessage>{0} {PAWN_gender ? лишён : лишена : лишено} души.</AM_SoulDrain.deathMessage>
+  <AM_SoulDrain.label>апоптоз</AM_SoulDrain.label>
+</LanguageData>

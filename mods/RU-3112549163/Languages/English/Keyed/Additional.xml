@@ -1,0 +1,11 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <chupakobra6_3112549163_CannotSkipTarget>Cannot move {PAWN_labelShort}</chupakobra6_3112549163_CannotSkipTarget>
+  <chupakobra6_3112549163_CannotSkipTargetTooLarge>Target is too large</chupakobra6_3112549163_CannotSkipTargetTooLarge>
+  <chupakobra6_3112549163_ComaCapacityDescription>The maximum number of buildings connected during special coma rest. Each building grants a benefit. Ways of increasing the limit depend on the gene.</chupakobra6_3112549163_ComaCapacityDescription>
+  <chupakobra6_3112549163_EBSG_CorrectLayer>Suitable world layer</chupakobra6_3112549163_EBSG_CorrectLayer>
+  <chupakobra6_3112549163_NeverConsumeResource>Never automatically consume resource packs.</chupakobra6_3112549163_NeverConsumeResource>
+  <chupakobra6_3112549163_Resource>Resource</chupakobra6_3112549163_Resource>
+  <chupakobra6_3112549163_ResourceDesc>Resource change when this item is consumed.</chupakobra6_3112549163_ResourceDesc>
+  <chupakobra6_3112549163_TraitRestriction>Has the forbidden trait {0}</chupakobra6_3112549163_TraitRestriction>
+</LanguageData>

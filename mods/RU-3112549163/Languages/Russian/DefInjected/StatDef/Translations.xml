@@ -1,0 +1,55 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <EBSG_BeautyFallRate.description>Изменяет скорость приближения потребности в красоте к уровню, который обеспечивает окружение. Действует, только если текущее значение потребности выше этого уровня.</EBSG_BeautyFallRate.description>
+  <EBSG_BeautyFallRate.label>скорость снижения удовлетворённости красотой</EBSG_BeautyFallRate.label>
+  <EBSG_BeautyRiseRate.description>Изменяет скорость приближения потребности в красоте к уровню, который обеспечивает окружение. Действует, только если текущее значение потребности ниже этого уровня.</EBSG_BeautyRiseRate.description>
+  <EBSG_BeautyRiseRate.label>скорость удовлетворения потребности в красоте</EBSG_BeautyRiseRate.label>
+  <EBSG_BloodlossRecoveryBonus.description>Изменяет скорость восстановления потерянной крови. При 0% кровь восстанавливается с обычной скоростью, при 100% — вдвое быстрее.</EBSG_BloodlossRecoveryBonus.description>
+  <EBSG_BloodlossRecoveryBonus.label>бонус восстановления после кровопотери</EBSG_BloodlossRecoveryBonus.label>
+  <EBSG_ComfortFallRate.description>Изменяет скорость приближения комфорта к уровню, который обеспечивают текущие условия. Действует, только если текущий комфорт выше этого уровня.</EBSG_ComfortFallRate.description>
+  <EBSG_ComfortFallRate.label>скорость снижения комфорта</EBSG_ComfortFallRate.label>
+  <EBSG_ComfortRiseRate.description>Изменяет скорость приближения комфорта к уровню, который обеспечивают текущие условия. Действует, только если текущий комфорт ниже этого уровня.</EBSG_ComfortRiseRate.description>
+  <EBSG_ComfortRiseRate.label>скорость роста комфорта</EBSG_ComfortRiseRate.label>
+  <EBSG_DamageFactor_Animal.description>Множитель урона, наносимого животным.</EBSG_DamageFactor_Animal.description>
+  <EBSG_DamageFactor_Animal.label>множитель урона по животным</EBSG_DamageFactor_Animal.label>
+  <EBSG_DamageFactor_Humanlike.description>Множитель урона, наносимого гуманоидам.</EBSG_DamageFactor_Humanlike.description>
+  <EBSG_DamageFactor_Humanlike.label>множитель урона по гуманоидам</EBSG_DamageFactor_Humanlike.label>
+  <EBSG_DamageFactor_Insect.description>Множитель урона, наносимого насекомым.</EBSG_DamageFactor_Insect.description>
+  <EBSG_DamageFactor_Insect.label>множитель урона по насекомым</EBSG_DamageFactor_Insect.label>
+  <EBSG_DamageFactor_Mechanoid.description>Множитель урона, наносимого механоидам.</EBSG_DamageFactor_Mechanoid.description>
+  <EBSG_DamageFactor_Mechanoid.label>множитель урона по механоидам</EBSG_DamageFactor_Mechanoid.label>
+  <EBSG_HungerRateFactor.description>Изменяет скорость расходования сытости.
+
+Учитывается в итоговом потреблении пищи, но из-за устройства этой характеристики не отображается отдельной строкой в её расчёте.</EBSG_HungerRateFactor.description>
+  <EBSG_HungerRateFactor.label>множитель расхода сытости</EBSG_HungerRateFactor.label>
+  <EBSG_IndoorsFallRate.description>Изменяет скорость нарастания потребности находиться в помещении.</EBSG_IndoorsFallRate.description>
+  <EBSG_IndoorsFallRate.label>скорость нарастания потребности в помещении</EBSG_IndoorsFallRate.label>
+  <EBSG_IndoorsRiseRate.description>Изменяет время, необходимое для восстановления после долгого пребывания на улице.</EBSG_IndoorsRiseRate.description>
+  <EBSG_IndoorsRiseRate.label>скорость удовлетворения потребности в помещении</EBSG_IndoorsRiseRate.label>
+  <EBSG_JoyRiseRate.description>Изменяет количество удовольствия, получаемого от развлечений.</EBSG_JoyRiseRate.description>
+  <EBSG_JoyRiseRate.label>скорость удовлетворения потребности в развлечениях</EBSG_JoyRiseRate.label>
+  <EBSG_MoodFallRate.description>Изменяет скорость приближения настроения к уровню, который задают текущие мысли. Действует, только если настроение выше этого уровня.</EBSG_MoodFallRate.description>
+  <EBSG_MoodFallRate.label>скорость ухудшения настроения</EBSG_MoodFallRate.label>
+  <EBSG_MoodRiseRate.description>Изменяет скорость приближения настроения к уровню, который задают текущие мысли. Действует, только если настроение ниже этого уровня.</EBSG_MoodRiseRate.description>
+  <EBSG_MoodRiseRate.label>скорость улучшения настроения</EBSG_MoodRiseRate.label>
+  <EBSG_OutdoorsFallRate.description>Изменяет скорость нарастания потребности находиться на улице.</EBSG_OutdoorsFallRate.description>
+  <EBSG_OutdoorsFallRate.label>скорость нарастания потребности в прогулках</EBSG_OutdoorsFallRate.label>
+  <EBSG_OutdoorsRiseRate.description>Изменяет время, необходимое для восстановления после долгого пребывания в помещении.</EBSG_OutdoorsRiseRate.description>
+  <EBSG_OutdoorsRiseRate.label>скорость удовлетворения потребности в прогулках</EBSG_OutdoorsRiseRate.label>
+  <EBSG_OutgoingDamageFactor.description>Множитель всего наносимого урона.</EBSG_OutgoingDamageFactor.description>
+  <EBSG_OutgoingDamageFactor.label>множитель наносимого урона</EBSG_OutgoingDamageFactor.label>
+  <EBSG_OutgoingDamageFactor_Animal.description>Множитель урона, наносимого животным.</EBSG_OutgoingDamageFactor_Animal.description>
+  <EBSG_OutgoingDamageFactor_Animal.label>множитель урона по животным</EBSG_OutgoingDamageFactor_Animal.label>
+  <EBSG_OutgoingDamageFactor_Humanlike.description>Множитель урона, наносимого гуманоидам.</EBSG_OutgoingDamageFactor_Humanlike.description>
+  <EBSG_OutgoingDamageFactor_Humanlike.label>множитель урона по гуманоидам</EBSG_OutgoingDamageFactor_Humanlike.label>
+  <EBSG_OutgoingDamageFactor_Insect.description>Множитель урона, наносимого насекомым.</EBSG_OutgoingDamageFactor_Insect.description>
+  <EBSG_OutgoingDamageFactor_Insect.label>множитель урона по насекомым</EBSG_OutgoingDamageFactor_Insect.label>
+  <EBSG_OutgoingDamageFactor_Mechanoid.description>Множитель урона, наносимого механоидам.</EBSG_OutgoingDamageFactor_Mechanoid.description>
+  <EBSG_OutgoingDamageFactor_Mechanoid.label>множитель урона по механоидам</EBSG_OutgoingDamageFactor_Mechanoid.label>
+  <EBSG_PsyfocusFallRateFactor.description>Множитель скорости изменения пси-концентрации. Применяется после поправки к скорости снижения пси-концентрации.</EBSG_PsyfocusFallRateFactor.description>
+  <EBSG_PsyfocusFallRateFactor.label>множитель скорости снижения пси-концентрации</EBSG_PsyfocusFallRateFactor.label>
+  <EBSG_PsyfocusFallRateOffset.description>Поправка к скорости изменения пси-концентрации. Применяется до множителя скорости её снижения. Достаточно низкое отрицательное значение позволяет персонажу восстанавливать пси-концентрацию без медитации.</EBSG_PsyfocusFallRateOffset.description>
+  <EBSG_PsyfocusFallRateOffset.label>поправка к скорости снижения пси-концентрации</EBSG_PsyfocusFallRateOffset.label>
+  <EBSG_SkillLossRate.description>Скорость, с которой персонаж забывает освоенные навыки.</EBSG_SkillLossRate.description>
+  <EBSG_SkillLossRate.label>скорость утраты навыков</EBSG_SkillLossRate.label>
+</LanguageData>

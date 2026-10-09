@@ -1,0 +1,7 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VEE_LetterLabelTornado>Надвигается смерч!</VEE_LetterLabelTornado>
+  <VEE_LetterTornado>Над поселением надвигается опасный смерч невероятной разрушительной силы! Избавиться от него невозможно: укройтесь и приготовьтесь переждать стихию!</VEE_LetterTornado>
+  <VEE_MineralDevoid>отсутствует {MINERAL_label}</VEE_MineralDevoid>
+  <VEE_MineralDevoidDescription>В этой местности совершенно нет залежей минерала «{MINERAL_label}». Зато руды других ресурсов встречаются вдвое чаще.</VEE_MineralDevoidDescription>
+</LanguageData>

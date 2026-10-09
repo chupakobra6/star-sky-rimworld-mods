@@ -1,0 +1,173 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VSEWW_Allies.description>Вместе со следующей волной прибудут союзники с удвоенным количеством очков этой волны, но не выше установленного предела очков.</VSEWW_Allies.description>
+  <VSEWW_Allies.label>Союзники!</VSEWW_Allies.label>
+  <VSEWW_ArchotechProstheticsDrop.description>Грузовая капсула доставит 10 случайных архотек-частей тела.</VSEWW_ArchotechProstheticsDrop.description>
+  <VSEWW_ArchotechProstheticsDrop.label>Архотек-части тела</VSEWW_ArchotechProstheticsDrop.label>
+  <VSEWW_BooksDrop.description>Грузовые капсулы доставят 3 случайные книги.</VSEWW_BooksDrop.description>
+  <VSEWW_BooksDrop.label>Книги</VSEWW_BooksDrop.label>
+  <VSEWW_CaravanArrival.description>Прибудет случайный караван.</VSEWW_CaravanArrival.description>
+  <VSEWW_CaravanArrival.label>Прибытие каравана</VSEWW_CaravanArrival.label>
+  <VSEWW_CashAndRiches.description>Грузовые капсулы доставят 25 000 серебра, 1000 золота и 1000 нефрита.</VSEWW_CashAndRiches.description>
+  <VSEWW_CashAndRiches.label>Деньги и драгоценности</VSEWW_CashAndRiches.label>
+  <VSEWW_CombatAnimalDrop.description>Грузовая капсула доставит 5 случайных приручённых боевых животных.</VSEWW_CombatAnimalDrop.description>
+  <VSEWW_CombatAnimalDrop.label>Боевые животные</VSEWW_CombatAnimalDrop.label>
+  <VSEWW_DelayBy15.description>Следующая волна будет отложена на 15 дней.</VSEWW_DelayBy15.description>
+  <VSEWW_DelayBy15.label>Отсрочка волны</VSEWW_DelayBy15.label>
+  <VSEWW_DelayBy3.description>Следующая волна будет отложена на 3 дня.</VSEWW_DelayBy3.description>
+  <VSEWW_DelayBy3.label>Отсрочка волны</VSEWW_DelayBy3.label>
+  <VSEWW_DelayBy7.description>Следующая волна будет отложена на 7 дней.</VSEWW_DelayBy7.description>
+  <VSEWW_DelayBy7.label>Отсрочка волны</VSEWW_DelayBy7.label>
+  <VSEWW_ExcellentArchotechArtifactsDrop.description>Вы получите 8 случайных архотек-предметов, в том числе возможны постройки в разобранном виде.</VSEWW_ExcellentArchotechArtifactsDrop.description>
+  <VSEWW_ExcellentArchotechArtifactsDrop.label>Архотек-артефакты</VSEWW_ExcellentArchotechArtifactsDrop.label>
+  <VSEWW_ExcellentArmorDrop.description>Грузовые капсулы доставят 5 случайных предметов брони отличного качества.</VSEWW_ExcellentArmorDrop.description>
+  <VSEWW_ExcellentArmorDrop.label>Отличная броня</VSEWW_ExcellentArmorDrop.label>
+  <VSEWW_ExcellentCashDrop.description>Грузовые капсулы доставят 10 000 серебра и 500 золота.</VSEWW_ExcellentCashDrop.description>
+  <VSEWW_ExcellentCashDrop.label>Деньги</VSEWW_ExcellentCashDrop.label>
+  <VSEWW_ExcellentDrugsDrop.description>Вы получите 100 амброзии, 100 психинового чая и по 200 пива, косяков дымолиста, хлопьев психина, порошка психина, бодрина и Go-сока.</VSEWW_ExcellentDrugsDrop.description>
+  <VSEWW_ExcellentDrugsDrop.label>Наркотики</VSEWW_ExcellentDrugsDrop.label>
+  <VSEWW_ExcellentFoodAndMedicineDrop.description>Грузовые капсулы доставят 120 сухпайков, 20 медикаментов мира-утопии и 100 обычных медикаментов.</VSEWW_ExcellentFoodAndMedicineDrop.description>
+  <VSEWW_ExcellentFoodAndMedicineDrop.label>Еда и медикаменты</VSEWW_ExcellentFoodAndMedicineDrop.label>
+  <VSEWW_ExcellentFuelDrop.description>Грузовые капсулы доставят 1000 химтоплива, 1000 древесины и 400 урана.</VSEWW_ExcellentFuelDrop.description>
+  <VSEWW_ExcellentFuelDrop.label>Топливо</VSEWW_ExcellentFuelDrop.label>
+  <VSEWW_ExcellentPawnJoins.description>К колонии присоединятся 5 поселенцев, каждый с боевой стоимостью не менее 175 очков.</VSEWW_ExcellentPawnJoins.description>
+  <VSEWW_ExcellentPawnJoins.label>Новые поселенцы</VSEWW_ExcellentPawnJoins.label>
+  <VSEWW_ExcellentProstheticsDrop.description>Грузовая капсула доставит 10 случайных бионических частей тела.</VSEWW_ExcellentProstheticsDrop.description>
+  <VSEWW_ExcellentProstheticsDrop.label>Протезы</VSEWW_ExcellentProstheticsDrop.label>
+  <VSEWW_ExcellentReseachBoost.description>Мгновенно завершатся 8 случайных исследований, для которых выполнены предварительные требования.</VSEWW_ExcellentReseachBoost.description>
+  <VSEWW_ExcellentReseachBoost.label>Научный прорыв</VSEWW_ExcellentReseachBoost.label>
+  <VSEWW_ExcellentResourceDrop.description>Грузовые капсулы доставят 1000 древесины, 1000 стали, 60 компонентов, 20 продвинутых компонентов и 300 пластали.</VSEWW_ExcellentResourceDrop.description>
+  <VSEWW_ExcellentResourceDrop.label>Ресурсы</VSEWW_ExcellentResourceDrop.label>
+  <VSEWW_ExcellentSkillBoost.description>Все навыки каждого поселенца под вашим управлением повысятся на 3 уровня.</VSEWW_ExcellentSkillBoost.description>
+  <VSEWW_ExcellentSkillBoost.label>Развитие навыков</VSEWW_ExcellentSkillBoost.label>
+  <VSEWW_ExcellentWeaponDrop.description>Грузовые капсулы доставят 5 случайных видов оружия отличного качества.</VSEWW_ExcellentWeaponDrop.description>
+  <VSEWW_ExcellentWeaponDrop.label>Отличное оружие</VSEWW_ExcellentWeaponDrop.label>
+  <VSEWW_FoodDrop.description>Грузовые капсулы доставят 30 сухпайков.</VSEWW_FoodDrop.description>
+  <VSEWW_FoodDrop.label>Еда</VSEWW_FoodDrop.label>
+  <VSEWW_GoodArchotechArtifactsDrop.description>Вы получите 5 случайных архотек-предметов, в том числе возможны постройки в разобранном виде.</VSEWW_GoodArchotechArtifactsDrop.description>
+  <VSEWW_GoodArchotechArtifactsDrop.label>Архотек-артефакты</VSEWW_GoodArchotechArtifactsDrop.label>
+  <VSEWW_GoodArmorDrop.description>Грузовые капсулы доставят 3 случайных предмета брони хорошего качества.</VSEWW_GoodArmorDrop.description>
+  <VSEWW_GoodArmorDrop.label>Хорошая броня</VSEWW_GoodArmorDrop.label>
+  <VSEWW_GoodCashDrop.description>Грузовые капсулы доставят 5000 серебра и 250 золота.</VSEWW_GoodCashDrop.description>
+  <VSEWW_GoodCashDrop.label>Деньги</VSEWW_GoodCashDrop.label>
+  <VSEWW_GoodComponentDrop.description>Грузовые капсулы доставят 60 компонентов и 15 продвинутых компонентов.</VSEWW_GoodComponentDrop.description>
+  <VSEWW_GoodComponentDrop.label>Компоненты</VSEWW_GoodComponentDrop.label>
+  <VSEWW_GoodDrugsDrop.description>Вы получите 10 амброзии, 10 психинового чая и по 20 пива, косяков дымолиста, хлопьев психина, порошка психина, бодрина и Go-сока.</VSEWW_GoodDrugsDrop.description>
+  <VSEWW_GoodDrugsDrop.label>Наркотики</VSEWW_GoodDrugsDrop.label>
+  <VSEWW_GoodFoodAndMedicineDrop.description>Грузовые капсулы доставят 100 сухпайков и 100 медикаментов.</VSEWW_GoodFoodAndMedicineDrop.description>
+  <VSEWW_GoodFoodAndMedicineDrop.label>Еда и медикаменты</VSEWW_GoodFoodAndMedicineDrop.label>
+  <VSEWW_GoodFuelDrop.description>Грузовые капсулы доставят 800 химтоплива, 800 древесины и 250 урана.</VSEWW_GoodFuelDrop.description>
+  <VSEWW_GoodFuelDrop.label>Топливо</VSEWW_GoodFuelDrop.label>
+  <VSEWW_GoodPawnJoins.description>К колонии присоединятся 3 поселенца, каждый с боевой стоимостью от 100 до 175 очков.</VSEWW_GoodPawnJoins.description>
+  <VSEWW_GoodPawnJoins.label>Новые поселенцы</VSEWW_GoodPawnJoins.label>
+  <VSEWW_GoodProstheticsDrop.description>Грузовая капсула доставит 5 случайных простых протезов и 5 бионических частей тела.</VSEWW_GoodProstheticsDrop.description>
+  <VSEWW_GoodProstheticsDrop.label>Протезы</VSEWW_GoodProstheticsDrop.label>
+  <VSEWW_GoodReseachBoost.description>Мгновенно завершатся 5 случайных исследований, для которых выполнены предварительные требования.</VSEWW_GoodReseachBoost.description>
+  <VSEWW_GoodReseachBoost.label>Научный прорыв</VSEWW_GoodReseachBoost.label>
+  <VSEWW_GoodResourceDrop.description>Грузовые капсулы доставят 500 древесины, 500 стали, 30 компонентов и 200 пластали.</VSEWW_GoodResourceDrop.description>
+  <VSEWW_GoodResourceDrop.label>Ресурсы</VSEWW_GoodResourceDrop.label>
+  <VSEWW_GoodSkillBoost.description>Все навыки каждого поселенца под вашим управлением повысятся на 2 уровня.</VSEWW_GoodSkillBoost.description>
+  <VSEWW_GoodSkillBoost.label>Развитие навыков</VSEWW_GoodSkillBoost.label>
+  <VSEWW_GoodTextileDrop.description>Грузовая капсула доставит 1000 единиц случайной кожи или ткани.</VSEWW_GoodTextileDrop.description>
+  <VSEWW_GoodTextileDrop.label>Текстиль</VSEWW_GoodTextileDrop.label>
+  <VSEWW_GoodWeaponsDrop.description>Грузовые капсулы доставят 3 случайных вида оружия хорошего качества.</VSEWW_GoodWeaponsDrop.description>
+  <VSEWW_GoodWeaponsDrop.label>Хорошее оружие</VSEWW_GoodWeaponsDrop.label>
+  <VSEWW_LeatherDrop.description>Грузовая капсула доставит 300 единиц случайной кожи.</VSEWW_LeatherDrop.description>
+  <VSEWW_LeatherDrop.label>Кожа</VSEWW_LeatherDrop.label>
+  <VSEWW_LegendaryFuelDrop.description>Грузовые капсулы доставят 2000 химтоплива, 2000 древесины и 800 урана.</VSEWW_LegendaryFuelDrop.description>
+  <VSEWW_LegendaryFuelDrop.label>Топливо</VSEWW_LegendaryFuelDrop.label>
+  <VSEWW_LegendaryGearDrop.description>Грузовые капсулы доставят 5 случайных видов оружия и 5 случайных предметов брони легендарного качества.</VSEWW_LegendaryGearDrop.description>
+  <VSEWW_LegendaryGearDrop.label>Легендарное снаряжение</VSEWW_LegendaryGearDrop.label>
+  <VSEWW_LegendaryResourceDrop.description>Грузовые капсулы доставят 3000 древесины, 3000 стали, 100 компонентов, 50 продвинутых компонентов и 500 пластали.</VSEWW_LegendaryResourceDrop.description>
+  <VSEWW_LegendaryResourceDrop.label>Ресурсы</VSEWW_LegendaryResourceDrop.label>
+  <VSEWW_LegendarySkillBoost.description>Все навыки каждого поселенца под вашим управлением повысятся на 5 уровней.</VSEWW_LegendarySkillBoost.description>
+  <VSEWW_LegendarySkillBoost.label>Развитие навыков</VSEWW_LegendarySkillBoost.label>
+  <VSEWW_MassHeal.description>У всех поселенцев под вашим управлением мгновенно заживут раны.</VSEWW_MassHeal.description>
+  <VSEWW_MassHeal.label>Массовое исцеление</VSEWW_MassHeal.label>
+  <VSEWW_MechSerumHealerDrop.description>Грузовая капсула доставит 5 доз сыворотки исцеления.</VSEWW_MechSerumHealerDrop.description>
+  <VSEWW_MechSerumHealerDrop.label>Сыворотка исцеления</VSEWW_MechSerumHealerDrop.label>
+  <VSEWW_MedicineDrop.description>Грузовые капсулы доставят 30 медикаментов.</VSEWW_MedicineDrop.description>
+  <VSEWW_MedicineDrop.label>Медикаменты</VSEWW_MedicineDrop.label>
+  <VSEWW_MercenaryJoins.description>К колонии присоединятся 5 поселенцев-наёмников.</VSEWW_MercenaryJoins.description>
+  <VSEWW_MercenaryJoins.label>Новые поселенцы</VSEWW_MercenaryJoins.label>
+  <VSEWW_MeteoriteImpact.description>На карту упадёт метеорит.</VSEWW_MeteoriteImpact.description>
+  <VSEWW_MeteoriteImpact.label>Падение метеорита</VSEWW_MeteoriteImpact.label>
+  <VSEWW_MiniturretDrop.description>Грузовая капсула доставит 3 мини-турели в разобранном виде.</VSEWW_MiniturretDrop.description>
+  <VSEWW_MiniturretDrop.label>Мини-турели</VSEWW_MiniturretDrop.label>
+  <VSEWW_NormalAnimalDrop.description>Грузовая капсула доставит 2 случайных приручённых животных.</VSEWW_NormalAnimalDrop.description>
+  <VSEWW_NormalAnimalDrop.label>Животные</VSEWW_NormalAnimalDrop.label>
+  <VSEWW_NormalCashDrop.description>Грузовые капсулы доставят 3000 серебра.</VSEWW_NormalCashDrop.description>
+  <VSEWW_NormalCashDrop.label>Деньги</VSEWW_NormalCashDrop.label>
+  <VSEWW_NormalComponentDrop.description>Грузовые капсулы доставят 20 компонентов и 5 продвинутых компонентов.</VSEWW_NormalComponentDrop.description>
+  <VSEWW_NormalComponentDrop.label>Компоненты</VSEWW_NormalComponentDrop.label>
+  <VSEWW_NormalFoodAndMedicineDrop.description>Грузовые капсулы доставят 30 сухпайков и 30 медикаментов.</VSEWW_NormalFoodAndMedicineDrop.description>
+  <VSEWW_NormalFoodAndMedicineDrop.label>Еда и медикаменты</VSEWW_NormalFoodAndMedicineDrop.label>
+  <VSEWW_NormalFuelDrop.description>Грузовые капсулы доставят 500 химтоплива.</VSEWW_NormalFuelDrop.description>
+  <VSEWW_NormalFuelDrop.label>Топливо</VSEWW_NormalFuelDrop.label>
+  <VSEWW_NormalPawnJoins.description>К колонии присоединится поселенец с боевой стоимостью от 50 до 125 очков.</VSEWW_NormalPawnJoins.description>
+  <VSEWW_NormalPawnJoins.label>Новый поселенец</VSEWW_NormalPawnJoins.label>
+  <VSEWW_NormalProstheticsDrop.description>Грузовая капсула доставит 5 случайных простых протезов.</VSEWW_NormalProstheticsDrop.description>
+  <VSEWW_NormalProstheticsDrop.label>Протезы</VSEWW_NormalProstheticsDrop.label>
+  <VSEWW_NormalReseachBoost.description>Мгновенно завершатся 3 случайных исследования, для которых выполнены предварительные требования.</VSEWW_NormalReseachBoost.description>
+  <VSEWW_NormalReseachBoost.label>Научный прорыв</VSEWW_NormalReseachBoost.label>
+  <VSEWW_NormalResourceDrop.description>Грузовые капсулы доставят 250 древесины, 250 стали и 10 компонентов.</VSEWW_NormalResourceDrop.description>
+  <VSEWW_NormalResourceDrop.label>Ресурсы</VSEWW_NormalResourceDrop.label>
+  <VSEWW_NormalTextileDrop.description>Грузовая капсула доставит 400 единиц случайной кожи или ткани.</VSEWW_NormalTextileDrop.description>
+  <VSEWW_NormalTextileDrop.label>Текстиль</VSEWW_NormalTextileDrop.label>
+  <VSEWW_NormalWeaponsDrop.description>Грузовые капсулы доставят 3 случайных вида оружия обычного качества.</VSEWW_NormalWeaponsDrop.description>
+  <VSEWW_NormalWeaponsDrop.label>Обычное оружие</VSEWW_NormalWeaponsDrop.label>
+  <VSEWW_OrbitalTargeterBombardmentDrop.description>Вы получите целеуказатель орбитальной бомбардировки.</VSEWW_OrbitalTargeterBombardmentDrop.description>
+  <VSEWW_OrbitalTargeterBombardmentDrop.label>Целеуказатель орбитальной бомбардировки</VSEWW_OrbitalTargeterBombardmentDrop.label>
+  <VSEWW_OrbitalTargeterPowerBeamDrop.description>Вы получите целеуказатель орбитального луча.</VSEWW_OrbitalTargeterPowerBeamDrop.description>
+  <VSEWW_OrbitalTargeterPowerBeamDrop.label>Целеуказатель орбитального луча</VSEWW_OrbitalTargeterPowerBeamDrop.label>
+  <VSEWW_OrbitalTraderArrival.description>Прибудет случайный орбитальный торговец.</VSEWW_OrbitalTraderArrival.description>
+  <VSEWW_OrbitalTraderArrival.label>Орбитальный торговец</VSEWW_OrbitalTraderArrival.label>
+  <VSEWW_PlasteelDrop.description>Грузовые капсулы доставят 100 пластали.</VSEWW_PlasteelDrop.description>
+  <VSEWW_PlasteelDrop.label>Пласталь</VSEWW_PlasteelDrop.label>
+  <VSEWW_PoorAnimalDrop.description>Грузовая капсула доставит случайное приручённое животное.</VSEWW_PoorAnimalDrop.description>
+  <VSEWW_PoorAnimalDrop.label>Животные</VSEWW_PoorAnimalDrop.label>
+  <VSEWW_PoorCashDrop.description>Грузовые капсулы доставят 1000 серебра.</VSEWW_PoorCashDrop.description>
+  <VSEWW_PoorCashDrop.label>Деньги</VSEWW_PoorCashDrop.label>
+  <VSEWW_PoorFuelDrop.description>Грузовые капсулы доставят 200 химтоплива.</VSEWW_PoorFuelDrop.description>
+  <VSEWW_PoorFuelDrop.label>Топливо</VSEWW_PoorFuelDrop.label>
+  <VSEWW_PoorPawnJoins.description>К колонии присоединится поселенец с боевой стоимостью не более 50 очков.</VSEWW_PoorPawnJoins.description>
+  <VSEWW_PoorPawnJoins.label>Новый поселенец</VSEWW_PoorPawnJoins.label>
+  <VSEWW_PoorWeaponsDrop.description>Грузовые капсулы доставят 3 случайных вида оружия качеством не выше плохого.</VSEWW_PoorWeaponsDrop.description>
+  <VSEWW_PoorWeaponsDrop.label>Плохое оружие</VSEWW_PoorWeaponsDrop.label>
+  <VSEWW_PsychicSoothe.description>Произойдёт умиротворение.</VSEWW_PsychicSoothe.description>
+  <VSEWW_PsychicSoothe.label>Умиротворение</VSEWW_PsychicSoothe.label>
+  <VSEWW_RandomExcellentDrop.description>Вместо определённой хорошей награды вы получите случайную отличную.</VSEWW_RandomExcellentDrop.description>
+  <VSEWW_RandomExcellentDrop.label>Случайная отличная награда</VSEWW_RandomExcellentDrop.label>
+  <VSEWW_RandomGoodDrop.description>Вместо определённой обычной награды вы получите случайную хорошую.</VSEWW_RandomGoodDrop.description>
+  <VSEWW_RandomGoodDrop.label>Случайная хорошая награда</VSEWW_RandomGoodDrop.label>
+  <VSEWW_RandomLegendaryDrop.description>Вместо определённой отличной награды вы получите случайную легендарную.</VSEWW_RandomLegendaryDrop.description>
+  <VSEWW_RandomLegendaryDrop.label>Случайная легендарная награда</VSEWW_RandomLegendaryDrop.label>
+  <VSEWW_RandomNormalDrop.description>Вместо определённой скромной награды вы получите случайную обычную.</VSEWW_RandomNormalDrop.description>
+  <VSEWW_RandomNormalDrop.label>Случайная обычная награда</VSEWW_RandomNormalDrop.label>
+  <VSEWW_SteelDrop.description>Грузовые капсулы доставят 250 стали.</VSEWW_SteelDrop.description>
+  <VSEWW_SteelDrop.label>Сталь</VSEWW_SteelDrop.label>
+  <VSEWW_StoneDrop.description>Грузовые капсулы доставят 250 каменных блоков.</VSEWW_StoneDrop.description>
+  <VSEWW_StoneDrop.label>Каменные блоки</VSEWW_StoneDrop.label>
+  <VSEWW_SurvivalMeansDrop.description>Грузовые капсулы доставят 250 сухпайков, 50 медикаментов мира-утопии, 5 доз сыворотки исцеления и 200 обычных медикаментов.</VSEWW_SurvivalMeansDrop.description>
+  <VSEWW_SurvivalMeansDrop.label>Припасы для выживания</VSEWW_SurvivalMeansDrop.label>
+  <VSEWW_TargetersDrop.description>Вы получите целеуказатель орбитального луча, целеуказатель орбитальной бомбардировки и генератор торнадо.</VSEWW_TargetersDrop.description>
+  <VSEWW_TargetersDrop.label>Орбитальное оружие</VSEWW_TargetersDrop.label>
+  <VSEWW_ThrumboDrop.description>Грузовая капсула доставит 3 приручённых трумбо.</VSEWW_ThrumboDrop.description>
+  <VSEWW_ThrumboDrop.label>Трумбо</VSEWW_ThrumboDrop.label>
+  <VSEWW_TornadoGeneratorDrop.description>Вы получите генератор торнадо.</VSEWW_TornadoGeneratorDrop.description>
+  <VSEWW_TornadoGeneratorDrop.label>Генератор торнадо</VSEWW_TornadoGeneratorDrop.label>
+  <VSEWW_UniqueWeaponsDrop.description>В грузовой капсуле прибудет 1 образец уникального оружия.</VSEWW_UniqueWeaponsDrop.description>
+  <VSEWW_UniqueWeaponsDrop.label>Доставка уникального оружия</VSEWW_UniqueWeaponsDrop.label>
+  <VSEWW_UniqueWeaponsDrop_Excellent.description>В грузовых капсулах прибудут 3 образца уникального оружия.</VSEWW_UniqueWeaponsDrop_Excellent.description>
+  <VSEWW_UniqueWeaponsDrop_Excellent.label>Доставка уникального оружия</VSEWW_UniqueWeaponsDrop_Excellent.label>
+  <VSEWW_UniqueWeaponsDrop_Legendary.description>В грузовых капсулах прибудут 5 образцов уникального оружия.</VSEWW_UniqueWeaponsDrop_Legendary.description>
+  <VSEWW_UniqueWeaponsDrop_Legendary.label>Доставка уникального оружия</VSEWW_UniqueWeaponsDrop_Legendary.label>
+  <VSEWW_UraniumDrop.description>Грузовые капсулы доставят 100 урана.</VSEWW_UraniumDrop.description>
+  <VSEWW_UraniumDrop.label>Уран</VSEWW_UraniumDrop.label>
+  <VSEWW_WargDrop.description>Грузовая капсула доставит 10 приручённых варгов.</VSEWW_WargDrop.description>
+  <VSEWW_WargDrop.label>Варги</VSEWW_WargDrop.label>
+  <VSEWW_Weaken50.description>Следующая волна получит только 50% от обычного количества боевых очков.</VSEWW_Weaken50.description>
+  <VSEWW_Weaken50.label>Ослабление волны</VSEWW_Weaken50.label>
+  <VSEWW_WoodDrop.description>Грузовые капсулы доставят 250 древесины.</VSEWW_WoodDrop.description>
+  <VSEWW_WoodDrop.label>Древесина</VSEWW_WoodDrop.label>
+</LanguageData>

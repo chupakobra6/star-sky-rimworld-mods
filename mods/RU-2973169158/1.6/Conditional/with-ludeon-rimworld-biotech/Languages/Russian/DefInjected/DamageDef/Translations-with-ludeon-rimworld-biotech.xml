@@ -1,0 +1,5 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AM_PowerfulBeam.deathMessage>{0} {PAWN_gender ? убит : убита : убито} лучом.</AM_PowerfulBeam.deathMessage>
+  <AM_PowerfulBeam.label>луч</AM_PowerfulBeam.label>
+</LanguageData>

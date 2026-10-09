@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VSEWW_GhoulExcellent.description>К поселению присоединится группа из 5 упырей</VSEWW_GhoulExcellent.description>
+  <VSEWW_GhoulExcellent.label>Прибытие упырей</VSEWW_GhoulExcellent.label>
+  <VSEWW_GhoulNormal.description>К поселению присоединится один упырь</VSEWW_GhoulNormal.description>
+  <VSEWW_GhoulNormal.label>Прибытие упыря</VSEWW_GhoulNormal.label>
+  <VSEWW_SerumsExcellent.description>Вы получите 10 случайных сывороток</VSEWW_SerumsExcellent.description>
+  <VSEWW_SerumsExcellent.label>Доставка сывороток</VSEWW_SerumsExcellent.label>
+  <VSEWW_SerumsGood.description>Вы получите 5 случайных сывороток</VSEWW_SerumsGood.description>
+  <VSEWW_SerumsGood.label>Доставка сывороток</VSEWW_SerumsGood.label>
+  <VSEWW_ShamblersExcellent.description>К поселению присоединится орда из 30 шамблеров</VSEWW_ShamblersExcellent.description>
+  <VSEWW_ShamblersExcellent.label>Прибытие шамблеров</VSEWW_ShamblersExcellent.label>
+  <VSEWW_ShamblersNormal.description>К поселению присоединится орда из 10 шамблеров</VSEWW_ShamblersNormal.description>
+  <VSEWW_ShamblersNormal.label>Прибытие шамблеров</VSEWW_ShamblersNormal.label>
+  <VSEWW_ShardArtifactsDropExcellent.description>Вы получите 7 случайных артефактов из осколков</VSEWW_ShardArtifactsDropExcellent.description>
+  <VSEWW_ShardArtifactsDropExcellent.label>Доставка артефактов из осколков</VSEWW_ShardArtifactsDropExcellent.label>
+  <VSEWW_ShardArtifactsDropGood.description>Вы получите 4 случайных артефакта из осколков</VSEWW_ShardArtifactsDropGood.description>
+  <VSEWW_ShardArtifactsDropGood.label>Доставка артефактов из осколков</VSEWW_ShardArtifactsDropGood.label>
+  <VSEWW_ShardExcellent.description>Вы получите пять найденных осколков тёмных архотехнологий</VSEWW_ShardExcellent.description>
+  <VSEWW_ShardExcellent.label>Доставка осколков</VSEWW_ShardExcellent.label>
+  <VSEWW_ShardNormal.description>Вы получите один найденный осколок тёмных архотехнологий</VSEWW_ShardNormal.description>
+  <VSEWW_ShardNormal.label>Доставка осколка</VSEWW_ShardNormal.label>
+</LanguageData>

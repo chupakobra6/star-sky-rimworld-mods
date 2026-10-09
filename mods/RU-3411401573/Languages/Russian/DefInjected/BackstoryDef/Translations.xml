@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VQE_AncientEngineer01.description>{PAWN_nameDef} {PAWN_gender ? работал : работала : работало} в команде, которая пыталась разобраться в устройстве древних компонентов АРК и воссоздать их. Сложные конструкции этой машины вызывали неподдельный интерес. Многое в древних технологиях оставалось непонятным, но несколько важнейших деталей удалось приспособить для современного применения.</VQE_AncientEngineer01.description>
+  <VQE_AncientEngineer01.title>инженер древних машин</VQE_AncientEngineer01.title>
+  <VQE_AncientEngineer01.titleShort>инженер</VQE_AncientEngineer01.titleShort>
+  <VQE_ChildhoodInventorGenetron.description>С детства {PAWN_nameDef} не {PAWN_gender ? довольствовался : довольствовалась : довольствовалось} игрушками и простыми развлечениями. Куда интереснее было разбирать старые машины и обломки со свалки колонии. Пока другие дети играли, {PAWN_pronoun} {PAWN_gender ? копался : копалась : копалось} в сломанном генераторе или неисправном горнодобывающем дроне, пытаясь понять, как тот устроен. Взрослым это часто мешало — особенно когда для опытов оказывалось «позаимствовано» важное оборудование. Но те, кто присматривался внимательнее, замечали искру гения.</VQE_ChildhoodInventorGenetron.description>
+  <VQE_ChildhoodInventorGenetron.title>юный изобретатель</VQE_ChildhoodInventorGenetron.title>
+  <VQE_ChildhoodInventorGenetron.titleShort>изобретатель</VQE_ChildhoodInventorGenetron.titleShort>
+  <VQE_ControlSystemsEngineer03.description>{PAWN_nameDef} {PAWN_gender ? отвечал : отвечала : отвечало} за модернизацию систем управления реакторов АРК. Удалось внедрить новые меры безопасности, но принцип работы многих основных функций по-прежнему оставался загадкой. Тем не менее адаптация древних алгоритмов помогла повысить эффективность реактора.</VQE_ControlSystemsEngineer03.description>
+  <VQE_ControlSystemsEngineer03.title>инженер систем управления</VQE_ControlSystemsEngineer03.title>
+  <VQE_ControlSystemsEngineer03.titleShort>инженер</VQE_ControlSystemsEngineer03.titleShort>
+  <VQE_FieldRepairTech04.description>{PAWN_nameDef} {PAWN_gender ? провёл : провела : провело} годы за ремонтом повреждённых установок АРК в отдалённых колониях. Оригинальных схем не было, и приходилось мастерски импровизировать. Работа была опасной, поэтому {PAWN_pronoun} всегда {PAWN_gender ? носил : носила : носило} с собой несколько запасных компонентов АРК — на всякий случай.</VQE_FieldRepairTech04.description>
+  <VQE_FieldRepairTech04.title>выездной техник</VQE_FieldRepairTech04.title>
+  <VQE_FieldRepairTech04.titleShort>техник</VQE_FieldRepairTech04.titleShort>
+  <VQE_InventorGenetronAdulthood.description>{PAWN_nameDef} {PAWN_gender ? стал : стала : стало} легендой среди инженеров, создав АРК — принципиально новый генератор, изменивший судьбы целых колоний. Стремление покончить с нехваткой энергии, от которой страдали пограничные миры, толкало на опасные эксперименты. Первые прототипы собирались в спешке; трагические аварии унесли немало жизней. Каждая неудача приносила тяжёлые переживания, но лишь укрепляла решимость. После бесчисленных испытаний цель была достигнута. Для одних {PAWN_nameDef} {PAWN_gender ? остался : осталась : осталось} {PAWN_gender ? героем : героиней : героем}, для других — {PAWN_gender ? безрассудным одиночкой : безрассудной одиночкой : безрассудным одиночкой}.</VQE_InventorGenetronAdulthood.description>
+  <VQE_InventorGenetronAdulthood.title>изобретатель АРК</VQE_InventorGenetronAdulthood.title>
+  <VQE_InventorGenetronAdulthood.titleShort>изобретатель</VQE_InventorGenetronAdulthood.titleShort>
+  <VQE_PowerArchitect02.description>{PAWN_nameDef} {PAWN_gender ? специализировался : специализировалась : специализировалось} на оптимизации энергопотоков в системах АРК. Точная калибровка топливных стержней позволяла значительно продлить работу реактора. Хотя устройство древних механизмов оставалось не до конца понятным, предложенные настройки стали отраслевым стандартом.</VQE_PowerArchitect02.description>
+  <VQE_PowerArchitect02.title>архитектор энергосистем</VQE_PowerArchitect02.title>
+  <VQE_PowerArchitect02.titleShort>архитектор</VQE_PowerArchitect02.titleShort>
+  <VQE_SafetyInspector05.description>{PAWN_nameDef} {PAWN_gender ? ездил : ездила : ездило} из колонии в колонию для проверки состояния реакторов АРК в качестве инспектора по безопасности. О принципах работы основных систем приходилось лишь догадываться, но {PAWN_pronoun} {PAWN_gender ? умел : умела : умело} выявлять возможные неисправности и советовать меры обслуживания, продлевающие срок службы реакторов.</VQE_SafetyInspector05.description>
+  <VQE_SafetyInspector05.title>инспектор безопасности АРК</VQE_SafetyInspector05.title>
+  <VQE_SafetyInspector05.titleShort>инспектор</VQE_SafetyInspector05.titleShort>
+</LanguageData>

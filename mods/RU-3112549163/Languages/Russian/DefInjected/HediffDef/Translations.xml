@@ -1,0 +1,10 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <EBSG_GeneticDamage.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>необратимое генетическое повреждение</EBSG_GeneticDamage.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>
+  <EBSG_GeneticDamage.comps.HediffComp_GetsPermanent.permanentLabel>необратимое генетическое повреждение</EBSG_GeneticDamage.comps.HediffComp_GetsPermanent.permanentLabel>
+  <EBSG_GeneticDamage.description>Повреждение генетического кода нарушило работу этой части тела.</EBSG_GeneticDamage.description>
+  <EBSG_GeneticDamage.injuryProps.destroyedLabel>генетически повреждено</EBSG_GeneticDamage.injuryProps.destroyedLabel>
+  <EBSG_GeneticDamage.label>генетическое повреждение</EBSG_GeneticDamage.label>
+  <EBSG_GeneticDamage.labelNoun>часть тела с генетическим повреждением</EBSG_GeneticDamage.labelNoun>
+  <EBSG_GeneticDamage.labelNounPretty>{0} ({1})</EBSG_GeneticDamage.labelNounPretty>
+</LanguageData>

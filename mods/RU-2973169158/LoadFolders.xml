@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<loadFolders>
+  <v1.6>
+    <li>/</li>
+    <li IfModActiveAll="ludeon.rimworld.biotech" IfModNotActive="sarg.alphaanimals">1.6/Conditional/condition-7a3658ec531f79a419cd634c348f637c90b1f94598387c6857a02313f8a3c0dc</li>
+    <li IfModActiveAll="dubwise.rimatomics,ludeon.rimworld.biotech">1.6/Conditional/with-all-dubwise-rimatomics-and-ludeon-rimworld-biotech</li>
+    <li IfModActiveAll="ludeon.rimworld.biotech,ludeon.rimworld.royalty">1.6/Conditional/with-all-ludeon-rimworld-biotech-and-ludeon-rimworld-royalty</li>
+    <li IfModActiveAll="ludeon.rimworld.biotech,oskarpotocki.vfe.mechanoid">1.6/Conditional/with-all-ludeon-rimworld-biotech-and-oskarpotocki-vfe-mechanoid</li>
+    <li IfModActiveAll="ludeon.rimworld.biotech,oskarpotocki.vfe.pirates">1.6/Conditional/with-all-ludeon-rimworld-biotech-and-oskarpotocki-vfe-pirates</li>
+    <li IfModActiveAll="ludeon.rimworld.biotech,sarg.rimbees">1.6/Conditional/with-all-ludeon-rimworld-biotech-and-sarg-rimbees</li>
+    <li IfModActiveAll="ludeon.rimworld.biotech,vanillaexpanded.vbookse">1.6/Conditional/with-all-ludeon-rimworld-biotech-and-vanillaexpanded-vbookse</li>
+    <li IfModActiveAll="ludeon.rimworld.biotech,vanillaexpanded.vcef">1.6/Conditional/with-all-ludeon-rimworld-biotech-and-vanillaexpanded-vcef</li>
+    <li IfModActiveAll="ludeon.rimworld.biotech,vanillaexpanded.vgeneticse">1.6/Conditional/with-all-ludeon-rimworld-biotech-and-vanillaexpanded-vgeneticse</li>
+    <li IfModActiveAll="ludeon.rimworld.biotech,vanillaracesexpanded.sanguophage">1.6/Conditional/with-all-ludeon-rimworld-biotech-and-vanillaracesexpanded-sanguophage</li>
+    <li IfModActive="ludeon.rimworld.biotech">1.6/Conditional/with-ludeon-rimworld-biotech</li>
+    <li IfModActive="oskarpotocki.vfe.mechanoid">1.6/Conditional/with-oskarpotocki-vfe-mechanoid</li>
+  </v1.6>
+</loadFolders>

@@ -1,0 +1,14 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AM_FreezingBurst.description>Ледяной взрыв замедлил передвижение этого человека. Эффект пройдёт через 12 часов.</AM_FreezingBurst.description>
+  <AM_FreezingBurst.label>последствия ледяного взрыва</AM_FreezingBurst.label>
+  <AM_ScrambledIFF.description>Система опознавания этого механоида взломана, и он больше не может правильно распознавать врагов. В течение суток он будет сражаться на стороне колонии, а затем вернётся к прежней фракции.</AM_ScrambledIFF.description>
+  <AM_ScrambledIFF.label>сбой системы «свой — чужой»</AM_ScrambledIFF.label>
+  <AM_SoulDrain.description>Последствие попадания из турели апоптоза — ужасающего оружия, которое высасывает душу жертвы. Она отнимает жизненную силу у органических существ, ослабляя их и делая уязвимыми. Со временем эффект пройдёт.</AM_SoulDrain.description>
+  <AM_SoulDrain.label>высасывание души</AM_SoulDrain.label>
+  <AM_SoulDrain.stages.blacking_out.label>потеря сознания</AM_SoulDrain.stages.blacking_out.label>
+  <AM_SoulDrain.stages.cellular_death.label>гибель клеток</AM_SoulDrain.stages.cellular_death.label>
+  <AM_SoulDrain.stages.faint_headed.label>головокружение</AM_SoulDrain.stages.faint_headed.label>
+  <AM_SoulDrain.stages.initial.label>начальная стадия</AM_SoulDrain.stages.initial.label>
+  <AM_SoulDrain.stages.throbbing_headache.label>пульсирующая головная боль</AM_SoulDrain.stages.throbbing_headache.label>
+</LanguageData>

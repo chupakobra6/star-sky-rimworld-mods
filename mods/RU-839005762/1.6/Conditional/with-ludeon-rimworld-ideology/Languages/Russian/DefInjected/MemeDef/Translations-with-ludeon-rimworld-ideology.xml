@@ -1,17 +1,6 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <HAR_Xenophilia.label>ксенофилия</HAR_Xenophilia.label>
   <HAR_Xenophilia.description>Отношения с представителями иных рас следует приветствовать и поощрять. Страх или враждебность к ним свидетельствуют лишь об ограниченности ума.</HAR_Xenophilia.description>
-  <HAR_Xenophilia.symbolPacks.0.adjective>ксенофильский</HAR_Xenophilia.symbolPacks.0.adjective>
-  <HAR_Xenophilia.symbolPacks.0.ideoName>Ксенофилия</HAR_Xenophilia.symbolPacks.0.ideoName>
-  <HAR_Xenophilia.symbolPacks.0.member>ксенофил</HAR_Xenophilia.symbolPacks.0.member>
-  <HAR_Xenophilia.symbolPacks.0.theme>ксенофилия</HAR_Xenophilia.symbolPacks.0.theme>
-  <HAR_Xenophobia.label>ксенофобия</HAR_Xenophobia.label>
-  <HAR_Xenophobia.description>Не позволяйте чужакам жить: само их существование угрожает нашему. Иным расам лучше быть нашими слугами или пищей.</HAR_Xenophobia.description>
-  <HAR_Xenophobia.symbolPacks.0.adjective>Ксенофобский</HAR_Xenophobia.symbolPacks.0.adjective>
-  <HAR_Xenophobia.symbolPacks.0.ideoName>Ксенофобия</HAR_Xenophobia.symbolPacks.0.ideoName>
-  <HAR_Xenophobia.symbolPacks.0.member>ксенофоб</HAR_Xenophobia.symbolPacks.0.member>
-  <HAR_Xenophobia.symbolPacks.0.theme>ксенофобия</HAR_Xenophobia.symbolPacks.0.theme>
   <HAR_Xenophilia.descriptionMaker.rules.rulesStrings>
     <li>creation(tag=meme_Xenophilia)        -&gt;[deity0_name] создаёт множество рас: каждая воплощает [deity0_possessive] совершенный образ по-своему.</li>
     <li>episode(uses=1,tag=meme_Xenophilia)  -&gt;Наши биологи описывают и заносят в архив многочисленные творения божества [deity0_name], угождая [deity0_objective].</li>
@@ -39,6 +28,12 @@
     <li>memeConcept-&gt;открытость</li>
     <li>memeConcept-&gt;восприимчивость</li>
   </HAR_Xenophilia.generalRules.rulesStrings>
+  <HAR_Xenophilia.label>ксенофилия</HAR_Xenophilia.label>
+  <HAR_Xenophilia.symbolPacks.0.adjective>ксенофильский</HAR_Xenophilia.symbolPacks.0.adjective>
+  <HAR_Xenophilia.symbolPacks.0.ideoName>Ксенофилия</HAR_Xenophilia.symbolPacks.0.ideoName>
+  <HAR_Xenophilia.symbolPacks.0.member>ксенофил</HAR_Xenophilia.symbolPacks.0.member>
+  <HAR_Xenophilia.symbolPacks.0.theme>ксенофилия</HAR_Xenophilia.symbolPacks.0.theme>
+  <HAR_Xenophobia.description>Не позволяйте чужакам жить: само их существование угрожает нашему. Иным расам лучше быть нашими слугами или пищей.</HAR_Xenophobia.description>
   <HAR_Xenophobia.descriptionMaker.rules.rulesStrings>
     <li>creation(tag=meme_Xenophobia)        -&gt;[deity0_name] создаёт нас как совершенное воплощение: в нас отражён [deity0_possessive] божественный образ.</li>
     <li>episode(uses=1,tag=meme_Xenophobia)  -&gt;Остальные творения божества [deity0_name] созданы лишь как орудия для нас. Именно это угодно [deity0_objective]: чтобы мы обращались с ними как с орудиями.</li>
@@ -66,4 +61,9 @@
     <li>memeConcept-&gt;нетерпимость</li>
     <li>memeConcept-&gt;предубеждение</li>
   </HAR_Xenophobia.generalRules.rulesStrings>
+  <HAR_Xenophobia.label>ксенофобия</HAR_Xenophobia.label>
+  <HAR_Xenophobia.symbolPacks.0.adjective>Ксенофобский</HAR_Xenophobia.symbolPacks.0.adjective>
+  <HAR_Xenophobia.symbolPacks.0.ideoName>Ксенофобия</HAR_Xenophobia.symbolPacks.0.ideoName>
+  <HAR_Xenophobia.symbolPacks.0.member>ксенофоб</HAR_Xenophobia.symbolPacks.0.member>
+  <HAR_Xenophobia.symbolPacks.0.theme>ксенофобия</HAR_Xenophobia.symbolPacks.0.theme>
 </LanguageData>

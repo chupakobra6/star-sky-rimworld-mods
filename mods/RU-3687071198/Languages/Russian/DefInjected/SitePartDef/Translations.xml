@@ -1,0 +1,35 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BlackMarketOutpost.approachOrderString>Атаковать: {0}</BlackMarketOutpost.approachOrderString>
+  <BlackMarketOutpost.approachingReportString>Атака: {0}.</BlackMarketOutpost.approachingReportString>
+  <BlackMarketOutpost.description>Тайное логово чёрного рынка. Через некоторое время оно исчезнет с карты. До тех пор вы можете совершить на него набег.</BlackMarketOutpost.description>
+  <BlackMarketOutpost.label>чёрный рынок</BlackMarketOutpost.label>
+  <ClothesMakingOutpost.approachOrderString>Атаковать: {0}</ClothesMakingOutpost.approachOrderString>
+  <ClothesMakingOutpost.approachingReportString>Атака: {0}.</ClothesMakingOutpost.approachingReportString>
+  <ClothesMakingOutpost.description>Укреплённое предприятие по производству тканей и пошиву одежды. Через некоторое время оно исчезнет с карты. До тех пор вы можете совершить на него набег.</ClothesMakingOutpost.description>
+  <ClothesMakingOutpost.label>швейная мастерская</ClothesMakingOutpost.label>
+  <ComponentOutpost.approachOrderString>Атаковать: {0}</ComponentOutpost.approachOrderString>
+  <ComponentOutpost.approachingReportString>Атака: {0}.</ComponentOutpost.approachingReportString>
+  <ComponentOutpost.description>Укреплённый завод по производству компонентов. Через некоторое время он исчезнет с карты. До тех пор вы можете совершить на него набег.</ComponentOutpost.description>
+  <ComponentOutpost.label>завод компонентов</ComponentOutpost.label>
+  <FarmingOutpost.approachOrderString>Атаковать: {0}</FarmingOutpost.approachOrderString>
+  <FarmingOutpost.approachingReportString>Атака: {0}.</FarmingOutpost.approachingReportString>
+  <FarmingOutpost.description>Ферма неподалёку. Через некоторое время она исчезнет с карты. До тех пор вы можете совершить на неё набег.</FarmingOutpost.description>
+  <FarmingOutpost.label>ферма</FarmingOutpost.label>
+  <GunsmithingOutpost.approachOrderString>Атаковать: {0}</GunsmithingOutpost.approachOrderString>
+  <GunsmithingOutpost.approachingReportString>Атака: {0}.</GunsmithingOutpost.approachingReportString>
+  <GunsmithingOutpost.description>Укреплённая оружейная мастерская. Через некоторое время она исчезнет с карты. До тех пор вы можете совершить на неё набег.</GunsmithingOutpost.description>
+  <GunsmithingOutpost.label>оружейная мастерская</GunsmithingOutpost.label>
+  <HomesteadOutpost.approachOrderString>Атаковать: {0}</HomesteadOutpost.approachOrderString>
+  <HomesteadOutpost.approachingReportString>Атака: {0}.</HomesteadOutpost.approachingReportString>
+  <HomesteadOutpost.description>Неблагоустроенный хутор в глуши. Кто-то пытается свести здесь концы с концами.</HomesteadOutpost.description>
+  <HomesteadOutpost.label>хутор в глуши</HomesteadOutpost.label>
+  <MercenaryOutpost.approachOrderString>Атаковать: {0}</MercenaryOutpost.approachOrderString>
+  <MercenaryOutpost.approachingReportString>Атака: {0}.</MercenaryOutpost.approachingReportString>
+  <MercenaryOutpost.description>Укреплённое убежище наёмников. Через некоторое время оно исчезнет с карты. До тех пор вы можете совершить на него набег.</MercenaryOutpost.description>
+  <MercenaryOutpost.label>лагерь наёмников</MercenaryOutpost.label>
+  <MiningOutpost.approachOrderString>Атаковать: {0}</MiningOutpost.approachOrderString>
+  <MiningOutpost.approachingReportString>Атака: {0}.</MiningOutpost.approachingReportString>
+  <MiningOutpost.description>Укреплённый горнодобывающий комплекс. Через некоторое время он исчезнет с карты. До тех пор вы можете совершить на него набег.</MiningOutpost.description>
+  <MiningOutpost.label>шахтёрский аванпост</MiningOutpost.label>
+</LanguageData>

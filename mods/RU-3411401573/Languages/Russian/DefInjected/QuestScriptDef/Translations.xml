@@ -1,0 +1,453 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VQE_AbandonedARC.questContentRules.rulesStrings>
+    <li>allObjectsStudiedMessage-&gt;Все объекты изучены. Информация собрана, можно уходить.</li>
+    <li>halfOfObjectsDestroyedMessage-&gt;Более половины исследовательских данных утрачено.</li>
+  </VQE_AbandonedARC.questContentRules.rulesStrings>
+  <VQE_AbandonedARC.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;Данные, добытые на площадке старого прототипа, позволили найти [adj] промышленный комплекс, где продолжалась работа над проектом «[arcName]». Когда-то здесь трудились инженеры и учёные, раздвигавшие границы возможного; теперь огромный объект погрузился в тишину и медленно разрушается.
+
+Здесь сохранились [siteDetails]. [siteThreat]
+
+[studyWarning] [questFailWarning]
+
+Успех экспедиции [questOutcome]</li>
+    <li>questDescription-&gt;Данные с площадки прототипа показали, где находится [adj] промышленный комплекс. Здесь команда проекта «[arcName]» продолжала разработки; его изобретатель — [inventor_nameFull]. Объект занимает огромную территорию; ржавые каркасы и осыпающиеся стены напоминают о прежнем величии.
+
+Внутри сохранились [siteDetails]. [siteThreat] Прежде чем приступить к исследованиям, придётся справиться с угрозой.
+
+[studyWarning] [questFailWarning]
+
+Выполнение задания [questOutcome]</li>
+    <li>questDescription-&gt;Анализ данных прототипа позволил найти [adj] строительный комплекс — следующий этап проекта «[arcName]». Когда-то он воплощал смелые промышленные замыслы, а теперь стал кладбищем изобретений: брошенные машины разрушаются под открытым небом.
+
+Внутри сохранились [siteDetails]. [siteThreat]
+
+[studyWarning] [questFailWarning]
+
+Работа на этом объекте [questOutcome]</li>
+    <li>questDescription-&gt;Данные старого прототипа привели нас в [adj] промышленный комплекс, сыгравший важную роль в проекте «[arcName]». Некогда оживлённый центр технологических разработок лежит в руинах; по пустым залам гуляет лишь ветер.
+
+Среди обломков сохранились [siteDetails]. [siteThreat]
+
+[studyWarning] [questFailWarning]
+
+Завершение задания [questOutcome]</li>
+    <li>adj-&gt;забытый</li>
+    <li>adj-&gt;древний</li>
+    <li>adj-&gt;обветшавший</li>
+    <li>adj-&gt;обширный</li>
+    <li>adj-&gt;ветхий</li>
+    <li>adj-&gt;заросший</li>
+    <li>adj-&gt;разрушенный</li>
+    <li>adj-&gt;производственный</li>
+    <li>adj-&gt;заброшенный</li>
+    <li>arcName-&gt;АРК</li>
+    <li>arcName-&gt;Генератор</li>
+    <li>arcName-&gt;Машина</li>
+    <li>arcName-&gt;Ядро</li>
+    <li>arcName-&gt;Источник энергии</li>
+    <li>arcName-&gt;Устройство</li>
+    <li>arcName-&gt;Артефакт</li>
+    <li>siteDetails-&gt;древние механизмы и недостроенные компоненты генератора</li>
+    <li>siteDetails-&gt;важные исследовательские записи и крупные компоненты генератора</li>
+    <li>siteDetails-&gt;ценные схемы и промышленное оборудование</li>
+    <li>siteDetails-&gt;исследовательские данные и опытные образцы механизмов</li>
+    <li>siteDetails-&gt;сложное оборудование и чертежи экспериментальных генераторов</li>
+    <li>siteDetails-&gt;брошенные промышленные машины и исследовательские архивы</li>
+    <li>siteDetails-&gt;важные исследовательские записи и уникальные детали генератора</li>
+    <li>siteThreat-&gt;Здесь поселились животные, охотящиеся на людей ([AnimalPlural], всего: [Number]).</li>
+    <li>siteThreat-&gt;Объект захватили животные, охотящиеся на людей ([AnimalPlural], всего: [Number]).</li>
+    <li>siteThreat-&gt;Здесь обитает стая животных ([AnimalPlural]).</li>
+    <li>siteThreat-&gt;Объект охраняют агрессивные животные ([AnimalPlural], всего: [Number]).</li>
+    <li>siteThreat-&gt;На объекте находятся враждебные животные ([AnimalPlural], всего: [Number]).</li>
+    <li>studyWarning-&gt;Чтобы найти ценные сведения, необходимо тщательно исследовать местность.</li>
+    <li>studyWarning-&gt;Нужно внимательно изучить древние машины и компоненты генератора.</li>
+    <li>studyWarning-&gt;Для получения знаний придётся тщательно исследовать записи и детали генератора.</li>
+    <li>studyWarning-&gt;Тщательное исследование поможет извлечь полезные данные.</li>
+    <li>studyWarning-&gt;Эти данные могут оказаться особенно важными, поэтому необходимо изучить объект как можно тщательнее.</li>
+    <li>questFailWarning-&gt;Если уничтожить более половины пригодных для изучения машин и записей, задание будет провалено.</li>
+    <li>questFailWarning-&gt;Чрезмерное разрушение комплекса приведёт к провалу задания.</li>
+    <li>questFailWarning-&gt;Уничтожение слишком большого количества исследовательских материалов приведёт к провалу задания.</li>
+    <li>questFailWarning-&gt;Если не сохранить достаточно пригодных для изучения компонентов, задание закончится провалом.</li>
+    <li>questFailWarning-&gt;Действуйте осторожно: успех задания зависит от сохранности объекта.</li>
+    <li>questOutcome-&gt;может привести нас к настоящему АРК.</li>
+    <li>questOutcome-&gt;может раскрыть местоположение настоящего АРК.</li>
+    <li>questOutcome-&gt;может указать путь к окончательной версии проекта АРК.</li>
+    <li>questOutcome-&gt;может подсказать, как продолжить поиски древнего АРК.</li>
+    <li>questOutcome-&gt;приблизит нас к разгадке тайн АРК.</li>
+  </VQE_AbandonedARC.questDescriptionRules.rulesStrings>
+  <VQE_AbandonedARC.questNameRules.rulesStrings>
+    <li>questName-&gt;[adj] [constructionName]</li>
+    <li>adj-&gt;Разросшийся</li>
+    <li>adj-&gt;Заброшенный</li>
+    <li>adj-&gt;Заводской</li>
+    <li>adj-&gt;Обветшавший</li>
+    <li>adj-&gt;Древний</li>
+    <li>adj-&gt;Забытый</li>
+    <li>adj-&gt;Заросший</li>
+    <li>adj-&gt;Недостроенный</li>
+    <li>adj-&gt;Обширный</li>
+    <li>adj-&gt;Незавершённый</li>
+    <li>adj-&gt;Ветхий</li>
+    <li>adj-&gt;Отдалённый</li>
+    <li>adj-&gt;Загадочный</li>
+    <li>adj-&gt;Закрытый</li>
+    <li>adj-&gt;Некогда оживлённый</li>
+    <li>constructionName-&gt;строительный комплекс</li>
+    <li>constructionName-&gt;центр разработок</li>
+    <li>constructionName-&gt;промышленный комплекс</li>
+    <li>constructionName-&gt;цех</li>
+    <li>constructionName-&gt;энергокомплекс</li>
+    <li>constructionName-&gt;генераторный комплекс</li>
+    <li>constructionName-&gt;сборочный цех</li>
+    <li>constructionName-&gt;испытательный центр</li>
+    <li>constructionName-&gt;рабочий посёлок</li>
+    <li>constructionName-&gt;полигон прототипов</li>
+    <li>constructionName-&gt;инженерный центр</li>
+    <li>constructionName-&gt;строительный объект</li>
+    <li>constructionName-&gt;комплекс АРК</li>
+    <li>constructionName-&gt;объект энергетического проекта</li>
+  </VQE_AbandonedARC.questNameRules.rulesStrings>
+  <VQE_AncientARC.questContentRules.rulesStrings>
+    <li>terminalStudiedMessage-&gt;Терминал изучен. Информация собрана, можно уходить.</li>
+  </VQE_AncientARC.questContentRules.rulesStrings>
+  <VQE_AncientARC.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[discoveryDesc]. Найдена [adj] деревня с прототипом проекта «[arcName]». Его автор — [inventor_nameFull]; возможно, это окончательная версия. Жители [villagerBehavior], а само поселение [villageCondition].
+
+[arcDetails] Однако [villagerWarnings]. Если [trigger], жители деревни [villagerReaction].
+
+[finalWarning]</li>
+    <li>discoveryDesc-&gt;Вы получили новые сведения</li>
+    <li>discoveryDesc-&gt;Вы сделали открытие</li>
+    <li>discoveryDesc-&gt;Вам удалось определить местоположение следующего объекта</li>
+    <li>adj-&gt;забытая</li>
+    <li>adj-&gt;древняя</li>
+    <li>adj-&gt;скрытая</li>
+    <li>adj-&gt;загадочная</li>
+    <li>adj-&gt;обветшавшая</li>
+    <li>adj-&gt;разрушенная</li>
+    <li>arcName-&gt;АРК</li>
+    <li>arcName-&gt;реликт</li>
+    <li>arcName-&gt;артефакт</li>
+    <li>arcName-&gt;аппарат</li>
+    <li>arcName-&gt;энергоблок</li>
+    <li>villagerBehavior-&gt;чтят [arcName]</li>
+    <li>villagerBehavior-&gt;боготворят [arcName]</li>
+    <li>villagerBehavior-&gt;защищают [arcName]</li>
+    <li>villagerBehavior-&gt;глубоко почитают [arcName]</li>
+    <li>villagerBehavior-&gt;охраняют [arcName]</li>
+    <li>villageCondition-&gt;хранит следы былого технологического величия</li>
+    <li>villageCondition-&gt;заросло и разрушается</li>
+    <li>villageCondition-&gt;докатилось до примитивного быта</li>
+    <li>villageCondition-&gt;давно утратило былое величие</li>
+    <li>villageCondition-&gt;носит следы времени и запустения</li>
+    <li>arcDetails-&gt;Говорят, [arcName] хранит секреты, ценные для вашей колонии.</li>
+    <li>arcDetails-&gt;Если изучить [arcName], можно получить важные знания.</li>
+    <li>arcDetails-&gt;Этот древний [arcName] может подсказать, как построить собственный аналог.</li>
+    <li>villagerWarnings-&gt;будьте осторожны и не провоцируйте жителей</li>
+    <li>villagerWarnings-&gt;жители вряд ли обрадуются непрошеным гостям</li>
+    <li>villagerWarnings-&gt;посягательство на их святыню может вызвать враждебность</li>
+    <li>villagerWarnings-&gt;их терпение по отношению к чужакам может быстро иссякнуть</li>
+    <li>trigger-&gt;вы причините кому-нибудь вред, тронете [arcName] или слишком долго задержитесь</li>
+    <li>villagerReaction-&gt;станут враждебными и вызовут подкрепление</li>
+    <li>villagerReaction-&gt;нападут всеми силами</li>
+    <li>villagerReaction-&gt;будут защищать свой дом любой ценой</li>
+    <li>villagerReaction-&gt;ответят жестоким нападением</li>
+    <li>finalWarning-&gt;Если начнутся боевые действия, подкрепление может прибыть очень быстро.</li>
+    <li>finalWarning-&gt;В случае конфликта ожидайте серьёзного сопротивления.</li>
+    <li>finalWarning-&gt;Промедление может обернуться катастрофой.</li>
+    <li>finalWarning-&gt;Если спровоцировать жителей, будьте готовы к подавляющему ответному удару.</li>
+  </VQE_AncientARC.questDescriptionRules.rulesStrings>
+  <VQE_AncientARC.questNameRules.rulesStrings>
+    <li>questName-&gt;[adj] [arcName]</li>
+    <li>adj-&gt;Забытый</li>
+    <li>adj-&gt;Древний</li>
+    <li>adj-&gt;Таинственный</li>
+    <li>adj-&gt;Священный</li>
+    <li>adj-&gt;Скрытый</li>
+    <li>adj-&gt;Покинутый</li>
+    <li>adj-&gt;Племенной</li>
+    <li>adj-&gt;Утраченный</li>
+    <li>adj-&gt;Заросший</li>
+    <li>arcName(p=4)-&gt;АРК</li>
+    <li>arcName-&gt;объект</li>
+    <li>arcName-&gt;механизм</li>
+    <li>arcName-&gt;реликт</li>
+    <li>arcName-&gt;генератор</li>
+    <li>arcName-&gt;энергоблок</li>
+    <li>arcName-&gt;артефакт</li>
+    <li>arcName-&gt;аппарат</li>
+    <li>arcName-&gt;источник</li>
+  </VQE_AncientARC.questNameRules.rulesStrings>
+  <VQE_ArcSite.questDescriptionRules.rulesStrings>
+    <li>questDescription(asker_factionLeader==True)-&gt;[asker_nameFull], [asker_faction_leaderTitle] фракции «[asker_faction_name]», присылает сообщение. Заброшенный комплекс генератора АРК захватили [siteFaction_pawnsPlural]. Теперь лагерь контролирует фракция «[siteFaction_name]».
+
+[asker_nameDef] просит зачистить объект, уничтожив всех врагов и оборонительные сооружения. После этого можно будет изучить генератор и извлечь ценные компоненты АРК. [asker_label] также сообщает, что [sitePart0_description].</li>
+    <li>questDescription(askerIsNull==true)-&gt;Мы получили сведения: старый комплекс генератора АРК захватили [siteFaction_pawnsPlural] из фракции «[siteFaction_name]». Бандиты укрепили позиции и используют объект как убежище.
+
+После зачистки можно будет осмотреть генератор, найти сохранившиеся исследовательские данные и извлечь компоненты АРК. Готовьтесь к сопротивлению: объект, вероятно, хорошо охраняется. Также известно, что [sitePart0_description].</li>
+    <li>sitePart0_description-&gt;объект частично зарос, а многие старые постройки разрушаются от времени</li>
+    <li>sitePart0_description-&gt;бандиты укрепили объект самодельными заграждениями и ловушками</li>
+    <li>sitePart0_description-&gt;генератор АРК заметно повреждён, но из него ещё можно извлечь ценные детали</li>
+    <li>sitePart0_description-&gt;объект сочетает древние руины и наспех разбитые бандитские лагеря</li>
+    <li>sitePart0_description-&gt;по периметру замечены вражеские патрули</li>
+    <li>sitePart0_description-&gt;бандиты используют генераторный комплекс для своих нужд</li>
+  </VQE_ArcSite.questDescriptionRules.rulesStrings>
+  <VQE_ArcSite.questNameRules.rulesStrings>
+    <li>questName-&gt;[adj] [arcName]</li>
+    <li>adj-&gt;Заброшенный</li>
+    <li>adj-&gt;Обветшавший</li>
+    <li>adj-&gt;Покинутый</li>
+    <li>adj-&gt;Разрушенный</li>
+    <li>adj-&gt;Отдалённый</li>
+    <li>adj-&gt;Опустевший</li>
+    <li>adj-&gt;Забытый</li>
+    <li>adj-&gt;Скрытый</li>
+    <li>adj-&gt;Захваченный бандитами</li>
+    <li>adj-&gt;Вражеский</li>
+    <li>adj-&gt;Укромный</li>
+    <li>adj-&gt;Захваченный</li>
+    <li>adj-&gt;Опасный</li>
+    <li>arcName-&gt;комплекс генератора АРК</li>
+    <li>arcName-&gt;энергетический объект</li>
+    <li>arcName-&gt;генераторный узел</li>
+    <li>arcName-&gt;промышленный энергоблок</li>
+    <li>arcName-&gt;реликтовый источник энергии</li>
+    <li>arcName-&gt;остов энергоустановки</li>
+    <li>arcName-&gt;остов комплекса АРК</li>
+    <li>arcName-&gt;прототип генератора</li>
+  </VQE_ArcSite.questNameRules.rulesStrings>
+  <VQE_ArcSite.root.nodes.2.node.nodes.0.label.slateRef>Срок задания истёк: [resolvedQuestName]</VQE_ArcSite.root.nodes.2.node.nodes.0.label.slateRef>
+  <VQE_ArcSite.root.nodes.2.node.nodes.0.text.slateRef>Бандиты свернули лагерь и ушли. Срок задания [resolvedQuestName] истёк.</VQE_ArcSite.root.nodes.2.node.nodes.0.text.slateRef>
+  <VQE_ArcSite.root.nodes.3.node.nodes.0.label.slateRef>Задание провалено: [resolvedQuestName]</VQE_ArcSite.root.nodes.3.node.nodes.0.label.slateRef>
+  <VQE_ArcSite.root.nodes.3.node.nodes.0.text.slateRef>После обнаружения бандиты покинули лагерь и разошлись. Задание [resolvedQuestName] завершилось.</VQE_ArcSite.root.nodes.3.node.nodes.0.text.slateRef>
+  <VQE_ArcSite.root.nodes.4.node.nodes.1.node.nodes.0.customLetterLabel.slateRef>Оплата прибыла</VQE_ArcSite.root.nodes.4.node.nodes.1.node.nodes.0.customLetterLabel.slateRef>
+  <VQE_ArcSite.root.nodes.4.node.nodes.1.node.nodes.0.customLetterText.slateRef>Вы разгромили бандитский лагерь!\n\nОплата от [asker_faction_name] прибыла.</VQE_ArcSite.root.nodes.4.node.nodes.1.node.nodes.0.customLetterText.slateRef>
+  <VQE_GeothermalArcSite.questDescriptionRules.rulesStrings>
+    <li>questDescription(asker_factionLeader==True)-&gt;[asker_nameFull], [asker_faction_leaderTitle] фракции «[asker_faction_name]», присылает сообщение. Заброшенный геотермальный комплекс АРК захватили [siteFaction_pawnsPlural]. Теперь лагерь контролирует фракция «[siteFaction_name]».
+
+[asker_nameDef] просит зачистить объект, уничтожив всех врагов и оборонительные сооружения. После этого можно будет изучить геотермальный АРК и извлечь ценные компоненты для дальнейшего использования. Также известно, что [sitePart0_description].</li>
+    <li>questDescription(askerIsNull==true)-&gt;Мы получили сведения: старый геотермальный комплекс АРК захватили [siteFaction_pawnsPlural] из фракции «[siteFaction_name]». Бандиты укрепили позиции и используют объект для контроля окрестностей.
+
+После зачистки можно будет изучить геотермальный АРК и извлечь полезные компоненты. Объект, вероятно, хорошо защищён, поэтому готовьтесь к сопротивлению. Также известно, что [sitePart0_description].</li>
+    <li>sitePart0_description-&gt;объект частично зарос, а вокруг разбросаны остатки старых механизмов</li>
+    <li>sitePart0_description-&gt;бандиты укрепили территорию грубыми баррикадами и сторожевыми постами</li>
+    <li>sitePart0_description-&gt;геотермальный АРК сильно изношен, но ещё достаточно цел для разборки на детали</li>
+    <li>sitePart0_description-&gt;сооружения комплекса ещё стоят, хотя заметно обветшали</li>
+    <li>sitePart0_description-&gt;местность охраняют вражеские патрули, не позволяющие приблизиться беспрепятственно</li>
+    <li>sitePart0_description-&gt;бандиты, по-видимому, используют комплекс АРК для своих нужд</li>
+  </VQE_GeothermalArcSite.questDescriptionRules.rulesStrings>
+  <VQE_GeothermalArcSite.questNameRules.rulesStrings>
+    <li>questName-&gt;[adj] [siteType]: [arcType]</li>
+    <li>adj-&gt;Захваченный</li>
+    <li>adj-&gt;Заброшенный</li>
+    <li>adj-&gt;Охраняемый</li>
+    <li>adj-&gt;Древний</li>
+    <li>adj-&gt;Захваченный врагами</li>
+    <li>adj-&gt;Занятый</li>
+    <li>adj-&gt;Спорный</li>
+    <li>adj-&gt;Разрушенный</li>
+    <li>adj-&gt;Забытый</li>
+    <li>adj-&gt;Скрытый</li>
+    <li>arcType-&gt;геотермальный АРК</li>
+    <li>arcType-&gt;генератор АРК</li>
+    <li>arcType-&gt;геотермальный энергоблок</li>
+    <li>arcType-&gt;станция АРК</li>
+    <li>arcType-&gt;энергетическое ядро</li>
+    <li>arcType-&gt;источник энергии</li>
+    <li>arcType-&gt;геотермальная установка</li>
+    <li>siteType-&gt;объект</li>
+    <li>siteType-&gt;центр</li>
+    <li>siteType-&gt;аванпост</li>
+    <li>siteType-&gt;комплекс</li>
+    <li>siteType-&gt;лагерь</li>
+    <li>siteType-&gt;энергоузел</li>
+  </VQE_GeothermalArcSite.questNameRules.rulesStrings>
+  <VQE_GeothermalArcSite.root.nodes.2.node.nodes.0.label.slateRef>Срок задания истёк: [resolvedQuestName]</VQE_GeothermalArcSite.root.nodes.2.node.nodes.0.label.slateRef>
+  <VQE_GeothermalArcSite.root.nodes.2.node.nodes.0.text.slateRef>Бандиты свернули лагерь и ушли. Срок задания [resolvedQuestName] истёк.</VQE_GeothermalArcSite.root.nodes.2.node.nodes.0.text.slateRef>
+  <VQE_GeothermalArcSite.root.nodes.3.node.nodes.0.label.slateRef>Задание провалено: [resolvedQuestName]</VQE_GeothermalArcSite.root.nodes.3.node.nodes.0.label.slateRef>
+  <VQE_GeothermalArcSite.root.nodes.3.node.nodes.0.text.slateRef>После обнаружения бандиты покинули лагерь и разошлись. Задание [resolvedQuestName] завершилось.</VQE_GeothermalArcSite.root.nodes.3.node.nodes.0.text.slateRef>
+  <VQE_GeothermalArcSite.root.nodes.4.node.nodes.1.node.nodes.0.customLetterLabel.slateRef>Оплата прибыла</VQE_GeothermalArcSite.root.nodes.4.node.nodes.1.node.nodes.0.customLetterLabel.slateRef>
+  <VQE_GeothermalArcSite.root.nodes.4.node.nodes.1.node.nodes.0.customLetterText.slateRef>Вы разгромили бандитский лагерь!\n\nОплата от [asker_faction_name] прибыла.</VQE_GeothermalArcSite.root.nodes.4.node.nodes.1.node.nodes.0.customLetterText.slateRef>
+  <VQE_InventorShelter.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[dataDiscovery] указали, где находится [adj] подземный [structureType]. Там в криптосне покоится [inventor_nameFull]. Путь будет тяжёлым: в районе наблюдается [coldSnapDesc], и температура упала до неестественно низких значений.
+
+Внутри бункера по-прежнему действуют [turretDefense]. Их питает древний [arcName]. Изучить этот АРК нельзя, но при разборке можно получить [arcComponents]. Однако главная задача — добраться до саркофага и освободить изобретателя. Тщательно подготовьтесь к экстремальному холоду, иначе велик риск [hypothermiaDanger].</li>
+    <li>questDescription-&gt;Восстановленные данные указали на [adj] бункер глубоко под землёй. В районе наблюдается [coldSnapDesc]. Именно здесь в саркофаге криптосна покоится [inventor_nameFull] — легендарный создатель проекта АРК.
+
+Температура падает до опасно низких значений, и уже на подходе возникает риск [hypothermiaDanger]. Внутри действуют [turretDefense], которые питает заросший [arcName]. АРК можно разобрать, чтобы получить [arcComponents], но главная награда — освободить изобретателя и доставить в свою колонию.</li>
+    <li>questDescription-&gt;Мы выяснили, где находится [adj] [structureType], в котором [inventor_nameFull] покоится в саркофаге криптосна. В окрестностях наблюдается [coldSnapDesc], и температура опускается до смертельно опасных значений.
+
+В бункере находятся [turretDefense]. Их питает заросший [arcName]. Изучить АРК нельзя, но при разборке можно получить [arcComponents]. Готовьтесь к жестокому морозу и риску переохлаждения во время спасения легендарного изобретателя.</li>
+    <li>dataDiscovery-&gt;Древние схемы</li>
+    <li>dataDiscovery-&gt;Расшифрованные передачи</li>
+    <li>dataDiscovery-&gt;Восстановленные координаты</li>
+    <li>dataDiscovery-&gt;Архивные журналы данных</li>
+    <li>adj-&gt;забытый</li>
+    <li>adj-&gt;древний</li>
+    <li>adj-&gt;скрытый</li>
+    <li>adj-&gt;запечатанный</li>
+    <li>adj-&gt;заброшенный</li>
+    <li>adj-&gt;заросший</li>
+    <li>adj-&gt;загадочный</li>
+    <li>adj-&gt;отдалённый</li>
+    <li>structureType-&gt;бункер</li>
+    <li>structureType-&gt;схрон</li>
+    <li>structureType-&gt;приют</li>
+    <li>structureType-&gt;зал</li>
+    <li>structureType-&gt;склеп</li>
+    <li>structureType-&gt;комплекс</li>
+    <li>coldSnapDesc-&gt;неестественное похолодание</li>
+    <li>coldSnapDesc-&gt;странная морозная аномалия</li>
+    <li>coldSnapDesc-&gt;необъяснимый холодный фронт</li>
+    <li>coldSnapDesc-&gt;загадочное глубокое промерзание</li>
+    <li>coldSnapDesc-&gt;внезапное резкое падение температуры</li>
+    <li>coldSnapDesc-&gt;смертоносная морозная аномалия</li>
+    <li>turretDefense-&gt;турели, обычно бездействующие, но изредка оживающие</li>
+    <li>turretDefense-&gt;несколько старых охранных турелей</li>
+    <li>turretDefense-&gt;старые, но всё ещё смертоносные автоматические турели</li>
+    <li>turretDefense-&gt;защитные системы, работающие с перебоями</li>
+    <li>turretDefense-&gt;несколько ветхих, но ещё действующих турелей</li>
+    <li>arcComponents-&gt;редкие компоненты АРК</li>
+    <li>arcComponents-&gt;ценные технологические детали</li>
+    <li>arcComponents-&gt;важные запчасти АРК</li>
+    <li>arcComponents-&gt;фрагменты усовершенствованного генератора</li>
+    <li>hypothermiaDanger-&gt;обморожений и переохлаждения</li>
+    <li>hypothermiaDanger-&gt;стремительного переохлаждения</li>
+    <li>hypothermiaDanger-&gt;смертельно опасного воздействия холода</li>
+    <li>hypothermiaDanger-&gt;обморожений и истощения</li>
+    <li>hypothermiaDanger-&gt;тяжёлых обморожений или смерти</li>
+    <li>arcName-&gt;генератор АРК</li>
+  </VQE_InventorShelter.questDescriptionRules.rulesStrings>
+  <VQE_InventorShelter.questNameRules.rulesStrings>
+    <li>questName-&gt;[Inventor_LastName]: [adj] [structureType]</li>
+    <li>adj-&gt;забытый</li>
+    <li>adj-&gt;древний</li>
+    <li>adj-&gt;скрытый</li>
+    <li>adj-&gt;заброшенный</li>
+    <li>adj-&gt;запечатанный</li>
+    <li>adj-&gt;загадочный</li>
+    <li>adj-&gt;отдалённый</li>
+    <li>adj-&gt;затерянный</li>
+    <li>adj-&gt;тайный</li>
+    <li>adj-&gt;покинутый</li>
+    <li>structureType-&gt;бункер</li>
+    <li>structureType-&gt;схрон</li>
+    <li>structureType-&gt;склеп</li>
+    <li>structureType-&gt;мавзолей</li>
+    <li>structureType-&gt;зал</li>
+    <li>structureType-&gt;приют</li>
+    <li>structureType-&gt;комплекс</li>
+    <li>structureType-&gt;схрон</li>
+  </VQE_InventorShelter.questNameRules.rulesStrings>
+  <VQE_NuclearArcSite.questDescriptionRules.rulesStrings>
+    <li>questDescription(asker_factionLeader==True)-&gt;[asker_nameFull], [asker_faction_leaderTitle] фракции «[asker_faction_name]», присылает сообщение. Заброшенный объект с остовом ядерного АРК захватили [siteFaction_pawnsPlural]. Сейчас лагерь контролирует фракция «[siteFaction_name]».
+
+[asker_nameDef] просит зачистить объект, уничтожив всех врагов и оборонительные сооружения. После этого можно будет изучить остов ядерного АРК и извлечь ценные компоненты. [asker_label] также сообщает, что [sitePart0_description]. [sitePart1_description]</li>
+    <li>questDescription(askerIsNull==true)-&gt;Мы получили разведданные: заброшенный объект с остовом ядерного АРК захватили [siteFaction_pawnsPlural] из фракции «[siteFaction_name]». Бандиты укрепили позиции и используют объект как убежище.
+
+После зачистки можно будет осмотреть остов ядерного АРК, найти сохранившиеся исследовательские данные и извлечь компоненты. Готовьтесь к сопротивлению: бандиты, вероятно, возвели серьёзные укрепления. Также известно, что [sitePart0_description]. [sitePart1_description]</li>
+    <li>sitePart0_description-&gt;остов ядерного АРК окружён зарослями, а значительная часть конструкции обветшала</li>
+    <li>sitePart0_description-&gt;бандиты основательно укрепили территорию самодельными заграждениями и ловушками</li>
+    <li>sitePart0_description-&gt;остов частично сохранился, так что из него, возможно, удастся извлечь ценные детали</li>
+    <li>sitePart0_description-&gt;на объекте древние промышленные руины перемежаются ветхими бандитскими лагерями</li>
+    <li>sitePart0_description-&gt;по периметру замечены вражеские патрули</li>
+    <li>sitePart0_description-&gt;бандиты заняли остов АРК и используют объект для своих нужд</li>
+    <li>sitePart1_description-&gt;Вся местность накрыта токсичными осадками. Без подходящего снаряжения долго находиться здесь опасно.</li>
+    <li>sitePart1_description-&gt;Над объектом нависло плотное облако токсичных осадков, создающее дополнительную опасность для всех, кто попытается приблизиться.</li>
+    <li>sitePart1_description-&gt;Токсичные осадки из старого реактора АРК отравили местность и представляют серьёзную угрозу.</li>
+    <li>sitePart1_description-&gt;Объект накрыт токсичными осадками; без защитного снаряжения выжить здесь крайне трудно.</li>
+    <li>sitePart1_description-&gt;Опасные осадки окутывают местность — мрачное напоминание о нестабильном ядерном прошлом АРК.</li>
+  </VQE_NuclearArcSite.questDescriptionRules.rulesStrings>
+  <VQE_NuclearArcSite.questNameRules.rulesStrings>
+    <li>questName-&gt;[adj] [nuclearArcName]</li>
+    <li>adj-&gt;Заброшенный</li>
+    <li>adj-&gt;Разрушенный</li>
+    <li>adj-&gt;Захваченный бандитами</li>
+    <li>adj-&gt;Забытый</li>
+    <li>adj-&gt;Обветшавший</li>
+    <li>adj-&gt;Древний</li>
+    <li>adj-&gt;Захваченный</li>
+    <li>adj-&gt;Осквернённый</li>
+    <li>adj-&gt;Опасный</li>
+    <li>adj-&gt;Скрытый</li>
+    <li>nuclearArcName-&gt;ядерный комплекс АРК</li>
+    <li>nuclearArcName-&gt;остов АРК</li>
+    <li>nuclearArcName-&gt;остов реактора</li>
+    <li>nuclearArcName-&gt;остов комплекса АРК</li>
+    <li>nuclearArcName-&gt;реликтовый генератор</li>
+    <li>nuclearArcName-&gt;реакторный блок</li>
+    <li>nuclearArcName-&gt;остов энергоустановки</li>
+    <li>nuclearArcName-&gt;энергетический схрон</li>
+    <li>nuclearArcName-&gt;реактор</li>
+    <li>nuclearArcName-&gt;генераторный объект</li>
+  </VQE_NuclearArcSite.questNameRules.rulesStrings>
+  <VQE_NuclearArcSite.root.nodes.2.node.nodes.0.label.slateRef>Срок задания истёк: [resolvedQuestName]</VQE_NuclearArcSite.root.nodes.2.node.nodes.0.label.slateRef>
+  <VQE_NuclearArcSite.root.nodes.2.node.nodes.0.text.slateRef>Бандиты свернули лагерь и ушли. Срок задания [resolvedQuestName] истёк.</VQE_NuclearArcSite.root.nodes.2.node.nodes.0.text.slateRef>
+  <VQE_NuclearArcSite.root.nodes.3.node.nodes.0.label.slateRef>Задание провалено: [resolvedQuestName]</VQE_NuclearArcSite.root.nodes.3.node.nodes.0.label.slateRef>
+  <VQE_NuclearArcSite.root.nodes.3.node.nodes.0.text.slateRef>После обнаружения бандиты покинули лагерь и разошлись. Задание [resolvedQuestName] завершилось.</VQE_NuclearArcSite.root.nodes.3.node.nodes.0.text.slateRef>
+  <VQE_NuclearArcSite.root.nodes.4.node.nodes.1.node.nodes.0.customLetterLabel.slateRef>Оплата прибыла</VQE_NuclearArcSite.root.nodes.4.node.nodes.1.node.nodes.0.customLetterLabel.slateRef>
+  <VQE_NuclearArcSite.root.nodes.4.node.nodes.1.node.nodes.0.customLetterText.slateRef>Вы разгромили бандитский лагерь!\n\nОплата от [asker_faction_name] прибыла.</VQE_NuclearArcSite.root.nodes.4.node.nodes.1.node.nodes.0.customLetterText.slateRef>
+  <VQE_PrototypeARC.questContentRules.rulesStrings>
+    <li>terminalStudiedMessage-&gt;Терминал изучен. Информация собрана, можно уходить.</li>
+  </VQE_PrototypeARC.questContentRules.rulesStrings>
+  <VQE_PrototypeARC.questDescriptionRules.rulesStrings>
+    <li>questDescription(asker_factionLeader==True)-&gt;[asker_nameDef], [asker_faction_leaderTitle] фракции «[asker_faction_name]», сообщает о древней строительной площадке, где когда-то создавался огромный прототип генератора. Автор проекта — [inventor_nameFull]. Площадка выглядит заброшенной и находится в уединённом месте среди остатков давно забытого строительства.
+
+[terminalDetails] Здесь можно получить [potentialRewards]. [journeyDetails] [finalDetails]</li>
+    <li>questDescription(askerIsNull==True)-&gt;Мы обнаружили древнюю строительную площадку, где когда-то создавался большой прототип генератора. Автор проекта — [inventor_nameFull]. Площадка находится в отдалённом месте среди остатков так и не завершённого строительства.
+
+[terminalDetails] Исследование этого места может принести [potentialRewards]. [journeyDetails] [finalDetails]</li>
+    <li>terminalDetails-&gt;Здесь сохранился работающий терминал с исследовательскими записями и схемами. Их автор — [inventor_nameFull].</li>
+    <li>terminalDetails-&gt;Работающий терминал хранит важные журналы данных и результаты опытов по созданию генераторов.</li>
+    <li>terminalDetails-&gt;По слухам, в местном терминале хранятся чертежи и результаты прорывных исследований в энергетике.</li>
+    <li>terminalDetails-&gt;Древние системы всё ещё тихо гудят. Они могут пролить свет на смелый замысел прототипа, чей создатель — [inventor_nameFull].</li>
+    <li>terminalDetails-&gt;В повреждённом терминале ещё могут сохраниться данные о прототипе АРК, но его состояние неизвестно.</li>
+    <li>potentialRewards-&gt;редкие компоненты, ценные исследовательские данные и полезные ресурсы</li>
+    <li>potentialRewards-&gt;необходимые материалы, схемы генератора и знания о передовых технологиях</li>
+    <li>potentialRewards-&gt;ценные знания, необычные строительные материалы и редкие артефакты</li>
+    <li>potentialRewards-&gt;важные результаты исследований и множество пригодных материалов</li>
+    <li>potentialRewards-&gt;редкую добычу и, возможно, революционные знания об энергетике</li>
+    <li>journeyDetails-&gt;Площадка далеко, поэтому к путешествию придётся тщательно подготовиться.</li>
+    <li>journeyDetails-&gt;Дальний путь усложнит экспедицию, но находки могут оправдать усилия.</li>
+    <li>journeyDetails-&gt;Дорога потребует немало времени и ресурсов.</li>
+    <li>journeyDetails-&gt;Путешествие в это отдалённое место может быть опасным, но стоить затраченных усилий.</li>
+    <li>journeyDetails-&gt;В таком глухом месте непосредственных угроз, вероятно, немного, зато особенно важны припасы.</li>
+    <li>finalDetails-&gt;Явных опасностей не ожидается, но сама дорога рискованна для неподготовленных поселенцев.</li>
+    <li>finalDetails-&gt;Объект кажется заброшенным, но осторожность не помешает: вдали от людей могут ждать неожиданные трудности.</li>
+    <li>finalDetails-&gt;Местность выглядит необитаемой, но древние руины могут затруднить передвижение и выживание.</li>
+    <li>finalDetails-&gt;Надейтесь на лучшее и готовьтесь к худшему: за возможностями часто скрывается риск.</li>
+    <li>finalDetails-&gt;Уединение может защитить от опасностей, но в случае беды почти не оставляет права на ошибку.</li>
+  </VQE_PrototypeARC.questDescriptionRules.rulesStrings>
+  <VQE_PrototypeARC.questNameRules.rulesStrings>
+    <li>questName-&gt;[adj] [prototypeName]</li>
+    <li>adj-&gt;Незаконченный</li>
+    <li>adj-&gt;Заброшенный</li>
+    <li>adj-&gt;Экспериментальный</li>
+    <li>adj-&gt;Древний</li>
+    <li>adj-&gt;Забытый</li>
+    <li>adj-&gt;Обветшавший</li>
+    <li>adj-&gt;Неудавшийся</li>
+    <li>adj-&gt;Непроверенный</li>
+    <li>adj-&gt;Загадочный</li>
+    <li>adj-&gt;Частично завершённый</li>
+    <li>adj-&gt;Недостроенный</li>
+    <li>adj-&gt;Ранний</li>
+    <li>adj-&gt;Скрытый</li>
+    <li>prototypeName-&gt;прототип</li>
+    <li>prototypeName-&gt;эксперимент</li>
+    <li>prototypeName-&gt;замысел</li>
+    <li>prototypeName-&gt;проект</li>
+    <li>prototypeName-&gt;энергоблок</li>
+    <li>prototypeName-&gt;механизм</li>
+    <li>prototypeName-&gt;концепт</li>
+    <li>prototypeName-&gt;генератор</li>
+    <li>prototypeName-&gt;источник энергии</li>
+    <li>prototypeName-&gt;аппарат</li>
+    <li>prototypeName-&gt;образец</li>
+    <li>prototypeName-&gt;артефакт</li>
+    <li>prototypeName-&gt;испытательный полигон</li>
+    <li>prototypeName-&gt;каркас</li>
+  </VQE_PrototypeARC.questNameRules.rulesStrings>
+</LanguageData>

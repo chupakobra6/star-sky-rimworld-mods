@@ -1,0 +1,112 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <OpportunitySite_OrbitalPlatform.questDescriptionRules.rulesStrings>
+    <li>discoveryMethod(pulseDetected==false,traderMentioned==false)-&gt;Местные разведчики сообщили об объекте:</li>
+    <li>discoveryMethod(pulseDetected==false,traderMentioned==false)-&gt;Изучив местные карты, мы обнаружили объект:</li>
+    <li>discoveryMethod(pulseDetected==false,traderMentioned==false)-&gt;Странствующий путник упомянул объект:</li>
+    <li>discoveryMethod(pulseDetected==false,traderMentioned==false)-&gt;Из перехваченных переговоров стало известно об объекте:</li>
+    <li>discoveryMethod(pulseDetected==false,traderMentioned==false)-&gt;Беженцы, покинувшие свои дома, сообщили об объекте:</li>
+    <li>discoveryMethod(pulseDetected==false,traderMentioned==false)-&gt;Дорожных сборщиков пошлин заметили у объекта:</li>
+    <li>discoveryMethod(pulseDetected==false,traderMentioned==false)-&gt;Дезертир сообщил расположение объекта:</li>
+    <li>discoveryMethod(pulseDetected==false,traderMentioned==false)-&gt;Захваченные работники рассказали об объекте:</li>
+    <li>discoveryMethod(pulseDetected==false,traderMentioned==false)-&gt;Раненый путник рассказал об объекте:</li>
+    <li>discoveryMethod(pulseDetected==false,traderMentioned==false)-&gt;Охрана открыто останавливает прохожих у объекта:</li>
+    <li>discoveryMethod(pulseDetected==false,traderMentioned==false)-&gt;Пьяный бродяга проговорился о расположении объекта:</li>
+    <li>discoveryMethod(pulseDetected==false,traderMentioned==false)-&gt;Необычное движение по дороге указывает на объект:</li>
+    <li>discoveryMethod(pulseDetected==false,traderMentioned==false)-&gt;Рабочих заметили при перевозке грузов у объекта:</li>
+    <li>discoveryMethod(pulseDetected==true)-&gt;Наш импульсный излучатель обнаружил объект:</li>
+    <li>discoveryMethod(pulseDetected==true)-&gt;Сканирование импульсным излучателем выявило объект:</li>
+    <li>discoveryMethod(pulseDetected==true)-&gt;Данные импульсного излучателя подтвердили наличие объекта:</li>
+    <li>discoveryMethod(pulseDetected==true)-&gt;Излучатель определил расположение объекта:</li>
+    <li>discoveryMethod(pulseDetected==true)-&gt;Испущенный нами импульс обнаружил объект:</li>
+    <li>discoveryMethod(traderMentioned==true)-&gt;Проходящий торговец упомянул объект:</li>
+    <li>discoveryMethod(traderMentioned==true)-&gt;Странствующий купец сообщил расположение объекта:</li>
+    <li>discoveryMethod(traderMentioned==true)-&gt;Во время торговли караванщик рассказал, что недавно покупал товары на объекте:</li>
+    <li>discoveryMethod(traderMentioned==true)-&gt;Местный торговец рассказал, что недавно заключил сделку на объекте:</li>
+    <li>discoveryMethod(traderMentioned==true)-&gt;Проходящий купец упомянул объект:</li>
+    <li>questDescription(isFirstQuest==true)-&gt;[sender_article] [senderColor][sender_label]&lt;/color&gt; связывается с вами [contactMethod].\n\n[introText]\n\nВы можете нападать на рабочие объекты, находя их на карте мира.\n\nЧтобы [reason], вам готовы сообщить расположение объекта типа «[siteType]» неподалёку от [map_definite]. [intelReport][factionDescriptor]\n\n[factionWarning]\n\n[rewardHint]</li>
+    <li>senderColor-&gt;&lt;color=#6495ED&gt;</li>
+    <li>senderColor-&gt;&lt;color=#FFA500&gt;</li>
+    <li>senderColor-&gt;&lt;color=#FF4444&gt;</li>
+    <li>introText-&gt;Мегакорпорации, местные военачальники и поселенцы защищают владения с помощью наёмников и найденных технологий миров-утопий. Поэтому они опасные противники, а их имущество — ценный источник запчастей.</li>
+    <li>introText-&gt;Корпорации с других планет, преступные синдикаты и местные анклавы контролируют ресурсы и торговые пути. Их частные армии и вооружение делают их опасными противниками, а их имущество — ценным источником запчастей.</li>
+    <li>introText-&gt;Соперничающие корпорации, пираты и поселенцы постоянно борются за территории, богатство и возможности. Их военная техника и крепости делают их опасными противниками, а их имущество — ценным источником запчастей.</li>
+    <li>reason-&gt;нарушить работу враждебной фракции</li>
+    <li>reason-&gt;ослабить конкурентов и продвинуться в политической карьере</li>
+    <li>reason-&gt;подняться по служебной лестнице корпорации, устранив соперников</li>
+    <li>reason-&gt;просто посеять хаос</li>
+    <li>factionWarning(faction_temporary==false,isPirate==true)-&gt;Фракция «[enemyFaction_name]» поработила местное население.</li>
+    <li>factionWarning(faction_temporary==false,isPirate==false)-&gt;Этот объект — дочернее предприятие фракции «[enemyFaction_name]». Нападение на него повлечёт дипломатические последствия в отношениях с этой фракцией.</li>
+    <li>factionWarning(faction_temporary==false,isPirate==false)-&gt;Этот объект платит дань фракции «[enemyFaction_name]». Нападение на него повлечёт дипломатические последствия в отношениях со всеми её владениями.</li>
+    <li>factionWarning(faction_temporary==false,isPirate==false)-&gt;Этот объект принадлежит фракции «[enemyFaction_name]». Любое нападение будет открытым актом вражды.</li>
+    <li>factionWarning(faction_temporary==false,isPirate==false)-&gt;Объектом управляет фракция «[enemyFaction_name]». Любые враждебные действия будут расценены как объявление ей войны.</li>
+    <li>factionWarning(faction_temporary==false,isPirate==false)-&gt;Это предприятие находится под защитой фракции «[enemyFaction_name]». Налёт ухудшит ваши отношения с ней.</li>
+    <li>factionWarning(faction_temporary==false,isPirate==false)-&gt;Это предприятие работает по разрешению фракции «[enemyFaction_name]». Налёт нарушит её права и повлечёт дипломатические последствия.</li>
+    <li>factionWarning(faction_temporary==true)-&gt;Это всего лишь небольшая независимая группа, поэтому на неё можно напасть без более широких дипломатических последствий.</li>
+    <li>factionWarning(faction_temporary==true)-&gt;Это независимое предприятие без связей с крупными фракциями. Нападение на него не повлияет на ваши остальные отношения.</li>
+    <li>factionWarning(faction_temporary==true)-&gt;По данным разведки, эта группа действует независимо. С ней можно вступить в бой без риска более широких дипломатических последствий.</li>
+    <li>factionWarning(faction_temporary==true)-&gt;Цель — независимая организация без могущественных союзников. Нападение на неё не несёт более широких дипломатических рисков.</li>
+    <li>factionWarning(faction_temporary==true)-&gt;Противник не связан с более крупными организациями. Любой конфликт будет считаться частным спором.</li>
+    <li>factionWarning(faction_temporary==true)-&gt;Похоже, местный гарнизон действует неофициально. Любые потери в конфликте можно будет списать на внутренние дела.</li>
+    <li>factionWarning(faction_temporary==true)-&gt;Объектом управляет подставная организация, которой легко пожертвовать; явной головной организации нет. Нападение на неё не должно вызвать конфликт за пределами самого объекта.</li>
+    <li>factionWarning(faction_temporary==true)-&gt;Ни одна крупная фракция не заявила об интересе к этому объекту. Если кто-то и причастен, он будет это отрицать.</li>
+    <li>factionWarning(faction_temporary==true)-&gt;Местные рабочие принадлежат новой организации с ограниченными ресурсами. Уничтожение объекта полностью её ликвидирует.</li>
+    <li>factionWarning(faction_temporary==true)-&gt;У этой группы нет других владений. Уничтожение объекта уничтожит и всю её фракцию.</li>
+    <li>factionWarning(faction_temporary==true)-&gt;У этой группы нет других объектов на этой планете. Уничтожение этого объекта полностью её ликвидирует.</li>
+    <li>factionWarning(faction_temporary==true)-&gt;Это последний, непрочный оплот фракции. Если он падёт, вся фракция исчезнет вместе с ним.</li>
+    <li>questDescription(isFirstQuest==false)-&gt;[discoveryMethod] [siteType] на орбите над [map_definite]. [intelReport][factionDescriptor]\n\n[factionWarning]\n\n[rewardHint]\n\nВы можете мирно добраться до платформы на транспортных капсулах или челноке. Приближение на гравикорабле будет враждебным действием.</li>
+    <li>siteType-&gt;орбитальный перевалочный пункт</li>
+    <li>siteType-&gt;орбитальный платформенный комплекс</li>
+    <li>siteType-&gt;орбитальный жилой комплекс</li>
+    <li>siteType-&gt;космический комплекс</li>
+    <li>siteType-&gt;орбитальный вольный порт</li>
+    <li>siteType-&gt;космический город-комплекс</li>
+    <li>siteType-&gt;переполненный орбитальный посёлок</li>
+    <li>intelReport-&gt;Орбитальная платформа находится на оживлённом торговом пути. Фракция «[enemyFaction_name]» широко представлена в стыковочных отсеках и на командных палубах, но внутренние палубы полны жителей, орбитальных торговцев и азартных игроков.</li>
+    <li>intelReport-&gt;Фракция «[enemyFaction_name]» управляет здешним орбитальным городом-комплексом. Платформа — вольный порт, где торговцы, наёмники и бродяги торгуются в герметичных кварталах.</li>
+    <li>intelReport-&gt;Орбитальный город служит промежуточной остановкой для значительной части гравикораблей региона и подчиняется фракции «[enemyFaction_name]». На его рынках постоянные жители и временные экипажи продают найденное имущество, берут контракты, нанимают наёмников, сбывают грузы и отправляются дальше. Вся экономика держится на постоянном потоке гравикораблей.</li>
+    <li>intelReport-&gt;У парящего над [map_definite] города нет зарегистрированной власти. Постоянные жители и прибывающие гравикорабли вместе участвуют в непрерывной торговле на открытых рынках.</li>
+    <li>intelReport-&gt;Оживлённый перевалочный пункт фракции «[enemyFaction_name]» открыт для всех, кто путешествует между окраинными мирами. Здесь бывают орбитальные торговцы, наёмники, посредники и те, кто скрывается от правосудия.</li>
+    <li>intelReport-&gt;Платформа над этим окраинным миром — место встреч наёмников и независимых подрядчиков этой звёздной системы. Фракция «[enemyFaction_name]» недавно прибыла сюда, чтобы обложить рынки налогом, и вступила в конфликт с остальными обитателями.</li>
+    <li>intelReport-&gt;На переполненной орбитальной платформе бывают наёмники, посредники, раздающие задания в барах, и азартные игроки. Фракция «[enemyFaction_name]» недавно захватила склад и теперь взимает со всех гравикораблей дополнительную плату за топливо.</li>
+    <li>rewardHint-&gt;Платформа открыта для мирного движения. Здесь можно пристыковаться, чтобы заправиться, купить детали космических кораблей, найти контракты, получить имплантаты или сыграть в азартные игры. Попытка захватить платформу силой означает бой с охраной фракции «[enemyFaction_name]», всеми вооружёнными отрядами наёмников, стоящими у причалов, и бортовой системой вооружения.</li>
+    <li>rewardHint-&gt;На платформе может мирно пристыковаться любой, кто ищет работу, азартные игры или имплантаты. Но в грузовых отсеках хранятся и обычные грузы, и редкие товары. Кто контролирует стыковочное кольцо, тот контролирует доступ ко всему этому. Ни один прежний налёт не подготовит вас к такому.</li>
+    <li>rewardHint-&gt;Здесь можно пристыковаться, чтобы заправиться, купить детали космических кораблей, нанять членов экипажа, получить имплантаты или сыграть в азартные игры. Налёт на эту орбитальную платформу — это стрельба в упор, коридор за коридором, без воздуха и без пути к отступлению. Это самый прибыльный и самый опасный налёт.</li>
+    <li>rewardHint-&gt;Гравикорабли непрерывно стыкуются здесь, чтобы заправиться, пополнить запасы и купить новые компоненты. Ближний бой, бортовое оружие и отсутствие выхода означают, что для налёта понадобятся все, кто способен сражаться.</li>
+    <li>rewardHint-&gt;На станции кипит торговля. Через неё в огромных количествах проходят редкие товары, космические технологии и серебро. В любой момент платформа обладает большей совокупной огневой мощью, чем небольшая армия.</li>
+  </OpportunitySite_OrbitalPlatform.questDescriptionRules.rulesStrings>
+  <OpportunitySite_OrbitalPlatform.questNameRules.rulesStrings>
+    <li>questName(isFirstQuest==false)-&gt;[adjective] [platformType]</li>
+    <li>questName(isFirstQuest==false)-&gt;[platformType]: [detected]</li>
+    <li>questName(isFirstQuest==false)-&gt;[platformType] фракции «[enemyFaction_name]»</li>
+    <li>questName(isFirstQuest==false)-&gt;[adjective] орбитальный [hubType]</li>
+    <li>questName(isFirstQuest==false)-&gt;[platformType] фракции «[enemyFaction_name]»</li>
+    <li>adjective-&gt;Дрейфующий</li>
+    <li>adjective-&gt;Спорный</li>
+    <li>adjective-&gt;Незарегистрированный</li>
+    <li>adjective-&gt;Вольный</li>
+    <li>adjective-&gt;Независимый</li>
+    <li>adjective-&gt;Орбитальный</li>
+    <li>adjective-&gt;Переполненный</li>
+    <li>platformType-&gt;Орбитальный платформенный комплекс</li>
+    <li>platformType-&gt;Грузовой отсек</li>
+    <li>platformType-&gt;Транспортный узел</li>
+    <li>platformType-&gt;Перевалочный пункт</li>
+    <li>platformType-&gt;Погрузочный отсек</li>
+    <li>platformType-&gt;Орбитальный жилой комплекс</li>
+    <li>platformType-&gt;Город-комплекс</li>
+    <li>hubType-&gt;перевалочный пункт</li>
+    <li>hubType-&gt;вольный порт</li>
+    <li>hubType-&gt;ретрансляционный узел</li>
+    <li>hubType-&gt;причал</li>
+    <li>detected-&gt;Обнаружен</li>
+    <li>detected-&gt;Открыт</li>
+    <li>detected-&gt;Найден</li>
+    <li>detected-&gt;Нанесён на карту</li>
+    <li>detected-&gt;Просканирован</li>
+  </OpportunitySite_OrbitalPlatform.questNameRules.rulesStrings>
+  <OpportunitySite_OrbitalPlatform.root.nodes.10.node.nodes.0.label.slateRef>Срок задания истёк: [resolvedQuestName]</OpportunitySite_OrbitalPlatform.root.nodes.10.node.nodes.0.label.slateRef>
+  <OpportunitySite_OrbitalPlatform.root.nodes.10.node.nodes.0.text.slateRef>Платформа под управлением фракции «[enemyFaction_name]» по неизвестной причине перешла на более высокую орбиту, вне дальности стыковки. Срок задания [resolvedQuestName] истёк.</OpportunitySite_OrbitalPlatform.root.nodes.10.node.nodes.0.text.slateRef>
+  <OpportunitySite_OrbitalPlatform.root.nodes.11.node.nodes.0.label.slateRef>Задание провалено: [resolvedQuestName]</OpportunitySite_OrbitalPlatform.root.nodes.11.node.nodes.0.label.slateRef>
+  <OpportunitySite_OrbitalPlatform.root.nodes.11.node.nodes.0.text.slateRef>Фракция «[enemyFaction_name]» объявила вас вне закона. Её боевые гравикорабли получили постоянный приказ перехватывать и уничтожать любой ваш гравикорабль при приближении. Задание [resolvedQuestName] завершилось.</OpportunitySite_OrbitalPlatform.root.nodes.11.node.nodes.0.text.slateRef>
+</LanguageData>

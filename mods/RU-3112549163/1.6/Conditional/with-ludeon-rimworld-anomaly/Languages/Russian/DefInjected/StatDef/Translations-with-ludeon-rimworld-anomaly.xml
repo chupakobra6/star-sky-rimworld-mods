@@ -1,0 +1,7 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <EBSG_DamageFactor_Entity.description>Множитель урона, наносимого сущностям.</EBSG_DamageFactor_Entity.description>
+  <EBSG_DamageFactor_Entity.label>множитель урона (сущности)</EBSG_DamageFactor_Entity.label>
+  <EBSG_OutgoingDamageFactor_Entity.description>Множитель исходящего урона, наносимого сущностям.</EBSG_OutgoingDamageFactor_Entity.description>
+  <EBSG_OutgoingDamageFactor_Entity.label>множитель наносимого урона (сущности)</EBSG_OutgoingDamageFactor_Entity.label>
+</LanguageData>

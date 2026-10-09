@@ -1,0 +1,16 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <EBSG_Recorder.label>регистратор EBSG</EBSG_Recorder.label>
+  <EBSG_Recorder.thinkTreeSettings.0.description>Общие переключатели поведения, добавленного другими модами через EBSG. Основные функции по умолчанию выключены, чтобы не создавать нагрузку ненужными действиями.
+
+Обычно изменения применяются без перезапуска. Если поведение станет странным, перед сообщением об ошибке проверьте его после перезапуска.</EBSG_Recorder.thinkTreeSettings.0.description>
+  <EBSG_Recorder.thinkTreeSettings.0.individualSettings.0.description>Разрешить модам использовать дерево поведения EBSG, например для автоматического применения способностей. Этот переключатель появляется, только если такое поведение добавлено хотя бы одним модом. Выключение полностью отключает дерево EBSG.
+
+Автор рекомендует выключать его только при проблемах с производительностью или ошибках поведения.</EBSG_Recorder.thinkTreeSettings.0.individualSettings.0.description>
+  <EBSG_Recorder.thinkTreeSettings.0.individualSettings.0.label>Использовать поведение EBSG</EBSG_Recorder.thinkTreeSettings.0.individualSettings.0.label>
+  <EBSG_Recorder.thinkTreeSettings.0.individualSettings.1.description>Разрешить автоматическое применение способностей поселенцами через соответствующую ветвь дерева поведения EBSG. Способы автоматизации, которые другие моды реализуют самостоятельно, этот переключатель не затрагивает.</EBSG_Recorder.thinkTreeSettings.0.individualSettings.1.description>
+  <EBSG_Recorder.thinkTreeSettings.0.individualSettings.1.label>Автоматические способности поселенцев</EBSG_Recorder.thinkTreeSettings.0.individualSettings.1.label>
+  <EBSG_Recorder.thinkTreeSettings.0.individualSettings.2.description>Разрешить автоматическое применение способностей призванными поселенцами через соответствующую ветвь дерева поведения EBSG. Способы автоматизации, которые другие моды реализуют самостоятельно, этот переключатель не затрагивает.</EBSG_Recorder.thinkTreeSettings.0.individualSettings.2.description>
+  <EBSG_Recorder.thinkTreeSettings.0.individualSettings.2.label>Автоматические способности призванных поселенцев</EBSG_Recorder.thinkTreeSettings.0.individualSettings.2.label>
+  <EBSG_Recorder.thinkTreeSettings.0.label>Поведение EBSG</EBSG_Recorder.thinkTreeSettings.0.label>
+</LanguageData>

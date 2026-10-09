@@ -1,0 +1,106 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VESWW.AModifiers>Исключить модификатор</VESWW.AModifiers>
+  <VESWW.AddExcludedFaction>Исключить фракцию</VESWW.AddExcludedFaction>
+  <VESWW.AddExcludedStrategy>Исключить тактику налёта</VESWW.AddExcludedStrategy>
+  <VESWW.Allied>союзная</VESWW.Allied>
+  <VESWW.Allies>Со следующей волной прибудут союзники, которые помогут вам</VESWW.Allies>
+  <VESWW.AllowSpaceRaids>[Odyssey] Разрешить налёты на космических картах:</VESWW.AllowSpaceRaids>
+  <VESWW.AllowSpaceRaidsTip>Разрешить налёты в космических биомах Odyssey. Для применения нужно заново загрузить карту.</VESWW.AllowSpaceRaidsTip>
+  <VESWW.BossWave>Волна босса</VESWW.BossWave>
+  <VESWW.Delay>Отсрочка следующей волны, дней: {0}</VESWW.Delay>
+  <VESWW.DisableSteelSlagChunk>Грузовые капсулы с наградами оставляют стальной шлак</VESWW.DisableSteelSlagChunk>
+  <VESWW.DontShowPawnList>Показывать список налётчиков и их фракцию:</VESWW.DontShowPawnList>
+  <VESWW.DrawBack>Фон счётчика волн:</VESWW.DrawBack>
+  <VESWW.DrawBackground>Фон счётчика волн:</VESWW.DrawBackground>
+  <VESWW.EnableMaxPoints>Ограничить очки налётов:</VESWW.EnableMaxPoints>
+  <VESWW.EnableStats>Повышать показатели:</VESWW.EnableStats>
+  <VESWW.EnableStatsTip>Повышаются скорость естественного заживления ран, общая скорость работы, скорость исследований и скорость роста растений.</VESWW.EnableStatsTip>
+  <VESWW.EnemiesC>Приближаются враги ({0}):</VESWW.EnemiesC>
+  <VESWW.EnemiesR>Разгромите оставшихся врагов:</VESWW.EnemiesR>
+  <VESWW.Excellent>Отличная</VESWW.Excellent>
+  <VESWW.ExcludedFaction>Исключить фракции из волн:</VESWW.ExcludedFaction>
+  <VESWW.ExcludedStrategy>Исключить тактики из волн боссов:</VESWW.ExcludedStrategy>
+  <VESWW.FactionMultipliers>Частота и сила рейдов разных фракций</VESWW.FactionMultipliers>
+  <VESWW.FiringEvent>Событие «{0}»</VESWW.FiringEvent>
+  <VESWW.GS>Общие</VESWW.GS>
+  <VESWW.GameOver>Игра окончена!</VESWW.GameOver>
+  <VESWW.Good>Хорошая</VESWW.Good>
+  <VESWW.Hostile>враждебная</VESWW.Hostile>
+  <VESWW.IgnoreBaseCommonality>Игнорировать исходную зависимость частоты рейдов от их силы</VESWW.IgnoreBaseCommonality>
+  <VESWW.IgnoreBaseCommonalityTip>Игнорировать исходную зависимость частоты рейдов этой фракции от их силы. При выборе фракции будет учитываться только ваш множитель частоты.</VESWW.IgnoreBaseCommonalityTip>
+  <VESWW.Item>{0} {1}</VESWW.Item>
+  <VESWW.ItemWQuality>{0} {1}; качество: {2}</VESWW.ItemWQuality>
+  <VESWW.Legendary>Легендарная</VESWW.Legendary>
+  <VESWW.LoadToReset>Сначала загрузите сохранение с Винстоном!</VESWW.LoadToReset>
+  <VESWW.Locked>Перетаскивание:</VESWW.Locked>
+  <VESWW.MS>Модификаторы</VESWW.MS>
+  <VESWW.MassHeal>Мгновенно вылечить раны всех поселенцев, рабов и пленников</VESWW.MassHeal>
+  <VESWW.MaxPoints>Предел очков угрозы:</VESWW.MaxPoints>
+  <VESWW.MaxPointsTip>Наибольшее количество очков, используемое при создании налёта.</VESWW.MaxPointsTip>
+  <VESWW.MaxPopEver>Наибольшее население: {0}</VESWW.MaxPopEver>
+  <VESWW.ModName>Винстон Волновой</VESWW.ModName>
+  <VESWW.Modifiers>Исключить модификаторы волн:</VESWW.Modifiers>
+  <VESWW.MoreRewardChance>Шанс получить четвёртый вариант награды при досрочном вызове волны сейчас: {0}</VESWW.MoreRewardChance>
+  <VESWW.MysteryMod>Скрытые модификаторы:</VESWW.MysteryMod>
+  <VESWW.MysteryModTip>Если включить настройку, модификатор всегда будет скрыт. О его применении вы узнаете, но какой именно модификатор действует — останется тайной.</VESWW.MysteryModTip>
+  <VESWW.Neutral>нейтральная</VESWW.Neutral>
+  <VESWW.Normal>Обычная</VESWW.Normal>
+  <VESWW.NormalWave>Обычная волна</VESWW.NormalWave>
+  <VESWW.OpenFactionMultipliers>Настроить частоту и силу рейдов разных фракций</VESWW.OpenFactionMultipliers>
+  <VESWW.Pawn>{0} {1}</VESWW.Pawn>
+  <VESWW.PawnsArriving>Прибывают налётчики…</VESWW.PawnsArriving>
+  <VESWW.PointMultiplierAfter20>Множитель очков после 20-й волны:</VESWW.PointMultiplierAfter20>
+  <VESWW.PointMultiplierAfter20Tip>Множитель очков налёта после 20-й волны.</VESWW.PointMultiplierAfter20Tip>
+  <VESWW.PointMultiplierBefore20>Множитель очков до 20-й волны включительно:</VESWW.PointMultiplierBefore20>
+  <VESWW.PointMultiplierBefore20Tip>Множитель очков налёта до 20-й волны включительно.</VESWW.PointMultiplierBefore20Tip>
+  <VESWW.PointUsed>Использовано очков: {0}</VESWW.PointUsed>
+  <VESWW.Poor>Скромная</VESWW.Poor>
+  <VESWW.RModifiers>Вернуть модификатор</VESWW.RModifiers>
+  <VESWW.RandRewardOutcome>Вы получаете: {0}</VESWW.RandRewardOutcome>
+  <VESWW.RandomApparel>Случайная одежда: {0}; качество: {1}; тег: {3}</VESWW.RandomApparel>
+  <VESWW.RandomBlocks>Случайные каменные блоки: {0}</VESWW.RandomBlocks>
+  <VESWW.RandomPawns>Случайные пешки: {0}; разумность: {1}</VESWW.RandomPawns>
+  <VESWW.RandomRewardMod>Случайные награды:</VESWW.RandomRewardMod>
+  <VESWW.RandomRewardModTip>Окно выбора награды не будет открываться: вы всегда будете получать случайную награду.</VESWW.RandomRewardModTip>
+  <VESWW.RandomRewardOf>Случайная награда категории «{0}»</VESWW.RandomRewardOf>
+  <VESWW.RandomThing>Случайные предметы: {0}; качество: {1}; категория: {3}</VESWW.RandomThing>
+  <VESWW.RandomThingMC>Случайные предметы: {0}; качество: {1}; категории: {3}</VESWW.RandomThingMC>
+  <VESWW.RandomWeapons>Случайное оружие: {0}; качество: {1}; тег: {3}</VESWW.RandomWeapons>
+  <VESWW.Reinforcement>Подкрепление!</VESWW.Reinforcement>
+  <VESWW.RemoveExcludedFaction>Вернуть фракцию</VESWW.RemoveExcludedFaction>
+  <VESWW.RemoveExcludedStrategy>Вернуть тактику налёта</VESWW.RemoveExcludedStrategy>
+  <VESWW.RemoveOldDropSpot>Предыдущее место сброса наград удалено.</VESWW.RemoveOldDropSpot>
+  <VESWW.Research>Завершить исследования: {0}</VESWW.Research>
+  <VESWW.ResearchUnlocked>Завершено исследование «{0}»</VESWW.ResearchUnlocked>
+  <VESWW.ResetCounterPos>Вернуть счётчик на исходное место</VESWW.ResetCounterPos>
+  <VESWW.Reward>{0} награда</VESWW.Reward>
+  <VESWW.RewardChance>Вероятность наград в этой волне:</VESWW.RewardChance>
+  <VESWW.Score>Итоговый счёт: {0}</VESWW.Score>
+  <VESWW.SelectReward>Выберите награду</VESWW.SelectReward>
+  <VESWW.ShowDraggable>Скрыть флажок перетаскивания счётчика:</VESWW.ShowDraggable>
+  <VESWW.ShowDraggableTip>Если включить, флажок перетаскивания исчезнет. Чтобы снова менять доступность перетаскивания, верните флажок этой настройкой.</VESWW.ShowDraggableTip>
+  <VESWW.SkillBoost>Повысить каждый навык всех поселенцев, рабов и пленников на {0}</VESWW.SkillBoost>
+  <VESWW.SkipWave>Вызвать досрочно</VESWW.SkipWave>
+  <VESWW.StrengthMultiplier>Множитель силы рейдов</VESWW.StrengthMultiplier>
+  <VESWW.StrengthMultiplierTip>Множитель от 0 до 10, применяемый к очкам рейда при выборе этой фракции.</VESWW.StrengthMultiplierTip>
+  <VESWW.SurvivedDaysX>Прожито дней: {0}</VESWW.SurvivedDaysX>
+  <VESWW.SurvivedX>Отражено волн: {0}</VESWW.SurvivedX>
+  <VESWW.TimeBeforeFirstWave>Дней до первой волны:</VESWW.TimeBeforeFirstWave>
+  <VESWW.TimeBeforeFirstWaveTip>Количество дней до прибытия первой волны.</VESWW.TimeBeforeFirstWaveTip>
+  <VESWW.TimeBetweenWaves>Дней между волнами:</VESWW.TimeBetweenWaves>
+  <VESWW.TimeBetweenWavesTip>Количество дней между волнами.</VESWW.TimeBetweenWavesTip>
+  <VESWW.TimeToDefeatWave>Дней на отражение волны:</VESWW.TimeToDefeatWave>
+  <VESWW.TimeToDefeatWaveTip>Сколько дней даётся на отражение волны. Если не успеть, начнётся подготовка следующей волны, а награда за текущую не будет выдана.</VESWW.TimeToDefeatWaveTip>
+  <VESWW.TotalKill>Всего убийств: {0}</VESWW.TotalKill>
+  <VESWW.Unknown>неизвестно</VESWW.Unknown>
+  <VESWW.UseRimworldTime>Таймер по игровому времени:</VESWW.UseRimworldTime>
+  <VESWW.UseRimworldTimeTip>Если включить, таймер использует игровое время вместо реального.</VESWW.UseRimworldTimeTip>
+  <VESWW.VS>Волны</VESWW.VS>
+  <VESWW.WCS>Счётчик волн</VESWW.WCS>
+  <VESWW.WaveNum>Волна {0}</VESWW.WaveNum>
+  <VESWW.Weaken>Ослабление следующей волны: {0}</VESWW.Weaken>
+  <VESWW.WeightMultiplier>Множитель частоты рейдов</VESWW.WeightMultiplier>
+  <VESWW.WeightMultiplierTip>Множитель от 0 до 10, влияющий на вероятность выбора этой фракции для рейда.</VESWW.WeightMultiplierTip>
+  <VSEWW_Removed>Модификатор недоступен: для него нужен предмет из удалённого мода.</VSEWW_Removed>
+</LanguageData>

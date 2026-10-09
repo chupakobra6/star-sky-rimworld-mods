@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<loadFolders>
+  <v1.6>
+    <li>/</li>
+    <li IfModActiveAll="ludeon.rimworld.biotech,sarg.alphamechs">1.6/Conditional/with-all-ludeon-rimworld-biotech-and-sarg-alphamechs</li>
+    <li IfModActive="ludeon.rimworld.anomaly">1.6/Conditional/with-ludeon-rimworld-anomaly</li>
+    <li IfModActive="ludeon.rimworld.biotech">1.6/Conditional/with-ludeon-rimworld-biotech</li>
+    <li IfModActive="ludeon.rimworld.odyssey">1.6/Conditional/with-ludeon-rimworld-odyssey</li>
+    <li IfModActive="ludeon.rimworld.royalty">1.6/Conditional/with-ludeon-rimworld-royalty</li>
+    <li IfModActive="oskarpotocki.vanillavehiclesexpanded">1.6/Conditional/with-oskarpotocki-vanillavehiclesexpanded</li>
+    <li IfModActive="oskarpotocki.vfe.deserters">1.6/Conditional/with-oskarpotocki-vfe-deserters</li>
+    <li IfModActive="oskarpotocki.vfe.insectoid2">1.6/Conditional/with-oskarpotocki-vfe-insectoid2</li>
+    <li IfModActive="oskarpotocki.vfe.pirates">1.6/Conditional/with-oskarpotocki-vfe-pirates</li>
+    <li IfModActive="sarg.alphaanimals">1.6/Conditional/with-sarg-alphaanimals</li>
+    <li IfModActive="sarg.alphagenes">1.6/Conditional/with-sarg-alphagenes</li>
+    <li IfModActive="sarg.alphaimplants">1.6/Conditional/with-sarg-alphaimplants</li>
+    <li IfModActive="sarg.alphamechs">1.6/Conditional/with-sarg-alphamechs</li>
+    <li IfModActive="sarg.alphaprefabs">1.6/Conditional/with-sarg-alphaprefabs</li>
+    <li IfModActive="sarg.alpharandom">1.6/Conditional/with-sarg-alpharandom</li>
+    <li IfModActive="vanillaexpanded.vwehw">1.6/Conditional/with-vanillaexpanded-vwehw</li>
+    <li IfModActive="vanillaexpanded.vwel">1.6/Conditional/with-vanillaexpanded-vwel</li>
+    <li IfModActive="vanillaquestsexpanded.ancients">1.6/Conditional/with-vanillaquestsexpanded-ancients</li>
+  </v1.6>
+</loadFolders>

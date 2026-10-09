@@ -1,0 +1,8 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <MiningOutpost_Arson.reportString>поджигает TargetA.</MiningOutpost_Arson.reportString>
+  <MiningOutpost_CallForHelp.reportString>вызывает подкрепление.</MiningOutpost_CallForHelp.reportString>
+  <MiningOutpost_HotwireTurret.reportString>взламывает турель.</MiningOutpost_HotwireTurret.reportString>
+  <MiningOutpost_HotwireVehicle.reportString>заводит транспорт в обход зажигания.</MiningOutpost_HotwireVehicle.reportString>
+  <OperatePulseEmitter.reportString>ищет аванпосты с помощью TargetA.</OperatePulseEmitter.reportString>
+</LanguageData>

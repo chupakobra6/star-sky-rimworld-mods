@@ -1,0 +1,107 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <OpportunitySite_VehiclesOutpost.questDescriptionRules.rulesStrings>
+    <li>discoveryMethod(pulseDetected==false,traderMentioned==false)-&gt;Местные разведчики сообщили об объекте:</li>
+    <li>discoveryMethod(pulseDetected==false,traderMentioned==false)-&gt;Изучив местные карты, мы обнаружили объект:</li>
+    <li>discoveryMethod(pulseDetected==false,traderMentioned==false)-&gt;Странствующий путник упомянул объект:</li>
+    <li>discoveryMethod(pulseDetected==false,traderMentioned==false)-&gt;Из перехваченных переговоров стало известно об объекте:</li>
+    <li>discoveryMethod(pulseDetected==false,traderMentioned==false)-&gt;Беженцы, покинувшие свои дома, сообщили об объекте:</li>
+    <li>discoveryMethod(pulseDetected==false,traderMentioned==false)-&gt;Дорожных сборщиков пошлин заметили у объекта:</li>
+    <li>discoveryMethod(pulseDetected==false,traderMentioned==false)-&gt;Дезертир сообщил расположение объекта:</li>
+    <li>discoveryMethod(pulseDetected==false,traderMentioned==false)-&gt;Захваченные работники рассказали об объекте:</li>
+    <li>discoveryMethod(pulseDetected==false,traderMentioned==false)-&gt;Раненый путник рассказал об объекте:</li>
+    <li>discoveryMethod(pulseDetected==false,traderMentioned==false)-&gt;Охрана открыто останавливает прохожих у объекта:</li>
+    <li>discoveryMethod(pulseDetected==false,traderMentioned==false)-&gt;Пьяный бродяга проговорился о расположении объекта:</li>
+    <li>discoveryMethod(pulseDetected==false,traderMentioned==false)-&gt;Необычное движение по дороге указывает на объект:</li>
+    <li>discoveryMethod(pulseDetected==false,traderMentioned==false)-&gt;Рабочих заметили при перевозке грузов у объекта:</li>
+    <li>discoveryMethod(pulseDetected==true)-&gt;Наш импульсный излучатель обнаружил объект:</li>
+    <li>discoveryMethod(pulseDetected==true)-&gt;Сканирование импульсным излучателем выявило объект:</li>
+    <li>discoveryMethod(pulseDetected==true)-&gt;Данные импульсного излучателя подтвердили наличие объекта:</li>
+    <li>discoveryMethod(pulseDetected==true)-&gt;Излучатель определил расположение объекта:</li>
+    <li>discoveryMethod(pulseDetected==true)-&gt;Испущенный нами импульс обнаружил объект:</li>
+    <li>discoveryMethod(traderMentioned==true)-&gt;Проходящий торговец упомянул объект:</li>
+    <li>discoveryMethod(traderMentioned==true)-&gt;Странствующий купец сообщил расположение объекта:</li>
+    <li>discoveryMethod(traderMentioned==true)-&gt;Во время торговли караванщик рассказал, что недавно покупал товары на объекте:</li>
+    <li>discoveryMethod(traderMentioned==true)-&gt;Местный торговец рассказал, что недавно заключил сделку на объекте:</li>
+    <li>discoveryMethod(traderMentioned==true)-&gt;Проходящий купец упомянул объект:</li>
+    <li>questDescription(isFirstQuest==true)-&gt;[sender_article] [senderColor][sender_label]&lt;/color&gt; связывается с вами [contactMethod].\n\n[introText]\n\nВы можете нападать на рабочие объекты, находя их на карте мира.\n\nЧтобы [reason], вам готовы сообщить расположение объекта типа «[siteType]» неподалёку от [map_definite]. [intelReport][factionDescriptor]\n\n[factionWarning]\n\n[rewardHint]</li>
+    <li>senderColor-&gt;&lt;color=#6495ED&gt;</li>
+    <li>senderColor-&gt;&lt;color=#FFA500&gt;</li>
+    <li>senderColor-&gt;&lt;color=#FF4444&gt;</li>
+    <li>introText-&gt;Мегакорпорации, местные военачальники и поселенцы защищают владения с помощью наёмников и найденных технологий миров-утопий. Поэтому они опасные противники, а их имущество — ценный источник запчастей.</li>
+    <li>introText-&gt;Корпорации с других планет, преступные синдикаты и местные анклавы контролируют ресурсы и торговые пути. Их частные армии и вооружение делают их опасными противниками, а их имущество — ценным источником запчастей.</li>
+    <li>introText-&gt;Соперничающие корпорации, пираты и поселенцы постоянно борются за территории, богатство и возможности. Их военная техника и крепости делают их опасными противниками, а их имущество — ценным источником запчастей.</li>
+    <li>reason-&gt;нарушить работу враждебной фракции</li>
+    <li>reason-&gt;ослабить конкурентов и продвинуться в политической карьере</li>
+    <li>reason-&gt;подняться по служебной лестнице корпорации, устранив соперников</li>
+    <li>reason-&gt;просто посеять хаос</li>
+    <li>factionWarning(faction_temporary==false,isPirate==true)-&gt;Фракция «[enemyFaction_name]» поработила местное население.</li>
+    <li>factionWarning(faction_temporary==false,isPirate==false)-&gt;Этот объект — дочернее предприятие фракции «[enemyFaction_name]». Нападение на него повлечёт дипломатические последствия в отношениях с этой фракцией.</li>
+    <li>factionWarning(faction_temporary==false,isPirate==false)-&gt;Этот объект платит дань фракции «[enemyFaction_name]». Нападение на него повлечёт дипломатические последствия в отношениях со всеми её владениями.</li>
+    <li>factionWarning(faction_temporary==false,isPirate==false)-&gt;Этот объект принадлежит фракции «[enemyFaction_name]». Любое нападение будет открытым актом вражды.</li>
+    <li>factionWarning(faction_temporary==false,isPirate==false)-&gt;Объектом управляет фракция «[enemyFaction_name]». Любые враждебные действия будут расценены как объявление ей войны.</li>
+    <li>factionWarning(faction_temporary==false,isPirate==false)-&gt;Это предприятие находится под защитой фракции «[enemyFaction_name]». Налёт ухудшит ваши отношения с ней.</li>
+    <li>factionWarning(faction_temporary==false,isPirate==false)-&gt;Это предприятие работает по разрешению фракции «[enemyFaction_name]». Налёт нарушит её права и повлечёт дипломатические последствия.</li>
+    <li>factionWarning(faction_temporary==true)-&gt;Это всего лишь небольшая независимая группа, поэтому на неё можно напасть без более широких дипломатических последствий.</li>
+    <li>factionWarning(faction_temporary==true)-&gt;Это независимое предприятие без связей с крупными фракциями. Нападение на него не повлияет на ваши остальные отношения.</li>
+    <li>factionWarning(faction_temporary==true)-&gt;По данным разведки, эта группа действует независимо. С ней можно вступить в бой без риска более широких дипломатических последствий.</li>
+    <li>factionWarning(faction_temporary==true)-&gt;Цель — независимая организация без могущественных союзников. Нападение на неё не несёт более широких дипломатических рисков.</li>
+    <li>factionWarning(faction_temporary==true)-&gt;Противник не связан с более крупными организациями. Любой конфликт будет считаться частным спором.</li>
+    <li>factionWarning(faction_temporary==true)-&gt;Похоже, местный гарнизон действует неофициально. Любые потери в конфликте можно будет списать на внутренние дела.</li>
+    <li>factionWarning(faction_temporary==true)-&gt;Объектом управляет подставная организация, которой легко пожертвовать; явной головной организации нет. Нападение на неё не должно вызвать конфликт за пределами самого объекта.</li>
+    <li>factionWarning(faction_temporary==true)-&gt;Ни одна крупная фракция не заявила об интересе к этому объекту. Если кто-то и причастен, он будет это отрицать.</li>
+    <li>factionWarning(faction_temporary==true)-&gt;Местные рабочие принадлежат новой организации с ограниченными ресурсами. Уничтожение объекта полностью её ликвидирует.</li>
+    <li>factionWarning(faction_temporary==true)-&gt;У этой группы нет других владений. Уничтожение объекта уничтожит и всю её фракцию.</li>
+    <li>factionWarning(faction_temporary==true)-&gt;У этой группы нет других объектов на этой планете. Уничтожение этого объекта полностью её ликвидирует.</li>
+    <li>factionWarning(faction_temporary==true)-&gt;Это последний, непрочный оплот фракции. Если он падёт, вся фракция исчезнет вместе с ним.</li>
+    <li>questDescription(isFirstQuest==false)-&gt;[discoveryMethod] [siteType] неподалёку от [map_definite]. [intelReport][factionDescriptor]\n\n[factionWarning]\n\n[rewardHint]</li>
+    <li>siteType-&gt;цех разборки машин</li>
+    <li>siteType-&gt;гаражный комплекс</li>
+    <li>siteType-&gt;временный транспортный склад</li>
+    <li>siteType-&gt;ремонтный двор</li>
+    <li>siteType-&gt;пункт сбора утиля</li>
+    <li>siteType-&gt;тайник с транспортом</li>
+    <li>intelReport-&gt;Фракция «[enemyFaction_name]» над чем-то работает на этом объекте. По слухам, находящаяся внутри машина на ходу.</li>
+    <li>intelReport-&gt;Запах масла и звук работающих вхолостую двигателей указывают, что фракция «[enemyFaction_name]» держит внутри какую-то машину. Во дворе разбросаны запчасти и канистры с топливом.</li>
+    <li>intelReport-&gt;Фракция «[enemyFaction_name]» использует это место для хранения и обслуживания машины.</li>
+    <li>intelReport-&gt;Следы шин и масляные пятна указывают на гараж фракции «[enemyFaction_name]». Внутри стоит машина и лежат запчасти.</li>
+    <li>intelReport-&gt;На объекте видели приходящих и уходящих рабочих фракции «[enemyFaction_name]» в промасленной одежде. Они обслуживают что-то с двигателем.</li>
+    <li>intelReport-&gt;По данным разведки, здесь находится гараж фракции «[enemyFaction_name]»: бочки с топливом, инструменты и как минимум одна исправная машина.</li>
+    <li>rewardHint-&gt;Победа над наёмниками на объекте принесёт запчасти, топливо и их машину.</li>
+    <li>rewardHint-&gt;Успешный налёт, вероятно, принесёт исправную машину, а также запчасти и химтопливо для её эксплуатации.</li>
+    <li>rewardHint-&gt;На их складах, вероятно, есть инструменты и полезный запас транспортных компонентов.</li>
+    <li>rewardHint-&gt;Добыча на этом объекте, скорее всего, будет на колёсах. Даже одни её запчасти представляют большую ценность.</li>
+  </OpportunitySite_VehiclesOutpost.questDescriptionRules.rulesStrings>
+  <OpportunitySite_VehiclesOutpost.questNameRules.rulesStrings>
+    <li>questName(isFirstQuest==false)-&gt;[adjective] [vehType]</li>
+    <li>questName(isFirstQuest==false)-&gt;[adjective] [vehType]</li>
+    <li>questName(isFirstQuest==false)-&gt;[vehType]: [detected]</li>
+    <li>questName(isFirstQuest==false)-&gt;[vehType] фракции «[enemyFaction_name]»</li>
+    <li>questName(isFirstQuest==false)-&gt;[vehType] фракции «[enemyFaction_name]»</li>
+    <li>adjective-&gt;Оживлённый</li>
+    <li>adjective-&gt;Скрытый</li>
+    <li>adjective-&gt;Временный</li>
+    <li>adjective-&gt;Удалённый</li>
+    <li>adjective-&gt;Укромный</li>
+    <li>vehType-&gt;Цех разборки машин</li>
+    <li>vehType-&gt;Гараж</li>
+    <li>vehType-&gt;Штрафной двор</li>
+    <li>vehType-&gt;Автопарк</li>
+    <li>vehType-&gt;Ремонтный отсек</li>
+    <li>vehType-&gt;Двор сбора утиля</li>
+    <li>vehType-&gt;Транспортный склад</li>
+    <li>vehType-&gt;Транспортный тайник</li>
+    <li>vehType-&gt;Тайник с машинами</li>
+    <li>vehType-&gt;Цех</li>
+    <li>detected-&gt;обнаружен</li>
+    <li>detected-&gt;открыт</li>
+    <li>detected-&gt;опознан</li>
+    <li>detected-&gt;найден</li>
+    <li>detected-&gt;замечен</li>
+    <li>detected-&gt;раскрыт</li>
+  </OpportunitySite_VehiclesOutpost.questNameRules.rulesStrings>
+  <OpportunitySite_VehiclesOutpost.root.nodes.10.node.nodes.0.label.slateRef>Задание провалено: [resolvedQuestName]</OpportunitySite_VehiclesOutpost.root.nodes.10.node.nodes.0.label.slateRef>
+  <OpportunitySite_VehiclesOutpost.root.nodes.10.node.nodes.0.text.slateRef>После обнаружения фракция «[enemyFaction_name]» загрузила свои машины и уехала. Задание [resolvedQuestName] завершилось.</OpportunitySite_VehiclesOutpost.root.nodes.10.node.nodes.0.text.slateRef>
+  <OpportunitySite_VehiclesOutpost.root.nodes.9.node.nodes.0.label.slateRef>Срок задания истёк: [resolvedQuestName]</OpportunitySite_VehiclesOutpost.root.nodes.9.node.nodes.0.label.slateRef>
+  <OpportunitySite_VehiclesOutpost.root.nodes.9.node.nodes.0.text.slateRef>Фракция «[enemyFaction_name]», управляющая транспортным складом, перевезла свой парк машин в другое место. Срок задания [resolvedQuestName] истёк.</OpportunitySite_VehiclesOutpost.root.nodes.9.node.nodes.0.text.slateRef>
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<loadFolders>
+  <v1.6>
+    <li>/</li>
+    <li IfModActive="oskarpotocki.vanillavehiclesexpanded">1.6/Conditional/with-oskarpotocki-vanillavehiclesexpanded</li>
+    <li IfModActive="oskarpotocki.vanillavehiclesexpandedtier3">1.6/Conditional/with-oskarpotocki-vanillavehiclesexpandedtier3</li>
+    <li IfModActive="vanillaexpanded.gravship">1.6/Conditional/with-vanillaexpanded-gravship</li>
+  </v1.6>
+</loadFolders>

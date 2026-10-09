@@ -1,0 +1,849 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <chupakobra6_3687071198_Debug.Category>Worksites Expanded</chupakobra6_3687071198_Debug.Category>
+  <chupakobra6_3687071198_Debug.CleanupOrphanedTemporaryFactions>Clean up orphaned temporary factions</chupakobra6_3687071198_Debug.CleanupOrphanedTemporaryFactions>
+  <chupakobra6_3687071198_Debug.DebugFireNextRaid>Fire next revenge raid NOW</chupakobra6_3687071198_Debug.DebugFireNextRaid>
+  <chupakobra6_3687071198_Debug.DebugForceStartRevenge>Force start revenge sequence</chupakobra6_3687071198_Debug.DebugForceStartRevenge>
+  <chupakobra6_3687071198_Debug.DebugRandomDefenseMission>Random worksite defence mission</chupakobra6_3687071198_Debug.DebugRandomDefenseMission>
+  <chupakobra6_3687071198_Debug.ListTemporaryFactions>List all temporary factions</chupakobra6_3687071198_Debug.ListTemporaryFactions>
+  <chupakobra6_3687071198_Debug.LogSaturationInfo>Log saturation info</chupakobra6_3687071198_Debug.LogSaturationInfo>
+  <chupakobra6_3687071198_Debug.SpawnSpecificWorkSiteQuest>Spawn specific work site quest...</chupakobra6_3687071198_Debug.SpawnSpecificWorkSiteQuest>
+  <chupakobra6_3687071198_Debug.SpawnWorkSiteQuest>Spawn random work site quest</chupakobra6_3687071198_Debug.SpawnWorkSiteQuest>
+  <chupakobra6_3687071198_job.black-box.Name>Black Box</chupakobra6_3687071198_job.black-box.Name>
+  <chupakobra6_3687071198_job.black-box.Subtitle>Retrieve a confiscated, outlawed AI core from a dead bulkhead. The thing inside is whispering to anyone listening on the local frequency.</chupakobra6_3687071198_job.black-box.Subtitle>
+  <chupakobra6_3687071198_job.black-box.node.brief.Text>Seed (QuestBacklog §11.4). Extract the core; use Tech to handle the chassis safely and Awareness (plus psychic sensitivity) to translate the sub-vocal chatter. Endings to build out: Lawful Handover (clean) / Tech Cult Sale (top dollar, heavy ties) / Kept the Core (hardware item + cult hostility). Psychic pawns unlock hidden §5.4 dialogue hooks.</chupakobra6_3687071198_job.black-box.node.brief.Text>
+  <chupakobra6_3687071198_job.black-box.node.brief.Title>The Brief</chupakobra6_3687071198_job.black-box.node.brief.Title>
+  <chupakobra6_3687071198_job.black-box.node.todo.Text>This contract tree sits in the backlog. The brief above is the raw seed; specific scenes, approaches, forks, and bloody endings are not yet authored.</chupakobra6_3687071198_job.black-box.node.todo.Text>
+  <chupakobra6_3687071198_job.black-box.node.todo.Title>Incomplete</chupakobra6_3687071198_job.black-box.node.todo.Title>
+  <chupakobra6_3687071198_job.boarding-action.Name>Boarding Action</chupakobra6_3687071198_job.boarding-action.Name>
+  <chupakobra6_3687071198_job.boarding-action.Subtitle>Breach the dead-man locks on an abandoned hauler and extract its encrypted data core.</chupakobra6_3687071198_job.boarding-action.Subtitle>
+  <chupakobra6_3687071198_job.boarding-action.edge.a-parley.fork.Success.Label>they surrender</chupakobra6_3687071198_job.boarding-action.edge.a-parley.fork.Success.Label>
+  <chupakobra6_3687071198_job.boarding-action.edge.a-parley.o-bridgefight.Fail.Label>bosun rallies them</chupakobra6_3687071198_job.boarding-action.edge.a-parley.o-bridgefight.Fail.Label>
+  <chupakobra6_3687071198_job.boarding-action.edge.a-stealth.s-corridor.Success.Label>lock slipped</chupakobra6_3687071198_job.boarding-action.edge.a-stealth.s-corridor.Success.Label>
+  <chupakobra6_3687071198_job.boarding-action.edge.a-talk.s-corridor.Success.Label>talked past watch</chupakobra6_3687071198_job.boarding-action.edge.a-talk.s-corridor.Success.Label>
+  <chupakobra6_3687071198_job.boarding-action.edge.o-loud.a-parley.Choice.Label>Demand automated surrender.</chupakobra6_3687071198_job.boarding-action.edge.o-loud.a-parley.Choice.Label>
+  <chupakobra6_3687071198_job.boarding-action.edge.o-loud.o-bridgefight.Choice.Label>Storm the command bridge.</chupakobra6_3687071198_job.boarding-action.edge.o-loud.o-bridgefight.Choice.Label>
+  <chupakobra6_3687071198_job.boarding-action.node.a-breach.Text>{pawn} clamps a shaped charge to the internal door hinge and triggers the detonator without hesitation.</chupakobra6_3687071198_job.boarding-action.node.a-breach.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.a-breach.Title>Blow the hatch open.</chupakobra6_3687071198_job.boarding-action.node.a-breach.Title>
+  <chupakobra6_3687071198_job.boarding-action.node.a-corridor-crawl.Text>{pawn} drops into an oily bilge conduit while {pawn2} pushes equipment containers along the pipe.</chupakobra6_3687071198_job.boarding-action.node.a-corridor-crawl.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.a-corridor-crawl.Title>Crawl through the bilge.</chupakobra6_3687071198_job.boarding-action.node.a-corridor-crawl.Title>
+  <chupakobra6_3687071198_job.boarding-action.node.a-corridor-flash.Text>{pawn} hurls EMP flashbangs down the hall while {pawn2} rushes the stunned drone sensors.</chupakobra6_3687071198_job.boarding-action.node.a-corridor-flash.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.a-corridor-flash.Title>Throw stun grenades.</chupakobra6_3687071198_job.boarding-action.node.a-corridor-flash.Title>
+  <chupakobra6_3687071198_job.boarding-action.node.a-corridor-turret.Text>{pawn} fires a data-tap into the turret wiring loom while {pawn2} shields the connection from return fire.</chupakobra6_3687071198_job.boarding-action.node.a-corridor-turret.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.a-corridor-turret.Title>Hack the ceiling turret.</chupakobra6_3687071198_job.boarding-action.node.a-corridor-turret.Title>
+  <chupakobra6_3687071198_job.boarding-action.node.a-corridor-vent.Text>{pawn} manually overrides the atmosphere valve to vent the corridor into space while {pawn2} locks their mag-boots.</chupakobra6_3687071198_job.boarding-action.node.a-corridor-vent.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.a-corridor-vent.Title>Vent the corridor.</chupakobra6_3687071198_job.boarding-action.node.a-corridor-vent.Title>
+  <chupakobra6_3687071198_job.boarding-action.node.a-parley.Text>{pawn} scrambles to the command console to trigger an emergency maintenance shutdown while {pawn2} covers the terminal.</chupakobra6_3687071198_job.boarding-action.node.a-parley.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.a-parley.Title>Force the console shut.</chupakobra6_3687071198_job.boarding-action.node.a-parley.Title>
+  <chupakobra6_3687071198_job.boarding-action.node.a-prep-charge.Text>The crew attached a magnetic shaped charge directly to the main pressure hatch frame.</chupakobra6_3687071198_job.boarding-action.node.a-prep-charge.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.a-prep-charge.Title>Clamp a breaching charge.</chupakobra6_3687071198_job.boarding-action.node.a-prep-charge.Title>
+  <chupakobra6_3687071198_job.boarding-action.node.a-prep-cipher.Text>{pawn} hooks a datapad into the external maintenance port while {pawn2} runs cryptographic brute-force dictionaries.</chupakobra6_3687071198_job.boarding-action.node.a-prep-cipher.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.a-prep-cipher.Title>Compile a bypass cipher.</chupakobra6_3687071198_job.boarding-action.node.a-prep-cipher.Title>
+  <chupakobra6_3687071198_job.boarding-action.node.a-prep-papers.Text>{pawn} spoofs the freighter's registration transponder while {pawn2} transmits counterfeit salvage warrants.</chupakobra6_3687071198_job.boarding-action.node.a-prep-papers.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.a-prep-papers.Title>Forge an inspection warrant.</chupakobra6_3687071198_job.boarding-action.node.a-prep-papers.Title>
+  <chupakobra6_3687071198_job.boarding-action.node.a-prep-torch.Text>{pawn} strikes the cutting torch arc while {pawn2} directs thermal coolant onto the outer door dogging.</chupakobra6_3687071198_job.boarding-action.node.a-prep-torch.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.a-prep-torch.Title>Rig a cutting torch.</chupakobra6_3687071198_job.boarding-action.node.a-prep-torch.Title>
+  <chupakobra6_3687071198_job.boarding-action.node.a-stealth.Text>{pawn} slips across the threshold without triggering motion sensors while {pawn2} covers the airlock doorway.</chupakobra6_3687071198_job.boarding-action.node.a-stealth.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.a-stealth.Title>Slip through the outer seal.</chupakobra6_3687071198_job.boarding-action.node.a-stealth.Title>
+  <chupakobra6_3687071198_job.boarding-action.node.a-talk.Text>{pawn} activates the bulkhead intercom, inputting salvage clearance override codes while {pawn2} monitors terminal feedback.</chupakobra6_3687071198_job.boarding-action.node.a-talk.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.a-talk.Title>Bluff the automated intercom.</chupakobra6_3687071198_job.boarding-action.node.a-talk.Title>
+  <chupakobra6_3687071198_job.boarding-action.node.brief.Text>A derelict bulk freighter drifts dead in high orbit. A salvage syndicate offers 900 silver to board the vessel, breach the command deck, and recover the ship's automated flight core before orbital decay drags it into the atmosphere. The ship's internal security drones may still be hot.</chupakobra6_3687071198_job.boarding-action.node.brief.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.brief.Title>The Brief</chupakobra6_3687071198_job.boarding-action.node.brief.Title>
+  <chupakobra6_3687071198_job.boarding-action.node.e-cargo.Text>The crew extracted the data core and loaded several crates of rare machinery into their shuttle before station tugs arrived, netting a massive payout.</chupakobra6_3687071198_job.boarding-action.node.e-cargo.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.e-cargo.Title>Cargo Stripped</chupakobra6_3687071198_job.boarding-action.node.e-cargo.Title>
+  <chupakobra6_3687071198_job.boarding-action.node.e-ransom.Text>The crew handed the clean data core over to the fixer, collecting the full 900 silver bounty with zero heat from station security.</chupakobra6_3687071198_job.boarding-action.node.e-ransom.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.e-ransom.Title>Core Delivered</chupakobra6_3687071198_job.boarding-action.node.e-ransom.Title>
+  <chupakobra6_3687071198_job.boarding-action.node.e-routed.Text>The ship's automated defense network proved too heavy. The crew was driven back to the airlock with wounded members and empty hands.</chupakobra6_3687071198_job.boarding-action.node.e-routed.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.e-routed.Title>Repelled by Defenses</chupakobra6_3687071198_job.boarding-action.node.e-routed.Title>
+  <chupakobra6_3687071198_job.boarding-action.node.e-scuttle.Text>To cover their tracks, the crew initiated a reactor purge. The ship was cast adrift into deep orbit, destroying all forensic evidence.</chupakobra6_3687071198_job.boarding-action.node.e-scuttle.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.e-scuttle.Title>Freighter Scuttled</chupakobra6_3687071198_job.boarding-action.node.e-scuttle.Title>
+  <chupakobra6_3687071198_job.boarding-action.node.e-standdown.Text>Hearing the security clatter and seeing the warning strobes, the crew decided against the operation and retreated to the gantry.</chupakobra6_3687071198_job.boarding-action.node.e-standdown.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.e-standdown.Title>Stood Down</chupakobra6_3687071198_job.boarding-action.node.e-standdown.Title>
+  <chupakobra6_3687071198_job.boarding-action.node.entry.Text>The outer airlock door groans open, revealing a dark, fog-filled decontamination chamber. Emergency red strobes pulse overhead.</chupakobra6_3687071198_job.boarding-action.node.entry.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.entry.Title>The Airlock Threshold</chupakobra6_3687071198_job.boarding-action.node.entry.Title>
+  <chupakobra6_3687071198_job.boarding-action.node.fork.Text>The navigation computer was unlocked. The crew had the encrypted charts in hand, while the rest of the ship's valuable cargo hold sat completely accessible.</chupakobra6_3687071198_job.boarding-action.node.fork.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.fork.Title>The Data Core</chupakobra6_3687071198_job.boarding-action.node.fork.Title>
+  <chupakobra6_3687071198_job.boarding-action.node.o-bridgefight.Text>The bridge blast doors seal shut! Automated defense drones deploy from ceiling gimbals with rotary cannons spinning!</chupakobra6_3687071198_job.boarding-action.node.o-bridgefight.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.o-bridgefight.Title>Bridge Gunfight</chupakobra6_3687071198_job.boarding-action.node.o-bridgefight.Title>
+  <chupakobra6_3687071198_job.boarding-action.node.o-loud.Text>The defense grid detected the breach. Siren horns wailed through the bulkheads as blast doors began closing.</chupakobra6_3687071198_job.boarding-action.node.o-loud.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.o-loud.Title>Alarm Screaming</chupakobra6_3687071198_job.boarding-action.node.o-loud.Title>
+  <chupakobra6_3687071198_job.boarding-action.node.o-quiet.Text>The turret was bypassed without triggering the ship's secondary combat alerts.</chupakobra6_3687071198_job.boarding-action.node.o-quiet.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.o-quiet.Title>Corridor Cleared</chupakobra6_3687071198_job.boarding-action.node.o-quiet.Title>
+  <chupakobra6_3687071198_job.boarding-action.node.s-corridor.Text>The main companionway is scorched and choked with smoke. Ahead, automated point-defense turrets swivel on ceiling rails.</chupakobra6_3687071198_job.boarding-action.node.s-corridor.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.s-corridor.Title>The Companionway</chupakobra6_3687071198_job.boarding-action.node.s-corridor.Title>
+  <chupakobra6_3687071198_job.boarding-action.node.s-prep.Text>The crew's shuttle clamps onto the derelict's outer airlock. Hull frost flakes into the vacuum. {pawn} sets out entry gear while {pawn2} checks atmospheric pressure readouts.</chupakobra6_3687071198_job.boarding-action.node.s-prep.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.s-prep.Title>Breach Preparation</chupakobra6_3687071198_job.boarding-action.node.s-prep.Title>
+  <chupakobra6_3687071198_job.cheaters-table.Name>The Loaded Felt</chupakobra6_3687071198_job.cheaters-table.Name>
+  <chupakobra6_3687071198_job.cheaters-table.Subtitle>Expose a card mechanic running an electronic cheat in the high-roller casino lounge.</chupakobra6_3687071198_job.cheaters-table.Subtitle>
+  <chupakobra6_3687071198_job.cheaters-table.edge.a-aware.o-watched.Fail.Label>glance missed, he's smelling copper in the air</chupakobra6_3687071198_job.cheaters-table.edge.a-aware.o-watched.Fail.Label>
+  <chupakobra6_3687071198_job.cheaters-table.edge.a-pos-feed.s1.Fail.Label>signal heavy with white noise, someone's watching back</chupakobra6_3687071198_job.cheaters-table.edge.a-pos-feed.s1.Fail.Label>
+  <chupakobra6_3687071198_job.cheaters-table.edge.a-pos-feed.s1.Success.Label>corrupted feed log</chupakobra6_3687071198_job.cheaters-table.edge.a-pos-feed.s1.Success.Label>
+  <chupakobra6_3687071198_job.cheaters-table.edge.a-pos-mezzanine.s1.Fail.Label>faint phosphor glare bleeding across the cracked screen, watching through the static</chupakobra6_3687071198_job.cheaters-table.edge.a-pos-mezzanine.s1.Fail.Label>
+  <chupakobra6_3687071198_job.cheaters-table.edge.a-pos-mezzanine.s1.Success.Label>overhead gantry locked</chupakobra6_3687071198_job.cheaters-table.edge.a-pos-mezzanine.s1.Success.Label>
+  <chupakobra6_3687071198_job.cheaters-table.edge.a-pos-table.s1.Fail.Label>locked in crossfire</chupakobra6_3687071198_job.cheaters-table.edge.a-pos-table.s1.Fail.Label>
+  <chupakobra6_3687071198_job.cheaters-table.edge.a-pos-table.s1.Success.Label>pinned to greasy felt</chupakobra6_3687071198_job.cheaters-table.edge.a-pos-table.s1.Success.Label>
+  <chupakobra6_3687071198_job.cheaters-table.edge.a-streetwise.o-watched.Fail.Label>lingered too long in the glow; he's clocked your reflection in the glass</chupakobra6_3687071198_job.cheaters-table.edge.a-streetwise.o-watched.Fail.Label>
+  <chupakobra6_3687071198_job.cheaters-table.edge.fork.e-blackmail.Choice.Label>Blackmail him for a regular cut.</chupakobra6_3687071198_job.cheaters-table.edge.fork.e-blackmail.Choice.Label>
+  <chupakobra6_3687071198_job.cheaters-table.edge.fork.e-turnin.Choice.Label>Turn him in to the pit boss.</chupakobra6_3687071198_job.cheaters-table.edge.fork.e-turnin.Choice.Label>
+  <chupakobra6_3687071198_job.cheaters-table.edge.o-watched.s1.Default.Label>hold the gaze, push too hard and he'll bolt into the vents</chupakobra6_3687071198_job.cheaters-table.edge.o-watched.s1.Default.Label>
+  <chupakobra6_3687071198_job.cheaters-table.node.a-aware.Text>{pawn} watches the suspect's hand twitches, timing the exact moment he palmed an ace from his sleeve.</chupakobra6_3687071198_job.cheaters-table.node.a-aware.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.a-aware.Title>Watch his fingers.</chupakobra6_3687071198_job.cheaters-table.node.a-aware.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.a-confront-brawl.Text>{pawn} drives a fist into the mechanic's solar plexus while {pawn2} strips his optic power pack.</chupakobra6_3687071198_job.cheaters-table.node.a-confront-brawl.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.a-confront-brawl.Title>Beat him down.</chupakobra6_3687071198_job.cheaters-table.node.a-confront-brawl.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.a-confront-pitboss.Text>{pawn} whistles for the casino pit boss while {pawn2} pins the suspect against the wall.</chupakobra6_3687071198_job.cheaters-table.node.a-confront-pitboss.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.a-confront-pitboss.Title>Signal the pit boss.</chupakobra6_3687071198_job.cheaters-table.node.a-confront-pitboss.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.a-confront-quiet.Text>{pawn} steps out from the service alcove, blocking the mechanic's path while {pawn2} cuts off the retreat.</chupakobra6_3687071198_job.cheaters-table.node.a-confront-quiet.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.a-confront-quiet.Title>Corner him in the hallway.</chupakobra6_3687071198_job.cheaters-table.node.a-confront-quiet.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.a-confront-shakedown.Text>{pawn} shoves the cheat against the bulkhead, demanding his silver stack while {pawn2} empties his boots.</chupakobra6_3687071198_job.cheaters-table.node.a-confront-shakedown.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.a-confront-shakedown.Title>Demand his silver stack.</chupakobra6_3687071198_job.cheaters-table.node.a-confront-shakedown.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.a-counter-cheat.Text>{pawn} marks a card corner with fingernail grease to counter-rig the mechanic's deck while {pawn2} feigns an argument.</chupakobra6_3687071198_job.cheaters-table.node.a-counter-cheat.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.a-counter-cheat.Title>Counter his deal.</chupakobra6_3687071198_job.cheaters-table.node.a-counter-cheat.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.a-pos-feed.Text>{pawn} splices a bypass pig-tail into the ceiling camera junction while {pawn2} shields the monitor.</chupakobra6_3687071198_job.cheaters-table.node.a-pos-feed.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.a-pos-feed.Title>Tap the security cameras.</chupakobra6_3687071198_job.cheaters-table.node.a-pos-feed.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.a-pos-mezzanine.Text>{pawn} leans against the brass balcony railing with a field monocular while {pawn2} watches the floor exits.</chupakobra6_3687071198_job.cheaters-table.node.a-pos-mezzanine.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.a-pos-mezzanine.Title>Watch from the balcony.</chupakobra6_3687071198_job.cheaters-table.node.a-pos-mezzanine.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.a-pos-side.Text>The crew took an empty table nearby and ordered drinks while watching his posture and eye movements.</chupakobra6_3687071198_job.cheaters-table.node.a-pos-side.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.a-pos-side.Title>Sit at an adjacent booth.</chupakobra6_3687071198_job.cheaters-table.node.a-pos-side.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.a-pos-table.Text>{pawn} buys a short stack of chips and slides into an open chair while {pawn2} stands behind the drink cart.</chupakobra6_3687071198_job.cheaters-table.node.a-pos-table.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.a-pos-table.Title>Buy into the game.</chupakobra6_3687071198_job.cheaters-table.node.a-pos-table.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.a-shoot.Text>{pawn} draws a suppressed sidearm and shoots the card mechanic right through his high-roller chair. Friday Night Firefight rules!</chupakobra6_3687071198_job.cheaters-table.node.a-shoot.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.a-shoot.Title>Just shoot him.</chupakobra6_3687071198_job.cheaters-table.node.a-shoot.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.a-streetwise.Text>{pawn} watches the suspect's betting cadence, comparing his tells against professional syndicate card mechanics.</chupakobra6_3687071198_job.cheaters-table.node.a-streetwise.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.a-streetwise.Title>Read his betting pattern.</chupakobra6_3687071198_job.cheaters-table.node.a-streetwise.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.brief.Text>The manager of the velvet-lined Neon Deck casino suspects a card mechanic is using augmented optics to fleece high-stakes tables. The house offers 650 silver to catch the cheat red-handed. The manager wants proof, but won't complain if the card mechanic suffers an educational injury.</chupakobra6_3687071198_job.cheaters-table.node.brief.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.brief.Title>The Brief</chupakobra6_3687071198_job.cheaters-table.node.brief.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.e-blackmail.Text>The crew let the mechanic leave in exchange for a half-cut of his earnings and a promise to feed them inside tips on future card games.</chupakobra6_3687071198_job.cheaters-table.node.e-blackmail.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.e-blackmail.Title>Blackmailed the Mechanic</chupakobra6_3687071198_job.cheaters-table.node.e-blackmail.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.e-cashout.Text>The crew won several clean hands against the mechanic, pocketed the casino chips, and walked away from the contract.</chupakobra6_3687071198_job.cheaters-table.node.e-cashout.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.e-cashout.Title>Cashed Out</chupakobra6_3687071198_job.cheaters-table.node.e-cashout.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.e-down.Text>The mechanic's hired thugs ambushed the crew in the hallway, leaving them bleeding on the deck while the cheater escaped.</chupakobra6_3687071198_job.cheaters-table.node.e-down.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.e-down.Title>Crew Down</chupakobra6_3687071198_job.cheaters-table.node.e-down.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.e-shotout.Text>The gunfight in the casino left patrons injured and tables overturned. The crew grabbed what silver they could find and ran for the dock before guards arrived.</chupakobra6_3687071198_job.cheaters-table.node.e-shotout.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.e-shotout.Title>Floor Shootout</chupakobra6_3687071198_job.cheaters-table.node.e-shotout.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.e-trick.Text>The crew kept the mechanic's illegal sub-dermal card scanner for themselves and turned the man over to security, collecting the bounty and high-tech salvage.</chupakobra6_3687071198_job.cheaters-table.node.e-trick.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.e-trick.Title>Kept the Device</chupakobra6_3687071198_job.cheaters-table.node.e-trick.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.e-turnin.Text>The crew marched the mechanic to the pit boss's office along with the recovered casino silver. The boss paid the 650 silver bounty and granted the crew permanent lounge access.</chupakobra6_3687071198_job.cheaters-table.node.e-turnin.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.e-turnin.Title>Turned Over to Security</chupakobra6_3687071198_job.cheaters-table.node.e-turnin.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.fork.Text>With the mechanic subdued and the silver in hand, the crew had to decide how to conclude the contract.</chupakobra6_3687071198_job.cheaters-table.node.fork.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.fork.Title>The Disposition</chupakobra6_3687071198_job.cheaters-table.node.fork.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.o-brawl-won.Text>The crew knocked the shiv from his grip, pinned him to the floor, and confiscated his loot.</chupakobra6_3687071198_job.cheaters-table.node.o-brawl-won.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.o-brawl-won.Title>Mechanic Subdued</chupakobra6_3687071198_job.cheaters-table.node.o-brawl-won.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.o-caught.Text>The crew saw a subtle blue flicker in the mechanic's left eye. He was using a bionic sub-dermal scanner to read the magnetic ink on the face-down cards.</chupakobra6_3687071198_job.cheaters-table.node.o-caught.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.o-caught.Title>Optic Cheat Spotted</chupakobra6_3687071198_job.cheaters-table.node.o-caught.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.o-countered.Text>The mechanic realized the table was onto him. He folded his hand, scooped up his silver, and hurried toward the service exit.</chupakobra6_3687071198_job.cheaters-table.node.o-countered.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.o-countered.Title>Grift Disrupted</chupakobra6_3687071198_job.cheaters-table.node.o-countered.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.o-fight.Text>Casino bouncers flip velvet tables as the pit boss draws an automatic weapon! Shoot your way through the security heavies!</chupakobra6_3687071198_job.cheaters-table.node.o-fight.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.o-fight.Title>Casino Shootout</chupakobra6_3687071198_job.cheaters-table.node.o-fight.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.o-method.Text>The crew deduced his entire system: an accomplice in the bar was broadcasting the deck order directly to his cyber-optic.</chupakobra6_3687071198_job.cheaters-table.node.o-method.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.o-method.Title>Rig Understood</chupakobra6_3687071198_job.cheaters-table.node.o-method.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.o-quiet-cornered.Text>Trapped and outmatched, the mechanic dropped the bag of silver and surrendered his optic override chip.</chupakobra6_3687071198_job.cheaters-table.node.o-quiet-cornered.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.o-quiet-cornered.Title>Mechanic Surrenders</chupakobra6_3687071198_job.cheaters-table.node.o-quiet-cornered.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.o-watched.Text>The mechanic caught the crew staring and grew cautious, refusing to place another high-stakes bet.</chupakobra6_3687071198_job.cheaters-table.node.o-watched.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.o-watched.Title>Mechanic Alerted</chupakobra6_3687071198_job.cheaters-table.node.o-watched.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.s-confront.Text>The mechanic pockets his chips and ducks into an exit corridor. {pawn} and {pawn2} move in to make the collar.</chupakobra6_3687071198_job.cheaters-table.node.s-confront.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.s-confront.Title>The Squeeze</chupakobra6_3687071198_job.cheaters-table.node.s-confront.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.s-pos.Text>The casino floor is packed with drunken spacers and synthetic smoke. The target sits at a private green-felt table, steadily stacking silver chips. {pawn} and {pawn2} select their reconnaissance angles.</chupakobra6_3687071198_job.cheaters-table.node.s-pos.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.s-pos.Title>Taking Position</chupakobra6_3687071198_job.cheaters-table.node.s-pos.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.s1.Text>The dealer pitches cards across the felt. The suspect rubs his left eye, his cyber-optic clicking faintly as he reads the deck. {pawn} and {pawn2} prepare to expose the cheat.</chupakobra6_3687071198_job.cheaters-table.node.s1.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.s1.Title>Across the Felt</chupakobra6_3687071198_job.cheaters-table.node.s1.Title>
+  <chupakobra6_3687071198_job.clean-hands.Name>Clean Hands</chupakobra6_3687071198_job.clean-hands.Name>
+  <chupakobra6_3687071198_job.clean-hands.Subtitle>Smuggle an unmarked transport case through syndicate turf to flip their primary tech buyer.</chupakobra6_3687071198_job.clean-hands.Subtitle>
+  <chupakobra6_3687071198_job.clean-hands.edge.a-decoy-tin.s2.Fail.Label>hollow crate, still buys us time</chupakobra6_3687071198_job.clean-hands.edge.a-decoy-tin.s2.Fail.Label>
+  <chupakobra6_3687071198_job.clean-hands.edge.a-decoy-tin.s2.Success.Label>decoy prepped in the tubes</chupakobra6_3687071198_job.clean-hands.edge.a-decoy-tin.s2.Success.Label>
+  <chupakobra6_3687071198_job.clean-hands.edge.a-decoy-uniform.s2.Fail.Label>greasy, oil-stained jumpsuits</chupakobra6_3687071198_job.clean-hands.edge.a-decoy-uniform.s2.Fail.Label>
+  <chupakobra6_3687071198_job.clean-hands.edge.a-decoy-uniform.s2.Success.Label>rigged in stolen coveralls</chupakobra6_3687071198_job.clean-hands.edge.a-decoy-uniform.s2.Success.Label>
+  <chupakobra6_3687071198_job.clean-hands.edge.a-decoy-urchin.s2.Fail.Label>the runner took the silver and vanished into the pipe-chase maze</chupakobra6_3687071198_job.clean-hands.edge.a-decoy-urchin.s2.Fail.Label>
+  <chupakobra6_3687071198_job.clean-hands.edge.a-decoy-urchin.s2.Success.Label>diversion primed</chupakobra6_3687071198_job.clean-hands.edge.a-decoy-urchin.s2.Success.Label>
+  <chupakobra6_3687071198_job.clean-hands.edge.s2-made.a-tac-ambush.Choice.Label>Tackle the lead sentry.</chupakobra6_3687071198_job.clean-hands.edge.s2-made.a-tac-ambush.Choice.Label>
+  <chupakobra6_3687071198_job.clean-hands.edge.s2-made.a-tac-flank.Choice.Label>Take high ground.</chupakobra6_3687071198_job.clean-hands.edge.s2-made.a-tac-flank.Choice.Label>
+  <chupakobra6_3687071198_job.clean-hands.edge.s2-made.a-tac-shoot.Violence.Label>Open fire immediately.</chupakobra6_3687071198_job.clean-hands.edge.s2-made.a-tac-shoot.Violence.Label>
+  <chupakobra6_3687071198_job.clean-hands.edge.s2-made.a-tac-smoke.Choice.Label>Deploy smoke grenade.</chupakobra6_3687071198_job.clean-hands.edge.s2-made.a-tac-smoke.Choice.Label>
+  <chupakobra6_3687071198_job.clean-hands.edge.s3-persuade.e-covered.Fail.Label>the buyer's balking on the weight, and the deck hands are covering the missing tonnage out of pocket</chupakobra6_3687071198_job.clean-hands.edge.s3-persuade.e-covered.Fail.Label>
+  <chupakobra6_3687071198_job.clean-hands.node.a-decoy-straight.Text>{pawn} hoists the lead case onto their shoulder. No disguises, no tricks. {pawn2} walks two paces back, hands resting loose near holsters.</chupakobra6_3687071198_job.clean-hands.node.a-decoy-straight.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.a-decoy-straight.Title>Just walk through with it.</chupakobra6_3687071198_job.clean-hands.node.a-decoy-straight.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.a-decoy-tin.Text>{pawn} solders scrap sheet metal to mirror the case profile while {pawn2} packs ball bearings to match the weight.</chupakobra6_3687071198_job.clean-hands.node.a-decoy-tin.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.a-decoy-tin.Title>Build a dummy case.</chupakobra6_3687071198_job.clean-hands.node.a-decoy-tin.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.a-decoy-uniform.Text>{pawn} pulls on stolen maintenance coveralls while {pawn2} splices together a pair of counterfeit transit passes.</chupakobra6_3687071198_job.clean-hands.node.a-decoy-uniform.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.a-decoy-uniform.Title>Put on coveralls and fake credentials.</chupakobra6_3687071198_job.clean-hands.node.a-decoy-uniform.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.a-decoy-urchin.Text>{pawn} flags down a street urchin with silver in hand, while {pawn2} points out the security checkpoint sensors.</chupakobra6_3687071198_job.clean-hands.node.a-decoy-urchin.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.a-decoy-urchin.Title>Pay a kid for a distraction.</chupakobra6_3687071198_job.clean-hands.node.a-decoy-urchin.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.a-inspect.Text>The crew decided to inspect the cargo before moving it, snapping the lead wire to verify the contents against the manifest.</chupakobra6_3687071198_job.clean-hands.node.a-inspect.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.a-inspect.Title>Break the tamper seal.</chupakobra6_3687071198_job.clean-hands.node.a-inspect.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.a-tac-ambush.Text>{pawn} surges forward to grapple the lead guard into the barrier before he levels his shotgun, while {pawn2} covers the flank.</chupakobra6_3687071198_job.clean-hands.node.a-tac-ambush.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.a-tac-ambush.Title>Tackle the lead sentry.</chupakobra6_3687071198_job.clean-hands.node.a-tac-ambush.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.a-tac-flank.Text>{pawn} scrambles up the structural conduit ladder to get elevated firing angles while {pawn2} draws attention below.</chupakobra6_3687071198_job.clean-hands.node.a-tac-flank.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.a-tac-flank.Title>Take high ground.</chupakobra6_3687071198_job.clean-hands.node.a-tac-flank.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.a-tac-shoot.Text>{pawn} clears leather and opens fire straight into the checkpoint barricades without hesitation.</chupakobra6_3687071198_job.clean-hands.node.a-tac-shoot.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.a-tac-shoot.Title>Open fire immediately.</chupakobra6_3687071198_job.clean-hands.node.a-tac-shoot.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.a-tac-smoke.Text>{pawn} primes an aerosol smoke canister while {pawn2} spots the security sensor array. A thick chemical cloud will grant the crew heavy cover.</chupakobra6_3687071198_job.clean-hands.node.a-tac-smoke.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.a-tac-smoke.Title>Deploy smoke grenade.</chupakobra6_3687071198_job.clean-hands.node.a-tac-smoke.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.brief.Text>A station fixer slides a heavy, lead-lined transport case across the counter. He explains that the case holds sensitive components, and a black-market buyer on the opposite side of the concourse is ready to pay top coin. The buyer currently deals exclusively with the deck's ruling syndicate. The fixer offers 450 silver for a clean delivery that convinces the buyer to switch suppliers. He warns that syndicate patrols control the floor, and getting caught will trigger an immediate firefight.</chupakobra6_3687071198_job.clean-hands.node.brief.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.brief.Title>The Brief</chupakobra6_3687071198_job.clean-hands.node.brief.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.e-covered.Text>The crew surrendered personal silver to cover the alleged deficit. The buyer accepted the arrangement, but the job's profit margin was wiped out.</chupakobra6_3687071198_job.clean-hands.node.e-covered.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.e-covered.Title>Covered from Pocket</chupakobra6_3687071198_job.clean-hands.node.e-covered.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.e-defected.Text>The crew bypassed the buyer entirely and delivered both the cargo and the fixer's routing manifests to the syndicate office. The silver was paid immediately, but the fixer issued a permanent bounty on the crew.</chupakobra6_3687071198_job.clean-hands.node.e-defected.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.e-defected.Title>Sold to the Syndicate</chupakobra6_3687071198_job.clean-hands.node.e-defected.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.e-down.Text>The firefight went against the crew. The survivors were disarmed and hauled into the lower detention cells.</chupakobra6_3687071198_job.clean-hands.node.e-down.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.e-down.Title>Crew Down</chupakobra6_3687071198_job.clean-hands.node.e-down.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.e-folded.Text>Cornered by checkpoint guards, the crew dropped the case and backed away. The cargo was impounded and the fixer refused all future contact.</chupakobra6_3687071198_job.clean-hands.node.e-folded.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.e-folded.Title>Surrendered Cargo</chupakobra6_3687071198_job.clean-hands.node.e-folded.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.e-professional.Text>The buyer conceded the point and weighed out 450 silver in coin. The fixer secured an exclusive supplier, the syndicate was circumvented, and the crew cleared the deck without firing a round.</chupakobra6_3687071198_job.clean-hands.node.e-professional.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.e-professional.Title>Clean Handoff</chupakobra6_3687071198_job.clean-hands.node.e-professional.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.e-shotout.Text>A running firefight erupted through the bazaar. The crew escaped with the buyer's silver, but station security sealed the sector and marked the crew for arrest.</chupakobra6_3687071198_job.clean-hands.node.e-shotout.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.e-shotout.Title>Shot Your Way Out</chupakobra6_3687071198_job.clean-hands.node.e-shotout.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.e-turned.Text>The buyer agreed to cut all syndicate ties, but warned that local enforcers would retaliate against anyone seen visiting his shop.</chupakobra6_3687071198_job.clean-hands.node.e-turned.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.e-turned.Title>Syndicate Dropped</chupakobra6_3687071198_job.clean-hands.node.e-turned.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.e-walked.Text>The crew left the case on the bench and walked away from the contract.</chupakobra6_3687071198_job.clean-hands.node.e-walked.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.e-walked.Title>Walk away.</chupakobra6_3687071198_job.clean-hands.node.e-walked.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.o-fight-buyer.Text>The buyer ducks into his vault as his cybernetic bodyguard powers up heavy subdermal servos and draws a heavy magnum!</chupakobra6_3687071198_job.clean-hands.node.o-fight-buyer.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.o-fight-buyer.Title>Backroom Gunfight</chupakobra6_3687071198_job.clean-hands.node.o-fight-buyer.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.o-fight-concourse.Text>Sirens howl across the bazaar as shotgun blasts tear into the walls! Friday Night Firefight rules: take down the enforcers or die on the tiles.</chupakobra6_3687071198_job.clean-hands.node.o-fight-concourse.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.o-fight-concourse.Title>Concourse Gunfight</chupakobra6_3687071198_job.clean-hands.node.o-fight-concourse.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.o-inspected.Text>The lead wire was snapped and the case opened. The electronics were intact and matched the manifest. Breaking the seal would irritate the fixer, but it confirmed the shipment was complete.</chupakobra6_3687071198_job.clean-hands.node.o-inspected.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.o-inspected.Title>Cargo Verified</chupakobra6_3687071198_job.clean-hands.node.o-inspected.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.o-tac-ambush.Text>{pawn} slams the lead sentry into the steel barrier with a sickening crunch. The enforcer drops dazed, completely out of the opening exchange!</chupakobra6_3687071198_job.clean-hands.node.o-tac-ambush.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.o-tac-ambush.Title>Lead Guard Down</chupakobra6_3687071198_job.clean-hands.node.o-tac-ambush.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.o-tac-flank.Text>{pawn} locks into an overhead gantry strut with a clear line of sight. The crew secures the tactical initiative!</chupakobra6_3687071198_job.clean-hands.node.o-tac-flank.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.o-tac-flank.Title>High Ground Secured</chupakobra6_3687071198_job.clean-hands.node.o-tac-flank.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.o-tac-smoke.Text>Dense grey aerosol billows across the concourse! The guards choke and fire blind into the fog as the crew takes heavy cover.</chupakobra6_3687071198_job.clean-hands.node.o-tac-smoke.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.o-tac-smoke.Title>Smoke Blanket</chupakobra6_3687071198_job.clean-hands.node.o-tac-smoke.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.s-decoy-prep.Text>With the case hot, the crew can rig a distraction or alter their profiles before walking the checkpoint. {pawn} sets out tools while {pawn2} checks their available supplies.</chupakobra6_3687071198_job.clean-hands.node.s-decoy-prep.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.s-decoy-prep.Title>Rigging the Cargo</chupakobra6_3687071198_job.clean-hands.node.s-decoy-prep.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.s1-blind.Text>The concourse looks clear, but the silence feels unnatural. {pawn} signals {pawn2} to keep weapons ready under their jackets as they prepare the cargo.</chupakobra6_3687071198_job.clean-hands.node.s1-blind.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.s1-blind.Title>Clear Corridor</chupakobra6_3687071198_job.clean-hands.node.s1-blind.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.s1-read.Text>{pawn} leans against the alcove bulkhead, scanning the concourse crowd for watchers while {pawn2} monitors radio traffic on the deck frequency. One suspicious glance and the tail will know they've been spotted.</chupakobra6_3687071198_job.clean-hands.node.s1-read.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.s1-read.Title>Look for watchers.</chupakobra6_3687071198_job.clean-hands.node.s1-read.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.s1-tailed.Text>{pawn} spots a syndicate lookout lurking behind a noodle kiosk, fingering a concealed radio. {pawn2} nods toward a service tube: the spotter's line of sight can be bypassed.</chupakobra6_3687071198_job.clean-hands.node.s1-tailed.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.s1-tailed.Title>Watcher Clocked</chupakobra6_3687071198_job.clean-hands.node.s1-tailed.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.s1.Text>The crew meets the courier in a cramped maintenance alcove behind the bazaar. The courier sets the heavy case on a grease-stained bench. He explains that syndicate patrols are actively shaking down travellers at the concourse checkpoints. {pawn} inspects the seals while {pawn2} watches the corridor angles.</chupakobra6_3687071198_job.clean-hands.node.s1.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.s1.Title>The Alcove Drop</chupakobra6_3687071198_job.clean-hands.node.s1.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.s2-blend.Text>{pawn} shoulders the cargo, matching pace with a shift-change labor crowd while {pawn2} acts as an outer blocker.</chupakobra6_3687071198_job.clean-hands.node.s2-blend.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.s2-blend.Title>Blend into the crowd.</chupakobra6_3687071198_job.clean-hands.node.s2-blend.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.s2-clear.Text>{pawn} and {pawn2} slip past the barricades without drawing a second glance. The security line fades into the crowd behind them.</chupakobra6_3687071198_job.clean-hands.node.s2-clear.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.s2-clear.Title>Through the Line</chupakobra6_3687071198_job.clean-hands.node.s2-clear.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.s2-made.Text>A loud buzzer blares! The checkpoint sentry levels a riot shotgun directly at {pawn}'s chest. Enforcers scramble to battle stations across the barrier!</chupakobra6_3687071198_job.clean-hands.node.s2-made.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.s2-made.Title>Stopped at the Line</chupakobra6_3687071198_job.clean-hands.node.s2-made.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.s2-pay.Text>{pawn} counts silver into a technician's palm while {pawn2} watches the security camera angles.</chupakobra6_3687071198_job.clean-hands.node.s2-pay.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.s2-pay.Title>Bribe a tech for tunnel access.</chupakobra6_3687071198_job.clean-hands.node.s2-pay.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.s2-shoot.Text>{pawn} draws iron with casual lethality, racking the slide before the sentries even register the threat.</chupakobra6_3687071198_job.clean-hands.node.s2-shoot.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.s2-shoot.Title>Just shoot the guards.</chupakobra6_3687071198_job.clean-hands.node.s2-shoot.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.s2-talk.Text>{pawn} marches straight up to the security desk with forged requisition paperwork while {pawn2} stands stone-faced.</chupakobra6_3687071198_job.clean-hands.node.s2-talk.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.s2-talk.Title>Bluff using paperwork.</chupakobra6_3687071198_job.clean-hands.node.s2-talk.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.s2-vent.Text>{pawn} unbolts an exhaust grating while {pawn2} boosts the heavy case up into the cramped conduit.</chupakobra6_3687071198_job.clean-hands.node.s2-vent.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.s2-vent.Title>Crawl through an air vent.</chupakobra6_3687071198_job.clean-hands.node.s2-vent.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.s2.Text>The concourse checkpoint looms ahead behind heavy blast barriers. Armed syndicate enforcers scrutinize every civilian crossing the boundary line. {pawn} signals {pawn2} to pick their entry vector.</chupakobra6_3687071198_job.clean-hands.node.s2.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.s2.Title>The Concourse Crossing</chupakobra6_3687071198_job.clean-hands.node.s2.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.s3-defect.Text>{pawn} offers to sell the cargo directly to the syndicate instead, trading loyalty for immediate cold scrip.</chupakobra6_3687071198_job.clean-hands.node.s3-defect.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.s3-defect.Title>Sell it to the syndicate instead.</chupakobra6_3687071198_job.clean-hands.node.s3-defect.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.s3-intimidate.Text>{pawn} steps directly into the broker's personal space with cold disregard, while {pawn2} calmly seals the reinforced office exit.</chupakobra6_3687071198_job.clean-hands.node.s3-intimidate.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.s3-intimidate.Title>Demand the full price.</chupakobra6_3687071198_job.clean-hands.node.s3-intimidate.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.s3-persuade.Text>{pawn} lays out the delivery audit, demonstrating that the syndicate has been skimming his shipments, while {pawn2} sets down the untampered case.</chupakobra6_3687071198_job.clean-hands.node.s3-persuade.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.s3-persuade.Title>Blame the syndicate.</chupakobra6_3687071198_job.clean-hands.node.s3-persuade.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.s3-shoot.Text>{pawn} raises their weapon directly at the buyer's forehead. No more bargaining.</chupakobra6_3687071198_job.clean-hands.node.s3-shoot.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.s3-shoot.Title>Shoot the buyer.</chupakobra6_3687071198_job.clean-hands.node.s3-shoot.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.s3.Text>The buyer's backroom smells of ozone and cheap cigars. The tech broker sits behind a reinforced desk, flanked by an armored cybernetic bodyguard. He looks over {pawn} and {pawn2} with cold skepticism.</chupakobra6_3687071198_job.clean-hands.node.s3.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.s3.Title>The Buyer's Backroom</chupakobra6_3687071198_job.clean-hands.node.s3.Title>
+  <chupakobra6_3687071198_job.cold-read.Name>Cold Read</chupakobra6_3687071198_job.cold-read.Name>
+  <chupakobra6_3687071198_job.cold-read.Subtitle>Wear a hidden wire into an executive gala to extract evidence of corporate kickbacks.</chupakobra6_3687071198_job.cold-read.Subtitle>
+  <chupakobra6_3687071198_job.cold-read.edge.a-bar-bodyguard.burn.Fail.Label>They pinned the spill entirely on you and the room went dead silent.</chupakobra6_3687071198_job.cold-read.edge.a-bar-bodyguard.burn.Fail.Label>
+  <chupakobra6_3687071198_job.cold-read.edge.a-bar-bodyguard.s-convo.Success.Label>muscle moved away</chupakobra6_3687071198_job.cold-read.edge.a-bar-bodyguard.s-convo.Success.Label>
+  <chupakobra6_3687071198_job.cold-read.edge.a-bar-drink.s-convo.Fail.Label>top-shelf poison bought, tongue loosened</chupakobra6_3687071198_job.cold-read.edge.a-bar-drink.s-convo.Fail.Label>
+  <chupakobra6_3687071198_job.cold-read.edge.a-bar-drink.s-convo.Success.Label>synthetic liquor pouring</chupakobra6_3687071198_job.cold-read.edge.a-bar-drink.s-convo.Success.Label>
+  <chupakobra6_3687071198_job.cold-read.edge.a-bar-mic.s-convo.Fail.Label>static on the line, but the wire is still hot</chupakobra6_3687071198_job.cold-read.edge.a-bar-mic.s-convo.Fail.Label>
+  <chupakobra6_3687071198_job.cold-read.edge.a-bar-mic.s-convo.Success.Label>mic dampeners hot</chupakobra6_3687071198_job.cold-read.edge.a-bar-mic.s-convo.Success.Label>
+  <chupakobra6_3687071198_job.cold-read.edge.a-perf.burn.Fail.Label>Name missing from the manifest; sector security has been alerted to your position.</chupakobra6_3687071198_job.cold-read.edge.a-perf.burn.Fail.Label>
+  <chupakobra6_3687071198_job.cold-read.edge.a-perf.s-bar-prep.Success.Label>guest cleared</chupakobra6_3687071198_job.cold-read.edge.a-perf.s-bar-prep.Success.Label>
+  <chupakobra6_3687071198_job.cold-read.edge.a-staff.burn.Fail.Label>floor staff checked your credentials</chupakobra6_3687071198_job.cold-read.edge.a-staff.burn.Fail.Label>
+  <chupakobra6_3687071198_job.cold-read.edge.a-staff.s-bar-prep.Success.Label>catering slip</chupakobra6_3687071198_job.cold-read.edge.a-staff.s-bar-prep.Success.Label>
+  <chupakobra6_3687071198_job.cold-read.edge.a-street.burn.Fail.Label>bad ID, cold stares</chupakobra6_3687071198_job.cold-read.edge.a-street.burn.Fail.Label>
+  <chupakobra6_3687071198_job.cold-read.edge.a-street.s-bar-prep.Success.Label>alias dropped</chupakobra6_3687071198_job.cold-read.edge.a-street.s-bar-prep.Success.Label>
+  <chupakobra6_3687071198_job.cold-read.edge.burn.a-tac-ambush-burn.Choice.Label>Tackle the bodyguard.</chupakobra6_3687071198_job.cold-read.edge.burn.a-tac-ambush-burn.Choice.Label>
+  <chupakobra6_3687071198_job.cold-read.edge.burn.a-tac-smoke-burn.Choice.Label>Deploy smoke grenade.</chupakobra6_3687071198_job.cold-read.edge.burn.a-tac-smoke-burn.Choice.Label>
+  <chupakobra6_3687071198_job.cold-read.edge.fork.e-blackmail.Choice.Label>Sell the recording back to the executive.</chupakobra6_3687071198_job.cold-read.edge.fork.e-blackmail.Choice.Label>
+  <chupakobra6_3687071198_job.cold-read.edge.fork.e-delivered.Choice.Label>Deliver the recording to the fixer.</chupakobra6_3687071198_job.cold-read.edge.fork.e-delivered.Choice.Label>
+  <chupakobra6_3687071198_job.cold-read.node.a-bar-bodyguard.Text>{pawn} stages an accidental drink spill over the bodyguard's sleeve while {pawn2} guides the executive away.</chupakobra6_3687071198_job.cold-read.node.a-bar-bodyguard.Text>
+  <chupakobra6_3687071198_job.cold-read.node.a-bar-bodyguard.Title>Spill a drink on the bodyguard.</chupakobra6_3687071198_job.cold-read.node.a-bar-bodyguard.Title>
+  <chupakobra6_3687071198_job.cold-read.node.a-bar-direct.Text>The operative walked straight up to the bar and introduced themselves to the executive.</chupakobra6_3687071198_job.cold-read.node.a-bar-direct.Text>
+  <chupakobra6_3687071198_job.cold-read.node.a-bar-direct.Title>Walk up and talk to him.</chupakobra6_3687071198_job.cold-read.node.a-bar-direct.Title>
+  <chupakobra6_3687071198_job.cold-read.node.a-bar-drink.Text>{pawn} orders an expensive bottle of vintage liquor to the executive's table while {pawn2} settles into the adjacent booth.</chupakobra6_3687071198_job.cold-read.node.a-bar-drink.Text>
+  <chupakobra6_3687071198_job.cold-read.node.a-bar-drink.Title>Buy him an expensive drink.</chupakobra6_3687071198_job.cold-read.node.a-bar-drink.Title>
+  <chupakobra6_3687071198_job.cold-read.node.a-bar-mic.Text>{pawn} tunes the audio collar frequency while {pawn2} adjusts ambient noise cancellation filters.</chupakobra6_3687071198_job.cold-read.node.a-bar-mic.Text>
+  <chupakobra6_3687071198_job.cold-read.node.a-bar-mic.Title>Calibrate the audio collar.</chupakobra6_3687071198_job.cold-read.node.a-bar-mic.Title>
+  <chupakobra6_3687071198_job.cold-read.node.a-convo-jealousy.Text>{pawn} plays to the executive's vanity, prodding him to brag about illegal shell company diversions while {pawn2} monitors the audio levels.</chupakobra6_3687071198_job.cold-read.node.a-convo-jealousy.Text>
+  <chupakobra6_3687071198_job.cold-read.node.a-convo-jealousy.Title>Flatter his corporate standing.</chupakobra6_3687071198_job.cold-read.node.a-convo-jealousy.Title>
+  <chupakobra6_3687071198_job.cold-read.node.a-convo-kickback.Text>{pawn} whispers an offshore laundering scheme to bait the executive into confirming kickback amounts while {pawn2} records.</chupakobra6_3687071198_job.cold-read.node.a-convo-kickback.Text>
+  <chupakobra6_3687071198_job.cold-read.node.a-convo-kickback.Title>Offer an offshore laundering route.</chupakobra6_3687071198_job.cold-read.node.a-convo-kickback.Title>
+  <chupakobra6_3687071198_job.cold-read.node.a-convo-tablet.Text>{pawn} leans over his shoulder under the guise of refilling his glass, memorizing encrypted account ledgers while {pawn2} distracts him.</chupakobra6_3687071198_job.cold-read.node.a-convo-tablet.Text>
+  <chupakobra6_3687071198_job.cold-read.node.a-convo-tablet.Title>Memorize his datapad ledger.</chupakobra6_3687071198_job.cold-read.node.a-convo-tablet.Title>
+  <chupakobra6_3687071198_job.cold-read.node.a-cool.Text>{pawn} laughs dismissively, flashing a counterfeit diplomatic card while {pawn2} calmly shields the microphone.</chupakobra6_3687071198_job.cold-read.node.a-cool.Text>
+  <chupakobra6_3687071198_job.cold-read.node.a-cool.Title>Laugh off the security scan.</chupakobra6_3687071198_job.cold-read.node.a-cool.Title>
+  <chupakobra6_3687071198_job.cold-read.node.a-perf.Text>{pawn} straightens a tailored lapel and presents counterfeit invitation credentials while {pawn2} acts as an attentive assistant.</chupakobra6_3687071198_job.cold-read.node.a-perf.Text>
+  <chupakobra6_3687071198_job.cold-read.node.a-perf.Title>Pose as an invited guest.</chupakobra6_3687071198_job.cold-read.node.a-perf.Title>
+  <chupakobra6_3687071198_job.cold-read.node.a-shoot-door.Text>{pawn} draws a suppressed weapon and executes the doorman right in front of the lift. Friday Night Firefight rules!</chupakobra6_3687071198_job.cold-read.node.a-shoot-door.Text>
+  <chupakobra6_3687071198_job.cold-read.node.a-shoot-door.Title>Just shoot the doorman.</chupakobra6_3687071198_job.cold-read.node.a-shoot-door.Title>
+  <chupakobra6_3687071198_job.cold-read.node.a-shoot-floor.Text>{pawn} and {pawn2} draw iron and open fire! Friday Night Firefight: take down the elite bodyguard and secure the recording!</chupakobra6_3687071198_job.cold-read.node.a-shoot-floor.Text>
+  <chupakobra6_3687071198_job.cold-read.node.a-shoot-floor.Title>Draw your gun and shoot.</chupakobra6_3687071198_job.cold-read.node.a-shoot-floor.Title>
+  <chupakobra6_3687071198_job.cold-read.node.a-staff.Text>{pawn} wheels a champagne cart through the catering service entrance while {pawn2} holds the magnetic door catch.</chupakobra6_3687071198_job.cold-read.node.a-staff.Text>
+  <chupakobra6_3687071198_job.cold-read.node.a-staff.Title>Slip through the catering door.</chupakobra6_3687071198_job.cold-read.node.a-staff.Title>
+  <chupakobra6_3687071198_job.cold-read.node.a-street.Text>{pawn} drops a high-ranking director's name with casual corporate authority while {pawn2} gestures toward the VIP lifts.</chupakobra6_3687071198_job.cold-read.node.a-street.Text>
+  <chupakobra6_3687071198_job.cold-read.node.a-street.Title>Drop an executive's name.</chupakobra6_3687071198_job.cold-read.node.a-street.Title>
+  <chupakobra6_3687071198_job.cold-read.node.a-tac-ambush-burn.Text>{pawn} charges the chrome bodyguard across the marble bar before he can raise his pistol, with {pawn2} right behind.</chupakobra6_3687071198_job.cold-read.node.a-tac-ambush-burn.Text>
+  <chupakobra6_3687071198_job.cold-read.node.a-tac-ambush-burn.Title>Tackle the bodyguard.</chupakobra6_3687071198_job.cold-read.node.a-tac-ambush-burn.Title>
+  <chupakobra6_3687071198_job.cold-read.node.a-tac-smoke-burn.Text>{pawn} tosses a smoke canister into the lounge ventilation duct while {pawn2} draws weapons. Thick aerosol will give the crew heavy cover.</chupakobra6_3687071198_job.cold-read.node.a-tac-smoke-burn.Text>
+  <chupakobra6_3687071198_job.cold-read.node.a-tac-smoke-burn.Title>Deploy smoke grenade.</chupakobra6_3687071198_job.cold-read.node.a-tac-smoke-burn.Title>
+  <chupakobra6_3687071198_job.cold-read.node.brief.Text>A rival corporate syndicate offers 700 silver to extract an audio confession from a corrupt orbital executive. The target spends his nights drinking on the Spire's private viewing terrace, surrounded by private security and an elite cybernetic bodyguard. The patron provides an audio bug and emphasizes that leaving without being identified is mandatory.</chupakobra6_3687071198_job.cold-read.node.brief.Text>
+  <chupakobra6_3687071198_job.cold-read.node.brief.Title>The Brief</chupakobra6_3687071198_job.cold-read.node.brief.Title>
+  <chupakobra6_3687071198_job.cold-read.node.burn.Text>Security scanners ping! The terrace alarms hum as the elite chrome bodyguard steps in front of the executive with his weapon drawn!</chupakobra6_3687071198_job.cold-read.node.burn.Text>
+  <chupakobra6_3687071198_job.cold-read.node.burn.Title>The Security Sweep</chupakobra6_3687071198_job.cold-read.node.burn.Title>
+  <chupakobra6_3687071198_job.cold-read.node.e-blackmail.Text>The crew bypassed the fixer and contacted the vice-president directly, demanding a single hush-money payment of 1100 silver.</chupakobra6_3687071198_job.cold-read.node.e-blackmail.Text>
+  <chupakobra6_3687071198_job.cold-read.node.e-blackmail.Title>Direct Blackmail</chupakobra6_3687071198_job.cold-read.node.e-blackmail.Title>
+  <chupakobra6_3687071198_job.cold-read.node.e-delivered.Text>The recording was handed over to the fixer. The vice-president was arrested by station auditors, and the crew collected 700 silver.</chupakobra6_3687071198_job.cold-read.node.e-delivered.Text>
+  <chupakobra6_3687071198_job.cold-read.node.e-delivered.Title>Evidence Delivered</chupakobra6_3687071198_job.cold-read.node.e-delivered.Title>
+  <chupakobra6_3687071198_job.cold-read.node.e-made.Text>The bodyguard disarmed the operative and hauled them into an interrogation room. The wire was ripped out and the crew barely escaped.</chupakobra6_3687071198_job.cold-read.node.e-made.Text>
+  <chupakobra6_3687071198_job.cold-read.node.e-made.Title>Caught &amp; Interrogated</chupakobra6_3687071198_job.cold-read.node.e-made.Title>
+  <chupakobra6_3687071198_job.cold-read.node.e-shotout.Text>The crew fought their way down the spire stairs after the gunfight, escaping with the recording but attracting intense corporate security heat.</chupakobra6_3687071198_job.cold-read.node.e-shotout.Text>
+  <chupakobra6_3687071198_job.cold-read.node.e-shotout.Title>Bloody Extraction</chupakobra6_3687071198_job.cold-read.node.e-shotout.Title>
+  <chupakobra6_3687071198_job.cold-read.node.e-slipout.Text>The operative excused themselves, slipped into the crowd, and exited through the service elevator with the full recording.</chupakobra6_3687071198_job.cold-read.node.e-slipout.Text>
+  <chupakobra6_3687071198_job.cold-read.node.e-slipout.Title>Slipped Out Clean</chupakobra6_3687071198_job.cold-read.node.e-slipout.Title>
+  <chupakobra6_3687071198_job.cold-read.node.e-thin.Text>The audio was muffled by ballroom chatter. The fixer accepted the data but reduced the payout to 400 silver.</chupakobra6_3687071198_job.cold-read.node.e-thin.Text>
+  <chupakobra6_3687071198_job.cold-read.node.e-thin.Title>Partial Recording</chupakobra6_3687071198_job.cold-read.node.e-thin.Title>
+  <chupakobra6_3687071198_job.cold-read.node.fork.Text>Safe outside the penthouse, the crew possessed a clear audio confession and the vice-president's private ledger numbers.</chupakobra6_3687071198_job.cold-read.node.fork.Text>
+  <chupakobra6_3687071198_job.cold-read.node.fork.Title>The Leverage</chupakobra6_3687071198_job.cold-read.node.fork.Title>
+  <chupakobra6_3687071198_job.cold-read.node.o-fight.Text>Glass shatters across the terrace as the elite chrome bodyguard returns high-velocity flechette fire! Eliminate him before reinforcements arrive!</chupakobra6_3687071198_job.cold-read.node.o-fight.Text>
+  <chupakobra6_3687071198_job.cold-read.node.o-fight.Title>Penthouse Gunfight</chupakobra6_3687071198_job.cold-read.node.o-fight.Title>
+  <chupakobra6_3687071198_job.cold-read.node.o-tac-ambush-burn.Text>{pawn} slams the chrome bodyguard through a glass coffee table! The bodyguard is dazed and stunned for the opening exchange!</chupakobra6_3687071198_job.cold-read.node.o-tac-ambush-burn.Text>
+  <chupakobra6_3687071198_job.cold-read.node.o-tac-ambush-burn.Title>Bodyguard Smashed</chupakobra6_3687071198_job.cold-read.node.o-tac-ambush-burn.Title>
+  <chupakobra6_3687071198_job.cold-read.node.o-tac-smoke-burn.Text>Dense chemical smoke floods the penthouse terrace! The executive coughs in panic as the bodyguard fires blind into the fog.</chupakobra6_3687071198_job.cold-read.node.o-tac-smoke-burn.Text>
+  <chupakobra6_3687071198_job.cold-read.node.o-tac-smoke-burn.Title>Smoke Shroud</chupakobra6_3687071198_job.cold-read.node.o-tac-smoke-burn.Title>
+  <chupakobra6_3687071198_job.cold-read.node.s-bar-prep.Text>The viewing terrace overlooks the gas giant's glowing rings. The executive sits at a private marble bar. {pawn} and {pawn2} move into position to plant the recording wire.</chupakobra6_3687071198_job.cold-read.node.s-bar-prep.Text>
+  <chupakobra6_3687071198_job.cold-read.node.s-bar-prep.Title>The Reception Room</chupakobra6_3687071198_job.cold-read.node.s-bar-prep.Title>
+  <chupakobra6_3687071198_job.cold-read.node.s-convo.Text>The executive swirls his drink, complaining about corporate quotas and supply shortages. {pawn} guides the conversation while {pawn2} watches the security patrol sweep.</chupakobra6_3687071198_job.cold-read.node.s-convo.Text>
+  <chupakobra6_3687071198_job.cold-read.node.s-convo.Title>The Conversation</chupakobra6_3687071198_job.cold-read.node.s-convo.Title>
+  <chupakobra6_3687071198_job.cold-read.node.s1.Text>The Spire entrance is illuminated in amber neon, guarded by private security personnel checking biometric invitations. {pawn} and {pawn2} review their infiltration angles.</chupakobra6_3687071198_job.cold-read.node.s1.Text>
+  <chupakobra6_3687071198_job.cold-read.node.s1.Title>The Spire Entrance</chupakobra6_3687071198_job.cold-read.node.s1.Title>
+  <chupakobra6_3687071198_job.cut-shift.Name>Cut Shift</chupakobra6_3687071198_job.cut-shift.Name>
+  <chupakobra6_3687071198_job.cut-shift.Subtitle>Dilute the fixer's stock with industrial cutting agents. Just don't get caught selling short weight under the flickering tube lights.</chupakobra6_3687071198_job.cut-shift.Subtitle>
+  <chupakobra6_3687071198_job.cut-shift.node.brief.Text>Seed (QuestBacklog §11.4). Chemistry checks keep the cut stable; Fast Talk moves the product past a buyer who weighs every grain. Endings to build out: Perfect Cut (clean margin) / Detected (lockout and suspicion) / Sabotaged the Rival (Demolitions fork — wrecking competitor stock).</chupakobra6_3687071198_job.cut-shift.node.brief.Text>
+  <chupakobra6_3687071198_job.cut-shift.node.brief.Title>The Brief</chupakobra6_3687071198_job.cut-shift.node.brief.Title>
+  <chupakobra6_3687071198_job.cut-shift.node.todo.Text>This contract tree sits in the backlog. The brief above is the raw seed; specific scenes, approaches, forks, and bloody endings are not yet authored.</chupakobra6_3687071198_job.cut-shift.node.todo.Text>
+  <chupakobra6_3687071198_job.cut-shift.node.todo.Title>Incomplete</chupakobra6_3687071198_job.cut-shift.node.todo.Title>
+  <chupakobra6_3687071198_job.dock-shift.Name>Dock Shift</chupakobra6_3687071198_job.dock-shift.Name>
+  <chupakobra6_3687071198_job.dock-shift.Subtitle>Work an honest freight shift on the gantry docks, with opportunities to salvage or steal.</chupakobra6_3687071198_job.dock-shift.Subtitle>
+  <chupakobra6_3687071198_job.dock-shift.edge.a-coast.s-crisis.Default.Label>four hours bleed away in the hiss</chupakobra6_3687071198_job.dock-shift.edge.a-coast.s-crisis.Default.Label>
+  <chupakobra6_3687071198_job.dock-shift.edge.a-pilfer-blindspot.o-pilfer-caught.Fail.Label>camera caught step</chupakobra6_3687071198_job.dock-shift.edge.a-pilfer-blindspot.o-pilfer-caught.Fail.Label>
+  <chupakobra6_3687071198_job.dock-shift.edge.a-pilfer-blindspot.s-pilfer-stash.Success.Label>lane found</chupakobra6_3687071198_job.dock-shift.edge.a-pilfer-blindspot.s-pilfer-stash.Success.Label>
+  <chupakobra6_3687071198_job.dock-shift.edge.a-pilfer-distract.o-pilfer-caught.Fail.Label>forged pressure readouts flagged</chupakobra6_3687071198_job.dock-shift.edge.a-pilfer-distract.o-pilfer-caught.Fail.Label>
+  <chupakobra6_3687071198_job.dock-shift.edge.a-pilfer-distract.s-pilfer-stash.Success.Label>supervisor looking the other way</chupakobra6_3687071198_job.dock-shift.edge.a-pilfer-distract.s-pilfer-stash.Success.Label>
+  <chupakobra6_3687071198_job.dock-shift.edge.a-pilfer-manifest.o-pilfer-caught.Fail.Label>terminal alarm</chupakobra6_3687071198_job.dock-shift.edge.a-pilfer-manifest.o-pilfer-caught.Fail.Label>
+  <chupakobra6_3687071198_job.dock-shift.edge.a-pilfer-manifest.s-pilfer-stash.Success.Label>tally cleared</chupakobra6_3687071198_job.dock-shift.edge.a-pilfer-manifest.s-pilfer-stash.Success.Label>
+  <chupakobra6_3687071198_job.dock-shift.edge.a-work.s-crisis.Fail.Label>short on tonnage, still humping crates</chupakobra6_3687071198_job.dock-shift.edge.a-work.s-crisis.Fail.Label>
+  <chupakobra6_3687071198_job.dock-shift.edge.a-work.s-crisis.Success.Label>quota pulverized, belt keeps grinding</chupakobra6_3687071198_job.dock-shift.edge.a-work.s-crisis.Success.Label>
+  <chupakobra6_3687071198_job.dock-shift.edge.o-crisis-saved.e-hero.Choice.Label>hailed over the crackling intercom</chupakobra6_3687071198_job.dock-shift.edge.o-crisis-saved.e-hero.Choice.Label>
+  <chupakobra6_3687071198_job.dock-shift.edge.o-crisis-saved.e-paid.Choice.Label>grunt labor, coin in the palm</chupakobra6_3687071198_job.dock-shift.edge.o-crisis-saved.e-paid.Choice.Label>
+  <chupakobra6_3687071198_job.dock-shift.edge.o-crisis-smashed.e-coast.Default.Label>premature shift termination</chupakobra6_3687071198_job.dock-shift.edge.o-crisis-smashed.e-coast.Default.Label>
+  <chupakobra6_3687071198_job.dock-shift.edge.o-pilfer-caught.e-docked.Choice.Label>Submit and pay the fine.</chupakobra6_3687071198_job.dock-shift.edge.o-pilfer-caught.e-docked.Choice.Label>
+  <chupakobra6_3687071198_job.dock-shift.edge.o-pilfer-caught.o-fight-gantry.Violence.Label>Fight through the security patrol.</chupakobra6_3687071198_job.dock-shift.edge.o-pilfer-caught.o-fight-gantry.Violence.Label>
+  <chupakobra6_3687071198_job.dock-shift.node.a-coast.Text>{pawn} and {pawn2} match pace with the slower laborers, keeping a low profile and letting the shift clock tick down.</chupakobra6_3687071198_job.dock-shift.node.a-coast.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.a-coast.Title>Pace yourself quietly.</chupakobra6_3687071198_job.dock-shift.node.a-coast.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.a-crisis-duck.Text>{pawn} and {pawn2} dive behind reinforced stanchions, covering their heads as the container hurtles past.</chupakobra6_3687071198_job.dock-shift.node.a-crisis-duck.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.a-crisis-duck.Title>Take cover.</chupakobra6_3687071198_job.dock-shift.node.a-crisis-duck.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.a-crisis-panel.Text>{pawn} kicks open the crane junction box while {pawn2} slams the emergency arrestor switch.</chupakobra6_3687071198_job.dock-shift.node.a-crisis-panel.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.a-crisis-panel.Title>Hit the emergency brake.</chupakobra6_3687071198_job.dock-shift.node.a-crisis-panel.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.a-crisis-shout.Text>{pawn} sounds the gantry warning siren while {pawn2} tackles two stunned dockworkers out of the drop zone.</chupakobra6_3687071198_job.dock-shift.node.a-crisis-shout.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.a-crisis-shout.Title>Shout a warning.</chupakobra6_3687071198_job.dock-shift.node.a-crisis-shout.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.a-crisis-tether.Text>{pawn} fires the pneumatic magnetic tether while {pawn2} locks the emergency winch brake.</chupakobra6_3687071198_job.dock-shift.node.a-crisis-tether.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.a-crisis-tether.Title>Snag the arrestor cable.</chupakobra6_3687071198_job.dock-shift.node.a-crisis-tether.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.a-pilfer-blindspot.Text>{pawn} counts the camera rotation sweep while {pawn2} quietly rolls the crate into the blind angle.</chupakobra6_3687071198_job.dock-shift.node.a-pilfer-blindspot.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.a-pilfer-blindspot.Title>Move through the camera blind spot.</chupakobra6_3687071198_job.dock-shift.node.a-pilfer-blindspot.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.a-pilfer-distract.Text>{pawn} stages a false overheat alarm on Crane 4 while {pawn2} approaches the target crate.</chupakobra6_3687071198_job.dock-shift.node.a-pilfer-distract.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.a-pilfer-distract.Title>Stage another crane alarm.</chupakobra6_3687071198_job.dock-shift.node.a-pilfer-distract.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.a-pilfer-manifest.Text>{pawn} overrides the cargo terminal to scrub the container serial while {pawn2} acts as a visual shield.</chupakobra6_3687071198_job.dock-shift.node.a-pilfer-manifest.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.a-pilfer-manifest.Title>Delete the crate manifest.</chupakobra6_3687071198_job.dock-shift.node.a-pilfer-manifest.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.a-pilfer.Text>{pawn} spots an unmanifested titanium container marked with black-market seals and signals {pawn2} to prepare a diversion.</chupakobra6_3687071198_job.dock-shift.node.a-pilfer.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.a-pilfer.Title>Look for high-value cargo.</chupakobra6_3687071198_job.dock-shift.node.a-pilfer.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.a-stash-bribe.Text>{pawn} approaches the exit gate turnkey with silver ready while {pawn2} covers the serial markings.</chupakobra6_3687071198_job.dock-shift.node.a-stash-bribe.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.a-stash-bribe.Title>Bribe the exit guard.</chupakobra6_3687071198_job.dock-shift.node.a-stash-bribe.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.a-stash-conduit.Text>{pawn} unbolts an overhead maintenance duct while {pawn2} lifts the container inside.</chupakobra6_3687071198_job.dock-shift.node.a-stash-conduit.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.a-stash-conduit.Title>Shove it into an air conduit.</chupakobra6_3687071198_job.dock-shift.node.a-stash-conduit.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.a-stash-trash.Text>{pawn} shovels industrial metal scrap over the crate while {pawn2} scatters oil to mask fresh scratches.</chupakobra6_3687071198_job.dock-shift.node.a-stash-trash.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.a-stash-trash.Title>Bury it in metal scrap.</chupakobra6_3687071198_job.dock-shift.node.a-stash-trash.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.a-work.Text>{pawn} muscles the hydraulic crane levers while {pawn2} guides the dangling fifty-ton container toward the lock.</chupakobra6_3687071198_job.dock-shift.node.a-work.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.a-work.Title>Haul the heavy crates.</chupakobra6_3687071198_job.dock-shift.node.a-work.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.brief.Text>A freight master needs reliable labor to clear high-density containers on Craneway 12. The gantry is rusted, crosswinds are howling from atmospheric vents, and security cameras watch every footstep. He offers 250 silver for the shift, with a quiet wink that valuable cargo occasionally falls between the cracks.</chupakobra6_3687071198_job.dock-shift.node.brief.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.brief.Title>The Brief</chupakobra6_3687071198_job.dock-shift.node.brief.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.e-coast.Text>The crew collected the minimum wage after doing the absolute least work possible. The boss docked twenty silver for slacking, but nobody got hurt.</chupakobra6_3687071198_job.dock-shift.node.e-coast.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.e-coast.Title>Shift Survived</chupakobra6_3687071198_job.dock-shift.node.e-coast.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.e-docked.Text>Security flagged the crew for cargo tampering. The dockmaster confiscated the shift wages and threatened to blacklist the crew from future work.</chupakobra6_3687071198_job.dock-shift.node.e-docked.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.e-docked.Title>Fined and Docked</chupakobra6_3687071198_job.dock-shift.node.e-docked.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.e-down.Text>The crew was shot down on the craneway and dragged away to the detention block.</chupakobra6_3687071198_job.dock-shift.node.e-down.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.e-down.Title>Crew Down</chupakobra6_3687071198_job.dock-shift.node.e-down.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.e-hero.Text>The crew prevented a fatal accident. The dock boss and grateful gantry workers rewarded them with 400 silver in total.</chupakobra6_3687071198_job.dock-shift.node.e-hero.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.e-hero.Title>Dock Hero</chupakobra6_3687071198_job.dock-shift.node.e-hero.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.e-loot.Text>The stolen military crate was retrieved after shift change and fenced to a station broker for 750 silver in clean coin.</chupakobra6_3687071198_job.dock-shift.node.e-loot.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.e-loot.Title>Black Market Haul</chupakobra6_3687071198_job.dock-shift.node.e-loot.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.e-paid.Text>The shift concluded without further incident. The crew was paid the standard 250 silver wage and left the gantry exhausted but unhurt.</chupakobra6_3687071198_job.dock-shift.node.e-paid.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.e-paid.Title>Honest Day's Pay</chupakobra6_3687071198_job.dock-shift.node.e-paid.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.o-crisis-saved.Text>The arrestor mechanism caught with a screech of sparks. The container swung to a halt inches above the deck plates, saving the workers below.</chupakobra6_3687071198_job.dock-shift.node.o-crisis-saved.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.o-crisis-saved.Title>Container Secured</chupakobra6_3687071198_job.dock-shift.node.o-crisis-saved.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.o-crisis-smashed.Text>The container crashed through the loading ramp, crushing machinery and scattering shattered crates across the gantry floor.</chupakobra6_3687071198_job.dock-shift.node.o-crisis-smashed.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.o-crisis-smashed.Title>Container Smashed</chupakobra6_3687071198_job.dock-shift.node.o-crisis-smashed.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.o-fight-gantry.Text>Station security patrol draws sidearms from the crane catwalk! Take them down or get locked in the brigs.</chupakobra6_3687071198_job.dock-shift.node.o-fight-gantry.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.o-fight-gantry.Title>Gantry Gunfight</chupakobra6_3687071198_job.dock-shift.node.o-fight-gantry.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.o-pilfer-bribed.Text>The gatekeeper pocketed the silver and waved the hand cart through without checking the seal.</chupakobra6_3687071198_job.dock-shift.node.o-pilfer-bribed.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.o-pilfer-bribed.Title>Guard Paid Off</chupakobra6_3687071198_job.dock-shift.node.o-pilfer-bribed.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.o-pilfer-caught.Text>Red emergency lights flash! Station security officers emerge from the crane catwalk with service carbines leveled directly at {pawn} and {pawn2}!</chupakobra6_3687071198_job.dock-shift.node.o-pilfer-caught.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.o-pilfer-caught.Title>Caught on Camera</chupakobra6_3687071198_job.dock-shift.node.o-pilfer-caught.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.o-pilfer-clean.Text>The container was secured in a hidden location without raising suspicion from the dock supervisors.</chupakobra6_3687071198_job.dock-shift.node.o-pilfer-clean.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.o-pilfer-clean.Title>Crate Stashed Cleanly</chupakobra6_3687071198_job.dock-shift.node.o-pilfer-clean.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.s-crisis.Text>A high-tension cable snaps with a thunderous crack! A forty-ton steel container swings wildly across the gantry directly toward the worker deck!</chupakobra6_3687071198_job.dock-shift.node.s-crisis.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.s-crisis.Title>The Snapped Cable</chupakobra6_3687071198_job.dock-shift.node.s-crisis.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.s-pilfer-prep.Text>The target crate sits on an unmonitored transfer dolly. Station security cameras sweep the deck in twenty-second intervals.</chupakobra6_3687071198_job.dock-shift.node.s-pilfer-prep.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.s-pilfer-prep.Title>Blinding the Floor</chupakobra6_3687071198_job.dock-shift.node.s-pilfer-prep.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.s-pilfer-stash.Text>The crate is loose on the floor, but the shift bell will ring soon. {pawn} and {pawn2} need a secure hiding spot before inspection.</chupakobra6_3687071198_job.dock-shift.node.s-pilfer-stash.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.s-pilfer-stash.Title>Stashing the Crate</chupakobra6_3687071198_job.dock-shift.node.s-pilfer-stash.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.s1.Text>The gantry shudders as magnetic cranes swing massive containers overhead. Greasy mist coats the steel grating. {pawn} takes the crane control harness while {pawn2} monitors the staging lines.</chupakobra6_3687071198_job.dock-shift.node.s1.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.s1.Title>The Gantry Line</chupakobra6_3687071198_job.dock-shift.node.s1.Title>
+  <chupakobra6_3687071198_job.meat-market.Name>The Meat Market</chupakobra6_3687071198_job.meat-market.Name>
+  <chupakobra6_3687071198_job.meat-market.Subtitle>Repossess high-grade bionic implants from a debtor for a back-alley clinic.</chupakobra6_3687071198_job.meat-market.Subtitle>
+  <chupakobra6_3687071198_job.meat-market.edge.a-prep-cauterizer.approach.Fail.Label>dying cell, barely functional</chupakobra6_3687071198_job.meat-market.edge.a-prep-cauterizer.approach.Fail.Label>
+  <chupakobra6_3687071198_job.meat-market.edge.a-prep-cauterizer.approach.Success.Label>plasma iron glowing white</chupakobra6_3687071198_job.meat-market.edge.a-prep-cauterizer.approach.Success.Label>
+  <chupakobra6_3687071198_job.meat-market.edge.a-prep-sedative.approach.Fail.Label>watered-down compound, barely viable</chupakobra6_3687071198_job.meat-market.edge.a-prep-sedative.approach.Fail.Label>
+  <chupakobra6_3687071198_job.meat-market.edge.a-prep-sedative.approach.Success.Label>hypospray primed</chupakobra6_3687071198_job.meat-market.edge.a-prep-sedative.approach.Success.Label>
+  <chupakobra6_3687071198_job.meat-market.edge.a-prep-straps.approach.Fail.Label>frayed cables, holding tension</chupakobra6_3687071198_job.meat-market.edge.a-prep-straps.approach.Fail.Label>
+  <chupakobra6_3687071198_job.meat-market.edge.a-prep-straps.approach.Success.Label>leather restraints locked</chupakobra6_3687071198_job.meat-market.edge.a-prep-straps.approach.Success.Label>
+  <chupakobra6_3687071198_job.meat-market.edge.a-read.s-prep.Fail.Label>scrawled specs unreadable</chupakobra6_3687071198_job.meat-market.edge.a-read.s-prep.Fail.Label>
+  <chupakobra6_3687071198_job.meat-market.edge.fork.e-bank.Choice.Label>Harvest all available bionics.</chupakobra6_3687071198_job.meat-market.edge.fork.e-bank.Choice.Label>
+  <chupakobra6_3687071198_job.meat-market.edge.fork.e-chop.Choice.Label>Strip everything for the chop shop.</chupakobra6_3687071198_job.meat-market.edge.fork.e-chop.Choice.Label>
+  <chupakobra6_3687071198_job.meat-market.edge.fork.e-fair.Choice.Label>Settle the contract fairly.</chupakobra6_3687071198_job.meat-market.edge.fork.e-fair.Choice.Label>
+  <chupakobra6_3687071198_job.meat-market.node.a-comp-rip.Text>{pawn} severs the smoking cables with heavy wire cutters while {pawn2} wrenches the heavy prosthetic free.</chupakobra6_3687071198_job.meat-market.node.a-comp-rip.Text>
+  <chupakobra6_3687071198_job.meat-market.node.a-comp-rip.Title>Rip the bionic free.</chupakobra6_3687071198_job.meat-market.node.a-comp-rip.Title>
+  <chupakobra6_3687071198_job.meat-market.node.a-comp-stabilize.Text>{pawn} injects neural dampeners to stabilize the convulsions while {pawn2} clamps the arterial bleeding.</chupakobra6_3687071198_job.meat-market.node.a-comp-stabilize.Text>
+  <chupakobra6_3687071198_job.meat-market.node.a-comp-stabilize.Title>Inject epinephrine.</chupakobra6_3687071198_job.meat-market.node.a-comp-stabilize.Title>
+  <chupakobra6_3687071198_job.meat-market.node.a-deal.Text>{pawn} counts silver onto the table, offering to settle the debt peacefully while {pawn2} keeps hands near holsters.</chupakobra6_3687071198_job.meat-market.node.a-deal.Text>
+  <chupakobra6_3687071198_job.meat-market.node.a-deal.Title>Buy out the debt with silver.</chupakobra6_3687071198_job.meat-market.node.a-deal.Title>
+  <chupakobra6_3687071198_job.meat-market.node.a-prep-cauterizer.Text>{pawn} calibrates a portable laser cauterizer while {pawn2} charges the power cell.</chupakobra6_3687071198_job.meat-market.node.a-prep-cauterizer.Text>
+  <chupakobra6_3687071198_job.meat-market.node.a-prep-cauterizer.Title>Calibrate a laser cauterizer.</chupakobra6_3687071198_job.meat-market.node.a-prep-cauterizer.Title>
+  <chupakobra6_3687071198_job.meat-market.node.a-prep-raw.Text>The crew decided against medical niceties and planned to rely on physical restraint and prybars.</chupakobra6_3687071198_job.meat-market.node.a-prep-raw.Text>
+  <chupakobra6_3687071198_job.meat-market.node.a-prep-raw.Title>Use brute force.</chupakobra6_3687071198_job.meat-market.node.a-prep-raw.Title>
+  <chupakobra6_3687071198_job.meat-market.node.a-prep-sedative.Text>{pawn} measures a paralytic dose into an auto-injector while {pawn2} checks the pressure seal.</chupakobra6_3687071198_job.meat-market.node.a-prep-sedative.Text>
+  <chupakobra6_3687071198_job.meat-market.node.a-prep-sedative.Title>Buy a neuro-paralytic.</chupakobra6_3687071198_job.meat-market.node.a-prep-sedative.Title>
+  <chupakobra6_3687071198_job.meat-market.node.a-prep-straps.Text>{pawn} tests high-tensile magnetic restraint straps while {pawn2} checks the anchor points.</chupakobra6_3687071198_job.meat-market.node.a-prep-straps.Text>
+  <chupakobra6_3687071198_job.meat-market.node.a-prep-straps.Title>Rig heavy cargo restraints.</chupakobra6_3687071198_job.meat-market.node.a-prep-straps.Title>
+  <chupakobra6_3687071198_job.meat-market.node.a-read.Text>{pawn} reviews the surgical blueprints, identifying emergency power cut-off points, while {pawn2} packs tourniquets.</chupakobra6_3687071198_job.meat-market.node.a-read.Text>
+  <chupakobra6_3687071198_job.meat-market.node.a-read.Title>Check the medical records.</chupakobra6_3687071198_job.meat-market.node.a-read.Title>
+  <chupakobra6_3687071198_job.meat-market.node.a-scare.Text>{pawn} steps forward, displaying a bone saw and heavy wire cutters with cold clinical intent while {pawn2} cuts off the door.</chupakobra6_3687071198_job.meat-market.node.a-scare.Text>
+  <chupakobra6_3687071198_job.meat-market.node.a-scare.Title>Threaten him into compliance.</chupakobra6_3687071198_job.meat-market.node.a-scare.Title>
+  <chupakobra6_3687071198_job.meat-market.node.a-shoot.Text>{pawn} raises their weapon and fires without hesitation. Friday Night Firefight: wipe out the debtor and his alley muscle!</chupakobra6_3687071198_job.meat-market.node.a-shoot.Text>
+  <chupakobra6_3687071198_job.meat-market.node.a-shoot.Title>Execute him and take the parts.</chupakobra6_3687071198_job.meat-market.node.a-shoot.Title>
+  <chupakobra6_3687071198_job.meat-market.node.a-skip-list.Text>The crew closed the file without reading it and headed straight for the target's hab block.</chupakobra6_3687071198_job.meat-market.node.a-skip-list.Text>
+  <chupakobra6_3687071198_job.meat-market.node.a-skip-list.Title>Skip the paperwork.</chupakobra6_3687071198_job.meat-market.node.a-skip-list.Title>
+  <chupakobra6_3687071198_job.meat-market.node.a-surgery.Text>{pawn} moves in with the surgical kit to sever the primary neural link while {pawn2} holds the debtor down.</chupakobra6_3687071198_job.meat-market.node.a-surgery.Text>
+  <chupakobra6_3687071198_job.meat-market.node.a-surgery.Title>Perform field surgery.</chupakobra6_3687071198_job.meat-market.node.a-surgery.Title>
+  <chupakobra6_3687071198_job.meat-market.node.approach.Text>The debtor sits cornered in a damp concrete apartment, his oversized industrial cyber-arm twitching nervously. Behind him, two alley cutthroats stand with pipes and zip guns.</chupakobra6_3687071198_job.meat-market.node.approach.Text>
+  <chupakobra6_3687071198_job.meat-market.node.approach.Title>The Extraction</chupakobra6_3687071198_job.meat-market.node.approach.Title>
+  <chupakobra6_3687071198_job.meat-market.node.brief.Text>A back-alley ripperdoc clinic holds a defaulted contract on an augmented laborer who skipped out with military-grade bionics. The clinic offers 650 silver to track the debtor down in the Hab-Block 9 tenements and repossess the cyberware. The doc supplies a surgical kit, but warns that desperate debtors often recruit local street muscle.</chupakobra6_3687071198_job.meat-market.node.brief.Text>
+  <chupakobra6_3687071198_job.meat-market.node.brief.Title>The Brief</chupakobra6_3687071198_job.meat-market.node.brief.Title>
+  <chupakobra6_3687071198_job.meat-market.node.e-bank.Text>The bionic was in pristine condition. The ripperdoc paid a 200 silver bonus for the intact neural wiring.</chupakobra6_3687071198_job.meat-market.node.e-bank.Text>
+  <chupakobra6_3687071198_job.meat-market.node.e-bank.Title>Clean Harvest Bonus</chupakobra6_3687071198_job.meat-market.node.e-bank.Title>
+  <chupakobra6_3687071198_job.meat-market.node.e-chop.Text>The crew delivered the bloodstained hardware from the deceased debtor, collecting 500 silver while the doc burned the remains.</chupakobra6_3687071198_job.meat-market.node.e-chop.Text>
+  <chupakobra6_3687071198_job.meat-market.node.e-chop.Title>Chop Shop Salvage</chupakobra6_3687071198_job.meat-market.node.e-chop.Title>
+  <chupakobra6_3687071198_job.meat-market.node.e-down.Text>Security breached the hab unit and engaged the crew. The survivors were arrested for illegal organ harvesting.</chupakobra6_3687071198_job.meat-market.node.e-down.Text>
+  <chupakobra6_3687071198_job.meat-market.node.e-down.Title>Crew Down</chupakobra6_3687071198_job.meat-market.node.e-down.Title>
+  <chupakobra6_3687071198_job.meat-market.node.e-fair.Text>The target agreed to the procedure, the clinic took the hardware, and the crew was paid the full 650 silver fee.</chupakobra6_3687071198_job.meat-market.node.e-fair.Text>
+  <chupakobra6_3687071198_job.meat-market.node.e-fair.Title>Debt Settled Fairly</chupakobra6_3687071198_job.meat-market.node.e-fair.Title>
+  <chupakobra6_3687071198_job.meat-market.node.e-walk.Text>Disgusted by the prospect of harvesting body parts from a debtor, the crew returned the file and declined the job.</chupakobra6_3687071198_job.meat-market.node.e-walk.Text>
+  <chupakobra6_3687071198_job.meat-market.node.e-walk.Title>Walked Away</chupakobra6_3687071198_job.meat-market.node.e-walk.Title>
+  <chupakobra6_3687071198_job.meat-market.node.fork.Text>The crew returned to the clinic basement with the harvested bionic arm safely packed in a cold-storage cooler.</chupakobra6_3687071198_job.meat-market.node.fork.Text>
+  <chupakobra6_3687071198_job.meat-market.node.fork.Title>Delivery to the Clinic</chupakobra6_3687071198_job.meat-market.node.fork.Title>
+  <chupakobra6_3687071198_job.meat-market.node.list.Text>The debtor's clinic dossier lists an industrial cyber-arm and subdermal motor boosters. {pawn} studies the nerve-splice schematics while {pawn2} preps the extraction gear.</chupakobra6_3687071198_job.meat-market.node.list.Text>
+  <chupakobra6_3687071198_job.meat-market.node.list.Title>The Clinic Ledger</chupakobra6_3687071198_job.meat-market.node.list.Title>
+  <chupakobra6_3687071198_job.meat-market.node.o-bloody.Text>The limb was torn free with heavy tissue trauma. The debtor survived, but the apartment was covered in blood.</chupakobra6_3687071198_job.meat-market.node.o-bloody.Text>
+  <chupakobra6_3687071198_job.meat-market.node.o-bloody.Title>Rough Harvest</chupakobra6_3687071198_job.meat-market.node.o-bloody.Title>
+  <chupakobra6_3687071198_job.meat-market.node.o-clean.Text>The bionic limb was detached without damaging the neural interface, leaving the debtor alive and stable.</chupakobra6_3687071198_job.meat-market.node.o-clean.Text>
+  <chupakobra6_3687071198_job.meat-market.node.o-clean.Title>Clean Harvest</chupakobra6_3687071198_job.meat-market.node.o-clean.Title>
+  <chupakobra6_3687071198_job.meat-market.node.o-fight.Text>The debtor swings his hydraulic fist as alley thugs open fire with zip guns! Put them down before the entire block rushes in!</chupakobra6_3687071198_job.meat-market.node.o-fight.Text>
+  <chupakobra6_3687071198_job.meat-market.node.o-fight.Title>Apartment Gunfight</chupakobra6_3687071198_job.meat-market.node.o-fight.Title>
+  <chupakobra6_3687071198_job.meat-market.node.o-willing.Text>The dossier revealed that the debtor was suffering from immunosuppressant rejection and was desperate for medical treatment.</chupakobra6_3687071198_job.meat-market.node.o-willing.Text>
+  <chupakobra6_3687071198_job.meat-market.node.o-willing.Title>Weakness Identified</chupakobra6_3687071198_job.meat-market.node.o-willing.Title>
+  <chupakobra6_3687071198_job.meat-market.node.s-complication.Text>The cyber-arm's neural feedback surges violently! The debtor convulses in pain as overload sparks cascade across the socket.</chupakobra6_3687071198_job.meat-market.node.s-complication.Text>
+  <chupakobra6_3687071198_job.meat-market.node.s-complication.Title>Neural Shock</chupakobra6_3687071198_job.meat-market.node.s-complication.Title>
+  <chupakobra6_3687071198_job.meat-market.node.s-prep.Text>Inside an abandoned laundry room down the hall from the debtor's flat, {pawn} and {pawn2} lay out their surgical instruments.</chupakobra6_3687071198_job.meat-market.node.s-prep.Text>
+  <chupakobra6_3687071198_job.meat-market.node.s-prep.Title>Surgical Preparation</chupakobra6_3687071198_job.meat-market.node.s-prep.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.Name>Quiet Decommission</chupakobra6_3687071198_job.quiet-decommission.Name>
+  <chupakobra6_3687071198_job.quiet-decommission.Subtitle>Eliminate a corrupt dock loan collector through four distinct operational vectors.</chupakobra6_3687071198_job.quiet-decommission.Subtitle>
+  <chupakobra6_3687071198_job.quiet-decommission.edge.a-close-strike.o-seen.Fail.Label>scuffle echoed through the bulkheads</chupakobra6_3687071198_job.quiet-decommission.edge.a-close-strike.o-seen.Fail.Label>
+  <chupakobra6_3687071198_job.quiet-decommission.edge.a-stalk-lure.a-close-strike.Success.Label>heavy's attention diverted</chupakobra6_3687071198_job.quiet-decommission.edge.a-stalk-lure.a-close-strike.Success.Label>
+  <chupakobra6_3687071198_job.quiet-decommission.edge.a-stalk-lure.o-corridor.Fail.Label>heavy came to inspect</chupakobra6_3687071198_job.quiet-decommission.edge.a-stalk-lure.o-corridor.Fail.Label>
+  <chupakobra6_3687071198_job.quiet-decommission.edge.a-stalk-shadow.a-close-strike.Success.Label>closed the distance</chupakobra6_3687071198_job.quiet-decommission.edge.a-stalk-shadow.a-close-strike.Success.Label>
+  <chupakobra6_3687071198_job.quiet-decommission.edge.a-stalk-shadow.o-corridor.Fail.Label>heavy spotted your approach</chupakobra6_3687071198_job.quiet-decommission.edge.a-stalk-shadow.o-corridor.Fail.Label>
+  <chupakobra6_3687071198_job.quiet-decommission.edge.m-chem-brew.e-botched.Fail.Label>chemical agent degraded</chupakobra6_3687071198_job.quiet-decommission.edge.m-chem-brew.e-botched.Fail.Label>
+  <chupakobra6_3687071198_job.quiet-decommission.edge.m-chem-perf.o-seen.Fail.Label>flagged near the taps</chupakobra6_3687071198_job.quiet-decommission.edge.m-chem-perf.o-seen.Fail.Label>
+  <chupakobra6_3687071198_job.quiet-decommission.edge.m-chem-steal.o-corridor.Fail.Label>compromised by station security</chupakobra6_3687071198_job.quiet-decommission.edge.m-chem-steal.o-corridor.Fail.Label>
+  <chupakobra6_3687071198_job.quiet-decommission.edge.m-demo-charge-improv.e-botched.Fail.Label>faulty charge</chupakobra6_3687071198_job.quiet-decommission.edge.m-demo-charge-improv.e-botched.Fail.Label>
+  <chupakobra6_3687071198_job.quiet-decommission.edge.m-demo-elec.o-seen.Fail.Label>telemetry logged power spike</chupakobra6_3687071198_job.quiet-decommission.edge.m-demo-elec.o-seen.Fail.Label>
+  <chupakobra6_3687071198_job.quiet-decommission.edge.m-demo-rig.o-corridor.Fail.Label>premature klaxon trigger</chupakobra6_3687071198_job.quiet-decommission.edge.m-demo-rig.o-corridor.Fail.Label>
+  <chupakobra6_3687071198_job.quiet-decommission.edge.m-gun-steal.o-corridor.Fail.Label>armory put on red alert</chupakobra6_3687071198_job.quiet-decommission.edge.m-gun-steal.o-corridor.Fail.Label>
+  <chupakobra6_3687071198_job.quiet-decommission.edge.m-shot.e-botched.Fail.Label>shot went wide, quarry bolted</chupakobra6_3687071198_job.quiet-decommission.edge.m-shot.e-botched.Fail.Label>
+  <chupakobra6_3687071198_job.quiet-decommission.node.a-close-knife.Text>The crew drew a standard combat blade from their personal gear.</chupakobra6_3687071198_job.quiet-decommission.node.a-close-knife.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.a-close-knife.Title>Use our combat knife.</chupakobra6_3687071198_job.quiet-decommission.node.a-close-knife.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.a-close-shiv.Text>{pawn} checks the balance of a ceramic shiv while {pawn2} pays off the black-market dealer.</chupakobra6_3687071198_job.quiet-decommission.node.a-close-shiv.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.a-close-shiv.Title>Buy a ceramic shiv.</chupakobra6_3687071198_job.quiet-decommission.node.a-close-shiv.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.a-close-strike.Text>{pawn} steps silently from the steam vent behind the collector, blade leveled, while {pawn2} moves to catch his fall.</chupakobra6_3687071198_job.quiet-decommission.node.a-close-strike.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.a-close-strike.Title>Stab him from behind.</chupakobra6_3687071198_job.quiet-decommission.node.a-close-strike.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.a-close-wire.Text>{pawn} braids high-tensile monofilament while {pawn2} sands wooden dowels for grips.</chupakobra6_3687071198_job.quiet-decommission.node.a-close-wire.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.a-close-wire.Title>Make a wire garrote.</chupakobra6_3687071198_job.quiet-decommission.node.a-close-wire.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.a-stalk-lure.Text>{pawn} trips a false fire alarm in the adjacent corridor while {pawn2} readies the strike position.</chupakobra6_3687071198_job.quiet-decommission.node.a-stalk-lure.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.a-stalk-lure.Title>Lure away his bodyguard.</chupakobra6_3687071198_job.quiet-decommission.node.a-stalk-lure.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.a-stalk-shadow.Text>{pawn} shadows the target through overhead service ducts while {pawn2} signals patrol timing from below.</chupakobra6_3687071198_job.quiet-decommission.node.a-stalk-shadow.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.a-stalk-shadow.Title>Shadow him through the vents.</chupakobra6_3687071198_job.quiet-decommission.node.a-stalk-shadow.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.brief.Text>A predatory loan collector has been bleeding miners dry on Deck 4. An anonymous syndicate patron wants him permanently decommissioned. The target is heavily protected by armored bodyguards and rarely leaves secure areas. The patron offers 600 silver for his death, but emphasizes that how the crew solves the problem is entirely their business.</chupakobra6_3687071198_job.quiet-decommission.node.brief.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.brief.Title>The Brief</chupakobra6_3687071198_job.quiet-decommission.node.brief.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.conscience.Text>The crew decided against cold-blooded assassination and turned down the job.</chupakobra6_3687071198_job.quiet-decommission.node.conscience.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.conscience.Title>Refuse the contract.</chupakobra6_3687071198_job.quiet-decommission.node.conscience.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.e-botched.Text>The attempt was messy and uncoordinated. The target was killed, but the crew left evidence behind, resulting in a reduced payout and heavy fines.</chupakobra6_3687071198_job.quiet-decommission.node.e-botched.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.e-botched.Title>Botched Contract</chupakobra6_3687071198_job.quiet-decommission.node.e-botched.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.e-conscience.Text>The crew walked away with clean hands. The fixer gave the dossier to another crew, but respected your decision to pass.</chupakobra6_3687071198_job.quiet-decommission.node.e-conscience.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.e-conscience.Title>Contract Declined</chupakobra6_3687071198_job.quiet-decommission.node.e-conscience.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.e-down.Text>The collector's security detail overwhelmed the crew in the corridor. The survivors were disarmed and thrown into the station brig.</chupakobra6_3687071198_job.quiet-decommission.node.e-down.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.e-down.Title>Crew Down</chupakobra6_3687071198_job.quiet-decommission.node.e-down.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.e-ghost.Text>The collector died silently. By the time his body was discovered, the crew had collected the full 600 silver bounty and the fixer had erased all records of the contract.</chupakobra6_3687071198_job.quiet-decommission.node.e-ghost.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.e-ghost.Title>Ghost Kill</chupakobra6_3687071198_job.quiet-decommission.node.e-ghost.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.e-loud.Text>The target was eliminated in an explosive firefight. The crew collected the bounty, but local authorities locked down the sector and increased gantry patrols.</chupakobra6_3687071198_job.quiet-decommission.node.e-loud.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.e-loud.Title>Loud Execution</chupakobra6_3687071198_job.quiet-decommission.node.e-loud.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-chem-brew.Text>{pawn} measures neurotoxic reagents under a fume hood while {pawn2} monitors exothermic titration. One slip in temperature and the batch becomes inert sludge.</chupakobra6_3687071198_job.quiet-decommission.node.m-chem-brew.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-chem-brew.Title>Brew the toxin.</chupakobra6_3687071198_job.quiet-decommission.node.m-chem-brew.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-chem-buy.Text>{pawn} meets a back-alley ripperdoc in a steam duct while {pawn2} checks the corridor corners for tails.</chupakobra6_3687071198_job.quiet-decommission.node.m-chem-buy.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-chem-buy.Title>Buy poison from a ripperdoc.</chupakobra6_3687071198_job.quiet-decommission.node.m-chem-buy.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-chem-fixer.Text>The crew requested that the fixer provide a pre-measured dose of venom from his private stockpile.</chupakobra6_3687071198_job.quiet-decommission.node.m-chem-fixer.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-chem-fixer.Title>Ask the fixer for poison.</chupakobra6_3687071198_job.quiet-decommission.node.m-chem-fixer.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-chem-perf.Text>{pawn} slips into service coveralls with the vial concealed in their sleeve while {pawn2} watches the corridor cameras. A single clink against the bottle could blow the entire op.</chupakobra6_3687071198_job.quiet-decommission.node.m-chem-perf.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-chem-perf.Title>Slip poison into his drink.</chupakobra6_3687071198_job.quiet-decommission.node.m-chem-perf.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-chem-steal.Text>{pawn} picks the dispensary padlock with a tension wrench while {pawn2} watches the ward cameras.</chupakobra6_3687071198_job.quiet-decommission.node.m-chem-steal.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-chem-steal.Title>Steal a vial from the clinic.</chupakobra6_3687071198_job.quiet-decommission.node.m-chem-steal.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-chem.Text>The collector orders the same synthetic liquor delivered to his desk every evening. Slipping a neurotoxin into his private bottle will eliminate him without sounding alarms.</chupakobra6_3687071198_job.quiet-decommission.node.m-chem.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-chem.Title>Poison Vector</chupakobra6_3687071198_job.quiet-decommission.node.m-chem.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-close-prep.Text>The collector walked alone through the unlit sub-deck pipes every night to count his cash boxes. An operative waiting in the shadows could eliminate him with cold steel and leave no forensic gunshot residue.</chupakobra6_3687071198_job.quiet-decommission.node.m-close-prep.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-close-prep.Title>Blade Preparation</chupakobra6_3687071198_job.quiet-decommission.node.m-close-prep.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-demo-charge-buy.Text>{pawn} negotiates with a rogue miner for commercial blasting caps while {pawn2} inspects the crimping.</chupakobra6_3687071198_job.quiet-decommission.node.m-demo-charge-buy.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-demo-charge-buy.Title>Buy mining charges.</chupakobra6_3687071198_job.quiet-decommission.node.m-demo-charge-buy.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-demo-charge-fixer.Text>The crew asked the fixer to front a military-grade demolition pack for the job.</chupakobra6_3687071198_job.quiet-decommission.node.m-demo-charge-fixer.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-demo-charge-fixer.Title>Ask the fixer for a charge.</chupakobra6_3687071198_job.quiet-decommission.node.m-demo-charge-fixer.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-demo-charge-improv.Text>{pawn} packs solvent and fertilizer into a steel casing while {pawn2} solders the electronic detonator.</chupakobra6_3687071198_job.quiet-decommission.node.m-demo-charge-improv.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-demo-charge-improv.Title>Cook an improvised bomb.</chupakobra6_3687071198_job.quiet-decommission.node.m-demo-charge-improv.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-demo-charge-own.Text>The crew brought a military breaching charge from their ship's armory to plant against the strut.</chupakobra6_3687071198_job.quiet-decommission.node.m-demo-charge-own.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-demo-charge-own.Title>Use our own explosive.</chupakobra6_3687071198_job.quiet-decommission.node.m-demo-charge-own.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-demo-elec.Text>{pawn} splices into the junction box to override the pressure sensors while {pawn2} shields the electrical sparks.</chupakobra6_3687071198_job.quiet-decommission.node.m-demo-elec.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-demo-elec.Title>Spoof the pressure sensor.</chupakobra6_3687071198_job.quiet-decommission.node.m-demo-elec.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-demo-rig.Text>{pawn} drills into the bulkhead support strut beneath his floorboards while {pawn2} feeds the explosive cord into place.</chupakobra6_3687071198_job.quiet-decommission.node.m-demo-rig.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-demo-rig.Title>Rig the structural stress point.</chupakobra6_3687071198_job.quiet-decommission.node.m-demo-rig.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-demo.Text>The collector's office rested on a structural cantilever over the freight gantry. A shaped explosive charge placed against the main support hinge would drop his office into the void without breaching the station core.</chupakobra6_3687071198_job.quiet-decommission.node.m-demo.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-demo.Title>Demolition Vector</chupakobra6_3687071198_job.quiet-decommission.node.m-demo.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-gun-buy.Text>{pawn} tests the bolt action of a black-market precision rifle while {pawn2} counts out unmarked silver.</chupakobra6_3687071198_job.quiet-decommission.node.m-gun-buy.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-gun-buy.Title>Buy a rifle on-station.</chupakobra6_3687071198_job.quiet-decommission.node.m-gun-buy.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-gun-fixer.Text>The crew had the fixer provide an unmarked long gun from his private stash.</chupakobra6_3687071198_job.quiet-decommission.node.m-gun-fixer.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-gun-fixer.Title>Ask the fixer for a rifle.</chupakobra6_3687071198_job.quiet-decommission.node.m-gun-fixer.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-gun-own.Text>The crew brought a precision rifle from their caravan inventory to take the long shot.</chupakobra6_3687071198_job.quiet-decommission.node.m-gun-own.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-gun-own.Title>Use our own sniper rifle.</chupakobra6_3687071198_job.quiet-decommission.node.m-gun-own.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-gun-steal.Text>{pawn} jimmies the armory rack latch while {pawn2} keeps watch down the security catwalk.</chupakobra6_3687071198_job.quiet-decommission.node.m-gun-steal.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-gun-steal.Title>Steal a rifle from the armory.</chupakobra6_3687071198_job.quiet-decommission.node.m-gun-steal.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-gun.Text>The collector's office had a panoramic observation window facing the unpressurized void of docking bay nine. From the catwalk across the bay, a marksman with a high-velocity rifle could shoot straight through the viewport glass.</chupakobra6_3687071198_job.quiet-decommission.node.m-gun.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-gun.Title>Sniper Vector</chupakobra6_3687071198_job.quiet-decommission.node.m-gun.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-loud.Text>{pawn} racks the slide and walks straight through the salon doorway with {pawn2} shoulder-to-shoulder. No tricks, just point-blank gunfire.</chupakobra6_3687071198_job.quiet-decommission.node.m-loud.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-loud.Title>Just walk up and blow him away.</chupakobra6_3687071198_job.quiet-decommission.node.m-loud.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-shot.Text>{pawn} rests the rifle barrel against the maintenance railing, slowing their breathing while {pawn2} calls out gantry windage. One clean trigger pull before he steps out of view.</chupakobra6_3687071198_job.quiet-decommission.node.m-shot.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-shot.Title>Take the shot.</chupakobra6_3687071198_job.quiet-decommission.node.m-shot.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.method.Text>The loan collector spends his evenings in a private salon overlooking the freight docks. {pawn} and {pawn2} lay out their tactical options across the workbench: poison his drink, rig an explosive, take him down with a sniper rifle, or stalk him with a blade.</chupakobra6_3687071198_job.quiet-decommission.node.method.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.method.Title>Choose the Method</chupakobra6_3687071198_job.quiet-decommission.node.method.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.o-clean.Text>The collector collapses without a sound. {pawn} and {pawn2} wipe their traces and disappear into the transit tubes before anyone notices.</chupakobra6_3687071198_job.quiet-decommission.node.o-clean.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.o-clean.Title>Target Eliminated Cleanly</chupakobra6_3687071198_job.quiet-decommission.node.o-clean.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.o-corridor.Text>The loan collector draws a heavy caliber revolver as his cyber-armored enforcer racks a pump-action shotgun!</chupakobra6_3687071198_job.quiet-decommission.node.o-corridor.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.o-corridor.Title>Bodyguard Ambush</chupakobra6_3687071198_job.quiet-decommission.node.o-corridor.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.o-seen.Text>A security camera catches the movement! Alarms screech across the corridor as armored enforcers burst through the bulkhead doors!</chupakobra6_3687071198_job.quiet-decommission.node.o-seen.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.o-seen.Title>Spotted During Execution</chupakobra6_3687071198_job.quiet-decommission.node.o-seen.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.s-close-stalk.Text>The collector entered the steam-filled utility tunnel accompanied by an armed bodyguard. The crew followed from the shadows, waiting for an opportunity to separate the bodyguard from the target.</chupakobra6_3687071198_job.quiet-decommission.node.s-close-stalk.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.s-close-stalk.Title>Stalking the Catacombs</chupakobra6_3687071198_job.quiet-decommission.node.s-close-stalk.Title>
+  <chupakobra6_3687071198_job.ransom.Name>The Ransom Demand</chupakobra6_3687071198_job.ransom.Name>
+  <chupakobra6_3687071198_job.ransom.Subtitle>Rescue an abducted crewmate from a water ballast tank before the kidnappers depart.</chupakobra6_3687071198_job.ransom.Subtitle>
+  <chupakobra6_3687071198_job.ransom.edge.a-inf-bribe.s-cell.Fail.Label>corrupt watchman took the creds and bolted</chupakobra6_3687071198_job.ransom.edge.a-inf-bribe.s-cell.Fail.Label>
+  <chupakobra6_3687071198_job.ransom.edge.a-inf-cameras.s-cell.Fail.Label>glitch on the phosphor monitors, floor guards twitching</chupakobra6_3687071198_job.ransom.edge.a-inf-cameras.s-cell.Fail.Label>
+  <chupakobra6_3687071198_job.ransom.edge.a-inf-vents.s-cell.Success.Label>dropped in through the dark ceiling vents</chupakobra6_3687071198_job.ransom.edge.a-inf-vents.s-cell.Success.Label>
+  <chupakobra6_3687071198_job.ransom.node.a-break-plan.Text>{pawn} cuts the radio feed and nods to {pawn2}. No coin for kidnappers: they are going to breach the ballast cells by force.</chupakobra6_3687071198_job.ransom.node.a-break-plan.Text>
+  <chupakobra6_3687071198_job.ransom.node.a-break-plan.Title>Walk away and plan a raid.</chupakobra6_3687071198_job.ransom.node.a-break-plan.Title>
+  <chupakobra6_3687071198_job.ransom.node.a-cell-pick.Text>{pawn} works tension picks into the prisoner's magnetic shackle lock while {pawn2} watches the corridor shadows.</chupakobra6_3687071198_job.ransom.node.a-cell-pick.Text>
+  <chupakobra6_3687071198_job.ransom.node.a-cell-pick.Title>Pick the shackle lock.</chupakobra6_3687071198_job.ransom.node.a-cell-pick.Title>
+  <chupakobra6_3687071198_job.ransom.node.a-cell-shield.Text>{pawn} grabs the lead turnkey in a chokehold, using him as a human shield while {pawn2} frees the hostage.</chupakobra6_3687071198_job.ransom.node.a-cell-shield.Text>
+  <chupakobra6_3687071198_job.ransom.node.a-cell-shield.Title>Grab the turnkey as a human shield.</chupakobra6_3687071198_job.ransom.node.a-cell-shield.Title>
+  <chupakobra6_3687071198_job.ransom.node.a-cell-shoot.Text>{pawn} levels a shotgun and opens fire through the cell bars! Friday Night Firefight: wipe out the turnkey gang!</chupakobra6_3687071198_job.ransom.node.a-cell-shoot.Text>
+  <chupakobra6_3687071198_job.ransom.node.a-cell-shoot.Title>Just shoot the guards.</chupakobra6_3687071198_job.ransom.node.a-cell-shoot.Title>
+  <chupakobra6_3687071198_job.ransom.node.a-cell-subdue.Text>{pawn} sneaks behind the sentry with a heavy wrench while {pawn2} catches his body before it splashes into the water.</chupakobra6_3687071198_job.ransom.node.a-cell-subdue.Text>
+  <chupakobra6_3687071198_job.ransom.node.a-cell-subdue.Title>Knock out the guards.</chupakobra6_3687071198_job.ransom.node.a-cell-subdue.Title>
+  <chupakobra6_3687071198_job.ransom.node.a-haggle.Text>{pawn} bluffs over the radio, claiming their syndicate has frozen credit lines, while {pawn2} monitors signal latency.</chupakobra6_3687071198_job.ransom.node.a-haggle.Text>
+  <chupakobra6_3687071198_job.ransom.node.a-haggle.Title>Talk the price down.</chupakobra6_3687071198_job.ransom.node.a-haggle.Title>
+  <chupakobra6_3687071198_job.ransom.node.a-inf-bribe.Text>{pawn} slips silver into an off-duty turnkey's pocket while {pawn2} memorizes the holding cell keycard codes.</chupakobra6_3687071198_job.ransom.node.a-inf-bribe.Text>
+  <chupakobra6_3687071198_job.ransom.node.a-inf-bribe.Title>Bribe the turnkey.</chupakobra6_3687071198_job.ransom.node.a-inf-bribe.Title>
+  <chupakobra6_3687071198_job.ransom.node.a-inf-cameras.Text>{pawn} splices a static loop into the security camera feed while {pawn2} covers the service junction.</chupakobra6_3687071198_job.ransom.node.a-inf-cameras.Text>
+  <chupakobra6_3687071198_job.ransom.node.a-inf-cameras.Title>Loop the camera feeds.</chupakobra6_3687071198_job.ransom.node.a-inf-cameras.Title>
+  <chupakobra6_3687071198_job.ransom.node.a-inf-vents.Text>{pawn} crawls through overhead steam conduits while {pawn2} passes demolition snips and flashlights.</chupakobra6_3687071198_job.ransom.node.a-inf-vents.Text>
+  <chupakobra6_3687071198_job.ransom.node.a-inf-vents.Title>Crawl through the steam pipes.</chupakobra6_3687071198_job.ransom.node.a-inf-vents.Title>
+  <chupakobra6_3687071198_job.ransom.node.a-leave.Text>The crew decided the captured pawn was not worth the silver or the blood, writing them off as a loss.</chupakobra6_3687071198_job.ransom.node.a-leave.Text>
+  <chupakobra6_3687071198_job.ransom.node.a-leave.Title>Abandon the crewmate.</chupakobra6_3687071198_job.ransom.node.a-leave.Title>
+  <chupakobra6_3687071198_job.ransom.node.a-pay.Text>{pawn} transfers the full 1500 silver ransom to the escrow account without arguing, prioritizing the hostage's life.</chupakobra6_3687071198_job.ransom.node.a-pay.Text>
+  <chupakobra6_3687071198_job.ransom.node.a-pay.Title>Pay the ransom in full.</chupakobra6_3687071198_job.ransom.node.a-pay.Title>
+  <chupakobra6_3687071198_job.ransom.node.brief.Text>A kidnapper gang on the sub-decks has captured a colonist from an allied expedition and demands 1500 silver for their release. The victim is held inside a flooded ballast tank chamber. The crew can pay the ransom in full, negotiate the price down, or stage a tactical raid into the holding cells to break them out.</chupakobra6_3687071198_job.ransom.node.brief.Text>
+  <chupakobra6_3687071198_job.ransom.node.brief.Title>The Brief</chupakobra6_3687071198_job.ransom.node.brief.Title>
+  <chupakobra6_3687071198_job.ransom.node.e-abandoned.Text>The crew boarded their transport and departed the station, leaving their crewmate behind to their fate.</chupakobra6_3687071198_job.ransom.node.e-abandoned.Text>
+  <chupakobra6_3687071198_job.ransom.node.e-abandoned.Title>Written Off</chupakobra6_3687071198_job.ransom.node.e-abandoned.Title>
+  <chupakobra6_3687071198_job.ransom.node.e-haggled.Text>The crew talked the broker down to 800 silver. The crewmate was released with only minor bruises.</chupakobra6_3687071198_job.ransom.node.e-haggled.Text>
+  <chupakobra6_3687071198_job.ransom.node.e-haggled.Title>Negotiated Release</chupakobra6_3687071198_job.ransom.node.e-haggled.Title>
+  <chupakobra6_3687071198_job.ransom.node.e-lost.Text>The rescue team was ambushed inside the narrow ballast tanks. The crew barely escaped with their lives, while the captive was moved offworld.</chupakobra6_3687071198_job.ransom.node.e-lost.Text>
+  <chupakobra6_3687071198_job.ransom.node.e-lost.Title>Extraction Failed</chupakobra6_3687071198_job.ransom.node.e-lost.Title>
+  <chupakobra6_3687071198_job.ransom.node.e-paid.Text>The ransom was paid in full. Your crewmate was escorted back to the airlock unharmed, though your silver pouch was considerably lighter.</chupakobra6_3687071198_job.ransom.node.e-paid.Text>
+  <chupakobra6_3687071198_job.ransom.node.e-paid.Title>Bought and Paid For</chupakobra6_3687071198_job.ransom.node.e-paid.Title>
+  <chupakobra6_3687071198_job.ransom.node.e-sprung.Text>The crew broke into the tanks, freed the captive, and escaped through the steam ducts without paying the ransom.</chupakobra6_3687071198_job.ransom.node.e-sprung.Text>
+  <chupakobra6_3687071198_job.ransom.node.e-sprung.Title>Jailbreak Success</chupakobra6_3687071198_job.ransom.node.e-sprung.Title>
+  <chupakobra6_3687071198_job.ransom.node.o-fight.Text>The kidnapper gang emerges from behind rusted bulkheads, shotguns blasting across the flooded metal grates!</chupakobra6_3687071198_job.ransom.node.o-fight.Text>
+  <chupakobra6_3687071198_job.ransom.node.o-fight.Title>Ballast Bay Firefight</chupakobra6_3687071198_job.ransom.node.o-fight.Title>
+  <chupakobra6_3687071198_job.ransom.node.o-quiet-sprung.Text>The shackles were unlocked without raising an alarm. The prisoner was freed and given a weapon.</chupakobra6_3687071198_job.ransom.node.o-quiet-sprung.Text>
+  <chupakobra6_3687071198_job.ransom.node.o-quiet-sprung.Title>Prisoner Released</chupakobra6_3687071198_job.ransom.node.o-quiet-sprung.Title>
+  <chupakobra6_3687071198_job.ransom.node.s-cell.Text>The hostage is chained to a rusty stanchion inside a flooded holding cage. Two armed turnkeys stand guard with shotguns.</chupakobra6_3687071198_job.ransom.node.s-cell.Text>
+  <chupakobra6_3687071198_job.ransom.node.s-cell.Title>The Holding Cell</chupakobra6_3687071198_job.ransom.node.s-cell.Title>
+  <chupakobra6_3687071198_job.ransom.node.s-infiltrate.Text>The ballast tanks are cold and rusted, stagnant water splashing ankle-deep over the grating. Armed kidnappers patrol the upper catwalks.</chupakobra6_3687071198_job.ransom.node.s-infiltrate.Text>
+  <chupakobra6_3687071198_job.ransom.node.s-infiltrate.Title>The Ballast Tanks</chupakobra6_3687071198_job.ransom.node.s-infiltrate.Title>
+  <chupakobra6_3687071198_job.ransom.node.s1.Text>The kidnapper contact speaks over a crackling sub-deck radio frequency, demanding immediate payment at an automated dead-drop. {pawn} listens to the audio while {pawn2} scans the frequency for acoustic reflections.</chupakobra6_3687071198_job.ransom.node.s1.Text>
+  <chupakobra6_3687071198_job.ransom.node.s1.Title>The Demands</chupakobra6_3687071198_job.ransom.node.s1.Title>
+  <chupakobra6_3687071198_job.rat-hunt.Name>Rat Hunt</chupakobra6_3687071198_job.rat-hunt.Name>
+  <chupakobra6_3687071198_job.rat-hunt.Subtitle>Clear mutated cargo vermin from grain bay seven before they ruin the harvest or damage the station fan.</chupakobra6_3687071198_job.rat-hunt.Subtitle>
+  <chupakobra6_3687071198_job.rat-hunt.edge.a-prep-cage.s-tame.Fail.Label>Rusting wire cage, bound to fail soon</chupakobra6_3687071198_job.rat-hunt.edge.a-prep-cage.s-tame.Fail.Label>
+  <chupakobra6_3687071198_job.rat-hunt.edge.a-prep-ration.s-tame.Default.Label>bread crumbs laid out</chupakobra6_3687071198_job.rat-hunt.edge.a-prep-ration.s-tame.Default.Label>
+  <chupakobra6_3687071198_job.rat-hunt.edge.a-prep-scent.s-tame.Fail.Label>jury-rigged swill, still kicks</chupakobra6_3687071198_job.rat-hunt.edge.a-prep-scent.s-tame.Fail.Label>
+  <chupakobra6_3687071198_job.rat-hunt.edge.a-tame-biscuit.o-bitten.Fail.Label>snapped at cyber-digits</chupakobra6_3687071198_job.rat-hunt.edge.a-tame-biscuit.o-bitten.Fail.Label>
+  <chupakobra6_3687071198_job.rat-hunt.edge.a-tame-herd.o-turbine-run.Fail.Label>spooked, blew dust</chupakobra6_3687071198_job.rat-hunt.edge.a-tame-herd.o-turbine-run.Fail.Label>
+  <chupakobra6_3687071198_job.rat-hunt.edge.o-bonded.e-capture.Choice.Label>Cash in for the full bounty.</chupakobra6_3687071198_job.rat-hunt.edge.o-bonded.e-capture.Choice.Label>
+  <chupakobra6_3687071198_job.rat-hunt.edge.o-bonded.e-keep.Choice.Label>Keep the alpha tethered.</chupakobra6_3687071198_job.rat-hunt.edge.o-bonded.e-keep.Choice.Label>
+  <chupakobra6_3687071198_job.rat-hunt.edge.o-pets.a-capture-route.Choice.Label>Bag the vermin for the bounty.</chupakobra6_3687071198_job.rat-hunt.edge.o-pets.a-capture-route.Choice.Label>
+  <chupakobra6_3687071198_job.rat-hunt.edge.o-pets.e-keep.Choice.Label>Stash the cage for the caravan.</chupakobra6_3687071198_job.rat-hunt.edge.o-pets.e-keep.Choice.Label>
+  <chupakobra6_3687071198_job.rat-hunt.edge.o-pets.e-pets.Choice.Label>Return the vermin to the child.</chupakobra6_3687071198_job.rat-hunt.edge.o-pets.e-pets.Choice.Label>
+  <chupakobra6_3687071198_job.rat-hunt.edge.o-pets.e-putdown.Violence.Label>Shoot them.</chupakobra6_3687071198_job.rat-hunt.edge.o-pets.e-putdown.Violence.Label>
+  <chupakobra6_3687071198_job.rat-hunt.edge.o-spook.s1.Default.Label>retry sweep, hive pissed off</chupakobra6_3687071198_job.rat-hunt.edge.o-spook.s1.Default.Label>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-aware.Text>{pawn} traces gnawed insulation along the wall conduits while {pawn2} checks floor grates for burrow entrances.</chupakobra6_3687071198_job.rat-hunt.node.a-aware.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-aware.Title>Inspect the nest entrance.</chupakobra6_3687071198_job.rat-hunt.node.a-aware.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-capture-route.Text>The crew decided to herd the swarm into cages rather than risking gunfire around volatile grain dust.</chupakobra6_3687071198_job.rat-hunt.node.a-capture-route.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-capture-route.Title>Set up containment traps.</chupakobra6_3687071198_job.rat-hunt.node.a-capture-route.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-prep-cage.Text>{pawn} welds scrap bars onto an industrial cargo basket while {pawn2} tests the release latch.</chupakobra6_3687071198_job.rat-hunt.node.a-prep-cage.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-prep-cage.Title>Build a drop cage.</chupakobra6_3687071198_job.rat-hunt.node.a-prep-cage.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-prep-grease.Text>{pawn} slathers cooking tallow across the floor grating while {pawn2} rigs the tripwire mechanism.</chupakobra6_3687071198_job.rat-hunt.node.a-prep-grease.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-prep-grease.Title>Scavenge kitchen grease.</chupakobra6_3687071198_job.rat-hunt.node.a-prep-grease.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-prep-ration.Text>The crew broke open high-calorie emergency rations and laid a scent trail toward the containment pen.</chupakobra6_3687071198_job.rat-hunt.node.a-prep-ration.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-prep-ration.Title>Use field rations as bait.</chupakobra6_3687071198_job.rat-hunt.node.a-prep-ration.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-prep-scent.Text>{pawn} mixes synthesized pheromone attractant into a spray bottle while {pawn2} tests duct airflow.</chupakobra6_3687071198_job.rat-hunt.node.a-prep-scent.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-prep-scent.Title>Synthesize a chemical lure.</chupakobra6_3687071198_job.rat-hunt.node.a-prep-scent.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-shoot.Text>{pawn} shoulders a shotgun and sweeps the grain aisles with {pawn2}. Casual extermination: Friday Night Firefight rules apply.</chupakobra6_3687071198_job.rat-hunt.node.a-shoot.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-shoot.Title>Just shoot them on sight.</chupakobra6_3687071198_job.rat-hunt.node.a-shoot.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-tame-alpha.Text>{pawn} lunges with a heavy snare pole while {pawn2} pins the alpha's flailing hind legs.</chupakobra6_3687071198_job.rat-hunt.node.a-tame-alpha.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-tame-alpha.Title>Subdue the alpha with a catch-pole.</chupakobra6_3687071198_job.rat-hunt.node.a-tame-alpha.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-tame-biscuit.Text>{pawn} crouches low, slowly holding out a piece of nutrient ration while {pawn2} readies a capture net.</chupakobra6_3687071198_job.rat-hunt.node.a-tame-biscuit.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-tame-biscuit.Title>Feed the alpha rat.</chupakobra6_3687071198_job.rat-hunt.node.a-tame-biscuit.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-tame-herd.Text>{pawn} bangs a steel wrench against the pipes to drive the pack while {pawn2} steers them into open cages.</chupakobra6_3687071198_job.rat-hunt.node.a-tame-herd.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-tame-herd.Title>Drive the pack into the cages.</chupakobra6_3687071198_job.rat-hunt.node.a-tame-herd.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-tame-panic-shoot.Text>{pawn} levels a sidearm and puts a round directly between the alpha's eyes without blinking.</chupakobra6_3687071198_job.rat-hunt.node.a-tame-panic-shoot.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-tame-panic-shoot.Title>Kill the alpha.</chupakobra6_3687071198_job.rat-hunt.node.a-tame-panic-shoot.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-turbine-block.Text>{pawn} pulls the emergency chain while {pawn2} jams a steel pipe under the falling intake blast gate.</chupakobra6_3687071198_job.rat-hunt.node.a-turbine-block.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-turbine-block.Title>Drop the intake blast door.</chupakobra6_3687071198_job.rat-hunt.node.a-turbine-block.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-turbine-breaker.Text>{pawn} wrenches open the emergency junction box while {pawn2} yanks the primary turbine breaker.</chupakobra6_3687071198_job.rat-hunt.node.a-turbine-breaker.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-turbine-breaker.Title>Trip the circuit breaker.</chupakobra6_3687071198_job.rat-hunt.node.a-turbine-breaker.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-turbine-spray.Text>{pawn} and {pawn2} open fire into the howling turbine intake! Friday Night Firefight: wipe out the swarm before they foul the blades.</chupakobra6_3687071198_job.rat-hunt.node.a-turbine-spray.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-turbine-spray.Title>Open fire on the swarm.</chupakobra6_3687071198_job.rat-hunt.node.a-turbine-spray.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.brief.Text>Grain Bay 7 is infested with oversized orbital vermin that are chewing through insulation cables and fouling storage silos. The dockmaster offers 500 silver to wipe out the nest before the grain spoils. He doesn't care whether the crew uses guns, traps, or chemical lures, as long as the bay is clear.</chupakobra6_3687071198_job.rat-hunt.node.brief.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.brief.Title>The Brief</chupakobra6_3687071198_job.rat-hunt.node.brief.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.e-capture.Text>The entire swarm was captured alive in transport cages. The agronomist paid the full 500 silver bounty, plus a bonus for delivering specimens to the research lab.</chupakobra6_3687071198_job.rat-hunt.node.e-capture.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.e-capture.Title>Live Capture</chupakobra6_3687071198_job.rat-hunt.node.e-capture.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.e-extermin.Text>Every rodent in the bay was shot and shoveled into incinerator chutes. The agronomist paid the 500 silver bounty with relief.</chupakobra6_3687071198_job.rat-hunt.node.e-extermin.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.e-extermin.Title>Extermination Complete</chupakobra6_3687071198_job.rat-hunt.node.e-extermin.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.e-keep.Text>The crew kept a breeding pair of the mutated rodents for personal trade and collected the standard bounty.</chupakobra6_3687071198_job.rat-hunt.node.e-keep.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.e-keep.Title>Specimens Kept</chupakobra6_3687071198_job.rat-hunt.node.e-keep.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.e-pets.Text>The crew kept the alpha rat as a caravan mascot and cleared the remaining vermin, earning the agronomist's grudging respect and full silver.</chupakobra6_3687071198_job.rat-hunt.node.e-pets.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.e-pets.Title>Tamed Mascot</chupakobra6_3687071198_job.rat-hunt.node.e-pets.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.e-putdown.Text>The bay was cleared with heavy ammunition expenditure and wounded crew members, yielding only standard pay after medical expenses.</chupakobra6_3687071198_job.rat-hunt.node.e-putdown.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.e-putdown.Title>Rough Purge</chupakobra6_3687071198_job.rat-hunt.node.e-putdown.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.e-turbine-wreck.Text>The swarm was sucked into the spinning fan blades, shredding the machinery and coating the air ducts in gore. The agronomist refused payment and fined the crew for the repairs.</chupakobra6_3687071198_job.rat-hunt.node.e-turbine-wreck.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.e-turbine-wreck.Title>Turbine Jammed</chupakobra6_3687071198_job.rat-hunt.node.e-turbine-wreck.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.o-bitten.Text>The beast lunged and sank its yellowed teeth into the handler's arm before being beaten back.</chupakobra6_3687071198_job.rat-hunt.node.o-bitten.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.o-bitten.Title>Handler Mauled</chupakobra6_3687071198_job.rat-hunt.node.o-bitten.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.o-bonded.Text>The alpha accepted the food and ceased its aggression, allowing the crew to handle it safely.</chupakobra6_3687071198_job.rat-hunt.node.o-bonded.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.o-bonded.Title>Alpha Tamed</chupakobra6_3687071198_job.rat-hunt.node.o-bonded.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.o-cage-ok.Text>The heavy wire cage was hoisted above the feeding trough, ready to drop on the tripwire's release.</chupakobra6_3687071198_job.rat-hunt.node.o-cage-ok.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.o-cage-ok.Title>Drop Cage Set</chupakobra6_3687071198_job.rat-hunt.node.o-cage-ok.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.o-corralled.Text>With the alpha controlled, the rest of the colony was driven into the wire cages and locked down.</chupakobra6_3687071198_job.rat-hunt.node.o-corralled.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.o-corralled.Title>Swarm Trapped</chupakobra6_3687071198_job.rat-hunt.node.o-corralled.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.o-grease-caught.Text>The synthetic scent was too strong. The rodents hissed and backed away from the traps.</chupakobra6_3687071198_job.rat-hunt.node.o-grease-caught.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.o-grease-caught.Title>Scent Ignored</chupakobra6_3687071198_job.rat-hunt.node.o-grease-caught.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.o-grease-ok.Text>The smell of food drew the rats out of the wall ducts and directly toward the capture pens.</chupakobra6_3687071198_job.rat-hunt.node.o-grease-ok.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.o-grease-ok.Title>Bait Scent Working</chupakobra6_3687071198_job.rat-hunt.node.o-grease-ok.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.o-pets.Text>A dozen cornered vermin huddle behind a rusted locker. A scruffy station child emerges from the shadows, begging the crew not to kill her "pets".</chupakobra6_3687071198_job.rat-hunt.node.o-pets.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.o-pets.Title>Rats Cornered</chupakobra6_3687071198_job.rat-hunt.node.o-pets.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.o-scent-ok.Text>The chemical lure triggered an immediate feeding frenzy, drawing dozens of rats into the pen.</chupakobra6_3687071198_job.rat-hunt.node.o-scent-ok.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.o-scent-ok.Title>Pheromone Lure Primed</chupakobra6_3687071198_job.rat-hunt.node.o-scent-ok.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.o-spook.Text>The gunshots startled the colony. Hundreds of agitated rodents surged out from under the pallets, scattering across the deck.</chupakobra6_3687071198_job.rat-hunt.node.o-spook.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.o-spook.Title>Swarm Panicked</chupakobra6_3687071198_job.rat-hunt.node.o-spook.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.o-turbine-run.Text>The death of the alpha triggered a blind panic. The entire swarm broke and charged directly toward the station's massive intake fan.</chupakobra6_3687071198_job.rat-hunt.node.o-turbine-run.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.o-turbine-run.Title>Stampede to the Turbine</chupakobra6_3687071198_job.rat-hunt.node.o-turbine-run.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.o-turbine-saved.Text>The fan spun down just in time, or the grate dropped shut. The machinery was spared from destruction.</chupakobra6_3687071198_job.rat-hunt.node.o-turbine-saved.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.o-turbine-saved.Title>Turbine Saved</chupakobra6_3687071198_job.rat-hunt.node.o-turbine-saved.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.s-prep.Text>To capture or herd the creatures without causing a stampede toward the turbine intake, the crew needed effective bait to draw them into a designated containment zone.</chupakobra6_3687071198_job.rat-hunt.node.s-prep.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.s-prep.Title>Baiting the Trap</chupakobra6_3687071198_job.rat-hunt.node.s-prep.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.s-tame.Text>Deep inside the pallet maze, the colony's massive scarred alpha rises on its hind legs, hissing defensively. Behind it, smaller rodents skitter through the shadows.</chupakobra6_3687071198_job.rat-hunt.node.s-tame.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.s-tame.Title>The Pallet Warren</chupakobra6_3687071198_job.rat-hunt.node.s-tame.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.s-turbine-crisis.Text>The panicked rodent swarm stampedes directly toward the intake vents of the bay's massive air turbine!</chupakobra6_3687071198_job.rat-hunt.node.s-turbine-crisis.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.s-turbine-crisis.Title>The Intake Fan</chupakobra6_3687071198_job.rat-hunt.node.s-turbine-crisis.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.s1.Text>The warehouse bay is pitch black, smelling of damp oats and rodent musk. Shadows dart across stacked cargo pallets. {pawn} activates a floodlight while {pawn2} checks weapon chambers.</chupakobra6_3687071198_job.rat-hunt.node.s1.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.s1.Title>Grain Bay Seven</chupakobra6_3687071198_job.rat-hunt.node.s1.Title>
+  <chupakobra6_3687071198_job.spike-run.Name>Spike Run</chupakobra6_3687071198_job.spike-run.Name>
+  <chupakobra6_3687071198_job.spike-run.Subtitle>Load the hot data straight into a volunteer's grey matter. Walk it through checkpoint security. Pull it back out before it rots the brain.</chupakobra6_3687071198_job.spike-run.Subtitle>
+  <chupakobra6_3687071198_job.spike-run.node.brief.Text>Seed (QuestBacklog §11.4). The spike rides in a volunteer pawn's skull (active hediff). Navigate the station, followed by a risky Medical extraction. Endings to build out: Delivered &amp; Clean (pay + major INT XP) / Extraction Fumble (permanent brain trauma, docked pay) / Hijacked en route. Hard rule: selling the carrier pawn will never be offered.</chupakobra6_3687071198_job.spike-run.node.brief.Text>
+  <chupakobra6_3687071198_job.spike-run.node.brief.Title>The Brief</chupakobra6_3687071198_job.spike-run.node.brief.Title>
+  <chupakobra6_3687071198_job.spike-run.node.todo.Text>This contract tree sits in the backlog. The brief above is the raw seed; specific scenes, approaches, forks, and bloody endings are not yet authored.</chupakobra6_3687071198_job.spike-run.node.todo.Text>
+  <chupakobra6_3687071198_job.spike-run.node.todo.Title>Incomplete</chupakobra6_3687071198_job.spike-run.node.todo.Title>
+  <chupakobra6_3687071198_job.spin-cycle.Name>Spin Cycle</chupakobra6_3687071198_job.spin-cycle.Name>
+  <chupakobra6_3687071198_job.spin-cycle.Subtitle>Fight rival scavengers over a loose cargo container tumbling in zero-gravity outside the centrifuge.</chupakobra6_3687071198_job.spin-cycle.Subtitle>
+  <chupakobra6_3687071198_job.spin-cycle.edge.a-adapt.s-debris.Fail.Label>stomach turning, swallowing bile</chupakobra6_3687071198_job.spin-cycle.edge.a-adapt.s-debris.Fail.Label>
+  <chupakobra6_3687071198_job.spin-cycle.edge.a-adapt.s-debris.Success.Label>bracing in zero-G</chupakobra6_3687071198_job.spin-cycle.edge.a-adapt.s-debris.Success.Label>
+  <chupakobra6_3687071198_job.spin-cycle.edge.a-ammo.s-debris.Default.Label>flechette mags seated</chupakobra6_3687071198_job.spin-cycle.edge.a-ammo.s-debris.Default.Label>
+  <chupakobra6_3687071198_job.spin-cycle.edge.a-boots.s-debris.Default.Label>magnetic clamps locked</chupakobra6_3687071198_job.spin-cycle.edge.a-boots.s-debris.Default.Label>
+  <chupakobra6_3687071198_job.spin-cycle.edge.a-patch-prep.s-debris.Default.Label>resin patches primed</chupakobra6_3687071198_job.spin-cycle.edge.a-patch-prep.s-debris.Default.Label>
+  <chupakobra6_3687071198_job.spin-cycle.edge.o-breach.e-down.Fail.Label>pressure suit shredded in vacuum</chupakobra6_3687071198_job.spin-cycle.edge.o-breach.e-down.Fail.Label>
+  <chupakobra6_3687071198_job.spin-cycle.edge.o-breach.e-holed.Choice.Label>Weld the hull breach under fire.</chupakobra6_3687071198_job.spin-cycle.edge.o-breach.e-holed.Choice.Label>
+  <chupakobra6_3687071198_job.spin-cycle.edge.o-breach.e-vented.Violence.Label>Vent the core atmosphere into space.</chupakobra6_3687071198_job.spin-cycle.edge.o-breach.e-vented.Violence.Label>
+  <chupakobra6_3687071198_job.spin-cycle.edge.o-spin.e-spunout.Fail.Label>buckled frame / unrecoverable</chupakobra6_3687071198_job.spin-cycle.edge.o-spin.e-spunout.Fail.Label>
+  <chupakobra6_3687071198_job.spin-cycle.edge.o-spin.o-won.Success.Label>stabilized rotation</chupakobra6_3687071198_job.spin-cycle.edge.o-spin.o-won.Success.Label>
+  <chupakobra6_3687071198_job.spin-cycle.node.a-adapt.Text>{pawn} fixes their gaze on the core rotation axis, fighting down spatial disorientation while {pawn2} checks suit seals.</chupakobra6_3687071198_job.spin-cycle.node.a-adapt.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.a-adapt.Title>Anchor against the vertigo.</chupakobra6_3687071198_job.spin-cycle.node.a-adapt.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.a-ammo.Text>{pawn} loads low-recoil flechette rounds into vacuum-rated carbines while {pawn2} fastens safety lanyards.</chupakobra6_3687071198_job.spin-cycle.node.a-ammo.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.a-ammo.Title>Load low-recoil rounds.</chupakobra6_3687071198_job.spin-cycle.node.a-ammo.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.a-blade.Text>{pawn} kicks off the bulkhead with mono-edge combat blades drawn, while {pawn2} provides covering fire.</chupakobra6_3687071198_job.spin-cycle.node.a-blade.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.a-blade.Title>Attack with combat knives.</chupakobra6_3687071198_job.spin-cycle.node.a-blade.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.a-boots.Text>{pawn} calibrates magnetic boot sole coils while {pawn2} verifies thruster pack fuel reserves.</chupakobra6_3687071198_job.spin-cycle.node.a-boots.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.a-boots.Title>Lock magnetic boots.</chupakobra6_3687071198_job.spin-cycle.node.a-boots.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.a-braced.Text>{pawn} locks magnetic boots onto a structural girder and lays down controlled rifle fire while {pawn2} spots targets.</chupakobra6_3687071198_job.spin-cycle.node.a-braced.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.a-braced.Title>Brace and fire.</chupakobra6_3687071198_job.spin-cycle.node.a-braced.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.a-debris-blast.Text>{pawn} tracks incoming metal shrapnel with their carbine, blasting chunks aside before they impact the suit.</chupakobra6_3687071198_job.spin-cycle.node.a-debris-blast.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.a-debris-blast.Title>Shoot incoming debris.</chupakobra6_3687071198_job.spin-cycle.node.a-debris-blast.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.a-debris-dodge.Text>{pawn} times a leap across the tumbling debris field while {pawn2} monitors orbital trajectory.</chupakobra6_3687071198_job.spin-cycle.node.a-debris-dodge.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.a-debris-dodge.Title>Push off the guide rails.</chupakobra6_3687071198_job.spin-cycle.node.a-debris-dodge.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.a-debris-tether.Text>{pawn} fires a pneumatic harpoon line into the pod's docking ring while {pawn2} anchors the winch cable.</chupakobra6_3687071198_job.spin-cycle.node.a-debris-tether.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.a-debris-tether.Title>Fire a grapple line.</chupakobra6_3687071198_job.spin-cycle.node.a-debris-tether.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.a-heavy.Text>{pawn} levels a high-velocity heavy weapon and opens fire into the cargo bay! Friday Night Firefight: take them down in zero-g!</chupakobra6_3687071198_job.spin-cycle.node.a-heavy.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.a-heavy.Title>Open up with heavy weapons.</chupakobra6_3687071198_job.spin-cycle.node.a-heavy.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.a-maneuver.Text>{pawn} uses cold-gas thruster bursts to flank the rival scavengers in three dimensions while {pawn2} pins them down.</chupakobra6_3687071198_job.spin-cycle.node.a-maneuver.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.a-maneuver.Title>Flank in three dimensions.</chupakobra6_3687071198_job.spin-cycle.node.a-maneuver.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.a-patch-prep.Text>{pawn} preps rapid-curing resin patches on their chest rig while {pawn2} checks emergency oxygen injectors.</chupakobra6_3687071198_job.spin-cycle.node.a-patch-prep.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.a-patch-prep.Title>Ready hull sealant patches.</chupakobra6_3687071198_job.spin-cycle.node.a-patch-prep.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.brief.Text>A severed orbital cargo pod is tumbling in the outer ring slipstream. An extraction syndicate offers 750 silver to grapple the pod, purge rival scavengers already on board, and secure the titanium core before it spins out of the recovery corridor.</chupakobra6_3687071198_job.spin-cycle.node.brief.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.brief.Title>The Brief</chupakobra6_3687071198_job.spin-cycle.node.brief.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.e-backout.Text>Looking out into the silent, spinning abyss, the crew decided the risk of zero-gravity combat was not worth the coin.</chupakobra6_3687071198_job.spin-cycle.node.e-backout.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.e-backout.Title>Backed Out</chupakobra6_3687071198_job.spin-cycle.node.e-backout.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.e-clean.Text>The crew towed the container into the station's repair bay. The plasteel was salvaged and the 750 silver bounty was paid immediately.</chupakobra6_3687071198_job.spin-cycle.node.e-clean.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.e-clean.Title>Pod Captured</chupakobra6_3687071198_job.spin-cycle.node.e-clean.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.e-down.Text>The rival crew had superior zero-g training. Two operatives suffered suit breaches and had to be dragged back to the airlock by the survivors.</chupakobra6_3687071198_job.spin-cycle.node.e-down.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.e-down.Title>Crew Down</chupakobra6_3687071198_job.spin-cycle.node.e-down.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.e-holed.Text>The gunfire breached several plasteel crates, venting raw materials into space. The crew recovered only half the expected silver.</chupakobra6_3687071198_job.spin-cycle.node.e-holed.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.e-holed.Title>Damaged Salvage</chupakobra6_3687071198_job.spin-cycle.node.e-holed.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.e-spunout.Text>The recoil and debris broke the tow lines. The container tumbled into the planet's upper atmosphere and burned on reentry.</chupakobra6_3687071198_job.spin-cycle.node.e-spunout.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.e-spunout.Title>Lost in the Slipstream</chupakobra6_3687071198_job.spin-cycle.node.e-spunout.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.e-vented.Text>The rival scavengers were pushed into the deep void with ruptured suits. The crew claimed the container and all competitor gear.</chupakobra6_3687071198_job.spin-cycle.node.e-vented.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.e-vented.Title>Rivals Vented</chupakobra6_3687071198_job.spin-cycle.node.e-vented.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.o-breach.Text>A stray kinetic round punches through the thin outer skin! Explosive decompression shrieks as atmosphere roars into the void!</chupakobra6_3687071198_job.spin-cycle.node.o-breach.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.o-breach.Title>Suit Decompression</chupakobra6_3687071198_job.spin-cycle.node.o-breach.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.o-debris-clipped.Text>A spinning steel girder clipped a crew member's shoulder, puncturing the outer suit layer before emergency patches sealed the leak.</chupakobra6_3687071198_job.spin-cycle.node.o-debris-clipped.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.o-debris-clipped.Title>Suit Clipped</chupakobra6_3687071198_job.spin-cycle.node.o-debris-clipped.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.o-debris-pass.Text>The crew navigated the tumbling wreckage cleanly and landed their boots firmly against the cargo container's hull.</chupakobra6_3687071198_job.spin-cycle.node.o-debris-pass.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.o-debris-pass.Title>Through the Cloud</chupakobra6_3687071198_job.spin-cycle.node.o-debris-pass.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.o-spin.Text>The weapon recoil broke the crew's magnetic grip, sending an operative spinning into the void on an emergency tether.</chupakobra6_3687071198_job.spin-cycle.node.o-spin.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.o-spin.Title>Spun Off the Hull</chupakobra6_3687071198_job.spin-cycle.node.o-spin.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.o-won.Text>The rival scavengers were neutralized or driven off. The crew attached their tow cables to the cargo container.</chupakobra6_3687071198_job.spin-cycle.node.o-won.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.o-won.Title>Core Secured</chupakobra6_3687071198_job.spin-cycle.node.o-won.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.s-debris.Text>A cloud of shredded hull plating and frozen propellant crystals rotates around the pod like a shrapnel storm. {pawn} and {pawn2} prepare to cross the gap.</chupakobra6_3687071198_job.spin-cycle.node.s-debris.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.s-debris.Title>The Debris Cloud</chupakobra6_3687071198_job.spin-cycle.node.s-debris.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.s1.Text>The crew stands inside the shuttle's depressurizing airlock. Beyond the open hatch, the starry void spins violently as the tumbling cargo pod reflects harsh sunlight. {pawn} checks EVA tether lines while {pawn2} secures magnetic clamp boots.</chupakobra6_3687071198_job.spin-cycle.node.s1.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.s1.Title>The Outer Airlock</chupakobra6_3687071198_job.spin-cycle.node.s1.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.s2.Text>Inside the cargo core, artificial gravity is dead. Floating containers drift in the dark. Flashlights reveal rival scavengers in pressurized suits leveling kinetic carbines!</chupakobra6_3687071198_job.spin-cycle.node.s2.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.s2.Title>The Cargo Core</chupakobra6_3687071198_job.spin-cycle.node.s2.Title>
+  <chupakobra6_3687071198_job.thaw.Name>Thaw</chupakobra6_3687071198_job.thaw.Name>
+  <chupakobra6_3687071198_job.thaw.Subtitle>Extract a cryo-casket holding a frozen syndicate boss from a gantry line and interrogate the target before they thaw.</chupakobra6_3687071198_job.thaw.Subtitle>
+  <chupakobra6_3687071198_job.thaw.edge.a-check-bribe.enr.Fail.Label>paid double</chupakobra6_3687071198_job.thaw.edge.a-check-bribe.enr.Fail.Label>
+  <chupakobra6_3687071198_job.thaw.edge.a-check-papers.enr.Fail.Label>delayed, made the flight</chupakobra6_3687071198_job.thaw.edge.a-check-papers.enr.Fail.Label>
+  <chupakobra6_3687071198_job.thaw.edge.a-check-papers.enr.Success.Label>quarantine bluff held</chupakobra6_3687071198_job.thaw.edge.a-check-papers.enr.Success.Label>
+  <chupakobra6_3687071198_job.thaw.edge.a-check-slip.enr.Fail.Label>scrambled onto shuttle</chupakobra6_3687071198_job.thaw.edge.a-check-slip.enr.Fail.Label>
+  <chupakobra6_3687071198_job.thaw.edge.a-lift-coolant.s-checkpoint.Fail.Label>temp spiked slightly</chupakobra6_3687071198_job.thaw.edge.a-lift-coolant.s-checkpoint.Fail.Label>
+  <chupakobra6_3687071198_job.thaw.edge.a-lift-coolant.s-checkpoint.Success.Label>coolant bridged</chupakobra6_3687071198_job.thaw.edge.a-lift-coolant.s-checkpoint.Success.Label>
+  <chupakobra6_3687071198_job.thaw.edge.a-lift-dolly.s-checkpoint.Fail.Label>dolly squealed</chupakobra6_3687071198_job.thaw.edge.a-lift-dolly.s-checkpoint.Fail.Label>
+  <chupakobra6_3687071198_job.thaw.edge.a-lift-dolly.s-checkpoint.Success.Label>dolly rolling</chupakobra6_3687071198_job.thaw.edge.a-lift-dolly.s-checkpoint.Success.Label>
+  <chupakobra6_3687071198_job.thaw.edge.s2-know.e-delivered.Choice.Label>deliver for questioning</chupakobra6_3687071198_job.thaw.edge.s2-know.e-delivered.Choice.Label>
+  <chupakobra6_3687071198_job.thaw.edge.s2-know.e-freed.Choice.Label>free the victim</chupakobra6_3687071198_job.thaw.edge.s2-know.e-freed.Choice.Label>
+  <chupakobra6_3687071198_job.thaw.edge.s2-know.e-soldback.Choice.Label>sell to crime lord</chupakobra6_3687071198_job.thaw.edge.s2-know.e-soldback.Choice.Label>
+  <chupakobra6_3687071198_job.thaw.node.a-check-bribe.Text>{pawn} counts silver into the guard's grease-stained palm while {pawn2} stands between him and the viewport.</chupakobra6_3687071198_job.thaw.node.a-check-bribe.Text>
+  <chupakobra6_3687071198_job.thaw.node.a-check-bribe.Title>Bribe the guard.</chupakobra6_3687071198_job.thaw.node.a-check-bribe.Title>
+  <chupakobra6_3687071198_job.thaw.node.a-check-papers.Text>{pawn} presents forged medical transfer papers at the checkpoint window while {pawn2} adjusts the casket hum.</chupakobra6_3687071198_job.thaw.node.a-check-papers.Text>
+  <chupakobra6_3687071198_job.thaw.node.a-check-papers.Title>Bluff with quarantine paperwork.</chupakobra6_3687071198_job.thaw.node.a-check-papers.Title>
+  <chupakobra6_3687071198_job.thaw.node.a-check-slip.Text>{pawn} waits for the station venting cycle to fill the corridor with steam, then signals {pawn2} to push the trolley through.</chupakobra6_3687071198_job.thaw.node.a-check-slip.Text>
+  <chupakobra6_3687071198_job.thaw.node.a-check-slip.Title>Slip through during cycle venting.</chupakobra6_3687071198_job.thaw.node.a-check-slip.Title>
+  <chupakobra6_3687071198_job.thaw.node.a-lift-coolant.Text>{pawn} splices a portable refrigerant cylinder into the bypass valve while {pawn2} regulates the flow rate.</chupakobra6_3687071198_job.thaw.node.a-lift-coolant.Text>
+  <chupakobra6_3687071198_job.thaw.node.a-lift-coolant.Title>Hook up a portable coolant cell.</chupakobra6_3687071198_job.thaw.node.a-lift-coolant.Title>
+  <chupakobra6_3687071198_job.thaw.node.a-lift-dolly.Text>{pawn} hotwires the electric cargo tug while {pawn2} fastens heavy magnetic tie-downs around the casket.</chupakobra6_3687071198_job.thaw.node.a-lift-dolly.Text>
+  <chupakobra6_3687071198_job.thaw.node.a-lift-dolly.Title>Hotwire the motorized trolley.</chupakobra6_3687071198_job.thaw.node.a-lift-dolly.Title>
+  <chupakobra6_3687071198_job.thaw.node.a-lift-muscle.Text>{pawn} and {pawn2} lean their full body weight against the trolley, hauling it across the frozen deck plates by hand.</chupakobra6_3687071198_job.thaw.node.a-lift-muscle.Text>
+  <chupakobra6_3687071198_job.thaw.node.a-lift-muscle.Title>Heave it onto a hand cart.</chupakobra6_3687071198_job.thaw.node.a-lift-muscle.Title>
+  <chupakobra6_3687071198_job.thaw.node.brief.Text>An anonymous broker offers 800 silver for recovering a low-temperature cryptosleeve from a derelict freighter bay. The casket holds a corporate executive who was frozen mid-flight. Syndicate salvage crews are already cutting into the hull, and the casket's internal coolant will fail in under an hour.</chupakobra6_3687071198_job.thaw.node.brief.Text>
+  <chupakobra6_3687071198_job.thaw.node.brief.Title>The Brief</chupakobra6_3687071198_job.thaw.node.brief.Title>
+  <chupakobra6_3687071198_job.thaw.node.e-delivered.Text>The target broke under interrogation and recited the cipher strings. The accounts were drained, and the fixer paid the agreed 800 silver in full.</chupakobra6_3687071198_job.thaw.node.e-delivered.Text>
+  <chupakobra6_3687071198_job.thaw.node.e-delivered.Title>Codes Extracted</chupakobra6_3687071198_job.thaw.node.e-delivered.Title>
+  <chupakobra6_3687071198_job.thaw.node.e-doa.Text>The target died on the table before any codes could be recovered. The fixer refused payment and ordered the crew to dispose of the body.</chupakobra6_3687071198_job.thaw.node.e-doa.Text>
+  <chupakobra6_3687071198_job.thaw.node.e-doa.Title>Target Flatlined</chupakobra6_3687071198_job.thaw.node.e-doa.Title>
+  <chupakobra6_3687071198_job.thaw.node.e-down.Text>The safehouse guards overpowered the crew. The survivors were left bleeding on the floor as the syndicate reclaimed the sector.</chupakobra6_3687071198_job.thaw.node.e-down.Text>
+  <chupakobra6_3687071198_job.thaw.node.e-down.Title>Crew Down</chupakobra6_3687071198_job.thaw.node.e-down.Title>
+  <chupakobra6_3687071198_job.thaw.node.e-freed.Text>The crew secretly unlocked the target's restraints and let him escape out the back door in exchange for a direct cred-chip transfer.</chupakobra6_3687071198_job.thaw.node.e-freed.Text>
+  <chupakobra6_3687071198_job.thaw.node.e-freed.Title>Target Released</chupakobra6_3687071198_job.thaw.node.e-freed.Title>
+  <chupakobra6_3687071198_job.thaw.node.e-shotout.Text>The crew eliminated the fixer and his crew, took the decrypted cred-chips from the console, and vanished into the orbital slipstream.</chupakobra6_3687071198_job.thaw.node.e-shotout.Text>
+  <chupakobra6_3687071198_job.thaw.node.e-shotout.Title>Took the Entire Pot</chupakobra6_3687071198_job.thaw.node.e-shotout.Title>
+  <chupakobra6_3687071198_job.thaw.node.e-soldback.Text>The crew contacted the target's syndicate directly and negotiated a ransom for his safe return, collecting a massive payout.</chupakobra6_3687071198_job.thaw.node.e-soldback.Text>
+  <chupakobra6_3687071198_job.thaw.node.e-soldback.Title>Sold to the Syndicate</chupakobra6_3687071198_job.thaw.node.e-soldback.Title>
+  <chupakobra6_3687071198_job.thaw.node.e-walkaway.Text>Deciding that tampering with a frozen syndicate executive was too dangerous, the crew backed away from the gantry.</chupakobra6_3687071198_job.thaw.node.e-walkaway.Text>
+  <chupakobra6_3687071198_job.thaw.node.e-walkaway.Title>Leave it on the skid.</chupakobra6_3687071198_job.thaw.node.e-walkaway.Title>
+  <chupakobra6_3687071198_job.thaw.node.enr-dead.Text>The internal temperature spiked uncontrollably. By the time the shuttle landed, the occupant had suffered irreversible brain death.</chupakobra6_3687071198_job.thaw.node.enr-dead.Text>
+  <chupakobra6_3687071198_job.thaw.node.enr-dead.Title>Coolant Failure</chupakobra6_3687071198_job.thaw.node.enr-dead.Title>
+  <chupakobra6_3687071198_job.thaw.node.enr-enforcers.Text>{pawn} mounts the shuttle pintle gun while {pawn2} stabilizes the craft, ready to return fire with casual brutality.</chupakobra6_3687071198_job.thaw.node.enr-enforcers.Text>
+  <chupakobra6_3687071198_job.thaw.node.enr-enforcers.Title>Just shoot the interceptors.</chupakobra6_3687071198_job.thaw.node.enr-enforcers.Title>
+  <chupakobra6_3687071198_job.thaw.node.enr-failure.Text>{pawn} seals a weeping coolant rupture with emergency thermal foam while {pawn2} bleeds off excess pressure.</chupakobra6_3687071198_job.thaw.node.enr-failure.Text>
+  <chupakobra6_3687071198_job.thaw.node.enr-failure.Title>Patch the coolant line.</chupakobra6_3687071198_job.thaw.node.enr-failure.Title>
+  <chupakobra6_3687071198_job.thaw.node.enr-ok.Text>The shuttle cleared the gantry airspace and locked into the fixer's private docking bay without taking critical damage.</chupakobra6_3687071198_job.thaw.node.enr-ok.Text>
+  <chupakobra6_3687071198_job.thaw.node.enr-ok.Title>Docked at the Safehouse</chupakobra6_3687071198_job.thaw.node.enr-ok.Title>
+  <chupakobra6_3687071198_job.thaw.node.enr-wake.Text>{pawn} initiates emergency neural defrost while {pawn2} talks the disoriented executive through resuscitation protocol.</chupakobra6_3687071198_job.thaw.node.enr-wake.Text>
+  <chupakobra6_3687071198_job.thaw.node.enr-wake.Title>Talk to the thawing passenger.</chupakobra6_3687071198_job.thaw.node.enr-wake.Title>
+  <chupakobra6_3687071198_job.thaw.node.enr.Text>Inside the transit shuttle, warning sirens begin to chirp. Syndicate interceptor skiffs appear on the rear sensor array!</chupakobra6_3687071198_job.thaw.node.enr.Text>
+  <chupakobra6_3687071198_job.thaw.node.enr.Title>The Shuttle Hop</chupakobra6_3687071198_job.thaw.node.enr.Title>
+  <chupakobra6_3687071198_job.thaw.node.o-fight-deliv.Text>Gunfire erupts inside the concrete cellar! Syndicate interceptors breach the rear entrance with automatic fire!</chupakobra6_3687071198_job.thaw.node.o-fight-deliv.Text>
+  <chupakobra6_3687071198_job.thaw.node.o-fight-deliv.Title>Safehouse Shootout</chupakobra6_3687071198_job.thaw.node.o-fight-deliv.Title>
+  <chupakobra6_3687071198_job.thaw.node.s-checkpoint.Text>The route to the transit shuttle passes through an internal quarantine gate. Armed port inspectors are checking bio-seals.</chupakobra6_3687071198_job.thaw.node.s-checkpoint.Text>
+  <chupakobra6_3687071198_job.thaw.node.s-checkpoint.Title>Gantry Checkpoint</chupakobra6_3687071198_job.thaw.node.s-checkpoint.Title>
+  <chupakobra6_3687071198_job.thaw.node.s-lift.Text>The primary coolant conduit has developed a high-pressure leak. Frost hisses into the air. {pawn} and {pawn2} need to stabilize the temperature before moving the casket.</chupakobra6_3687071198_job.thaw.node.s-lift.Text>
+  <chupakobra6_3687071198_job.thaw.node.s-lift.Title>Cutting the Coolant Line</chupakobra6_3687071198_job.thaw.node.s-lift.Title>
+  <chupakobra6_3687071198_job.thaw.node.s1-aware.Text>{pawn} inspects the locking latches and power connections while {pawn2} checks the cargo corridor for approaching syndicate cutter teams.</chupakobra6_3687071198_job.thaw.node.s1-aware.Text>
+  <chupakobra6_3687071198_job.thaw.node.s1-aware.Title>Inspect the casket locks.</chupakobra6_3687071198_job.thaw.node.s1-aware.Title>
+  <chupakobra6_3687071198_job.thaw.node.s1-grab.Text>{pawn} and {pawn2} unlock the mag-clamps with brute force, heaving the casket onto the mobile skid without checking the readouts.</chupakobra6_3687071198_job.thaw.node.s1-grab.Text>
+  <chupakobra6_3687071198_job.thaw.node.s1-grab.Title>Just grab the casket.</chupakobra6_3687071198_job.thaw.node.s1-grab.Title>
+  <chupakobra6_3687071198_job.thaw.node.s1-medical.Text>{pawn} attaches diagnostic leads to the frosted cryptosleeve while {pawn2} monitors core thermal decay. A ruptured valve will trigger cellular collapse in seconds.</chupakobra6_3687071198_job.thaw.node.s1-medical.Text>
+  <chupakobra6_3687071198_job.thaw.node.s1-medical.Title>Check the bio-monitors.</chupakobra6_3687071198_job.thaw.node.s1-medical.Title>
+  <chupakobra6_3687071198_job.thaw.node.s1-nothing.Text>The frosted viewports and unfamiliar locking mechanisms left the crew uncertain of the pod's exact internal condition, but the heavy casing was clearly intact.</chupakobra6_3687071198_job.thaw.node.s1-nothing.Text>
+  <chupakobra6_3687071198_job.thaw.node.s1-nothing.Title>Unknown Cargo</chupakobra6_3687071198_job.thaw.node.s1-nothing.Title>
+  <chupakobra6_3687071198_job.thaw.node.s1-truth.Text>The biometric readout confirmed that the occupant was alive, chemically paralyzed, and locked in deep hypothermia. The seals were pressurized and primed for quick release.</chupakobra6_3687071198_job.thaw.node.s1-truth.Text>
+  <chupakobra6_3687071198_job.thaw.node.s1-truth.Title>Hostage Confirmed</chupakobra6_3687071198_job.thaw.node.s1-truth.Title>
+  <chupakobra6_3687071198_job.thaw.node.s1.Text>The recovery bay is freezing, frost coating the metal decking. The cryptosleeve sits mounted on a transit skid, warning lights flashing amber. {pawn} examines the bio-status readouts while {pawn2} keeps a carbine leveled at the door.</chupakobra6_3687071198_job.thaw.node.s1.Text>
+  <chupakobra6_3687071198_job.thaw.node.s1.Title>The Transfer Skid</chupakobra6_3687071198_job.thaw.node.s1.Title>
+  <chupakobra6_3687071198_job.thaw.node.s2-blind.Text>{pawn} pushes the casket across the floor as agreed, while {pawn2} counts the payment creds.</chupakobra6_3687071198_job.thaw.node.s2-blind.Text>
+  <chupakobra6_3687071198_job.thaw.node.s2-blind.Title>Hand the casket over as agreed.</chupakobra6_3687071198_job.thaw.node.s2-blind.Title>
+  <chupakobra6_3687071198_job.thaw.node.s2-know.Text>{pawn} demands the encrypted security codes directly from the thawed hostage before letting the buyer step forward.</chupakobra6_3687071198_job.thaw.node.s2-know.Text>
+  <chupakobra6_3687071198_job.thaw.node.s2-know.Title>Demand leverage for the hostage.</chupakobra6_3687071198_job.thaw.node.s2-know.Title>
+  <chupakobra6_3687071198_job.thaw.node.s2-shoot.Text>{pawn} raises their weapon and fires without warning, kicking over the interrogation table as {pawn2} covers the door.</chupakobra6_3687071198_job.thaw.node.s2-shoot.Text>
+  <chupakobra6_3687071198_job.thaw.node.s2-shoot.Title>Shoot the buyer.</chupakobra6_3687071198_job.thaw.node.s2-shoot.Title>
+  <chupakobra6_3687071198_job.thaw.node.s2.Text>The safehouse basement is damp and smells of wet concrete. The buyer waits behind an interrogation table, flanked by syndicate mercenaries with heavy assault weapons.</chupakobra6_3687071198_job.thaw.node.s2.Text>
+  <chupakobra6_3687071198_job.thaw.node.s2.Title>The Interrogation Room</chupakobra6_3687071198_job.thaw.node.s2.Title>
+</LanguageData>

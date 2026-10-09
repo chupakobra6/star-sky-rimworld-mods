@@ -1,0 +1,59 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VEE_AbandonedFarmland.label>заброшенные пашни</VEE_AbandonedFarmland.label>
+  <VEE_AlluvialFan.label>конус выноса</VEE_AlluvialFan.label>
+  <VEE_AuburnForest.label>пожелтевший лес</VEE_AuburnForest.label>
+  <VEE_BasaltCape.label>базальтовый мыс</VEE_BasaltCape.label>
+  <VEE_BloomingFields.label>цветущие луга</VEE_BloomingFields.label>
+  <VEE_BurnedForest.label>выжженный лес</VEE_BurnedForest.label>
+  <VEE_CactusFields.label>кактусовые поля</VEE_CactusFields.label>
+  <VEE_CalmBasin.label>тихая котловина</VEE_CalmBasin.label>
+  <VEE_Cenotes.label>сеноты</VEE_Cenotes.label>
+  <VEE_ContaminatedCoast.label>загрязнённое побережье</VEE_ContaminatedCoast.label>
+  <VEE_ContaminatedReservoir.label>загрязнённый водоём</VEE_ContaminatedReservoir.label>
+  <VEE_ContaminatedRiver.label>загрязнённая река</VEE_ContaminatedRiver.label>
+  <VEE_CoralReef.label>коралловый риф</VEE_CoralReef.label>
+  <VEE_CradleOfLife.label>колыбель жизни</VEE_CradleOfLife.label>
+  <VEE_CraterLake.label>кратерное озеро</VEE_CraterLake.label>
+  <VEE_DetachedIceberg.label>изолированный айсберг</VEE_DetachedIceberg.label>
+  <VEE_DriftwoodShore.label>берег с топляками</VEE_DriftwoodShore.label>
+  <VEE_DryRiver.label>высохшая река</VEE_DryRiver.label>
+  <VEE_DustBowl.label>пылевая пустошь</VEE_DustBowl.label>
+  <VEE_FloodPlains.label>паводковые равнины</VEE_FloodPlains.label>
+  <VEE_GlacialMoraine.label>ледниковая морена</VEE_GlacialMoraine.label>
+  <VEE_GravelBeach.label>гравийный пляж</VEE_GravelBeach.label>
+  <VEE_IceAndFire.label>лёд и пламя</VEE_IceAndFire.label>
+  <VEE_IceSpires.label>ледяные шпили</VEE_IceSpires.label>
+  <VEE_JaggedRocks.label>скальные гряды</VEE_JaggedRocks.label>
+  <VEE_LaurelForest.label>лавровый лес</VEE_LaurelForest.label>
+  <VEE_LittoralDunes.label>прибрежные дюны</VEE_LittoralDunes.label>
+  <VEE_LoneIsland.label>остров</VEE_LoneIsland.label>
+  <VEE_LoneIslandWithLake.label>остров с озером</VEE_LoneIslandWithLake.label>
+  <VEE_LoneIslandWithMountain.label>возвышающийся остров</VEE_LoneIslandWithMountain.label>
+  <VEE_LushLavaFields.label>заросшие лавовые поля</VEE_LushLavaFields.label>
+  <VEE_Mangrove.label>мангровые заросли</VEE_Mangrove.label>
+  <VEE_MeteorCrater.label>метеоритный кратер</VEE_MeteorCrater.label>
+  <VEE_Moor.label>болото</VEE_Moor.label>
+  <VEE_PebbleDunes.label>галечные дюны</VEE_PebbleDunes.label>
+  <VEE_PermafrostBasin.label>котловина вечной мерзлоты</VEE_PermafrostBasin.label>
+  <VEE_QuicksandDunes.label>зыбучие дюны</VEE_QuicksandDunes.label>
+  <VEE_QuicksandPits.label>зыбучие пески</VEE_QuicksandPits.label>
+  <VEE_RedDesert.label>красная пустыня</VEE_RedDesert.label>
+  <VEE_RelictDelta.label>реликтовая дельта</VEE_RelictDelta.label>
+  <VEE_ResurgentCaldera.label>кальдера с возрождающимся куполом</VEE_ResurgentCaldera.label>
+  <VEE_RisingWaters.label>поднимающиеся воды</VEE_RisingWaters.label>
+  <VEE_RockRidge.label>скалистый хребет</VEE_RockRidge.label>
+  <VEE_SaltPlains.label>соляные равнины</VEE_SaltPlains.label>
+  <VEE_SerpentineCanyons.label>извилистые каньоны</VEE_SerpentineCanyons.label>
+  <VEE_Sinkholes.label>провалы</VEE_Sinkholes.label>
+  <VEE_StagnantRivulet.label>застойный ручей</VEE_StagnantRivulet.label>
+  <VEE_StoneForest.label>каменный лес</VEE_StoneForest.label>
+  <VEE_SulfuricLake.label>серное озеро</VEE_SulfuricLake.label>
+  <VEE_SulfuricRiver.label>серная река</VEE_SulfuricRiver.label>
+  <VEE_TemperateGrasslands.label>луга</VEE_TemperateGrasslands.label>
+  <VEE_ToxicCrater.label>токсичное кратерное озеро</VEE_ToxicCrater.label>
+  <VEE_TropicalBeach.label>тропический пляж</VEE_TropicalBeach.label>
+  <VEE_VolcanicSandDesert.label>вулканическая пустыня</VEE_VolcanicSandDesert.label>
+  <VEE_Volcano.label>вулкан</VEE_Volcano.label>
+  <VEE_WindBlownPlateau.label>продуваемое плато</VEE_WindBlownPlateau.label>
+</LanguageData>

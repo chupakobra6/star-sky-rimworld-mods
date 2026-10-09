@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VEE_Alphabeavers.label>альфабобры</VEE_Alphabeavers.label>
+  <VEE_Aurora.label>полярное сияние</VEE_Aurora.label>
+  <VEE_Aurora.letterLabel>Полярное сияние</VEE_Aurora.letterLabel>
+  <VEE_FertileRains.label>плодородный дождь</VEE_FertileRains.label>
+  <VEE_FertileRains.letterLabel>Плодородный дождь</VEE_FertileRains.letterLabel>
+  <VEE_FertileRains.letterText>Регион охватили необычайно богатые питательными веществами дожди. Пока они идут, растения растут быстрее.</VEE_FertileRains.letterText>
+  <VEE_Infestation.label>насекомые</VEE_Infestation.label>
+  <VEE_Infestation.letterLabel>Насекомые!</VEE_Infestation.letterLabel>
+  <VEE_Infestation.letterText>К вам роют ходы гигантские насекомые! Через несколько секунд они выберутся на поверхность и устроят ульи.
+
+Ульи будут порождать новых насекомых и новые ульи.
+
+Чтобы насекомые не заполонили всю местность, уничтожьте ульи. Но берегитесь: они будут защищать свой дом.</VEE_Infestation.letterText>
+  <VEE_MigratoryHerds.label>миграция животных</VEE_MigratoryHerds.label>
+  <VEE_MigratoryHerds.letterLabel>{0} мигрируют</VEE_MigratoryHerds.letterLabel>
+  <VEE_MigratoryHerds.letterText>Через эту местность проходит группа животных: {0}.
+
+Они не нападут, если их не провоцировать.</VEE_MigratoryHerds.letterText>
+  <VEE_TidalFloodingIncident.label>приливное наводнение</VEE_TidalFloodingIncident.label>
+  <VEE_TornadoAlley.label>смерч</VEE_TornadoAlley.label>
+</LanguageData>

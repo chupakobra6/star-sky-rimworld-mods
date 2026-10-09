@@ -1,0 +1,119 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VQE_Technophobia.description>Человечество должно отвергнуть технологии, ведь они несут нам раздор и катастрофы.</VQE_Technophobia.description>
+  <VQE_Technophobia.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Technophobic)        -&gt;[deity0_name] учит человечество выживать силой собственных рук и чистотой природы, предупреждая, что машины принесут лишь погибель.</li>
+    <li>episode(uses=1,tag=meme_Technophobic)  -&gt;Когда человечество обращается к машинам, [deity0_name] плачет и насылает бури, чтобы смыть скверну людской гордыни.</li>
+    <li>intro(tag=meme_Technophobic)           -&gt;[memberNamePlural] собрались в тени места «[place_name]», куда ещё не проникли машины, и поклялись следовать путём простоты и равновесия.</li>
+    <li>conflict(tag=meme_Technophobic)        -&gt;Жестокий [foeLeader] стремился принести машины в священные земли, где жили [memberNamePlural], и началась отчаянная борьба за выживание.</li>
+    <li>founderJoin(tag=meme_Technophobic)     -&gt;[founderName], по занятию [place_job], ведёт наступление: врагом стали [foeSoldiers], а единственным оружием — земледельческие орудия и сила [founder_possessive] последователей.</li>
+    <li>victory(tag=meme_Technophobic)         -&gt;[founderName] обращается с призывом, и [memberNamePlural] сплачиваются, чтобы уничтожить заводы, которыми владеет [foeLeader], очистить землю от машин и восстановить гармонию.</li>
+    <li>setup(tag=meme_Technophobic)           -&gt;[founderName] видит крах общества, построенного на машинах, и клянётся не дать человечеству повторить свои ошибки.</li>
+    <li>story(uses=1,tag=meme_Technophobic)    -&gt;[founderName] собирает единомышленников, уча их отвергать технологии и жить своими силами в гармонии с природой.</li>
+    <li>lessonIntro(tag=meme_Technophobic)         -&gt;Старейшины открыли мне истину, звучавшую сквозь века:</li>
+    <li>lesson(tag=meme_Technophobic)              -&gt;зависимость от машин делает нас уязвимыми, и только простота позволит нам выстоять</li>
+    <li>lessonReinforcement(tag=meme_Technophobic) -&gt;Это происходило у меня на глазах: великие города рушились, бессильные перед собственной гордыней.</li>
+    <li>archistBasis(tag=meme_Technophobic)    -&gt;Архотеки отвернулись от человечества, увидев в нас рабов собственных машин. Лишь отказавшись от технологий, мы сможем вернуть их благосклонность.</li>
+    <li>archistFact(tag=meme_Technophobic)     -&gt;Машины притупляют дух и ослабляют разум, всё дальше уводя человечество от просветления архотеков.</li>
+    <li>archistProphecy(tag=meme_Technophobic) -&gt;[inTheEnd], когда архотеки очистят мир, пощадят лишь тех, кто живёт в чистоте, без машин.</li>
+    <li>animistBasis(tag=meme_Technophobic)    -&gt;У всего живого есть дух, а бездушные машины нарушают гармонию природы.</li>
+    <li>animistFact(tag=meme_Technophobic)     -&gt;Там, где ступают машины, духи земли слабеют: их сила истощается и оскверняется.</li>
+    <li>animistProphecy(tag=meme_Technophobic) -&gt;[itIsSaid], что когда умолкнет последняя машина, духи вернутся и исцелят мир.</li>
+    <li>eschatologismFact(tag=meme_Technophobic)-&gt;Машины — предвестники апокалипсиса, и их творения будут отравлять землю, пока от неё не останутся лишь пепел и руины.</li>
+    <li>eschatologismProphecy(tag=meme_Technophobic)-&gt;[inTheEnd] машины обратятся против своих создателей и будут сеять разруху, пока не останутся лишь те, кто отвергает технологии.</li>
+    <li>introMemo(tag=meme_Technophobic)-&gt;Кому: всем сотрудникам
+От: отдела устойчивого развития
+Тема: обновление политики использования технологий
+
+С настоящего момента всё оборудование, не являющееся жизненно необходимым, подлежит постепенному выводу из эксплуатации. Помните: наши предки процветали без этих устройств, и мы тоже сможем. Постоянная зависимость от технологий подрывает нашу стойкость и создаёт долгосрочные риски для целей устойчивого развития. Покажем пример и продемонстрируем силу самостоятельности. Соблюдение требований будет строго контролироваться.</li>
+    <li>chthonianProphecy(tag=meme_Technophobic)-&gt;[itIsSaid], что машины — лишь орудия тёмных сил из глубин, а каждый поворот шестерни приближает их владычество.</li>
+    <li>serketistProphecy(tag=meme_Technophobic)-&gt;Насекомые процветают без машин, преподавая забытый человечеством урок стойкости.</li>
+    <li>alienistProphecy(tag=meme_Technophobic)-&gt;Именно машины создали этих ужасающих существ, поэтому мы должны отвергнуть технологии как источник великого зла.</li>
+  </VQE_Technophobia.descriptionMaker.rules.rulesStrings>
+  <VQE_Technophobia.generalRules.rulesStrings>
+    <li>memeAdjective_masc-&gt;первобытный</li>
+    <li>memeAdjective_fem-&gt;первобытная</li>
+    <li>memeAdjective_neutral-&gt;первобытное</li>
+    <li>memeAdjective_plural-&gt;первобытные</li>
+    <li>memeAdjective_masc-&gt;природный</li>
+    <li>memeAdjective_fem-&gt;природная</li>
+    <li>memeAdjective_neutral-&gt;природное</li>
+    <li>memeAdjective_plural-&gt;природные</li>
+    <li>memeAdjective_masc-&gt;органический</li>
+    <li>memeAdjective_fem-&gt;органическая</li>
+    <li>memeAdjective_neutral-&gt;органическое</li>
+    <li>memeAdjective_plural-&gt;органические</li>
+    <li>memeAdjective_masc-&gt;традиционный</li>
+    <li>memeAdjective_fem-&gt;традиционная</li>
+    <li>memeAdjective_neutral-&gt;традиционное</li>
+    <li>memeAdjective_plural-&gt;традиционные</li>
+    <li>memeAdjective_masc-&gt;деревенский</li>
+    <li>memeAdjective_fem-&gt;деревенская</li>
+    <li>memeAdjective_neutral-&gt;деревенское</li>
+    <li>memeAdjective_plural-&gt;деревенские</li>
+    <li>memeCreed-&gt;путь</li>
+    <li>memeCreed-&gt;движение</li>
+    <li>memeCreed-&gt;круг</li>
+    <li>memeCreed-&gt;учение</li>
+    <li>memeCreed-&gt;вера</li>
+    <li>memeHyphenPrefix-&gt;анти</li>
+    <li>memeHyphenPrefix-&gt;земле</li>
+    <li>memeHyphenPrefix-&gt;пост</li>
+    <li>memeHyphenPrefix-&gt;нео</li>
+    <li>memeHyphenPrefix-&gt;ржаво</li>
+    <li>memeConcept-&gt;человечества</li>
+    <li>memeConcept-&gt;природы</li>
+    <li>memeConcept-&gt;чистоты</li>
+    <li>memeConcept-&gt;равновесия</li>
+    <li>memeConcept-&gt;простоты</li>
+    <li>memeLeaderNoun-&gt;арбитр</li>
+    <li>memeLeaderNoun-&gt;провидец</li>
+    <li>memeLeaderNoun-&gt;хранитель</li>
+    <li>memeLeaderNoun-&gt;мудрец</li>
+    <li>memeLeaderNoun-&gt;пророк</li>
+    <li>memeLeaderAdjective-&gt;природный</li>
+    <li>memeLeaderAdjective-&gt;первобытный</li>
+    <li>memeLeaderAdjective-&gt;земной</li>
+    <li>memeLeaderAdjective-&gt;аскетичный</li>
+    <li>memeLeaderAdjective-&gt;чистый</li>
+    <li>memeMoralist-&gt;блюститель</li>
+    <li>memeMoralist-&gt;защитник</li>
+    <li>memeMoralist-&gt;страж</li>
+    <li>memeMoralist-&gt;оберегатель</li>
+    <li>memeMoralist-&gt;наставник</li>
+    <li>memeCreed_masc-&gt;путь</li>
+    <li>memeCreed_neutral-&gt;движение</li>
+    <li>memeCreed_masc-&gt;круг</li>
+    <li>memeCreed_neutral-&gt;учение</li>
+    <li>memeCreed_fem-&gt;вера</li>
+  </VQE_Technophobia.generalRules.rulesStrings>
+  <VQE_Technophobia.label>технофобия</VQE_Technophobia.label>
+  <VQE_Technophobia.symbolPacks.0.adjective>пуристский</VQE_Technophobia.symbolPacks.0.adjective>
+  <VQE_Technophobia.symbolPacks.0.ideoName>Пуризм</VQE_Technophobia.symbolPacks.0.ideoName>
+  <VQE_Technophobia.symbolPacks.0.member>пурист</VQE_Technophobia.symbolPacks.0.member>
+  <VQE_Technophobia.symbolPacks.0.theme>чистоты</VQE_Technophobia.symbolPacks.0.theme>
+  <VQE_Technophobia.symbolPacks.1.adjective>натуралистический</VQE_Technophobia.symbolPacks.1.adjective>
+  <VQE_Technophobia.symbolPacks.1.ideoName>Натурализм</VQE_Technophobia.symbolPacks.1.ideoName>
+  <VQE_Technophobia.symbolPacks.1.member>натуралист</VQE_Technophobia.symbolPacks.1.member>
+  <VQE_Technophobia.symbolPacks.1.theme>природы</VQE_Technophobia.symbolPacks.1.theme>
+  <VQE_Technophobia.symbolPacks.2.adjective>традиционалистский</VQE_Technophobia.symbolPacks.2.adjective>
+  <VQE_Technophobia.symbolPacks.2.ideoName>Традиционализм</VQE_Technophobia.symbolPacks.2.ideoName>
+  <VQE_Technophobia.symbolPacks.2.member>традиционалист</VQE_Technophobia.symbolPacks.2.member>
+  <VQE_Technophobia.symbolPacks.2.theme>традиции</VQE_Technophobia.symbolPacks.2.theme>
+  <VQE_Technophobia.symbolPacks.3.adjective>примитивистский</VQE_Technophobia.symbolPacks.3.adjective>
+  <VQE_Technophobia.symbolPacks.3.ideoName>Примитивизм</VQE_Technophobia.symbolPacks.3.ideoName>
+  <VQE_Technophobia.symbolPacks.3.member>примитивист</VQE_Technophobia.symbolPacks.3.member>
+  <VQE_Technophobia.symbolPacks.3.theme>первобытности</VQE_Technophobia.symbolPacks.3.theme>
+  <VQE_Technophobia.symbolPacks.4.adjective>отреченческий</VQE_Technophobia.symbolPacks.4.adjective>
+  <VQE_Technophobia.symbolPacks.4.ideoName>Отречение</VQE_Technophobia.symbolPacks.4.ideoName>
+  <VQE_Technophobia.symbolPacks.4.member>отреченец</VQE_Technophobia.symbolPacks.4.member>
+  <VQE_Technophobia.symbolPacks.4.theme>отречения</VQE_Technophobia.symbolPacks.4.theme>
+  <VQE_Technophobia.symbolPacks.5.adjective>выживальческий</VQE_Technophobia.symbolPacks.5.adjective>
+  <VQE_Technophobia.symbolPacks.5.ideoName>Выживальчество</VQE_Technophobia.symbolPacks.5.ideoName>
+  <VQE_Technophobia.symbolPacks.5.member>выживальщик</VQE_Technophobia.symbolPacks.5.member>
+  <VQE_Technophobia.symbolPacks.5.theme>выживания</VQE_Technophobia.symbolPacks.5.theme>
+  <VQE_Technophobia.symbolPacks.6.adjective>простой</VQE_Technophobia.symbolPacks.6.adjective>
+  <VQE_Technophobia.symbolPacks.6.ideoName>Простота</VQE_Technophobia.symbolPacks.6.ideoName>
+  <VQE_Technophobia.symbolPacks.6.member>сторонник простоты</VQE_Technophobia.symbolPacks.6.member>
+  <VQE_Technophobia.symbolPacks.6.theme>простоты</VQE_Technophobia.symbolPacks.6.theme>
+</LanguageData>

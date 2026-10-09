@@ -1,0 +1,101 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VEE_AnimaCrackedSoil.label>растрескавшаяся почва души</VEE_AnimaCrackedSoil.label>
+  <VEE_AnimaCrackedSoil.tools.0.label>грязь</VEE_AnimaCrackedSoil.tools.0.label>
+  <VEE_AnimaSand.label>песок души</VEE_AnimaSand.label>
+  <VEE_AnimaSand.tools.0.label>песок</VEE_AnimaSand.tools.0.label>
+  <VEE_AnimaSoftSand.label>мягкий песок души</VEE_AnimaSoftSand.label>
+  <VEE_AnimaSoftSand.tools.0.label>песок</VEE_AnimaSoftSand.tools.0.label>
+  <VEE_AnimaSoil.label>почва души</VEE_AnimaSoil.label>
+  <VEE_AnimaSoil.tools.0.label>земля</VEE_AnimaSoil.tools.0.label>
+  <VEE_AnimaSoilRich.label>зачарованная почва души</VEE_AnimaSoilRich.label>
+  <VEE_AnimaSoilRich.tools.0.label>земля</VEE_AnimaSoilRich.tools.0.label>
+  <VEE_AnimaWaterDeep.label>глубокая вода души</VEE_AnimaWaterDeep.label>
+  <VEE_AnimaWaterDeep.tools.0.label>вода</VEE_AnimaWaterDeep.tools.0.label>
+  <VEE_AnimaWaterMovingChestDeep.label>течение по грудь (вода души)</VEE_AnimaWaterMovingChestDeep.label>
+  <VEE_AnimaWaterMovingChestDeep.tools.0.label>вода</VEE_AnimaWaterMovingChestDeep.tools.0.label>
+  <VEE_AnimaWaterMovingShallow.label>мелководное течение (вода души)</VEE_AnimaWaterMovingShallow.label>
+  <VEE_AnimaWaterMovingShallow.tools.0.label>вода</VEE_AnimaWaterMovingShallow.tools.0.label>
+  <VEE_AnimaWaterOceanDeep.label>глубины океана (вода души)</VEE_AnimaWaterOceanDeep.label>
+  <VEE_AnimaWaterOceanDeep.tools.0.label>вода</VEE_AnimaWaterOceanDeep.tools.0.label>
+  <VEE_AnimaWaterOceanShallow.label>мелководье океана (вода души)</VEE_AnimaWaterOceanShallow.label>
+  <VEE_AnimaWaterOceanShallow.tools.0.label>вода</VEE_AnimaWaterOceanShallow.tools.0.label>
+  <VEE_AnimaWaterShallow.label>мелководье (вода души)</VEE_AnimaWaterShallow.label>
+  <VEE_AnimaWaterShallow.tools.0.label>вода</VEE_AnimaWaterShallow.tools.0.label>
+  <VEE_Basalt.label>базальт</VEE_Basalt.label>
+  <VEE_BurntForestSoil.label>выжженный лесной грунт</VEE_BurntForestSoil.label>
+  <VEE_DenseSnow_Rough.description>Грубый природный плотный снег.</VEE_DenseSnow_Rough.description>
+  <VEE_DenseSnow_Rough.label>грубый плотный снег</VEE_DenseSnow_Rough.label>
+  <VEE_DenseSnow_RoughHewn.description>Обтёсанный природный плотный снег.</VEE_DenseSnow_RoughHewn.description>
+  <VEE_DenseSnow_RoughHewn.label>обтёсанный плотный снег</VEE_DenseSnow_RoughHewn.label>
+  <VEE_DenseSnow_Smooth.description>Гладкий природный плотный снег.</VEE_DenseSnow_Smooth.description>
+  <VEE_DenseSnow_Smooth.label>гладкий плотный снег</VEE_DenseSnow_Smooth.label>
+  <VEE_DryRiverBank.label>сухой берег реки</VEE_DryRiverBank.label>
+  <VEE_DryRiverBank.tools.0.label>песок</VEE_DryRiverBank.tools.0.label>
+  <VEE_DryRiverBed.label>сухое русло реки</VEE_DryRiverBed.label>
+  <VEE_DryRiverBed.tools.0.label>песок</VEE_DryRiverBed.tools.0.label>
+  <VEE_FertileRiverbank.label>плодородный берег реки</VEE_FertileRiverbank.label>
+  <VEE_FertileRiverbank.tools.0.label>земля</VEE_FertileRiverbank.tools.0.label>
+  <VEE_GravelBeach.label>гравийный пляж</VEE_GravelBeach.label>
+  <VEE_GravelBeach.tools.0.label>гравий</VEE_GravelBeach.tools.0.label>
+  <VEE_IrradiatedOceanWaterDeep.label>облучённые глубины океана</VEE_IrradiatedOceanWaterDeep.label>
+  <VEE_IrradiatedOceanWaterDeep.tools.0.label>вода</VEE_IrradiatedOceanWaterDeep.tools.0.label>
+  <VEE_IrradiatedSoil.label>облучённая почва</VEE_IrradiatedSoil.label>
+  <VEE_IrradiatedSoil.tools.0.label>песок</VEE_IrradiatedSoil.tools.0.label>
+  <VEE_IrradiatedWaterDeep.label>глубокая облучённая вода</VEE_IrradiatedWaterDeep.label>
+  <VEE_IrradiatedWaterDeep.tools.0.label>вода</VEE_IrradiatedWaterDeep.tools.0.label>
+  <VEE_IrradiatedWaterDeepMovingChestDeep.label>облучённое течение по грудь</VEE_IrradiatedWaterDeepMovingChestDeep.label>
+  <VEE_IrradiatedWaterDeepMovingChestDeep.tools.0.label>вода</VEE_IrradiatedWaterDeepMovingChestDeep.tools.0.label>
+  <VEE_IrradiatedWaterFlood.label>мелководный облучённый разлив</VEE_IrradiatedWaterFlood.label>
+  <VEE_IrradiatedWaterFlood.tools.0.label>вода</VEE_IrradiatedWaterFlood.tools.0.label>
+  <VEE_IrradiatedWaterMovingShallow.label>облучённое мелководное течение</VEE_IrradiatedWaterMovingShallow.label>
+  <VEE_IrradiatedWaterMovingShallow.tools.0.label>вода</VEE_IrradiatedWaterMovingShallow.tools.0.label>
+  <VEE_IrradiatedWaterOceanShallow.label>облучённое мелководье океана</VEE_IrradiatedWaterOceanShallow.label>
+  <VEE_IrradiatedWaterOceanShallow.tools.0.label>вода</VEE_IrradiatedWaterOceanShallow.tools.0.label>
+  <VEE_IrradiatedWaterShallow.label>облучённое мелководье</VEE_IrradiatedWaterShallow.label>
+  <VEE_IrradiatedWaterShallow.tools.0.label>вода</VEE_IrradiatedWaterShallow.tools.0.label>
+  <VEE_LittoralDuneSand.label>песок прибрежной дюны</VEE_LittoralDuneSand.label>
+  <VEE_LittoralDuneSand.tools.0.label>песок</VEE_LittoralDuneSand.tools.0.label>
+  <VEE_MossySoil.label>замшелый грунт</VEE_MossySoil.label>
+  <VEE_PebbleDunes.label>галька</VEE_PebbleDunes.label>
+  <VEE_PebbleDunes.tools.0.label>гравий</VEE_PebbleDunes.tools.0.label>
+  <VEE_Quicksand.label>зыбучий песок</VEE_Quicksand.label>
+  <VEE_RedSand.label>красный песок</VEE_RedSand.label>
+  <VEE_RedSand.tools.0.label>песок</VEE_RedSand.tools.0.label>
+  <VEE_RedSoftSand.label>красный мягкий песок</VEE_RedSoftSand.label>
+  <VEE_RedSoftSand.tools.0.label>песок</VEE_RedSoftSand.tools.0.label>
+  <VEE_RuinedFarmland.label>заброшенная пашня</VEE_RuinedFarmland.label>
+  <VEE_RuinedFarmland.tools.0.label>гравий</VEE_RuinedFarmland.tools.0.label>
+  <VEE_Salt.label>соль</VEE_Salt.label>
+  <VEE_Salt.tools.0.label>песок</VEE_Salt.tools.0.label>
+  <VEE_SaltySand.label>солёный песок</VEE_SaltySand.label>
+  <VEE_SaltySand.tools.0.label>песок</VEE_SaltySand.tools.0.label>
+  <VEE_SoftVolcanicSand.label>вулканический мягкий песок</VEE_SoftVolcanicSand.label>
+  <VEE_SoftVolcanicSand.tools.0.label>песок</VEE_SoftVolcanicSand.tools.0.label>
+  <VEE_StagnantRiverWater.label>застойная речная вода</VEE_StagnantRiverWater.label>
+  <VEE_StagnantRiverWater.tools.0.label>вода</VEE_StagnantRiverWater.tools.0.label>
+  <VEE_StagnantRiverWater.tools.1.label>грязь</VEE_StagnantRiverWater.tools.1.label>
+  <VEE_SulfuricWaterDeep.label>глубокая серная вода</VEE_SulfuricWaterDeep.label>
+  <VEE_SulfuricWaterDeep.tools.0.label>вода</VEE_SulfuricWaterDeep.tools.0.label>
+  <VEE_SulfuricWaterDeepMovingChestDeep.label>серное течение по грудь</VEE_SulfuricWaterDeepMovingChestDeep.label>
+  <VEE_SulfuricWaterDeepMovingChestDeep.tools.0.label>вода</VEE_SulfuricWaterDeepMovingChestDeep.tools.0.label>
+  <VEE_SulfuricWaterFlood.label>мелководный серный разлив</VEE_SulfuricWaterFlood.label>
+  <VEE_SulfuricWaterFlood.tools.0.label>вода</VEE_SulfuricWaterFlood.tools.0.label>
+  <VEE_SulfuricWaterMovingShallow.label>серное мелководное течение</VEE_SulfuricWaterMovingShallow.label>
+  <VEE_SulfuricWaterMovingShallow.tools.0.label>вода</VEE_SulfuricWaterMovingShallow.tools.0.label>
+  <VEE_SulfuricWaterShallow.label>серное мелководье</VEE_SulfuricWaterShallow.label>
+  <VEE_SulfuricWaterShallow.tools.0.label>вода</VEE_SulfuricWaterShallow.tools.0.label>
+  <VEE_SwampyWaterMovingChestDeep.label>болотное течение по грудь</VEE_SwampyWaterMovingChestDeep.label>
+  <VEE_SwampyWaterMovingChestDeep.tools.0.label>вода</VEE_SwampyWaterMovingChestDeep.tools.0.label>
+  <VEE_SwampyWaterMovingShallow.label>болотное мелководное течение</VEE_SwampyWaterMovingShallow.label>
+  <VEE_SwampyWaterMovingShallow.tools.0.label>вода</VEE_SwampyWaterMovingShallow.tools.0.label>
+  <VEE_TidalFloodwater.label>приливная паводковая вода</VEE_TidalFloodwater.label>
+  <VEE_TidalFloodwater.tools.0.label>вода</VEE_TidalFloodwater.tools.0.label>
+  <VEE_TropicalBeachSand.label>тропический пляжный песок</VEE_TropicalBeachSand.label>
+  <VEE_TropicalBeachSand.tools.0.label>песок</VEE_TropicalBeachSand.tools.0.label>
+  <VEE_VolcanicAsh.label>ударный реголит</VEE_VolcanicAsh.label>
+  <VEE_VolcanicSand.label>вулканический песок</VEE_VolcanicSand.label>
+  <VEE_VolcanicSand.tools.0.label>песок</VEE_VolcanicSand.tools.0.label>
+  <VEE_VolcanicSoilRich.label>плодородная вулканическая почва</VEE_VolcanicSoilRich.label>
+  <VEE_VolcanicSoilRich.tools.0.label>земля</VEE_VolcanicSoilRich.tools.0.label>
+</LanguageData>

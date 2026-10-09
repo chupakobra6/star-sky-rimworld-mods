@@ -1,0 +1,17 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <TD.ReplaceStuff>Replace Stuff — замена материалов</TD.ReplaceStuff>
+  <TD.Replace>Заменить материал</TD.Replace>
+  <TD.ReplaceDesc>Заменить материал постройки, например перестроить деревянную стену в каменную.</TD.ReplaceDesc>
+  <TD.ReplacingTag> (замена материала)</TD.ReplacingTag>
+  <TD.ToggleBlueprintOverRock>Размещать проекты поверх горной породы</TD.ToggleBlueprintOverRock>
+  <TD.SettingsNoOverwallCoolers>Скрыть настенные кондиционеры и вентиляцию в меню строительства</TD.SettingsNoOverwallCoolers>
+  <TD.SettingsNoNormalCoolers>Скрыть обычные кондиционеры и вентиляцию в меню строительства</TD.SettingsNoNormalCoolers>
+  <TD.SettingsCornerBuildable>Строить и добывать угловые клетки изнутри</TD.SettingsCornerBuildable>
+  <TD.SettingsCornerBuildableDesc>Эта возможность иногда мешает поиску пути. Если персонажи странно выбирают маршрут, попробуйте её отключить.</TD.SettingsCornerBuildableDesc>
+  <TD.IncapableOfSmoothing>не способен сглаживать камень</TD.IncapableOfSmoothing>
+  <TD.FailedStuffBeingReplaced>идёт замена материала</TD.FailedStuffBeingReplaced>
+  <TD.SettingsPreferredBridge>Приоритет мостов, автоматически размещаемых под постройками:</TD.SettingsPreferredBridge>
+  <TD.SettingsBridgeResources>Сначала выбираются мосты, для которых хватает ресурсов, затем учитывается порядок в этом списке. Чтобы изменить его, перетащите строки.</TD.SettingsBridgeResources>
+  <TD.ReplacementAlreadyInProgess>Замена материала уже начата.</TD.ReplacementAlreadyInProgess>
+</LanguageData>

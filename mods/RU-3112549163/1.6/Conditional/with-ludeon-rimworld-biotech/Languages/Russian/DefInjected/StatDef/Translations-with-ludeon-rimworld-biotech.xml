@@ -1,0 +1,86 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AimingDelayFactor.parts.1.label>Поправка от механитора</AimingDelayFactor.parts.1.label>
+  <AimingDelayFactor.parts.2.label>Множитель от механитора</AimingDelayFactor.parts.2.label>
+  <EBSG_AimingDelayFactorFactorMech.description>Множитель времени прицеливания у механоидов этого механитора.</EBSG_AimingDelayFactorFactorMech.description>
+  <EBSG_AimingDelayFactorFactorMech.label>множитель времени прицеливания механоидов</EBSG_AimingDelayFactorFactorMech.label>
+  <EBSG_AimingDelayFactorOffsetMech.description>Поправка к множителю времени прицеливания у механоидов этого механитора. Прибавляется к характеристике; может быть отрицательной.</EBSG_AimingDelayFactorOffsetMech.description>
+  <EBSG_AimingDelayFactorOffsetMech.label>поправка к множителю времени прицеливания механоидов</EBSG_AimingDelayFactorOffsetMech.label>
+  <EBSG_ArmorRating_BluntFactorMech.description>Множитель брони от тупого урона у механоидов этого механитора.</EBSG_ArmorRating_BluntFactorMech.description>
+  <EBSG_ArmorRating_BluntFactorMech.label>множитель брони от тупого урона механоидов</EBSG_ArmorRating_BluntFactorMech.label>
+  <EBSG_ArmorRating_BluntOffsetMech.description>Поправка к броне от тупого урона у механоидов этого механитора. Прибавляется к характеристике; может быть отрицательной.</EBSG_ArmorRating_BluntOffsetMech.description>
+  <EBSG_ArmorRating_BluntOffsetMech.label>поправка к броне от тупого урона механоидов</EBSG_ArmorRating_BluntOffsetMech.label>
+  <EBSG_ArmorRating_SharpFactorMech.description>Множитель брони от острого урона у механоидов этого механитора.</EBSG_ArmorRating_SharpFactorMech.description>
+  <EBSG_ArmorRating_SharpFactorMech.label>множитель брони от острого урона механоидов</EBSG_ArmorRating_SharpFactorMech.label>
+  <EBSG_ArmorRating_SharpOffsetMech.description>Поправка к броне от острого урона у механоидов этого механитора. Прибавляется к характеристике; может быть отрицательной.</EBSG_ArmorRating_SharpOffsetMech.description>
+  <EBSG_ArmorRating_SharpOffsetMech.label>поправка к броне от острого урона механоидов</EBSG_ArmorRating_SharpOffsetMech.label>
+  <EBSG_BandwidthCostFactorMech.description>Множитель нагрузки на сеть у механоидов этого механитора.</EBSG_BandwidthCostFactorMech.description>
+  <EBSG_BandwidthCostFactorMech.label>множитель нагрузки на сеть механоидов</EBSG_BandwidthCostFactorMech.label>
+  <EBSG_BandwidthCostOffsetMech.description>Поправка к нагрузке на сеть у механоидов этого механитора. Прибавляется к характеристике; может быть отрицательной.</EBSG_BandwidthCostOffsetMech.description>
+  <EBSG_BandwidthCostOffsetMech.label>поправка к нагрузке на сеть механоидов</EBSG_BandwidthCostOffsetMech.label>
+  <EBSG_DeathrestEfficiency.description>Изменяет скорость прохождения коматозного отдыха. Чем выше значение, тем меньше времени нужно провести в коме, чтобы избежать штрафа за прерванный отдых.</EBSG_DeathrestEfficiency.description>
+  <EBSG_DeathrestEfficiency.label>эффективность коматозного отдыха</EBSG_DeathrestEfficiency.label>
+  <EBSG_DeathrestFallRate.description>Множитель скорости расходования запаса коматозного отдыха. Чем выше значение, тем чаще требуется отдыхать.</EBSG_DeathrestFallRate.description>
+  <EBSG_DeathrestFallRate.label>скорость расхода коматозного отдыха</EBSG_DeathrestFallRate.label>
+  <EBSG_DeathrestRiseRate.description>Множитель скорости заполнения потребности в коматозном отдыхе. Чем выше значение, тем быстрее восстанавливается запас отдыха. Действует совместно с эффективностью коматозного отдыха.</EBSG_DeathrestRiseRate.description>
+  <EBSG_DeathrestRiseRate.label>скорость восстановления при коматозном отдыхе</EBSG_DeathrestRiseRate.label>
+  <EBSG_EMPResistanceFactorMech.description>Множитель сопротивления ЭМИ у механоидов этого механитора.</EBSG_EMPResistanceFactorMech.description>
+  <EBSG_EMPResistanceFactorMech.label>множитель сопротивления ЭМИ механоидов</EBSG_EMPResistanceFactorMech.label>
+  <EBSG_EMPResistanceOffsetMech.description>Поправка к сопротивлению ЭМИ у механоидов этого механитора. Прибавляется к характеристике; может быть отрицательной.</EBSG_EMPResistanceOffsetMech.description>
+  <EBSG_EMPResistanceOffsetMech.label>поправка к сопротивлению ЭМИ механоидов</EBSG_EMPResistanceOffsetMech.label>
+  <EBSG_GrowthPointRate.description>Множитель скорости получения очков роста. Усиливает влияние высокого уровня обучения, капсул роста и других источников очков.</EBSG_GrowthPointRate.description>
+  <EBSG_GrowthPointRate.label>скорость получения очков роста</EBSG_GrowthPointRate.label>
+  <EBSG_HemogenMaxFactor.description>Множитель максимального запаса гемогена. Значение 200% увеличивает запас со 100 до 200 единиц. Применяется также к предварительно добавленной поправке к запасу.</EBSG_HemogenMaxFactor.description>
+  <EBSG_HemogenMaxFactor.label>множитель запаса гемогена</EBSG_HemogenMaxFactor.label>
+  <EBSG_HemogenMaxOffset.description>Прибавка к максимальному запасу гемогена. Значение 200% увеличивает запас со 100 до 300 единиц. Применяется до множителя максимального запаса.</EBSG_HemogenMaxOffset.description>
+  <EBSG_HemogenMaxOffset.label>поправка к запасу гемогена</EBSG_HemogenMaxOffset.label>
+  <EBSG_IncomingDamageFactorFactorMech.description>Множитель получаемого урона у механоидов этого механитора.</EBSG_IncomingDamageFactorFactorMech.description>
+  <EBSG_IncomingDamageFactorFactorMech.label>множитель получаемого урона механоидов</EBSG_IncomingDamageFactorFactorMech.label>
+  <EBSG_IncomingDamageFactorOffsetMech.description>Поправка к множителю получаемого урона у механоидов этого механитора. Прибавляется к характеристике; может быть отрицательной.</EBSG_IncomingDamageFactorOffsetMech.description>
+  <EBSG_IncomingDamageFactorOffsetMech.label>поправка к множителю получаемого урона механоидов</EBSG_IncomingDamageFactorOffsetMech.label>
+  <EBSG_KillThirstRate.description>Изменяет время до обострения жажды убийств. Чем выше значение, тем чаще персонажу нужно убивать, чтобы поддерживать хорошее настроение.</EBSG_KillThirstRate.description>
+  <EBSG_KillThirstRate.label>скорость нарастания жажды убийств</EBSG_KillThirstRate.label>
+  <EBSG_MechEnergyLossPerHPFactorMech.description>Множитель затрат энергии на ремонт у механоидов этого механитора.</EBSG_MechEnergyLossPerHPFactorMech.description>
+  <EBSG_MechEnergyLossPerHPFactorMech.label>множитель затрат энергии на ремонт механоидов</EBSG_MechEnergyLossPerHPFactorMech.label>
+  <EBSG_MechEnergyLossPerHPOffsetMech.description>Поправка к затратам энергии на ремонт у механоидов этого механитора. Прибавляется к характеристике; может быть отрицательной.</EBSG_MechEnergyLossPerHPOffsetMech.description>
+  <EBSG_MechEnergyLossPerHPOffsetMech.label>поправка к затратам энергии на ремонт механоидов</EBSG_MechEnergyLossPerHPOffsetMech.label>
+  <EBSG_MeleeDamageFactorFactorMech.description>Множитель урона в ближнем бою у механоидов этого механитора.</EBSG_MeleeDamageFactorFactorMech.description>
+  <EBSG_MeleeDamageFactorFactorMech.label>множитель урона в ближнем бою механоидов</EBSG_MeleeDamageFactorFactorMech.label>
+  <EBSG_MeleeDamageFactorOffsetMech.description>Поправка к множителю урона в ближнем бою у механоидов этого механитора. Прибавляется к характеристике; может быть отрицательной.</EBSG_MeleeDamageFactorOffsetMech.description>
+  <EBSG_MeleeDamageFactorOffsetMech.label>поправка к множителю урона в ближнем бою механоидов</EBSG_MeleeDamageFactorOffsetMech.label>
+  <EBSG_MeleeDodgeChanceFactorMech.description>Множитель вероятности уклонения в ближнем бою у механоидов этого механитора.</EBSG_MeleeDodgeChanceFactorMech.description>
+  <EBSG_MeleeDodgeChanceFactorMech.label>множитель вероятности уклонения в ближнем бою механоидов</EBSG_MeleeDodgeChanceFactorMech.label>
+  <EBSG_MeleeDodgeChanceOffsetMech.description>Поправка к вероятности уклонения в ближнем бою у механоидов этого механитора. Прибавляется к характеристике; может быть отрицательной.</EBSG_MeleeDodgeChanceOffsetMech.description>
+  <EBSG_MeleeDodgeChanceOffsetMech.label>поправка к вероятности уклонения в ближнем бою механоидов</EBSG_MeleeDodgeChanceOffsetMech.label>
+  <EBSG_MeleeHitChanceFactorMech.description>Множитель вероятности попадания в ближнем бою у механоидов этого механитора.</EBSG_MeleeHitChanceFactorMech.description>
+  <EBSG_MeleeHitChanceFactorMech.label>множитель вероятности попадания в ближнем бою механоидов</EBSG_MeleeHitChanceFactorMech.label>
+  <EBSG_MeleeHitChanceOffsetMech.description>Поправка к вероятности попадания в ближнем бою у механоидов этого механитора. Прибавляется к характеристике; может быть отрицательной.</EBSG_MeleeHitChanceOffsetMech.description>
+  <EBSG_MeleeHitChanceOffsetMech.label>поправка к вероятности попадания в ближнем бою механоидов</EBSG_MeleeHitChanceOffsetMech.label>
+  <EBSG_MoveSpeedFactorMech.description>Множитель скорости передвижения у механоидов этого механитора.</EBSG_MoveSpeedFactorMech.description>
+  <EBSG_MoveSpeedFactorMech.label>множитель скорости передвижения механоидов</EBSG_MoveSpeedFactorMech.label>
+  <EBSG_MoveSpeedOffsetMech.description>Поправка к скорости передвижения у механоидов этого механитора. Прибавляется к характеристике; может быть отрицательной.</EBSG_MoveSpeedOffsetMech.description>
+  <EBSG_MoveSpeedOffsetMech.formatString>{0} кл/с</EBSG_MoveSpeedOffsetMech.formatString>
+  <EBSG_MoveSpeedOffsetMech.label>поправка к скорости передвижения механоидов</EBSG_MoveSpeedOffsetMech.label>
+  <EBSG_OutgoingDamageFactor.parts.0.label>Поправка от механитора</EBSG_OutgoingDamageFactor.parts.0.label>
+  <EBSG_OutgoingDamageFactor.parts.1.label>Множитель от механитора</EBSG_OutgoingDamageFactor.parts.1.label>
+  <EBSG_OutgoingDamageFactorFactorMech.description>Множитель наносимого урона у механоидов этого механитора.</EBSG_OutgoingDamageFactorFactorMech.description>
+  <EBSG_OutgoingDamageFactorFactorMech.label>множитель наносимого урона механоидов</EBSG_OutgoingDamageFactorFactorMech.label>
+  <EBSG_OutgoingDamageFactorOffsetMech.description>Поправка к множителю наносимого урона у механоидов этого механитора. Прибавляется к характеристике; может быть отрицательной.</EBSG_OutgoingDamageFactorOffsetMech.description>
+  <EBSG_OutgoingDamageFactorOffsetMech.label>поправка к множителю наносимого урона механоидов</EBSG_OutgoingDamageFactorOffsetMech.label>
+  <EBSG_PawnGestationSpeed.description>Множитель скорости протекания беременности. Чем выше значение, тем короче беременность. Значение 1 соответствует обычной скорости, а 10 ускоряет беременность в 10 раз.</EBSG_PawnGestationSpeed.description>
+  <EBSG_PawnGestationSpeed.label>скорость протекания беременности</EBSG_PawnGestationSpeed.label>
+  <EBSG_ShootingAccuracyPawnFactorMech.description>Множитель меткости стрельбы у механоидов этого механитора.</EBSG_ShootingAccuracyPawnFactorMech.description>
+  <EBSG_ShootingAccuracyPawnFactorMech.label>множитель меткости стрельбы механоидов</EBSG_ShootingAccuracyPawnFactorMech.label>
+  <EBSG_ShootingAccuracyPawnOffsetMech.description>Поправка к меткости стрельбы у механоидов этого механитора. Прибавляется к характеристике; может быть отрицательной.</EBSG_ShootingAccuracyPawnOffsetMech.description>
+  <EBSG_ShootingAccuracyPawnOffsetMech.label>поправка к меткости стрельбы механоидов</EBSG_ShootingAccuracyPawnOffsetMech.label>
+  <EBSG_WastepacksPerRechargeFactorMech.description>Множитель количества пакетов отходов от зарядки у механоидов этого механитора.</EBSG_WastepacksPerRechargeFactorMech.description>
+  <EBSG_WastepacksPerRechargeFactorMech.label>множитель количества пакетов отходов от зарядки механоидов</EBSG_WastepacksPerRechargeFactorMech.label>
+  <EBSG_WastepacksPerRechargeOffsetMech.description>Поправка к количеству пакетов отходов от зарядки у механоидов этого механитора. Прибавляется к характеристике; может быть отрицательной.</EBSG_WastepacksPerRechargeOffsetMech.description>
+  <EBSG_WastepacksPerRechargeOffsetMech.label>поправка к количеству пакетов отходов от зарядки механоидов</EBSG_WastepacksPerRechargeOffsetMech.label>
+  <EBSG_WorkSpeedGlobalFactorMech.description>Множитель скорости работы у механоидов этого механитора.</EBSG_WorkSpeedGlobalFactorMech.description>
+  <EBSG_WorkSpeedGlobalFactorMech.label>множитель скорости работы механоидов</EBSG_WorkSpeedGlobalFactorMech.label>
+  <MeleeHitChance.parts.1.label>Поправка от механитора</MeleeHitChance.parts.1.label>
+  <MeleeHitChance.parts.2.label>Множитель от механитора</MeleeHitChance.parts.2.label>
+  <WastepacksPerRecharge.parts.1.label>Поправка от механитора</WastepacksPerRecharge.parts.1.label>
+  <WastepacksPerRecharge.parts.2.label>Множитель от механитора</WastepacksPerRecharge.parts.2.label>
+</LanguageData>

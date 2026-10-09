@@ -1,0 +1,849 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <chupakobra6_3687071198_Debug.Category>Аванпосты (Worksites Expanded)</chupakobra6_3687071198_Debug.Category>
+  <chupakobra6_3687071198_Debug.CleanupOrphanedTemporaryFactions>Удалить временные фракции, оставшиеся без аванпостов</chupakobra6_3687071198_Debug.CleanupOrphanedTemporaryFactions>
+  <chupakobra6_3687071198_Debug.DebugFireNextRaid>Немедленно вызвать следующий ответный налёт</chupakobra6_3687071198_Debug.DebugFireNextRaid>
+  <chupakobra6_3687071198_Debug.DebugForceStartRevenge>Принудительно начать серию ответных налётов</chupakobra6_3687071198_Debug.DebugForceStartRevenge>
+  <chupakobra6_3687071198_Debug.DebugRandomDefenseMission>Случайное задание по защите аванпоста</chupakobra6_3687071198_Debug.DebugRandomDefenseMission>
+  <chupakobra6_3687071198_Debug.ListTemporaryFactions>Список всех временных фракций</chupakobra6_3687071198_Debug.ListTemporaryFactions>
+  <chupakobra6_3687071198_Debug.LogSaturationInfo>Записать сведения о насыщенности аванпостами в журнал</chupakobra6_3687071198_Debug.LogSaturationInfo>
+  <chupakobra6_3687071198_Debug.SpawnSpecificWorkSiteQuest>Создать задание о выбранном аванпосте…</chupakobra6_3687071198_Debug.SpawnSpecificWorkSiteQuest>
+  <chupakobra6_3687071198_Debug.SpawnWorkSiteQuest>Создать случайное задание об аванпосте</chupakobra6_3687071198_Debug.SpawnWorkSiteQuest>
+  <chupakobra6_3687071198_job.black-box.Name>Чёрный ящик</chupakobra6_3687071198_job.black-box.Name>
+  <chupakobra6_3687071198_job.black-box.Subtitle>Заберите конфискованное запрещённое ядро ИИ из заброшенной переборки. То, что внутри, шепчет каждому, кто слушает местную частоту.</chupakobra6_3687071198_job.black-box.Subtitle>
+  <chupakobra6_3687071198_job.black-box.node.brief.Text>Заготовка (QuestBacklog §11.4). Извлеките ядро; технические способности нужны для безопасного обращения с корпусом, а наблюдательность и психическая чувствительность — для понимания едва слышной речи. Планируемые финалы: «Сдача по закону» — чистое завершение; «Продажа технокульту» — высокая цена и тесные связи; «Ядро у себя» — устройство и вражда культа. Психически чувствительные поселенцы открывают скрытые диалоги из §5.4.</chupakobra6_3687071198_job.black-box.node.brief.Text>
+  <chupakobra6_3687071198_job.black-box.node.brief.Title>Инструктаж</chupakobra6_3687071198_job.black-box.node.brief.Title>
+  <chupakobra6_3687071198_job.black-box.node.todo.Text>Это задание ещё находится в плане разработки. Инструктаж выше — исходный набросок; сцены, способы действий, развилки и кровавые финалы пока не написаны.</chupakobra6_3687071198_job.black-box.node.todo.Text>
+  <chupakobra6_3687071198_job.black-box.node.todo.Title>Не завершено</chupakobra6_3687071198_job.black-box.node.todo.Title>
+  <chupakobra6_3687071198_job.boarding-action.Name>Абордаж</chupakobra6_3687071198_job.boarding-action.Name>
+  <chupakobra6_3687071198_job.boarding-action.Subtitle>Вскройте аварийные замки покинутого грузового корабля и извлеките зашифрованное ядро данных.</chupakobra6_3687071198_job.boarding-action.Subtitle>
+  <chupakobra6_3687071198_job.boarding-action.edge.a-parley.fork.Success.Label>они сдаются</chupakobra6_3687071198_job.boarding-action.edge.a-parley.fork.Success.Label>
+  <chupakobra6_3687071198_job.boarding-action.edge.a-parley.o-bridgefight.Fail.Label>боцман вновь собирает их</chupakobra6_3687071198_job.boarding-action.edge.a-parley.o-bridgefight.Fail.Label>
+  <chupakobra6_3687071198_job.boarding-action.edge.a-stealth.s-corridor.Success.Label>замок вскрыт</chupakobra6_3687071198_job.boarding-action.edge.a-stealth.s-corridor.Success.Label>
+  <chupakobra6_3687071198_job.boarding-action.edge.a-talk.s-corridor.Success.Label>охрану удалось заговорить</chupakobra6_3687071198_job.boarding-action.edge.a-talk.s-corridor.Success.Label>
+  <chupakobra6_3687071198_job.boarding-action.edge.o-loud.a-parley.Choice.Label>Потребовать капитуляции автоматики.</chupakobra6_3687071198_job.boarding-action.edge.o-loud.a-parley.Choice.Label>
+  <chupakobra6_3687071198_job.boarding-action.edge.o-loud.o-bridgefight.Choice.Label>Взять командный мостик штурмом.</chupakobra6_3687071198_job.boarding-action.edge.o-loud.o-bridgefight.Choice.Label>
+  <chupakobra6_3687071198_job.boarding-action.node.a-breach.Text>{pawn} крепит направленный заряд к петле внутренней двери и без колебаний приводит детонатор в действие.</chupakobra6_3687071198_job.boarding-action.node.a-breach.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.a-breach.Title>Взорвать люк.</chupakobra6_3687071198_job.boarding-action.node.a-breach.Title>
+  <chupakobra6_3687071198_job.boarding-action.node.a-corridor-crawl.Text>{pawn} спускается в замасленный трюмный канал, а {pawn2} проталкивает по трубе контейнеры со снаряжением.</chupakobra6_3687071198_job.boarding-action.node.a-corridor-crawl.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.a-corridor-crawl.Title>Проползти по трюму.</chupakobra6_3687071198_job.boarding-action.node.a-corridor-crawl.Title>
+  <chupakobra6_3687071198_job.boarding-action.node.a-corridor-flash.Text>{pawn} бросает по коридору ЭМИ-светошумовые гранаты, а {pawn2} устремляется к дронам с ослеплёнными датчиками.</chupakobra6_3687071198_job.boarding-action.node.a-corridor-flash.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.a-corridor-flash.Title>Бросить оглушающие гранаты.</chupakobra6_3687071198_job.boarding-action.node.a-corridor-flash.Title>
+  <chupakobra6_3687071198_job.boarding-action.node.a-corridor-turret.Text>{pawn} выстреливает контактным зондом в кабельный жгут турели, а {pawn2} прикрывает соединение от ответного огня.</chupakobra6_3687071198_job.boarding-action.node.a-corridor-turret.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.a-corridor-turret.Title>Взломать потолочную турель.</chupakobra6_3687071198_job.boarding-action.node.a-corridor-turret.Title>
+  <chupakobra6_3687071198_job.boarding-action.node.a-corridor-vent.Text>{pawn} вручную открывает атмосферный клапан, выпуская воздух из коридора в космос. {pawn2} фиксирует магнитные ботинки.</chupakobra6_3687071198_job.boarding-action.node.a-corridor-vent.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.a-corridor-vent.Title>Разгерметизировать коридор.</chupakobra6_3687071198_job.boarding-action.node.a-corridor-vent.Title>
+  <chupakobra6_3687071198_job.boarding-action.node.a-parley.Text>{pawn} бросается к командной консоли и пытается включить аварийное отключение для обслуживания. {pawn2} прикрывает терминал.</chupakobra6_3687071198_job.boarding-action.node.a-parley.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.a-parley.Title>Принудительно отключить консоль.</chupakobra6_3687071198_job.boarding-action.node.a-parley.Title>
+  <chupakobra6_3687071198_job.boarding-action.node.a-prep-charge.Text>Экипаж крепит магнитный направленный заряд прямо к раме главного гермолюка.</chupakobra6_3687071198_job.boarding-action.node.a-prep-charge.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.a-prep-charge.Title>Закрепить заряд для вскрытия.</chupakobra6_3687071198_job.boarding-action.node.a-prep-charge.Title>
+  <chupakobra6_3687071198_job.boarding-action.node.a-prep-cipher.Text>{pawn} подключает планшет к внешнему сервисному порту, а {pawn2} запускает перебор кодов по словарям.</chupakobra6_3687071198_job.boarding-action.node.a-prep-cipher.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.a-prep-cipher.Title>Подобрать код обхода.</chupakobra6_3687071198_job.boarding-action.node.a-prep-cipher.Title>
+  <chupakobra6_3687071198_job.boarding-action.node.a-prep-papers.Text>{pawn} подменяет регистрационный сигнал транспондера грузового корабля, а {pawn2} передаёт поддельное разрешение на спасательные работы.</chupakobra6_3687071198_job.boarding-action.node.a-prep-papers.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.a-prep-papers.Title>Подделать ордер на досмотр.</chupakobra6_3687071198_job.boarding-action.node.a-prep-papers.Title>
+  <chupakobra6_3687071198_job.boarding-action.node.a-prep-torch.Text>{pawn} зажигает дугу резака, а {pawn2} направляет охлаждающую жидкость на запоры наружной двери.</chupakobra6_3687071198_job.boarding-action.node.a-prep-torch.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.a-prep-torch.Title>Подготовить резак.</chupakobra6_3687071198_job.boarding-action.node.a-prep-torch.Title>
+  <chupakobra6_3687071198_job.boarding-action.node.a-stealth.Text>{pawn} пересекает порог, не задев датчики движения, а {pawn2} прикрывает дверной проём шлюза.</chupakobra6_3687071198_job.boarding-action.node.a-stealth.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.a-stealth.Title>Проскользнуть через наружный шлюз.</chupakobra6_3687071198_job.boarding-action.node.a-stealth.Title>
+  <chupakobra6_3687071198_job.boarding-action.node.a-talk.Text>{pawn} включает интерком на переборке и вводит коды допуска спасательной команды. {pawn2} следит за ответами терминала.</chupakobra6_3687071198_job.boarding-action.node.a-talk.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.a-talk.Title>Обмануть автоматический интерком.</chupakobra6_3687071198_job.boarding-action.node.a-talk.Title>
+  <chupakobra6_3687071198_job.boarding-action.node.brief.Text>На высокой орбите дрейфует безжизненный заброшенный грузовой корабль. Синдикат сборщиков утиля предлагает 900 серебра за высадку, проникновение на командную палубу и извлечение автоматического полётного ядра, пока снижающаяся орбита не увлекла судно в атмосферу. Внутренние охранные дроны могут быть ещё активны.</chupakobra6_3687071198_job.boarding-action.node.brief.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.brief.Title>Инструктаж</chupakobra6_3687071198_job.boarding-action.node.brief.Title>
+  <chupakobra6_3687071198_job.boarding-action.node.e-cargo.Text>Экипаж извлекает ядро данных и до прибытия станционных буксиров грузит в челнок несколько ящиков редкого оборудования. Добыча приносит внушительную выплату.</chupakobra6_3687071198_job.boarding-action.node.e-cargo.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.e-cargo.Title>Груз вывезен</chupakobra6_3687071198_job.boarding-action.node.e-cargo.Title>
+  <chupakobra6_3687071198_job.boarding-action.node.e-ransom.Text>Экипаж передаёт решале неповреждённое ядро данных и получает всю награду — 900 серебра, не привлекая внимания станционной охраны.</chupakobra6_3687071198_job.boarding-action.node.e-ransom.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.e-ransom.Title>Ядро доставлено</chupakobra6_3687071198_job.boarding-action.node.e-ransom.Title>
+  <chupakobra6_3687071198_job.boarding-action.node.e-routed.Text>Автоматическая оборонительная сеть корабля оказывается слишком мощной. Экипаж оттесняют к шлюзу: с ранеными и пустыми руками.</chupakobra6_3687071198_job.boarding-action.node.e-routed.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.e-routed.Title>Оборона отбила атаку</chupakobra6_3687071198_job.boarding-action.node.e-routed.Title>
+  <chupakobra6_3687071198_job.boarding-action.node.e-scuttle.Text>Чтобы замести следы, экипаж запускает аварийный сброс реактора. Корабль уходит в дрейф по далёкой орбите, уничтожая все улики.</chupakobra6_3687071198_job.boarding-action.node.e-scuttle.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.e-scuttle.Title>Грузовой корабль уничтожен</chupakobra6_3687071198_job.boarding-action.node.e-scuttle.Title>
+  <chupakobra6_3687071198_job.boarding-action.node.e-standdown.Text>Услышав шум охранных механизмов и увидев тревожные вспышки, экипаж отказывается от операции и отступает к погрузочной линии.</chupakobra6_3687071198_job.boarding-action.node.e-standdown.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.e-standdown.Title>Отступление</chupakobra6_3687071198_job.boarding-action.node.e-standdown.Title>
+  <chupakobra6_3687071198_job.boarding-action.node.entry.Text>Наружная дверь шлюза со скрежетом открывается. За ней — тёмная камера обеззараживания, заполненная туманом. Под потолком пульсируют красные аварийные лампы.</chupakobra6_3687071198_job.boarding-action.node.entry.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.entry.Title>Порог шлюза</chupakobra6_3687071198_job.boarding-action.node.entry.Title>
+  <chupakobra6_3687071198_job.boarding-action.node.fork.Text>Навигационный компьютер разблокирован. Зашифрованные карты у экипажа, а остальной ценный груз корабля лежит в открытом трюме.</chupakobra6_3687071198_job.boarding-action.node.fork.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.fork.Title>Ядро данных</chupakobra6_3687071198_job.boarding-action.node.fork.Title>
+  <chupakobra6_3687071198_job.boarding-action.node.o-bridgefight.Text>Защитные двери мостика захлопываются! С потолочных шарнирных подвесов опускаются оборонительные дроны, раскручивая многоствольные орудия!</chupakobra6_3687071198_job.boarding-action.node.o-bridgefight.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.o-bridgefight.Title>Перестрелка на мостике</chupakobra6_3687071198_job.boarding-action.node.o-bridgefight.Title>
+  <chupakobra6_3687071198_job.boarding-action.node.o-loud.Text>Оборонительная сеть обнаруживает проникновение. За переборками воют сирены, защитные двери начинают закрываться.</chupakobra6_3687071198_job.boarding-action.node.o-loud.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.o-loud.Title>Ревёт тревога</chupakobra6_3687071198_job.boarding-action.node.o-loud.Title>
+  <chupakobra6_3687071198_job.boarding-action.node.o-quiet.Text>Турель удаётся обойти, не вызвав вторичную боевую тревогу корабля.</chupakobra6_3687071198_job.boarding-action.node.o-quiet.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.o-quiet.Title>Коридор пройден</chupakobra6_3687071198_job.boarding-action.node.o-quiet.Title>
+  <chupakobra6_3687071198_job.boarding-action.node.s-corridor.Text>Главный проход выжжен и забит дымом. Впереди по потолочным рельсам поворачиваются автоматические турели ближней обороны.</chupakobra6_3687071198_job.boarding-action.node.s-corridor.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.s-corridor.Title>Главный проход</chupakobra6_3687071198_job.boarding-action.node.s-corridor.Title>
+  <chupakobra6_3687071198_job.boarding-action.node.s-prep.Text>Челнок экипажа цепляется к наружному шлюзу заброшенного судна. С корпуса в вакуум осыпается иней. {pawn} раскладывает снаряжение для проникновения, а {pawn2} проверяет показания давления.</chupakobra6_3687071198_job.boarding-action.node.s-prep.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.s-prep.Title>Подготовка к проникновению</chupakobra6_3687071198_job.boarding-action.node.s-prep.Title>
+  <chupakobra6_3687071198_job.cheaters-table.Name>Краплёное сукно</chupakobra6_3687071198_job.cheaters-table.Name>
+  <chupakobra6_3687071198_job.cheaters-table.Subtitle>Разоблачите карточного шулера, который пользуется электроникой в зале казино для крупных игроков.</chupakobra6_3687071198_job.cheaters-table.Subtitle>
+  <chupakobra6_3687071198_job.cheaters-table.edge.a-aware.o-watched.Fail.Label>нужный взгляд упущен, он чует неладное</chupakobra6_3687071198_job.cheaters-table.edge.a-aware.o-watched.Fail.Label>
+  <chupakobra6_3687071198_job.cheaters-table.edge.a-pos-feed.s1.Fail.Label>сигнал забит белым шумом; кто-то наблюдает в ответ</chupakobra6_3687071198_job.cheaters-table.edge.a-pos-feed.s1.Fail.Label>
+  <chupakobra6_3687071198_job.cheaters-table.edge.a-pos-feed.s1.Success.Label>журнал видеопотока повреждён</chupakobra6_3687071198_job.cheaters-table.edge.a-pos-feed.s1.Success.Label>
+  <chupakobra6_3687071198_job.cheaters-table.edge.a-pos-mezzanine.s1.Fail.Label>сквозь трещины экрана пробивается тусклое свечение люминофора; наблюдение идёт сквозь помехи</chupakobra6_3687071198_job.cheaters-table.edge.a-pos-mezzanine.s1.Fail.Label>
+  <chupakobra6_3687071198_job.cheaters-table.edge.a-pos-mezzanine.s1.Success.Label>верхний мостик перекрыт</chupakobra6_3687071198_job.cheaters-table.edge.a-pos-mezzanine.s1.Success.Label>
+  <chupakobra6_3687071198_job.cheaters-table.edge.a-pos-table.s1.Fail.Label>под перекрёстным огнём</chupakobra6_3687071198_job.cheaters-table.edge.a-pos-table.s1.Fail.Label>
+  <chupakobra6_3687071198_job.cheaters-table.edge.a-pos-table.s1.Success.Label>прижаты к засаленному сукну</chupakobra6_3687071198_job.cheaters-table.edge.a-pos-table.s1.Success.Label>
+  <chupakobra6_3687071198_job.cheaters-table.edge.a-streetwise.o-watched.Fail.Label>задержались в свете слишком долго: он заметил ваше отражение в стекле</chupakobra6_3687071198_job.cheaters-table.edge.a-streetwise.o-watched.Fail.Label>
+  <chupakobra6_3687071198_job.cheaters-table.edge.fork.e-blackmail.Choice.Label>Шантажировать его ради постоянной доли.</chupakobra6_3687071198_job.cheaters-table.edge.fork.e-blackmail.Choice.Label>
+  <chupakobra6_3687071198_job.cheaters-table.edge.fork.e-turnin.Choice.Label>Сдать его пит-боссу.</chupakobra6_3687071198_job.cheaters-table.edge.fork.e-turnin.Choice.Label>
+  <chupakobra6_3687071198_job.cheaters-table.edge.o-watched.s1.Default.Label>не отводите глаз; если надавить слишком сильно, он ускользнёт в вентиляцию</chupakobra6_3687071198_job.cheaters-table.edge.o-watched.s1.Default.Label>
+  <chupakobra6_3687071198_job.cheaters-table.node.a-aware.Text>{pawn} следит за подёргиваниями рук подозреваемого и ловит момент, когда туз проскальзывает из рукава в ладонь.</chupakobra6_3687071198_job.cheaters-table.node.a-aware.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.a-aware.Title>Следить за его пальцами.</chupakobra6_3687071198_job.cheaters-table.node.a-aware.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.a-confront-brawl.Text>{pawn} бьёт шулера кулаком в солнечное сплетение, а {pawn2} срывает блок питания его оптики.</chupakobra6_3687071198_job.cheaters-table.node.a-confront-brawl.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.a-confront-brawl.Title>Избить его.</chupakobra6_3687071198_job.cheaters-table.node.a-confront-brawl.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.a-confront-pitboss.Text>{pawn} свистом подзывает пит-босса, а {pawn2} прижимает подозреваемого к стене.</chupakobra6_3687071198_job.cheaters-table.node.a-confront-pitboss.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.a-confront-pitboss.Title>Подать знак пит-боссу.</chupakobra6_3687071198_job.cheaters-table.node.a-confront-pitboss.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.a-confront-quiet.Text>{pawn} выходит из технической ниши и преграждает шулеру путь. {pawn2} отрезает отступление.</chupakobra6_3687071198_job.cheaters-table.node.a-confront-quiet.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.a-confront-quiet.Title>Загнать его в угол в коридоре.</chupakobra6_3687071198_job.cheaters-table.node.a-confront-quiet.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.a-confront-shakedown.Text>{pawn} толкает шулера к переборке и требует отдать серебро. {pawn2} вытряхивает содержимое его сапог.</chupakobra6_3687071198_job.cheaters-table.node.a-confront-shakedown.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.a-confront-shakedown.Title>Потребовать всё его серебро.</chupakobra6_3687071198_job.cheaters-table.node.a-confront-shakedown.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.a-counter-cheat.Text>{pawn} незаметно метит ногтем угол карты, чтобы обратить шулерскую колоду против её владельца. {pawn2} изображает ссору.</chupakobra6_3687071198_job.cheaters-table.node.a-counter-cheat.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.a-counter-cheat.Title>Подстроить раздачу против него.</chupakobra6_3687071198_job.cheaters-table.node.a-counter-cheat.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.a-pos-feed.Text>{pawn} подключает обходной кабель к потолочному узлу камер, а {pawn2} закрывает монитор от посторонних глаз.</chupakobra6_3687071198_job.cheaters-table.node.a-pos-feed.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.a-pos-feed.Title>Подключиться к камерам охраны.</chupakobra6_3687071198_job.cheaters-table.node.a-pos-feed.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.a-pos-mezzanine.Text>{pawn} облокачивается на латунные перила балкона с полевым монокуляром, а {pawn2} следит за выходами из зала.</chupakobra6_3687071198_job.cheaters-table.node.a-pos-mezzanine.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.a-pos-mezzanine.Title>Наблюдать с балкона.</chupakobra6_3687071198_job.cheaters-table.node.a-pos-mezzanine.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.a-pos-side.Text>Экипаж занимает свободный столик рядом и заказывает напитки, наблюдая за позой подозреваемого и движением его глаз.</chupakobra6_3687071198_job.cheaters-table.node.a-pos-side.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.a-pos-side.Title>Сесть за соседний столик.</chupakobra6_3687071198_job.cheaters-table.node.a-pos-side.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.a-pos-table.Text>{pawn} покупает небольшую стопку фишек и занимает свободный стул. {pawn2} встаёт за тележкой с напитками.</chupakobra6_3687071198_job.cheaters-table.node.a-pos-table.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.a-pos-table.Title>Войти в игру.</chupakobra6_3687071198_job.cheaters-table.node.a-pos-table.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.a-shoot.Text>{pawn} достаёт пистолет с глушителем и стреляет в шулера прямо сквозь его кресло. Действуют правила «Пятничной перестрелки»!</chupakobra6_3687071198_job.cheaters-table.node.a-shoot.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.a-shoot.Title>Просто застрелить его.</chupakobra6_3687071198_job.cheaters-table.node.a-shoot.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.a-streetwise.Text>{pawn} следит за ритмом ставок и сравнивает невольные жесты подозреваемого с повадками профессиональных шулеров синдиката.</chupakobra6_3687071198_job.cheaters-table.node.a-streetwise.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.a-streetwise.Title>Разобрать его манеру делать ставки.</chupakobra6_3687071198_job.cheaters-table.node.a-streetwise.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.brief.Text>Управляющий отделанным бархатом казино «Неоновая палуба» подозревает, что карточный шулер использует улучшенную оптику, обирая игроков за столами с высокими ставками. Заведение предлагает 650 серебра за поимку с поличным. Управляющему нужны доказательства, но он не станет возражать, если мошенник получит травму в назидание.</chupakobra6_3687071198_job.cheaters-table.node.brief.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.brief.Title>Инструктаж</chupakobra6_3687071198_job.cheaters-table.node.brief.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.e-blackmail.Text>Экипаж отпускает шулера в обмен на половину его заработка и обещание сообщать инсайдерские сведения о будущих карточных играх.</chupakobra6_3687071198_job.cheaters-table.node.e-blackmail.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.e-blackmail.Title>Шантаж шулера</chupakobra6_3687071198_job.cheaters-table.node.e-blackmail.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.e-cashout.Text>Экипаж честно выигрывает у шулера несколько раздач, забирает фишки и отказывается от контракта.</chupakobra6_3687071198_job.cheaters-table.node.e-cashout.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.e-cashout.Title>Обналичили выигрыш</chupakobra6_3687071198_job.cheaters-table.node.e-cashout.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.e-down.Text>Нанятые шулером громилы нападают на экипаж в коридоре. Ваши люди остаются истекать кровью на палубе, а мошенник скрывается.</chupakobra6_3687071198_job.cheaters-table.node.e-down.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.e-down.Title>Экипаж разбит</chupakobra6_3687071198_job.cheaters-table.node.e-down.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.e-shotout.Text>После перестрелки посетители ранены, столы перевёрнуты. Экипаж хватает найденное серебро и бежит в док, пока не прибыла охрана.</chupakobra6_3687071198_job.cheaters-table.node.e-shotout.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.e-shotout.Title>Перестрелка в зале</chupakobra6_3687071198_job.cheaters-table.node.e-shotout.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.e-trick.Text>Экипаж оставляет себе нелегальный подкожный сканер карт, а шулера передаёт охране. В итоге достаются и награда, и передовая техника.</chupakobra6_3687071198_job.cheaters-table.node.e-trick.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.e-trick.Title>Устройство оставлено себе</chupakobra6_3687071198_job.cheaters-table.node.e-trick.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.e-turnin.Text>Экипаж ведёт шулера в кабинет пит-босса и возвращает серебро казино. Начальник выплачивает 650 серебра и даёт постоянный доступ в закрытый зал.</chupakobra6_3687071198_job.cheaters-table.node.e-turnin.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.e-turnin.Title>Передан охране</chupakobra6_3687071198_job.cheaters-table.node.e-turnin.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.fork.Text>Шулер усмирён, серебро у вас. Экипажу остаётся решить, как завершить контракт.</chupakobra6_3687071198_job.cheaters-table.node.fork.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.fork.Title>Решение</chupakobra6_3687071198_job.cheaters-table.node.fork.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.o-brawl-won.Text>Экипаж выбивает заточку из его руки, прижимает к полу и отбирает добычу.</chupakobra6_3687071198_job.cheaters-table.node.o-brawl-won.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.o-brawl-won.Title>Шулер усмирён</chupakobra6_3687071198_job.cheaters-table.node.o-brawl-won.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.o-caught.Text>Экипаж замечает едва уловимое голубое мерцание в левом глазу шулера. Бионический подкожный сканер позволяет ему читать магнитные чернила на перевёрнутых картах.</chupakobra6_3687071198_job.cheaters-table.node.o-caught.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.o-caught.Title>Оптическое шулерство замечено</chupakobra6_3687071198_job.cheaters-table.node.o-caught.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.o-countered.Text>Шулер понимает, что за столом его раскусили. Он сбрасывает карты, сгребает серебро и торопится к служебному выходу.</chupakobra6_3687071198_job.cheaters-table.node.o-countered.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.o-countered.Title>Афера сорвана</chupakobra6_3687071198_job.cheaters-table.node.o-countered.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.o-fight.Text>Вышибалы опрокидывают обитые бархатом столы, а пит-босс достаёт автоматическое оружие! Пробейтесь через громил охраны!</chupakobra6_3687071198_job.cheaters-table.node.o-fight.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.o-fight.Title>Перестрелка в казино</chupakobra6_3687071198_job.cheaters-table.node.o-fight.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.o-method.Text>Экипаж раскрывает всю схему: сообщник в баре передаёт порядок карт в колоде прямо в кибероптику шулера.</chupakobra6_3687071198_job.cheaters-table.node.o-method.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.o-method.Title>Схема раскрыта</chupakobra6_3687071198_job.cheaters-table.node.o-method.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.o-quiet-cornered.Text>Загнанный в угол и лишённый шансов шулер бросает мешок серебра и отдаёт чип управления оптикой.</chupakobra6_3687071198_job.cheaters-table.node.o-quiet-cornered.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.o-quiet-cornered.Title>Шулер сдаётся</chupakobra6_3687071198_job.cheaters-table.node.o-quiet-cornered.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.o-watched.Text>Шулер замечает пристальные взгляды экипажа и становится осторожнее, отказываясь делать новые крупные ставки.</chupakobra6_3687071198_job.cheaters-table.node.o-watched.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.o-watched.Title>Шулер насторожился</chupakobra6_3687071198_job.cheaters-table.node.o-watched.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.s-confront.Text>Шулер прячет фишки и ныряет в коридор к выходу. {pawn} и {pawn2} сближаются, чтобы его задержать.</chupakobra6_3687071198_job.cheaters-table.node.s-confront.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.s-confront.Title>Прижать шулера</chupakobra6_3687071198_job.cheaters-table.node.s-confront.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.s-pos.Text>Зал казино забит пьяными космоплавателями и синтетическим дымом. Цель сидит за отдельным столом с зелёным сукном и мерно складывает серебряные фишки. {pawn} и {pawn2} выбирают точки наблюдения.</chupakobra6_3687071198_job.cheaters-table.node.s-pos.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.s-pos.Title>Занять позицию</chupakobra6_3687071198_job.cheaters-table.node.s-pos.Title>
+  <chupakobra6_3687071198_job.cheaters-table.node.s1.Text>Дилер раздаёт карты по сукну. Подозреваемый трёт левый глаз: кибероптика тихо щёлкает, считывая колоду. {pawn} и {pawn2} готовятся разоблачить шулера.</chupakobra6_3687071198_job.cheaters-table.node.s1.Text>
+  <chupakobra6_3687071198_job.cheaters-table.node.s1.Title>По другую сторону сукна</chupakobra6_3687071198_job.cheaters-table.node.s1.Title>
+  <chupakobra6_3687071198_job.clean-hands.Name>Чистые руки</chupakobra6_3687071198_job.clean-hands.Name>
+  <chupakobra6_3687071198_job.clean-hands.Subtitle>Пронесите немаркированный кейс через территорию синдиката и переманите его главного покупателя электроники.</chupakobra6_3687071198_job.clean-hands.Subtitle>
+  <chupakobra6_3687071198_job.clean-hands.edge.a-decoy-tin.s2.Fail.Label>пустой ящик всё равно выиграет нам время</chupakobra6_3687071198_job.clean-hands.edge.a-decoy-tin.s2.Fail.Label>
+  <chupakobra6_3687071198_job.clean-hands.edge.a-decoy-tin.s2.Success.Label>обманка подготовлена в технических лазах</chupakobra6_3687071198_job.clean-hands.edge.a-decoy-tin.s2.Success.Label>
+  <chupakobra6_3687071198_job.clean-hands.edge.a-decoy-uniform.s2.Fail.Label>засаленные, перепачканные маслом комбинезоны</chupakobra6_3687071198_job.clean-hands.edge.a-decoy-uniform.s2.Fail.Label>
+  <chupakobra6_3687071198_job.clean-hands.edge.a-decoy-uniform.s2.Success.Label>маскировка под техников в украденных комбинезонах</chupakobra6_3687071198_job.clean-hands.edge.a-decoy-uniform.s2.Success.Label>
+  <chupakobra6_3687071198_job.clean-hands.edge.a-decoy-urchin.s2.Fail.Label>курьер берёт серебро и исчезает в лабиринте технических проходов</chupakobra6_3687071198_job.clean-hands.edge.a-decoy-urchin.s2.Fail.Label>
+  <chupakobra6_3687071198_job.clean-hands.edge.a-decoy-urchin.s2.Success.Label>отвлекающий манёвр подготовлен</chupakobra6_3687071198_job.clean-hands.edge.a-decoy-urchin.s2.Success.Label>
+  <chupakobra6_3687071198_job.clean-hands.edge.s2-made.a-tac-ambush.Choice.Label>Сбить главного часового с ног.</chupakobra6_3687071198_job.clean-hands.edge.s2-made.a-tac-ambush.Choice.Label>
+  <chupakobra6_3687071198_job.clean-hands.edge.s2-made.a-tac-flank.Choice.Label>Занять высоту.</chupakobra6_3687071198_job.clean-hands.edge.s2-made.a-tac-flank.Choice.Label>
+  <chupakobra6_3687071198_job.clean-hands.edge.s2-made.a-tac-shoot.Violence.Label>Немедленно открыть огонь.</chupakobra6_3687071198_job.clean-hands.edge.s2-made.a-tac-shoot.Violence.Label>
+  <chupakobra6_3687071198_job.clean-hands.edge.s2-made.a-tac-smoke.Choice.Label>Бросить дымовую гранату.</chupakobra6_3687071198_job.clean-hands.edge.s2-made.a-tac-smoke.Choice.Label>
+  <chupakobra6_3687071198_job.clean-hands.edge.s3-persuade.e-covered.Fail.Label>покупателя не устраивает вес груза; рабочие палубы покрывают недостачу из своего кармана</chupakobra6_3687071198_job.clean-hands.edge.s3-persuade.e-covered.Fail.Label>
+  <chupakobra6_3687071198_job.clean-hands.node.a-decoy-straight.Text>{pawn} взваливает свинцовый кейс на плечо. Никакой маскировки и уловок. {pawn2} идёт в двух шагах позади, держа руки рядом с кобурами.</chupakobra6_3687071198_job.clean-hands.node.a-decoy-straight.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.a-decoy-straight.Title>Просто пройти с кейсом.</chupakobra6_3687071198_job.clean-hands.node.a-decoy-straight.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.a-decoy-tin.Text>{pawn} спаивает листовые обрезки металла, повторяя очертания кейса, а {pawn2} засыпает внутрь подшипниковые шарики для нужного веса.</chupakobra6_3687071198_job.clean-hands.node.a-decoy-tin.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.a-decoy-tin.Title>Сделать кейс-обманку.</chupakobra6_3687071198_job.clean-hands.node.a-decoy-tin.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.a-decoy-uniform.Text>{pawn} натягивает украденный комбинезон техперсонала, а {pawn2} мастерит пару фальшивых пропусков.</chupakobra6_3687071198_job.clean-hands.node.a-decoy-uniform.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.a-decoy-uniform.Title>Надеть рабочие комбинезоны и подделать пропуска.</chupakobra6_3687071198_job.clean-hands.node.a-decoy-uniform.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.a-decoy-urchin.Text>{pawn} подзывает беспризорника, показывая серебро, а {pawn2} указывает на датчики КПП.</chupakobra6_3687071198_job.clean-hands.node.a-decoy-urchin.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.a-decoy-urchin.Title>Заплатить беспризорнику за отвлекающий манёвр.</chupakobra6_3687071198_job.clean-hands.node.a-decoy-urchin.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.a-inspect.Text>Экипаж решает осмотреть груз перед отправкой: срывает свинцовую пломбу и сверяет содержимое с накладной.</chupakobra6_3687071198_job.clean-hands.node.a-inspect.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.a-inspect.Title>Сорвать контрольную пломбу.</chupakobra6_3687071198_job.clean-hands.node.a-inspect.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.a-tac-ambush.Text>{pawn} бросается вперёд, чтобы впечатать главного часового в барьер раньше, чем тот поднимет дробовик. {pawn2} прикрывает фланг.</chupakobra6_3687071198_job.clean-hands.node.a-tac-ambush.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.a-tac-ambush.Title>Сбить главного часового с ног.</chupakobra6_3687071198_job.clean-hands.node.a-tac-ambush.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.a-tac-flank.Text>{pawn} карабкается по лестнице вдоль технических коммуникаций, чтобы стрелять сверху. {pawn2} отвлекает внимание внизу.</chupakobra6_3687071198_job.clean-hands.node.a-tac-flank.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.a-tac-flank.Title>Занять высоту.</chupakobra6_3687071198_job.clean-hands.node.a-tac-flank.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.a-tac-shoot.Text>{pawn} выхватывает оружие и без колебаний открывает огонь по баррикадам КПП.</chupakobra6_3687071198_job.clean-hands.node.a-tac-shoot.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.a-tac-shoot.Title>Немедленно открыть огонь.</chupakobra6_3687071198_job.clean-hands.node.a-tac-shoot.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.a-tac-smoke.Text>{pawn} приводит в готовность аэрозольную дымовую гранату, а {pawn2} определяет расположение датчиков охраны. Густое химическое облако даст экипажу надёжное укрытие.</chupakobra6_3687071198_job.clean-hands.node.a-tac-smoke.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.a-tac-smoke.Title>Бросить дымовую гранату.</chupakobra6_3687071198_job.clean-hands.node.a-tac-smoke.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.brief.Text>Станционный решала подвигает через прилавок тяжёлый кейс со свинцовой обшивкой. Внутри — чувствительные компоненты, за которые покупатель с чёрного рынка на другой стороне зала готов щедро заплатить. Пока он торгует исключительно с синдикатом, контролирующим палубу. Решала предлагает 450 серебра за доставку без происшествий, которая убедит покупателя сменить поставщика. Но по залу ходят патрули синдиката: если вас поймают, сразу начнётся перестрелка.</chupakobra6_3687071198_job.clean-hands.node.brief.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.brief.Title>Инструктаж</chupakobra6_3687071198_job.clean-hands.node.brief.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.e-covered.Text>Экипаж покрывает заявленную недостачу собственным серебром. Покупателя это устраивает, но вся прибыль от задания исчезает.</chupakobra6_3687071198_job.clean-hands.node.e-covered.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.e-covered.Title>Доплата из своего кармана</chupakobra6_3687071198_job.clean-hands.node.e-covered.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.e-defected.Text>Экипаж минует покупателя и доставляет груз вместе с маршрутными ведомостями решалы прямо в контору синдиката. Серебро выплачивают сразу, но решала объявляет бессрочную награду за головы членов экипажа.</chupakobra6_3687071198_job.clean-hands.node.e-defected.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.e-defected.Title>Продано синдикату</chupakobra6_3687071198_job.clean-hands.node.e-defected.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.e-down.Text>Перестрелка складывается не в пользу экипажа. Выживших разоружают и уволакивают в камеры на нижних палубах.</chupakobra6_3687071198_job.clean-hands.node.e-down.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.e-down.Title>Экипаж разбит</chupakobra6_3687071198_job.clean-hands.node.e-down.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.e-folded.Text>Охрана КПП загоняет экипаж в угол. Ваши люди бросают кейс и отступают. Груз конфискуют, а решала отказывается иметь с вами дело.</chupakobra6_3687071198_job.clean-hands.node.e-folded.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.e-folded.Title>Груз сдан</chupakobra6_3687071198_job.clean-hands.node.e-folded.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.e-professional.Text>Покупатель признаёт вашу правоту и отвешивает 450 серебра монетами. Решала добивается исключительных прав на поставки, синдикат остаётся не у дел, а экипаж покидает палубу без единого выстрела.</chupakobra6_3687071198_job.clean-hands.node.e-professional.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.e-professional.Title>Чистая передача</chupakobra6_3687071198_job.clean-hands.node.e-professional.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.e-shotout.Text>Базар охватывает перестрелка. Экипаж ускользает с серебром покупателя, но охрана станции перекрывает сектор и объявляет членов экипажа в розыск.</chupakobra6_3687071198_job.clean-hands.node.e-shotout.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.e-shotout.Title>Прорыв с боем</chupakobra6_3687071198_job.clean-hands.node.e-shotout.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.e-turned.Text>Покупатель соглашается порвать все связи с синдикатом, но предупреждает: местные бойцы отомстят каждому, кого заметят в его магазине.</chupakobra6_3687071198_job.clean-hands.node.e-turned.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.e-turned.Title>Разрыв с синдикатом</chupakobra6_3687071198_job.clean-hands.node.e-turned.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.e-walked.Text>Экипаж оставляет кейс на скамье и отказывается от контракта.</chupakobra6_3687071198_job.clean-hands.node.e-walked.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.e-walked.Title>Уйти.</chupakobra6_3687071198_job.clean-hands.node.e-walked.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.o-fight-buyer.Text>Покупатель ныряет в хранилище. Его телохранитель включает мощные подкожные сервоприводы и достаёт тяжёлый магнум!</chupakobra6_3687071198_job.clean-hands.node.o-fight-buyer.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.o-fight-buyer.Title>Перестрелка в кабинете</chupakobra6_3687071198_job.clean-hands.node.o-fight-buyer.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.o-fight-concourse.Text>Над базаром воют сирены, дробь выбивает куски стен! Начинается «Пятничная перестрелка»: одолейте бойцов синдиката или умрите на кафеле.</chupakobra6_3687071198_job.clean-hands.node.o-fight-concourse.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.o-fight-concourse.Title>Перестрелка в зале</chupakobra6_3687071198_job.clean-hands.node.o-fight-concourse.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.o-inspected.Text>Свинцовая пломба сорвана, кейс открыт. Электроника цела и соответствует накладной. Сорванная пломба рассердит решалу, зато теперь ясно: груз на месте.</chupakobra6_3687071198_job.clean-hands.node.o-inspected.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.o-inspected.Title>Груз проверен</chupakobra6_3687071198_job.clean-hands.node.o-inspected.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.o-tac-ambush.Text>{pawn} с отвратительным хрустом впечатывает главного часового в стальной барьер. Оглушённый боец падает и пропускает начало схватки!</chupakobra6_3687071198_job.clean-hands.node.o-tac-ambush.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.o-tac-ambush.Title>Главный часовой выведен из строя</chupakobra6_3687071198_job.clean-hands.node.o-tac-ambush.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.o-tac-flank.Text>{pawn} закрепляется на балке верхнего мостика: отсюда всё как на ладони. Экипаж получает тактическую инициативу!</chupakobra6_3687071198_job.clean-hands.node.o-tac-flank.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.o-tac-flank.Title>Высота занята</chupakobra6_3687071198_job.clean-hands.node.o-tac-flank.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.o-tac-smoke.Text>По залу стелется густой серый аэрозоль! Охранники кашляют и стреляют вслепую, а экипаж занимает надёжное укрытие.</chupakobra6_3687071198_job.clean-hands.node.o-tac-smoke.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.o-tac-smoke.Title>Дымовая завеса</chupakobra6_3687071198_job.clean-hands.node.o-tac-smoke.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.s-decoy-prep.Text>С таким грузом опасно идти через КПП. Можно подготовить отвлекающий манёвр или замаскироваться. {pawn} раскладывает инструменты, а {pawn2} проверяет доступные припасы.</chupakobra6_3687071198_job.clean-hands.node.s-decoy-prep.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.s-decoy-prep.Title>Подготовка груза</chupakobra6_3687071198_job.clean-hands.node.s-decoy-prep.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.s1-blind.Text>Зал кажется свободным, но тишина настораживает. Готовя груз к переноске, {pawn} подаёт знак напарнику по имени {pawn2}: держать оружие наготове под курткой.</chupakobra6_3687071198_job.clean-hands.node.s1-blind.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.s1-blind.Title>Коридор свободен</chupakobra6_3687071198_job.clean-hands.node.s1-blind.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.s1-read.Text>{pawn} прислоняется к переборке ниши и высматривает наблюдателей в толпе. Тем временем {pawn2} слушает переговоры на частоте палубы. Один подозрительный взгляд — и соглядатай поймёт, что его заметили.</chupakobra6_3687071198_job.clean-hands.node.s1-read.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.s1-read.Title>Проверить, нет ли наблюдателей.</chupakobra6_3687071198_job.clean-hands.node.s1-read.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.s1-tailed.Text>{pawn} замечает за киоском с лапшой наблюдателя синдиката: тот перебирает пальцами спрятанную рацию. {pawn2} кивает на технический лаз — через него можно обойти поле зрения соглядатая.</chupakobra6_3687071198_job.clean-hands.node.s1-tailed.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.s1-tailed.Title>Соглядатай замечен</chupakobra6_3687071198_job.clean-hands.node.s1-tailed.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.s1.Text>Экипаж встречается с курьером в тесной технической нише за базаром. Тот ставит тяжёлый кейс на замасленную скамью и объясняет, что патрули синдиката обыскивают путников на проходных зала. {pawn} осматривает пломбы, а {pawn2} следит за подступами по коридору.</chupakobra6_3687071198_job.clean-hands.node.s1.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.s1.Title>Передача в нише</chupakobra6_3687071198_job.clean-hands.node.s1.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.s2-blend.Text>{pawn} несёт груз на плече, подстраиваясь под шаг рабочих, идущих со смены. {pawn2} прикрывает снаружи, заслоняя кейс от посторонних глаз.</chupakobra6_3687071198_job.clean-hands.node.s2-blend.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.s2-blend.Title>Затеряться в толпе.</chupakobra6_3687071198_job.clean-hands.node.s2-blend.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.s2-clear.Text>{pawn} и {pawn2} минуют баррикады, не привлекая лишнего внимания. Позади кордон охраны теряется в толпе.</chupakobra6_3687071198_job.clean-hands.node.s2-clear.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.s2-clear.Title>Кордон позади</chupakobra6_3687071198_job.clean-hands.node.s2-clear.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.s2-made.Text>Раздаётся громкий сигнал тревоги! Часовой КПП направляет полицейский дробовик прямо в грудь участника группы по имени {pawn}. За барьером бойцы торопливо занимают боевые позиции!</chupakobra6_3687071198_job.clean-hands.node.s2-made.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.s2-made.Title>Остановлены на кордоне</chupakobra6_3687071198_job.clean-hands.node.s2-made.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.s2-pay.Text>{pawn} отсчитывает серебро в ладонь технику, а {pawn2} следит за углами обзора камер.</chupakobra6_3687071198_job.clean-hands.node.s2-pay.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.s2-pay.Title>Подкупить техника ради доступа в туннель.</chupakobra6_3687071198_job.clean-hands.node.s2-pay.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.s2-shoot.Text>{pawn} с убийственным спокойствием достаёт оружие и передёргивает затвор, прежде чем часовые успевают осознать угрозу.</chupakobra6_3687071198_job.clean-hands.node.s2-shoot.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.s2-shoot.Title>Просто застрелить охранников.</chupakobra6_3687071198_job.clean-hands.node.s2-shoot.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.s2-talk.Text>{pawn} направляется прямо к стойке охраны с поддельными документами на получение груза. {pawn2} стоит рядом с непроницаемым лицом.</chupakobra6_3687071198_job.clean-hands.node.s2-talk.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.s2-talk.Title>Обмануть охрану с помощью документов.</chupakobra6_3687071198_job.clean-hands.node.s2-talk.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.s2-vent.Text>{pawn} отвинчивает вытяжную решётку, а {pawn2} поднимает тяжёлый кейс в тесный воздуховод.</chupakobra6_3687071198_job.clean-hands.node.s2-vent.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.s2-vent.Title>Проползти по вентиляции.</chupakobra6_3687071198_job.clean-hands.node.s2-vent.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.s2.Text>Впереди, за тяжёлыми защитными барьерами, виднеется КПП. Вооружённые бойцы синдиката внимательно осматривают каждого, кто пересекает кордон. {pawn} подаёт знак напарнику по имени {pawn2}: пора выбрать путь.</chupakobra6_3687071198_job.clean-hands.node.s2.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.s2.Title>Через зал</chupakobra6_3687071198_job.clean-hands.node.s2.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.s3-defect.Text>{pawn} предлагает продать груз напрямую синдикату: верность в обмен на немедленный расчёт.</chupakobra6_3687071198_job.clean-hands.node.s3-defect.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.s3-defect.Title>Вместо этого продать груз синдикату.</chupakobra6_3687071198_job.clean-hands.node.s3-defect.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.s3-intimidate.Text>{pawn} бесцеремонно подходит к торговцу вплотную, а {pawn2} спокойно запирает укреплённую дверь кабинета.</chupakobra6_3687071198_job.clean-hands.node.s3-intimidate.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.s3-intimidate.Title>Потребовать полную оплату.</chupakobra6_3687071198_job.clean-hands.node.s3-intimidate.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.s3-persuade.Text>{pawn} предъявляет результаты проверки поставок: синдикат присваивает часть товара покупателя. {pawn2} тем временем ставит на стол кейс с целой пломбой.</chupakobra6_3687071198_job.clean-hands.node.s3-persuade.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.s3-persuade.Title>Обвинить синдикат.</chupakobra6_3687071198_job.clean-hands.node.s3-persuade.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.s3-shoot.Text>{pawn} направляет оружие покупателю прямо в лоб. Торг окончен.</chupakobra6_3687071198_job.clean-hands.node.s3-shoot.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.s3-shoot.Title>Застрелить покупателя.</chupakobra6_3687071198_job.clean-hands.node.s3-shoot.Title>
+  <chupakobra6_3687071198_job.clean-hands.node.s3.Text>В кабинете покупателя пахнет озоном и дешёвыми сигарами. Торговец электроникой сидит за укреплённым столом; рядом — бронированный телохранитель с имплантами. Посетителей встречает холодный, недоверчивый взгляд. Перед ним стоят {pawn} и {pawn2}.</chupakobra6_3687071198_job.clean-hands.node.s3.Text>
+  <chupakobra6_3687071198_job.clean-hands.node.s3.Title>Кабинет покупателя</chupakobra6_3687071198_job.clean-hands.node.s3.Title>
+  <chupakobra6_3687071198_job.cold-read.Name>Холодное чтение</chupakobra6_3687071198_job.cold-read.Name>
+  <chupakobra6_3687071198_job.cold-read.Subtitle>Проникните на приём руководителей со скрытым микрофоном и добудьте доказательства корпоративных откатов.</chupakobra6_3687071198_job.cold-read.Subtitle>
+  <chupakobra6_3687071198_job.cold-read.edge.a-bar-bodyguard.burn.Fail.Label>Всю вину за пролитый напиток возложили на вас. В зале повисла мёртвая тишина.</chupakobra6_3687071198_job.cold-read.edge.a-bar-bodyguard.burn.Fail.Label>
+  <chupakobra6_3687071198_job.cold-read.edge.a-bar-bodyguard.s-convo.Success.Label>громила отошёл</chupakobra6_3687071198_job.cold-read.edge.a-bar-bodyguard.s-convo.Success.Label>
+  <chupakobra6_3687071198_job.cold-read.edge.a-bar-drink.s-convo.Fail.Label>дорогая отрава куплена, язык развязался</chupakobra6_3687071198_job.cold-read.edge.a-bar-drink.s-convo.Fail.Label>
+  <chupakobra6_3687071198_job.cold-read.edge.a-bar-drink.s-convo.Success.Label>льётся синтетический алкоголь</chupakobra6_3687071198_job.cold-read.edge.a-bar-drink.s-convo.Success.Label>
+  <chupakobra6_3687071198_job.cold-read.edge.a-bar-mic.s-convo.Fail.Label>на линии помехи, но микрофон ещё работает</chupakobra6_3687071198_job.cold-read.edge.a-bar-mic.s-convo.Fail.Label>
+  <chupakobra6_3687071198_job.cold-read.edge.a-bar-mic.s-convo.Success.Label>шумоподавление микрофона включено</chupakobra6_3687071198_job.cold-read.edge.a-bar-mic.s-convo.Success.Label>
+  <chupakobra6_3687071198_job.cold-read.edge.a-perf.burn.Fail.Label>Имени нет в списке; охрана сектора уведомлена о вашем местонахождении.</chupakobra6_3687071198_job.cold-read.edge.a-perf.burn.Fail.Label>
+  <chupakobra6_3687071198_job.cold-read.edge.a-perf.s-bar-prep.Success.Label>гость допущен</chupakobra6_3687071198_job.cold-read.edge.a-perf.s-bar-prep.Success.Label>
+  <chupakobra6_3687071198_job.cold-read.edge.a-staff.burn.Fail.Label>персонал зала проверил ваши документы</chupakobra6_3687071198_job.cold-read.edge.a-staff.burn.Fail.Label>
+  <chupakobra6_3687071198_job.cold-read.edge.a-staff.s-bar-prep.Success.Label>проскользнули с доставкой еды</chupakobra6_3687071198_job.cold-read.edge.a-staff.s-bar-prep.Success.Label>
+  <chupakobra6_3687071198_job.cold-read.edge.a-street.burn.Fail.Label>поддельное удостоверение, холодные взгляды</chupakobra6_3687071198_job.cold-read.edge.a-street.burn.Fail.Label>
+  <chupakobra6_3687071198_job.cold-read.edge.a-street.s-bar-prep.Success.Label>псевдоним назван</chupakobra6_3687071198_job.cold-read.edge.a-street.s-bar-prep.Success.Label>
+  <chupakobra6_3687071198_job.cold-read.edge.burn.a-tac-ambush-burn.Choice.Label>Сбить телохранителя с ног.</chupakobra6_3687071198_job.cold-read.edge.burn.a-tac-ambush-burn.Choice.Label>
+  <chupakobra6_3687071198_job.cold-read.edge.burn.a-tac-smoke-burn.Choice.Label>Бросить дымовую гранату.</chupakobra6_3687071198_job.cold-read.edge.burn.a-tac-smoke-burn.Choice.Label>
+  <chupakobra6_3687071198_job.cold-read.edge.fork.e-blackmail.Choice.Label>Продать запись самому руководителю.</chupakobra6_3687071198_job.cold-read.edge.fork.e-blackmail.Choice.Label>
+  <chupakobra6_3687071198_job.cold-read.edge.fork.e-delivered.Choice.Label>Передать запись решале.</chupakobra6_3687071198_job.cold-read.edge.fork.e-delivered.Choice.Label>
+  <chupakobra6_3687071198_job.cold-read.node.a-bar-bodyguard.Text>{pawn} будто случайно проливает напиток на рукав телохранителя. {pawn2} уводит руководителя в сторону.</chupakobra6_3687071198_job.cold-read.node.a-bar-bodyguard.Text>
+  <chupakobra6_3687071198_job.cold-read.node.a-bar-bodyguard.Title>Пролить напиток на телохранителя.</chupakobra6_3687071198_job.cold-read.node.a-bar-bodyguard.Title>
+  <chupakobra6_3687071198_job.cold-read.node.a-bar-direct.Text>Участник группы подходит прямо к бару и представляется руководителю.</chupakobra6_3687071198_job.cold-read.node.a-bar-direct.Text>
+  <chupakobra6_3687071198_job.cold-read.node.a-bar-direct.Title>Подойти и заговорить с ним.</chupakobra6_3687071198_job.cold-read.node.a-bar-direct.Title>
+  <chupakobra6_3687071198_job.cold-read.node.a-bar-drink.Text>{pawn} заказывает к столу руководителя дорогую бутылку выдержанного алкоголя, а {pawn2} устраивается в соседней кабинке.</chupakobra6_3687071198_job.cold-read.node.a-bar-drink.Text>
+  <chupakobra6_3687071198_job.cold-read.node.a-bar-drink.Title>Угостить его дорогой выпивкой.</chupakobra6_3687071198_job.cold-read.node.a-bar-drink.Title>
+  <chupakobra6_3687071198_job.cold-read.node.a-bar-mic.Text>{pawn} настраивает частоту воротника с микрофоном, а {pawn2} регулирует фильтры подавления фонового шума.</chupakobra6_3687071198_job.cold-read.node.a-bar-mic.Text>
+  <chupakobra6_3687071198_job.cold-read.node.a-bar-mic.Title>Настроить воротник с микрофоном.</chupakobra6_3687071198_job.cold-read.node.a-bar-mic.Title>
+  <chupakobra6_3687071198_job.cold-read.node.a-convo-jealousy.Text>{pawn} играет на тщеславии руководителя, подталкивая его хвастаться незаконным выводом средств через подставные фирмы. {pawn2} следит за уровнем звука.</chupakobra6_3687071198_job.cold-read.node.a-convo-jealousy.Text>
+  <chupakobra6_3687071198_job.cold-read.node.a-convo-jealousy.Title>Польстить его положению в корпорации.</chupakobra6_3687071198_job.cold-read.node.a-convo-jealousy.Title>
+  <chupakobra6_3687071198_job.cold-read.node.a-convo-kickback.Text>{pawn} шёпотом предлагает схему отмывания через офшоры, выманивая подтверждение сумм откатов. {pawn2} записывает разговор.</chupakobra6_3687071198_job.cold-read.node.a-convo-kickback.Text>
+  <chupakobra6_3687071198_job.cold-read.node.a-convo-kickback.Title>Предложить схему отмывания через офшоры.</chupakobra6_3687071198_job.cold-read.node.a-convo-kickback.Title>
+  <chupakobra6_3687071198_job.cold-read.node.a-convo-tablet.Text>{pawn} склоняется над его плечом якобы для того, чтобы долить напиток, и запоминает зашифрованные бухгалтерские записи. {pawn2} отвлекает руководителя.</chupakobra6_3687071198_job.cold-read.node.a-convo-tablet.Text>
+  <chupakobra6_3687071198_job.cold-read.node.a-convo-tablet.Title>Запомнить счета на его планшете.</chupakobra6_3687071198_job.cold-read.node.a-convo-tablet.Title>
+  <chupakobra6_3687071198_job.cold-read.node.a-cool.Text>{pawn} пренебрежительно смеётся и показывает поддельную дипломатическую карточку. {pawn2} спокойно прикрывает микрофон.</chupakobra6_3687071198_job.cold-read.node.a-cool.Text>
+  <chupakobra6_3687071198_job.cold-read.node.a-cool.Title>Отшутиться от проверки.</chupakobra6_3687071198_job.cold-read.node.a-cool.Title>
+  <chupakobra6_3687071198_job.cold-read.node.a-perf.Text>{pawn} поправляет лацкан сшитого на заказ костюма и предъявляет фальшивое приглашение. {pawn2} изображает внимательного помощника.</chupakobra6_3687071198_job.cold-read.node.a-perf.Text>
+  <chupakobra6_3687071198_job.cold-read.node.a-perf.Title>Выдать себя за приглашённого гостя.</chupakobra6_3687071198_job.cold-read.node.a-perf.Title>
+  <chupakobra6_3687071198_job.cold-read.node.a-shoot-door.Text>{pawn} достаёт оружие с глушителем и убивает швейцара прямо перед лифтом. Действуют правила «Пятничной перестрелки»!</chupakobra6_3687071198_job.cold-read.node.a-shoot-door.Text>
+  <chupakobra6_3687071198_job.cold-read.node.a-shoot-door.Title>Просто застрелить швейцара.</chupakobra6_3687071198_job.cold-read.node.a-shoot-door.Title>
+  <chupakobra6_3687071198_job.cold-read.node.a-shoot-floor.Text>{pawn} и {pawn2} выхватывают оружие и открывают огонь! «Пятничная перестрелка»: одолейте элитного телохранителя и сохраните запись!</chupakobra6_3687071198_job.cold-read.node.a-shoot-floor.Text>
+  <chupakobra6_3687071198_job.cold-read.node.a-shoot-floor.Title>Достать оружие и стрелять.</chupakobra6_3687071198_job.cold-read.node.a-shoot-floor.Title>
+  <chupakobra6_3687071198_job.cold-read.node.a-staff.Text>{pawn} катит тележку с шампанским через служебный вход, а {pawn2} придерживает магнитную защёлку двери.</chupakobra6_3687071198_job.cold-read.node.a-staff.Text>
+  <chupakobra6_3687071198_job.cold-read.node.a-staff.Title>Проскользнуть через вход для доставки еды.</chupakobra6_3687071198_job.cold-read.node.a-staff.Title>
+  <chupakobra6_3687071198_job.cold-read.node.a-street.Text>{pawn} невзначай произносит имя высокопоставленного директора с уверенностью человека из руководства. {pawn2} указывает на VIP-лифты.</chupakobra6_3687071198_job.cold-read.node.a-street.Text>
+  <chupakobra6_3687071198_job.cold-read.node.a-street.Title>Сослаться на влиятельного руководителя.</chupakobra6_3687071198_job.cold-read.node.a-street.Title>
+  <chupakobra6_3687071198_job.cold-read.node.a-tac-ambush-burn.Text>{pawn} бросается через мраморную барную стойку на телохранителя с имплантами, пока тот не поднял пистолет. {pawn2} следует вплотную.</chupakobra6_3687071198_job.cold-read.node.a-tac-ambush-burn.Text>
+  <chupakobra6_3687071198_job.cold-read.node.a-tac-ambush-burn.Title>Сбить телохранителя с ног.</chupakobra6_3687071198_job.cold-read.node.a-tac-ambush-burn.Title>
+  <chupakobra6_3687071198_job.cold-read.node.a-tac-smoke-burn.Text>{pawn} бросает дымовую гранату в вентиляционный канал зала, а {pawn2} достаёт оружие. Густой аэрозоль даст экипажу надёжное укрытие.</chupakobra6_3687071198_job.cold-read.node.a-tac-smoke-burn.Text>
+  <chupakobra6_3687071198_job.cold-read.node.a-tac-smoke-burn.Title>Бросить дымовую гранату.</chupakobra6_3687071198_job.cold-read.node.a-tac-smoke-burn.Title>
+  <chupakobra6_3687071198_job.cold-read.node.brief.Text>Конкурирующий корпоративный синдикат предлагает 700 серебра за записанное признание коррумпированного орбитального руководителя. Тот проводит вечера за выпивкой на частной обзорной террасе Шпиля, под охраной и с элитным кибернетическим телохранителем. Заказчик выдаёт жучок и подчёркивает: уйти нужно неопознанными.</chupakobra6_3687071198_job.cold-read.node.brief.Text>
+  <chupakobra6_3687071198_job.cold-read.node.brief.Title>Инструктаж</chupakobra6_3687071198_job.cold-read.node.brief.Title>
+  <chupakobra6_3687071198_job.cold-read.node.burn.Text>Пищат сканеры! По террасе разносится гул тревоги. Элитный телохранитель с имплантами встаёт перед руководителем с оружием наготове!</chupakobra6_3687071198_job.cold-read.node.burn.Text>
+  <chupakobra6_3687071198_job.cold-read.node.burn.Title>Проверка охраны</chupakobra6_3687071198_job.cold-read.node.burn.Title>
+  <chupakobra6_3687071198_job.cold-read.node.e-blackmail.Text>Экипаж обходит решалу и напрямую связывается с вице-президентом, требуя плату за молчание. Тот выплачивает 1100 серебра единовременно.</chupakobra6_3687071198_job.cold-read.node.e-blackmail.Text>
+  <chupakobra6_3687071198_job.cold-read.node.e-blackmail.Title>Прямой шантаж</chupakobra6_3687071198_job.cold-read.node.e-blackmail.Title>
+  <chupakobra6_3687071198_job.cold-read.node.e-delivered.Text>Запись передана решале. Станционные ревизоры арестовывают вице-президента, а экипаж получает 700 серебра.</chupakobra6_3687071198_job.cold-read.node.e-delivered.Text>
+  <chupakobra6_3687071198_job.cold-read.node.e-delivered.Title>Доказательства переданы</chupakobra6_3687071198_job.cold-read.node.e-delivered.Title>
+  <chupakobra6_3687071198_job.cold-read.node.e-made.Text>Телохранитель разоружает участника группы и тащит на допрос. Жучок вырывают; экипажу едва удаётся сбежать.</chupakobra6_3687071198_job.cold-read.node.e-made.Text>
+  <chupakobra6_3687071198_job.cold-read.node.e-made.Title>Поимка и допрос</chupakobra6_3687071198_job.cold-read.node.e-made.Title>
+  <chupakobra6_3687071198_job.cold-read.node.e-shotout.Text>После перестрелки экипаж с боем спускается по лестницам Шпиля. Запись удаётся вынести, но теперь корпоративная охрана усиленно ищет ваших людей.</chupakobra6_3687071198_job.cold-read.node.e-shotout.Text>
+  <chupakobra6_3687071198_job.cold-read.node.e-shotout.Title>Кровавый отход</chupakobra6_3687071198_job.cold-read.node.e-shotout.Title>
+  <chupakobra6_3687071198_job.cold-read.node.e-slipout.Text>Участник группы извиняется, растворяется в толпе и уходит через служебный лифт с полной записью.</chupakobra6_3687071198_job.cold-read.node.e-slipout.Text>
+  <chupakobra6_3687071198_job.cold-read.node.e-slipout.Title>Ушли незаметно</chupakobra6_3687071198_job.cold-read.node.e-slipout.Title>
+  <chupakobra6_3687071198_job.cold-read.node.e-thin.Text>Разговоры в зале заглушают запись. Решала принимает данные, но уменьшает оплату до 400 серебра.</chupakobra6_3687071198_job.cold-read.node.e-thin.Text>
+  <chupakobra6_3687071198_job.cold-read.node.e-thin.Title>Неполная запись</chupakobra6_3687071198_job.cold-read.node.e-thin.Title>
+  <chupakobra6_3687071198_job.cold-read.node.fork.Text>Экипаж в безопасности за пределами пентхауса. У вас чёткая запись признания и номера личных счетов вице-президента.</chupakobra6_3687071198_job.cold-read.node.fork.Text>
+  <chupakobra6_3687071198_job.cold-read.node.fork.Title>Рычаг давления</chupakobra6_3687071198_job.cold-read.node.fork.Title>
+  <chupakobra6_3687071198_job.cold-read.node.o-fight.Text>По террасе разлетается стекло: элитный телохранитель отвечает скоростным огнём стрелочных боеприпасов! Устраните его до прибытия подкрепления!</chupakobra6_3687071198_job.cold-read.node.o-fight.Text>
+  <chupakobra6_3687071198_job.cold-read.node.o-fight.Title>Перестрелка в пентхаусе</chupakobra6_3687071198_job.cold-read.node.o-fight.Title>
+  <chupakobra6_3687071198_job.cold-read.node.o-tac-ambush-burn.Text>{pawn} швыряет кибернетического телохранителя на стеклянный кофейный столик! Стекло разбивается, а оглушённый телохранитель пропускает начало схватки!</chupakobra6_3687071198_job.cold-read.node.o-tac-ambush-burn.Text>
+  <chupakobra6_3687071198_job.cold-read.node.o-tac-ambush-burn.Title>Телохранитель повержен</chupakobra6_3687071198_job.cold-read.node.o-tac-ambush-burn.Title>
+  <chupakobra6_3687071198_job.cold-read.node.o-tac-smoke-burn.Text>Густой химический дым заливает террасу пентхауса! Руководитель в панике кашляет, а телохранитель стреляет вслепую.</chupakobra6_3687071198_job.cold-read.node.o-tac-smoke-burn.Text>
+  <chupakobra6_3687071198_job.cold-read.node.o-tac-smoke-burn.Title>Дымовая пелена</chupakobra6_3687071198_job.cold-read.node.o-tac-smoke-burn.Title>
+  <chupakobra6_3687071198_job.cold-read.node.s-bar-prep.Text>С обзорной террасы видны светящиеся кольца газового гиганта. Руководитель сидит за отдельной мраморной барной стойкой. {pawn} и {pawn2} занимают позиции для установки подслушивающего устройства.</chupakobra6_3687071198_job.cold-read.node.s-bar-prep.Text>
+  <chupakobra6_3687071198_job.cold-read.node.s-bar-prep.Title>Зал приёмов</chupakobra6_3687071198_job.cold-read.node.s-bar-prep.Title>
+  <chupakobra6_3687071198_job.cold-read.node.s-convo.Text>Руководитель покачивает бокал и жалуется на корпоративные нормы и нехватку поставок. {pawn} направляет разговор, а {pawn2} следит за обходом охраны.</chupakobra6_3687071198_job.cold-read.node.s-convo.Text>
+  <chupakobra6_3687071198_job.cold-read.node.s-convo.Title>Разговор</chupakobra6_3687071198_job.cold-read.node.s-convo.Title>
+  <chupakobra6_3687071198_job.cold-read.node.s1.Text>Вход в Шпиль залит янтарным неоном. Частная охрана проверяет биометрические приглашения. {pawn} и {pawn2} оценивают пути проникновения.</chupakobra6_3687071198_job.cold-read.node.s1.Text>
+  <chupakobra6_3687071198_job.cold-read.node.s1.Title>Вход в Шпиль</chupakobra6_3687071198_job.cold-read.node.s1.Title>
+  <chupakobra6_3687071198_job.cut-shift.Name>Примесь</chupakobra6_3687071198_job.cut-shift.Name>
+  <chupakobra6_3687071198_job.cut-shift.Subtitle>Разбавьте товар решалы промышленными примесями. Только не попадитесь на недовесе под мерцающими лампами.</chupakobra6_3687071198_job.cut-shift.Subtitle>
+  <chupakobra6_3687071198_job.cut-shift.node.brief.Text>Заготовка (QuestBacklog §11.4). Проверки химии удерживают смесь стабильной; красноречие помогает сбыть её покупателю, взвешивающему каждую крупицу. Планируемые финалы: «Идеальная примесь» — чистая прибыль; «Разоблачение» — запрет на доступ и подозрения; «Диверсия против соперника» — ветка подрывного дела с уничтожением чужого товара.</chupakobra6_3687071198_job.cut-shift.node.brief.Text>
+  <chupakobra6_3687071198_job.cut-shift.node.brief.Title>Инструктаж</chupakobra6_3687071198_job.cut-shift.node.brief.Title>
+  <chupakobra6_3687071198_job.cut-shift.node.todo.Text>Это задание ещё находится в плане разработки. Инструктаж выше — исходный набросок; сцены, способы действий, развилки и кровавые финалы пока не написаны.</chupakobra6_3687071198_job.cut-shift.node.todo.Text>
+  <chupakobra6_3687071198_job.cut-shift.node.todo.Title>Не завершено</chupakobra6_3687071198_job.cut-shift.node.todo.Title>
+  <chupakobra6_3687071198_job.dock-shift.Name>Смена в доках</chupakobra6_3687071198_job.dock-shift.Name>
+  <chupakobra6_3687071198_job.dock-shift.Subtitle>Отработайте честную грузовую смену в доках; по пути найдутся возможности разжиться утилём или что-нибудь украсть.</chupakobra6_3687071198_job.dock-shift.Subtitle>
+  <chupakobra6_3687071198_job.dock-shift.edge.a-coast.s-crisis.Default.Label>четыре часа растворяются в шипении</chupakobra6_3687071198_job.dock-shift.edge.a-coast.s-crisis.Default.Label>
+  <chupakobra6_3687071198_job.dock-shift.edge.a-pilfer-blindspot.o-pilfer-caught.Fail.Label>камера заметила движение</chupakobra6_3687071198_job.dock-shift.edge.a-pilfer-blindspot.o-pilfer-caught.Fail.Label>
+  <chupakobra6_3687071198_job.dock-shift.edge.a-pilfer-blindspot.s-pilfer-stash.Success.Label>проход найден</chupakobra6_3687071198_job.dock-shift.edge.a-pilfer-blindspot.s-pilfer-stash.Success.Label>
+  <chupakobra6_3687071198_job.dock-shift.edge.a-pilfer-distract.o-pilfer-caught.Fail.Label>поддельные показания давления обнаружены</chupakobra6_3687071198_job.dock-shift.edge.a-pilfer-distract.o-pilfer-caught.Fail.Label>
+  <chupakobra6_3687071198_job.dock-shift.edge.a-pilfer-distract.s-pilfer-stash.Success.Label>надзиратель смотрит в другую сторону</chupakobra6_3687071198_job.dock-shift.edge.a-pilfer-distract.s-pilfer-stash.Success.Label>
+  <chupakobra6_3687071198_job.dock-shift.edge.a-pilfer-manifest.o-pilfer-caught.Fail.Label>тревога на терминале</chupakobra6_3687071198_job.dock-shift.edge.a-pilfer-manifest.o-pilfer-caught.Fail.Label>
+  <chupakobra6_3687071198_job.dock-shift.edge.a-pilfer-manifest.s-pilfer-stash.Success.Label>учётная запись стёрта</chupakobra6_3687071198_job.dock-shift.edge.a-pilfer-manifest.s-pilfer-stash.Success.Label>
+  <chupakobra6_3687071198_job.dock-shift.edge.a-work.s-crisis.Fail.Label>нужный тоннаж ещё не набран, ящики всё тащат</chupakobra6_3687071198_job.dock-shift.edge.a-work.s-crisis.Fail.Label>
+  <chupakobra6_3687071198_job.dock-shift.edge.a-work.s-crisis.Success.Label>норма перевыполнена, конвейер продолжает грохотать</chupakobra6_3687071198_job.dock-shift.edge.a-work.s-crisis.Success.Label>
+  <chupakobra6_3687071198_job.dock-shift.edge.o-crisis-saved.e-hero.Choice.Label>вызов по трещащему интеркому</chupakobra6_3687071198_job.dock-shift.edge.o-crisis-saved.e-hero.Choice.Label>
+  <chupakobra6_3687071198_job.dock-shift.edge.o-crisis-saved.e-paid.Choice.Label>тяжёлый труд, монеты в ладони</chupakobra6_3687071198_job.dock-shift.edge.o-crisis-saved.e-paid.Choice.Label>
+  <chupakobra6_3687071198_job.dock-shift.edge.o-crisis-smashed.e-coast.Default.Label>досрочное завершение смены</chupakobra6_3687071198_job.dock-shift.edge.o-crisis-smashed.e-coast.Default.Label>
+  <chupakobra6_3687071198_job.dock-shift.edge.o-pilfer-caught.e-docked.Choice.Label>Подчиниться и заплатить штраф.</chupakobra6_3687071198_job.dock-shift.edge.o-pilfer-caught.e-docked.Choice.Label>
+  <chupakobra6_3687071198_job.dock-shift.edge.o-pilfer-caught.o-fight-gantry.Violence.Label>Прорваться через патруль охраны с боем.</chupakobra6_3687071198_job.dock-shift.edge.o-pilfer-caught.o-fight-gantry.Violence.Label>
+  <chupakobra6_3687071198_job.dock-shift.node.a-coast.Text>{pawn} и {pawn2} держат темп самых медленных рабочих, не привлекают внимания и ждут конца смены.</chupakobra6_3687071198_job.dock-shift.node.a-coast.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.a-coast.Title>Работать без спешки.</chupakobra6_3687071198_job.dock-shift.node.a-coast.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.a-crisis-duck.Text>{pawn} и {pawn2} ныряют за укреплённые стойки и прикрывают головы, пока контейнер проносится мимо.</chupakobra6_3687071198_job.dock-shift.node.a-crisis-duck.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.a-crisis-duck.Title>Укрыться.</chupakobra6_3687071198_job.dock-shift.node.a-crisis-duck.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.a-crisis-panel.Text>{pawn} пинком открывает распределительный щит крана, а {pawn2} ударяет по выключателю аварийного стопора.</chupakobra6_3687071198_job.dock-shift.node.a-crisis-panel.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.a-crisis-panel.Title>Включить аварийный тормоз.</chupakobra6_3687071198_job.dock-shift.node.a-crisis-panel.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.a-crisis-shout.Text>{pawn} включает предупреждающую сирену. {pawn2} сбивает с ног двух оцепеневших докеров, выталкивая их из-под падающего груза.</chupakobra6_3687071198_job.dock-shift.node.a-crisis-shout.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.a-crisis-shout.Title>Крикнуть предупреждение.</chupakobra6_3687071198_job.dock-shift.node.a-crisis-shout.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.a-crisis-tether.Text>{pawn} выстреливает пневматическим магнитным тросом, а {pawn2} блокирует аварийный тормоз лебёдки.</chupakobra6_3687071198_job.dock-shift.node.a-crisis-tether.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.a-crisis-tether.Title>Зацепить страховочный трос.</chupakobra6_3687071198_job.dock-shift.node.a-crisis-tether.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.a-pilfer-blindspot.Text>{pawn} отсчитывает повороты камеры, а {pawn2} тихо откатывает ящик в слепую зону.</chupakobra6_3687071198_job.dock-shift.node.a-pilfer-blindspot.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.a-pilfer-blindspot.Title>Пройти через слепую зону камеры.</chupakobra6_3687071198_job.dock-shift.node.a-pilfer-blindspot.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.a-pilfer-distract.Text>{pawn} подаёт ложный сигнал перегрева крана №4, а {pawn2} подходит к нужному ящику.</chupakobra6_3687071198_job.dock-shift.node.a-pilfer-distract.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.a-pilfer-distract.Title>Устроить ещё одну тревогу на кране.</chupakobra6_3687071198_job.dock-shift.node.a-pilfer-distract.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.a-pilfer-manifest.Text>{pawn} взламывает грузовой терминал, чтобы стереть серийный номер контейнера. {pawn2} закрывает происходящее от посторонних глаз.</chupakobra6_3687071198_job.dock-shift.node.a-pilfer-manifest.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.a-pilfer-manifest.Title>Удалить ящик из грузовой ведомости.</chupakobra6_3687071198_job.dock-shift.node.a-pilfer-manifest.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.a-pilfer.Text>{pawn} замечает неучтённый титановый контейнер с пломбами чёрного рынка и подаёт знак: {pawn2}, пора готовить отвлекающий манёвр.</chupakobra6_3687071198_job.dock-shift.node.a-pilfer.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.a-pilfer.Title>Поискать ценный груз.</chupakobra6_3687071198_job.dock-shift.node.a-pilfer.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.a-stash-bribe.Text>{pawn} подходит к привратнику у выхода с приготовленным серебром, а {pawn2} закрывает серийные номера.</chupakobra6_3687071198_job.dock-shift.node.a-stash-bribe.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.a-stash-bribe.Title>Подкупить охранника на выходе.</chupakobra6_3687071198_job.dock-shift.node.a-stash-bribe.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.a-stash-conduit.Text>{pawn} отвинчивает верхний технический воздуховод, а {pawn2} поднимает контейнер внутрь.</chupakobra6_3687071198_job.dock-shift.node.a-stash-conduit.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.a-stash-conduit.Title>Затолкать в воздуховод.</chupakobra6_3687071198_job.dock-shift.node.a-stash-conduit.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.a-stash-trash.Text>{pawn} засыпает ящик промышленным металлоломом, а {pawn2} разливает масло, скрывая свежие царапины.</chupakobra6_3687071198_job.dock-shift.node.a-stash-trash.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.a-stash-trash.Title>Закопать в металлоломе.</chupakobra6_3687071198_job.dock-shift.node.a-stash-trash.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.a-work.Text>{pawn} с усилием двигает рычаги гидравлического крана, а {pawn2} направляет висящий пятидесятитонный контейнер к шлюзу.</chupakobra6_3687071198_job.dock-shift.node.a-work.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.a-work.Title>Перетаскивать тяжёлые ящики.</chupakobra6_3687071198_job.dock-shift.node.a-work.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.brief.Text>Начальнику грузовых работ нужны надёжные люди, чтобы разобрать тяжело нагруженные контейнеры на крановом пути №12. Конструкции проржавели, из вентиляции воют поперечные потоки воздуха, камеры следят за каждым шагом. За смену он предлагает 250 серебра и с понимающим подмигиванием намекает: ценный груз иногда теряется.</chupakobra6_3687071198_job.dock-shift.node.brief.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.brief.Title>Инструктаж</chupakobra6_3687071198_job.dock-shift.node.brief.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.e-coast.Text>Экипаж делает лишь самый минимум и получает минимальную оплату. Начальник удерживает двадцать серебра за безделье, зато никто не пострадал.</chupakobra6_3687071198_job.dock-shift.node.e-coast.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.e-coast.Title>Смена позади</chupakobra6_3687071198_job.dock-shift.node.e-coast.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.e-docked.Text>Охрана обвиняет экипаж во вскрытии груза. Доковый мастер отбирает плату за смену и грозится больше не давать работу.</chupakobra6_3687071198_job.dock-shift.node.e-docked.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.e-docked.Title>Штраф и лишение оплаты</chupakobra6_3687071198_job.dock-shift.node.e-docked.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.e-down.Text>Экипаж расстреливают на крановом пути и уволакивают в изолятор.</chupakobra6_3687071198_job.dock-shift.node.e-down.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.e-down.Title>Экипаж разбит</chupakobra6_3687071198_job.dock-shift.node.e-down.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.e-hero.Text>Быстрые действия экипажа предотвращают смертельную аварию. Доковый начальник и благодарные рабочие вручают в награду в общей сложности 400 серебра.</chupakobra6_3687071198_job.dock-shift.node.e-hero.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.e-hero.Title>Герои доков</chupakobra6_3687071198_job.dock-shift.node.e-hero.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.e-loot.Text>После пересменки украденный военный контейнер извлекают из тайника и сбывают станционному посреднику за 750 серебра чистой монетой.</chupakobra6_3687071198_job.dock-shift.node.e-loot.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.e-loot.Title>Добыча для чёрного рынка</chupakobra6_3687071198_job.dock-shift.node.e-loot.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.e-paid.Text>Смена заканчивается без новых происшествий. Экипаж получает обычную оплату — 250 серебра — и покидает погрузочную линию уставшим, но невредимым.</chupakobra6_3687071198_job.dock-shift.node.e-paid.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.e-paid.Title>Честный заработок</chupakobra6_3687071198_job.dock-shift.node.e-paid.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.o-crisis-saved.Text>Стопор срабатывает со скрежетом и снопом искр. Контейнер останавливается в считаных сантиметрах от настила; рабочие внизу спасены.</chupakobra6_3687071198_job.dock-shift.node.o-crisis-saved.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.o-crisis-saved.Title>Контейнер удержан</chupakobra6_3687071198_job.dock-shift.node.o-crisis-saved.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.o-crisis-smashed.Text>Контейнер проламывает погрузочную рампу, давит оборудование и разбрасывает обломки ящиков по площадке.</chupakobra6_3687071198_job.dock-shift.node.o-crisis-smashed.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.o-crisis-smashed.Title>Контейнер разбит</chupakobra6_3687071198_job.dock-shift.node.o-crisis-smashed.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.o-fight-gantry.Text>Патруль станционной охраны достаёт оружие на крановом мостике! Одолейте их или окажетесь на гауптвахте.</chupakobra6_3687071198_job.dock-shift.node.o-fight-gantry.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.o-fight-gantry.Title>Перестрелка на погрузочной линии</chupakobra6_3687071198_job.dock-shift.node.o-fight-gantry.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.o-pilfer-bribed.Text>Привратник прячет серебро в карман и пропускает ручную тележку, не проверяя пломбу.</chupakobra6_3687071198_job.dock-shift.node.o-pilfer-bribed.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.o-pilfer-bribed.Title>Охранник подкуплен</chupakobra6_3687071198_job.dock-shift.node.o-pilfer-bribed.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.o-pilfer-caught.Text>Мигают красные аварийные огни! С кранового мостика выходит охрана станции. Служебные карабины направлены на экипаж: {pawn} и {pawn2} оказались под прицелом!</chupakobra6_3687071198_job.dock-shift.node.o-pilfer-caught.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.o-pilfer-caught.Title>Попались на камеру</chupakobra6_3687071198_job.dock-shift.node.o-pilfer-caught.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.o-pilfer-clean.Text>Контейнер надёжно укрыт и не вызывает подозрений у доковых надзирателей.</chupakobra6_3687071198_job.dock-shift.node.o-pilfer-clean.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.o-pilfer-clean.Title>Ящик спрятан незаметно</chupakobra6_3687071198_job.dock-shift.node.o-pilfer-clean.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.s-crisis.Text>С оглушительным треском лопается натянутый трос! Сорокатонный стальной контейнер бешено раскачивается над погрузочной линией и летит прямо на рабочую площадку!</chupakobra6_3687071198_job.dock-shift.node.s-crisis.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.s-crisis.Title>Лопнувший трос</chupakobra6_3687071198_job.dock-shift.node.s-crisis.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.s-pilfer-prep.Text>Нужный ящик стоит на оставленной без присмотра транспортной тележке. Камеры охраны проходят палубу каждые двадцать секунд.</chupakobra6_3687071198_job.dock-shift.node.s-pilfer-prep.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.s-pilfer-prep.Title>Ослепить камеры</chupakobra6_3687071198_job.dock-shift.node.s-pilfer-prep.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.s-pilfer-stash.Text>Ящик уже свободно стоит на палубе, но скоро прозвенит конец смены. {pawn} и {pawn2} должны надёжно спрятать его до проверки.</chupakobra6_3687071198_job.dock-shift.node.s-pilfer-stash.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.s-pilfer-stash.Title>Спрятать ящик</chupakobra6_3687071198_job.dock-shift.node.s-pilfer-stash.Title>
+  <chupakobra6_3687071198_job.dock-shift.node.s1.Text>Конструкции дрожат: магнитные краны проносят над головами огромные контейнеры. Маслянистый туман оседает на стальном настиле. {pawn} надевает подвесной пульт управления краном, а {pawn2} следит за погрузочными рядами.</chupakobra6_3687071198_job.dock-shift.node.s1.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.s1.Title>Погрузочная линия</chupakobra6_3687071198_job.dock-shift.node.s1.Title>
+  <chupakobra6_3687071198_job.meat-market.Name>Мясной рынок</chupakobra6_3687071198_job.meat-market.Name>
+  <chupakobra6_3687071198_job.meat-market.Subtitle>Изымите передовые бионические импланты у должника для подпольной клиники.</chupakobra6_3687071198_job.meat-market.Subtitle>
+  <chupakobra6_3687071198_job.meat-market.edge.a-prep-cauterizer.approach.Fail.Label>энергоячейка на исходе, едва работает</chupakobra6_3687071198_job.meat-market.edge.a-prep-cauterizer.approach.Fail.Label>
+  <chupakobra6_3687071198_job.meat-market.edge.a-prep-cauterizer.approach.Success.Label>плазменный инструмент светится добела</chupakobra6_3687071198_job.meat-market.edge.a-prep-cauterizer.approach.Success.Label>
+  <chupakobra6_3687071198_job.meat-market.edge.a-prep-sedative.approach.Fail.Label>разбавленный препарат едва действует</chupakobra6_3687071198_job.meat-market.edge.a-prep-sedative.approach.Fail.Label>
+  <chupakobra6_3687071198_job.meat-market.edge.a-prep-sedative.approach.Success.Label>инъектор подготовлен</chupakobra6_3687071198_job.meat-market.edge.a-prep-sedative.approach.Success.Label>
+  <chupakobra6_3687071198_job.meat-market.edge.a-prep-straps.approach.Fail.Label>потрёпанные тросы ещё держат натяжение</chupakobra6_3687071198_job.meat-market.edge.a-prep-straps.approach.Fail.Label>
+  <chupakobra6_3687071198_job.meat-market.edge.a-prep-straps.approach.Success.Label>кожаные фиксаторы застёгнуты</chupakobra6_3687071198_job.meat-market.edge.a-prep-straps.approach.Success.Label>
+  <chupakobra6_3687071198_job.meat-market.edge.a-read.s-prep.Fail.Label>нацарапанные характеристики неразборчивы</chupakobra6_3687071198_job.meat-market.edge.a-read.s-prep.Fail.Label>
+  <chupakobra6_3687071198_job.meat-market.edge.fork.e-bank.Choice.Label>Изъять всю доступную бионику.</chupakobra6_3687071198_job.meat-market.edge.fork.e-bank.Choice.Label>
+  <chupakobra6_3687071198_job.meat-market.edge.fork.e-chop.Choice.Label>Снять всё для подпольной мастерской.</chupakobra6_3687071198_job.meat-market.edge.fork.e-chop.Choice.Label>
+  <chupakobra6_3687071198_job.meat-market.edge.fork.e-fair.Choice.Label>Завершить контракт по договорённости.</chupakobra6_3687071198_job.meat-market.edge.fork.e-fair.Choice.Label>
+  <chupakobra6_3687071198_job.meat-market.node.a-comp-rip.Text>{pawn} перекусывает дымящиеся кабели тяжёлыми кусачками, а {pawn2} с силой выдёргивает тяжёлый протез.</chupakobra6_3687071198_job.meat-market.node.a-comp-rip.Text>
+  <chupakobra6_3687071198_job.meat-market.node.a-comp-rip.Title>Вырвать бионику.</chupakobra6_3687071198_job.meat-market.node.a-comp-rip.Title>
+  <chupakobra6_3687071198_job.meat-market.node.a-comp-stabilize.Text>{pawn} вводит нейроблокаторы, чтобы унять судороги. {pawn2} пережимает артерию и останавливает кровотечение.</chupakobra6_3687071198_job.meat-market.node.a-comp-stabilize.Text>
+  <chupakobra6_3687071198_job.meat-market.node.a-comp-stabilize.Title>Стабилизировать состояние уколом.</chupakobra6_3687071198_job.meat-market.node.a-comp-stabilize.Title>
+  <chupakobra6_3687071198_job.meat-market.node.a-deal.Text>{pawn} отсчитывает серебро на стол, предлагая мирно погасить долг. {pawn2} держит руки рядом с кобурами.</chupakobra6_3687071198_job.meat-market.node.a-deal.Text>
+  <chupakobra6_3687071198_job.meat-market.node.a-deal.Title>Погасить долг серебром.</chupakobra6_3687071198_job.meat-market.node.a-deal.Title>
+  <chupakobra6_3687071198_job.meat-market.node.a-prep-cauterizer.Text>{pawn} калибрует переносной лазерный коагулятор, а {pawn2} заряжает энергоячейку.</chupakobra6_3687071198_job.meat-market.node.a-prep-cauterizer.Text>
+  <chupakobra6_3687071198_job.meat-market.node.a-prep-cauterizer.Title>Настроить лазерный коагулятор.</chupakobra6_3687071198_job.meat-market.node.a-prep-cauterizer.Title>
+  <chupakobra6_3687071198_job.meat-market.node.a-prep-raw.Text>Экипаж отказывается от медицинских тонкостей и решает обойтись силовым удержанием и ломами.</chupakobra6_3687071198_job.meat-market.node.a-prep-raw.Text>
+  <chupakobra6_3687071198_job.meat-market.node.a-prep-raw.Title>Применить грубую силу.</chupakobra6_3687071198_job.meat-market.node.a-prep-raw.Title>
+  <chupakobra6_3687071198_job.meat-market.node.a-prep-sedative.Text>{pawn} отмеряет дозу паралитика в автоинъектор, а {pawn2} проверяет герметичность под давлением.</chupakobra6_3687071198_job.meat-market.node.a-prep-sedative.Text>
+  <chupakobra6_3687071198_job.meat-market.node.a-prep-sedative.Title>Купить нейропаралитик.</chupakobra6_3687071198_job.meat-market.node.a-prep-sedative.Title>
+  <chupakobra6_3687071198_job.meat-market.node.a-prep-straps.Text>{pawn} проверяет высокопрочные ремни с магнитными фиксаторами, а {pawn2} осматривает точки крепления.</chupakobra6_3687071198_job.meat-market.node.a-prep-straps.Text>
+  <chupakobra6_3687071198_job.meat-market.node.a-prep-straps.Title>Подготовить тяжёлые грузовые фиксаторы.</chupakobra6_3687071198_job.meat-market.node.a-prep-straps.Title>
+  <chupakobra6_3687071198_job.meat-market.node.a-read.Text>{pawn} изучает хирургические схемы и ищет точки аварийного отключения питания. {pawn2} укладывает кровоостанавливающие жгуты.</chupakobra6_3687071198_job.meat-market.node.a-read.Text>
+  <chupakobra6_3687071198_job.meat-market.node.a-read.Title>Проверить медицинские записи.</chupakobra6_3687071198_job.meat-market.node.a-read.Title>
+  <chupakobra6_3687071198_job.meat-market.node.a-scare.Text>{pawn} выступает вперёд с пилой для костей и тяжёлыми кусачками, демонстрируя холодную хирургическую решимость. {pawn2} перекрывает дверь.</chupakobra6_3687071198_job.meat-market.node.a-scare.Text>
+  <chupakobra6_3687071198_job.meat-market.node.a-scare.Title>Запугать его и заставить подчиниться.</chupakobra6_3687071198_job.meat-market.node.a-scare.Title>
+  <chupakobra6_3687071198_job.meat-market.node.a-shoot.Text>{pawn} поднимает оружие и без колебаний стреляет. «Пятничная перестрелка»: уничтожьте должника и его уличных громил!</chupakobra6_3687071198_job.meat-market.node.a-shoot.Text>
+  <chupakobra6_3687071198_job.meat-market.node.a-shoot.Title>Убить его и забрать детали.</chupakobra6_3687071198_job.meat-market.node.a-shoot.Title>
+  <chupakobra6_3687071198_job.meat-market.node.a-skip-list.Text>Экипаж закрывает досье, не читая, и направляется прямо в жилой блок должника.</chupakobra6_3687071198_job.meat-market.node.a-skip-list.Text>
+  <chupakobra6_3687071198_job.meat-market.node.a-skip-list.Title>Пропустить документы.</chupakobra6_3687071198_job.meat-market.node.a-skip-list.Title>
+  <chupakobra6_3687071198_job.meat-market.node.a-surgery.Text>{pawn} подступает с хирургическим набором, чтобы разъединить основной нервный канал. {pawn2} удерживает должника.</chupakobra6_3687071198_job.meat-market.node.a-surgery.Text>
+  <chupakobra6_3687071198_job.meat-market.node.a-surgery.Title>Провести операцию на месте.</chupakobra6_3687071198_job.meat-market.node.a-surgery.Title>
+  <chupakobra6_3687071198_job.meat-market.node.approach.Text>Должник сидит, загнанный в угол, в сырой бетонной квартире. Огромная промышленная киберрука нервно подёргивается. За ним стоят двое уличных головорезов с трубами и самопалами.</chupakobra6_3687071198_job.meat-market.node.approach.Text>
+  <chupakobra6_3687071198_job.meat-market.node.approach.Title>Изъятие имплантов</chupakobra6_3687071198_job.meat-market.node.approach.Title>
+  <chupakobra6_3687071198_job.meat-market.node.brief.Text>У подпольной клиники просрочен договор с усиленным рабочим: тот скрылся вместе с военной бионикой. За розыск должника в доходных домах жилого блока №9 и возврат имплантов клиника предлагает 650 серебра. Врач выдаёт хирургический набор, но предупреждает: отчаявшиеся должники нередко нанимают местных громил.</chupakobra6_3687071198_job.meat-market.node.brief.Text>
+  <chupakobra6_3687071198_job.meat-market.node.brief.Title>Инструктаж</chupakobra6_3687071198_job.meat-market.node.brief.Title>
+  <chupakobra6_3687071198_job.meat-market.node.e-bank.Text>Бионика в идеальном состоянии. Подпольный хирург доплачивает 200 серебра за неповреждённые нервные соединения.</chupakobra6_3687071198_job.meat-market.node.e-bank.Text>
+  <chupakobra6_3687071198_job.meat-market.node.e-bank.Title>Премия за аккуратное извлечение</chupakobra6_3687071198_job.meat-market.node.e-bank.Title>
+  <chupakobra6_3687071198_job.meat-market.node.e-chop.Text>Экипаж доставляет окровавленную бионику погибшего должника и получает 500 серебра. Врач тем временем сжигает останки.</chupakobra6_3687071198_job.meat-market.node.e-chop.Text>
+  <chupakobra6_3687071198_job.meat-market.node.e-chop.Title>Добыча для подпольной разборки</chupakobra6_3687071198_job.meat-market.node.e-chop.Title>
+  <chupakobra6_3687071198_job.meat-market.node.e-down.Text>Охрана врывается в квартиру и вступает в бой с экипажем. Выживших арестовывают за незаконное изъятие органов.</chupakobra6_3687071198_job.meat-market.node.e-down.Text>
+  <chupakobra6_3687071198_job.meat-market.node.e-down.Title>Экипаж разбит</chupakobra6_3687071198_job.meat-market.node.e-down.Title>
+  <chupakobra6_3687071198_job.meat-market.node.e-fair.Text>Должник соглашается на процедуру, клиника получает оборудование, а экипаж — все 650 серебра оплаты.</chupakobra6_3687071198_job.meat-market.node.e-fair.Text>
+  <chupakobra6_3687071198_job.meat-market.node.e-fair.Title>Долг погашен по договорённости</chupakobra6_3687071198_job.meat-market.node.e-fair.Title>
+  <chupakobra6_3687071198_job.meat-market.node.e-walk.Text>Мысль об изъятии частей тела у должника вызывает у экипажа отвращение. Досье возвращают, от задания отказываются.</chupakobra6_3687071198_job.meat-market.node.e-walk.Text>
+  <chupakobra6_3687071198_job.meat-market.node.e-walk.Title>Ушли</chupakobra6_3687071198_job.meat-market.node.e-walk.Title>
+  <chupakobra6_3687071198_job.meat-market.node.fork.Text>Экипаж возвращается в подвал клиники с извлечённой бионической рукой, надёжно уложенной в холодильный контейнер.</chupakobra6_3687071198_job.meat-market.node.fork.Text>
+  <chupakobra6_3687071198_job.meat-market.node.fork.Title>Доставка в клинику</chupakobra6_3687071198_job.meat-market.node.fork.Title>
+  <chupakobra6_3687071198_job.meat-market.node.list.Text>В досье должника значатся промышленная киберрука и подкожные усилители движений. {pawn} изучает схемы нервных соединений, а {pawn2} готовит инструменты для извлечения.</chupakobra6_3687071198_job.meat-market.node.list.Text>
+  <chupakobra6_3687071198_job.meat-market.node.list.Title>Записи клиники</chupakobra6_3687071198_job.meat-market.node.list.Title>
+  <chupakobra6_3687071198_job.meat-market.node.o-bloody.Text>Конечность вырвана с тяжёлым повреждением тканей. Должник выжил, но вся квартира залита кровью.</chupakobra6_3687071198_job.meat-market.node.o-bloody.Text>
+  <chupakobra6_3687071198_job.meat-market.node.o-bloody.Title>Грубое извлечение</chupakobra6_3687071198_job.meat-market.node.o-bloody.Title>
+  <chupakobra6_3687071198_job.meat-market.node.o-clean.Text>Бионическая конечность отсоединена без повреждения нейроинтерфейса. Должник жив, его состояние стабильно.</chupakobra6_3687071198_job.meat-market.node.o-clean.Text>
+  <chupakobra6_3687071198_job.meat-market.node.o-clean.Title>Аккуратное извлечение</chupakobra6_3687071198_job.meat-market.node.o-clean.Title>
+  <chupakobra6_3687071198_job.meat-market.node.o-fight.Text>Должник размахивает гидравлическим кулаком, а уличные бандиты палят из самопалов! Одолейте их, пока не сбежался весь квартал!</chupakobra6_3687071198_job.meat-market.node.o-fight.Text>
+  <chupakobra6_3687071198_job.meat-market.node.o-fight.Title>Перестрелка в квартире</chupakobra6_3687071198_job.meat-market.node.o-fight.Title>
+  <chupakobra6_3687071198_job.meat-market.node.o-willing.Text>Из досье становится ясно: должник плохо переносит препараты, подавляющие иммунитет, и отчаянно нуждается в лечении.</chupakobra6_3687071198_job.meat-market.node.o-willing.Text>
+  <chupakobra6_3687071198_job.meat-market.node.o-willing.Title>Уязвимость найдена</chupakobra6_3687071198_job.meat-market.node.o-willing.Title>
+  <chupakobra6_3687071198_job.meat-market.node.s-complication.Text>Обратная связь киберруки резко усиливается! Должник корчится от боли, а по разъёму сыплются искры перегрузки.</chupakobra6_3687071198_job.meat-market.node.s-complication.Text>
+  <chupakobra6_3687071198_job.meat-market.node.s-complication.Title>Нервный шок</chupakobra6_3687071198_job.meat-market.node.s-complication.Title>
+  <chupakobra6_3687071198_job.meat-market.node.s-prep.Text>В заброшенной прачечной дальше по коридору от квартиры должника {pawn} и {pawn2} раскладывают хирургические инструменты.</chupakobra6_3687071198_job.meat-market.node.s-prep.Text>
+  <chupakobra6_3687071198_job.meat-market.node.s-prep.Title>Подготовка к операции</chupakobra6_3687071198_job.meat-market.node.s-prep.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.Name>Тихая ликвидация</chupakobra6_3687071198_job.quiet-decommission.Name>
+  <chupakobra6_3687071198_job.quiet-decommission.Subtitle>Устраните коррумпированного докового взыскателя долгов одним из четырёх способов.</chupakobra6_3687071198_job.quiet-decommission.Subtitle>
+  <chupakobra6_3687071198_job.quiet-decommission.edge.a-close-strike.o-seen.Fail.Label>шум потасовки разнёсся по переборкам</chupakobra6_3687071198_job.quiet-decommission.edge.a-close-strike.o-seen.Fail.Label>
+  <chupakobra6_3687071198_job.quiet-decommission.edge.a-stalk-lure.a-close-strike.Success.Label>внимание громилы отвлечено</chupakobra6_3687071198_job.quiet-decommission.edge.a-stalk-lure.a-close-strike.Success.Label>
+  <chupakobra6_3687071198_job.quiet-decommission.edge.a-stalk-lure.o-corridor.Fail.Label>громила пришёл проверить</chupakobra6_3687071198_job.quiet-decommission.edge.a-stalk-lure.o-corridor.Fail.Label>
+  <chupakobra6_3687071198_job.quiet-decommission.edge.a-stalk-shadow.a-close-strike.Success.Label>дистанция сокращена</chupakobra6_3687071198_job.quiet-decommission.edge.a-stalk-shadow.a-close-strike.Success.Label>
+  <chupakobra6_3687071198_job.quiet-decommission.edge.a-stalk-shadow.o-corridor.Fail.Label>громила заметил ваше приближение</chupakobra6_3687071198_job.quiet-decommission.edge.a-stalk-shadow.o-corridor.Fail.Label>
+  <chupakobra6_3687071198_job.quiet-decommission.edge.m-chem-brew.e-botched.Fail.Label>отравляющее вещество утратило силу</chupakobra6_3687071198_job.quiet-decommission.edge.m-chem-brew.e-botched.Fail.Label>
+  <chupakobra6_3687071198_job.quiet-decommission.edge.m-chem-perf.o-seen.Fail.Label>замечены у разливочных кранов</chupakobra6_3687071198_job.quiet-decommission.edge.m-chem-perf.o-seen.Fail.Label>
+  <chupakobra6_3687071198_job.quiet-decommission.edge.m-chem-steal.o-corridor.Fail.Label>охрана станции раскрыла операцию</chupakobra6_3687071198_job.quiet-decommission.edge.m-chem-steal.o-corridor.Fail.Label>
+  <chupakobra6_3687071198_job.quiet-decommission.edge.m-demo-charge-improv.e-botched.Fail.Label>неисправный заряд</chupakobra6_3687071198_job.quiet-decommission.edge.m-demo-charge-improv.e-botched.Fail.Label>
+  <chupakobra6_3687071198_job.quiet-decommission.edge.m-demo-elec.o-seen.Fail.Label>телеметрия зафиксировала скачок мощности</chupakobra6_3687071198_job.quiet-decommission.edge.m-demo-elec.o-seen.Fail.Label>
+  <chupakobra6_3687071198_job.quiet-decommission.edge.m-demo-rig.o-corridor.Fail.Label>сирена сработала раньше времени</chupakobra6_3687071198_job.quiet-decommission.edge.m-demo-rig.o-corridor.Fail.Label>
+  <chupakobra6_3687071198_job.quiet-decommission.edge.m-gun-steal.o-corridor.Fail.Label>оружейная поднята по тревоге</chupakobra6_3687071198_job.quiet-decommission.edge.m-gun-steal.o-corridor.Fail.Label>
+  <chupakobra6_3687071198_job.quiet-decommission.edge.m-shot.e-botched.Fail.Label>выстрел прошёл мимо, цель бросилась бежать</chupakobra6_3687071198_job.quiet-decommission.edge.m-shot.e-botched.Fail.Label>
+  <chupakobra6_3687071198_job.quiet-decommission.node.a-close-knife.Text>Экипаж достаёт штатный боевой клинок из личного снаряжения.</chupakobra6_3687071198_job.quiet-decommission.node.a-close-knife.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.a-close-knife.Title>Использовать свой боевой нож.</chupakobra6_3687071198_job.quiet-decommission.node.a-close-knife.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.a-close-shiv.Text>{pawn} проверяет баланс керамической заточки, а {pawn2} расплачивается с торговцем чёрного рынка.</chupakobra6_3687071198_job.quiet-decommission.node.a-close-shiv.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.a-close-shiv.Title>Купить керамическую заточку.</chupakobra6_3687071198_job.quiet-decommission.node.a-close-shiv.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.a-close-strike.Text>{pawn} бесшумно выходит из парового канала за спиной взыскателя, выставив клинок. {pawn2} подступает, чтобы подхватить падающее тело.</chupakobra6_3687071198_job.quiet-decommission.node.a-close-strike.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.a-close-strike.Title>Ударить ножом в спину.</chupakobra6_3687071198_job.quiet-decommission.node.a-close-strike.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.a-close-wire.Text>{pawn} сплетает высокопрочную мононить, а {pawn2} шлифует деревянные рукоятки.</chupakobra6_3687071198_job.quiet-decommission.node.a-close-wire.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.a-close-wire.Title>Сделать проволочную удавку.</chupakobra6_3687071198_job.quiet-decommission.node.a-close-wire.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.a-stalk-lure.Text>{pawn} включает ложную пожарную тревогу в соседнем коридоре, а {pawn2} готовится к нападению.</chupakobra6_3687071198_job.quiet-decommission.node.a-stalk-lure.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.a-stalk-lure.Title>Отвлечь телохранителя.</chupakobra6_3687071198_job.quiet-decommission.node.a-stalk-lure.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.a-stalk-shadow.Text>{pawn} следует за целью по верхним техническим каналам, а {pawn2} снизу подаёт сигналы о передвижении патрулей.</chupakobra6_3687071198_job.quiet-decommission.node.a-stalk-shadow.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.a-stalk-shadow.Title>Следовать за ним по вентиляции.</chupakobra6_3687071198_job.quiet-decommission.node.a-stalk-shadow.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.brief.Text>Жадный взыскатель долгов выжимает последние соки из шахтёров на палубе №4. Анонимный покровитель из синдиката хочет навсегда покончить с ним. Цель окружена бронированными телохранителями и редко покидает охраняемые помещения. Заказчик предлагает 600 серебра за его смерть и подчёркивает: как именно выполнить работу — решать экипажу.</chupakobra6_3687071198_job.quiet-decommission.node.brief.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.brief.Title>Инструктаж</chupakobra6_3687071198_job.quiet-decommission.node.brief.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.conscience.Text>Экипаж отказывается от хладнокровного убийства и не берётся за работу.</chupakobra6_3687071198_job.quiet-decommission.node.conscience.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.conscience.Title>Отказаться от контракта.</chupakobra6_3687071198_job.quiet-decommission.node.conscience.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.e-botched.Text>Покушение проходит грязно и несогласованно. Цель убита, но экипаж оставляет улики и получает урезанную выплату и крупные штрафы.</chupakobra6_3687071198_job.quiet-decommission.node.e-botched.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.e-botched.Title>Неудачная работа</chupakobra6_3687071198_job.quiet-decommission.node.e-botched.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.e-conscience.Text>Экипаж уходит, не запятнав рук. Решала передаёт досье другой группе, но уважает ваше решение отказаться.</chupakobra6_3687071198_job.quiet-decommission.node.e-conscience.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.e-conscience.Title>Контракт отклонён</chupakobra6_3687071198_job.quiet-decommission.node.e-conscience.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.e-down.Text>Охрана взыскателя одолевает экипаж в коридоре. Выживших разоружают и бросают на станционную гауптвахту.</chupakobra6_3687071198_job.quiet-decommission.node.e-down.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.e-down.Title>Экипаж разбит</chupakobra6_3687071198_job.quiet-decommission.node.e-down.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.e-ghost.Text>Взыскатель умирает без звука. К моменту обнаружения тела экипаж уже получает всю награду — 600 серебра, а решала стирает все записи о контракте.</chupakobra6_3687071198_job.quiet-decommission.node.e-ghost.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.e-ghost.Title>Убийство-призрак</chupakobra6_3687071198_job.quiet-decommission.node.e-ghost.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.e-loud.Text>Цель погибает в ожесточённой перестрелке. Экипаж получает награду, но местные власти блокируют сектор и усиливают патрули погрузочной линии.</chupakobra6_3687071198_job.quiet-decommission.node.e-loud.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.e-loud.Title>Шумная расправа</chupakobra6_3687071198_job.quiet-decommission.node.e-loud.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-chem-brew.Text>{pawn} отмеряет нейротоксичные реагенты под вытяжкой, а {pawn2} следит за титрованием с выделением тепла. Стоит ошибиться с температурой — и смесь превратится в бесполезную жижу.</chupakobra6_3687071198_job.quiet-decommission.node.m-chem-brew.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-chem-brew.Title>Приготовить яд.</chupakobra6_3687071198_job.quiet-decommission.node.m-chem-brew.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-chem-buy.Text>{pawn} встречается с подпольным хирургом в паровом техническом канале, а {pawn2} следит, нет ли хвоста за поворотами коридора.</chupakobra6_3687071198_job.quiet-decommission.node.m-chem-buy.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-chem-buy.Title>Купить яд у подпольного хирурга.</chupakobra6_3687071198_job.quiet-decommission.node.m-chem-buy.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-chem-fixer.Text>Экипаж просит решалу выдать заранее отмеренную дозу яда из личных запасов.</chupakobra6_3687071198_job.quiet-decommission.node.m-chem-fixer.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-chem-fixer.Title>Попросить яд у решалы.</chupakobra6_3687071198_job.quiet-decommission.node.m-chem-fixer.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-chem-perf.Text>{pawn} надевает комбинезон обслуживающего персонала и прячет пузырёк в рукаве. {pawn2} следит за камерами в коридоре. Один звон стекла о бутылку может выдать всю операцию.</chupakobra6_3687071198_job.quiet-decommission.node.m-chem-perf.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-chem-perf.Title>Подлить яд в напиток.</chupakobra6_3687071198_job.quiet-decommission.node.m-chem-perf.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-chem-steal.Text>{pawn} вскрывает навесной замок аптечного шкафа отмычкой, а {pawn2} следит за камерами в палатах.</chupakobra6_3687071198_job.quiet-decommission.node.m-chem-steal.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-chem-steal.Title>Украсть пузырёк из клиники.</chupakobra6_3687071198_job.quiet-decommission.node.m-chem-steal.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-chem.Text>Каждый вечер взыскателю доставляют на стол один и тот же синтетический алкоголь. Нейротоксин в его личной бутылке позволит устранить цель без тревоги.</chupakobra6_3687071198_job.quiet-decommission.node.m-chem.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-chem.Title>Отравление</chupakobra6_3687071198_job.quiet-decommission.node.m-chem.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-close-prep.Text>Каждую ночь взыскатель в одиночку проходит мимо труб неосвещённого подпалубного пространства, чтобы пересчитать свои кассы. Можно поджидать его в тени, убить холодным оружием и не оставить пороховых следов.</chupakobra6_3687071198_job.quiet-decommission.node.m-close-prep.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-close-prep.Title>Подготовка клинка</chupakobra6_3687071198_job.quiet-decommission.node.m-close-prep.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-demo-charge-buy.Text>{pawn} торгуется с нечистым на руку шахтёром за промышленные детонаторы, а {pawn2} проверяет качество обжима.</chupakobra6_3687071198_job.quiet-decommission.node.m-demo-charge-buy.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-demo-charge-buy.Title>Купить шахтные заряды.</chupakobra6_3687071198_job.quiet-decommission.node.m-demo-charge-buy.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-demo-charge-fixer.Text>Экипаж просит решалу авансом предоставить для задания военный подрывной заряд.</chupakobra6_3687071198_job.quiet-decommission.node.m-demo-charge-fixer.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-demo-charge-fixer.Title>Попросить заряд у решалы.</chupakobra6_3687071198_job.quiet-decommission.node.m-demo-charge-fixer.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-demo-charge-improv.Text>{pawn} заполняет стальной корпус растворителем и удобрением, а {pawn2} паяет электронный детонатор.</chupakobra6_3687071198_job.quiet-decommission.node.m-demo-charge-improv.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-demo-charge-improv.Title>Сделать самодельную бомбу.</chupakobra6_3687071198_job.quiet-decommission.node.m-demo-charge-improv.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-demo-charge-own.Text>Экипаж приносит из корабельной оружейной военный заряд для проламывания преград, чтобы установить его на опоре.</chupakobra6_3687071198_job.quiet-decommission.node.m-demo-charge-own.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-demo-charge-own.Title>Использовать свою взрывчатку.</chupakobra6_3687071198_job.quiet-decommission.node.m-demo-charge-own.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-demo-elec.Text>{pawn} подключается к распределительной коробке, чтобы обойти датчики давления. {pawn2} заслоняет электрические искры.</chupakobra6_3687071198_job.quiet-decommission.node.m-demo-elec.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-demo-elec.Title>Обмануть датчик давления.</chupakobra6_3687071198_job.quiet-decommission.node.m-demo-elec.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-demo-rig.Text>{pawn} сверлит опору переборки под полом кабинета, а {pawn2} укладывает детонирующий шнур.</chupakobra6_3687071198_job.quiet-decommission.node.m-demo-rig.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-demo-rig.Title>Заложить заряд в уязвимой точке опоры.</chupakobra6_3687071198_job.quiet-decommission.node.m-demo-rig.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-demo.Text>Кабинет взыскателя держится на консоли над грузовой погрузочной линией. Направленный заряд у основного опорного сочленения сбросит кабинет в пустоту, не нарушив герметичности ядра станции.</chupakobra6_3687071198_job.quiet-decommission.node.m-demo.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-demo.Title>Подрыв</chupakobra6_3687071198_job.quiet-decommission.node.m-demo.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-gun-buy.Text>{pawn} проверяет затвор высокоточной винтовки с чёрного рынка, а {pawn2} отсчитывает немаркированное серебро.</chupakobra6_3687071198_job.quiet-decommission.node.m-gun-buy.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-gun-buy.Title>Купить винтовку на станции.</chupakobra6_3687071198_job.quiet-decommission.node.m-gun-buy.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-gun-fixer.Text>Решала выдаёт экипажу немаркированное длинноствольное оружие из личного тайника.</chupakobra6_3687071198_job.quiet-decommission.node.m-gun-fixer.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-gun-fixer.Title>Попросить винтовку у решалы.</chupakobra6_3687071198_job.quiet-decommission.node.m-gun-fixer.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-gun-own.Text>Экипаж берёт высокоточную винтовку из караванного снаряжения для дальнего выстрела.</chupakobra6_3687071198_job.quiet-decommission.node.m-gun-own.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-gun-own.Title>Использовать свою снайперскую винтовку.</chupakobra6_3687071198_job.quiet-decommission.node.m-gun-own.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-gun-steal.Text>{pawn} взламывает защёлку оружейной стойки, а {pawn2} наблюдает за охранным мостиком.</chupakobra6_3687071198_job.quiet-decommission.node.m-gun-steal.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-gun-steal.Title>Украсть винтовку из оружейной.</chupakobra6_3687071198_job.quiet-decommission.node.m-gun-steal.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-gun.Text>Панорамное окно кабинета выходит в разгерметизированное пространство стыковочного отсека №9. С мостика на противоположной стороне стрелок с высокоскоростной винтовкой может поразить цель прямо сквозь смотровое стекло.</chupakobra6_3687071198_job.quiet-decommission.node.m-gun.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-gun.Title>Снайперский выстрел</chupakobra6_3687071198_job.quiet-decommission.node.m-gun.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-loud.Text>{pawn} передёргивает затвор и входит в салон. Рядом, плечом к плечу, идёт {pawn2}. Никаких уловок — только стрельба в упор.</chupakobra6_3687071198_job.quiet-decommission.node.m-loud.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-loud.Title>Просто подойти и застрелить.</chupakobra6_3687071198_job.quiet-decommission.node.m-loud.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-shot.Text>{pawn} кладёт ствол винтовки на технические перила и замедляет дыхание. {pawn2} сообщает поправку на боковой ветер. Нужно лишь плавно нажать на спуск, пока цель не скрылась из виду.</chupakobra6_3687071198_job.quiet-decommission.node.m-shot.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-shot.Title>Выстрелить.</chupakobra6_3687071198_job.quiet-decommission.node.m-shot.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.method.Text>По вечерам взыскатель сидит в личном салоне с видом на грузовые доки. {pawn} и {pawn2} раскладывают на верстаке варианты: отравить напиток, заложить взрывчатку, снять цель из снайперской винтовки или подкараулить с клинком.</chupakobra6_3687071198_job.quiet-decommission.node.method.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.method.Title>Выберите способ</chupakobra6_3687071198_job.quiet-decommission.node.method.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.o-clean.Text>Взыскатель беззвучно падает. {pawn} и {pawn2} стирают следы и исчезают в транспортных туннелях, прежде чем кто-либо успевает что-то заметить.</chupakobra6_3687071198_job.quiet-decommission.node.o-clean.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.o-clean.Title>Цель устранена без шума</chupakobra6_3687071198_job.quiet-decommission.node.o-clean.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.o-corridor.Text>Взыскатель достаёт крупнокалиберный револьвер, а его боец в киберброне передёргивает помпу дробовика!</chupakobra6_3687071198_job.quiet-decommission.node.o-corridor.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.o-corridor.Title>Засада телохранителей</chupakobra6_3687071198_job.quiet-decommission.node.o-corridor.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.o-seen.Text>Камера охраны замечает движение! В коридоре визжат сигналы тревоги, а через двери переборок врываются бронированные бойцы!</chupakobra6_3687071198_job.quiet-decommission.node.o-seen.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.o-seen.Title>Убийство замечено</chupakobra6_3687071198_job.quiet-decommission.node.o-seen.Title>
+  <chupakobra6_3687071198_job.quiet-decommission.node.s-close-stalk.Text>Взыскатель входит в заполненный паром технический туннель вместе с вооружённым телохранителем. Экипаж крадётся следом в тенях, выжидая возможность отделить охранника от цели.</chupakobra6_3687071198_job.quiet-decommission.node.s-close-stalk.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.s-close-stalk.Title>Слежка в катакомбах</chupakobra6_3687071198_job.quiet-decommission.node.s-close-stalk.Title>
+  <chupakobra6_3687071198_job.ransom.Name>Требование выкупа</chupakobra6_3687071198_job.ransom.Name>
+  <chupakobra6_3687071198_job.ransom.Subtitle>Освободите похищенного товарища из балластной цистерны до отлёта похитителей.</chupakobra6_3687071198_job.ransom.Subtitle>
+  <chupakobra6_3687071198_job.ransom.edge.a-inf-bribe.s-cell.Fail.Label>продажный сторож схватил деньги и скрылся</chupakobra6_3687071198_job.ransom.edge.a-inf-bribe.s-cell.Fail.Label>
+  <chupakobra6_3687071198_job.ransom.edge.a-inf-cameras.s-cell.Fail.Label>сбой на люминофорных мониторах, охрана на взводе</chupakobra6_3687071198_job.ransom.edge.a-inf-cameras.s-cell.Fail.Label>
+  <chupakobra6_3687071198_job.ransom.edge.a-inf-vents.s-cell.Success.Label>спуск через тёмные потолочные каналы</chupakobra6_3687071198_job.ransom.edge.a-inf-vents.s-cell.Success.Label>
+  <chupakobra6_3687071198_job.ransom.node.a-break-plan.Text>{pawn} выключает рацию и кивает напарнику по имени {pawn2}. Ни монеты похитителям: экипаж силой вскроет камеры в балластном отсеке.</chupakobra6_3687071198_job.ransom.node.a-break-plan.Text>
+  <chupakobra6_3687071198_job.ransom.node.a-break-plan.Title>Прервать разговор и спланировать рейд.</chupakobra6_3687071198_job.ransom.node.a-break-plan.Title>
+  <chupakobra6_3687071198_job.ransom.node.a-cell-pick.Text>{pawn} орудует отмычками в замке магнитных оков пленника, а {pawn2} следит за тенями в коридоре.</chupakobra6_3687071198_job.ransom.node.a-cell-pick.Text>
+  <chupakobra6_3687071198_job.ransom.node.a-cell-pick.Title>Вскрыть замок оков.</chupakobra6_3687071198_job.ransom.node.a-cell-pick.Title>
+  <chupakobra6_3687071198_job.ransom.node.a-cell-shield.Text>{pawn} захватывает главного тюремщика за горло и прикрывается им как живым щитом. {pawn2} освобождает заложника.</chupakobra6_3687071198_job.ransom.node.a-cell-shield.Text>
+  <chupakobra6_3687071198_job.ransom.node.a-cell-shield.Title>Прикрыться тюремщиком как живым щитом.</chupakobra6_3687071198_job.ransom.node.a-cell-shield.Title>
+  <chupakobra6_3687071198_job.ransom.node.a-cell-shoot.Text>{pawn} поднимает дробовик и стреляет сквозь прутья камеры! «Пятничная перестрелка»: уничтожьте банду тюремщиков!</chupakobra6_3687071198_job.ransom.node.a-cell-shoot.Text>
+  <chupakobra6_3687071198_job.ransom.node.a-cell-shoot.Title>Просто застрелить охранников.</chupakobra6_3687071198_job.ransom.node.a-cell-shoot.Title>
+  <chupakobra6_3687071198_job.ransom.node.a-cell-subdue.Text>{pawn} подкрадывается к часовому с тяжёлым ключом. {pawn2} подхватывает его тело, прежде чем оно с плеском упадёт в воду.</chupakobra6_3687071198_job.ransom.node.a-cell-subdue.Text>
+  <chupakobra6_3687071198_job.ransom.node.a-cell-subdue.Title>Оглушить охранников.</chupakobra6_3687071198_job.ransom.node.a-cell-subdue.Title>
+  <chupakobra6_3687071198_job.ransom.node.a-haggle.Text>{pawn} блефует по рации: синдикат якобы заморозил кредитные линии. {pawn2} следит за задержкой сигнала.</chupakobra6_3687071198_job.ransom.node.a-haggle.Text>
+  <chupakobra6_3687071198_job.ransom.node.a-haggle.Title>Сбить цену.</chupakobra6_3687071198_job.ransom.node.a-haggle.Title>
+  <chupakobra6_3687071198_job.ransom.node.a-inf-bribe.Text>{pawn} суёт серебро в карман тюремщику вне смены, а {pawn2} запоминает коды ключ-карт от камер.</chupakobra6_3687071198_job.ransom.node.a-inf-bribe.Text>
+  <chupakobra6_3687071198_job.ransom.node.a-inf-bribe.Title>Подкупить тюремщика.</chupakobra6_3687071198_job.ransom.node.a-inf-bribe.Title>
+  <chupakobra6_3687071198_job.ransom.node.a-inf-cameras.Text>{pawn} подменяет поток охранной камеры зацикленной записью, а {pawn2} прикрывает технический узел.</chupakobra6_3687071198_job.ransom.node.a-inf-cameras.Text>
+  <chupakobra6_3687071198_job.ransom.node.a-inf-cameras.Title>Зациклить записи камер.</chupakobra6_3687071198_job.ransom.node.a-inf-cameras.Title>
+  <chupakobra6_3687071198_job.ransom.node.a-inf-vents.Text>{pawn} ползёт по верхним паровым каналам, а {pawn2} передаёт кусачки и фонари.</chupakobra6_3687071198_job.ransom.node.a-inf-vents.Text>
+  <chupakobra6_3687071198_job.ransom.node.a-inf-vents.Title>Проползти по паровым каналам.</chupakobra6_3687071198_job.ransom.node.a-inf-vents.Title>
+  <chupakobra6_3687071198_job.ransom.node.a-leave.Text>Экипаж решает, что пленник не стоит ни серебра, ни крови, и списывает его в потери.</chupakobra6_3687071198_job.ransom.node.a-leave.Text>
+  <chupakobra6_3687071198_job.ransom.node.a-leave.Title>Бросить товарища.</chupakobra6_3687071198_job.ransom.node.a-leave.Title>
+  <chupakobra6_3687071198_job.ransom.node.a-pay.Text>{pawn} без споров переводит все 1500 серебра выкупа на счёт условного депонирования: жизнь заложника важнее.</chupakobra6_3687071198_job.ransom.node.a-pay.Text>
+  <chupakobra6_3687071198_job.ransom.node.a-pay.Title>Заплатить весь выкуп.</chupakobra6_3687071198_job.ransom.node.a-pay.Title>
+  <chupakobra6_3687071198_job.ransom.node.brief.Text>Банда похитителей с нижних палуб захватила поселенца из союзной экспедиции и требует 1500 серебра за освобождение. Пленник находится в затопленном отсеке балластной цистерны. Экипаж может заплатить весь выкуп, снизить цену на переговорах или провести рейд и освободить его из камеры.</chupakobra6_3687071198_job.ransom.node.brief.Text>
+  <chupakobra6_3687071198_job.ransom.node.brief.Title>Инструктаж</chupakobra6_3687071198_job.ransom.node.brief.Title>
+  <chupakobra6_3687071198_job.ransom.node.e-abandoned.Text>Экипаж садится в свой транспорт и покидает станцию, оставляя товарища на произвол судьбы.</chupakobra6_3687071198_job.ransom.node.e-abandoned.Text>
+  <chupakobra6_3687071198_job.ransom.node.e-abandoned.Title>Списан в потери</chupakobra6_3687071198_job.ransom.node.e-abandoned.Title>
+  <chupakobra6_3687071198_job.ransom.node.e-haggled.Text>Экипаж снижает цену до 800 серебра. Товарищ освобождён и отделался лёгкими ушибами.</chupakobra6_3687071198_job.ransom.node.e-haggled.Text>
+  <chupakobra6_3687071198_job.ransom.node.e-haggled.Title>Освобождение по договорённости</chupakobra6_3687071198_job.ransom.node.e-haggled.Title>
+  <chupakobra6_3687071198_job.ransom.node.e-lost.Text>Спасательная группа попадает в засаду в тесных балластных цистернах. Экипаж едва уходит живым, а пленника увозят с планеты.</chupakobra6_3687071198_job.ransom.node.e-lost.Text>
+  <chupakobra6_3687071198_job.ransom.node.e-lost.Title>Освобождение провалено</chupakobra6_3687071198_job.ransom.node.e-lost.Title>
+  <chupakobra6_3687071198_job.ransom.node.e-paid.Text>Выкуп выплачен полностью. Товарища невредимым сопровождают к шлюзу, хотя ваш кошель заметно полегчал.</chupakobra6_3687071198_job.ransom.node.e-paid.Text>
+  <chupakobra6_3687071198_job.ransom.node.e-paid.Title>Выкуп внесён</chupakobra6_3687071198_job.ransom.node.e-paid.Title>
+  <chupakobra6_3687071198_job.ransom.node.e-sprung.Text>Экипаж проникает в цистерны, освобождает пленника и уходит через паровые каналы, не выплачивая выкуп.</chupakobra6_3687071198_job.ransom.node.e-sprung.Text>
+  <chupakobra6_3687071198_job.ransom.node.e-sprung.Title>Освобождение удалось</chupakobra6_3687071198_job.ransom.node.e-sprung.Title>
+  <chupakobra6_3687071198_job.ransom.node.o-fight.Text>Из-за ржавых переборок появляются похитители. Дробовики гремят над затопленными металлическими решётками!</chupakobra6_3687071198_job.ransom.node.o-fight.Text>
+  <chupakobra6_3687071198_job.ransom.node.o-fight.Title>Перестрелка в балластном отсеке</chupakobra6_3687071198_job.ransom.node.o-fight.Title>
+  <chupakobra6_3687071198_job.ransom.node.o-quiet-sprung.Text>Оковы вскрыты без тревоги. Пленника освобождают и выдают ему оружие.</chupakobra6_3687071198_job.ransom.node.o-quiet-sprung.Text>
+  <chupakobra6_3687071198_job.ransom.node.o-quiet-sprung.Title>Пленник освобождён</chupakobra6_3687071198_job.ransom.node.o-quiet-sprung.Title>
+  <chupakobra6_3687071198_job.ransom.node.s-cell.Text>Заложник прикован к ржавой стойке в затопленной клетке. Двое тюремщиков с дробовиками стоят на страже.</chupakobra6_3687071198_job.ransom.node.s-cell.Text>
+  <chupakobra6_3687071198_job.ransom.node.s-cell.Title>Камера</chupakobra6_3687071198_job.ransom.node.s-cell.Title>
+  <chupakobra6_3687071198_job.ransom.node.s-infiltrate.Text>В балластных цистернах холодно и ржаво. По решёткам плещется стоячая вода по щиколотку. Верхние мостики патрулируют вооружённые похитители.</chupakobra6_3687071198_job.ransom.node.s-infiltrate.Text>
+  <chupakobra6_3687071198_job.ransom.node.s-infiltrate.Title>Балластные цистерны</chupakobra6_3687071198_job.ransom.node.s-infiltrate.Title>
+  <chupakobra6_3687071198_job.ransom.node.s1.Text>Связной похитителей выходит на трещащую частоту нижних палуб и требует немедленно внести деньги через автоматический тайник. {pawn} слушает запись, а {pawn2} ищет в сигнале акустические отражения.</chupakobra6_3687071198_job.ransom.node.s1.Text>
+  <chupakobra6_3687071198_job.ransom.node.s1.Title>Требования</chupakobra6_3687071198_job.ransom.node.s1.Title>
+  <chupakobra6_3687071198_job.rat-hunt.Name>Охота на крыс</chupakobra6_3687071198_job.rat-hunt.Name>
+  <chupakobra6_3687071198_job.rat-hunt.Subtitle>Очистите зерновой отсек №7 от мутировавших вредителей, пока они не испортили урожай и не повредили станционный вентилятор.</chupakobra6_3687071198_job.rat-hunt.Subtitle>
+  <chupakobra6_3687071198_job.rat-hunt.edge.a-prep-cage.s-tame.Fail.Label>ржавая проволочная клетка скоро развалится</chupakobra6_3687071198_job.rat-hunt.edge.a-prep-cage.s-tame.Fail.Label>
+  <chupakobra6_3687071198_job.rat-hunt.edge.a-prep-ration.s-tame.Default.Label>хлебные крошки разложены</chupakobra6_3687071198_job.rat-hunt.edge.a-prep-ration.s-tame.Default.Label>
+  <chupakobra6_3687071198_job.rat-hunt.edge.a-prep-scent.s-tame.Fail.Label>наспех смешанное пойло всё же действует</chupakobra6_3687071198_job.rat-hunt.edge.a-prep-scent.s-tame.Fail.Label>
+  <chupakobra6_3687071198_job.rat-hunt.edge.a-tame-biscuit.o-bitten.Fail.Label>щёлкает зубами по киберпальцам</chupakobra6_3687071198_job.rat-hunt.edge.a-tame-biscuit.o-bitten.Fail.Label>
+  <chupakobra6_3687071198_job.rat-hunt.edge.a-tame-herd.o-turbine-run.Fail.Label>вспугнуты, подняли пыль</chupakobra6_3687071198_job.rat-hunt.edge.a-tame-herd.o-turbine-run.Fail.Label>
+  <chupakobra6_3687071198_job.rat-hunt.edge.o-bonded.e-capture.Choice.Label>Получить всю награду.</chupakobra6_3687071198_job.rat-hunt.edge.o-bonded.e-capture.Choice.Label>
+  <chupakobra6_3687071198_job.rat-hunt.edge.o-bonded.e-keep.Choice.Label>Оставить вожака на привязи.</chupakobra6_3687071198_job.rat-hunt.edge.o-bonded.e-keep.Choice.Label>
+  <chupakobra6_3687071198_job.rat-hunt.edge.o-pets.a-capture-route.Choice.Label>Сдать зверьков за награду.</chupakobra6_3687071198_job.rat-hunt.edge.o-pets.a-capture-route.Choice.Label>
+  <chupakobra6_3687071198_job.rat-hunt.edge.o-pets.e-keep.Choice.Label>Припрятать клетку для каравана.</chupakobra6_3687071198_job.rat-hunt.edge.o-pets.e-keep.Choice.Label>
+  <chupakobra6_3687071198_job.rat-hunt.edge.o-pets.e-pets.Choice.Label>Вернуть зверьков девочке.</chupakobra6_3687071198_job.rat-hunt.edge.o-pets.e-pets.Choice.Label>
+  <chupakobra6_3687071198_job.rat-hunt.edge.o-pets.e-putdown.Violence.Label>Расстрелять их.</chupakobra6_3687071198_job.rat-hunt.edge.o-pets.e-putdown.Violence.Label>
+  <chupakobra6_3687071198_job.rat-hunt.edge.o-spook.s1.Default.Label>повторная зачистка, стая разъярена</chupakobra6_3687071198_job.rat-hunt.edge.o-spook.s1.Default.Label>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-aware.Text>{pawn} идёт вдоль настенных кабелей по следам погрызенной изоляции, а {pawn2} ищет входы в норы под напольными решётками.</chupakobra6_3687071198_job.rat-hunt.node.a-aware.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-aware.Title>Осмотреть вход в гнездо.</chupakobra6_3687071198_job.rat-hunt.node.a-aware.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-capture-route.Text>Экипаж решает загнать стаю в клетки, чтобы не рисковать перестрелкой среди взрывоопасной зерновой пыли.</chupakobra6_3687071198_job.rat-hunt.node.a-capture-route.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-capture-route.Title>Установить ловушки для отлова.</chupakobra6_3687071198_job.rat-hunt.node.a-capture-route.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-prep-cage.Text>{pawn} приваривает прутья из металлолома к промышленной грузовой корзине, а {pawn2} проверяет спусковую защёлку.</chupakobra6_3687071198_job.rat-hunt.node.a-prep-cage.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-prep-cage.Title>Сделать падающую клетку.</chupakobra6_3687071198_job.rat-hunt.node.a-prep-cage.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-prep-grease.Text>{pawn} размазывает пищевой жир по напольной решётке, а {pawn2} устанавливает спусковой механизм с растяжкой.</chupakobra6_3687071198_job.rat-hunt.node.a-prep-grease.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-prep-grease.Title>Раздобыть кухонный жир.</chupakobra6_3687071198_job.rat-hunt.node.a-prep-grease.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-prep-ration.Text>Экипаж вскрывает высококалорийные аварийные пайки и выкладывает пахучую дорожку к загону.</chupakobra6_3687071198_job.rat-hunt.node.a-prep-ration.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-prep-ration.Title>Использовать сухпайки как приманку.</chupakobra6_3687071198_job.rat-hunt.node.a-prep-ration.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-prep-scent.Text>{pawn} смешивает феромонную приманку во флаконе-распылителе, а {pawn2} проверяет поток воздуха в канале.</chupakobra6_3687071198_job.rat-hunt.node.a-prep-scent.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-prep-scent.Title>Синтезировать химическую приманку.</chupakobra6_3687071198_job.rat-hunt.node.a-prep-scent.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-shoot.Text>{pawn} вскидывает дробовик и вместе с напарником по имени {pawn2} прочёсывает проходы между зерном. Обычная зачистка: действуют правила «Пятничной перестрелки».</chupakobra6_3687071198_job.rat-hunt.node.a-shoot.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-shoot.Title>Просто стрелять по всем, кого увидим.</chupakobra6_3687071198_job.rat-hunt.node.a-shoot.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-tame-alpha.Text>{pawn} делает выпад тяжёлым шестом с петлёй, а {pawn2} прижимает бьющиеся задние лапы вожака.</chupakobra6_3687071198_job.rat-hunt.node.a-tame-alpha.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-tame-alpha.Title>Усмирить вожака шестом с петлёй.</chupakobra6_3687071198_job.rat-hunt.node.a-tame-alpha.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-tame-biscuit.Text>{pawn} приседает и медленно протягивает кусок питательного пайка. {pawn2} готовит ловчую сеть.</chupakobra6_3687071198_job.rat-hunt.node.a-tame-biscuit.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-tame-biscuit.Title>Покормить крысиного вожака.</chupakobra6_3687071198_job.rat-hunt.node.a-tame-biscuit.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-tame-herd.Text>{pawn} гонит стаю, стуча стальным ключом по трубам. {pawn2} направляет крыс в открытые клетки.</chupakobra6_3687071198_job.rat-hunt.node.a-tame-herd.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-tame-herd.Title>Загнать стаю в клетки.</chupakobra6_3687071198_job.rat-hunt.node.a-tame-herd.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-tame-panic-shoot.Text>{pawn} поднимает пистолет и, не моргнув глазом, стреляет вожаку точно между глаз.</chupakobra6_3687071198_job.rat-hunt.node.a-tame-panic-shoot.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-tame-panic-shoot.Title>Убить вожака.</chupakobra6_3687071198_job.rat-hunt.node.a-tame-panic-shoot.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-turbine-block.Text>{pawn} тянет аварийную цепь, а {pawn2} подклинивает падающую защитную заслонку стальной трубой.</chupakobra6_3687071198_job.rat-hunt.node.a-turbine-block.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-turbine-block.Title>Опустить защитную заслонку воздухозаборника.</chupakobra6_3687071198_job.rat-hunt.node.a-turbine-block.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-turbine-breaker.Text>{pawn} рывком открывает аварийный распределительный щит, а {pawn2} дёргает главный выключатель турбины.</chupakobra6_3687071198_job.rat-hunt.node.a-turbine-breaker.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-turbine-breaker.Title>Выключить автомат питания.</chupakobra6_3687071198_job.rat-hunt.node.a-turbine-breaker.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-turbine-spray.Text>{pawn} и {pawn2} стреляют в воющее жерло турбины! «Пятничная перестрелка»: уничтожьте стаю, пока она не забила лопасти.</chupakobra6_3687071198_job.rat-hunt.node.a-turbine-spray.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.a-turbine-spray.Title>Открыть огонь по стае.</chupakobra6_3687071198_job.rat-hunt.node.a-turbine-spray.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.brief.Text>Зерновой отсек №7 кишит громадными орбитальными вредителями: они перегрызают изоляцию кабелей и загаживают силосы. Доковый мастер предлагает 500 серебра за уничтожение гнезда, пока зерно не испортилось. Пушки, ловушки или химические приманки — ему всё равно, лишь бы отсек был очищен.</chupakobra6_3687071198_job.rat-hunt.node.brief.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.brief.Title>Инструктаж</chupakobra6_3687071198_job.rat-hunt.node.brief.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.e-capture.Text>Вся стая поймана живьём в транспортировочные клетки. Агроном выплачивает полную награду — 500 серебра — и доплачивает за живые образцы для лаборатории.</chupakobra6_3687071198_job.rat-hunt.node.e-capture.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.e-capture.Title>Отлов живьём</chupakobra6_3687071198_job.rat-hunt.node.e-capture.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.e-extermin.Text>Всех грызунов в отсеке расстреливают и лопатами сбрасывают в мусоросжигатели. Агроном с облегчением выдаёт 500 серебра.</chupakobra6_3687071198_job.rat-hunt.node.e-extermin.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.e-extermin.Title>Истребление завершено</chupakobra6_3687071198_job.rat-hunt.node.e-extermin.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.e-keep.Text>Экипаж оставляет пару мутировавших грызунов для разведения и собственной торговли, а затем получает обычную награду.</chupakobra6_3687071198_job.rat-hunt.node.e-keep.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.e-keep.Title>Образцы оставлены себе</chupakobra6_3687071198_job.rat-hunt.node.e-keep.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.e-pets.Text>Экипаж оставляет крысиного вожака талисманом каравана и избавляется от остальных вредителей. Агроном нехотя признаёт заслуги и выдаёт полную оплату.</chupakobra6_3687071198_job.rat-hunt.node.e-pets.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.e-pets.Title>Приручённый талисман</chupakobra6_3687071198_job.rat-hunt.node.e-pets.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.e-putdown.Text>На зачистку уходит много патронов, члены экипажа ранены. После расходов на лечение от выплаты остаётся лишь обычный заработок.</chupakobra6_3687071198_job.rat-hunt.node.e-putdown.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.e-putdown.Title>Тяжёлая зачистка</chupakobra6_3687071198_job.rat-hunt.node.e-putdown.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.e-turbine-wreck.Text>Стаю засасывает во вращающиеся лопасти. Механизм разлетается на куски, воздуховоды залиты кровью и останками. Агроном отказывается платить и штрафует экипаж на стоимость ремонта.</chupakobra6_3687071198_job.rat-hunt.node.e-turbine-wreck.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.e-turbine-wreck.Title>Турбина заклинила</chupakobra6_3687071198_job.rat-hunt.node.e-turbine-wreck.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.o-bitten.Text>Зверь бросается на ловца и впивается пожелтевшими зубами в руку, прежде чем его удаётся отогнать.</chupakobra6_3687071198_job.rat-hunt.node.o-bitten.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.o-bitten.Title>Ловец покусан</chupakobra6_3687071198_job.rat-hunt.node.o-bitten.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.o-bonded.Text>Вожак принимает еду и перестаёт нападать. Теперь экипаж может безопасно обращаться с ним.</chupakobra6_3687071198_job.rat-hunt.node.o-bonded.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.o-bonded.Title>Вожак приручён</chupakobra6_3687071198_job.rat-hunt.node.o-bonded.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.o-cage-ok.Text>Тяжёлая проволочная клетка поднята над кормушкой и готова упасть, как только сработает растяжка.</chupakobra6_3687071198_job.rat-hunt.node.o-cage-ok.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.o-cage-ok.Title>Падающая клетка установлена</chupakobra6_3687071198_job.rat-hunt.node.o-cage-ok.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.o-corralled.Text>Вожака удаётся усмирить. Остальную стаю загоняют в проволочные клетки и запирают.</chupakobra6_3687071198_job.rat-hunt.node.o-corralled.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.o-corralled.Title>Стая поймана</chupakobra6_3687071198_job.rat-hunt.node.o-corralled.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.o-grease-caught.Text>Искусственный запах оказывается слишком сильным. Грызуны шипят и пятятся от ловушек.</chupakobra6_3687071198_job.rat-hunt.node.o-grease-caught.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.o-grease-caught.Title>Запах не привлёк</chupakobra6_3687071198_job.rat-hunt.node.o-grease-caught.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.o-grease-ok.Text>Запах пищи выманивает крыс из настенных каналов прямо к ловчим загонам.</chupakobra6_3687071198_job.rat-hunt.node.o-grease-ok.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.o-grease-ok.Title>Запах приманки подействовал</chupakobra6_3687071198_job.rat-hunt.node.o-grease-ok.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.o-pets.Text>За ржавым шкафом сбились в кучу с десяток загнанных в угол вредителей. Из теней появляется чумазая станционная девочка и умоляет не убивать её «питомцев».</chupakobra6_3687071198_job.rat-hunt.node.o-pets.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.o-pets.Title>Крысы загнаны в угол</chupakobra6_3687071198_job.rat-hunt.node.o-pets.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.o-scent-ok.Text>Химическая приманка вызывает у крыс приступ обжорства и заманивает в загон десятки особей.</chupakobra6_3687071198_job.rat-hunt.node.o-scent-ok.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.o-scent-ok.Title>Феромонная приманка сработала</chupakobra6_3687071198_job.rat-hunt.node.o-scent-ok.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.o-spook.Text>Выстрелы пугают крысиное поселение. Сотни взбудораженных грызунов вырываются из-под поддонов и разбегаются по палубе.</chupakobra6_3687071198_job.rat-hunt.node.o-spook.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.o-spook.Title>Стая в панике</chupakobra6_3687071198_job.rat-hunt.node.o-spook.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.o-turbine-run.Text>Смерть вожака вызывает слепую панику. Вся стая срывается с места и мчится прямо к огромному приточному вентилятору станции.</chupakobra6_3687071198_job.rat-hunt.node.o-turbine-run.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.o-turbine-run.Title>Бегство к турбине</chupakobra6_3687071198_job.rat-hunt.node.o-turbine-run.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.o-turbine-saved.Text>Вентилятор успевает остановиться — либо вовремя закрывается решётка. Механизм спасён от разрушения.</chupakobra6_3687071198_job.rat-hunt.node.o-turbine-saved.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.o-turbine-saved.Title>Турбина спасена</chupakobra6_3687071198_job.rat-hunt.node.o-turbine-saved.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.s-prep.Text>Чтобы поймать зверей или согнать их вместе, не вызвав панического бегства к воздухозаборнику турбины, экипажу нужна действенная приманка. Она заманит стаю в подготовленный загон.</chupakobra6_3687071198_job.rat-hunt.node.s-prep.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.s-prep.Title>Приманка для ловушки</chupakobra6_3687071198_job.rat-hunt.node.s-prep.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.s-tame.Text>В глубине лабиринта поддонов огромный крысиный вожак, покрытый шрамами, встаёт на задние лапы и угрожающе шипит. Позади в тенях снуют грызуны поменьше.</chupakobra6_3687071198_job.rat-hunt.node.s-tame.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.s-tame.Title>Гнездо среди поддонов</chupakobra6_3687071198_job.rat-hunt.node.s-tame.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.s-turbine-crisis.Text>Обезумевшая от страха стая грызунов несётся прямо к воздухозаборникам огромной вентиляционной турбины отсека!</chupakobra6_3687071198_job.rat-hunt.node.s-turbine-crisis.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.s-turbine-crisis.Title>Приточный вентилятор</chupakobra6_3687071198_job.rat-hunt.node.s-turbine-crisis.Title>
+  <chupakobra6_3687071198_job.rat-hunt.node.s1.Text>В складском отсеке кромешная тьма, пахнет сырым овсом и грызунами. Между штабелями поддонов мелькают тени. {pawn} включает прожектор, а {pawn2} проверяет патронники.</chupakobra6_3687071198_job.rat-hunt.node.s1.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.s1.Title>Зерновой отсек №7</chupakobra6_3687071198_job.rat-hunt.node.s1.Title>
+  <chupakobra6_3687071198_job.spike-run.Name>Нейрокурьер</chupakobra6_3687071198_job.spike-run.Name>
+  <chupakobra6_3687071198_job.spike-run.Subtitle>Загрузите опасные данные прямо в серое вещество добровольца. Проведите его через охрану КПП. Извлеките данные, пока они не разрушили мозг.</chupakobra6_3687071198_job.spike-run.Subtitle>
+  <chupakobra6_3687071198_job.spike-run.node.brief.Text>Заготовка (QuestBacklog §11.4). Накопитель перевозится в черепе добровольца как активное состояние здоровья. После перехода через станцию предстоит опасная медицинская операция. Планируемые финалы: «Чистая доставка» — оплата и много опыта интеллекта; «Ошибка извлечения» — постоянная травма мозга и урезанная оплата; «Перехват в пути». Неизменное правило: продать носителя будет нельзя.</chupakobra6_3687071198_job.spike-run.node.brief.Text>
+  <chupakobra6_3687071198_job.spike-run.node.brief.Title>Инструктаж</chupakobra6_3687071198_job.spike-run.node.brief.Title>
+  <chupakobra6_3687071198_job.spike-run.node.todo.Text>Это задание ещё находится в плане разработки. Инструктаж выше — исходный набросок; сцены, способы действий, развилки и кровавые финалы пока не написаны.</chupakobra6_3687071198_job.spike-run.node.todo.Text>
+  <chupakobra6_3687071198_job.spike-run.node.todo.Title>Не завершено</chupakobra6_3687071198_job.spike-run.node.todo.Title>
+  <chupakobra6_3687071198_job.spin-cycle.Name>Круговорот</chupakobra6_3687071198_job.spin-cycle.Name>
+  <chupakobra6_3687071198_job.spin-cycle.Subtitle>Сразитесь с соперниками-сборщиками утиля за сорвавшийся грузовой контейнер, кувыркающийся в невесомости снаружи центрифуги.</chupakobra6_3687071198_job.spin-cycle.Subtitle>
+  <chupakobra6_3687071198_job.spin-cycle.edge.a-adapt.s-debris.Fail.Label>мутит, приходится сглатывать желчь</chupakobra6_3687071198_job.spin-cycle.edge.a-adapt.s-debris.Fail.Label>
+  <chupakobra6_3687071198_job.spin-cycle.edge.a-adapt.s-debris.Success.Label>закрепление в невесомости</chupakobra6_3687071198_job.spin-cycle.edge.a-adapt.s-debris.Success.Label>
+  <chupakobra6_3687071198_job.spin-cycle.edge.a-ammo.s-debris.Default.Label>магазины со стрелочными патронами вставлены</chupakobra6_3687071198_job.spin-cycle.edge.a-ammo.s-debris.Default.Label>
+  <chupakobra6_3687071198_job.spin-cycle.edge.a-boots.s-debris.Default.Label>магнитные захваты зафиксированы</chupakobra6_3687071198_job.spin-cycle.edge.a-boots.s-debris.Default.Label>
+  <chupakobra6_3687071198_job.spin-cycle.edge.a-patch-prep.s-debris.Default.Label>смоляные заплаты подготовлены</chupakobra6_3687071198_job.spin-cycle.edge.a-patch-prep.s-debris.Default.Label>
+  <chupakobra6_3687071198_job.spin-cycle.edge.o-breach.e-down.Fail.Label>гермоскафандр разорван в вакууме</chupakobra6_3687071198_job.spin-cycle.edge.o-breach.e-down.Fail.Label>
+  <chupakobra6_3687071198_job.spin-cycle.edge.o-breach.e-holed.Choice.Label>Заварить пробоину под огнём.</chupakobra6_3687071198_job.spin-cycle.edge.o-breach.e-holed.Choice.Label>
+  <chupakobra6_3687071198_job.spin-cycle.edge.o-breach.e-vented.Violence.Label>Выпустить воздух из грузового отсека в космос.</chupakobra6_3687071198_job.spin-cycle.edge.o-breach.e-vented.Violence.Label>
+  <chupakobra6_3687071198_job.spin-cycle.edge.o-spin.e-spunout.Fail.Label>каркас смят — восстановление невозможно</chupakobra6_3687071198_job.spin-cycle.edge.o-spin.e-spunout.Fail.Label>
+  <chupakobra6_3687071198_job.spin-cycle.edge.o-spin.o-won.Success.Label>вращение стабилизировано</chupakobra6_3687071198_job.spin-cycle.edge.o-spin.o-won.Success.Label>
+  <chupakobra6_3687071198_job.spin-cycle.node.a-adapt.Text>{pawn} фиксирует взгляд на центральной оси вращения, преодолевая дезориентацию. {pawn2} проверяет герметичность скафандров.</chupakobra6_3687071198_job.spin-cycle.node.a-adapt.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.a-adapt.Title>Найти опору против головокружения.</chupakobra6_3687071198_job.spin-cycle.node.a-adapt.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.a-ammo.Text>{pawn} заряжает рассчитанные на вакуум карабины стрелочными патронами с малой отдачей. {pawn2} закрепляет страховочные шнуры.</chupakobra6_3687071198_job.spin-cycle.node.a-ammo.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.a-ammo.Title>Зарядить патроны с малой отдачей.</chupakobra6_3687071198_job.spin-cycle.node.a-ammo.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.a-blade.Text>{pawn} отталкивается от переборки с обнажёнными моноклинками, а {pawn2} прикрывает огнём.</chupakobra6_3687071198_job.spin-cycle.node.a-blade.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.a-blade.Title>Атаковать боевыми ножами.</chupakobra6_3687071198_job.spin-cycle.node.a-blade.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.a-boots.Text>{pawn} калибрует магнитные катушки в подошвах, а {pawn2} проверяет запас топлива в маневровом ранце.</chupakobra6_3687071198_job.spin-cycle.node.a-boots.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.a-boots.Title>Зафиксировать магнитные ботинки.</chupakobra6_3687071198_job.spin-cycle.node.a-boots.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.a-braced.Text>{pawn} фиксирует магнитные ботинки на силовой балке и ведёт прицельный огонь из винтовки. {pawn2} указывает цели.</chupakobra6_3687071198_job.spin-cycle.node.a-braced.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.a-braced.Title>Закрепиться и стрелять.</chupakobra6_3687071198_job.spin-cycle.node.a-braced.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.a-debris-blast.Text>{pawn} ведёт карабином за летящими металлическими обломками и сбивает их в сторону до удара по скафандру.</chupakobra6_3687071198_job.spin-cycle.node.a-debris-blast.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.a-debris-blast.Title>Расстреливать приближающиеся обломки.</chupakobra6_3687071198_job.spin-cycle.node.a-debris-blast.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.a-debris-dodge.Text>{pawn} выжидает момент для прыжка через вращающееся поле обломков, а {pawn2} следит за орбитальной траекторией.</chupakobra6_3687071198_job.spin-cycle.node.a-debris-dodge.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.a-debris-dodge.Title>Оттолкнуться от направляющих.</chupakobra6_3687071198_job.spin-cycle.node.a-debris-dodge.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.a-debris-tether.Text>{pawn} стреляет пневматическим гарпуном с тросом в стыковочное кольцо капсулы, а {pawn2} закрепляет трос лебёдки.</chupakobra6_3687071198_job.spin-cycle.node.a-debris-tether.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.a-debris-tether.Title>Выстрелить тросом с гарпуном.</chupakobra6_3687071198_job.spin-cycle.node.a-debris-tether.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.a-heavy.Text>{pawn} наводит тяжёлое высокоскоростное оружие и открывает огонь по грузовому отсеку! «Пятничная перестрелка»: одолейте противников в невесомости!</chupakobra6_3687071198_job.spin-cycle.node.a-heavy.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.a-heavy.Title>Открыть огонь из тяжёлого оружия.</chupakobra6_3687071198_job.spin-cycle.node.a-heavy.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.a-maneuver.Text>{pawn} короткими импульсами двигателей на сжатом газе обходит соперников в трёх измерениях. {pawn2} прижимает их огнём.</chupakobra6_3687071198_job.spin-cycle.node.a-maneuver.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.a-maneuver.Title>Обойти с фланга в трёх измерениях.</chupakobra6_3687071198_job.spin-cycle.node.a-maneuver.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.a-patch-prep.Text>{pawn} готовит на нагрудной разгрузке быстротвердеющие смоляные заплаты, а {pawn2} проверяет аварийные кислородные инжекторы.</chupakobra6_3687071198_job.spin-cycle.node.a-patch-prep.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.a-patch-prep.Title>Приготовить заплаты для герметизации.</chupakobra6_3687071198_job.spin-cycle.node.a-patch-prep.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.brief.Text>Оторванная орбитальная грузовая капсула кувыркается в потоке у внешнего кольца. Синдикат добытчиков предлагает 750 серебра за захват капсулы, зачистку уже проникших внутрь соперников и сохранение титановой сердцевины, пока груз не вышел из зоны перехвата.</chupakobra6_3687071198_job.spin-cycle.node.brief.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.brief.Title>Инструктаж</chupakobra6_3687071198_job.spin-cycle.node.brief.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.e-backout.Text>Глядя в безмолвную вращающуюся бездну, экипаж решает, что риск боя в невесомости не стоит оплаты.</chupakobra6_3687071198_job.spin-cycle.node.e-backout.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.e-backout.Title>Отказ от вылазки</chupakobra6_3687071198_job.spin-cycle.node.e-backout.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.e-clean.Text>Экипаж буксирует контейнер в ремонтный отсек станции. Пласталь извлекают, а награду в 750 серебра выплачивают сразу.</chupakobra6_3687071198_job.spin-cycle.node.e-clean.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.e-clean.Title>Капсула захвачена</chupakobra6_3687071198_job.spin-cycle.node.e-clean.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.e-down.Text>Соперники лучше подготовлены к невесомости. У двух членов экипажа пробиты скафандры; выжившим приходится тащить их к шлюзу.</chupakobra6_3687071198_job.spin-cycle.node.e-down.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.e-down.Title>Экипаж разбит</chupakobra6_3687071198_job.spin-cycle.node.e-down.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.e-holed.Text>Выстрелы пробивают несколько пластальных ящиков, и сырьё вылетает в космос. Экипаж получает лишь 400 серебра из ожидаемых 750.</chupakobra6_3687071198_job.spin-cycle.node.e-holed.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.e-holed.Title>Повреждённая добыча</chupakobra6_3687071198_job.spin-cycle.node.e-holed.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.e-spunout.Text>Отдача и обломки рвут буксировочные тросы. Контейнер кувырком входит в верхние слои атмосферы планеты и сгорает.</chupakobra6_3687071198_job.spin-cycle.node.e-spunout.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.e-spunout.Title>Потеряно в потоке</chupakobra6_3687071198_job.spin-cycle.node.e-spunout.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.e-vented.Text>Соперников выталкивают в глубокую пустоту с пробитыми скафандрами. Контейнер и всё их снаряжение достаются экипажу.</chupakobra6_3687071198_job.spin-cycle.node.e-vented.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.e-vented.Title>Соперники выброшены в космос</chupakobra6_3687071198_job.spin-cycle.node.e-vented.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.o-breach.Text>Случайная кинетическая пуля пробивает тонкую наружную оболочку! Взрывная декомпрессия с визгом вырывает воздух в пустоту!</chupakobra6_3687071198_job.spin-cycle.node.o-breach.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.o-breach.Title>Разгерметизация скафандра</chupakobra6_3687071198_job.spin-cycle.node.o-breach.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.o-debris-clipped.Text>Вращающаяся стальная балка задевает плечо одного из членов экипажа и пробивает наружный слой скафандра. Аварийные заплаты успевают устранить утечку.</chupakobra6_3687071198_job.spin-cycle.node.o-debris-clipped.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.o-debris-clipped.Title>Скафандр задет</chupakobra6_3687071198_job.spin-cycle.node.o-debris-clipped.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.o-debris-pass.Text>Экипаж благополучно проходит сквозь кувыркающиеся обломки и прочно встаёт ботинками на корпус контейнера.</chupakobra6_3687071198_job.spin-cycle.node.o-debris-pass.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.o-debris-pass.Title>Облако позади</chupakobra6_3687071198_job.spin-cycle.node.o-debris-pass.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.o-spin.Text>Отдача срывает магнитные крепления. Одного из участников группы закручивает в пустоту на аварийном страховочном тросе.</chupakobra6_3687071198_job.spin-cycle.node.o-spin.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.o-spin.Title>Сорвало с корпуса</chupakobra6_3687071198_job.spin-cycle.node.o-spin.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.o-won.Text>Соперники нейтрализованы или изгнаны. Экипаж крепит буксировочные тросы к грузовому контейнеру.</chupakobra6_3687071198_job.spin-cycle.node.o-won.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.o-won.Title>Груз под контролем</chupakobra6_3687071198_job.spin-cycle.node.o-won.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.s-debris.Text>Изорванная обшивка и кристаллы замёрзшего топлива кружатся вокруг капсулы, словно осколочная буря. {pawn} и {pawn2} готовятся пересечь разрыв.</chupakobra6_3687071198_job.spin-cycle.node.s-debris.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.s-debris.Title>Облако обломков</chupakobra6_3687071198_job.spin-cycle.node.s-debris.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.s1.Text>Экипаж стоит в шлюзе челнока, из которого откачивают воздух. За открытым люком бешено вращается звёздная пустота; кувыркающаяся грузовая капсула отражает резкий солнечный свет. {pawn} проверяет страховочные тросы для выхода в космос, а {pawn2} фиксирует магнитные ботинки.</chupakobra6_3687071198_job.spin-cycle.node.s1.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.s1.Title>Наружный шлюз</chupakobra6_3687071198_job.spin-cycle.node.s1.Title>
+  <chupakobra6_3687071198_job.spin-cycle.node.s2.Text>Внутри грузового отсека искусственная гравитация не работает. В темноте дрейфуют контейнеры. Лучи фонарей выхватывают соперников в герметичных скафандрах: те наводят кинетические карабины!</chupakobra6_3687071198_job.spin-cycle.node.s2.Text>
+  <chupakobra6_3687071198_job.spin-cycle.node.s2.Title>Сердцевина груза</chupakobra6_3687071198_job.spin-cycle.node.s2.Title>
+  <chupakobra6_3687071198_job.thaw.Name>Разморозка</chupakobra6_3687071198_job.thaw.Name>
+  <chupakobra6_3687071198_job.thaw.Subtitle>Похитьте с погрузочной линии криокапсулу с замороженным главарём синдиката и допросите его до полного оттаивания.</chupakobra6_3687071198_job.thaw.Subtitle>
+  <chupakobra6_3687071198_job.thaw.edge.a-check-bribe.enr.Fail.Label>заплачено вдвое больше</chupakobra6_3687071198_job.thaw.edge.a-check-bribe.enr.Fail.Label>
+  <chupakobra6_3687071198_job.thaw.edge.a-check-papers.enr.Fail.Label>задержались, но успели на рейс</chupakobra6_3687071198_job.thaw.edge.a-check-papers.enr.Fail.Label>
+  <chupakobra6_3687071198_job.thaw.edge.a-check-papers.enr.Success.Label>карантинные документы приняли</chupakobra6_3687071198_job.thaw.edge.a-check-papers.enr.Success.Label>
+  <chupakobra6_3687071198_job.thaw.edge.a-check-slip.enr.Fail.Label>удалось забраться на челнок</chupakobra6_3687071198_job.thaw.edge.a-check-slip.enr.Fail.Label>
+  <chupakobra6_3687071198_job.thaw.edge.a-lift-coolant.s-checkpoint.Fail.Label>температура немного подскочила</chupakobra6_3687071198_job.thaw.edge.a-lift-coolant.s-checkpoint.Fail.Label>
+  <chupakobra6_3687071198_job.thaw.edge.a-lift-coolant.s-checkpoint.Success.Label>подключён обходной контур охлаждения</chupakobra6_3687071198_job.thaw.edge.a-lift-coolant.s-checkpoint.Success.Label>
+  <chupakobra6_3687071198_job.thaw.edge.a-lift-dolly.s-checkpoint.Fail.Label>тележка заскрипела</chupakobra6_3687071198_job.thaw.edge.a-lift-dolly.s-checkpoint.Fail.Label>
+  <chupakobra6_3687071198_job.thaw.edge.a-lift-dolly.s-checkpoint.Success.Label>тележка катится</chupakobra6_3687071198_job.thaw.edge.a-lift-dolly.s-checkpoint.Success.Label>
+  <chupakobra6_3687071198_job.thaw.edge.s2-know.e-delivered.Choice.Label>доставить на допрос</chupakobra6_3687071198_job.thaw.edge.s2-know.e-delivered.Choice.Label>
+  <chupakobra6_3687071198_job.thaw.edge.s2-know.e-freed.Choice.Label>освободить жертву</chupakobra6_3687071198_job.thaw.edge.s2-know.e-freed.Choice.Label>
+  <chupakobra6_3687071198_job.thaw.edge.s2-know.e-soldback.Choice.Label>продать криминальному главарю</chupakobra6_3687071198_job.thaw.edge.s2-know.e-soldback.Choice.Label>
+  <chupakobra6_3687071198_job.thaw.node.a-check-bribe.Text>{pawn} отсчитывает серебро в замасленную ладонь охранника, а {pawn2} заслоняет от него смотровое окно.</chupakobra6_3687071198_job.thaw.node.a-check-bribe.Text>
+  <chupakobra6_3687071198_job.thaw.node.a-check-bribe.Title>Подкупить охранника.</chupakobra6_3687071198_job.thaw.node.a-check-bribe.Title>
+  <chupakobra6_3687071198_job.thaw.node.a-check-papers.Text>{pawn} предъявляет в окошко КПП поддельные документы на медицинскую перевозку, а {pawn2} настраивает работу капсулы, приглушая её гул.</chupakobra6_3687071198_job.thaw.node.a-check-papers.Text>
+  <chupakobra6_3687071198_job.thaw.node.a-check-papers.Title>Предъявить фальшивые карантинные документы.</chupakobra6_3687071198_job.thaw.node.a-check-papers.Title>
+  <chupakobra6_3687071198_job.thaw.node.a-check-slip.Text>{pawn} дожидается, когда очередная продувка заполнит коридор паром, и подаёт знак: {pawn2}, пора толкать тележку.</chupakobra6_3687071198_job.thaw.node.a-check-slip.Text>
+  <chupakobra6_3687071198_job.thaw.node.a-check-slip.Title>Проскочить во время продувки.</chupakobra6_3687071198_job.thaw.node.a-check-slip.Title>
+  <chupakobra6_3687071198_job.thaw.node.a-lift-coolant.Text>{pawn} подключает переносной баллон с хладагентом к обходному клапану, а {pawn2} регулирует подачу.</chupakobra6_3687071198_job.thaw.node.a-lift-coolant.Text>
+  <chupakobra6_3687071198_job.thaw.node.a-lift-coolant.Title>Подключить переносной баллон с хладагентом.</chupakobra6_3687071198_job.thaw.node.a-lift-coolant.Title>
+  <chupakobra6_3687071198_job.thaw.node.a-lift-dolly.Text>{pawn} замыкает провода электрического тягача, а {pawn2} закрепляет капсулу тяжёлыми магнитными стяжками.</chupakobra6_3687071198_job.thaw.node.a-lift-dolly.Text>
+  <chupakobra6_3687071198_job.thaw.node.a-lift-dolly.Title>Запустить электротележку в обход замка.</chupakobra6_3687071198_job.thaw.node.a-lift-dolly.Title>
+  <chupakobra6_3687071198_job.thaw.node.a-lift-muscle.Text>{pawn} и {pawn2} наваливаются на тележку всем весом и вручную тащат её по обледенелым плитам палубы.</chupakobra6_3687071198_job.thaw.node.a-lift-muscle.Text>
+  <chupakobra6_3687071198_job.thaw.node.a-lift-muscle.Title>Переложить на ручную тележку.</chupakobra6_3687071198_job.thaw.node.a-lift-muscle.Title>
+  <chupakobra6_3687071198_job.thaw.node.brief.Text>Анонимный посредник предлагает 800 серебра за низкотемпературную криокапсулу из отсека заброшенного грузового корабля. Внутри — руководитель корпорации, замороженный во время полёта. Сборщики утиля из синдиката уже вскрывают корпус, а внутреннего охлаждения капсулы хватит меньше чем на час.</chupakobra6_3687071198_job.thaw.node.brief.Text>
+  <chupakobra6_3687071198_job.thaw.node.brief.Title>Инструктаж</chupakobra6_3687071198_job.thaw.node.brief.Title>
+  <chupakobra6_3687071198_job.thaw.node.e-delivered.Text>Пленник не выдерживает допроса и диктует шифры. Счета опустошают, а решала выплачивает все обещанные 800 серебра.</chupakobra6_3687071198_job.thaw.node.e-delivered.Text>
+  <chupakobra6_3687071198_job.thaw.node.e-delivered.Title>Коды получены</chupakobra6_3687071198_job.thaw.node.e-delivered.Title>
+  <chupakobra6_3687071198_job.thaw.node.e-doa.Text>Пленник умирает на столе, так и не сообщив коды. Решала отказывается платить и приказывает экипажу избавиться от тела.</chupakobra6_3687071198_job.thaw.node.e-doa.Text>
+  <chupakobra6_3687071198_job.thaw.node.e-doa.Title>Пленник мёртв</chupakobra6_3687071198_job.thaw.node.e-doa.Title>
+  <chupakobra6_3687071198_job.thaw.node.e-down.Text>Охрана убежища одолевает экипаж. Выжившие остаются истекать кровью на полу, а синдикат возвращает себе сектор.</chupakobra6_3687071198_job.thaw.node.e-down.Text>
+  <chupakobra6_3687071198_job.thaw.node.e-down.Title>Экипаж разбит</chupakobra6_3687071198_job.thaw.node.e-down.Title>
+  <chupakobra6_3687071198_job.thaw.node.e-freed.Text>Экипаж тайком снимает с пленника оковы и выпускает его через чёрный ход в обмен на прямой перевод с платёжного чипа.</chupakobra6_3687071198_job.thaw.node.e-freed.Text>
+  <chupakobra6_3687071198_job.thaw.node.e-freed.Title>Пленник освобождён</chupakobra6_3687071198_job.thaw.node.e-freed.Title>
+  <chupakobra6_3687071198_job.thaw.node.e-shotout.Text>Экипаж убивает решалу и его людей, забирает из консоли расшифрованные платёжные чипы и исчезает в потоке орбитального транспорта.</chupakobra6_3687071198_job.thaw.node.e-shotout.Text>
+  <chupakobra6_3687071198_job.thaw.node.e-shotout.Title>Весь куш ваш</chupakobra6_3687071198_job.thaw.node.e-shotout.Title>
+  <chupakobra6_3687071198_job.thaw.node.e-soldback.Text>Экипаж напрямую связывается с синдикатом пленника и договаривается о выкупе за его возвращение невредимым. Выплата оказывается внушительной.</chupakobra6_3687071198_job.thaw.node.e-soldback.Text>
+  <chupakobra6_3687071198_job.thaw.node.e-soldback.Title>Продано синдикату</chupakobra6_3687071198_job.thaw.node.e-soldback.Title>
+  <chupakobra6_3687071198_job.thaw.node.e-walkaway.Text>Экипаж решает, что связываться с замороженным руководителем синдиката слишком опасно, и отступает от погрузочной линии.</chupakobra6_3687071198_job.thaw.node.e-walkaway.Text>
+  <chupakobra6_3687071198_job.thaw.node.e-walkaway.Title>Оставить на платформе.</chupakobra6_3687071198_job.thaw.node.e-walkaway.Title>
+  <chupakobra6_3687071198_job.thaw.node.enr-dead.Text>Температура внутри выходит из-под контроля. К посадке челнока мозг человека в капсуле уже необратимо погиб.</chupakobra6_3687071198_job.thaw.node.enr-dead.Text>
+  <chupakobra6_3687071198_job.thaw.node.enr-dead.Title>Отказ охлаждения</chupakobra6_3687071198_job.thaw.node.enr-dead.Title>
+  <chupakobra6_3687071198_job.thaw.node.enr-enforcers.Text>{pawn} занимает место у турельного орудия челнока, готовясь безжалостно открыть ответный огонь. {pawn2} стабилизирует машину.</chupakobra6_3687071198_job.thaw.node.enr-enforcers.Text>
+  <chupakobra6_3687071198_job.thaw.node.enr-enforcers.Title>Просто расстрелять перехватчики.</chupakobra6_3687071198_job.thaw.node.enr-enforcers.Title>
+  <chupakobra6_3687071198_job.thaw.node.enr-failure.Text>{pawn} заделывает сочащуюся трещину аварийной термопеной, а {pawn2} стравливает лишнее давление.</chupakobra6_3687071198_job.thaw.node.enr-failure.Text>
+  <chupakobra6_3687071198_job.thaw.node.enr-failure.Title>Заделать трубку охлаждения.</chupakobra6_3687071198_job.thaw.node.enr-failure.Title>
+  <chupakobra6_3687071198_job.thaw.node.enr-ok.Text>Челнок покидает пространство над погрузочной линией и стыкуется с частным доком решалы без критических повреждений.</chupakobra6_3687071198_job.thaw.node.enr-ok.Text>
+  <chupakobra6_3687071198_job.thaw.node.enr-ok.Title>Стыковка у убежища</chupakobra6_3687071198_job.thaw.node.enr-ok.Title>
+  <chupakobra6_3687071198_job.thaw.node.enr-wake.Text>{pawn} запускает экстренное оттаивание нервной системы, а {pawn2} разговаривает с дезориентированным руководителем, помогая ему пройти реанимацию.</chupakobra6_3687071198_job.thaw.node.enr-wake.Text>
+  <chupakobra6_3687071198_job.thaw.node.enr-wake.Title>Поговорить с оттаивающим пассажиром.</chupakobra6_3687071198_job.thaw.node.enr-wake.Title>
+  <chupakobra6_3687071198_job.thaw.node.enr.Text>В транзитном челноке начинают попискивать тревожные сирены. Задние датчики обнаруживают лёгкие перехватчики синдиката!</chupakobra6_3687071198_job.thaw.node.enr.Text>
+  <chupakobra6_3687071198_job.thaw.node.enr.Title>Перелёт на челноке</chupakobra6_3687071198_job.thaw.node.enr.Title>
+  <chupakobra6_3687071198_job.thaw.node.o-fight-deliv.Text>В бетонном подвале гремят выстрелы! Перехватчики синдиката врываются с чёрного входа под прикрытием автоматного огня!</chupakobra6_3687071198_job.thaw.node.o-fight-deliv.Text>
+  <chupakobra6_3687071198_job.thaw.node.o-fight-deliv.Title>Перестрелка в убежище</chupakobra6_3687071198_job.thaw.node.o-fight-deliv.Title>
+  <chupakobra6_3687071198_job.thaw.node.s-checkpoint.Text>Путь к транзитному челноку проходит через внутренний карантинный шлюз. Вооружённые портовые инспекторы проверяют пломбы биологической безопасности.</chupakobra6_3687071198_job.thaw.node.s-checkpoint.Text>
+  <chupakobra6_3687071198_job.thaw.node.s-checkpoint.Title>КПП погрузочной линии</chupakobra6_3687071198_job.thaw.node.s-checkpoint.Title>
+  <chupakobra6_3687071198_job.thaw.node.s-lift.Text>В основной трубке охлаждения появилась течь под высоким давлением. В воздух с шипением вырывается ледяная взвесь. {pawn} и {pawn2} должны стабилизировать температуру, прежде чем переносить капсулу.</chupakobra6_3687071198_job.thaw.node.s-lift.Text>
+  <chupakobra6_3687071198_job.thaw.node.s-lift.Title>Отсоединение охлаждения</chupakobra6_3687071198_job.thaw.node.s-lift.Title>
+  <chupakobra6_3687071198_job.thaw.node.s1-aware.Text>{pawn} осматривает защёлки и разъёмы питания, а {pawn2} следит, не приближается ли по грузовому коридору бригада синдиката с резаками.</chupakobra6_3687071198_job.thaw.node.s1-aware.Text>
+  <chupakobra6_3687071198_job.thaw.node.s1-aware.Title>Осмотреть замки капсулы.</chupakobra6_3687071198_job.thaw.node.s1-aware.Title>
+  <chupakobra6_3687071198_job.thaw.node.s1-grab.Text>{pawn} и {pawn2} силой размыкают магнитные захваты и взваливают капсулу на подвижную платформу, не глядя на приборы.</chupakobra6_3687071198_job.thaw.node.s1-grab.Text>
+  <chupakobra6_3687071198_job.thaw.node.s1-grab.Title>Просто забрать капсулу.</chupakobra6_3687071198_job.thaw.node.s1-grab.Title>
+  <chupakobra6_3687071198_job.thaw.node.s1-medical.Text>{pawn} подключает диагностические провода к покрытой инеем криокапсуле, а {pawn2} следит за потерей охлаждения. Разрыв клапана за считаные секунды запустит гибель клеток.</chupakobra6_3687071198_job.thaw.node.s1-medical.Text>
+  <chupakobra6_3687071198_job.thaw.node.s1-medical.Title>Проверить биомониторы.</chupakobra6_3687071198_job.thaw.node.s1-medical.Title>
+  <chupakobra6_3687071198_job.thaw.node.s1-nothing.Text>Иней на смотровых окошках и незнакомые замки не позволяют точно оценить состояние внутри капсулы. Впрочем, её тяжёлый корпус явно цел.</chupakobra6_3687071198_job.thaw.node.s1-nothing.Text>
+  <chupakobra6_3687071198_job.thaw.node.s1-nothing.Title>Неизвестный груз</chupakobra6_3687071198_job.thaw.node.s1-nothing.Title>
+  <chupakobra6_3687071198_job.thaw.node.s1-truth.Text>Биометрические показатели подтверждают: человек внутри жив, обездвижен препаратами и находится в состоянии глубокой гипотермии. Герметичные затворы под давлением готовы к быстрому открытию.</chupakobra6_3687071198_job.thaw.node.s1-truth.Text>
+  <chupakobra6_3687071198_job.thaw.node.s1-truth.Title>Внутри заложник</chupakobra6_3687071198_job.thaw.node.s1-truth.Title>
+  <chupakobra6_3687071198_job.thaw.node.s1.Text>В грузовом отсеке стоит ледяной холод, металлический настил покрыт инеем. Криокапсула закреплена на транспортировочной платформе, предупреждающие лампы мигают янтарным. {pawn} изучает показатели жизненных функций, а {pawn2} держит дверь под прицелом карабина.</chupakobra6_3687071198_job.thaw.node.s1.Text>
+  <chupakobra6_3687071198_job.thaw.node.s1.Title>Транспортировочная платформа</chupakobra6_3687071198_job.thaw.node.s1.Title>
+  <chupakobra6_3687071198_job.thaw.node.s2-blind.Text>{pawn} пододвигает капсулу по полу, как и было условлено. {pawn2} пересчитывает оплату.</chupakobra6_3687071198_job.thaw.node.s2-blind.Text>
+  <chupakobra6_3687071198_job.thaw.node.s2-blind.Title>Передать капсулу по договорённости.</chupakobra6_3687071198_job.thaw.node.s2-blind.Title>
+  <chupakobra6_3687071198_job.thaw.node.s2-know.Text>{pawn} требует у оттаявшего заложника коды защиты, не позволяя покупателю подойти.</chupakobra6_3687071198_job.thaw.node.s2-know.Text>
+  <chupakobra6_3687071198_job.thaw.node.s2-know.Title>Получить рычаг давления от заложника.</chupakobra6_3687071198_job.thaw.node.s2-know.Title>
+  <chupakobra6_3687071198_job.thaw.node.s2-shoot.Text>{pawn} вскидывает оружие и стреляет без предупреждения, опрокидывая стол для допросов. {pawn2} прикрывает дверь.</chupakobra6_3687071198_job.thaw.node.s2-shoot.Text>
+  <chupakobra6_3687071198_job.thaw.node.s2-shoot.Title>Застрелить покупателя.</chupakobra6_3687071198_job.thaw.node.s2-shoot.Title>
+  <chupakobra6_3687071198_job.thaw.node.s2.Text>В подвале убежища сыро, пахнет мокрым бетоном. Покупатель ждёт за столом для допросов, окружённый наёмниками синдиката с тяжёлым автоматическим оружием.</chupakobra6_3687071198_job.thaw.node.s2.Text>
+  <chupakobra6_3687071198_job.thaw.node.s2.Title>Комната для допросов</chupakobra6_3687071198_job.thaw.node.s2.Title>
+</LanguageData>

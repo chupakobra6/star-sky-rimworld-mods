@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <EBSG_GeneticDrugDependency.stages.genetic_dependency.description>Мои гены требуют регулярно принимать определённое вещество: {DEPENDENCY}. Как же давно мне не доставалось ни дозы!</EBSG_GeneticDrugDependency.stages.genetic_dependency.description>
+  <EBSG_GeneticDrugDependency.stages.genetic_dependency.label>генетическая зависимость: {DEPENDENCY}</EBSG_GeneticDrugDependency.stages.genetic_dependency.label>
+  <EBSG_GeneticDrugReliance.stages.genetic_dependency.description>Мои гены требуют регулярно принимать определённое вещество: {DEPENDENCY}. Слишком долго приходится без него обходиться!</EBSG_GeneticDrugReliance.stages.genetic_dependency.description>
+  <EBSG_GeneticDrugReliance.stages.genetic_dependency.label>генетическая потребность: {DEPENDENCY}</EBSG_GeneticDrugReliance.stages.genetic_dependency.label>
+  <EBSG_GeneticFoodDependency.stages.genetic_dependency.description>Мои гены требуют регулярно есть определённую пищу: {DEPENDENCY}. Как же давно мне не доставалось ни кусочка!</EBSG_GeneticFoodDependency.stages.genetic_dependency.description>
+  <EBSG_GeneticFoodDependency.stages.genetic_dependency.label>генетическая зависимость: {DEPENDENCY}</EBSG_GeneticFoodDependency.stages.genetic_dependency.label>
+  <EBSG_GeneticFoodGroupDependency.stages.genetic_dependency.description>Мои гены требуют регулярно есть определённую пищу: {DEPENDENCY}. Как же давно мне не доставалось ни кусочка!</EBSG_GeneticFoodGroupDependency.stages.genetic_dependency.description>
+  <EBSG_GeneticFoodGroupDependency.stages.genetic_dependency.label>генетическая зависимость: {DEPENDENCY}</EBSG_GeneticFoodGroupDependency.stages.genetic_dependency.label>
+  <EBSG_GeneticFoodGroupReliance.stages.genetic_dependency.description>Мои гены требуют регулярно есть определённую пищу: {DEPENDENCY}. Слишком долго приходится без неё обходиться!</EBSG_GeneticFoodGroupReliance.stages.genetic_dependency.description>
+  <EBSG_GeneticFoodGroupReliance.stages.genetic_dependency.label>генетическая потребность: {DEPENDENCY}</EBSG_GeneticFoodGroupReliance.stages.genetic_dependency.label>
+  <EBSG_GeneticFoodReliance.stages.genetic_dependency.description>Мои гены требуют регулярно есть определённую пищу: {DEPENDENCY}. Слишком долго приходится без неё обходиться!</EBSG_GeneticFoodReliance.stages.genetic_dependency.description>
+  <EBSG_GeneticFoodReliance.stages.genetic_dependency.label>генетическая потребность: {DEPENDENCY}</EBSG_GeneticFoodReliance.stages.genetic_dependency.label>
+</LanguageData>

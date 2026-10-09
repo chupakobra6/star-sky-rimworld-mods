@@ -1,0 +1,17 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <MO_OrbitalEngineerToolkit.description>Вакуумный многофункциональный инструмент, встроенный в скафандр. Позволяет инженеру перекладывать коммуникации, сваривать обшивку и расчищать грузовой отсек вдвое быстрее обычного.</MO_OrbitalEngineerToolkit.description>
+  <MO_OrbitalEngineerToolkit.label>набор инструментов орбитального инженера</MO_OrbitalEngineerToolkit.label>
+  <MiningOutpost_CombatMedic.description>Исключительно быстрая перевязка ран в напряжённой боевой обстановке.</MiningOutpost_CombatMedic.description>
+  <MiningOutpost_CombatMedic.label>боевой медик</MiningOutpost_CombatMedic.label>
+  <MiningOutpost_DugIn.description>Сосредоточенность и готовность к бою.</MiningOutpost_DugIn.description>
+  <MiningOutpost_DugIn.label>готовность к обороне</MiningOutpost_DugIn.label>
+  <MiningOutpost_LaborerFatigue.description>Этот человек несёт тяжёлый груз.</MiningOutpost_LaborerFatigue.description>
+  <MiningOutpost_LaborerFatigue.label>усталость грузчика</MiningOutpost_LaborerFatigue.label>
+  <MiningOutpost_Panic.description>Этот человек в панике съёжился на месте, пытаясь укрыться от боя.</MiningOutpost_Panic.description>
+  <MiningOutpost_Panic.label>паника</MiningOutpost_Panic.label>
+  <MiningOutpost_ParleyBetrayal.description>Этот персонаж тайно замышляет предательство колонии.</MiningOutpost_ParleyBetrayal.description>
+  <MiningOutpost_ParleyBetrayal.label>тайно планирует предательство</MiningOutpost_ParleyBetrayal.label>
+  <MiningOutpost_WorkFatigue.description>Этот человек подолгу работает за жалкие гроши.</MiningOutpost_WorkFatigue.description>
+  <MiningOutpost_WorkFatigue.label>усталость от работы на аванпосте</MiningOutpost_WorkFatigue.label>
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AP_ExcellentPrefabReward.description>Грузовая капсула содержит две дорогостоящие сборные постройки</AP_ExcellentPrefabReward.description>
+  <AP_ExcellentPrefabReward.label>Дорогостоящие сборные постройки</AP_ExcellentPrefabReward.label>
+  <AP_GoodPrefabReward.description>Грузовая капсула содержит одну сборную постройку средней стоимости</AP_GoodPrefabReward.description>
+  <AP_GoodPrefabReward.label>Сборная постройка средней стоимости</AP_GoodPrefabReward.label>
+  <AP_LegendaryPrefabReward.description>Грузовая капсула содержит 3 сборные постройки легендарной стоимости</AP_LegendaryPrefabReward.description>
+  <AP_LegendaryPrefabReward.label>Сборные постройки легендарной стоимости</AP_LegendaryPrefabReward.label>
+  <AP_NormalPrefabReward.description>Грузовая капсула содержит одну дешёвую сборную постройку</AP_NormalPrefabReward.description>
+  <AP_NormalPrefabReward.label>Дешёвая сборная постройка</AP_NormalPrefabReward.label>
+</LanguageData>

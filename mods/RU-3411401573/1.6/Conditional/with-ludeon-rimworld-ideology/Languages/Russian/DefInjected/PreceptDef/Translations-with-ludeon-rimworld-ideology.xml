@@ -1,0 +1,16 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VQE_ARCGenerators_Abhorrent.description>АРК — опасные мерзости, символы безрассудной зависимости человечества от технологий. Их существование тревожит, а использование грозит навлечь катастрофу.
+
+&lt;color=#E5E54C&gt;Влияние на игру:&lt;/color&gt;
+ - Во время истерики персонаж будет пытаться повредить АРК, если сможет до него добраться.</VQE_ARCGenerators_Abhorrent.description>
+  <VQE_ARCGenerators_Abhorrent.label>отвратительны</VQE_ARCGenerators_Abhorrent.label>
+  <VQE_ARCGenerators_Exalted.description>АРК — величайшее достижение человечества, символ прогресса и выживания. Повредить АРК или оставить его без заботы — святотатство, а само его присутствие дарует каждому надежду и цель.</VQE_ARCGenerators_Exalted.description>
+  <VQE_ARCGenerators_Exalted.label>почитаются</VQE_ARCGenerators_Exalted.label>
+  <VQE_Technology_Rejected.description>Современные технологии — растлевающая сила, которая уводит человечество с естественного пути. Использовать их постыдно: они несут лишь погибель и раздор.
+
+&lt;color=#E5E54C&gt;Влияние на игру:&lt;/color&gt;
+ - Поселенцы откажутся брать в руки или надевать предметы индустриального технологического уровня и выше.
+ - Во время истерики персонаж будет пытаться повредить предметы и постройки индустриального технологического уровня и выше.</VQE_Technology_Rejected.description>
+  <VQE_Technology_Rejected.label>отвергаются</VQE_Technology_Rejected.label>
+</LanguageData>

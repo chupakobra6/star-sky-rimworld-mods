@@ -1,0 +1,348 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AbilityCasterAgeAbove>Минимальный возраст применяющего способность: {0}</AbilityCasterAgeAbove>
+  <AbilityCasterAgeBelow>Максимальный возраст применяющего способность: {0}</AbilityCasterAgeBelow>
+  <AbilityCasterAgeBetween>Допустимый возраст применяющего способность (в годах): от {0} до {1}</AbilityCasterAgeBetween>
+  <AbilityCasterAgeNotBetween>Недопустимый возраст применяющего способность (в годах): от {0} до {1}</AbilityCasterAgeNotBetween>
+  <AbilityCasterFaction>Применяющий способность принадлежит неподходящей фракции</AbilityCasterFaction>
+  <AbilityCasterFactionOne>Применяющий способность должен принадлежать фракции «{0}»</AbilityCasterFactionOne>
+  <AbilityCasterHediff>У применяющего способность есть неподходящие состояния здоровья</AbilityCasterHediff>
+  <AbilityCasterHediffOne>У применяющего способность есть запрещённое состояние «{0}»</AbilityCasterHediffOne>
+  <AbilityCasterHighCheck>У применяющего способность слишком высокое значение: {0}</AbilityCasterHighCheck>
+  <AbilityCasterInventory>У применяющего способность нет необходимых предметов в инвентаре.</AbilityCasterInventory>
+  <AbilityCasterLightLevel>Освещённость в точке применения способности должна быть от {0} до {1}</AbilityCasterLightLevel>
+  <AbilityCasterLightLevelInvert>Освещённость в точке применения способности должна быть ниже {0} или выше {1}</AbilityCasterLightLevelInvert>
+  <AbilityCasterLowCheck>У применяющего способность слишком низкое значение: {0}</AbilityCasterLowCheck>
+  <AbilityCasterNeedsCheck>Показатели потребностей применяющего способность вне допустимых диапазонов</AbilityCasterNeedsCheck>
+  <AbilityCasterNoFaction>Применяющий способность не должен принадлежать фракции «{0}»</AbilityCasterNoFaction>
+  <AbilityCasterNoMap>Нет доступной карты, на которой можно выбрать цель.</AbilityCasterNoMap>
+  <AbilityCasterNoRoof>Применяющий способность должен находиться вне помещения с крышей</AbilityCasterNoRoof>
+  <AbilityCasterNoThickRoof>Применяющий способность не должен находиться под толстой крышей</AbilityCasterNoThickRoof>
+  <AbilityCasterNoneCheck>Применяющий способность не может использовать: {0}</AbilityCasterNoneCheck>
+  <AbilityCasterRoof>Применяющий способность должен находиться под крышей</AbilityCasterRoof>
+  <AbilityCasterThickRoof>Применяющий способность должен находиться под толстой крышей</AbilityCasterThickRoof>
+  <AbilityCasterTraitOne>У применяющего способность есть запрещённая черта «{0}»</AbilityCasterTraitOne>
+  <AbilityDisabledNoResource>{0_labelShort}: недостаточно ресурса «{1}».</AbilityDisabledNoResource>
+  <AbilityDisabledNoResourceGene>{0_labelShort}: отсутствует ген «{1}».</AbilityDisabledNoResourceGene>
+  <AbilityDisabledTooMuchResource>{0_labelShort}: слишком много ресурса «{1}».</AbilityDisabledTooMuchResource>
+  <AbilityGameCondition>Действующие условия на карте мешают применить способность.</AbilityGameCondition>
+  <AbilityGameConditionOne>На карте действует несовместимое условие «{0}»</AbilityGameConditionOne>
+  <AbilityGameNoCondition>На карте должны действовать определённые условия</AbilityGameNoCondition>
+  <AbilityGameNoConditionOne>На карте должно действовать условие «{0}»</AbilityGameNoConditionOne>
+  <AbilityGoToAlly>Переместиться к случайному союзнику</AbilityGoToAlly>
+  <AbilityHighBattery>Заряд аккумулятора слишком высок.</AbilityHighBattery>
+  <AbilityHighRain>Дождь слишком сильный</AbilityHighRain>
+  <AbilityHighSnow>Снегопад слишком сильный</AbilityHighSnow>
+  <AbilityHomeTeleport>Переместиться в случайную точку домашней зоны</AbilityHomeTeleport>
+  <AbilityJoinCaravan>Присоединиться к каравану</AbilityJoinCaravan>
+  <AbilityLowBattery>Заряд аккумулятора слишком низок.</AbilityLowBattery>
+  <AbilityLowRain>Дождь слишком слабый</AbilityLowRain>
+  <AbilityLowSnow>Снегопад слишком слабый</AbilityLowSnow>
+  <AbilityMapTeleport>Переместиться в случайную точку карты</AbilityMapTeleport>
+  <AbilityNoCasterHediff>У применяющего способность отсутствует необходимое состояние здоровья</AbilityNoCasterHediff>
+  <AbilityNoCasterHediffOne>У применяющего способность должно быть состояние «{0}»</AbilityNoCasterHediffOne>
+  <AbilityNoCasterTrait>У применяющего способность отсутствует необходимая черта</AbilityNoCasterTrait>
+  <AbilityNoCasterTraitOne>У применяющего способность должна быть черта «{0}»</AbilityNoCasterTraitOne>
+  <AbilityNoPollution>Нужен загрязнённый участок.</AbilityNoPollution>
+  <AbilityNoRoof>Нужен участок, полностью закрытый крышей.</AbilityNoRoof>
+  <AbilityNoTargetGene>У цели отсутствует необходимый ген</AbilityNoTargetGene>
+  <AbilityNoTargetGeneOne>У цели должен быть ген «{0}»</AbilityNoTargetGeneOne>
+  <AbilityNoTargetHediff>У цели отсутствует необходимое состояние здоровья</AbilityNoTargetHediff>
+  <AbilityNoTargetHediffOne>У цели должно быть состояние «{0}»</AbilityNoTargetHediffOne>
+  <AbilityNoTargetTrait>У цели отсутствует необходимая черта</AbilityNoTargetTrait>
+  <AbilityNoTargetTraitOne>У цели должна быть черта «{0}»</AbilityNoTargetTraitOne>
+  <AbilityNoWater>Нужен участок, покрытый водой.</AbilityNoWater>
+  <AbilityNoWeather>Нужна подходящая погода</AbilityNoWeather>
+  <AbilityNoWeatherOne>Нужна определённая погода: {0}</AbilityNoWeatherOne>
+  <AbilityNotBattery>Нужно выбрать аккумулятор.</AbilityNotBattery>
+  <AbilityPawnKind>Неподходящий тип персонажа</AbilityPawnKind>
+  <AbilityPlant>Нужен участок без растений.</AbilityPlant>
+  <AbilityPollution>Нужен незагрязнённый участок.</AbilityPollution>
+  <AbilityTargetAgeAbove>Минимальный возраст цели: {0}</AbilityTargetAgeAbove>
+  <AbilityTargetAgeBelow>Максимальный возраст цели: {0}</AbilityTargetAgeBelow>
+  <AbilityTargetAgeBetween>Допустимый возраст цели (в годах): от {0} до {1}</AbilityTargetAgeBetween>
+  <AbilityTargetAgeNotBetween>Недопустимый возраст цели (в годах): от {0} до {1}</AbilityTargetAgeNotBetween>
+  <AbilityTargetFaction>Цель принадлежит неподходящей фракции</AbilityTargetFaction>
+  <AbilityTargetFactionNone>Цель не должна принадлежать никакой фракции</AbilityTargetFactionNone>
+  <AbilityTargetFactionOne>Цель должна принадлежать фракции «{0}»</AbilityTargetFactionOne>
+  <AbilityTargetGene>У цели есть неподходящие гены</AbilityTargetGene>
+  <AbilityTargetGeneOne>У цели есть запрещённый ген «{0}»</AbilityTargetGeneOne>
+  <AbilityTargetHediff>У цели есть неподходящие состояния здоровья</AbilityTargetHediff>
+  <AbilityTargetHediffOne>У цели есть запрещённое состояние «{0}»</AbilityTargetHediffOne>
+  <AbilityTargetHighCheck>У цели слишком высокое значение: {0}</AbilityTargetHighCheck>
+  <AbilityTargetHostile>Цель должна быть враждебной</AbilityTargetHostile>
+  <AbilityTargetInventory>У цели нет необходимых предметов в инвентаре.</AbilityTargetInventory>
+  <AbilityTargetLightLevel>Освещённость в точке цели должна быть от {0} до {1}</AbilityTargetLightLevel>
+  <AbilityTargetLightLevelInvert>Освещённость в точке цели должна быть ниже {0} или выше {1}</AbilityTargetLightLevelInvert>
+  <AbilityTargetLowCheck>У цели слишком низкое значение: {0}</AbilityTargetLowCheck>
+  <AbilityTargetMentalState>Неподходящее психическое состояние</AbilityTargetMentalState>
+  <AbilityTargetMentalStateForbidden>Мешает психическое состояние «{0}»</AbilityTargetMentalStateForbidden>
+  <AbilityTargetMustBePawn>Нужно выбрать персонажа</AbilityTargetMustBePawn>
+  <AbilityTargetNeedsCheck>Показатели потребностей цели вне допустимых диапазонов</AbilityTargetNeedsCheck>
+  <AbilityTargetNoFaction>Цель не должна принадлежать фракции «{0}»</AbilityTargetNoFaction>
+  <AbilityTargetNoRoof>Цель должна находиться вне помещения с крышей</AbilityTargetNoRoof>
+  <AbilityTargetNoThickRoof>Цель не должна находиться под толстой крышей</AbilityTargetNoThickRoof>
+  <AbilityTargetNonPlayer>Цель не должна принадлежать вашей фракции</AbilityTargetNonPlayer>
+  <AbilityTargetNoneCheck>Цель не может использовать: {0}</AbilityTargetNoneCheck>
+  <AbilityTargetPlayer>Цель должна принадлежать вашей фракции</AbilityTargetPlayer>
+  <AbilityTargetRoof>Цель должна находиться под крышей</AbilityTargetRoof>
+  <AbilityTargetThickRoof>Цель должна находиться под толстой крышей</AbilityTargetThickRoof>
+  <AbilityTargetTraitOne>У цели есть запрещённая черта «{0}»</AbilityTargetTraitOne>
+  <AbilityTargetXenotype>Ксенотип цели не подходит: {0}</AbilityTargetXenotype>
+  <AbilityTargetXenotypeOne>У цели должен быть ксенотип «{0}»</AbilityTargetXenotypeOne>
+  <AbilityThing>Нужен пустой участок.</AbilityThing>
+  <AbilityTime>Время суток должно быть в диапазоне {0}–{1} ч.</AbilityTime>
+  <AbilityWater>Нужен участок без воды.</AbilityWater>
+  <AbilityWeatherOne>Неподходящая погода на карте: {0}</AbilityWeatherOne>
+  <AlertLowResource>Мало ресурса</AlertLowResource>
+  <AlertLowResourceDesc>У поселенца заканчивается ресурс</AlertLowResourceDesc>
+  <AlreadyActiveWeather>На карте уже установлена такая погода: {0}.</AlreadyActiveWeather>
+  <ArchitePsychicInfluencer>     Архитное пси-влияние убирает штраф за разорванную пси-связь</ArchitePsychicInfluencer>
+  <AutoTakeResourceDesc>{PAWN_nameDef}: автоматически употреблять порции ресурса «{RESOURCE}», когда {PAWN_possessive} запас ресурса «{RESOURCE}» опускается ниже {MIN}.
+
+Автоматическое употребление сейчас {ONOFF}.</AutoTakeResourceDesc>
+  <ConsumeResourceBelow>Употреблять «{0}» при запасе ниже</ConsumeResourceBelow>
+  <DRG_Consuming>Употребление: {0}</DRG_Consuming>
+  <EAG_ModName>Expanded Archite Genes</EAG_ModName>
+  <EBSGAiO_ModName>Expanded Biotech Style Genes</EBSGAiO_ModName>
+  <EBSGBleed_ModName>Bleeding Genes</EBSGBleed_ModName>
+  <EBSGMechanitor_ModName>Mechanitor Genes</EBSGMechanitor_ModName>
+  <EBSGPsychic_ModName>Expanded Psychic Genes</EBSGPsychic_ModName>
+  <EBSG_AbilitySpawnHumanlike>С помощью источника «{0}» создан новый персонаж: {1}</EBSG_AbilitySpawnHumanlike>
+  <EBSG_AboveLight>освещённость выше {0}</EBSG_AboveLight>
+  <EBSG_AboveTemperature>температура выше {0}</EBSG_AboveTemperature>
+  <EBSG_AgeLimitedAgeless>    Омоложение геном нестарения (нужен Biotech)</EBSG_AgeLimitedAgeless>
+  <EBSG_AgeLimitedAgelessDescription>Если персонаж старше 30 лет получает ген нестарения или появляется с ним, его биологический возраст сразу снижается до случайного значения от 18 до 30 лет.</EBSG_AgeLimitedAgelessDescription>
+  <EBSG_AlertLowComaPawn>Нужен коматозный отдых: {PAWN}</EBSG_AlertLowComaPawn>
+  <EBSG_AlertLowComaPawns>Нужен коматозный отдых. Поселенцев: {NUMCULPRITS}</EBSG_AlertLowComaPawns>
+  <EBSG_BecameAHealthyBaby>на свет появился здоровый младенец!</EBSG_BecameAHealthyBaby>
+  <EBSG_BelowLight>освещённость ниже {0}</EBSG_BelowLight>
+  <EBSG_BelowTemperature>температура ниже {0}</EBSG_BelowTemperature>
+  <EBSG_Born>рождение</EBSG_Born>
+  <EBSG_CannotEject>Не удаётся извлечь</EBSG_CannotEject>
+  <EBSG_CannotRest>нельзя начать отдых: {0}</EBSG_CannotRest>
+  <EBSG_Capacity>Лимит подключений: {0}</EBSG_Capacity>
+  <EBSG_CasterNeedOffsets>Базовые изменения потребностей применяющего способность:</EBSG_CasterNeedOffsets>
+  <EBSG_ChooseCategory>    Выбрать категорию</EBSG_ChooseCategory>
+  <EBSG_Coma>{0}</EBSG_Coma>
+  <EBSG_ComaAutoWakeDesc>Если включено, {PAWN_nameDef} автоматически проснётся, когда завершится {PAWN_possessive} отдых «{0}».
+
+Если выключено, {PAWN_pronoun} продолжит отдых («{1}»), пока пробуждение не будет задано вручную.</EBSG_ComaAutoWakeDesc>
+  <EBSG_ComaBuildingBound>{PAWN_nameDef}: сооружение «{BUILDING_labelShort}» закреплено за персонажем. Использовано подключений для отдыха «{0}»: {CUR}/{MAX}.</EBSG_ComaBuildingBound>
+  <EBSG_ComaCapacityChanged>{PAWN_nameDef}: лимит подключений для отдыха «{0}» вырос с {OLD} до {NEW}.</EBSG_ComaCapacityChanged>
+  <EBSG_ComaChamber>камера для отдыха: {0}</EBSG_ComaChamber>
+  <EBSG_ComaNoBuildingBonusWarning>
+
+Преимущества от подключённых сооружений для отдыха «{0}» получены не будут.</EBSG_ComaNoBuildingBonusWarning>
+  <EBSG_ComaPaused>приостановлено: {0}</EBSG_ComaPaused>
+  <EBSG_ComaRestCapacityDesc>Максимальное число сооружений, к которым можно подключиться во время особого отдыха («{0}»). Каждое даёт собственное преимущество, поэтому больше подключений обычно полезнее.
+
+Возможность и способы увеличения лимита зависят от гена.</EBSG_ComaRestCapacityDesc>
+  <EBSG_ComaSafeWake>{PAWN_nameDef}: отдых «{0}» можно безопасно завершить.</EBSG_ComaSafeWake>
+  <EBSG_ComaSunlightWake>{PAWN_nameDef}: солнечный свет прервал {PAWN_possessive} отдых «{0}» и вызвал пробуждение.</EBSG_ComaSunlightWake>
+  <EBSG_ComaUnbindDesc>Отвязать это сооружение от персонажа «{0}», чтобы им мог воспользоваться другой.</EBSG_ComaUnbindDesc>
+  <EBSG_ComaWakeDesc>Завершить отдых «{0}» и проснуться.
+
+{PAWN_nameDef}: отдых «{0}» длится уже {DURATION}.</EBSG_ComaWakeDesc>
+  <EBSG_ComaWakeExtraDesc_Exhaustion>{PAWN_nameDef} сможет проснуться без недомогания только после полного отдыха «{0}» (не менее {TOTAL}).</EBSG_ComaWakeExtraDesc_Exhaustion>
+  <EBSG_ComaWillBindOnFirstUse>При первом использовании закрепится за персонажем.</EBSG_ComaWillBindOnFirstUse>
+  <EBSG_CommandSleepCasketEjectDesc>Разбудить находящегося внутри персонажа и извлечь его.</EBSG_CommandSleepCasketEjectDesc>
+  <EBSG_CompSpawnPawn>{0}: {1}</EBSG_CompSpawnPawn>
+  <EBSG_CompSpawnPawnHediffText>Развитие нового персонажа внутри носителя «{0}» завершилось: {1}</EBSG_CompSpawnPawnHediffText>
+  <EBSG_CompSpawnPawnText>В объекте «{0}» завершилось развитие ребёнка. Родился здоровый младенец!</EBSG_CompSpawnPawnText>
+  <EBSG_ConditionsNotMet>Условия не выполнены.</EBSG_ConditionsNotMet>
+  <EBSG_Constant>постоянно</EBSG_Constant>
+  <EBSG_CorrectCapacities>подходящие показатели здоровья</EBSG_CorrectCapacities>
+  <EBSG_CorrectConditions>выполнены необходимые условия</EBSG_CorrectConditions>
+  <EBSG_CorrectGenes>подходящие гены</EBSG_CorrectGenes>
+  <EBSG_CorrectHediffs>подходящие состояния здоровья</EBSG_CorrectHediffs>
+  <EBSG_CorrectLight>освещённость от {0} до {1}</EBSG_CorrectLight>
+  <EBSG_CorrectNeeds>подходящие уровни потребностей</EBSG_CorrectNeeds>
+  <EBSG_CorrectRainSnow>подходящая интенсивность дождя или снега</EBSG_CorrectRainSnow>
+  <EBSG_CorrectSkills>подходящие уровни навыков</EBSG_CorrectSkills>
+  <EBSG_CorrectTemperature>температура от {0} до {1}</EBSG_CorrectTemperature>
+  <EBSG_CorrectTime>подходящее время</EBSG_CorrectTime>
+  <EBSG_CustomizableAsexualHediffs>    Настраиваемые эффекты бесполого размножения</EBSG_CustomizableAsexualHediffs>
+  <EBSG_CustomizableThings>Настраиваемые параметры</EBSG_CustomizableThings>
+  <EBSG_CustomizableThingsDescription>EBSG позволяет другим модам открывать свои параметры для настройки игроком. Такие параметры появляются в этом разделе по запросу соответствующего мода.</EBSG_CustomizableThingsDescription>
+  <EBSG_DefaultToRecipeIcon>    Использовать значок рецепта (без перезапуска)</EBSG_DefaultToRecipeIcon>
+  <EBSG_DefaultToRecipeIconDescription>Показывать значок, заданный автором рецепта, вместо автоматически выбранного значка готового предмета. Обычно игра игнорирует uiIconPath у производящих предметы рецептов. Автору достаточно указать этот путь в рецепте; если базовая игра начнёт учитывать его сама, настройка перестанет влиять на результат.</EBSG_DefaultToRecipeIconDescription>
+  <EBSG_DependencyNeedDurationDescription>Через {0} дн. {PAWN_pronoun} получит состояние «{1}».</EBSG_DependencyNeedDurationDescription>
+  <EBSG_DependencyNeedDurationDescriptionBase>{PAWN_nameDef}: чтобы выжить, нужно регулярно употреблять необходимую пищу или вещество — {0}.</EBSG_DependencyNeedDurationDescriptionBase>
+  <EBSG_DependencyNeedDurationDescriptionDeath>Через {0} дн. {PAWN_pronoun} умрёт.</EBSG_DependencyNeedDurationDescriptionDeath>
+  <EBSG_DependencyNeedDurationDescriptionFirst>Если не употреблять «{0}» в течение {1} дн., {PAWN_pronoun} получит состояние «{2}».</EBSG_DependencyNeedDurationDescriptionFirst>
+  <EBSG_DoQ>подходящий день квадрума</EBSG_DoQ>
+  <EBSG_DoY>подходящий день года</EBSG_DoY>
+  <EBSG_Eject>Извлечь</EBSG_Eject>
+  <EBSG_EjectModuleFrom>Извлечь модуль из</EBSG_EjectModuleFrom>
+  <EBSG_EnterSleepCasket>Поместиться в: {0}</EBSG_EnterSleepCasket>
+  <EBSG_FailReviveOnHeadRemoval>{PAWN_labelShort}: если {PAWN_possessive} голова или мозг будут утрачены, эта способность не поможет {PAWN_objective} воскреснуть.</EBSG_FailReviveOnHeadRemoval>
+  <EBSG_ForbiddenList>«{0}» запрещает использовать этот предмет</EBSG_ForbiddenList>
+  <EBSG_GeneRestrictedEquipment_All>Отсутствует хотя бы один из обязательных генов.</EBSG_GeneRestrictedEquipment_All>
+  <EBSG_GeneRestrictedEquipment_AnyOne>Нет ни одного из подходящих генов.</EBSG_GeneRestrictedEquipment_AnyOne>
+  <EBSG_GeneRestrictedEquipment_None>Есть запрещённый ген «{0}».</EBSG_GeneRestrictedEquipment_None>
+  <EBSG_GenesAdded>Гены добавлены персонажу: {0}.</EBSG_GenesAdded>
+  <EBSG_GenesNotFound>Для использования этого предмета требуется наличие генов.</EBSG_GenesNotFound>
+  <EBSG_GenesRemoved>Гены удалены у персонажа: {0}.</EBSG_GenesRemoved>
+  <EBSG_GeneticRomanceChance>Гены носителя</EBSG_GeneticRomanceChance>
+  <EBSG_GoodTerrain>на подходящем грунте</EBSG_GoodTerrain>
+  <EBSG_HateTerrain>вне неподходящего грунта</EBSG_HateTerrain>
+  <EBSG_HediffRestrictedEquipment_All>Отсутствует хотя бы одно из обязательных состояний здоровья</EBSG_HediffRestrictedEquipment_All>
+  <EBSG_HediffRestrictedEquipment_AnyOne>Нет ни одного из подходящих состояний здоровья</EBSG_HediffRestrictedEquipment_AnyOne>
+  <EBSG_HediffRestrictedEquipment_None>Есть запрещённое состояние «{0}»</EBSG_HediffRestrictedEquipment_None>
+  <EBSG_HideHairGenes>    Скрывать неактивные гены цвета волос</EBSG_HideHairGenes>
+  <EBSG_HideHairGenesDescription>Скрывать неактивные гены цвета волос в списке генов. Например, из четырёх вариантов цвета будет виден только действующий.
+
+Сами гены сохраняются — меняется только их отображение.</EBSG_HideHairGenesDescription>
+  <EBSG_HideSkinGenes>    Скрывать неактивные гены цвета кожи</EBSG_HideSkinGenes>
+  <EBSG_HideSkinGenesDescription>Скрывать неактивные гены цвета кожи в списке генов. Например, из четырёх вариантов цвета будет виден только действующий.
+
+Сами гены сохраняются — меняется только их отображение.</EBSG_HideSkinGenesDescription>
+  <EBSG_Immortal>{PAWN_nameDef}: ничто не должно привести к окончательной смерти.</EBSG_Immortal>
+  <EBSG_InPollution>на загрязнённой местности</EBSG_InPollution>
+  <EBSG_InTheWay>Мешает: {0}</EBSG_InTheWay>
+  <EBSG_Install>Установить: {0}</EBSG_Install>
+  <EBSG_InstallIn>Установить «{0}» в «{1}» ({2})</EBSG_InstallIn>
+  <EBSG_InsufficientMaterial>Недостаточно материала</EBSG_InsufficientMaterial>
+  <EBSG_InvalidGenes>Неподходящие гены</EBSG_InvalidGenes>
+  <EBSG_LastIngestedDurationAgo>Последнее употребление («{0}»): {1} назад.</EBSG_LastIngestedDurationAgo>
+  <EBSG_LastLife>{PAWN_nameDef}: это последняя жизнь.</EBSG_LastLife>
+  <EBSG_LimitedList>«{0}» разрешает только определённое снаряжение</EBSG_LimitedList>
+  <EBSG_LivesLeft>{PAWN_nameDef}: осталось дополнительных жизней — {0}.</EBSG_LivesLeft>
+  <EBSG_LowComaNeedDesc>Поселенцы слишком долго обходятся без особого коматозного отдыха. Если не начать его вовремя, наступит истощение.
+
+Выберите поселенца и нажмите правой кнопкой мыши на назначенную ему кровать или подходящее сооружение.
+
+Отдых нужен следующим персонажам:
+{CULPRITS}</EBSG_LowComaNeedDesc>
+  <EBSG_MapCondition>подходящие условия на карте</EBSG_MapCondition>
+  <EBSG_MapWeather>подходящая погода на карте</EBSG_MapWeather>
+  <EBSG_Missing>не хватает: {0}</EBSG_Missing>
+  <EBSG_MissingGathererComp>В объекте «{0}» отсутствует необходимый программный компонент. Сообщите разработчику мода.</EBSG_MissingGathererComp>
+  <EBSG_ModName>EBSG Framework</EBSG_ModName>
+  <EBSG_NeedLow>Неудовлетворённые потребности</EBSG_NeedLow>
+  <EBSG_NeedLowDescription>Низкие показатели потребностей:
+{0}
+
+У одного или нескольких персонажей потребности достигли опасно низкого уровня. Способ их удовлетворения зависит от вида потребности.</EBSG_NeedLowDescription>
+  <EBSG_NeedOffsets>Базовые изменения потребностей цели:</EBSG_NeedOffsets>
+  <EBSG_NextComaNeed>{0}: чтобы избежать истощения, нужно начать отдых «{1}» в течение {2}.</EBSG_NextComaNeed>
+  <EBSG_NoApparel>«{0}» запрещает носить одежду</EBSG_NoApparel>
+  <EBSG_NoEject>Нет модулей для извлечения</EBSG_NoEject>
+  <EBSG_NoEquipment>«{0}» запрещает использовать снаряжение</EBSG_NoEquipment>
+  <EBSG_NoIdeologyPossible>У цели не может быть идеологии.</EBSG_NoIdeologyPossible>
+  <EBSG_NoJobFound>Задание не найдено</EBSG_NoJobFound>
+  <EBSG_NoOptionsAvailable>Нет доступных вариантов.</EBSG_NoOptionsAvailable>
+  <EBSG_NoSlots>Нет подходящих свободных ячеек.</EBSG_NoSlots>
+  <EBSG_NoStanceFound>Текущее действие не найдено</EBSG_NoStanceFound>
+  <EBSG_NoTargetFound>Сейчас цели нет</EBSG_NoTargetFound>
+  <EBSG_NoValidItem>Нет подходящего предмета</EBSG_NoValidItem>
+  <EBSG_NoValidTarget>{0}: не удалось найти подходящую цель для способности «{1}».</EBSG_NoValidTarget>
+  <EBSG_NoViableTarget>Нет подходящей цели</EBSG_NoViableTarget>
+  <EBSG_NoWater>вне воды</EBSG_NoWater>
+  <EBSG_NoWaterGood>вне воды или в подходящей воде</EBSG_NoWaterGood>
+  <EBSG_NoWaterHated>на подходящем грунте</EBSG_NoWaterHated>
+  <EBSG_NoWeapon>«{0}» запрещает использовать оружие</EBSG_NoWeapon>
+  <EBSG_NotInPollution>на незагрязнённой местности</EBSG_NotInPollution>
+  <EBSG_OneLifeLeft>{PAWN_nameDef}: осталась одна дополнительная жизнь.</EBSG_OneLifeLeft>
+  <EBSG_OneLifeStill>{PAWN_nameDef}: ещё есть дополнительная жизнь.</EBSG_OneLifeStill>
+  <EBSG_OnlyMelee>«{0}» разрешает только оружие ближнего боя</EBSG_OnlyMelee>
+  <EBSG_OnlyRanged>«{0}» разрешает только стрелковое оружие</EBSG_OnlyRanged>
+  <EBSG_OpenSleepCasket>Открыть: {0}</EBSG_OpenSleepCasket>
+  <EBSG_PawnCurrentJob>Текущее задание персонажа: </EBSG_PawnCurrentJob>
+  <EBSG_PawnCurrentStance>Текущее действие персонажа: </EBSG_PawnCurrentStance>
+  <EBSG_PawnCurrentTarget>Текущая цель: {0}; расстояние: {1}</EBSG_PawnCurrentTarget>
+  <EBSG_PawnIsConnectedToBuildings>{PAWN_nameDef}: подключено сооружений — {CURRENT} / {MAX} (максимум).</EBSG_PawnIsConnectedToBuildings>
+  <EBSG_PsychicBondDistanceWillBeActive>Это нарушит пси-связь между партнёрами: {PAWN_nameDef} и {BOND_nameDef}. Оба будут испытывать стресс.
+
+Продолжить?</EBSG_PsychicBondDistanceWillBeActive>
+  <EBSG_Random>Случайный вариант</EBSG_Random>
+  <EBSG_RandomGenesGenerated>Случайные гены созданы!</EBSG_RandomGenesGenerated>
+  <EBSG_Recharge>Перезарядить: {0}</EBSG_Recharge>
+  <EBSG_RejectApply>Нельзя применить</EBSG_RejectApply>
+  <EBSG_RequireGenes>У цели нет генов.</EBSG_RequireGenes>
+  <EBSG_Reset>Сбросить</EBSG_Reset>
+  <EBSG_RestrictedLayer>«{0}» запрещает одежду этого слоя</EBSG_RestrictedLayer>
+  <EBSG_RevivalImminent>{PAWN_nameDef}: воскрешение скоро произойдёт.</EBSG_RevivalImminent>
+  <EBSG_ReviveFailChance>Вероятность отказа: {0}. При отказе будут расходоваться дополнительные жизни, пока попытка не удастся или жизни не закончатся.</EBSG_ReviveFailChance>
+  <EBSG_ReviveFailOneChance>Вероятность отказа: {0}. При отказе персонаж не воскреснет после смерти.</EBSG_ReviveFailOneChance>
+  <EBSG_Season>подходящее время года</EBSG_Season>
+  <EBSG_SeasonOne>время года: {0}</EBSG_SeasonOne>
+  <EBSG_SeasonWrong>неподходящее время года</EBSG_SeasonWrong>
+  <EBSG_SelectArrivalAction>Выберите действие по прибытии</EBSG_SelectArrivalAction>
+  <EBSG_SettingMenuLabel>EBSG Framework</EBSG_SettingMenuLabel>
+  <EBSG_SettingMenuLabel_EBSGThinkTree>Поведение EBSG</EBSG_SettingMenuLabel_EBSGThinkTree>
+  <EBSG_SettingMenuLabel_EBSGThinkTreeDescription>Общие переключатели функций поведения, добавленных другими модами через EBSG. Основные функции по умолчанию выключены, чтобы не тратить производительность на ненужные действия. Обычно изменения в этом разделе не требуют перезапуска.
+
+Флажки рядом с названиями разделов только показывают и скрывают их содержимое, не меняя поведение персонажей.</EBSG_SettingMenuLabel_EBSGThinkTreeDescription>
+  <EBSG_SettingMenuLabel_EBSGThinkTreeEmpty>Поведение EBSG не используется.</EBSG_SettingMenuLabel_EBSGThinkTreeEmpty>
+  <EBSG_SettingMenuLabel_EBSGThinkTreeEmptyDescription>Не найдены моды, использующие дерево поведения EBSG. Поэтому его настройки недоступны, а само дерево отключено, чтобы не создавать лишнюю нагрузку.</EBSG_SettingMenuLabel_EBSGThinkTreeEmptyDescription>
+  <EBSG_SettingMenuLabel_FlexSettings>Настройки других модов</EBSG_SettingMenuLabel_FlexSettings>
+  <EBSG_SettingMenuLabel_Main>Основные настройки EBSG</EBSG_SettingMenuLabel_Main>
+  <EBSG_Shield>Защитный щит.</EBSG_Shield>
+  <EBSG_ShouldComaRestNow>{0}: чтобы избежать истощения, скоро нужно начать отдых «{1}».</EBSG_ShouldComaRestNow>
+  <EBSG_StartRest>Начать отдых: {0}</EBSG_StartRest>
+  <EBSG_StatsReport_ComaRestConnectionLimit>Лимит подключений</EBSG_StatsReport_ComaRestConnectionLimit>
+  <EBSG_StatsReport_ComaRestConnectionLimit_Desc>Максимальное число сооружений этого типа, которые можно подключить к отдыхающему персонажу. Также действует предел подключений, заданный его соответствующим геном.</EBSG_StatsReport_ComaRestConnectionLimit_Desc>
+  <EBSG_StatsReport_ComaRestEffectiveness>Эффективность особого коматозного отдыха</EBSG_StatsReport_ComaRestEffectiveness>
+  <EBSG_StatsReport_ComaRestEffectiveness_Desc>Этот множитель определяет, насколько эффективно отдых здесь восполняет особую потребность в отдыхе. Чем выше значение, тем меньше времени нужно на восстановление.</EBSG_StatsReport_ComaRestEffectiveness_Desc>
+  <EBSG_StopBreak>Вероятность прекращения срыва: {0}%</EBSG_StopBreak>
+  <EBSG_SuccessChance>Вероятность успеха: {0}%</EBSG_SuccessChance>
+  <EBSG_ThinkingPawnName> — имя выбирающего действие персонажа: </EBSG_ThinkingPawnName>
+  <EBSG_TimeActiveThisComaRest>Время работы за этот период отдыха</EBSG_TimeActiveThisComaRest>
+  <EBSG_TimeTillLifeGain>{PAWN_nameDef}: дополнительная жизнь появится через {0} дн.</EBSG_TimeTillLifeGain>
+  <EBSG_TimeTillLifeLoss>{PAWN_nameDef}: одна жизнь будет потеряна через {0} дн.</EBSG_TimeTillLifeLoss>
+  <EBSG_TimeTillRevival>{PAWN_nameDef}: воскрешение через {0} ч.</EBSG_TimeTillRevival>
+  <EBSG_TraitRestrictedEquipment_All>Отсутствует хотя бы одна из обязательных черт</EBSG_TraitRestrictedEquipment_All>
+  <EBSG_TraitRestrictedEquipment_AnyOne>Нет ни одной из подходящих черт</EBSG_TraitRestrictedEquipment_AnyOne>
+  <EBSG_TryAnotherLocation>Попробуйте переместить в другое место.</EBSG_TryAnotherLocation>
+  <EBSG_Unbind>Отвязать</EBSG_Unbind>
+  <EBSG_WarningWakingInterruptsComa>{PAWN_nameDef} продолжает отдых «{0}». Преждевременное пробуждение вызовет недомогание, которое пройдёт после восстановления.
+
+Минимальная длительность отдыха: {MINDURATION}
+Текущая длительность отдыха «{1}»: {CURDURATION}
+
+Разбудить персонажа: {PAWN_nameDef}?</EBSG_WarningWakingInterruptsComa>
+  <EBSG_Water>в воде</EBSG_Water>
+  <EBSG_WaterGood>в воде или на подходящем грунте</EBSG_WaterGood>
+  <EBSG_WaterHated>в подходящей воде</EBSG_WaterHated>
+  <EBSG_XenoRestrictedEquipment_AnyOne>Нет ни одного из подходящих ксенотипов.</EBSG_XenoRestrictedEquipment_AnyOne>
+  <EBSG_XenoRestrictedEquipment_None>Ксенотип «{0}» не подходит.</EBSG_XenoRestrictedEquipment_None>
+  <EBSG_XenoRestrictedEquipment_One>Нужен ксенотип «{0}».</EBSG_XenoRestrictedEquipment_One>
+  <EBSG_XenotypeApplied>Ксенотип применён к персонажу: {0}.</EBSG_XenotypeApplied>
+  <LayerMustBe>Нужно находиться {1} уровне мира «{0}»</LayerMustBe>
+  <LayerMustNotBe>Нельзя находиться {1} уровне мира «{0}»</LayerMustNotBe>
+  <MessagePawnArrived>Персонаж достиг места назначения и ждёт новых приказов.</MessagePawnArrived>
+  <NoIngredients>Нет доступных порций ресурса.</NoIngredients>
+  <NoInnateMechlinkPrereq>    Гены механитора не требуют врождённого мехлинка</NoInnateMechlinkPrereq>
+  <NoInnateMechlinkPrereqDescription>Убрать у генов механитора EBSG требование врождённого мехлинка. Позволяет получать метаболические преимущества отрицательных генов без мехлинка, когда их недостатки не действуют, что может нарушить баланс ксенотипа.</NoInnateMechlinkPrereqDescription>
+  <NoInnatePsylinkPrereq>    Пси-гены не требуют врождённого пси-усилителя</NoInnatePsylinkPrereq>
+  <NoInnatePsylinkPrereqDescription>Убрать у пси-генов EBSG требование гена врождённого пси-усилителя. Позволяет получать метаболические преимущества отрицательных пси-генов без усилителя, когда их недостатки не действуют, что может нарушить баланс ксенотипа.</NoInnatePsylinkPrereqDescription>
+  <NoInnateRemotePrereq>        Не требовать врождённые средства дистанционной защиты и ремонта</NoInnateRemotePrereq>
+  <NoInnateRemotePrereqDescription>Распространить отмену требования врождённого мехлинка на гены дистанционного щита и ремонта. Отрицательные гены механитора можно будет добавлять без соответствующих врождённых возможностей, ещё сильнее нарушая баланс ксенотипа.</NoInnateRemotePrereqDescription>
+  <NotAllowedResource>Порции ресурса запрещены ограничениями питания.</NotAllowedResource>
+  <PlaceWorkerAvoidTerrain>Нельзя размещать рядом с грунтом: {0}.</PlaceWorkerAvoidTerrain>
+  <PlaceWorkerLessWater>Поблизости не должно быть воды.</PlaceWorkerLessWater>
+  <PlaceWorkerMoreTerrain>Поблизости должно быть больше грунта: {0}.</PlaceWorkerMoreTerrain>
+  <PlaceWorkerMoreWater>Поблизости должно быть больше воды.</PlaceWorkerMoreWater>
+  <PlaceWorkerTerrain>Нужно разместить на подходящем грунте или рядом с ним.</PlaceWorkerTerrain>
+  <PsychicInsulationMood>    Пси-изоляция убирает влияние пси-связи на настроение</PsychicInsulationMood>
+  <PsychicInsulationOpinion>    Пси-изоляция убирает бонус мнения от пси-связи</PsychicInsulationOpinion>
+  <ResourceCost>Затраты ресурса «{0}»</ResourceCost>
+  <ResourceCostPerTile>Затраты ресурса «{0}» на клетку</ResourceCostPerTile>
+  <ResourceDrain>Расход ресурса «{0}»</ResourceDrain>
+  <ResourceGain>Получение ресурса «{0}»</ResourceGain>
+  <ResourceGainPerTile>Получение ресурса «{0}» на клетку</ResourceGainPerTile>
+  <SuperclottingArchite>    Сверхсвёртываемость требует архитов вместо обмена веществ</SuperclottingArchite>
+  <TargetSizeInvert>Размер тела должен быть меньше {0} или больше {1}</TargetSizeInvert>
+  <TargetTooLarge>Слишком крупная цель</TargetTooLarge>
+  <TargetTooSmall>Слишком мелкая цель</TargetTooSmall>
+  <chupakobra6_3112549163_CannotSkipTarget>Нельзя переместить персонажа: {PAWN_labelShort}</chupakobra6_3112549163_CannotSkipTarget>
+  <chupakobra6_3112549163_CannotSkipTargetTooLarge>Цель слишком крупная</chupakobra6_3112549163_CannotSkipTargetTooLarge>
+  <chupakobra6_3112549163_ComaCapacityDescription>Максимальное число сооружений, к которым можно подключиться во время особого коматозного отдыха. Каждое даёт собственное преимущество. Возможность и способы увеличения лимита зависят от гена.</chupakobra6_3112549163_ComaCapacityDescription>
+  <chupakobra6_3112549163_EBSG_CorrectLayer>подходящий уровень мира</chupakobra6_3112549163_EBSG_CorrectLayer>
+  <chupakobra6_3112549163_NeverConsumeResource>Никогда не употреблять порции ресурса автоматически.</chupakobra6_3112549163_NeverConsumeResource>
+  <chupakobra6_3112549163_Resource>Ресурс</chupakobra6_3112549163_Resource>
+  <chupakobra6_3112549163_ResourceDesc>Изменение запаса генетического ресурса при употреблении этого предмета.</chupakobra6_3112549163_ResourceDesc>
+  <chupakobra6_3112549163_TraitRestriction>Есть запрещённая черта «{0}»</chupakobra6_3112549163_TraitRestriction>
+</LanguageData>

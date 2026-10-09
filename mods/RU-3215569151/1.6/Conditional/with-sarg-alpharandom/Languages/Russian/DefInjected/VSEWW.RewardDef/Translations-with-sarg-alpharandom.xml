@@ -1,0 +1,13 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AP_ExcellentAlphaRandomReward.description>В грузовой капсуле прибудут три ящика с ценной добычей.</AP_ExcellentAlphaRandomReward.description>
+  <AP_ExcellentAlphaRandomReward.label>Ящики с ценной добычей</AP_ExcellentAlphaRandomReward.label>
+  <AP_GoodAlphaRandomReward.description>В грузовой капсуле прибудет один ящик с ценной добычей.</AP_GoodAlphaRandomReward.description>
+  <AP_GoodAlphaRandomReward.label>Ящик с ценной добычей</AP_GoodAlphaRandomReward.label>
+  <AP_LegendaryAlphaRandomReward.description>В грузовой капсуле прибудут пять ящиков с особо ценной добычей.</AP_LegendaryAlphaRandomReward.description>
+  <AP_LegendaryAlphaRandomReward.label>Ящики с легендарной добычей</AP_LegendaryAlphaRandomReward.label>
+  <AP_NormalAlphaRandomReward.description>В грузовой капсуле прибудут два ящика с недорогой добычей.</AP_NormalAlphaRandomReward.description>
+  <AP_NormalAlphaRandomReward.label>Ящики с недорогой добычей</AP_NormalAlphaRandomReward.label>
+  <AP_PoorAlphaRandomReward.description>В грузовой капсуле прибудет один ящик с недорогой добычей.</AP_PoorAlphaRandomReward.description>
+  <AP_PoorAlphaRandomReward.label>Ящик с недорогой добычей</AP_PoorAlphaRandomReward.label>
+</LanguageData>

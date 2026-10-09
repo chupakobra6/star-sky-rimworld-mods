@@ -1,0 +1,55 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <MiningOutpost_AidedSettlement_Essential.stages.aided_settlement.description>Бой был тяжёлым, но помощь другим придаёт мне сил!</MiningOutpost_AidedSettlement_Essential.stages.aided_settlement.description>
+  <MiningOutpost_AidedSettlement_Essential.stages.aided_settlement.label>помощь поселению</MiningOutpost_AidedSettlement_Essential.stages.aided_settlement.label>
+  <MiningOutpost_AidedSettlement_Important.stages.aided_settlement.description>Бой был тяжёлым, но помощь другим придаёт мне сил!</MiningOutpost_AidedSettlement_Important.stages.aided_settlement.description>
+  <MiningOutpost_AidedSettlement_Important.stages.aided_settlement.label>помощь поселению</MiningOutpost_AidedSettlement_Important.stages.aided_settlement.label>
+  <MiningOutpost_AidedSettlement_Worthwhile.stages.aided_settlement.description>Бой был тяжёлым, но помощь другим придаёт мне сил!</MiningOutpost_AidedSettlement_Worthwhile.stages.aided_settlement.description>
+  <MiningOutpost_AidedSettlement_Worthwhile.stages.aided_settlement.label>помощь поселению</MiningOutpost_AidedSettlement_Worthwhile.stages.aided_settlement.label>
+  <MiningOutpost_HumiliatedEnemy.stages.parley_success.description>Мы унизили более слабую фракцию. Приятно было смотреть, как они склоняются перед нами.</MiningOutpost_HumiliatedEnemy.stages.parley_success.description>
+  <MiningOutpost_HumiliatedEnemy.stages.parley_success.label>успех переговоров</MiningOutpost_HumiliatedEnemy.stages.parley_success.label>
+  <MiningOutpost_LivingOnTheEdge.stages.living_on_the_edge.description>Броситься защищать это поселение было рискованно, но уж точно интереснее, чем сидеть на базе.</MiningOutpost_LivingOnTheEdge.stages.living_on_the_edge.description>
+  <MiningOutpost_LivingOnTheEdge.stages.living_on_the_edge.label>жизнь на грани</MiningOutpost_LivingOnTheEdge.stages.living_on_the_edge.label>
+  <MiningOutpost_PulseEmitterExhilarated.stages.pulse_emitter_is_blazing_fast.description>Импульсный излучатель такой быстрый!</MiningOutpost_PulseEmitterExhilarated.stages.pulse_emitter_is_blazing_fast.description>
+  <MiningOutpost_PulseEmitterExhilarated.stages.pulse_emitter_is_blazing_fast.label>молниеносный излучатель</MiningOutpost_PulseEmitterExhilarated.stages.pulse_emitter_is_blazing_fast.label>
+  <MiningOutpost_PulseEmitterFrustrated.stages.frustrated_by_pulse_emitter.description>С этим импульсным излучателем так трудно работать! Это уже начинает раздражать.</MiningOutpost_PulseEmitterFrustrated.stages.frustrated_by_pulse_emitter.description>
+  <MiningOutpost_PulseEmitterFrustrated.stages.frustrated_by_pulse_emitter.label>раздражение от излучателя</MiningOutpost_PulseEmitterFrustrated.stages.frustrated_by_pulse_emitter.label>
+  <MiningOutpost_WastedTime.stages.wasted_time.description>Эти жители — слабые и бесполезные. Если они не могут защитить своё добро, то не заслуживают его.</MiningOutpost_WastedTime.stages.wasted_time.description>
+  <MiningOutpost_WastedTime.stages.wasted_time.label>зря потраченное время</MiningOutpost_WastedTime.stages.wasted_time.label>
+  <Thought_CounterParleyHumiliation.stages.humiliated_by_outpost.description>Меня унизила более слабая фракция. Этот позор останется со мной навсегда.</Thought_CounterParleyHumiliation.stages.humiliated_by_outpost.description>
+  <Thought_CounterParleyHumiliation.stages.humiliated_by_outpost.label>унижение на аванпосте</Thought_CounterParleyHumiliation.stages.humiliated_by_outpost.label>
+  <Thought_ParleyFledSortie.stages.fled_ambush.description>Мы сбежали с поля битвы. Позорно.</Thought_ParleyFledSortie.stages.fled_ambush.description>
+  <Thought_ParleyFledSortie.stages.fled_ambush.label>бегство из засады</Thought_ParleyFledSortie.stages.fled_ambush.label>
+  <Thought_SweetedenDeal_Tier1.stages.prostrated_for_a_deal.description>Мне пришлось вежливо просить, чтобы мои условия приняли. Это было унизительно.</Thought_SweetedenDeal_Tier1.stages.prostrated_for_a_deal.description>
+  <Thought_SweetedenDeal_Tier1.stages.prostrated_for_a_deal.label>унижение ради сделки</Thought_SweetedenDeal_Tier1.stages.prostrated_for_a_deal.label>
+  <Thought_SweetedenDeal_Tier1a.stages.prostrated_for_a_deal.description>Я всё ещё помню, как пришлось вежливо просить, чтобы добиться своего.</Thought_SweetedenDeal_Tier1a.stages.prostrated_for_a_deal.description>
+  <Thought_SweetedenDeal_Tier1a.stages.prostrated_for_a_deal.label>унижение ради сделки</Thought_SweetedenDeal_Tier1a.stages.prostrated_for_a_deal.label>
+  <Thought_SweetedenDeal_Tier2.stages.prostrated_repeatedly.description>Чтобы выпросить у этих людей сделки, мне приходится чуть ли не ползать на коленях. Это серьёзно задевает мою гордость.</Thought_SweetedenDeal_Tier2.stages.prostrated_repeatedly.description>
+  <Thought_SweetedenDeal_Tier2.stages.prostrated_repeatedly.label>многократные унижения</Thought_SweetedenDeal_Tier2.stages.prostrated_repeatedly.label>
+  <Thought_SweetedenDeal_Tier2a.stages.prostrated_repeatedly.description>Я всё ещё помню, как пришлось чуть ли не ползать на коленях, чтобы добиться своего.</Thought_SweetedenDeal_Tier2a.stages.prostrated_repeatedly.description>
+  <Thought_SweetedenDeal_Tier2a.stages.prostrated_repeatedly.label>многократные унижения</Thought_SweetedenDeal_Tier2a.stages.prostrated_repeatedly.label>
+  <Thought_SweetedenDeal_Tier3.stages.groveling_constantly.description>Я всего лишь собака.</Thought_SweetedenDeal_Tier3.stages.groveling_constantly.description>
+  <Thought_SweetedenDeal_Tier3.stages.groveling_constantly.label>постоянное пресмыкательство</Thought_SweetedenDeal_Tier3.stages.groveling_constantly.label>
+  <Thought_SweetedenDeal_Tier3a.stages.groveling_constantly.description>Я до сих пор помню это чувство: будто я просто собака.</Thought_SweetedenDeal_Tier3a.stages.groveling_constantly.description>
+  <Thought_SweetedenDeal_Tier3a.stages.groveling_constantly.label>постоянное пресмыкательство</Thought_SweetedenDeal_Tier3a.stages.groveling_constantly.label>
+  <Thought_SweetedenDeal_Tier4.stages.utterly_submissive.description>Всё моё самоуважение ушло на сделки. Хочется навсегда забиться в какую-нибудь нору.</Thought_SweetedenDeal_Tier4.stages.utterly_submissive.description>
+  <Thought_SweetedenDeal_Tier4.stages.utterly_submissive.label>полная покорность</Thought_SweetedenDeal_Tier4.stages.utterly_submissive.label>
+  <WE_GamblingAssetLoss.stages.gave_up_valuable_items_at_the_card_table.description>Не могу поверить, что я вот так {PAWN_gender ? проиграл : проиграла : проиграло} ценные вещи в карты.</WE_GamblingAssetLoss.stages.gave_up_valuable_items_at_the_card_table.description>
+  <WE_GamblingAssetLoss.stages.gave_up_valuable_items_at_the_card_table.label>проиграны ценные вещи</WE_GamblingAssetLoss.stages.gave_up_valuable_items_at_the_card_table.label>
+  <WE_GamblingAssetWin.stages.risked_it_all_and_won.description>Не могу поверить: я {PAWN_gender ? рискнул : рискнула : рискнуло} всем — и это сработало!</WE_GamblingAssetWin.stages.risked_it_all_and_won.description>
+  <WE_GamblingAssetWin.stages.risked_it_all_and_won.label>победа со ставкой на всё</WE_GamblingAssetWin.stages.risked_it_all_and_won.label>
+  <WE_GamblingLost.stages.lost_at_the_card_table.description>Я {PAWN_gender ? проиграл : проиграла : проиграло} за карточным столом.</WE_GamblingLost.stages.lost_at_the_card_table.description>
+  <WE_GamblingLost.stages.lost_at_the_card_table.label>проигрыш за карточным столом</WE_GamblingLost.stages.lost_at_the_card_table.label>
+  <WE_GamblingLostAll.stages.lost_it_all_gambling.description>Игра начиналась с мелочи, а в итоге я {PAWN_gender ? проиграл : проиграла : проиграло} всё!</WE_GamblingLostAll.stages.lost_it_all_gambling.description>
+  <WE_GamblingLostAll.stages.lost_it_all_gambling.label>проиграно всё</WE_GamblingLostAll.stages.lost_it_all_gambling.label>
+  <WE_GamblingOrganLoss.stages.gambled_away_an_organ.description>Не могу поверить, что я вот так {PAWN_gender ? проиграл : проиграла : проиграло} свой орган. Что я {PAWN_gender ? наделал : наделала : наделало}?</WE_GamblingOrganLoss.stages.gambled_away_an_organ.description>
+  <WE_GamblingOrganLoss.stages.gambled_away_an_organ.label>проигран орган</WE_GamblingOrganLoss.stages.gambled_away_an_organ.label>
+  <WE_GamblingOrganWin.stages.staked_a_body_part_and_held_on.description>Не могу поверить: на кону была часть моего тела, и я {PAWN_gender ? выиграл : выиграла : выиграло}!</WE_GamblingOrganWin.stages.staked_a_body_part_and_held_on.description>
+  <WE_GamblingOrganWin.stages.staked_a_body_part_and_held_on.label>часть тела отыграна</WE_GamblingOrganWin.stages.staked_a_body_part_and_held_on.label>
+  <WE_GamblingWon.stages.won_at_the_card_table.description>Я {PAWN_gender ? выиграл : выиграла : выиграло} за карточным столом!</WE_GamblingWon.stages.won_at_the_card_table.description>
+  <WE_GamblingWon.stages.won_at_the_card_table.label>победа за карточным столом</WE_GamblingWon.stages.won_at_the_card_table.label>
+  <WE_GamblingWonBig.stages.cleaned_the_table_out.description>Мне достались деньги почти всех игроков за столом!</WE_GamblingWonBig.stages.cleaned_the_table_out.description>
+  <WE_GamblingWonBig.stages.cleaned_the_table_out.label>сорван банк</WE_GamblingWonBig.stages.cleaned_the_table_out.label>
+  <WE_InspiredByLeadership.stages.inspired.description>Смелый и умелый командир защитил мой дом.</WE_InspiredByLeadership.stages.inspired.description>
+  <WE_InspiredByLeadership.stages.inspired.label>вдохновение</WE_InspiredByLeadership.stages.inspired.label>
+</LanguageData>

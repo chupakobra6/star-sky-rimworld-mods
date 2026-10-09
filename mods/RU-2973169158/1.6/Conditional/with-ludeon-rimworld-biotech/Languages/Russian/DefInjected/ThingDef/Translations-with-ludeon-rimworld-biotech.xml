@@ -1,0 +1,235 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AM_Apoptosis.description>Воплощённая злоба. Апоптоз — усовершенствованный апокритон, командующий другими механоидами в долгих кампаниях по истреблению. Он хуже справляется с воскрешением механоидов, чем обычный апокритон, зато его аура ненависти настолько сильна, что вызывает неудержимое отчаяние у всех, кто окажется слишком близко.
+
+Апоптоз вооружён двумя опасными орудиями дальнего боя: кислотомётом, способным растворить плоть до костей, и источником псионических энергетических импульсов, поражающих саму душу жертвы.
+
+&lt;color=#E5E54C&gt;В игре:&lt;/color&gt; Апоптоз сильнее апокритона и требует соответствующей подготовки. Его аура ненависти заставляет окружающих кричать от отчаяния. Он атакует защитников двумя разрушительными видами оружия дальнего боя и воскрешает ближайших механоидов, хотя и реже апокритона.</AM_Apoptosis.description>
+  <AM_Apoptosis.label>апоптоз</AM_Apoptosis.label>
+  <AM_Apoptosis.tools.head.label>голова</AM_Apoptosis.tools.head.label>
+  <AM_Apoptosis.tools.wing_blade.label>клинок крыла</AM_Apoptosis.tools.wing_blade.label>
+  <AM_ApoptosisMechlinkBooster.comps.CompUsable.useLabel>Призвать апоптоза</AM_ApoptosisMechlinkBooster.comps.CompUsable.useLabel>
+  <AM_ApoptosisMechlinkBooster.description>Сигнальное устройство механоидов, использующее принципы квантовой механики. Вместо двоичных состояний 0 и 1 оно передаёт информацию с помощью кубитов, обеспечивая эффективный и защищённый обмен сложными данными, инструкциями и командами. Активация привлечёт апоптоза с сопровождением. Победив его, вы сможете извлечь из останков особые технологии. Импульс выжигает комплекс, поэтому использовать его можно только один раз.</AM_ApoptosisMechlinkBooster.description>
+  <AM_ApoptosisMechlinkBooster.label>квантовый импульсный комплекс (уровень 6)</AM_ApoptosisMechlinkBooster.label>
+  <AM_Apparel_ExpandedHeavyShield.description>Усиленное механитами устройство, отталкивающее снаряды. Щит позволяет владельцу стрелять наружу, но блокирует входящие выстрелы. Защищает только владельца и не прикрывает окружающих. Бесполезен против рукопашных атак и жара, а попадание ЭМИ мгновенно его отключает. Этот щит, похоже, больше и прочнее обычного.</AM_Apparel_ExpandedHeavyShield.description>
+  <AM_Apparel_ExpandedHeavyShield.label>генератор механитового щита</AM_Apparel_ExpandedHeavyShield.label>
+  <AM_BeamGraphic.label>лазерный луч</AM_BeamGraphic.label>
+  <AM_BeamGraserCannon.description>Лазерное оружие гамма-диапазона, уничтожающее цели высокоэнергетическим лучом на огромных расстояниях. Луч движется по целям и пробивает даже самую прочную броню, а невероятная мощность позволяет испарять целые отряды солдат за считаные секунды.</AM_BeamGraserCannon.description>
+  <AM_BeamGraserCannon.label>гамма-лазерная пушка</AM_BeamGraserCannon.label>
+  <AM_BeamGraserCannon.tools.barrel.label>ствол</AM_BeamGraserCannon.tools.barrel.label>
+  <AM_BeamcasterBandNode.description>Усилитель сигнала управления механоидами. Узел настраивается на конкретного механитора и увеличивает его пропускную способность на 2, позволяя контролировать больше механоидов.
+
+После постройки узел настраивается быстро, но перенастройка на другого механитора занимает значительно больше времени.</AM_BeamcasterBandNode.description>
+  <AM_BeamcasterBandNode.label>лучевой канальный узел</AM_BeamcasterBandNode.label>
+  <AM_BeamcasterPack.description>Ранец с лучевой антенной для более надёжной связи со всеми подконтрольными механоидами. Значительно увеличивает максимальную пропускную способность механитора.</AM_BeamcasterPack.description>
+  <AM_BeamcasterPack.label>ранец лучевой связи</AM_BeamcasterPack.label>
+  <AM_Blitzkrieg.description>Особый механоид для тактических операций и блокирования участков местности. Он похож на обтекаемую металлическую мину и может самостоятельно добраться до указанной точки, а затем взорваться с разрушительной силой. Взрыв не различает своих и чужих, поэтому действовать нужно согласованно, чтобы не задеть союзников.</AM_Blitzkrieg.description>
+  <AM_Blitzkrieg.label>блицкриг</AM_Blitzkrieg.label>
+  <AM_Blitzkrieg.tools.0.label>голова</AM_Blitzkrieg.tools.0.label>
+  <AM_Bullet_AcidSpewer.label>кислота</AM_Bullet_AcidSpewer.label>
+  <AM_Bullet_ChargeBlasterHeavy_Red.label>заряд бластера</AM_Bullet_ChargeBlasterHeavy_Red.label>
+  <AM_Bullet_Firethrower.label>пламя</AM_Bullet_Firethrower.label>
+  <AM_Bullet_HellsphereCannonGun.label>орбитальный целеуказатель</AM_Bullet_HellsphereCannonGun.label>
+  <AM_Bullet_LaserRifle.description>Сфокусированный лазерный луч.</AM_Bullet_LaserRifle.description>
+  <AM_Bullet_LaserRifle.label>лазерный выстрел</AM_Bullet_LaserRifle.label>
+  <AM_Bullet_MiniNeedleGun.label>мини-игла</AM_Bullet_MiniNeedleGun.label>
+  <AM_Bullet_NeedleGun.label>игольчатый снаряд</AM_Bullet_NeedleGun.label>
+  <AM_Bullet_SniperTurret.label>тяжёлый снаряд</AM_Bullet_SniperTurret.label>
+  <AM_Bullet_SoulDrain.label>высасывание души</AM_Bullet_SoulDrain.label>
+  <AM_Bullet_Starfire.label>нестабильная сингулярность</AM_Bullet_Starfire.label>
+  <AM_Bullet_Starfire_Secondary.label>энергетический разряд</AM_Bullet_Starfire_Secondary.label>
+  <AM_Bullet_TacticalShotgun.label>дробь тактического дробовика</AM_Bullet_TacticalShotgun.label>
+  <AM_Bullet_Tesla.label>цепной разряд Теслы</AM_Bullet_Tesla.label>
+  <AM_CryptoPack.description>Ранец с набором дешифраторов механоидных протоколов. Позволяет механитору управлять ещё одной группой механоидов и многократно увеличивает максимальную пропускную способность.</AM_CryptoPack.description>
+  <AM_CryptoPack.label>крипторанец механитора</AM_CryptoPack.label>
+  <AM_GreaterBandNode.description>Канальный узел с пустотной связью. Настраивается на конкретного механитора и увеличивает его пропускную способность на 5, позволяя контролировать больше механоидов.
+
+После постройки узел настраивается быстро, но перенастройка на другого механитора занимает значительно больше времени.</AM_GreaterBandNode.description>
+  <AM_GreaterBandNode.label>пустотный канальный узел</AM_GreaterBandNode.label>
+  <AM_GreaterMechBooster.description>Устройство дистанционного усиления энергетических и вычислительных систем. Дружественные механоиды в радиусе действия быстрее передвигаются и работают. Эффект сохраняется до 3 часов после выхода из зоны действия. Если механоид попадёт в зону обычного усилителя, тот заменит этот эффект своим.</AM_GreaterMechBooster.description>
+  <AM_GreaterMechBooster.label>усилитель механоидов длительного действия</AM_GreaterMechBooster.label>
+  <AM_GreaterRecharger.description>Большая зарядная станция, подключённая к пустотной сети механоидов на орбите местной звезды. По этой сети она получает данные, необходимые для зарядки особо сложных моделей: инфернуса, апоптоза, императрицы войны и «Звёздного огня». Может заряжать и других сверхтяжёлых механоидов. Во время зарядки производит пакеты токсичных отходов и хранит их внутри; переносчикам нужно периодически выносить их.</AM_GreaterRecharger.description>
+  <AM_GreaterRecharger.label>зарядная станция с пустотной связью</AM_GreaterRecharger.label>
+  <AM_Gun_AcidSpewer.description>Разрушительное оружие, обрушивающее на цель поток кислотной жижи. Передовые химические резервуары и распылители позволяют заливать большую площадь едкой кислотой, растворяющей даже самые прочные материалы.</AM_Gun_AcidSpewer.description>
+  <AM_Gun_AcidSpewer.label>кислотомёт</AM_Gun_AcidSpewer.label>
+  <AM_Gun_AcidSpewer.tools.barrel.label>ствол</AM_Gun_AcidSpewer.tools.barrel.label>
+  <AM_Gun_CoilLance.description>Оружие механоидов, разгоняющее пробивные металлические снаряды электромагнитным полем до огромной скорости.</AM_Gun_CoilLance.description>
+  <AM_Gun_CoilLance.label>электромагнитное копьё</AM_Gun_CoilLance.label>
+  <AM_Gun_CoilLance.tools.barrel.label>ствол</AM_Gun_CoilLance.tools.barrel.label>
+  <AM_Gun_CoilLance.tools.stock.label>приклад</AM_Gun_CoilLance.tools.stock.label>
+  <AM_Gun_CoilLance_Projectile.label>снаряд электромагнитного копья</AM_Gun_CoilLance_Projectile.label>
+  <AM_Gun_HeavyLaser.description>Мощное энергетическое оружие, поражающее цель обжигающим лучом сфокусированного света. Способно прорезать даже самую прочную броню.</AM_Gun_HeavyLaser.description>
+  <AM_Gun_HeavyLaser.label>тяжёлый лазер</AM_Gun_HeavyLaser.label>
+  <AM_Gun_HeavyLaser.tools.barrel.label>ствол</AM_Gun_HeavyLaser.tools.barrel.label>
+  <AM_Gun_HeavyLaser.tools.grip.label>рукоять</AM_Gun_HeavyLaser.tools.grip.label>
+  <AM_Gun_HeavyLaser.verbs.Standard.label>Стандартный режим</AM_Gun_HeavyLaser.verbs.Standard.label>
+  <AM_Gun_HellsphereOrbital.description>Луч наведения, отмечающий точку на земле для удара с орбитальной ракетной платформы. Наводится очень, очень долго, зато удар накрывает большую площадь.</AM_Gun_HellsphereOrbital.description>
+  <AM_Gun_HellsphereOrbital.label>целеуказатель орбитального удара</AM_Gun_HellsphereOrbital.label>
+  <AM_Gun_HellsphereOrbital.tools.barrel.label>ствол</AM_Gun_HellsphereOrbital.tools.barrel.label>
+  <AM_Gun_MiniNeedle.description>Дальнобойное оружие артиллеронов. Очень точно стреляет на огромные расстояния, но наносит совсем небольшой урон.</AM_Gun_MiniNeedle.description>
+  <AM_Gun_MiniNeedle.label>мини-игломёт</AM_Gun_MiniNeedle.label>
+  <AM_Gun_MiniNeedle.tools.barrel.label>ствол</AM_Gun_MiniNeedle.tools.barrel.label>
+  <AM_Gun_SniperTurret.description>Мощное дальнобойное оборонительное оружие. Выпускает с огромной скоростью снаряды из обеднённого урана, способные пробивать даже самую прочную броню.</AM_Gun_SniperTurret.description>
+  <AM_Gun_SniperTurret.label>снайперская турель</AM_Gun_SniperTurret.label>
+  <AM_Gun_SoulDrainTurret.description>Ужасающее оружие, высасывающее душу жертвы. Оно отнимает жизненную силу у органических существ, ослабляя их и делая уязвимыми.</AM_Gun_SoulDrainTurret.description>
+  <AM_Gun_SoulDrainTurret.label>турель апоптоза</AM_Gun_SoulDrainTurret.label>
+  <AM_Gun_SuperHeavyChargeBlaster.description>Более мощная и опасная версия зарядного бластера. Стреляет более длинными очередями, причём каждый выстрел наносит немного больше урона.</AM_Gun_SuperHeavyChargeBlaster.description>
+  <AM_Gun_SuperHeavyChargeBlaster.label>сверхтяжёлый зарядный бластер</AM_Gun_SuperHeavyChargeBlaster.label>
+  <AM_Gun_SuperHeavyChargeBlaster.tools.barrel.label>ствол</AM_Gun_SuperHeavyChargeBlaster.tools.barrel.label>
+  <AM_Gun_TacticalShotgun.description>Скорострельный дробовик для ближнего боя, предназначенный для установки на лёгкого боевого механоида.</AM_Gun_TacticalShotgun.description>
+  <AM_Gun_TacticalShotgun.label>тактический дробовик</AM_Gun_TacticalShotgun.label>
+  <AM_HyperLinkageChip.comps.CompAnalyzableUnlockResearch.activateDescString>Проанализировать чип гиперсвязи.</AM_HyperLinkageChip.comps.CompAnalyzableUnlockResearch.activateDescString>
+  <AM_HyperLinkageChip.comps.CompAnalyzableUnlockResearch.activateLabelString>Проанализировать...</AM_HyperLinkageChip.comps.CompAnalyzableUnlockResearch.activateLabelString>
+  <AM_HyperLinkageChip.comps.CompAnalyzableUnlockResearch.completedLetter>После изучения чипа гиперсвязи {PAWN_labelShort} располагает знаниями, необходимыми для открытия исследований: {RESEARCH}.
+
+Теперь ваши учёные могут приступить к их изучению за исследовательскими столами и выяснить, как применять эту технологию.</AM_HyperLinkageChip.comps.CompAnalyzableUnlockResearch.completedLetter>
+  <AM_HyperLinkageChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>Чип гиперсвязи изучен: открыто {RESEARCH}</AM_HyperLinkageChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
+  <AM_HyperLinkageChip.comps.CompAnalyzableUnlockResearch.guiLabelString>Выберите, кто проведёт анализ</AM_HyperLinkageChip.comps.CompAnalyzableUnlockResearch.guiLabelString>
+  <AM_HyperLinkageChip.comps.CompAnalyzableUnlockResearch.inspectString>Поселенец может провести анализ.</AM_HyperLinkageChip.comps.CompAnalyzableUnlockResearch.inspectString>
+  <AM_HyperLinkageChip.comps.CompAnalyzableUnlockResearch.jobString>Анализирует чип гиперсвязи.</AM_HyperLinkageChip.comps.CompAnalyzableUnlockResearch.jobString>
+  <AM_HyperLinkageChip.description>Механоидный микроорган, синхронизирующий лучевую связь. Необходим для производства некоторых продвинутых механоидов и оборудования.
+
+Механитор может изучить этот чип, чтобы открыть исследования более высоких уровней механотехнологий. Его можно получить из останков инфернуса.</AM_HyperLinkageChip.description>
+  <AM_HyperLinkageChip.label>чип гиперсвязи (уровень 4)</AM_HyperLinkageChip.label>
+  <AM_Infernus.description>Сверхтяжёлый механоид с невероятно опасным целеуказателем орбитального удара. Сам луч наведения не причиняет вреда, но через несколько секунд после завершения наведения по цели наносится разрушительный удар с орбиты. Подготовка занимает много времени, а по близким целям это оружие не работает. Из-за огромных размеров инфернус постоянно накапливает тепло и может сбрасывать его, поджигая горючие предметы вокруг.
+
+&lt;color=#E5E54C&gt;В игре:&lt;/color&gt; Серьёзно, не дайте этой штуке выстрелить...</AM_Infernus.description>
+  <AM_Infernus.label>инфернус</AM_Infernus.label>
+  <AM_Infernus.tools.head.label>голова</AM_Infernus.tools.head.label>
+  <AM_InfernusMechlinkBooster.comps.CompUsable.useLabel>Призвать инфернуса</AM_InfernusMechlinkBooster.comps.CompUsable.useLabel>
+  <AM_InfernusMechlinkBooster.description>Сигнальное устройство механоидов, более мощное, чем передатчик с тарелочной антенной. При активации испускает мощный импульс, привлекающий инфернуса с сопровождением. Победив его, вы сможете извлечь из останков особые технологии. Импульс выжигает передатчик, поэтому использовать его можно только один раз.</AM_InfernusMechlinkBooster.description>
+  <AM_InfernusMechlinkBooster.label>лучевой мехпередатчик (уровень 4)</AM_InfernusMechlinkBooster.label>
+  <AM_MechArmorBooster.description>Устройство дистанционного укрепления брони. Дружественные механоиды в радиусе действия лучше защищены от атак.</AM_MechArmorBooster.description>
+  <AM_MechArmorBooster.label>усилитель защиты механоидов</AM_MechArmorBooster.label>
+  <AM_MechBreakerArmor.description>Модифицированная осадная броня, ещё сильнее расширяющая возможности механитора.</AM_MechBreakerArmor.description>
+  <AM_MechBreakerArmor.label>броня сокрушителя механоидов</AM_MechBreakerArmor.label>
+  <AM_MechBreakerHelm.description>Модифицированный осадный шлем, ещё сильнее расширяющий возможности механитора.</AM_MechBreakerHelm.description>
+  <AM_MechBreakerHelm.label>шлем сокрушителя механоидов</AM_MechBreakerHelm.label>
+  <AM_MechCommanderHelm.description>Тяжёлый шлем силовой брони со вспомогательным оборудованием для механитора. Резко увеличивает пропускную способность и защищает не хуже пехотного шлема.</AM_MechCommanderHelm.description>
+  <AM_MechCommanderHelm.label>шлем повелителя механоидов</AM_MechCommanderHelm.label>
+  <AM_MechCommanderSuit.description>Бронекостюм с сервоприводами и вспомогательным оборудованием для механитора. Значительно усиливает его возможности и защищает немного лучше пехотной брони.</AM_MechCommanderSuit.description>
+  <AM_MechCommanderSuit.label>костюм повелителя механоидов</AM_MechCommanderSuit.label>
+  <AM_MechDisruptor.description>Устройство дистанционного подавления механоидов. У вражеских механоидов в радиусе действия снижаются ловкость, скорость передвижения и точность наведения.</AM_MechDisruptor.description>
+  <AM_MechDisruptor.label>подавитель механоидов</AM_MechDisruptor.label>
+  <AM_MechEfficiencyBooster.description>Устройство дистанционного повышения энергоэффективности. Дружественные механоиды в радиусе действия расходуют меньше энергии в сутки.</AM_MechEfficiencyBooster.description>
+  <AM_MechEfficiencyBooster.label>усилитель энергоэффективности механоидов</AM_MechEfficiencyBooster.label>
+  <AM_MechTargettingBooster.description>Устройство дистанционного улучшения наведения. У дружественных механоидов в радиусе действия сокращается пауза между выстрелами.</AM_MechTargettingBooster.description>
+  <AM_MechTargettingBooster.label>усилитель наведения механоидов</AM_MechTargettingBooster.label>
+  <AM_Mech_Artilleron.description>Разновидность боевого дрона и белликора ростом около полутора метров. Вооружён мощным миномётом, с высокой точностью выпускающим разрывные снаряды. Из-за меньшей прочности артиллерон плохо переносит тяжёлые бои, поэтому обычно действует из тыла, поражая приоритетные цели и помогая удерживать важные позиции. Может переключиться с миномёта на точный, но маломощный мини-игломёт, чтобы не задеть союзников взрывом.</AM_Mech_Artilleron.description>
+  <AM_Mech_Artilleron.label>артиллерон</AM_Mech_Artilleron.label>
+  <AM_Mech_Artilleron.tools.head.label>голова</AM_Mech_Artilleron.tools.head.label>
+  <AM_Mech_Bellicor.description>Продвинутый боевой механоид для особо опасных столкновений. При росте около полутора метров он вооружён скорострельным тактическим дробовиком. Белликор значительно прочнее своего предшественника, боевого дрона, и способен выдерживать тяжёлые бои. Обычно его отправляют на передовую уничтожать приоритетные цели и занимать ключевые позиции. Производство и обслуживание обходятся дороже, но для тех, кто стремится к превосходству на поле боя, он того стоит.</AM_Mech_Bellicor.description>
+  <AM_Mech_Bellicor.label>белликор</AM_Mech_Bellicor.label>
+  <AM_Mech_Bellicor.tools.head.label>голова</AM_Mech_Bellicor.tools.head.label>
+  <AM_Mech_Guttersnipe.description>Небольшой боевой механоид, обычно производимый внутри сверхтяжёлой императрицы войны. В отличие от дронов-пчёл, оборванцы сражаются врукопашную, бросаясь на врагов со смертоносными циркулярными пилами. Их источник питания нельзя перезарядить.</AM_Mech_Guttersnipe.description>
+  <AM_Mech_Guttersnipe.label>оборванец</AM_Mech_Guttersnipe.label>
+  <AM_Mech_Guttersnipe.tools.0.label>голова</AM_Mech_Guttersnipe.tools.0.label>
+  <AM_Mech_Legate.description>Сверхтяжёлый механоид со встроенным улучшенным генератором защитного купола. У легата нет оборонительной турели центуриона, зато он вооружён сверхтяжёлым зарядным бластером, гораздо опаснее стандартных моделей.</AM_Mech_Legate.description>
+  <AM_Mech_Legate.label>легат</AM_Mech_Legate.label>
+  <AM_Mech_Legate.tools.head.label>голова</AM_Mech_Legate.tools.head.label>
+  <AM_Mech_Lux.description>Люкс — стройный и подвижный человекоподобный механоид для стремительных боевых операций. Мощный тяжёлый лазер позволяет ему с исключительной точностью наносить огромный урон наземным и воздушным целям. За подвижность пришлось заплатить прочностью, поэтому на поле боя люкс выживает благодаря скорости и уклонению.</AM_Mech_Lux.description>
+  <AM_Mech_Lux.label>люкс</AM_Mech_Lux.label>
+  <AM_Mech_Lux.tools.head.label>голова</AM_Mech_Lux.tools.head.label>
+  <AM_Mech_Lux.tools.left_fist.label>левый кулак</AM_Mech_Lux.tools.left_fist.label>
+  <AM_Mech_Lux.tools.right_fist.label>правый кулак</AM_Mech_Lux.tools.right_fist.label>
+  <AM_Mech_MasterChef.description>Механоид, созданный для кулинарного искусства. Кулинар анализирует ингредиенты и готовит вкусную еду с исключительной точностью и неизменно высоким качеством. Обширная база рецептов, кулинарных приёмов и вкусовых сочетаний позволяет ему приспособиться к любой кухне и требованиям диеты. Прочный металлический корпус устойчив к жару, влаге и другим кухонным опасностям. Готовит намного лучше производственного дрона, но почти бесполезен в бою.
+
+&lt;color=#E5E54C&gt;В игре:&lt;/color&gt; Выполняет кухонные работы с навыком кулинарии 15 и скоростью работы 150%.</AM_Mech_MasterChef.description>
+  <AM_Mech_MasterChef.label>кулинар</AM_Mech_MasterChef.label>
+  <AM_Mech_Munifex.description>Грозный боевой механоид размером с человека, специально созданный для дальнего боя. Вооружён электромагнитным копьём: его катушки разгоняют снаряды до невероятной скорости. Они пробивают почти любую защиту, включая толстые бронеплиты и железобетон.
+
+&lt;color=#E5E54C&gt;В игре:&lt;/color&gt; Да, этот механоид стреляет по своим. Да, именно так и задумано. Осторожнее!</AM_Mech_Munifex.description>
+  <AM_Mech_Munifex.label>мунифекс</AM_Mech_Munifex.label>
+  <AM_Mech_Munifex.tools.head.label>голова</AM_Mech_Munifex.tools.head.label>
+  <AM_Mech_Munifex.tools.left_fist.label>левый кулак</AM_Mech_Munifex.tools.left_fist.label>
+  <AM_Mech_Munifex.tools.right_fist.label>правый кулак</AM_Mech_Munifex.tools.right_fist.label>
+  <AM_Mech_Optio.description>Элитный механоид боевой поддержки с роторным игломётом. Усиленная броня выдерживает мощный огонь, а энергетический щит прикрывает ближайших союзников. Оптио быстро приспосабливается к меняющейся обстановке и оказывает важную поддержку другим механоидам.</AM_Mech_Optio.description>
+  <AM_Mech_Optio.label>оптио</AM_Mech_Optio.label>
+  <AM_Mech_Polychoron.description>Тяжёлый боевой механоид с гамма-лазерной пушкой, наносящей огромный урон бронированным целям. Недостаток подвижности компенсируется сфокусированными энергетическими лучами, пробивающими большинство защитных щитов.</AM_Mech_Polychoron.description>
+  <AM_Mech_Polychoron.label>полихорон</AM_Mech_Polychoron.label>
+  <AM_Mech_PristineAssembler.description>Автоматическая передвижная фабрика механоидов. Сборщик эффективно преобразует энергию в материю: передовая система молекулярной сборки с поразительной точностью создаёт из неё полезные материалы. Этой модели не нужно потреблять органику для поддержания процесса — она совместима с обычными зарядными станциями механоидов.
+
+&lt;color=#E5E54C&gt;В игре:&lt;/color&gt; Каждые 24 часа производит 10 единиц случайно выбранного ресурса: стали, золота, урана, пластали, серебра, Go-сока, хлопьев психина, порошка психина, шоколада, синткани, ткани, нефрита, дьявлоткани, шерсти муффало, толстой шкуры, разрывных снарядов, медикаментов, нейтроамина, химтоплива или компонентов.</AM_Mech_PristineAssembler.description>
+  <AM_Mech_PristineAssembler.label>исправный сборщик</AM_Mech_PristineAssembler.label>
+  <AM_Mech_PristineAssembler.tools.head.label>голова</AM_Mech_PristineAssembler.tools.head.label>
+  <AM_Mech_PristineSlurrypede.description>Механоиды изредка берут пленных, и жиженожка решает задачу их максимально эффективного кормления. Этот модифицированный биомеханоид получает энергию от обычных зарядных станций и с её помощью превращает неорганическое вещество в однородную органическую жижу. Плотоядные и всеядные животные могут её переварить, хотя едва ли назовут хорошей едой. Травоядным она совершенно не подходит.</AM_Mech_PristineSlurrypede.description>
+  <AM_Mech_PristineSlurrypede.label>исправная жиженожка</AM_Mech_PristineSlurrypede.label>
+  <AM_Mech_PristineSlurrypede.tools.head.label>голова</AM_Mech_PristineSlurrypede.tools.head.label>
+  <AM_Mech_Sagittarius.description>Человекоподобный механоид с мощной пушкой Теслы, обрушивающей на цель электромагнитную энергию. Один ЭМИ-импульс может оглушить и вывести из строя механоида. Одновременно оружие выпускает обжигающий электрический разряд, прожигающий органические цели.
+
+&lt;color=#E5E54C&gt;В игре:&lt;/color&gt; Сагиттарий под управлением игрока не выбирает врагов автоматически: игра не считает ЭМИ подходящим типом урона против живых целей. Призовите его в бой и укажите цель вручную.</AM_Mech_Sagittarius.description>
+  <AM_Mech_Sagittarius.label>сагиттарий</AM_Mech_Sagittarius.label>
+  <AM_Mech_Sagittarius.tools.head.label>голова</AM_Mech_Sagittarius.tools.head.label>
+  <AM_Mech_Sagittarius.tools.left_fist.label>левый кулак</AM_Mech_Sagittarius.tools.left_fist.label>
+  <AM_Mech_Sagittarius.tools.right_fist.label>правый кулак</AM_Mech_Sagittarius.tools.right_fist.label>
+  <AM_Mech_TurboCleaner.description>По сути, дрон-уборщик на двух небольших турбинных двигателях с гиростабилизацией. Парит над землёй и всасывает грязь и мусор вакуумным соплом. До смешного бесполезен в бою.
+
+&lt;color=#E5E54C&gt;В игре:&lt;/color&gt; Парит над поверхностью и не замедляется из-за местности.</AM_Mech_TurboCleaner.description>
+  <AM_Mech_TurboCleaner.label>турбочистильщик</AM_Mech_TurboCleaner.label>
+  <AM_Mech_TurboCleaner.tools.0.label>голова</AM_Mech_TurboCleaner.tools.0.label>
+  <AM_MechanoidGunRotaryNeedle.description>Универсальное оружие, выпускающее непрерывный поток игловидных снарядов. Вращающийся ствол позволяет долго вести огонь, эффективно подавляя многочисленных врагов. Роторный игломёт уступает однозарядной модели в точности, но с лихвой компенсирует это скорострельностью и возможностью обстреливать большие площади.</AM_MechanoidGunRotaryNeedle.description>
+  <AM_MechanoidGunRotaryNeedle.label>роторный игломёт</AM_MechanoidGunRotaryNeedle.label>
+  <AM_MechanoidMortar.description>Небольшой миномёт, установленный на механоиде и стреляющий разрывными снарядами.</AM_MechanoidMortar.description>
+  <AM_MechanoidMortar.label>миномёт</AM_MechanoidMortar.label>
+  <AM_MechanoidMortar.tools.barrel.label>ствол</AM_MechanoidMortar.tools.barrel.label>
+  <AM_MortarCanister.label>разрывной снаряд</AM_MortarCanister.label>
+  <AM_PristineStrider.description>Усовершенствованная версия автошагохода, выращенная механитами. Большая грузоподъёмность делает его отличным спутником в долгих караванных переходах. Персонажи также могут ездить на нём верхом, чтобы быстрее путешествовать.</AM_PristineStrider.description>
+  <AM_PristineStrider.label>исправный шагоход</AM_PristineStrider.label>
+  <AM_PristineStrider.tools.head.label>голова</AM_PristineStrider.tools.head.label>
+  <AM_QuantumMatrixChip.comps.CompAnalyzableUnlockResearch.activateDescString>Проанализировать квантовый матричный чип.</AM_QuantumMatrixChip.comps.CompAnalyzableUnlockResearch.activateDescString>
+  <AM_QuantumMatrixChip.comps.CompAnalyzableUnlockResearch.activateLabelString>Проанализировать...</AM_QuantumMatrixChip.comps.CompAnalyzableUnlockResearch.activateLabelString>
+  <AM_QuantumMatrixChip.comps.CompAnalyzableUnlockResearch.completedLetter>После изучения квантового матричного чипа {PAWN_labelShort} располагает знаниями, необходимыми для открытия исследований: {RESEARCH}.
+
+Теперь ваши учёные могут приступить к их изучению за исследовательскими столами и выяснить, как применять эту технологию.</AM_QuantumMatrixChip.comps.CompAnalyzableUnlockResearch.completedLetter>
+  <AM_QuantumMatrixChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>Квантовый матричный чип изучен: открыто {RESEARCH}</AM_QuantumMatrixChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
+  <AM_QuantumMatrixChip.comps.CompAnalyzableUnlockResearch.guiLabelString>Выберите, кто проведёт анализ</AM_QuantumMatrixChip.comps.CompAnalyzableUnlockResearch.guiLabelString>
+  <AM_QuantumMatrixChip.comps.CompAnalyzableUnlockResearch.inspectString>Поселенец может провести анализ.</AM_QuantumMatrixChip.comps.CompAnalyzableUnlockResearch.inspectString>
+  <AM_QuantumMatrixChip.comps.CompAnalyzableUnlockResearch.jobString>Анализирует квантовый матричный чип.</AM_QuantumMatrixChip.comps.CompAnalyzableUnlockResearch.jobString>
+  <AM_QuantumMatrixChip.description>Механоидный микроорган квантовой перестройки. Необходим для производства некоторых продвинутых механоидов и оборудования.
+
+Механитор может изучить этот чип, чтобы открыть исследования более высоких уровней механотехнологий. Его можно получить из останков апоптоза.</AM_QuantumMatrixChip.description>
+  <AM_QuantumMatrixChip.label>квантовый матричный чип (уровень 6)</AM_QuantumMatrixChip.label>
+  <AM_Siegemelter.description>Модификация осадного разрушителя с мощным огнемётом. Передвигается невероятно медленно, но стреляет довольно далеко, поэтому обычно его стоит уничтожать в первую очередь.</AM_Siegemelter.description>
+  <AM_Siegemelter.label>осадный плавитель</AM_Siegemelter.label>
+  <AM_Siegemelter.tools.head.label>голова</AM_Siegemelter.tools.head.label>
+  <AM_SiegemelterTurret.description>Гигантский огнемёт на шасси осадного разрушителя. Температура его пламени невероятно высока.</AM_SiegemelterTurret.description>
+  <AM_SiegemelterTurret.label>осадный огнемёт</AM_SiegemelterTurret.label>
+  <AM_SiegemelterTurret.tools.barrel.label>ствол</AM_SiegemelterTurret.tools.barrel.label>
+  <AM_Starfire.description>Огромный танкоподобный механоид с мощной пушкой, стреляющей очень медленными нестабильными сингулярностями. Их создаёт сложный термоядерный реактор в центре машины: через микроскопические телепортационные врата он забирает энергию соседних звёзд и усиливает её. Сингулярности высвобождают чудовищную энергию, способную одним взрывом уничтожить целое здание. Вторичные разряды перебрасываются на ближайшие цели. Толстая броня и развитые системы наведения позволяют «Звёздному огню» сеять разрушение издалека. Из-за огромного расхода энергии его применяют лишь в крайних случаях, когда эта разрушительная мощь нужна, чтобы переломить ход сражения.</AM_Starfire.description>
+  <AM_Starfire.label>звёздный огонь</AM_Starfire.label>
+  <AM_Starfire.tools.head.label>голова</AM_Starfire.tools.head.label>
+  <AM_StarfireTurret.description>Гигантская пушка на шасси осадного разрушителя. Выпускает медленно летящую нестабильную сингулярность, которая при столкновении уничтожает всё на своём пути.</AM_StarfireTurret.description>
+  <AM_StarfireTurret.label>пушка «Звёздный огонь»</AM_StarfireTurret.label>
+  <AM_StarfireTurret.tools.barrel.label>ствол</AM_StarfireTurret.tools.barrel.label>
+  <AM_StellarProcessingChip.comps.CompAnalyzableUnlockResearch.activateDescString>Проанализировать звёздный процессорный чип.</AM_StellarProcessingChip.comps.CompAnalyzableUnlockResearch.activateDescString>
+  <AM_StellarProcessingChip.comps.CompAnalyzableUnlockResearch.activateLabelString>Проанализировать...</AM_StellarProcessingChip.comps.CompAnalyzableUnlockResearch.activateLabelString>
+  <AM_StellarProcessingChip.comps.CompAnalyzableUnlockResearch.completedLetter>После изучения звёздного процессорного чипа {PAWN_labelShort} располагает знаниями, необходимыми для открытия исследований: {RESEARCH}.
+
+Теперь ваши учёные могут приступить к их изучению за исследовательскими столами и выяснить, как применять эту технологию.</AM_StellarProcessingChip.comps.CompAnalyzableUnlockResearch.completedLetter>
+  <AM_StellarProcessingChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>Звёздный процессорный чип изучен: открыто {RESEARCH}</AM_StellarProcessingChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
+  <AM_StellarProcessingChip.comps.CompAnalyzableUnlockResearch.guiLabelString>Выберите, кто проведёт анализ</AM_StellarProcessingChip.comps.CompAnalyzableUnlockResearch.guiLabelString>
+  <AM_StellarProcessingChip.comps.CompAnalyzableUnlockResearch.inspectString>Поселенец может провести анализ.</AM_StellarProcessingChip.comps.CompAnalyzableUnlockResearch.inspectString>
+  <AM_StellarProcessingChip.comps.CompAnalyzableUnlockResearch.jobString>Анализирует звёздный процессорный чип.</AM_StellarProcessingChip.comps.CompAnalyzableUnlockResearch.jobString>
+  <AM_StellarProcessingChip.description>Механоидный микроорган, фокусирующий пустотную связь. Необходим для производства некоторых продвинутых механоидов и оборудования.
+
+Механитор может изучить этот чип, чтобы открыть исследования более высоких уровней механотехнологий. Его можно получить из останков императрицы войны.</AM_StellarProcessingChip.description>
+  <AM_StellarProcessingChip.label>звёздный процессорный чип (уровень 5)</AM_StellarProcessingChip.label>
+  <AM_TeslaGun.description>Грозное энергетическое оружие, обрушивающее на цель электромагнитную энергию. Одним ЭМИ-импульсом может оглушить и вывести из строя механоида. Одновременно выпускает обжигающий электрический разряд, прожигающий органические цели.</AM_TeslaGun.description>
+  <AM_TeslaGun.label>цепная пушка Теслы</AM_TeslaGun.label>
+  <AM_TeslaGun.tools.barrel.label>ствол</AM_TeslaGun.tools.barrel.label>
+  <AM_VoidlinkPack.description>Ранец с пустотным ретранслятором, открывающим доступ к огромным массивам данных в сети механоидов этой системы. Многократно увеличивает максимальную пропускную способность механитора.</AM_VoidlinkPack.description>
+  <AM_VoidlinkPack.label>ранец пустотной связи</AM_VoidlinkPack.label>
+  <AM_WarEmpress.description>Сверхтяжёлый механоид со встроенным гестатором. Получив необходимые ресурсы, выращивает внутри массивного панциря множество оборванцев — небольших механоидов ближнего боя — и выпускает их в бой. Вооружена крайне опасной дальнобойной снайперской турелью, под огонь которой лучше не попадать. Но главная угроза — острые разрывающие когти, которыми она яростно кромсает противников.</AM_WarEmpress.description>
+  <AM_WarEmpress.label>императрица войны</AM_WarEmpress.label>
+  <AM_WarEmpress.tools.head.label>голова</AM_WarEmpress.tools.head.label>
+  <AM_WarEmpress.tools.left_rending_claws.label>левые разрывающие когти</AM_WarEmpress.tools.left_rending_claws.label>
+  <AM_WarEmpress.tools.right_rending_claws.label>правые разрывающие когти</AM_WarEmpress.tools.right_rending_claws.label>
+  <AM_WarEmpressMechlinkBooster.comps.CompUsable.useLabel>Призвать императрицу войны</AM_WarEmpressMechlinkBooster.comps.CompUsable.useLabel>
+  <AM_WarEmpressMechlinkBooster.description>Сигнальное устройство механоидов, подключённое к сети ретрансляционных станций по всей звёздной системе. Эти пустотные ретрансляторы передают сообщения через подпространство почти со скоростью света, обеспечивая быстрый обмен данными в пределах системы. Активация привлечёт императрицу войны с сопровождением. Победив её, вы сможете извлечь из останков особые технологии. Импульс выжигает ретранслятор, поэтому использовать его можно только один раз.</AM_WarEmpressMechlinkBooster.description>
+  <AM_WarEmpressMechlinkBooster.label>пустотный ретранслятор (уровень 5)</AM_WarEmpressMechlinkBooster.label>
+  <BurnoutMechlinkBooster.label>антенна мехсвязи (уровень 2)</BurnoutMechlinkBooster.label>
+  <MechbandDish.label>тарелка мехсвязи (уровень 3)</MechbandDish.label>
+  <NanostructuringChip.label>наноструктурирующий чип (уровень 3)</NanostructuringChip.label>
+  <PowerfocusChip.label>чип фокусировки энергии (уровень 2)</PowerfocusChip.label>
+  <SignalChip.label>сигнальный чип (уровень 1)</SignalChip.label>
+</LanguageData>

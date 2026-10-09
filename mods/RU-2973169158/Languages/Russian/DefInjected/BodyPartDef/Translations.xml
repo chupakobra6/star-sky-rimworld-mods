@@ -1,0 +1,19 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AM_MechanicalClaw.label>клешня</AM_MechanicalClaw.label>
+  <AM_MechanoidBeeWing.label>крыло механоида</AM_MechanoidBeeWing.label>
+  <AM_MechanoidWing.label>клинок крыла</AM_MechanoidWing.label>
+  <AM_TankPlateFifth.label>кормовая металлическая бронеплита</AM_TankPlateFifth.label>
+  <AM_TankPlateFifth.labelShort>шасси</AM_TankPlateFifth.labelShort>
+  <AM_TankPlateFirst.label>лобовая металлическая бронеплита</AM_TankPlateFirst.label>
+  <AM_TankPlateFirst.labelShort>шасси</AM_TankPlateFirst.labelShort>
+  <AM_TankPlateFourth.label>дополнительная центральная металлическая бронеплита</AM_TankPlateFourth.label>
+  <AM_TankPlateFourth.labelShort>шасси</AM_TankPlateFourth.labelShort>
+  <AM_TankPlateSecond.label>дополнительная лобовая металлическая бронеплита</AM_TankPlateSecond.label>
+  <AM_TankPlateSecond.labelShort>шасси</AM_TankPlateSecond.labelShort>
+  <AM_TankPlateSixth.label>дополнительная кормовая металлическая бронеплита</AM_TankPlateSixth.label>
+  <AM_TankPlateSixth.labelShort>шасси</AM_TankPlateSixth.labelShort>
+  <AM_TankPlateThird.label>центральная металлическая бронеплита</AM_TankPlateThird.label>
+  <AM_TankPlateThird.labelShort>шасси</AM_TankPlateThird.labelShort>
+  <AM_TankTurret.label>турель</AM_TankTurret.label>
+</LanguageData>

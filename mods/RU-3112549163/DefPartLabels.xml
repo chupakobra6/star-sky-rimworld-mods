@@ -1,0 +1,91 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<labels>
+  <li owner="ludeon.rimworld" defName="MeleeDamageFactor" partType="EBSGFramework.StatPart_OverseerStatOffset" requires="ludeon.rimworld.biotech">
+    <english>Offset from mechanitor</english>
+    <russian>Поправка от механитора</russian>
+  </li>
+  <li owner="ludeon.rimworld" defName="MeleeDamageFactor" partType="EBSGFramework.StatPart_OverseerStatFactor" requires="ludeon.rimworld.biotech">
+    <english>Factor from mechanitor</english>
+    <russian>Множитель от механитора</russian>
+  </li>
+  <li owner="ludeon.rimworld" defName="MoveSpeed" partType="EBSGFramework.StatPart_OverseerStatOffset" requires="ludeon.rimworld.biotech">
+    <english>Offset from mechanitor</english>
+    <russian>Поправка от механитора</russian>
+  </li>
+  <li owner="ludeon.rimworld" defName="MoveSpeed" partType="EBSGFramework.StatPart_OverseerStatFactor" requires="ludeon.rimworld.biotech">
+    <english>Factor from mechanitor</english>
+    <russian>Множитель от механитора</russian>
+  </li>
+  <li owner="ludeon.rimworld" defName="WorkSpeedGlobal" partType="RimWorld.StatPart_OverseerStatOffset" requires="ludeon.rimworld.biotech">
+    <english>Offset from mechanitor</english>
+    <russian>Поправка от механитора</russian>
+  </li>
+  <li owner="ludeon.rimworld" defName="WorkSpeedGlobal" partType="EBSGFramework.StatPart_OverseerStatFactor" requires="ludeon.rimworld.biotech">
+    <english>Factor from mechanitor</english>
+    <russian>Множитель от механитора</russian>
+  </li>
+  <li owner="ludeon.rimworld" defName="ArmorRating_Blunt" partType="EBSGFramework.StatPart_OverseerStatOffset" requires="ludeon.rimworld.biotech">
+    <english>Offset from mechanitor</english>
+    <russian>Поправка от механитора</russian>
+  </li>
+  <li owner="ludeon.rimworld" defName="ArmorRating_Blunt" partType="EBSGFramework.StatPart_OverseerStatFactor" requires="ludeon.rimworld.biotech">
+    <english>Factor from mechanitor</english>
+    <russian>Множитель от механитора</russian>
+  </li>
+  <li owner="ludeon.rimworld" defName="ArmorRating_Sharp" partType="EBSGFramework.StatPart_OverseerStatOffset" requires="ludeon.rimworld.biotech">
+    <english>Offset from mechanitor</english>
+    <russian>Поправка от механитора</russian>
+  </li>
+  <li owner="ludeon.rimworld" defName="ArmorRating_Sharp" partType="EBSGFramework.StatPart_OverseerStatFactor" requires="ludeon.rimworld.biotech">
+    <english>Factor from mechanitor</english>
+    <russian>Множитель от механитора</russian>
+  </li>
+  <li owner="ludeon.rimworld.biotech" defName="BandwidthCost" partType="EBSGFramework.StatPart_OverseerStatOffset" requires="ludeon.rimworld.biotech">
+    <english>Offset from mechanitor</english>
+    <russian>Поправка от механитора</russian>
+  </li>
+  <li owner="ludeon.rimworld.biotech" defName="BandwidthCost" partType="EBSGFramework.StatPart_OverseerStatFactor" requires="ludeon.rimworld.biotech">
+    <english>Factor from mechanitor</english>
+    <russian>Множитель от механитора</russian>
+  </li>
+  <li owner="ludeon.rimworld" defName="EMPResistance" partType="EBSGFramework.StatPart_OverseerStatOffset" requires="ludeon.rimworld.biotech">
+    <english>Offset from mechanitor</english>
+    <russian>Поправка от механитора</russian>
+  </li>
+  <li owner="ludeon.rimworld" defName="EMPResistance" partType="EBSGFramework.StatPart_OverseerStatFactor" requires="ludeon.rimworld.biotech">
+    <english>Factor from mechanitor</english>
+    <russian>Множитель от механитора</russian>
+  </li>
+  <li owner="ludeon.rimworld" defName="IncomingDamageFactor" partType="EBSGFramework.StatPart_OverseerStatOffset" requires="ludeon.rimworld.biotech">
+    <english>Offset from mechanitor</english>
+    <russian>Поправка от механитора</russian>
+  </li>
+  <li owner="ludeon.rimworld" defName="IncomingDamageFactor" partType="EBSGFramework.StatPart_OverseerStatFactor" requires="ludeon.rimworld.biotech">
+    <english>Factor from mechanitor</english>
+    <russian>Множитель от механитора</russian>
+  </li>
+  <li owner="ludeon.rimworld.biotech" defName="MechEnergyLossPerHP" partType="EBSGFramework.StatPart_OverseerStatOffset" requires="ludeon.rimworld.biotech">
+    <english>Offset from mechanitor</english>
+    <russian>Поправка от механитора</russian>
+  </li>
+  <li owner="ludeon.rimworld.biotech" defName="MechEnergyLossPerHP" partType="EBSGFramework.StatPart_OverseerStatFactor" requires="ludeon.rimworld.biotech">
+    <english>Factor from mechanitor</english>
+    <russian>Множитель от механитора</russian>
+  </li>
+  <li owner="ludeon.rimworld" defName="MeleeDodgeChance" partType="EBSGFramework.StatPart_OverseerStatOffset" requires="ludeon.rimworld.biotech">
+    <english>Offset from mechanitor</english>
+    <russian>Поправка от механитора</russian>
+  </li>
+  <li owner="ludeon.rimworld" defName="MeleeDodgeChance" partType="EBSGFramework.StatPart_OverseerStatFactor" requires="ludeon.rimworld.biotech">
+    <english>Factor from mechanitor</english>
+    <russian>Множитель от механитора</russian>
+  </li>
+  <li owner="ludeon.rimworld" defName="ShootingAccuracyPawn" partType="EBSGFramework.StatPart_OverseerStatOffset" requires="ludeon.rimworld.biotech">
+    <english>Offset from mechanitor</english>
+    <russian>Поправка от механитора</russian>
+  </li>
+  <li owner="ludeon.rimworld" defName="ShootingAccuracyPawn" partType="EBSGFramework.StatPart_OverseerStatFactor" requires="ludeon.rimworld.biotech">
+    <english>Factor from mechanitor</english>
+    <russian>Множитель от механитора</russian>
+  </li>
+</labels>
