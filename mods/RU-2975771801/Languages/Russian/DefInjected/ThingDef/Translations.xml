@@ -1,0 +1,169 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Blueprint_Install_VREA_AndroidBehavioristStation.label>станция поведенческой настройки (проект)</Blueprint_Install_VREA_AndroidBehavioristStation.label>
+  <Blueprint_Install_VREA_AndroidCreationStation.label>станция сборки андроидов (проект)</Blueprint_Install_VREA_AndroidCreationStation.label>
+  <Blueprint_Install_VREA_AndroidPartWorkbench.label>верстак деталей андроидов (проект)</Blueprint_Install_VREA_AndroidPartWorkbench.label>
+  <Blueprint_Install_VREA_NeutroCasket.label>нейтросаркофаг (проект)</Blueprint_Install_VREA_NeutroCasket.label>
+  <Blueprint_Install_VREA_NeutroDrain.label>слив нейтроамина (проект)</Blueprint_Install_VREA_NeutroDrain.label>
+  <Blueprint_Install_VREA_NeutroTap.label>нейтроаминовый кран (проект)</Blueprint_Install_VREA_NeutroTap.label>
+  <Blueprint_VREA_AndroidBehavioristStation.label>станция поведенческой настройки (проект)</Blueprint_VREA_AndroidBehavioristStation.label>
+  <Blueprint_VREA_AndroidCreationStation.label>станция сборки андроидов (проект)</Blueprint_VREA_AndroidCreationStation.label>
+  <Blueprint_VREA_AndroidPartWorkbench.label>верстак деталей андроидов (проект)</Blueprint_VREA_AndroidPartWorkbench.label>
+  <Blueprint_VREA_AndroidStand.label>стойка андроида (проект)</Blueprint_VREA_AndroidStand.label>
+  <Blueprint_VREA_AndroidStandSpot.label>место обслуживания андроида (проект)</Blueprint_VREA_AndroidStandSpot.label>
+  <Blueprint_VREA_NeutroCasket.label>нейтросаркофаг (проект)</Blueprint_VREA_NeutroCasket.label>
+  <Blueprint_VREA_NeutroDrain.label>слив нейтроамина (проект)</Blueprint_VREA_NeutroDrain.label>
+  <Blueprint_VREA_NeutroPipe.label>нейтроаминовая труба (проект)</Blueprint_VREA_NeutroPipe.label>
+  <Blueprint_VREA_NeutroTank.label>цистерна нейтроамина (проект)</Blueprint_VREA_NeutroTank.label>
+  <Blueprint_VREA_NeutroTap.label>нейтроаминовый кран (проект)</Blueprint_VREA_NeutroTap.label>
+  <Blueprint_VREA_NeutroValve.label>вентиль нейтроамина (проект)</Blueprint_VREA_NeutroValve.label>
+  <Blueprint_VREA_SubcorePolyanalyzer.label>полианализатор субъядер (проект)</Blueprint_VREA_SubcorePolyanalyzer.label>
+  <Blueprint_VREA_SubterraneanNeutroPipe.label>подземная нейтроаминовая труба (проект)</Blueprint_VREA_SubterraneanNeutroPipe.label>
+  <Frame_VREA_AndroidBehavioristStation.description>Станция перепрограммирования, на которой андроиду задают нужные черты и навыки. Встроенные программы позволяют справиться даже новичку, но человек с высоким интеллектом тратит меньше времени на изучение инструкций.</Frame_VREA_AndroidBehavioristStation.description>
+  <Frame_VREA_AndroidBehavioristStation.label>станция поведенческой настройки (в процессе сборки)</Frame_VREA_AndroidBehavioristStation.label>
+  <Frame_VREA_AndroidCreationStation.description>Производственная станция для сборки андроидов из различных материалов и высокотехнологичных компонентов. Внешность можно настроить почти полностью, однако она ограничена имитацией базового человеческого облика.
+
+Необходимые ресурсы и объём работы зависят от выбранных аппаратных компонентов и подпрограмм.</Frame_VREA_AndroidCreationStation.description>
+  <Frame_VREA_AndroidCreationStation.label>станция сборки андроидов (в процессе сборки)</Frame_VREA_AndroidCreationStation.label>
+  <Frame_VREA_AndroidPartWorkbench.description>Верстак с оборудованием для молекулярной печати отдельных запасных частей для искусственных форм жизни.</Frame_VREA_AndroidPartWorkbench.description>
+  <Frame_VREA_AndroidPartWorkbench.label>верстак деталей андроидов (в процессе сборки)</Frame_VREA_AndroidPartWorkbench.label>
+  <Frame_VREA_AndroidStand.description>Беспроводной интерфейс, позволяющий андроиду быстро освобождать занятую память. Внешняя обработка данных на стойке значительно эффективнее самостоятельного обслуживания памяти.</Frame_VREA_AndroidStand.description>
+  <Frame_VREA_AndroidStand.label>стойка андроида (в процессе сборки)</Frame_VREA_AndroidStand.label>
+  <Frame_VREA_AndroidStandSpot.description>Обозначает место, где андроиды будут стоять и освобождать занятую память.</Frame_VREA_AndroidStandSpot.description>
+  <Frame_VREA_AndroidStandSpot.label>место обслуживания андроида (в процессе сборки)</Frame_VREA_AndroidStandSpot.label>
+  <Frame_VREA_NeutroCasket.description>Специальный саркофаг для операций на андроидах и восполнения утечек нейтроамина. Он прокачивает жидкость и восстанавливает её запас. Для работы нужен нейтроамин: загруженный в сам саркофаг или подведённый по трубопроводу.
+
+Андроид вмещает до 100 единиц нейтроамина, но способен выполнять основные функции уже при запасе в 50 единиц.</Frame_VREA_NeutroCasket.description>
+  <Frame_VREA_NeutroCasket.label>нейтросаркофаг (в процессе сборки)</Frame_VREA_NeutroCasket.label>
+  <Frame_VREA_NeutroDrain.description>Приёмная ёмкость, похожая на бункер. Через неё нейтроамин загружается в трубопровод и наполняет подключённые цистерны.</Frame_VREA_NeutroDrain.description>
+  <Frame_VREA_NeutroDrain.label>слив нейтроамина (в процессе сборки)</Frame_VREA_NeutroDrain.label>
+  <Frame_VREA_NeutroPipe.description>Лёгкие стерильные трубы для перекачки больших объёмов жидкого нейтроамина в цистерны и из них.</Frame_VREA_NeutroPipe.description>
+  <Frame_VREA_NeutroPipe.label>нейтроаминовая труба (в процессе сборки)</Frame_VREA_NeutroPipe.label>
+  <Frame_VREA_NeutroTank.description>Лёгкая стерильная цистерна для нейтроамина, поступающего по трубопроводу. Обычно нужна для машин, синтезирующих формы жизни: те потребляют слишком много нейтроамина, чтобы их было удобно заправлять вручную.</Frame_VREA_NeutroTank.description>
+  <Frame_VREA_NeutroTank.label>цистерна нейтроамина (в процессе сборки)</Frame_VREA_NeutroTank.label>
+  <Frame_VREA_NeutroTap.description>Приёмная ёмкость, похожая на бункер. В неё периодически поступает нейтроамин из цистерн, который затем можно забрать для использования.</Frame_VREA_NeutroTap.description>
+  <Frame_VREA_NeutroTap.label>нейтроаминовый кран (в процессе сборки)</Frame_VREA_NeutroTap.label>
+  <Frame_VREA_NeutroValve.description>Открывает или перекрывает поток нейтроамина.</Frame_VREA_NeutroValve.description>
+  <Frame_VREA_NeutroValve.label>вентиль нейтроамина (в процессе сборки)</Frame_VREA_NeutroValve.label>
+  <Frame_VREA_SubcorePolyanalyzer.description>Крупное устройство с капсулой, оснащённой множеством тканевых зондов и передовыми нейронными сканерами. В капсулу помещается один человек; для работы необходимо последовательно просканировать четырёх разных людей. Зонды и сканеры анализируют нейропсихические структуры каждого участника.
+
+После четвёртого сканирования сложный алгоритм объединяет полученные структуры в единую личность и переносит её цифровую модель в новое составное личностное субъядро. Процедура может вызвать временный дискомфорт и дезориентацию, но другого вреда участникам не причиняет.
+
+Созданные таким способом личностные субъядра подходят только для сложных человекоподобных андроидов.</Frame_VREA_SubcorePolyanalyzer.description>
+  <Frame_VREA_SubcorePolyanalyzer.label>полианализатор субъядер (в процессе сборки)</Frame_VREA_SubcorePolyanalyzer.label>
+  <Frame_VREA_SubterraneanNeutroPipe.description>Лёгкие стерильные трубы для перекачки больших объёмов жидкого нейтроамина в цистерны и из них. Скрыты под землёй и обходятся дороже обычных.</Frame_VREA_SubterraneanNeutroPipe.description>
+  <Frame_VREA_SubterraneanNeutroPipe.label>подземная нейтроаминовая труба (в процессе сборки)</Frame_VREA_SubterraneanNeutroPipe.label>
+  <VREA_AirFilter.description>Искусственный воздушный фильтр андроида. Два таких фильтра образуют его дыхательную систему.</VREA_AirFilter.description>
+  <VREA_AirFilter.label>воздушный фильтр</VREA_AirFilter.label>
+  <VREA_AndroidArm.description>Искусственная рука андроида.</VREA_AndroidArm.description>
+  <VREA_AndroidArm.label>рука андроида</VREA_AndroidArm.label>
+  <VREA_AndroidAwakenedGlow.label>частица</VREA_AndroidAwakenedGlow.label>
+  <VREA_AndroidAwakenedMote.label>частица</VREA_AndroidAwakenedMote.label>
+  <VREA_AndroidBehavioristStation.description>Станция перепрограммирования, на которой андроиду задают нужные черты и навыки. Встроенные программы позволяют справиться даже новичку, но человек с высоким интеллектом тратит меньше времени на изучение инструкций.</VREA_AndroidBehavioristStation.description>
+  <VREA_AndroidBehavioristStation.label>станция поведенческой настройки</VREA_AndroidBehavioristStation.label>
+  <VREA_AndroidCreationStation.description>Производственная станция для сборки андроидов из различных материалов и высокотехнологичных компонентов. Внешность можно настроить почти полностью, однако она ограничена имитацией базового человеческого облика.
+
+Необходимые ресурсы и объём работы зависят от выбранных аппаратных компонентов и подпрограмм.</VREA_AndroidCreationStation.description>
+  <VREA_AndroidCreationStation.label>станция сборки андроидов</VREA_AndroidCreationStation.label>
+  <VREA_AndroidFoot.description>Искусственная ступня андроида.</VREA_AndroidFoot.description>
+  <VREA_AndroidFoot.label>ступня андроида</VREA_AndroidFoot.label>
+  <VREA_AndroidHand.description>Искусственная кисть андроида.</VREA_AndroidHand.description>
+  <VREA_AndroidHand.label>кисть андроида</VREA_AndroidHand.label>
+  <VREA_AndroidLeg.description>Искусственная нога андроида.</VREA_AndroidLeg.description>
+  <VREA_AndroidLeg.label>нога андроида</VREA_AndroidLeg.label>
+  <VREA_AndroidPartWorkbench.description>Верстак с оборудованием для молекулярной печати отдельных запасных частей для искусственных форм жизни.</VREA_AndroidPartWorkbench.description>
+  <VREA_AndroidPartWorkbench.label>верстак деталей андроидов</VREA_AndroidPartWorkbench.label>
+  <VREA_AndroidSleepMode.label>андроид (в спящем режиме)</VREA_AndroidSleepMode.label>
+  <VREA_AndroidStand.description>Беспроводной интерфейс, позволяющий андроиду быстро освобождать занятую память. Внешняя обработка данных на стойке значительно эффективнее самостоятельного обслуживания памяти.</VREA_AndroidStand.description>
+  <VREA_AndroidStand.label>стойка андроида</VREA_AndroidStand.label>
+  <VREA_AndroidStandSpot.description>Обозначает место, где андроиды будут стоять и освобождать занятую память.</VREA_AndroidStandSpot.description>
+  <VREA_AndroidStandSpot.label>место обслуживания андроида</VREA_AndroidStandSpot.label>
+  <VREA_ArtificialJaw.description>Искусственная челюсть андроида.</VREA_ArtificialJaw.description>
+  <VREA_ArtificialJaw.label>искусственная челюсть</VREA_ArtificialJaw.label>
+  <VREA_ArtificialNose.description>Искусственный нос андроида. Позволяет андроиду чувствовать запахи.</VREA_ArtificialNose.description>
+  <VREA_ArtificialNose.label>искусственный нос</VREA_ArtificialNose.label>
+  <VREA_ArtificialRibcage.description>Искусственная грудная клетка андроида.</VREA_ArtificialRibcage.description>
+  <VREA_ArtificialRibcage.label>искусственная грудная клетка</VREA_ArtificialRibcage.label>
+  <VREA_ArtificialSpine.description>Искусственный позвоночник андроида.</VREA_ArtificialSpine.description>
+  <VREA_ArtificialSpine.label>искусственный позвоночник</VREA_ArtificialSpine.label>
+  <VREA_AudioProcessor.description>Искусственный аудиопроцессор андроида. Позволяет ему слышать.</VREA_AudioProcessor.description>
+  <VREA_AudioProcessor.label>аудиопроцессор</VREA_AudioProcessor.label>
+  <VREA_Clavicle.description>Искусственная деталь, заменяющая ключицу у андроида.</VREA_Clavicle.description>
+  <VREA_Clavicle.label>искусственная ключица</VREA_Clavicle.label>
+  <VREA_Femur.description>Искусственная деталь, заменяющая бедро у андроида.</VREA_Femur.description>
+  <VREA_Femur.label>искусственное бедро</VREA_Femur.label>
+  <VREA_Filth_Neutroamine.label>нейтроамин</VREA_Filth_Neutroamine.label>
+  <VREA_Filth_NeutroamineSmear.label>пятно нейтроамина</VREA_Filth_NeutroamineSmear.label>
+  <VREA_Finger.description>Искусственная деталь, заменяющая палец руки у андроида.</VREA_Finger.description>
+  <VREA_Finger.label>искусственный палец руки</VREA_Finger.label>
+  <VREA_Humerus.description>Искусственная деталь, заменяющая плечевую кость у андроида.</VREA_Humerus.description>
+  <VREA_Humerus.label>искусственная плечевая кость</VREA_Humerus.label>
+  <VREA_MetabolismRegulator.description>Искусственный регулятор метаболизма андроида. Поддерживает максимальную энергоэффективность.</VREA_MetabolismRegulator.description>
+  <VREA_MetabolismRegulator.label>регулятор метаболизма</VREA_MetabolismRegulator.label>
+  <VREA_ModifyingAndroid.label>частица</VREA_ModifyingAndroid.label>
+  <VREA_Mote_AndroidReformatting.label>частица</VREA_Mote_AndroidReformatting.label>
+  <VREA_Neck.description>Искусственная деталь, заменяющая шею у андроида.</VREA_Neck.description>
+  <VREA_Neck.label>искусственная шея</VREA_Neck.label>
+  <VREA_NeuroPump.description>Искусственный нейтронасос андроида. Распределяет нейтроамин по всем его подсистемам.</VREA_NeuroPump.description>
+  <VREA_NeuroPump.label>нейтронасос</VREA_NeuroPump.label>
+  <VREA_NeutroCasket.comps.CompRefuelable.fuelGizmoLabel>Нейтроамин</VREA_NeutroCasket.comps.CompRefuelable.fuelGizmoLabel>
+  <VREA_NeutroCasket.comps.CompRefuelable.fuelLabel>Нейтроамин</VREA_NeutroCasket.comps.CompRefuelable.fuelLabel>
+  <VREA_NeutroCasket.description>Специальный саркофаг для операций на андроидах и восполнения утечек нейтроамина. Он прокачивает жидкость и восстанавливает её запас. Для работы нужен нейтроамин: загруженный в сам саркофаг или подведённый по трубопроводу.
+
+Андроид вмещает до 100 единиц нейтроамина, но способен выполнять основные функции уже при запасе в 50 единиц.</VREA_NeutroCasket.description>
+  <VREA_NeutroCasket.label>нейтросаркофаг</VREA_NeutroCasket.label>
+  <VREA_NeutroDrain.description>Приёмная ёмкость, похожая на бункер. Через неё нейтроамин загружается в трубопровод и наполняет подключённые цистерны.</VREA_NeutroDrain.description>
+  <VREA_NeutroDrain.label>слив нейтроамина</VREA_NeutroDrain.label>
+  <VREA_NeutroPipe.description>Лёгкие стерильные трубы для перекачки больших объёмов жидкого нейтроамина в цистерны и из них.</VREA_NeutroPipe.description>
+  <VREA_NeutroPipe.label>нейтроаминовая труба</VREA_NeutroPipe.label>
+  <VREA_NeutroTank.description>Лёгкая стерильная цистерна для нейтроамина, поступающего по трубопроводу. Обычно нужна для машин, синтезирующих формы жизни: те потребляют слишком много нейтроамина, чтобы их было удобно заправлять вручную.</VREA_NeutroTank.description>
+  <VREA_NeutroTank.label>цистерна нейтроамина</VREA_NeutroTank.label>
+  <VREA_NeutroTap.description>Приёмная ёмкость, похожая на бункер. В неё периодически поступает нейтроамин из цистерн, который затем можно забрать для использования.</VREA_NeutroTap.description>
+  <VREA_NeutroTap.label>нейтроаминовый кран</VREA_NeutroTap.label>
+  <VREA_NeutroValve.description>Открывает или перекрывает поток нейтроамина.</VREA_NeutroValve.description>
+  <VREA_NeutroValve.label>вентиль нейтроамина</VREA_NeutroValve.label>
+  <VREA_Neutrofilter.description>Искусственный нейтрофильтр андроида. Очищает и перерабатывает отработанный нейтроамин.</VREA_Neutrofilter.description>
+  <VREA_Neutrofilter.label>нейтрофильтр</VREA_Neutrofilter.label>
+  <VREA_OpticalUnit.description>Искусственный оптический блок андроида. Позволяет ему видеть.</VREA_OpticalUnit.description>
+  <VREA_OpticalUnit.label>оптический блок</VREA_OpticalUnit.label>
+  <VREA_Pelvis.description>Искусственная деталь, заменяющая таз у андроида.</VREA_Pelvis.description>
+  <VREA_Pelvis.label>искусственный таз</VREA_Pelvis.label>
+  <VREA_PersonaSubcore.description>Высокотехнологичный мозг андроида — сложный психодинамический субстрат для развитой субперсоны. Это субъядро управляет сложными универсальными андроидами человеческого облика. Заключённая в нём субперсона по сложности равна человеческому разуму, но специально лишена эмоций. Ограничения ядра не дают ей развиться в полноценный ИИ.
+
+Для создания субъядра структуры нескольких разумов объединяются с помощью передовых алгоритмов и точного аналогового переноса, не причиняющего вреда участникам. Личностное субъядро — результат соединения человеческого интеллекта и передовых ультратехнологий.</VREA_PersonaSubcore.description>
+  <VREA_PersonaSubcore.label>личностное субъядро</VREA_PersonaSubcore.label>
+  <VREA_Radius.description>Искусственная деталь, заменяющая предплечье у андроида.</VREA_Radius.description>
+  <VREA_Radius.label>искусственное предплечье</VREA_Radius.label>
+  <VREA_Reactor.description>Синтетический реактор андроида. Когда ресурс реактора будет исчерпан, его нужно будет извлечь и заменить.</VREA_Reactor.description>
+  <VREA_Reactor.label>реактор</VREA_Reactor.label>
+  <VREA_Shoulder.description>Искусственная деталь, заменяющая плечо у андроида.</VREA_Shoulder.description>
+  <VREA_Shoulder.label>искусственное плечо</VREA_Shoulder.label>
+  <VREA_SpentReactor.description>Исчерпавший ресурс реактор андроида. Бесполезный хлам.</VREA_SpentReactor.description>
+  <VREA_SpentReactor.label>отработанный реактор</VREA_SpentReactor.label>
+  <VREA_Sternum.description>Искусственная деталь, заменяющая грудину у андроида.</VREA_Sternum.description>
+  <VREA_Sternum.label>искусственная грудина</VREA_Sternum.label>
+  <VREA_SubcorePolyanalyzer.description>Крупное устройство с капсулой, оснащённой множеством тканевых зондов и передовыми нейронными сканерами. В капсулу помещается один человек; для работы необходимо последовательно просканировать четырёх разных людей. Зонды и сканеры анализируют нейропсихические структуры каждого участника.
+
+После четвёртого сканирования сложный алгоритм объединяет полученные структуры в единую личность и переносит её цифровую модель в новое составное личностное субъядро. Процедура может вызвать временный дискомфорт и дезориентацию, но другого вреда участникам не причиняет.
+
+Созданные таким способом личностные субъядра подходят только для сложных человекоподобных андроидов.</VREA_SubcorePolyanalyzer.description>
+  <VREA_SubcorePolyanalyzer.label>полианализатор субъядер</VREA_SubcorePolyanalyzer.label>
+  <VREA_SubcorePolyanalyzer_East.label>частица</VREA_SubcorePolyanalyzer_East.label>
+  <VREA_SubcorePolyanalyzer_North.label>частица</VREA_SubcorePolyanalyzer_North.label>
+  <VREA_SubcorePolyanalyzer_South.label>частица</VREA_SubcorePolyanalyzer_South.label>
+  <VREA_SubcorePolyanalyzer_West.label>частица</VREA_SubcorePolyanalyzer_West.label>
+  <VREA_SubterraneanNeutroPipe.description>Лёгкие стерильные трубы для перекачки больших объёмов жидкого нейтроамина в цистерны и из них. Скрыты под землёй и обходятся дороже обычных.</VREA_SubterraneanNeutroPipe.description>
+  <VREA_SubterraneanNeutroPipe.label>подземная нейтроаминовая труба</VREA_SubterraneanNeutroPipe.label>
+  <VREA_Tibia.description>Искусственная деталь, заменяющая голень у андроида.</VREA_Tibia.description>
+  <VREA_Tibia.label>искусственная голень</VREA_Tibia.label>
+  <VREA_Toe.description>Искусственная деталь, заменяющая палец ноги у андроида.</VREA_Toe.description>
+  <VREA_Toe.label>искусственный палец ноги</VREA_Toe.label>
+  <VREA_Tongue.description>Искусственная деталь, заменяющая язык у андроида.</VREA_Tongue.description>
+  <VREA_Tongue.label>искусственный язык</VREA_Tongue.label>
+  <VREA_UnfinishedAndroid.description>Андроид, сборка которого ещё не завершена.</VREA_UnfinishedAndroid.description>
+  <VREA_UnfinishedAndroid.label>недособранный андроид</VREA_UnfinishedAndroid.label>
+  <VREA_UnfinishedHealthItemAndroid.description>Деталь тела андроида, изготовление которой ещё не завершено.</VREA_UnfinishedHealthItemAndroid.description>
+  <VREA_UnfinishedHealthItemAndroid.label>недоделанная деталь андроида</VREA_UnfinishedHealthItemAndroid.label>
+  <VREA_Waist.description>Искусственная деталь, заменяющая разъём дополнительного снаряжения у андроида.</VREA_Waist.description>
+  <VREA_Waist.label>разъём дополнительного снаряжения</VREA_Waist.label>
+</LanguageData>

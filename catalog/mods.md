@@ -18,6 +18,8 @@ RimWorld 1.6 · Version 1.4.0
 
 [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3789339468) · [Source & guide](../mods/IsekaiBalancedStatsQuickQuests/README.md) · [Changelog](../mods/IsekaiBalancedStatsQuickQuests/CHANGELOG.md) · [License](../mods/IsekaiBalancedStatsQuickQuests/LICENSE) · [Sources & notices](../mods/IsekaiBalancedStatsQuickQuests/NOTICES.md)
 
+[![Explore other mods on Steam Workshop](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-en.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)
+
 ## ISEKAI — Quick Quests
 
 Middle-click an ISEKAI quest letter to accept it when no choice is needed

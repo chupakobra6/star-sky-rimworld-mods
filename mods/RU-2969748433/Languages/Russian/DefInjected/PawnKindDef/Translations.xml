@@ -1,0 +1,148 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BMT_AaroxisDendoria.label>аароксис дендория</BMT_AaroxisDendoria.label>
+  <BMT_AaroxisDendoriaLarvae.label>киноварная гусеница</BMT_AaroxisDendoriaLarvae.label>
+  <BMT_AaroxisDendoriaPupa.label>куколка аароксис дендории</BMT_AaroxisDendoriaPupa.label>
+  <BMT_AcidSlug.label>кислотный слизень</BMT_AcidSlug.label>
+  <BMT_AcidSlug.lifeStages.acid_slug_larva.label>личинка кислотного слизня</BMT_AcidSlug.lifeStages.acid_slug_larva.label>
+  <BMT_AcidSlug.lifeStages.acid_slug_larva.labelPlural>личинки кислотного слизня</BMT_AcidSlug.lifeStages.acid_slug_larva.labelPlural>
+  <BMT_Basilisk.label>василиск</BMT_Basilisk.label>
+  <BMT_Batbird.label>мышептица</BMT_Batbird.label>
+  <BMT_Batbird.lifeStages.batbird_chick.label>птенец мышептицы</BMT_Batbird.lifeStages.batbird_chick.label>
+  <BMT_Batbird.lifeStages.batbird_chick.labelPlural>птенцы мышептицы</BMT_Batbird.lifeStages.batbird_chick.labelPlural>
+  <BMT_BeardedYak.label>бородатый як</BMT_BeardedYak.label>
+  <BMT_BeardedYak.labelPlural>бородатые яки</BMT_BeardedYak.labelPlural>
+  <BMT_BeardedYak.lifeStages.yak_calf.label>телёнок яка</BMT_BeardedYak.lifeStages.yak_calf.label>
+  <BMT_BeardedYak.lifeStages.yak_calf.labelPlural>телята яка</BMT_BeardedYak.lifeStages.yak_calf.labelPlural>
+  <BMT_BloodropLarvae.label>личинка моли-кровекапельницы</BMT_BloodropLarvae.label>
+  <BMT_BloodropMoth.label>моль-кровекапельница</BMT_BloodropMoth.label>
+  <BMT_BloodropPupa.label>куколка моли-кровекапельницы</BMT_BloodropPupa.label>
+  <BMT_BovineBeetle.label>бычий жук</BMT_BovineBeetle.label>
+  <BMT_BovineBeetleLarvae.label>личинка бычьего жука</BMT_BovineBeetleLarvae.label>
+  <BMT_BovineBeetleLarvae.lifeStages.bovine_grub-0.label>личинка бычьего жука</BMT_BovineBeetleLarvae.lifeStages.bovine_grub-0.label>
+  <BMT_BovineBeetleLarvae.lifeStages.bovine_grub-1.label>личинка бычьего жука</BMT_BovineBeetleLarvae.lifeStages.bovine_grub-1.label>
+  <BMT_BovineBeetleLarvae.lifeStages.bovine_grub-2.label>личинка бычьего жука</BMT_BovineBeetleLarvae.lifeStages.bovine_grub-2.label>
+  <BMT_BovineBeetlePupa.label>куколка бычьего жука</BMT_BovineBeetlePupa.label>
+  <BMT_BrownBat.label>бурая летучая мышь</BMT_BrownBat.label>
+  <BMT_BrownBat.lifeStages.brown_bat_pup.label>детёныш бурой летучей мыши</BMT_BrownBat.lifeStages.brown_bat_pup.label>
+  <BMT_BrownBat.lifeStages.brown_bat_pup.labelPlural>детёныши бурой летучей мыши</BMT_BrownBat.lifeStages.brown_bat_pup.labelPlural>
+  <BMT_CactusCrab.label>кактусовый краб</BMT_CactusCrab.label>
+  <BMT_CaveCricket.label>пещерный сверчок</BMT_CaveCricket.label>
+  <BMT_CaveLemming.label>пещерный лемминг</BMT_CaveLemming.label>
+  <BMT_CaveSpider.label>пещерный паук</BMT_CaveSpider.label>
+  <BMT_ChemSnail.label>химулитка</BMT_ChemSnail.label>
+  <BMT_CrestedDragon.label>гребенчатый дракон</BMT_CrestedDragon.label>
+  <BMT_CrystalBeetle.label>кристальноспинный жук</BMT_CrystalBeetle.label>
+  <BMT_CrystalBeetleLarvae.label>личинка кристальноспинного жука</BMT_CrystalBeetleLarvae.label>
+  <BMT_CrystalBeetleLarvae.lifeStages.crystalback_grub-0.label>личинка кристальноспинного жука</BMT_CrystalBeetleLarvae.lifeStages.crystalback_grub-0.label>
+  <BMT_CrystalBeetleLarvae.lifeStages.crystalback_grub-1.label>личинка кристальноспинного жука</BMT_CrystalBeetleLarvae.lifeStages.crystalback_grub-1.label>
+  <BMT_CrystalBeetleLarvae.lifeStages.crystalback_grub-2.label>личинка кристальноспинного жука</BMT_CrystalBeetleLarvae.lifeStages.crystalback_grub-2.label>
+  <BMT_CrystalBeetlePupa.label>куколка кристальноспинного жука</BMT_CrystalBeetlePupa.label>
+  <BMT_CrystalCrab.label>кристальный краб</BMT_CrystalCrab.label>
+  <BMT_CrystalFairyMole.label>кристальный карликовый крот</BMT_CrystalFairyMole.label>
+  <BMT_CrystalMantis.label>кристальный богомол-мимик</BMT_CrystalMantis.label>
+  <BMT_Crystalope.label>кристалопа</BMT_Crystalope.label>
+  <BMT_Crystalope.lifeStages.crystalope_calf.label>детёныш кристалопы</BMT_Crystalope.lifeStages.crystalope_calf.label>
+  <BMT_Crystalope.lifeStages.crystalope_calf.labelPlural>детёныши кристалопы</BMT_Crystalope.lifeStages.crystalope_calf.labelPlural>
+  <BMT_DarkAxolotl.label>тёмный аксолотль</BMT_DarkAxolotl.label>
+  <BMT_Diggerpede.label>сороконожка-землерой</BMT_Diggerpede.label>
+  <BMT_Diggerpede.lifeStages.Diggerpede_spawn.label>детёныш сороконожки-землероя</BMT_Diggerpede.lifeStages.Diggerpede_spawn.label>
+  <BMT_Diggerpede.lifeStages.Diggerpede_spawn.labelPlural>детёныши сороконожки-землероя</BMT_Diggerpede.lifeStages.Diggerpede_spawn.labelPlural>
+  <BMT_FacetMoth.label>гранёная моль</BMT_FacetMoth.label>
+  <BMT_FacetMothLarvae.label>личинка гранёной моли</BMT_FacetMothLarvae.label>
+  <BMT_FacetMothPupa.label>куколка гранёной моли</BMT_FacetMothPupa.label>
+  <BMT_FireSalamander.label>огненная саламандра</BMT_FireSalamander.label>
+  <BMT_FleeceSpider.label>шерстистый паук</BMT_FleeceSpider.label>
+  <BMT_FoundryBeetle.label>жук-плавильщик</BMT_FoundryBeetle.label>
+  <BMT_FoundryBeetleLarvae.label>личинка жука-плавильщика</BMT_FoundryBeetleLarvae.label>
+  <BMT_FoundryBeetleLarvae.lifeStages.foundry_grub-0.label>личинка жука-плавильщика</BMT_FoundryBeetleLarvae.lifeStages.foundry_grub-0.label>
+  <BMT_FoundryBeetleLarvae.lifeStages.foundry_grub-1.label>личинка жука-плавильщика</BMT_FoundryBeetleLarvae.lifeStages.foundry_grub-1.label>
+  <BMT_FoundryBeetleLarvae.lifeStages.foundry_grub-2.label>личинка жука-плавильщика</BMT_FoundryBeetleLarvae.lifeStages.foundry_grub-2.label>
+  <BMT_FoundryBeetlePupa.label>куколка жука-плавильщика</BMT_FoundryBeetlePupa.label>
+  <BMT_FreezerFrog.label>морозная лягушка</BMT_FreezerFrog.label>
+  <BMT_FrostweaverSpider.label>морозопряд</BMT_FrostweaverSpider.label>
+  <BMT_FungalFerret.label>грибной хорёк</BMT_FungalFerret.label>
+  <BMT_FungalFerret.lifeStages.Ferret_kit.label>детёныш хорька</BMT_FungalFerret.lifeStages.Ferret_kit.label>
+  <BMT_FungalFerret.lifeStages.Ferret_kit.labelPlural>детёныши хорька</BMT_FungalFerret.lifeStages.Ferret_kit.labelPlural>
+  <BMT_FungalMantis.label>грибной богомол-мимик</BMT_FungalMantis.label>
+  <BMT_FungalWeevil.label>грибной долгоносик</BMT_FungalWeevil.label>
+  <BMT_Gembug.label>самоцветный жучок</BMT_Gembug.label>
+  <BMT_GiantSlug.label>гигантский слизень</BMT_GiantSlug.label>
+  <BMT_GiantSnail.label>гигантская улитка</BMT_GiantSnail.label>
+  <BMT_GlarralPenguin.label>гларральский пингвин</BMT_GlarralPenguin.label>
+  <BMT_GlarralPenguin.labelPlural>гларральские пингвины</BMT_GlarralPenguin.labelPlural>
+  <BMT_GlowBat.label>светящаяся летучая мышь</BMT_GlowBat.label>
+  <BMT_GlowBat.lifeStages.glow_bat_pup.label>детёныш светящейся летучей мыши</BMT_GlowBat.lifeStages.glow_bat_pup.label>
+  <BMT_GlowBat.lifeStages.glow_bat_pup.labelPlural>детёныши светящейся летучей мыши</BMT_GlowBat.lifeStages.glow_bat_pup.labelPlural>
+  <BMT_GlowSlug.label>светослизень</BMT_GlowSlug.label>
+  <BMT_GoetoTadpole.label>головастик гоэто</BMT_GoetoTadpole.label>
+  <BMT_GoetoToad.label>жаба гоэто</BMT_GoetoToad.label>
+  <BMT_GoetoToad.lifeStages.goeto_toad_froglet.label>жабёнок гоэто</BMT_GoetoToad.lifeStages.goeto_toad_froglet.label>
+  <BMT_GoetoToad.lifeStages.goeto_toad_tadpole.label>головастик жабы гоэто</BMT_GoetoToad.lifeStages.goeto_toad_tadpole.label>
+  <BMT_HoarfrostMastodon.label>морозный мастодонт</BMT_HoarfrostMastodon.label>
+  <BMT_HoarfrostMastodon.lifeStages.mastodon_calf.label>детёныш мастодонта</BMT_HoarfrostMastodon.lifeStages.mastodon_calf.label>
+  <BMT_HungeringHydra.label>ненасытная гидра</BMT_HungeringHydra.label>
+  <BMT_ImperialToad.label>императорская жаба</BMT_ImperialToad.label>
+  <BMT_ImperialToad.lifeStages.imperial_toad_froglet.label>детёныш императорской жабы</BMT_ImperialToad.lifeStages.imperial_toad_froglet.label>
+  <BMT_ImperialToad.lifeStages.imperial_toad_tadpole.label>головастик императорской жабы</BMT_ImperialToad.lifeStages.imperial_toad_tadpole.label>
+  <BMT_Jellypot.label>желейник</BMT_Jellypot.label>
+  <BMT_JewelBeetle.label>жук-самоцвет</BMT_JewelBeetle.label>
+  <BMT_JewelBeetleLarvae.label>личинка жука-самоцвета</BMT_JewelBeetleLarvae.label>
+  <BMT_JewelBeetleLarvae.lifeStages.jewel_grub-0.label>личинка жука-самоцвета</BMT_JewelBeetleLarvae.lifeStages.jewel_grub-0.label>
+  <BMT_JewelBeetleLarvae.lifeStages.jewel_grub-1.label>личинка жука-самоцвета</BMT_JewelBeetleLarvae.lifeStages.jewel_grub-1.label>
+  <BMT_JewelBeetleLarvae.lifeStages.jewel_grub-2.label>личинка жука-самоцвета</BMT_JewelBeetleLarvae.lifeStages.jewel_grub-2.label>
+  <BMT_JewelBeetlePupa.label>куколка жука-самоцвета</BMT_JewelBeetlePupa.label>
+  <BMT_MaceDrake.label>булавохвостый дракон</BMT_MaceDrake.label>
+  <BMT_Maguana.label>магуана</BMT_Maguana.label>
+  <BMT_Megabat.label>мегакрылан</BMT_Megabat.label>
+  <BMT_Megapleura.label>мегаплевра</BMT_Megapleura.label>
+  <BMT_MetalloSnail.label>металлическая улитка</BMT_MetalloSnail.label>
+  <BMT_Mole.label>крот</BMT_Mole.label>
+  <BMT_Mole.lifeStages.Mole_pup.label>детёныш крота</BMT_Mole.lifeStages.Mole_pup.label>
+  <BMT_Mole.lifeStages.Mole_pup.labelPlural>детёныши крота</BMT_Mole.lifeStages.Mole_pup.labelPlural>
+  <BMT_Molebear.label>кротомедведь</BMT_Molebear.label>
+  <BMT_MossBeetle.label>моховой жук</BMT_MossBeetle.label>
+  <BMT_MossBeetleLarvae.label>личинка мохового жука</BMT_MossBeetleLarvae.label>
+  <BMT_MossBeetlePupa.label>куколка мохового жука</BMT_MossBeetlePupa.label>
+  <BMT_MossyFennec.label>моховой фенек</BMT_MossyFennec.label>
+  <BMT_MossyFennec.lifeStages.Mossy_Fennec_kit.label>детёныш мохового фенека</BMT_MossyFennec.lifeStages.Mossy_Fennec_kit.label>
+  <BMT_MossyFennec.lifeStages.Mossy_Fennec_kit.labelPlural>детёныши мохового фенека</BMT_MossyFennec.lifeStages.Mossy_Fennec_kit.labelPlural>
+  <BMT_Pillbug.label>мокрица</BMT_Pillbug.label>
+  <BMT_PodWorm.label>червь-светляк</BMT_PodWorm.label>
+  <BMT_Rimebeak.label>инееклюв</BMT_Rimebeak.label>
+  <BMT_Rimebeak.labelPlural>инееклювы</BMT_Rimebeak.labelPlural>
+  <BMT_RoyalRhino.label>королевский жук-носорог</BMT_RoyalRhino.label>
+  <BMT_RoyalRhinoLarvae.label>личинка королевского жука-носорога</BMT_RoyalRhinoLarvae.label>
+  <BMT_RoyalRhinoPupa.label>куколка королевского жука-носорога</BMT_RoyalRhinoPupa.label>
+  <BMT_SandLeaper.label>песчаный прыгун</BMT_SandLeaper.label>
+  <BMT_SandPillar.label>пескогусеница</BMT_SandPillar.label>
+  <BMT_ShatterjawBeetle.label>жук-дробитель</BMT_ShatterjawBeetle.label>
+  <BMT_ShatterjawBeetleLarvae.label>личинка жука-дробителя</BMT_ShatterjawBeetleLarvae.label>
+  <BMT_ShatterjawBeetleLarvae.lifeStages.shatterjaw_grub-0.label>личинка жука-дробителя</BMT_ShatterjawBeetleLarvae.lifeStages.shatterjaw_grub-0.label>
+  <BMT_ShatterjawBeetleLarvae.lifeStages.shatterjaw_grub-1.label>личинка жука-дробителя</BMT_ShatterjawBeetleLarvae.lifeStages.shatterjaw_grub-1.label>
+  <BMT_ShatterjawBeetleLarvae.lifeStages.shatterjaw_grub-2.label>личинка жука-дробителя</BMT_ShatterjawBeetleLarvae.lifeStages.shatterjaw_grub-2.label>
+  <BMT_ShatterjawBeetlePupa.label>куколка жука-дробителя</BMT_ShatterjawBeetlePupa.label>
+  <BMT_ShimmershellSnail.label>мерцающая улитка</BMT_ShimmershellSnail.label>
+  <BMT_SilverSheep.label>серебристая овца</BMT_SilverSheep.label>
+  <BMT_SilverSheep.labelFemale>серебристая овца</BMT_SilverSheep.labelFemale>
+  <BMT_SilverSheep.labelMale>серебристый баран</BMT_SilverSheep.labelMale>
+  <BMT_SilverSheep.labelPlural>серебристые овцы</BMT_SilverSheep.labelPlural>
+  <BMT_SilverSheep.lifeStages.lamb.label>ягнёнок</BMT_SilverSheep.lifeStages.lamb.label>
+  <BMT_SilverSheep.lifeStages.lamb.labelPlural>ягнята</BMT_SilverSheep.lifeStages.lamb.labelPlural>
+  <BMT_SmolderstingScorpion.label>скорпион-огнежал</BMT_SmolderstingScorpion.label>
+  <BMT_Snowstalker.label>снежный охотник</BMT_Snowstalker.label>
+  <BMT_SonarRabbit.label>эхокролик</BMT_SonarRabbit.label>
+  <BMT_Stoneback.label>каменноспин</BMT_Stoneback.label>
+  <BMT_Thrumbungus.label>трумбогриб</BMT_Thrumbungus.label>
+  <BMT_Thrumbungus.lifeStages.thrumbungus_fruiting_body.label>плодовое тело трумбогриба</BMT_Thrumbungus.lifeStages.thrumbungus_fruiting_body.label>
+  <BMT_Thrumbungus.lifeStages.thrumbungus_fruiting_body.labelPlural>плодовые тела трумбогриба</BMT_Thrumbungus.lifeStages.thrumbungus_fruiting_body.labelPlural>
+  <BMT_TruffleMole.label>трюфельный крот</BMT_TruffleMole.label>
+  <BMT_TruffleMole.lifeStages.Truffle_mole_pup.label>детёныш трюфельного крота</BMT_TruffleMole.lifeStages.Truffle_mole_pup.label>
+  <BMT_TruffleMole.lifeStages.Truffle_mole_pup.labelPlural>детёныши трюфельного крота</BMT_TruffleMole.lifeStages.Truffle_mole_pup.labelPlural>
+  <BMT_Woollybat.label>шерстистая летучая мышь</BMT_Woollybat.label>
+  <BMT_Xyrion.label>ксирион</BMT_Xyrion.label>
+  <BMT_Xyrion.lifeStages.xyrion_hatchling.label>детёныш ксириона</BMT_Xyrion.lifeStages.xyrion_hatchling.label>
+  <BMT_Yooka.label>юка</BMT_Yooka.label>
+  <BMT_Yooka.lifeStages.Yooka_cria.label>детёныш юки</BMT_Yooka.lifeStages.Yooka_cria.label>
+  <BMT_Yooka.lifeStages.Yooka_cria.labelPlural>детёныши юки</BMT_Yooka.lifeStages.Yooka_cria.labelPlural>
+</LanguageData>

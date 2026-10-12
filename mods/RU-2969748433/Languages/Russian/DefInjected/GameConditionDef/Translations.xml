@@ -1,0 +1,20 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BMT_GameCondition_PhosphoricLights.description>Призрачное фосфорическое сияние заполняет пещеру, завораживая всех, кто его видит, и поднимая им настроение.</BMT_GameCondition_PhosphoricLights.description>
+  <BMT_GameCondition_PhosphoricLights.endMessage>Фосфорическое сияние угасает.</BMT_GameCondition_PhosphoricLights.endMessage>
+  <BMT_GameCondition_PhosphoricLights.label>фосфорическое сияние</BMT_GameCondition_PhosphoricLights.label>
+  <BMT_GameCondition_PhosphoricLights.letterText>Призрачное фосфорическое сияние заполняет пещеру, завораживая всех, кто его видит, и поднимая им настроение.</BMT_GameCondition_PhosphoricLights.letterText>
+  <BMT_SporeCloud.description>Облако грибных спор из отдалённого источника медленно накрывает весь регион. Все живые существа вне крытых помещений будут задыхаться.</BMT_SporeCloud.description>
+  <BMT_SporeCloud.descriptionFuture>облако грибных спор накроет окрестности [map_definite] на [gameConditionDuration_duration], убивая животных под открытым небом.</BMT_SporeCloud.descriptionFuture>
+  <BMT_SporeCloud.endMessage>Большая часть грибных спор осела.</BMT_SporeCloud.endMessage>
+  <BMT_SporeCloud.label>облако спор</BMT_SporeCloud.label>
+  <BMT_SporeCloud.letterText>Отдалённый грибной лес выбросил облако спор, накрывшее весь регион.
+
+Все люди и животные вне крытых помещений будут медленно задыхаться от оседающих спор.
+
+Это продлится от нескольких дней до более чем квартала.</BMT_SporeCloud.letterText>
+  <Earthquake.description>Началось землетрясение! Пещера может обрушиться. Подземные толчки затрудняют передвижение и могут оглушить ваших людей!</Earthquake.description>
+  <Earthquake.endMessage>Землетрясение стихает.</Earthquake.endMessage>
+  <Earthquake.label>землетрясение</Earthquake.label>
+  <Earthquake.letterText>Началось землетрясение! Пещера может обрушиться. Подземные толчки затрудняют передвижение и могут оглушить ваших людей!</Earthquake.letterText>
+</LanguageData>

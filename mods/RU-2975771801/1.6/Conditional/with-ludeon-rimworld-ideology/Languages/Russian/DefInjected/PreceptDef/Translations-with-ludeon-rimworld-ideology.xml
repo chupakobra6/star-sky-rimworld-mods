@@ -1,0 +1,22 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VRE_Androids_Despised.comps.0.description>Андроид</VRE_Androids_Despised.comps.0.description>
+  <VRE_Androids_Despised.comps.2.description>Ненависть андроида к себе</VRE_Androids_Despised.comps.2.description>
+  <VRE_Androids_Despised.comps.3.description>Андроид среди нас</VRE_Androids_Despised.comps.3.description>
+  <VRE_Androids_Despised.description>Андроиды уступают людям. Я презираю их: они нарушают естественный порядок и угрожают нашей человечности.</VRE_Androids_Despised.description>
+  <VRE_Androids_Despised.label>презираемы</VRE_Androids_Despised.label>
+  <VRE_Androids_Equal.description>Мы твёрдо стоим за равноправие андроидов: они должны иметь те же права и возможности, что и люди, а их интересы столь же важны.</VRE_Androids_Equal.description>
+  <VRE_Androids_Equal.label>равноправны</VRE_Androids_Equal.label>
+  <VRE_Androids_Respected.comps.0.description>Андроид</VRE_Androids_Respected.comps.0.description>
+  <VRE_Androids_Respected.comps.1.thoughtStageDescriptions.0>Нет андроидов</VRE_Androids_Respected.comps.1.thoughtStageDescriptions.0>
+  <VRE_Androids_Respected.comps.1.thoughtStageDescriptions.1>Андроиды в колонии (+1 за каждого андроида, до +10)</VRE_Androids_Respected.comps.1.thoughtStageDescriptions.1>
+  <VRE_Androids_Respected.description>Мы должны признавать сложность технологий и разум андроидов. Они заслуживают восхищения и уважения, даже если отличаются от людей.</VRE_Androids_Respected.description>
+  <VRE_Androids_Respected.label>уважаемы</VRE_Androids_Respected.label>
+  <VRE_Androids_Tools.description>Мы считаем андроидов лишь инструментами, созданными для помощи людям в различных делах. Они существуют исключительно ради нашего удобства, не имеют прав, а их интересы не заслуживают учёта.
+
+&lt;color=#E5E54C&gt;Влияние на игру:&lt;/color&gt;
+ - Отношение к андроидам не формируется.
+ - Гибель андроидов не вызывает мыслей (действует на всех поселенцев, если этот принцип входит в основную идеологию).
+ - Порабощение андроидов не вызывает мыслей (действует на всех поселенцев, если этот принцип входит в основную идеологию).</VRE_Androids_Tools.description>
+  <VRE_Androids_Tools.label>инструменты</VRE_Androids_Tools.label>
+</LanguageData>

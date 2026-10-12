@@ -1,0 +1,7 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VRE_Infection.deathMessage>{0} {PAWN_gender ? погиб : погибла : погибло} от рваных ран.</VRE_Infection.deathMessage>
+  <VRE_Infection.label>генная инфекция</VRE_Infection.label>
+  <VRE_Infection_Bite.deathMessage>{0} {PAWN_gender ? погиб : погибла : погибло} от укусов.</VRE_Infection_Bite.deathMessage>
+  <VRE_Infection_Bite.label>генная инфекция</VRE_Infection_Bite.label>
+</LanguageData>

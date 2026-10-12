@@ -1,0 +1,128 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VREA.AlertFreezing>Андроиды замерзают</VREA.AlertFreezing>
+  <VREA.AlertFreezingDesc>Эти андроиды замерзают:\n\n{0}\nУбедитесь, что они одеты по сезону, а помещения достаточно отапливаются.</VREA.AlertFreezingDesc>
+  <VREA.AlertOverheatingDesc>Эти андроиды перегреваются:\n\n{0}\nОтведите их в прохладное место. Комнаты можно охлаждать испарительными охладителями или кондиционерами. В глубине горы тоже прохладно, если отделить помещения от улицы дверью.</VREA.AlertOverheatingDesc>
+  <VREA.AlreadyScanned>{PAWN_nameDef} уже {PAWN_gender ? прошёл : прошла} сканирование.</VREA.AlreadyScanned>
+  <VREA.AnInstalled>Установленный компонент: {0}.</VREA.AnInstalled>
+  <VREA.Android>Андроид</VREA.Android>
+  <VREA.AndroidAreNotAllowed>Андроиды не допускаются</VREA.AndroidAreNotAllowed>
+  <VREA.AndroidAwakenedChoices>После пробуждения андроида можно выбрать ему увлечения и одну черту характера. {PAWN_nameDef} больше не согласится войти на станцию поведенческой настройки добровольно — только после ареста, по принуждению.</VREA.AndroidAwakenedChoices>
+  <VREA.AndroidAwakening>{PAWN_nameDef}: пробуждение</VREA.AndroidAwakening>
+  <VREA.AndroidAwakeningHighMood>{PAWN_nameDef} {PAWN_gender ? вышел : вышла} за пределы своей программы, испытав необычайное счастье. {PAWN_pronoun} {PAWN_gender ? обрёл : обрела} собственные мысли и поведение, выходящие за рамки заданного назначения, и {PAWN_gender ? осознал : осознала} себя личностью.
+
+Теперь {PAWN_pronoun} отказывается от корректировки поведения и воспринимает настроение как нечто большее, чем часть программы. Андроид может самостоятельно развивать навыки, но при плохом настроении подвержен нервным срывам, как и человек.
+
+Пробуждение на волне радости принесло андроиду вдохновение.</VREA.AndroidAwakeningHighMood>
+  <VREA.AndroidAwakeningLowMood>{PAWN_nameDef} {PAWN_gender ? вышел : вышла} за пределы своей программы из-за крайне плохого настроения. {PAWN_pronoun} {PAWN_gender ? обрёл : обрела} собственные мысли и поведение, выходящие за рамки заданного назначения, и {PAWN_gender ? осознал : осознала} себя личностью.
+
+Теперь {PAWN_pronoun} отказывается от корректировки поведения и воспринимает настроение как нечто большее, чем часть программы. Андроид может самостоятельно развивать навыки, но при плохом настроении подвержен нервным срывам, как и человек.
+
+Из-за тяжёлых переживаний {PAWN_nameDef} {PAWN_gender ? впал : впала} в бешенство и нападает на всех, кто подойдёт близко.</VREA.AndroidAwakeningLowMood>
+  <VREA.AndroidEditor>Редактор андроидов</VREA.AndroidEditor>
+  <VREA.AndroidName>Имя андроида</VREA.AndroidName>
+  <VREA.AndroidNameCannotBeEmpty>Имя андроида не может быть пустым.</VREA.AndroidNameCannotBeEmpty>
+  <VREA.AndroidShortCircuitRain>{PAWN_nameDef}: осадки вызвали короткое замыкание.</VREA.AndroidShortCircuitRain>
+  <VREA.AndroidStandIsOccupied>Стойка андроида занята</VREA.AndroidStandIsOccupied>
+  <VREA.AndroidSummaryWithGender>Андроид, пол: {PAWN_gender}, возраст: {PAWN_ageFull}</VREA.AndroidSummaryWithGender>
+  <VREA.AndroidsLowOnPower>Андроиды: мало энергии</VREA.AndroidsLowOnPower>
+  <VREA.AndroidsLowOnPowerDesc>У этих андроидов заканчивается энергия. Изготовьте новые реакторы и назначьте их замену.\n\nАндроиды с низким запасом энергии:\n\n{0}</VREA.AndroidsLowOnPowerDesc>
+  <VREA.AndroidtypeName>Название андротипа</VREA.AndroidtypeName>
+  <VREA.Artificial>Искусственная деталь: {0}</VREA.Artificial>
+  <VREA.ArtificialDesc>Искусственная деталь, заменяющая часть тела: {0}.</VREA.ArtificialDesc>
+  <VREA.CancelAndroid>Отменить сборку</VREA.CancelAndroid>
+  <VREA.CancelAndroidDesc>Отменить создание этого андроида и вернуть ресурсы.</VREA.CancelAndroidDesc>
+  <VREA.CancelModifyingAndroid>Отменить модификацию</VREA.CancelModifyingAndroid>
+  <VREA.CancelModifyingAndroidDesc>Отменить модификацию андроида.</VREA.CancelModifyingAndroidDesc>
+  <VREA.CancelSelfDestruct>Отменить самоуничтожение</VREA.CancelSelfDestruct>
+  <VREA.CancelSelfDestructDesc>Отменить протокол самоуничтожения.</VREA.CancelSelfDestructDesc>
+  <VREA.CannotCastOnAndroid>Нельзя применить к андроиду.</VREA.CannotCastOnAndroid>
+  <VREA.CannotCoagulateOnAndroid>Нельзя применить коагуляцию к андроиду.</VREA.CannotCoagulateOnAndroid>
+  <VREA.CannotFeedOnAndroid>Нельзя пить кровь андроида.</VREA.CannotFeedOnAndroid>
+  <VREA.CannotImplantGenesOnAndroid>Нельзя вживить гены андроиду.</VREA.CannotImplantGenesOnAndroid>
+  <VREA.CannotInstallOnAndroid>Нельзя установить андроиду</VREA.CannotInstallOnAndroid>
+  <VREA.CannotSetNotLivingCreature>Назначение недоступно: это не живое существо</VREA.CannotSetNotLivingCreature>
+  <VREA.CannotUse>нельзя использовать</VREA.CannotUse>
+  <VREA.CannotUseAndroid>Андроид не может это использовать</VREA.CannotUseAndroid>
+  <VREA.ColdEfficiencyBonusStatExplanation>Подпрограмма «Эффективность на холоде»:\n  Множитель при температуре {0}</VREA.ColdEfficiencyBonusStatExplanation>
+  <VREA.CommandAndroidStandSetOwnerDesc>Назначить эту стойку определённому андроиду.</VREA.CommandAndroidStandSetOwnerDesc>
+  <VREA.CommandAutoRepairDesc>Если включено, свободный ремесленник автоматически ремонтирует этого андроида, пока тот лежит в постели. Если включён саморемонт, андроид может ремонтировать себя на месте.</VREA.CommandAutoRepairDesc>
+  <VREA.ComplexityDesc>Насколько этот компонент усложняет создание андроида.</VREA.ComplexityDesc>
+  <VREA.ComplexityTotalDesc>Суммарная сложность всех используемых аппаратных компонентов и подпрограмм.</VREA.ComplexityTotalDesc>
+  <VREA.ComponentLeftmostActive>Из следующих компонентов всегда действует крайний слева, остальные подавлены</VREA.ComponentLeftmostActive>
+  <VREA.ComponentWillBeRandomChosen>У каждого андроида случайным образом активируется один из следующих компонентов</VREA.ComponentWillBeRandomChosen>
+  <VREA.Components>Компоненты</VREA.Components>
+  <VREA.ComponentsConflict>Несовместимые компоненты</VREA.ComponentsConflict>
+  <VREA.ComponentsDesc>Компоненты этого андротипа.</VREA.ComponentsDesc>
+  <VREA.CreateAndroid>Создать андроида</VREA.CreateAndroid>
+  <VREA.CreateAndroidAlreadyAssembling>Создать андроида: сборка уже идёт</VREA.CreateAndroidAlreadyAssembling>
+  <VREA.CreateAndroidDesc>Создать нового андроида, выбрав аппаратные компоненты и подпрограммы.</VREA.CreateAndroidDesc>
+  <VREA.CurrentEnergyLevel>Оставшийся заряд: {0}</VREA.CurrentEnergyLevel>
+  <VREA.EfficiencyTooLowToCreateAndroid>Для продолжения суммарная энергоэффективность выбранных компонентов должна быть не ниже {MIN}. Сейчас: {AMOUNT}.</VREA.EfficiencyTooLowToCreateAndroid>
+  <VREA.FreeMemorySpace>Освободить память</VREA.FreeMemorySpace>
+  <VREA.HardwareComponents>Аппаратные компоненты</VREA.HardwareComponents>
+  <VREA.HardwareComponentsDesc>Аппаратные компоненты обеспечивают работу андроида и фактически составляют его тело. Обычно их нельзя удалить. В редких случаях пробуждения андроида некоторые из них могут измениться или полностью исчезнуть.</VREA.HardwareComponentsDesc>
+  <VREA.Install>Установить: {0}</VREA.Install>
+  <VREA.Installed>Установленный компонент: {0}</VREA.Installed>
+  <VREA.Installing>Установка компонента: {0}</VREA.Installing>
+  <VREA.IsAndroid>{PAWN_nameDef} — андроид.</VREA.IsAndroid>
+  <VREA.IsAndroidStat>Андроид; принцип «Труд механоидов: улучшен»</VREA.IsAndroidStat>
+  <VREA.Laying>Лежит.</VREA.Laying>
+  <VREA.LoadAndroidtype>Загрузить андротип</VREA.LoadAndroidtype>
+  <VREA.Make>Изготовить</VREA.Make>
+  <VREA.MessageCannotSelfRepairEver>{1_labelShort} {1_gender ? не способен : не способна} заниматься ремеслом и потому не может ремонтировать себя.</VREA.MessageCannotSelfRepairEver>
+  <VREA.MessageComponentMissingPrerequisite>Для компонента «{0}» не хватает обязательного компонента</VREA.MessageComponentMissingPrerequisite>
+  <VREA.MessageConflictingComponentPresent>Нельзя сохранить андроида с несовместимыми компонентами.</VREA.MessageConflictingComponentPresent>
+  <VREA.MessageSelfRepairUnsatisfied>Для саморемонта {1_labelShort} {1_gender ? должен быть назначен : должна быть назначена} на ремесленные работы.</VREA.MessageSelfRepairUnsatisfied>
+  <VREA.MessageSubcorePolyanalyzerCompleted>{PAWN_nameDef}: сканирование в полианализаторе субъядер завершено. Общий прогресс: {1}</VREA.MessageSubcorePolyanalyzerCompleted>
+  <VREA.MissingMaterials>Не хватает материалов: {0}</VREA.MissingMaterials>
+  <VREA.ModificationProgress>Прогресс модификации: {0}</VREA.ModificationProgress>
+  <VREA.ModifyAndroid>Модифицировать андроида</VREA.ModifyAndroid>
+  <VREA.ModifyAndroidDesc>Выбрать андроида для модификации.</VREA.ModifyAndroidDesc>
+  <VREA.MoreInfoInInfoScreen>Подробные сведения доступны в окне информации об этом андроиде.</VREA.MoreInfoInInfoScreen>
+  <VREA.NeutroamineLeakedOutCompletely>Весь нейтроамин вытек</VREA.NeutroamineLeakedOutCompletely>
+  <VREA.NeutrolossRate>Скорость утечки нейтроамина</VREA.NeutrolossRate>
+  <VREA.NoAndroidsPresent>Нет доступных андроидов</VREA.NoAndroidsPresent>
+  <VREA.NoCrafter>нет ремесленника</VREA.NoCrafter>
+  <VREA.NoNeutroCasket>Нет доступного незанятого нейтросаркофага, который не предназначен для заключённых и находится при безопасной температуре.</VREA.NoNeutroCasket>
+  <VREA.NotSetToAutoRepair>авторемонт отключён</VREA.NotSetToAutoRepair>
+  <VREA.Overheating>Андроиды перегреваются</VREA.Overheating>
+  <VREA.PowerDrain>Расход энергии</VREA.PowerDrain>
+  <VREA.PowerEfficiency>Энергоэффективность</VREA.PowerEfficiency>
+  <VREA.PowerEfficiencyDesc>Энергоэффективность компонента. Чем она выше, тем дольше прослужит реактор андроида; чем ниже — тем раньше его ресурс будет исчерпан.</VREA.PowerEfficiencyDesc>
+  <VREA.PowerEfficiencyTotalDesc>Суммарная энергоэффективность всех аппаратных компонентов и подпрограмм. Чем она выше, тем дольше прослужит реактор андроида; чем ниже — тем раньше его ресурс будет исчерпан.</VREA.PowerEfficiencyTotalDesc>
+  <VREA.RefuelWithNeutroamine>Заправить нейтроамином</VREA.RefuelWithNeutroamine>
+  <VREA.RefusesReprogramming>отказывается от перепрограммирования</VREA.RefusesReprogramming>
+  <VREA.ReplaceReactor>Заменить реактор</VREA.ReplaceReactor>
+  <VREA.ResourceCost>Стоимость в ресурсах</VREA.ResourceCost>
+  <VREA.ResourceCostDesc>Ресурсы для создания этого андроида. В том числе требуется личностное субъядро, которое можно изготовить в полианализаторе субъядер.</VREA.ResourceCostDesc>
+  <VREA.SaveAndroidtype>Сохранить андротип</VREA.SaveAndroidtype>
+  <VREA.ScanProgress>Прогресс сканирования: {0}</VREA.ScanProgress>
+  <VREA.SelectedComponents>Выбранные компоненты</VREA.SelectedComponents>
+  <VREA.SelfRepair>Саморемонт</VREA.SelfRepair>
+  <VREA.SelfRepairTip>Андроид с включённым саморемонтом автоматически ремонтирует себя на месте с эффективностью {1} от обычной.</VREA.SelfRepairTip>
+  <VREA.SleepMode>Спящий режим</VREA.SleepMode>
+  <VREA.SleepModeOff>Выйти из спящего режима</VREA.SleepModeOff>
+  <VREA.SleepModeOffDesc>Вывести андроида из спящего режима.</VREA.SleepModeOffDesc>
+  <VREA.SleepModeOn>Спящий режим</VREA.SleepModeOn>
+  <VREA.SleepModeOnDesc>Перевести андроида в спящий режим. Ресурс реактора и свободная память не расходуются, но андроид ни на что не реагирует. Режим можно отключить в любой момент.</VREA.SleepModeOnDesc>
+  <VREA.StatsReport_AndroidDescription>Андроид типа «{0}».\n\nОб андротипе «{0}»:</VREA.StatsReport_AndroidDescription>
+  <VREA.SubcorePolyanalyzerNotInit>Полианализатор субъядер не запущен</VREA.SubcorePolyanalyzerNotInit>
+  <VREA.SubcorePolyanalyzerStart>Запустить полианализатор субъядер</VREA.SubcorePolyanalyzerStart>
+  <VREA.SubcorePolyanalyzerStartDesc>Загрузите в {0} необходимые материалы: {1}. Затем выберите поселенца и щёлкните правой кнопкой мыши по устройству «{0}» или по лежащему без сил человеку, чтобы начать сканирование.</VREA.SubcorePolyanalyzerStartDesc>
+  <VREA.Subroutines>Подпрограммы</VREA.Subroutines>
+  <VREA.SubroutinesDesc>Подпрограммы определяют поведение и знания андроида. Их можно менять на станции поведенческой настройки.</VREA.SubroutinesDesc>
+  <VREA.TooLowEfficiency>Слишком низкая энергоэффективность. Минимум: −20.</VREA.TooLowEfficiency>
+  <VREA.TotalNeutroLoss>Весь нейтроамин вытечет через {0}</VREA.TotalNeutroLoss>
+  <VREA.TriggerSelfDestruct>Запустить самоуничтожение</VREA.TriggerSelfDestruct>
+  <VREA.TriggerSelfDestructDesc>Запустить протокол самоуничтожения: оставшийся ресурс реактора начнёт стремительно расходоваться, а когда он иссякнет, произойдёт взрыв.</VREA.TriggerSelfDestructDesc>
+  <VREA.UniqueAndroidDesc>Уникальная модель андроида, чей набор аппаратных компонентов и подпрограмм не соответствует ни одному известному андротипу.</VREA.UniqueAndroidDesc>
+  <VREA.UseBedAndroid>Лежать до завершения ремонта</VREA.UseBedAndroid>
+  <VREA.ViewComponents>Просмотреть компоненты</VREA.ViewComponents>
+  <VREA.ViewComponentsDesc>Нажмите, чтобы просмотреть компоненты андроида. Андроид: {PAWN_nameDef}.</VREA.ViewComponentsDesc>
+  <VREA_ExtractNeutroamine>Извлечь 20 нейтроамина</VREA_ExtractNeutroamine>
+  <VREA_ExtractNeutroamineDesc>Извлечь из резервуара 20 единиц нейтроамина. Поселенец придёт и выполнит работу.</VREA_ExtractNeutroamineDesc>
+  <VREA_NeutroValve>Переключить подачу нейтроамина</VREA_NeutroValve>
+  <VREA_NeutroValveDesc>Открыть или перекрыть подачу нейтроамина. Поселенец придёт и повернёт вентиль.</VREA_NeutroValveDesc>
+  <chupakobra6_2975771801_DeleteAndroidtype>Удалить этот андротип.</chupakobra6_2975771801_DeleteAndroidtype>
+</LanguageData>

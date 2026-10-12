@@ -1,0 +1,76 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BMT_AthleteFoot.description>Грибковая инфекция одной из стоп. Вызывает зудящую сыпь, шелушение или покраснение кожи.</BMT_AthleteFoot.description>
+  <BMT_AthleteFoot.label>грибок стопы</BMT_AthleteFoot.label>
+  <BMT_ChemSnailDefense.description>Существо втянулось в раковину для защиты.</BMT_ChemSnailDefense.description>
+  <BMT_ChemSnailDefense.label>втягивание в раковину</BMT_ChemSnailDefense.label>
+  <BMT_CoolingSalve.description>Действие охлаждающей мази на основе грибов. Устойчивость к жаре значительно повышена.</BMT_CoolingSalve.description>
+  <BMT_CoolingSalve.label>охлаждающая мазь</BMT_CoolingSalve.label>
+  <BMT_GembugDefense.description>Существо свернулось в клубок для защиты.</BMT_GembugDefense.description>
+  <BMT_GembugDefense.label>сворачивание в клубок</BMT_GembugDefense.label>
+  <BMT_GiantSnailDefense.description>Существо втянулось в раковину для защиты.</BMT_GiantSnailDefense.description>
+  <BMT_GiantSnailDefense.label>втягивание в раковину</BMT_GiantSnailDefense.label>
+  <BMT_GlintHigh.description>Действие недавно принятого нефритового блеска. По телу разливается приятное ощущение.</BMT_GlintHigh.description>
+  <BMT_GlintHigh.label>под действием блеска</BMT_GlintHigh.label>
+  <BMT_GlintHigh.labelNoun>действие блеска</BMT_GlintHigh.labelNoun>
+  <BMT_GlitterHigh.description>Действие недавно принятого сияния. Организм полон сил, но сознание ощущается странно.</BMT_GlitterHigh.description>
+  <BMT_GlitterHigh.label>под действием сияния</BMT_GlitterHigh.label>
+  <BMT_GlitterHigh.labelNoun>действие сияния</BMT_GlitterHigh.labelNoun>
+  <BMT_HediffGleamcapSmoke.description>Действие дыма светошляпки.</BMT_HediffGleamcapSmoke.description>
+  <BMT_HediffGleamcapSmoke.label>дым светошляпки</BMT_HediffGleamcapSmoke.label>
+  <BMT_HediffGleamcapSmoke.stages.minor.label>лёгкое</BMT_HediffGleamcapSmoke.stages.minor.label>
+  <BMT_HediffGleamcapSmoke.stages.moderate.label>умеренное</BMT_HediffGleamcapSmoke.stages.moderate.label>
+  <BMT_HediffSkulltopSpores.description>Ядовитые споры гриба осели в лёгких. Длительное воздействие может привести к смерти.</BMT_HediffSkulltopSpores.description>
+  <BMT_HediffSkulltopSpores.label>споры черепогриба</BMT_HediffSkulltopSpores.label>
+  <BMT_HediffSkulltopSpores.stages.extreme.label>крайняя стадия</BMT_HediffSkulltopSpores.stages.extreme.label>
+  <BMT_HediffSkulltopSpores.stages.initial-0.label>начальное</BMT_HediffSkulltopSpores.stages.initial-0.label>
+  <BMT_HediffSkulltopSpores.stages.initial-1.label>начальное</BMT_HediffSkulltopSpores.stages.initial-1.label>
+  <BMT_HediffSkulltopSpores.stages.minor.label>лёгкое</BMT_HediffSkulltopSpores.stages.minor.label>
+  <BMT_HediffSkulltopSpores.stages.moderate.label>умеренное</BMT_HediffSkulltopSpores.stages.moderate.label>
+  <BMT_HediffSkulltopSpores.stages.serious.label>серьёзное</BMT_HediffSkulltopSpores.stages.serious.label>
+  <BMT_MetalloSnailDefense.description>Существо втянулось в раковину для защиты.</BMT_MetalloSnailDefense.description>
+  <BMT_MetalloSnailDefense.label>втягивание в раковину</BMT_MetalloSnailDefense.label>
+  <BMT_PillbugDefense.description>Существо свернулось в клубок для защиты.</BMT_PillbugDefense.description>
+  <BMT_PillbugDefense.label>сворачивание в клубок</BMT_PillbugDefense.label>
+  <BMT_PurpleLung.description>Микроскопические осколки кристаллов попали в лёгкие и начали расти, поглощая минералы из крови. Болезнь может оказаться смертельной, но при хорошем лечении от неё можно избавиться.</BMT_PurpleLung.description>
+  <BMT_PurpleLung.label>пурпурное лёгкое</BMT_PurpleLung.label>
+  <BMT_PurpleLung.stages.extreme.label>крайняя стадия</BMT_PurpleLung.stages.extreme.label>
+  <BMT_PurpleLung.stages.major.label>тяжёлая стадия</BMT_PurpleLung.stages.major.label>
+  <BMT_PurpleLung.stages.minor.label>лёгкое</BMT_PurpleLung.stages.minor.label>
+  <BMT_ShimmershellSnailDefense.description>Существо втянулось в раковину для защиты.</BMT_ShimmershellSnailDefense.description>
+  <BMT_ShimmershellSnailDefense.label>втягивание в раковину</BMT_ShimmershellSnailDefense.label>
+  <BMT_SporeFlesh.description>Особый мицелий проник в тело и питается за счёт организма, притупляя боль и замедляя кровотечение. Постепенно он меняет химию мозга, делая заражённого всё более агрессивным. Болезнь может оказаться смертельной, но при хорошем лечении от неё можно избавиться.</BMT_SporeFlesh.description>
+  <BMT_SporeFlesh.label>споровая инфекция тканей</BMT_SporeFlesh.label>
+  <BMT_SporeFlesh.stages.extreme.label>крайняя стадия</BMT_SporeFlesh.stages.extreme.label>
+  <BMT_SporeFlesh.stages.major.label>тяжёлая стадия</BMT_SporeFlesh.stages.major.label>
+  <BMT_SporeFlesh.stages.minor.label>лёгкое</BMT_SporeFlesh.stages.minor.label>
+  <BMT_SporesBuildup.description>В дыхательных путях скопились споры. Обычно это неопасно, но дальнейшее накопление может привести к смерти.</BMT_SporesBuildup.description>
+  <BMT_SporesBuildup.label>накопление спор</BMT_SporesBuildup.label>
+  <BMT_SporesBuildup.stages.extreme-0.label>крайняя стадия</BMT_SporesBuildup.stages.extreme-0.label>
+  <BMT_SporesBuildup.stages.extreme-1.label>крайняя стадия</BMT_SporesBuildup.stages.extreme-1.label>
+  <BMT_SporesBuildup.stages.extreme-2.label>крайняя стадия</BMT_SporesBuildup.stages.extreme-2.label>
+  <BMT_SporesBuildup.stages.initial-0.label>начальное</BMT_SporesBuildup.stages.initial-0.label>
+  <BMT_SporesBuildup.stages.initial-1.label>начальное</BMT_SporesBuildup.stages.initial-1.label>
+  <BMT_SporesBuildup.stages.minor.label>лёгкое</BMT_SporesBuildup.stages.minor.label>
+  <BMT_SporesBuildup.stages.moderate.label>умеренное</BMT_SporesBuildup.stages.moderate.label>
+  <BMT_SporesBuildup.stages.serious.label>серьёзное</BMT_SporesBuildup.stages.serious.label>
+  <BMT_StimquillHigh.description>Действие недавно принятого стимквилла. Одновременно бодрит и успокаивает.</BMT_StimquillHigh.description>
+  <BMT_StimquillHigh.label>под действием стимквилла</BMT_StimquillHigh.label>
+  <BMT_ThermophileMechanites.description>Полукогерентные механиты, образующие на коже небольшие металлические наросты. Они повышают устойчивость организма к экстремальным температурам, но причиняют сильную боль. Вероятно, это мутировавший штамм механитов, предназначенных для выживания в необычных условиях.</BMT_ThermophileMechanites.description>
+  <BMT_ThermophileMechanites.label>термофильные механиты</BMT_ThermophileMechanites.label>
+  <BMT_ThermophileMechanites.stages.intense_pain.label>сильная боль</BMT_ThermophileMechanites.stages.intense_pain.label>
+  <BMT_ThermophileMechanites.stages.mild_pain.label>слабая боль</BMT_ThermophileMechanites.stages.mild_pain.label>
+  <CoolingSalveAddiction.description>Химическая зависимость от охлаждающей мази. Из-за её длительного применения нервная система перестроилась на клеточном уровне, и теперь организм не может нормально работать без мази.
+
+Без регулярных доз начнётся синдром отмены. Однако при длительном воздержании организм вернётся к нормальному состоянию, и зависимость исчезнет.</CoolingSalveAddiction.description>
+  <CoolingSalveAddiction.label>зависимость от охлаждающей мази</CoolingSalveAddiction.label>
+  <CoolingSalveAddiction.stages.withdrawal.label>синдром отмены</CoolingSalveAddiction.stages.withdrawal.label>
+  <CoolingSalveTolerance.description>Организм привык к охлаждающей мази. Чем сильнее привыкание, тем больше мази требуется для прежнего эффекта.</CoolingSalveTolerance.description>
+  <CoolingSalveTolerance.label>привыкание к охлаждающей мази</CoolingSalveTolerance.label>
+  <CoolingSalveTolerance.stages.large.label>сильное</CoolingSalveTolerance.stages.large.label>
+  <CoolingSalveTolerance.stages.massive.label>крайнее</CoolingSalveTolerance.stages.massive.label>
+  <CoolingSalveTolerance.stages.small.label>небольшое</CoolingSalveTolerance.stages.small.label>
+  <GleamcapsuleHigh.description>Действие светокапсул: эффективное обезболивание без побочных эффектов сырого гриба.</GleamcapsuleHigh.description>
+  <GleamcapsuleHigh.label>под действием светокапсул</GleamcapsuleHigh.label>
+  <GleamcapsuleHigh.labelNoun>действие светокапсул</GleamcapsuleHigh.labelNoun>
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VREA_CreateAndroid.reportString>создаёт андроида. Станция: TargetA.</VREA_CreateAndroid.reportString>
+  <VREA_FreeMemorySpace.reportString>освобождает память.</VREA_FreeMemorySpace.reportString>
+  <VREA_ModifyAndroid.reportString>модифицирует андроида. Станция: TargetA.</VREA_ModifyAndroid.reportString>
+  <VREA_RefuelWithNeutroamine.reportString>заправляется. Ресурс: TargetA.</VREA_RefuelWithNeutroamine.reportString>
+  <VREA_RepairAndroid.reportString>ремонтирует TargetA.</VREA_RepairAndroid.reportString>
+  <VREA_ReplaceReactor.reportString>заменяет собственный реактор. Новый реактор: TargetA.</VREA_ReplaceReactor.reportString>
+</LanguageData>

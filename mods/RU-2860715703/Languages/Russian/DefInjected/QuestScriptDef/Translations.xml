@@ -1,0 +1,11 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <OpportunitySite_NestingSite.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;Неподалёку от [map_definite] динозавры устроили гнездовье! Они останутся там, пока не вылупятся детёныши. Можно оставить их в покое, поохотиться на них или прокрасться к гнёздам и украсть оплодотворённые яйца!</li>
+  </OpportunitySite_NestingSite.questDescriptionRules.rulesStrings>
+  <OpportunitySite_NestingSite.questNameRules.rulesStrings>
+    <li>questName-&gt;Гнездовье динозавров</li>
+  </OpportunitySite_NestingSite.questNameRules.rulesStrings>
+  <OpportunitySite_NestingSite.root.nodes.7.node.nodes.0.label.slateRef>Задание просрочено: [resolvedQuestName]</OpportunitySite_NestingSite.root.nodes.7.node.nodes.0.label.slateRef>
+  <OpportunitySite_NestingSite.root.nodes.7.node.nodes.0.text.slateRef>Динозавры покинули место гнездования. Срок выполнения задания «[resolvedQuestName]» истёк.</OpportunitySite_NestingSite.root.nodes.7.node.nodes.0.text.slateRef>
+</LanguageData>

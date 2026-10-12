@@ -1,0 +1,137 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BMT_FeatureNamer_CavernCommon.rulePack.rulesStrings>
+    <li>r_name(p=20)-&gt;[biome_terrain_word] «[place_name]»</li>
+    <li>r_name(p=10)-&gt;[terrain_word] «[place_name]»</li>
+    <li>r_name(p=2)-&gt;[biome_terrain_word] «[story_name]»</li>
+    <li>r_name-&gt;[terrain_word] «[story_name]»</li>
+    <li>place_name(p=8)-&gt;[PlaceOutlander]</li>
+    <li>place_name(p=6)-&gt;[WordTribal]</li>
+    <li>place_name(p=4)-&gt;[biome_item_word]</li>
+    <li>place_name-&gt;[item_word]</li>
+    <li>story_name(p=20)-&gt;[story_result] [story_subject]</li>
+    <li>story_name(p=10)-&gt;[biome_item_word] [story_subject]</li>
+    <li>story_name(p=3)-&gt;[item_word] [story_subject]</li>
+    <li>story_name(p=2)-&gt;[BodyPart] [story_subject]</li>
+    <li>story_name-&gt;[Gore] [story_subject]</li>
+    <li>story_subject(p=5)-&gt;человека по имени «[NamePerson]»</li>
+    <li>story_subject-&gt;народа «[WordTribal]»</li>
+    <li>story_subject-&gt;земли «[PlaceOutlander]»</li>
+    <li>item_word-&gt;моль-кровекапельница</li>
+    <li>item_word-&gt;кристальный краб</li>
+    <li>item_word-&gt;натёчный камень</li>
+    <li>item_word-&gt;улей</li>
+    <li>item_word-&gt;мегаскарабей</li>
+    <li>item_word-&gt;мегапаук</li>
+    <li>item_word-&gt;мицелий</li>
+    <li>item_word-&gt;мокрица</li>
+    <li>item_word-&gt;пещерная сороконожка</li>
+    <li>item_word-&gt;сталактит</li>
+    <li>item_word-&gt;сталагмит</li>
+    <li>story_result(p=7)-&gt;погибель</li>
+    <li>story_result-&gt;триумф</li>
+    <li>story_result-&gt;высокомерие</li>
+    <li>story_result-&gt;блеф</li>
+    <li>story_result-&gt;щедрость</li>
+    <li>story_result-&gt;катаклизм</li>
+    <li>story_result-&gt;крушение</li>
+    <li>story_result-&gt;самомнение</li>
+    <li>story_result-&gt;долг</li>
+    <li>story_result-&gt;обман</li>
+    <li>story_result-&gt;восторг</li>
+    <li>story_result-&gt;заблуждение</li>
+    <li>story_result-&gt;разрушение</li>
+    <li>story_result-&gt;падение</li>
+    <li>story_result-&gt;конец</li>
+    <li>story_result-&gt;мираж</li>
+    <li>story_result-&gt;вина</li>
+    <li>story_result-&gt;финал</li>
+    <li>story_result-&gt;глупость</li>
+    <li>story_result-&gt;мошенничество</li>
+    <li>story_result-&gt;честь</li>
+    <li>story_result-&gt;сокровище</li>
+    <li>story_result-&gt;драгоценность</li>
+    <li>story_result-&gt;радость</li>
+    <li>story_result-&gt;утрата</li>
+    <li>story_result-&gt;безумие</li>
+    <li>story_result-&gt;просчёт</li>
+    <li>story_result-&gt;ошибка</li>
+    <li>story_result-&gt;гордость</li>
+    <li>story_result-&gt;награда</li>
+    <li>story_result-&gt;последний приют</li>
+    <li>story_result-&gt;гибель</li>
+    <li>story_result-&gt;разорение</li>
+    <li>story_result-&gt;уловка</li>
+    <li>story_result-&gt;сопротивление</li>
+    <li>story_result-&gt;трофей</li>
+    <li>story_result-&gt;крах</li>
+    <li>story_result-&gt;порок</li>
+    <li>story_result-&gt;чудо</li>
+    <li>terrain_word-&gt;бездна</li>
+    <li>terrain_word-&gt;пещеры</li>
+    <li>terrain_word-&gt;гроты</li>
+    <li>terrain_word-&gt;пропасть</li>
+    <li>terrain_word-&gt;расщелина</li>
+    <li>terrain_word-&gt;тьма</li>
+    <li>terrain_word-&gt;глубины</li>
+    <li>terrain_word-&gt;чертоги</li>
+    <li>terrain_word-&gt;пустоты</li>
+    <li>terrain_word-&gt;лабиринт</li>
+    <li>terrain_word-&gt;сеть пещер</li>
+    <li>terrain_word-&gt;разлом</li>
+    <li>terrain_word-&gt;тоннели</li>
+    <li>terrain_word-&gt;подземный мир</li>
+    <li>terrain_word-&gt;пустота</li>
+  </BMT_FeatureNamer_CavernCommon.rulePack.rulesStrings>
+  <BMT_FeatureNamer_CrystalCaverns.rulePack.rulesStrings>
+    <li>biome_item_word(p=6)-&gt;кристалл</li>
+    <li>biome_item_word-&gt;кристалошляпка</li>
+    <li>biome_item_word-&gt;кристалопа</li>
+    <li>biome_item_word-&gt;кристальный жук</li>
+    <li>biome_item_word-&gt;кристальный богомол</li>
+    <li>biome_item_word-&gt;гранёная моль</li>
+    <li>biome_item_word-&gt;светослизень</li>
+    <li>biome_item_word-&gt;светоулитка</li>
+    <li>biome_item_word-&gt;жук-самоцвет</li>
+    <li>biome_terrain_word-&gt;друза</li>
+    <li>biome_terrain_word-&gt;ослепительный блеск</li>
+    <li>biome_terrain_word-&gt;жеода</li>
+    <li>biome_terrain_word-&gt;мерцание</li>
+    <li>biome_terrain_word-&gt;сияние</li>
+    <li>biome_terrain_word-&gt;переливы</li>
+    <li>biome_terrain_word-&gt;свечение</li>
+    <li>story_result(p=20)-&gt;пурпурное лёгкое</li>
+  </BMT_FeatureNamer_CrystalCaverns.rulePack.rulesStrings>
+  <BMT_FeatureNamer_EarthenDepths.rulePack.rulesStrings>
+    <li>biome_item_word(p=6)-&gt;магма</li>
+    <li>biome_item_word(p=6)-&gt;лава</li>
+    <li>biome_item_word-&gt;пепел</li>
+    <li>biome_item_word-&gt;василиск</li>
+    <li>biome_item_word-&gt;взрывная моль</li>
+    <li>biome_item_word-&gt;жук-плавильщик</li>
+    <li>biome_item_word-&gt;металлическая улитка</li>
+    <li>biome_terrain_word-&gt;кальдера</li>
+    <li>biome_terrain_word-&gt;тигель</li>
+    <li>biome_terrain_word-&gt;кузня</li>
+    <li>biome_terrain_word-&gt;горн</li>
+    <li>biome_terrain_word-&gt;ад</li>
+    <li>biome_terrain_word-&gt;пекло</li>
+    <li>biome_terrain_word-&gt;вулкан</li>
+  </BMT_FeatureNamer_EarthenDepths.rulePack.rulesStrings>
+  <BMT_FeatureNamer_FungalForest.rulePack.rulesStrings>
+    <li>biome_item_word(p=4)-&gt;гриб</li>
+    <li>biome_item_word(p=4)-&gt;грибок</li>
+    <li>biome_item_word(p=4)-&gt;мицелий</li>
+    <li>biome_item_word-&gt;аароксис дендория</li>
+    <li>biome_item_word-&gt;грибной хорёк</li>
+    <li>biome_item_word-&gt;грибной богомол</li>
+    <li>biome_item_word-&gt;максолотль</li>
+    <li>biome_item_word-&gt;моховой жук</li>
+    <li>biome_item_word-&gt;эхокролик</li>
+    <li>biome_item_word-&gt;юка</li>
+    <li>biome_terrain_word-&gt;грибной лес</li>
+    <li>biome_terrain_word-&gt;грибные джунгли</li>
+    <li>biome_terrain_word-&gt;плесень</li>
+    <li>biome_terrain_word-&gt;подлесок</li>
+  </BMT_FeatureNamer_FungalForest.rulePack.rulesStrings>
+</LanguageData>

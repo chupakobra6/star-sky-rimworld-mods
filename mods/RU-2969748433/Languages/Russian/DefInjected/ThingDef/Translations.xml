@@ -1,0 +1,968 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BMT_AaroxisDendoria.description>Эта моль специально приспособлена к жизни под землёй. Её изменили так, чтобы она вырабатывала шёлк даже во взрослом возрасте, пожертвовав крыльями.</BMT_AaroxisDendoria.description>
+  <BMT_AaroxisDendoria.label>аароксис дендория</BMT_AaroxisDendoria.label>
+  <BMT_AaroxisDendoria.tools.head.label>голова</BMT_AaroxisDendoria.tools.head.label>
+  <BMT_AaroxisDendoria.tools.mandibles.label>жвалы</BMT_AaroxisDendoria.tools.mandibles.label>
+  <BMT_AaroxisDendoriaLarvae.description>Необычная личинка моли со спиральным рисунком тела вместо привычных сегментов. Считается, что это генетическая аномалия, возникшая при её искусственном создании. Вырабатываемый ею багряный шёлк отличается роскошной мягкостью.</BMT_AaroxisDendoriaLarvae.description>
+  <BMT_AaroxisDendoriaLarvae.label>киноварная гусеница</BMT_AaroxisDendoriaLarvae.label>
+  <BMT_AaroxisDendoriaLarvae.tools.head.label>голова</BMT_AaroxisDendoriaLarvae.tools.head.label>
+  <BMT_AaroxisDendoriaLarvae.tools.mandibles.label>жвалы</BMT_AaroxisDendoriaLarvae.tools.mandibles.label>
+  <BMT_AaroxisDendoriaPupa.description>Даже во время превращения в куколке различимо красное брюшко. На этой стадии насекомое почти неподвижно.</BMT_AaroxisDendoriaPupa.description>
+  <BMT_AaroxisDendoriaPupa.label>куколка аароксис дендории</BMT_AaroxisDendoriaPupa.label>
+  <BMT_AaroxisDendoriaPupa.tools.Twitching.label>подёргивается</BMT_AaroxisDendoriaPupa.tools.Twitching.label>
+  <BMT_AbyssalGrapes.description>Сырой глубинный виноград. Приятен на вкус даже без готовки.</BMT_AbyssalGrapes.description>
+  <BMT_AbyssalGrapes.label>глубинный виноград</BMT_AbyssalGrapes.label>
+  <BMT_AbyssalGrapesVine.description>Несмотря на название, это не настоящий виноград. Его создали как идеальную пищу для путешественников и горнодобывающих экспедиций. Плоды размером почти с дыню долго хранятся и практически не гниют после сбора.</BMT_AbyssalGrapesVine.description>
+  <BMT_AbyssalGrapesVine.label>глубинный виноград</BMT_AbyssalGrapesVine.label>
+  <BMT_AcidSlug.description>Кислотный слизень, изначально созданный для боя, — один из самых опасных хищников подземных глубин. Его слизь и плоть содержат сильную кислоту. Внутри его студенистого тела добыча растворяется до самых костей.</BMT_AcidSlug.description>
+  <BMT_AcidSlug.label>кислотный слизень</BMT_AcidSlug.label>
+  <BMT_AcidSlug.tools.head.label>голова</BMT_AcidSlug.tools.head.label>
+  <BMT_AdvancedFungiponicsBasin.description>Искусственная питательная ванна для выращивания грибов. Насосы должны работать непрерывно: без электричества посадки погибнут.</BMT_AdvancedFungiponicsBasin.description>
+  <BMT_AdvancedFungiponicsBasin.label>улучшенная грибная грядка</BMT_AdvancedFungiponicsBasin.label>
+  <BMT_AmbrosyxFungus.description>Редкая дикая грибница, на которой растёт амброзик. Как и амброзия, он очень вкусен и вызывает наркотическую эйфорию. Его нельзя выращивать, поэтому он особенно ценен.</BMT_AmbrosyxFungus.description>
+  <BMT_AmbrosyxFungus.label>грибница амброзика</BMT_AmbrosyxFungus.label>
+  <BMT_AmbrosyxShroom.description>Мягкий редкий гриб. Амброзик восхитителен на вкус и вызывает лёгкую эйфорию, повышающую настроение. Однако частое употребление может привести к слабой зависимости.</BMT_AmbrosyxShroom.description>
+  <BMT_AmbrosyxShroom.label>амброзик</BMT_AmbrosyxShroom.label>
+  <BMT_Apparel_ChitinBeetleHelmet.description>Хитиновый шлем с умеренной защитой, напоминающий жука-носорога.</BMT_Apparel_ChitinBeetleHelmet.description>
+  <BMT_Apparel_ChitinBeetleHelmet.label>хитиновый жучиный шлем</BMT_Apparel_ChitinBeetleHelmet.label>
+  <BMT_Apparel_ChitinHeavyArmor.description>Броня из перекрывающихся хитиновых пластин. Полностью закрывает тело от шеи до ступней.</BMT_Apparel_ChitinHeavyArmor.description>
+  <BMT_Apparel_ChitinHeavyArmor.label>тяжёлая хитиновая броня</BMT_Apparel_ChitinHeavyArmor.label>
+  <BMT_Apparel_ChitinLightArmor.description>Броня из перекрывающихся хитиновых пластин. Закрывает только плечи и ноги.</BMT_Apparel_ChitinLightArmor.description>
+  <BMT_Apparel_ChitinLightArmor.label>лёгкая хитиновая броня</BMT_Apparel_ChitinLightArmor.label>
+  <BMT_Apparel_ChitinMediumArmor.description>Броня из перекрывающихся хитиновых пластин. Закрывает тело от шеи до ступней, кроме плеч.</BMT_Apparel_ChitinMediumArmor.description>
+  <BMT_Apparel_ChitinMediumArmor.label>средняя хитиновая броня</BMT_Apparel_ChitinMediumArmor.label>
+  <BMT_Apparel_ChitinSpiderHelmet.description>Хитиновый шлем с умеренной защитой, напоминающий пещерного паука.</BMT_Apparel_ChitinSpiderHelmet.description>
+  <BMT_Apparel_ChitinSpiderHelmet.label>хитиновый паучий шлем</BMT_Apparel_ChitinSpiderHelmet.label>
+  <BMT_Arpeau.description>Быстрорастущий водный гриб, дающий мало полезного материала.</BMT_Arpeau.description>
+  <BMT_Arpeau.label>арпо</BMT_Arpeau.label>
+  <BMT_BalefulBolete.description>Крупный гриб с синей шляпкой, вырастающий примерно до размеров куста. Его часто выращивают для украшения.</BMT_BalefulBolete.description>
+  <BMT_BalefulBolete.label>зловещий болет</BMT_BalefulBolete.label>
+  <BMT_Basilisk.description>Шестиногий василиск завораживает добычу, стоит ей заглянуть ему в глаза. Создатели назвали его в честь мифического тёзки и наделили схожими свойствами.</BMT_Basilisk.description>
+  <BMT_Basilisk.label>василиск</BMT_Basilisk.label>
+  <BMT_Basilisk.tools.head.label>голова</BMT_Basilisk.tools.head.label>
+  <BMT_Basilisk.tools.left_claw.label>левый коготь</BMT_Basilisk.tools.left_claw.label>
+  <BMT_Basilisk.tools.right_claw.label>правый коготь</BMT_Basilisk.tools.right_claw.label>
+  <BMT_BatWool.description>Шерсть летучей мыши. Хорошо сохраняет тепло.</BMT_BatWool.description>
+  <BMT_BatWool.label>шерсть летучей мыши</BMT_BatWool.label>
+  <BMT_Batbird.description>Искусственно созданный гибрид млекопитающего и птицы. Мышептицы живут в неглубоких пещерах под песками пустынь, охотятся на мелкую добычу и рождают живых детёнышей.</BMT_Batbird.description>
+  <BMT_Batbird.label>мышептица</BMT_Batbird.label>
+  <BMT_Batbird.tools.claws-0.label>когти</BMT_Batbird.tools.claws-0.label>
+  <BMT_Batbird.tools.claws-1.label>когти</BMT_Batbird.tools.claws-1.label>
+  <BMT_Batbird.tools.head.label>голова</BMT_Batbird.tools.head.label>
+  <BMT_BeardedYak.description>Крупный представитель семейства яков, отлично приспособленный к суровому холоду. К сожалению для тех, кто надеялся получить его мех, стричь его нельзя.</BMT_BeardedYak.description>
+  <BMT_BeardedYak.label>бородатый як</BMT_BeardedYak.label>
+  <BMT_BeardedYak.tools.head.label>голова</BMT_BeardedYak.tools.head.label>
+  <BMT_BeardedYak.tools.left_hoof.label>левое копыто</BMT_BeardedYak.tools.left_hoof.label>
+  <BMT_BeardedYak.tools.right_hoof.label>правое копыто</BMT_BeardedYak.tools.right_hoof.label>
+  <BMT_BiolumiAlgaeCarnelian.description>Биолюминесцентные водоросли, растущие в подземных водоёмах.</BMT_BiolumiAlgaeCarnelian.description>
+  <BMT_BiolumiAlgaeCarnelian.label>светящиеся водоросли</BMT_BiolumiAlgaeCarnelian.label>
+  <BMT_BiolumiAlgaeChrysoberyl.description>Биолюминесцентные водоросли, растущие в подземных водоёмах.</BMT_BiolumiAlgaeChrysoberyl.description>
+  <BMT_BiolumiAlgaeChrysoberyl.label>светящиеся водоросли</BMT_BiolumiAlgaeChrysoberyl.label>
+  <BMT_BiolumiAlgaeCitrine.description>Биолюминесцентные водоросли, растущие в подземных водоёмах.</BMT_BiolumiAlgaeCitrine.description>
+  <BMT_BiolumiAlgaeCitrine.label>светящиеся водоросли</BMT_BiolumiAlgaeCitrine.label>
+  <BMT_BiolumiAlgaeKunzite.description>Биолюминесцентные водоросли, растущие в подземных водоёмах.</BMT_BiolumiAlgaeKunzite.description>
+  <BMT_BiolumiAlgaeKunzite.label>светящиеся водоросли</BMT_BiolumiAlgaeKunzite.label>
+  <BMT_BiolumiAlgaeTanzanite.description>Биолюминесцентные водоросли, растущие в подземных водоёмах.</BMT_BiolumiAlgaeTanzanite.description>
+  <BMT_BiolumiAlgaeTanzanite.label>светящиеся водоросли</BMT_BiolumiAlgaeTanzanite.label>
+  <BMT_BiolumiAlgaeTurquoise.description>Биолюминесцентные водоросли, растущие в подземных водоёмах.</BMT_BiolumiAlgaeTurquoise.description>
+  <BMT_BiolumiAlgaeTurquoise.label>светящиеся водоросли</BMT_BiolumiAlgaeTurquoise.label>
+  <BMT_BlackLily.description>Крупный цветок, приспособленный к жизни почти без света. Часто растёт рядом со светящимися грибами.</BMT_BlackLily.description>
+  <BMT_BlackLily.label>чёрная лилия</BMT_BlackLily.label>
+  <BMT_BlastSpore.description>Споровый мешок взрывосумочника. Хорошее топливо для костров и генераторов; может быть переработан в химическое топливо.</BMT_BlastSpore.description>
+  <BMT_BlastSpore.label>взрывной споровый мешок</BMT_BlastSpore.label>
+  <BMT_BlastSpore.verbs.throw_spore_sac.label>бросок спорового мешка</BMT_BlastSpore.verbs.throw_spore_sac.label>
+  <BMT_Blastpod.description>Гриб, который жители пещер выращивают ради взрывоопасных мешочков. Их можно переработать в химическое топливо.</BMT_Blastpod.description>
+  <BMT_Blastpod.label>взрывосумочник</BMT_Blastpod.label>
+  <BMT_BleedingTooth.description>Огромный гриб, выделяющий красную жидкость, похожую на кровь.</BMT_BleedingTooth.description>
+  <BMT_BleedingTooth.label>кровоточащий зуб</BMT_BleedingTooth.label>
+  <BMT_BloodropLarvae.description>Личинка моли-кровекапельницы. Для роста ей нужна кровь крупных животных. Даже небольшая группа таких личинок способна за несколько минут обескровить слона насмерть.</BMT_BloodropLarvae.description>
+  <BMT_BloodropLarvae.label>личинка моли-кровекапельницы</BMT_BloodropLarvae.label>
+  <BMT_BloodropLarvae.tools.head.label>голова</BMT_BloodropLarvae.tools.head.label>
+  <BMT_BloodropLarvae.tools.mandibles.label>жвалы</BMT_BloodropLarvae.tools.mandibles.label>
+  <BMT_BloodropMoth.description>Взрослая особь этого вида. Почти бесшумно летает по пещерам в поисках добычи, из которой высасывает кровь острым, как бритва, хоботком. Подобно летучим мышам, живёт большими группами.\n\nДаже небольшая группа может за считаные минуты обескровить крупное животное до смерти.</BMT_BloodropMoth.description>
+  <BMT_BloodropMoth.label>моль-кровекапельница</BMT_BloodropMoth.label>
+  <BMT_BloodropMoth.tools.head.label>голова</BMT_BloodropMoth.tools.head.label>
+  <BMT_BloodropMoth.tools.proboscis.label>хоботок</BMT_BloodropMoth.tools.proboscis.label>
+  <BMT_BloodropPupa.description>Куколка моли-кровекапельницы. Живёт за счёт питательных веществ, полученных из крови на личиночной стадии; они же придают ей тёмно-красный цвет. На этом этапе она весьма уязвима, но не совсем беззащитна: её оболочка довольно прочна.</BMT_BloodropPupa.description>
+  <BMT_BloodropPupa.label>куколка моли-кровекапельницы</BMT_BloodropPupa.label>
+  <BMT_BloodropPupa.tools.Twitching.label>подёргивается</BMT_BloodropPupa.tools.Twitching.label>
+  <BMT_BloomingCactus.description>Низкорослый, но красивый кактус, приспособившийся к жизни в пещерах под пустынями.</BMT_BloomingCactus.description>
+  <BMT_BloomingCactus.label>цветущий кактус</BMT_BloomingCactus.label>
+  <BMT_BovineBeetle.description>Крупный жук родом из пещерных миров. Его часто разводят на фермах ради похожего на молоко вещества и хитиновых пластинок.</BMT_BovineBeetle.description>
+  <BMT_BovineBeetle.label>бычий жук</BMT_BovineBeetle.label>
+  <BMT_BovineBeetle.tools.head.label>голова</BMT_BovineBeetle.tools.head.label>
+  <BMT_BovineBeetle.tools.mandibles.label>жвалы</BMT_BovineBeetle.tools.mandibles.label>
+  <BMT_BovineBeetleLarvae.description>Крупная личинка родом из пещерных миров. Взрослых бычьих жуков часто разводят на фермах ради вещества, похожего на молоко.</BMT_BovineBeetleLarvae.description>
+  <BMT_BovineBeetleLarvae.label>личинка бычьего жука</BMT_BovineBeetleLarvae.label>
+  <BMT_BovineBeetleLarvae.tools.head.label>голова</BMT_BovineBeetleLarvae.tools.head.label>
+  <BMT_BovineBeetleLarvae.tools.mandibles.label>жвалы</BMT_BovineBeetleLarvae.tools.mandibles.label>
+  <BMT_BovineBeetlePupa.description>Крупное насекомое родом из пещерных миров, обычное для тёмных и влажных мест. Бычьих жуков часто разводят на фермах ради похожего на молоко вещества, которое можно сдаивать.</BMT_BovineBeetlePupa.description>
+  <BMT_BovineBeetlePupa.label>куколка бычьего жука</BMT_BovineBeetlePupa.label>
+  <BMT_BovineBeetlePupa.tools.Twitching.label>подёргивается</BMT_BovineBeetlePupa.tools.Twitching.label>
+  <BMT_BrightWispcap.description>Невысокий ярко светящийся гриб. Его создали на заре освоения пещерных миров как постоянный источник естественного света.</BMT_BrightWispcap.description>
+  <BMT_BrightWispcap.label>светлый огнешляпник</BMT_BrightWispcap.label>
+  <BMT_BrightWisptoll.description>Ярко светящийся гриб. Его создали на заре освоения пещерных миров как постоянный источник естественного света.</BMT_BrightWisptoll.description>
+  <BMT_BrightWisptoll.label>светлый огнестолб</BMT_BrightWisptoll.label>
+  <BMT_Brightbell.description>Маленький красивый гриб, светящийся в темноте.</BMT_Brightbell.description>
+  <BMT_Brightbell.label>сияющий колокольчик</BMT_Brightbell.label>
+  <BMT_Brightbells.description>Изящный гриб, который шахтёры ценят за свет маленьких луковиц на концах хрупких веточек. Жители пещерных миров часто используют его для естественного освещения. Волокнистая мякоть несъедобна.</BMT_Brightbells.description>
+  <BMT_Brightbells.label>светоколокольчики</BMT_Brightbells.label>
+  <BMT_BrightbellsPlanted.description>Изящный гриб, который шахтёры ценят за свет маленьких луковиц на концах хрупких веточек. Жители пещерных миров часто используют его для естественного освещения. Волокнистая мякоть несъедобна. Выращивается только на грибных грядках.</BMT_BrightbellsPlanted.description>
+  <BMT_BrightbellsPlanted.label>светоколокольчики</BMT_BrightbellsPlanted.label>
+  <BMT_BrownBat.description>Крылатое млекопитающее, порхающее в темноте. С помощью эхолокации находит добычу — обычно мелких насекомых или млекопитающих.</BMT_BrownBat.description>
+  <BMT_BrownBat.label>бурая летучая мышь</BMT_BrownBat.label>
+  <BMT_BrownBat.tools.claws-0.label>когти</BMT_BrownBat.tools.claws-0.label>
+  <BMT_BrownBat.tools.claws-1.label>когти</BMT_BrownBat.tools.claws-1.label>
+  <BMT_BrownBat.tools.head.label>голова</BMT_BrownBat.tools.head.label>
+  <BMT_BuiltCrystalWall.description>Красивая стена, построенная из кристалла.</BMT_BuiltCrystalWall.description>
+  <BMT_BuiltCrystalWall.label>кристальная стена</BMT_BuiltCrystalWall.label>
+  <BMT_BuiltSmoothedCrystalWall.description>Кристальная стена, отполированная до блеска. Получается только при сглаживании природных или построенных кристальных стен. Очень красива.</BMT_BuiltSmoothedCrystalWall.description>
+  <BMT_BuiltSmoothedCrystalWall.label>сглаженная кристальная стена</BMT_BuiltSmoothedCrystalWall.label>
+  <BMT_BurnedMushroom.description>Обгоревший грибной пень. Некрасив и даёт очень мало пригодных брёвен.</BMT_BurnedMushroom.description>
+  <BMT_BurnedMushroom.label>обгоревший гриб</BMT_BurnedMushroom.label>
+  <BMT_CactusCrab.description>Небольшой родственник кристального краба, приспособленный к пустынным условиям под землёй. Кактусы на его панцире служат для маскировки и защиты. Едва появившись на свет, он находит камень и обживает его как раковину.</BMT_CactusCrab.description>
+  <BMT_CactusCrab.label>кактусовый краб</BMT_CactusCrab.label>
+  <BMT_CactusCrab.tools.claw.label>клешня</BMT_CactusCrab.tools.claw.label>
+  <BMT_CactusCrab.tools.head.label>голова</BMT_CactusCrab.tools.head.label>
+  <BMT_CactusJuice.description>Сочная мякоть подземного кактуса. На удивление вкусная и питательная.</BMT_CactusJuice.description>
+  <BMT_CactusJuice.label>сок кактуса</BMT_CactusJuice.label>
+  <BMT_Candlesnuff.description>Пепельно-бледный древовидный гриб. Растёт медленно, зато выдерживает сильный жар близкой магмы.</BMT_Candlesnuff.description>
+  <BMT_Candlesnuff.label>свечной огарок</BMT_Candlesnuff.label>
+  <BMT_CapscoolFungus.description>Необычный гриб, растущий в сильной подземной жаре. Из него получают вязкую мазь, защищающую от высоких температур.</BMT_CapscoolFungus.description>
+  <BMT_CapscoolFungus.label>хладошляпка</BMT_CapscoolFungus.label>
+  <BMT_CarveShroom.description>Крупный гриб, приспособленный к полной темноте и отлично растущий на морозе.</BMT_CarveShroom.description>
+  <BMT_CarveShroom.label>резной гриб</BMT_CarveShroom.label>
+  <BMT_CaveCricket.description>Жители пещер часто считают этих мясистых сверчков вредителями, но некоторые одомашнили их: еда получается отвратительная на вид, зато сытная. Сверчки быстро растут и за считанные дни откладывают множество яиц.</BMT_CaveCricket.description>
+  <BMT_CaveCricket.label>пещерный сверчок</BMT_CaveCricket.label>
+  <BMT_CaveCricket.tools.head.label>голова</BMT_CaveCricket.tools.head.label>
+  <BMT_CaveCricket.tools.mandibles.label>жвалы</BMT_CaveCricket.tools.mandibles.label>
+  <BMT_CaveLemming.description>Крупное травоядное, живущее поодиночке. От опасности спасается быстрыми прыжками.</BMT_CaveLemming.description>
+  <BMT_CaveLemming.label>пещерный лемминг</BMT_CaveLemming.label>
+  <BMT_CaveLemming.tools.head.label>голова</BMT_CaveLemming.tools.head.label>
+  <BMT_CaveSpider.description>Огромные и устрашающие пауки — одни из самых опасных хищников подземного мира. Они умны и яростно защищают свою территорию. Часто занимают оживлённые туннели, где легко найти добычу, в том числе человекоподобную. Мощным укусом впрыскивают в жертву сильный яд.</BMT_CaveSpider.description>
+  <BMT_CaveSpider.label>пещерный паук</BMT_CaveSpider.label>
+  <BMT_CaveSpider.tools.head.label>голова</BMT_CaveSpider.tools.head.label>
+  <BMT_CaveSpider.tools.legs-0.label>ноги</BMT_CaveSpider.tools.legs-0.label>
+  <BMT_CaveSpider.tools.legs-1.label>ноги</BMT_CaveSpider.tools.legs-1.label>
+  <BMT_CaveSpider.tools.venomfangs.label>ядовитые клыки</BMT_CaveSpider.tools.venomfangs.label>
+  <BMT_CaveSpiderHead.description>Голова гигантского пещерного паука. На большинстве рынков ей нет цены. Настоящий трофей, необходимый для изготовления особых предметов. Может служить и весьма странным оружием.</BMT_CaveSpiderHead.description>
+  <BMT_CaveSpiderHead.label>голова пещерного паука</BMT_CaveSpiderHead.label>
+  <BMT_CaveSpiderHead.tools.base.label>основание</BMT_CaveSpiderHead.tools.base.label>
+  <BMT_CaveSpiderHead.tools.venomfangs.label>ядовитые клыки</BMT_CaveSpiderHead.tools.venomfangs.label>
+  <BMT_CavernMycelium.description>Широко распространившийся мицелий множества видов грибов, освоивших пещеры окраинных миров. В дикой природе им часто питаются травоядные.</BMT_CavernMycelium.description>
+  <BMT_CavernMycelium.label>мицелий</BMT_CavernMycelium.label>
+  <BMT_ChemSnail.description>Подобно наземной бумалопе, эта искусственно созданная улитка вырабатывает в раковине летучие химические вещества. Даже самые могучие пещерные хищники научились её избегать: при гибели химулитка взрывается. Её слизь можно осторожно собирать для получения химического топлива.</BMT_ChemSnail.description>
+  <BMT_ChemSnail.label>химулитка</BMT_ChemSnail.label>
+  <BMT_ChemSnail.tools.head.label>голова</BMT_ChemSnail.tools.head.label>
+  <BMT_Chromacap.description>Искусственно созданная грибная культура, похожая на тинкторию. Выделяет изменчивый краситель, которому можно придать нужный оттенок, чтобы перекрасить стены, постройки и другие предметы.</BMT_Chromacap.description>
+  <BMT_Chromacap.label>цветошляпка</BMT_Chromacap.label>
+  <BMT_Chubshroom.description>Приземистый гриб, который остаётся удивительно мягким, несмотря на морозы родного биома.</BMT_Chubshroom.description>
+  <BMT_Chubshroom.label>гриб-толстячок</BMT_Chubshroom.label>
+  <BMT_ChunkCrystal.description>Обломок кристалла. Его можно разделать на пригодные для использования куски.</BMT_ChunkCrystal.description>
+  <BMT_ChunkCrystal.label>обломок кристалла</BMT_ChunkCrystal.label>
+  <BMT_CoolingSalve.description>Упаковка охлаждающей мази, собранной с необычного гриба. Значительно повышает переносимость жары.</BMT_CoolingSalve.description>
+  <BMT_CoolingSalve.ingestible.ingestCommandString>Принять {0}</BMT_CoolingSalve.ingestible.ingestCommandString>
+  <BMT_CoolingSalve.ingestible.ingestReportString>Принимает {0}.</BMT_CoolingSalve.ingestible.ingestReportString>
+  <BMT_CoolingSalve.label>охлаждающая мазь</BMT_CoolingSalve.label>
+  <BMT_CoralClub.description>Гриб, по форме напоминающий некоторые кораллы.</BMT_CoralClub.description>
+  <BMT_CoralClub.label>коралловая булава</BMT_CoralClub.label>
+  <BMT_CrestedDragon.description>У этой ящерицы есть гребень, как у доисторического паразауролофа. Он служит главным образом для демонстрации, но ещё помогает издавать милый писк.</BMT_CrestedDragon.description>
+  <BMT_CrestedDragon.label>гребенчатый дракон</BMT_CrestedDragon.label>
+  <BMT_CrestedDragon.tools.head.label>голова</BMT_CrestedDragon.tools.head.label>
+  <BMT_CrestedDragon.tools.left_claw.label>левый коготь</BMT_CrestedDragon.tools.left_claw.label>
+  <BMT_CrestedDragon.tools.right_claw.label>правый коготь</BMT_CrestedDragon.tools.right_claw.label>
+  <BMT_CrimsonCap.description>Крупный гриб с багряной шляпкой. Достаточно красив для украшения, но почти ни на что больше не годится.</BMT_CrimsonCap.description>
+  <BMT_CrimsonCap.label>багряная шляпка</BMT_CrimsonCap.label>
+  <BMT_CrimsonSilk.description>Кроваво-красный шёлк, который вырабатывает один из видов подземной моли. Отличается роскошной мягкостью.</BMT_CrimsonSilk.description>
+  <BMT_CrimsonSilk.label>багряный шёлк</BMT_CrimsonSilk.label>
+  <BMT_CrystalBeetle.description>Небольшой проворный жук, приспособленный к жизни в пещерах, богатых кристаллами. Выделяет изо рта липкую слизь и приклеивает к панцирю осколки кристаллов для защиты и маскировки.</BMT_CrystalBeetle.description>
+  <BMT_CrystalBeetle.label>кристальноспинный жук</BMT_CrystalBeetle.label>
+  <BMT_CrystalBeetle.tools.head.label>голова</BMT_CrystalBeetle.tools.head.label>
+  <BMT_CrystalBeetle.tools.mandibles.label>жвалы</BMT_CrystalBeetle.tools.mandibles.label>
+  <BMT_CrystalBeetleLarvae.description>Маленькая, пухлая и довольно медлительная личинка прячется от хищников среди кристаллов. Её основная защита — плевок липкой жижей в глаза нападающему.</BMT_CrystalBeetleLarvae.description>
+  <BMT_CrystalBeetleLarvae.label>личинка кристальноспинного жука</BMT_CrystalBeetleLarvae.label>
+  <BMT_CrystalBeetleLarvae.tools.head.label>голова</BMT_CrystalBeetleLarvae.tools.head.label>
+  <BMT_CrystalBeetleLarvae.tools.mandibles.label>жвалы</BMT_CrystalBeetleLarvae.tools.mandibles.label>
+  <BMT_CrystalBeetlePupa.description>Куколка кристальноспинного жука. При превращении большая часть её тела разжижается.</BMT_CrystalBeetlePupa.description>
+  <BMT_CrystalBeetlePupa.label>куколка кристальноспинного жука</BMT_CrystalBeetlePupa.label>
+  <BMT_CrystalBeetlePupa.tools.Twitching.label>подёргивается</BMT_CrystalBeetlePupa.tools.Twitching.label>
+  <BMT_CrystalCrab.description>Крупный и сильный родственник краба-декоратора. Из минералов его каменистой раковины вырастают пещерные кристаллы. Несмотря на прочный экзоскелет, кристальный краб постоянно таскает эту тяжёлую ношу по неизвестной причине. Случаев размножения в неволе не известно.</BMT_CrystalCrab.description>
+  <BMT_CrystalCrab.label>кристальный краб</BMT_CrystalCrab.label>
+  <BMT_CrystalCrab.race.meatLabel>мясо пещерного краба</BMT_CrystalCrab.race.meatLabel>
+  <BMT_CrystalCrab.tools.claw.label>клешня</BMT_CrystalCrab.tools.claw.label>
+  <BMT_CrystalCrab.tools.head.label>голова</BMT_CrystalCrab.tools.head.label>
+  <BMT_CrystalFairyMole.description>Спину этого крота покрывают кристальные пластины, защищающие его от хищников и охотников.</BMT_CrystalFairyMole.description>
+  <BMT_CrystalFairyMole.label>кристальный карликовый крот</BMT_CrystalFairyMole.label>
+  <BMT_CrystalFairyMole.tools.head.label>голова</BMT_CrystalFairyMole.tools.head.label>
+  <BMT_CrystalFairyMole.tools.left_claw.label>левый коготь</BMT_CrystalFairyMole.tools.left_claw.label>
+  <BMT_CrystalFairyMole.tools.right_claw.label>правый коготь</BMT_CrystalFairyMole.tools.right_claw.label>
+  <BMT_CrystalIncubator.description>Медленно выращивает кристаллы посредством сложной цепочки химических реакций, используя атомы из воздуха. Крайне нестабилен и при сильном повреждении, скорее всего, взорвётся.</BMT_CrystalIncubator.description>
+  <BMT_CrystalIncubator.label>инкубатор кристаллов</BMT_CrystalIncubator.label>
+  <BMT_CrystalLamp.description>Особым образом обработанная лампа, освещающая большую площадь.</BMT_CrystalLamp.description>
+  <BMT_CrystalLamp.label>кристальная лампа</BMT_CrystalLamp.label>
+  <BMT_CrystalMantis.description>Обитатель кристальных пещер размером почти с человека. Во время охоты маскируется благодаря панцирю, похожему на кристалл.</BMT_CrystalMantis.description>
+  <BMT_CrystalMantis.label>кристальный богомол-мимик</BMT_CrystalMantis.label>
+  <BMT_CrystalMantis.tools.head.label>голова</BMT_CrystalMantis.tools.head.label>
+  <BMT_CrystalMantis.tools.left_scythe.label>левая коса</BMT_CrystalMantis.tools.left_scythe.label>
+  <BMT_CrystalMantis.tools.mandibles.label>жвалы</BMT_CrystalMantis.tools.mandibles.label>
+  <BMT_CrystalMantis.tools.right_scythe.label>правая коса</BMT_CrystalMantis.tools.right_scythe.label>
+  <BMT_CrystalMantisClaw.description>Коготь кристального богомола-мимика. На большинстве рынков ему нет цены. Ценный трофей, необходимый для изготовления особого оружия.</BMT_CrystalMantisClaw.description>
+  <BMT_CrystalMantisClaw.label>коготь кристального богомола-мимика</BMT_CrystalMantisClaw.label>
+  <BMT_CrystalMantisClaw.tools.base.label>основание</BMT_CrystalMantisClaw.tools.base.label>
+  <BMT_CrystalMantisClaw.tools.point.label>остриё</BMT_CrystalMantisClaw.tools.point.label>
+  <BMT_CrystalMantisScythe.description>Хитиновое оружие из когтей гигантского богомола. Отлично оглушает врагов и рассекает их тела.</BMT_CrystalMantisScythe.description>
+  <BMT_CrystalMantisScythe.label>коса кристального богомола</BMT_CrystalMantisScythe.label>
+  <BMT_CrystalMantisScythe.tools.edge.label>лезвие</BMT_CrystalMantisScythe.tools.edge.label>
+  <BMT_CrystalMantisScythe.tools.handle.label>рукоять</BMT_CrystalMantisScythe.tools.handle.label>
+  <BMT_CrystalPoweredGenerator.description>Вырабатывает электричество, расходуя кристаллы. Кристальное топливо необходимо периодически загружать вручную.</BMT_CrystalPoweredGenerator.description>
+  <BMT_CrystalPoweredGenerator.label>кристальный генератор</BMT_CrystalPoweredGenerator.label>
+  <BMT_CrystalTorch.description>Особым образом обработанный факел, освещающий большую площадь.</BMT_CrystalTorch.description>
+  <BMT_CrystalTorch.label>кристальный факел</BMT_CrystalTorch.label>
+  <BMT_Crystal_BlueHuge.description>Синий кристалл из глубин кристальной пещеры. Он настолько велик, что от него может отколоться кристалл поменьше. На удивление нестабилен.</BMT_Crystal_BlueHuge.description>
+  <BMT_Crystal_BlueHuge.label>огромный синий кристалл</BMT_Crystal_BlueHuge.label>
+  <BMT_Crystal_BlueLarge.description>Синий кристалл из глубин кристальной пещеры. На удивление нестабилен.</BMT_Crystal_BlueLarge.description>
+  <BMT_Crystal_BlueLarge.label>большой синий кристалл</BMT_Crystal_BlueLarge.label>
+  <BMT_Crystal_BlueMedium.description>Синий кристалл из глубин кристальной пещеры. На удивление нестабилен.</BMT_Crystal_BlueMedium.description>
+  <BMT_Crystal_BlueMedium.label>средний синий кристалл</BMT_Crystal_BlueMedium.label>
+  <BMT_Crystal_BlueSmall.description>Синий кристалл из глубин кристальной пещеры. На удивление нестабилен.</BMT_Crystal_BlueSmall.description>
+  <BMT_Crystal_BlueSmall.label>маленький синий кристалл</BMT_Crystal_BlueSmall.label>
+  <BMT_Crystal_BlueSowable.description>В отличие от нестабильных собратьев, этот кристалл быстро растёт и не взрывается при повреждении. Однако ему нужна плодородная почва.</BMT_Crystal_BlueSowable.description>
+  <BMT_Crystal_BlueSowable.label>быстрорастущий кристалл</BMT_Crystal_BlueSowable.label>
+  <BMT_Crystalcap.description>Прочный древовидный гриб с кристальной шляпкой. Растёт медленно, зато древеснистый материал очень крепок и красив. Хорошо растёт почти на любой почве.</BMT_Crystalcap.description>
+  <BMT_Crystalcap.label>кристалошляпка</BMT_Crystalcap.label>
+  <BMT_Crystalope.description>Хрупкое и слабое животное, искусственно созданное для выращивания крупных кристаллов на спине. Другие звери научились его избегать: при гибели кристалопа мощно взрывается. Кристаллы с её спины можно собирать.</BMT_Crystalope.description>
+  <BMT_Crystalope.label>кристалопа</BMT_Crystalope.label>
+  <BMT_Crystalope.tools.head.label>голова</BMT_Crystalope.tools.head.label>
+  <BMT_Crystalope.tools.left_hoof.label>левое копыто</BMT_Crystalope.tools.left_hoof.label>
+  <BMT_Crystalope.tools.right_hoof.label>правое копыто</BMT_Crystalope.tools.right_hoof.label>
+  <BMT_CrystaltipBrambles.description>Спутанные колючие кристаллические побеги, покрытые листьями. Растут зарослями и замедляют каждого, кто через них проходит.</BMT_CrystaltipBrambles.description>
+  <BMT_CrystaltipBrambles.label>кристальные колючки</BMT_CrystaltipBrambles.label>
+  <BMT_Curlbranch.description>Это мрачное, но красивое растение считают искусственным гибридом дерева и гриба. Оно прекрасно себя чувствует и в полной темноте, и на сильном морозе.</BMT_Curlbranch.description>
+  <BMT_Curlbranch.label>завитковетвь</BMT_Curlbranch.label>
+  <BMT_DarkAxolotl.description>Крупный, но мирный обитатель неглубоких пещер. Охотится только на мелких животных. Хороший питомец, хотя в бою слаб.</BMT_DarkAxolotl.description>
+  <BMT_DarkAxolotl.label>тёмный аксолотль</BMT_DarkAxolotl.label>
+  <BMT_DarkAxolotl.tools.head.label>голова</BMT_DarkAxolotl.tools.head.label>
+  <BMT_DarkAxolotl.tools.jaw.label>челюсть</BMT_DarkAxolotl.tools.jaw.label>
+  <BMT_DarkAxolotl.tools.left_claw.label>левый коготь</BMT_DarkAxolotl.tools.left_claw.label>
+  <BMT_DarkAxolotl.tools.right_claw.label>правый коготь</BMT_DarkAxolotl.tools.right_claw.label>
+  <BMT_DarkWispcap.description>Невысокий гриб, излучающий тёмный свет. Его создали на заре освоения пещерных миров как постоянный источник освещения для существ, чувствительных к обычному свету.</BMT_DarkWispcap.description>
+  <BMT_DarkWispcap.label>тёмный огнешляпник</BMT_DarkWispcap.label>
+  <BMT_DarkWisptoll.description>Гриб, излучающий тёмный свет. Его создали на заре освоения пещерных миров как постоянный источник освещения для существ, чувствительных к обычному свету.</BMT_DarkWisptoll.description>
+  <BMT_DarkWisptoll.label>тёмный огнестолб</BMT_DarkWisptoll.label>
+  <BMT_Dewshrooms.description>Грибы-росянки светятся, привлекая мелкую добычу, которая увязает в липких пластинках под шляпкой.</BMT_Dewshrooms.description>
+  <BMT_Dewshrooms.label>грибы-росянки</BMT_Dewshrooms.label>
+  <BMT_Diggerpede.description>Хищная сороконожка-землерой обитает под поверхностью пустынь. Она прокладывает ходы в песке и почве быстрее, чем большинство существ бегает. Проголодавшись, охотится на всё, до чего дотянутся её жвалы.
+
+Несмотря на сходство с другими членистоногими, рождает живых детёнышей, а не откладывает яйца.</BMT_Diggerpede.description>
+  <BMT_Diggerpede.label>сороконожка-землерой</BMT_Diggerpede.label>
+  <BMT_Diggerpede.tools.head.label>голова</BMT_Diggerpede.tools.head.label>
+  <BMT_Diggerpede.tools.mandibles.label>жвалы</BMT_Diggerpede.tools.mandibles.label>
+  <BMT_Dishcap.description>Извилистый древовидный гриб. Растёт медленно, но даёт много полезного материала.</BMT_Dishcap.description>
+  <BMT_Dishcap.label>тарелочная шляпка</BMT_Dishcap.label>
+  <BMT_DrillPod.description>Транспортная капсула, способная перемещаться под землёй с людьми, предметами или животными на борту. Подходит для отправки подарков, перевозки людей и припасов, внезапных атак и доставки подкреплений.</BMT_DrillPod.description>
+  <BMT_DrillPod.label>буровая капсула</BMT_DrillPod.label>
+  <BMT_DrillPodActive.label>транспортная капсула</BMT_DrillPodActive.label>
+  <BMT_DrillPodIncoming.label>транспортная капсула (прибывает)</BMT_DrillPodIncoming.label>
+  <BMT_DrillPodLeaving.label>транспортная капсула (отправляется)</BMT_DrillPodLeaving.label>
+  <BMT_DulcisPlant.description>Необычно сладкий гриб, который жители пещер выращивают вместо ягод. Переносит широкий диапазон температур и загрязнения.</BMT_DulcisPlant.description>
+  <BMT_DulcisPlant.label>дульцис</BMT_DulcisPlant.label>
+  <BMT_EggAaroxisDendoriaFertilized.description>Оплодотворённое яйцо аароксис дендории. Если всё пойдёт хорошо, из него вылупится личинка. Яйцо можно съесть сырым, но лучше приготовить.</BMT_EggAaroxisDendoriaFertilized.description>
+  <BMT_EggAaroxisDendoriaFertilized.label>яйцо аароксис дендории (оплод.)</BMT_EggAaroxisDendoriaFertilized.label>
+  <BMT_EggAaroxisDendoriaUnfertilized.description>Неоплодотворённое яйцо аароксис дендории. Его можно съесть сырым, но лучше приготовить.</BMT_EggAaroxisDendoriaUnfertilized.description>
+  <BMT_EggAaroxisDendoriaUnfertilized.label>яйцо аароксис дендории (неоплод.)</BMT_EggAaroxisDendoriaUnfertilized.label>
+  <BMT_EggAcidSlugFertilized.description>Оплодотворённое яйцо кислотного слизня. Если всё пойдёт хорошо, из него вылупится детёныш. Яйцо можно съесть сырым, но лучше приготовить.</BMT_EggAcidSlugFertilized.description>
+  <BMT_EggAcidSlugFertilized.label>яйцо кислотного слизня (оплод.)</BMT_EggAcidSlugFertilized.label>
+  <BMT_EggAcidSlugUnfertilized.description>Неоплодотворённое яйцо кислотного слизня. Его можно съесть сырым, но лучше приготовить.</BMT_EggAcidSlugUnfertilized.description>
+  <BMT_EggAcidSlugUnfertilized.label>яйцо кислотного слизня (неоплод.)</BMT_EggAcidSlugUnfertilized.label>
+  <BMT_EggBasiliskFertilized.description>Оплодотворённое яйцо василиска. Если всё пойдёт хорошо, из него вылупится детёныш. Яйцо можно съесть сырым, но лучше приготовить.</BMT_EggBasiliskFertilized.description>
+  <BMT_EggBasiliskFertilized.label>яйцо василиска (оплод.)</BMT_EggBasiliskFertilized.label>
+  <BMT_EggBasiliskUnfertilized.description>Неоплодотворённое яйцо василиска. Его можно съесть сырым, но лучше приготовить.</BMT_EggBasiliskUnfertilized.description>
+  <BMT_EggBasiliskUnfertilized.label>яйцо василиска (неоплод.)</BMT_EggBasiliskUnfertilized.label>
+  <BMT_EggBloodropMothFertilized.description>Оплодотворённое яйцо моли-кровекапельницы. Если всё пойдёт хорошо, из него вылупится личинка. Яйцо можно съесть сырым, но лучше приготовить.</BMT_EggBloodropMothFertilized.description>
+  <BMT_EggBloodropMothFertilized.label>яйцо моли-кровекапельницы (оплод.)</BMT_EggBloodropMothFertilized.label>
+  <BMT_EggBloodropMothUnfertilized.description>Неоплодотворённое яйцо моли-кровекапельницы. Его можно съесть сырым, но лучше приготовить.</BMT_EggBloodropMothUnfertilized.description>
+  <BMT_EggBloodropMothUnfertilized.label>яйцо моли-кровекапельницы (неоплод.)</BMT_EggBloodropMothUnfertilized.label>
+  <BMT_EggBovineBeetleFertilized.description>Яйцо бычьего жука. Если всё пойдёт хорошо, из него вылупится личинка. Яйцо можно съесть сырым, но лучше приготовить.</BMT_EggBovineBeetleFertilized.description>
+  <BMT_EggBovineBeetleFertilized.label>яйцо бычьего жука (оплод.)</BMT_EggBovineBeetleFertilized.label>
+  <BMT_EggBovineBeetleUnfertilized.description>Неоплодотворённое яйцо бычьего жука. Его можно съесть сырым, но лучше приготовить.</BMT_EggBovineBeetleUnfertilized.description>
+  <BMT_EggBovineBeetleUnfertilized.label>яйцо бычьего жука (неоплод.)</BMT_EggBovineBeetleUnfertilized.label>
+  <BMT_EggCactusCrabFertilized.description>Оплодотворённое яйцо кактусового краба. Если всё пойдёт хорошо, из него вылупится детёныш. Яйцо можно съесть сырым, но лучше приготовить.</BMT_EggCactusCrabFertilized.description>
+  <BMT_EggCactusCrabFertilized.label>яйцо кактусового краба (оплод.)</BMT_EggCactusCrabFertilized.label>
+  <BMT_EggCactusCrabUnfertilized.description>Неоплодотворённое яйцо кактусового краба. Его можно съесть сырым, но лучше приготовить.</BMT_EggCactusCrabUnfertilized.description>
+  <BMT_EggCactusCrabUnfertilized.label>яйцо кактусового краба (неоплод.)</BMT_EggCactusCrabUnfertilized.label>
+  <BMT_EggCaveCricketFertilized.description>Оплодотворённое яйцо пещерного сверчка. Если всё пойдёт хорошо, из него вылупится детёныш. Яйцо можно съесть сырым, но лучше приготовить.</BMT_EggCaveCricketFertilized.description>
+  <BMT_EggCaveCricketFertilized.label>яйцо пещерного сверчка (оплод.)</BMT_EggCaveCricketFertilized.label>
+  <BMT_EggCaveCricketUnfertilized.description>Неоплодотворённое яйцо пещерного сверчка. Его можно съесть сырым, но лучше приготовить.</BMT_EggCaveCricketUnfertilized.description>
+  <BMT_EggCaveCricketUnfertilized.label>яйцо пещерного сверчка (неоплод.)</BMT_EggCaveCricketUnfertilized.label>
+  <BMT_EggCaveSpiderFertilized.description>Яйцо пещерного паука. Если всё пойдёт хорошо, из него вылупится жуткий маленький паук. Яйцо можно съесть сырым, но лучше приготовить.</BMT_EggCaveSpiderFertilized.description>
+  <BMT_EggCaveSpiderFertilized.label>яйцо пещерного паука (оплод.)</BMT_EggCaveSpiderFertilized.label>
+  <BMT_EggCaveSpiderUnfertilized.description>Неоплодотворённое яйцо пещерного паука. Его можно съесть сырым, но лучше приготовить.</BMT_EggCaveSpiderUnfertilized.description>
+  <BMT_EggCaveSpiderUnfertilized.label>яйцо пещерного паука (неоплод.)</BMT_EggCaveSpiderUnfertilized.label>
+  <BMT_EggChemSnailFertilized.description>Оплодотворённое яйцо химулитки. Если всё пойдёт хорошо, из него вылупится детёныш. Можно использовать как топливо.</BMT_EggChemSnailFertilized.description>
+  <BMT_EggChemSnailFertilized.label>яйцо химулитки (оплод.)</BMT_EggChemSnailFertilized.label>
+  <BMT_EggChemSnailUnfertilized.description>Неоплодотворённое яйцо химулитки. Его можно съесть сырым, но лучше приготовить. Можно использовать как топливо.</BMT_EggChemSnailUnfertilized.description>
+  <BMT_EggChemSnailUnfertilized.label>яйцо химулитки (неоплод.)</BMT_EggChemSnailUnfertilized.label>
+  <BMT_EggCrestedDragonFertilized.description>Оплодотворённое яйцо гребенчатого дракона. Если всё пойдёт хорошо, из него вылупится крошечная ящерица. Яйцо можно съесть сырым, но лучше приготовить.</BMT_EggCrestedDragonFertilized.description>
+  <BMT_EggCrestedDragonFertilized.label>яйцо гребенчатого дракона (оплод.)</BMT_EggCrestedDragonFertilized.label>
+  <BMT_EggCrestedDragonUnfertilized.description>Неоплодотворённое яйцо гребенчатого дракона. Его можно съесть сырым, но лучше приготовить.</BMT_EggCrestedDragonUnfertilized.description>
+  <BMT_EggCrestedDragonUnfertilized.label>яйцо гребенчатого дракона (неоплод.)</BMT_EggCrestedDragonUnfertilized.label>
+  <BMT_EggCrystalbackBeetleFertilized.description>Оплодотворённое яйцо кристальноспинного жука. Если всё пойдёт хорошо, из него вылупится личинка. Яйцо можно съесть сырым, но лучше приготовить.</BMT_EggCrystalbackBeetleFertilized.description>
+  <BMT_EggCrystalbackBeetleFertilized.label>яйцо кристальноспинного жука (оплод.)</BMT_EggCrystalbackBeetleFertilized.label>
+  <BMT_EggCrystalbackBeetleUnfertilized.description>Неоплодотворённое яйцо кристальноспинного жука. Его можно съесть сырым, но лучше приготовить.</BMT_EggCrystalbackBeetleUnfertilized.description>
+  <BMT_EggCrystalbackBeetleUnfertilized.label>яйцо кристальноспинного жука (неоплод.)</BMT_EggCrystalbackBeetleUnfertilized.label>
+  <BMT_EggDarkAxolotlFertilized.description>Оплодотворённое яйцо тёмного аксолотля. Если всё пойдёт хорошо, из него вылупится детёныш. Яйцо можно съесть сырым, но лучше приготовить.</BMT_EggDarkAxolotlFertilized.description>
+  <BMT_EggDarkAxolotlFertilized.label>яйцо тёмного аксолотля (оплод.)</BMT_EggDarkAxolotlFertilized.label>
+  <BMT_EggDarkAxolotlUnfertilized.description>Неоплодотворённое яйцо тёмного аксолотля. Его можно съесть сырым, но лучше приготовить.</BMT_EggDarkAxolotlUnfertilized.description>
+  <BMT_EggDarkAxolotlUnfertilized.label>яйцо тёмного аксолотля (неоплод.)</BMT_EggDarkAxolotlUnfertilized.label>
+  <BMT_EggFacetMothFertilized.description>Оплодотворённое яйцо гранёной моли. Если всё пойдёт хорошо, из него вылупится личинка. Яйцо можно съесть сырым, но лучше приготовить.</BMT_EggFacetMothFertilized.description>
+  <BMT_EggFacetMothFertilized.label>яйцо гранёной моли (оплод.)</BMT_EggFacetMothFertilized.label>
+  <BMT_EggFacetMothUnfertilized.description>Неоплодотворённое яйцо гранёной моли. Его можно съесть сырым, но лучше приготовить.</BMT_EggFacetMothUnfertilized.description>
+  <BMT_EggFacetMothUnfertilized.label>яйцо гранёной моли (неоплод.)</BMT_EggFacetMothUnfertilized.label>
+  <BMT_EggFireSalamanderFertilized.description>Оплодотворённое яйцо огненной саламандры. Если всё пойдёт хорошо, из него вылупится детёныш. Яйцо можно съесть сырым, но лучше приготовить.</BMT_EggFireSalamanderFertilized.description>
+  <BMT_EggFireSalamanderFertilized.label>яйцо огненной саламандры (оплод.)</BMT_EggFireSalamanderFertilized.label>
+  <BMT_EggFireSalamanderUnfertilized.description>Неоплодотворённое яйцо огненной саламандры. Его можно съесть сырым, но лучше приготовить.</BMT_EggFireSalamanderUnfertilized.description>
+  <BMT_EggFireSalamanderUnfertilized.label>яйцо огненной саламандры (неоплод.)</BMT_EggFireSalamanderUnfertilized.label>
+  <BMT_EggFleeceSpiderFertilized.description>Яйцо шерстистого паука. Если всё пойдёт хорошо, из него вылупится паучок. Яйцо можно съесть сырым, но лучше приготовить.</BMT_EggFleeceSpiderFertilized.description>
+  <BMT_EggFleeceSpiderFertilized.label>яйцо шерстистого паука (оплод.)</BMT_EggFleeceSpiderFertilized.label>
+  <BMT_EggFleeceSpiderUnfertilized.description>Неоплодотворённое яйцо шерстистого паука. Его можно съесть сырым, но лучше приготовить.</BMT_EggFleeceSpiderUnfertilized.description>
+  <BMT_EggFleeceSpiderUnfertilized.label>яйцо шерстистого паука (неоплод.)</BMT_EggFleeceSpiderUnfertilized.label>
+  <BMT_EggFoundryBeetleFertilized.description>Оплодотворённое яйцо жука-плавильщика. Если всё пойдёт хорошо, из него вылупится детёныш. Яйцо можно съесть сырым, но лучше приготовить.</BMT_EggFoundryBeetleFertilized.description>
+  <BMT_EggFoundryBeetleFertilized.label>яйцо жука-плавильщика (оплод.)</BMT_EggFoundryBeetleFertilized.label>
+  <BMT_EggFoundryBeetleUnfertilized.description>Неоплодотворённое яйцо жука-плавильщика. Его можно съесть сырым, но лучше приготовить.</BMT_EggFoundryBeetleUnfertilized.description>
+  <BMT_EggFoundryBeetleUnfertilized.label>яйцо жука-плавильщика (неоплод.)</BMT_EggFoundryBeetleUnfertilized.label>
+  <BMT_EggFreezerFrogFertilized.description>Оплодотворённое яйцо морозной лягушки. Если всё пойдёт хорошо, из него вылупится лягушонок. Яйцо можно съесть сырым, но лучше приготовить.</BMT_EggFreezerFrogFertilized.description>
+  <BMT_EggFreezerFrogFertilized.label>яйцо морозной лягушки (оплод.)</BMT_EggFreezerFrogFertilized.label>
+  <BMT_EggFreezerFrogUnfertilized.description>Неоплодотворённое яйцо морозной лягушки. Его можно съесть сырым, но лучше приготовить.</BMT_EggFreezerFrogUnfertilized.description>
+  <BMT_EggFreezerFrogUnfertilized.label>яйцо морозной лягушки (неоплод.)</BMT_EggFreezerFrogUnfertilized.label>
+  <BMT_EggFrostweaverSpiderFertilized.description>Яйцо морозопряда. Если всё пойдёт хорошо, из него вылупится пушистый паучок. Яйцо можно съесть сырым, но лучше приготовить.</BMT_EggFrostweaverSpiderFertilized.description>
+  <BMT_EggFrostweaverSpiderFertilized.label>яйцо морозопряда (оплод.)</BMT_EggFrostweaverSpiderFertilized.label>
+  <BMT_EggFrostweaverSpiderUnfertilized.description>Неоплодотворённое яйцо морозопряда. Его можно съесть сырым, но лучше приготовить.</BMT_EggFrostweaverSpiderUnfertilized.description>
+  <BMT_EggFrostweaverSpiderUnfertilized.label>яйцо морозопряда (неоплод.)</BMT_EggFrostweaverSpiderUnfertilized.label>
+  <BMT_EggFungalMantisFertilized.description>Оплодотворённое яйцо грибного богомола. Если всё пойдёт хорошо, из него вылупится личинка. Яйцо можно съесть сырым, но лучше приготовить.</BMT_EggFungalMantisFertilized.description>
+  <BMT_EggFungalMantisFertilized.label>яйцо грибного богомола-мимика (оплод.)</BMT_EggFungalMantisFertilized.label>
+  <BMT_EggFungalMantisUnfertilized.description>Неоплодотворённое яйцо грибного богомола-мимика. Его можно съесть сырым, но лучше приготовить.</BMT_EggFungalMantisUnfertilized.description>
+  <BMT_EggFungalMantisUnfertilized.label>яйцо грибного богомола-мимика (неоплод.)</BMT_EggFungalMantisUnfertilized.label>
+  <BMT_EggFungalWeevilFertilized.description>Оплодотворённое яйцо грибного долгоносика. Если всё пойдёт хорошо, из него вылупится детёныш. Яйцо можно съесть сырым, но лучше приготовить.</BMT_EggFungalWeevilFertilized.description>
+  <BMT_EggFungalWeevilFertilized.label>яйцо грибного долгоносика (оплод.)</BMT_EggFungalWeevilFertilized.label>
+  <BMT_EggFungalWeevilUnfertilized.description>Неоплодотворённое яйцо грибного долгоносика. Его можно съесть сырым, но лучше приготовить.</BMT_EggFungalWeevilUnfertilized.description>
+  <BMT_EggFungalWeevilUnfertilized.label>яйцо грибного долгоносика (неоплод.)</BMT_EggFungalWeevilUnfertilized.label>
+  <BMT_EggGembugFertilized.description>Яйцо самоцветного жучка. Если всё пойдёт хорошо, из него вылупится детёныш. Яйцо можно съесть сырым, но лучше приготовить.</BMT_EggGembugFertilized.description>
+  <BMT_EggGembugFertilized.label>яйцо самоцветного жучка (оплод.)</BMT_EggGembugFertilized.label>
+  <BMT_EggGembugUnfertilized.description>Неоплодотворённое яйцо самоцветного жучка. Его можно съесть сырым, но лучше приготовить.</BMT_EggGembugUnfertilized.description>
+  <BMT_EggGembugUnfertilized.label>яйцо самоцветного жучка (неоплод.)</BMT_EggGembugUnfertilized.label>
+  <BMT_EggGiantSlugFertilized.description>Оплодотворённое яйцо гигантского слизня. Если всё пойдёт хорошо, из него вылупится детёныш. Яйцо можно съесть сырым, но лучше приготовить.</BMT_EggGiantSlugFertilized.description>
+  <BMT_EggGiantSlugFertilized.label>яйцо гигантского слизня (оплод.)</BMT_EggGiantSlugFertilized.label>
+  <BMT_EggGiantSlugUnfertilized.description>Неоплодотворённое яйцо гигантского слизня. Его можно съесть сырым, но лучше приготовить.</BMT_EggGiantSlugUnfertilized.description>
+  <BMT_EggGiantSlugUnfertilized.label>яйцо гигантского слизня (неоплод.)</BMT_EggGiantSlugUnfertilized.label>
+  <BMT_EggGiantSnailFertilized.description>Оплодотворённое яйцо гигантской улитки. Если всё пойдёт хорошо, из него вылупится детёныш. Яйцо можно съесть сырым, но лучше приготовить.</BMT_EggGiantSnailFertilized.description>
+  <BMT_EggGiantSnailFertilized.label>яйцо гигантской улитки (оплод.)</BMT_EggGiantSnailFertilized.label>
+  <BMT_EggGiantSnailUnfertilized.description>Неоплодотворённое яйцо гигантской улитки. Его можно съесть сырым, но лучше приготовить.</BMT_EggGiantSnailUnfertilized.description>
+  <BMT_EggGiantSnailUnfertilized.label>яйцо гигантской улитки (неоплод.)</BMT_EggGiantSnailUnfertilized.label>
+  <BMT_EggGlarralPenguinFertilized.description>Оплодотворённое яйцо гларральского пингвина. Если всё пойдёт хорошо, из него вылупится пингвинёнок.</BMT_EggGlarralPenguinFertilized.description>
+  <BMT_EggGlarralPenguinFertilized.label>яйцо гларральского пингвина (оплод.)</BMT_EggGlarralPenguinFertilized.label>
+  <BMT_EggGlarralPenguinUnfertilized.description>Неоплодотворённое яйцо гларральского пингвина. Его можно съесть сырым, но лучше приготовить.</BMT_EggGlarralPenguinUnfertilized.description>
+  <BMT_EggGlarralPenguinUnfertilized.label>яйцо гларральского пингвина (неоплод.)</BMT_EggGlarralPenguinUnfertilized.label>
+  <BMT_EggGlowSlugFertilized.description>Оплодотворённое яйцо светослизня. Если всё пойдёт хорошо, из него вылупится детёныш. Яйцо можно съесть сырым, но лучше приготовить.</BMT_EggGlowSlugFertilized.description>
+  <BMT_EggGlowSlugFertilized.label>яйцо светослизня (оплод.)</BMT_EggGlowSlugFertilized.label>
+  <BMT_EggGlowSlugUnfertilized.description>Неоплодотворённое яйцо светослизня. Его можно съесть сырым, но лучше приготовить.</BMT_EggGlowSlugUnfertilized.description>
+  <BMT_EggGlowSlugUnfertilized.label>яйцо светослизня (неоплод.)</BMT_EggGlowSlugUnfertilized.label>
+  <BMT_EggGoetoFertilized.description>Оплодотворённое яйцо жабы гоэто. Если всё пойдёт хорошо, из него вылупится детёныш. Яйцо можно съесть сырым, но лучше приготовить.</BMT_EggGoetoFertilized.description>
+  <BMT_EggGoetoFertilized.label>яйцо жабы гоэто (оплод.)</BMT_EggGoetoFertilized.label>
+  <BMT_EggGoetoUnfertilized.description>Неоплодотворённое яйцо жабы гоэто. Его можно съесть сырым, но лучше приготовить.</BMT_EggGoetoUnfertilized.description>
+  <BMT_EggGoetoUnfertilized.label>яйцо жабы гоэто (неоплод.)</BMT_EggGoetoUnfertilized.label>
+  <BMT_EggHungeringHydraFertilized.description>Оплодотворённое яйцо гидры. Если всё пойдёт хорошо, из него вылупится детёныш. Яйцо можно съесть сырым, но лучше приготовить.</BMT_EggHungeringHydraFertilized.description>
+  <BMT_EggHungeringHydraFertilized.label>яйцо ненасытной гидры (оплод.)</BMT_EggHungeringHydraFertilized.label>
+  <BMT_EggHungeringHydraUnfertilized.description>Неоплодотворённое яйцо ненасытной гидры. Его можно съесть сырым, но лучше приготовить.</BMT_EggHungeringHydraUnfertilized.description>
+  <BMT_EggHungeringHydraUnfertilized.label>яйцо ненасытной гидры (неоплод.)</BMT_EggHungeringHydraUnfertilized.label>
+  <BMT_EggImperialToadFertilized.description>Оплодотворённое яйцо императорской жабы. Если всё пойдёт хорошо, из него вылупится детёныш. Яйцо можно съесть сырым, но лучше приготовить.</BMT_EggImperialToadFertilized.description>
+  <BMT_EggImperialToadFertilized.label>яйцо императорской жабы (оплод.)</BMT_EggImperialToadFertilized.label>
+  <BMT_EggImperialToadUnfertilized.description>Неоплодотворённое яйцо императорской жабы. Его можно съесть сырым, но лучше приготовить.</BMT_EggImperialToadUnfertilized.description>
+  <BMT_EggImperialToadUnfertilized.label>яйцо императорской жабы (неоплод.)</BMT_EggImperialToadUnfertilized.label>
+  <BMT_EggJewelBeetleFertilized.description>Оплодотворённое яйцо жука-самоцвета. Если всё пойдёт хорошо, из него вылупится личинка. Яйцо можно съесть сырым, но лучше приготовить.</BMT_EggJewelBeetleFertilized.description>
+  <BMT_EggJewelBeetleFertilized.label>яйцо жука-самоцвета (оплод.)</BMT_EggJewelBeetleFertilized.label>
+  <BMT_EggJewelBeetleUnfertilized.description>Неоплодотворённое яйцо жука-самоцвета. Его можно съесть сырым, но лучше приготовить.</BMT_EggJewelBeetleUnfertilized.description>
+  <BMT_EggJewelBeetleUnfertilized.label>яйцо жука-самоцвета (неоплод.)</BMT_EggJewelBeetleUnfertilized.label>
+  <BMT_EggMaceDrakeFertilized.description>Оплодотворённое яйцо булавохвостого дракона. Если всё пойдёт хорошо, из него вылупится детёныш. Яйцо можно съесть сырым, но лучше приготовить.</BMT_EggMaceDrakeFertilized.description>
+  <BMT_EggMaceDrakeFertilized.label>яйцо булавохвостого дракона (оплод.)</BMT_EggMaceDrakeFertilized.label>
+  <BMT_EggMaceDrakeUnfertilized.description>Неоплодотворённое яйцо булавохвостого дракона. Его можно съесть сырым, но лучше приготовить.</BMT_EggMaceDrakeUnfertilized.description>
+  <BMT_EggMaceDrakeUnfertilized.label>яйцо булавохвостого дракона (неоплод.)</BMT_EggMaceDrakeUnfertilized.label>
+  <BMT_EggMaguanaFertilized.description>Оплодотворённое яйцо магуаны. Если всё пойдёт хорошо, из него вылупится детёныш. Яйцо можно съесть сырым, но лучше приготовить.</BMT_EggMaguanaFertilized.description>
+  <BMT_EggMaguanaFertilized.label>яйцо магуаны (оплод.)</BMT_EggMaguanaFertilized.label>
+  <BMT_EggMaguanaUnfertilized.description>Неоплодотворённое яйцо магуаны. Его можно съесть сырым, но лучше приготовить.</BMT_EggMaguanaUnfertilized.description>
+  <BMT_EggMaguanaUnfertilized.label>яйцо магуаны (неоплод.)</BMT_EggMaguanaUnfertilized.label>
+  <BMT_EggMegapleuraFertilized.description>Оплодотворённое яйцо мегаплевры. Если всё пойдёт хорошо, из него вылупится детёныш. Яйцо можно съесть сырым, но лучше приготовить.</BMT_EggMegapleuraFertilized.description>
+  <BMT_EggMegapleuraFertilized.label>яйцо мегаплевры (оплод.)</BMT_EggMegapleuraFertilized.label>
+  <BMT_EggMegapleuraUnfertilized.description>Неоплодотворённое яйцо мегаплевры. Его можно съесть сырым, но лучше приготовить.</BMT_EggMegapleuraUnfertilized.description>
+  <BMT_EggMegapleuraUnfertilized.label>яйцо мегаплевры (неоплод.)</BMT_EggMegapleuraUnfertilized.label>
+  <BMT_EggMetalloSnailFertilized.description>Оплодотворённое яйцо металлической улитки. Если всё пойдёт хорошо, из него вылупится детёныш. Яйцо можно съесть сырым, но лучше приготовить.</BMT_EggMetalloSnailFertilized.description>
+  <BMT_EggMetalloSnailFertilized.label>яйцо металлической улитки (оплод.)</BMT_EggMetalloSnailFertilized.label>
+  <BMT_EggMetalloSnailUnfertilized.description>Неоплодотворённое яйцо металлической улитки. Его можно съесть сырым, но лучше приготовить.</BMT_EggMetalloSnailUnfertilized.description>
+  <BMT_EggMetalloSnailUnfertilized.label>яйцо металлической улитки (неоплод.)</BMT_EggMetalloSnailUnfertilized.label>
+  <BMT_EggMimicMantisFertilized.description>Оплодотворённое яйцо кристального богомола. Если всё пойдёт хорошо, из него вылупится личинка. Яйцо можно съесть сырым, но лучше приготовить.</BMT_EggMimicMantisFertilized.description>
+  <BMT_EggMimicMantisFertilized.label>яйцо кристального богомола-мимика (оплод.)</BMT_EggMimicMantisFertilized.label>
+  <BMT_EggMimicMantisUnfertilized.description>Неоплодотворённое яйцо кристального богомола-мимика. Его можно съесть сырым, но лучше приготовить.</BMT_EggMimicMantisUnfertilized.description>
+  <BMT_EggMimicMantisUnfertilized.label>яйцо кристального богомола-мимика (неоплод.)</BMT_EggMimicMantisUnfertilized.label>
+  <BMT_EggMossBeetleFertilized.description>Яйцо мохового жука. Если всё пойдёт хорошо, из него вылупится личинка. Яйцо можно съесть сырым, но лучше приготовить.</BMT_EggMossBeetleFertilized.description>
+  <BMT_EggMossBeetleFertilized.label>яйцо мохового жука (оплод.)</BMT_EggMossBeetleFertilized.label>
+  <BMT_EggMossBeetleUnfertilized.description>Неоплодотворённое яйцо мохового жука. Его можно съесть сырым, но лучше приготовить.</BMT_EggMossBeetleUnfertilized.description>
+  <BMT_EggMossBeetleUnfertilized.label>яйцо мохового жука (неоплод.)</BMT_EggMossBeetleUnfertilized.label>
+  <BMT_EggPillbugFertilized.description>Яйцо мокрицы. Если всё пойдёт хорошо, из него вылупится детёныш. Яйцо можно съесть сырым, но лучше приготовить.</BMT_EggPillbugFertilized.description>
+  <BMT_EggPillbugFertilized.label>яйцо мокрицы (оплод.)</BMT_EggPillbugFertilized.label>
+  <BMT_EggPillbugUnfertilized.description>Неоплодотворённое яйцо мокрицы. Его можно съесть сырым, но лучше приготовить.</BMT_EggPillbugUnfertilized.description>
+  <BMT_EggPillbugUnfertilized.label>яйцо мокрицы (неоплод.)</BMT_EggPillbugUnfertilized.label>
+  <BMT_EggRimebeakFertilized.description>Оплодотворённое яйцо инееклюва. Если всё пойдёт хорошо, из него вылупится птенец.</BMT_EggRimebeakFertilized.description>
+  <BMT_EggRimebeakFertilized.label>яйцо инееклюва (оплод.)</BMT_EggRimebeakFertilized.label>
+  <BMT_EggRimebeakUnfertilized.description>Неоплодотворённое яйцо инееклюва. Его можно съесть сырым, но лучше приготовить.</BMT_EggRimebeakUnfertilized.description>
+  <BMT_EggRimebeakUnfertilized.label>яйцо инееклюва (неоплод.)</BMT_EggRimebeakUnfertilized.label>
+  <BMT_EggRoyalRhinoFertilized.description>Яйцо королевского жука-носорога. Если всё пойдёт хорошо, из него вылупится личинка. Яйцо можно съесть сырым, но лучше приготовить.</BMT_EggRoyalRhinoFertilized.description>
+  <BMT_EggRoyalRhinoFertilized.label>яйцо королевского жука-носорога (оплод.)</BMT_EggRoyalRhinoFertilized.label>
+  <BMT_EggRoyalRhinoUnfertilized.description>Неоплодотворённое яйцо королевского жука-носорога. Его можно съесть сырым, но лучше приготовить.</BMT_EggRoyalRhinoUnfertilized.description>
+  <BMT_EggRoyalRhinoUnfertilized.label>яйцо королевского жука-носорога (неоплод.)</BMT_EggRoyalRhinoUnfertilized.label>
+  <BMT_EggSandpillarFertilized.description>Яйцо пескогусеницы. Если всё пойдёт хорошо, из него вылупится детёныш. Яйцо можно съесть сырым, но лучше приготовить.</BMT_EggSandpillarFertilized.description>
+  <BMT_EggSandpillarFertilized.label>яйцо пескогусеницы (оплод.)</BMT_EggSandpillarFertilized.label>
+  <BMT_EggSandpillarUnfertilized.description>Неоплодотворённое яйцо пескогусеницы. Его можно съесть сырым, но лучше приготовить.</BMT_EggSandpillarUnfertilized.description>
+  <BMT_EggSandpillarUnfertilized.label>яйцо пескогусеницы (неоплод.)</BMT_EggSandpillarUnfertilized.label>
+  <BMT_EggShatterjawFertilized.description>Яйцо жука-дробителя. Если всё пойдёт хорошо, из него вылупится личинка. Яйцо можно съесть сырым, но лучше приготовить.</BMT_EggShatterjawFertilized.description>
+  <BMT_EggShatterjawFertilized.label>яйцо жука-дробителя (оплод.)</BMT_EggShatterjawFertilized.label>
+  <BMT_EggShatterjawUnfertilized.description>Неоплодотворённое яйцо жука-дробителя. Его можно съесть сырым, но лучше приготовить.</BMT_EggShatterjawUnfertilized.description>
+  <BMT_EggShatterjawUnfertilized.label>яйцо жука-дробителя (неоплод.)</BMT_EggShatterjawUnfertilized.label>
+  <BMT_EggShimmershellSnailFertilized.description>Оплодотворённое яйцо мерцающей улитки. Если всё пойдёт хорошо, из него вылупится детёныш. Яйцо можно съесть сырым, но лучше приготовить.</BMT_EggShimmershellSnailFertilized.description>
+  <BMT_EggShimmershellSnailFertilized.label>яйцо мерцающей улитки (оплод.)</BMT_EggShimmershellSnailFertilized.label>
+  <BMT_EggShimmershellSnailUnfertilized.description>Неоплодотворённое яйцо мерцающей улитки. Его можно съесть сырым, но лучше приготовить.</BMT_EggShimmershellSnailUnfertilized.description>
+  <BMT_EggShimmershellSnailUnfertilized.label>яйцо мерцающей улитки (неоплод.)</BMT_EggShimmershellSnailUnfertilized.label>
+  <BMT_EggSmolderstingScorpionFertilized.description>Оплодотворённое яйцо скорпиона-огнежала. Если всё пойдёт хорошо, из него вылупится детёныш. Яйцо можно съесть сырым, но лучше приготовить.</BMT_EggSmolderstingScorpionFertilized.description>
+  <BMT_EggSmolderstingScorpionFertilized.label>яйцо скорпиона-огнежала (оплод.)</BMT_EggSmolderstingScorpionFertilized.label>
+  <BMT_EggSmolderstingScorpionUnfertilized.description>Неоплодотворённое яйцо скорпиона-огнежала. Его можно съесть сырым, но лучше приготовить.</BMT_EggSmolderstingScorpionUnfertilized.description>
+  <BMT_EggSmolderstingScorpionUnfertilized.label>яйцо скорпиона-огнежала (неоплод.)</BMT_EggSmolderstingScorpionUnfertilized.label>
+  <BMT_EggStonebackFertilized.description>Оплодотворённое яйцо каменноспина. Если всё пойдёт хорошо, из него вылупится детёныш. Яйцо можно съесть сырым, но лучше приготовить.</BMT_EggStonebackFertilized.description>
+  <BMT_EggStonebackFertilized.label>яйцо каменноспина (оплод.)</BMT_EggStonebackFertilized.label>
+  <BMT_EggStonebackUnfertilized.description>Неоплодотворённое яйцо каменноспина. Его можно съесть сырым, но лучше приготовить.</BMT_EggStonebackUnfertilized.description>
+  <BMT_EggStonebackUnfertilized.label>яйцо каменноспина (неоплод.)</BMT_EggStonebackUnfertilized.label>
+  <BMT_EggXyrionFertilized.description>Оплодотворённое яйцо ксириона. Если всё пойдёт хорошо, из него вылупится детёныш. Яйцо можно съесть сырым, но лучше приготовить.</BMT_EggXyrionFertilized.description>
+  <BMT_EggXyrionFertilized.label>яйцо ксириона (оплод.)</BMT_EggXyrionFertilized.label>
+  <BMT_EggXyrionUnfertilized.description>Неоплодотворённое яйцо ксириона. Его можно съесть сырым, но лучше приготовить.</BMT_EggXyrionUnfertilized.description>
+  <BMT_EggXyrionUnfertilized.label>яйцо ксириона (неоплод.)</BMT_EggXyrionUnfertilized.label>
+  <BMT_ExplodingAngel.description>Гриб, наполненный нестабильными природными химическими веществами. Взрывается от удара.</BMT_ExplodingAngel.description>
+  <BMT_ExplodingAngel.label>взрывной ангел</BMT_ExplodingAngel.label>
+  <BMT_FacetMoth.description>Крупная моль, чьи крылья переливаются, словно грани кристалла. Порхает в тёмных пещерах; ради красоты её часто ловят и держат как питомца. После одного спаривания самка может сделать несколько кладок оплодотворённых яиц.</BMT_FacetMoth.description>
+  <BMT_FacetMoth.label>гранёная моль</BMT_FacetMoth.label>
+  <BMT_FacetMoth.tools.head.label>голова</BMT_FacetMoth.tools.head.label>
+  <BMT_FacetMoth.tools.proboscis.label>хоботок</BMT_FacetMoth.tools.proboscis.label>
+  <BMT_FacetMothLarvae.description>Личинка гранёной моли. Благодаря природной мимикрии её тело кажется твёрдым и колючим, что отпугивает хищников.</BMT_FacetMothLarvae.description>
+  <BMT_FacetMothLarvae.label>кристальная гусеница</BMT_FacetMothLarvae.label>
+  <BMT_FacetMothLarvae.tools.head.label>голова</BMT_FacetMothLarvae.tools.head.label>
+  <BMT_FacetMothLarvae.tools.proboscis.label>хоботок</BMT_FacetMothLarvae.tools.proboscis.label>
+  <BMT_FacetMothPupa.description>Куколка гранёной моли. Неподвижна, но твёрдая оболочка защищает её от большинства хищников.</BMT_FacetMothPupa.description>
+  <BMT_FacetMothPupa.label>куколка гранёной моли</BMT_FacetMothPupa.label>
+  <BMT_FacetMothPupa.tools.Twitching.label>подёргивается</BMT_FacetMothPupa.tools.Twitching.label>
+  <BMT_Fibershroom.description>Несъедобный волокнистый гриб, дающий немного материала, похожего на грибную древесину.</BMT_Fibershroom.description>
+  <BMT_Fibershroom.label>волокногриб</BMT_Fibershroom.label>
+  <BMT_Filth_Acidic_Snail_Slime.label>кислотная слизь</BMT_Filth_Acidic_Snail_Slime.label>
+  <BMT_Filth_Snail_FireFoam.label>огнегасящая пена</BMT_Filth_Snail_FireFoam.label>
+  <BMT_Filth_Snail_FuelTrail.description>След застывшей горючей слизи, оставленный химулиткой.</BMT_Filth_Snail_FuelTrail.description>
+  <BMT_Filth_Snail_FuelTrail.label>след химического топлива</BMT_Filth_Snail_FuelTrail.label>
+  <BMT_FireLavender.description>Этот вид лаванды появился в вулканических районах на поверхности, а затем приспособился жить при свете магмы глубоко под землёй. Пещерные ботаники очень любят его за красоту.</BMT_FireLavender.description>
+  <BMT_FireLavender.label>огненная лаванда</BMT_FireLavender.label>
+  <BMT_FireSalamander.description>Хотя её называют саламандрой, она ближе к рептилиям, чем к земноводным. Светящаяся кожа напоминает раскалённую лаву и могла бы отпугивать природных врагов, если бы те не были почти слепы.</BMT_FireSalamander.description>
+  <BMT_FireSalamander.label>огненная саламандра</BMT_FireSalamander.label>
+  <BMT_FireSalamander.tools.head.label>голова</BMT_FireSalamander.tools.head.label>
+  <BMT_FireSalamander.tools.left_claw.label>левый коготь</BMT_FireSalamander.tools.left_claw.label>
+  <BMT_FireSalamander.tools.right_claw.label>правый коготь</BMT_FireSalamander.tools.right_claw.label>
+  <BMT_FlakespireFungus.description>Крепкий пурпурный древовидный гриб. Растёт медленно, зато древеснистый материал очень прочен и красив.</BMT_FlakespireFungus.description>
+  <BMT_FlakespireFungus.label>чешуйчатый гриб-шпиль</BMT_FlakespireFungus.label>
+  <BMT_FleeceSpider.description>Маленькие пушистые пауки стали популярными питомцами среди жителей пещер. Прокормить их легко: они подбирают любую еду, упавшую на землю.</BMT_FleeceSpider.description>
+  <BMT_FleeceSpider.label>шерстистый паук</BMT_FleeceSpider.label>
+  <BMT_FleeceSpider.tools.head.label>голова</BMT_FleeceSpider.tools.head.label>
+  <BMT_FleeceSpider.tools.mandibles.label>жвалы</BMT_FleeceSpider.tools.mandibles.label>
+  <BMT_FloorMold.description>Растущая под землёй плесень с причудливо извивающимся рисунком.</BMT_FloorMold.description>
+  <BMT_FloorMold.label>напочвенная плесень</BMT_FloorMold.label>
+  <BMT_FoundryBeetle.description>Этот травоядный жук — далеко не лёгкая добыча. Массивными жвалами он сокрушает и соперников за пару, и тех, кто пытается на него охотиться. Жестокие обитатели пещер нередко разводят этих жуков для войны.</BMT_FoundryBeetle.description>
+  <BMT_FoundryBeetle.label>жук-плавильщик</BMT_FoundryBeetle.label>
+  <BMT_FoundryBeetle.tools.head.label>голова</BMT_FoundryBeetle.tools.head.label>
+  <BMT_FoundryBeetle.tools.head_claw.label>головной коготь</BMT_FoundryBeetle.tools.head_claw.label>
+  <BMT_FoundryBeetleLarvae.description>Маленькая мягкая личинка с негорючим хитином. К сожалению, после её гибели это свойство утрачивается.</BMT_FoundryBeetleLarvae.description>
+  <BMT_FoundryBeetleLarvae.label>личинка жука-плавильщика</BMT_FoundryBeetleLarvae.label>
+  <BMT_FoundryBeetleLarvae.tools.head.label>голова</BMT_FoundryBeetleLarvae.tools.head.label>
+  <BMT_FoundryBeetleLarvae.tools.mandibles.label>жвалы</BMT_FoundryBeetleLarvae.tools.mandibles.label>
+  <BMT_FoundryBeetlePupa.description>Куколка жука-плавильщика. При превращении большая часть её тела разжижается. Совершенно не горит.</BMT_FoundryBeetlePupa.description>
+  <BMT_FoundryBeetlePupa.label>куколка жука-плавильщика</BMT_FoundryBeetlePupa.label>
+  <BMT_FoundryBeetlePupa.tools.Twitching.label>подёргивается</BMT_FoundryBeetlePupa.tools.Twitching.label>
+  <BMT_FreezerFrog.description>В крови этой маленькой травоядной лягушки есть особые вещества, позволяющие ей выживать при отрицательных температурах. Из-за нехватки незамёрзшей воды из яиц сразу выходят миниатюрные лягушки, минуя стадию головастика.</BMT_FreezerFrog.description>
+  <BMT_FreezerFrog.label>морозная лягушка</BMT_FreezerFrog.label>
+  <BMT_FreezerFrog.tools.head.label>голова</BMT_FreezerFrog.tools.head.label>
+  <BMT_Frigu.description>Хрупкий, но выносливый древовидный гриб. Растёт медленно, зато хорошо приспособлен к холоду.</BMT_Frigu.description>
+  <BMT_Frigu.label>фригу</BMT_Frigu.label>
+  <BMT_FrostweaverSpider.description>Эти чудовищные пауки созданы для ледяных туннелей и пещер в краях, где не бывает лета. Их пушистый покров смерзается в острые ледяные шипы. Морозопряды не терпят общества и в ярости нападают.</BMT_FrostweaverSpider.description>
+  <BMT_FrostweaverSpider.label>морозопряд</BMT_FrostweaverSpider.label>
+  <BMT_FrostweaverSpider.tools.head.label>голова</BMT_FrostweaverSpider.tools.head.label>
+  <BMT_FrostweaverSpider.tools.legs-0.label>ноги</BMT_FrostweaverSpider.tools.legs-0.label>
+  <BMT_FrostweaverSpider.tools.legs-1.label>ноги</BMT_FrostweaverSpider.tools.legs-1.label>
+  <BMT_FrostweaverSpider.tools.venomfangs.label>ядовитые клыки</BMT_FrostweaverSpider.tools.venomfangs.label>
+  <BMT_FruitingBodies.description>Плодовые тела плесневого гриба, растущего в пещерах.</BMT_FruitingBodies.description>
+  <BMT_FruitingBodies.label>плодовые тела плесени</BMT_FruitingBodies.label>
+  <BMT_FungalCrystalTorch.description>Особым образом обработанный факел, освещающий большую площадь.</BMT_FungalCrystalTorch.description>
+  <BMT_FungalCrystalTorch.label>грибной кристальный факел</BMT_FungalCrystalTorch.label>
+  <BMT_FungalFerret.description>Грибок на спине этого маленького млекопитающего образовал с хозяином взаимовыгодную связь. Он живёт преимущественно в шерсти и на её поверхности.</BMT_FungalFerret.description>
+  <BMT_FungalFerret.label>грибной хорёк</BMT_FungalFerret.label>
+  <BMT_FungalFerret.tools.head.label>голова</BMT_FungalFerret.tools.head.label>
+  <BMT_FungalFerret.tools.left_claw.label>левый коготь</BMT_FungalFerret.tools.left_claw.label>
+  <BMT_FungalFerret.tools.right_claw.label>правый коготь</BMT_FungalFerret.tools.right_claw.label>
+  <BMT_FungalGlowGooTorch.description>Особым образом обработанный факел, освещающий большую площадь.</BMT_FungalGlowGooTorch.description>
+  <BMT_FungalGlowGooTorch.label>грибной факел со светящейся слизью</BMT_FungalGlowGooTorch.label>
+  <BMT_FungalMantis.description>Богомол из пещерных грибных лесов, превосходящий человека размерами. Покрытый грибами панцирь помогает ему маскироваться на охоте. В отличие от других богомолов, полагается на обезболивающие и ядовитые вещества, которые впрыскивает в добычу при атаке.</BMT_FungalMantis.description>
+  <BMT_FungalMantis.label>грибной богомол-мимик</BMT_FungalMantis.label>
+  <BMT_FungalMantis.tools.head.label>голова</BMT_FungalMantis.tools.head.label>
+  <BMT_FungalMantis.tools.left_scythe.label>левая коса</BMT_FungalMantis.tools.left_scythe.label>
+  <BMT_FungalMantis.tools.mandibles.label>жвалы</BMT_FungalMantis.tools.mandibles.label>
+  <BMT_FungalMantis.tools.right_scythe.label>правая коса</BMT_FungalMantis.tools.right_scythe.label>
+  <BMT_FungalMantisClaw.description>Коготь грибного богомола-мимика. На большинстве рынков ему нет цены. Ценный трофей, необходимый для изготовления особого оружия.</BMT_FungalMantisClaw.description>
+  <BMT_FungalMantisClaw.label>коготь грибного богомола-мимика</BMT_FungalMantisClaw.label>
+  <BMT_FungalMantisClaw.tools.base.label>основание</BMT_FungalMantisClaw.tools.base.label>
+  <BMT_FungalMantisClaw.tools.point.label>остриё</BMT_FungalMantisClaw.tools.point.label>
+  <BMT_FungalMantisScythe.description>Хитиновое оружие из когтей гигантского богомола. Отлично рубит врагов и внедряет в раны два вида грибных спор.</BMT_FungalMantisScythe.description>
+  <BMT_FungalMantisScythe.label>коса грибного богомола</BMT_FungalMantisScythe.label>
+  <BMT_FungalMantisScythe.tools.edge.label>лезвие</BMT_FungalMantisScythe.tools.edge.label>
+  <BMT_FungalMantisScythe.tools.handle.label>рукоять</BMT_FungalMantisScythe.tools.handle.label>
+  <BMT_FungalPowerGenerator.description>Вырабатывает электричество с помощью особых грибов, посаженных рядом. Эффективность зависит от их количества.</BMT_FungalPowerGenerator.description>
+  <BMT_FungalPowerGenerator.label>грибной генератор</BMT_FungalPowerGenerator.label>
+  <BMT_FungalTendril.description>В отличие от обычных грибов, этот гриб похож на усик. Распространяет споры из маленьких узелков по всей длине.</BMT_FungalTendril.description>
+  <BMT_FungalTendril.label>тендралус</BMT_FungalTendril.label>
+  <BMT_FungalWeevil.description>Обычно грибок губителен для заражённого насекомого, но здесь заражение каким-то образом превратилось в благополучный симбиоз. Передвигаясь, долгоносик рассеивает споры, а его тело служит грибу домом. Взамен гриб помогает хозяину скрываться среди окружающих грибных зарослей.</BMT_FungalWeevil.description>
+  <BMT_FungalWeevil.label>грибной долгоносик</BMT_FungalWeevil.label>
+  <BMT_FungalWeevil.tools.head.label>голова</BMT_FungalWeevil.tools.head.label>
+  <BMT_FungalWeevil.tools.mandibles.label>жвалы</BMT_FungalWeevil.tools.mandibles.label>
+  <BMT_FungiponicsBasin.description>Ряд закреплённых гниющих брёвен с отверстиями для закладки грибницы. Грибам не нужны ни свет, ни прожорливые системы полива. Некоторые виды можно выращивать только на таких грядках.</BMT_FungiponicsBasin.description>
+  <BMT_FungiponicsBasin.label>грибная грядка</BMT_FungiponicsBasin.label>
+  <BMT_Fungusfern.description>Симбиоз гриба и папоротника, обитающий в кристальных пещерах.</BMT_Fungusfern.description>
+  <BMT_Fungusfern.label>грибопапоротник</BMT_Fungusfern.label>
+  <BMT_Gembug.description>Небольшой родственник мокрицы, обычный для кристальных пещер. Известен своим экзоскелетом, похожим на самоцвет.</BMT_Gembug.description>
+  <BMT_Gembug.label>самоцветный жучок</BMT_Gembug.label>
+  <BMT_Gembug.tools.head.label>голова</BMT_Gembug.tools.head.label>
+  <BMT_Gembug.tools.mandibles.label>жвалы</BMT_Gembug.tools.mandibles.label>
+  <BMT_GiantLeaf.description>Гигантский впечатляющий съедобный лист, приспособленный к темноте. Собирает из почвы воду и минеральные вещества.</BMT_GiantLeaf.description>
+  <BMT_GiantLeaf.label>гигантский лист</BMT_GiantLeaf.label>
+  <BMT_GiantSlug.description>Огромный слизень размером примерно со свинью. В подземных поселениях его часто разводят на мясо.</BMT_GiantSlug.description>
+  <BMT_GiantSlug.label>гигантский слизень</BMT_GiantSlug.label>
+  <BMT_GiantSlug.tools.head.label>голова</BMT_GiantSlug.tools.head.label>
+  <BMT_GiantSnail.description>Огромная стадная улитка, которую многие пещерные народы используют как вьючное животное. Она может цепляться почти за любую поверхность и ползать по ней, что делает её незаменимой для подземных торговцев и путешественников.</BMT_GiantSnail.description>
+  <BMT_GiantSnail.label>гигантская улитка</BMT_GiantSnail.label>
+  <BMT_GiantSnail.tools.head.label>голова</BMT_GiantSnail.tools.head.label>
+  <BMT_GlarralPenguin.description>Пингвины с большими клювами. Выдалбливают ими убежища и добывают пищу в полостях ледников и промёрзших пустошах.</BMT_GlarralPenguin.description>
+  <BMT_GlarralPenguin.label>гларральский пингвин</BMT_GlarralPenguin.label>
+  <BMT_GlarralPenguin.tools.beak.label>клюв</BMT_GlarralPenguin.tools.beak.label>
+  <BMT_GlarralPenguin.tools.claws.label>когти</BMT_GlarralPenguin.tools.claws.label>
+  <BMT_GlarralPenguin.tools.head.label>голова</BMT_GlarralPenguin.tools.head.label>
+  <BMT_Gleamcap.description>Огромный гриб пещерных миров, чьи природные лечебные свойства хорошо известны местным целителям. При любом беспокойстве светошляпка выпускает психоактивные споры.</BMT_Gleamcap.description>
+  <BMT_Gleamcap.label>светошляпка</BMT_Gleamcap.label>
+  <BMT_GleamcapPlanted.description>Огромный гриб пещерных миров, чьи природные лечебные свойства хорошо известны местным целителям. При любом беспокойстве светошляпка выпускает психоактивные споры. Выращивается только на грибных грядках.</BMT_GleamcapPlanted.description>
+  <BMT_GleamcapPlanted.label>светошляпка</BMT_GleamcapPlanted.label>
+  <BMT_GleamcapSalve.description>Огромная светошляпка, сочащаяся мазью. Целители пещерных миров знают о её природных лечебных свойствах: она помогает обрабатывать раны и облегчает боль.</BMT_GleamcapSalve.description>
+  <BMT_GleamcapSalve.label>мазь из светошляпки</BMT_GleamcapSalve.label>
+  <BMT_Gleamcapsules.description>Сильное обезболивающее без побочных эффектов необработанных спор.</BMT_Gleamcapsules.description>
+  <BMT_Gleamcapsules.ingestible.ingestCommandString>Принять {0}</BMT_Gleamcapsules.ingestible.ingestCommandString>
+  <BMT_Gleamcapsules.ingestible.ingestReportString>Принимает {0}.</BMT_Gleamcapsules.ingestible.ingestReportString>
+  <BMT_Gleamcapsules.label>светокапсулы</BMT_Gleamcapsules.label>
+  <BMT_Gleamtip.description>Грибы с длинными узкими светящимися шляпками. Жители пещер используют их вместо цветов.</BMT_Gleamtip.description>
+  <BMT_Gleamtip.label>светоконечник</BMT_Gleamtip.label>
+  <BMT_Glimmerslime.description>Мерцающая слизь — слизевик, а вовсе не настоящий гриб. Живёт в симбиозе с сияющими шляпками.</BMT_Glimmerslime.description>
+  <BMT_Glimmerslime.label>мерцающая слизь</BMT_Glimmerslime.label>
+  <BMT_Glitter.description>Кристаллизованный сок нефритового блеска. При вдыхании повышает способность к физическому труду и меняет настроение: человеку кажется, будто он находится на свежем воздухе. Вызывает зависимость, хотя вероятность её появления вдвое ниже, чем у порошка психина.
+
+Сам гриб создавали ради красоты, но теперь полученным из него наркотиком горнодобывающие корпорации управляют работниками, расплачивающимися за это здоровьем.</BMT_Glitter.description>
+  <BMT_Glitter.ingestible.ingestCommandString>Вдохнуть {0}</BMT_Glitter.ingestible.ingestCommandString>
+  <BMT_Glitter.ingestible.ingestReportString>Вдыхает {0}.</BMT_Glitter.ingestible.ingestReportString>
+  <BMT_Glitter.label>сияние</BMT_Glitter.label>
+  <BMT_Glittercap.description>Этот гриб подолгу выдерживает отрицательные температуры и считается одним из украшений ледниковых пещер.</BMT_Glittercap.description>
+  <BMT_Glittercap.label>искрошляпка</BMT_Glittercap.label>
+  <BMT_GlowBat.description>Питаясь светящимися пещерными растениями и грибами, эта летучая мышь приобрела такую же особенность.</BMT_GlowBat.description>
+  <BMT_GlowBat.label>светящаяся летучая мышь</BMT_GlowBat.label>
+  <BMT_GlowBat.tools.claws-0.label>когти</BMT_GlowBat.tools.claws-0.label>
+  <BMT_GlowBat.tools.claws-1.label>когти</BMT_GlowBat.tools.claws-1.label>
+  <BMT_GlowBat.tools.head.label>голова</BMT_GlowBat.tools.head.label>
+  <BMT_GlowGoo.description>Органическая светящаяся слизь, которую чаще всего вырабатывает особая каста насекомых. При правильном использовании позволяет освещать тёмные места.</BMT_GlowGoo.description>
+  <BMT_GlowGoo.label>светящаяся слизь</BMT_GlowGoo.label>
+  <BMT_GlowGooTorch.description>Особым образом обработанный факел, освещающий большую площадь.</BMT_GlowGooTorch.description>
+  <BMT_GlowGooTorch.label>факел со светящейся слизью</BMT_GlowGooTorch.label>
+  <BMT_GlowSlug.description>Этого биолюминесцентного слизня легко заметить в любой темноте — как сородичам, так и хищникам. Удивительно, что вид вообще дожил до наших дней, да ещё и достигает таких размеров.</BMT_GlowSlug.description>
+  <BMT_GlowSlug.label>светослизень</BMT_GlowSlug.label>
+  <BMT_GlowSlug.tools.head.label>голова</BMT_GlowSlug.tools.head.label>
+  <BMT_Glowbulb.description>Небольшая светящаяся луковица, встречающаяся почти в любом уголке тёмных пещер. Она съедобна, но из-за резкого вкуса её лучше готовить.</BMT_Glowbulb.description>
+  <BMT_Glowbulb.label>светолуковица</BMT_Glowbulb.label>
+  <BMT_GlowbulbPlanted.description>Небольшая светящаяся луковица, встречающаяся почти в любом уголке тёмных пещер. Она съедобна, но из-за резкого вкуса её лучше готовить. Выращивается только на грибных грядках.</BMT_GlowbulbPlanted.description>
+  <BMT_GlowbulbPlanted.label>светолуковица</BMT_GlowbulbPlanted.label>
+  <BMT_GlowingSucculent.description>Биолюминесцентный суккулент, растущий в пещерах под пустынями.</BMT_GlowingSucculent.description>
+  <BMT_GlowingSucculent.label>мерцающий кактус</BMT_GlowingSucculent.label>
+  <BMT_GoetoTadpole.description>Личинка жабы гоэто. Живёт в часто мутной воде пещер, питаясь любыми доступными органическими остатками.</BMT_GoetoTadpole.description>
+  <BMT_GoetoTadpole.label>головастик гоэто</BMT_GoetoTadpole.label>
+  <BMT_GoetoTadpole.tools.head.label>голова</BMT_GoetoTadpole.tools.head.label>
+  <BMT_GoetoTadpole.tools.teeth.label>зубы</BMT_GoetoTadpole.tools.teeth.label>
+  <BMT_GoetoToad.description>Жаба гоэто — очередная попытка создать источник мяса и яиц для горнодобывающих центров и подземных поселений. Проект быстро вышел из-под контроля, а подопытные особи приспособились к пещерам, ставшим их новой «естественной» средой обитания.</BMT_GoetoToad.description>
+  <BMT_GoetoToad.label>жаба гоэто</BMT_GoetoToad.label>
+  <BMT_GoetoToad.tools.head.label>голова</BMT_GoetoToad.tools.head.label>
+  <BMT_GoetoToad.tools.left_claw.label>левый коготь</BMT_GoetoToad.tools.left_claw.label>
+  <BMT_GoetoToad.tools.right_claw.label>правый коготь</BMT_GoetoToad.tools.right_claw.label>
+  <BMT_Greatbulb.description>Более крупная и выносливая разновидность светолуковицы, встречающаяся в небольших пещерных системах.</BMT_Greatbulb.description>
+  <BMT_Greatbulb.label>великая светолуковица</BMT_Greatbulb.label>
+  <BMT_GreenArpeau.description>Быстрорастущий водный гриб, дающий мало полезного материала.</BMT_GreenArpeau.description>
+  <BMT_GreenArpeau.label>арпо</BMT_GreenArpeau.label>
+  <BMT_GreyLady.description>Серый гриб, на шляпке которого растёт кружевная ткань.</BMT_GreyLady.description>
+  <BMT_GreyLady.label>серая дама</BMT_GreyLady.label>
+  <BMT_Greyfields.description>Невзрачные грибы с заурядными вкусом и текстурой. Примечательны главным образом тем, что из них можно делать грибное вино.</BMT_Greyfields.description>
+  <BMT_Greyfields.label>серошляпки</BMT_Greyfields.label>
+  <BMT_GreyfieldsPlanted.description>Невзрачные грибы с заурядными вкусом и текстурой. Примечательны главным образом тем, что из них можно делать грибное вино. Выращиваются только на грибных грядках.</BMT_GreyfieldsPlanted.description>
+  <BMT_GreyfieldsPlanted.label>серошляпки</BMT_GreyfieldsPlanted.label>
+  <BMT_HealrootGrass.description>Трава, чьи стебли обладают целебными свойствами, подобными целебному корню.</BMT_HealrootGrass.description>
+  <BMT_HealrootGrass.label>лечебная трава</BMT_HealrootGrass.label>
+  <BMT_HeatsinkFungus.description>Сложная цепочка химических реакций позволяет этому грибу поглощать тепло и использовать его для роста. Жители глубоких пещер охлаждают с его помощью дома: строят жилища вокруг грибов или пересаживают их внутрь.</BMT_HeatsinkFungus.description>
+  <BMT_HeatsinkFungus.label>гриб-теплопоглотитель</BMT_HeatsinkFungus.label>
+  <BMT_HoarfrostMastodon.description>Морозный мастодонт использует длинный хобот для манипуляций с предметами, а острые изогнутые бивни — чтобы пронзать и сокрушать нападающих. Ценные бивни можно получить, разделав тушу погибшего мастодонта.
+
+Это умные существа со сложными социальными связями. Их можно обучить самым трудным задачам. Мастодонты живут долго и помнят события и отношения многолетней давности.</BMT_HoarfrostMastodon.description>
+  <BMT_HoarfrostMastodon.label>морозный мастодонт</BMT_HoarfrostMastodon.label>
+  <BMT_HoarfrostMastodon.tools.head.label>голова</BMT_HoarfrostMastodon.tools.head.label>
+  <BMT_HoarfrostMastodon.tools.left_foot.label>левая ступня</BMT_HoarfrostMastodon.tools.left_foot.label>
+  <BMT_HoarfrostMastodon.tools.right_foot.label>правая ступня</BMT_HoarfrostMastodon.tools.right_foot.label>
+  <BMT_HoarfrostMastodon.tools.tusk.label>бивень</BMT_HoarfrostMastodon.tools.tusk.label>
+  <BMT_HungeringHydra.description>Три головы и столько же желудков заставляют этого огромного прожорливого зверя почти непрерывно рыскать по пещерам в поисках еды. Его защищают крепкая природная броня и острые, как бритвы, зубы, а полученные раны быстро заживают.</BMT_HungeringHydra.description>
+  <BMT_HungeringHydra.label>ненасытная гидра</BMT_HungeringHydra.label>
+  <BMT_HungeringHydra.tools.head.label>голова</BMT_HungeringHydra.tools.head.label>
+  <BMT_ImperialToad.description>Императорская жаба обитает в пещерах под пустынями окраинных миров. Она часто становится лёгкой добычей, но многие жители пещер полюбили её как питомца за царственную осанку.</BMT_ImperialToad.description>
+  <BMT_ImperialToad.label>императорская жаба</BMT_ImperialToad.label>
+  <BMT_ImperialToad.tools.head.label>голова</BMT_ImperialToad.tools.head.label>
+  <BMT_ImperialToad.tools.left_claw.label>левый коготь</BMT_ImperialToad.tools.left_claw.label>
+  <BMT_ImperialToad.tools.right_claw.label>правый коготь</BMT_ImperialToad.tools.right_claw.label>
+  <BMT_JadeGlints.description>Собранные грибы «нефритовый блеск». В необработанном виде вызывают лёгкую телесную эйфорию без зависимости; эффект намного слабее, чем после переработки. Из них можно получить наркотик «сияние».</BMT_JadeGlints.description>
+  <BMT_JadeGlints.label>нефритовый блеск</BMT_JadeGlints.label>
+  <BMT_JadeGlintsCrop.description>Необычный, но по-своему красивый гриб, способный выживать почти в любом тёмном месте. Изначально его создали для украшения, а позже обнаружили свойства, сходные с психином. Сырой гриб вызывает лёгкую эйфорию, но чаще его сок очищают и кристаллизуют, получая сильный наркотик «сияние». Нелегальные горнодобывающие компании используют его, чтобы заставлять работников выходить на дополнительные смены.</BMT_JadeGlintsCrop.description>
+  <BMT_JadeGlintsCrop.label>гриб «нефритовый блеск»</BMT_JadeGlintsCrop.label>
+  <BMT_Jellypot.description>Это редкое животное встречается почти исключительно возле ульев насекомых. Название получило за способность вырабатывать желе насекомых в большом грудном мешке. Насекомые разводят желейников, словно муравьи тлю, однако в неволе у людей те, по-видимому, не размножаются.</BMT_Jellypot.description>
+  <BMT_Jellypot.label>желейник</BMT_Jellypot.label>
+  <BMT_Jellypot.tools.head.label>голова</BMT_Jellypot.tools.head.label>
+  <BMT_Jellypot.tools.mandibles.label>жвалы</BMT_Jellypot.tools.mandibles.label>
+  <BMT_JewelBeetle.description>Маленький красивый жук из неглубоких пустынных пещер. Его ценят за ярко окрашенный панцирь.</BMT_JewelBeetle.description>
+  <BMT_JewelBeetle.label>жук-самоцвет</BMT_JewelBeetle.label>
+  <BMT_JewelBeetle.tools.head.label>голова</BMT_JewelBeetle.tools.head.label>
+  <BMT_JewelBeetle.tools.mandibles.label>жвалы</BMT_JewelBeetle.tools.mandibles.label>
+  <BMT_JewelBeetleLarvae.description>Маленькая, довольно невзрачная личинка прячется от хищников среди песка и камней. Других средств защиты у неё почти нет.</BMT_JewelBeetleLarvae.description>
+  <BMT_JewelBeetleLarvae.label>личинка жука-самоцвета</BMT_JewelBeetleLarvae.label>
+  <BMT_JewelBeetleLarvae.tools.head.label>голова</BMT_JewelBeetleLarvae.tools.head.label>
+  <BMT_JewelBeetleLarvae.tools.mandibles.label>жвалы</BMT_JewelBeetleLarvae.tools.mandibles.label>
+  <BMT_JewelBeetlePupa.description>Куколка жука-самоцвета. При превращении большая часть её тела разжижается.</BMT_JewelBeetlePupa.description>
+  <BMT_JewelBeetlePupa.label>куколка жука-самоцвета</BMT_JewelBeetlePupa.label>
+  <BMT_JewelBeetlePupa.tools.Twitching.label>подёргивается</BMT_JewelBeetlePupa.tools.Twitching.label>
+  <BMT_JuiceCactus.description>Красивый цветущий кактус, наполненный довольно вкусным соком.</BMT_JuiceCactus.description>
+  <BMT_JuiceCactus.label>сочный кактус</BMT_JuiceCactus.label>
+  <BMT_Kessinger.description>Богатое питательными веществами грибное тело, собранное и спрессованное для хранения. Кессингер подходит для кормления животных, но несъедобен для людей.</BMT_Kessinger.description>
+  <BMT_Kessinger.label>кессингер</BMT_Kessinger.label>
+  <BMT_KessingerPlant.description>Очень жёсткий гриб, похожий на оборку. Для людей в основном несъедобен, но его плотным плодовым телом могут питаться животные.</BMT_KessingerPlant.description>
+  <BMT_KessingerPlant.label>кессингер</BMT_KessingerPlant.label>
+  <BMT_Leather_GlacialPlain.description>Выделанная, высушенная и очищенная кожа. Хороший традиционный материал для одежды и сумок.</BMT_Leather_GlacialPlain.description>
+  <BMT_Leather_GlacialPlain.label>ледниковая кожа</BMT_Leather_GlacialPlain.label>
+  <BMT_Leather_Mushroom.description>Мягкий влажный материал, лишь отдалённо похожий на кожу.</BMT_Leather_Mushroom.description>
+  <BMT_Leather_Mushroom.label>грибная кожа</BMT_Leather_Mushroom.label>
+  <BMT_LuminousSpout.description>Водный гриб в форме перевёрнутого конуса. Заметно светится в темноте.</BMT_LuminousSpout.description>
+  <BMT_LuminousSpout.label>светящийся раструб</BMT_LuminousSpout.label>
+  <BMT_MaceDrake.description>Несмотря на свирепый драконий облик, это довольно мирное травоядное. Однако, если его потревожить, оно охотно пустит в ход хвост с булавой на конце.</BMT_MaceDrake.description>
+  <BMT_MaceDrake.label>булавохвостый дракон</BMT_MaceDrake.label>
+  <BMT_MaceDrake.tools.head.label>голова</BMT_MaceDrake.tools.head.label>
+  <BMT_MaceDrake.tools.left_wing.label>левое крыло</BMT_MaceDrake.tools.left_wing.label>
+  <BMT_MaceDrake.tools.rear_left_foot.label>задняя левая ступня</BMT_MaceDrake.tools.rear_left_foot.label>
+  <BMT_MaceDrake.tools.rear_right_foot.label>задняя правая ступня</BMT_MaceDrake.tools.rear_right_foot.label>
+  <BMT_MaceDrake.tools.right_wing.label>правое крыло</BMT_MaceDrake.tools.right_wing.label>
+  <BMT_MaceDrake.tools.tailclub.label>хвостовая булава</BMT_MaceDrake.tools.tailclub.label>
+  <BMT_Maguana.description>Рисунок на коже этой родственницы наземной игуаны напоминает застывшую и раскалённую магму, помогая сливаться с нестабильным окружением пещер. Особый состав тканей делает её невосприимчивой к огню.</BMT_Maguana.description>
+  <BMT_Maguana.label>магуана</BMT_Maguana.label>
+  <BMT_Maguana.tools.head.label>голова</BMT_Maguana.tools.head.label>
+  <BMT_Maguana.tools.left_claw.label>левый коготь</BMT_Maguana.tools.left_claw.label>
+  <BMT_Maguana.tools.right_claw.label>правый коготь</BMT_Maguana.tools.right_claw.label>
+  <BMT_MedicineFungal.description>Набор лечебных грибных составов, извлечённых из смертельного сморчка. Уступает промышленным медикаментам, но гораздо лучше, чем ничего.</BMT_MedicineFungal.description>
+  <BMT_MedicineFungal.label>грибное лекарство</BMT_MedicineFungal.label>
+  <BMT_Megabat.description>Эта огромная летучая мышь почти утратила способность летать и вместо этого ходит, опираясь на крылья. Она научилась использовать эхолокацию как оружие, дезориентирующее добычу.</BMT_Megabat.description>
+  <BMT_Megabat.label>мегакрылан</BMT_Megabat.label>
+  <BMT_Megabat.race.meatLabel>мясо летучей мыши</BMT_Megabat.race.meatLabel>
+  <BMT_Megabat.tools.head.label>голова</BMT_Megabat.tools.head.label>
+  <BMT_Megabat.tools.wing-0.label>крыло</BMT_Megabat.tools.wing-0.label>
+  <BMT_Megabat.tools.wing-1.label>крыло</BMT_Megabat.tools.wing-1.label>
+  <BMT_Megapleura.description>Родственница трилобитового жука, достигшая огромных размеров в глубинах коры окраинных миров. Несмотря на странный вид, по большей части безвредна.</BMT_Megapleura.description>
+  <BMT_Megapleura.label>мегаплевра</BMT_Megapleura.label>
+  <BMT_Megapleura.tools.head.label>голова</BMT_Megapleura.tools.head.label>
+  <BMT_Megapleura.tools.mandibles.label>жвалы</BMT_Megapleura.tools.mandibles.label>
+  <BMT_MetalloSnail.description>Эта улитка приспособилась — сама или благодаря генной инженерии — к сильному жару и нестабильным условиям у слоя расплавленной породы. Она наращивает металлическую раковину и тонкие металлические пластины, защищающие мягкие части тела.</BMT_MetalloSnail.description>
+  <BMT_MetalloSnail.label>металлическая улитка</BMT_MetalloSnail.label>
+  <BMT_MetalloSnail.tools.head.label>голова</BMT_MetalloSnail.tools.head.label>
+  <BMT_Mole.description>Крот обычно живёт в неглубоких пещерах. Роет землю быстрее, чем ходит по ней.</BMT_Mole.description>
+  <BMT_Mole.label>крот</BMT_Mole.label>
+  <BMT_Mole.tools.head.label>голова</BMT_Mole.tools.head.label>
+  <BMT_Mole.tools.left_claw.label>левый коготь</BMT_Mole.tools.left_claw.label>
+  <BMT_Mole.tools.right_claw.label>правый коготь</BMT_Mole.tools.right_claw.label>
+  <BMT_Molebear.description>Создан из смеси генов крота и медведя. После выпуска в дикую природу обосновался в пещерах у поверхности. Приходит и уходит, когда ему вздумается.</BMT_Molebear.description>
+  <BMT_Molebear.label>кротомедведь</BMT_Molebear.label>
+  <BMT_Molebear.race.meatLabel>мясо кротомедведя</BMT_Molebear.race.meatLabel>
+  <BMT_Molebear.tools.0.label>левый коготь</BMT_Molebear.tools.0.label>
+  <BMT_Molebear.tools.1.label>правый коготь</BMT_Molebear.tools.1.label>
+  <BMT_Molebear.tools.3.label>голова</BMT_Molebear.tools.3.label>
+  <BMT_Molebear.tools.head-0.label>голова</BMT_Molebear.tools.head-0.label>
+  <BMT_Molebear.tools.head-1.label>голова</BMT_Molebear.tools.head-1.label>
+  <BMT_Molebear.tools.left_claw-0.label>левый коготь</BMT_Molebear.tools.left_claw-0.label>
+  <BMT_Molebear.tools.left_claw-0.labelNoLocation>коготь</BMT_Molebear.tools.left_claw-0.labelNoLocation>
+  <BMT_Molebear.tools.left_claw-1.label>левый коготь</BMT_Molebear.tools.left_claw-1.label>
+  <BMT_Molebear.tools.right_claw-0.label>правый коготь</BMT_Molebear.tools.right_claw-0.label>
+  <BMT_Molebear.tools.right_claw-0.labelNoLocation>коготь</BMT_Molebear.tools.right_claw-0.labelNoLocation>
+  <BMT_Molebear.tools.right_claw-1.label>правый коготь</BMT_Molebear.tools.right_claw-1.label>
+  <BMT_MoonlessSilk.description>Выделанные, высушенные и очищенные слои гриба. Хороший подземный материал для одежды и сумок.</BMT_MoonlessSilk.description>
+  <BMT_MoonlessSilk.label>кожа безлунного полосатика</BMT_MoonlessSilk.label>
+  <BMT_MoonlessStripesPlant.description>Этот причудливый выносливый гриб любит жару и процветает в глубинах. Посадить его можно где угодно, но для нормального роста нужна высокая температура. Крепкая слоистая ножка годится для изготовления материала, похожего на кожу.</BMT_MoonlessStripesPlant.description>
+  <BMT_MoonlessStripesPlant.label>безлунный полосатик</BMT_MoonlessStripesPlant.label>
+  <BMT_MortalMorelPlant.description>Медленно растущий гриб, из которого получают грибное лекарство. Его хрупкая структура делает и посев, и сбор очень трудоёмкими.</BMT_MortalMorelPlant.description>
+  <BMT_MortalMorelPlant.label>смертельный сморчок</BMT_MortalMorelPlant.label>
+  <BMT_MortalMorelPlantGrowable.description>Медленно растущий гриб, из которого получают грибное лекарство. Его хрупкая структура делает и посев, и сбор очень трудоёмкими.</BMT_MortalMorelPlantGrowable.description>
+  <BMT_MortalMorelPlantGrowable.label>смертельный сморчок</BMT_MortalMorelPlantGrowable.label>
+  <BMT_MossBeetle.description>Крупное насекомое, обычное для тёмных и влажных мест.
+
+Питается низкой растительностью грибных лесов. Не лучший источник мяса, но сгодится, когда больше почти ничего нет.</BMT_MossBeetle.description>
+  <BMT_MossBeetle.label>моховой жук</BMT_MossBeetle.label>
+  <BMT_MossBeetle.tools.head.label>голова</BMT_MossBeetle.tools.head.label>
+  <BMT_MossBeetle.tools.mandibles.label>жвалы</BMT_MossBeetle.tools.mandibles.label>
+  <BMT_MossBeetleLarvae.description>Крупное насекомое, обычное для тёмных и влажных мест. Питается низкой пещерной растительностью. Не лучший источник мяса, но сгодится, когда больше почти ничего нет.</BMT_MossBeetleLarvae.description>
+  <BMT_MossBeetleLarvae.label>личинка мохового жука</BMT_MossBeetleLarvae.label>
+  <BMT_MossBeetleLarvae.tools.head.label>голова</BMT_MossBeetleLarvae.tools.head.label>
+  <BMT_MossBeetleLarvae.tools.mandibles.label>жвалы</BMT_MossBeetleLarvae.tools.mandibles.label>
+  <BMT_MossBeetlePupa.description>Крупное насекомое, обычное для тёмных и влажных мест.
+
+Питается низкой растительностью грибных лесов. Не лучший источник мяса, но сгодится, когда больше почти ничего нет.</BMT_MossBeetlePupa.description>
+  <BMT_MossBeetlePupa.label>куколка мохового жука</BMT_MossBeetlePupa.label>
+  <BMT_MossBeetlePupa.tools.Twitching.label>подёргивается</BMT_MossBeetlePupa.tools.Twitching.label>
+  <BMT_MossyFennec.description>Этот вид лис образовал необычную взаимовыгодную связь со мхом. Лиса переносит его и обеспечивает водой и питательными веществами, а мох передаёт ей энергию через соприкосновение с кожей.</BMT_MossyFennec.description>
+  <BMT_MossyFennec.label>моховой фенек</BMT_MossyFennec.label>
+  <BMT_MossyFennec.tools.head.label>голова</BMT_MossyFennec.tools.head.label>
+  <BMT_MossyFennec.tools.left_claw.label>левый коготь</BMT_MossyFennec.tools.left_claw.label>
+  <BMT_MossyFennec.tools.right_claw.label>правый коготь</BMT_MossyFennec.tools.right_claw.label>
+  <BMT_MushroomFermentingBarrel.description>Бочка, в которой грибное сусло сбраживается в грибное вино.</BMT_MushroomFermentingBarrel.description>
+  <BMT_MushroomFermentingBarrel.label>бродильная бочка для грибов</BMT_MushroomFermentingBarrel.label>
+  <BMT_MushroomLog.description>Материал из крупных волокнистых грибов. Подходит для строительства и изготовления оружия. Хороший корм для животных, но для людей в основном несъедобен.
+
+Плохо горит и не годится для обычного огня, зато может служить топливом для источников тёмного света.</BMT_MushroomLog.description>
+  <BMT_MushroomLog.label>грибное бревно</BMT_MushroomLog.label>
+  <BMT_MushroomLog.stuffProps.stuffAdjective>грибной</BMT_MushroomLog.stuffProps.stuffAdjective>
+  <BMT_MushroomLog.tools.mushroom_log.label>грибное бревно</BMT_MushroomLog.tools.mushroom_log.label>
+  <BMT_MushroomMust.description>Заготовка для грибного вина. Прежде чем её можно будет пить, она должна перебродить в бродильной бочке для грибов.</BMT_MushroomMust.description>
+  <BMT_MushroomMust.label>грибное сусло</BMT_MushroomMust.label>
+  <BMT_MushroomWine.description>Алкогольный напиток из перебродивших грибов, отдалённо напоминающий вино. Его терпкий вкус с нотками агара понравится не каждому.</BMT_MushroomWine.description>
+  <BMT_MushroomWine.ingestible.ingestCommandString>Выпить {0}</BMT_MushroomWine.ingestible.ingestCommandString>
+  <BMT_MushroomWine.ingestible.ingestReportString>Пьёт {0}.</BMT_MushroomWine.ingestible.ingestReportString>
+  <BMT_MushroomWine.label>грибное вино</BMT_MushroomWine.label>
+  <BMT_MushroomWine.tools.bottle.label>бутылка</BMT_MushroomWine.tools.bottle.label>
+  <BMT_MushroomWine.tools.neck.label>горлышко</BMT_MushroomWine.tools.neck.label>
+  <BMT_MycelialBlocks.description>Блоки спрессованного мицелия — волокнистой, похожей на корни части гриба. Неплохой корм для животных, который не гниёт. Для людей несъедобен.</BMT_MycelialBlocks.description>
+  <BMT_MycelialBlocks.label>блоки мицелия</BMT_MycelialBlocks.label>
+  <BMT_Mycelium.description>Обширная сеть грибных гиф. Корни составляют лишь часть растения, а мицелий — основную часть гриба; привычные нам шляпки и ножки служат для размножения. Обычно эта сеть скрыта под землёй, но в пещерах с тонким слоем почвы она приспособилась стелиться по поверхности камня.</BMT_Mycelium.description>
+  <BMT_Mycelium.label>мицелий</BMT_Mycelium.label>
+  <BMT_NaturalBuildings_Stalagmites_Large.description>Каменное образование, растущее со дна пещеры по мере накопления веществ, оседающих из капель с потолка.</BMT_NaturalBuildings_Stalagmites_Large.description>
+  <BMT_NaturalBuildings_Stalagmites_Large.label>сталагмит</BMT_NaturalBuildings_Stalagmites_Large.label>
+  <BMT_NaturalBuildings_Stalagmites_Medium.description>Каменное образование, растущее со дна пещеры по мере накопления веществ, оседающих из капель с потолка.</BMT_NaturalBuildings_Stalagmites_Medium.description>
+  <BMT_NaturalBuildings_Stalagmites_Medium.label>сталагмит</BMT_NaturalBuildings_Stalagmites_Medium.label>
+  <BMT_NaturalBuildings_Stalagmites_Small.description>Каменное образование, растущее со дна пещеры по мере накопления веществ, оседающих из капель с потолка.</BMT_NaturalBuildings_Stalagmites_Small.description>
+  <BMT_NaturalBuildings_Stalagmites_Small.label>сталагмит</BMT_NaturalBuildings_Stalagmites_Small.label>
+  <BMT_NaturalCrystalWall.description>Красивая стена из природного кристалла.</BMT_NaturalCrystalWall.description>
+  <BMT_NaturalCrystalWall.label>кристалл</BMT_NaturalCrystalWall.label>
+  <BMT_Nogtyl.description>Прочный деревянистый гриб. Быстро растёт, но даёт мало полезного материала. В культуре растёт только на болотистой почве.</BMT_Nogtyl.description>
+  <BMT_Nogtyl.label>ногтиль</BMT_Nogtyl.label>
+  <BMT_NogtylMarsh.description>Прочный деревянистый гриб. Быстро растёт, но даёт мало полезного материала. В культуре растёт только на болотистой почве.</BMT_NogtylMarsh.description>
+  <BMT_NogtylMarsh.label>ногтиль</BMT_NogtylMarsh.label>
+  <BMT_Nuitae.description>Снаружи шляпка в основном тёмная, зато её нижняя сторона ярко светится. Чаще всего растёт в воде или в очень влажных местах.</BMT_Nuitae.description>
+  <BMT_Nuitae.label>нюитэ</BMT_Nuitae.label>
+  <BMT_NuitaeMarsh.description>Снаружи шляпка в основном тёмная, зато её нижняя сторона ярко светится. Чаще всего растёт в воде или в очень влажных местах.</BMT_NuitaeMarsh.description>
+  <BMT_NuitaeMarsh.label>нюитэ</BMT_NuitaeMarsh.label>
+  <BMT_Pillbug.description>Крупное равноногое ракообразное в самом низу пещерной пищевой цепи. Поедает почти любую найденную грязь, поддерживая чистоту в туннелях и катакомбах.</BMT_Pillbug.description>
+  <BMT_Pillbug.label>мокрица</BMT_Pillbug.label>
+  <BMT_Pillbug.tools.head.label>голова</BMT_Pillbug.tools.head.label>
+  <BMT_Pillbug.tools.mandibles.label>жвалы</BMT_Pillbug.tools.mandibles.label>
+  <BMT_PodWorm.description>Большой и грозный вид этого странного насекомоподобного существа обманчив: нрав у него мирный. Обычно оно живёт в ульях насекомых и принадлежит к касте, производящей светящиеся коконы. Иногда забредает далеко от улья или попадает в плен к человекоподобным существам, которые продают его.</BMT_PodWorm.description>
+  <BMT_PodWorm.label>червь-светляк</BMT_PodWorm.label>
+  <BMT_PodWorm.tools.head.label>голова</BMT_PodWorm.tools.head.label>
+  <BMT_PodWorm.tools.mandibles.label>жвалы</BMT_PodWorm.tools.mandibles.label>
+  <BMT_Poptop.description>Губчатый грибной росток, который при контакте с огнём выпускает покрытые слизью споры. Они действуют подобно воде или огнегасящей пене.</BMT_Poptop.description>
+  <BMT_Poptop.label>хлопошляпка</BMT_Poptop.label>
+  <BMT_PowerFungus.description>Гриб, создающий электрический потенциал. С подходящим устройством из него можно получать энергию. Потенциальная мощность: 60.</BMT_PowerFungus.description>
+  <BMT_PowerFungus.label>энергогриб</BMT_PowerFungus.label>
+  <BMT_Pusmelon.description>Зелёный гриб, похожий на тыкву и образующий мешки с дурно пахнущей жидкостью.</BMT_Pusmelon.description>
+  <BMT_Pusmelon.label>гнойная дыня</BMT_Pusmelon.label>
+  <BMT_Ravelmush.description>Необычный гриб, широко раскидывающий мицелий. Переваривает грязь, чтобы получать питательные вещества для роста.</BMT_Ravelmush.description>
+  <BMT_Ravelmush.label>гриб-путаник</BMT_Ravelmush.label>
+  <BMT_RawDulcis.description>Грибы дульцис. Приятны на вкус даже сырыми, если вы любите грибы.</BMT_RawDulcis.description>
+  <BMT_RawDulcis.label>дульцис</BMT_RawDulcis.label>
+  <BMT_RawGiantLeaf.description>Гигантский впечатляющий лист.</BMT_RawGiantLeaf.description>
+  <BMT_RawGiantLeaf.label>гигантский лист</BMT_RawGiantLeaf.label>
+  <BMT_RawGlowbulb.description>Сырая светолуковица. Жёсткая, резинистая мякоть делает её тяжёлой и малоприятной для еды без готовки, зато она медленно портится.</BMT_RawGlowbulb.description>
+  <BMT_RawGlowbulb.label>сырая светолуковица</BMT_RawGlowbulb.label>
+  <BMT_RawGreyfields.description>Сырые серошляпки, из которых можно приготовить еду или грибное вино.</BMT_RawGreyfields.description>
+  <BMT_RawGreyfields.label>сырые серошляпки</BMT_RawGreyfields.label>
+  <BMT_RawShimmershroom.description>Сырой мерцегриб. Жители пещерных миров высоко ценят его нежный вкус и питательность.</BMT_RawShimmershroom.description>
+  <BMT_RawShimmershroom.label>свежий мерцегриб</BMT_RawShimmershroom.label>
+  <BMT_ReindeerMoss.description>Мох с окраской под цвет промёрзших туннелей, приспособившийся к темноте. Выживает за счёт любых доступных ресурсов.</BMT_ReindeerMoss.description>
+  <BMT_ReindeerMoss.label>олений мох</BMT_ReindeerMoss.label>
+  <BMT_ResourceBlueCrystal.description>Синий кристалл, добытый в кристальных пещерах.</BMT_ResourceBlueCrystal.description>
+  <BMT_ResourceBlueCrystal.label>кристалл</BMT_ResourceBlueCrystal.label>
+  <BMT_ResourceBlueCrystal.stuffProps.stuffAdjective>кристальный</BMT_ResourceBlueCrystal.stuffProps.stuffAdjective>
+  <BMT_ResourceBlueCrystal.tools.crystal_shard.label>осколок кристалла</BMT_ResourceBlueCrystal.tools.crystal_shard.label>
+  <BMT_RimeFlower.description>Этот красивый холодостойкий цветок способен выжить почти без света, но лучше растёт хотя бы при слабом освещении.</BMT_RimeFlower.description>
+  <BMT_RimeFlower.label>морозный цветок</BMT_RimeFlower.label>
+  <BMT_RimeFlowerGrowable.description>Этот красивый холодостойкий цветок способен выжить почти без света, но лучше растёт хотя бы при слабом освещении.</BMT_RimeFlowerGrowable.description>
+  <BMT_RimeFlowerGrowable.label>морозный цветок</BMT_RimeFlowerGrowable.label>
+  <BMT_Rimebeak.description>Птицеподобное существо размером и крепостью с варга, вооружённое острым, как клинок, клювом. Две пары глаз позволяют ему отлично видеть почти в полной темноте.</BMT_Rimebeak.description>
+  <BMT_Rimebeak.label>инееклюв</BMT_Rimebeak.label>
+  <BMT_Rimebeak.tools.beak.label>клюв</BMT_Rimebeak.tools.beak.label>
+  <BMT_Rimebeak.tools.claws.label>когти</BMT_Rimebeak.tools.claws.label>
+  <BMT_Rimebeak.tools.head.label>голова</BMT_Rimebeak.tools.head.label>
+  <BMT_RoyalBracket.description>Древесный гриб, родственный вешенке древней Терры. Излучает роскошное золотистое сияние.</BMT_RoyalBracket.description>
+  <BMT_RoyalBracket.label>королевский трутовик</BMT_RoyalBracket.label>
+  <BMT_RoyalBracketPlanted.description>Древесный гриб, родственный вешенке древней Терры. Излучает роскошное золотистое сияние. Выращивается только на грибных грядках.</BMT_RoyalBracketPlanted.description>
+  <BMT_RoyalBracketPlanted.label>королевский трутовик</BMT_RoyalBracketPlanted.label>
+  <BMT_RoyalRhino.description>Гигантский редкий жук, которого некоторые подземные народы почитают за редкость и мощь. Его царственно-пурпурный хитин красив и невероятно прочен, а исключительно острый рог высоко ценится. Обычно миролюбив, но в ярости крайне опасен.</BMT_RoyalRhino.description>
+  <BMT_RoyalRhino.label>королевский жук-носорог</BMT_RoyalRhino.label>
+  <BMT_RoyalRhino.tools.head.label>голова</BMT_RoyalRhino.tools.head.label>
+  <BMT_RoyalRhino.tools.horn.label>рог</BMT_RoyalRhino.tools.horn.label>
+  <BMT_RoyalRhino.tools.mandibles.label>жвалы</BMT_RoyalRhino.tools.mandibles.label>
+  <BMT_RoyalRhinoHorn.description>Рог королевского жука-носорога. На большинстве рынков ему нет цены. Ценный трофей, необходимый для изготовления особых предметов.</BMT_RoyalRhinoHorn.description>
+  <BMT_RoyalRhinoHorn.label>рог королевского жука-носорога</BMT_RoyalRhinoHorn.label>
+  <BMT_RoyalRhinoHorn.tools.base.label>основание</BMT_RoyalRhinoHorn.tools.base.label>
+  <BMT_RoyalRhinoHorn.tools.point.label>остриё</BMT_RoyalRhinoHorn.tools.point.label>
+  <BMT_RoyalRhinoLarvae.description>Гигантская личинка королевского жука-носорога. Намного слабее взрослой особи и обычно скрывается до полного взросления.</BMT_RoyalRhinoLarvae.description>
+  <BMT_RoyalRhinoLarvae.label>личинка королевского жука-носорога</BMT_RoyalRhinoLarvae.label>
+  <BMT_RoyalRhinoLarvae.tools.horn.label>рог</BMT_RoyalRhinoLarvae.tools.horn.label>
+  <BMT_RoyalRhinoLarvae.tools.mandibles.label>жвалы</BMT_RoyalRhinoLarvae.tools.mandibles.label>
+  <BMT_RoyalRhinoPupa.description>Очень крупная куколка с исключительно прочной оболочкой. Она неподвижна, но панцирь защищает её от большинства повреждений.</BMT_RoyalRhinoPupa.description>
+  <BMT_RoyalRhinoPupa.label>куколка королевского жука-носорога</BMT_RoyalRhinoPupa.label>
+  <BMT_RoyalRhinoPupa.tools.Twitching.label>подёргивается</BMT_RoyalRhinoPupa.tools.Twitching.label>
+  <BMT_RustPuff.description>Крупный гриб-дождевик с хлопьевидными спорами ржавого цвета.</BMT_RustPuff.description>
+  <BMT_RustPuff.label>ржавый дождевик</BMT_RustPuff.label>
+  <BMT_Sagecrust.description>Жёсткий листоватый лишайник, которому хватает самого слабого света.</BMT_Sagecrust.description>
+  <BMT_Sagecrust.label>шалфейная корка</BMT_Sagecrust.label>
+  <BMT_SandLeaper.description>Пустынный грызун, родственный обычной наземной крысе. Защищается главным образом за счёт малых размеров и быстроты, хотя у него есть и природная хитиновая броня.</BMT_SandLeaper.description>
+  <BMT_SandLeaper.label>песчаный прыгун</BMT_SandLeaper.label>
+  <BMT_SandLeaper.tools.head.label>голова</BMT_SandLeaper.tools.head.label>
+  <BMT_SandPillar.description>Подобно некоторым саламандрам, эта колоссальная гусеница всю жизнь сохраняет личиночную форму, но всё же способна размножаться.</BMT_SandPillar.description>
+  <BMT_SandPillar.label>пескогусеница</BMT_SandPillar.label>
+  <BMT_SandPillar.tools.head.label>голова</BMT_SandPillar.tools.head.label>
+  <BMT_SandPillar.tools.mandibles.label>жвалы</BMT_SandPillar.tools.mandibles.label>
+  <BMT_ShatterjawBeetle.description>Один из самых опасных обитателей кристальных пещер. Вооружён огромными жвалами, которыми дробит и разрезает добычу на куски перед едой.</BMT_ShatterjawBeetle.description>
+  <BMT_ShatterjawBeetle.label>жук-дробитель</BMT_ShatterjawBeetle.label>
+  <BMT_ShatterjawBeetle.tools.head.label>голова</BMT_ShatterjawBeetle.tools.head.label>
+  <BMT_ShatterjawBeetle.tools.mandibles.label>жвалы</BMT_ShatterjawBeetle.tools.mandibles.label>
+  <BMT_ShatterjawBeetleLarvae.description>Взрослый жук может перекусить человека пополам, но слабой мягкой личинке такое не под силу.</BMT_ShatterjawBeetleLarvae.description>
+  <BMT_ShatterjawBeetleLarvae.label>личинка жука-дробителя</BMT_ShatterjawBeetleLarvae.label>
+  <BMT_ShatterjawBeetleLarvae.tools.head.label>голова</BMT_ShatterjawBeetleLarvae.tools.head.label>
+  <BMT_ShatterjawBeetleLarvae.tools.mandibles.label>жвалы</BMT_ShatterjawBeetleLarvae.tools.mandibles.label>
+  <BMT_ShatterjawBeetlePupa.description>Куколка жука-дробителя. При превращении большая часть её тела разжижается. Оболочка, возможно, самая прочная среди всех известных куколок.</BMT_ShatterjawBeetlePupa.description>
+  <BMT_ShatterjawBeetlePupa.label>куколка жука-дробителя</BMT_ShatterjawBeetlePupa.label>
+  <BMT_ShatterjawBeetlePupa.tools.Twitching.label>подёргивается</BMT_ShatterjawBeetlePupa.tools.Twitching.label>
+  <BMT_Shimbershroom.description>Тонкий вытянутый древовидный гриб со светящейся шляпкой.</BMT_Shimbershroom.description>
+  <BMT_Shimbershroom.label>мерцедрев</BMT_Shimbershroom.label>
+  <BMT_ShimmershellSnail.description>Этот вид, похожий на других гигантских улиток подземелий и пещерных миров, был изменён так, чтобы светиться.</BMT_ShimmershellSnail.description>
+  <BMT_ShimmershellSnail.label>мерцающая улитка</BMT_ShimmershellSnail.label>
+  <BMT_ShimmershellSnail.tools.head.label>голова</BMT_ShimmershellSnail.tools.head.label>
+  <BMT_Shimmershroom.description>Мягкие, нежные грибы пещерных миров. Местные жители ценят их тонкий вкус и считают деликатесом.</BMT_Shimmershroom.description>
+  <BMT_Shimmershroom.label>мерцегриб</BMT_Shimmershroom.label>
+  <BMT_ShimmershroomPlanted.description>Мягкие, нежные грибы пещерных миров. Местные жители ценят их тонкий вкус и считают деликатесом. Выращиваются только на грибных грядках.</BMT_ShimmershroomPlanted.description>
+  <BMT_ShimmershroomPlanted.label>мерцегриб</BMT_ShimmershroomPlanted.label>
+  <BMT_Shinecap.description>Этот крупный гриб живёт в симбиозе с удивительно вкусным слизевиком — мерцающей слизью.</BMT_Shinecap.description>
+  <BMT_Shinecap.label>сияющая шляпка</BMT_Shinecap.label>
+  <BMT_SilverSheep.description>Серебристые овцы славятся тёплой блестящей шерстью, которая помогла многим поселенцам выжить в ледниковых пещерах.</BMT_SilverSheep.description>
+  <BMT_SilverSheep.label>серебристая овца</BMT_SilverSheep.label>
+  <BMT_SilverSheep.tools.head.label>голова</BMT_SilverSheep.tools.head.label>
+  <BMT_SilverSheep.tools.left_hoof.label>левое копыто</BMT_SilverSheep.tools.left_hoof.label>
+  <BMT_SilverSheep.tools.right_hoof.label>правое копыто</BMT_SilverSheep.tools.right_hoof.label>
+  <BMT_Skulltop.description>Чрезвычайно опасный гриб, непрерывно выпускающий в воздух загрязняющие ядовитые споры. У существ без иммунитета к ядам они быстро вызывают отравление.</BMT_Skulltop.description>
+  <BMT_Skulltop.label>черепогриб</BMT_Skulltop.label>
+  <BMT_SmolderstingScorpion.description>Этот колоссальный скорпион встречается лишь в глубочайших недрах. Его жгучий яд заживо сваривает добычу изнутри.</BMT_SmolderstingScorpion.description>
+  <BMT_SmolderstingScorpion.label>скорпион-огнежал</BMT_SmolderstingScorpion.label>
+  <BMT_SmolderstingScorpion.tools.head.label>голова</BMT_SmolderstingScorpion.tools.head.label>
+  <BMT_SmolderstingScorpion.tools.left_claw.label>левый коготь</BMT_SmolderstingScorpion.tools.left_claw.label>
+  <BMT_SmolderstingScorpion.tools.right_claw.label>правый коготь</BMT_SmolderstingScorpion.tools.right_claw.label>
+  <BMT_SmolderstingScorpion.tools.stinger.label>жало</BMT_SmolderstingScorpion.tools.stinger.label>
+  <BMT_SmoothedCrystalWall.description>Кристальный материал, отполированный до блеска. Очень красив.</BMT_SmoothedCrystalWall.description>
+  <BMT_SmoothedCrystalWall.label>сглаженный кристалл</BMT_SmoothedCrystalWall.label>
+  <BMT_Snowstalker.description>Один из самых опасных представителей крупных кошачьих. Охотится поодиночке, вооружён длинными острыми зубами и когтями. Подстерегает добычу в укрытии, прежде чем броситься на неё.
+
+Люди не входят в его обычный рацион, но от беззащитного человека он не откажется.</BMT_Snowstalker.description>
+  <BMT_Snowstalker.label>снежный охотник</BMT_Snowstalker.label>
+  <BMT_Snowstalker.tools.head.label>голова</BMT_Snowstalker.tools.head.label>
+  <BMT_Snowstalker.tools.left_claw.label>левый коготь</BMT_Snowstalker.tools.left_claw.label>
+  <BMT_Snowstalker.tools.left_claw.labelNoLocation>коготь</BMT_Snowstalker.tools.left_claw.labelNoLocation>
+  <BMT_Snowstalker.tools.right_claw.label>правый коготь</BMT_Snowstalker.tools.right_claw.label>
+  <BMT_Snowstalker.tools.right_claw.labelNoLocation>коготь</BMT_Snowstalker.tools.right_claw.labelNoLocation>
+  <BMT_SonarRabbit.description>Эхолокация позволяет этому кролику выживать даже в кромешной тьме. Обычно он питается небольшими подземными грибами и селится среди них.</BMT_SonarRabbit.description>
+  <BMT_SonarRabbit.label>эхокролик</BMT_SonarRabbit.label>
+  <BMT_SonarRabbit.tools.head.label>голова</BMT_SonarRabbit.tools.head.label>
+  <BMT_SpiderSilk.description>Шёлк, который вырабатывают огромные пауки. На удивление липкий, но весьма прочный.</BMT_SpiderSilk.description>
+  <BMT_SpiderSilk.label>шёлк гигантского паука</BMT_SpiderSilk.label>
+  <BMT_Starchstalk.description>По сути, это похожий на картофель корень, растущий вверх.</BMT_Starchstalk.description>
+  <BMT_Starchstalk.label>крахмалостебель</BMT_Starchstalk.label>
+  <BMT_StarchstalkPlant.description>По сути, это похожий на картофель корень, растущий вверх. Пещерные племена выращивают его за неприхотливость: он легко растёт даже на самой бедной почве.</BMT_StarchstalkPlant.description>
+  <BMT_StarchstalkPlant.label>крахмалостебель</BMT_StarchstalkPlant.label>
+  <BMT_Stimquill.description>Известное своими стимулирующими свойствами растение из подземных глубин. Плохо поддаётся выращиванию, зато процветает в дикой природе.</BMT_Stimquill.description>
+  <BMT_Stimquill.label>стимквилл</BMT_Stimquill.label>
+  <BMT_StimquillDrug.description>Наркотик, одновременно оказывающий стимулирующее и успокаивающее действие.</BMT_StimquillDrug.description>
+  <BMT_StimquillDrug.label>стимквилл</BMT_StimquillDrug.label>
+  <BMT_StinkLattice.description>Этот решётчатый гриб выделяет газы с запахом разлагающегося трупа.</BMT_StinkLattice.description>
+  <BMT_StinkLattice.label>вонючий решётник</BMT_StinkLattice.label>
+  <BMT_Stoneback.description>Эти крупные рептилиеподобные животные обычно питаются кактусами и подобной растительностью. Если их разозлить, крепкая шкура делает их опасными противниками, которых трудно убить.
+
+Удлинённые задние ноги и необычный облик подкрепляют версию об искусственном приспособлении к засушливым условиям. Почему они живут под землёй, неизвестно.</BMT_Stoneback.description>
+  <BMT_Stoneback.label>каменноспин</BMT_Stoneback.label>
+  <BMT_Stoneback.tools.head.label>голова</BMT_Stoneback.tools.head.label>
+  <BMT_Stoneback.tools.left_claw.label>левый коготь</BMT_Stoneback.tools.left_claw.label>
+  <BMT_Stoneback.tools.right_claw.label>правый коготь</BMT_Stoneback.tools.right_claw.label>
+  <BMT_Thrumbungus.description>Гигантское существо, сросшееся с грибами. В подземном мире поговаривают, что оно появилось из останков неудачного генетического эксперимента и грибов, питавшихся трупом.
+
+Обычно миролюбиво, но в ярости опасно. Необычная шкура, покрывающая большую часть тела, невероятно красива и устойчива к повреждениям.</BMT_Thrumbungus.description>
+  <BMT_Thrumbungus.label>трумбогриб</BMT_Thrumbungus.label>
+  <BMT_Thrumbungus.tools.head.label>голова</BMT_Thrumbungus.tools.head.label>
+  <BMT_Thrumbungus.tools.left_paw.label>левая лапа</BMT_Thrumbungus.tools.left_paw.label>
+  <BMT_Thrumbungus.tools.mushrooms.label>грибы</BMT_Thrumbungus.tools.mushrooms.label>
+  <BMT_Thrumbungus.tools.right_foot.label>правая ступня</BMT_Thrumbungus.tools.right_foot.label>
+  <BMT_ThrumbungusShroom.description>Гриб, растущий на трумбогрибе и наполненный спорами. Его куски можно метать во врагов, рассеивая ядовитые споры.</BMT_ThrumbungusShroom.description>
+  <BMT_ThrumbungusShroom.label>гриб трумбогриба</BMT_ThrumbungusShroom.label>
+  <BMT_ThrumbungusShroom.verbs.throw_shroom.label>бросок гриба</BMT_ThrumbungusShroom.verbs.throw_shroom.label>
+  <BMT_TruffleMole.description>Считается, что этот крот каким-то образом связан с земными свиньями, которых обучали искать трюфели. Его особое обоняние позволяет находить редкие грибы.</BMT_TruffleMole.description>
+  <BMT_TruffleMole.label>трюфельный крот</BMT_TruffleMole.label>
+  <BMT_TruffleMole.tools.head.label>голова</BMT_TruffleMole.tools.head.label>
+  <BMT_TruffleMole.tools.left_claw.label>левый коготь</BMT_TruffleMole.tools.left_claw.label>
+  <BMT_TruffleMole.tools.right_claw.label>правый коготь</BMT_TruffleMole.tools.right_claw.label>
+  <BMT_VioletWimple.description>Крупный гриб с фиолетовой шляпкой. Даёт небольшой, но съедобный урожай.</BMT_VioletWimple.description>
+  <BMT_VioletWimple.label>фиолетовый платок</BMT_VioletWimple.label>
+  <BMT_VoltaicFungus.description>Извилистый древовидный гриб. Растёт медленно, но даёт много полезного материала.</BMT_VoltaicFungus.description>
+  <BMT_VoltaicFungus.label>вольтов гриб</BMT_VoltaicFungus.label>
+  <BMT_WatOrbs.description>Небольшой суккулент с мягкими округлыми побегами, в которых запасается много воды.</BMT_WatOrbs.description>
+  <BMT_WatOrbs.label>водошарики</BMT_WatOrbs.label>
+  <BMT_Wheelshroom.description>Гриб средних размеров, способный расти в полузасушливых условиях неглубоких пустынных пещер.</BMT_Wheelshroom.description>
+  <BMT_Wheelshroom.label>гриб-колесо</BMT_Wheelshroom.label>
+  <BMT_Woollybat.description>Этих крупных летучих мышей поколениями разводили ради похожего на шерсть меха. Чтобы облегчить стрижку, селекцией добились утраты полёта. Диапазон температур, в котором они могут жить, поразительно широк.</BMT_Woollybat.description>
+  <BMT_Woollybat.label>шерстистая летучая мышь</BMT_Woollybat.label>
+  <BMT_Woollybat.tools.head.label>голова</BMT_Woollybat.tools.head.label>
+  <BMT_Woollybat.tools.wing-0.label>крыло</BMT_Woollybat.tools.wing-0.label>
+  <BMT_Woollybat.tools.wing-1.label>крыло</BMT_Woollybat.tools.wing-1.label>
+  <BMT_Wrinklecap.description>Подземный гриб, растущий во влажных местах. Им часто питаются грибоеды.</BMT_Wrinklecap.description>
+  <BMT_Wrinklecap.label>морщинистая шляпка</BMT_Wrinklecap.label>
+  <BMT_WrinklecapMarsh.description>Подземный гриб, растущий во влажных местах. Им часто питаются грибоеды.</BMT_WrinklecapMarsh.description>
+  <BMT_WrinklecapMarsh.label>морщинистая шляпка</BMT_WrinklecapMarsh.label>
+  <BMT_Xyrion.description>Эту крупную рептилию впервые завезли в окраинные миры как необычного питомца: подобно некоторым гекконам, она без вреда для себя отбрасывает хвост. Спустя годы после того, как часть особей выпустили или они сбежали в любимые подземные пещеры, выяснилось, что ксирионов можно разводить ради удивительно питательных хвостов. После отделения хвост сразу начинает отрастать, но полное восстановление занимает несколько дней.</BMT_Xyrion.description>
+  <BMT_Xyrion.label>ксирион</BMT_Xyrion.label>
+  <BMT_Xyrion.tools.head.label>голова</BMT_Xyrion.tools.head.label>
+  <BMT_Xyrion.tools.left_claw.label>левый коготь</BMT_Xyrion.tools.left_claw.label>
+  <BMT_Xyrion.tools.right_claw.label>правый коготь</BMT_Xyrion.tools.right_claw.label>
+  <BMT_XyrionTail.description>Хвост ксириона. Ещё немного подёргивается.</BMT_XyrionTail.description>
+  <BMT_XyrionTail.label>хвост ксириона</BMT_XyrionTail.label>
+  <BMT_Yooka.description>Высоченное горбатое млекопитающее, близкий родственник верблюдов и лам. Природных врагов почти нет, и юка с безмятежной грацией пасётся среди высоких грибов.</BMT_Yooka.description>
+  <BMT_Yooka.label>юка</BMT_Yooka.label>
+  <BMT_Yooka.tools.head.label>голова</BMT_Yooka.tools.head.label>
+  <BMT_Yooka.tools.left_hoof.label>левое копыто</BMT_Yooka.tools.left_hoof.label>
+  <BMT_Yooka.tools.right_hoof.label>правое копыто</BMT_Yooka.tools.right_hoof.label>
+  <BMT_YumBulbs.description>Ярко светящиеся кончики привлекают животных, которые поедают гриб. Его стойкие споры проходят через пищеварительный тракт и невольно распространяются вместе с животными.</BMT_YumBulbs.description>
+  <BMT_YumBulbs.label>лакомые луковицы</BMT_YumBulbs.label>
+  <Mote_GleamcapSmoke.label>частица</Mote_GleamcapSmoke.label>
+  <Mote_SkulltopSpores.label>частица</Mote_SkulltopSpores.label>
+  <Proj_BMT_BoomSporeSac.label>взрывной споровый мешок</Proj_BMT_BoomSporeSac.label>
+  <Proj_BMT_ThrumbungusShroom.label>гриб трумбогриба</Proj_BMT_ThrumbungusShroom.label>
+</LanguageData>

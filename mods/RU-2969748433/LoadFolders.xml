@@ -1,0 +1,22 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<loadFolders>
+  <v1.6>
+    <li>/</li>
+    <li IfModActive="notfood.seedsplease,vanillaexpanded.vcooke">1.6/Conditional/condition-825fa58eb251d17c0ad9f99fcac5a62a85d2d60e25639d1ea95d62716092dafa</li>
+    <li IfModActiveAll="ludeon.rimworld.royalty,vanillaexpanded.vfearchitect">1.6/Conditional/with-all-ludeon-rimworld-royalty-and-vanillaexpanded-vfearchitect</li>
+    <li IfModActive="dankpyon.medieval.overhaul">1.6/Conditional/with-dankpyon-medieval-overhaul</li>
+    <li IfModActive="druid.fungilite">1.6/Conditional/with-druid-fungilite</li>
+    <li IfModActive="dubwise.dubsskylights">1.6/Conditional/with-dubwise-dubsskylights</li>
+    <li IfModActive="error277.tunneler.expanded">1.6/Conditional/with-error277-tunneler-expanded</li>
+    <li IfModActive="ludeon.rimworld.ideology">1.6/Conditional/with-ludeon-rimworld-ideology</li>
+    <li IfModActive="ludeon.rimworld.odyssey">1.6/Conditional/with-ludeon-rimworld-odyssey</li>
+    <li IfModActive="ludeon.rimworld.royalty">1.6/Conditional/with-ludeon-rimworld-royalty</li>
+    <li IfModActive="musicexpanded.framework">1.6/Conditional/with-musicexpanded-framework</li>
+    <li IfModActive="notfood.seedsplease">1.6/Conditional/with-notfood-seedsplease</li>
+    <li IfModActive="sarg.alphabiomes">1.6/Conditional/with-sarg-alphabiomes</li>
+    <li IfModActive="vanillaexpanded.backgrounds">1.6/Conditional/with-vanillaexpanded-backgrounds</li>
+    <li IfModActive="vanillaexpanded.vbrewe">1.6/Conditional/with-vanillaexpanded-vbrewe</li>
+    <li IfModActive="vanillaexpanded.vcooke">1.6/Conditional/with-vanillaexpanded-vcooke</li>
+    <li IfModActive="vanillaexpanded.vfearchitect">1.6/Conditional/with-vanillaexpanded-vfearchitect</li>
+  </v1.6>
+</loadFolders>

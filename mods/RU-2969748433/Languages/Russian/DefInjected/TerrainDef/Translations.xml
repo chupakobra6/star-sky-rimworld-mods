@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BMT_BridgeMushroom.description>Плоский настил из грибных досок на опорных балках, который можно возвести над водой. На мосту можно строить лёгкие сооружения. Будьте осторожны: мосты непрочны. При обрушении моста разрушатся и стоящие на нём постройки.</BMT_BridgeMushroom.description>
+  <BMT_BridgeMushroom.label>грибной мост</BMT_BridgeMushroom.label>
+  <BMT_Crystal.label>кристалл</BMT_Crystal.label>
+  <BMT_CrystalManMade.description>Пол из синих кристаллов, добытых глубоко под землёй. На укладку уходит немало времени, но результат очень красив. К тому же такой пол легко мыть.</BMT_CrystalManMade.description>
+  <BMT_CrystalManMade.label>кристальный пол</BMT_CrystalManMade.label>
+  <BMT_FungalGardenGravel.description>Красивый субстрат для выращивания грибов под землёй. Живой мицелий питается органическими остатками и хорошо поглощает грязь, которую оставляют животные.</BMT_FungalGardenGravel.description>
+  <BMT_FungalGardenGravel.label>гравий грибного сада</BMT_FungalGardenGravel.label>
+  <BMT_HeavyBridgeMushroom.description>Плоский настил из грибных досок на особо прочных опорных балках, который можно возвести над водой. Он выдерживает тяжёлые сооружения. Будьте осторожны: мосты непрочны. При обрушении моста разрушатся и стоящие на нём постройки.</BMT_HeavyBridgeMushroom.description>
+  <BMT_HeavyBridgeMushroom.label>усиленный грибной мост</BMT_HeavyBridgeMushroom.label>
+  <BMT_MagmaAsh.label>горячий пепел</BMT_MagmaAsh.label>
+  <BMT_MagmaAsh.tools.ash.label>пепел</BMT_MagmaAsh.tools.ash.label>
+  <BMT_MoonlessCarpet.description>Довольно красивое ковровое покрытие из волокон гриба «безлунный полосатик».</BMT_MoonlessCarpet.description>
+  <BMT_MoonlessCarpet.label>ковёр из безлунного полосатика</BMT_MoonlessCarpet.label>
+  <BMT_MycelialMatting.description>Грубая подстилка из мицелия для хлевов, в которых недоступна солома. Стоит дёшево и почти не накапливает грязь.</BMT_MycelialMatting.description>
+  <BMT_MycelialMatting.label>мицелиальная подстилка</BMT_MycelialMatting.label>
+  <BMT_MycelialSoil.description>Почва, пронизанная мицелием. Выглядит неказисто и требует много труда при подготовке, зато прекрасно подходит для выращивания тенелюбивых культур.</BMT_MycelialSoil.description>
+  <BMT_MycelialSoil.label>почва с мицелием</BMT_MycelialSoil.label>
+  <BMT_MycelialSoil.tools.dirt.label>земля</BMT_MycelialSoil.tools.dirt.label>
+  <BMT_WoodPlankFloorMushroom.description>Пол из грибных досок, создающий тёплую, домашнюю атмосферу. Быстро укладывается и не горит.</BMT_WoodPlankFloorMushroom.description>
+  <BMT_WoodPlankFloorMushroom.label>грибной пол</BMT_WoodPlankFloorMushroom.label>
+</LanguageData>

@@ -1,0 +1,93 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VREA_ButcherCorpseAndroid.description>Разобрать погибшего андроида, чтобы извлечь пригодные материалы.</VREA_ButcherCorpseAndroid.description>
+  <VREA_ButcherCorpseAndroid.jobString>Разбирает андроида.</VREA_ButcherCorpseAndroid.jobString>
+  <VREA_ButcherCorpseAndroid.label>разобрать андроида</VREA_ButcherCorpseAndroid.label>
+  <VREA_InstallAirFilter.description>Установить воздушный фильтр.</VREA_InstallAirFilter.description>
+  <VREA_InstallAirFilter.jobString>Устанавливает воздушный фильтр</VREA_InstallAirFilter.jobString>
+  <VREA_InstallAirFilter.label>установить воздушный фильтр</VREA_InstallAirFilter.label>
+  <VREA_InstallAndroidArm.description>Установить руку андроида.</VREA_InstallAndroidArm.description>
+  <VREA_InstallAndroidArm.jobString>Устанавливает руку андроида</VREA_InstallAndroidArm.jobString>
+  <VREA_InstallAndroidArm.label>установить руку андроида</VREA_InstallAndroidArm.label>
+  <VREA_InstallAndroidFoot.description>Установить ступню андроида.</VREA_InstallAndroidFoot.description>
+  <VREA_InstallAndroidFoot.jobString>Устанавливает ступню андроида</VREA_InstallAndroidFoot.jobString>
+  <VREA_InstallAndroidFoot.label>установить ступню андроида</VREA_InstallAndroidFoot.label>
+  <VREA_InstallAndroidHand.description>Установить кисть андроида.</VREA_InstallAndroidHand.description>
+  <VREA_InstallAndroidHand.jobString>Устанавливает кисть андроида</VREA_InstallAndroidHand.jobString>
+  <VREA_InstallAndroidHand.label>установить кисть андроида</VREA_InstallAndroidHand.label>
+  <VREA_InstallAndroidLeg.description>Установить ногу андроида.</VREA_InstallAndroidLeg.description>
+  <VREA_InstallAndroidLeg.jobString>Устанавливает ногу андроида</VREA_InstallAndroidLeg.jobString>
+  <VREA_InstallAndroidLeg.label>установить ногу андроида</VREA_InstallAndroidLeg.label>
+  <VREA_InstallArtificialJaw.description>Установить искусственную челюсть.</VREA_InstallArtificialJaw.description>
+  <VREA_InstallArtificialJaw.jobString>Устанавливает искусственную челюсть</VREA_InstallArtificialJaw.jobString>
+  <VREA_InstallArtificialJaw.label>установить искусственную челюсть</VREA_InstallArtificialJaw.label>
+  <VREA_InstallArtificialNose.description>Установить искусственный нос.</VREA_InstallArtificialNose.description>
+  <VREA_InstallArtificialNose.jobString>Устанавливает искусственный нос</VREA_InstallArtificialNose.jobString>
+  <VREA_InstallArtificialNose.label>установить искусственный нос</VREA_InstallArtificialNose.label>
+  <VREA_InstallArtificialRibcage.description>Установить искусственную грудную клетку.</VREA_InstallArtificialRibcage.description>
+  <VREA_InstallArtificialRibcage.jobString>Устанавливает искусственную грудную клетку</VREA_InstallArtificialRibcage.jobString>
+  <VREA_InstallArtificialRibcage.label>установить искусственную грудную клетку</VREA_InstallArtificialRibcage.label>
+  <VREA_InstallArtificialSpine.description>Установить искусственный позвоночник.</VREA_InstallArtificialSpine.description>
+  <VREA_InstallArtificialSpine.jobString>Устанавливает искусственный позвоночник</VREA_InstallArtificialSpine.jobString>
+  <VREA_InstallArtificialSpine.label>установить искусственный позвоночник</VREA_InstallArtificialSpine.label>
+  <VREA_InstallAudioProcessor.description>Установить аудиопроцессор.</VREA_InstallAudioProcessor.description>
+  <VREA_InstallAudioProcessor.jobString>Устанавливает аудиопроцессор</VREA_InstallAudioProcessor.jobString>
+  <VREA_InstallAudioProcessor.label>установить аудиопроцессор</VREA_InstallAudioProcessor.label>
+  <VREA_InstallClavicle.description>Установка искусственной ключицы андроиду.</VREA_InstallClavicle.description>
+  <VREA_InstallClavicle.jobString>Устанавливает искусственную ключицу.</VREA_InstallClavicle.jobString>
+  <VREA_InstallClavicle.label>установить искусственную ключицу</VREA_InstallClavicle.label>
+  <VREA_InstallFemur.description>Установка искусственного бедра андроиду.</VREA_InstallFemur.description>
+  <VREA_InstallFemur.jobString>Устанавливает искусственное бедро.</VREA_InstallFemur.jobString>
+  <VREA_InstallFemur.label>установить искусственное бедро</VREA_InstallFemur.label>
+  <VREA_InstallFinger.description>Установка искусственного пальца руки андроиду.</VREA_InstallFinger.description>
+  <VREA_InstallFinger.jobString>Устанавливает искусственный палец руки.</VREA_InstallFinger.jobString>
+  <VREA_InstallFinger.label>установить искусственный палец руки</VREA_InstallFinger.label>
+  <VREA_InstallHumerus.description>Установка искусственной плечевой кости андроиду.</VREA_InstallHumerus.description>
+  <VREA_InstallHumerus.jobString>Устанавливает искусственную плечевую кость.</VREA_InstallHumerus.jobString>
+  <VREA_InstallHumerus.label>установить искусственную плечевую кость</VREA_InstallHumerus.label>
+  <VREA_InstallMetabolismRegulator.description>Установить регулятор метаболизма.</VREA_InstallMetabolismRegulator.description>
+  <VREA_InstallMetabolismRegulator.jobString>Устанавливает регулятор метаболизма</VREA_InstallMetabolismRegulator.jobString>
+  <VREA_InstallMetabolismRegulator.label>установить регулятор метаболизма</VREA_InstallMetabolismRegulator.label>
+  <VREA_InstallNeck.description>Установка искусственной шеи андроиду.</VREA_InstallNeck.description>
+  <VREA_InstallNeck.jobString>Устанавливает искусственную шею.</VREA_InstallNeck.jobString>
+  <VREA_InstallNeck.label>установить искусственную шею</VREA_InstallNeck.label>
+  <VREA_InstallNeuroPump.description>Установить нейтронасос.</VREA_InstallNeuroPump.description>
+  <VREA_InstallNeuroPump.jobString>Устанавливает нейтронасос</VREA_InstallNeuroPump.jobString>
+  <VREA_InstallNeuroPump.label>установить нейтронасос</VREA_InstallNeuroPump.label>
+  <VREA_InstallNeutrofilter.description>Установить нейтрофильтр.</VREA_InstallNeutrofilter.description>
+  <VREA_InstallNeutrofilter.jobString>Устанавливает нейтрофильтр</VREA_InstallNeutrofilter.jobString>
+  <VREA_InstallNeutrofilter.label>установить нейтрофильтр</VREA_InstallNeutrofilter.label>
+  <VREA_InstallOpticalUnit.description>Установить оптический блок.</VREA_InstallOpticalUnit.description>
+  <VREA_InstallOpticalUnit.jobString>Устанавливает оптический блок</VREA_InstallOpticalUnit.jobString>
+  <VREA_InstallOpticalUnit.label>установить оптический блок</VREA_InstallOpticalUnit.label>
+  <VREA_InstallPelvis.description>Установка искусственного таза андроиду.</VREA_InstallPelvis.description>
+  <VREA_InstallPelvis.jobString>Устанавливает искусственный таз.</VREA_InstallPelvis.jobString>
+  <VREA_InstallPelvis.label>установить искусственный таз</VREA_InstallPelvis.label>
+  <VREA_InstallRadius.description>Установка искусственного предплечья андроиду.</VREA_InstallRadius.description>
+  <VREA_InstallRadius.jobString>Устанавливает искусственное предплечье.</VREA_InstallRadius.jobString>
+  <VREA_InstallRadius.label>установить искусственное предплечье</VREA_InstallRadius.label>
+  <VREA_InstallReactor.description>Установить реактор.</VREA_InstallReactor.description>
+  <VREA_InstallReactor.jobString>Устанавливает реактор</VREA_InstallReactor.jobString>
+  <VREA_InstallReactor.label>установить реактор</VREA_InstallReactor.label>
+  <VREA_InstallShoulder.description>Установка искусственного плеча андроиду.</VREA_InstallShoulder.description>
+  <VREA_InstallShoulder.jobString>Устанавливает искусственное плечо.</VREA_InstallShoulder.jobString>
+  <VREA_InstallShoulder.label>установить искусственное плечо</VREA_InstallShoulder.label>
+  <VREA_InstallSternum.description>Установка искусственной грудины андроиду.</VREA_InstallSternum.description>
+  <VREA_InstallSternum.jobString>Устанавливает искусственную грудину.</VREA_InstallSternum.jobString>
+  <VREA_InstallSternum.label>установить искусственную грудину</VREA_InstallSternum.label>
+  <VREA_InstallTibia.description>Установка искусственной голени андроиду.</VREA_InstallTibia.description>
+  <VREA_InstallTibia.jobString>Устанавливает искусственную голень.</VREA_InstallTibia.jobString>
+  <VREA_InstallTibia.label>установить искусственную голень</VREA_InstallTibia.label>
+  <VREA_InstallToe.description>Установка искусственного пальца ноги андроиду.</VREA_InstallToe.description>
+  <VREA_InstallToe.jobString>Устанавливает искусственный палец ноги.</VREA_InstallToe.jobString>
+  <VREA_InstallToe.label>установить искусственный палец ноги</VREA_InstallToe.label>
+  <VREA_InstallTongue.description>Установка искусственного языка андроиду.</VREA_InstallTongue.description>
+  <VREA_InstallTongue.jobString>Устанавливает искусственный язык.</VREA_InstallTongue.jobString>
+  <VREA_InstallTongue.label>установить искусственный язык</VREA_InstallTongue.label>
+  <VREA_InstallWaist.description>Установленный разъём дополнительного снаряжения андроида.</VREA_InstallWaist.description>
+  <VREA_InstallWaist.jobString>Устанавливает разъём дополнительного снаряжения.</VREA_InstallWaist.jobString>
+  <VREA_InstallWaist.label>установить разъём дополнительного снаряжения</VREA_InstallWaist.label>
+  <VREA_RemoveArtificialPart.description>Удалить искусственную часть тела.</VREA_RemoveArtificialPart.description>
+  <VREA_RemoveArtificialPart.jobString>Удаляет искусственную часть тела.</VREA_RemoveArtificialPart.jobString>
+  <VREA_RemoveArtificialPart.label>удалить компонент</VREA_RemoveArtificialPart.label>
+</LanguageData>

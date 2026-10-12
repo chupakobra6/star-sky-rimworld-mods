@@ -1,0 +1,52 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BMT_AmbrosyxSprout.label>ростки амброзика</BMT_AmbrosyxSprout.label>
+  <BMT_AmbrosyxSprout.letterLabel>Ростки амброзика</BMT_AmbrosyxSprout.letterLabel>
+  <BMT_AmbrosyxSprout.letterText>Поблизости выросла рощица загадочных грибов! Дождитесь их созревания, и сможете собрать вкусные грибы, которые доставляют удовольствие и вызывают лёгкое привыкание.</BMT_AmbrosyxSprout.letterText>
+  <BMT_Disease_AthleteFoot.label>грибок стопы</BMT_Disease_AthleteFoot.label>
+  <BMT_Disease_AthleteFoot.letterLabel>Болезнь: грибок стопы</BMT_Disease_AthleteFoot.letterLabel>
+  <BMT_Disease_AthleteFoot.letterText>Заболевание: {2}. Заболевшие — {1}, количество: {0}.
+
+Позаботьтесь о медицинских кроватях и враче. Больным нужны надлежащее лечение и постельный режим.
+
+Заболевшие {1}</BMT_Disease_AthleteFoot.letterText>
+  <BMT_Disease_PurpleLung.label>пурпурное лёгкое</BMT_Disease_PurpleLung.label>
+  <BMT_Disease_PurpleLung.letterLabel>Болезнь: пурпурное лёгкое</BMT_Disease_PurpleLung.letterLabel>
+  <BMT_Disease_PurpleLung.letterText>Заболевание: {2}. Заболевшие — {1}, количество: {0}.
+
+Позаботьтесь о медицинских кроватях и враче. Больным нужны надлежащее лечение и постельный режим.
+
+Заболевшие {1}</BMT_Disease_PurpleLung.letterText>
+  <BMT_Disease_SporeFlesh.label>споровая инфекция тканей</BMT_Disease_SporeFlesh.label>
+  <BMT_Disease_SporeFlesh.letterLabel>Болезнь: споровая инфекция тканей</BMT_Disease_SporeFlesh.letterLabel>
+  <BMT_Disease_SporeFlesh.letterText>Заболевание: {2}. Заболевшие — {1}, количество: {0}.
+
+Позаботьтесь о медицинских кроватях и враче. Больным нужны надлежащее лечение и постельный режим.
+
+Заболевшие {1}</BMT_Disease_SporeFlesh.letterText>
+  <BMT_Disease_ThermophileMechanites.label>термофильные механиты</BMT_Disease_ThermophileMechanites.label>
+  <BMT_Disease_ThermophileMechanites.letterLabel>Болезнь: термофильные механиты</BMT_Disease_ThermophileMechanites.letterLabel>
+  <BMT_Disease_ThermophileMechanites.letterText>Заболевание: {2}. Заболевшие — {1}, количество: {0}.
+
+Позаботьтесь о медицинских кроватях и враче. Больным нужны надлежащее лечение и постельный режим.
+
+Заболевшие {1}</BMT_Disease_ThermophileMechanites.letterText>
+  <BMT_ExplodingAngel.label>взрывной ангел</BMT_ExplodingAngel.label>
+  <BMT_ExplodingAngel.letterLabel>Ростки взрывного ангела</BMT_ExplodingAngel.letterLabel>
+  <BMT_ExplodingAngel.letterText>Поблизости выросла рощица загадочных грибов! Когда они созреют, то могут стать опасными.</BMT_ExplodingAngel.letterText>
+  <BMT_HungeringHydraIncident.label>ненасытные гидры</BMT_HungeringHydraIncident.label>
+  <BMT_Incident_PhosphoricLights.label>фосфорическое сияние</BMT_Incident_PhosphoricLights.label>
+  <BMT_Incident_PhosphoricLights.letterLabel>Фосфорическое сияние</BMT_Incident_PhosphoricLights.letterLabel>
+  <BMT_SkulltopSprout.label>ростки черепогриба</BMT_SkulltopSprout.label>
+  <BMT_SkulltopSprout.letterLabel>Ростки черепогриба</BMT_SkulltopSprout.letterLabel>
+  <BMT_SkulltopSprout.letterText>Поблизости выросла рощица загадочных черепогрибов! Когда они созреют, то могут стать опасными.</BMT_SkulltopSprout.letterText>
+  <BMT_SporeCloud.label>облако спор</BMT_SporeCloud.label>
+  <BMT_SporeCloud.letterLabel>Облако спор</BMT_SporeCloud.letterLabel>
+  <BMT_ThrumbungusPasses.label>миграция трумбогрибов</BMT_ThrumbungusPasses.label>
+  <CaveIn.label>обвал</CaveIn.label>
+  <CaveIn.letterLabel>Обвал</CaveIn.letterLabel>
+  <CaveIn.letterText>С потолка пещеры обрушился большой пласт породы. Состав: {0}.</CaveIn.letterText>
+  <Earthquake.label>землетрясение</Earthquake.label>
+  <Earthquake.letterLabel>Землетрясение</Earthquake.letterLabel>
+  <Earthquake.letterText>Началось землетрясение! Возможны обвалы. Подземные толчки затрудняют передвижение и могут оглушить ваших людей!</Earthquake.letterText>
+</LanguageData>

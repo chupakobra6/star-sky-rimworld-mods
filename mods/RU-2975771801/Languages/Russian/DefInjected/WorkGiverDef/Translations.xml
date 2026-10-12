@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VREA_CarryToAndroidBehavioristStation.gerund>переносить</VREA_CarryToAndroidBehavioristStation.gerund>
+  <VREA_CarryToAndroidBehavioristStation.label>относить на станцию поведенческой настройки</VREA_CarryToAndroidBehavioristStation.label>
+  <VREA_CarryToAndroidBehavioristStation.verb>перенести</VREA_CarryToAndroidBehavioristStation.verb>
+  <VREA_CarryToSubcorePolyanalyzer.gerund>переносить</VREA_CarryToSubcorePolyanalyzer.gerund>
+  <VREA_CarryToSubcorePolyanalyzer.label>относить в полианализатор субъядер</VREA_CarryToSubcorePolyanalyzer.label>
+  <VREA_CarryToSubcorePolyanalyzer.verb>перенести</VREA_CarryToSubcorePolyanalyzer.verb>
+  <VREA_CreateAndroid.gerund>создавать андроида</VREA_CreateAndroid.gerund>
+  <VREA_CreateAndroid.label>создавать андроидов на станции</VREA_CreateAndroid.label>
+  <VREA_CreateAndroid.verb>создать андроида</VREA_CreateAndroid.verb>
+  <VREA_DoBillsAndroidOperation.gerund>оперировать</VREA_DoBillsAndroidOperation.gerund>
+  <VREA_DoBillsAndroidOperation.label>оперировать андроидов</VREA_DoBillsAndroidOperation.label>
+  <VREA_DoBillsAndroidOperation.verb>оперировать</VREA_DoBillsAndroidOperation.verb>
+  <VREA_DoBillsUseAndroidPartWorkbench.gerund>изготавливать детали</VREA_DoBillsUseAndroidPartWorkbench.gerund>
+  <VREA_DoBillsUseAndroidPartWorkbench.label>изготавливать детали на верстаке андроидов</VREA_DoBillsUseAndroidPartWorkbench.label>
+  <VREA_DoBillsUseAndroidPartWorkbench.verb>изготовить детали</VREA_DoBillsUseAndroidPartWorkbench.verb>
+  <VREA_HaulToSubcorePolyanalyzer.gerund>переносить ресурсы</VREA_HaulToSubcorePolyanalyzer.gerund>
+  <VREA_HaulToSubcorePolyanalyzer.label>переносить ресурсы в полианализатор субъядер</VREA_HaulToSubcorePolyanalyzer.label>
+  <VREA_HaulToSubcorePolyanalyzer.verb>перенести ресурсы</VREA_HaulToSubcorePolyanalyzer.verb>
+  <VREA_ModifyAndroid.gerund>модифицировать андроида</VREA_ModifyAndroid.gerund>
+  <VREA_ModifyAndroid.label>модифицировать андроидов на станции</VREA_ModifyAndroid.label>
+  <VREA_ModifyAndroid.verb>модифицировать андроида</VREA_ModifyAndroid.verb>
+  <VREA_RepairAndroid.gerund>ремонтировать</VREA_RepairAndroid.gerund>
+  <VREA_RepairAndroid.label>ремонтировать андроидов</VREA_RepairAndroid.label>
+  <VREA_RepairAndroid.verb>отремонтировать</VREA_RepairAndroid.verb>
+</LanguageData>

@@ -1,0 +1,125 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VREA_AirFilter.description>Установленный воздушный фильтр.</VREA_AirFilter.description>
+  <VREA_AirFilter.label>воздушный фильтр</VREA_AirFilter.label>
+  <VREA_AirFilter.labelNoun>воздушный фильтр</VREA_AirFilter.labelNoun>
+  <VREA_AndroidArm.description>Установленная рука андроида.</VREA_AndroidArm.description>
+  <VREA_AndroidArm.label>рука андроида</VREA_AndroidArm.label>
+  <VREA_AndroidArm.labelNoun>рука андроида</VREA_AndroidArm.labelNoun>
+  <VREA_AndroidFoot.description>Установленная ступня андроида.</VREA_AndroidFoot.description>
+  <VREA_AndroidFoot.label>ступня андроида</VREA_AndroidFoot.label>
+  <VREA_AndroidFoot.labelNoun>ступня андроида</VREA_AndroidFoot.labelNoun>
+  <VREA_AndroidHand.description>Установленная кисть андроида.</VREA_AndroidHand.description>
+  <VREA_AndroidHand.label>кисть андроида</VREA_AndroidHand.label>
+  <VREA_AndroidHand.labelNoun>кисть андроида</VREA_AndroidHand.labelNoun>
+  <VREA_AndroidLeg.description>Установленная нога андроида.</VREA_AndroidLeg.description>
+  <VREA_AndroidLeg.label>нога андроида</VREA_AndroidLeg.label>
+  <VREA_AndroidLeg.labelNoun>нога андроида</VREA_AndroidLeg.labelNoun>
+  <VREA_ArtificialBrain.description>Установленный искусственный мозг.</VREA_ArtificialBrain.description>
+  <VREA_ArtificialBrain.label>искусственный мозг</VREA_ArtificialBrain.label>
+  <VREA_ArtificialBrain.labelNoun>искусственный мозг</VREA_ArtificialBrain.labelNoun>
+  <VREA_ArtificialJaw.description>Установленная искусственная челюсть.</VREA_ArtificialJaw.description>
+  <VREA_ArtificialJaw.label>искусственная челюсть</VREA_ArtificialJaw.label>
+  <VREA_ArtificialJaw.labelNoun>искусственная челюсть</VREA_ArtificialJaw.labelNoun>
+  <VREA_ArtificialNose.description>Установленный искусственный нос.</VREA_ArtificialNose.description>
+  <VREA_ArtificialNose.label>искусственный нос</VREA_ArtificialNose.label>
+  <VREA_ArtificialNose.labelNoun>искусственный нос</VREA_ArtificialNose.labelNoun>
+  <VREA_ArtificialRibcage.description>Установленная искусственная грудная клетка.</VREA_ArtificialRibcage.description>
+  <VREA_ArtificialRibcage.label>искусственная грудная клетка</VREA_ArtificialRibcage.label>
+  <VREA_ArtificialRibcage.labelNoun>искусственная грудная клетка</VREA_ArtificialRibcage.labelNoun>
+  <VREA_ArtificialSpine.description>Установленный искусственный позвоночник.</VREA_ArtificialSpine.description>
+  <VREA_ArtificialSpine.label>искусственный позвоночник</VREA_ArtificialSpine.label>
+  <VREA_ArtificialSpine.labelNoun>искусственный позвоночник</VREA_ArtificialSpine.labelNoun>
+  <VREA_AudioProcessor.description>Установленный аудиопроцессор.</VREA_AudioProcessor.description>
+  <VREA_AudioProcessor.label>аудиопроцессор</VREA_AudioProcessor.label>
+  <VREA_AudioProcessor.labelNoun>аудиопроцессор</VREA_AudioProcessor.labelNoun>
+  <VREA_Brain.description>Искусственная замена мозга, установленная в теле андроида.</VREA_Brain.description>
+  <VREA_Brain.label>искусственный мозг</VREA_Brain.label>
+  <VREA_Clavicle.description>Искусственная замена ключицы, установленная в теле андроида.</VREA_Clavicle.description>
+  <VREA_Clavicle.label>искусственная ключица</VREA_Clavicle.label>
+  <VREA_EMPBurn.comps.HediffComp_GetsPermanent.permanentLabel>шрам от ЭМИ-ожога</VREA_EMPBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <VREA_EMPBurn.comps.HediffComp_TendDuration.labelSolidTendedWell>обработано</VREA_EMPBurn.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <VREA_EMPBurn.comps.HediffComp_TendDuration.labelTendedWell>перевязано</VREA_EMPBurn.comps.HediffComp_TendDuration.labelTendedWell>
+  <VREA_EMPBurn.comps.HediffComp_TendDuration.labelTendedWellInner>обработано</VREA_EMPBurn.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <VREA_EMPBurn.description>ЭМИ-ожог.</VREA_EMPBurn.description>
+  <VREA_EMPBurn.injuryProps.destroyedLabel>Разрушено ЭМИ</VREA_EMPBurn.injuryProps.destroyedLabel>
+  <VREA_EMPBurn.injuryProps.destroyedOutLabel>Выжжено ЭМИ</VREA_EMPBurn.injuryProps.destroyedOutLabel>
+  <VREA_EMPBurn.label>ЭМИ-ожог</VREA_EMPBurn.label>
+  <VREA_EMPBurn.labelNoun>ЭМИ-ожог</VREA_EMPBurn.labelNoun>
+  <VREA_EMPBurn.labelNounPretty>{0}; место: {1}</VREA_EMPBurn.labelNounPretty>
+  <VREA_ElectromagneticShock.description>Электромагнитный шок.</VREA_ElectromagneticShock.description>
+  <VREA_ElectromagneticShock.label>электромагнитный шок</VREA_ElectromagneticShock.label>
+  <VREA_Femur.description>Искусственная замена бедра, установленная в теле андроида.</VREA_Femur.description>
+  <VREA_Femur.label>искусственное бедро</VREA_Femur.label>
+  <VREA_Finger.description>Искусственная замена пальца руки, установленная в теле андроида.</VREA_Finger.description>
+  <VREA_Finger.label>искусственный палец руки</VREA_Finger.label>
+  <VREA_Freeze.description>Повреждение тканей из-за холода при недостаточной защите. Обморожение очень болезненно и нередко приводит к потере повреждённых частей тела.</VREA_Freeze.description>
+  <VREA_Freeze.injuryProps.destroyedLabel>Утрачено из-за замерзания</VREA_Freeze.injuryProps.destroyedLabel>
+  <VREA_Freeze.label>обморожение</VREA_Freeze.label>
+  <VREA_Freeze.labelNounPretty>{0}; место: {1}</VREA_Freeze.labelNounPretty>
+  <VREA_Freezing.description>Опасно низкая внутренняя температура андроида. Без обогрева замерзание усиливается и может вызвать критические повреждения биокомпонентов. В тепле состояние быстро нормализуется. Чтобы избежать замерзания, одевайте андроидов в тёплую одежду в холодную погоду.</VREA_Freezing.description>
+  <VREA_Freezing.label>замерзание</VREA_Freezing.label>
+  <VREA_Freezing.stages.extreme.label>экстремальное</VREA_Freezing.stages.extreme.label>
+  <VREA_Freezing.stages.minor.label>лёгкое</VREA_Freezing.stages.minor.label>
+  <VREA_Freezing.stages.serious.label>серьёзное</VREA_Freezing.stages.serious.label>
+  <VREA_Freezing.stages.shivering-0.label>озноб</VREA_Freezing.stages.shivering-0.label>
+  <VREA_Freezing.stages.shivering-1.label>озноб</VREA_Freezing.stages.shivering-1.label>
+  <VREA_Head.description>Искусственная замена головы, установленная в теле андроида.</VREA_Head.description>
+  <VREA_Head.label>искусственная голова</VREA_Head.label>
+  <VREA_Humerus.description>Искусственная замена плечевой кости, установленная в теле андроида.</VREA_Humerus.description>
+  <VREA_Humerus.label>искусственная плечевая кость</VREA_Humerus.label>
+  <VREA_MetabolismRegulator.description>Установленный регулятор метаболизма.</VREA_MetabolismRegulator.description>
+  <VREA_MetabolismRegulator.label>регулятор метаболизма</VREA_MetabolismRegulator.label>
+  <VREA_MetabolismRegulator.labelNoun>регулятор метаболизма</VREA_MetabolismRegulator.labelNoun>
+  <VREA_Neck.description>Искусственная замена шеи, установленная в теле андроида.</VREA_Neck.description>
+  <VREA_Neck.label>искусственная шея</VREA_Neck.label>
+  <VREA_NeuroPump.description>Установленный нейтронасос.</VREA_NeuroPump.description>
+  <VREA_NeuroPump.label>нейтронасос</VREA_NeuroPump.label>
+  <VREA_NeuroPump.labelNoun>нейтронасос</VREA_NeuroPump.labelNoun>
+  <VREA_NeutroLoss.description>Объём нейтроамина ниже нормы. Небольшая утечка лишь слабо влияет на работоспособность, но при серьёзной потере страдают все подсистемы и андроид перестаёт двигаться. Даже полная потеря нейтроамина не приводит к смерти.
+
+Обычно запас нейтроамина не восстанавливается со временем. Андроида необходимо поместить в нейтросаркофаг и заправить заново.</VREA_NeutroLoss.description>
+  <VREA_NeutroLoss.label>потеря нейтроамина</VREA_NeutroLoss.label>
+  <VREA_NeutroLoss.stages.extreme.label>экстремальная</VREA_NeutroLoss.stages.extreme.label>
+  <VREA_NeutroLoss.stages.minor-0.label>незначительная</VREA_NeutroLoss.stages.minor-0.label>
+  <VREA_NeutroLoss.stages.minor-1.label>лёгкая</VREA_NeutroLoss.stages.minor-1.label>
+  <VREA_NeutroLoss.stages.moderate.label>средняя</VREA_NeutroLoss.stages.moderate.label>
+  <VREA_NeutroLoss.stages.severe.label>серьёзная</VREA_NeutroLoss.stages.severe.label>
+  <VREA_Neutrofilter.description>Установленный нейтрофильтр.</VREA_Neutrofilter.description>
+  <VREA_Neutrofilter.label>нейтрофильтр</VREA_Neutrofilter.label>
+  <VREA_Neutrofilter.labelNoun>нейтрофильтр</VREA_Neutrofilter.labelNoun>
+  <VREA_OpticalUnit.description>Установленный оптический блок.</VREA_OpticalUnit.description>
+  <VREA_OpticalUnit.label>оптический блок</VREA_OpticalUnit.label>
+  <VREA_OpticalUnit.labelNoun>оптический блок</VREA_OpticalUnit.labelNoun>
+  <VREA_Overheating.description>Нарушение работы андроида из-за сильной жары и солнца. Память работает со сбоями, а свободное место расходуется быстрее. В прохладе состояние быстро нормализуется. Если перегрев продолжается, память продолжит быстро заполняться, вызывая частое переформатирование.</VREA_Overheating.description>
+  <VREA_Overheating.label>перегрев</VREA_Overheating.label>
+  <VREA_Overheating.stages.extreme.label>экстремальный</VREA_Overheating.stages.extreme.label>
+  <VREA_Overheating.stages.initial.label>начальный</VREA_Overheating.stages.initial.label>
+  <VREA_Overheating.stages.minor.label>незначительный</VREA_Overheating.stages.minor.label>
+  <VREA_Overheating.stages.serious.label>серьёзный</VREA_Overheating.stages.serious.label>
+  <VREA_Pelvis.description>Искусственная замена таза, установленная в теле андроида.</VREA_Pelvis.description>
+  <VREA_Pelvis.label>искусственный таз</VREA_Pelvis.label>
+  <VREA_Radius.description>Искусственная замена предплечья, установленная в теле андроида.</VREA_Radius.description>
+  <VREA_Radius.label>искусственное предплечье</VREA_Radius.label>
+  <VREA_Reactor.description>Установленный реактор.</VREA_Reactor.description>
+  <VREA_Reactor.label>реактор</VREA_Reactor.label>
+  <VREA_Reactor.labelNoun>реактор</VREA_Reactor.labelNoun>
+  <VREA_ScanningSickness.description>Для создания личностного субъядра андроида мозг этого человека подвергли сканированию. Высокоэнергетическое воздействие временно нарушило его биохимические процессы. Со временем они восстановятся без долговременных последствий.</VREA_ScanningSickness.description>
+  <VREA_ScanningSickness.label>недомогание после сканирования</VREA_ScanningSickness.label>
+  <VREA_Shoulder.description>Искусственная замена плеча, установленная в теле андроида.</VREA_Shoulder.description>
+  <VREA_Shoulder.label>искусственное плечо</VREA_Shoulder.label>
+  <VREA_Skull.description>Искусственная замена черепа, установленная в теле андроида.</VREA_Skull.description>
+  <VREA_Skull.label>искусственный череп</VREA_Skull.label>
+  <VREA_Sternum.description>Искусственная замена грудины, установленная в теле андроида.</VREA_Sternum.description>
+  <VREA_Sternum.label>искусственная грудина</VREA_Sternum.label>
+  <VREA_Tibia.description>Искусственная замена голени, установленная в теле андроида.</VREA_Tibia.description>
+  <VREA_Tibia.label>искусственная голень</VREA_Tibia.label>
+  <VREA_Toe.description>Искусственная замена пальца ноги, установленная в теле андроида.</VREA_Toe.description>
+  <VREA_Toe.label>искусственный палец ноги</VREA_Toe.label>
+  <VREA_Tongue.description>Искусственная замена языка, установленная в теле андроида.</VREA_Tongue.description>
+  <VREA_Tongue.label>искусственный язык</VREA_Tongue.label>
+  <VREA_Torso.description>Искусственная замена торса, установленная в теле андроида.</VREA_Torso.description>
+  <VREA_Torso.label>искусственный торс</VREA_Torso.label>
+  <VREA_Waist.description>Искусственная замена разъёма дополнительного снаряжения, установленная в теле андроида.</VREA_Waist.description>
+  <VREA_Waist.label>разъём дополнительного снаряжения</VREA_Waist.label>
+</LanguageData>

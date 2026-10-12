@@ -1,0 +1,26 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VREA_Quest_AndroidJoins.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;Неподалёку с вами связывается пробуждённый андроид по имени [asker_nameFull]. За ним охотится фракция [enemyFaction_name]. Сильная эмоциональная травма или необычайное счастье способны пробудить в андроиде сознание и личность. Пробуждённые андроиды ведут себя подобно людям, а их подпрограммы могут меняться. Искусственное тело защищает их от болезней, но им необходимы комфорт и личное пространство. Они разделяют человеческие увлечения и стремятся стать частью общества. Многие общества этого не принимают: им нужны андроиды-слуги, а не равные. В поисковом отряде фракции [enemyFaction_name] находятся:
+
+[raid/raidPawnKinds]
+
+[asker_nameFull] просит убежища. Место: [map_definite]. Если вы согласитесь, андроид прибудет немедленно, но следом появится поисковый отряд, который придётся победить.
+
+Андроиды — созданные людьми существа с металлическими телами и нейтроамином в сосудах. Их работой управляет личностное субъядро. Они могут выполнять ту же работу, что и люди, без обычных ограничений живого организма.</li>
+  </VREA_Quest_AndroidJoins.questDescriptionRules.rulesStrings>
+  <VREA_Quest_AndroidJoins.questNameRules.rulesStrings>
+    <li>questName-&gt;[adjAny] андроид</li>
+    <li>adjAny-&gt;преследуемый</li>
+    <li>adjAny-&gt;беглый</li>
+    <li>adjAny-&gt;загнанный</li>
+    <li>adjAny-&gt;попавший в засаду</li>
+  </VREA_Quest_AndroidJoins.questNameRules.rulesStrings>
+  <VREA_Quest_AndroidJoins.root.nodes.Delay-0.node.parms.customLetterLabel.value.slateRef>{BASELABEL}: преследователи</VREA_Quest_AndroidJoins.root.nodes.Delay-0.node.parms.customLetterLabel.value.slateRef>
+  <VREA_Quest_AndroidJoins.root.nodes.Delay-0.node.parms.customLetterText.value.slateRef>{BASETEXT}
+
+Этот отряд преследует беглого андроида по имени [../asker_nameFull].</VREA_Quest_AndroidJoins.root.nodes.Delay-0.node.parms.customLetterText.value.slateRef>
+  <VREA_Quest_AndroidJoins.root.nodes.PawnsArrive.customLetterText.slateRef>{BASETEXT}
+
+Вскоре прибудут пираты, от которых скрывается [asker_nameDef], получив убежище в вашей колонии.</VREA_Quest_AndroidJoins.root.nodes.PawnsArrive.customLetterText.slateRef>
+</LanguageData>

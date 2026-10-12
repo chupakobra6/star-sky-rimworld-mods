@@ -1,0 +1,31 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BMT_BiomesPrehistoric>Biomes! Prehistoric</BMT_BiomesPrehistoric>
+  <BMT_DinoAndPlantDesc>Добавляет в игру доисторических животных и растения. Они будут появляться в биомах вместе с остальными видами.</BMT_DinoAndPlantDesc>
+  <BMT_DinoAndPlantLabel>Животные и растения</BMT_DinoAndPlantLabel>
+  <BMT_DinoAndVanillaDesc>Доисторические животные будут появляться, а доисторические растения — нет. Они будут соседствовать с растениями и животными основной игры и других модов.</BMT_DinoAndVanillaDesc>
+  <BMT_DinoAndVanillaLabel>Только животные</BMT_DinoAndVanillaLabel>
+  <BMT_DinoWorldDesc>Полностью меняет мир: в дикой природе и у торговцев будут встречаться только доисторические животные и растения.</BMT_DinoWorldDesc>
+  <BMT_DinoWorldLabel>Доисторический мир</BMT_DinoWorldLabel>
+  <BMT_GeneralTab>Основные</BMT_GeneralTab>
+  <BMT_LetterLabelSaurumboPasses>Редкие заурумбо</BMT_LetterLabelSaurumboPasses>
+  <BMT_LetterSaurumboPasses>В эту местность забрело небольшое стадо заурумбо.
+
+Миролюбивые по природе, эти редкие существа чрезвычайно опасны, если их разозлить. Некоторые торговцы готовы дорого заплатить за их ценные острые перья.
+
+Через несколько дней заурумбо покинут эту местность.</BMT_LetterSaurumboPasses>
+  <BMT_MainMenuMusicEnabled>Музыка мода в главном меню (нужен перезапуск)</BMT_MainMenuMusicEnabled>
+  <BMT_NestAlert>{0_indefinite} вызывает гнев динозавров, оказавшись слишком близко к их гнёздам!</BMT_NestAlert>
+  <BMT_PrehistoricAnimalCommonality>Распространённость доисторических животных: {0}%</BMT_PrehistoricAnimalCommonality>
+  <BMT_PrehistoricAnimalCommonalityTooltip>Меняет частоту появления диких доисторических животных относительно остальных видов. По умолчанию они встречаются наравне с другими животными. Значения ниже 100% делают их более редкими, а выше — более частыми.</BMT_PrehistoricAnimalCommonalityTooltip>
+  <BMT_PrehistoricAnimalsTab>Доисторические животные</BMT_PrehistoricAnimalsTab>
+  <BMT_PrehistoricAnimalsTabDescription>Выберите животных, которых следует считать доисторическими.</BMT_PrehistoricAnimalsTabDescription>
+  <BMT_PrehistoricPlantCommonality>Распространённость доисторических растений: {0}%</BMT_PrehistoricPlantCommonality>
+  <BMT_PrehistoricPlantCommonalityTooltip>Меняет частоту появления диких доисторических растений относительно остальных видов. По умолчанию они встречаются наравне с другими растениями. Значения ниже 100% делают их более редкими, а выше — более частыми.</BMT_PrehistoricPlantCommonalityTooltip>
+  <BMT_PrehistoricSettingsDesc>Настройки можно менять в любой момент, в том числе во время игры. Изменения повлияют на появление новых растений и животных, но не затронут уже существующие.
+
+Настройки действуют только в поддерживаемых биомах. Если ваш любимый биом ещё не поддерживается, сообщите авторам в Steam или Discord!</BMT_PrehistoricSettingsDesc>
+  <BMT_ResetSettingsHover>Восстановить значения по умолчанию для всех настроек мода.</BMT_ResetSettingsHover>
+  <BMT_ResetSettingsLabel>Сбросить</BMT_ResetSettingsLabel>
+  <BMT_Select>Выбрать</BMT_Select>
+</LanguageData>

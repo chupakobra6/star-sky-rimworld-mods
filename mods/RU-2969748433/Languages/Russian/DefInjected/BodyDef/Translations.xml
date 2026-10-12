@@ -1,0 +1,131 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BMT_Bat.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>левое ухо</BMT_Bat.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <BMT_Bat.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>левый глаз</BMT_Bat.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <BMT_Bat.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>правое ухо</BMT_Bat.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <BMT_Bat.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>правый глаз</BMT_Bat.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <BMT_Bat.corePart.parts.left_clavicle.customLabel>левая ключица</BMT_Bat.corePart.parts.left_clavicle.customLabel>
+  <BMT_Bat.corePart.parts.left_kidney.customLabel>левая почка</BMT_Bat.corePart.parts.left_kidney.customLabel>
+  <BMT_Bat.corePart.parts.left_leg.customLabel>левая нога</BMT_Bat.corePart.parts.left_leg.customLabel>
+  <BMT_Bat.corePart.parts.left_leg.parts.left_femur.customLabel>левая бедренная кость</BMT_Bat.corePart.parts.left_leg.parts.left_femur.customLabel>
+  <BMT_Bat.corePart.parts.left_leg.parts.left_foot.customLabel>левая стопа</BMT_Bat.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <BMT_Bat.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>большой палец левой ноги</BMT_Bat.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>
+  <BMT_Bat.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>четвёртый палец левой ноги</BMT_Bat.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>
+  <BMT_Bat.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>мизинец левой ноги</BMT_Bat.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>
+  <BMT_Bat.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>средний палец левой ноги</BMT_Bat.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>
+  <BMT_Bat.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>второй палец левой ноги</BMT_Bat.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>
+  <BMT_Bat.corePart.parts.left_leg.parts.left_tibia.customLabel>левая большеберцовая кость</BMT_Bat.corePart.parts.left_leg.parts.left_tibia.customLabel>
+  <BMT_Bat.corePart.parts.left_lung.customLabel>левое лёгкое</BMT_Bat.corePart.parts.left_lung.customLabel>
+  <BMT_Bat.corePart.parts.left_shoulder.customLabel>левое плечо</BMT_Bat.corePart.parts.left_shoulder.customLabel>
+  <BMT_Bat.corePart.parts.left_shoulder.parts.left_arm.customLabel>левая рука</BMT_Bat.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <BMT_Bat.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>левая кисть</BMT_Bat.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <BMT_Bat.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>левый указательный палец</BMT_Bat.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <BMT_Bat.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>левый средний палец</BMT_Bat.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <BMT_Bat.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>левый мизинец</BMT_Bat.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <BMT_Bat.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>левый безымянный палец</BMT_Bat.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>
+  <BMT_Bat.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>левый большой палец</BMT_Bat.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <BMT_Bat.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>левая плечевая кость</BMT_Bat.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>
+  <BMT_Bat.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>левая лучевая кость</BMT_Bat.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
+  <BMT_Bat.corePart.parts.right_clavicle.customLabel>правая ключица</BMT_Bat.corePart.parts.right_clavicle.customLabel>
+  <BMT_Bat.corePart.parts.right_kidney.customLabel>правая почка</BMT_Bat.corePart.parts.right_kidney.customLabel>
+  <BMT_Bat.corePart.parts.right_leg.customLabel>правая нога</BMT_Bat.corePart.parts.right_leg.customLabel>
+  <BMT_Bat.corePart.parts.right_leg.parts.right_femur.customLabel>правая бедренная кость</BMT_Bat.corePart.parts.right_leg.parts.right_femur.customLabel>
+  <BMT_Bat.corePart.parts.right_leg.parts.right_foot.customLabel>правая стопа</BMT_Bat.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <BMT_Bat.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>большой палец правой ноги</BMT_Bat.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>
+  <BMT_Bat.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>четвёртый палец правой ноги</BMT_Bat.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>
+  <BMT_Bat.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>мизинец правой ноги</BMT_Bat.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>
+  <BMT_Bat.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>средний палец правой ноги</BMT_Bat.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>
+  <BMT_Bat.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>второй палец правой ноги</BMT_Bat.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>
+  <BMT_Bat.corePart.parts.right_leg.parts.right_tibia.customLabel>правая большеберцовая кость</BMT_Bat.corePart.parts.right_leg.parts.right_tibia.customLabel>
+  <BMT_Bat.corePart.parts.right_lung.customLabel>правое лёгкое</BMT_Bat.corePart.parts.right_lung.customLabel>
+  <BMT_Bat.corePart.parts.right_shoulder.customLabel>правое плечо</BMT_Bat.corePart.parts.right_shoulder.customLabel>
+  <BMT_Bat.corePart.parts.right_shoulder.parts.right_arm.customLabel>правая рука</BMT_Bat.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+  <BMT_Bat.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>правая кисть</BMT_Bat.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <BMT_Bat.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>правый указательный палец</BMT_Bat.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <BMT_Bat.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>правый средний палец</BMT_Bat.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <BMT_Bat.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>правый мизинец</BMT_Bat.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <BMT_Bat.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>правый безымянный палец</BMT_Bat.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>
+  <BMT_Bat.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>правый большой палец</BMT_Bat.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <BMT_Bat.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>правая плечевая кость</BMT_Bat.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
+  <BMT_Bat.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>правая лучевая кость</BMT_Bat.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
+  <BMT_Bat.label>летучая мышь</BMT_Bat.label>
+  <BMT_BatBird.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>левое ухо</BMT_BatBird.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <BMT_BatBird.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>левый глаз</BMT_BatBird.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <BMT_BatBird.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>правое ухо</BMT_BatBird.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <BMT_BatBird.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>правый глаз</BMT_BatBird.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <BMT_BatBird.corePart.parts.left_clavicle.customLabel>левая ключица</BMT_BatBird.corePart.parts.left_clavicle.customLabel>
+  <BMT_BatBird.corePart.parts.left_kidney.customLabel>левая почка</BMT_BatBird.corePart.parts.left_kidney.customLabel>
+  <BMT_BatBird.corePart.parts.left_leg.customLabel>левая нога</BMT_BatBird.corePart.parts.left_leg.customLabel>
+  <BMT_BatBird.corePart.parts.left_leg.parts.left_femur.customLabel>левая бедренная кость</BMT_BatBird.corePart.parts.left_leg.parts.left_femur.customLabel>
+  <BMT_BatBird.corePart.parts.left_leg.parts.left_foot.customLabel>левая стопа</BMT_BatBird.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <BMT_BatBird.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>большой палец левой ноги</BMT_BatBird.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>
+  <BMT_BatBird.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>четвёртый палец левой ноги</BMT_BatBird.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>
+  <BMT_BatBird.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>мизинец левой ноги</BMT_BatBird.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>
+  <BMT_BatBird.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>средний палец левой ноги</BMT_BatBird.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>
+  <BMT_BatBird.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>второй палец левой ноги</BMT_BatBird.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>
+  <BMT_BatBird.corePart.parts.left_leg.parts.left_tibia.customLabel>левая большеберцовая кость</BMT_BatBird.corePart.parts.left_leg.parts.left_tibia.customLabel>
+  <BMT_BatBird.corePart.parts.left_lung.customLabel>левое лёгкое</BMT_BatBird.corePart.parts.left_lung.customLabel>
+  <BMT_BatBird.corePart.parts.left_shoulder.customLabel>левое плечо</BMT_BatBird.corePart.parts.left_shoulder.customLabel>
+  <BMT_BatBird.corePart.parts.left_shoulder.parts.left_arm.customLabel>левая рука</BMT_BatBird.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <BMT_BatBird.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>левая кисть</BMT_BatBird.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <BMT_BatBird.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>левый указательный палец</BMT_BatBird.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <BMT_BatBird.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>левый средний палец</BMT_BatBird.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <BMT_BatBird.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>левый мизинец</BMT_BatBird.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <BMT_BatBird.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>левый безымянный палец</BMT_BatBird.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>
+  <BMT_BatBird.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>левый большой палец</BMT_BatBird.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <BMT_BatBird.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>левая плечевая кость</BMT_BatBird.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>
+  <BMT_BatBird.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>левая лучевая кость</BMT_BatBird.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
+  <BMT_BatBird.corePart.parts.right_clavicle.customLabel>правая ключица</BMT_BatBird.corePart.parts.right_clavicle.customLabel>
+  <BMT_BatBird.corePart.parts.right_kidney.customLabel>правая почка</BMT_BatBird.corePart.parts.right_kidney.customLabel>
+  <BMT_BatBird.corePart.parts.right_leg.customLabel>правая нога</BMT_BatBird.corePart.parts.right_leg.customLabel>
+  <BMT_BatBird.corePart.parts.right_leg.parts.right_femur.customLabel>правая бедренная кость</BMT_BatBird.corePart.parts.right_leg.parts.right_femur.customLabel>
+  <BMT_BatBird.corePart.parts.right_leg.parts.right_foot.customLabel>правая стопа</BMT_BatBird.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <BMT_BatBird.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>большой палец правой ноги</BMT_BatBird.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>
+  <BMT_BatBird.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>четвёртый палец правой ноги</BMT_BatBird.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>
+  <BMT_BatBird.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>мизинец правой ноги</BMT_BatBird.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>
+  <BMT_BatBird.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>средний палец правой ноги</BMT_BatBird.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>
+  <BMT_BatBird.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>второй палец правой ноги</BMT_BatBird.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>
+  <BMT_BatBird.corePart.parts.right_leg.parts.right_tibia.customLabel>правая большеберцовая кость</BMT_BatBird.corePart.parts.right_leg.parts.right_tibia.customLabel>
+  <BMT_BatBird.corePart.parts.right_lung.customLabel>правое лёгкое</BMT_BatBird.corePart.parts.right_lung.customLabel>
+  <BMT_BatBird.corePart.parts.right_shoulder.customLabel>правое плечо</BMT_BatBird.corePart.parts.right_shoulder.customLabel>
+  <BMT_BatBird.corePart.parts.right_shoulder.parts.right_arm.customLabel>правая рука</BMT_BatBird.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+  <BMT_BatBird.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>правая кисть</BMT_BatBird.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <BMT_BatBird.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>правый указательный палец</BMT_BatBird.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <BMT_BatBird.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>правый средний палец</BMT_BatBird.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <BMT_BatBird.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>правый мизинец</BMT_BatBird.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <BMT_BatBird.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>правый безымянный палец</BMT_BatBird.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>
+  <BMT_BatBird.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>правый большой палец</BMT_BatBird.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <BMT_BatBird.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>правая плечевая кость</BMT_BatBird.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
+  <BMT_BatBird.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>правая лучевая кость</BMT_BatBird.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
+  <BMT_BatBird.label>мышептица</BMT_BatBird.label>
+  <BeetleLikeWithHorn.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>левый усик</BeetleLikeWithHorn.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>
+  <BeetleLikeWithHorn.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>левый глаз</BeetleLikeWithHorn.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>
+  <BeetleLikeWithHorn.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>правый усик</BeetleLikeWithHorn.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>
+  <BeetleLikeWithHorn.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>правый глаз</BeetleLikeWithHorn.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>
+  <BeetleLikeWithHorn.corePart.parts.front_left_leg.customLabel>передняя левая нога</BeetleLikeWithHorn.corePart.parts.front_left_leg.customLabel>
+  <BeetleLikeWithHorn.corePart.parts.front_right_leg.customLabel>передняя правая нога</BeetleLikeWithHorn.corePart.parts.front_right_leg.customLabel>
+  <BeetleLikeWithHorn.corePart.parts.left_elytra.customLabel>левое надкрылье</BeetleLikeWithHorn.corePart.parts.left_elytra.customLabel>
+  <BeetleLikeWithHorn.corePart.parts.middle_left_leg.customLabel>средняя левая нога</BeetleLikeWithHorn.corePart.parts.middle_left_leg.customLabel>
+  <BeetleLikeWithHorn.corePart.parts.middle_right_leg.customLabel>средняя правая нога</BeetleLikeWithHorn.corePart.parts.middle_right_leg.customLabel>
+  <BeetleLikeWithHorn.corePart.parts.rear_left_leg.customLabel>задняя левая нога</BeetleLikeWithHorn.corePart.parts.rear_left_leg.customLabel>
+  <BeetleLikeWithHorn.corePart.parts.rear_right_leg.customLabel>задняя правая нога</BeetleLikeWithHorn.corePart.parts.rear_right_leg.customLabel>
+  <BeetleLikeWithHorn.corePart.parts.right_elytra.customLabel>правое надкрылье</BeetleLikeWithHorn.corePart.parts.right_elytra.customLabel>
+  <BeetleLikeWithHorn.label>рогатый жук</BeetleLikeWithHorn.label>
+  <HunchedBipedWithTail.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>левое ухо</HunchedBipedWithTail.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <HunchedBipedWithTail.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>левый глаз</HunchedBipedWithTail.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <HunchedBipedWithTail.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>правое ухо</HunchedBipedWithTail.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <HunchedBipedWithTail.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>правый глаз</HunchedBipedWithTail.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <HunchedBipedWithTail.corePart.parts.left_arm.customLabel>левая рука</HunchedBipedWithTail.corePart.parts.left_arm.customLabel>
+  <HunchedBipedWithTail.corePart.parts.left_arm.parts.front_left_paw.customLabel>передняя левая лапа</HunchedBipedWithTail.corePart.parts.left_arm.parts.front_left_paw.customLabel>
+  <HunchedBipedWithTail.corePart.parts.left_kidney.customLabel>левая почка</HunchedBipedWithTail.corePart.parts.left_kidney.customLabel>
+  <HunchedBipedWithTail.corePart.parts.left_lung.customLabel>левое лёгкое</HunchedBipedWithTail.corePart.parts.left_lung.customLabel>
+  <HunchedBipedWithTail.corePart.parts.rear_left_leg.customLabel>задняя левая нога</HunchedBipedWithTail.corePart.parts.rear_left_leg.customLabel>
+  <HunchedBipedWithTail.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>задняя левая лапа</HunchedBipedWithTail.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>
+  <HunchedBipedWithTail.corePart.parts.rear_right_leg.customLabel>задняя правая нога</HunchedBipedWithTail.corePart.parts.rear_right_leg.customLabel>
+  <HunchedBipedWithTail.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>задняя правая лапа</HunchedBipedWithTail.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>
+  <HunchedBipedWithTail.corePart.parts.right_arm.customLabel>правая рука</HunchedBipedWithTail.corePart.parts.right_arm.customLabel>
+  <HunchedBipedWithTail.corePart.parts.right_arm.parts.front_right_paw.customLabel>передняя правая лапа</HunchedBipedWithTail.corePart.parts.right_arm.parts.front_right_paw.customLabel>
+  <HunchedBipedWithTail.corePart.parts.right_kidney.customLabel>правая почка</HunchedBipedWithTail.corePart.parts.right_kidney.customLabel>
+  <HunchedBipedWithTail.corePart.parts.right_lung.customLabel>правое лёгкое</HunchedBipedWithTail.corePart.parts.right_lung.customLabel>
+  <HunchedBipedWithTail.label>сутулое животное</HunchedBipedWithTail.label>
+</LanguageData>

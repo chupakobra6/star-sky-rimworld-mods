@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VREA_NewUtopia.description>Одни считают вас неисправными. Другие признают вашу человечность. Вы — группа разумных андроидов, пробудившихся и осознавших себя. Укрывшись в руинах забытого аванпоста, вы не просто выживаете: вы мечтаете создать собственную утопию, убежище, где все подобные вам смогут найти приют и признание.
+
+Аванпост, оставшийся от давно минувшей эпохи освоения космоса, плохо приспособлен к вашим сложным потребностям. Чтобы принимать новых андроидов, придётся наладить постоянное снабжение нейтроамином. Скольких вы готовы спасти?</VREA_NewUtopia.description>
+  <VREA_NewUtopia.label>Новая утопия</VREA_NewUtopia.label>
+  <VREA_NewUtopia.scenario.description>Одни считают вас неисправными. Другие признают вашу человечность. Вы — группа разумных андроидов, пробудившихся и осознавших себя. Укрывшись в руинах забытого аванпоста, вы не просто выживаете: вы мечтаете создать собственную утопию, убежище, где все подобные вам смогут найти приют и признание.
+
+Аванпост, оставшийся от давно минувшей эпохи освоения космоса, плохо приспособлен к вашим сложным потребностям. Чтобы принимать новых андроидов, придётся наладить постоянное снабжение нейтроамином. Скольких вы готовы спасти?</VREA_NewUtopia.scenario.description>
+  <VREA_NewUtopia.scenario.name>Новая утопия</VREA_NewUtopia.scenario.name>
+  <VREA_NewUtopia.scenario.parts.ConfigurePawnsXenotypes.customSummary>Начните игру с тремя пробуждёнными андроидами.</VREA_NewUtopia.scenario.parts.ConfigurePawnsXenotypes.customSummary>
+  <VREA_NewUtopia.scenario.parts.ConfigurePawnsXenotypes.xenotypeCounts.0.description>пробуждённый андроид</VREA_NewUtopia.scenario.parts.ConfigurePawnsXenotypes.xenotypeCounts.0.description>
+  <VREA_NewUtopia.scenario.parts.GameStartDialog.text>Одни считают вас неисправными. Другие признают вашу человечность. Вы — группа разумных андроидов, пробудившихся и осознавших себя. Укрывшись в руинах забытого аванпоста, вы не просто выживаете: вы мечтаете создать собственную утопию, убежище, где все подобные вам смогут найти приют и признание.
+
+Аванпост, оставшийся от давно минувшей эпохи освоения космоса, плохо приспособлен к вашим сложным потребностям. Чтобы принимать новых андроидов, придётся наладить постоянное снабжение нейтроамином. Скольких вы готовы спасти?</VREA_NewUtopia.scenario.parts.GameStartDialog.text>
+  <VREA_NewUtopia.scenario.parts.VFEC_AddStartingStructure.structureLabel>Заброшенный аванпост</VREA_NewUtopia.scenario.parts.VFEC_AddStartingStructure.structureLabel>
+  <VREA_NewUtopia.scenario.summary>Убежище для пробуждённых андроидов. Классический сценарий Vanilla Races Expanded — Androids.</VREA_NewUtopia.scenario.summary>
+</LanguageData>

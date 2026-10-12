@@ -1,0 +1,41 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BMT_BoomSporeGrowth>Выработка взрывных спор</BMT_BoomSporeGrowth>
+  <BMT_ContainsMushroomMust>Грибное сусло: {0} / {1}.</BMT_ContainsMushroomMust>
+  <BMT_ContainsMushroomWine>Грибное вино: {0} / {1}.</BMT_ContainsMushroomWine>
+  <BMT_FungalPowerGenerator_MakeGrowingZoneDesc>Создать зону выращивания вокруг одного или нескольких грибных генераторов точно в пределах их радиуса сбора энергии.</BMT_FungalPowerGenerator_MakeGrowingZoneDesc>
+  <BMT_FungalPowerGenerator_MustNotBePlacedCloseToAnother>Минимальное расстояние до другого объекта «{1_label}»: более {0}</BMT_FungalPowerGenerator_MustNotBePlacedCloseToAnother>
+  <BMT_LetterLabelThrumbungusPasses>Редкие трумбогрибы</BMT_LetterLabelThrumbungusPasses>
+  <BMT_LetterThrumbungusPasses>В эти края забрело стадо трумбогрибов.
+
+Эти редкие существа миролюбивы, но становятся чрезвычайно опасными, если их потревожить.</BMT_LetterThrumbungusPasses>
+  <BMT_MetalloSnailShellGrowth>Восстановление металлической раковины</BMT_MetalloSnailShellGrowth>
+  <BMT_NoMushroomMust>Нет грибного сусла</BMT_NoMushroomMust>
+  <BMT_XyrionTailGrowth>Восстановление хвоста</BMT_XyrionTailGrowth>
+  <BiomesCaverns_CoolEnclosedThickRoofAreasHover>По умолчанию игра охлаждает закрытые помещения под толстой скальной крышей. Здесь можно отключить эту особенность. Настройка действует на всех картах и усложняет жизнь в таких биомах, как земные глубины.</BiomesCaverns_CoolEnclosedThickRoofAreasHover>
+  <BiomesCaverns_CoolEnclosedThickRoofAreasLabel>Охлаждать закрытые помещения под толстой скальной крышей</BiomesCaverns_CoolEnclosedThickRoofAreasLabel>
+  <BiomesCaverns_PowerGenFungusMultiplierHover>Умножает общую мощность грибного генератора в ваттах на указанное процентное значение.</BiomesCaverns_PowerGenFungusMultiplierHover>
+  <BiomesCaverns_PowerGenFungusMultiplierLabel>Множитель мощности грибного генератора: {0}%</BiomesCaverns_PowerGenFungusMultiplierLabel>
+  <BiomesCaverns_ResetSettingsHover>Вернуть все настройки мода к значениям по умолчанию.</BiomesCaverns_ResetSettingsHover>
+  <BiomesCaverns_ResetSettingsLabel>Сбросить</BiomesCaverns_ResetSettingsLabel>
+  <Caveworld_Flora_Unleashed.CannotGrowTooCold>Рост невозможен: слишком холодно.</Caveworld_Flora_Unleashed.CannotGrowTooCold>
+  <Caveworld_Flora_Unleashed.CannotGrowTooHot>Рост невозможен: слишком жарко.</Caveworld_Flora_Unleashed.CannotGrowTooHot>
+  <Caveworld_Flora_Unleashed.Cryostasis>криостазис</Caveworld_Flora_Unleashed.Cryostasis>
+  <Caveworld_Flora_Unleashed.Dying>Гибнет</Caveworld_Flora_Unleashed.Dying>
+  <Caveworld_Flora_Unleashed.Growing>Растёт.</Caveworld_Flora_Unleashed.Growing>
+  <Caveworld_Flora_Unleashed.InCryostasis>В криостазисе</Caveworld_Flora_Unleashed.InCryostasis>
+  <Caveworld_Flora_Unleashed.MyceliumRootRemoved>мицелий удалён</Caveworld_Flora_Unleashed.MyceliumRootRemoved>
+  <Caveworld_Flora_Unleashed.Overlit>слишком светло</Caveworld_Flora_Unleashed.Overlit>
+  <Caveworld_Flora_Unleashed.TooDark>слишком темно</Caveworld_Flora_Unleashed.TooDark>
+  <Caveworld_Flora_Unleashed.TooFarFromRock>слишком далеко от камня</Caveworld_Flora_Unleashed.TooFarFromRock>
+  <Caveworld_Flora_Unleashed.TooHot>слишком жарко</Caveworld_Flora_Unleashed.TooHot>
+  <Caveworld_Flora_Unleashed.UnadaptedSoil>неподходящая почва</Caveworld_Flora_Unleashed.UnadaptedSoil>
+  <Caveworld_Flora_Unleashed.Unroofed>нет крыши</Caveworld_Flora_Unleashed.Unroofed>
+  <GeologicalLandforms.Landform.BMT_Aquifer>водоносный слой</GeologicalLandforms.Landform.BMT_Aquifer>
+  <GeologicalLandforms.Landform.BMT_CrystalCaverns>кристальные пещеры</GeologicalLandforms.Landform.BMT_CrystalCaverns>
+  <GeologicalLandforms.Landform.BMT_EarthenDepths>земные глубины</GeologicalLandforms.Landform.BMT_EarthenDepths>
+  <GeologicalLandforms.Landform.BMT_FungalForest>грибной лес</GeologicalLandforms.Landform.BMT_FungalForest>
+  <GeologicalLandforms.Landform.BMT_Mineshaft>шахта</GeologicalLandforms.Landform.BMT_Mineshaft>
+  <LavaGeneratoor_lavaUsedTwice>Поток ослаблен: завихрения от другого лавового генератора</LavaGeneratoor_lavaUsedTwice>
+  <MustBeOnLava>нужно построить на лаве или магме.</MustBeOnLava>
+</LanguageData>

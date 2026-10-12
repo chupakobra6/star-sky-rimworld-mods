@@ -1,0 +1,7 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VREA_EMPBurn.deathMessage>{0} {PAWN_gender ? погиб : погибла} от электромагнитного импульса.</VREA_EMPBurn.deathMessage>
+  <VREA_EMPBurn.label>ЭМИ-ожог</VREA_EMPBurn.label>
+  <VREA_Freeze.deathMessage>{0} {PAWN_gender ? погиб : погибла} от замерзания.</VREA_Freeze.deathMessage>
+  <VREA_Freeze.label>замерзание</VREA_Freeze.label>
+</LanguageData>

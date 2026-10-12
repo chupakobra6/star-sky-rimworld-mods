@@ -1,0 +1,32 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BMT_Bladecrest.description>Острогребни — хищники, обитающие в Пёстром оазисе. Они рассекают добычу своими острыми, как бритва, гребнями.\n\nНаучное название: Pteranodon ferrumcalvaria</BMT_Bladecrest.description>
+  <BMT_Bladecrest.label>острогребень</BMT_Bladecrest.label>
+  <BMT_Bladecrest.tools.0.label>когти</BMT_Bladecrest.tools.0.label>
+  <BMT_Bladecrest.tools.1.label>клюв</BMT_Bladecrest.tools.1.label>
+  <BMT_Bladecrest.tools.2.label>голова</BMT_Bladecrest.tools.2.label>
+  <BMT_BladecrestBlade.description>Острая, как лезвие, часть головы острогребня. Ценный трофей и смертоносное оружие ближнего боя.</BMT_BladecrestBlade.description>
+  <BMT_BladecrestBlade.label>лезвие острогребня</BMT_BladecrestBlade.label>
+  <BMT_BladecrestBlade.tools.0.label>лезвие</BMT_BladecrestBlade.tools.0.label>
+  <BMT_BladecrestEggFertilized.description>Оплодотворённое яйцо острогребня. При благоприятных условиях из него вылупится детёныш острогребня. Яйцо можно съесть сырым, но лучше приготовить.</BMT_BladecrestEggFertilized.description>
+  <BMT_BladecrestEggFertilized.label>яйцо острогребня (оплод.)</BMT_BladecrestEggFertilized.label>
+  <BMT_Chlorosaurus.description>Хлорозавры — хищные динозавры, созданные методами генной инженерии и родственные дилофозаврам. Они нуждаются в небольшом количестве пищи, поскольку получают большую часть энергии с помощью хлорофилла.</BMT_Chlorosaurus.description>
+  <BMT_Chlorosaurus.label>хлорозавр</BMT_Chlorosaurus.label>
+  <BMT_Chlorosaurus.tools.0.label>когти передней левой лапы</BMT_Chlorosaurus.tools.0.label>
+  <BMT_Chlorosaurus.tools.1.label>когти передней правой лапы</BMT_Chlorosaurus.tools.1.label>
+  <BMT_Chlorosaurus.tools.3.label>голова</BMT_Chlorosaurus.tools.3.label>
+  <BMT_ChlorosaurusEggFertilized.description>Оплодотворённое яйцо хлорозавра. При благоприятных условиях из него вылупится детёныш хлорозавра. Яйцо можно съесть сырым, но лучше приготовить.</BMT_ChlorosaurusEggFertilized.description>
+  <BMT_ChlorosaurusEggFertilized.label>яйцо хлорозавра (оплод.)</BMT_ChlorosaurusEggFertilized.label>
+  <BMT_ChromaticAnkylosaurus.description>Для некоторых художников миров-утопий животные — всего лишь ещё один холст. Неясно, что хотел сказать создатель пёстрого анкилозавра, если вообще вкладывал в него какой-то смысл. Разве что опасные животные с безумной окраской — это круто.</BMT_ChromaticAnkylosaurus.description>
+  <BMT_ChromaticAnkylosaurus.label>пёстрый анкилозавр</BMT_ChromaticAnkylosaurus.label>
+  <BMT_ChromaticAnkylosaurus.tools.0.label>передняя левая лапа</BMT_ChromaticAnkylosaurus.tools.0.label>
+  <BMT_ChromaticAnkylosaurus.tools.1.label>передняя правая лапа</BMT_ChromaticAnkylosaurus.tools.1.label>
+  <BMT_ChromaticAnkylosaurus.tools.2.label>задняя левая лапа</BMT_ChromaticAnkylosaurus.tools.2.label>
+  <BMT_ChromaticAnkylosaurus.tools.3.label>задняя правая лапа</BMT_ChromaticAnkylosaurus.tools.3.label>
+  <BMT_ChromaticAnkylosaurus.tools.5.label>голова</BMT_ChromaticAnkylosaurus.tools.5.label>
+  <BMT_ChromaticAnkylosaurus.tools.6.label>хвост-булава</BMT_ChromaticAnkylosaurus.tools.6.label>
+  <BMT_ChromaticAnkylosaurusEggFertilized.description>Оплодотворённое яйцо пёстрого анкилозавра. При благоприятных условиях из него вылупится детёныш пёстрого анкилозавра. Очень красивое.</BMT_ChromaticAnkylosaurusEggFertilized.description>
+  <BMT_ChromaticAnkylosaurusEggFertilized.label>яйцо пёстрого анкилозавра (оплод.)</BMT_ChromaticAnkylosaurusEggFertilized.label>
+  <BMT_ChromaticAnkylosaurusEggUnfertilized.description>Неоплодотворённое яйцо пёстрого анкилозавра. Очень красивое.</BMT_ChromaticAnkylosaurusEggUnfertilized.description>
+  <BMT_ChromaticAnkylosaurusEggUnfertilized.label>яйцо пёстрого анкилозавра (неоплод.)</BMT_ChromaticAnkylosaurusEggUnfertilized.label>
+</LanguageData>

@@ -528,3 +528,63 @@ RimWorld 1.6 · Версия 1.0.0
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3816649430) · [Исходники и руководство](../mods/RU-3411401573/README.md) · [История изменений](../mods/RU-3411401573/CHANGELOG.md) · [Лицензия](../mods/RU-3411401573/LICENSE) · [Источники и уведомления](../mods/RU-3411401573/NOTICES.md)
 
+## XML Extensions — русский перевод
+
+русские меню, настройки и подсказки XML Extensions
+
+[![XML Extensions — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/xml-extensions-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3818474366)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3818474366) · [Исходники и руководство](../mods/RU-2574315206/README.md) · [История изменений](../mods/RU-2574315206/CHANGELOG.md) · [Лицензия](../mods/RU-2574315206/LICENSE) · [Источники и уведомления](../mods/RU-2574315206/NOTICES.md)
+
+## Show Me Your Hands — русский перевод
+
+русские настройки рук и подсказки для настройки оружия
+
+[![Show Me Your Hands — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/show-me-your-hands-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3818475380)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3818475380) · [Исходники и руководство](../mods/RU-2475965842/README.md) · [История изменений](../mods/RU-2475965842/CHANGELOG.md) · [Лицензия](../mods/RU-2475965842/LICENSE) · [Источники и уведомления](../mods/RU-2475965842/NOTICES.md)
+
+## Biomes! Prehistoric — русский перевод
+
+русские названия доисторических животных, описания и задания
+
+[![Biomes! Prehistoric — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/biomes-prehistoric-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3818475382)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3818475382) · [Исходники и руководство](../mods/RU-2860715703/README.md) · [История изменений](../mods/RU-2860715703/CHANGELOG.md) · [Лицензия](../mods/RU-2860715703/LICENSE) · [Источники и уведомления](../mods/RU-2860715703/NOTICES.md)
+
+## Biomes! Caverns — русский перевод
+
+русские подземные биомы, существа, ресурсы и события
+
+[![Biomes! Caverns — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/biomes-caverns-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3818475391)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3818475391) · [Исходники и руководство](../mods/RU-2969748433/README.md) · [История изменений](../mods/RU-2969748433/CHANGELOG.md) · [Лицензия](../mods/RU-2969748433/LICENSE) · [Источники и уведомления](../mods/RU-2969748433/NOTICES.md)
+
+## Vanilla Races Expanded - Android — русский перевод
+
+русский интерфейс андроидов, гены, потребности и исследования
+
+[![Vanilla Races Expanded - Android — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/vanilla-races-expanded-android-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3818475395)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3818475395) · [Исходники и руководство](../mods/RU-2975771801/README.md) · [История изменений](../mods/RU-2975771801/CHANGELOG.md) · [Лицензия](../mods/RU-2975771801/LICENSE) · [Источники и уведомления](../mods/RU-2975771801/NOTICES.md)
+
+## Vanilla Races Expanded - Fungoid — русский перевод
+
+русские описания грибоидов, генов и связанных состояний
+
+[![Vanilla Races Expanded - Fungoid — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/vanilla-races-expanded-fungoid-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3818475407)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3818475407) · [Исходники и руководство](../mods/RU-3042690053/README.md) · [История изменений](../mods/RU-3042690053/CHANGELOG.md) · [Лицензия](../mods/RU-3042690053/LICENSE) · [Источники и уведомления](../mods/RU-3042690053/NOTICES.md)
+

@@ -1,0 +1,10 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<loadFolders>
+  <v1.6>
+    <li>/</li>
+    <li IfModActiveAll="biomesteam.biomesprehistoric,vanillaexpanded.backgrounds">1.6/Conditional/with-all-biomesteam-biomesprehistoric-and-vanillaexpanded-backgrounds</li>
+    <li IfModActive="biomesteam.oasis">1.6/Conditional/with-biomesteam-oasis</li>
+    <li IfModActive="ceteam.combatextended">1.6/Conditional/with-ceteam-combatextended</li>
+    <li IfModNotActive="ceteam.combatextended">1.6/Conditional/without-ceteam-combatextended</li>
+  </v1.6>
+</loadFolders>

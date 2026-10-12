@@ -1,0 +1,19 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Numbers_RimWorld_NeedDef_VREA_FoodSuppressed.headerTip>Служебная запись, не предназначенная для отображения.
+
+Нажмите правой кнопкой мыши, чтобы удалить столбец. Чтобы переместить его, перетащите, удерживая левую кнопку.</Numbers_RimWorld_NeedDef_VREA_FoodSuppressed.headerTip>
+  <Numbers_RimWorld_NeedDef_VREA_FoodSuppressed.label>Служебная заглушка. Если вы видите эту запись, сообщите об ошибке.</Numbers_RimWorld_NeedDef_VREA_FoodSuppressed.label>
+  <Numbers_RimWorld_NeedDef_VREA_MemorySpace.headerTip>Свободная память показывает, сколько места осталось на накопителе андроида. В течение дня оно расходуется. Когда место закончится, андроид перейдёт в режим переформатирования и останется в нём, пока не освободит достаточно памяти для продолжения работы.
+
+Нажмите правой кнопкой мыши, чтобы удалить столбец. Чтобы переместить его, перетащите, удерживая левую кнопку.</Numbers_RimWorld_NeedDef_VREA_MemorySpace.headerTip>
+  <Numbers_RimWorld_NeedDef_VREA_MemorySpace.label>Свободная память</Numbers_RimWorld_NeedDef_VREA_MemorySpace.label>
+  <Numbers_RimWorld_NeedDef_VREA_ReactorPower.headerTip>Запас энергии показывает оставшийся ресурс встроенного реактора андроида. Когда ресурс иссякнет, реактор может потребоваться заменить. Без рабочего источника питания андроид не функционирует.
+
+Нажмите правой кнопкой мыши, чтобы удалить столбец. Чтобы переместить его, перетащите, удерживая левую кнопку.</Numbers_RimWorld_NeedDef_VREA_ReactorPower.headerTip>
+  <Numbers_RimWorld_NeedDef_VREA_ReactorPower.label>Энергия</Numbers_RimWorld_NeedDef_VREA_ReactorPower.label>
+  <Numbers_RimWorld_StatDef_VREA_MemorySpaceDrainMultiplier.headerTip>Множитель скорости расходования свободной памяти андроида.
+
+Нажмите правой кнопкой мыши, чтобы удалить столбец. Чтобы переместить его, перетащите, удерживая левую кнопку.</Numbers_RimWorld_StatDef_VREA_MemorySpaceDrainMultiplier.headerTip>
+  <Numbers_RimWorld_StatDef_VREA_MemorySpaceDrainMultiplier.label>Множитель расхода памяти</Numbers_RimWorld_StatDef_VREA_MemorySpaceDrainMultiplier.label>
+</LanguageData>

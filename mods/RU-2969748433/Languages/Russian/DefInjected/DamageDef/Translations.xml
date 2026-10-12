@@ -1,0 +1,13 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BMT_BloodSuck.deathMessage>{0}: смерть от укусов.</BMT_BloodSuck.deathMessage>
+  <BMT_BloodSuck.label>кровососание</BMT_BloodSuck.label>
+  <BMT_ChillingVenom.deathMessage>{0}: смерть от рваных ран.</BMT_ChillingVenom.deathMessage>
+  <BMT_ChillingVenom.label>леденящий яд</BMT_ChillingVenom.label>
+  <BMT_Crystalope_SharpBomb.deathMessage>{0}: гибель при взрыве.</BMT_Crystalope_SharpBomb.deathMessage>
+  <BMT_Crystalope_SharpBomb.label>кристальная бомба</BMT_Crystalope_SharpBomb.label>
+  <BMT_StunningSpores.deathMessage>{0}: смерть от рваных ран.</BMT_StunningSpores.deathMessage>
+  <BMT_StunningSpores.label>оглушающие споры</BMT_StunningSpores.label>
+  <BMT_ToxicSpores.deathMessage>{0}: смерть от рваных ран.</BMT_ToxicSpores.deathMessage>
+  <BMT_ToxicSpores.label>ядовитые споры</BMT_ToxicSpores.label>
+</LanguageData>

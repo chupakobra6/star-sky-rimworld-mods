@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VRE_FungoidApocalypse>Грибной апокалипсис</VRE_FungoidApocalypse>
+  <VRE_FungoidApocalypseDesc>Превращать всех гуманоидных налётчиков в грибоидов.</VRE_FungoidApocalypseDesc>
+  <VRE_InfectedLabel>генная трансформация (дней: {0})</VRE_InfectedLabel>
+  <VRE_InfectionChance>Вероятность заражения генной инфекцией</VRE_InfectionChance>
+  <VRE_InfectionChanceDesc>Вероятность передать генную инфекцию при заражающем укусе или ударе когтями. По умолчанию — 20%. Атаки оружием инфекцию не передают, поэтому вооружённый носитель заражает противников реже.</VRE_InfectionChanceDesc>
+  <VRE_InfectionDescription>Источник инфекции — носитель ксенотипа «{0}». При развитии инфекции до 100% пострадавший получит ксенотип «{0}».</VRE_InfectionDescription>
+  <VRE_InfectionLabel>генная инфекция ({0}), {1}</VRE_InfectionLabel>
+  <VRE_Reset>Сбросить</VRE_Reset>
+  <VRE_TextMote_RepulsiveColonist>Тошнотворный вид!</VRE_TextMote_RepulsiveColonist>
+</LanguageData>

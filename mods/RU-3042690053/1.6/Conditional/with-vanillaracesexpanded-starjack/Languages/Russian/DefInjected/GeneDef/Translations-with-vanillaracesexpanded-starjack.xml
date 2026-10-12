@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VRE_MinorSkillLoss_Astrogene.description>Носители этого гена забывают навыки вдвое медленнее.</VRE_MinorSkillLoss_Astrogene.description>
+  <VRE_MinorSkillLoss_Astrogene.label>медленное забывание навыков</VRE_MinorSkillLoss_Astrogene.label>
+  <VRE_NoSkillLoss_Astrogene.description>Носители этого гена не теряют навыки из-за забывания.</VRE_NoSkillLoss_Astrogene.description>
+  <VRE_NoSkillLoss_Astrogene.label>сохранение навыков</VRE_NoSkillLoss_Astrogene.label>
+  <VRE_Telepathy_Astrogene.description>Носители этого гена могут общаться друг с другом телепатически. Для общения им не обязательно находиться рядом.</VRE_Telepathy_Astrogene.description>
+  <VRE_Telepathy_Astrogene.label>телепатия</VRE_Telepathy_Astrogene.label>
+  <VRE_Telepathy_Astrogene.labelShortAdj>телепат</VRE_Telepathy_Astrogene.labelShortAdj>
+  <VRE_TotalAntirotLungs_Astrogene.description>Носители этого гена невосприимчивы к воздействию трупного газа.</VRE_TotalAntirotLungs_Astrogene.description>
+  <VRE_TotalAntirotLungs_Astrogene.label>иммунитет к трупному газу</VRE_TotalAntirotLungs_Astrogene.label>
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<loadFolders>
+  <v1.6>
+    <li>/</li>
+    <li IfModActive="sarg.alphagenes">1.6/Conditional/with-sarg-alphagenes</li>
+    <li IfModActive="vanillaracesexpanded.starjack">1.6/Conditional/with-vanillaracesexpanded-starjack</li>
+    <li IfModNotActive="sarg.alphagenes">1.6/Conditional/without-sarg-alphagenes</li>
+  </v1.6>
+</loadFolders>

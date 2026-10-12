@@ -1,0 +1,13 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VREA_AptitudeAdvanced.description>Предрасположенность андроида к навыку «{0}» повышена на 12. Этот бонус прибавляется к уровню навыка.</VREA_AptitudeAdvanced.description>
+  <VREA_AptitudeAdvanced.label>{0} — продвинутый уровень</VREA_AptitudeAdvanced.label>
+  <VREA_AptitudeBasic.description>Предрасположенность андроида к навыку «{0}» повышена на 4. Этот бонус прибавляется к уровню навыка.</VREA_AptitudeBasic.description>
+  <VREA_AptitudeBasic.label>{0} — базовый уровень</VREA_AptitudeBasic.label>
+  <VREA_AptitudeExpert.description>Предрасположенность андроида к навыку «{0}» повышена на 16. Этот бонус прибавляется к уровню навыка.</VREA_AptitudeExpert.description>
+  <VREA_AptitudeExpert.label>{0} — экспертный уровень</VREA_AptitudeExpert.label>
+  <VREA_AptitudeIncapable.description>Эта подпрограмма не позволяет андроиду выполнять работу, требующую навыка «{0}».</VREA_AptitudeIncapable.description>
+  <VREA_AptitudeIncapable.label>{0} — недоступно</VREA_AptitudeIncapable.label>
+  <VREA_AptitudeIntermediate.description>Предрасположенность андроида к навыку «{0}» повышена на 8. Этот бонус прибавляется к уровню навыка.</VREA_AptitudeIntermediate.description>
+  <VREA_AptitudeIntermediate.label>{0} — средний уровень</VREA_AptitudeIntermediate.label>
+</LanguageData>

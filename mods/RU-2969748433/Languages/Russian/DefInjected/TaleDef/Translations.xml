@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BMT_PhosphoricLights_Tale.label>фосфорическое сияние</BMT_PhosphoricLights_Tale.label>
+  <BMT_PhosphoricLights_Tale.rulePack.rulesStrings>
+    <li>tale_noun-&gt;случай, когда в [Community_prep], где живёт [PAWN_nameDef], под сводами пещеры засияли фосфорические огни</li>
+    <li>tale_noun-&gt;случай, когда в [Community_prep], где живёт [PAWN_nameDef], под сводами пещеры танцевали призрачные фосфорические огни</li>
+    <li>tale_noun-&gt;неземное фосфорическое сияние, залившее пещеру в [Community_prep], где живёт [PAWN_nameDef]</li>
+    <li>image-&gt;пещеру заливает призрачный [Color] и [Color] свет [circumstance_phrase]</li>
+    <li>image-&gt;завораживающий [Color] свет [circumstance_phrase]</li>
+    <li>image-&gt;[Color] свет сплетает сияющую сеть [circumstance_phrase]</li>
+    <li>image-&gt;сложный световой узор; основной цвет — [Color], акцентный — [Color] [circumstance_phrase]</li>
+    <li>image-&gt;[Color] свет плавно кружится [circumstance_group]</li>
+    <li>circumstance_phrase-&gt;и бросает чарующее сияние на дно пещеры</li>
+    <li>circumstance_phrase-&gt;и подчёркивает красоту пейзажа; внизу виднеется [TerrainFeature]</li>
+    <li>circumstance_phrase-&gt;и загадочно плывёт по пещере</li>
+    <li>circumstance_phrase-&gt;и окружает завораживающий пейзаж, где соседствуют [TerrainFeature] и [TerrainFeature]</li>
+    <li>desc_sentence-&gt;Внизу стоит [PAWN_nameDef], в восхищении и глубокой задумчивости.</li>
+    <li>desc_sentence-&gt;[PAWN_nameDef] стоит в изумлении; рядом виднеется сияющий пейзаж — [TerrainFeature].</li>
+    <li>desc_sentence-&gt;В призрачном свете виднеется [Quantity_adjphrase] фигур животных в мирном движении. На них — [Animal].</li>
+    <li>desc_sentence-&gt;Всё вокруг проникнуто покоем и удивлением.</li>
+    <li>desc_sentence-&gt;Нигде не виднеется [Enemy].</li>
+  </BMT_PhosphoricLights_Tale.rulePack.rulesStrings>
+</LanguageData>

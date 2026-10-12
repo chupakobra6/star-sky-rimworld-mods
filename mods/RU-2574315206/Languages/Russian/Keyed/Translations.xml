@@ -1,0 +1,29 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <XmlExtensions_Label>XML Extensions</XmlExtensions_Label>
+  <XmlExtensions_Confirmation>Вы уверены?</XmlExtensions_Confirmation>
+  <XmlExtensions_ResetSettings>Сбросить настройки</XmlExtensions_ResetSettings>
+  <XmlExtensions_ShowSettingsButton>Показывать кнопку «+» для открытия настроек XML Extensions</XmlExtensions_ShowSettingsButton>
+  <XmlExtensions_ShowSettingsButtonTip>Добавить небольшую кнопку «+» рядом со стандартной кнопкой настроек модов. Она открывает дополнительное меню настроек XML Extensions.</XmlExtensions_ShowSettingsButtonTip>
+  <XmlExtensions_ViewUnusedSettings>Показать неиспользуемые параметры</XmlExtensions_ViewUnusedSettings>
+  <XmlExtensions_InactiveMods>Выключенные моды:</XmlExtensions_InactiveMods>
+  <XmlExtensions_NoExtraSettings>Неиспользуемых параметров нет</XmlExtensions_NoExtraSettings>
+  <XmlExtensions_SelectedModUnusedKeys>Неиспользуемые параметры выбранного мода:</XmlExtensions_SelectedModUnusedKeys>
+  <XmlExtensions_Delete>Удалить</XmlExtensions_Delete>
+  <XmlExtensions_DeleteKeys>Удалить параметры: {0}</XmlExtensions_DeleteKeys>
+  <XmlExtensions_ConfirmationResetMod>Удалить все неиспользуемые параметры выбранного мода?</XmlExtensions_ConfirmationResetMod>
+  <XmlExtensions_DeleteAllUnusedKeys>Удалить все неиспользуемые параметры: {0}</XmlExtensions_DeleteAllUnusedKeys>
+  <XmlExtensions_ConfirmResetAll>Удалить неиспользуемые параметры всех модов?</XmlExtensions_ConfirmResetAll>
+  <XmlExtensions_Open>Открыть</XmlExtensions_Open>
+  <XmlExtensions_Apply>Применить</XmlExtensions_Apply>
+  <XmlExtensions_ModSettingsFor>Настройки мода: </XmlExtensions_ModSettingsFor>
+  <XmlExtensions_Unpin>Открепить мод</XmlExtensions_Unpin>
+  <XmlExtensions_Pin>Закрепить мод</XmlExtensions_Pin>
+  <XmlExtensions_HowToPin>Нажмите на мод правой кнопкой мыши, чтобы закрепить его</XmlExtensions_HowToPin>
+  <XmlExtensions_AddMainButton>Показывать кнопку настроек XML Extensions на основной панели</XmlExtensions_AddMainButton>
+  <XmlExtensions_AddMainButtonTip>Добавить на основную панель игры кнопку, открывающую дополнительное меню настроек XML Extensions.</XmlExtensions_AddMainButtonTip>
+  <XmlExtensions_R>R</XmlExtensions_R>
+  <XmlExtensions_G>G</XmlExtensions_G>
+  <XmlExtensions_B>B</XmlExtensions_B>
+  <XmlExtensions_SearchResults>Найдено: {0}</XmlExtensions_SearchResults>
+</LanguageData>

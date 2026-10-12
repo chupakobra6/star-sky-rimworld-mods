@@ -1,0 +1,79 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <SMYH.basehandsize.label>Базовый размер рук: {0}</SMYH.basehandsize.label>
+  <SMYH.basehandsize.tooltip>Исходный размер рук до пересчёта с учётом размера тела.</SMYH.basehandsize.tooltip>
+  <SMYH.copied>Изменённые данные скопированы в буфер обмена.</SMYH.copied>
+  <SMYH.copy.button>Скопировать всё</SMYH.copy.button>
+  <SMYH.copy.info>Настройки скопированы</SMYH.copy.info>
+  <SMYH.copy.label>Скопировать заданные вручную значения</SMYH.copy.label>
+  <SMYH.copy.tooltip>Копирует изменённые значения в формате XML. Их можно использовать для улучшения настроек оружия по умолчанию.</SMYH.copy.tooltip>
+  <SMYH.copyone.button>Скопировать настройки</SMYH.copyone.button>
+  <SMYH.copyselected.button>Скопировать выбранное</SMYH.copyselected.button>
+  <SMYH.degree>{0}°</SMYH.degree>
+  <SMYH.draginfo>Перетаскивайте левой кнопкой мыши, чтобы задать положение основной руки, и правой — чтобы задать положение второй руки.</SMYH.draginfo>
+  <SMYH.error.hands>Ошибка: сведения о руках не найдены в базе данных ({0})</SMYH.error.hands>
+  <SMYH.error.texture>Ошибка, не удалось найти информацию о текстуре {0} в базе данных</SMYH.error.texture>
+  <SMYH.error.weapon>Ошибка, не удалось найти оружие {0} в базе данных</SMYH.error.weapon>
+  <SMYH.logging.label>Включить ведение подробного журнала</SMYH.logging.label>
+  <SMYH.logging.tooltip>Записывает подробные сведения в журнал для поиска ошибок.</SMYH.logging.tooltip>
+  <SMYH.mainhandhorizontal.label>Основная рука: по горизонтали</SMYH.mainhandhorizontal.label>
+  <SMYH.mainhandrotation.label>Поворот основной руки</SMYH.mainhandrotation.label>
+  <SMYH.mainhandvertical.label>Основная рука: по вертикали</SMYH.mainhandvertical.label>
+  <SMYH.matcharmor.label>Подбирать цвет рук под броню</SMYH.matcharmor.label>
+  <SMYH.matcharmor.tooltip>Если броня закрывает руки персонажа, мод пытается подобрать для них цвет брони.</SMYH.matcharmor.tooltip>
+  <SMYH.matchartificiallimb.label>Учитывать цвет протезов рук</SMYH.matchartificiallimb.label>
+  <SMYH.matchartificiallimb.tooltip>Если рука персонажа заменена протезом, мод пытается использовать цвет протеза.</SMYH.matchartificiallimb.tooltip>
+  <SMYH.matchhandamounts.label>Не показывать отсутствующие руки</SMYH.matchhandamounts.label>
+  <SMYH.matchhandamounts.tooltip>Если у персонажа нет одной руки, на двуручном оружии отображается только основная рука.</SMYH.matchhandamounts.tooltip>
+  <SMYH.nohands.label>Не показывать руки</SMYH.nohands.label>
+  <SMYH.offhandhorizontal.label>Вторая рука: по горизонтали</SMYH.offhandhorizontal.label>
+  <SMYH.offhandrotation.label>Поворот второй руки</SMYH.offhandrotation.label>
+  <SMYH.offhandvertical.label>Вторая рука: по вертикали</SMYH.offhandvertical.label>
+  <SMYH.paste.button>Вставить настройки</SMYH.paste.button>
+  <SMYH.paste.info>Настройки вставлены</SMYH.paste.info>
+  <SMYH.renderbehind.label>Рисовать руки за оружием</SMYH.renderbehind.label>
+  <SMYH.repositionhands.label>Смещать руки на крупном оружии</SMYH.repositionhands.label>
+  <SMYH.repositionhands.tooltip>Корректирует положение рук на оружии с увеличенным размером изображения. Параметр можно отключить, если другой мод меняет размер отрисовки, например анимации Yayo Combat 3.</SMYH.repositionhands.tooltip>
+  <SMYH.reset.button>Сбросить</SMYH.reset.button>
+  <SMYH.resetall.button>Сбросить всё</SMYH.resetall.button>
+  <SMYH.resetall.confirm>Все сохранённые настройки рук для всего оружия будут удалены. Загрузятся настройки по умолчанию.</SMYH.resetall.confirm>
+  <SMYH.resetall.label>Сброс ручных настроек</SMYH.resetall.label>
+  <SMYH.resetall.tooltip>Сбрасывает все заданные настройки рук.</SMYH.resetall.tooltip>
+  <SMYH.resetselected.button>Сбросить выбранное</SMYH.resetselected.button>
+  <SMYH.resetselected.confirm>Все сохранённые настройки рук для мода {0} будут удалены.</SMYH.resetselected.confirm>
+  <SMYH.resetsingle.confirm>Сохранённые настройки рук для этого оружия будут удалены. Загрузятся настройки по умолчанию.</SMYH.resetsingle.confirm>
+  <SMYH.resizehands.label>Подбирать размер рук под размер тела</SMYH.resizehands.label>
+  <SMYH.resizehands.tooltip>Подбирает размер изображения рук под размер персонажа. Результат может выглядеть странно, если в определении расы заданы необычные значения.</SMYH.resizehands.tooltip>
+  <SMYH.rotate>Поворачивайте руки колёсиком мыши. Удерживайте SHIFT, чтобы поворачивать быстрее.</SMYH.rotate>
+  <SMYH.rotation.label>Разрешить поворот рук</SMYH.rotation.label>
+  <SMYH.rotation.tooltip>Позволяет задать угол поворота рук. Это влияет на изображение только при нестандартной текстуре рук.</SMYH.rotation.tooltip>
+  <SMYH.save.button>Сохранить</SMYH.save.button>
+  <SMYH.search.tooltip>Поиск по названию оружия, идентификатору defName или названию мода.</SMYH.search.tooltip>
+  <SMYH.settings>Настройки</SMYH.settings>
+  <SMYH.showcrawling.label>Показывать руки при ползании</SMYH.showcrawling.label>
+  <SMYH.showcrawling.tooltip>Показывает руки у поверженного персонажа, когда тот ползёт.</SMYH.showcrawling.tooltip>
+  <SMYH.showhandscolonistsonly.label>Только у персонажей игрока</SMYH.showhandscolonistsonly.label>
+  <SMYH.showhandscolonistsonly.tooltip>Показывает руки только у поселенцев, рабов, механоидов поселения и других персонажей под управлением игрока.</SMYH.showhandscolonistsonly.tooltip>
+  <SMYH.showhidden>Показать скрытое оружие: {0}</SMYH.showhidden>
+  <SMYH.showonraces.label>Расы с отображением рук</SMYH.showonraces.label>
+  <SMYH.showonraces.reset>Сбросить</SMYH.showonraces.reset>
+  <SMYH.showonraces.search>Поиск</SMYH.showonraces.search>
+  <SMYH.showothertimes.label>Всегда показывать руки</SMYH.showothertimes.label>
+  <SMYH.showothertimes.tooltip>Рисует неподвижные руки по бокам персонажа, когда они ничем не заняты. У этого режима есть известные проблемы; автор работает над улучшением.</SMYH.showothertimes.tooltip>
+  <SMYH.showwhencarry.label>Показывать руки при переноске вещей</SMYH.showwhencarry.label>
+  <SMYH.showwhencarry.tooltip>Рисует руки у персонажей, переносящих вещи.</SMYH.showwhencarry.tooltip>
+  <SMYH.style.label>Стиль:</SMYH.style.label>
+  <SMYH.styledefault.label>По умолчанию</SMYH.styledefault.label>
+  <SMYH.summary>Сводка</SMYH.summary>
+  <SMYH.summary.tooltip>Нажмите на название мода, чтобы оставить в списке только его оружие</SMYH.summary.tooltip>
+  <SMYH.twohands.label>Показывать две руки</SMYH.twohands.label>
+  <SMYH.uiscale.label>Внимание
+Масштаб интерфейса отличается от 1.0x. Для некоторого оружия окно настройки может отображаться неправильно.</SMYH.uiscale.label>
+  <SMYH.uiscale.tooltip>Некоторое оружие нужно поворачивать из-за нестандартного угла его текстуры. Поворот работает некорректно при масштабе интерфейса, отличном от 1.0x. Чтобы настройки применились, менять масштаб не требуется.</SMYH.uiscale.tooltip>
+  <SMYH.undo.button>Отменить</SMYH.undo.button>
+  <SMYH.unknown>Неизвестно</SMYH.unknown>
+  <SMYH.version.label>Установленная версия мода: {0}</SMYH.version.label>
+  <SMYH.weaponrow.cyan>Использует особые настройки, поставляемые с модом</SMYH.weaponrow.cyan>
+  <SMYH.weaponrow.green>Использует настройки, заданные игроком</SMYH.weaponrow.green>
+  <SMYH.weaponrow.red>Использует настройки по умолчанию</SMYH.weaponrow.red>
+</LanguageData>

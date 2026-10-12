@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VREA_FoodSuppressed.description>Служебная запись, не предназначенная для отображения.</VREA_FoodSuppressed.description>
+  <VREA_FoodSuppressed.label>Служебная заглушка. Если вы видите эту запись, сообщите об ошибке.</VREA_FoodSuppressed.label>
+  <VREA_MemorySpace.description>Свободная память показывает, сколько места осталось на накопителе андроида. В течение дня оно расходуется. Когда место закончится, андроид перейдёт в режим переформатирования и останется в нём, пока не освободит достаточно памяти для продолжения работы.</VREA_MemorySpace.description>
+  <VREA_MemorySpace.label>свободная память</VREA_MemorySpace.label>
+  <VREA_ReactorPower.description>Запас энергии показывает оставшийся ресурс встроенного реактора андроида. Когда ресурс иссякнет, реактор может потребоваться заменить. Без рабочего источника питания андроид не функционирует.</VREA_ReactorPower.description>
+  <VREA_ReactorPower.label>энергия</VREA_ReactorPower.label>
+</LanguageData>

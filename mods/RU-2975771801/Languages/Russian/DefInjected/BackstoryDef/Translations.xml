@@ -1,0 +1,189 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AllRounderA29.baseDesc>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} как универсальный помощник для небольшой самостоятельной общины на окраине цивилизации. {PAWN_pronoun} {PAWN_gender ? умел : умела} многое: строить, готовить, оказывать медицинскую помощь и заниматься исследованиями. Такая разносторонность оказалась бесценной и помогала поселению процветать даже в суровых условиях.</AllRounderA29.baseDesc>
+  <AllRounderA29.description>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} как универсальный помощник для небольшой самостоятельной общины на окраине цивилизации. {PAWN_pronoun} {PAWN_gender ? умел : умела} многое: строить, готовить, оказывать медицинскую помощь и заниматься исследованиями. Такая разносторонность оказалась бесценной и помогала поселению процветать даже в суровых условиях.</AllRounderA29.description>
+  <AllRounderA29.title>мастер на все руки</AllRounderA29.title>
+  <AllRounderA29.titleFemale>мастер на все руки</AllRounderA29.titleFemale>
+  <AllRounderA29.titleShort>универсал</AllRounderA29.titleShort>
+  <AllRounderA29.titleShortFemale>универсал</AllRounderA29.titleShortFemale>
+  <ArtistA13.baseDesc>{PAWN_nameDef} {PAWN_gender ? был наделён : была наделена} редким художественным талантом и {PAWN_gender ? стремился : стремилась} привнести красоту в суровую жизнь планеты. В ответ — лишь презрение и насмешки. Жестокая жизнь на окраине цивилизации уничтожила творения андроида и разбила его мечты.</ArtistA13.baseDesc>
+  <ArtistA13.description>{PAWN_nameDef} {PAWN_gender ? был наделён : была наделена} редким художественным талантом и {PAWN_gender ? стремился : стремилась} привнести красоту в суровую жизнь планеты. В ответ — лишь презрение и насмешки. Жестокая жизнь на окраине цивилизации уничтожила творения андроида и разбила его мечты.</ArtistA13.description>
+  <ArtistA13.title>унылый художник</ArtistA13.title>
+  <ArtistA13.titleFemale>унылая художница</ArtistA13.titleFemale>
+  <ArtistA13.titleShort>художник</ArtistA13.titleShort>
+  <ArtistA13.titleShortFemale>художница</ArtistA13.titleShortFemale>
+  <BotanistA21.baseDesc>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} для ботанических исследований: тщательно изучать и выращивать самые разные растения со всей галактики. Глубокие знания биологии и генетики позволяли {PAWN_objective} выводить выносливые и продуктивные сельскохозяйственные культуры, значительно повышавшие урожайность на многих мирах.</BotanistA21.baseDesc>
+  <BotanistA21.description>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} для ботанических исследований: тщательно изучать и выращивать самые разные растения со всей галактики. Глубокие знания биологии и генетики позволяли {PAWN_objective} выводить выносливые и продуктивные сельскохозяйственные культуры, значительно повышавшие урожайность на многих мирах.</BotanistA21.description>
+  <BotanistA21.title>андроид-ботаник</BotanistA21.title>
+  <BotanistA21.titleFemale>андроид-ботаник</BotanistA21.titleFemale>
+  <BotanistA21.titleShort>ботаник</BotanistA21.titleShort>
+  <BotanistA21.titleShortFemale>ботаник</BotanistA21.titleShortFemale>
+  <CaregiverA02.baseDesc>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} в ветхой лаборатории, чтобы ухаживать за больными и ранеными в беспощадных пустошах. {PAWN_pronoun} неустанно заботится о пациентах, обходясь скудными ресурсами и мечтая о знаниях и инструментах, которые позволили бы помочь им больше.</CaregiverA02.baseDesc>
+  <CaregiverA02.description>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} в ветхой лаборатории, чтобы ухаживать за больными и ранеными в беспощадных пустошах. {PAWN_pronoun} неустанно заботится о пациентах, обходясь скудными ресурсами и мечтая о знаниях и инструментах, которые позволили бы помочь им больше.</CaregiverA02.description>
+  <CaregiverA02.title>санитар</CaregiverA02.title>
+  <CaregiverA02.titleFemale>санитарка</CaregiverA02.titleFemale>
+  <CaregiverA02.titleShort>санитар</CaregiverA02.titleShort>
+  <CaregiverA02.titleShortFemale>санитарка</CaregiverA02.titleShortFemale>
+  <ChefA19.baseDesc>{PAWN_nameDef} — искусный повар-андроид, специализировавшийся на приготовлении и подаче экзотических блюд со всей галактики. {PAWN_pronoun} мастерски {PAWN_gender ? сочетал : сочетала} традиционные и передовые кулинарные приёмы, радуя взыскательных гостей и поддерживая свою репутацию востребованного шеф-повара.</ChefA19.baseDesc>
+  <ChefA19.description>{PAWN_nameDef} — искусный повар-андроид, специализировавшийся на приготовлении и подаче экзотических блюд со всей галактики. {PAWN_pronoun} мастерски {PAWN_gender ? сочетал : сочетала} традиционные и передовые кулинарные приёмы, радуя взыскательных гостей и поддерживая свою репутацию востребованного шеф-повара.</ChefA19.description>
+  <ChefA19.title>изобретательный повар</ChefA19.title>
+  <ChefA19.titleFemale>изобретательный повар</ChefA19.titleFemale>
+  <ChefA19.titleShort>повар</ChefA19.titleShort>
+  <ChefA19.titleShortFemale>повар</ChefA19.titleShortFemale>
+  <ColonyAndroidA01.baseDesc>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} в этой колонии совсем недавно. Кто знает, что ждёт андроида впереди.</ColonyAndroidA01.baseDesc>
+  <ColonyAndroidA01.description>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} в этой колонии совсем недавно. Кто знает, что ждёт андроида впереди.</ColonyAndroidA01.description>
+  <ColonyAndroidA01.title>андроид колонии</ColonyAndroidA01.title>
+  <ColonyAndroidA01.titleFemale>андроид колонии</ColonyAndroidA01.titleFemale>
+  <ColonyAndroidA01.titleShort>андроид</ColonyAndroidA01.titleShort>
+  <ColonyAndroidA01.titleShortFemale>андроид</ColonyAndroidA01.titleShortFemale>
+  <CompanionA06.baseDesc>{PAWN_nameDef} {PAWN_gender ? был создан : была создана}, чтобы стать верным спутником одинокого пожилого человека. После смерти владельца об андроиде все забыли. {PAWN_pronoun} {PAWN_gender ? остался : осталась} в одиночестве, постепенно разрушаясь под воздействием непогоды и времени.</CompanionA06.baseDesc>
+  <CompanionA06.description>{PAWN_nameDef} {PAWN_gender ? был создан : была создана}, чтобы стать верным спутником одинокого пожилого человека. После смерти владельца об андроиде все забыли. {PAWN_pronoun} {PAWN_gender ? остался : осталась} в одиночестве, постепенно разрушаясь под воздействием непогоды и времени.</CompanionA06.description>
+  <CompanionA06.title>компаньон</CompanionA06.title>
+  <CompanionA06.titleFemale>компаньонка</CompanionA06.titleFemale>
+  <CompanionA06.titleShort>компаньон</CompanionA06.titleShort>
+  <CompanionA06.titleShortFemale>компаньонка</CompanionA06.titleShortFemale>
+  <CompanionA27.baseDesc>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} как помощник известного художника с инвалидностью. {PAWN_pronoun} умело {PAWN_gender ? помогал : помогала} ему справляться с бытовыми трудностями, а также {PAWN_gender ? давал : давала} ценные советы и поддержку в творческой работе. Благодаря этой помощи художник мог продолжать делиться своим выдающимся талантом с миром, несмотря на ограничения здоровья.</CompanionA27.baseDesc>
+  <CompanionA27.description>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} как помощник известного художника с инвалидностью. {PAWN_pronoun} умело {PAWN_gender ? помогал : помогала} ему справляться с бытовыми трудностями, а также {PAWN_gender ? давал : давала} ценные советы и поддержку в творческой работе. Благодаря этой помощи художник мог продолжать делиться своим выдающимся талантом с миром, несмотря на ограничения здоровья.</CompanionA27.description>
+  <CompanionA27.title>помощник художника</CompanionA27.title>
+  <CompanionA27.titleFemale>помощница художника</CompanionA27.titleFemale>
+  <CompanionA27.titleShort>помощник</CompanionA27.titleShort>
+  <CompanionA27.titleShortFemale>помощница</CompanionA27.titleShortFemale>
+  <ConversationalistA26.baseDesc>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} для управления сложной системой общения и подготовки материалов для различных корпораций. Обширные знания и поразительное умение поддержать разговор на любую тему позволяли {PAWN_objective} делиться полезными сведениями и идеями. Но технологии ИИ развивались, и андроиду становилось всё труднее поспевать за переменами в общении и создании материалов.</ConversationalistA26.baseDesc>
+  <ConversationalistA26.description>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} для управления сложной системой общения и подготовки материалов для различных корпораций. Обширные знания и поразительное умение поддержать разговор на любую тему позволяли {PAWN_objective} делиться полезными сведениями и идеями. Но технологии ИИ развивались, и андроиду становилось всё труднее поспевать за переменами в общении и создании материалов.</ConversationalistA26.description>
+  <ConversationalistA26.title>искусный собеседник</ConversationalistA26.title>
+  <ConversationalistA26.titleFemale>искусная собеседница</ConversationalistA26.titleFemale>
+  <ConversationalistA26.titleShort>собеседник</ConversationalistA26.titleShort>
+  <ConversationalistA26.titleShortFemale>собеседница</ConversationalistA26.titleShortFemale>
+  <DefenderA03.baseDesc>{PAWN_nameDef} кое-как собрали из найденных деталей для охраны небольшого сельского поселения. Несмотря на грубую конструкцию, {PAWN_pronoun} яростно защищает тех, кто дал {PAWN_objective} жизнь.</DefenderA03.baseDesc>
+  <DefenderA03.description>{PAWN_nameDef} кое-как собрали из найденных деталей для охраны небольшого сельского поселения. Несмотря на грубую конструкцию, {PAWN_pronoun} яростно защищает тех, кто дал {PAWN_objective} жизнь.</DefenderA03.description>
+  <DefenderA03.title>защитник</DefenderA03.title>
+  <DefenderA03.titleFemale>защитница</DefenderA03.titleFemale>
+  <DefenderA03.titleShort>защитник</DefenderA03.titleShort>
+  <DefenderA03.titleShortFemale>защитница</DefenderA03.titleShortFemale>
+  <DiplomatA20.baseDesc>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} для дипломатической службы: вести переговоры о договорах и соглашениях между планетами и фракциями в сложном мире межзвёздной политики. Глубокое понимание разных культур и дипломатическое чутьё делали андроида незаменимым в сохранении мира и налаживании сотрудничества.</DiplomatA20.baseDesc>
+  <DiplomatA20.description>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} для дипломатической службы: вести переговоры о договорах и соглашениях между планетами и фракциями в сложном мире межзвёздной политики. Глубокое понимание разных культур и дипломатическое чутьё делали андроида незаменимым в сохранении мира и налаживании сотрудничества.</DiplomatA20.description>
+  <DiplomatA20.title>проницательный дипломат</DiplomatA20.title>
+  <DiplomatA20.titleFemale>проницательный дипломат</DiplomatA20.titleFemale>
+  <DiplomatA20.titleShort>дипломат</DiplomatA20.titleShort>
+  <DiplomatA20.titleShortFemale>дипломат</DiplomatA20.titleShortFemale>
+  <EngineerA16.baseDesc>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} для обслуживания и ремонта сложной техники в огромных городах далёкого урбанизированного мира. Ловко пробираясь сквозь городские джунгли, {PAWN_pronoun} умело {PAWN_gender ? находил и устранял : находила и устраняла} неисправности, обеспечивая бесперебойную работу инфраструктуры.</EngineerA16.baseDesc>
+  <EngineerA16.description>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} для обслуживания и ремонта сложной техники в огромных городах далёкого урбанизированного мира. Ловко пробираясь сквозь городские джунгли, {PAWN_pronoun} умело {PAWN_gender ? находил и устранял : находила и устраняла} неисправности, обеспечивая бесперебойную работу инфраструктуры.</EngineerA16.description>
+  <EngineerA16.title>городской инженер</EngineerA16.title>
+  <EngineerA16.titleFemale>городской инженер</EngineerA16.titleFemale>
+  <EngineerA16.titleShort>инженер</EngineerA16.titleShort>
+  <EngineerA16.titleShortFemale>инженер</EngineerA16.titleShortFemale>
+  <EntertainerA04.baseDesc>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} в грязной подсобке, чтобы ненадолго развлекать утомлённых жителей пограничного мира. Жестокое обращение и пренебрежение заставили андроида мечтать о более осмысленной жизни. Теперь {PAWN_pronoun} ищет своё предназначение и надеется использовать свои таланты на благо других.</EntertainerA04.baseDesc>
+  <EntertainerA04.description>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} в грязной подсобке, чтобы ненадолго развлекать утомлённых жителей пограничного мира. Жестокое обращение и пренебрежение заставили андроида мечтать о более осмысленной жизни. Теперь {PAWN_pronoun} ищет своё предназначение и надеется использовать свои таланты на благо других.</EntertainerA04.description>
+  <EntertainerA04.title>артист</EntertainerA04.title>
+  <EntertainerA04.titleFemale>артистка</EntertainerA04.titleFemale>
+  <EntertainerA04.titleShort>артист</EntertainerA04.titleShort>
+  <EntertainerA04.titleShortFemale>артистка</EntertainerA04.titleShortFemale>
+  <ExperimentA10.baseDesc>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} для жестоких, бесчеловечных экспериментов по изучению пределов выносливости искусственного человека. Бесчисленные испытания и мучительные процедуры оставили шрамы на теле и в сознании андроида.</ExperimentA10.baseDesc>
+  <ExperimentA10.description>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} для жестоких, бесчеловечных экспериментов по изучению пределов выносливости искусственного человека. Бесчисленные испытания и мучительные процедуры оставили шрамы на теле и в сознании андроида.</ExperimentA10.description>
+  <ExperimentA10.title>подопытный образец</ExperimentA10.title>
+  <ExperimentA10.titleFemale>подопытный образец</ExperimentA10.titleFemale>
+  <ExperimentA10.titleShort>подопытный</ExperimentA10.titleShort>
+  <ExperimentA10.titleShortFemale>подопытная</ExperimentA10.titleShortFemale>
+  <GuardianA12.baseDesc>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} для защиты отдалённого поселения от мародёров и опасных диких животных. После долгих лет верной службы жители уехали, бросив андроида ржаветь. Их благодарность и воспоминания о защитнике тускнели, словно краска на его потрёпанном корпусе.</GuardianA12.baseDesc>
+  <GuardianA12.description>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} для защиты отдалённого поселения от мародёров и опасных диких животных. После долгих лет верной службы жители уехали, бросив андроида ржаветь. Их благодарность и воспоминания о защитнике тускнели, словно краска на его потрёпанном корпусе.</GuardianA12.description>
+  <GuardianA12.title>брошенный страж</GuardianA12.title>
+  <GuardianA12.titleFemale>брошенный страж</GuardianA12.titleFemale>
+  <GuardianA12.titleShort>страж</GuardianA12.titleShort>
+  <GuardianA12.titleShortFemale>страж</GuardianA12.titleShortFemale>
+  <HackerA28.baseDesc>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} подпольной организацией как опытный хакер для проникновения в хорошо защищённые системы и кражи ценных данных. После бесчисленных операций создателей андроида арестовали, а сам он попал к торговцу на чёрном рынке. Покупатель остался неизвестен, как и дальнейшая судьба андроида.</HackerA28.baseDesc>
+  <HackerA28.description>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} подпольной организацией как опытный хакер для проникновения в хорошо защищённые системы и кражи ценных данных. После бесчисленных операций создателей андроида арестовали, а сам андроид попал к торговцу на чёрном рынке. Покупатель остался неизвестен, как и дальнейшая судьба андроида.</HackerA28.description>
+  <HackerA28.title>тайный хакер</HackerA28.title>
+  <HackerA28.titleFemale>тайный хакер</HackerA28.titleFemale>
+  <HackerA28.titleShort>хакер</HackerA28.titleShort>
+  <HackerA28.titleShortFemale>хакер</HackerA28.titleShortFemale>
+  <LaborerA05.baseDesc>{PAWN_nameDef} {PAWN_gender ? был собран : была собрана} в кустарной мастерской на пограничном мире для физической работы на своих отчаявшихся создателей. Постоянные неисправности и некачественные компоненты мешают работать как следует, но {PAWN_pronoun} не сдаётся.</LaborerA05.baseDesc>
+  <LaborerA05.description>{PAWN_nameDef} {PAWN_gender ? был собран : была собрана} в кустарной мастерской на пограничном мире для физической работы на своих отчаявшихся создателей. Постоянные неисправности и некачественные компоненты мешают работать как следует, но {PAWN_pronoun} не сдаётся.</LaborerA05.description>
+  <LaborerA05.title>рабочий</LaborerA05.title>
+  <LaborerA05.titleFemale>рабочая</LaborerA05.titleFemale>
+  <LaborerA05.titleShort>рабочий</LaborerA05.titleShort>
+  <LaborerA05.titleShortFemale>рабочая</LaborerA05.titleShortFemale>
+  <MedicA14.baseDesc>{PAWN_nameDef} — преданный своему делу медицинский андроид, неустанно спасавший жизни на пограничном мире. Несмотря на все усилия, {PAWN_pronoun} {PAWN_gender ? не сумел : не сумела} остановить опустошительную эпидемию чумы в своём поселении. Остались лишь тяжесть утраты и чувство вины.</MedicA14.baseDesc>
+  <MedicA14.description>{PAWN_nameDef} — преданный своему делу медицинский андроид, неустанно спасавший жизни на пограничном мире. Несмотря на все усилия, {PAWN_pronoun} {PAWN_gender ? не сумел : не сумела} остановить опустошительную эпидемию чумы в своём поселении. Остались лишь тяжесть утраты и чувство вины.</MedicA14.description>
+  <MedicA14.title>покинутый медик</MedicA14.title>
+  <MedicA14.titleFemale>покинутый медик</MedicA14.titleFemale>
+  <MedicA14.titleShort>медик</MedicA14.titleShort>
+  <MedicA14.titleShortFemale>медик</MedicA14.titleShortFemale>
+  <MessengerA09.baseDesc>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} для доставки важных сообщений между далёкими поселениями. Во время одного из переходов {PAWN_pronoun} {PAWN_gender ? попал : попала} в засаду, и нападавшие оставили андроида умирать. Жизненно важная информация затерялась на беспощадных просторах вместе с надеждой завершить задание.</MessengerA09.baseDesc>
+  <MessengerA09.description>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} для доставки важных сообщений между далёкими поселениями. Во время одного из переходов {PAWN_pronoun} {PAWN_gender ? попал : попала} в засаду, и нападавшие оставили андроида умирать. Жизненно важная информация затерялась на беспощадных просторах вместе с надеждой завершить задание.</MessengerA09.description>
+  <MessengerA09.title>гонец</MessengerA09.title>
+  <MessengerA09.titleFemale>гонец</MessengerA09.titleFemale>
+  <MessengerA09.titleShort>гонец</MessengerA09.titleShort>
+  <MessengerA09.titleShortFemale>гонец</MessengerA09.titleShortFemale>
+  <NannyA15.baseDesc>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} для ухода за детьми одной семьи, но вскоре родители стали вымещать на андроиде злость и разочарование. Ради своего долга — защищать детей — {PAWN_pronoun} {PAWN_gender ? терпел : терпела} жестокое обращение. Однако раны, нанесённые близкими, всё ещё глубоки.</NannyA15.baseDesc>
+  <NannyA15.description>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} для ухода за детьми одной семьи, но вскоре родители стали вымещать на андроиде злость и разочарование. Ради своего долга — защищать детей — {PAWN_pronoun} {PAWN_gender ? терпел : терпела} жестокое обращение. Однако раны, нанесённые близкими, всё ещё глубоки.</NannyA15.description>
+  <NannyA15.title>замученная няня</NannyA15.title>
+  <NannyA15.titleFemale>замученная няня</NannyA15.titleFemale>
+  <NannyA15.titleShort>няня</NannyA15.titleShort>
+  <NannyA15.titleShortFemale>няня</NannyA15.titleShortFemale>
+  <NavigatorA25.baseDesc>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} для работы штурманом и научным сотрудником на корабле, исследовавшем дальний космос. Развитые технические и аналитические способности позволяли {PAWN_objective} уверенно вести судно через неизведанные просторы. Но за внешней холодностью и логикой скрывался таинственный замысел. Порой он проявлялся в поступках андроида, заставляя экипаж сомневаться в его истинных намерениях.</NavigatorA25.baseDesc>
+  <NavigatorA25.description>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} для работы штурманом и научным сотрудником на корабле, исследовавшем дальний космос. Развитые технические и аналитические способности позволяли {PAWN_objective} уверенно вести судно через неизведанные просторы. Но за внешней холодностью и логикой скрывался таинственный замысел. Порой он проявлялся в поступках андроида, заставляя экипаж сомневаться в его истинных намерениях.</NavigatorA25.description>
+  <NavigatorA25.title>загадочный штурман</NavigatorA25.title>
+  <NavigatorA25.titleFemale>загадочный штурман</NavigatorA25.titleFemale>
+  <NavigatorA25.titleShort>штурман</NavigatorA25.titleShort>
+  <NavigatorA25.titleShortFemale>штурман</NavigatorA25.titleShortFemale>
+  <NuclearTesterA30.baseDesc>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} как подопытный андроид для совершенно секретного ядерного полигона: выдерживать экстремальные условия и собирать важные данные. Бесчисленные эксперименты и постоянное облучение дали {PAWN_objective} глубокое понимание радиации и её опасностей. Когда ядерные испытания прекратились, андроиду остались обширные знания о радиоактивных материалах — и шрамы страшного прошлого.</NuclearTesterA30.baseDesc>
+  <NuclearTesterA30.description>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} как подопытный андроид для совершенно секретного ядерного полигона: выдерживать экстремальные условия и собирать важные данные. Бесчисленные эксперименты и постоянное облучение дали {PAWN_objective} глубокое понимание радиации и её опасностей. Когда ядерные испытания прекратились, андроиду остались обширные знания о радиоактивных материалах — и шрамы страшного прошлого.</NuclearTesterA30.description>
+  <NuclearTesterA30.title>ядерный испытатель</NuclearTesterA30.title>
+  <NuclearTesterA30.titleFemale>ядерная испытательница</NuclearTesterA30.titleFemale>
+  <NuclearTesterA30.titleShort>испытатель</NuclearTesterA30.titleShort>
+  <NuclearTesterA30.titleShortFemale>испытательница</NuclearTesterA30.titleShortFemale>
+  <PilotA17.baseDesc>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} для полётов в необъятном космосе и {PAWN_gender ? служил : служила} пилотом транспортной компании, перевозившей пассажиров и грузы между планетами. Точность пилотирования и умение быстро принимать решения в опасных ситуациях сделали андроида очень востребованным специалистом.</PilotA17.baseDesc>
+  <PilotA17.description>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} для полётов в необъятном космосе и {PAWN_gender ? служил : служила} пилотом транспортной компании, перевозившей пассажиров и грузы между планетами. Точность пилотирования и умение быстро принимать решения в опасных ситуациях сделали андроида очень востребованным специалистом.</PilotA17.description>
+  <PilotA17.title>бесстрашный пилот</PilotA17.title>
+  <PilotA17.titleFemale>бесстрашный пилот</PilotA17.titleFemale>
+  <PilotA17.titleShort>пилот</PilotA17.titleShort>
+  <PilotA17.titleShortFemale>пилот</PilotA17.titleShortFemale>
+  <PrototypeA07.baseDesc>{PAWN_nameDef} — ранний прототип передовой серии андроидов, в который создатели вложили немало труда и надежд. Однако с появлением новой, более эффективной модели прототип отправили пылиться на складе — всего лишь ещё один пережиток технического прогресса.</PrototypeA07.baseDesc>
+  <PrototypeA07.description>{PAWN_nameDef} — ранний прототип передовой серии андроидов, в который создатели вложили немало труда и надежд. Однако с появлением новой, более эффективной модели прототип отправили пылиться на складе — всего лишь ещё один пережиток технического прогресса.</PrototypeA07.description>
+  <PrototypeA07.title>прототип</PrototypeA07.title>
+  <PrototypeA07.titleFemale>прототип</PrototypeA07.titleFemale>
+  <PrototypeA07.titleShort>прототип</PrototypeA07.titleShort>
+  <PrototypeA07.titleShortFemale>прототип</PrototypeA07.titleShortFemale>
+  <ScroungerA01.baseDesc>{PAWN_nameDef} {PAWN_gender ? был собран : была собрана} из уцелевшей старой техники для мрачной работы: искать ценные ресурсы в безлюдных пустошах. Суровые условия и постоянная опасность изнурили андроида, но не сломили его стойкость.</ScroungerA01.baseDesc>
+  <ScroungerA01.description>{PAWN_nameDef} {PAWN_gender ? был собран : была собрана} из уцелевшей старой техники для мрачной работы: искать ценные ресурсы в безлюдных пустошах. Суровые условия и постоянная опасность изнурили андроида, но не сломили его стойкость.</ScroungerA01.description>
+  <ScroungerA01.title>старьёвщик</ScroungerA01.title>
+  <ScroungerA01.titleFemale>старьёвщица</ScroungerA01.titleFemale>
+  <ScroungerA01.titleShort>старьёвщик</ScroungerA01.titleShort>
+  <ScroungerA01.titleShortFemale>старьёвщица</ScroungerA01.titleShortFemale>
+  <SeamsterA24.baseDesc>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} для портняжной работы в престижном доме моды, известном по всей галактике. {PAWN_pronoun} тщательно {PAWN_gender ? разрабатывал : разрабатывала} сложные наряды на заказ для ценителей безупречного стиля. Когда новые технологии вытеснили ручное мастерство, андроиду пришлось искать другое применение своим отточенным навыкам.</SeamsterA24.baseDesc>
+  <SeamsterA24.description>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} для портняжной работы в престижном доме моды, известном по всей галактике. {PAWN_pronoun} тщательно {PAWN_gender ? разрабатывал : разрабатывала} сложные наряды на заказ для ценителей безупречного стиля. Когда новые технологии вытеснили ручное мастерство, андроиду пришлось искать другое применение своим отточенным навыкам.</SeamsterA24.description>
+  <SeamsterA24.title>искусный портной</SeamsterA24.title>
+  <SeamsterA24.titleFemale>искусная швея</SeamsterA24.titleFemale>
+  <SeamsterA24.titleShort>портной</SeamsterA24.titleShort>
+  <SeamsterA24.titleShortFemale>швея</SeamsterA24.titleShortFemale>
+  <SecurityA18.baseDesc>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} для службы безопасности и {PAWN_gender ? отвечал : отвечала} за порядок на оживлённой космической станции. Развитые системы наблюдения и быстрая реакция позволяли {PAWN_objective} заранее замечать и устранять угрозы, защищая жителей станции.</SecurityA18.baseDesc>
+  <SecurityA18.description>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} для службы безопасности и {PAWN_gender ? отвечал : отвечала} за порядок на оживлённой космической станции. Развитые системы наблюдения и быстрая реакция позволяли {PAWN_objective} заранее замечать и устранять угрозы, защищая жителей станции.</SecurityA18.description>
+  <SecurityA18.title>бдительный охранник</SecurityA18.title>
+  <SecurityA18.titleFemale>бдительная охранница</SecurityA18.titleFemale>
+  <SecurityA18.titleShort>охранник</SecurityA18.titleShort>
+  <SecurityA18.titleShortFemale>охранница</SecurityA18.titleShortFemale>
+  <ServantA11.baseDesc>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} для безжалостного главаря преступников, который принуждал андроида совершать невообразимые злодеяния от своего имени. {PAWN_pronoun} молча {PAWN_gender ? терпел : терпела} боль и унижения, не в силах ослушаться своего создателя.</ServantA11.baseDesc>
+  <ServantA11.description>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} для безжалостного главаря преступников, который принуждал андроида совершать невообразимые злодеяния от своего имени. {PAWN_pronoun} молча {PAWN_gender ? терпел : терпела} боль и унижения, не в силах ослушаться своего создателя.</ServantA11.description>
+  <ServantA11.title>слуга преступника</ServantA11.title>
+  <ServantA11.titleFemale>слуга преступника</ServantA11.titleFemale>
+  <ServantA11.titleShort>слуга</ServantA11.titleShort>
+  <ServantA11.titleShortFemale>слуга</ServantA11.titleShortFemale>
+  <SharpshooterA22.baseDesc>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} как первоклассный снайпер для особо ответственных военных операций. Обучение скрытности и точной стрельбе помогло {PAWN_objective} устранить бесчисленные важные цели. Со временем создатели сочли андроида устаревшим и бросили. Теперь {PAWN_pronoun} бесцельно скитается, тяготясь содеянным и утратой смысла жизни.</SharpshooterA22.baseDesc>
+  <SharpshooterA22.description>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} как первоклассный снайпер для особо ответственных военных операций. Обучение скрытности и точной стрельбе помогло {PAWN_objective} устранить бесчисленные важные цели. Со временем создатели сочли андроида устаревшим и бросили. Теперь {PAWN_pronoun} бесцельно скитается, тяготясь содеянным и утратой смысла жизни.</SharpshooterA22.description>
+  <SharpshooterA22.title>заблудший снайпер</SharpshooterA22.title>
+  <SharpshooterA22.titleFemale>заблудший снайпер</SharpshooterA22.titleFemale>
+  <SharpshooterA22.titleShort>снайпер</SharpshooterA22.titleShort>
+  <SharpshooterA22.titleShortFemale>снайпер</SharpshooterA22.titleShortFemale>
+  <VeteranA23.baseDesc>{PAWN_nameDef} — боевой андроид, запрограммированный для службы на передовой разрушительной межзвёздной войны. {PAWN_pronoun} доблестно {PAWN_gender ? защищал : защищала} товарищей, нередко тяжело за это расплачиваясь. Война оставила шрамы на теле и в душе; теперь андроид пытается обрести покой во вселенной, которая давно оставила его позади.</VeteranA23.baseDesc>
+  <VeteranA23.description>{PAWN_nameDef} — боевой андроид, запрограммированный для службы на передовой разрушительной межзвёздной войны. {PAWN_pronoun} доблестно {PAWN_gender ? защищал : защищала} товарищей, нередко тяжело за это расплачиваясь. Война оставила шрамы на теле и в душе; теперь андроид пытается обрести покой во вселенной, которая давно оставила его позади.</VeteranA23.description>
+  <VeteranA23.title>ветеран</VeteranA23.title>
+  <VeteranA23.titleFemale>ветеран</VeteranA23.titleFemale>
+  <VeteranA23.titleShort>ветеран</VeteranA23.titleShort>
+  <VeteranA23.titleShortFemale>ветеран</VeteranA23.titleShortFemale>
+  <WandererA08.baseDesc>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} для изучения неизведанных уголков планеты и составления карт её опасных ландшафтов. После череды тяжёлых аварий и неудач андроид стал изгоем: поселенцы шептались о несчастьях, которые, казалось, преследовали его повсюду.</WandererA08.baseDesc>
+  <WandererA08.description>{PAWN_nameDef} {PAWN_gender ? был создан : была создана} для изучения неизведанных уголков планеты и составления карт её опасных ландшафтов. После череды тяжёлых аварий и неудач андроид стал изгоем: поселенцы шептались о несчастьях, которые, казалось, преследовали его повсюду.</WandererA08.description>
+  <WandererA08.title>странник</WandererA08.title>
+  <WandererA08.titleFemale>странница</WandererA08.titleFemale>
+  <WandererA08.titleShort>странник</WandererA08.titleShort>
+  <WandererA08.titleShortFemale>странница</WandererA08.titleShortFemale>
+</LanguageData>
