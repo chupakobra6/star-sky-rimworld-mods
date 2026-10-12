@@ -184,7 +184,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 [![SimpleBabyCarry — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/simple-baby-carry-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3804220755)
 
-RimWorld 1.6 · Версия 1.0.0
+RimWorld 1.6 · Версия 1.0.1
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3804220755) · [Исходники и руководство](../mods/RU-3692756679/README.md) · [История изменений](../mods/RU-3692756679/CHANGELOG.md) · [Лицензия](../mods/RU-3692756679/LICENSE) · [Источники и уведомления](../mods/RU-3692756679/NOTICES.md)
 
@@ -204,9 +204,11 @@ RimWorld 1.6 · Версия 1.0.0
 
 [![Bio Tab+ — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/bio-tab-plus-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3804220769)
 
-RimWorld 1.6 · Версия 1.0.0
+RimWorld 1.6 · Версия 1.0.1
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3804220769) · [Исходники и руководство](../mods/RU-3781978940/README.md) · [История изменений](../mods/RU-3781978940/CHANGELOG.md) · [Лицензия](../mods/RU-3781978940/LICENSE) · [Источники и уведомления](../mods/RU-3781978940/NOTICES.md)
+
+[![Другие моды в Мастерской Steam](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-ru.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)
 
 ## Gravship Cutscene Speed — русский перевод
 

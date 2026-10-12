@@ -22,7 +22,7 @@ namespace Igor.RU_3692756679
                 { "Rot", "Поворот" },
                 { "Scale", "Масштаб" }
             } },
-            { "b4ttl3m3ds.simplebabycarry.DataModels.CompPawnCarryBaby:CompGetGizmosExtra", new Dictionary<string,string> {
+            { "b4ttl3m3ds.simplebabycarry.DataModels.CompPawnCarryBaby:AddDevGizmos", new Dictionary<string,string> {
                 { "DEV: Baby X +", "Отладка: Младенец X +" },
                 { "DEV: Baby X -", "Отладка: Младенец X −" },
                 { "DEV: Baby Y + (Depth)", "Отладка: Младенец Y + (глубина)" },
@@ -110,17 +110,11 @@ namespace Igor.RU_3692756679
                 { " Y (depth) -", " Y (глубина) -" },
                 { "DEV: ", "Отладка: " }
             } },
-            { "b4ttl3m3ds.simplebabycarry.Helper.BabyCarryHelpers:GetCellUnsafeReason", new Dictionary<string,string> {
+            { "b4ttl3m3ds.simplebabycarry.Helper.BabyCellSafety:GetCellUnsafeReason", new Dictionary<string,string> {
                 { "baby", "младенец" }
             } },
             { "b4ttl3m3ds.simplebabycarry.Main_HarmonyInitializer:SettingsCategory", new Dictionary<string,string> {
                 { "Simple Baby Carry", "Simple Baby Carry — ношение младенцев" }
-            } },
-            { "b4ttl3m3ds.simplebabycarry.Patches.Patch_AddCustomCarryBabyOption:FloatMenuAction_PutSomewhereSafe", new Dictionary<string,string> {
-                { "Cannot find a safe, reachable location for {0}.", "Не удаётся найти безопасное и доступное место для младенца «{0}»." }
-            } },
-            { "b4ttl3m3ds.simplebabycarry.Patches.Patch_AddCustomCarryBabyOption:Postfix", new Dictionary<string,string> {
-                { "ReservedBy", "chupakobra6_3692756679_ReservedBy" }
             } }
             };
         private static readonly Dictionary<string,string[]> Parameters = new Dictionary<string,string[]> {
@@ -130,9 +124,20 @@ namespace Igor.RU_3692756679
         public static void Apply()
         {
             var harmony = new Harmony("igor.ru.3692756679.literals");
-            foreach (var target in Methods.Keys)
+            foreach (var target in Methods.Keys.ToArray())
+            {
+                if (!IsApplicable(target)) { Methods.Remove(target); continue; }
                 harmony.Patch(ResolveTarget(target),
                     transpiler: new HarmonyMethod(typeof(LiteralTranslations), nameof(Transpile)));
+            }
+        }
+        public static bool IsApplicable(string target)
+        {
+            switch (target)
+            {
+
+                default: return true;
+            }
         }
         public static MethodBase ResolveTarget(string target)
         {
