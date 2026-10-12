@@ -1,13 +1,13 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <VREA_VRE_DeadVoice.description>У носителей этого гена хриплый, болезненный голос.</VREA_VRE_DeadVoice.description>
+  <VREA_VRE_DeadVoice.description>У носителей этого гена хриплый голос, словно у больного.</VREA_VRE_DeadVoice.description>
   <VREA_VRE_DeadVoice.label>мертвецкий голос</VREA_VRE_DeadVoice.label>
   <VREA_VRE_FungalCrest.description>На макушке носителей этого гена вырастает крупный яркий грибной гребень.</VREA_VRE_FungalCrest.description>
   <VREA_VRE_FungalCrest.label>грибной гребень</VREA_VRE_FungalCrest.label>
   <VREA_VRE_Fungoid_Hair_DarkTan.description>Волосы носителей этого гена имеют определённый цвет. При наличии нескольких генов цвета волос один из них выбирается случайно.</VREA_VRE_Fungoid_Hair_DarkTan.description>
   <VREA_VRE_Fungoid_Hair_DarkTan.label>тёмно-песочные волосы</VREA_VRE_Fungoid_Hair_DarkTan.label>
   <VREA_VRE_Fungoid_Hair_MistyMoss.description>Волосы носителей этого гена имеют определённый цвет. При наличии нескольких генов цвета волос один из них выбирается случайно.</VREA_VRE_Fungoid_Hair_MistyMoss.description>
-  <VREA_VRE_Fungoid_Hair_MistyMoss.label>светлые мшистые волосы</VREA_VRE_Fungoid_Hair_MistyMoss.label>
+  <VREA_VRE_Fungoid_Hair_MistyMoss.label>серо-оливковые волосы</VREA_VRE_Fungoid_Hair_MistyMoss.label>
   <VREA_VRE_Fungoid_Hair_RoseTaupe.description>Волосы носителей этого гена имеют определённый цвет. При наличии нескольких генов цвета волос один из них выбирается случайно.</VREA_VRE_Fungoid_Hair_RoseTaupe.description>
   <VREA_VRE_Fungoid_Hair_RoseTaupe.label>серо-розовые волосы</VREA_VRE_Fungoid_Hair_RoseTaupe.label>
   <VREA_VRE_Fungoid_Hair_Salmon.description>Волосы носителей этого гена имеют определённый цвет. При наличии нескольких генов цвета волос один из них выбирается случайно.</VREA_VRE_Fungoid_Hair_Salmon.description>
@@ -15,7 +15,7 @@
   <VREA_VRE_Fungoid_Hair_SwampGreen.description>Волосы носителей этого гена имеют определённый цвет. При наличии нескольких генов цвета волос один из них выбирается случайно.</VREA_VRE_Fungoid_Hair_SwampGreen.description>
   <VREA_VRE_Fungoid_Hair_SwampGreen.label>болотно-зелёные волосы</VREA_VRE_Fungoid_Hair_SwampGreen.label>
   <VREA_VRE_Fungoid_Hair_Tumbleweed.description>Волосы носителей этого гена имеют определённый цвет. При наличии нескольких генов цвета волос один из них выбирается случайно.</VREA_VRE_Fungoid_Hair_Tumbleweed.description>
-  <VREA_VRE_Fungoid_Hair_Tumbleweed.label>соломенные волосы</VREA_VRE_Fungoid_Hair_Tumbleweed.label>
+  <VREA_VRE_Fungoid_Hair_Tumbleweed.label>светло-коричневые волосы</VREA_VRE_Fungoid_Hair_Tumbleweed.label>
   <VREA_VRE_Fungoid_Hair_Wenge.description>Волосы носителей этого гена имеют определённый цвет. При наличии нескольких генов цвета волос один из них выбирается случайно.</VREA_VRE_Fungoid_Hair_Wenge.description>
   <VREA_VRE_Fungoid_Hair_Wenge.label>волосы цвета венге</VREA_VRE_Fungoid_Hair_Wenge.label>
   <VREA_VRE_HairMushroom.description>Волосы носителей этого гена имеют определённый цвет. При наличии нескольких генов цвета волос один из них выбирается случайно.</VREA_VRE_HairMushroom.description>
@@ -23,7 +23,7 @@
   <VREA_VRE_Repulsive.customEffectDescriptions.0>При общении с носителем у собеседника без этого гена с вероятностью 20% начинается сильная рвота.</VREA_VRE_Repulsive.customEffectDescriptions.0>
   <VREA_VRE_Repulsive.description>Носители этого гена имеют пугающую, неестественную внешность и едва напоминают людей. Общение с ними может вызвать у собеседника рвоту.</VREA_VRE_Repulsive.description>
   <VREA_VRE_Repulsive.label>крайне отталкивающая внешность</VREA_VRE_Repulsive.label>
-  <VRE_DeadVoice.description>У носителей этого гена хриплый, болезненный голос.</VRE_DeadVoice.description>
+  <VRE_DeadVoice.description>У носителей этого гена хриплый голос, словно у больного.</VRE_DeadVoice.description>
   <VRE_DeadVoice.label>мертвецкий голос</VRE_DeadVoice.label>
   <VRE_ExtremeSkillLoss.description>Носители этого гена забывают навыки вдвое быстрее.</VRE_ExtremeSkillLoss.description>
   <VRE_ExtremeSkillLoss.label>очень быстрое забывание навыков</VRE_ExtremeSkillLoss.label>

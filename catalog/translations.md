@@ -584,7 +584,9 @@ RimWorld 1.6 · Версия 1.0.0
 
 [![Vanilla Races Expanded - Fungoid — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/vanilla-races-expanded-fungoid-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3818475407)
 
-RimWorld 1.6 · Версия 1.0.0
+RimWorld 1.6 · Версия 1.0.1
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3818475407) · [Исходники и руководство](../mods/RU-3042690053/README.md) · [История изменений](../mods/RU-3042690053/CHANGELOG.md) · [Лицензия](../mods/RU-3042690053/LICENSE) · [Источники и уведомления](../mods/RU-3042690053/NOTICES.md)
+
+[![Другие моды в Мастерской Steam](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-ru.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)
 

@@ -6,7 +6,7 @@
   <VRE_FungalRegeneration.label>грибная регенерация</VRE_FungalRegeneration.label>
   <VRE_GeneInfected.description>Перенесённая генная инфекция изменила ксенотип. Эти изменения нельзя вылечить.</VRE_GeneInfected.description>
   <VRE_GeneInfected.label>последствия генной инфекции</VRE_GeneInfected.label>
-  <VRE_GeneInfection.comps.HediffComp_Discoverable.discoverLetterText>{0}: обнаружена генная инфекция! Если лечение не окажется успешным, последует болезненное превращение в ксенотип источника заражения.</VRE_GeneInfection.comps.HediffComp_Discoverable.discoverLetterText>
+  <VRE_GeneInfection.comps.HediffComp_Discoverable.discoverLetterText>{0}: обнаружена генная инфекция! Если лечение не поможет, начнётся болезненное превращение. В результате ксенотип станет таким же, как у того, кто передал инфекцию.</VRE_GeneInfection.comps.HediffComp_Discoverable.discoverLetterText>
   <VRE_GeneInfection.description>При атаке в ближнем бою в организм попала копия чужого ксеносемени. Развивающаяся инфекция внедрит его, если лечение не окажется успешным.</VRE_GeneInfection.description>
   <VRE_GeneInfection.label>генная инфекция</VRE_GeneInfection.label>
   <VRE_GeneInfection.labelNoun>генная инфекция</VRE_GeneInfection.labelNoun>

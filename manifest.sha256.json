@@ -509,8 +509,8 @@
     },
     {
       "path": "catalog/translations.md",
-      "bytes": 52992,
-      "sha256": "92eaf559559bc20d7569e42794e2afaf05976920caa35ac4e8d3757e646e2efe"
+      "bytes": 53221,
+      "sha256": "abd5b946db97e37a029de6530691054f13a8d94931c705141c99d075321f7d42"
     },
     {
       "path": "mods/CharacterEditor-Fixes/About/About.xml",
@@ -6675,7 +6675,7 @@
     {
       "path": "mods/RU-3042690053/About/About.xml",
       "bytes": 2547,
-      "sha256": "8b2e20559a615881781a5f73e330cd64ce2e9dc221eebc24d15d059c0900cc8b"
+      "sha256": "43a8b3beb516c704113dd8bf76fe8af850b3f2fe819228bab65f599ee4eceaa7"
     },
     {
       "path": "mods/RU-3042690053/About/Preview.png",
@@ -6694,8 +6694,8 @@
     },
     {
       "path": "mods/RU-3042690053/CHANGELOG.md",
-      "bytes": 162,
-      "sha256": "46188fdbf0fb8c95bce9f66718d22b77a38b41e93daef4de9e03d91fb754c741"
+      "bytes": 298,
+      "sha256": "9e09bf538df6e6edd14af7e0c7599ccacbf6197949f390e036f348f86241b9e2"
     },
     {
       "path": "mods/RU-3042690053/Languages/Russian/DefInjected/DamageDef/Translations.xml",
@@ -6709,8 +6709,8 @@
     },
     {
       "path": "mods/RU-3042690053/Languages/Russian/DefInjected/GeneDef/Translations.xml",
-      "bytes": 15423,
-      "sha256": "f5cb19504d993a5b8d15686bb6c8230d5064d29b031c719c61b43f78a710de28"
+      "bytes": 15454,
+      "sha256": "159bb7e1a0042b361eb16428c9a5a74332e547ead8e040c6ff0051d8eaaff755"
     },
     {
       "path": "mods/RU-3042690053/Languages/Russian/DefInjected/HairDef/Translations.xml",
@@ -6719,8 +6719,8 @@
     },
     {
       "path": "mods/RU-3042690053/Languages/Russian/DefInjected/HediffDef/Translations.xml",
-      "bytes": 3244,
-      "sha256": "efe46184b36fb94913c24aa10870a7049288d6505cf358560aa7f68685acc336"
+      "bytes": 3296,
+      "sha256": "a40862a7f2c6d4e3bcc24d484b90fcde3c46bdffaafc1caea44dfda1ebff25c1"
     },
     {
       "path": "mods/RU-3042690053/Languages/Russian/DefInjected/IncidentDef/Translations.xml",
@@ -6749,8 +6749,8 @@
     },
     {
       "path": "mods/RU-3042690053/Languages/Russian/DefInjected/ThingDef/Translations.xml",
-      "bytes": 1868,
-      "sha256": "dda39d9a362b1048fdd002ce0ca90f8b67d10b88d5738ec7bdf6d16c22ad3ddb"
+      "bytes": 1999,
+      "sha256": "d94fe19113ec289e1859a5577f14792be21cfb1b2db001698f919087c19e9473"
     },
     {
       "path": "mods/RU-3042690053/Languages/Russian/DefInjected/ThoughtDef/Translations.xml",
@@ -6764,8 +6764,8 @@
     },
     {
       "path": "mods/RU-3042690053/Languages/Russian/DefInjected/XenotypeDef/Translations.xml",
-      "bytes": 3085,
-      "sha256": "0deca43af4647575e39ead341e6124a2f3a43e59eaeed08484f9285dcd7a7e77"
+      "bytes": 3246,
+      "sha256": "518b575092d264525ace37a1bf8a94eb4ebc824fb551af5292a4638c3fee3861"
     },
     {
       "path": "mods/RU-3042690053/Languages/Russian/Keyed/Translations.xml",
