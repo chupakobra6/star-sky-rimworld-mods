@@ -509,8 +509,8 @@
     },
     {
       "path": "catalog/translations.md",
-      "bytes": 53450,
-      "sha256": "e83f92133d7a039abdb7a1da1441b43a7568d66a3ac5673661fac7b8eaf78c8c"
+      "bytes": 53679,
+      "sha256": "62349a93413da6c80a94006a4f94660e4fbd2001056c3e3b3e448f3adf09ff8d"
     },
     {
       "path": "mods/CharacterEditor-Fixes/About/About.xml",
@@ -8509,8 +8509,8 @@
     },
     {
       "path": "mods/RU-3676343434/About/About.xml",
-      "bytes": 3329,
-      "sha256": "cf9238432120b1440bd753ef79448bfdce93ccfba203eb76952ed535948d4ce6"
+      "bytes": 2514,
+      "sha256": "87ba1e17d0ef357b712690f28d3bd37c1d8fc38ecdcb1b6f3a08378a51a1aef4"
     },
     {
       "path": "mods/RU-3676343434/About/Preview.png",
@@ -8525,17 +8525,17 @@
     {
       "path": "mods/RU-3676343434/Assemblies/RU3676343434.dll",
       "bytes": 14848,
-      "sha256": "8202f5af310137c51cc27be48432f9166816273dd29ffea85a8dd13bc408dff6"
+      "sha256": "1fa7e4f8fe9c2e36875aa0073ef2319ab75e344bc0a678961c68c76b82513eaf"
     },
     {
       "path": "mods/RU-3676343434/CHANGELOG.md",
-      "bytes": 733,
-      "sha256": "761a7a9ea4060310fcfb033b42a083efcd238a82eedd80bf372eb72a17f1f126"
+      "bytes": 1274,
+      "sha256": "2b4c428e7b57322f3fdd72ce1cd9e0b3a96fa8e72835cfaa367a9862c27a8c72"
     },
     {
       "path": "mods/RU-3676343434/Languages/Russian/Keyed/Translations.xml",
-      "bytes": 8877,
-      "sha256": "73fb367b1f38242cc6573673a24deb65db8fc2b99b8d7a204e73c171a272e2b1"
+      "bytes": 10897,
+      "sha256": "0e89dcae20e6a9fed6db92434878da4d1abd1540f43c856f51181767948e522c"
     },
     {
       "path": "mods/RU-3676343434/LICENSE",
@@ -8559,13 +8559,13 @@
     },
     {
       "path": "mods/RU-3676343434/README.md",
-      "bytes": 3668,
-      "sha256": "a27c8f32f8773d22d635f9b1479c66edeaa011d710b3b7d8e3d00c9fa66394d0"
+      "bytes": 5308,
+      "sha256": "6e1b3a031a367e78338e3b1090965bb58339b6a1fd862a66c049226903a217ad"
     },
     {
       "path": "mods/RU-3676343434/Source/Overrides.cs",
-      "bytes": 10219,
-      "sha256": "8fcd9ed3c2d44cc2c5e2ea1c370d60a98c160c976c34419e9b131e51b205068b"
+      "bytes": 10502,
+      "sha256": "6300b554fc8f28059fa51e5f8938246689bedc0ed1e70657f90d65f280bc0869"
     },
     {
       "path": "mods/RU-3676343434/Source/StatLabels.cs",

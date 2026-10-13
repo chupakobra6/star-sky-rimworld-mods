@@ -164,9 +164,11 @@ RimWorld 1.6 · Версия 1.0.0
 
 [![Performance Esmolas — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/performance-esmolas-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803878938)
 
-RimWorld 1.6 · Версия 1.0.0
+RimWorld 1.6 · Версия 1.0.1
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3803878938) · [Исходники и руководство](../mods/RU-3676343434/README.md) · [История изменений](../mods/RU-3676343434/CHANGELOG.md) · [Лицензия](../mods/RU-3676343434/LICENSE) · [Источники и уведомления](../mods/RU-3676343434/NOTICES.md)
+
+[![Другие моды в Мастерской Steam](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-ru.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)
 
 ## Medieval Overhaul: House Ignivar — русский перевод
 
