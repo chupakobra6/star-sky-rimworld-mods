@@ -1,0 +1,78 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Apparel_GreatDress.description>Пышное платье, которое часто носят леди и суфражистки. Значительно облегчает общение.</Apparel_GreatDress.description>
+  <Apparel_GreatDress.label>парадное платье</Apparel_GreatDress.label>
+  <Apparel_Vest.description>Простой жилет, неплохо защищающий и от жары, и от холода. Значительно облегчает общение.</Apparel_Vest.description>
+  <Apparel_Vest.label>жилет</Apparel_Vest.label>
+  <Building_ChemshineBarrel.comps.CompAdvancedResourceProcessor.notWorkingKey>chupakobra6_2052918119_BarrelIdle</Building_ChemshineBarrel.comps.CompAdvancedResourceProcessor.notWorkingKey>
+  <Building_ChemshineBarrel.description>Бочка для брожения химогона.</Building_ChemshineBarrel.description>
+  <Building_ChemshineBarrel.label>бочка для химогона</Building_ChemshineBarrel.label>
+  <Bullet_GatlingGun.label>пуля из пулемёта Гатлинга</Bullet_GatlingGun.label>
+  <ChemBoiler.description>Устройство, превращающее химтопливо в тепло. Из-за простоты конструкции регулировать температуру нельзя.</ChemBoiler.description>
+  <ChemBoiler.label>химтопливный котёл</ChemBoiler.label>
+  <Chemlamp.description>Лампа на химтопливе. Подходит для освещения улиц.</Chemlamp.description>
+  <Chemlamp.label>химтопливная лампа</Chemlamp.label>
+  <ChemlampPost.description>Столб с доиндустриальной лампой на химтопливе. Подходит для освещения улиц.</ChemlampPost.description>
+  <ChemlampPost.label>столб с химлампой</ChemlampPost.label>
+  <Chemshine.description>Опасный алкоголь, популярный среди старателей и индустриальных переселенцев окраинных миров. Химогон притупляет печаль и боль, но насыщает кровь химтопливом: после смерти выпивший взрывается.</Chemshine.description>
+  <Chemshine.ingestible.ingestCommandString>Выпить: {0}</Chemshine.ingestible.ingestCommandString>
+  <Chemshine.ingestible.ingestReportString>пьёт: {0}.</Chemshine.ingestible.ingestReportString>
+  <Chemshine.label>химогон</Chemshine.label>
+  <DoorSaloon.description>Распашная дверь салуна. Защищает слабо, зато открывается почти мгновенно.</DoorSaloon.description>
+  <DoorSaloon.label>дверь салуна</DoorSaloon.label>
+  <Gun_GatlingGun.description>Простой автоматический пулемёт с возможностью стационарной установки.</Gun_GatlingGun.description>
+  <Gun_GatlingGun.label>пулемёт Гатлинга</Gun_GatlingGun.label>
+  <Gun_GatlingGun.verbs.Verb_Shoot.label>пулемёт Гатлинга</Gun_GatlingGun.verbs.Verb_Shoot.label>
+  <Mote_HoldingKnife.label>нож в руке</Mote_HoldingKnife.label>
+  <Plant_Chemroot.description>Чрезвычайно взрывоопасный корнеплод, выращиваемый ради химтоплива. Его трудно собирать, и растёт он только на очень плодородной почве. Несмотря на риск цепной реакции взрывов, его охотно выращивают и отчаянные владельцы ранчо, и имперские агрокомпании.</Plant_Chemroot.description>
+  <Plant_Chemroot.label>химокорень</Plant_Chemroot.label>
+  <Post.description>Столб старого образца для поддержания крыши.</Post.description>
+  <Post.label>столб</Post.label>
+  <StoolBar.description>Простой барный стул.</StoolBar.description>
+  <StoolBar.label>барный стул</StoolBar.label>
+  <TableCircular.description>Простой круглый стол, за которым можно поесть.</TableCircular.description>
+  <TableCircular.label>круглый стол</TableCircular.label>
+  <TableFaro.description>Стол с мягким покрытием и бортиком для игры в фараон. Одновременно могут играть до двух человек.</TableFaro.description>
+  <TableFaro.label>стол для фараона</TableFaro.label>
+  <TableFiveFingerFilet.description>Деревянный стол для игры в «Пять пальцев». Можно лишиться пальца-другого.
+
+Эта игра оставляет порезы на пальцах, но постепенно развивает навык ближнего боя.</TableFiveFingerFilet.description>
+  <TableFiveFingerFilet.label>стол для игры в «Пять пальцев»</TableFiveFingerFilet.label>
+  <Turret_GatlingGun.comps.CompRefuelable.fuelGizmoLabel>Прочность ствола</Turret_GatlingGun.comps.CompRefuelable.fuelGizmoLabel>
+  <Turret_GatlingGun.comps.CompRefuelable.fuelLabel>Выстрелов до замены ствола</Turret_GatlingGun.comps.CompRefuelable.fuelLabel>
+  <Turret_GatlingGun.comps.CompRefuelable.outOfFuelMessage>Стрельба невозможна: требуется замена ствола</Turret_GatlingGun.comps.CompRefuelable.outOfFuelMessage>
+  <Turret_GatlingGun.description>Переносное орудие старого образца, требующее оператора. Чем дольше оно ведёт огонь, тем выше скорострельность. После интенсивной стрельбы ствол нужно восстанавливать с помощью стали. При повреждении может взорваться.</Turret_GatlingGun.description>
+  <Turret_GatlingGun.label>стационарный пулемёт Гатлинга</Turret_GatlingGun.label>
+  <VFES_Gun_DoubleActionRevolver.description>Револьвер двойного действия старинного образца. Не слишком точен, зато довольно скорострелен для пистолета и позволяет быстро открыть огонь.</VFES_Gun_DoubleActionRevolver.description>
+  <VFES_Gun_DoubleActionRevolver.label>револьвер двойного действия</VFES_Gun_DoubleActionRevolver.label>
+  <VFES_Gun_DoubleActionRevolver.tools.barrel.label>ствол</VFES_Gun_DoubleActionRevolver.tools.barrel.label>
+  <VFES_Gun_DoubleActionRevolver.tools.grip.label>рукоять</VFES_Gun_DoubleActionRevolver.tools.grip.label>
+  <VFES_Gun_DoubleActionRevolver.verbs.Verb_Shoot.label>револьвер двойного действия</VFES_Gun_DoubleActionRevolver.verbs.Verb_Shoot.label>
+  <VFES_Gun_DoubleBarreledShotgun.description>Дробовик старинной конструкции с двумя отдельно заряжаемыми стволами. Стреляет плотным снопом дроби.</VFES_Gun_DoubleBarreledShotgun.description>
+  <VFES_Gun_DoubleBarreledShotgun.label>двустволка</VFES_Gun_DoubleBarreledShotgun.label>
+  <VFES_Gun_DoubleBarreledShotgun.tools.barrel.label>ствол</VFES_Gun_DoubleBarreledShotgun.tools.barrel.label>
+  <VFES_Gun_DoubleBarreledShotgun.tools.stock.label>приклад</VFES_Gun_DoubleBarreledShotgun.tools.stock.label>
+  <VFES_Gun_DoubleBarreledShotgun.verbs.Verb_Shoot.label>двустволка</VFES_Gun_DoubleBarreledShotgun.verbs.Verb_Shoot.label>
+  <VFES_Gun_HuntingRifle.description>Винтовка старинного образца с продольно-скользящим затвором и оптическим прицелом. Большая дальность и низкая скорострельность уменьшают риск спровоцировать животное на нападение, поэтому она отлично подходит для охоты.</VFES_Gun_HuntingRifle.description>
+  <VFES_Gun_HuntingRifle.label>охотничья винтовка</VFES_Gun_HuntingRifle.label>
+  <VFES_Gun_HuntingRifle.tools.barrel.label>ствол</VFES_Gun_HuntingRifle.tools.barrel.label>
+  <VFES_Gun_HuntingRifle.tools.stock.label>приклад</VFES_Gun_HuntingRifle.tools.stock.label>
+  <VFES_Gun_HuntingRifle.verbs.Verb_Shoot.label>охотничья винтовка</VFES_Gun_HuntingRifle.verbs.Verb_Shoot.label>
+  <VFES_Headgear_Bandana.description>Длинный тёплый платок, защищающий нижнюю часть лица от ветра. Скрывает черты лица, и владельца труднее запомнить.</VFES_Headgear_Bandana.description>
+  <VFES_Headgear_Bandana.label>бандана</VFES_Headgear_Bandana.label>
+  <VFES_Headgear_FlatCap.description>Плоская удобная кепка, немного защищающая от солнца. Переселенцы и поселенцы носят её за повседневными делами.</VFES_Headgear_FlatCap.description>
+  <VFES_Headgear_FlatCap.label>плоская кепка</VFES_Headgear_FlatCap.label>
+  <VFES_Headgear_Sombrero.description>Защищает от солнца. Без него не обойтись ни на одной дуэли.</VFES_Headgear_Sombrero.description>
+  <VFES_Headgear_Sombrero.label>сомбреро</VFES_Headgear_Sombrero.label>
+  <VFES_Proj_Dynamite.label>динамит</VFES_Proj_Dynamite.label>
+  <VFES_Tomahawk.description>Одноручный топорик. Достаточно лёгкий, чтобы точно метать его на среднюю дистанцию.</VFES_Tomahawk.description>
+  <VFES_Tomahawk.label>томагавк</VFES_Tomahawk.label>
+  <VFES_Tomahawk.tools.blade.label>лезвие</VFES_Tomahawk.tools.blade.label>
+  <VFES_Tomahawk.tools.handle.label>рукоять</VFES_Tomahawk.tools.handle.label>
+  <VFES_Tomahawk.verbs.Verb_Shoot.label>томагавк</VFES_Tomahawk.verbs.Verb_Shoot.label>
+  <VFES_Tomahawk_Thrown.label>томагавк (брошенный)</VFES_Tomahawk_Thrown.label>
+  <VFES_Weapon_GrenadeDynamite.description>Самодельная взрывная шашка из химтоплива. Её можно бросить на небольшое расстояние; взрыв происходит с непредсказуемой задержкой.</VFES_Weapon_GrenadeDynamite.description>
+  <VFES_Weapon_GrenadeDynamite.verbs.throw_dynamite.label>метнуть динамит</VFES_Weapon_GrenadeDynamite.verbs.throw_dynamite.label>
+  <Windmill.description>Ветряной электрогенератор старого образца. Для свободного движения воздуха нужно много открытого пространства перед ним и позади него.</Windmill.description>
+  <Windmill.label>ветряк</Windmill.label>
+</LanguageData>

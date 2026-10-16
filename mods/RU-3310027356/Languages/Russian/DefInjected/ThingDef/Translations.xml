@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Blueprint_CMR_ManagingSpot.label>Место управляющего (проект)</Blueprint_CMR_ManagingSpot.label>
+  <Blueprint_CM_AIManager.label>ИИ-управляющий (проект)</Blueprint_CM_AIManager.label>
+  <Blueprint_CM_BasicManagerStation.label>Простой стол управляющего (проект)</Blueprint_CM_BasicManagerStation.label>
+  <Blueprint_CM_ManagerDatabase.label>База данных управляющего (проект)</Blueprint_CM_ManagerDatabase.label>
+  <Blueprint_CM_ManagerStation.label>Стол управляющего (проект)</Blueprint_CM_ManagerStation.label>
+  <Blueprint_Install_CM_AIManager.label>ИИ-управляющий (проект)</Blueprint_Install_CM_AIManager.label>
+  <Blueprint_Install_CM_BasicManagerStation.label>Простой стол управляющего (проект)</Blueprint_Install_CM_BasicManagerStation.label>
+  <Blueprint_Install_CM_ManagerDatabase.label>База данных управляющего (проект)</Blueprint_Install_CM_ManagerDatabase.label>
+  <Blueprint_Install_CM_ManagerStation.label>Стол управляющего (проект)</Blueprint_Install_CM_ManagerStation.label>
+  <CMR_ManagingSpot.description>Рабочее место управляющего без необходимых принадлежностей. Работа здесь идёт очень медленно.</CMR_ManagingSpot.description>
+  <CMR_ManagingSpot.label>место управляющего</CMR_ManagingSpot.label>
+  <CM_AIManager.description>Огромный суперкомпьютер, способный самостоятельно управлять вашим поселением. Утверждения, будто в ИИ есть подпрограмма злобного психопата, совершенно ложны. Обещаем.</CM_AIManager.description>
+  <CM_AIManager.label>ИИ-управляющий</CM_AIManager.label>
+  <CM_BasicManagerStation.description>Простой стол со всеми канцелярскими принадлежностями, необходимыми управляющему для работы.</CM_BasicManagerStation.description>
+  <CM_BasicManagerStation.label>простой стол управляющего</CM_BasicManagerStation.label>
+  <CM_ManagerStation.description>Стол с компьютером и всеми канцелярскими принадлежностями для эффективной работы управляющего.</CM_ManagerStation.description>
+  <CM_ManagerStation.label>стол управляющего</CM_ManagerStation.label>
+  <Frame_CMR_ManagingSpot.description>Рабочее место управляющего без необходимых принадлежностей. Работа здесь идёт очень медленно.</Frame_CMR_ManagingSpot.description>
+  <Frame_CMR_ManagingSpot.label>Место управляющего (в процессе сборки)</Frame_CMR_ManagingSpot.label>
+  <Frame_CM_AIManager.description>Огромный суперкомпьютер, способный самостоятельно управлять колонией. Утверждения о том, что в ИИ заложена подпрограмма злобного психопата, совершенно беспочвенны. Мы обещаем.</Frame_CM_AIManager.description>
+  <Frame_CM_AIManager.label>ИИ-управляющий (в процессе сборки)</Frame_CM_AIManager.label>
+  <Frame_CM_BasicManagerStation.description>Простой стол со всеми канцелярскими принадлежностями, необходимыми управляющему для работы.</Frame_CM_BasicManagerStation.description>
+  <Frame_CM_BasicManagerStation.label>Простой стол управляющего (в процессе сборки)</Frame_CM_BasicManagerStation.label>
+  <Frame_CM_ManagerDatabase.description>База данных, которая переносит поручения по управлению колонией между картами при перелёте на гравикорабле.</Frame_CM_ManagerDatabase.description>
+  <Frame_CM_ManagerDatabase.label>База данных управляющего (в процессе сборки)</Frame_CM_ManagerDatabase.label>
+  <Frame_CM_ManagerStation.description>Стол с компьютером и всеми канцелярскими принадлежностями для эффективной работы управляющего.</Frame_CM_ManagerStation.description>
+  <Frame_CM_ManagerStation.label>Стол управляющего (в процессе сборки)</Frame_CM_ManagerStation.label>
+</LanguageData>

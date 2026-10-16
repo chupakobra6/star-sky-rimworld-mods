@@ -1,0 +1,8 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<loadFolders>
+  <v1.6>
+    <li>/</li>
+    <li IfModActive="trunken150.grenadeshexpanded">1.6/Conditional/with-trunken150-grenadeshexpanded</li>
+    <li IfModNotActive="trunken150.grenadeshexpanded">1.6/Conditional/without-trunken150-grenadeshexpanded</li>
+  </v1.6>
+</loadFolders>

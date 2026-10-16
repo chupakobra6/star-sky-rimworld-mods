@@ -1,0 +1,11 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RimtoChess_ArenaConsole.description>Тактический игровой стол для RimtoChess. Соберите отряд, расставьте бойцов и наблюдайте за автоматическим боем. Требует электричество.</RimtoChess_ArenaConsole.description>
+  <RimtoChess_ArenaConsole.label>стол RimtoChess</RimtoChess_ArenaConsole.label>
+  <RimtoChess_Coin.description>Монета для RimtoChess. Во время партии тратится на бойцов, обновления магазина и повышение уровня.</RimtoChess_Coin.description>
+  <RimtoChess_Coin.label>монета RimtoChess</RimtoChess_Coin.label>
+  <RtcProj_HeatBolt.label>тепловой разряд</RtcProj_HeatBolt.label>
+  <RtcProj_Pierce.label>бронебойный снаряд</RtcProj_Pierce.label>
+  <RtcProj_Slash.label>разрывающий удар</RtcProj_Slash.label>
+  <RtcProj_Spine.label>костяной шип</RtcProj_Spine.label>
+</LanguageData>

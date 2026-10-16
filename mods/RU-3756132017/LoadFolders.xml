@@ -1,0 +1,13 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<loadFolders>
+  <v1.6>
+    <li>/</li>
+    <li IfModActiveAll="ludeon.rimworld.biotech,vanillaracesexpanded.android">1.6/Conditional/with-all-ludeon-rimworld-biotech-and-vanillaracesexpanded-android</li>
+    <li IfModActiveAll="ludeon.rimworld.biotech,vanillaracesexpanded.starjack">1.6/Conditional/with-all-ludeon-rimworld-biotech-and-vanillaracesexpanded-starjack</li>
+    <li IfModActive="ceteam.combatextended">1.6/Conditional/with-ceteam-combatextended</li>
+    <li IfModActive="ludeon.rimworld.biotech">1.6/Conditional/with-ludeon-rimworld-biotech</li>
+    <li IfModActive="ludeon.rimworld.ideology">1.6/Conditional/with-ludeon-rimworld-ideology</li>
+    <li IfModActive="ludeon.rimworld.royalty">1.6/Conditional/with-ludeon-rimworld-royalty</li>
+    <li IfModNotActive="ceteam.combatextended">1.6/Conditional/without-ceteam-combatextended</li>
+  </v1.6>
+</loadFolders>

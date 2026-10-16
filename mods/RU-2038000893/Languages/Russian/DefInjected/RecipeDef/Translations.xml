@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BMT_DiggingIce.description>Добыть глыбы льда.</BMT_DiggingIce.description>
+  <BMT_DiggingIce.jobString>Добывает материал.</BMT_DiggingIce.jobString>
+  <BMT_DiggingIce.label>добыть лёд</BMT_DiggingIce.label>
+  <BMT_DiggingSand.description>Добыть глыбы песка.</BMT_DiggingSand.description>
+  <BMT_DiggingSand.jobString>Добывает материал.</BMT_DiggingSand.jobString>
+  <BMT_DiggingSand.label>добыть песок</BMT_DiggingSand.label>
+  <BMT_MakeFishFood.description>Смешать сырое мясо и растительные продукты, чтобы получить корм для рыб.</BMT_MakeFishFood.description>
+  <BMT_MakeFishFood.jobString>Изготавливает корм для рыб.</BMT_MakeFishFood.jobString>
+  <BMT_MakeFishFood.label>изготовить корм для рыб</BMT_MakeFishFood.label>
+  <BMT_Make_IceBlock.description>Вырезать из глыб льда пригодные для строительства блоки.</BMT_Make_IceBlock.description>
+  <BMT_Make_IceBlock.jobString>Изготавливает блоки.</BMT_Make_IceBlock.jobString>
+  <BMT_Make_IceBlock.label>изготовить ледяные блоки</BMT_Make_IceBlock.label>
+  <BMT_Make_SandBlock.description>Разделить глыбы песка на песчаные блоки.</BMT_Make_SandBlock.description>
+  <BMT_Make_SandBlock.jobString>Изготавливает блоки.</BMT_Make_SandBlock.jobString>
+  <BMT_Make_SandBlock.label>изготовить песчаные блоки</BMT_Make_SandBlock.label>
+</LanguageData>

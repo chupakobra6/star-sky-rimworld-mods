@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BMT_Chinampa_Granite.description>Неподвижный искусственный островок для выращивания растений на воде.</BMT_Chinampa_Granite.description>
+  <BMT_Chinampa_Granite.label>гранитная чинампа</BMT_Chinampa_Granite.label>
+  <BMT_Chinampa_Limestone.description>Неподвижный искусственный островок для выращивания растений на воде.</BMT_Chinampa_Limestone.description>
+  <BMT_Chinampa_Limestone.label>известняковая чинампа</BMT_Chinampa_Limestone.label>
+  <BMT_Chinampa_Marble.description>Неподвижный искусственный островок для выращивания растений на воде.</BMT_Chinampa_Marble.description>
+  <BMT_Chinampa_Marble.label>мраморная чинампа</BMT_Chinampa_Marble.label>
+  <BMT_Chinampa_Sandstone.description>Неподвижный искусственный островок для выращивания растений на воде.</BMT_Chinampa_Sandstone.description>
+  <BMT_Chinampa_Sandstone.label>чинампа из песчаника</BMT_Chinampa_Sandstone.label>
+  <BMT_Chinampa_Slate.description>Неподвижный искусственный островок для выращивания растений на воде.</BMT_Chinampa_Slate.description>
+  <BMT_Chinampa_Slate.label>сланцевая чинампа</BMT_Chinampa_Slate.label>
+  <BMT_GlacialIce.description>Гладкая поверхность нетающего льда, холодного, как недра ледника.</BMT_GlacialIce.description>
+  <BMT_GlacialIce.label>ледниковый лёд</BMT_GlacialIce.label>
+  <BMT_GlacialIceBuildable.description>Гладкий настил из блоков нетающего льда, холодного, как недра ледника.</BMT_GlacialIceBuildable.description>
+  <BMT_GlacialIceBuildable.label>ледниковый лёд</BMT_GlacialIceBuildable.label>
+  <BMT_Lava.label>лава</BMT_Lava.label>
+  <BMT_Magma.label>магма</BMT_Magma.label>
+  <BMT_MagmaStone.label>магматический камень</BMT_MagmaStone.label>
+  <BMT_PontoonBridge.description>Ровный деревянный настил на опорных балках. Его можно возвести над водой любой глубины.</BMT_PontoonBridge.description>
+  <BMT_PontoonBridge.label>понтонный мост</BMT_PontoonBridge.label>
+  <BMT_VolcanicAsh.label>вулканический пепел</BMT_VolcanicAsh.label>
+  <BMT_VolcanicAsh.tools.ash.label>пепел</BMT_VolcanicAsh.tools.ash.label>
+  <BiomesCore_Pebbles.label>галька</BiomesCore_Pebbles.label>
+  <BiomesCore_Pebbles.tools.sand.label>песок</BiomesCore_Pebbles.tools.sand.label>
+  <BiomesCore_WaterAbyssalDeep.label>бездонная вода</BiomesCore_WaterAbyssalDeep.label>
+  <BiomesCore_WaterAbyssalDeep.tools.water.label>вода</BiomesCore_WaterAbyssalDeep.tools.water.label>
+  <BiomesCore_WaterShallowLagoon.label>вода лагуны</BiomesCore_WaterShallowLagoon.label>
+  <BiomesCore_WaterShallowLagoon.tools.water.label>вода</BiomesCore_WaterShallowLagoon.tools.water.label>
+</LanguageData>

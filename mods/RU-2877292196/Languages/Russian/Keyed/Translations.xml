@@ -1,0 +1,34 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <YayoAnim_AllJobs>Все рабочие анимации</YayoAnim_AllJobs>
+  <YayoAnim_AnimalCombat>Боевые анимации животных</YayoAnim_AnimalCombat>
+  <YayoAnim_AnimalJob>Рабочие анимации животных</YayoAnim_AnimalJob>
+  <YayoAnim_AnimalWalk>Анимации ходьбы животных</YayoAnim_AnimalWalk>
+  <YayoAnim_Combat>Боевые анимации</YayoAnim_Combat>
+  <YayoAnim_DebugMode>Режим отладки</YayoAnim_DebugMode>
+  <YayoAnim_LovinBed>Анимации занятий любовью</YayoAnim_LovinBed>
+  <YayoAnim_MaximumZoomLevel>Предельное отдаление камеры: {0}</YayoAnim_MaximumZoomLevel>
+  <YayoAnim_MaximumZoomLevelTooltip>Самое дальнее положение камеры, при котором ещё воспроизводятся анимации. При большем отдалении они отключаются.</YayoAnim_MaximumZoomLevelTooltip>
+  <YayoAnim_MaximumZoomLevel_Close>Близко</YayoAnim_MaximumZoomLevel_Close>
+  <YayoAnim_MaximumZoomLevel_Closest>Максимальное приближение</YayoAnim_MaximumZoomLevel_Closest>
+  <YayoAnim_MaximumZoomLevel_Far>Далеко</YayoAnim_MaximumZoomLevel_Far>
+  <YayoAnim_MaximumZoomLevel_Furthest>Любое расстояние</YayoAnim_MaximumZoomLevel_Furthest>
+  <YayoAnim_MaximumZoomLevel_Middle>Среднее расстояние</YayoAnim_MaximumZoomLevel_Middle>
+  <YayoAnim_MechanoidCombat>Боевые анимации механоидов</YayoAnim_MechanoidCombat>
+  <YayoAnim_MechanoidJob>Рабочие анимации механоидов</YayoAnim_MechanoidJob>
+  <YayoAnim_MechanoidWalk>Анимации ходьбы механоидов</YayoAnim_MechanoidWalk>
+  <YayoAnim_OnlyPlayerPawns>Анимации только для фракции игрока</YayoAnim_OnlyPlayerPawns>
+  <YayoAnim_OnlyPlayerPawnsTooltip>Отключает анимации людей, животных и механоидов, не принадлежащих фракции игрока.</YayoAnim_OnlyPlayerPawnsTooltip>
+  <YayoAnim_RequiresCombatTooltip>Требует также включить боевые анимации.</YayoAnim_RequiresCombatTooltip>
+  <YayoAnim_RequiresJobTooltip>Требует также включить все рабочие анимации.</YayoAnim_RequiresJobTooltip>
+  <YayoAnim_RequiresWalkTooltip>Требует также включить анимации ходьбы.</YayoAnim_RequiresWalkTooltip>
+  <YayoAnim_ResetToDefault>Сбросить настройки</YayoAnim_ResetToDefault>
+  <YayoAnim_Sleep>Анимации сна</YayoAnim_Sleep>
+  <YayoAnim_TwirlWeapon>Вращение оружия</YayoAnim_TwirlWeapon>
+  <YayoAnim_TwirlWeaponMaxMass>Предельная масса вращаемого оружия</YayoAnim_TwirlWeaponMaxMass>
+  <YayoAnim_TwirlWeaponMaxMassEnabled>Запретить вращение оружия тяжелее заданного предела</YayoAnim_TwirlWeaponMaxMassEnabled>
+  <YayoAnim_UpdateFrequency>Интервал обновления, тиков</YayoAnim_UpdateFrequency>
+  <YayoAnim_Walk>Анимации ходьбы</YayoAnim_Walk>
+  <YayoAnim_WalkAnimAngle>Угол наклона при ходьбе</YayoAnim_WalkAnimAngle>
+  <YayoAnim_WalkAnimSpeed>Скорость движений при ходьбе</YayoAnim_WalkAnimSpeed>
+</LanguageData>

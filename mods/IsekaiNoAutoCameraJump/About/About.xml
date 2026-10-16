@@ -8,32 +8,32 @@
     <li>1.6</li>
   </supportedVersions>
   <url>https://steamcommunity.com/sharedfiles/filedetails/?id=3789336886</url>
-  <description>Keep your camera where you left it when a local ISEKAI hunt spawns its target.
+  <description>Keep your camera where you left it when a local ISEKAI hunt spawns its target
 
-For example, if you are planning rooms when a hunt creature appears, the view stays on your base instead of suddenly moving to the creature. You can finish what you are doing and inspect the target when you are ready.
+For example, if you are planning rooms when a hunt creature appears, the view stays on your base instead of suddenly moving to the creature. You can finish what you are doing and inspect the target when you are ready
 
 &lt;b&gt;FEATURES&lt;/b&gt;
 
-• Stops the forced camera jump for ordinary local ISEKAI hunts and hunt packs from ISEKAI CREATURES (https://steamcommunity.com/sharedfiles/filedetails/?id=3757560461).
-• Keeps letters, messages and clickable target links, so you can jump to the target when you choose.
-• Leaves regular RimWorld camera jumps, world bosses, hero visits and Guild duels unchanged.
+• Stops the forced camera jump for ordinary local ISEKAI hunts and hunt packs from ISEKAI CREATURES (https://steamcommunity.com/sharedfiles/filedetails/?id=3757560461)
+• Keeps letters, messages and clickable target links, so you can jump to the target when you choose
+• Leaves regular RimWorld camera jumps, world bosses, hero visits and Guild duels unchanged
 
 &lt;b&gt;HOW TO USE&lt;/b&gt;
-No extra action is needed during play. Both camera-jump blockers are enabled by default. The hunt still spawns its target and sends its normal notification; click the target link if you want to move the camera there yourself.
+No extra action is needed during play. Both camera-jump blockers are enabled by default. The hunt still spawns its target and sends its normal notification; click the target link if you want to move the camera there yourself
 
-To change this, open RimWorld’s &lt;b&gt;Mod Settings&lt;/b&gt; and select &lt;b&gt;ISEKAI — No Auto Camera Jump&lt;/b&gt;. The two switches control ordinary ISEKAI hunts and ISEKAI CREATURES hunt packs separately. Turn a switch off to restore that type’s original camera jump. Restore defaults enables both again. Changes need no restart, take effect the next time a hunt target spawns, and are saved in RimWorld’s configuration.
+To change this, open RimWorld’s &lt;b&gt;Mod Settings&lt;/b&gt; and select &lt;b&gt;ISEKAI — No Auto Camera Jump&lt;/b&gt;. The two switches control ordinary ISEKAI hunts and ISEKAI CREATURES hunt packs separately. Turn a switch off to restore that type’s original camera jump. Restore defaults enables both again. Changes need no restart, take effect the next time a hunt target spawns, and are saved in RimWorld’s configuration
 
 &lt;b&gt;COMPATIBILITY&lt;/b&gt;
-Requires &lt;b&gt;RimWorld 1.6&lt;/b&gt;, Harmony (https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077) and ISEKAI RPG LEVELING (https://steamcommunity.com/sharedfiles/filedetails/?id=3657580708). Load after these dependencies and any Guild/Creatures add-ons. English and Russian interface text is included.
+Requires &lt;b&gt;RimWorld 1.6&lt;/b&gt;, Harmony (https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077) and ISEKAI RPG LEVELING (https://steamcommunity.com/sharedfiles/filedetails/?id=3657580708). Load after these dependencies and any Guild/Creatures add-ons. English and Russian interface text is included
 
-ISEKAI CREATURES is optional; its switch applies only when that add-on is installed.
+ISEKAI CREATURES is optional; its switch applies only when that add-on is installed
 
-Can be added to an existing save; back up before removal. Original ISEKAI files are neither included nor modified.
+Can be added to an existing save; back up before removal. Original ISEKAI files are neither included nor modified
 
 &lt;b&gt;FEEDBACK&lt;/b&gt;
-Found a bug or an inaccuracy? Leave a comment on the mod page or on Boosty.
+Found a bug or an inaccuracy? Leave a comment on the mod page or on Boosty
 
-Preview artwork: POUPUN / ISEKAI RPG LEVELING.
+Preview artwork: POUPUN / ISEKAI RPG LEVELING
 
 Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.</description>
   <modDependencies>

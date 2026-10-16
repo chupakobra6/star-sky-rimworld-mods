@@ -1,0 +1,25 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Moyo2_CartelFaction.description>Наземное отделение Картеля, одной из крупных сил Маяка. Опираясь на обильные ресурсы и передовые технологии, Картель расширяет деятельность на поверхности и строит отношения с соседями исключительно на деловом расчёте. Стать его новым партнёром и клиентом или разграбить его богатства и технологии — решать вам. Но помните: к тем, кто стоит у него на пути, Картель беспощаден.
+
+Основное дело Картеля — поставки товаров с поверхности в Маяк. Они прямо нарушают давнюю политику изоляции старейшин и строго запрещены. Тем не менее влияние Картеля растёт. Вооружённые новейшим снаряжением и экспериментальными изделиями мегакорпораций Маяка, его участники открыто требуют отменить изоляцию. В ответ старейшины заклеймили их «Картелем» и назначили награду за каждого.</Moyo2_CartelFaction.description>
+  <Moyo2_CartelFaction.label>наземное отделение Картеля</Moyo2_CartelFaction.label>
+  <Moyo2_CartelFaction.leaderTitle>управляющий отделением</Moyo2_CartelFaction.leaderTitle>
+  <Moyo2_CartelFaction.messageDefendersAttacking>{0} из фракции {1} атакуют ваших {lookup: {2}; Case; 3}.</Moyo2_CartelFaction.messageDefendersAttacking>
+  <Moyo2_CartelFaction.pawnSingular>оперативник</Moyo2_CartelFaction.pawnSingular>
+  <Moyo2_CartelFaction.pawnsPlural>оперативники</Moyo2_CartelFaction.pawnsPlural>
+  <Moyo2_HavenFaction.description>Община мойо, основанная на суше изгнанниками и беглецами из Маяка. Отказавшись от его изоляционизма, они добились процветания, торгуя глубоксином и технологиями с соседями. В их поселениях можно приобрести большие партии глубоксина и передовые разработки.
+
+Община поддерживает сеть связей внутри Маяка и разными путями получает припасы и вывозит других мойо на материк. В городе уже ходят слухи, что у «спасённых» этими группами открывается «более светлое будущее».</Moyo2_HavenFaction.description>
+  <Moyo2_HavenFaction.label>убежище беженцев</Moyo2_HavenFaction.label>
+  <Moyo2_HavenFaction.leaderTitle>старейшина убежища</Moyo2_HavenFaction.leaderTitle>
+  <Moyo2_HavenFaction.messageDefendersAttacking>{0} из фракции {1} атакуют ваших {lookup: {2}; Case; 3}.</Moyo2_HavenFaction.messageDefendersAttacking>
+  <Moyo2_HavenFaction.pawnSingular>беженец</Moyo2_HavenFaction.pawnSingular>
+  <Moyo2_HavenFaction.pawnsPlural>беженцы</Moyo2_HavenFaction.pawnsPlural>
+  <Moyo2_PlayerFaction.description>Поселение мойо, по разным причинам покинувших Маяк.</Moyo2_PlayerFaction.description>
+  <Moyo2_PlayerFaction.label>беглецы из Маяка</Moyo2_PlayerFaction.label>
+  <Moyo2_PlayerFaction.leaderTitle>лидер</Moyo2_PlayerFaction.leaderTitle>
+  <Moyo2_PlayerFaction.messageDefendersAttacking>{0} из фракции {1} атакуют ваших {lookup: {2}; Case; 3}.</Moyo2_PlayerFaction.messageDefendersAttacking>
+  <Moyo2_PlayerFaction.pawnSingular>поселенец</Moyo2_PlayerFaction.pawnSingular>
+  <Moyo2_PlayerFaction.pawnsPlural>поселенцы</Moyo2_PlayerFaction.pawnsPlural>
+</LanguageData>

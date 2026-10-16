@@ -18,6 +18,8 @@ RimWorld 1.6 · Версия 1.0.2
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3803300028) · [Исходники и руководство](../mods/RU-1713367505/README.md) · [История изменений](../mods/RU-1713367505/CHANGELOG.md) · [Лицензия](../mods/RU-1713367505/LICENSE) · [Источники и уведомления](../mods/RU-1713367505/NOTICES.md)
 
+[![Другие моды в Мастерской Steam](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-ru.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)
+
 ## Visible Raid Points — русский перевод
 
 Полный русский перевод Visible Raid Points: подписи очков угрозы, подробный расчёт и настройки отображения
@@ -593,4 +595,64 @@ RimWorld 1.6 · Версия 1.0.1
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3818475407) · [Исходники и руководство](../mods/RU-3042690053/README.md) · [История изменений](../mods/RU-3042690053/CHANGELOG.md) · [Лицензия](../mods/RU-3042690053/LICENSE) · [Источники и уведомления](../mods/RU-3042690053/NOTICES.md)
 
 [![Другие моды в Мастерской Steam](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-ru.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)
+
+## Vanilla Factions Expanded - Settlers — русский перевод
+
+Русский перевод Vanilla Factions Expanded - Settlers с естественными описаниями переселенцев и заданий пограничья
+
+[![Vanilla Factions Expanded - Settlers — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/settlers-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3820544668)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3820544668) · [Исходники и руководство](../mods/RU-2052918119/README.md) · [История изменений](../mods/RU-2052918119/CHANGELOG.md) · [Лицензия](../mods/RU-2052918119/LICENSE) · [Источники и уведомления](../mods/RU-2052918119/NOTICES.md)
+
+## Yayo's Animation (Continued) — русский перевод
+
+Русский перевод Yayo's Animation (Continued) с понятными настройками анимации и подсказками
+
+[![Yayo's Animation (Continued) — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/yayos-animation-continued-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3820544673)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3820544673) · [Исходники и руководство](../mods/RU-2877292196/README.md) · [История изменений](../mods/RU-2877292196/CHANGELOG.md) · [Лицензия](../mods/RU-2877292196/LICENSE) · [Источники и уведомления](../mods/RU-2877292196/NOTICES.md)
+
+## Biomes! Core — русский перевод
+
+Русский перевод Biomes! Core с согласованными названиями существ, растений и особенностей среды
+
+[![Biomes! Core — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/biomes-core-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3820544676)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3820544676) · [Исходники и руководство](../mods/RU-2038000893/README.md) · [История изменений](../mods/RU-2038000893/CHANGELOG.md) · [Лицензия](../mods/RU-2038000893/LICENSE) · [Источники и уведомления](../mods/RU-2038000893/NOTICES.md)
+
+## Colony Manager Redux — русский перевод
+
+Русский перевод Colony Manager Redux с понятным интерфейсом управления и согласованными названиями работ
+
+[![Colony Manager Redux — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/colony-manager-redux-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3820544682)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3820544682) · [Исходники и руководство](../mods/RU-3310027356/README.md) · [История изменений](../mods/RU-3310027356/CHANGELOG.md) · [Лицензия](../mods/RU-3310027356/LICENSE) · [Источники и уведомления](../mods/RU-3310027356/NOTICES.md)
+
+## Moyo2.0-Blood stained business — русский перевод
+
+Русский перевод Moyo2.0-Blood stained business с естественными описаниями мойо, предметов и событий
+
+[![Moyo2.0-Blood stained business — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/moyo-2-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3820544683)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3820544683) · [Исходники и руководство](../mods/RU-3756132017/README.md) · [История изменений](../mods/RU-3756132017/CHANGELOG.md) · [Лицензия](../mods/RU-3756132017/LICENSE) · [Источники и уведомления](../mods/RU-3756132017/NOTICES.md)
+
+## RimtoChess — русский перевод
+
+Русский перевод RimtoChess с согласованными названиями эффектов в интерфейсе арены и описаниях способностей
+
+[![RimtoChess — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/rimtochess-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3820544688)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3820544688) · [Исходники и руководство](../mods/RU-3750476989/README.md) · [История изменений](../mods/RU-3750476989/CHANGELOG.md) · [Лицензия](../mods/RU-3750476989/LICENSE) · [Источники и уведомления](../mods/RU-3750476989/NOTICES.md)
 

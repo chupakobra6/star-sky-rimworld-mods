@@ -1,0 +1,10 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <CaravanRaid.description>Ничего не подозревающий караван.</CaravanRaid.description>
+  <CaravanRaid.label>стоянка каравана</CaravanRaid.label>
+  <WantedHideout.approachOrderString>Атаковать: {0}</WantedHideout.approachOrderString>
+  <WantedHideout.approachingReportString>Атака: {0}.</WantedHideout.approachingReportString>
+  <WantedHideout.arrivedLetter>В этом месте расположен вражеский лагерь.</WantedHideout.arrivedLetter>
+  <WantedHideout.description>Место, где прячется разыскиваемый преступник.</WantedHideout.description>
+  <WantedHideout.label>убежище преступника</WantedHideout.label>
+</LanguageData>

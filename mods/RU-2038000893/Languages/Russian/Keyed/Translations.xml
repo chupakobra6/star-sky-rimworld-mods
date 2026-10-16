@@ -1,0 +1,16 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BMT_AnimalThingSpawner>Продукт: {0}. До получения: {1}.</BMT_AnimalThingSpawner>
+  <BMT_LetterLabelHungeringPackArrived>Неутолимый голод</BMT_LetterLabelHungeringPackArrived>
+  <BMT_LetterTextHungeringPackArrived>В эту местность забрела стая животных: {0}! Они страдают от болезни, вызывающей непрекращающийся голод. Ради еды они готовы на всё, даже проламывать стены вашего поселения.\n\nИзначально животные не враждебны, но могут напасть в ответ на атаку.\n\nСтая ({0}) покинет местность менее чем через двое суток. Можно попробовать приручить животных, досыта их накормить или атаковать.</BMT_LetterTextHungeringPackArrived>
+  <BMT_PermanentManhunterSpawned>{0}: охота на людей</BMT_PermanentManhunterSpawned>
+  <BMT_PermanentManhunterSpawnedDesc>{0} пытается добраться до любого человекоподобного существа и напасть на него. Даже сон не прекратит эту охоту.</BMT_PermanentManhunterSpawnedDesc>
+  <BMT_RuinedByLackOfWater>Испорчено из-за нехватки воды.</BMT_RuinedByLackOfWater>
+  <BMT_SpawnPercentage>{0} %</BMT_SpawnPercentage>
+  <BiomesCore_ResetSettingsHover>Восстановить значения по умолчанию для всех настроек мода.</BiomesCore_ResetSettingsHover>
+  <BiomesCore_ResetSettingsLabel>Сбросить</BiomesCore_ResetSettingsLabel>
+  <BiomesCore_SetCustomGrowingHoursToAllHover>У некоторых растений Biomes! задано особое время роста. Моды, меняющие время роста обычных растений, могут на них не действовать. Эта настройка позволяет всем растениям Biomes! с особым расписанием расти круглые сутки.</BiomesCore_SetCustomGrowingHoursToAllHover>
+  <BiomesCore_SetCustomGrowingHoursToAllLabel>Круглосуточный рост растений с особым расписанием</BiomesCore_SetCustomGrowingHoursToAllLabel>
+  <DI_Immune>Иммунитет: {0}</DI_Immune>
+  <HE_Immune>Иммунитет: {0}</HE_Immune>
+</LanguageData>

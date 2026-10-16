@@ -1,0 +1,38 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RtcAbility_Blind.description>Ослепляющий импульс лишает врагов поблизости зрения.</RtcAbility_Blind.description>
+  <RtcAbility_Blind.label>ослепляющая вспышка</RtcAbility_Blind.label>
+  <RtcAbility_Burden.description>Придавливает цель тяжестью, замедляя её передвижение.</RtcAbility_Burden.description>
+  <RtcAbility_Burden.label>перегрузка</RtcAbility_Burden.label>
+  <RtcAbility_Charge.description>Позволяет прыгнуть к врагу поблизости, мгновенно сократив дистанцию для удара.</RtcAbility_Charge.description>
+  <RtcAbility_Charge.label>рывок</RtcAbility_Charge.label>
+  <RtcAbility_Charge.verbProperties.label>рывок</RtcAbility_Charge.verbProperties.label>
+  <RtcAbility_Cloak.description>Искажает восприятие, мешая противникам заметить бойца и выбрать его целью.</RtcAbility_Cloak.description>
+  <RtcAbility_Cloak.label>маскировка</RtcAbility_Cloak.label>
+  <RtcAbility_Coagulate.description>Ускоряет свёртывание крови, на короткое время ускоряя заживление ран.</RtcAbility_Coagulate.description>
+  <RtcAbility_Coagulate.label>свёртывание</RtcAbility_Coagulate.label>
+  <RtcAbility_Focus.description>Повышает сосредоточенность, позволяя быстрее прицеливаться и точнее попадать.</RtcAbility_Focus.description>
+  <RtcAbility_Focus.label>сосредоточение</RtcAbility_Focus.label>
+  <RtcAbility_Frenzy.description>Позволяет быстрее двигаться и наносить стремительные удары.</RtcAbility_Frenzy.description>
+  <RtcAbility_Frenzy.label>боевое неистовство</RtcAbility_Frenzy.label>
+  <RtcAbility_HeatBolt.description>Выпускает раскалённый снаряд, обжигающий цель.</RtcAbility_HeatBolt.description>
+  <RtcAbility_HeatBolt.label>тепловой разряд</RtcAbility_HeatBolt.label>
+  <RtcAbility_Metalblood.description>Закаляет тело, резко снижая входящий урон.</RtcAbility_Metalblood.description>
+  <RtcAbility_Metalblood.label>металлокровь</RtcAbility_Metalblood.label>
+  <RtcAbility_PierceShot.description>Выпускает высокоскоростной снаряд, пробивающий броню.</RtcAbility_PierceShot.description>
+  <RtcAbility_PierceShot.label>бронебойный выстрел</RtcAbility_PierceShot.label>
+  <RtcAbility_RendingSlash.description>Глубокий удар клинком, разрывающий плоть и пробивающий броню.</RtcAbility_RendingSlash.description>
+  <RtcAbility_RendingSlash.label>разрывающий удар</RtcAbility_RendingSlash.label>
+  <RtcAbility_Shield.description>Создаёт щит, на короткое время поглощающий большую часть получаемого урона.</RtcAbility_Shield.description>
+  <RtcAbility_Shield.label>энергощит</RtcAbility_Shield.label>
+  <RtcAbility_Skirmish.description>На короткое время ускоряет и повышает точность как дальних, так и ближних атак.</RtcAbility_Skirmish.description>
+  <RtcAbility_Skirmish.label>манёвренная стойка</RtcAbility_Skirmish.label>
+  <RtcAbility_SpineShot.description>Выпускает в далёкую цель тяжёлый шип, наносящий большой урон.</RtcAbility_SpineShot.description>
+  <RtcAbility_SpineShot.label>костяной шип</RtcAbility_SpineShot.label>
+  <RtcAbility_Stun.description>Нарушает моторику цели, ненадолго оглушая её.</RtcAbility_Stun.description>
+  <RtcAbility_Stun.label>оглушение</RtcAbility_Stun.label>
+  <RtcAbility_Suppress.description>Оглушительный рёв подавляет ближайших врагов, замедляя их и мешая прицеливаться.</RtcAbility_Suppress.description>
+  <RtcAbility_Suppress.label>подавляющий рёв</RtcAbility_Suppress.label>
+  <RtcAbility_Vertigo.description>Лишает ближайших врагов ориентации в пространстве, заставляя их пошатываться. Действует и на машины.</RtcAbility_Vertigo.description>
+  <RtcAbility_Vertigo.label>импульс головокружения</RtcAbility_Vertigo.label>
+</LanguageData>

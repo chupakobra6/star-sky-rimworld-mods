@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RimtoChess_TeamA.fixedName>Синяя команда</RimtoChess_TeamA.fixedName>
+  <RimtoChess_TeamA.label>синяя команда RimtoChess</RimtoChess_TeamA.label>
+  <RimtoChess_TeamA.leaderTitle>лидер</RimtoChess_TeamA.leaderTitle>
+  <RimtoChess_TeamA.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</RimtoChess_TeamA.messageDefendersAttacking>
+  <RimtoChess_TeamA.pawnSingular>боец</RimtoChess_TeamA.pawnSingular>
+  <RimtoChess_TeamA.pawnsPlural>бойцы</RimtoChess_TeamA.pawnsPlural>
+  <RimtoChess_TeamB.fixedName>Красная команда</RimtoChess_TeamB.fixedName>
+  <RimtoChess_TeamB.label>красная команда RimtoChess</RimtoChess_TeamB.label>
+  <RimtoChess_TeamB.leaderTitle>лидер</RimtoChess_TeamB.leaderTitle>
+  <RimtoChess_TeamB.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</RimtoChess_TeamB.messageDefendersAttacking>
+  <RimtoChess_TeamB.pawnSingular>боец</RimtoChess_TeamB.pawnSingular>
+  <RimtoChess_TeamB.pawnsPlural>бойцы</RimtoChess_TeamB.pawnsPlural>
+</LanguageData>

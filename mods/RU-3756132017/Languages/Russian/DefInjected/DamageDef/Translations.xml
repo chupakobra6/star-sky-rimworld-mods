@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Moyo2_ColiderBullet.deathMessage>{0} {PAWN_gender ? раздавлен : раздавлена : раздавлено} насмерть.</Moyo2_ColiderBullet.deathMessage>
+  <Moyo2_ColiderBullet.label>сконцентрированное ламинарное поле</Moyo2_ColiderBullet.label>
+  <Moyo2_Damage_LMRBolt.deathMessage>{0} {PAWN_gender ? погиб : погибла : погибло} при взрыве.</Moyo2_Damage_LMRBolt.deathMessage>
+  <Moyo2_Damage_LMRBolt.label>ламинарный снаряд</Moyo2_Damage_LMRBolt.label>
+  <Moyo2_Damage_LMRBoltDemolish.deathMessage>{0} {PAWN_gender ? погиб : погибла : погибло} при взрыве.</Moyo2_Damage_LMRBoltDemolish.deathMessage>
+  <Moyo2_Damage_LMRBoltDemolish.label>ламинарный снаряд</Moyo2_Damage_LMRBoltDemolish.label>
+  <Moyo2_Damage_MoyoHarpoon.deathMessage>{0} {PAWN_gender ? застрелен : застрелена}.</Moyo2_Damage_MoyoHarpoon.deathMessage>
+  <Moyo2_Damage_MoyoHarpoon.label>тяжёлый гарпун</Moyo2_Damage_MoyoHarpoon.label>
+  <Moyo2_Damage_WrenchThrow.deathMessage>{0} {PAWN_gender ? забит : забита} до смерти.</Moyo2_Damage_WrenchThrow.deathMessage>
+  <Moyo2_Damage_WrenchThrow.label>дробящий</Moyo2_Damage_WrenchThrow.label>
+  <Moyo2_DemolishBullet.deathMessage>{0} {PAWN_gender ? застрелен : застрелена : застрелено}.</Moyo2_DemolishBullet.deathMessage>
+  <Moyo2_DemolishBullet.label>тяжёлый снаряд</Moyo2_DemolishBullet.label>
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <CM_GameplayTips.tips.0>Интервал обновления поручений Colony Manager можно изменить. Частые обновления точнее поддерживают запасы, редкие требуют меньше работы управляющего.</CM_GameplayTips.tips.0>
+  <CM_GameplayTips.tips.1>Поручения Colony Manager выполняются по очереди. Назначайте более важным поручениям высокий приоритет.</CM_GameplayTips.tips.1>
+  <CM_GameplayTips.tips.2>Поручения Colony Manager на заготовку камня мало полезны, пока не налажено производство каменных блоков.</CM_GameplayTips.tips.2>
+  <CM_GameplayTips.tips.3>Если вы используете автоматический забой основной игры, не создавайте в Colony Manager пересекающиеся с ним поручения по животноводству.</CM_GameplayTips.tips.3>
+  <CM_GameplayTips.tips.4>Запись истории Colony Manager требует заметных вычислений, особенно при большом числе поручений. Её можно отключить в настройках, чтобы снизить нагрузку.</CM_GameplayTips.tips.4>
+  <CM_GameplayTips.tips.5>В Colony Manager много настроек. Загляните в параметры мода.</CM_GameplayTips.tips.5>
+  <CM_GameplayTips.tips.6>Colony Manager умеет экспортировать и импортировать поручения, чтобы использовать их в разных колониях.</CM_GameplayTips.tips.6>
+  <CM_GameplayTips.tips.7>Изучив управление энергоснабжением Colony Manager и построив стол управляющего с питанием или ИИ-управляющего, можно отслеживать энергопотребление колонии и состояние аккумуляторов во времени.</CM_GameplayTips.tips.7>
+  <CM_GameplayTips.tips.8>Не создавайте несколько поручений Colony Manager для одного ресурса: в лучшем случае это заставит поселенцев выполнять лишнюю работу по управлению.</CM_GameplayTips.tips.8>
+</LanguageData>

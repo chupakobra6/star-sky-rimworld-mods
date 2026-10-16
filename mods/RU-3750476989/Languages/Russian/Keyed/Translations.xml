@@ -1,0 +1,956 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Rtc_AbandonConfirm>Завершить текущую партию RimtoChess? Весь её прогресс будет потерян.</Rtc_AbandonConfirm>
+  <Rtc_AbandonConfirmRanked>Если сдаться, партия будет засчитана как поражение на текущем раунде и очки лиги снизятся. Сдаться?</Rtc_AbandonConfirmRanked>
+  <Rtc_AbandonRun>Сдаться</Rtc_AbandonRun>
+  <Rtc_AbandonRunDesc>Досрочно завершить текущую партию.</Rtc_AbandonRunDesc>
+  <Rtc_AchCat_Basic>Базовые</Rtc_AchCat_Basic>
+  <Rtc_AchCat_Cumulative>Накопительные</Rtc_AchCat_Cumulative>
+  <Rtc_AchCat_Infinite>Бесконечный</Rtc_AchCat_Infinite>
+  <Rtc_AchCat_Rank>Рейтинг</Rtc_AchCat_Rank>
+  <Rtc_AchCat_Synergy>Синергия</Rtc_AchCat_Synergy>
+  <Rtc_AchD_all_nodes>Откройте каждый узел улучшения ранга</Rtc_AchD_all_nodes>
+  <Rtc_AchD_challenge_clear>Пройдите с активными испытаниями</Rtc_AchD_challenge_clear>
+  <Rtc_AchD_clear_full>Завершите последний раунд со 100 очками здоровья</Rtc_AchD_clear_full>
+  <Rtc_AchD_clear_hard>Пройдите игру на высокой сложности</Rtc_AchD_clear_hard>
+  <Rtc_AchD_clear_lowhp>Завершите игру с 10 или менее очками здоровья</Rtc_AchD_clear_lowhp>
+  <Rtc_AchD_clear_nodefeat>Пройдите игру, не проиграв ни одного боя</Rtc_AchD_clear_nodefeat>
+  <Rtc_AchD_dual_grand>Одновременно активируйте две синергии великого войска, по шесть бойцов в каждой</Rtc_AchD_dual_grand>
+  <Rtc_AchD_empire_dual>Одновременно активируйте синергии четырёх бойцов имперского легиона и четырёх представителей имперской знати</Rtc_AchD_empire_dual>
+  <Rtc_AchD_enchant>Получите особый предмет</Rtc_AchD_enchant>
+  <Rtc_AchD_first_3star>Создайте первого бойца с тремя звёздами</Rtc_AchD_first_3star>
+  <Rtc_AchD_first_clear>Пройдите раунд 30 впервые</Rtc_AchD_first_clear>
+  <Rtc_AchD_first_win>Выиграйте свой первый бой</Rtc_AchD_first_win>
+  <Rtc_AchD_fullboard>Заполните все 14 мест на поле</Rtc_AchD_fullboard>
+  <Rtc_AchD_ghost_full>Заполните до предела оба списка призраков: свой и полученный</Rtc_AchD_ghost_full>
+  <Rtc_AchD_ghost_hard>Играя на высокой сложности, победите призрака, созданного на высокой сложности</Rtc_AchD_ghost_hard>
+  <Rtc_AchD_ghost_import>Впервые импортируйте чужого призрака</Rtc_AchD_ghost_import>
+  <Rtc_AchD_ghost_save>Впервые сохраните свою колоду как призрака</Rtc_AchD_ghost_save>
+  <Rtc_AchD_ghost_win1>Выиграйте первый бой с призраком</Rtc_AchD_ghost_win1>
+  <Rtc_AchD_ghost_win10>Выиграйте 10 боёв с призраками</Rtc_AchD_ghost_win10>
+  <Rtc_AchD_ghost_win50>Выиграйте 50 боёв с призраками</Rtc_AchD_ghost_win50>
+  <Rtc_AchD_grand>Активируйте синергию великого войска (этап 6)</Rtc_AchD_grand>
+  <Rtc_AchD_inf_31>Достигните раунда 31 в Бесконечном режиме</Rtc_AchD_inf_31>
+  <Rtc_AchD_inf_40>Достигните раунда 40 в Бесконечном режиме</Rtc_AchD_inf_40>
+  <Rtc_AchD_inf_50>Достигните раунда 50 в Бесконечном режиме</Rtc_AchD_inf_50>
+  <Rtc_AchD_inf_60>Достигните раунда 60 в Бесконечном режиме</Rtc_AchD_inf_60>
+  <Rtc_AchD_inf_70>Достигните раунда 70 в Бесконечном режиме</Rtc_AchD_inf_70>
+  <Rtc_AchD_maxlevel>Достигните максимального уровня</Rtc_AchD_maxlevel>
+  <Rtc_AchD_mech_dual>Одновременно активируйте синергии четырёх лёгких и четырёх тяжёлых механоидов</Rtc_AchD_mech_dual>
+  <Rtc_AchD_nociosphere>Владейте Ноциосферой</Rtc_AchD_nociosphere>
+  <Rtc_AchD_pureblood>Выставьте 10 или более бойцов одного происхождения</Rtc_AchD_pureblood>
+  <Rtc_AchD_rank_syn_full>Откройте все 5 узлов улучшения одной синергии</Rtc_AchD_rank_syn_full>
+  <Rtc_AchD_rich>Накопите 100 или более монет</Rtc_AchD_rich>
+  <Rtc_AchD_syn5>5 синергий активны одновременно</Rtc_AchD_syn5>
+  <Rtc_AchD_syn_master>10 синергий активны одновременно</Rtc_AchD_syn_master>
+  <Rtc_AchD_three_3star>Соберите одновременно трёх бойцов с тремя звёздами</Rtc_AchD_three_3star>
+  <Rtc_AchDone>Готово</Rtc_AchDone>
+  <Rtc_AchFD_Boss>Победите {0} боссов</Rtc_AchFD_Boss>
+  <Rtc_AchFD_Combine>Выполните {0} объединений до 3 звёзд</Rtc_AchFD_Combine>
+  <Rtc_AchFD_Rank>Достигните ранга «{0}» в стандартной рейтинговой игре</Rtc_AchFD_Rank>
+  <Rtc_AchFD_RankShort>Достигните ранга «{0}» в короткой рейтинговой игре</Rtc_AchFD_RankShort>
+  <Rtc_AchFD_Star3>Объедините бойцов ранга {0} до трёх звёзд. Звёзды от постоянных усилений не учитываются</Rtc_AchFD_Star3>
+  <Rtc_AchFD_Star4>Объедините бойцов ранга {0} до четырёх звёзд: нужны три бойца с тремя звёздами. Доступно только для рангов 1–3</Rtc_AchFD_Star4>
+  <Rtc_AchFD_Streak>Пройдите {0} игр подряд</Rtc_AchFD_Streak>
+  <Rtc_AchFD_Syn>Развейте синергию «{0}» до уровня: {1}</Rtc_AchFD_Syn>
+  <Rtc_AchFD_Vet>Пройдите раунд 30 {0} раз</Rtc_AchFD_Vet>
+  <Rtc_AchFD_Wins>Выиграйте {0} боёв</Rtc_AchFD_Wins>
+  <Rtc_AchF_Boss>Охотник на боссов {0}</Rtc_AchF_Boss>
+  <Rtc_AchF_Combine>Мастер объединения {0}</Rtc_AchF_Combine>
+  <Rtc_AchF_Rank>Ранг: {0}</Rtc_AchF_Rank>
+  <Rtc_AchF_RankShort>Короткий режим: ранг {0}</Rtc_AchF_RankShort>
+  <Rtc_AchF_Star3>Вершина ранга {0}</Rtc_AchF_Star3>
+  <Rtc_AchF_Star4>Превосходство ранга {0}</Rtc_AchF_Star4>
+  <Rtc_AchF_Streak>Серия из {0} побед</Rtc_AchF_Streak>
+  <Rtc_AchF_Syn>Синергия {0}</Rtc_AchF_Syn>
+  <Rtc_AchF_Vet>Ветеран {0}</Rtc_AchF_Vet>
+  <Rtc_AchF_Wins>Победы {0}</Rtc_AchF_Wins>
+  <Rtc_AchNotDone>Заблокировано</Rtc_AchNotDone>
+  <Rtc_AchPoints>+{0} очк.</Rtc_AchPoints>
+  <Rtc_AchSummary>Открыто {0}/{1} · Очки {2}</Rtc_AchSummary>
+  <Rtc_AchSynGrand>великое войско (этап 6)</Rtc_AchSynGrand>
+  <Rtc_AchSynTop>высший этап ({0})</Rtc_AchSynTop>
+  <Rtc_AchTab>Достижения</Rtc_AchTab>
+  <Rtc_AchTrophyLine>Трофей: {0}  ·  +{1} очк.</Rtc_AchTrophyLine>
+  <Rtc_AchUnlocked>Достижение открыто: {0}</Rtc_AchUnlocked>
+  <Rtc_AchUnlockedMany>Открыто достижений: {0}</Rtc_AchUnlockedMany>
+  <Rtc_Ach_all_nodes>Совершенная форма</Rtc_Ach_all_nodes>
+  <Rtc_Ach_challenge_clear>Сорвиголова</Rtc_Ach_challenge_clear>
+  <Rtc_Ach_clear_full>Безупречно</Rtc_Ach_clear_full>
+  <Rtc_Ach_clear_hard>Путь трудностей</Rtc_Ach_clear_hard>
+  <Rtc_Ach_clear_lowhp>Канатоходец</Rtc_Ach_clear_lowhp>
+  <Rtc_Ach_clear_nodefeat>Непобеждённый</Rtc_Ach_clear_nodefeat>
+  <Rtc_Ach_dual_grand>Два великих войска</Rtc_Ach_dual_grand>
+  <Rtc_Ach_empire_dual>Расколотая Империя</Rtc_Ach_empire_dual>
+  <Rtc_Ach_enchant>Шедевр</Rtc_Ach_enchant>
+  <Rtc_Ach_first_3star>Мастер объединения</Rtc_Ach_first_3star>
+  <Rtc_Ach_first_clear>Завоеватель</Rtc_Ach_first_clear>
+  <Rtc_Ach_first_win>Первые шаги</Rtc_Ach_first_win>
+  <Rtc_Ach_fullboard>Фул-хаус</Rtc_Ach_fullboard>
+  <Rtc_Ach_ghost_full>Фул-хаус</Rtc_Ach_ghost_full>
+  <Rtc_Ach_ghost_hard>Лоб в лоб</Rtc_Ach_ghost_hard>
+  <Rtc_Ach_ghost_import>Приглашённый гость</Rtc_Ach_ghost_import>
+  <Rtc_Ach_ghost_save>Архивариус</Rtc_Ach_ghost_save>
+  <Rtc_Ach_ghost_win1>Победа живых</Rtc_Ach_ghost_win1>
+  <Rtc_Ach_ghost_win10>Экзорцист</Rtc_Ach_ghost_win10>
+  <Rtc_Ach_ghost_win50>Охотник за призраками</Rtc_Ach_ghost_win50>
+  <Rtc_Ach_grand>Командир великого войска</Rtc_Ach_grand>
+  <Rtc_Ach_inf_31>Первопроходец</Rtc_Ach_inf_31>
+  <Rtc_Ach_inf_40>Исследователь</Rtc_Ach_inf_40>
+  <Rtc_Ach_inf_50>Край бездны</Rtc_Ach_inf_50>
+  <Rtc_Ach_inf_60>Властелин бесконечности</Rtc_Ach_inf_60>
+  <Rtc_Ach_inf_70>Бессмертная легенда</Rtc_Ach_inf_70>
+  <Rtc_Ach_maxlevel>Максимальный уровень</Rtc_Ach_maxlevel>
+  <Rtc_Ach_mech_dual>Мех-мейстер</Rtc_Ach_mech_dual>
+  <Rtc_Ach_nociosphere>Ноциосфера</Rtc_Ach_nociosphere>
+  <Rtc_Ach_pureblood>Чистокровный легион</Rtc_Ach_pureblood>
+  <Rtc_Ach_rank_syn_full>Верность синергии</Rtc_Ach_rank_syn_full>
+  <Rtc_Ach_rich>Богач</Rtc_Ach_rich>
+  <Rtc_Ach_syn5>Мастер на все руки</Rtc_Ach_syn5>
+  <Rtc_Ach_syn_master>Виртуоз синергии</Rtc_Ach_syn_master>
+  <Rtc_Ach_three_3star>Элитный легион</Rtc_Ach_three_3star>
+  <Rtc_AlreadySpecial>Этот предмет уже особый.</Rtc_AlreadySpecial>
+  <Rtc_BenchOverCap>В запасе больше бойцов, чем разрешено ({0}). Продайте лишних или разместите их на поле.</Rtc_BenchOverCap>
+  <Rtc_BenchTitle>Запас</Rtc_BenchTitle>
+  <Rtc_Bl_AutoBlocked>Мод автоматически исключил бойца: не удалось отрисовать его изображение. Пользовательский запрет здесь не применяется.</Rtc_Bl_AutoBlocked>
+  <Rtc_Bl_BlockAll>Заблокировать все составы, добавленные модами</Rtc_Bl_BlockAll>
+  <Rtc_Bl_BlockTurrets>Заблокировать турели из модов</Rtc_Bl_BlockTurrets>
+  <Rtc_Bl_BlockTurretsTip>Предметы для развёртывания турелей не создают турели из модов. При выключенной настройке, как по умолчанию, их можно запрещать по отдельности или целыми модами в группе «Турели» ниже. Ограничение не зависит от запретов на бойцов.</Rtc_Bl_BlockTurretsTip>
+  <Rtc_Bl_Fac>фракция</Rtc_Bl_Fac>
+  <Rtc_Bl_Hint>Заблокированные расы и фракции из модов не появятся среди доступных бойцов.</Rtc_Bl_Hint>
+  <Rtc_Bl_InGameOnly>Изображения бойцов доступны после начала игры.
+Откройте настройки мода в загруженной игре, чтобы видеть состав с изображениями и запрещать отдельных бойцов.</Rtc_Bl_InGameOnly>
+  <Rtc_Bl_NoSearch>Нет подходящих модов.</Rtc_Bl_NoSearch>
+  <Rtc_Bl_None>Составы, добавленные модами, не обнаружены.</Rtc_Bl_None>
+  <Rtc_Bl_OtherKind>входят в синергии основной игры</Rtc_Bl_OtherKind>
+  <Rtc_Bl_OtherUnits>Прочие бойцы</Rtc_Bl_OtherUnits>
+  <Rtc_Bl_Race>раса</Rtc_Bl_Race>
+  <Rtc_Bl_Reset>Сбросить блокировки</Rtc_Bl_Reset>
+  <Rtc_Bl_ResetConfirm>Сбросить все настройки блокировки?</Rtc_Bl_ResetConfirm>
+  <Rtc_Bl_Search>Поиск</Rtc_Bl_Search>
+  <Rtc_Bl_Tier>Ранг {0}</Rtc_Bl_Tier>
+  <Rtc_Bl_Turret>Турели</Rtc_Bl_Turret>
+  <Rtc_Bl_UnderfillNone>Все синергии достижимы.</Rtc_Bl_UnderfillNone>
+  <Rtc_Bl_UnderfillRow>{0}: {1}/{2}</Rtc_Bl_UnderfillRow>
+  <Rtc_Bl_UnderfillTitle>Недостижимые синергии в текущем ассортименте</Rtc_Bl_UnderfillTitle>
+  <Rtc_BlacklistTab>Чёрный список</Rtc_BlacklistTab>
+  <Rtc_BoardFull>Доска заполнена (максимум: {0}). Повысьте уровень, чтобы размещать больше бойцов.</Rtc_BoardFull>
+  <Rtc_BoardTitle>Поле ({0}/{1})</Rtc_BoardTitle>
+  <Rtc_BossStarted>Раунд {0} — бой с боссом! Наблюдайте за боем!</Rtc_BossStarted>
+  <Rtc_BossTag>[РАУНД БОССА]</Rtc_BossTag>
+  <Rtc_BuffDesc>Выберите одно из трёх усилений. Оно действует до конца партии.</Rtc_BuffDesc>
+  <Rtc_BuffGrantedOk>ОК</Rtc_BuffGrantedOk>
+  <Rtc_BuffGrantedTitle>Получено постоянное усиление!</Rtc_BuffGrantedTitle>
+  <Rtc_BuffPick>Взять</Rtc_BuffPick>
+  <Rtc_BuffTier_Bronze>Бронза</Rtc_BuffTier_Bronze>
+  <Rtc_BuffTier_Gold>Золото</Rtc_BuffTier_Gold>
+  <Rtc_BuffTier_Platinum>Платина</Rtc_BuffTier_Platinum>
+  <Rtc_BuffTier_Silver>Серебро</Rtc_BuffTier_Silver>
+  <Rtc_BuffTitle>Постоянное усиление — {0}</Rtc_BuffTitle>
+  <Rtc_BuyCost>Купить ({0})</Rtc_BuyCost>
+  <Rtc_BuyXp>Купить опыт (-{0})</Rtc_BuyXp>
+  <Rtc_CannotBuy>Нельзя купить: не хватает монет или места в запасе.</Rtc_CannotBuy>
+  <Rtc_ChD_BronzeOnly>В этой партии появляются только бронзовые постоянные усиления.</Rtc_ChD_BronzeOnly>
+  <Rtc_ChD_Diminishing>В начале у вас 180 монет. Вы получаете только базовый доход, без бонусов за серии и процентов.</Rtc_ChD_Diminishing>
+  <Rtc_ChD_Emergency>С вероятностью 10% на поле появляется торнадо.</Rtc_ChD_Emergency>
+  <Rtc_ChD_EnemyBoss>В раундах {0}, {1} и {2}: здоровье врагов +40%, урон +20%.</Rtc_ChD_EnemyBoss>
+  <Rtc_ChD_EnemyEarly>В раундах {0}–{1}: здоровье врагов +30%, урон +15%.</Rtc_ChD_EnemyEarly>
+  <Rtc_ChD_EnemyLate>В раундах {0}–{1}: здоровье врагов +30%, урон +15%.</Rtc_ChD_EnemyLate>
+  <Rtc_ChD_EnemyMid>В раундах {0}–{1}: здоровье врагов +30%, урон +15%.</Rtc_ChD_EnemyMid>
+  <Rtc_ChD_Firepower>Все союзники наносят на 10% больше урона.</Rtc_ChD_Firepower>
+  <Rtc_ChD_FogOfWar>Вы не можете просмотреть состав врага.</Rtc_ChD_FogOfWar>
+  <Rtc_ChD_FreeUnit>Каждый раунд один случайный боец из магазина бесплатно добавляется в запас.</Rtc_ChD_FreeUnit>
+  <Rtc_ChD_GarbageThrow>С вероятностью 40% объединить два базовых предмета не удаётся.</Rtc_ChD_GarbageThrow>
+  <Rtc_ChD_GearSupport>В начале игры получите 3 случайных базовых компонента снаряжения.</Rtc_ChD_GearSupport>
+  <Rtc_ChD_GoldPower>В этой партии появляются только золотые постоянные усиления.</Rtc_ChD_GoldPower>
+  <Rtc_ChD_IncomePlus>Базовый доход за раунд +1.</Rtc_ChD_IncomePlus>
+  <Rtc_ChD_Invuln>Каждый раунд каждый враг игнорирует первое полученное попадание.</Rtc_ChD_Invuln>
+  <Rtc_ChD_LivingDead>Каждый враг получает 1 заряд отказа от смерти.</Rtc_ChD_LivingDead>
+  <Rtc_ChD_LootDouble>При получении добычи она с вероятностью 50% удваивается.</Rtc_ChD_LootDouble>
+  <Rtc_ChD_LowHp>Начинаете с 70/100 здоровья.</Rtc_ChD_LowHp>
+  <Rtc_ChD_MidCheck>После раунда {0} вы получаете ещё одно постоянное усиление.</Rtc_ChD_MidCheck>
+  <Rtc_ChD_Minefield>С вероятностью 40% на карте появляются 3–5 невидимых вражеских мин. Они срабатывают только на ваших союзников.</Rtc_ChD_Minefield>
+  <Rtc_ChD_NeedWeapon>Бойцы с небольшим количеством снаряжения наносят меньше урона.</Rtc_ChD_NeedWeapon>
+  <Rtc_ChD_PerfectReward>Добыча из комнаты наград удваивается.</Rtc_ChD_PerfectReward>
+  <Rtc_ChD_RerollMachine>После 30 обновлений магазина за партию вы получаете 20 монет, а стоимость обновления снижается до 1 монеты.</Rtc_ChD_RerollMachine>
+  <Rtc_ChD_SilverPower>В этой партии появляются только серебряные постоянные усиления.</Rtc_ChD_SilverPower>
+  <Rtc_ChD_SpeedGame>Ограничение времени боя сокращается примерно на 90 секунд.</Rtc_ChD_SpeedGame>
+  <Rtc_ChD_SpeedUp>Скорость передвижения союзников увеличивается на 1% за каждый прошедший раунд, максимум на 30%.</Rtc_ChD_SpeedUp>
+  <Rtc_ChD_Stun>В начале боя каждый союзник с вероятностью 33% получает оглушение на 2 с.</Rtc_ChD_Stun>
+  <Rtc_Ch_BronzeOnly>Я всего лишь бронза</Rtc_Ch_BronzeOnly>
+  <Rtc_Ch_Diminishing>Убывающая отдача</Rtc_Ch_Diminishing>
+  <Rtc_Ch_Emergency>Чрезвычайная ситуация</Rtc_Ch_Emergency>
+  <Rtc_Ch_EnemyBoss>Усиление босса</Rtc_Ch_EnemyBoss>
+  <Rtc_Ch_EnemyEarly>Усиление врагов в начале партии</Rtc_Ch_EnemyEarly>
+  <Rtc_Ch_EnemyLate>Усиление врагов в конце партии</Rtc_Ch_EnemyLate>
+  <Rtc_Ch_EnemyMid>Усиление врагов в середине партии</Rtc_Ch_EnemyMid>
+  <Rtc_Ch_Firepower>Доктрина огневой мощи</Rtc_Ch_Firepower>
+  <Rtc_Ch_FogOfWar>Туман войны</Rtc_Ch_FogOfWar>
+  <Rtc_Ch_FreeUnit>Бесплатное — лучшее</Rtc_Ch_FreeUnit>
+  <Rtc_Ch_GarbageThrow>Мусорный бросок</Rtc_Ch_GarbageThrow>
+  <Rtc_Ch_GearSupport>Поддержка снаряжением</Rtc_Ch_GearSupport>
+  <Rtc_Ch_GoldPower>Сила золота</Rtc_Ch_GoldPower>
+  <Rtc_Ch_IncomePlus>Богатею</Rtc_Ch_IncomePlus>
+  <Rtc_Ch_Invuln>Адамантиновое тело</Rtc_Ch_Invuln>
+  <Rtc_Ch_LivingDead>Живые мертвецы</Rtc_Ch_LivingDead>
+  <Rtc_Ch_LootDouble>Любитель добычи</Rtc_Ch_LootDouble>
+  <Rtc_Ch_LowHp>Почему я</Rtc_Ch_LowHp>
+  <Rtc_Ch_MidCheck>Промежуточный осмотр</Rtc_Ch_MidCheck>
+  <Rtc_Ch_Minefield>Минное поле</Rtc_Ch_Minefield>
+  <Rtc_Ch_NeedWeapon>Мне нужно оружие</Rtc_Ch_NeedWeapon>
+  <Rtc_Ch_PerfectReward>Идеальная награда</Rtc_Ch_PerfectReward>
+  <Rtc_Ch_RerollMachine>Машина обновлений</Rtc_Ch_RerollMachine>
+  <Rtc_Ch_SilverPower>Сила серебра</Rtc_Ch_SilverPower>
+  <Rtc_Ch_SpeedGame>Скоростная игра</Rtc_Ch_SpeedGame>
+  <Rtc_Ch_SpeedUp>Быстрей-быстрей</Rtc_Ch_SpeedUp>
+  <Rtc_Ch_Stun>Вот тебе и оглушение</Rtc_Ch_Stun>
+  <Rtc_ChallengeBuff>Усиление</Rtc_ChallengeBuff>
+  <Rtc_ChallengeContinue>В магазин</Rtc_ChallengeContinue>
+  <Rtc_ChallengeDebuff>Ослабление</Rtc_ChallengeDebuff>
+  <Rtc_ChallengeDesc>Примите трудный бой ради богатой добычи или сразу перейдите в комнату награды.</Rtc_ChallengeDesc>
+  <Rtc_ChallengeFight>Принять испытание</Rtc_ChallengeFight>
+  <Rtc_ChallengeFightDesc>Враги уровня боссов. За победу — вдвое больше добычи уровня босса.</Rtc_ChallengeFightDesc>
+  <Rtc_ChallengePick>Выбрать</Rtc_ChallengePick>
+  <Rtc_ChallengeResult>№{0}: ячейка {1} ({2})</Rtc_ChallengeResult>
+  <Rtc_ChallengeResultEffect>#{0}: {1}</Rtc_ChallengeResultEffect>
+  <Rtc_ChallengeRollDesc>Выбираются два постоянных усиления или ослабления…</Rtc_ChallengeRollDesc>
+  <Rtc_ChallengeRollTitle>Розыгрыш испытания</Rtc_ChallengeRollTitle>
+  <Rtc_ChallengeRoom>Комната испытания</Rtc_ChallengeRoom>
+  <Rtc_ChallengeSkip>Пропустить</Rtc_ChallengeSkip>
+  <Rtc_ChallengeSkipDesc>Без боя. Переход в комнату наград.</Rtc_ChallengeSkipDesc>
+  <Rtc_ChallengeSlot>Ячейка {0}</Rtc_ChallengeSlot>
+  <Rtc_ChallengeTitle>Комната испытания</Rtc_ChallengeTitle>
+  <Rtc_ChangeChallenge>Сменить испытание</Rtc_ChangeChallenge>
+  <Rtc_ClaimBuff>Получить постоянное усиление</Rtc_ClaimBuff>
+  <Rtc_Close>Закрыть</Rtc_Close>
+  <Rtc_CombatInProgress>Бой идёт.</Rtc_CombatInProgress>
+  <Rtc_CombatStartFailed>Ошибка прервала начало боя, возможно, из-за конфликта модов. Раунд сохранён; попробуйте снова. Подробности — в журнале.</Rtc_CombatStartFailed>
+  <Rtc_CombineFail>Эти два предмета нельзя объединить.</Rtc_CombineFail>
+  <Rtc_Combined>Объединено в новый предмет.</Rtc_Combined>
+  <Rtc_Community>Discord</Rtc_Community>
+  <Rtc_CommunityTip>Открывает Discord сообщества RimtoChess, где делятся кодами призраков и кодами генерации. Если приложение Discord установлено, ссылка откроется в нём.</Rtc_CommunityTip>
+  <Rtc_ConfirmCombine>Объединить {0} + {1} в {2}?</Rtc_ConfirmCombine>
+  <Rtc_ConfirmMakeSpecial>Применить жетон усиления к предмету «{0}», чтобы сделать его особым?</Rtc_ConfirmMakeSpecial>
+  <Rtc_ConfirmMergeSpecial>Объединить два экземпляра предмета «{0}» в один особый?</Rtc_ConfirmMergeSpecial>
+  <Rtc_ConnHeader>Подключение к RimtoChess</Rtc_ConnHeader>
+  <Rtc_ConnLine1>Синхронизация данных состава</Rtc_ConnLine1>
+  <Rtc_ConnLine2>Наполнение магазина</Rtc_ConnLine2>
+  <Rtc_ConnLine3>Призыв судьи</Rtc_ConnLine3>
+  <Rtc_ConsumeFail>Сейчас нельзя использовать этот предмет.</Rtc_ConsumeFail>
+  <Rtc_Consume_Disassemble>Перетащите на готовый предмет снаряжения, чтобы разобрать его на 2 исходных компонента. На особое снаряжение не действует.</Rtc_Consume_Disassemble>
+  <Rtc_Consume_Duplicate>Создаёт копию выбранного бойца с тем же количеством звёзд.</Rtc_Consume_Duplicate>
+  <Rtc_Consume_GrantUnit>Добавляет случайного бойца в запас.</Rtc_Consume_GrantUnit>
+  <Rtc_Consume_Heal>Восстановить 10 очков здоровья.</Rtc_Consume_Heal>
+  <Rtc_Consume_MakeSpecial>Перетащите на надетый готовый предмет, чтобы сделать его особым: эффекты удваиваются, а способность применяется дважды за бой. На компоненты не действует.</Rtc_Consume_MakeSpecial>
+  <Rtc_Consume_PlaceTurret>Перетащите на пустую клетку доски, чтобы установить случайную автотурель (только на этот раунд).</Rtc_Consume_PlaceTurret>
+  <Rtc_Consume_RerollItem>Заменяет один предмет снаряжения выбранного бойца случайным.</Rtc_Consume_RerollItem>
+  <Rtc_Consume_RerollShop>Обновляет магазин бесплатно.</Rtc_Consume_RerollShop>
+  <Rtc_Consume_UnitChoice>Выберите одного из трёх случайных бойцов. Вероятности рангов 3, 4 и 5: 50%, 35% и 15% соответственно.</Rtc_Consume_UnitChoice>
+  <Rtc_DeferredBuffMsg>Отложенная награда: получено постоянное усиление «{0}»!</Rtc_DeferredBuffMsg>
+  <Rtc_DiffDescShort_Easy>Врагов меньше, они слабее. Поражение отнимает меньше очков здоровья. Короткий режим: фиксированный доход без процентов — 7 монет в раундах 1–6, затем 11 монет начиная с раунда 7.</Rtc_DiffDescShort_Easy>
+  <Rtc_DiffDescShort_Hard>Врагов больше, они сильнее. Поражение отнимает больше очков здоровья. Короткий режим: фиксированный доход без процентов — 5 монет в раундах 1–6, затем 9 монет начиная с раунда 7.</Rtc_DiffDescShort_Hard>
+  <Rtc_DiffDescShort_Normal>Обычная сложность. Короткий режим: фиксированный доход без процентов — 6 монет в раундах 1–6, затем 10 монет начиная с раунда 7.</Rtc_DiffDescShort_Normal>
+  <Rtc_DiffDesc_Easy>Врагов меньше, они слабее. Поражение отнимает меньше очков здоровья. Базовый доход: 5 монет.</Rtc_DiffDesc_Easy>
+  <Rtc_DiffDesc_Hard>Врагов больше, они сильнее. Поражение отнимает больше очков здоровья. Базовый доход: 3 монеты.</Rtc_DiffDesc_Hard>
+  <Rtc_DiffDesc_Normal>Обычная сложность. Базовый доход: 4 монеты.</Rtc_DiffDesc_Normal>
+  <Rtc_Diff_Easy>Лёгкий</Rtc_Diff_Easy>
+  <Rtc_Diff_Hard>Сложный</Rtc_Diff_Hard>
+  <Rtc_Diff_Normal>Нормальный</Rtc_Diff_Normal>
+  <Rtc_DisassembleHint>Перетащите жетон разборки на готовый предмет снаряжения. На персонажа, компонент или особый предмет он не действует.</Rtc_DisassembleHint>
+  <Rtc_Disassembled>Предмет разобран на компоненты: {0}.</Rtc_Disassembled>
+  <Rtc_DiscordBusy>Предыдущая отправка ещё выполняется.</Rtc_DiscordBusy>
+  <Rtc_DiscordCooldown>Отправить снова можно через {0} с.</Rtc_DiscordCooldown>
+  <Rtc_DiscordFallback>Код уже в буфере обмена, и его можно вставить вручную.</Rtc_DiscordFallback>
+  <Rtc_DiscordGhostHeader>**{0}** · достигнут раунд {1} · {2} · {3} · побед: {4}, поражений: {5}
+{6}</Rtc_DiscordGhostHeader>
+  <Rtc_DiscordModsLine>Нужны моды: {0}</Rtc_DiscordModsLine>
+  <Rtc_DiscordNotReady>Сведения о канале Discord ещё не загрузились. Попробуйте чуть позже.</Rtc_DiscordNotReady>
+  <Rtc_DiscordNotice>Код будет опубликован в общедоступном канале Discord сообщества RimtoChess.
+
+Будут отправлены сам код, название вашего поселения, достигнутый раунд, сложность и рекорд. Их увидят все участники канала.
+
+Продолжить? (Это уведомление появляется только один раз. Функцию можно в любой момент отключить в настройках мода.)</Rtc_DiscordNotice>
+  <Rtc_DiscordOff>Отправка в Discord выключена (включается в настройках мода).</Rtc_DiscordOff>
+  <Rtc_DiscordSeedHeader>Ключ: **{0}** · раунд {1} · {2} · {3}</Rtc_DiscordSeedHeader>
+  <Rtc_DiscordSent>Отправлено в канал Discord. Копия также помещена в буфер обмена.</Rtc_DiscordSent>
+  <Rtc_DmgPanelTitle>Нанесённый урон</Rtc_DmgPanelTitle>
+  <Rtc_DragToEquip>Перетащите это снаряжение на бойца, чтобы надеть его.</Rtc_DragToEquip>
+  <Rtc_DragToUse>Перетащите этот предмет на нужного бойца, чтобы применить его.</Rtc_DragToUse>
+  <Rtc_DupOnBoard>На поле можно разместить только одного бойца каждого вида.</Rtc_DupOnBoard>
+  <Rtc_EffAura>командная аура</Rtc_EffAura>
+  <Rtc_EffRegen>регенерация ран</Rtc_EffRegen>
+  <Rtc_EnemyPreview>Состав врага</Rtc_EnemyPreview>
+  <Rtc_EnemyPreviewEmpty>Нет сведений о составе противника.</Rtc_EnemyPreviewEmpty>
+  <Rtc_EnemyPreviewGhost>Призрак «{0}»: в этом раунде вам противостоит колода другого игрока.</Rtc_EnemyPreviewGhost>
+  <Rtc_EnemyPreviewGhostBtn>Состав врага — призрак</Rtc_EnemyPreviewGhostBtn>
+  <Rtc_EnemyPreviewGhostTip>В этом раунде вы встретите призрак {0}. Это состав, которым играл другой игрок, а не процедурно созданный противник.</Rtc_EnemyPreviewGhostTip>
+  <Rtc_EnemyPreviewNoSyn>ни одной не образовано</Rtc_EnemyPreviewNoSyn>
+  <Rtc_EnemyPreviewSyn>Синергии врага:</Rtc_EnemyPreviewSyn>
+  <Rtc_EnemyPreviewTitle>Раунд {0} — состав врага</Rtc_EnemyPreviewTitle>
+  <Rtc_EnemySide>— враг наверху (передний ряд) —</Rtc_EnemySide>
+  <Rtc_EquippedItems>Надетое снаряжение:</Rtc_EquippedItems>
+  <Rtc_FacSynDesc>Бойцы одной фракции сражаются лучше вместе. Фракция: {0}.</Rtc_FacSynDesc>
+  <Rtc_GarbageFailMsg>Создание предмета сорвалось из-за ослабления режима испытания.</Rtc_GarbageFailMsg>
+  <Rtc_GhostAliasOk>ОК</Rtc_GhostAliasOk>
+  <Rtc_GhostArchiveBtn>Архив призраков ({0}/{1})</Rtc_GhostArchiveBtn>
+  <Rtc_GhostArchiveBtnOff>Архив призраков</Rtc_GhostArchiveBtnOff>
+  <Rtc_GhostArchiveFoot>Выбор призраков фиксируется в начале партии. Последующие изменения на неё не влияют.</Rtc_GhostArchiveFoot>
+  <Rtc_GhostArchiveTitle>Архив призраков</Rtc_GhostArchiveTitle>
+  <Rtc_GhostBoardBtn>Состав</Rtc_GhostBoardBtn>
+  <Rtc_GhostBoardBtnLong>Состав по раундам</Rtc_GhostBoardBtnLong>
+  <Rtc_GhostBoardEmpty>Нет истории раундов для показа.</Rtc_GhostBoardEmpty>
+  <Rtc_GhostBoardLost>поражение</Rtc_GhostBoardLost>
+  <Rtc_GhostBoardNext>Следующий</Rtc_GhostBoardNext>
+  <Rtc_GhostBoardNoResult>без результата</Rtc_GhostBoardNoResult>
+  <Rtc_GhostBoardPrev>Предыдущий</Rtc_GhostBoardPrev>
+  <Rtc_GhostBoardRound>Раунд {0} · уровень {1} · мест на поле: {2} · бойцов: {3} · {4}</Rtc_GhostBoardRound>
+  <Rtc_GhostBoardTitle>Состав - {0}</Rtc_GhostBoardTitle>
+  <Rtc_GhostBoardWon>победа</Rtc_GhostBoardWon>
+  <Rtc_GhostCardItems>Снаряжение: {0}</Rtc_GhostCardItems>
+  <Rtc_GhostCardNeedMod>Требуется мод: {0}</Rtc_GhostCardNeedMod>
+  <Rtc_GhostCardNoMod>нет мода</Rtc_GhostCardNoMod>
+  <Rtc_GhostCardOutOfSample>Этот боец недоступен в магазине текущей партии и появляется только в составе призрака.</Rtc_GhostCardOutOfSample>
+  <Rtc_GhostCardTags>Синергии: {0}</Rtc_GhostCardTags>
+  <Rtc_GhostCardTier>Ранг {0} · {1}★</Rtc_GhostCardTier>
+  <Rtc_GhostCodeCopied>Код призрака скопирован в буфер обмена (символов: {0}). Его можно сразу вставить в Discord.</Rtc_GhostCodeCopied>
+  <Rtc_GhostCodeFailed>Не удалось создать код призрака.</Rtc_GhostCodeFailed>
+  <Rtc_GhostCodeTooLong>Код содержит {0} символов и превышает предел одного сообщения ({1}). Он скопирован в буфер обмена, но может обрезаться, поэтому также сохранён в файл: {2}</Rtc_GhostCodeTooLong>
+  <Rtc_GhostCopyCode>Копировать код</Rtc_GhostCopyCode>
+  <Rtc_GhostCopyCodeBtn>Копировать код призрака</Rtc_GhostCopyCodeBtn>
+  <Rtc_GhostDelete>Удалить</Rtc_GhostDelete>
+  <Rtc_GhostDeleteConfirm>Удалить призрака «{0}»? Отменить будет нельзя.</Rtc_GhostDeleteConfirm>
+  <Rtc_GhostEmptyMine>Ваших призраков пока нет. После завершения партии нажмите «Сохранить призрака» в окне результатов.</Rtc_GhostEmptyMine>
+  <Rtc_GhostEmptyReceived>Полученных призраков пока нет. Импортируйте код другого игрока кнопкой «Вставить код».</Rtc_GhostEmptyReceived>
+  <Rtc_GhostFromFile>Импорт из файла</Rtc_GhostFromFile>
+  <Rtc_GhostFullHint>Ваш список призраков заполнен ({0}). Сначала удалите одного в архиве.</Rtc_GhostFullHint>
+  <Rtc_GhostFullMine>Ваш список призраков заполнен ({0}). Удалите одного в архиве и повторите сохранение.</Rtc_GhostFullMine>
+  <Rtc_GhostFullReceived>Список полученных призраков заполнен ({0}). Удалите одного в архиве и повторите импорт.</Rtc_GhostFullReceived>
+  <Rtc_GhostImportBadBody>Код повреждён. Возможно, он обрезан или скопирован не полностью.</Rtc_GhostImportBadBody>
+  <Rtc_GhostImportBadFormat>Это не код призрака. Убедитесь, что скопировали весь код, начиная с RTCG2.</Rtc_GhostImportBadFormat>
+  <Rtc_GhostImportCounts>История: {0} раундов, доступны {1}. Видов бойцов: {2}</Rtc_GhostImportCounts>
+  <Rtc_GhostImportDo>Импортировать</Rtc_GhostImportDo>
+  <Rtc_GhostImportFpAll>Состав, выбранный для этой партии</Rtc_GhostImportFpAll>
+  <Rtc_GhostImportFpCand>Настройки модов и список доступных бойцов</Rtc_GhostImportFpCand>
+  <Rtc_GhostImportFpDb>Набор установленных модов</Rtc_GhostImportFpDb>
+  <Rtc_GhostImportFpDiff>не совпадает: у отправителя {0}, у вас {1}</Rtc_GhostImportFpDiff>
+  <Rtc_GhostImportFpHeader>Сверка окружения</Rtc_GhostImportFpHeader>
+  <Rtc_GhostImportFpInfoOnly>Не влияет на разрешение импорта: меняется каждую партию.</Rtc_GhostImportFpInfoOnly>
+  <Rtc_GhostImportFpMatch>совпадает</Rtc_GhostImportFpMatch>
+  <Rtc_GhostImportFpReject>Сборки различаются; импорт невозможен. Исправьте отмеченные выше несовпадения. Если различаются установленные моды, нужен тот же список модов. Если различается список доступных бойцов, нужно согласовать настройки RimtoChess: чёрный и белый списки, разрешение механоидов при Combat Extended.</Rtc_GhostImportFpReject>
+  <Rtc_GhostImportIsSeedCode>Это код генерации (RTCS1), а не код призрака. Чтобы сыграть ту же партию, нажмите «Вставить код генерации» на экране выбора взноса.</Rtc_GhostImportIsSeedCode>
+  <Rtc_GhostImportModsCount>{0} из {1} установлено</Rtc_GhostImportModsCount>
+  <Rtc_GhostImportModsHeader>Необходимые моды</Rtc_GhostImportModsHeader>
+  <Rtc_GhostImportNoRounds>В коде нет истории раундов.</Rtc_GhostImportNoRounds>
+  <Rtc_GhostImportNotBattleable>Для боя не хватает модов. Доступен только просмотр.</Rtc_GhostImportNotBattleable>
+  <Rtc_GhostImportSummary>Достигнут раунд {0} · {1} · {2} · побед: {3}, поражений: {4} · {5}</Rtc_GhostImportSummary>
+  <Rtc_GhostImportTitle>Импорт призрака</Rtc_GhostImportTitle>
+  <Rtc_GhostImportUnusable>В этой сборке недоступны бойцы ({0}), поэтому призрак не может участвовать в бою. Импорт и просмотр всё ещё доступны.</Rtc_GhostImportUnusable>
+  <Rtc_GhostImportUnusableHeader>Недоступные бойцы</Rtc_GhostImportUnusableHeader>
+  <Rtc_GhostImportWorkshop>Открыть в Мастерской</Rtc_GhostImportWorkshop>
+  <Rtc_GhostImportedMsg>Призрак «{0}» импортирован. В нём {1} раундов истории.</Rtc_GhostImportedMsg>
+  <Rtc_GhostInfiniteDisabled>Архив призраков недоступен в бесконечном режиме. Запись истории, выдача кодов и встречи с призраками отключены.</Rtc_GhostInfiniteDisabled>
+  <Rtc_GhostMissingMods>Нельзя использовать в бою: не хватает модов ({0}) — {1}</Rtc_GhostMissingMods>
+  <Rtc_GhostModSummaryMissing>Моды {0}/{1} - нет: {2}</Rtc_GhostModSummaryMissing>
+  <Rtc_GhostModSummaryMore>{0} и ещё {1}</Rtc_GhostModSummaryMore>
+  <Rtc_GhostModSummaryOk>Все моды ({0}) установлены</Rtc_GhostModSummaryOk>
+  <Rtc_GhostModeNormal>Стандарт</Rtc_GhostModeNormal>
+  <Rtc_GhostModeShort>Короткий</Rtc_GhostModeShort>
+  <Rtc_GhostModsOk>Все необходимые моды ({0}) установлены</Rtc_GhostModsOk>
+  <Rtc_GhostNoFiles>Нет файлов для загрузки. Поместите файлы .rtcghost в эту папку: {0}</Rtc_GhostNoFiles>
+  <Rtc_GhostOpenArchive>Открыть архив</Rtc_GhostOpenArchive>
+  <Rtc_GhostPaste>Вставить код</Rtc_GhostPaste>
+  <Rtc_GhostRename>Переименовать</Rtc_GhostRename>
+  <Rtc_GhostRowInfo>Раунд {0} · {1} · {2} · побед: {3}, поражений: {4} · раундов: {5} · {6}</Rtc_GhostRowInfo>
+  <Rtc_GhostSaveBtn>Сохранить призрака ({0}/{1})</Rtc_GhostSaveBtn>
+  <Rtc_GhostSaveFailed>Эту партию нельзя сохранить как призрака.</Rtc_GhostSaveFailed>
+  <Rtc_GhostSaveHint>После закрытия этого окна создать призрака текущей партии уже нельзя.</Rtc_GhostSaveHint>
+  <Rtc_GhostSaved>Сохранено</Rtc_GhostSaved>
+  <Rtc_GhostSavedMsg>Призрак «{0}» сохранён. В нём {1} раундов истории.</Rtc_GhostSavedMsg>
+  <Rtc_GhostShareCode>Поделиться</Rtc_GhostShareCode>
+  <Rtc_GhostShareCodeBtn>Поделиться кодом</Rtc_GhostShareCodeBtn>
+  <Rtc_GhostSummary>Активно: {0}</Rtc_GhostSummary>
+  <Rtc_GhostSummaryNone>Ни один призрак не используется. Отметьте призрак, чтобы он мог встретиться как противник.</Rtc_GhostSummaryNone>
+  <Rtc_GhostTabMine>Мои призраки ({0}/{1})</Rtc_GhostTabMine>
+  <Rtc_GhostTabReceived>Полученные ({0}/{1})</Rtc_GhostTabReceived>
+  <Rtc_GhostToggleBlocked>Призрак не может участвовать в бою, поэтому его нельзя включить. Устраните причину, указанную ниже, и переключатель снова станет доступен.</Rtc_GhostToggleBlocked>
+  <Rtc_GhostUnnamed>Без имени</Rtc_GhostUnnamed>
+  <Rtc_GhostUnusableAllMod>бойцы из модов отключены; снимите флажок «Заблокировать все составы, добавленные модами»</Rtc_GhostUnusableAllMod>
+  <Rtc_GhostUnusableBlacklist>индивидуальный запрет в чёрном списке; снимите его, и боец сразу станет доступен</Rtc_GhostUnusableBlacklist>
+  <Rtc_GhostUnusableCeMech>механоиды исключены из-за Combat Extended; разрешите их настройкой «Включать механоидов с Combat Extended»</Rtc_GhostUnusableCeMech>
+  <Rtc_GhostUnusableFilter>не соответствует условиям отбора: слишком слаб, не предназначен для боя, существует только после призыва и т. п.</Rtc_GhostUnusableFilter>
+  <Rtc_GhostUnusableImage>мод исключил бойца из-за ошибки отрисовки портрета; во вкладке чёрного списка его можно принудительно разрешить</Rtc_GhostUnusableImage>
+  <Rtc_GhostUnusableSummary>Бой невозможен: недоступных бойцов — {0}. Причины: {1}</Rtc_GhostUnusableSummary>
+  <Rtc_GhostWorkshopN>Мастерская ({0})</Rtc_GhostWorkshopN>
+  <Rtc_GhostWorkshopNoId>Для «{0}» нет ссылки в Мастерской. У отправителя этот мод установлен без подписки Steam, поэтому идентификатор не включён в код.</Rtc_GhostWorkshopNoId>
+  <Rtc_GhostWorkshopNoIdShort>{0} - нет ссылки</Rtc_GhostWorkshopNoIdShort>
+  <Rtc_GhostWorkshopShort>Мастерская</Rtc_GhostWorkshopShort>
+  <Rtc_GrandPowerDmg>урон +{0}%</Rtc_GrandPowerDmg>
+  <Rtc_GrandPowerHp>здоровье +{0}%</Rtc_GrandPowerHp>
+  <Rtc_GrandSynBuffDesc>При наличии на поле 6 или более бойцов вида «{0}» особый эффект их расы достигает высшего уровня.</Rtc_GrandSynBuffDesc>
+  <Rtc_GrandSynBuffLabel>Великое войско: {0}</Rtc_GrandSynBuffLabel>
+  <Rtc_HeaderEcon>Базовый доход +{0}    Проценты +{1} (макс. {2})    Серия {3} (бонус +{4})</Rtc_HeaderEcon>
+  <Rtc_HeaderEconShort>Базовый доход +{0}    Серия {1} (бонус +{2})</Rtc_HeaderEconShort>
+  <Rtc_HeaderRound>Раунд {0}</Rtc_HeaderRound>
+  <Rtc_HeaderStats>Уровень {0} (опыт {1}/{2})    Монеты {3}    Здоровье {4}/100</Rtc_HeaderStats>
+  <Rtc_ItemAbility>Способность: {0} (автоприменение в бою)</Rtc_ItemAbility>
+  <Rtc_ItemAtkAll>Урон и бронепробитие: +{0}%</Rtc_ItemAtkAll>
+  <Rtc_ItemAtkMelee>Урон и бронепробитие в ближнем бою: +{0}%</Rtc_ItemAtkMelee>
+  <Rtc_ItemAtkRanged>Урон и бронепробитие в дальнем бою: +{0}%</Rtc_ItemAtkRanged>
+  <Rtc_ItemEffects>Эффекты:</Rtc_ItemEffects>
+  <Rtc_ItemEquipHint>Перетащите на бойца</Rtc_ItemEquipHint>
+  <Rtc_ItemKindComp>Деталь снаряжения</Rtc_ItemKindComp>
+  <Rtc_ItemKindConsume>Расходуемый предмет</Rtc_ItemKindConsume>
+  <Rtc_ItemKindDone>Снаряжение</Rtc_ItemKindDone>
+  <Rtc_ItemRecipe>Рецепт: {0} + {1}</Rtc_ItemRecipe>
+  <Rtc_ItemSpecial>Особое: {0}</Rtc_ItemSpecial>
+  <Rtc_ItemUnequipHint>Перетащите за пределы ячейки, чтобы снять</Rtc_ItemUnequipHint>
+  <Rtc_ItemUseClickHint>Нажмите, чтобы использовать</Rtc_ItemUseClickHint>
+  <Rtc_ItemUseHint>Перетащите на бойца</Rtc_ItemUseHint>
+  <Rtc_ItemsForUnit>Снаряжение — {0} ({1}/{2})</Rtc_ItemsForUnit>
+  <Rtc_ItemsHint>Перетащите снаряжение или предмет на бойца.</Rtc_ItemsHint>
+  <Rtc_Lock>Закрепить ассортимент</Rtc_Lock>
+  <Rtc_Locked>Ассортимент закреплён</Rtc_Locked>
+  <Rtc_LootBattle>Комната наград</Rtc_LootBattle>
+  <Rtc_LootChoiceDesc>Чем выше сложность, тем сильнее враги и богаче добыча.</Rtc_LootChoiceDesc>
+  <Rtc_LootChoicePick>Выбрать</Rtc_LootChoicePick>
+  <Rtc_LootChoiceTitle>Раунд наград — выбор сложности</Rtc_LootChoiceTitle>
+  <Rtc_LootCoins>+{0} монет</Rtc_LootCoins>
+  <Rtc_LootConfirm>Подтвердить</Rtc_LootConfirm>
+  <Rtc_LootExtreme>Экстремальный</Rtc_LootExtreme>
+  <Rtc_LootExtremeDesc>Враги уровня босса. Наград: 3. Очень сложно.</Rtc_LootExtremeDesc>
+  <Rtc_LootHard>Испытание</Rtc_LootHard>
+  <Rtc_LootHardDesc>Враги посильнее. Наград: 2.</Rtc_LootHardDesc>
+  <Rtc_LootItem>Предмет: {0}</Rtc_LootItem>
+  <Rtc_LootNormal>Нормальный</Rtc_LootNormal>
+  <Rtc_LootNormalDesc>Слабые враги. Наград: 1.</Rtc_LootNormalDesc>
+  <Rtc_LootTitle>Получена добыча: {0}!</Rtc_LootTitle>
+  <Rtc_LootUnit>Боец: {0}</Rtc_LootUnit>
+  <Rtc_LostUnitUnknownMod>неизвестно</Rtc_LostUnitUnknownMod>
+  <Rtc_LostUnitWarn>Из состава удалены бойцы ({0}): отсутствуют следующие моды.
+
+{1}
+
+В таком состоянии корректно продолжить нельзя. Включите недостающие моды и перезапустите игру.
+
+«Подтвердить» завершит эту рейтинговую партию поражением на раунде 1. «Отмена» вернёт назад.</Rtc_LostUnitWarn>
+  <Rtc_LostUnitWarnCe>Из состава исключены механоиды ({0}) из-за Combat Extended.
+
+Чтобы сохранить их, отключите Combat Extended и перезапустите игру либо включите «Включать механоидов с Combat Extended» в настройках мода и попробуйте снова.
+
+«Подтвердить» завершит эту рейтинговую партию поражением на раунде 1. «Отмена» вернёт назад.</Rtc_LostUnitWarnCe>
+  <Rtc_MadeSpecial>Предмет улучшен до особого: {0}.</Rtc_MadeSpecial>
+  <Rtc_MatchStarted>Раунд начался. Наблюдайте за боем!</Rtc_MatchStarted>
+  <Rtc_ModSigDesc_Brace>Бойцы рас, добавленных модами, один раз переживают смертельный удар.</Rtc_ModSigDesc_Brace>
+  <Rtc_ModSigDesc_CoinLink>Получайте дополнительные монеты каждый раунд.</Rtc_ModSigDesc_CoinLink>
+  <Rtc_ModSigDesc_Lane>Бойцы рас из модов наносят больше урона.</Rtc_ModSigDesc_Lane>
+  <Rtc_ModSigDesc_PartsFix>По мере накопления побед вы получаете случайное базовое снаряжение.</Rtc_ModSigDesc_PartsFix>
+  <Rtc_ModSigDesc_Solace>Восстанавливает очки здоровья игрока каждые несколько раундов.</Rtc_ModSigDesc_Solace>
+  <Rtc_ModSigPanel>Особый эффект расы из мода</Rtc_ModSigPanel>
+  <Rtc_ModSigPerSyn>зависит от расы или фракции; подробности — в строках и подсказках</Rtc_ModSigPerSyn>
+  <Rtc_ModSigTierOff>не действует: нужны хотя бы два бойца рас из модов</Rtc_ModSigTierOff>
+  <Rtc_ModSigTierOn>действует уровень {0}</Rtc_ModSigTierOn>
+  <Rtc_ModSigVal_Brace>шанс пережить смертельный удар: {0}%</Rtc_ModSigVal_Brace>
+  <Rtc_ModSigVal_CoinLink>+{0} монет/раунд</Rtc_ModSigVal_CoinLink>
+  <Rtc_ModSigVal_Lane>урон +{0}%</Rtc_ModSigVal_Lane>
+  <Rtc_ModSigVal_PartsFix>снаряжение: раз в {0} побед</Rtc_ModSigVal_PartsFix>
+  <Rtc_ModSigVal_Solace>+5 ОЗ за {0} раундов</Rtc_ModSigVal_Solace>
+  <Rtc_ModSig_Brace>Опора</Rtc_ModSig_Brace>
+  <Rtc_ModSig_CoinLink>Денежная связь</Rtc_ModSig_CoinLink>
+  <Rtc_ModSig_Lane>Продавливание линии</Rtc_ModSig_Lane>
+  <Rtc_ModSig_PartsFix>Поставка деталей</Rtc_ModSig_PartsFix>
+  <Rtc_ModSig_Solace>Утешение</Rtc_ModSig_Solace>
+  <Rtc_ModSynGrandLabel>{0} (великое войско)</Rtc_ModSynGrandLabel>
+  <Rtc_MyBuffs>Мои усиления ({0})</Rtc_MyBuffs>
+  <Rtc_MyBuffsChallenge>Испытание</Rtc_MyBuffsChallenge>
+  <Rtc_MyBuffsEmpty>Постоянных усилений пока нет. После раундов 1, 11 и 21 выдаётся по одному усилению: бронзовому, серебряному и золотому соответственно.</Rtc_MyBuffsEmpty>
+  <Rtc_MyBuffsTitle>Полученные постоянные усиления</Rtc_MyBuffsTitle>
+  <Rtc_NeedUnits>Разместите на поле хотя бы одного бойца.</Rtc_NeedUnits>
+  <Rtc_NoCoins>Недостаточно монет.</Rtc_NoCoins>
+  <Rtc_NoDisassembleSpecial>Особое снаряжение нельзя разобрать.</Rtc_NoDisassembleSpecial>
+  <Rtc_NoPower>Нет энергии.</Rtc_NoPower>
+  <Rtc_NoStacking>Для нескольких одинаковых готовых предметов снаряжения нужно золотое постоянное усиление «Перегрузка снаряжением».</Rtc_NoStacking>
+  <Rtc_NodeBalance>Узлы силы: {0} / заработано {1}</Rtc_NodeBalance>
+  <Rtc_NodeCondLocked>Требование: {0}</Rtc_NodeCondLocked>
+  <Rtc_NodeCondNotMet>Требование не выполнено</Rtc_NodeCondNotMet>
+  <Rtc_NodeEffect>Эффект: {0}</Rtc_NodeEffect>
+  <Rtc_NodeNeedLink>Сначала откройте связанный узел</Rtc_NodeNeedLink>
+  <Rtc_NodeNoCurrency>Недостаточно узлов силы</Rtc_NodeNoCurrency>
+  <Rtc_NodeRerollBtn>Обновить варианты</Rtc_NodeRerollBtn>
+  <Rtc_NodeReset>Сбросить</Rtc_NodeReset>
+  <Rtc_NodeResetConfirm>Сбросить все открытые улучшения и вернуть потраченные узлы силы?</Rtc_NodeResetConfirm>
+  <Rtc_NodeSelectHint>Нажмите на узел, чтобы узнать его эффект и разблокировать.</Rtc_NodeSelectHint>
+  <Rtc_NodeStartNote>Начальный узел, всегда открыт. За первое достижение каждого нового ранга, вплоть до «Алмаз I», вы получаете 1 узел силы. Тратьте их на открытие соседних узлов.</Rtc_NodeStartNote>
+  <Rtc_NodeTabPower>Узлы силы</Rtc_NodeTabPower>
+  <Rtc_NodeTabSynergy>Узлы синергии</Rtc_NodeTabSynergy>
+  <Rtc_NodeTitle>Узлы улучшения ранга</Rtc_NodeTitle>
+  <Rtc_NodeUnlock>Открыть (1 узел силы)</Rtc_NodeUnlock>
+  <Rtc_NodeUnlocked>Открыто</Rtc_NodeUnlocked>
+  <Rtc_None>Нет</Rtc_None>
+  <Rtc_OpenRun>Открыть RimtoChess</Rtc_OpenRun>
+  <Rtc_OpenRunDesc>Открыть магазин и поле текущей партии.</Rtc_OpenRunDesc>
+  <Rtc_OpenShop>Магазин RimtoChess</Rtc_OpenShop>
+  <Rtc_OpenShopDesc>Покупайте оружие, броню и расходные предметы (фишки RimtoChess: {0}). Ассортимент обновляется каждые 3 игровых дня.</Rtc_OpenShopDesc>
+  <Rtc_OwnedCopies>В наличии {0}</Rtc_OwnedCopies>
+  <Rtc_PNSD_AllStat1>Добавляет 1 п. п. к каждому бонусу характеристик от узлов.</Rtc_PNSD_AllStat1>
+  <Rtc_PNSD_AllStat2>Добавляет 2 п. п. к каждому бонусу характеристик от узлов.</Rtc_PNSD_AllStat2>
+  <Rtc_PNSD_BossComp>Даёт 1 компонент после раундов 10 и 20.</Rtc_PNSD_BossComp>
+  <Rtc_PNSD_DeathSave>Когда очки здоровья опустятся до 0, партия один раз продолжится с 1 очком здоровья.</Rtc_PNSD_DeathSave>
+  <Rtc_PNSD_EndHeal>Если к концу раунда 30 остаётся хотя бы 2 минуты, перед подсчётом очков восстанавливает 30 ОЗ.</Rtc_PNSD_EndHeal>
+  <Rtc_PNSD_PermaReroll>После раундов 1 и 11 можно по одному разу обновить предложенные постоянные усиления.</Rtc_PNSD_PermaReroll>
+  <Rtc_PNSD_SelectPlusOne>В бронзовой и серебряной комнатах выбора, в раундах 5 и 15, появляется дополнительный вариант награды. Его тип отличается от обычных вариантов.</Rtc_PNSD_SelectPlusOne>
+  <Rtc_PNSD_SelectReroll>В комнате выбора откройте категорию бойцов, компонентов или готового снаряжения. Три предложенных варианта можно обновить один раз.</Rtc_PNSD_SelectReroll>
+  <Rtc_PNS_AllStat1>Эссенция I</Rtc_PNS_AllStat1>
+  <Rtc_PNS_AllStat2>Эссенция II</Rtc_PNS_AllStat2>
+  <Rtc_PNS_BossComp>Пополнение трофеев</Rtc_PNS_BossComp>
+  <Rtc_PNS_DeathSave>Несокрушимый</Rtc_PNS_DeathSave>
+  <Rtc_PNS_EndHeal>Перегруппировка</Rtc_PNS_EndHeal>
+  <Rtc_PNS_PermaReroll>Предвидение</Rtc_PNS_PermaReroll>
+  <Rtc_PNS_SelectPlusOne>Изобилие</Rtc_PNS_SelectPlusOne>
+  <Rtc_PNS_SelectReroll>Проницательность</Rtc_PNS_SelectReroll>
+  <Rtc_PNStat_Armor>Броня</Rtc_PNStat_Armor>
+  <Rtc_PNStat_Damage>Урон</Rtc_PNStat_Damage>
+  <Rtc_PNStat_Health>Здоровье</Rtc_PNStat_Health>
+  <Rtc_PNStat_MeleeCooldown>Скорость атаки в ближнем бою</Rtc_PNStat_MeleeCooldown>
+  <Rtc_PNStat_Move>Скорость передвижения</Rtc_PNStat_Move>
+  <Rtc_PNStat_Penetration>Бронепробитие</Rtc_PNStat_Penetration>
+  <Rtc_PN_n1>Старт</Rtc_PN_n1>
+  <Rtc_PN_n11b>Быстрота II</Rtc_PN_n11b>
+  <Rtc_PN_n11m>Ловкость II</Rtc_PN_n11m>
+  <Rtc_PN_n11t>Бронепробитие II</Rtc_PN_n11t>
+  <Rtc_PN_n12b>Прочность IV</Rtc_PN_n12b>
+  <Rtc_PN_n12m>Прочность III</Rtc_PN_n12m>
+  <Rtc_PN_n12t>Оплот II</Rtc_PN_n12t>
+  <Rtc_PN_n3b>Прочность I</Rtc_PN_n3b>
+  <Rtc_PN_n3t>Острота I</Rtc_PN_n3t>
+  <Rtc_PN_n5>Бронепробитие I</Rtc_PN_n5>
+  <Rtc_PN_n6>Ловкость I</Rtc_PN_n6>
+  <Rtc_PN_n7b>Прочность II</Rtc_PN_n7b>
+  <Rtc_PN_n7m>Оплот I</Rtc_PN_n7m>
+  <Rtc_PN_n7t>Быстрота I</Rtc_PN_n7t>
+  <Rtc_PN_n9>Острота II</Rtc_PN_n9>
+  <Rtc_RaceSynDesc>Бойцы одного вида сражаются лучше вместе. Вид: {0}.</Rtc_RaceSynDesc>
+  <Rtc_RaceSynergy>Сородичи: {0}</Rtc_RaceSynergy>
+  <Rtc_RankAbandon>Сдаться в рейтинговой партии</Rtc_RankAbandon>
+  <Rtc_RankBest>Лучший ранг</Rtc_RankBest>
+  <Rtc_RankBestRound>Лучший достигнутый раунд</Rtc_RankBestRound>
+  <Rtc_RankBestRoundVal>Раунд {0}</Rtc_RankBestRoundVal>
+  <Rtc_RankLpApex>{0} ОЛ</Rtc_RankLpApex>
+  <Rtc_RankNodeInRun>Во время рейтинговой партии улучшения узлов недоступны.</Rtc_RankNodeInRun>
+  <Rtc_RankNodeNext>{0} ОЛ до следующего узла силы</Rtc_RankNodeNext>
+  <Rtc_RankOtherLadderActive>Уже идёт другая рейтинговая партия.</Rtc_RankOtherLadderActive>
+  <Rtc_RankRecord>Результаты</Rtc_RankRecord>
+  <Rtc_RankRecordVal>Побед: {0}, поражений: {1} ({2}%)</Rtc_RankRecordVal>
+  <Rtc_RankReset>Сбросить ранг</Rtc_RankReset>
+  <Rtc_RankResetConfirm>Сбросить ранг, очки лиги, результаты и текущую рейтинговую партию? Общая статистика сохраняется.</Rtc_RankResetConfirm>
+  <Rtc_RankResume>Продолжить рейтинговую партию</Rtc_RankResume>
+  <Rtc_RankShopOpen>Дерево улучшений ранга (узлов силы: {0})</Rtc_RankShopOpen>
+  <Rtc_RankShopSoon>Рейтинговый магазин (скоро)</Rtc_RankShopSoon>
+  <Rtc_RankStart>Начать рейтинговую партию</Rtc_RankStart>
+  <Rtc_RankToNext>{0} ОЛ до следующего ранга (→ {1})</Rtc_RankToNext>
+  <Rtc_RankTopMost>Вы достигли высшего ранга.</Rtc_RankTopMost>
+  <Rtc_Rank_Bronze>Бронза</Rtc_Rank_Bronze>
+  <Rtc_Rank_Challenger>Претендент</Rtc_Rank_Challenger>
+  <Rtc_Rank_Diamond>Алмаз</Rtc_Rank_Diamond>
+  <Rtc_Rank_Gold>Золото</Rtc_Rank_Gold>
+  <Rtc_Rank_Grandmaster>Грандмастер</Rtc_Rank_Grandmaster>
+  <Rtc_Rank_Iron>Железо</Rtc_Rank_Iron>
+  <Rtc_Rank_Master>Мастер</Rtc_Rank_Master>
+  <Rtc_Rank_Platinum>Платина</Rtc_Rank_Platinum>
+  <Rtc_Rank_Silver>Серебро</Rtc_Rank_Silver>
+  <Rtc_RankedEndLabel>Рейтинговая партия завершена</Rtc_RankedEndLabel>
+  <Rtc_RankedEndText>Вы достигли раунда {0}.
+ОЛ {1} → теперь {2} ({3})</Rtc_RankedEndText>
+  <Rtc_RankedNote>Стандартная рейтинговая партия всегда проходит с испытанием: одним усилением и одним ослаблением. Взнос не требуется. Чем дальше вы пройдёте, тем больше очков заработаете.</Rtc_RankedNote>
+  <Rtc_RankedNoteShort>В коротких рейтинговых партиях ведётся отдельный ранг. Действуют правила короткого режима на 21 раунд и правила рейтинга: испытание и сила врагов, зависящая от дивизиона.</Rtc_RankedNoteShort>
+  <Rtc_RankedRosterSettingWarn>Во время этой рейтинговой партии изменились настройки состава: разрешение рас из модов или чёрный список.
+
+Подтверждение завершит текущую партию поражением на раунде 1.
+
+Чтобы продолжить её, восстановите прежние настройки и попробуйте снова.</Rtc_RankedRosterSettingWarn>
+  <Rtc_RankedTab>Стандартный рейтинг</Rtc_RankedTab>
+  <Rtc_RankedTabShort>Короткий рейтинг</Rtc_RankedTabShort>
+  <Rtc_RankedTitle>RimtoChess: рейтинговая игра</Rtc_RankedTitle>
+  <Rtc_Recipes>Рецепты</Rtc_Recipes>
+  <Rtc_RecipesLegend>Фиолетовый: сочетание бонусов к характеристикам. Золотой: есть особый эффект. Наведите указатель на ячейку, чтобы узнать подробности.</Rtc_RecipesLegend>
+  <Rtc_RecipesTitle>Рецепты снаряжения</Rtc_RecipesTitle>
+  <Rtc_ReflectText>Отражение {0}</Rtc_ReflectText>
+  <Rtc_RelicBoardSlot>+1 место для бойца на поле, пока предмет у вас</Rtc_RelicBoardSlot>
+  <Rtc_Reroll>Обновить магазин (−{0})</Rtc_Reroll>
+  <Rtc_ResultEffect>Результат: {0}. Эффекты:</Rtc_ResultEffect>
+  <Rtc_RewardBack>Назад</Rtc_RewardBack>
+  <Rtc_RewardCoins>+{0} монет</Rtc_RewardCoins>
+  <Rtc_RewardCoinsDesc>Получить {0} монет.</Rtc_RewardCoinsDesc>
+  <Rtc_RewardCompChoice>Компоненты (выбор 1 из 3)</Rtc_RewardCompChoice>
+  <Rtc_RewardCompChoiceDesc>Выберите один из трёх случайных компонентов — материалов для изготовления снаряжения.</Rtc_RewardCompChoiceDesc>
+  <Rtc_RewardDesc>Выберите одну награду.</Rtc_RewardDesc>
+  <Rtc_RewardEquipChoice>Снаряжение (выбор 1 из 3)</Rtc_RewardEquipChoice>
+  <Rtc_RewardEquipChoiceDesc>Выберите один из 3 случайных предметов снаряжения.</Rtc_RewardEquipChoiceDesc>
+  <Rtc_RewardItem>Снаряжение: {0}</Rtc_RewardItem>
+  <Rtc_RewardItemDesc>Добавить эту деталь снаряжения в инвентарь.</Rtc_RewardItemDesc>
+  <Rtc_RewardPick>Выбрать</Rtc_RewardPick>
+  <Rtc_RewardRoom>Комната выбора</Rtc_RewardRoom>
+  <Rtc_RewardSubDesc>Выберите один из трёх.</Rtc_RewardSubDesc>
+  <Rtc_RewardTitle>Комната выбора</Rtc_RewardTitle>
+  <Rtc_RewardUnit>Бесплатный боец: {0}</Rtc_RewardUnit>
+  <Rtc_RewardUnitChoice>Боец (ранги {0}–{1}, выбрать одного)</Rtc_RewardUnitChoice>
+  <Rtc_RewardUnitChoiceDesc>Выберите одного из трёх случайных бойцов.</Rtc_RewardUnitChoiceDesc>
+  <Rtc_RewardUnitDesc>Бесплатно добавить этого бойца в запас.</Rtc_RewardUnitDesc>
+  <Rtc_RewardWeaponChoice>Готовое снаряжение (выбор 1 из 3)</Rtc_RewardWeaponChoice>
+  <Rtc_RewardWeaponChoiceDesc>Выберите один из 3 случайных готовых (изготовленных) предметов снаряжения.</Rtc_RewardWeaponChoiceDesc>
+  <Rtc_RoundGhostLoseLabel>Раунд {0}: поражение (бой с призраком)</Rtc_RoundGhostLoseLabel>
+  <Rtc_RoundGhostLoseMsg>Раунд {0}: поражение (призрак «{2}») - осталось здоровья {1}</Rtc_RoundGhostLoseMsg>
+  <Rtc_RoundGhostLoseText>Вы проиграли призраку {3}. Выжившие враги: {0}/{1}. Осталось здоровья: {2}.</Rtc_RoundGhostLoseText>
+  <Rtc_RoundGhostWinLabel>Раунд {0}: победа (бой с призраком)</Rtc_RoundGhostWinLabel>
+  <Rtc_RoundGhostWinMsg>Раунд {0}: победа (призрак «{2}») - осталось здоровья {1}</Rtc_RoundGhostWinMsg>
+  <Rtc_RoundGhostWinText>Состав призрака «{3}» побеждён. Выжившие враги: {0}/{1}. Осталось здоровья: {2}.</Rtc_RoundGhostWinText>
+  <Rtc_RoundLoseLabel>Раунд {0}: поражение</Rtc_RoundLoseLabel>
+  <Rtc_RoundLoseMsg>Раунд {0}: поражение — осталось очков здоровья: {1}</Rtc_RoundLoseMsg>
+  <Rtc_RoundLoseText>Ваш отряд проиграл. Выживших врагов: {0}/{1}. Осталось очков здоровья: {2}.</Rtc_RoundLoseText>
+  <Rtc_RoundWinLabel>Раунд {0}: победа</Rtc_RoundWinLabel>
+  <Rtc_RoundWinMsg>Раунд {0}: победа — осталось очков здоровья: {1}</Rtc_RoundWinMsg>
+  <Rtc_RoundWinText>Ваш отряд победил! Выживших врагов: {0}/{1}. Осталось очков здоровья: {2}.</Rtc_RoundWinText>
+  <Rtc_RowName_Back>Задний ряд</Rtc_RowName_Back>
+  <Rtc_RowName_Front>Передний ряд</Rtc_RowName_Front>
+  <Rtc_RowName_Mid>Средний ряд</Rtc_RowName_Mid>
+  <Rtc_RowShort_Back>З</Rtc_RowShort_Back>
+  <Rtc_RowShort_Front>П</Rtc_RowShort_Front>
+  <Rtc_RowShort_Mid>С</Rtc_RowShort_Mid>
+  <Rtc_Row_Back>Задний ряд (дальний бой)</Rtc_Row_Back>
+  <Rtc_Row_Front>Передний ряд (ближний бой)</Rtc_Row_Front>
+  <Rtc_Row_Mid>Средний ряд (короткая дистанция)</Rtc_Row_Mid>
+  <Rtc_RunEndLabel>RimtoChess окончен</Rtc_RunEndLabel>
+  <Rtc_RunEndText>Партия завершилась на раунде {0}.</Rtc_RunEndText>
+  <Rtc_RunResultClose>Закрыть</Rtc_RunResultClose>
+  <Rtc_RunResultLose>Завершено</Rtc_RunResultLose>
+  <Rtc_RunResultTitle>Результат игры — {0}</Rtc_RunResultTitle>
+  <Rtc_RunResultTitleRanked>Результат рейтинга — {0}</Rtc_RunResultTitleRanked>
+  <Rtc_RunResultWin>Пройдено!</Rtc_RunResultWin>
+  <Rtc_RunResult_Buffs>Полученные постоянные усиления</Rtc_RunResult_Buffs>
+  <Rtc_RunResult_CoinA>Фишки RimtoChess</Rtc_RunResult_CoinA>
+  <Rtc_RunResult_CoinB>Узлы силы</Rtc_RunResult_CoinB>
+  <Rtc_RunResult_Demote>Понижение</Rtc_RunResult_Demote>
+  <Rtc_RunResult_Hp>Оставшееся здоровье</Rtc_RunResult_Hp>
+  <Rtc_RunResult_LpDelta>ОЛ {0}</Rtc_RunResult_LpDelta>
+  <Rtc_RunResult_Payout>Возвращено серебра</Rtc_RunResult_Payout>
+  <Rtc_RunResult_Promote>Повышение!</Rtc_RunResult_Promote>
+  <Rtc_RunResult_Reached>Достигнутый раунд</Rtc_RunResult_Reached>
+  <Rtc_RunResult_Record>Результаты</Rtc_RunResult_Record>
+  <Rtc_RunResult_SilverNet>Прибыль или убыток в серебре</Rtc_RunResult_SilverNet>
+  <Rtc_RunResult_TopDmg>Наибольший урон</Rtc_RunResult_TopDmg>
+  <Rtc_RunResult_TopSyn>Чаще всего используемые синергии</Rtc_RunResult_TopSyn>
+  <Rtc_RunResult_TotalDmg>Всего нанесено урона</Rtc_RunResult_TotalDmg>
+  <Rtc_RunWinLabel>RimtoChess пройден</Rtc_RunWinLabel>
+  <Rtc_RunWinText>Пройден раунд {0}! Осталось очков здоровья: {1}.</Rtc_RunWinText>
+  <Rtc_RunWinTextPaid>Пройден раунд {0}! Осталось очков здоровья: {1}. Взнос: {2} серебра. Выплата: {3} серебра.</Rtc_RunWinTextPaid>
+  <Rtc_SeedApplied>Код генерации {0} применён.</Rtc_SeedApplied>
+  <Rtc_SeedBadChecksum>Неверный код генерации. Похоже, символ пропущен или введён неправильно.</Rtc_SeedBadChecksum>
+  <Rtc_SeedBadFormat>Это не код генерации. Убедитесь, что скопировали весь код, начиная с RTCS1.</Rtc_SeedBadFormat>
+  <Rtc_SeedClear>Сбросить</Rtc_SeedClear>
+  <Rtc_SeedCopied>Код генерации скопирован: {0}</Rtc_SeedCopied>
+  <Rtc_SeedCopyBtn>Копировать код генерации</Rtc_SeedCopyBtn>
+  <Rtc_SeedCopyFailed>Не удалось создать код генерации.</Rtc_SeedCopyFailed>
+  <Rtc_SeedCopyShort>Коп. ключ</Rtc_SeedCopyShort>
+  <Rtc_SeedIsGhostCode>Это код призрака (RTCG2), а не код генерации. Чтобы добавить призрак, откройте на этом экране архив призраков и нажмите в нём «Вставить код».</Rtc_SeedIsGhostCode>
+  <Rtc_SeedLockedTip>Пока применён код генерации, условия партии закреплены за ним. Нажмите «Сбросить», чтобы выбрать их заново.</Rtc_SeedLockedTip>
+  <Rtc_SeedNoRecord>У этого призрака не записан ключ генерации: запись создана до появления этой функции.</Rtc_SeedNoRecord>
+  <Rtc_SeedNone>Код генерации не задан. Партия начнётся со случайным ключом.</Rtc_SeedNone>
+  <Rtc_SeedPaste>Вставить код генерации</Rtc_SeedPaste>
+  <Rtc_SeedSet>Код генерации {0} применён. Сложность и режим установлены в соответствии с ним.</Rtc_SeedSet>
+  <Rtc_SeedSetMismatch>Ключ {0} применён. Наборы модов различаются, поэтому партия не будет идентичной.</Rtc_SeedSetMismatch>
+  <Rtc_SeedShareShort>Отправить ключ</Rtc_SeedShareShort>
+  <Rtc_SelectRoom>Комната выбора</Rtc_SelectRoom>
+  <Rtc_SelectUnitFirst>Сначала выберите бойца.</Rtc_SelectUnitFirst>
+  <Rtc_Sell>Продать (+{0})</Rtc_Sell>
+  <Rtc_Set_AllowModRaceRanked>Разрешить расы из модов в рейтинговой игре</Rtc_Set_AllowModRaceRanked>
+  <Rtc_Set_AllowModRaceRankedTip>Бойцы рас и фракций из модов могут появляться в рейтинговой игре. По умолчанию выключено ради равных условий: доступны только бойцы основной игры.</Rtc_Set_AllowModRaceRankedTip>
+  <Rtc_Set_ArenaSize>Размер карты RimtoChess: {0} × {0}</Rtc_Set_ArenaSize>
+  <Rtc_Set_AutoRoster>Автоматически включать расы из модов</Rtc_Set_AutoRoster>
+  <Rtc_Set_AutoRosterTip>Автоматически добавляет боеспособных персонажей и существ из установленных модов в ассортимент магазина. Записи, подготовленные вручную, имеют приоритет. Автоматически назначенные ранги и теги могут быть неточными.</Rtc_Set_AutoRosterTip>
+  <Rtc_Set_BlockModSig>Отключить особые эффекты синергий из модов</Rtc_Set_BlockModSig>
+  <Rtc_Set_BlockModSigTip>Отключает только особые эффекты рас и фракций из модов; эффекты основной игры сохраняются. Настройка «Отключить особые эффекты синергий» выше уже включает это ограничение.</Rtc_Set_BlockModSigTip>
+  <Rtc_Set_BlockSig>Отключить особые эффекты синергий</Rtc_Set_BlockSig>
+  <Rtc_Set_BlockSigTip>Отключает все особые эффекты синергий, включая эффекты из модов. Обычные бонусы к характеристикам сохраняются. Для тех, кто предпочитает играть без особых эффектов.</Rtc_Set_BlockSigTip>
+  <Rtc_Set_CeIncludeMechs>Включать механоидов с Combat Extended</Rtc_Set_CeIncludeMechs>
+  <Rtc_Set_CeIncludeMechsTip>При включённом Combat Extended механоиды по умолчанию исключаются из состава: CE делает их слишком сильными. Включите настройку, чтобы всё же добавить их. Изменение действует со следующей партии.</Rtc_Set_CeIncludeMechsTip>
+  <Rtc_Set_DebugLog>Подробная отладочная запись</Rtc_Set_DebugLog>
+  <Rtc_Set_DetailedLog>Подробный журнал</Rtc_Set_DetailedLog>
+  <Rtc_Set_DetailedLogTip>Выводит подробную диагностическую информацию в консоль разработчика и журнал. Для отчёта об ошибке включите настройку, воспроизведите проблему и приложите Player.log. При обычной игре лучше оставить выключенной.</Rtc_Set_DetailedLogTip>
+  <Rtc_Set_DiscordShare>Показывать кнопки отправки в Discord</Rtc_Set_DiscordShare>
+  <Rtc_Set_DiscordShareTip>Показывает кнопки отправки в Discord в окне результатов и архиве призраков. Нажатие публикует код в общедоступном канале сообщества RimtoChess. Если отключить, останется только копирование в буфер обмена.</Rtc_Set_DiscordShareTip>
+  <Rtc_Set_MainMenuButton>Показывать режим RimtoChess в главном меню</Rtc_Set_MainMenuButton>
+  <Rtc_Set_MainMenuButtonTip>Показывает в главном меню кнопку «Режим RimtoChess», запускающую игру одним нажатием. Отключите, чтобы скрыть кнопку. Изменение применяется сразу.</Rtc_Set_MainMenuButtonTip>
+  <Rtc_Set_RoundResult>Уведомление о результате раунда</Rtc_Set_RoundResult>
+  <Rtc_Set_RoundResultLetter>Письмо (справа)</Rtc_Set_RoundResultLetter>
+  <Rtc_Set_RoundResultLetterTip>Показывает результат письмом в правой части экрана, с подробностями, включая число выживших врагов.</Rtc_Set_RoundResultLetterTip>
+  <Rtc_Set_RoundResultMsg>Сообщение (вверху экрана)</Rtc_Set_RoundResultMsg>
+  <Rtc_Set_RoundResultMsgTip>Показывает результат кратким сообщением вверху экрана: номер раунда, победа или поражение и оставшиеся очки здоровья.</Rtc_Set_RoundResultMsgTip>
+  <Rtc_Set_ShareName>Имя для публикации</Rtc_Set_ShareName>
+  <Rtc_Set_ShareNameTip>Публикации в Discord будут выходить под этим именем. Оставьте поле пустым, чтобы использовать стандартное имя отправителя. Игра не имеет доступа к вашей учётной записи Discord; из сведений об отправителе передаётся только это имя.</Rtc_Set_ShareNameTip>
+  <Rtc_Set_ShopOriginBalance>Балансировать магазин по происхождению</Rtc_Set_ShopOriginBalance>
+  <Rtc_Set_ShopOriginBalanceTip>Магазин сначала выбирает происхождение, а затем бойца. Так синергии и расы с большим числом карт не вытесняют остальные. При выключенной настройке шанс появления пропорционален числу карт. Изменение действует со следующего обновления магазина.</Rtc_Set_ShopOriginBalanceTip>
+  <Rtc_Set_UseModAbil>Использовать способности из модов</Rtc_Set_UseModAbil>
+  <Rtc_Set_UseModAbilTip>Бойцы рас, добавленных модами, автоматически применяют свои врождённые способности. (Включено по умолчанию)</Rtc_Set_UseModAbilTip>
+  <Rtc_Set_UseVanillaAbil>Использовать способности основной игры</Rtc_Set_UseVanillaAbil>
+  <Rtc_Set_UseVanillaAbilTip>Бойцы на арене могут автоматически применять врождённые способности, в том числе способности своих ксенотипов. По умолчанию выключено: доступны только способности снаряжения.</Rtc_Set_UseVanillaAbilTip>
+  <Rtc_SettingsTab>Настройки</Rtc_SettingsTab>
+  <Rtc_SetupBuyIn>Взнос: {0}</Rtc_SetupBuyIn>
+  <Rtc_SetupCancel>Отмена</Rtc_SetupCancel>
+  <Rtc_SetupChallenge>Режим испытания</Rtc_SetupChallenge>
+  <Rtc_SetupChallengeAuto>В партиях со взносом режим испытания включается обязательно.</Rtc_SetupChallengeAuto>
+  <Rtc_SetupChallengeDim>Режим испытания доступен только в матчах со взносом.</Rtc_SetupChallengeDim>
+  <Rtc_SetupChallengeTip>В начале партии случайным образом выбираются два постоянных усиления или ослабления. Чем выше сложность, тем больше ослаблений.</Rtc_SetupChallengeTip>
+  <Rtc_SetupDifficulty>Сложность</Rtc_SetupDifficulty>
+  <Rtc_SetupFree>Бесплатно</Rtc_SetupFree>
+  <Rtc_SetupFreeNote>Свободный режим: серебро не тратится и не возвращается.</Rtc_SetupFreeNote>
+  <Rtc_SetupInfinite>Бесконечный режим</Rtc_SetupInfinite>
+  <Rtc_SetupInfiniteTip>Игра продолжается после 30-го раунда. Вступительного взноса нет; сложность — только нормальная. С каждым раундом враги становятся всё сильнее. Игра заканчивается, когда очки здоровья опустятся до 0 или вы сдадитесь. Жетоны исцеления не появляются.</Rtc_SetupInfiniteTip>
+  <Rtc_SetupMaxAfford>Макс. ({0})</Rtc_SetupMaxAfford>
+  <Rtc_SetupPayoutNote>{0}: возврат до {1}%. Взнос: {2}; выплата: {3} при полном здоровье или {4} при 50% здоровья.</Rtc_SetupPayoutNote>
+  <Rtc_SetupPayoutShort>{0}: возврат до {1}%</Rtc_SetupPayoutShort>
+  <Rtc_SetupRiskNote>Выдержите раунд {0}, чтобы получить серебро обратно. При поражении или досрочном выходе выплаты нет.</Rtc_SetupRiskNote>
+  <Rtc_SetupShort>Нужно ещё {0} серебра</Rtc_SetupShort>
+  <Rtc_SetupShortened>Короткий режим</Rtc_SetupShortened>
+  <Rtc_SetupShortenedTip>Всего 21 раунд; боссы появляются в раундах 7, 14 и 21. Можно выбрать взнос и сложность. Проценты не начисляются: каждый раунд вы получаете фиксированный доход с поправкой ±1 монета в зависимости от сложности. Чтобы компенсировать меньшую длительность игры, враги немного сильнее. Нельзя совместить с бесконечным режимом.</Rtc_SetupShortenedTip>
+  <Rtc_SetupSilverOwned>Серебро колонии: {0}</Rtc_SetupSilverOwned>
+  <Rtc_SetupStart>Начать</Rtc_SetupStart>
+  <Rtc_SetupTitle>RimtoChess: Свободная игра</Rtc_SetupTitle>
+  <Rtc_ShareAliasHint>Необязательно. Оставьте поле пустым, чтобы показывать только дату.</Rtc_ShareAliasHint>
+  <Rtc_ShareAliasLabel>Название записи</Rtc_ShareAliasLabel>
+  <Rtc_ShareNameHint>Под этим именем публикуются сообщения в Discord. Его можно в любой момент изменить в настройках мода.</Rtc_ShareNameHint>
+  <Rtc_ShareNameLabel>Имя для публикации</Rtc_ShareNameLabel>
+  <Rtc_ShareTitle>Поделиться в Discord</Rtc_ShareTitle>
+  <Rtc_ShopBalance>Фишки RimtoChess: {0}</Rtc_ShopBalance>
+  <Rtc_ShopBought>Покупка доставлена в транспортной капсуле: {0}.</Rtc_ShopBought>
+  <Rtc_ShopBuy>Купить</Rtc_ShopBuy>
+  <Rtc_ShopBuyPrice>Купить {0}</Rtc_ShopBuyPrice>
+  <Rtc_ShopCatArmor>Броня</Rtc_ShopCatArmor>
+  <Rtc_ShopCatConsumable>Расходуемые предметы</Rtc_ShopCatConsumable>
+  <Rtc_ShopCatWeapon>Оружие</Rtc_ShopCatWeapon>
+  <Rtc_ShopPrice>{0}</Rtc_ShopPrice>
+  <Rtc_ShopReroll>Пополнение через ~{0} дн.</Rtc_ShopReroll>
+  <Rtc_ShopRerollBtn>Обновить ассортимент ({0})</Rtc_ShopRerollBtn>
+  <Rtc_ShopSold>Продано</Rtc_ShopSold>
+  <Rtc_ShopSoloDisabled>Магазин недоступен в одиночном режиме.</Rtc_ShopSoloDisabled>
+  <Rtc_ShopSynBuffDesc>Бойцы с синергией «{0}» чаще появляются в магазине.</Rtc_ShopSynBuffDesc>
+  <Rtc_ShopSynBuffLabel>Предпочтение: {0}</Rtc_ShopSynBuffLabel>
+  <Rtc_ShopTitle>Магазин RimtoChess</Rtc_ShopTitle>
+  <Rtc_Shop_NotEnough>Недостаточно фишек RimtoChess.</Rtc_Shop_NotEnough>
+  <Rtc_SigBp_Anomaly>Жуткое размножение {0}%</Rtc_SigBp_Anomaly>
+  <Rtc_SigBp_Empire>Имперская гвардия</Rtc_SigBp_Empire>
+  <Rtc_SigBp_EmpireGrand>Имперская гвардия (великое войско)</Rtc_SigBp_EmpireGrand>
+  <Rtc_SigBp_EmpireRoyal>Дарование титула: +{0} очк.</Rtc_SigBp_EmpireRoyal>
+  <Rtc_SigBp_Entity>Неумирающий ужас {0}%</Rtc_SigBp_Entity>
+  <Rtc_SigBp_Fierce>Неистовство: ярость +{0}%</Rtc_SigBp_Fierce>
+  <Rtc_SigBp_Fleshbeast>Бесконечное деление {0}%</Rtc_SigBp_Fleshbeast>
+  <Rtc_SigBp_Guild>Дивиденд +{0} монет/раунд</Rtc_SigBp_Guild>
+  <Rtc_SigBp_LightMech>Автозащита: раз в {0} раундов</Rtc_SigBp_LightMech>
+  <Rtc_SigBp_Mech>Полевое обслуживание каждые {0} побед</Rtc_SigBp_Mech>
+  <Rtc_SigBp_Mercenary>Военный спекулянт: макс. +{0}%</Rtc_SigBp_Mercenary>
+  <Rtc_SigBp_Orbital>Низкоорбитальный десант: бойцов — {0}</Rtc_SigBp_Orbital>
+  <Rtc_SigBp_Outlander>Торговля: раз в {0} раундов</Rtc_SigBp_Outlander>
+  <Rtc_SigBp_Pirate>Грабёж: раз в {0} раундов</Rtc_SigBp_Pirate>
+  <Rtc_SigBp_Predator>Добить слабых: порог {0}%</Rtc_SigBp_Predator>
+  <Rtc_SigBp_Sniper>Скрытый выстрел: невидимость на {0} с</Rtc_SigBp_Sniper>
+  <Rtc_SigBp_Tribal>Племенное подкрепление {0}%</Rtc_SigBp_Tribal>
+  <Rtc_SigCurOff>&gt; Сейчас неактивно</Rtc_SigCurOff>
+  <Rtc_SigCurOn>&gt; Сейчас действует уровень {0}</Rtc_SigCurOn>
+  <Rtc_SigDesc_Anomaly>[Особый эффект] Жуткое размножение
+При покупке аномального бойца можно получить его бесплатную копию.</Rtc_SigDesc_Anomaly>
+  <Rtc_SigDesc_Empire>[Особый эффект] Имперская гвардия
+Бойцы Империи получают бонусы к скорости передвижения и прицеливания. Чем их больше, тем меньше урона они получают.</Rtc_SigDesc_Empire>
+  <Rtc_SigDesc_EmpireRoyal>[Особый эффект] Дарование титула
+Каждый раунд приносит очки титула. При достижении определённого количества очков вы получаете добычу. По мере прохождения раундов её редкость повышается.</Rtc_SigDesc_EmpireRoyal>
+  <Rtc_SigDesc_Entity>[Особый эффект] Неумирающий ужас\nВ начале боя каждый боец-сущность может получить отказ от смерти: пережить один смертельный удар и исцелить раны.</Rtc_SigDesc_Entity>
+  <Rtc_SigDesc_Fierce>[Особый эффект] Боевое неистовство
+Чем ниже здоровье, тем больше урон и быстрее атаки в ближнем бою.</Rtc_SigDesc_Fierce>
+  <Rtc_SigDesc_Fleshbeast>[Особый эффект] Бесконечное деление
+После гибели биошмат может разделиться: вместо него появится вдвое больше существ. Его потомство получает такой же шанс на деление.</Rtc_SigDesc_Fleshbeast>
+  <Rtc_SigDesc_Guild>[Особый эффект] Дивиденд
+В начале каждого раунда гильдия выплачивает дивиденд в монетах.</Rtc_SigDesc_Guild>
+  <Rtc_SigDesc_LightMech>[Особый эффект] Автозащита
+Каждые несколько раундов вы получаете жетон турели.</Rtc_SigDesc_LightMech>
+  <Rtc_SigDesc_Mech>[Особый эффект] Полевое обслуживание
+Победы накапливаются в счётчике. Через определённое число побед вы получаете случайное изготовленное оружие.</Rtc_SigDesc_Mech>
+  <Rtc_SigDesc_Mercenary>[Особый эффект] Военный спекулянт\nЧем больше у вас монет, тем больший урон наносят наёмники.</Rtc_SigDesc_Mercenary>
+  <Rtc_SigDesc_Orbital>[Особый эффект] Низкоорбитальный десант
+Через 30 секунд после начала боя копии ваших орбитальных бойцов, выставленных на поле, высаживаются в тылу врага и вступают в бой. Количество звёзд сохраняется.</Rtc_SigDesc_Orbital>
+  <Rtc_SigDesc_Outlander>[Особый эффект] Торговля
+Каждые несколько раундов вы получаете случайный расходуемый предмет.</Rtc_SigDesc_Outlander>
+  <Rtc_SigDesc_Pirate>[Особый эффект] Грабёж
+Каждые несколько раундов вы получаете случайного пирата. Чем выше ваш уровень, тем выше его ранг.</Rtc_SigDesc_Pirate>
+  <Rtc_SigDesc_Predator>[Особый эффект] Добить слабых
+Мгновенно убивает врагов с низким здоровьем.</Rtc_SigDesc_Predator>
+  <Rtc_SigDesc_Sniper>[Особый эффект] Скрытый выстрел
+При наличии двух снайперов бойцы ненадолго становятся невидимыми в начале боя. Маскировочное снаряжение продлевает этот эффект.</Rtc_SigDesc_Sniper>
+  <Rtc_SigDesc_Tribal>[Особый эффект] Племенное подкрепление
+В начале каждого боя могут появиться копии бойцов племени.</Rtc_SigDesc_Tribal>
+  <Rtc_Sig_Empire>Легион: ранг {0}</Rtc_Sig_Empire>
+  <Rtc_Sig_Entity>Бессмертие {0}%</Rtc_Sig_Entity>
+  <Rtc_Sig_Fierce>Ярость +{0}%</Rtc_Sig_Fierce>
+  <Rtc_Sig_Fleshbeast>Бесконечное деление {0}%</Rtc_Sig_Fleshbeast>
+  <Rtc_Sig_Guild>Дивиденд: +{0}/раунд</Rtc_Sig_Guild>
+  <Rtc_Sig_Mech>Утилизация {0}/{1}</Rtc_Sig_Mech>
+  <Rtc_Sig_Merc>Урон +{0}%</Rtc_Sig_Merc>
+  <Rtc_Sig_Nobility>Титул {0}/5</Rtc_Sig_Nobility>
+  <Rtc_Sig_Orbital>Десант {0}</Rtc_Sig_Orbital>
+  <Rtc_Sig_Pirate>Грабёж: {0}/{1} раундов</Rtc_Sig_Pirate>
+  <Rtc_Sig_Predator>Добивание {0}%</Rtc_Sig_Predator>
+  <Rtc_Sig_Sniper>Маскировка: {0} с</Rtc_Sig_Sniper>
+  <Rtc_Sig_Trade>Торговля: {0}/{1} раундов</Rtc_Sig_Trade>
+  <Rtc_Sig_Tribal>Дублирование {0}%</Rtc_Sig_Tribal>
+  <Rtc_Sig_Turret>Турель: {0}/{1} раундов</Rtc_Sig_Turret>
+  <Rtc_SlotsFull>Все ячейки снаряжения заняты (макс. {0}).</Rtc_SlotsFull>
+  <Rtc_SoloModeButton>Режим RimtoChess</Rtc_SoloModeButton>
+  <Rtc_SpawnFailed>Не удалось начать бой: ошибка создания бойца, возможно, из-за конфликта модов. Проверьте журнал.</Rtc_SpawnFailed>
+  <Rtc_SpecialDesc_Aura>Усиливает союзных бойцов поблизости.</Rtc_SpecialDesc_Aura>
+  <Rtc_SpecialDesc_Lifesteal>Восстанавливает здоровье в размере части нанесённого урона.</Rtc_SpecialDesc_Lifesteal>
+  <Rtc_SpecialDesc_Regen>Медленно исцеляет раны во время боя.</Rtc_SpecialDesc_Regen>
+  <Rtc_SpecialDesc_Thorns>Отражает часть урона ближнего боя обратно атакующему.</Rtc_SpecialDesc_Thorns>
+  <Rtc_SpecialTag>особый</Rtc_SpecialTag>
+  <Rtc_SpecialTokenHint>Перетащите жетон на готовый предмет снаряжения, надетый на бойца.</Rtc_SpecialTokenHint>
+  <Rtc_Special_Aura>Командная аура</Rtc_Special_Aura>
+  <Rtc_Special_Lifesteal>Похищение жизни</Rtc_Special_Lifesteal>
+  <Rtc_Special_Regen>Регенерация</Rtc_Special_Regen>
+  <Rtc_Special_Thorns>Шипы</Rtc_Special_Thorns>
+  <Rtc_StartChallengeFight>Начать испытание</Rtc_StartChallengeFight>
+  <Rtc_StartFight>Начать бой</Rtc_StartFight>
+  <Rtc_StartRanked>RimtoChess: рейтинговая игра</Rtc_StartRanked>
+  <Rtc_StartRankedDesc>Начать рейтинговую партию. Текущий ранг: {0} ({1} очков лиги). По итогам партии ранг может повыситься или понизиться.</Rtc_StartRankedDesc>
+  <Rtc_StartRun>RimtoChess: Свободная игра</Rtc_StartRun>
+  <Rtc_StartRunDesc>Начните RimtoChess: покупайте, объединяйте и расставляйте бойцов, сражаясь со всё более сильными врагами.</Rtc_StartRunDesc>
+  <Rtc_StatAll>Все</Rtc_StatAll>
+  <Rtc_StatGrp_Battle>Бои</Rtc_StatGrp_Battle>
+  <Rtc_StatGrp_Collect>Коллекция</Rtc_StatGrp_Collect>
+  <Rtc_StatGrp_Rank>Рейтинг</Rtc_StatGrp_Rank>
+  <Rtc_StatGrp_Record>Рекорд</Rtc_StatGrp_Record>
+  <Rtc_StatReset>Сбросить статистику</Rtc_StatReset>
+  <Rtc_StatResetConfirm>Сбросить всю статистику?</Rtc_StatResetConfirm>
+  <Rtc_StatTab_Infinite>Бесконечный</Rtc_StatTab_Infinite>
+  <Rtc_StatTab_Ranked>Стандартный рейтинг</Rtc_StatTab_Ranked>
+  <Rtc_StatTab_RankedShort>Короткий рейтинг</Rtc_StatTab_RankedShort>
+  <Rtc_Stat_BattleLosses>Поражения в боях</Rtc_Stat_BattleLosses>
+  <Rtc_Stat_BattleWinRate>Процент побед в боях</Rtc_Stat_BattleWinRate>
+  <Rtc_Stat_BattleWins>Победы в боях</Rtc_Stat_BattleWins>
+  <Rtc_Stat_BestRound>Лучший достигнутый раунд</Rtc_Stat_BestRound>
+  <Rtc_Stat_BossKills>Побеждено боссов</Rtc_Stat_BossKills>
+  <Rtc_Stat_Clears>Успешные прохождения</Rtc_Stat_Clears>
+  <Rtc_Stat_Combines3>Объединения до 3 звёзд</Rtc_Stat_Combines3>
+  <Rtc_Stat_Combines4>Объединения до 4 звёзд</Rtc_Stat_Combines4>
+  <Rtc_Stat_Defeats>Поражения</Rtc_Stat_Defeats>
+  <Rtc_Stat_LongestStreak>Самая длинная серия побед</Rtc_Stat_LongestStreak>
+  <Rtc_Stat_RecentStreak>Текущая серия побед</Rtc_Stat_RecentStreak>
+  <Rtc_Stat_RunWinRate>Процент побед</Rtc_Stat_RunWinRate>
+  <Rtc_Stat_Runs>Партии</Rtc_Stat_Runs>
+  <Rtc_Stat_SpecialItems>Создано (особых) предметов</Rtc_Stat_SpecialItems>
+  <Rtc_Stat_TopSynergy>Чаще всего используемая синергия #{0}</Rtc_Stat_TopSynergy>
+  <Rtc_Stat_UnitsBought>Куплено бойцов</Rtc_Stat_UnitsBought>
+  <Rtc_StatsTab>Статистика</Rtc_StatsTab>
+  <Rtc_SuddenDeath>Внезапная смерть</Rtc_SuddenDeath>
+  <Rtc_SynBpLine>Бойцов: {0}. Эффект: {1}</Rtc_SynBpLine>
+  <Rtc_SynCat_Animal>Животное</Rtc_SynCat_Animal>
+  <Rtc_SynCat_Apex>Вершина (один боец)</Rtc_SynCat_Apex>
+  <Rtc_SynCat_Faction>Фракция</Rtc_SynCat_Faction>
+  <Rtc_SynCat_ModRace>Раса из мода</Rtc_SynCat_ModRace>
+  <Rtc_SynCat_Other>Прочее</Rtc_SynCat_Other>
+  <Rtc_SynCat_Role>Роль</Rtc_SynCat_Role>
+  <Rtc_SynCat_Trait>Черта</Rtc_SynCat_Trait>
+  <Rtc_SynDesc_Anomaly>Улучшение особого эффекта «Жуткое размножение»: при покупке аномального бойца шанс получить бесплатную копию повышается до {0}/{1}/{2}% при 2/4/6 аномальных бойцах соответственно.</Rtc_SynDesc_Anomaly>
+  <Rtc_SynDesc_Fierce>Улучшение особого эффекта «Боевое неистовство»: свирепые звери наносят больше урона при низком здоровье. Максимальная прибавка повышается до {0}/{1}/{2}% при 2/4/6 свирепых зверях соответственно.</Rtc_SynDesc_Fierce>
+  <Rtc_SynDesc_FierceCharge>Инстинкт натиска: получает на {0}% меньше урона до первого попадания в ближнем бою, но не дольше 20 с</Rtc_SynDesc_FierceCharge>
+  <Rtc_SynDesc_Fleshbeast>Улучшение особого эффекта «Бесконечное деление»: при 2/4 биошматах шанс разделиться надвое после гибели повышается с {0} до {1}. Потомки могут делиться с той же вероятностью.</Rtc_SynDesc_Fleshbeast>
+  <Rtc_SynDesc_Guild>Улучшение особого эффекта «Дивиденд»: при 2/4 бойцах гильдии выплата за раунд повышается с {0} до {1} монет.</Rtc_SynDesc_Guild>
+  <Rtc_SynDesc_Mech>Улучшение особого эффекта «Полевое обслуживание»: при 2/4/6 механоидах количество побед для получения случайного изготовленного оружия сокращается с {0} до {1}.</Rtc_SynDesc_Mech>
+  <Rtc_SynDesc_Mercenary>Улучшение особого эффекта «Военный спекулянт»: чем больше у вас монет, тем больше урона наносят наёмники. Бонусы для запасов до 30, от 31 до 50 и от 51 монеты соответственно: при 2 наёмниках — {0}; при 4 — {1}; при 6 — {2}.</Rtc_SynDesc_Mercenary>
+  <Rtc_SynDesc_Orbital>Улучшение особого эффекта «Низкоорбитальный десант»: при 2/4/6 орбитальных бойцах размер подкрепления повышается с {0} до {1}.</Rtc_SynDesc_Orbital>
+  <Rtc_SynDesc_PredHunt>Охотничий инстинкт — убийства в ближнем бою восстанавливают {0}% здоровья</Rtc_SynDesc_PredHunt>
+  <Rtc_SynDesc_RoyalMix>Уклонение +{0} · Порог боли +{1}</Rtc_SynDesc_RoyalMix>
+  <Rtc_SynDesc_Tribal>Улучшение особого эффекта «Племенное подкрепление»: в начале боя шанс появления бесплатной копии каждого бойца племени повышается до {0}/{1}/{2}% при 2/4/6 бойцах племени соответственно.</Rtc_SynDesc_Tribal>
+  <Rtc_SynEffRegen>Восстанавливает +{0} здоровья в секунду</Rtc_SynEffRegen>
+  <Rtc_SynEff_Beast1>Звери получают +20% ОЗ, все союзные животные получают на 4% меньше урона</Rtc_SynEff_Beast1>
+  <Rtc_SynEff_Beast2>Звери получают +50% ОЗ, все союзные животные получают на 10% меньше урона</Rtc_SynEff_Beast2>
+  <Rtc_SynFav>Избранное</Rtc_SynFav>
+  <Rtc_SynFavTip>Режим изменения избранного. Включите, чтобы выбрать отслеживаемые синергии флажками. Выключение скрывает флажки, но сохраняет выбор и голубую подсветку. Избранное действует только до конца текущей партии; в новой ничего не отмечено.</Rtc_SynFavTip>
+  <Rtc_SynGuide>Синергии</Rtc_SynGuide>
+  <Rtc_SynGuideDumpLog>Записать состав в журнал</Rtc_SynGuideDumpLog>
+  <Rtc_SynGuideDumped>Полный состав записан в Player.log.</Rtc_SynGuideDumped>
+  <Rtc_SynGuideFilterAll>Все</Rtc_SynGuideFilterAll>
+  <Rtc_SynGuideFilterPick>Выбрать синергию</Rtc_SynGuideFilterPick>
+  <Rtc_SynGuideLegend>Справочник по бойцам, доступным в магазине этой партии.</Rtc_SynGuideLegend>
+  <Rtc_SynGuideNoUnits>(нет в текущем составе)</Rtc_SynGuideNoUnits>
+  <Rtc_SynGuideSearch>Найти</Rtc_SynGuideSearch>
+  <Rtc_SynGuideTitle>Справочник синергий</Rtc_SynGuideTitle>
+  <Rtc_SynGuideUnits>Бойцы ({0}):</Rtc_SynGuideUnits>
+  <Rtc_SynIncomplete>⚠ Недостижимо {0}/{1}</Rtc_SynIncomplete>
+  <Rtc_SynNeedPrev>Сначала откройте предыдущий узел</Rtc_SynNeedPrev>
+  <Rtc_SynNeedWins>Нужно побед в раундах: {0}</Rtc_SynNeedWins>
+  <Rtc_SynNone>Синергии не настроены.</Rtc_SynNone>
+  <Rtc_SynOptionLabel>{0}   Открыто {1}/{2}   (Побед {3})</Rtc_SynOptionLabel>
+  <Rtc_SynPickHint>Выберите синергию.</Rtc_SynPickHint>
+  <Rtc_SynPinTip>Отслеживать синергию: нужные вам синергии подсвечиваются голубым. Эта отметка не зависит от подсветки достигнутого второго или третьего уровня.</Rtc_SynPinTip>
+  <Rtc_SynProgress>Победы в раундах {0} / {1}</Rtc_SynProgress>
+  <Rtc_SynReset>Сбросить эту синергию</Rtc_SynReset>
+  <Rtc_SynResetConfirm>Сбросить все узлы улучшений синергии «{0}»? (Остальные синергии сохранятся.)</Rtc_SynResetConfirm>
+  <Rtc_SynRoundWins>Победы в раундах с этой синергией: {0}</Rtc_SynRoundWins>
+  <Rtc_SynStat_AimingAccuracy>Точность стрельбы</Rtc_SynStat_AimingAccuracy>
+  <Rtc_SynStat_AimingDelay>Сокращение времени прицеливания</Rtc_SynStat_AimingDelay>
+  <Rtc_SynStat_ArmorPen>Бронепробитие</Rtc_SynStat_ArmorPen>
+  <Rtc_SynStat_ArmorRating>Броня</Rtc_SynStat_ArmorRating>
+  <Rtc_SynStat_ChargeInstinct>Инстинкт натиска</Rtc_SynStat_ChargeInstinct>
+  <Rtc_SynStat_Damage>Урон</Rtc_SynStat_Damage>
+  <Rtc_SynStat_Dodge>Уклонение</Rtc_SynStat_Dodge>
+  <Rtc_SynStat_HuntInstinct>Инстинкт охоты</Rtc_SynStat_HuntInstinct>
+  <Rtc_SynStat_IncomingDamage>Снижение получаемого урона</Rtc_SynStat_IncomingDamage>
+  <Rtc_SynStat_MaxHp>Здоровье</Rtc_SynStat_MaxHp>
+  <Rtc_SynStat_MeleeCooldown>Скорость атаки в ближнем бою</Rtc_SynStat_MeleeCooldown>
+  <Rtc_SynStat_MeleeDamage>Урон в ближнем бою</Rtc_SynStat_MeleeDamage>
+  <Rtc_SynStat_MeleeHit>Точность в ближнем бою</Rtc_SynStat_MeleeHit>
+  <Rtc_SynStat_MoveSpeed>Скорость передвижения</Rtc_SynStat_MoveSpeed>
+  <Rtc_SynStat_PainThreshold>Порог боли</Rtc_SynStat_PainThreshold>
+  <Rtc_SynStat_Regen>Регенерация здоровья</Rtc_SynStat_Regen>
+  <Rtc_SynStat_Signature>Улучшение особого эффекта</Rtc_SynStat_Signature>
+  <Rtc_SynTip>Размещено: {0}    Пороги: {1}</Rtc_SynTip>
+  <Rtc_SynergiesLabel>Синергии (учитываются бойцы на поле)</Rtc_SynergiesLabel>
+  <Rtc_Tag_Armored>Бронированный</Rtc_Tag_Armored>
+  <Rtc_Tag_Beast>Зверь</Rtc_Tag_Beast>
+  <Rtc_Tag_Elite>Элита</Rtc_Tag_Elite>
+  <Rtc_Tag_Empire>Империя</Rtc_Tag_Empire>
+  <Rtc_Tag_Explosive>Взрывной</Rtc_Tag_Explosive>
+  <Rtc_Tag_Fierce>Свирепый</Rtc_Tag_Fierce>
+  <Rtc_Tag_Heavy>Тяжёлый</Rtc_Tag_Heavy>
+  <Rtc_Tag_Insect>Инсектоид</Rtc_Tag_Insect>
+  <Rtc_Tag_Mech>Механоид</Rtc_Tag_Mech>
+  <Rtc_Tag_Melee>Ближний бой</Rtc_Tag_Melee>
+  <Rtc_Tag_Predator>Хищник</Rtc_Tag_Predator>
+  <Rtc_Tag_Ranged>Дальний бой</Rtc_Tag_Ranged>
+  <Rtc_Tag_Sniper>Снайпер</Rtc_Tag_Sniper>
+  <Rtc_Tag_Swift>Быстрый</Rtc_Tag_Swift>
+  <Rtc_Tag_Tribal>Племенной</Rtc_Tag_Tribal>
+  <Rtc_TierOdds>Шансы появления на ур. {0}</Rtc_TierOdds>
+  <Rtc_TimerRound>Раунд {0}</Rtc_TimerRound>
+  <Rtc_TipRow>Ряд: {0}</Rtc_TipRow>
+  <Rtc_TipSynergies>Синергии: {0}</Rtc_TipSynergies>
+  <Rtc_TipTags>Теги: {0}</Rtc_TipTags>
+  <Rtc_ToBench>В запас</Rtc_ToBench>
+  <Rtc_Trophy_Bronze>Бронза</Rtc_Trophy_Bronze>
+  <Rtc_Trophy_Gold>Золото</Rtc_Trophy_Gold>
+  <Rtc_Trophy_Platinum>Платина</Rtc_Trophy_Platinum>
+  <Rtc_Trophy_Silver>Серебро</Rtc_Trophy_Silver>
+  <Rtc_TurretFail>Нельзя развернуть турель.</Rtc_TurretFail>
+  <Rtc_TurretHint>Перетащите комплект турели на пустую клетку доски, чтобы установить её.</Rtc_TurretHint>
+  <Rtc_TurretNoReturn>Установленную турель можно перемещать только по доске. Вернуть её в снаряжение нельзя.</Rtc_TurretNoReturn>
+  <Rtc_TurretOccupied>Здесь уже есть персонаж или турель.</Rtc_TurretOccupied>
+  <Rtc_TurretTip>{0}
+Автотурель с собственным источником питания. Сражается только в этом раунде.</Rtc_TurretTip>
+  <Rtc_UnitChoiceEmpty>Нет доступных бойцов.</Rtc_UnitChoiceEmpty>
+  <Rtc_UnitChoicePick>Выбрать</Rtc_UnitChoicePick>
+  <Rtc_UnitChoiceTitle>Выберите бойца</Rtc_UnitChoiceTitle>
+  <Rtc_WlTab>Белый список</Rtc_WlTab>
+  <Rtc_Wl_BlockedTip>Заблокировано чёрным списком и не появится среди доступных бойцов. Снимите блокировку, чтобы снова выбирать.</Rtc_Wl_BlockedTip>
+  <Rtc_Wl_Budget>Зарезервировано приоритетных мест: {0} / 55 бойцов</Rtc_Wl_Budget>
+  <Rtc_Wl_BudgetOver>(записи сверх 55 отбрасываются по порядку)</Rtc_Wl_BudgetOver>
+  <Rtc_Wl_Hint>Отмеченные синергии и расы получают преимущество при подборе ассортимента в начале партии. Изменения действуют со следующей партии и не учитываются в рейтинговой игре.</Rtc_Wl_Hint>
+  <Rtc_Wl_None>Нет доступных синергий.</Rtc_Wl_None>
+  <Rtc_Wl_Reset>Очистить всё</Rtc_Wl_Reset>
+  <Rtc_Wl_ResetConfirm>Очистить белый список?</Rtc_Wl_ResetConfirm>
+  <Rtc_Wl_Row>{0} (бойцов: {1} / требуется: {2})</Rtc_Wl_Row>
+</LanguageData>

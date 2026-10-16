@@ -1,0 +1,163 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RtcBuff_BloodPrice.description>Потеряйте 20 ОЗ. Через 4 раунда получите 2 случайных компонента.</RtcBuff_BloodPrice.description>
+  <RtcBuff_BloodPrice.label>Возьми мою кровь</RtcBuff_BloodPrice.label>
+  <RtcBuff_Champion.description>Значительно повышает все боевые характеристики ваших бойцов.</RtcBuff_Champion.description>
+  <RtcBuff_Champion.label>Мощь чемпиона</RtcBuff_Champion.label>
+  <RtcBuff_CloneHuman.description>Сразу даёт два жетона дублирования и 10 монет.</RtcBuff_CloneHuman.description>
+  <RtcBuff_CloneHuman.label>клонирование человека</RtcBuff_CloneHuman.label>
+  <RtcBuff_Compound.description>Предел дохода от процентов увеличивается на 4 (с 5 до 9 монет за раунд).</RtcBuff_Compound.description>
+  <RtcBuff_Compound.label>Сложный процент</RtcBuff_Compound.label>
+  <RtcBuff_CopyPaste.description>В запас добавляются копии всех бойцов, сейчас стоящих на поле. У каждой копии одна звезда.</RtcBuff_CopyPaste.description>
+  <RtcBuff_CopyPaste.label>Копировать-вставить</RtcBuff_CopyPaste.label>
+  <RtcBuff_CrashCourse.description>Сразу даёт 10 очков опыта.</RtcBuff_CrashCourse.description>
+  <RtcBuff_CrashCourse.label>Ускоренный курс</RtcBuff_CrashCourse.label>
+  <RtcBuff_EliteTraining.description>Бойцы с двумя или более звёздами становятся сильнее.</RtcBuff_EliteTraining.description>
+  <RtcBuff_EliteTraining.label>Элитная подготовка</RtcBuff_EliteTraining.label>
+  <RtcBuff_FastFive.description>Сразу даёт случайного бойца стоимостью пять монет.</RtcBuff_FastFive.description>
+  <RtcBuff_FastFive.label>Быстрая пятёрка</RtcBuff_FastFive.label>
+  <RtcBuff_FastInfinite.description>Покупка опыта стоит на одну монету меньше. При каждом повышении уровня два случайных бойца из магазина бесплатно добавляются в запас.</RtcBuff_FastInfinite.description>
+  <RtcBuff_FastInfinite.label>Быстрая бесконечность</RtcBuff_FastInfinite.label>
+  <RtcBuff_FieldMod.description>Бойцы со снаряжением сражаются лучше.</RtcBuff_FieldMod.description>
+  <RtcBuff_FieldMod.label>Полевая модификация</RtcBuff_FieldMod.label>
+  <RtcBuff_FiftyFifty.description>Каждое обновление магазина с вероятностью 50% даёт ещё одно бесплатное обновление.</RtcBuff_FiftyFifty.description>
+  <RtcBuff_FiftyFifty.label>50:50</RtcBuff_FiftyFifty.label>
+  <RtcBuff_FineWithoutMe.description>Во всех ваших активных синергиях засчитывается один дополнительный боец.</RtcBuff_FineWithoutMe.description>
+  <RtcBuff_FineWithoutMe.label>Справишься без меня?</RtcBuff_FineWithoutMe.label>
+  <RtcBuff_FocusedBuying.description>Бойцы с тегами, совпадающими с тегами ваших бойцов, чаще появляются в магазине.</RtcBuff_FocusedBuying.description>
+  <RtcBuff_FocusedBuying.label>Целенаправленная закупка</RtcBuff_FocusedBuying.label>
+  <RtcBuff_FreshStart.description>Потеряйте все монеты. Через 5 раундов получите потерянное плюс 60.</RtcBuff_FreshStart.description>
+  <RtcBuff_FreshStart.label>Новый шанс</RtcBuff_FreshStart.label>
+  <RtcBuff_FullBench.description>В начале каждого раунда даёт три очка опыта, если в запасе восемь или более бойцов.</RtcBuff_FullBench.description>
+  <RtcBuff_FullBench.label>полный запас</RtcBuff_FullBench.label>
+  <RtcBuff_Fundamentals.description>Точность всех ваших бойцов немного повышается.</RtcBuff_Fundamentals.description>
+  <RtcBuff_Fundamentals.label>Базовая подготовка</RtcBuff_Fundamentals.label>
+  <RtcBuff_GearFlex.description>Сразу даёт два случайных компонента. Каждый новый раунд компоненты, готовое и особое снаряжение в инвентаре заменяются другими предметами соответствующего типа.</RtcBuff_GearFlex.description>
+  <RtcBuff_GearFlex.label>Хвастовство снаряжением</RtcBuff_GearFlex.label>
+  <RtcBuff_GearFlexBig.description>Сразу даёт два случайных готовых предмета снаряжения. Каждый новый раунд компоненты, готовое и особое снаряжение в инвентаре заменяются другими предметами соответствующего типа.</RtcBuff_GearFlexBig.description>
+  <RtcBuff_GearFlexBig.label>Всенародное хвастовство снаряжением</RtcBuff_GearFlexBig.label>
+  <RtcBuff_GiveItBack.description>Каждый боец получает бонус к урону, равный суммарному снижению получаемого им урона.</RtcBuff_GiveItBack.description>
+  <RtcBuff_GiveItBack.label>Верну сполна</RtcBuff_GiveItBack.label>
+  <RtcBuff_GoodComms.description>Даёт 10 бесплатных обновлений магазина.</RtcBuff_GoodComms.description>
+  <RtcBuff_GoodComms.label>Хорошая связь</RtcBuff_GoodComms.label>
+  <RtcBuff_Grand_Anomaly.description>При шести или более бойцах этой группы на поле к обычной синергии добавляется мощный бонус высшей ступени. Также расширяется ассортимент бойцов этой группы в магазине.</RtcBuff_Grand_Anomaly.description>
+  <RtcBuff_Grand_Anomaly.label>Великое войско: аномалии</RtcBuff_Grand_Anomaly.label>
+  <RtcBuff_Grand_Empire.description>При шести или более бойцах этой группы на поле к обычной синергии добавляется мощный бонус высшей ступени. Также расширяется ассортимент бойцов этой группы в магазине.</RtcBuff_Grand_Empire.description>
+  <RtcBuff_Grand_Empire.label>Великое войско: имперский легион</RtcBuff_Grand_Empire.label>
+  <RtcBuff_Grand_EmpireRoyal.description>При шести или более бойцах этой группы на поле к обычной синергии добавляется мощный бонус высшей ступени. Также расширяется ассортимент бойцов этой группы в магазине.</RtcBuff_Grand_EmpireRoyal.description>
+  <RtcBuff_Grand_EmpireRoyal.label>Великое войско: имперская знать</RtcBuff_Grand_EmpireRoyal.label>
+  <RtcBuff_Grand_Entity.description>При шести или более бойцах этой группы на поле к обычной синергии добавляется мощный бонус высшей ступени. Также расширяется ассортимент бойцов этой группы в магазине.</RtcBuff_Grand_Entity.description>
+  <RtcBuff_Grand_Entity.label>Великое войско: сущности</RtcBuff_Grand_Entity.label>
+  <RtcBuff_Grand_Fierce.description>При шести или более бойцах этой группы на поле к обычной синергии добавляется мощный бонус высшей ступени. Также расширяется ассортимент бойцов этой группы в магазине.</RtcBuff_Grand_Fierce.description>
+  <RtcBuff_Grand_Fierce.label>Великое войско: свирепые</RtcBuff_Grand_Fierce.label>
+  <RtcBuff_Grand_LightMech.description>При шести или более бойцах этой группы на поле к обычной синергии добавляется мощный бонус высшей ступени. Также расширяется ассортимент бойцов этой группы в магазине.</RtcBuff_Grand_LightMech.description>
+  <RtcBuff_Grand_LightMech.label>великое войско: лёгкие механоиды</RtcBuff_Grand_LightMech.label>
+  <RtcBuff_Grand_Mech.description>При шести или более бойцах этой группы на поле к обычной синергии добавляется мощный бонус высшей ступени. Также расширяется ассортимент бойцов этой группы в магазине.</RtcBuff_Grand_Mech.description>
+  <RtcBuff_Grand_Mech.label>великое войско: тяжёлые механоиды</RtcBuff_Grand_Mech.label>
+  <RtcBuff_Grand_Mercenary.description>При шести или более бойцах этой группы на поле к обычной синергии добавляется мощный бонус высшей ступени. Также расширяется ассортимент бойцов этой группы в магазине.</RtcBuff_Grand_Mercenary.description>
+  <RtcBuff_Grand_Mercenary.label>Великое войско: наёмники</RtcBuff_Grand_Mercenary.label>
+  <RtcBuff_Grand_Orbital.description>При шести или более бойцах этой группы на поле к обычной синергии добавляется мощный бонус высшей ступени. Также расширяется ассортимент бойцов этой группы в магазине.</RtcBuff_Grand_Orbital.description>
+  <RtcBuff_Grand_Orbital.label>Великое войско: орбитальные силы</RtcBuff_Grand_Orbital.label>
+  <RtcBuff_Grand_Outlander.description>При шести или более бойцах этой группы на поле к обычной синергии добавляется мощный бонус высшей ступени. Также расширяется ассортимент бойцов этой группы в магазине.</RtcBuff_Grand_Outlander.description>
+  <RtcBuff_Grand_Outlander.label>Великое войско: чужаки</RtcBuff_Grand_Outlander.label>
+  <RtcBuff_Grand_Pirate.description>При шести или более бойцах этой группы на поле к обычной синергии добавляется мощный бонус высшей ступени. Также расширяется ассортимент бойцов этой группы в магазине.</RtcBuff_Grand_Pirate.description>
+  <RtcBuff_Grand_Pirate.label>Великое войско: пираты</RtcBuff_Grand_Pirate.label>
+  <RtcBuff_Grand_Predator.description>При шести или более бойцах этой группы на поле к обычной синергии добавляется мощный бонус высшей ступени. Также расширяется ассортимент бойцов этой группы в магазине.</RtcBuff_Grand_Predator.description>
+  <RtcBuff_Grand_Predator.label>Великое войско: хищники</RtcBuff_Grand_Predator.label>
+  <RtcBuff_Grand_Tribal.description>При шести или более бойцах этой группы на поле к обычной синергии добавляется мощный бонус высшей ступени. Также расширяется ассортимент бойцов этой группы в магазине.</RtcBuff_Grand_Tribal.description>
+  <RtcBuff_Grand_Tribal.label>Великое войско: племя</RtcBuff_Grand_Tribal.label>
+  <RtcBuff_Haggle.description>Первая покупка каждого раунда стоит на 1 меньше (минимум 1 монета).</RtcBuff_Haggle.description>
+  <RtcBuff_Haggle.label>Торг</RtcBuff_Haggle.label>
+  <RtcBuff_HazardPay.description>Победа в раунде с боссом приносит дополнительную добычу.</RtcBuff_HazardPay.description>
+  <RtcBuff_HazardPay.label>Надбавка за риск</RtcBuff_HazardPay.label>
+  <RtcBuff_HuntInstinct.description>Животные — хищники, свирепые и дикие звери — быстрее передвигаются.</RtcBuff_HuntInstinct.description>
+  <RtcBuff_HuntInstinct.label>Дикий инстинкт</RtcBuff_HuntInstinct.label>
+  <RtcBuff_IAmBack.description>После победы в раунде с боссом вы получаете монеты в размере общей цены продажи всех ваших бойцов на поле и в запасе.</RtcBuff_IAmBack.description>
+  <RtcBuff_IAmBack.label>Я вернулся</RtcBuff_IAmBack.label>
+  <RtcBuff_IAmLegend.description>В начале боя случайный боец стоимостью 1–3 монеты получает бонус четырёх звёзд.</RtcBuff_IAmLegend.description>
+  <RtcBuff_IAmLegend.label>Я легенда</RtcBuff_IAmLegend.label>
+  <RtcBuff_ItemStacking.description>Два одинаковых готовых предмета, надетых на одного бойца, сливаются в особый предмет. Все его эффекты удваиваются, а способность применяется дважды за бой вместо одного раза, с перезарядкой 10 000 тиков.</RtcBuff_ItemStacking.description>
+  <RtcBuff_ItemStacking.label>перегрузка снаряжением</RtcBuff_ItemStacking.label>
+  <RtcBuff_KeenEye.description>Бойцы тех видов, которые у вас уже есть, чаще появляются в магазине.</RtcBuff_KeenEye.description>
+  <RtcBuff_KeenEye.label>Острый глаз</RtcBuff_KeenEye.label>
+  <RtcBuff_LegendFind.description>Бойцы ранга 5 появляются чаще.</RtcBuff_LegendFind.description>
+  <RtcBuff_LegendFind.label>Охотник за легендами</RtcBuff_LegendFind.label>
+  <RtcBuff_LightInvest.description>Получайте дополнительные монеты в конце каждого раунда.</RtcBuff_LightInvest.description>
+  <RtcBuff_LightInvest.label>Небольшое вложение</RtcBuff_LightInvest.label>
+  <RtcBuff_LootBoard.description>Сразу открывает 10 ящиков с добычей.</RtcBuff_LootBoard.description>
+  <RtcBuff_LootBoard.label>трофейная доска</RtcBuff_LootBoard.label>
+  <RtcBuff_LootSort.description>Бронзовая и серебряная комнаты выбора предлагают дополнительный вариант награды другого типа.</RtcBuff_LootSort.description>
+  <RtcBuff_LootSort.label>Сортировка добычи</RtcBuff_LootSort.label>
+  <RtcBuff_LoveGold.description>Через четыре раунда даёт случайное золотое усиление.</RtcBuff_LoveGold.description>
+  <RtcBuff_LoveGold.label>Люблю золото</RtcBuff_LoveGold.label>
+  <RtcBuff_LoveSilver.description>Через четыре раунда даёт случайное серебряное усиление.</RtcBuff_LoveSilver.description>
+  <RtcBuff_LoveSilver.label>Люблю серебро</RtcBuff_LoveSilver.label>
+  <RtcBuff_MoreBetter.description>Сразу даёт четыре полевых знамени. Однако все ваши синергии ограничиваются первым порогом.</RtcBuff_MoreBetter.description>
+  <RtcBuff_MoreBetter.label>Чем больше, тем лучше</RtcBuff_MoreBetter.label>
+  <RtcBuff_NeedArms.description>Сразу даёт случайный компонент, затем — ещё по одному после каждого раунда с боссом.</RtcBuff_NeedArms.description>
+  <RtcBuff_NeedArms.label>Нужно оружие</RtcBuff_NeedArms.label>
+  <RtcBuff_NotInterest.description>Сразу даёт 40 монет. В начале каждого раунда при наличии 60/70/80 или более монет вы получаете 1/2/3 бесплатных обновления магазина соответственно.</RtcBuff_NotInterest.description>
+  <RtcBuff_NotInterest.label>Проценты... или нет?</RtcBuff_NotInterest.label>
+  <RtcBuff_NoviceMerchant.description>Первое обновление магазина в каждом раунде бесплатно.</RtcBuff_NoviceMerchant.description>
+  <RtcBuff_NoviceMerchant.label>Начинающий торговец</RtcBuff_NoviceMerchant.label>
+  <RtcBuff_OrbitalMore.description>При активной синергии орбитального десанта с вероятностью 33% высаживается один дополнительный боец.</RtcBuff_OrbitalMore.description>
+  <RtcBuff_OrbitalMore.label>Полная орбита</RtcBuff_OrbitalMore.label>
+  <RtcBuff_Phoenix.description>Один раз за партию, когда здоровье опустится до 0, раунд продолжится: здоровье станет равно 40, а вы получите 20 очков опыта и 60 монет.</RtcBuff_Phoenix.description>
+  <RtcBuff_Phoenix.label>Феникс</RtcBuff_Phoenix.label>
+  <RtcBuff_PromoteArt.description>Все ваши бойцы на поле и в запасе превращаются в случайных бойцов на один ранг выше. Звёзды сохраняются; максимальный ранг — 5.</RtcBuff_PromoteArt.description>
+  <RtcBuff_PromoteArt.label>Искусство повышения</RtcBuff_PromoteArt.label>
+  <RtcBuff_QuartermasterGrant.description>Сразу даёт полевое знамя — дополнительное место для бойца на поле.</RtcBuff_QuartermasterGrant.description>
+  <RtcBuff_QuartermasterGrant.label>Дар квартирмейстера</RtcBuff_QuartermasterGrant.label>
+  <RtcBuff_RainyDayFund.description>Сразу даёт 10 монет.</RtcBuff_RainyDayFund.description>
+  <RtcBuff_RainyDayFund.label>Заначка</RtcBuff_RainyDayFund.label>
+  <RtcBuff_RaiseFlag.description>По достижении уровня 9 вы получаете полевое знамя — дополнительное место для бойца на поле.</RtcBuff_RaiseFlag.description>
+  <RtcBuff_RaiseFlag.label>Поднять знамя</RtcBuff_RaiseFlag.label>
+  <RtcBuff_RandyTime.description>Все ваши бойцы и снаряжение заменяются случайными без учёта звёзд и стоимости. Расходуемые предметы и полевые знамёна сохраняются.</RtcBuff_RandyTime.description>
+  <RtcBuff_RandyTime.label>время Ренди Случая!</RtcBuff_RandyTime.label>
+  <RtcBuff_Recycle.description>При продаже бойца его готовое снаряжение разбирается на исходные компоненты. Сразу даёт один готовый предмет снаряжения.</RtcBuff_Recycle.description>
+  <RtcBuff_Recycle.label>Переработка</RtcBuff_Recycle.label>
+  <RtcBuff_RerollCeiling.description>Даёт восемь жетонов дублирования. Неиспользованные жетоны исчезнут в начале следующего раунда.</RtcBuff_RerollCeiling.description>
+  <RtcBuff_RerollCeiling.label>Потолок 3 звёзд</RtcBuff_RerollCeiling.label>
+  <RtcBuff_RimBorder.description>При активной синергии чужаков её бойцы получают +20% здоровья и +5% урона.</RtcBuff_RimBorder.description>
+  <RtcBuff_RimBorder.label>Край? Граница?</RtcBuff_RimBorder.label>
+  <RtcBuff_RowChampions.description>В каждом бою по одному случайному бойцу в переднем, среднем и заднем ряду получают +15% ОЗ и +10% урона.</RtcBuff_RowChampions.description>
+  <RtcBuff_RowChampions.label>Ты стал сильнее, в атаку!</RtcBuff_RowChampions.label>
+  <RtcBuff_Smuggle.description>Вы сразу получаете 1 случайную деталь и 6 монет.</RtcBuff_Smuggle.description>
+  <RtcBuff_Smuggle.label>Контрабанда</RtcBuff_Smuggle.label>
+  <RtcBuff_SpareParts.description>Сразу даёт два случайных компонента снаряжения.</RtcBuff_SpareParts.description>
+  <RtcBuff_SpareParts.label>Запасные детали</RtcBuff_SpareParts.label>
+  <RtcBuff_SpecialSpecial.description>Сразу даёт два жетона усиления.</RtcBuff_SpecialSpecial.description>
+  <RtcBuff_SpecialSpecial.label>Особый из особых</RtcBuff_SpecialSpecial.label>
+  <RtcBuff_SupplyDeal.description>Победа приносит дополнительные монеты, поражение — половину этой суммы.</RtcBuff_SupplyDeal.description>
+  <RtcBuff_SupplyDeal.label>Контракт на снабжение</RtcBuff_SupplyDeal.label>
+  <RtcBuff_Support2.description>Сразу добавляет в запас трёх случайных бойцов ранга 2.</RtcBuff_Support2.description>
+  <RtcBuff_Support2.label>подкрепление (2)</RtcBuff_Support2.label>
+  <RtcBuff_Support3.description>Сразу добавляет в запас двух случайных бойцов ранга 3.</RtcBuff_Support3.description>
+  <RtcBuff_Support3.label>подкрепление (3)</RtcBuff_Support3.label>
+  <RtcBuff_Support4.description>Сразу добавляет в запас одного случайного бойца ранга 4.</RtcBuff_Support4.description>
+  <RtcBuff_Support4.label>подкрепление (4)</RtcBuff_Support4.label>
+  <RtcBuff_Survival.description>Немного усиливает броню всех ваших бойцов.</RtcBuff_Survival.description>
+  <RtcBuff_Survival.label>обучение выживанию</RtcBuff_Survival.label>
+  <RtcBuff_TalentScout.description>Сразу даёт жетон дублирования, а через три раунда — ещё один.</RtcBuff_TalentScout.description>
+  <RtcBuff_TalentScout.label>поиск талантов</RtcBuff_TalentScout.label>
+  <RtcBuff_ThreeLove.description>За каждое выполненное условие боец получает +10% здоровья и +5% урона: ровно три звезды, стоимость три монеты или три предмета снаряжения. Бонусы суммируются.</RtcBuff_ThreeLove.description>
+  <RtcBuff_ThreeLove.label>Люблю тройки</RtcBuff_ThreeLove.label>
+  <RtcBuff_TierIWant.description>После каждых пяти обновлений магазин заполняется пятью бойцами того же ранга, что и боец в первой ячейке переднего ряда.</RtcBuff_TierIWant.description>
+  <RtcBuff_TierIWant.label>нужный мне ранг</RtcBuff_TierIWant.label>
+  <RtcBuff_TribalBond.description>Бойцы племени быстрее передвигаются и становятся сильнее в ближнем бою.</RtcBuff_TribalBond.description>
+  <RtcBuff_TribalBond.label>Племенные узы</RtcBuff_TribalBond.label>
+  <RtcBuff_TribalMass.description>При активной синергии племени каждое успешное дублирование с вероятностью 40% создаёт ещё одну копию.</RtcBuff_TribalMass.description>
+  <RtcBuff_TribalMass.label>сила в численности</RtcBuff_TribalMass.label>
+  <RtcBuff_TrueFlag.description>Бойцы с надетым полевым знаменем получают +30% здоровья и +15% урона.</RtcBuff_TrueFlag.description>
+  <RtcBuff_TrueFlag.label>вот это гарнизон</RtcBuff_TrueFlag.label>
+  <RtcBuff_Undying.description>При активной синергии сущностей каждый полученный отказ от смерти с вероятностью 40% даёт дополнительный заряд.</RtcBuff_Undying.description>
+  <RtcBuff_Undying.label>Я не умру</RtcBuff_Undying.label>
+  <RtcBuff_UndyingMomentum.description>Бонус за серию побед всегда максимален, даже после поражения.</RtcBuff_UndyingMomentum.description>
+  <RtcBuff_UndyingMomentum.label>Непобедимый напор</RtcBuff_UndyingMomentum.label>
+  <RtcBuff_Windfall.description>Сразу даёт 40 монет.</RtcBuff_Windfall.description>
+  <RtcBuff_Windfall.label>Внезапная удача</RtcBuff_Windfall.label>
+  <RtcBuff_XpIsGold.description>Каждое обновление магазина за монеты даёт два очка опыта. Бесплатные обновления не учитываются.</RtcBuff_XpIsGold.description>
+  <RtcBuff_XpIsGold.label>Опыт — это золото</RtcBuff_XpIsGold.label>
+  <RtcBuff_YouAreBest.description>В начале каждого боя случайный союзный боец получает бонус трёх звёзд.</RtcBuff_YouAreBest.description>
+  <RtcBuff_YouAreBest.label>Ты лучший!</RtcBuff_YouAreBest.label>
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BMT_BurningSting.deathMessage>{0}: смертельное ранение жалом.</BMT_BurningSting.deathMessage>
+  <BMT_BurningSting.label>обжигающее жало</BMT_BurningSting.label>
+  <BMT_ParalyzingVenom.deathMessage>{0}: смерть от рваных ран.</BMT_ParalyzingVenom.deathMessage>
+  <BMT_ParalyzingVenom.label>парализующий яд</BMT_ParalyzingVenom.label>
+  <BMT_SuperiorToxicSting.deathMessage>{0}: смертельное ранение жалом.</BMT_SuperiorToxicSting.deathMessage>
+  <BMT_SuperiorToxicSting.label>усиленное ядовитое жало</BMT_SuperiorToxicSting.label>
+  <BMT_ToxicSting.deathMessage>{0}: смертельное ранение жалом.</BMT_ToxicSting.deathMessage>
+  <BMT_ToxicSting.label>ядовитое жало</BMT_ToxicSting.label>
+</LanguageData>

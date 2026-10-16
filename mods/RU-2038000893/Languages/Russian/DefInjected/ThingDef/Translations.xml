@@ -1,0 +1,114 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BMT_ChunkIce.description>Глыба льда, из которой можно вырезать пригодные для строительства блоки.</BMT_ChunkIce.description>
+  <BMT_ChunkIce.label>глыба льда</BMT_ChunkIce.label>
+  <BMT_ChunkSand.description>Глыба спрессованного песка. Из неё можно вырезать пригодные для строительства блоки.</BMT_ChunkSand.description>
+  <BMT_ChunkSand.label>глыба песка</BMT_ChunkSand.label>
+  <BMT_CrystalChitin.description>Кристаллизованный панцирь, часто встречающийся у членистоногих в пещерах с обилием кристаллов.</BMT_CrystalChitin.description>
+  <BMT_CrystalChitin.label>кристаллический панцирь</BMT_CrystalChitin.label>
+  <BMT_DeepChitin.description>Практически негорючий и жаростойкий хитин. Встречается только у существ, обитающих в самых глубоких и жарких областях подземного мира.</BMT_DeepChitin.description>
+  <BMT_DeepChitin.label>глубинный хитин</BMT_DeepChitin.label>
+  <BMT_DenseSandWall.description>Стена из уплотнённого песка. Требует больше песка, но прочнее стены из рыхлого песка.</BMT_DenseSandWall.description>
+  <BMT_DenseSandWall.label>стена из плотного песка</BMT_DenseSandWall.label>
+  <BMT_EggLandOctopusFertilized.description>Оплодотворённое яйцо сухопутного осьминога. В благоприятных условиях из него вылупится маленький осьминог. Яйцо можно есть сырым, но лучше приготовить.</BMT_EggLandOctopusFertilized.description>
+  <BMT_EggLandOctopusFertilized.label>яйцо сухопутного осьминога (оплод.)</BMT_EggLandOctopusFertilized.label>
+  <BMT_EggLandOctopusUnfertilized.description>Неоплодотворённое яйцо сухопутного осьминога. Его можно есть сырым, но лучше приготовить.</BMT_EggLandOctopusUnfertilized.description>
+  <BMT_EggLandOctopusUnfertilized.label>яйцо сухопутного осьминога (неоплод.)</BMT_EggLandOctopusUnfertilized.label>
+  <BMT_EggMaxolotlFertilized.description>Оплодотворённое яйцо исполотля. В благоприятных условиях из него вылупится исполотль. Яйцо можно есть сырым, но лучше приготовить.</BMT_EggMaxolotlFertilized.description>
+  <BMT_EggMaxolotlFertilized.label>яйцо исполотля (оплод.)</BMT_EggMaxolotlFertilized.label>
+  <BMT_EggMaxolotlUnfertilized.description>Неоплодотворённое яйцо исполотля. Его можно есть сырым, но лучше приготовить.</BMT_EggMaxolotlUnfertilized.description>
+  <BMT_EggMaxolotlUnfertilized.label>яйцо исполотля (неоплод.)</BMT_EggMaxolotlUnfertilized.label>
+  <BMT_Filth_Snail_Slime.label>слизь</BMT_Filth_Snail_Slime.label>
+  <BMT_FishFood.description>Корм для рыб из смеси мяса и растительного сырья. Менее питателен, чем комбикорм, зато не портится в воде. Люди могут его есть, но он им очень, очень не нравится.</BMT_FishFood.description>
+  <BMT_FishFood.label>корм для рыб</BMT_FishFood.label>
+  <BMT_FishMeatCore.description>Мясо рыб и сходных с ними существ.</BMT_FishMeatCore.description>
+  <BMT_FishMeatCore.label>рыбное мясо</BMT_FishMeatCore.label>
+  <BMT_Fishskin.description>Кожа рыбы. Обеспечивает слабую защиту.</BMT_Fishskin.description>
+  <BMT_Fishskin.label>рыбья кожа</BMT_Fishskin.label>
+  <BMT_FragileChitin.description>Хитин гигантского насекомого. Обеспечивает слабую защиту.</BMT_FragileChitin.description>
+  <BMT_FragileChitin.label>хрупкий хитин</BMT_FragileChitin.label>
+  <BMT_GastropodMeat.description>Мясо улиток, слизней и сходных с ними существ.</BMT_GastropodMeat.description>
+  <BMT_GastropodMeat.label>мясо брюхоногого моллюска</BMT_GastropodMeat.label>
+  <BMT_GrayChitin.description>Прочный серый хитиновый панцирь.</BMT_GrayChitin.description>
+  <BMT_GrayChitin.label>серый панцирь</BMT_GrayChitin.label>
+  <BMT_HermeticArmor.description>Средняя силовая броня, обеспечивающая максимальную защиту ценой подвижности. Прочные пластины и система фильтрации воздуха, как у костюма химзащиты, делают её тяжёлой, но надёжной. Нейромеметические усилители позволяют носителю двигаться под огромным весом костюма, хотя броня всё равно остаётся громоздкой.
+
+Такую броню используют имперские и корпоративные отряды там, где невозможно дышать: в отравленной атмосфере, под водой или в полном безвоздушье. Дополнительные системы очищают кровь от токсинов.</BMT_HermeticArmor.description>
+  <BMT_HermeticArmor.label>герметичная броня</BMT_HermeticArmor.label>
+  <BMT_HermeticHelmet.description>Шлем герметичной брони со встроенным компьютером контроля состояния и многослойными пластинами из пласталевого плетения.
+
+Подобное снаряжение часто используют отряды, которым приходится выживать в неблагоприятных условиях.</BMT_HermeticHelmet.description>
+  <BMT_HermeticHelmet.label>герметичный шлем</BMT_HermeticHelmet.label>
+  <BMT_IceBlock.description>Блок очень холодного и плотного льда. Особая молекулярная структура не позволяет ему таять.</BMT_IceBlock.description>
+  <BMT_IceBlock.label>ледяной блок</BMT_IceBlock.label>
+  <BMT_IceBlock.stuffProps.stuffAdjective>ледяной</BMT_IceBlock.stuffProps.stuffAdjective>
+  <BMT_IceDiggingSpot.description>Место, где из грунта добывают глыбы льда.</BMT_IceDiggingSpot.description>
+  <BMT_IceDiggingSpot.label>место добычи льда</BMT_IceDiggingSpot.label>
+  <BMT_IceWall.description>Стена из очень холодного и плотного льда. Особая молекулярная структура не позволяет ей таять.</BMT_IceWall.description>
+  <BMT_IceWall.label>лёд</BMT_IceWall.label>
+  <BMT_IceWallBuildable.description>Стена из очень холодного и плотного льда. Особая молекулярная структура не позволяет ей таять.</BMT_IceWallBuildable.description>
+  <BMT_IceWallBuildable.label>искусственный лёд</BMT_IceWallBuildable.label>
+  <BMT_LandOctopus.description>Этот осьминог приспособился к земноводному образу жизни и способен подолгу обходиться без воды. Как и другие осьминоги, охотится на любую достаточно мелкую добычу.</BMT_LandOctopus.description>
+  <BMT_LandOctopus.label>сухопутный осьминог</BMT_LandOctopus.label>
+  <BMT_LandOctopus.tools.head.label>голова</BMT_LandOctopus.tools.head.label>
+  <BMT_LavaGenerator.description>Вырабатывает электричество за счёт сильного жара лавы и магмы. Для работы его трубы должны находиться в расплавленной породе. Если генераторы стоят слишком близко друг к другу, создаваемая ими турбулентность мешает работе и снижает выработку энергии.</BMT_LavaGenerator.description>
+  <BMT_LavaGenerator.label>лавовый генератор</BMT_LavaGenerator.label>
+  <BMT_Leather_Amphibian.description>Выделанная кожа лягушки, саламандры или другого земноводного. На ощупь влажная и мягкая.</BMT_Leather_Amphibian.description>
+  <BMT_Leather_Amphibian.label>кожа земноводного</BMT_Leather_Amphibian.label>
+  <BMT_Leather_Gastropoda.description>Выделанная кожа слизня, улитки или другого брюхоногого моллюска. На ощупь она одновременно рыхлая и мягкая.</BMT_Leather_Gastropoda.description>
+  <BMT_Leather_Gastropoda.label>кожа брюхоногого моллюска</BMT_Leather_Gastropoda.label>
+  <BMT_Leather_Magma.description>Выделанная кожа огнестойкого существа. Жёсткая и прочная на ощупь, но плохо защищает от холода.</BMT_Leather_Magma.description>
+  <BMT_Leather_Magma.label>огнеупорная кожа</BMT_Leather_Magma.label>
+  <BMT_LightSandWall.description>Довольно непрочная стена из рыхлого песка.</BMT_LightSandWall.description>
+  <BMT_LightSandWall.label>стена из рыхлого песка</BMT_LightSandWall.label>
+  <BMT_MagmaPump.description>Отводит тепло от близлежащей лавы и магмы, очень медленно охлаждая их до состояния пригодного для использования камня. Не действует на глубокую лаву и магму.</BMT_MagmaPump.description>
+  <BMT_MagmaPump.label>магматический насос</BMT_MagmaPump.label>
+  <BMT_Maxolotl.description>Эти крупные саламандры предпочитают влажные места с водоёмами, в которые можно без труда погрузиться. Зубов у них нет, но мощные челюсти способны раздавить панцири большинства насекомых. Они могут оплодотворить несколько кладок за одно спаривание.</BMT_Maxolotl.description>
+  <BMT_Maxolotl.label>исполотль</BMT_Maxolotl.label>
+  <BMT_Maxolotl.race.meatLabel>мясо земноводного</BMT_Maxolotl.race.meatLabel>
+  <BMT_Maxolotl.tools.head.label>голова</BMT_Maxolotl.tools.head.label>
+  <BMT_Maxolotl.tools.left_claw.label>левый коготь</BMT_Maxolotl.tools.left_claw.label>
+  <BMT_Maxolotl.tools.right_claw.label>правый коготь</BMT_Maxolotl.tools.right_claw.label>
+  <BMT_MediumChitin.description>Хитин гигантского насекомого. Довольно прочный.</BMT_MediumChitin.description>
+  <BMT_MediumChitin.label>крепкий хитин</BMT_MediumChitin.label>
+  <BMT_Molluskshell.description>Твёрдые пластины раковин улиток, двустворчатых и других моллюсков.</BMT_Molluskshell.description>
+  <BMT_Molluskshell.label>раковинные пластины</BMT_Molluskshell.label>
+  <BMT_Pinnipedskin.description>Выделанная кожа тюленя, моржа или другого ластоногого. Хорошо защищает от холода и дробящих ударов.</BMT_Pinnipedskin.description>
+  <BMT_Pinnipedskin.label>кожа ластоногого</BMT_Pinnipedskin.label>
+  <BMT_RoyalChitin.description>Легендарный царственный хитиновый панцирь. Встречается лишь у самых сильных или самых редких созданий, обитающих в недрах земли.</BMT_RoyalChitin.description>
+  <BMT_RoyalChitin.label>королевский хитин</BMT_RoyalChitin.label>
+  <BMT_SandBlock.description>Блок мелкозернистого песка. Он грубый, шершавый, раздражает кожу и забивается повсюду.</BMT_SandBlock.description>
+  <BMT_SandBlock.label>песчаный блок</BMT_SandBlock.label>
+  <BMT_SandBlock.stuffProps.stuffAdjective>песчаный</BMT_SandBlock.stuffProps.stuffAdjective>
+  <BMT_SandDiggingSpot.description>Место, где из грунта добывают глыбы песка.</BMT_SandDiggingSpot.description>
+  <BMT_SandDiggingSpot.label>место добычи песка</BMT_SandDiggingSpot.label>
+  <BMT_SandWall.description>Стена из спрессованного песка.</BMT_SandWall.description>
+  <BMT_SandWall.label>спрессованный песок</BMT_SandWall.label>
+  <BMT_Sharkskin.description>Прочная кожа акулы с низкой теплоизоляцией.</BMT_Sharkskin.description>
+  <BMT_Sharkskin.label>акулья кожа</BMT_Sharkskin.label>
+  <BMT_ToughLeather.description>Выделанная, высушенная и очищенная кожа. Исключительно прочна в бою, но слабо защищает от непогоды.</BMT_ToughLeather.description>
+  <BMT_ToughLeather.label>прочная кожа</BMT_ToughLeather.label>
+  <BMT_WeakChitin.description>Хитин гигантского насекомого. Одна из наименее прочных разновидностей хитина.</BMT_WeakChitin.description>
+  <BMT_WeakChitin.label>ломкий хитин</BMT_WeakChitin.label>
+  <BMT_Whaleskin.description>Кожа кита. Прочна в бою, но слабо защищает от холода и жары.</BMT_Whaleskin.description>
+  <BMT_Whaleskin.label>китовая кожа</BMT_Whaleskin.label>
+  <BiomesCore_CrabShell.description>Прочный хитиновый панцирь ракообразного.</BiomesCore_CrabShell.description>
+  <BiomesCore_CrabShell.label>крабовый панцирь</BiomesCore_CrabShell.label>
+  <BiomesCore_GreenChitin.description>Прочный зелёный хитиновый панцирь.</BiomesCore_GreenChitin.description>
+  <BiomesCore_GreenChitin.label>зелёный панцирь</BiomesCore_GreenChitin.label>
+  <BiomesIslands_CoconutPalm.description>Тропическое дерево с высоким голым стволом и пучком широких листьев на верхушке. Эта разновидность плодоносит кокосами.</BiomesIslands_CoconutPalm.description>
+  <BiomesIslands_CoconutPalm.label>коралловая кокосовая пальма</BiomesIslands_CoconutPalm.label>
+  <BiomesIslands_Coconuts.description>Крупные круглые плоды с твёрдой скорлупой и молочной жидкостью внутри.</BiomesIslands_Coconuts.description>
+  <BiomesIslands_Coconuts.label>коралловые кокосы</BiomesIslands_Coconuts.label>
+  <BiomesIslands_EggFlamingoFertilized.description>Оплодотворённое яйцо фламинго. В благоприятных условиях из него вылупится птенец. Яйцо можно есть сырым, но лучше приготовить.</BiomesIslands_EggFlamingoFertilized.description>
+  <BiomesIslands_EggFlamingoFertilized.label>яйцо розового фламинго (оплод.)</BiomesIslands_EggFlamingoFertilized.label>
+  <BiomesIslands_EggFlamingoUnfertilized.description>Неоплодотворённое яйцо фламинго. Его можно есть сырым, но лучше приготовить.</BiomesIslands_EggFlamingoUnfertilized.description>
+  <BiomesIslands_EggFlamingoUnfertilized.label>яйцо розового фламинго (неоплод.)</BiomesIslands_EggFlamingoUnfertilized.label>
+  <BiomesIslands_Flamingo.description>Околоводные птицы, получающие розовую окраску благодаря крилю, которым питаются, процеживая воду клювом. Хорошо приживаются везде, где есть тёплое мелководье.</BiomesIslands_Flamingo.description>
+  <BiomesIslands_Flamingo.label>розовый фламинго</BiomesIslands_Flamingo.label>
+  <BiomesIslands_Flamingo.tools.beak.label>клюв</BiomesIslands_Flamingo.tools.beak.label>
+  <BiomesIslands_Flamingo.tools.claws.label>когти</BiomesIslands_Flamingo.tools.claws.label>
+  <BiomesIslands_Flamingo.tools.head.label>голова</BiomesIslands_Flamingo.tools.head.label>
+  <BiomesIslands_Leather_Flamingo.description>Ярко-розовая кожа фламинго. Несколько прочнее обычной птичьей кожи.</BiomesIslands_Leather_Flamingo.description>
+  <BiomesIslands_Leather_Flamingo.label>кожа фламинго</BiomesIslands_Leather_Flamingo.label>
+</LanguageData>

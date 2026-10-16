@@ -1,0 +1,43 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<ModMetaData>
+  <name>Colony Manager Redux — русский перевод [Star Sky Mods]</name>
+  <author>chupakobra6 | Star Sky Mods</author>
+  <packageId>starsky.rimworld.ru.3310027356</packageId>
+  <modVersion>1.0.0</modVersion>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>ilyvion.colonymanagerredux</packageId>
+      <displayName>Colony Manager Redux</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/3310027356</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>ilyvion.laboratory</packageId>
+      <displayName>ilyvion's Laboratory</displayName>
+    </li>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>ilyvion.colonymanagerredux</li>
+  </loadAfter>
+  <description>Русский перевод Colony Manager Redux (https://steamcommunity.com/sharedfiles/filedetails/?id=3310027356) для RimWorld 1.6. Оригинальный мод устанавливается отдельно
+
+&lt;b&gt;О ПЕРЕВОДЕ&lt;/b&gt;
+Я перевёл интерфейс управления и подсказки, сохраняя различия между условиями заданий и согласованные названия ресурсов и работ. Выберите русский язык в настройках RimWorld
+
+&lt;b&gt;СОВМЕСТИМОСТЬ&lt;/b&gt;
+Требуются Harmony (https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077), ilyvion's Laboratory (https://steamcommunity.com/sharedfiles/filedetails/?id=3296362231) и Colony Manager Redux (https://steamcommunity.com/sharedfiles/filedetails/?id=3310027356). Порядок загрузки: Harmony → ilyvion's Laboratory → оригинальный мод → этот перевод
+
+&lt;b&gt;ОБРАТНАЯ СВЯЗЬ&lt;/b&gt;
+Заметили ошибку или неточность? Напишите в комментариях на странице мода или на Boosty
+
+Авторы оригинального мода: ilyvion, Fluffy
+
+Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.</description>
+</ModMetaData>

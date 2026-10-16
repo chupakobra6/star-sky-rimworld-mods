@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Moyo2_Ammo_AbyssteelPile.description>Глубостальные сваи для пробойников.</Moyo2_Ammo_AbyssteelPile.description>
+  <Moyo2_Ammo_AbyssteelPile.label>глубостальная свая</Moyo2_Ammo_AbyssteelPile.label>
+  <Moyo2_Ammo_HeavyAbyssteelPile.description>Тяжёлые глубостальные сваи для корабельных пробойников.</Moyo2_Ammo_HeavyAbyssteelPile.description>
+  <Moyo2_Ammo_HeavyAbyssteelPile.label>тяжёлая глубостальная свая</Moyo2_Ammo_HeavyAbyssteelPile.label>
+  <Moyo2_Ammo_HeavyLaminarSlug.description>Пулевые снаряды для ламинарного оружия.</Moyo2_Ammo_HeavyLaminarSlug.description>
+  <Moyo2_Ammo_HeavyLaminarSlug.label>Тяжёлая ламинарная пуля</Moyo2_Ammo_HeavyLaminarSlug.label>
+  <Moyo2_Ammo_HeavyLaminarSpike.description>Цельные шипы для ламинарного оружия картеля.</Moyo2_Ammo_HeavyLaminarSpike.description>
+  <Moyo2_Ammo_HeavyLaminarSpike.label>Тяжёлый ламинарный шип</Moyo2_Ammo_HeavyLaminarSpike.label>
+  <Moyo2_Ammo_HeavySteelPile.description>Тяжёлые стальные сваи для корабельных пробойников.</Moyo2_Ammo_HeavySteelPile.description>
+  <Moyo2_Ammo_HeavySteelPile.label>тяжёлая стальная свая</Moyo2_Ammo_HeavySteelPile.label>
+  <Moyo2_Ammo_LaminarSlug.description>Пулевые снаряды для ламинарного оружия.</Moyo2_Ammo_LaminarSlug.description>
+  <Moyo2_Ammo_LaminarSlug.label>Ламинарная пуля</Moyo2_Ammo_LaminarSlug.label>
+  <Moyo2_Ammo_LaminarSpike.description>Цельные шипы для ламинарного оружия картеля.</Moyo2_Ammo_LaminarSpike.description>
+  <Moyo2_Ammo_LaminarSpike.label>Ламинарный шип</Moyo2_Ammo_LaminarSpike.label>
+  <Moyo2_Ammo_SteelPile.description>Стальные сваи для пробойников.</Moyo2_Ammo_SteelPile.description>
+  <Moyo2_Ammo_SteelPile.label>стальная свая</Moyo2_Ammo_SteelPile.label>
+  <Moyo2_HarpoonGun.tools.0.label>ствол</Moyo2_HarpoonGun.tools.0.label>
+  <Moyo2_LMRPistol.tools.0.label>рукоять</Moyo2_LMRPistol.tools.0.label>
+  <Moyo2_LMRPistol.tools.1.label>дульная часть</Moyo2_LMRPistol.tools.1.label>
+  <Moyo2_LMRPistolDown.tools.0.label>рукоять</Moyo2_LMRPistolDown.tools.0.label>
+  <Moyo2_LMRPistolDown.tools.1.label>дульная часть</Moyo2_LMRPistolDown.tools.1.label>
+  <Moyo2_LMRPistolOver.tools.0.label>рукоять</Moyo2_LMRPistolOver.tools.0.label>
+  <Moyo2_LMRPistolOver.tools.1.label>дульная часть</Moyo2_LMRPistolOver.tools.1.label>
+  <Moyo2_LMRRifle.tools.2.label>дульная часть</Moyo2_LMRRifle.tools.2.label>
+  <Moyo2_LMRRifleDown.tools.2.label>дульная часть</Moyo2_LMRRifleDown.tools.2.label>
+  <Moyo2_LMRRifleOver.tools.2.label>дульная часть</Moyo2_LMRRifleOver.tools.2.label>
+  <Moyo2_NailGun.tools.1.label>дульная часть</Moyo2_NailGun.tools.1.label>
+  <Moyo2_Projectile_AbyssteelPile.label>стальная свая</Moyo2_Projectile_AbyssteelPile.label>
+  <Moyo2_Projectile_HeavyAbyssteelPile.label>тяжёлая стальная свая</Moyo2_Projectile_HeavyAbyssteelPile.label>
+  <Moyo2_Projectile_HeavyLaminarSlug.label>Тяжёлая ламинарная пуля</Moyo2_Projectile_HeavyLaminarSlug.label>
+  <Moyo2_Projectile_HeavyLaminarSpike.label>Тяжёлый ламинарный шип</Moyo2_Projectile_HeavyLaminarSpike.label>
+  <Moyo2_Projectile_HeavySteelPile.label>тяжёлая стальная свая</Moyo2_Projectile_HeavySteelPile.label>
+  <Moyo2_Projectile_LaminarSlug.label>Ламинарная пуля</Moyo2_Projectile_LaminarSlug.label>
+  <Moyo2_Projectile_LaminarSpike.label>Ламинарный шип</Moyo2_Projectile_LaminarSpike.label>
+  <Moyo2_Projectile_SteelPile.label>стальная свая</Moyo2_Projectile_SteelPile.label>
+  <Moyo2_SpearGun.tools.0.label>ствол</Moyo2_SpearGun.tools.0.label>
+</LanguageData>

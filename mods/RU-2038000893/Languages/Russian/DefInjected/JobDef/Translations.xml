@@ -1,0 +1,11 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BC_BloodDrinking.reportString>Пьёт кровь: TargetA.</BC_BloodDrinking.reportString>
+  <BC_BottomFeeder.reportString>Ест.</BC_BottomFeeder.reportString>
+  <BC_EatCustomThing.reportString>Ест TargetA.</BC_EatCustomThing.reportString>
+  <BC_HarvestAnimalProduct.reportString>Собирает животное сырьё: TargetA.</BC_HarvestAnimalProduct.reportString>
+  <BC_HermaphroditicMate.reportString>Спаривается с TargetA.</BC_HermaphroditicMate.reportString>
+  <BMT_DevourHungering.reportString>Пожирает TargetA.</BMT_DevourHungering.reportString>
+  <WaterWalker_Die.reportString>Погибает.</WaterWalker_Die.reportString>
+  <WaterWalker_Unbeach.reportString>Возвращается в воду.</WaterWalker_Unbeach.reportString>
+</LanguageData>

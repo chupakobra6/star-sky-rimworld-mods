@@ -1,0 +1,167 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <NamerFactionBandits.rulePack.rulesStrings>
+    <li>r_name(p=18)-&gt;Банда [igorColorM] [igorTerrainM]</li>
+    <li>igorColorM-&gt;Красного</li>
+    <li>igorColorM-&gt;Синего</li>
+    <li>igorColorM-&gt;Зелёного</li>
+    <li>igorColorM-&gt;Пурпурного</li>
+    <li>igorColorM-&gt;Чёрного</li>
+    <li>igorColorM-&gt;Белого</li>
+    <li>igorColorM-&gt;Серого</li>
+    <li>igorColorM-&gt;Оранжевого</li>
+    <li>igorTerrainM-&gt;Простора</li>
+    <li>igorTerrainM-&gt;Ежевичника</li>
+    <li>igorTerrainM-&gt;Валуна</li>
+    <li>igorTerrainM-&gt;Камня</li>
+    <li>igorTerrainM-&gt;Холма</li>
+    <li>igorTerrainM-&gt;Утёса</li>
+    <li>igorTerrainM-&gt;Обрыва</li>
+    <li>igorTerrainM-&gt;Скального Пика</li>
+    <li>igorTerrainM-&gt;Хребта</li>
+    <li>igorTerrainM-&gt;Каньона</li>
+    <li>igorTerrainM-&gt;Оазиса</li>
+    <li>igorTerrainM-&gt;Луга</li>
+    <li>igorTerrainM-&gt;Потока</li>
+    <li>igorTerrainM-&gt;Ручья</li>
+    <li>igorTerrainM-&gt;Пролива</li>
+    <li>igorTerrainM-&gt;Океана</li>
+    <li>igorTerrainM-&gt;Пруда</li>
+    <li>igorTerrainM-&gt;Леса</li>
+    <li>r_name(p=21)-&gt;Банда [igorColorF] [igorTerrainF]</li>
+    <li>igorColorF-&gt;Красной</li>
+    <li>igorColorF-&gt;Синей</li>
+    <li>igorColorF-&gt;Зелёной</li>
+    <li>igorColorF-&gt;Пурпурной</li>
+    <li>igorColorF-&gt;Чёрной</li>
+    <li>igorColorF-&gt;Белой</li>
+    <li>igorColorF-&gt;Серой</li>
+    <li>igorColorF-&gt;Оранжевой</li>
+    <li>igorTerrainF-&gt;Равнины</li>
+    <li>igorTerrainF-&gt;Степи</li>
+    <li>igorTerrainF-&gt;Прерии</li>
+    <li>igorTerrainF-&gt;Пустыни</li>
+    <li>igorTerrainF-&gt;Чащи</li>
+    <li>igorTerrainF-&gt;Скалы</li>
+    <li>igorTerrainF-&gt;Каменоломни</li>
+    <li>igorTerrainF-&gt;Горы</li>
+    <li>igorTerrainF-&gt;Столовой Горы</li>
+    <li>igorTerrainF-&gt;Долины</li>
+    <li>igorTerrainF-&gt;Пещеры</li>
+    <li>igorTerrainF-&gt;Реки</li>
+    <li>igorTerrainF-&gt;Речушки</li>
+    <li>igorTerrainF-&gt;Дельты</li>
+    <li>igorTerrainF-&gt;Протоки</li>
+    <li>igorTerrainF-&gt;Бухты</li>
+    <li>igorTerrainF-&gt;Котловины</li>
+    <li>igorTerrainF-&gt;Лагуны</li>
+    <li>igorTerrainF-&gt;Ямы</li>
+    <li>igorTerrainF-&gt;Смоляной Ямы</li>
+    <li>igorTerrainF-&gt;Топи</li>
+    <li>r_name(p=6)-&gt;Банда [igorColorN] [igorTerrainN]</li>
+    <li>igorColorN-&gt;Красного</li>
+    <li>igorColorN-&gt;Синего</li>
+    <li>igorColorN-&gt;Зелёного</li>
+    <li>igorColorN-&gt;Пурпурного</li>
+    <li>igorColorN-&gt;Чёрного</li>
+    <li>igorColorN-&gt;Белого</li>
+    <li>igorColorN-&gt;Серого</li>
+    <li>igorColorN-&gt;Оранжевого</li>
+    <li>igorTerrainN-&gt;Плато</li>
+    <li>igorTerrainN-&gt;Поля</li>
+    <li>igorTerrainN-&gt;Дерева</li>
+    <li>igorTerrainN-&gt;Ущелья</li>
+    <li>igorTerrainN-&gt;Озера</li>
+    <li>igorTerrainN-&gt;Болота</li>
+  </NamerFactionBandits.rulePack.rulesStrings>
+  <NamerFactionSettler.rulePack.rulesStrings>
+    <li>r_name(p=18)-&gt;[igorColorM] [igorTerrainM]</li>
+    <li>igorColorM-&gt;Красный</li>
+    <li>igorColorM-&gt;Синий</li>
+    <li>igorColorM-&gt;Зелёный</li>
+    <li>igorColorM-&gt;Пурпурный</li>
+    <li>igorColorM-&gt;Чёрный</li>
+    <li>igorColorM-&gt;Белый</li>
+    <li>igorColorM-&gt;Серый</li>
+    <li>igorColorM-&gt;Оранжевый</li>
+    <li>igorTerrainM-&gt;Простор</li>
+    <li>igorTerrainM-&gt;Ежевичник</li>
+    <li>igorTerrainM-&gt;Валун</li>
+    <li>igorTerrainM-&gt;Камень</li>
+    <li>igorTerrainM-&gt;Холм</li>
+    <li>igorTerrainM-&gt;Утёс</li>
+    <li>igorTerrainM-&gt;Обрыв</li>
+    <li>igorTerrainM-&gt;Скальный Пик</li>
+    <li>igorTerrainM-&gt;Хребет</li>
+    <li>igorTerrainM-&gt;Каньон</li>
+    <li>igorTerrainM-&gt;Оазис</li>
+    <li>igorTerrainM-&gt;Луг</li>
+    <li>igorTerrainM-&gt;Поток</li>
+    <li>igorTerrainM-&gt;Ручей</li>
+    <li>igorTerrainM-&gt;Пролив</li>
+    <li>igorTerrainM-&gt;Океан</li>
+    <li>igorTerrainM-&gt;Пруд</li>
+    <li>igorTerrainM-&gt;Лес</li>
+    <li>r_name(p=21)-&gt;[igorColorF] [igorTerrainF]</li>
+    <li>igorColorF-&gt;Красная</li>
+    <li>igorColorF-&gt;Синяя</li>
+    <li>igorColorF-&gt;Зелёная</li>
+    <li>igorColorF-&gt;Пурпурная</li>
+    <li>igorColorF-&gt;Чёрная</li>
+    <li>igorColorF-&gt;Белая</li>
+    <li>igorColorF-&gt;Серая</li>
+    <li>igorColorF-&gt;Оранжевая</li>
+    <li>igorTerrainF-&gt;Равнина</li>
+    <li>igorTerrainF-&gt;Степь</li>
+    <li>igorTerrainF-&gt;Прерия</li>
+    <li>igorTerrainF-&gt;Пустыня</li>
+    <li>igorTerrainF-&gt;Чаща</li>
+    <li>igorTerrainF-&gt;Скала</li>
+    <li>igorTerrainF-&gt;Каменоломня</li>
+    <li>igorTerrainF-&gt;Гора</li>
+    <li>igorTerrainF-&gt;Столовая Гора</li>
+    <li>igorTerrainF-&gt;Долина</li>
+    <li>igorTerrainF-&gt;Пещера</li>
+    <li>igorTerrainF-&gt;Река</li>
+    <li>igorTerrainF-&gt;Речушка</li>
+    <li>igorTerrainF-&gt;Дельта</li>
+    <li>igorTerrainF-&gt;Протока</li>
+    <li>igorTerrainF-&gt;Бухта</li>
+    <li>igorTerrainF-&gt;Котловина</li>
+    <li>igorTerrainF-&gt;Лагуна</li>
+    <li>igorTerrainF-&gt;Яма</li>
+    <li>igorTerrainF-&gt;Смоляная Яма</li>
+    <li>igorTerrainF-&gt;Топь</li>
+    <li>r_name(p=6)-&gt;[igorColorN] [igorTerrainN]</li>
+    <li>igorColorN-&gt;Красное</li>
+    <li>igorColorN-&gt;Синее</li>
+    <li>igorColorN-&gt;Зелёное</li>
+    <li>igorColorN-&gt;Пурпурное</li>
+    <li>igorColorN-&gt;Чёрное</li>
+    <li>igorColorN-&gt;Белое</li>
+    <li>igorColorN-&gt;Серое</li>
+    <li>igorColorN-&gt;Оранжевое</li>
+    <li>igorTerrainN-&gt;Плато</li>
+    <li>igorTerrainN-&gt;Поле</li>
+    <li>igorTerrainN-&gt;Дерево</li>
+    <li>igorTerrainN-&gt;Ущелье</li>
+    <li>igorTerrainN-&gt;Озеро</li>
+    <li>igorTerrainN-&gt;Болото</li>
+  </NamerFactionSettler.rulePack.rulesStrings>
+  <NamerWantedNickname.rulePack.rulesFiles>
+    <li>igorWantedM-&gt;Nickname/IgorSettlers_igorWantedM</li>
+    <li>igorWantedAdjM-&gt;Nickname/IgorSettlers_igorWantedAdjM</li>
+    <li>igorWantedF-&gt;Nickname/IgorSettlers_igorWantedF</li>
+    <li>igorWantedAdjF-&gt;Nickname/IgorSettlers_igorWantedAdjF</li>
+    <li>igorWantedP-&gt;Nickname/IgorSettlers_igorWantedP</li>
+    <li>igorWantedAdjP-&gt;Nickname/IgorSettlers_igorWantedAdjP</li>
+  </NamerWantedNickname.rulePack.rulesFiles>
+  <NamerWantedNickname.rulePack.rulesStrings>
+    <li>defaultWantedNick(p=10)-&gt;[igorWantedM]</li>
+    <li>defaultWantedNick(p=150)-&gt;[igorWantedAdjM] [igorWantedM]</li>
+    <li>defaultWantedNick(p=2)-&gt;[igorWantedF]</li>
+    <li>defaultWantedNick(p=30)-&gt;[igorWantedAdjF] [igorWantedF]</li>
+    <li>defaultWantedNick(p=3)-&gt;[igorWantedP]</li>
+    <li>defaultWantedNick(p=45)-&gt;[igorWantedAdjP] [igorWantedP]</li>
+  </NamerWantedNickname.rulePack.rulesStrings>
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <CM_ForagingManager.label>сбор дикоросов</CM_ForagingManager.label>
+  <CM_ForestryManager.label>лесозаготовки</CM_ForestryManager.label>
+  <CM_HuntingManager.label>охота</CM_HuntingManager.label>
+  <CM_ImportExportManager.label>Импорт и экспорт</CM_ImportExportManager.label>
+  <CM_LivestockManager.label>животноводство</CM_LivestockManager.label>
+  <CM_LogsManager.label>журнал</CM_LogsManager.label>
+  <CM_MiningManager.label>заготовка ресурсов</CM_MiningManager.label>
+  <CM_OverviewManager.label>Обзор</CM_OverviewManager.label>
+  <CM_PowerManager.jobComps.CompManagerJobHistory.yAxisSuffix>Вт</CM_PowerManager.jobComps.CompManagerJobHistory.yAxisSuffix>
+  <CM_PowerManager.label>энергоснабжение</CM_PowerManager.label>
+  <CM_ProductionManager.label>производство</CM_ProductionManager.label>
+</LanguageData>

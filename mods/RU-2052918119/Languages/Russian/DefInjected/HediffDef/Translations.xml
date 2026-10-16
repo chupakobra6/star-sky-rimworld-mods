@@ -1,0 +1,14 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Chemshined.description>Похоже, кто-то выпил что-то взрывоопасное.</Chemshined.description>
+  <Chemshined.label>химогон</Chemshined.label>
+  <Chemshined.labelNoun>химическое опьянение</Chemshined.labelNoun>
+  <Chemshined.stages.chemshined.label>опьянение</Chemshined.stages.chemshined.label>
+  <Chemshined.stages.chemshinedextreme.label>опьянение (экстремальное)</Chemshined.stages.chemshinedextreme.label>
+  <Chemshined.stages.chemshinedmajor.label>опьянение (сильное)</Chemshined.stages.chemshinedmajor.label>
+  <Chemshined.stages.chemshinedminor.label>опьянение (незначительное)</Chemshined.stages.chemshinedminor.label>
+  <Wanted.description>Одна из фракций считает этого человека преступником.</Wanted.description>
+  <Wanted.label>разыскивается</Wanted.label>
+  <Wanted.labelNoun>разыскивается</Wanted.labelNoun>
+  <Wanted.stages.wanted.label>разыскивается</Wanted.stages.wanted.label>
+</LanguageData>

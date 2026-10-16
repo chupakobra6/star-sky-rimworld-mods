@@ -1,0 +1,787 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <ColonyManagerRedux.AgeAndSex.Adult>взрослые</ColonyManagerRedux.AgeAndSex.Adult>
+  <ColonyManagerRedux.AgeAndSex.Female>самка</ColonyManagerRedux.AgeAndSex.Female>
+  <ColonyManagerRedux.AgeAndSex.Female.Plural>самки</ColonyManagerRedux.AgeAndSex.Female.Plural>
+  <ColonyManagerRedux.AgeAndSex.Juvenile>молодые</ColonyManagerRedux.AgeAndSex.Juvenile>
+  <ColonyManagerRedux.AgeAndSex.Male>самец</ColonyManagerRedux.AgeAndSex.Male>
+  <ColonyManagerRedux.AgeAndSex.Male.Plural>самцы</ColonyManagerRedux.AgeAndSex.Male.Plural>
+  <ColonyManagerRedux.AgeAndSex.Order>{0} {1}</ColonyManagerRedux.AgeAndSex.Order>
+  <ColonyManagerRedux.Alerts.AutoslaughterOverlap>Численность одних и тех же животных одновременно регулируют поручение по животноводству Colony Manager и автоматический забой основной игры. Эти системы могут конфликтовать. Отключите настройку «{0}» в соответствующих поручениях или автоматический забой этих животных. Пересекающиеся виды:
+
+{1}</ColonyManagerRedux.Alerts.AutoslaughterOverlap>
+  <ColonyManagerRedux.Alerts.AutoslaughterOverlapLabel>Пересечение настроек автоматического забоя</ColonyManagerRedux.Alerts.AutoslaughterOverlapLabel>
+  <ColonyManagerRedux.Alerts.JobsNotUpdating>Некоторые поручения по управлению не обновлялись уже {0} после назначенного срока. Убедитесь, что управляющие не настолько заняты другими делами, что у них не остаётся времени на обновление поручений.
+
+(Нажмите, чтобы открыть окно работ)</ColonyManagerRedux.Alerts.JobsNotUpdating>
+  <ColonyManagerRedux.Alerts.JobsNotUpdatingLabel>Поручения не обновляются</ColonyManagerRedux.Alerts.JobsNotUpdatingLabel>
+  <ColonyManagerRedux.Alerts.ManagerDeskAndAIManager>Поскольку ИИ-управляющий самостоятельно выполняет поручения по управлению, рабочее место управляющего не требуется и поселенцы им не пользуются.</ColonyManagerRedux.Alerts.ManagerDeskAndAIManager>
+  <ColonyManagerRedux.Alerts.ManagerDeskAndAIManagerLabel>Рабочее место управляющего не требуется</ColonyManagerRedux.Alerts.ManagerDeskAndAIManagerLabel>
+  <ColonyManagerRedux.Alerts.NoManager>Поручения по управлению созданы, но эта работа никому не назначена, а ИИ-управляющий не построен.
+
+(Нажмите, чтобы открыть окно работ)</ColonyManagerRedux.Alerts.NoManager>
+  <ColonyManagerRedux.Alerts.NoManagerLabel>Нужен управляющий</ColonyManagerRedux.Alerts.NoManagerLabel>
+  <ColonyManagerRedux.Alerts.NoTable>Поручения по управлению созданы, но в колонии нет ни рабочего места управляющего, ни ИИ-управляющего.</ColonyManagerRedux.Alerts.NoTable>
+  <ColonyManagerRedux.Alerts.NoTable.ClickToBuild>(Нажмите, чтобы построить: {0})</ColonyManagerRedux.Alerts.NoTable.ClickToBuild>
+  <ColonyManagerRedux.Alerts.NoTable.NoTableResearched>(Ещё не изучено ни одного варианта. Нажмите, чтобы открыть исследования.)</ColonyManagerRedux.Alerts.NoTable.NoTableResearched>
+  <ColonyManagerRedux.Alerts.NoTableLabel>Нужно рабочее место управляющего или ИИ-управляющий</ColonyManagerRedux.Alerts.NoTableLabel>
+  <ColonyManagerRedux.AnyStockpile>Любой склад</ColonyManagerRedux.AnyStockpile>
+  <ColonyManagerRedux.AutoSuspendPowerJobOnNonHomeMaps>Приостанавливать энергоснабжение на картах вне колонии</ColonyManagerRedux.AutoSuspendPowerJobOnNonHomeMaps>
+  <ColonyManagerRedux.AutoSuspendPowerJobOnNonHomeMaps.Tip>После изучения управления энергоснабжением соответствующее поручение автоматически создаётся на каждой карте, включая места заданий, засады и другие временно посещаемые карты. Эта настройка создаёт его приостановленным и без уведомлений на картах вне колонии. Его можно возобновить вручную на вкладке «Обзор». Отключите настройку, чтобы поручение всегда создавалось активным, в том числе на посещаемых картах.</ColonyManagerRedux.AutoSuspendPowerJobOnNonHomeMaps.Tip>
+  <ColonyManagerRedux.CannotManage.AIManager>при работающем ИИ-управляющем поселенцы не занимаются ручным управлением</ColonyManagerRedux.CannotManage.AIManager>
+  <ColonyManagerRedux.CannotManage.NoActiveJobs>сейчас ни одно поручение не требует обновления</ColonyManagerRedux.CannotManage.NoActiveJobs>
+  <ColonyManagerRedux.CannotManage.NoJobs>поручения не созданы</ColonyManagerRedux.CannotManage.NoJobs>
+  <ColonyManagerRedux.CannotManage.NoPower>стол не получает питание</ColonyManagerRedux.CannotManage.NoPower>
+  <ColonyManagerRedux.Common.Delete>Удалить</ColonyManagerRedux.Common.Delete>
+  <ColonyManagerRedux.Common.Expensive.Tip>Эта настройка может снизить производительность, особенно на больших или гористых картах, при множестве возможных целей поручения и при большом числе поселенцев.</ColonyManagerRedux.Common.Expensive.Tip>
+  <ColonyManagerRedux.Common.GoToJob>Перейти к поручению: {0}</ColonyManagerRedux.Common.GoToJob>
+  <ColonyManagerRedux.Common.Manage>Начать управление</ColonyManagerRedux.Common.Manage>
+  <ColonyManagerRedux.Common.None>Нет</ColonyManagerRedux.Common.None>
+  <ColonyManagerRedux.Common.TabDisabledBecause>(недоступно: {0})</ColonyManagerRedux.Common.TabDisabledBecause>
+  <ColonyManagerRedux.DefaultTemplateApplied>Применён основной шаблон «{1}». Добавлено поручений: {0}</ColonyManagerRedux.DefaultTemplateApplied>
+  <ColonyManagerRedux.DeleteThisManagerFile>Удалить этот файл экспорта.</ColonyManagerRedux.DeleteThisManagerFile>
+  <ColonyManagerRedux.Designations.CutPlant>срубить</ColonyManagerRedux.Designations.CutPlant>
+  <ColonyManagerRedux.Designations.Deconstruct>разобрать</ColonyManagerRedux.Designations.Deconstruct>
+  <ColonyManagerRedux.Designations.HarvestPlant>собрать урожай</ColonyManagerRedux.Designations.HarvestPlant>
+  <ColonyManagerRedux.Designations.Haul>перенести</ColonyManagerRedux.Designations.Haul>
+  <ColonyManagerRedux.Designations.Hunt>охотиться</ColonyManagerRedux.Designations.Hunt>
+  <ColonyManagerRedux.Designations.Mine>добыть</ColonyManagerRedux.Designations.Mine>
+  <ColonyManagerRedux.Designations.Slaughter>забить</ColonyManagerRedux.Designations.Slaughter>
+  <ColonyManagerRedux.Designations.Tame>приручить</ColonyManagerRedux.Designations.Tame>
+  <ColonyManagerRedux.DoVerboseLogging>Разработчикам: подробный журнал</ColonyManagerRedux.DoVerboseLogging>
+  <ColonyManagerRedux.DoVerboseLogging.Tip>Подробно записывать работу мода в файл журнала. Это полезно для поиска ошибок, но журнал быстро разрастается. Включайте только при необходимости.</ColonyManagerRedux.DoVerboseLogging.Tip>
+  <ColonyManagerRedux.Energy.Logs.InventoriedBuildingPerType>Потребители, производители и аккумуляторы учтены по типам.\n\nПотребители и производители:\n{0}\n\nАккумуляторы:\n{1}</ColonyManagerRedux.Energy.Logs.InventoriedBuildingPerType>
+  <ColonyManagerRedux.Energy.Logs.InventoriedBuildings>Обновлён учёт построек электросети. Ранее: {0} потребителей и генераторов, {1} аккумуляторов. Теперь: {2} и {3} соответственно.</ColonyManagerRedux.Energy.Logs.InventoriedBuildings>
+  <ColonyManagerRedux.Energy.NoPoweredStation>Ни одно рабочее место управляющего не получает питание</ColonyManagerRedux.Energy.NoPoweredStation>
+  <ColonyManagerRedux.Energy.NotResearched>Управление энергоснабжением не изучено</ColonyManagerRedux.Energy.NotResearched>
+  <ColonyManagerRedux.Energy.PeriodShown>Период</ColonyManagerRedux.Energy.PeriodShown>
+  <ColonyManagerRedux.Energy.PeriodShownTooltip>Показаны выработка и потребление электроэнергии за период: {0}.
+
+Нажмите, чтобы изменить период.</ColonyManagerRedux.Energy.PeriodShownTooltip>
+  <ColonyManagerRedux.Energy.RecordHistoricalDataDisabled>для отслеживания энергопотребления нужна история, но её запись отключена</ColonyManagerRedux.Energy.RecordHistoricalDataDisabled>
+  <ColonyManagerRedux.Foraging.Edible>Съедобные растения</ColonyManagerRedux.Foraging.Edible>
+  <ColonyManagerRedux.Foraging.Edible.Tip>Выбрать все съедобные растения</ColonyManagerRedux.Foraging.Edible.Tip>
+  <ColonyManagerRedux.Foraging.ForagingArea>Разрешить сбор в зоне:</ColonyManagerRedux.Foraging.ForagingArea>
+  <ColonyManagerRedux.Foraging.ForceFullyMature>Только полностью выросшие растения</ColonyManagerRedux.Foraging.ForceFullyMature>
+  <ColonyManagerRedux.Foraging.ForceFullyMature.Tip>Ограничить сбор полностью выросшими растениями?</ColonyManagerRedux.Foraging.ForceFullyMature.Tip>
+  <ColonyManagerRedux.Foraging.Logs.Plant>растение</ColonyManagerRedux.Foraging.Logs.Plant>
+  <ColonyManagerRedux.Foraging.Logs.Plants>растения</ColonyManagerRedux.Foraging.Logs.Plants>
+  <ColonyManagerRedux.Foraging.Mushrooms>Грибы</ColonyManagerRedux.Foraging.Mushrooms>
+  <ColonyManagerRedux.Foraging.Mushrooms.Tip>Выбрать все грибы</ColonyManagerRedux.Foraging.Mushrooms.Tip>
+  <ColonyManagerRedux.Foraging.NewForagingJob>Новое поручение</ColonyManagerRedux.Foraging.NewForagingJob>
+  <ColonyManagerRedux.Foraging.NewForagingJobTooltip>Создать поручение по сбору дикоросов</ColonyManagerRedux.Foraging.NewForagingJobTooltip>
+  <ColonyManagerRedux.Foraging.Plants>Разрешённые растения</ColonyManagerRedux.Foraging.Plants>
+  <ColonyManagerRedux.Foraging.SyncFilterAndAllowed.Tip>Пытаться синхронизировать предметы, учитываемые фильтром порога, с растениями, разрешёнными для сбора, и наоборот.</ColonyManagerRedux.Foraging.SyncFilterAndAllowed.Tip>
+  <ColonyManagerRedux.Foraging.TargetCount>Активно, если: {0} {2} (+ {1} ожидается)</ColonyManagerRedux.Foraging.TargetCount>
+  <ColonyManagerRedux.Foraging.TargetCountTooltip>В запасе: {0}
+Поручение активно при условии: {2} в запасе
+Ожидается от текущих приказов: {1}.</ColonyManagerRedux.Foraging.TargetCountTooltip>
+  <ColonyManagerRedux.Forestry.AllowSaplings>Только полностью выросшие деревья</ColonyManagerRedux.Forestry.AllowSaplings>
+  <ColonyManagerRedux.Forestry.AllowSaplings.Tip>Ограничить рубку полностью выросшими деревьями?</ColonyManagerRedux.Forestry.AllowSaplings.Tip>
+  <ColonyManagerRedux.Forestry.Clear>Расчистить: {0}</ColonyManagerRedux.Forestry.Clear>
+  <ColonyManagerRedux.Forestry.ClearAreas>Полностью убирать растительность в зонах:</ColonyManagerRedux.Forestry.ClearAreas>
+  <ColonyManagerRedux.Forestry.ClearWindCells>Расчищать пространство ветрогенераторов</ColonyManagerRedux.Forestry.ClearWindCells>
+  <ColonyManagerRedux.Forestry.ClearWindCells.Tip>Расчищать все клетки в рабочей зоне ветрогенераторов</ColonyManagerRedux.Forestry.ClearWindCells.Tip>
+  <ColonyManagerRedux.Forestry.Flammable>Горючие</ColonyManagerRedux.Forestry.Flammable>
+  <ColonyManagerRedux.Forestry.Flammable.Tip>Выбрать все горючие растения</ColonyManagerRedux.Forestry.Flammable.Tip>
+  <ColonyManagerRedux.Forestry.Full>Обычные деревья</ColonyManagerRedux.Forestry.Full>
+  <ColonyManagerRedux.Forestry.JobType>Тип поручения</ColonyManagerRedux.Forestry.JobType>
+  <ColonyManagerRedux.Forestry.JobType.ClearArea>Расчистка зон</ColonyManagerRedux.Forestry.JobType.ClearArea>
+  <ColonyManagerRedux.Forestry.JobType.ClearArea.Tip>Расчищать зоны, чтобы растительность не мешала ветрогенераторам и не давала врагам укрытия на простреливаемых участках</ColonyManagerRedux.Forestry.JobType.ClearArea.Tip>
+  <ColonyManagerRedux.Forestry.JobType.Logging>Заготовка древесины</ColonyManagerRedux.Forestry.JobType.Logging>
+  <ColonyManagerRedux.Forestry.JobType.Logging.Tip>Рубить деревья ради древесины</ColonyManagerRedux.Forestry.JobType.Logging.Tip>
+  <ColonyManagerRedux.Forestry.LoggingArea>Разрешить рубку в зоне:</ColonyManagerRedux.Forestry.LoggingArea>
+  <ColonyManagerRedux.Forestry.Logs.AddClearingDesignation>Добавлен приказ «{0}» для расчистки зоны «{3}». Цель: {1}; тип: {2}</ColonyManagerRedux.Forestry.Logs.AddClearingDesignation>
+  <ColonyManagerRedux.Forestry.Logs.Tree>дерево</ColonyManagerRedux.Forestry.Logs.Tree>
+  <ColonyManagerRedux.Forestry.Logs.Trees>деревья</ColonyManagerRedux.Forestry.Logs.Trees>
+  <ColonyManagerRedux.Forestry.ManagerSettings.DefaultJobType>Тип нового поручения</ColonyManagerRedux.Forestry.ManagerSettings.DefaultJobType>
+  <ColonyManagerRedux.Forestry.Mini>Малые деревья</ColonyManagerRedux.Forestry.Mini>
+  <ColonyManagerRedux.Forestry.NewForestryJob>Новое поручение</ColonyManagerRedux.Forestry.NewForestryJob>
+  <ColonyManagerRedux.Forestry.NewForestryJobTooltip>Создать поручение по лесозаготовкам</ColonyManagerRedux.Forestry.NewForestryJobTooltip>
+  <ColonyManagerRedux.Forestry.ProvidesCover>Укрытие</ColonyManagerRedux.Forestry.ProvidesCover>
+  <ColonyManagerRedux.Forestry.ProvidesCover.Tip>Выбрать все растения, дающие укрытие</ColonyManagerRedux.Forestry.ProvidesCover.Tip>
+  <ColonyManagerRedux.Forestry.Super>Гигантские деревья</ColonyManagerRedux.Forestry.Super>
+  <ColonyManagerRedux.Forestry.SyncFilterAndAllowed.Tip>Пытаться синхронизировать предметы, учитываемые фильтром порога, с деревьями, разрешёнными для рубки, и наоборот.</ColonyManagerRedux.Forestry.SyncFilterAndAllowed.Tip>
+  <ColonyManagerRedux.Forestry.TargetCount>Активно, если: {0} {2} (+ {1} ожидается)</ColonyManagerRedux.Forestry.TargetCount>
+  <ColonyManagerRedux.Forestry.TargetCountTooltip>В запасе: {0}
+Поручение активно при условии: {2} в запасе
+Ожидается от текущих приказов: {1}.</ColonyManagerRedux.Forestry.TargetCountTooltip>
+  <ColonyManagerRedux.Forestry.Trees>Деревья</ColonyManagerRedux.Forestry.Trees>
+  <ColonyManagerRedux.Forestry.Trees.Tip>Выбрать все деревья</ColonyManagerRedux.Forestry.Trees.Tip>
+  <ColonyManagerRedux.Forestry.Ugly>Некрасивые</ColonyManagerRedux.Forestry.Ugly>
+  <ColonyManagerRedux.Forestry.Ugly.Tip>Выбрать все некрасивые растения</ColonyManagerRedux.Forestry.Ugly.Tip>
+  <ColonyManagerRedux.GeneralSettingsTabLabel>Основное</ColonyManagerRedux.GeneralSettingsTabLabel>
+  <ColonyManagerRedux.Gravship.ChooseIndividually>Выбрать по отдельности…</ColonyManagerRedux.Gravship.ChooseIndividually>
+  <ColonyManagerRedux.Gravship.GravshipJobs>Корабельные поручения</ColonyManagerRedux.Gravship.GravshipJobs>
+  <ColonyManagerRedux.Gravship.JobConflictText>На прибывшем гравикорабле есть собственные поручения управляющего: {0}. На этой карте уже созданы поручения: {1}. Какие сохранить?</ColonyManagerRedux.Gravship.JobConflictText>
+  <ColonyManagerRedux.Gravship.JobConflictTitle>Пересечение поручений управляющего</ColonyManagerRedux.Gravship.JobConflictTitle>
+  <ColonyManagerRedux.Gravship.JobPickerText>Отметьте местные и корабельные поручения, которые нужно сохранить. Неотмеченные поручения будут удалены.</ColonyManagerRedux.Gravship.JobPickerText>
+  <ColonyManagerRedux.Gravship.JobPickerTitle>Выберите поручения для сохранения</ColonyManagerRedux.Gravship.JobPickerTitle>
+  <ColonyManagerRedux.Gravship.KeepBothJobs>Сохранить все</ColonyManagerRedux.Gravship.KeepBothJobs>
+  <ColonyManagerRedux.Gravship.KeepGravshipJobs>Сохранить корабельные</ColonyManagerRedux.Gravship.KeepGravshipJobs>
+  <ColonyManagerRedux.Gravship.KeepLocalJobs>Сохранить местные</ColonyManagerRedux.Gravship.KeepLocalJobs>
+  <ColonyManagerRedux.Gravship.KeptGravshipJobsMessage>В соответствии с настройками сохранены только корабельные поручения управляющего.</ColonyManagerRedux.Gravship.KeptGravshipJobsMessage>
+  <ColonyManagerRedux.Gravship.KeptLocalJobsMessage>В соответствии с настройками сохранены только местные поручения управляющего.</ColonyManagerRedux.Gravship.KeptLocalJobsMessage>
+  <ColonyManagerRedux.Gravship.LocalJobs>Местные поручения</ColonyManagerRedux.Gravship.LocalJobs>
+  <ColonyManagerRedux.History.Batteries>аккумуляторы</ColonyManagerRedux.History.Batteries>
+  <ColonyManagerRedux.History.Chunks>обломки</ColonyManagerRedux.History.Chunks>
+  <ColonyManagerRedux.History.ClearThisJob>Очистить историю этого поручения</ColonyManagerRedux.History.ClearThisJob>
+  <ColonyManagerRedux.History.ClearThisJob.Confirm>Удалить записанную историю этого поручения? Это действие нельзя отменить.</ColonyManagerRedux.History.ClearThisJob.Confirm>
+  <ColonyManagerRedux.History.ClickToEnable>Нажмите, чтобы {0} ряд «{1}» на графике.
+Щёлкните правой кнопкой мыши, чтобы показать только ряд «{1}».</ColonyManagerRedux.History.ClickToEnable>
+  <ColonyManagerRedux.History.ClickToEnableHistoryRecording>нажмите, чтобы включить</ColonyManagerRedux.History.ClickToEnableHistoryRecording>
+  <ColonyManagerRedux.History.Consumption>потребление</ColonyManagerRedux.History.Consumption>
+  <ColonyManagerRedux.History.Corpses>трупы</ColonyManagerRedux.History.Corpses>
+  <ColonyManagerRedux.History.Designated>назначено</ColonyManagerRedux.History.Designated>
+  <ColonyManagerRedux.History.Hide>скрыть</ColonyManagerRedux.History.Hide>
+  <ColonyManagerRedux.History.HistoryRecordingDisabled>запись истории отключена</ColonyManagerRedux.History.HistoryRecordingDisabled>
+  <ColonyManagerRedux.History.JobSuspended>поручение приостановлено</ColonyManagerRedux.History.JobSuspended>
+  <ColonyManagerRedux.History.Legend>Условные обозначения</ColonyManagerRedux.History.Legend>
+  <ColonyManagerRedux.History.NoChapters>Нет данных для отображения!</ColonyManagerRedux.History.NoChapters>
+  <ColonyManagerRedux.History.Period>Период</ColonyManagerRedux.History.Period>
+  <ColonyManagerRedux.History.PeriodShown.Day>день</ColonyManagerRedux.History.PeriodShown.Day>
+  <ColonyManagerRedux.History.PeriodShown.Month>месяц</ColonyManagerRedux.History.PeriodShown.Month>
+  <ColonyManagerRedux.History.PeriodShown.Year>год</ColonyManagerRedux.History.PeriodShown.Year>
+  <ColonyManagerRedux.History.Production>выработка</ColonyManagerRedux.History.Production>
+  <ColonyManagerRedux.History.PurgeAll>Очистить историю управления</ColonyManagerRedux.History.PurgeAll>
+  <ColonyManagerRedux.History.PurgeAll.Confirm>Удалить записанную историю всех поручений на этой карте? Это действие нельзя отменить.</ColonyManagerRedux.History.PurgeAll.Confirm>
+  <ColonyManagerRedux.History.PurgeAll.Done>История управления очищена.</ColonyManagerRedux.History.PurgeAll.Done>
+  <ColonyManagerRedux.History.PurgeAll.NoJobs.Tip>На карте нет поручений, поэтому очищать историю нечего.</ColonyManagerRedux.History.PurgeAll.NoJobs.Tip>
+  <ColonyManagerRedux.History.PurgeAll.Tip>Удалить всю записанную историю всех поручений на этой карте. Сами поручения сохранятся; будут очищены только данные графиков.</ColonyManagerRedux.History.PurgeAll.Tip>
+  <ColonyManagerRedux.History.Show>показать</ColonyManagerRedux.History.Show>
+  <ColonyManagerRedux.History.ShowHideLegend>Показать или скрыть условные обозначения</ColonyManagerRedux.History.ShowHideLegend>
+  <ColonyManagerRedux.History.Stock>запасы</ColonyManagerRedux.History.Stock>
+  <ColonyManagerRedux.Hunting>Охота</ColonyManagerRedux.Hunting>
+  <ColonyManagerRedux.Hunting.Aggressive>Агрессивные</ColonyManagerRedux.Hunting.Aggressive>
+  <ColonyManagerRedux.Hunting.Aggressive.Tip>Переключить выбор всех агрессивных животных</ColonyManagerRedux.Hunting.Aggressive.Tip>
+  <ColonyManagerRedux.Hunting.AllowHumanMeat>Учитывать человечину</ColonyManagerRedux.Hunting.AllowHumanMeat>
+  <ColonyManagerRedux.Hunting.AllowHumanMeat.Tip>Учитывать человечину?
+
+ПРИМЕЧАНИЕ: эта настройка переключает учёт мяса гуманоидов в фильтре порога. Остальные параметры доступны в настройках порога.</ColonyManagerRedux.Hunting.AllowHumanMeat.Tip>
+  <ColonyManagerRedux.Hunting.AllowInsectMeat>Учитывать мясо насекомых</ColonyManagerRedux.Hunting.AllowInsectMeat>
+  <ColonyManagerRedux.Hunting.AllowInsectMeat.Tip>Учитывать мясо насекомых?
+
+ПРИМЕЧАНИЕ: эта настройка переключает учёт мяса насекомых в фильтре порога. Остальные параметры доступны в настройках порога.</ColonyManagerRedux.Hunting.AllowInsectMeat.Tip>
+  <ColonyManagerRedux.Hunting.AllowTwistedMeat>Учитывать искажённое мясо</ColonyManagerRedux.Hunting.AllowTwistedMeat>
+  <ColonyManagerRedux.Hunting.AllowTwistedMeat.Tip>Учитывать искажённое мясо?
+
+ПРИМЕЧАНИЕ: эта настройка переключает учёт искажённого мяса в фильтре порога. Остальные параметры доступны в настройках порога.</ColonyManagerRedux.Hunting.AllowTwistedMeat.Tip>
+  <ColonyManagerRedux.Hunting.Animals>Разрешённые животные</ColonyManagerRedux.Hunting.Animals>
+  <ColonyManagerRedux.Hunting.AreaRestriction>Ограничить охоту зоной:</ColonyManagerRedux.Hunting.AreaRestriction>
+  <ColonyManagerRedux.Hunting.Exploding>Взрывающиеся</ColonyManagerRedux.Hunting.Exploding>
+  <ColonyManagerRedux.Hunting.Exploding.Tip>Переключить выбор всех взрывающихся животных</ColonyManagerRedux.Hunting.Exploding.Tip>
+  <ColonyManagerRedux.Hunting.HerdAnimals>Стадные животные</ColonyManagerRedux.Hunting.HerdAnimals>
+  <ColonyManagerRedux.Hunting.HerdAnimals.Tip>Переключить выбор всех стадных животных</ColonyManagerRedux.Hunting.HerdAnimals.Tip>
+  <ColonyManagerRedux.Hunting.Logs.Animal>животное</ColonyManagerRedux.Hunting.Logs.Animal>
+  <ColonyManagerRedux.Hunting.Logs.Animals>животные</ColonyManagerRedux.Hunting.Logs.Animals>
+  <ColonyManagerRedux.Hunting.Logs.UnforbidCorpse>Снят запрет с трупа: {0}; ожидаемый выход: {1}; ожидаемое количество / цель: {2} / {3}</ColonyManagerRedux.Hunting.Logs.UnforbidCorpse>
+  <ColonyManagerRedux.Hunting.ManagerSettings.DefaultTargetResource>Целевой ресурс нового поручения</ColonyManagerRedux.Hunting.ManagerSettings.DefaultTargetResource>
+  <ColonyManagerRedux.Hunting.NewHuntingJob>Новое поручение</ColonyManagerRedux.Hunting.NewHuntingJob>
+  <ColonyManagerRedux.Hunting.NewHuntingJobTooltip>Создать поручение по охоте</ColonyManagerRedux.Hunting.NewHuntingJobTooltip>
+  <ColonyManagerRedux.Hunting.Predators>Хищники</ColonyManagerRedux.Hunting.Predators>
+  <ColonyManagerRedux.Hunting.Predators.Tip>Переключить выбор всех хищников</ColonyManagerRedux.Hunting.Predators.Tip>
+  <ColonyManagerRedux.Hunting.SyncFilterAndAllowed.Tip>Пытаться синхронизировать предметы, учитываемые фильтром порога, с животными, на которых разрешена охота, и наоборот.</ColonyManagerRedux.Hunting.SyncFilterAndAllowed.Tip>
+  <ColonyManagerRedux.Hunting.TargetCount>Активно, если: {0} {3} (+{1}+{2} ожидается)</ColonyManagerRedux.Hunting.TargetCount>
+  <ColonyManagerRedux.Hunting.TargetCountTooltip>В запасе: {0}
+Поручение активно при условии: {3} в запасе
+Ожидается от разделки: {1}
+Ожидается от текущих приказов: {2}.</ColonyManagerRedux.Hunting.TargetCountTooltip>
+  <ColonyManagerRedux.Hunting.TargetResource>Целевой ресурс</ColonyManagerRedux.Hunting.TargetResource>
+  <ColonyManagerRedux.Hunting.TargetResource.Leather>Кожа</ColonyManagerRedux.Hunting.TargetResource.Leather>
+  <ColonyManagerRedux.Hunting.TargetResource.Leather.Tip>Охотиться на животных прежде всего ради кожи</ColonyManagerRedux.Hunting.TargetResource.Leather.Tip>
+  <ColonyManagerRedux.Hunting.TargetResource.Meat>Мясо</ColonyManagerRedux.Hunting.TargetResource.Meat>
+  <ColonyManagerRedux.Hunting.TargetResource.Meat.Tip>Охотиться на животных прежде всего ради мяса</ColonyManagerRedux.Hunting.TargetResource.Meat.Tip>
+  <ColonyManagerRedux.Hunting.UnforbidAllCorpses>Также разрешать трупы животных, на которых запрещена охота</ColonyManagerRedux.Hunting.UnforbidAllCorpses>
+  <ColonyManagerRedux.Hunting.UnforbidAllCorpses.Tip>Трупы не сопротивляются, поэтому их можно собирать, даже если охота на этих животных запрещена.</ColonyManagerRedux.Hunting.UnforbidAllCorpses.Tip>
+  <ColonyManagerRedux.Hunting.UnforbidCorpses>Снимать запрет с трупов</ColonyManagerRedux.Hunting.UnforbidCorpses>
+  <ColonyManagerRedux.Hunting.UnforbidCorpses.Tip>Автоматически разрешать использование свежих трупов животных, на которых разрешена охота.</ColonyManagerRedux.Hunting.UnforbidCorpses.Tip>
+  <ColonyManagerRedux.Hunting.UnforbidHumanCorpses>— включая трупы людей</ColonyManagerRedux.Hunting.UnforbidHumanCorpses>
+  <ColonyManagerRedux.Hunting.UnforbidHumanCorpses.Tip>Также снимать запрет с трупов людей и других гуманоидов, например налётчиков и гостей.</ColonyManagerRedux.Hunting.UnforbidHumanCorpses.Tip>
+  <ColonyManagerRedux.Hunting.VeneratedAnimal.Tip>Это животное почитают поселенцы: {0}. Почитающие животное не станут на него охотиться, будут недовольны его забоем и употреблением его мяса.</ColonyManagerRedux.Hunting.VeneratedAnimal.Tip>
+  <ColonyManagerRedux.Info.Aggressiveness>Агрессивность: {0}</ColonyManagerRedux.Info.Aggressiveness>
+  <ColonyManagerRedux.Info.ChanceToDrop>вероятность получения: {0}</ColonyManagerRedux.Info.ChanceToDrop>
+  <ColonyManagerRedux.Info.Gender.Female>самка</ColonyManagerRedux.Info.Gender.Female>
+  <ColonyManagerRedux.Info.Gender.Male>самец</ColonyManagerRedux.Info.Gender.Male>
+  <ColonyManagerRedux.Info.Yield>Ожидаемый выход:</ColonyManagerRedux.Info.Yield>
+  <ColonyManagerRedux.InvalidJob>Не удалось импортировать поручение «{0}»: оно содержит ошибку.</ColonyManagerRedux.InvalidJob>
+  <ColonyManagerRedux.InvertArea>За пределами зоны</ColonyManagerRedux.InvertArea>
+  <ColonyManagerRedux.InvertArea.Tip>Если включено, поручение действует за пределами выбранной зоны, а не внутри неё.</ColonyManagerRedux.InvertArea.Tip>
+  <ColonyManagerRedux.Job.AlreadyUpdatingOrSuspended>поручение уже ожидает обновления или приостановлено</ColonyManagerRedux.Job.AlreadyUpdatingOrSuspended>
+  <ColonyManagerRedux.Job.BottomPriority>Минимальный приоритет</ColonyManagerRedux.Job.BottomPriority>
+  <ColonyManagerRedux.Job.CausedException>Поручение приостановлено из-за ошибки:
+
+{0}.</ColonyManagerRedux.Job.CausedException>
+  <ColonyManagerRedux.Job.ClickToChangeJob>Нажмите, чтобы {0} это поручение.</ColonyManagerRedux.Job.ClickToChangeJob>
+  <ColonyManagerRedux.Job.ClickToChangeUpdateIntervalTooltip>Нажмите, чтобы обновить сейчас или изменить интервал обновления.</ColonyManagerRedux.Job.ClickToChangeUpdateIntervalTooltip>
+  <ColonyManagerRedux.Job.DecreasePriority>Понизить приоритет поручения</ColonyManagerRedux.Job.DecreasePriority>
+  <ColonyManagerRedux.Job.DesignationLabel>{0}
+ расстояние: {1}
+ ожидаемый выход: {2} × {3}</ColonyManagerRedux.Job.DesignationLabel>
+  <ColonyManagerRedux.Job.DesignationLabelMulti>{0}
+ расстояние: {1}
+ ожидаемый выход:
+- {2}</ColonyManagerRedux.Job.DesignationLabelMulti>
+  <ColonyManagerRedux.Job.ForceUpdate>Обновить сейчас</ColonyManagerRedux.Job.ForceUpdate>
+  <ColonyManagerRedux.Job.ForceUpdatePendingTooltip>Поручение поставлено в очередь на принудительное обновление. Управляющий обновит его при следующей обработке поручений.</ColonyManagerRedux.Job.ForceUpdatePendingTooltip>
+  <ColonyManagerRedux.Job.IncreasePriority>Повысить приоритет поручения</ColonyManagerRedux.Job.IncreasePriority>
+  <ColonyManagerRedux.Job.JobHasBeenSuspendedDueToExceptionTooltip>Поручение приостановлено из-за ошибки. Если её причина не устранена, при возобновлении ошибка может сразу повториться.</ColonyManagerRedux.Job.JobHasBeenSuspendedDueToExceptionTooltip>
+  <ColonyManagerRedux.Job.JobHasBeenSuspendedTooltip>Поручение приостановлено.</ColonyManagerRedux.Job.JobHasBeenSuspendedTooltip>
+  <ColonyManagerRedux.Job.JobHasbeenCompletedTooltip>Достигнут заданный порог поручения.</ColonyManagerRedux.Job.JobHasbeenCompletedTooltip>
+  <ColonyManagerRedux.Job.LastUpdatedTooltip>Последнее обновление поручения: {0} назад.</ColonyManagerRedux.Job.LastUpdatedTooltip>
+  <ColonyManagerRedux.Job.NeverUpdatedTooltip>Это поручение ещё ни разу не обновлялось.</ColonyManagerRedux.Job.NeverUpdatedTooltip>
+  <ColonyManagerRedux.Job.New>Новое поручение</ColonyManagerRedux.Job.New>
+  <ColonyManagerRedux.Job.ScheduledToBeUpdatedSuspendedTooltip>Поручение приостановлено и пока не обновляется. После возобновления интервал обновления составит {0}.</ColonyManagerRedux.Job.ScheduledToBeUpdatedSuspendedTooltip>
+  <ColonyManagerRedux.Job.ScheduledToBeUpdatedTooltip>Интервал обновления: {0}.</ColonyManagerRedux.Job.ScheduledToBeUpdatedTooltip>
+  <ColonyManagerRedux.Job.Suspend>приостановить</ColonyManagerRedux.Job.Suspend>
+  <ColonyManagerRedux.Job.TopPriority>Максимальный приоритет</ColonyManagerRedux.Job.TopPriority>
+  <ColonyManagerRedux.Job.Unsuspend>возобновить</ColonyManagerRedux.Job.Unsuspend>
+  <ColonyManagerRedux.Job.Update>Обновлять: {0}</ColonyManagerRedux.Job.Update>
+  <ColonyManagerRedux.JobDefaultsTabLabel>Новые поручения</ColonyManagerRedux.JobDefaultsTabLabel>
+  <ColonyManagerRedux.Livestock.Adult>Взрослые</ColonyManagerRedux.Livestock.Adult>
+  <ColonyManagerRedux.Livestock.AgeHeader>Возрастная стадия</ColonyManagerRedux.Livestock.AgeHeader>
+  <ColonyManagerRedux.Livestock.AnimalGenetics.GeneBias>Генетические предпочтения Animal Genetics</ColonyManagerRedux.Livestock.AnimalGenetics.GeneBias>
+  <ColonyManagerRedux.Livestock.AnimalGenetics.OverrideCulling>Выбраковка</ColonyManagerRedux.Livestock.AnimalGenetics.OverrideCulling>
+  <ColonyManagerRedux.Livestock.AnimalGenetics.OverrideCullingTip>Выбирать животных для выбраковки по параметрам Animal Genetics вместо обычного способа Colony Manager. Сначала будут выбраны животные, хуже всего соответствующие заданным генетическим предпочтениям.</ColonyManagerRedux.Livestock.AnimalGenetics.OverrideCullingTip>
+  <ColonyManagerRedux.Livestock.AnimalGenetics.OverrideTaming>Приручение</ColonyManagerRedux.Livestock.AnimalGenetics.OverrideTaming>
+  <ColonyManagerRedux.Livestock.AnimalGenetics.OverrideTamingTip>Выбирать животных для приручения по параметрам Animal Genetics вместо обычного способа Colony Manager. Сначала будут выбраны животные, лучше всего соответствующие заданным генетическим предпочтениям.</ColonyManagerRedux.Livestock.AnimalGenetics.OverrideTamingTip>
+  <ColonyManagerRedux.Livestock.AnimalGenetics.Use>Отбор с учётом Animal Genetics</ColonyManagerRedux.Livestock.AnimalGenetics.Use>
+  <ColonyManagerRedux.Livestock.AnimalIsCulled>Животное уже прошло выбраковку способом «{0}» и не учитывается в целевой численности</ColonyManagerRedux.Livestock.AnimalIsCulled>
+  <ColonyManagerRedux.Livestock.AnimalIsCulling>Животное назначено на выбраковку способом «{0}»</ColonyManagerRedux.Livestock.AnimalIsCulling>
+  <ColonyManagerRedux.Livestock.AnimalIsDesignatedFor>Животному назначено действие «{0}»</ColonyManagerRedux.Livestock.AnimalIsDesignatedFor>
+  <ColonyManagerRedux.Livestock.AnimalsHeader>{0} {1}</ColonyManagerRedux.Livestock.AnimalsHeader>
+  <ColonyManagerRedux.Livestock.AreaRestrictionsHeader>Ограничения зон</ColonyManagerRedux.Livestock.AreaRestrictionsHeader>
+  <ColonyManagerRedux.Livestock.AvoidCullingMilkable>Сохранять молочных животных перед доением</ColonyManagerRedux.Livestock.AvoidCullingMilkable>
+  <ColonyManagerRedux.Livestock.AvoidCullingMilkable.Tip>Защищать молочных животных от выбраковки, если накопление молока превысило заданный порог?</ColonyManagerRedux.Livestock.AvoidCullingMilkable.Tip>
+  <ColonyManagerRedux.Livestock.AvoidCullingMilkableThreshold>Не выбраковывать, если молока накоплено больше {0}</ColonyManagerRedux.Livestock.AvoidCullingMilkableThreshold>
+  <ColonyManagerRedux.Livestock.AvoidCullingNamed>С именами</ColonyManagerRedux.Livestock.AvoidCullingNamed>
+  <ColonyManagerRedux.Livestock.AvoidCullingNamed.Tip>Защищать от выбраковки животных с настоящим именем, а не номером?</ColonyManagerRedux.Livestock.AvoidCullingNamed.Tip>
+  <ColonyManagerRedux.Livestock.AvoidCullingShearable>Сохранять шерстистых животных перед стрижкой</ColonyManagerRedux.Livestock.AvoidCullingShearable>
+  <ColonyManagerRedux.Livestock.AvoidCullingShearable.Tip>Защищать шерстистых животных от выбраковки, если отрастание шерсти превысило заданный порог?</ColonyManagerRedux.Livestock.AvoidCullingShearable.Tip>
+  <ColonyManagerRedux.Livestock.AvoidCullingShearableThreshold>Не выбраковывать, если шерсть отросла больше чем на {0}</ColonyManagerRedux.Livestock.AvoidCullingShearableThreshold>
+  <ColonyManagerRedux.Livestock.CannotTrainTooSmall>Невозможно обучить этому: {0}. Недостаточный размер тела.</ColonyManagerRedux.Livestock.CannotTrainTooSmall>
+  <ColonyManagerRedux.Livestock.CullBonded>Привязанные</ColonyManagerRedux.Livestock.CullBonded>
+  <ColonyManagerRedux.Livestock.CullBonded.Tip>Разрешить выбраковку животных, привязанных к поселенцам?</ColonyManagerRedux.Livestock.CullBonded.Tip>
+  <ColonyManagerRedux.Livestock.CullExcess>Выбраковывать излишек поголовья</ColonyManagerRedux.Livestock.CullExcess>
+  <ColonyManagerRedux.Livestock.CullExcess.Tip>Выбраковывать животных сверх заданной численности?</ColonyManagerRedux.Livestock.CullExcess.Tip>
+  <ColonyManagerRedux.Livestock.CullPregnant>Беременные</ColonyManagerRedux.Livestock.CullPregnant>
+  <ColonyManagerRedux.Livestock.CullPregnant.Tip>Разрешить выбраковку беременных животных?</ColonyManagerRedux.Livestock.CullPregnant.Tip>
+  <ColonyManagerRedux.Livestock.CullTrained>Обученные</ColonyManagerRedux.Livestock.CullTrained>
+  <ColonyManagerRedux.Livestock.CullTrained.Tip>Разрешить выбраковку обученных животных?</ColonyManagerRedux.Livestock.CullTrained.Tip>
+  <ColonyManagerRedux.Livestock.Culling>выбраковка</ColonyManagerRedux.Livestock.Culling>
+  <ColonyManagerRedux.Livestock.CullingExceptionsHeader>Исключения из выбраковки</ColonyManagerRedux.Livestock.CullingExceptionsHeader>
+  <ColonyManagerRedux.Livestock.CullingHeader>Выбраковка</ColonyManagerRedux.Livestock.CullingHeader>
+  <ColonyManagerRedux.Livestock.CullingStrategy.Butcher>Забой</ColonyManagerRedux.Livestock.CullingStrategy.Butcher>
+  <ColonyManagerRedux.Livestock.CullingStrategy.Butcher.Tip>Назначать лишних животных на забой</ColonyManagerRedux.Livestock.CullingStrategy.Butcher.Tip>
+  <ColonyManagerRedux.Livestock.CullingStrategy.None>Не выбраковывать</ColonyManagerRedux.Livestock.CullingStrategy.None>
+  <ColonyManagerRedux.Livestock.CullingStrategy.None.Tip>Не выбраковывать лишних животных</ColonyManagerRedux.Livestock.CullingStrategy.None.Tip>
+  <ColonyManagerRedux.Livestock.CullingStrategy.Release>Выпуск на волю</ColonyManagerRedux.Livestock.CullingStrategy.Release>
+  <ColonyManagerRedux.Livestock.CullingStrategy.Release.Tip>Назначать лишних животных на выпуск в дикую природу</ColonyManagerRedux.Livestock.CullingStrategy.Release.Tip>
+  <ColonyManagerRedux.Livestock.CullingStrategy.Sterilize>Стерилизация</ColonyManagerRedux.Livestock.CullingStrategy.Sterilize>
+  <ColonyManagerRedux.Livestock.CullingStrategy.Sterilize.Tip>Назначать лишних животных на стерилизацию. В этом режиме уже стерилизованные животные не учитываются при выбраковке: целевое число означает, сколько нестерилизованных животных оставить, а не общую численность поголовья.</ColonyManagerRedux.Livestock.CullingStrategy.Sterilize.Tip>
+  <ColonyManagerRedux.Livestock.DisabledBecauseCullExcessDisabled>Недоступно, поскольку выбраковка лишних животных отключена.</ColonyManagerRedux.Livestock.DisabledBecauseCullExcessDisabled>
+  <ColonyManagerRedux.Livestock.DisabledBecauseNoTrainingSet>Недоступно, поскольку цели обучения не заданы.</ColonyManagerRedux.Livestock.DisabledBecauseNoTrainingSet>
+  <ColonyManagerRedux.Livestock.DisabledBecauseRoamingAnimal>Нельзя ограничить зоной: {0}</ColonyManagerRedux.Livestock.DisabledBecauseRoamingAnimal>
+  <ColonyManagerRedux.Livestock.DisabledBecauseRoamingAnimalTip>Этих животных нельзя ограничить зоной: {0}. Они свободно бродят; вместо зоны используйте загон.</ColonyManagerRedux.Livestock.DisabledBecauseRoamingAnimalTip>
+  <ColonyManagerRedux.Livestock.Follow>Настраивать сопровождение хозяина</ColonyManagerRedux.Livestock.Follow>
+  <ColonyManagerRedux.Livestock.Follow.Tip>Автоматически задавать условия сопровождения хозяина, заменяя ручные настройки. Если выключено, условия можно задавать вручную.</ColonyManagerRedux.Livestock.Follow.Tip>
+  <ColonyManagerRedux.Livestock.FollowDrafted>При призыве</ColonyManagerRedux.Livestock.FollowDrafted>
+  <ColonyManagerRedux.Livestock.FollowDrafted.Tip>Животные должны сопровождать хозяина в режиме призыва?</ColonyManagerRedux.Livestock.FollowDrafted.Tip>
+  <ColonyManagerRedux.Livestock.FollowFieldwork>На работе вне базы</ColonyManagerRedux.Livestock.FollowFieldwork>
+  <ColonyManagerRedux.Livestock.FollowFieldwork.Tip>Животные должны сопровождать хозяина на работе вне базы, например на охоте?</ColonyManagerRedux.Livestock.FollowFieldwork.Tip>
+  <ColonyManagerRedux.Livestock.FollowHeader>Сопровождение</ColonyManagerRedux.Livestock.FollowHeader>
+  <ColonyManagerRedux.Livestock.FollowTraining>Следовать за дрессировщиком</ColonyManagerRedux.Livestock.FollowTraining>
+  <ColonyManagerRedux.Livestock.FollowTraining.Tip>Животные, которым назначено обучение, будут пытаться следовать за своим дрессировщиком.</ColonyManagerRedux.Livestock.FollowTraining.Tip>
+  <ColonyManagerRedux.Livestock.GenderHeader>Пол</ColonyManagerRedux.Livestock.GenderHeader>
+  <ColonyManagerRedux.Livestock.Juvenile>Молодняк</ColonyManagerRedux.Livestock.Juvenile>
+  <ColonyManagerRedux.Livestock.ListEntryAgeAndSexCount>{0}/{1} {2}</ColonyManagerRedux.Livestock.ListEntryAgeAndSexCount>
+  <ColonyManagerRedux.Livestock.ListEntryAgeAndSexCount.WithCulling>{0}/{1} {2} (+ {3} после выбраковки)</ColonyManagerRedux.Livestock.ListEntryAgeAndSexCount.WithCulling>
+  <ColonyManagerRedux.Livestock.ListEntryTooltip>{PAWNKIND_labelPlural}:
+{1}
+{2}
+{3}
+{4}
+{5}</ColonyManagerRedux.Livestock.ListEntryTooltip>
+  <ColonyManagerRedux.Livestock.Logs.AddDesignation>Добавлен приказ «{0}». Животное: {1}; группа: {2}; ожидаемое количество / цель: {3} / {4}</ColonyManagerRedux.Livestock.Logs.AddDesignation>
+  <ColonyManagerRedux.Livestock.Logs.AddTraining>Назначено обучение «{0}» для животного «{1}»</ColonyManagerRedux.Livestock.Logs.AddTraining>
+  <ColonyManagerRedux.Livestock.Logs.AssigningMasterOf>Хозяин: {0}; животное: {1}</ColonyManagerRedux.Livestock.Logs.AssigningMasterOf>
+  <ColonyManagerRedux.Livestock.Logs.AssigningToArea>Животное: {0}; назначенная зона: {1}</ColonyManagerRedux.Livestock.Logs.AssigningToArea>
+  <ColonyManagerRedux.Livestock.Logs.AssigningToAreaFor>Животное: {0}; назначенная зона: {1}; назначение: {2}</ColonyManagerRedux.Livestock.Logs.AssigningToAreaFor>
+  <ColonyManagerRedux.Livestock.Logs.CurrentCountCulling>Проверка необходимости действия «{0}». Животные: {1}; группа: {2}; количество / цель: {3} / {4}; уже назначено на действие «{6}»: {5}; итог: {7}</ColonyManagerRedux.Livestock.Logs.CurrentCountCulling>
+  <ColonyManagerRedux.Livestock.Logs.CurrentCountTame>Проверка необходимости приручения. Животные: {0}; группа: {1}; количество / цель: {2} / {3}; уже назначено приручение: {4}; итог: {5}</ColonyManagerRedux.Livestock.Logs.CurrentCountTame>
+  <ColonyManagerRedux.Livestock.Logs.Drafted>призыв</ColonyManagerRedux.Livestock.Logs.Drafted>
+  <ColonyManagerRedux.Livestock.Logs.FieldWork>работа вне базы</ColonyManagerRedux.Livestock.Logs.FieldWork>
+  <ColonyManagerRedux.Livestock.Logs.Nobody>никто</ColonyManagerRedux.Livestock.Logs.Nobody>
+  <ColonyManagerRedux.Livestock.Logs.Not>не</ColonyManagerRedux.Livestock.Logs.Not>
+  <ColonyManagerRedux.Livestock.Logs.ReleaseAnimalToWild>выпустить</ColonyManagerRedux.Livestock.Logs.ReleaseAnimalToWild>
+  <ColonyManagerRedux.Livestock.Logs.ReleaseAnimalToWild.Action>выпуск на волю</ColonyManagerRedux.Livestock.Logs.ReleaseAnimalToWild.Action>
+  <ColonyManagerRedux.Livestock.Logs.RemoveDesignation>Удалён избыточный приказ «{0}». Животное: {1}; группа: {2}; ожидаемое количество / цель: {3} / {4}</ColonyManagerRedux.Livestock.Logs.RemoveDesignation>
+  <ColonyManagerRedux.Livestock.Logs.RemoveTraining>Отменено обучение «{0}» для животного «{1}»</ColonyManagerRedux.Livestock.Logs.RemoveTraining>
+  <ColonyManagerRedux.Livestock.Logs.SetFollow>Животное: {0}; {1} следовать за хозяином; условие: {2}</ColonyManagerRedux.Livestock.Logs.SetFollow>
+  <ColonyManagerRedux.Livestock.Logs.Slaughter>забить</ColonyManagerRedux.Livestock.Logs.Slaughter>
+  <ColonyManagerRedux.Livestock.Logs.Slaughter.Action>забой</ColonyManagerRedux.Livestock.Logs.Slaughter.Action>
+  <ColonyManagerRedux.Livestock.Logs.Sterilize>стерилизовать</ColonyManagerRedux.Livestock.Logs.Sterilize>
+  <ColonyManagerRedux.Livestock.Logs.Sterilize.Action>стерилизация</ColonyManagerRedux.Livestock.Logs.Sterilize.Action>
+  <ColonyManagerRedux.Livestock.Logs.Sterilize.Culled>стерилизация</ColonyManagerRedux.Livestock.Logs.Sterilize.Culled>
+  <ColonyManagerRedux.Livestock.Logs.TamePastTargets>Настройка «{0}» включена: приручение будет назначено как можно большему числу животных, даже сверх цели. Проверяется возможность приручения: {1}</ColonyManagerRedux.Livestock.Logs.TamePastTargets>
+  <ColonyManagerRedux.Livestock.Logs.TooFew>не хватает: {0}</ColonyManagerRedux.Livestock.Logs.TooFew>
+  <ColonyManagerRedux.Livestock.Logs.TooMany>излишек: {0}</ColonyManagerRedux.Livestock.Logs.TooMany>
+  <ColonyManagerRedux.Livestock.ManagerSettings.AddOverride>Добавить отдельные настройки для вида животных</ColonyManagerRedux.Livestock.ManagerSettings.AddOverride>
+  <ColonyManagerRedux.Livestock.ManagerSettings.Default>По умолчанию</ColonyManagerRedux.Livestock.ManagerSettings.Default>
+  <ColonyManagerRedux.Livestock.ManagerSettings.DefaultCullingExceptionsHeader>Исходные исключения из выбраковки</ColonyManagerRedux.Livestock.ManagerSettings.DefaultCullingExceptionsHeader>
+  <ColonyManagerRedux.Livestock.ManagerSettings.DefaultCullingHeader>Исходные настройки выбраковки</ColonyManagerRedux.Livestock.ManagerSettings.DefaultCullingHeader>
+  <ColonyManagerRedux.Livestock.ManagerSettings.DefaultFollowHeader>Исходные настройки сопровождения</ColonyManagerRedux.Livestock.ManagerSettings.DefaultFollowHeader>
+  <ColonyManagerRedux.Livestock.ManagerSettings.DefaultTamingHeader>Исходные настройки приручения</ColonyManagerRedux.Livestock.ManagerSettings.DefaultTamingHeader>
+  <ColonyManagerRedux.Livestock.ManagerSettings.DefaultTargetCountsHeader>Исходная целевая численность</ColonyManagerRedux.Livestock.ManagerSettings.DefaultTargetCountsHeader>
+  <ColonyManagerRedux.Livestock.ManagerSettings.DefaultTrainingHeader>Исходные настройки обучения</ColonyManagerRedux.Livestock.ManagerSettings.DefaultTrainingHeader>
+  <ColonyManagerRedux.Livestock.ManagerSettings.DeleteOverrideFor>Удалить отдельные настройки: {0}</ColonyManagerRedux.Livestock.ManagerSettings.DeleteOverrideFor>
+  <ColonyManagerRedux.Livestock.Master>{0} ({1})</ColonyManagerRedux.Livestock.Master>
+  <ColonyManagerRedux.Livestock.MasterDefault>Назначать хозяев</ColonyManagerRedux.Livestock.MasterDefault>
+  <ColonyManagerRedux.Livestock.MasterDefault.Tip>Назначать животным конкретного хозяина или распределять их между группами поселенцев. Может заменять ручные назначения.</ColonyManagerRedux.Livestock.MasterDefault.Tip>
+  <ColonyManagerRedux.Livestock.MasterMode.All>Все</ColonyManagerRedux.Livestock.MasterMode.All>
+  <ColonyManagerRedux.Livestock.MasterMode.Hunters>Охотники</ColonyManagerRedux.Livestock.MasterMode.Hunters>
+  <ColonyManagerRedux.Livestock.MasterMode.Manual>Вручную</ColonyManagerRedux.Livestock.MasterMode.Manual>
+  <ColonyManagerRedux.Livestock.MasterMode.Melee>Бойцы ближнего боя</ColonyManagerRedux.Livestock.MasterMode.Melee>
+  <ColonyManagerRedux.Livestock.MasterMode.NonViolent>Неспособные к насилию</ColonyManagerRedux.Livestock.MasterMode.NonViolent>
+  <ColonyManagerRedux.Livestock.MasterMode.Ranged>Стрелки</ColonyManagerRedux.Livestock.MasterMode.Ranged>
+  <ColonyManagerRedux.Livestock.MasterMode.Trainers>Дрессировщики</ColonyManagerRedux.Livestock.MasterMode.Trainers>
+  <ColonyManagerRedux.Livestock.MasterMode.Violent>Способные к насилию</ColonyManagerRedux.Livestock.MasterMode.Violent>
+  <ColonyManagerRedux.Livestock.MasterTraining>Назначать дрессировщиков</ColonyManagerRedux.Livestock.MasterTraining>
+  <ColonyManagerRedux.Livestock.MasterTraining.Tip>Назначать животным, которым требуется обучение, конкретного хозяина-дрессировщика или распределять их между всеми дрессировщиками. Может заменять ручные назначения.</ColonyManagerRedux.Livestock.MasterTraining.Tip>
+  <ColonyManagerRedux.Livestock.MasterUnavailable>Недоступно</ColonyManagerRedux.Livestock.MasterUnavailable>
+  <ColonyManagerRedux.Livestock.MeatHeader>Ожидаемое количество мяса при разделке</ColonyManagerRedux.Livestock.MeatHeader>
+  <ColonyManagerRedux.Livestock.MilkHeader>Накопление молока до следующего доения</ColonyManagerRedux.Livestock.MilkHeader>
+  <ColonyManagerRedux.Livestock.NoAnimals>Нет животных: {0}; {1}</ColonyManagerRedux.Livestock.NoAnimals>
+  <ColonyManagerRedux.Livestock.NoPawnKindSelected>Животное не выбрано</ColonyManagerRedux.Livestock.NoPawnKindSelected>
+  <ColonyManagerRedux.Livestock.RespectBonds>Учитывать привязанность</ColonyManagerRedux.Livestock.RespectBonds>
+  <ColonyManagerRedux.Livestock.RespectBonds.DisabledBecauseMastersNotSet>Недоступно, поскольку хозяин задан вручную или выбран конкретный персонаж.</ColonyManagerRedux.Livestock.RespectBonds.DisabledBecauseMastersNotSet>
+  <ColonyManagerRedux.Livestock.RespectBonds.Tip>Если включено, привязанное животное всегда назначается своему поселенцу. Если выключено, привязанность не учитывается.</ColonyManagerRedux.Livestock.RespectBonds.Tip>
+  <ColonyManagerRedux.Livestock.RestrictToArea>Ограничить животных зоной?</ColonyManagerRedux.Livestock.RestrictToArea>
+  <ColonyManagerRedux.Livestock.RestrictToArea.Tip>Ограничить животных выбранной зоной, при необходимости отдельно по полу и возрастной стадии</ColonyManagerRedux.Livestock.RestrictToArea.Tip>
+  <ColonyManagerRedux.Livestock.SendToCullingArea>Отдельная зона для выбраковки</ColonyManagerRedux.Livestock.SendToCullingArea>
+  <ColonyManagerRedux.Livestock.SendToCullingArea.Tip>Ограничить животных, назначенных на выбраковку, отдельной зоной</ColonyManagerRedux.Livestock.SendToCullingArea.Tip>
+  <ColonyManagerRedux.Livestock.SendToMilkingArea>Отдельная зона для доения</ColonyManagerRedux.Livestock.SendToMilkingArea>
+  <ColonyManagerRedux.Livestock.SendToMilkingArea.Tip>Ограничить отдельной зоной животных, у которых молоко накопилось почти до 100%.</ColonyManagerRedux.Livestock.SendToMilkingArea.Tip>
+  <ColonyManagerRedux.Livestock.SendToShearingArea>Отдельная зона для стрижки</ColonyManagerRedux.Livestock.SendToShearingArea>
+  <ColonyManagerRedux.Livestock.SendToShearingArea.Tip>Ограничить отдельной зоной животных, у которых шерсть отросла почти до 100%</ColonyManagerRedux.Livestock.SendToShearingArea.Tip>
+  <ColonyManagerRedux.Livestock.SendToTrainedArea>Отдельная зона для обученных животных</ColonyManagerRedux.Livestock.SendToTrainedArea>
+  <ColonyManagerRedux.Livestock.SendToTrainedArea.Tip>Ограничить полностью обученных животных отдельной зоной.</ColonyManagerRedux.Livestock.SendToTrainedArea.Tip>
+  <ColonyManagerRedux.Livestock.SendToTrainingArea>Отдельная зона для обучения</ColonyManagerRedux.Livestock.SendToTrainingArea>
+  <ColonyManagerRedux.Livestock.SendToTrainingArea.Tip>Ограничить животных, назначенных на обучение, отдельной зоной.</ColonyManagerRedux.Livestock.SendToTrainingArea.Tip>
+  <ColonyManagerRedux.Livestock.Tame>ручные</ColonyManagerRedux.Livestock.Tame>
+  <ColonyManagerRedux.Livestock.TameArea>Разрешить приручение в зоне:</ColonyManagerRedux.Livestock.TameArea>
+  <ColonyManagerRedux.Livestock.TameCount>Приручено: {0}</ColonyManagerRedux.Livestock.TameCount>
+  <ColonyManagerRedux.Livestock.TameMore>Автоматически назначать приручение</ColonyManagerRedux.Livestock.TameMore>
+  <ColonyManagerRedux.Livestock.TameMore.Tip>Управляющий должен назначать диких животных на приручение?</ColonyManagerRedux.Livestock.TameMore.Tip>
+  <ColonyManagerRedux.Livestock.TamePastTargets>Приручать сверх целевой численности</ColonyManagerRedux.Livestock.TamePastTargets>
+  <ColonyManagerRedux.Livestock.TamePastTargets.Tip>Управляющий должен продолжать назначать приручение, даже если целевая численность достигнута?</ColonyManagerRedux.Livestock.TamePastTargets.Tip>
+  <ColonyManagerRedux.Livestock.TamingHeader>Приручение</ColonyManagerRedux.Livestock.TamingHeader>
+  <ColonyManagerRedux.Livestock.TargetCounts>Целевая численность</ColonyManagerRedux.Livestock.TargetCounts>
+  <ColonyManagerRedux.Livestock.TargetCountsHeader>Целевая численность</ColonyManagerRedux.Livestock.TargetCountsHeader>
+  <ColonyManagerRedux.Livestock.TrainYoung>Обучать молодняк</ColonyManagerRedux.Livestock.TrainYoung>
+  <ColonyManagerRedux.Livestock.TrainYoung.Tip>Назначать обучение также молодым животным</ColonyManagerRedux.Livestock.TrainYoung.Tip>
+  <ColonyManagerRedux.Livestock.Trained>обучено</ColonyManagerRedux.Livestock.Trained>
+  <ColonyManagerRedux.Livestock.Training>Обучение</ColonyManagerRedux.Livestock.Training>
+  <ColonyManagerRedux.Livestock.TrainingHeader>Обучение</ColonyManagerRedux.Livestock.TrainingHeader>
+  <ColonyManagerRedux.Livestock.UnassignTraining>Отменять другое обучение</ColonyManagerRedux.Livestock.UnassignTraining>
+  <ColonyManagerRedux.Livestock.UnassignTraining.Tip>Отменять ранее назначенные цели обучения, не соответствующие этим настройкам</ColonyManagerRedux.Livestock.UnassignTraining.Tip>
+  <ColonyManagerRedux.Livestock.VeneratedAnimal.Tip>Это животное почитают поселенцы: {0}. Они будут недовольны его забоем, употреблением его мяса и смертью приручённого животного.</ColonyManagerRedux.Livestock.VeneratedAnimal.Tip>
+  <ColonyManagerRedux.Livestock.WhetherAnimalIsCulledBy>Применяется ли к животному выбраковка способом «{0}»</ColonyManagerRedux.Livestock.WhetherAnimalIsCulledBy>
+  <ColonyManagerRedux.Livestock.Wild>дикие</ColonyManagerRedux.Livestock.Wild>
+  <ColonyManagerRedux.Livestock.WildCount>В дикой природе: {0}</ColonyManagerRedux.Livestock.WildCount>
+  <ColonyManagerRedux.Livestock.WoolHeader>Отрастание шерсти до следующей стрижки</ColonyManagerRedux.Livestock.WoolHeader>
+  <ColonyManagerRedux.Livestock.Yields>Ожидаемый выход: {0} ×{1}</ColonyManagerRedux.Livestock.Yields>
+  <ColonyManagerRedux.Livestock.YieldsInterval>Ожидаемый выход: {0} ×{1}; интервал: {2} дн.</ColonyManagerRedux.Livestock.YieldsInterval>
+  <ColonyManagerRedux.Logs.AddDesignation>Добавлен приказ «{0}». Цель: {1}; тип: {2}; ожидаемый выход: {3}; ожидаемый итог: {4} {5}</ColonyManagerRedux.Logs.AddDesignation>
+  <ColonyManagerRedux.Logs.AddRelevantGameDesignations>Найдены и добавлены ранее неучтённые приказы «{1}»: {0}</ColonyManagerRedux.Logs.AddRelevantGameDesignations>
+  <ColonyManagerRedux.Logs.CantAddMoreDesignations>Достигнут лимит приказов: больше нельзя назначить цели «{0}» для действия «{1}».</ColonyManagerRedux.Logs.CantAddMoreDesignations>
+  <ColonyManagerRedux.Logs.CleanAreaDesignations>Удалены недействительные приказы: {0} (без цели: {1}; вне заданной зоны «{3}»: {2})</ColonyManagerRedux.Logs.CleanAreaDesignations>
+  <ColonyManagerRedux.Logs.CleanDeadDesignations>Удалены устаревшие приказы: {0} (до: {1}; после: {2})</ColonyManagerRedux.Logs.CleanDeadDesignations>
+  <ColonyManagerRedux.Logs.CleanJobCompletedDesignations>После выполнения поручения удалены незавершённые приказы: {0} (до: {1}; после: {2})</ColonyManagerRedux.Logs.CleanJobCompletedDesignations>
+  <ColonyManagerRedux.Logs.ClickToExpandCollapse>Нажмите, чтобы {0} подробности записи</ColonyManagerRedux.Logs.ClickToExpandCollapse>
+  <ColonyManagerRedux.Logs.Collapse>свернуть</ColonyManagerRedux.Logs.Collapse>
+  <ColonyManagerRedux.Logs.CurrentCount>Количество до выдачи новых приказов / цель: {0} / {1}</ColonyManagerRedux.Logs.CurrentCount>
+  <ColonyManagerRedux.Logs.Expand>развернуть</ColonyManagerRedux.Logs.Expand>
+  <ColonyManagerRedux.Logs.JobCompleted>Поручение перешло в состояние «выполнено»</ColonyManagerRedux.Logs.JobCompleted>
+  <ColonyManagerRedux.Logs.JobDoesNotExist>Невозможно перейти к поручению: оно больше не существует</ColonyManagerRedux.Logs.JobDoesNotExist>
+  <ColonyManagerRedux.Logs.ManagerSettings.KeepLogCount>Число сохраняемых последних записей: {0}</ColonyManagerRedux.Logs.ManagerSettings.KeepLogCount>
+  <ColonyManagerRedux.Logs.ManagerSettings.KeepLogCount.Tip>Чем больше записей, тем больше памяти и места в сохранении они занимают.
+
+Значение применяется при создании или загрузке игры. Его изменение не меняет лимит записей в уже запущенной игре.</ColonyManagerRedux.Logs.ManagerSettings.KeepLogCount.Tip>
+  <ColonyManagerRedux.Logs.ManagerSettings.ShowLogsWithNoWorkDone>Показывать записи без выполненных действий</ColonyManagerRedux.Logs.ManagerSettings.ShowLogsWithNoWorkDone>
+  <ColonyManagerRedux.Logs.ManagerSettings.ShowLogsWithNoWorkDone.Tip>Если выключено, записи поручений, которым нечего было делать, скрываются. Обычно в них мало полезного, кроме сообщения «{0}».</ColonyManagerRedux.Logs.ManagerSettings.ShowLogsWithNoWorkDone.Tip>
+  <ColonyManagerRedux.Logs.NoLogs>Нет записей</ColonyManagerRedux.Logs.NoLogs>
+  <ColonyManagerRedux.Logs.NoValidTargets>Не осталось целей без приказа: {0}. Нужный приказ: {1}</ColonyManagerRedux.Logs.NoValidTargets>
+  <ColonyManagerRedux.Logs.NoWorkDone>Поручение не выполнило никаких действий и не предоставило дополнительных сведений</ColonyManagerRedux.Logs.NoWorkDone>
+  <ColonyManagerRedux.Logs.RemoveDesignation>Удалён избыточный приказ «{0}». Цель: {1}; тип: {2}; ожидаемый выход: {3}; ожидаемый итог: {4} {5}</ColonyManagerRedux.Logs.RemoveDesignation>
+  <ColonyManagerRedux.Logs.SelectToFilterLogsByJob>Выберите поручение, чтобы показать только его записи. Повторный выбор снимет фильтр.</ColonyManagerRedux.Logs.SelectToFilterLogsByJob>
+  <ColonyManagerRedux.Logs.TargetsAlreadySatisfied>Ожидается, что текущие приказы уже обеспечат цель поручения; изменений нет</ColonyManagerRedux.Logs.TargetsAlreadySatisfied>
+  <ColonyManagerRedux.ManagerApplyTemplate>Применить</ColonyManagerRedux.ManagerApplyTemplate>
+  <ColonyManagerRedux.ManagerConfirmOverwrite>Файл «{0}» уже существует.
+
+Перезаписать его?</ColonyManagerRedux.ManagerConfirmOverwrite>
+  <ColonyManagerRedux.ManagerDefaultUpdateInterval>Исходный интервал обновления</ColonyManagerRedux.ManagerDefaultUpdateInterval>
+  <ColonyManagerRedux.ManagerExport>Экспортировать</ColonyManagerRedux.ManagerExport>
+  <ColonyManagerRedux.ManagerImport>Импортировать</ColonyManagerRedux.ManagerImport>
+  <ColonyManagerRedux.ManagerImportExport.JobSaves>Сохранённые поручения</ColonyManagerRedux.ManagerImportExport.JobSaves>
+  <ColonyManagerRedux.ManagerImportExport.Templates>Шаблоны</ColonyManagerRedux.ManagerImportExport.Templates>
+  <ColonyManagerRedux.ManagerJobsExported>Экспортировано поручений: {0}</ColonyManagerRedux.ManagerJobsExported>
+  <ColonyManagerRedux.ManagerJobsImported>Импортировано поручений: {0}</ColonyManagerRedux.ManagerJobsImported>
+  <ColonyManagerRedux.ManagerNoSaves>Экспортированные файлы не найдены.</ColonyManagerRedux.ManagerNoSaves>
+  <ColonyManagerRedux.ManagerSetTemplateAsDefault>Сделать основным</ColonyManagerRedux.ManagerSetTemplateAsDefault>
+  <ColonyManagerRedux.ManagerSetTemplateAsDefault.Tip>Основной шаблон автоматически применяется при постройке первого рабочего места управляющего на новой карте, если это включено в настройках мода.</ColonyManagerRedux.ManagerSetTemplateAsDefault.Tip>
+  <ColonyManagerRedux.ManagerSettings.AddCustomUpdateIntervals>Добавить</ColonyManagerRedux.ManagerSettings.AddCustomUpdateIntervals>
+  <ColonyManagerRedux.ManagerSettings.AlertSettings>Оповещения</ColonyManagerRedux.ManagerSettings.AlertSettings>
+  <ColonyManagerRedux.ManagerSettings.AlertSettings.DaysBeforeShowingAlert>Дней до обычного оповещения: {0}</ColonyManagerRedux.ManagerSettings.AlertSettings.DaysBeforeShowingAlert>
+  <ColonyManagerRedux.ManagerSettings.AlertSettings.DaysBeforeShowingCriticalAlert>Дней до критического оповещения: {0}</ColonyManagerRedux.ManagerSettings.AlertSettings.DaysBeforeShowingCriticalAlert>
+  <ColonyManagerRedux.ManagerSettings.AlertSettings.DaysBeforeShowingHighAlert>Дней до важного оповещения: {0}</ColonyManagerRedux.ManagerSettings.AlertSettings.DaysBeforeShowingHighAlert>
+  <ColonyManagerRedux.ManagerSettings.AlertSettings.ShowJobsNotUpdatingAlert>Оповещать, если поручения не обновляются</ColonyManagerRedux.ManagerSettings.AlertSettings.ShowJobsNotUpdatingAlert>
+  <ColonyManagerRedux.ManagerSettings.AlertSettings.ShowJobsNotUpdatingAlert.Tip>Показывать оповещение, если поручения не обновляются: например, когда управляющие слишком долго заняты другими делами или недееспособны.</ColonyManagerRedux.ManagerSettings.AlertSettings.ShowJobsNotUpdatingAlert.Tip>
+  <ColonyManagerRedux.ManagerSettings.AlertSettings.ShowNoManagerAlert>Оповещать, если управляющий не назначен</ColonyManagerRedux.ManagerSettings.AlertSettings.ShowNoManagerAlert>
+  <ColonyManagerRedux.ManagerSettings.AlertSettings.ShowNoManagerAlert.Tip>Показывать оповещение, если на карте есть поручения по управлению, но управляющий не назначен и ИИ-управляющий не построен.</ColonyManagerRedux.ManagerSettings.AlertSettings.ShowNoManagerAlert.Tip>
+  <ColonyManagerRedux.ManagerSettings.AlertSettings.ShowNoTableAlert>Оповещать, если нет рабочего места управляющего</ColonyManagerRedux.ManagerSettings.AlertSettings.ShowNoTableAlert>
+  <ColonyManagerRedux.ManagerSettings.AlertSettings.ShowNoTableAlert.Tip>Показывать оповещение, если на карте есть поручения по управлению, но не построено ни стола управляющего, ни ИИ-управляющего</ColonyManagerRedux.ManagerSettings.AlertSettings.ShowNoTableAlert.Tip>
+  <ColonyManagerRedux.ManagerSettings.AlertSettings.ShowNoTableNeededAlert>Оповещать, если стол управляющего больше не нужен</ColonyManagerRedux.ManagerSettings.AlertSettings.ShowNoTableNeededAlert>
+  <ColonyManagerRedux.ManagerSettings.AlertSettings.ShowNoTableNeededAlert.Tip>Показывать оповещение, если на карте есть ИИ-управляющий и столы управляющих больше не нужны</ColonyManagerRedux.ManagerSettings.AlertSettings.ShowNoTableNeededAlert.Tip>
+  <ColonyManagerRedux.ManagerSettings.AutoApplyDefaultTemplateOnFirstStation>Применять шаблон при постройке первого рабочего места</ColonyManagerRedux.ManagerSettings.AutoApplyDefaultTemplateOnFirstStation>
+  <ColonyManagerRedux.ManagerSettings.AutoApplyDefaultTemplateOnFirstStation.Tip>Автоматически применять выбранный ниже шаблон поручений при постройке первого рабочего места управляющего на карте. Это избавляет от повторной настройки с нуля. Сохранить шаблон можно на вкладке «Импорт и экспорт».</ColonyManagerRedux.ManagerSettings.AutoApplyDefaultTemplateOnFirstStation.Tip>
+  <ColonyManagerRedux.ManagerSettings.CustomUpdateIntervals>Собственные интервалы обновления</ColonyManagerRedux.ManagerSettings.CustomUpdateIntervals>
+  <ColonyManagerRedux.ManagerSettings.DecreaseCustomUpdateIntervalByDay>− день</ColonyManagerRedux.ManagerSettings.DecreaseCustomUpdateIntervalByDay>
+  <ColonyManagerRedux.ManagerSettings.DecreaseCustomUpdateIntervalByHour>− час</ColonyManagerRedux.ManagerSettings.DecreaseCustomUpdateIntervalByHour>
+  <ColonyManagerRedux.ManagerSettings.DecreaseCustomUpdateIntervalByYear>− год</ColonyManagerRedux.ManagerSettings.DecreaseCustomUpdateIntervalByYear>
+  <ColonyManagerRedux.ManagerSettings.DefaultTaskPriorityOrder>Исходный приоритет задач</ColonyManagerRedux.ManagerSettings.DefaultTaskPriorityOrder>
+  <ColonyManagerRedux.ManagerSettings.DefaultTemplate>Основной шаблон</ColonyManagerRedux.ManagerSettings.DefaultTemplate>
+  <ColonyManagerRedux.ManagerSettings.DefaultTemplate.None>Нет</ColonyManagerRedux.ManagerSettings.DefaultTemplate.None>
+  <ColonyManagerRedux.ManagerSettings.DefaultThresholdSettings>Исходные настройки порога</ColonyManagerRedux.ManagerSettings.DefaultThresholdSettings>
+  <ColonyManagerRedux.ManagerSettings.DisableManagers>Включённые разделы управления</ColonyManagerRedux.ManagerSettings.DisableManagers>
+  <ColonyManagerRedux.ManagerSettings.DisableManagers.Tip>Удаление раздела из списка скрывает его вкладку и настройки. Уже созданные поручения остаются до ручного удаления. Можно отключить ненужные разделы, чтобы освободить интерфейс. Изменения применятся после закрытия и повторного открытия окна управления или настроек мода.</ColonyManagerRedux.ManagerSettings.DisableManagers.Tip>
+  <ColonyManagerRedux.ManagerSettings.GravshipJobConflictResolution>При посадке гравикорабля на карту с местными поручениями</ColonyManagerRedux.ManagerSettings.GravshipJobConflictResolution>
+  <ColonyManagerRedux.ManagerSettings.GravshipJobConflictResolution.AlwaysAsk>Всегда спрашивать</ColonyManagerRedux.ManagerSettings.GravshipJobConflictResolution.AlwaysAsk>
+  <ColonyManagerRedux.ManagerSettings.GravshipJobConflictResolution.KeepGravshipJobs>Оставлять только корабельные</ColonyManagerRedux.ManagerSettings.GravshipJobConflictResolution.KeepGravshipJobs>
+  <ColonyManagerRedux.ManagerSettings.GravshipJobConflictResolution.KeepLocalJobs>Оставлять только местные</ColonyManagerRedux.ManagerSettings.GravshipJobConflictResolution.KeepLocalJobs>
+  <ColonyManagerRedux.ManagerSettings.GravshipJobConflictResolution.MergeJobs>Всегда сохранять все</ColonyManagerRedux.ManagerSettings.GravshipJobConflictResolution.MergeJobs>
+  <ColonyManagerRedux.ManagerSettings.GravshipSettings>Гравикорабль</ColonyManagerRedux.ManagerSettings.GravshipSettings>
+  <ColonyManagerRedux.ManagerSettings.IncreaseCustomUpdateIntervalByDay>+ день</ColonyManagerRedux.ManagerSettings.IncreaseCustomUpdateIntervalByDay>
+  <ColonyManagerRedux.ManagerSettings.IncreaseCustomUpdateIntervalByHour>+ час</ColonyManagerRedux.ManagerSettings.IncreaseCustomUpdateIntervalByHour>
+  <ColonyManagerRedux.ManagerSettings.IncreaseCustomUpdateIntervalByYear>+ год</ColonyManagerRedux.ManagerSettings.IncreaseCustomUpdateIntervalByYear>
+  <ColonyManagerRedux.ManagerSettings.MaxDesignationsPerJob>Лимит одновременно отслеживаемых приказов на поручение: {0}</ColonyManagerRedux.ManagerSettings.MaxDesignationsPerJob>
+  <ColonyManagerRedux.ManagerSettings.MaxDesignationsPerJob.Tip>Управляющий будет поддерживать не больше указанного числа приказов, даже если этого недостаточно для достижения цели. Не все типы поручений могут соблюдать этот лимит.</ColonyManagerRedux.ManagerSettings.MaxDesignationsPerJob.Tip>
+  <ColonyManagerRedux.ManagerSettings.NoMaxDesignationsPerJob>Поручения могут выдавать столько приказов, сколько нужно для достижения цели</ColonyManagerRedux.ManagerSettings.NoMaxDesignationsPerJob>
+  <ColonyManagerRedux.ManagerSettings.TargetCount>Активно, если: &lt; {0}</ColonyManagerRedux.ManagerSettings.TargetCount>
+  <ColonyManagerRedux.ManagerSettings.TemplateSettings>Шаблоны поручений</ColonyManagerRedux.ManagerSettings.TemplateSettings>
+  <ColonyManagerRedux.ManagerStation.OpenManagerTab>Управление колонией</ColonyManagerRedux.ManagerStation.OpenManagerTab>
+  <ColonyManagerRedux.ManagerStation.OpenManagerTab.Tip>Открыть вкладку управления колонией</ColonyManagerRedux.ManagerStation.OpenManagerTab.Tip>
+  <ColonyManagerRedux.ManagerTemplateIsDefault>Основной ✓</ColonyManagerRedux.ManagerTemplateIsDefault>
+  <ColonyManagerRedux.ManagerTemplateSaved>Шаблон сохранён. Поручений: {0}</ColonyManagerRedux.ManagerTemplateSaved>
+  <ColonyManagerRedux.Mining.AllowMining>Разрешить добычу</ColonyManagerRedux.Mining.AllowMining>
+  <ColonyManagerRedux.Mining.AllowMining.Tip>Назначать добычу, чтобы достичь заданного порога.</ColonyManagerRedux.Mining.AllowMining.Tip>
+  <ColonyManagerRedux.Mining.AllowedBuildings>Постройки</ColonyManagerRedux.Mining.AllowedBuildings>
+  <ColonyManagerRedux.Mining.AllowedMinerals>Полезные ископаемые</ColonyManagerRedux.Mining.AllowedMinerals>
+  <ColonyManagerRedux.Mining.CannotFindAncientDanger>&lt;b&gt;ВНИМАНИЕ&lt;/b&gt;: мод не смог найти древнюю опасность на этой карте. Возможно, её генерация отключена, она не появилась на этой карте или мод был добавлен уже после письма с предупреждением. Мод может определить местоположение древней опасности только до отправки этого письма.</ColonyManagerRedux.Mining.CannotFindAncientDanger>
+  <ColonyManagerRedux.Mining.CheckRoofSupport>Оставлять опоры крыши через равные промежутки</ColonyManagerRedux.Mining.CheckRoofSupport>
+  <ColonyManagerRedux.Mining.CheckRoofSupport.Tip>Управляющие будут оставлять опорные столбы через равные промежутки.
+
+ПРИМЕЧАНИЕ: расположение опор рассчитано заранее; обвалы и обрушения крыши всё равно возможны!</ColonyManagerRedux.Mining.CheckRoofSupport.Tip>
+  <ColonyManagerRedux.Mining.CheckRoofSupportAdvanced>Рассчитывать безопасное расположение опор</ColonyManagerRedux.Mining.CheckRoofSupportAdvanced>
+  <ColonyManagerRedux.Mining.CheckRoofSupportAdvanced.Disabled.Tip>Недоступно, поскольку проверка опор крыши отключена.</ColonyManagerRedux.Mining.CheckRoofSupportAdvanced.Disabled.Tip>
+  <ColonyManagerRedux.Mining.CheckRoofSupportAdvanced.Tip>Перед назначением добычи и разборки управляющие будут рассчитывать расположение опор вместо использования готовой сетки. Это существенно снижает риск обвалов и обрушений крыши.</ColonyManagerRedux.Mining.CheckRoofSupportAdvanced.Tip>
+  <ColonyManagerRedux.Mining.CheckRoomDivision>Проверять границы помещений</ColonyManagerRedux.Mining.CheckRoomDivision>
+  <ColonyManagerRedux.Mining.CheckRoomDivision.Tip>Управляющие будут стараться сохранять стены между помещениями и стены, разборка которых создаст новый проход.</ColonyManagerRedux.Mining.CheckRoomDivision.Tip>
+  <ColonyManagerRedux.Mining.Chunks>Обломки</ColonyManagerRedux.Mining.Chunks>
+  <ColonyManagerRedux.Mining.ControlDeepDrills>Управлять глубокими буровыми установками</ColonyManagerRedux.Mining.ControlDeepDrills>
+  <ColonyManagerRedux.Mining.ControlDeepDrills.Tip>Разрешать или запрещать использование глубоких буровых установок и включать или отключать их питание в зависимости от того, достигнут ли порог выбранных ресурсов.</ColonyManagerRedux.Mining.ControlDeepDrills.Tip>
+  <ColonyManagerRedux.Mining.DeconstructAncientDangerWhenFogged>Разбирать древнюю опасность до её вскрытия</ColonyManagerRedux.Mining.DeconstructAncientDangerWhenFogged>
+  <ColonyManagerRedux.Mining.DeconstructAncientDangerWhenFogged.Tip>Если выключено, управляющий не назначает разборку частей древней опасности ради ресурсов, пока игрок не вскроет её. Включение настройки отключает эту защиту.</ColonyManagerRedux.Mining.DeconstructAncientDangerWhenFogged.Tip>
+  <ColonyManagerRedux.Mining.DeconstructBuildings>Разбирать постройки</ColonyManagerRedux.Mining.DeconstructBuildings>
+  <ColonyManagerRedux.Mining.DeconstructBuildings.Tip>Разбирать бесхозные постройки ради материалов?</ColonyManagerRedux.Mining.DeconstructBuildings.Tip>
+  <ColonyManagerRedux.Mining.HaulMapChunks>Назначать переноску обломков с карты</ColonyManagerRedux.Mining.HaulMapChunks>
+  <ColonyManagerRedux.Mining.HaulMapChunks.Tip>Если на карте вне хранилищ есть подходящие обломки, назначать их переноску для достижения заданного порога.</ColonyManagerRedux.Mining.HaulMapChunks.Tip>
+  <ColonyManagerRedux.Mining.HaulMinedChunks>Назначать переноску добытых обломков</ColonyManagerRedux.Mining.HaulMinedChunks>
+  <ColonyManagerRedux.Mining.HaulMinedChunks.Tip>Автоматически назначать переноску обломков, полученных при добыче, например каменных глыб? Это действует только для приказов на добычу, которые отслеживает управляющий, и если соответствующие обломки учитываются порогом. Управляющий может взять под контроль и приказ, выданный вручную, если он помогает достичь порога.</ColonyManagerRedux.Mining.HaulMinedChunks.Tip>
+  <ColonyManagerRedux.Mining.HealthAndSafety>Безопасность работ</ColonyManagerRedux.Mining.HealthAndSafety>
+  <ColonyManagerRedux.Mining.Logs.AddRelevantGameDesignations>Найдены и добавлены ранее неучтённые приказы: на добычу — {0}, на разборку — {1}, на переноску — {2}</ColonyManagerRedux.Mining.Logs.AddRelevantGameDesignations>
+  <ColonyManagerRedux.Mining.Logs.Building>постройка</ColonyManagerRedux.Mining.Logs.Building>
+  <ColonyManagerRedux.Mining.Logs.Buildings>постройки</ColonyManagerRedux.Mining.Logs.Buildings>
+  <ColonyManagerRedux.Mining.Logs.Chunk>обломок</ColonyManagerRedux.Mining.Logs.Chunk>
+  <ColonyManagerRedux.Mining.Logs.Chunks>обломки</ColonyManagerRedux.Mining.Logs.Chunks>
+  <ColonyManagerRedux.Mining.Logs.FlickedDeepDrill>Назначено переключение глубокой буровой установки. Ресурс: {0}; новое состояние: {1}</ColonyManagerRedux.Mining.Logs.FlickedDeepDrill>
+  <ColonyManagerRedux.Mining.Logs.Rock>горная порода</ColonyManagerRedux.Mining.Logs.Rock>
+  <ColonyManagerRedux.Mining.Logs.Rocks>горные породы</ColonyManagerRedux.Mining.Logs.Rocks>
+  <ColonyManagerRedux.Mining.Logs.SkipForbiddenDeepDrill>Пропущена запрещённая глубокая буровая установка. Производимый ресурс: {0}</ColonyManagerRedux.Mining.Logs.SkipForbiddenDeepDrill>
+  <ColonyManagerRedux.Mining.Logs.SkippedAncientDangerBuildings>Пропущены приказы на разборку построек древней опасности: {0}</ColonyManagerRedux.Mining.Logs.SkippedAncientDangerBuildings>
+  <ColonyManagerRedux.Mining.ManagerSettings.DefaultChunks>Исходные настройки обломков</ColonyManagerRedux.Mining.ManagerSettings.DefaultChunks>
+  <ColonyManagerRedux.Mining.ManagerSettings.DefaultHealthAndSafety>Исходные настройки безопасности работ</ColonyManagerRedux.Mining.ManagerSettings.DefaultHealthAndSafety>
+  <ColonyManagerRedux.Mining.ManagerSettings.DefaultMining>Исходные настройки добычи</ColonyManagerRedux.Mining.ManagerSettings.DefaultMining>
+  <ColonyManagerRedux.Mining.Metal>Металл</ColonyManagerRedux.Mining.Metal>
+  <ColonyManagerRedux.Mining.Metal.Tip>Переключить выбор всех залежей, дающих металл</ColonyManagerRedux.Mining.Metal.Tip>
+  <ColonyManagerRedux.Mining.MineThickRoofs>Разрешить добычу под толстой крышей</ColonyManagerRedux.Mining.MineThickRoofs>
+  <ColonyManagerRedux.Mining.MineThickRoofs.Tip>Управляющие будут назначать добычу в местах с толстой крышей</ColonyManagerRedux.Mining.MineThickRoofs.Tip>
+  <ColonyManagerRedux.Mining.Mining>Горные работы</ColonyManagerRedux.Mining.Mining>
+  <ColonyManagerRedux.Mining.MiningArea>Зона работы</ColonyManagerRedux.Mining.MiningArea>
+  <ColonyManagerRedux.Mining.NewJob.Tip>Создать поручение по заготовке ресурсов</ColonyManagerRedux.Mining.NewJob.Tip>
+  <ColonyManagerRedux.Mining.Precious>Драгоценности</ColonyManagerRedux.Mining.Precious>
+  <ColonyManagerRedux.Mining.Precious.Tip>Переключить выбор всех залежей, дающих драгоценные материалы</ColonyManagerRedux.Mining.Precious.Tip>
+  <ColonyManagerRedux.Mining.Stone>Камень</ColonyManagerRedux.Mining.Stone>
+  <ColonyManagerRedux.Mining.Stone.Tip>Переключить выбор всех пород, дающих каменные глыбы</ColonyManagerRedux.Mining.Stone.Tip>
+  <ColonyManagerRedux.Mining.SyncFilterAndAllowed.Tip>Пытаться синхронизировать предметы, учитываемые фильтром порога, с ресурсами и постройками, разрешёнными для добычи и разборки, и наоборот. Многие постройки можно сделать из разных материалов: например, выбор стен включит все материалы, из которых строятся стены.</ColonyManagerRedux.Mining.SyncFilterAndAllowed.Tip>
+  <ColonyManagerRedux.Mining.TakeOwnershipOfMiningJobs>Брать под управление чужие приказы на добычу</ColonyManagerRedux.Mining.TakeOwnershipOfMiningJobs>
+  <ColonyManagerRedux.Mining.TakeOwnershipOfMiningJobs.Disabled.Tip>Недоступно, поскольку добыча запрещена.</ColonyManagerRedux.Mining.TakeOwnershipOfMiningJobs.Disabled.Tip>
+  <ColonyManagerRedux.Mining.TakeOwnershipOfMiningJobs.Tip>Если включено, поручение берёт под управление приказы на добычу, которые создало не оно. Это нежелательно, если вы вручную выкапываете или расширяете комнаты: управляющий может отменить такие приказы при достижении цели или поставить другие задачи по заготовке ресурсов выше ваших.
+
+Ограничения зоны работы и выбранных ресурсов продолжают действовать. Поэтому, чтобы управляющий не вмешивался в ваши приказы, можно выделить зону заготовки ресурсов за пределами колонии.</ColonyManagerRedux.Mining.TakeOwnershipOfMiningJobs.Tip>
+  <ColonyManagerRedux.Mining.TargetCount>Активно, если: {0} {3} (+{1}+{2} ожидается)</ColonyManagerRedux.Mining.TargetCount>
+  <ColonyManagerRedux.Mining.TargetCount.Tip>В запасе: {0}
+Поручение активно при условии: {3} в запасе
+Ожидается от переработки «{4}»: {1}
+Ожидается от текущих приказов: {2}.</ColonyManagerRedux.Mining.TargetCount.Tip>
+  <ColonyManagerRedux.Mining.TargetCount.Tip.Both>обработка камня и плавка</ColonyManagerRedux.Mining.TargetCount.Tip.Both>
+  <ColonyManagerRedux.Mining.TargetCount.Tip.Neither>нет подходящей переработки: выбранные материалы нельзя получить из обломков</ColonyManagerRedux.Mining.TargetCount.Tip.Neither>
+  <ColonyManagerRedux.Mining.TargetCount.Tip.Smelting>плавка</ColonyManagerRedux.Mining.TargetCount.Tip.Smelting>
+  <ColonyManagerRedux.Mining.TargetCount.Tip.Stonecutting>обработка камня</ColonyManagerRedux.Mining.TargetCount.Tip.Stonecutting>
+  <ColonyManagerRedux.Mining.TaskPriorityOrder>Приоритеты задач</ColonyManagerRedux.Mining.TaskPriorityOrder>
+  <ColonyManagerRedux.Mining.TaskPriorityOrder.DeconstructBuildings>Разборка построек</ColonyManagerRedux.Mining.TaskPriorityOrder.DeconstructBuildings>
+  <ColonyManagerRedux.Mining.TaskPriorityOrder.HaulChunks>Переноска обломков</ColonyManagerRedux.Mining.TaskPriorityOrder.HaulChunks>
+  <ColonyManagerRedux.Mining.TaskPriorityOrder.Mine>Добыча</ColonyManagerRedux.Mining.TaskPriorityOrder.Mine>
+  <ColonyManagerRedux.Misc.All>все</ColonyManagerRedux.Misc.All>
+  <ColonyManagerRedux.Misc.NoManagerDatabaseOnShip>На корабле нет базы данных управляющего, поэтому поручения текущей карты не будут перенесены на новую карту.</ColonyManagerRedux.Misc.NoManagerDatabaseOnShip>
+  <ColonyManagerRedux.Misc.Some>часть</ColonyManagerRedux.Misc.Some>
+  <ColonyManagerRedux.NewJobsAreImmediatelyOutdated>Сразу обрабатывать новые поручения</ColonyManagerRedux.NewJobsAreImmediatelyOutdated>
+  <ColonyManagerRedux.NewJobsAreImmediatelyOutdated.Tip>Если включено, новое поручение сразу требует работы управляющего. Если выключено, оно считается обновлённым и впервые обрабатывается лишь по истечении интервала обновления.</ColonyManagerRedux.NewJobsAreImmediatelyOutdated.Tip>
+  <ColonyManagerRedux.NewJobsShouldBeResourceLocked>Ограничивать новые поручения ресурсами карты</ColonyManagerRedux.NewJobsShouldBeResourceLocked>
+  <ColonyManagerRedux.NewJobsShouldBeResourceLocked.Tip>Если включено, в новых поручениях на заготовку можно выбирать только ресурсы, которые эта карта способна предоставить. Если выключено — все ресурсы игры, включая обычно недоступные на этой карте.</ColonyManagerRedux.NewJobsShouldBeResourceLocked.Tip>
+  <ColonyManagerRedux.Overview.Activity>Текущее занятие</ColonyManagerRedux.Overview.Activity>
+  <ColonyManagerRedux.Overview.ClickToJumpTo>Нажмите, чтобы перейти к: {0}</ColonyManagerRedux.Overview.ClickToJumpTo>
+  <ColonyManagerRedux.Overview.CollapseAllGroups.CollapseAll>Свернуть все группы</ColonyManagerRedux.Overview.CollapseAllGroups.CollapseAll>
+  <ColonyManagerRedux.Overview.CollapseAllGroups.ExpandAll>Развернуть все группы</ColonyManagerRedux.Overview.CollapseAllGroups.ExpandAll>
+  <ColonyManagerRedux.Overview.GroupActions.ForceUpdateAll>Обновить все поручения этой группы сейчас</ColonyManagerRedux.Overview.GroupActions.ForceUpdateAll>
+  <ColonyManagerRedux.Overview.GroupActions.ResumeAll>Возобновить все поручения этой группы</ColonyManagerRedux.Overview.GroupActions.ResumeAll>
+  <ColonyManagerRedux.Overview.GroupActions.SetUpdateIntervalAll>Задать интервал обновления для всех поручений этой группы</ColonyManagerRedux.Overview.GroupActions.SetUpdateIntervalAll>
+  <ColonyManagerRedux.Overview.GroupActions.SetUpdateIntervalAllTo>Задать всем поручениям этой группы интервал обновления: {0}</ColonyManagerRedux.Overview.GroupActions.SetUpdateIntervalAllTo>
+  <ColonyManagerRedux.Overview.GroupActions.SuspendAll>Приостановить все поручения этой группы</ColonyManagerRedux.Overview.GroupActions.SuspendAll>
+  <ColonyManagerRedux.Overview.GroupBy>Группировка: {0}</ColonyManagerRedux.Overview.GroupBy>
+  <ColonyManagerRedux.Overview.GroupBy.JobType>Тип поручения</ColonyManagerRedux.Overview.GroupBy.JobType>
+  <ColonyManagerRedux.Overview.GroupBy.Manual>Ручная группа</ColonyManagerRedux.Overview.GroupBy.Manual>
+  <ColonyManagerRedux.Overview.GroupBy.None>Нет</ColonyManagerRedux.Overview.GroupBy.None>
+  <ColonyManagerRedux.Overview.GroupBy.Status>Состояние</ColonyManagerRedux.Overview.GroupBy.Status>
+  <ColonyManagerRedux.Overview.JobTypeFilter.Hide>Поручения «{0}»: скрыть</ColonyManagerRedux.Overview.JobTypeFilter.Hide>
+  <ColonyManagerRedux.Overview.JobTypeFilter.HideAll>Скрыть все типы поручений</ColonyManagerRedux.Overview.JobTypeFilter.HideAll>
+  <ColonyManagerRedux.Overview.JobTypeFilter.Show>Поручения «{0}»: показать</ColonyManagerRedux.Overview.JobTypeFilter.Show>
+  <ColonyManagerRedux.Overview.JobTypeFilter.ShowAll>Показать все типы поручений</ColonyManagerRedux.Overview.JobTypeFilter.ShowAll>
+  <ColonyManagerRedux.Overview.ManualGroup.AssignedTooltip>Группа: {0}
+
+Нажмите, чтобы изменить группу поручения.</ColonyManagerRedux.Overview.ManualGroup.AssignedTooltip>
+  <ColonyManagerRedux.Overview.ManualGroup.CreateGroup>Создать группу</ColonyManagerRedux.Overview.ManualGroup.CreateGroup>
+  <ColonyManagerRedux.Overview.ManualGroup.NameInUse>Группа «{0}» уже существует.</ColonyManagerRedux.Overview.ManualGroup.NameInUse>
+  <ColonyManagerRedux.Overview.ManualGroup.NewGroup>Новая группа…</ColonyManagerRedux.Overview.ManualGroup.NewGroup>
+  <ColonyManagerRedux.Overview.ManualGroup.RemoveFromGroup>Убрать из группы</ColonyManagerRedux.Overview.ManualGroup.RemoveFromGroup>
+  <ColonyManagerRedux.Overview.ManualGroup.RenameGroup>Переименовать группу</ColonyManagerRedux.Overview.ManualGroup.RenameGroup>
+  <ColonyManagerRedux.Overview.ManualGroup.RenameGroupTooltip>Переименовать эту группу</ColonyManagerRedux.Overview.ManualGroup.RenameGroupTooltip>
+  <ColonyManagerRedux.Overview.ManualGroup.UnassignedTooltip>Не входит в группу.
+
+Нажмите, чтобы назначить группу поручению.</ColonyManagerRedux.Overview.ManualGroup.UnassignedTooltip>
+  <ColonyManagerRedux.Overview.ManualGroup.Ungrouped>Без группы</ColonyManagerRedux.Overview.ManualGroup.Ungrouped>
+  <ColonyManagerRedux.Overview.NoCurrentJob>нет текущего поручения</ColonyManagerRedux.Overview.NoCurrentJob>
+  <ColonyManagerRedux.Overview.NoJobDetails>Нет сведений о поручении</ColonyManagerRedux.Overview.NoJobDetails>
+  <ColonyManagerRedux.Overview.NoJobSelected>Поручение не выбрано</ColonyManagerRedux.Overview.NoJobSelected>
+  <ColonyManagerRedux.Overview.NoJobs>Поручения не созданы.</ColonyManagerRedux.Overview.NoJobs>
+  <ColonyManagerRedux.Overview.NoMatchingJobs>Нет поручений, соответствующих поиску и фильтрам.</ColonyManagerRedux.Overview.NoMatchingJobs>
+  <ColonyManagerRedux.Overview.Status.Active>Активно</ColonyManagerRedux.Overview.Status.Active>
+  <ColonyManagerRedux.Overview.Status.Completed>Выполнено</ColonyManagerRedux.Overview.Status.Completed>
+  <ColonyManagerRedux.Overview.Status.NeedsAttention>Требует внимания</ColonyManagerRedux.Overview.Status.NeedsAttention>
+  <ColonyManagerRedux.Overview.Status.Suspended>Приостановлено</ColonyManagerRedux.Overview.Status.Suspended>
+  <ColonyManagerRedux.Overview.WorkEnabled>Включено</ColonyManagerRedux.Overview.WorkEnabled>
+  <ColonyManagerRedux.Overview.WorkPriority>Приоритет</ColonyManagerRedux.Overview.WorkPriority>
+  <ColonyManagerRedux.PerformanceSettings.AdvancedPerformanceSettings>Расширенные настройки для отдельных операций</ColonyManagerRedux.PerformanceSettings.AdvancedPerformanceSettings>
+  <ColonyManagerRedux.PerformanceSettings.AdvancedPerformanceSettings.Tip>Настраивать производительность каждой операции отдельно вместо единого общего значения.</ColonyManagerRedux.PerformanceSettings.AdvancedPerformanceSettings.Tip>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.CompManagerJobHistory.DoHistoryUpdateCoroutine>История поручений: обновление</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.CompManagerJobHistory.DoHistoryUpdateCoroutine>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.ManagerJob.DistancesCoroutine>Расчёт расстояний до целей</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.ManagerJob.DistancesCoroutine>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Foraging.ExecuteJobDataCoroutine>Сбор дикоросов: выполнение поручения</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Foraging.ExecuteJobDataCoroutine>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Foraging.GatherJobDataCoroutine>Сбор дикоросов: сбор данных поручения</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Foraging.GatherJobDataCoroutine>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Foraging.GetCurrentDesignatedCountCoroutine>Сбор дикоросов: подсчёт назначенных целей</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Foraging.GetCurrentDesignatedCountCoroutine>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Foraging_x002B_History.GetCountForHistoryChapterCoroutine>Сбор дикоросов: подсчёт для ряда истории</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Foraging_x002B_History.GetCountForHistoryChapterCoroutine>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Forestry.ExecuteAddDesignations>Лесозаготовки: выдача новых приказов</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Forestry.ExecuteAddDesignations>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Forestry.ExecuteClearAreaDesignations>Лесозаготовки: выдача приказов на расчистку</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Forestry.ExecuteClearAreaDesignations>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Forestry.ExecuteJobDataCoroutine>Лесозаготовки: выполнение поручения</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Forestry.ExecuteJobDataCoroutine>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Forestry.ExecuteReduceDesignations>Лесозаготовки: снятие приказов</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Forestry.ExecuteReduceDesignations>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Forestry.GatherJobDataCoroutine>Лесозаготовки: сбор данных поручения</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Forestry.GatherJobDataCoroutine>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Forestry.GetCurrentDesignatedCountCoroutine>Лесозаготовки: подсчёт назначенных целей</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Forestry.GetCurrentDesignatedCountCoroutine>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Forestry.PlanAddDesignations>Лесозаготовки: планирование новых приказов</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Forestry.PlanAddDesignations>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Forestry.PlanClearAreaDesignations>Лесозаготовки: планирование расчистки зон</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Forestry.PlanClearAreaDesignations>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Forestry.PlanLoggingJob>Лесозаготовки: планирование приказов на рубку</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Forestry.PlanLoggingJob>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Forestry.PlanReduceDesignations>Лесозаготовки: планирование снятия приказов</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Forestry.PlanReduceDesignations>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Forestry_x002B_History.GetCountForHistoryChapterCoroutine>Лесозаготовки: подсчёт для ряда истории</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Forestry_x002B_History.GetCountForHistoryChapterCoroutine>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Hunting.ExecuteAddDesignations>Охота: выдача новых приказов</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Hunting.ExecuteAddDesignations>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Hunting.ExecuteJobDataCoroutine>Охота: выполнение поручения</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Hunting.ExecuteJobDataCoroutine>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Hunting.ExecuteReduceDesignations>Охота: снятие приказов</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Hunting.ExecuteReduceDesignations>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Hunting.ExecuteUnforbidCorpses>Охота: снятие запретов с трупов</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Hunting.ExecuteUnforbidCorpses>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Hunting.GatherJobDataCoroutine>Охота: сбор данных поручения</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Hunting.GatherJobDataCoroutine>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Hunting.GetLeatherInDesignationsCoroutine>Охота: подсчёт кожи в назначенных целях</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Hunting.GetLeatherInDesignationsCoroutine>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Hunting.GetMeatInDesignationsCoroutine>Охота: подсчёт мяса в назначенных целях</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Hunting.GetMeatInDesignationsCoroutine>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Hunting.GetResourceInCorpses>Охота: подсчёт ресурсов в трупах</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Hunting.GetResourceInCorpses>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Hunting.PlanReduceDesignations>Охота: планирование снятия приказов</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Hunting.PlanReduceDesignations>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Hunting.PlanUnforbidCorpses>Охота: планирование снятия запретов с трупов</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Hunting.PlanUnforbidCorpses>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Hunting_x002B_History.GetCountForHistoryChapterCoroutine>Охота: подсчёт для ряда истории</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Hunting_x002B_History.GetCountForHistoryChapterCoroutine>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Livestock.AddRelevantGameDesignations>Животноводство: учёт подходящих приказов игры</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Livestock.AddRelevantGameDesignations>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Livestock.ExecuteAreaRestrictions>Животноводство: назначение зон</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Livestock.ExecuteAreaRestrictions>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Livestock.ExecuteCullingJobs>Животноводство: назначение выбраковки</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Livestock.ExecuteCullingJobs>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Livestock.ExecuteFollowSettings>Животноводство: настройка сопровождения</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Livestock.ExecuteFollowSettings>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Livestock.ExecuteJobDataCoroutine>Животноводство: выполнение поручения</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Livestock.ExecuteJobDataCoroutine>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Livestock.ExecuteTamingJobs>Животноводство: назначение приручения</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Livestock.ExecuteTamingJobs>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Livestock.ExecuteTrainingJobs>Животноводство: назначение обучения</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Livestock.ExecuteTrainingJobs>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Livestock.GatherJobDataCoroutine>Животноводство: сбор данных поручения</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Livestock.GatherJobDataCoroutine>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Livestock.PlanAreaRestrictions>Животноводство: планирование ограничений зон</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Livestock.PlanAreaRestrictions>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Livestock.PlanCullingJobs>Животноводство: планирование выбраковки</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Livestock.PlanCullingJobs>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Livestock.PlanFollowSettings>Животноводство: планирование сопровождения</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Livestock.PlanFollowSettings>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Livestock.PlanTamingJobs>Животноводство: планирование приручения</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Livestock.PlanTamingJobs>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Livestock.PlanTrainingJobs>Животноводство: планирование обучения</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Livestock.PlanTrainingJobs>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Mining.AddRelevantGameDesignations>Заготовка ресурсов: учёт подходящих приказов игры</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Mining.AddRelevantGameDesignations>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Mining.ExecuteAddDesignations>Заготовка ресурсов: выдача новых приказов</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Mining.ExecuteAddDesignations>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Mining.ExecuteDrillFlicks>Заготовка ресурсов: переключение буровых установок</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Mining.ExecuteDrillFlicks>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Mining.ExecuteReduceDesignations>Заготовка ресурсов: снятие приказов</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Mining.ExecuteReduceDesignations>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Mining.GatherJobDataCoroutine>Заготовка ресурсов: сбор данных поручения</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Mining.GatherJobDataCoroutine>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Mining.GetCountInChunksCoroutine>Заготовка ресурсов: подсчёт ресурсов в обломках</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Mining.GetCountInChunksCoroutine>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Mining.GetCountInDesignationsCoroutine>Заготовка ресурсов: подсчёт ресурсов в назначенных целях</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Mining.GetCountInDesignationsCoroutine>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Mining.PlanDeconstructBuildings>Заготовка ресурсов: планирование разборки построек</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Mining.PlanDeconstructBuildings>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Mining.PlanHaulChunks>Заготовка ресурсов: планирование переноски обломков</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Mining.PlanHaulChunks>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Mining.PlanMineResources>Заготовка ресурсов: планирование добычи</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Mining.PlanMineResources>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Mining.PlanReduceDesignations>Заготовка ресурсов: планирование снятия приказов</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Mining.PlanReduceDesignations>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Mining_x002B_History.GetCountForHistoryChapterCoroutine>Заготовка ресурсов: подсчёт для ряда истории</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Mining_x002B_History.GetCountForHistoryChapterCoroutine>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Power.ExecuteJobDataCoroutine>Энергоснабжение: выполнение поручения</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Power.ExecuteJobDataCoroutine>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Power.GatherJobDataCoroutine>Энергоснабжение: сбор данных поручения</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Power.GatherJobDataCoroutine>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Power.RefreshBuildingLists>Энергоснабжение: обновление списка построек</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Power.RefreshBuildingLists>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Power.RefreshCompLists>Энергоснабжение: обновление списка компонентов</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Power.RefreshCompLists>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Power_x002B_HistoryWorker.HistoryUpdateCoroutine>История энергоснабжения: обновление</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Power_x002B_HistoryWorker.HistoryUpdateCoroutine>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Production.ExecuteJobDataCoroutine>Производство: выполнение поручения</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Production.ExecuteJobDataCoroutine>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Production.GatherJobDataCoroutine>Производство: сбор данных поручения</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Managers.ManagerJob_Production.GatherJobDataCoroutine>
+  <ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Utilities.CountProductsCoroutine>Подсчёт продукции на карте и в хранилищах</ColonyManagerRedux.PerformanceSettings.ColonyManagerRedux.Utilities.CountProductsCoroutine>
+  <ColonyManagerRedux.PerformanceSettings.OperationsPerTick>Операций за тик: {0}</ColonyManagerRedux.PerformanceSettings.OperationsPerTick>
+  <ColonyManagerRedux.PerformanceSettings.OperationsPerTick.Tip>Сколько операций можно выполнить за один игровой тик. Состав одной операции зависит от конкретной задачи. Меньшее значение может улучшить производительность, но увеличивает время выполнения поручений. При очень малом значении они могут выполняться крайне долго.</ColonyManagerRedux.PerformanceSettings.OperationsPerTick.Tip>
+  <ColonyManagerRedux.PerformanceSettings.TicksBetweenOperations>Тиков между операциями: {0}</ColonyManagerRedux.PerformanceSettings.TicksBetweenOperations>
+  <ColonyManagerRedux.PerformanceSettings.TicksBetweenOperations.Tip>Сколько игровых тиков должно пройти между операциями. Большее значение может улучшить производительность, но увеличивает время выполнения поручений. При очень большом значении они могут выполняться крайне долго.</ColonyManagerRedux.PerformanceSettings.TicksBetweenOperations.Tip>
+  <ColonyManagerRedux.PerformanceSettings.UseGlobalValue>Использовать общее значение</ColonyManagerRedux.PerformanceSettings.UseGlobalValue>
+  <ColonyManagerRedux.PerformanceSettings.UseGlobalValue.Tip>Использовать для этой вычислительной процедуры общее значение вместо отдельного.</ColonyManagerRedux.PerformanceSettings.UseGlobalValue.Tip>
+  <ColonyManagerRedux.PerformanceSettingsTabLabel>Производительность</ColonyManagerRedux.PerformanceSettingsTabLabel>
+  <ColonyManagerRedux.Production.AddReservedStock>Добавить ресурс в резерв…</ColonyManagerRedux.Production.AddReservedStock>
+  <ColonyManagerRedux.Production.AutoRestrictIngredientsFromLinks>Оставлять только нужные ингредиенты</ColonyManagerRedux.Production.AutoRestrictIngredientsFromLinks>
+  <ColonyManagerRedux.Production.AutoRestrictIngredientsFromLinks.Tip>Автоматически разрешать только те ингредиенты, из которых получается продукция, разрешённая хотя бы одним связанным поручением. Например, если связанным поручениям нужно только мясо медведей и муффало, поручение на разделку будет разрешать только их трупы. Настройка действует лишь для рецептов с определённым соответствием ингредиента и продукции, например разделки; остальные рецепты не меняются. Ограничения обновляются при следующей обработке поручения управляющим и только если у связанных поручений есть спрос. В остальных случаях ваш выбор ингредиентов сохраняется.</ColonyManagerRedux.Production.AutoRestrictIngredientsFromLinks.Tip>
+  <ColonyManagerRedux.Production.AutoTargetFromLinks>Рассчитывать цель по связанным поручениям</ColonyManagerRedux.Production.AutoTargetFromLinks>
+  <ColonyManagerRedux.Production.AutoTargetFromLinks.ComputedTarget>Цель (автоматически): {0}</ColonyManagerRedux.Production.AutoTargetFromLinks.ComputedTarget>
+  <ColonyManagerRedux.Production.AutoTargetFromLinks.ComputedTarget.Tip>Рассчитывается по текущим потребностям всех связанных поручений. Обновляется при следующей обработке этого поручения управляющим, а не сразу после изменения связанных поручений. Для ручного задания отключите «Рассчитывать цель по связанным поручениям».</ColonyManagerRedux.Production.AutoTargetFromLinks.ComputedTarget.Tip>
+  <ColonyManagerRedux.Production.AutoTargetFromLinks.Tip>Автоматически рассчитывать целевое количество по текущим потребностям всех поручений, связанных с этим, вместо ручного задания цели.</ColonyManagerRedux.Production.AutoTargetFromLinks.Tip>
+  <ColonyManagerRedux.Production.CreateLinkedJob>Создать поручение: {0}</ColonyManagerRedux.Production.CreateLinkedJob>
+  <ColonyManagerRedux.Production.DemandAggregation.MaxOfConsumers>Наибольшая отдельная потребность</ColonyManagerRedux.Production.DemandAggregation.MaxOfConsumers>
+  <ColonyManagerRedux.Production.DemandAggregation.MaxOfConsumers.Tip>Поддерживать запас только для самого требовательного связанного поручения. Это экономит труд поселенцев, но иногда приводит к нехватке при одновременном расходе несколькими поручениями.</ColonyManagerRedux.Production.DemandAggregation.MaxOfConsumers.Tip>
+  <ColonyManagerRedux.Production.DemandAggregation.Sum>Сумма потребностей</ColonyManagerRedux.Production.DemandAggregation.Sum>
+  <ColonyManagerRedux.Production.DemandAggregation.Sum.Tip>Поддерживать запас, достаточный для всех связанных поручений одновременно. Это снижает риск нехватки при одновременном расходе, но требует больше производства.</ColonyManagerRedux.Production.DemandAggregation.Sum.Tip>
+  <ColonyManagerRedux.Production.GroupByWorkbench>Группировать по верстакам</ColonyManagerRedux.Production.GroupByWorkbench>
+  <ColonyManagerRedux.Production.GroupByWorkbench.Tip>Группировать доступные рецепты по верстакам, на которых их можно выполнить. Если рецепт доступен на нескольких верстаках, он появится в каждой соответствующей группе.</ColonyManagerRedux.Production.GroupByWorkbench.Tip>
+  <ColonyManagerRedux.Production.IngredientLinked.Tip>Связано с: {0}
+
+Связь охватывает все разрешённые ингредиенты, которые производит это поручение, а не только выбранный.
+
+Нажмите, чтобы изменить или убрать связь.</ColonyManagerRedux.Production.IngredientLinked.Tip>
+  <ColonyManagerRedux.Production.IngredientNotLinked.Tip>Ингредиент не связан с производственным поручением.
+
+Нажмите, чтобы связать его с поручением, которое его производит: тогда его целевое количество будет определяться потребностями текущего поручения. Связь охватывает все разрешённые ингредиенты, производимые связанным поручением, а не только выбранный.</ColonyManagerRedux.Production.IngredientNotLinked.Tip>
+  <ColonyManagerRedux.Production.Ingredients>Ингредиенты</ColonyManagerRedux.Production.Ingredients>
+  <ColonyManagerRedux.Production.JobSettings>Настройки поручения</ColonyManagerRedux.Production.JobSettings>
+  <ColonyManagerRedux.Production.LinkToExisting>Связать с: {0}</ColonyManagerRedux.Production.LinkToExisting>
+  <ColonyManagerRedux.Production.LinkedDemandBufferCount>Запас у поставщика на выпуск: {0}</ColonyManagerRedux.Production.LinkedDemandBufferCount>
+  <ColonyManagerRedux.Production.LinkedDemandBufferCount.Tip>Для какого количества продукции этого поручения связанный поставщик должен держать запас ингредиентов, если начинать производство с нуля. Запас рассчитывается на это количество, а не на полное восполнение целевого запаса поручения. Меньшее значение сокращает залежи сырья; большее позволяет пережить долгие перерывы между выполнениями поручения поставщика.</ColonyManagerRedux.Production.LinkedDemandBufferCount.Tip>
+  <ColonyManagerRedux.Production.LinkedJobs>Связанные поручения</ColonyManagerRedux.Production.LinkedJobs>
+  <ColonyManagerRedux.Production.LinkedRow.Supplies>Поставляет: {0}</ColonyManagerRedux.Production.LinkedRow.Supplies>
+  <ColonyManagerRedux.Production.LinkedRow.SuppliesMore>{0} и ещё {1}</ColonyManagerRedux.Production.LinkedRow.SuppliesMore>
+  <ColonyManagerRedux.Production.LinkedRow.SuppliesWithDemand>Поставляет: {0} (нужно: {1})</ColonyManagerRedux.Production.LinkedRow.SuppliesWithDemand>
+  <ColonyManagerRedux.Production.Logs.BillAdded>Добавлено задание «{0}» на станок «{1}».</ColonyManagerRedux.Production.Logs.BillAdded>
+  <ColonyManagerRedux.Production.Logs.CurrentCount>Текущее количество / цель: {0} / {1}</ColonyManagerRedux.Production.Logs.CurrentCount>
+  <ColonyManagerRedux.Production.ManagedBillCount>Заданий станков под управлением: {0}</ColonyManagerRedux.Production.ManagedBillCount>
+  <ColonyManagerRedux.Production.ManagedByJob>Под управлением производственного поручения Colony Manager ({0})</ColonyManagerRedux.Production.ManagedByJob>
+  <ColonyManagerRedux.Production.Mode>Режим</ColonyManagerRedux.Production.Mode>
+  <ColonyManagerRedux.Production.Mode.ConsumeSurplus>Перерабатывать излишки</ColonyManagerRedux.Production.Mode.ConsumeSurplus>
+  <ColonyManagerRedux.Production.Mode.ConsumeSurplus.Tip>Выполнять рецепт при избытке другого ресурса, независимо от количества получаемой продукции. Например, перерабатывать лишний хлопок в хлопковые плащи.</ColonyManagerRedux.Production.Mode.ConsumeSurplus.Tip>
+  <ColonyManagerRedux.Production.Mode.MaintainStock>Поддерживать запас</ColonyManagerRedux.Production.Mode.MaintainStock>
+  <ColonyManagerRedux.Production.Mode.MaintainStock.Tip>Пополнять запас продукции этого рецепта. Условие запуска определяется количеством самой продукции.</ColonyManagerRedux.Production.Mode.MaintainStock.Tip>
+  <ColonyManagerRedux.Production.NoRecipesFound>Рецепты не найдены.</ColonyManagerRedux.Production.NoRecipesFound>
+  <ColonyManagerRedux.Production.OtherRecipesAvailable>Другие доступные рецепты</ColonyManagerRedux.Production.OtherRecipesAvailable>
+  <ColonyManagerRedux.Production.OtherRecipesAvailable.Tip>Выбрать другой рецепт той же продукции, сохранив условие запуска и историю поручения.</ColonyManagerRedux.Production.OtherRecipesAvailable.Tip>
+  <ColonyManagerRedux.Production.Recipe>Рецепт</ColonyManagerRedux.Production.Recipe>
+  <ColonyManagerRedux.Production.ReservedStock>Неприкосновенный запас</ColonyManagerRedux.Production.ReservedStock>
+  <ColonyManagerRedux.Production.ReservedStock.JobOverride.Tip>Количество этого ингредиента, которое производственные задания данного поручения не должны расходовать. Пока значение здесь не изменено, используется неприкосновенный запас по умолчанию.</ColonyManagerRedux.Production.ReservedStock.JobOverride.Tip>
+  <ColonyManagerRedux.Production.ReservedStock.Remove>Убрать неприкосновенный запас для этого поручения</ColonyManagerRedux.Production.ReservedStock.Remove>
+  <ColonyManagerRedux.Production.ReservedStock.ResetToGlobal>Восстановить неприкосновенный запас по умолчанию</ColonyManagerRedux.Production.ReservedStock.ResetToGlobal>
+  <ColonyManagerRedux.Production.ReservedStock.Tip>Укажите, сколько ресурса производственные задания должны оставлять для других нужд — например, не менее 500 стали. Ограничение действует для всех производственных поручений, использующих этот ресурс; для отдельного поручения можно задать другое значение.</ColonyManagerRedux.Production.ReservedStock.Tip>
+  <ColonyManagerRedux.Production.SkillRange.Label>Допустимый уровень навыка «{0}»:</ColonyManagerRedux.Production.SkillRange.Label>
+  <ColonyManagerRedux.Production.SyncFilterAndAllowed.Tip>Синхронизировать разрешённые ингредиенты с фильтром порога запуска. Отключите, чтобы запуск зависел от одного ресурса, например сена, а поручение расходовало другой — например мясо для корма хищникам.</ColonyManagerRedux.Production.SyncFilterAndAllowed.Tip>
+  <ColonyManagerRedux.Production.Unlink>Отвязать: {0}</ColonyManagerRedux.Production.Unlink>
+  <ColonyManagerRedux.Production.WorkbenchScope>Станки</ColonyManagerRedux.Production.WorkbenchScope>
+  <ColonyManagerRedux.Production.WorkbenchScope.All>Все</ColonyManagerRedux.Production.WorkbenchScope.All>
+  <ColonyManagerRedux.Production.WorkbenchScope.All.Tip>Поручение управляет всеми подходящими станками на карте.</ColonyManagerRedux.Production.WorkbenchScope.All.Tip>
+  <ColonyManagerRedux.Production.WorkbenchScope.Area>В зоне</ColonyManagerRedux.Production.WorkbenchScope.Area>
+  <ColonyManagerRedux.Production.WorkbenchScope.Area.Tip>Поручение управляет только станками внутри выбранной зоны или за её пределами, если зона инвертирована.</ColonyManagerRedux.Production.WorkbenchScope.Area.Tip>
+  <ColonyManagerRedux.Production.WorkbenchScope.NoEligibleWorkbenches>Подходящие станки ещё не построены.</ColonyManagerRedux.Production.WorkbenchScope.NoEligibleWorkbenches>
+  <ColonyManagerRedux.Production.WorkbenchScope.Specific>Выбранные</ColonyManagerRedux.Production.WorkbenchScope.Specific>
+  <ColonyManagerRedux.Production.WorkbenchScope.Specific.Tip>Поручение управляет только станками, выбранными вручную.</ColonyManagerRedux.Production.WorkbenchScope.Specific.Tip>
+  <ColonyManagerRedux.RecordHistoricalData>Записывать историю</ColonyManagerRedux.RecordHistoricalData>
+  <ColonyManagerRedux.RecordHistoricalData.Tip>Несколько раз в день записывать данные каждого поручения для графиков изменения значений. Запись требует вычислений; при проблемах с производительностью её можно отключить.</ColonyManagerRedux.RecordHistoricalData.Tip>
+  <ColonyManagerRedux.SaveAsTemplate>Сохранить как шаблон</ColonyManagerRedux.SaveAsTemplate>
+  <ColonyManagerRedux.SelectExportJobs>Выберите поручения для экспорта</ColonyManagerRedux.SelectExportJobs>
+  <ColonyManagerRedux.SelectImportJobs>Выберите поручения для импорта</ColonyManagerRedux.SelectImportJobs>
+  <ColonyManagerRedux.SelectTemplateJobs>Выберите поручения для шаблона</ColonyManagerRedux.SelectTemplateJobs>
+  <ColonyManagerRedux.SharedSettingsTabLabel>Общие параметры</ColonyManagerRedux.SharedSettingsTabLabel>
+  <ColonyManagerRedux.Shortcuts.All>Все</ColonyManagerRedux.Shortcuts.All>
+  <ColonyManagerRedux.ShowInfoCardButtonsWherePossible>Показывать кнопки сведений, где возможно</ColonyManagerRedux.ShowInfoCardButtonsWherePossible>
+  <ColonyManagerRedux.ShowInfoCardButtonsWherePossible.Tip>Показывать рядом с подходящими объектами поручений кнопки для быстрого открытия их информационных карточек.</ColonyManagerRedux.ShowInfoCardButtonsWherePossible.Tip>
+  <ColonyManagerRedux.SyncFilterAndAllowed>Синхронизировать порог</ColonyManagerRedux.SyncFilterAndAllowed>
+  <ColonyManagerRedux.Task.DecreasePriority>Понизить приоритет задачи</ColonyManagerRedux.Task.DecreasePriority>
+  <ColonyManagerRedux.Task.IncreasePriority>Повысить приоритет задачи</ColonyManagerRedux.Task.IncreasePriority>
+  <ColonyManagerRedux.Templates.DefaultTemplateSkippedModMismatch>Основной шаблон поручений «{0}» не применён автоматически: он сохранён с другим набором модов. Если эти поручения всё же нужны, примените шаблон вручную на вкладке «Импорт и экспорт» окна управления.</ColonyManagerRedux.Templates.DefaultTemplateSkippedModMismatch>
+  <ColonyManagerRedux.Templates.FileTypeJobSave>сохранённые поручения</ColonyManagerRedux.Templates.FileTypeJobSave>
+  <ColonyManagerRedux.Templates.FileTypeTemplate>шаблон</ColonyManagerRedux.Templates.FileTypeTemplate>
+  <ColonyManagerRedux.Templates.ModMismatchHeader>Тип файла: {0}; название: «{1}». Файл сохранён с другим набором включённых модов. Некоторые поручения могут не загрузиться или ссылаться на отсутствующий контент.</ColonyManagerRedux.Templates.ModMismatchHeader>
+  <ColonyManagerRedux.Templates.ModMismatchTitle>Различие модов в поручениях управляющего</ColonyManagerRedux.Templates.ModMismatchTitle>
+  <ColonyManagerRedux.Threshold>Порог</ColonyManagerRedux.Threshold>
+  <ColonyManagerRedux.Threshold.AllowAnyThreshold>Разрешить любые предметы для расчёта порога</ColonyManagerRedux.Threshold.AllowAnyThreshold>
+  <ColonyManagerRedux.Threshold.AllowAnyThreshold.Tip>Если включено, порог можно определять по любым предметам, а не только связанным с поручением.
+
+Внимание: при отключении фильтр порога будет сброшен и снова будет учитывать только предметы, связанные с поручением.</ColonyManagerRedux.Threshold.AllowAnyThreshold.Tip>
+  <ColonyManagerRedux.Threshold.AllowAnyThreshold.Warning>&lt;b&gt;ВНИМАНИЕ&lt;/b&gt;: если фильтр считает предметы, не связанные с поручением, расчёт приказов почти наверняка будет работать неожиданно: ожидаемые ресурсы от этих приказов не повлияют на выбранный счётчик так, как предполагает расчёт.</ColonyManagerRedux.Threshold.AllowAnyThreshold.Warning>
+  <ColonyManagerRedux.Threshold.CheckReachability>Проверять доступность целей</ColonyManagerRedux.Threshold.CheckReachability>
+  <ColonyManagerRedux.Threshold.CheckReachability.Tip>Перед выдачей приказа проверять, существует ли путь до цели хотя бы для одного персонажа.</ColonyManagerRedux.Threshold.CheckReachability.Tip>
+  <ColonyManagerRedux.Threshold.CountAllOnMap>Считать всё на карте</ColonyManagerRedux.Threshold.CountAllOnMap>
+  <ColonyManagerRedux.Threshold.CountAllOnMap.Tip>Если включено, учитывать на всей карте все предметы, разрешённые фильтром порога. Если выключено — только предметы в зонах склада и хранилищах.</ColonyManagerRedux.Threshold.CountAllOnMap.Tip>
+  <ColonyManagerRedux.Threshold.EqualTo>Равно</ColonyManagerRedux.Threshold.EqualTo>
+  <ColonyManagerRedux.Threshold.EqualTo.Tip>Поручение активно, пока количество выбранных предметов равно {0}.</ColonyManagerRedux.Threshold.EqualTo.Tip>
+  <ColonyManagerRedux.Threshold.GreaterThan>Больше</ColonyManagerRedux.Threshold.GreaterThan>
+  <ColonyManagerRedux.Threshold.GreaterThan.Tip>Поручение активно, пока количество выбранных предметов больше {0}.</ColonyManagerRedux.Threshold.GreaterThan.Tip>
+  <ColonyManagerRedux.Threshold.LowerThan>Меньше</ColonyManagerRedux.Threshold.LowerThan>
+  <ColonyManagerRedux.Threshold.LowerThan.Tip>Поручение активно, пока количество выбранных предметов меньше {0}.</ColonyManagerRedux.Threshold.LowerThan.Tip>
+  <ColonyManagerRedux.Threshold.NotEqualTo>Не равно</ColonyManagerRedux.Threshold.NotEqualTo>
+  <ColonyManagerRedux.Threshold.NotEqualTo.Tip>Поручение активно, пока количество выбранных предметов не равно {0}.</ColonyManagerRedux.Threshold.NotEqualTo.Tip>
+  <ColonyManagerRedux.Threshold.PathBasedDistance>Измерять расстояние по реальному пути</ColonyManagerRedux.Threshold.PathBasedDistance>
+  <ColonyManagerRedux.Threshold.PathBasedDistance.Tip>Если включено, расстояние рассчитывается по реальному пути. Если выключено — по прямой.
+
+ПРИМЕЧАНИЕ: при большом числе возможных целей эта настройка может вызывать заметные задержки.</ColonyManagerRedux.Threshold.PathBasedDistance.Tip>
+  <ColonyManagerRedux.Thresholds.Available>Доступно</ColonyManagerRedux.Thresholds.Available>
+  <ColonyManagerRedux.Thresholds.Current>Сейчас</ColonyManagerRedux.Thresholds.Current>
+  <ColonyManagerRedux.Thresholds.ThresholdCount>Активно, если: {0} {1}</ColonyManagerRedux.Thresholds.ThresholdCount>
+  <ColonyManagerRedux.Thresholds.ThresholdCountTooltip>Нажмите, чтобы открыть настройки порога.
+
+Цель: {1}
+Сейчас: {0}</ColonyManagerRedux.Thresholds.ThresholdCountTooltip>
+  <ColonyManagerRedux.Thresholds.ThresholdCountWithExpected>Активно, если: {0} {2} (+ {1} ожидается)</ColonyManagerRedux.Thresholds.ThresholdCountWithExpected>
+  <ColonyManagerRedux.UpdateInterval.Custom>Интервал: {0}</ColonyManagerRedux.UpdateInterval.Custom>
+  <ColonyManagerRedux.UpdateInterval.Daily>Ежедневно</ColonyManagerRedux.UpdateInterval.Daily>
+  <ColonyManagerRedux.UpdateInterval.Hourly>Каждый час</ColonyManagerRedux.UpdateInterval.Hourly>
+  <ColonyManagerRedux.UpdateInterval.Monthly>Каждый месяц</ColonyManagerRedux.UpdateInterval.Monthly>
+  <ColonyManagerRedux.UpdateInterval.MultipleHourly>Каждые {0} ч</ColonyManagerRedux.UpdateInterval.MultipleHourly>
+  <ColonyManagerRedux.UpdateInterval.Yearly>Ежегодно</ColonyManagerRedux.UpdateInterval.Yearly>
+  <chupakobra6_3310027356_AgeSex0>взрослая самка</chupakobra6_3310027356_AgeSex0>
+  <chupakobra6_3310027356_AgeSex1>взрослый самец</chupakobra6_3310027356_AgeSex1>
+  <chupakobra6_3310027356_AgeSex2>молодая самка</chupakobra6_3310027356_AgeSex2>
+  <chupakobra6_3310027356_AgeSex3>молодой самец</chupakobra6_3310027356_AgeSex3>
+  <chupakobra6_3310027356_AgeSexPlural0>взрослые самки</chupakobra6_3310027356_AgeSexPlural0>
+  <chupakobra6_3310027356_AgeSexPlural1>взрослые самцы</chupakobra6_3310027356_AgeSexPlural1>
+  <chupakobra6_3310027356_AgeSexPlural2>молодые самки</chupakobra6_3310027356_AgeSexPlural2>
+  <chupakobra6_3310027356_AgeSexPlural3>молодые самцы</chupakobra6_3310027356_AgeSexPlural3>
+  <chupakobra6_3310027356_DeleteJob>Удалить это поручение по животноводству.</chupakobra6_3310027356_DeleteJob>
+  <chupakobra6_3310027356_ManageJob>Начать управлять этими животными по заданным настройкам.</chupakobra6_3310027356_ManageJob>
+</LanguageData>

@@ -1,0 +1,59 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RtcSyn_Anomaly.description>Сангвофаги, культисты и создания постраннее. Нелегко добить.</RtcSyn_Anomaly.description>
+  <RtcSyn_Anomaly.label>аномальные</RtcSyn_Anomaly.label>
+  <RtcSyn_ApexAura.description>Выдающийся командир, чьё присутствие усиливает весь строй поблизости.</RtcSyn_ApexAura.description>
+  <RtcSyn_ApexAura.label>вершина: полководец</RtcSyn_ApexAura.label>
+  <RtcSyn_ApexBulwark.description>Могучий исполин с тяжёлой бронёй и способностью к восстановлению.</RtcSyn_ApexBulwark.description>
+  <RtcSyn_ApexBulwark.label>вершина: оплот</RtcSyn_ApexBulwark.label>
+  <RtcSyn_ApexLifesteal.description>Высший боец ближнего боя, восстанавливающий здоровье за счёт нанесённого урона.</RtcSyn_ApexLifesteal.description>
+  <RtcSyn_ApexLifesteal.label>вершина: жажда крови</RtcSyn_ApexLifesteal.label>
+  <RtcSyn_Archer.description>Лучники и стрелки с примитивным оружием. Повышенная точность.</RtcSyn_Archer.description>
+  <RtcSyn_Archer.label>лучники</RtcSyn_Archer.label>
+  <RtcSyn_Armored.description>Крупные или бронированные громилы. Мощное снижение урона.</RtcSyn_Armored.description>
+  <RtcSyn_Armored.label>бронированные</RtcSyn_Armored.label>
+  <RtcSyn_Beast.description>Звери получают дополнительное здоровье. Все союзные животные получают меньше урона.</RtcSyn_Beast.description>
+  <RtcSyn_Beast.label>дикие звери</RtcSyn_Beast.label>
+  <RtcSyn_Elite.description>Ветераны обычного телосложения. Всестороннее усиление.</RtcSyn_Elite.description>
+  <RtcSyn_Elite.label>элита</RtcSyn_Elite.label>
+  <RtcSyn_Empire.description>Имперские солдаты получают меньше урона.</RtcSyn_Empire.description>
+  <RtcSyn_Empire.label>имперский легион</RtcSyn_Empire.label>
+  <RtcSyn_EmpireRoyal.description>Имперская знать — стойкие бойцы передовой.</RtcSyn_EmpireRoyal.description>
+  <RtcSyn_EmpireRoyal.label>имперская знать</RtcSyn_EmpireRoyal.label>
+  <RtcSyn_Entity.description>Потусторонние ужасы. Прочные, нечувствительные к боли и восстанавливающиеся, когда их много.</RtcSyn_Entity.description>
+  <RtcSyn_Entity.label>сущности</RtcSyn_Entity.label>
+  <RtcSyn_Fierce.description>Звери, способные дать яростный отпор. Выносливее и агрессивнее.</RtcSyn_Fierce.description>
+  <RtcSyn_Fierce.label>свирепые</RtcSyn_Fierce.label>
+  <RtcSyn_Fleshbeast.description>Орда биошматов, залечивающих раны в бою и делящихся после гибели.</RtcSyn_Fleshbeast.description>
+  <RtcSyn_Fleshbeast.label>биошматы</RtcSyn_Fleshbeast.label>
+  <RtcSyn_Guild.description>Бойцы гильдии быстрее готовят оружие к следующему выстрелу и немного сильнее бьют в ближнем бою.</RtcSyn_Guild.description>
+  <RtcSyn_Guild.label>гильдия торговцев</RtcSyn_Guild.label>
+  <RtcSyn_Heavy.description>Бойцы с тяжёлым оружием становятся метче и выносливее.</RtcSyn_Heavy.description>
+  <RtcSyn_Heavy.label>тяжёлое оружие</RtcSyn_Heavy.label>
+  <RtcSyn_Insect.description>Инсектоиды быстрее передвигаются, получают меньше урона и залечивают раны.</RtcSyn_Insect.description>
+  <RtcSyn_Insect.label>инсектоиды</RtcSyn_Insect.label>
+  <RtcSyn_LightMech.description>Лёгкие механоиды. Быстрое прицеливание и точная стрельба.</RtcSyn_LightMech.description>
+  <RtcSyn_LightMech.label>лёгкие механоиды</RtcSyn_LightMech.label>
+  <RtcSyn_Mech.description>Тяжёлые механоиды получают значительно меньше урона.</RtcSyn_Mech.description>
+  <RtcSyn_Mech.label>тяжёлые механоиды</RtcSyn_Mech.label>
+  <RtcSyn_Melee.description>Бойцы ближнего боя получают меньше урона и чаще уклоняются.</RtcSyn_Melee.description>
+  <RtcSyn_Melee.label>ближний бой</RtcSyn_Melee.label>
+  <RtcSyn_Mercenary.description>Закалённые наёмники. Сильны во всём.</RtcSyn_Mercenary.description>
+  <RtcSyn_Mercenary.label>наёмники</RtcSyn_Mercenary.label>
+  <RtcSyn_Orbital.description>Бойцы из космоса. Подвижнее и быстрее прицеливаются.</RtcSyn_Orbital.description>
+  <RtcSyn_Orbital.label>орбитальные силы</RtcSyn_Orbital.label>
+  <RtcSyn_Outlander.description>Задиристые чужаки. Быстрые и увёртливые.</RtcSyn_Outlander.description>
+  <RtcSyn_Outlander.label>чужаки</RtcSyn_Outlander.label>
+  <RtcSyn_Pirate.description>Пираты и налётчики. Меткие и закалённые.</RtcSyn_Pirate.description>
+  <RtcSyn_Pirate.label>пираты</RtcSyn_Pirate.label>
+  <RtcSyn_Predator.description>Стая хищников. Бьёт сильнее и быстрее.</RtcSyn_Predator.description>
+  <RtcSyn_Predator.label>хищники</RtcSyn_Predator.label>
+  <RtcSyn_Ranged.description>Стрелки быстрее прицеливаются и точнее стреляют.</RtcSyn_Ranged.description>
+  <RtcSyn_Ranged.label>стрелки</RtcSyn_Ranged.label>
+  <RtcSyn_Sniper.description>Снайперы получают значительно повышенную точность.</RtcSyn_Sniper.description>
+  <RtcSyn_Sniper.label>снайперы</RtcSyn_Sniper.label>
+  <RtcSyn_Swift.description>Маленькие или быстрые бойцы. Выше скорость и шанс уклонения.</RtcSyn_Swift.description>
+  <RtcSyn_Swift.label>быстрые</RtcSyn_Swift.label>
+  <RtcSyn_Tribal.description>Племенные бойцы быстрее передвигаются и точнее бьют в ближнем бою.</RtcSyn_Tribal.description>
+  <RtcSyn_Tribal.label>племенные</RtcSyn_Tribal.label>
+</LanguageData>

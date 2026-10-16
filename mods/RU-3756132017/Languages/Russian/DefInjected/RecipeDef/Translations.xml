@@ -1,0 +1,123 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Administer_Moyo2_BlueSerum.jobString>Вводит синюю сыворотку.</Administer_Moyo2_BlueSerum.jobString>
+  <Administer_Moyo2_BlueSerum.label>ввести синюю сыворотку</Administer_Moyo2_BlueSerum.label>
+  <Administer_Moyo2_DBBooster_Blueburst.jobString>Вводит стимулятор «Синий всплеск».</Administer_Moyo2_DBBooster_Blueburst.jobString>
+  <Administer_Moyo2_DBBooster_Blueburst.label>ввести стимулятор «Синий всплеск»</Administer_Moyo2_DBBooster_Blueburst.label>
+  <Administer_Moyo2_DBBooster_Hydra.jobString>Вводит стимулятор «Гидра».</Administer_Moyo2_DBBooster_Hydra.jobString>
+  <Administer_Moyo2_DBBooster_Hydra.label>ввести стимулятор «Гидра»</Administer_Moyo2_DBBooster_Hydra.label>
+  <Administer_Moyo2_DBBooster_Medi.jobString>Вводит медицинский стимулятор.</Administer_Moyo2_DBBooster_Medi.jobString>
+  <Administer_Moyo2_DBBooster_Medi.label>ввести медицинский стимулятор</Administer_Moyo2_DBBooster_Medi.label>
+  <Administer_Moyo2_DBBooster_Orca.jobString>Вводит стимулятор «Косатка».</Administer_Moyo2_DBBooster_Orca.jobString>
+  <Administer_Moyo2_DBBooster_Orca.label>ввести стимулятор «Косатка»</Administer_Moyo2_DBBooster_Orca.label>
+  <Administer_Moyo2_DBPearl_Alluring.jobString>Даёт жемчуг соблазнения.</Administer_Moyo2_DBPearl_Alluring.jobString>
+  <Administer_Moyo2_DBPearl_Alluring.label>дать жемчуг соблазнения</Administer_Moyo2_DBPearl_Alluring.label>
+  <Administer_Moyo2_DBPearl_Crystal.jobString>Даёт кристальный жемчуг.</Administer_Moyo2_DBPearl_Crystal.jobString>
+  <Administer_Moyo2_DBPearl_Crystal.label>дать кристальный жемчуг</Administer_Moyo2_DBPearl_Crystal.label>
+  <Administer_Moyo2_DBPearl_Joy.jobString>Даёт жемчуг радости.</Administer_Moyo2_DBPearl_Joy.jobString>
+  <Administer_Moyo2_DBPearl_Joy.label>дать жемчуг радости</Administer_Moyo2_DBPearl_Joy.label>
+  <Administer_Moyo2_DBPearl_Numb.jobString>Даёт жемчуг онемения.</Administer_Moyo2_DBPearl_Numb.jobString>
+  <Administer_Moyo2_DBPearl_Numb.label>дать жемчуг онемения</Administer_Moyo2_DBPearl_Numb.label>
+  <Administer_Moyo2_DBPearl_Thinker.jobString>Даёт жемчуг мыслителя.</Administer_Moyo2_DBPearl_Thinker.jobString>
+  <Administer_Moyo2_DBPearl_Thinker.label>дать жемчуг мыслителя</Administer_Moyo2_DBPearl_Thinker.label>
+  <Moyo2_Butcher_Depthweed.description>Нарезать глубинник на мелкие кусочки.</Moyo2_Butcher_Depthweed.description>
+  <Moyo2_Butcher_Depthweed.jobString>Нарезает глубинник.</Moyo2_Butcher_Depthweed.jobString>
+  <Moyo2_Butcher_Depthweed.label>нарезать глубинник</Moyo2_Butcher_Depthweed.label>
+  <Moyo2_Butcher_FleshMassHeart.description>Извлечь сердце из массы плоти мойо.</Moyo2_Butcher_FleshMassHeart.description>
+  <Moyo2_Butcher_FleshMassHeart.jobString>Извлекает сердце.</Moyo2_Butcher_FleshMassHeart.jobString>
+  <Moyo2_Butcher_FleshMassHeart.label>извлечь сердце</Moyo2_Butcher_FleshMassHeart.label>
+  <Moyo2_Butcher_FleshMassKidney.description>Извлечь почку из массы плоти мойо.</Moyo2_Butcher_FleshMassKidney.description>
+  <Moyo2_Butcher_FleshMassKidney.jobString>Извлекает почку.</Moyo2_Butcher_FleshMassKidney.jobString>
+  <Moyo2_Butcher_FleshMassKidney.label>извлечь почку</Moyo2_Butcher_FleshMassKidney.label>
+  <Moyo2_Butcher_FleshMassLiver.description>Извлечь печень из массы плоти мойо.</Moyo2_Butcher_FleshMassLiver.description>
+  <Moyo2_Butcher_FleshMassLiver.jobString>Извлекает печень.</Moyo2_Butcher_FleshMassLiver.jobString>
+  <Moyo2_Butcher_FleshMassLiver.label>извлечь печень</Moyo2_Butcher_FleshMassLiver.label>
+  <Moyo2_Butcher_FleshMassLung.description>Извлечь лёгкое из массы плоти мойо.</Moyo2_Butcher_FleshMassLung.description>
+  <Moyo2_Butcher_FleshMassLung.jobString>Извлекает лёгкое.</Moyo2_Butcher_FleshMassLung.jobString>
+  <Moyo2_Butcher_FleshMassLung.label>извлечь лёгкое</Moyo2_Butcher_FleshMassLung.label>
+  <Moyo2_CureDeepBlueTolerance.description>Ввести особые ферменты для расщепления и выведения остатков глубоксина из организма.</Moyo2_CureDeepBlueTolerance.description>
+  <Moyo2_CureDeepBlueTolerance.jobString>Выводит остатки глубоксина.</Moyo2_CureDeepBlueTolerance.jobString>
+  <Moyo2_CureDeepBlueTolerance.label>вывести накопленный глубоксин</Moyo2_CureDeepBlueTolerance.label>
+  <Moyo2_CureDeepBlueTolerance.successfullyRemovedHediffMessage>Остатки глубоксина успешно выведены. Пациент: {1}. Врач: {0}.</Moyo2_CureDeepBlueTolerance.successfullyRemovedHediffMessage>
+  <Moyo2_Grind_MoyoMeat.description>Измельчить мясо мойо и выжать из него оставшуюся кровь до последней капли, чтобы получить глубоксин.</Moyo2_Grind_MoyoMeat.description>
+  <Moyo2_Grind_MoyoMeat.jobString>Извлекает глубоксин из мяса мойо.</Moyo2_Grind_MoyoMeat.jobString>
+  <Moyo2_Grind_MoyoMeat.label>извлечь глубоксин из мяса мойо</Moyo2_Grind_MoyoMeat.label>
+  <Moyo2_HexapodRecipe.description>Вырастить гексапода.</Moyo2_HexapodRecipe.description>
+  <Moyo2_HexapodRecipe.jobString>Выращивает механоида.</Moyo2_HexapodRecipe.jobString>
+  <Moyo2_HexapodRecipe.label>вырастить гексапода</Moyo2_HexapodRecipe.label>
+  <Moyo2_InstallBionicHeart.description>Установить бионическое сердце.</Moyo2_InstallBionicHeart.description>
+  <Moyo2_InstallBionicHeart.jobString>Устанавливает бионическое сердце.</Moyo2_InstallBionicHeart.jobString>
+  <Moyo2_InstallBionicHeart.label>установить бионическое сердце</Moyo2_InstallBionicHeart.label>
+  <Moyo2_InstallNaturalHeart.description>Пересадить биологическое сердце.</Moyo2_InstallNaturalHeart.description>
+  <Moyo2_InstallNaturalHeart.jobString>Пересаживает сердце.</Moyo2_InstallNaturalHeart.jobString>
+  <Moyo2_InstallNaturalHeart.label>пересадить сердце</Moyo2_InstallNaturalHeart.label>
+  <Moyo2_InstallSimpleProstheticHeart.description>Установить протез сердца.</Moyo2_InstallSimpleProstheticHeart.description>
+  <Moyo2_InstallSimpleProstheticHeart.jobString>Устанавливает протез сердца.</Moyo2_InstallSimpleProstheticHeart.jobString>
+  <Moyo2_InstallSimpleProstheticHeart.label>установить протез сердца</Moyo2_InstallSimpleProstheticHeart.label>
+  <Moyo2_Install_DeepBlueExtracter.description>Установить экстрактор глубоксина.</Moyo2_Install_DeepBlueExtracter.description>
+  <Moyo2_Install_DeepBlueExtracter.jobString>Устанавливает экстрактор глубоксина.</Moyo2_Install_DeepBlueExtracter.jobString>
+  <Moyo2_Install_DeepBlueExtracter.label>установить экстрактор глубоксина</Moyo2_Install_DeepBlueExtracter.label>
+  <Moyo2_Install_DeepBlueExtracter_Abysstech.description>Установить абисстехнологический экстрактор глубоксина.</Moyo2_Install_DeepBlueExtracter_Abysstech.description>
+  <Moyo2_Install_DeepBlueExtracter_Abysstech.jobString>Устанавливает абисстехнологический экстрактор глубоксина.</Moyo2_Install_DeepBlueExtracter_Abysstech.jobString>
+  <Moyo2_Install_DeepBlueExtracter_Abysstech.label>установить абисстехнологический экстрактор глубоксина</Moyo2_Install_DeepBlueExtracter_Abysstech.label>
+  <Moyo2_Install_DeepBlueExtracter_Crude.description>Установить примитивный экстрактор глубоксина.</Moyo2_Install_DeepBlueExtracter_Crude.description>
+  <Moyo2_Install_DeepBlueExtracter_Crude.jobString>Устанавливает примитивный экстрактор глубоксина.</Moyo2_Install_DeepBlueExtracter_Crude.jobString>
+  <Moyo2_Install_DeepBlueExtracter_Crude.label>установить примитивный экстрактор глубоксина</Moyo2_Install_DeepBlueExtracter_Crude.label>
+  <Moyo2_Install_TailBionic.description>Установить бионический хвост.</Moyo2_Install_TailBionic.description>
+  <Moyo2_Install_TailBionic.jobString>Устанавливает бионический хвост.</Moyo2_Install_TailBionic.jobString>
+  <Moyo2_Install_TailBionic.label>установить бионический хвост мойо</Moyo2_Install_TailBionic.label>
+  <Moyo2_Install_TailProsthesis.description>Установить протез хвоста.</Moyo2_Install_TailProsthesis.description>
+  <Moyo2_Install_TailProsthesis.jobString>Устанавливает протез хвоста.</Moyo2_Install_TailProsthesis.jobString>
+  <Moyo2_Install_TailProsthesis.label>установить протез хвоста мойо</Moyo2_Install_TailProsthesis.label>
+  <Moyo2_Make_AbyssteelA.description>Изготовить глубосталь — сплав, широко используемый в Маяке.</Moyo2_Make_AbyssteelA.description>
+  <Moyo2_Make_AbyssteelA.jobString>Изготавливает глубосталь.</Moyo2_Make_AbyssteelA.jobString>
+  <Moyo2_Make_AbyssteelA.label>выплавить глубосталь</Moyo2_Make_AbyssteelA.label>
+  <Moyo2_Make_AbyssteelABulk.description>Изготовить большую партию глубостали — сплава, широко используемого в Маяке.</Moyo2_Make_AbyssteelABulk.description>
+  <Moyo2_Make_AbyssteelABulk.jobString>Изготавливает глубосталь.</Moyo2_Make_AbyssteelABulk.jobString>
+  <Moyo2_Make_AbyssteelABulk.label>выплавить глубосталь ×4</Moyo2_Make_AbyssteelABulk.label>
+  <Moyo2_Make_AbyssteelB.description>Изготовить из хадальных осколков глубосталь — сплав, широко используемый в Маяке.</Moyo2_Make_AbyssteelB.description>
+  <Moyo2_Make_AbyssteelB.jobString>Изготавливает глубосталь.</Moyo2_Make_AbyssteelB.jobString>
+  <Moyo2_Make_AbyssteelB.label>выплавить глубосталь из хадальных осколков</Moyo2_Make_AbyssteelB.label>
+  <Moyo2_Make_AbyssteelBBulk.description>Изготовить из хадальных осколков большую партию глубостали — сплава, широко используемого в Маяке.</Moyo2_Make_AbyssteelBBulk.description>
+  <Moyo2_Make_AbyssteelBBulk.jobString>Изготавливает глубосталь.</Moyo2_Make_AbyssteelBBulk.jobString>
+  <Moyo2_Make_AbyssteelBBulk.label>выплавить глубосталь из хадальных осколков ×4</Moyo2_Make_AbyssteelBBulk.label>
+  <Moyo2_Make_BGelPack.description>Изготовить пакет баллистического геля.</Moyo2_Make_BGelPack.description>
+  <Moyo2_Make_BGelPack.jobString>Изготавливает пакет баллистического геля.</Moyo2_Make_BGelPack.jobString>
+  <Moyo2_Make_BGelPack.label>изготовить пакет баллистического геля</Moyo2_Make_BGelPack.label>
+  <Moyo2_Make_BGelPackBulk.description>Изготовить большую партию пакетов баллистического геля.</Moyo2_Make_BGelPackBulk.description>
+  <Moyo2_Make_BGelPackBulk.jobString>Изготавливает большую партию пакетов баллистического геля.</Moyo2_Make_BGelPackBulk.jobString>
+  <Moyo2_Make_BGelPackBulk.label>изготовить пакеты баллистического геля ×4</Moyo2_Make_BGelPackBulk.label>
+  <Moyo2_Make_ComponentIndustrial.description>Изготовить компонент примитивным способом. Это займёт много времени.</Moyo2_Make_ComponentIndustrial.description>
+  <Moyo2_Make_ComponentIndustrial.jobString>Изготавливает компонент.</Moyo2_Make_ComponentIndustrial.jobString>
+  <Moyo2_Make_ComponentIndustrial.label>изготовить компонент кустарно</Moyo2_Make_ComponentIndustrial.label>
+  <Moyo2_Make_ComponentIndustrialA.description>Изготовить компонент.</Moyo2_Make_ComponentIndustrialA.description>
+  <Moyo2_Make_ComponentIndustrialA.jobString>Изготавливает компонент.</Moyo2_Make_ComponentIndustrialA.jobString>
+  <Moyo2_Make_ComponentIndustrialA.label>изготовить компонент</Moyo2_Make_ComponentIndustrialA.label>
+  <Moyo2_Make_ComponentSpacer.description>Изготовить продвинутый компонент.</Moyo2_Make_ComponentSpacer.description>
+  <Moyo2_Make_ComponentSpacer.jobString>Изготавливает продвинутый компонент.</Moyo2_Make_ComponentSpacer.jobString>
+  <Moyo2_Make_ComponentSpacer.label>изготовить продвинутый компонент</Moyo2_Make_ComponentSpacer.label>
+  <Moyo2_Make_DepthweaveA.description>Изготовить глуботкань — прочную ткань, широко используемую в Маяке.</Moyo2_Make_DepthweaveA.description>
+  <Moyo2_Make_DepthweaveA.jobString>Изготавливает глуботкань.</Moyo2_Make_DepthweaveA.jobString>
+  <Moyo2_Make_DepthweaveA.label>изготовить глуботкань</Moyo2_Make_DepthweaveA.label>
+  <Moyo2_Make_DepthweaveABulk.description>Изготовить большую партию глуботкани — прочной ткани, широко используемой в Маяке.</Moyo2_Make_DepthweaveABulk.description>
+  <Moyo2_Make_DepthweaveABulk.jobString>Изготавливает большую партию глуботкани.</Moyo2_Make_DepthweaveABulk.jobString>
+  <Moyo2_Make_DepthweaveABulk.label>изготовить глуботкань ×4</Moyo2_Make_DepthweaveABulk.label>
+  <Moyo2_Make_DepthweaveB.description>Изготовить из глубинника глуботкань — прочную ткань, широко используемую в Маяке.</Moyo2_Make_DepthweaveB.description>
+  <Moyo2_Make_DepthweaveB.jobString>Изготавливает глуботкань из глубинника.</Moyo2_Make_DepthweaveB.jobString>
+  <Moyo2_Make_DepthweaveB.label>изготовить глуботкань из глубинника</Moyo2_Make_DepthweaveB.label>
+  <Moyo2_Make_DepthweaveBBulk.description>Изготовить из глубинника большую партию глуботкани — прочной ткани, широко используемой в Маяке.</Moyo2_Make_DepthweaveBBulk.description>
+  <Moyo2_Make_DepthweaveBBulk.jobString>Изготавливает большую партию глуботкани из глубинника.</Moyo2_Make_DepthweaveBBulk.jobString>
+  <Moyo2_Make_DepthweaveBBulk.label>изготовить глуботкань из глубинника ×4</Moyo2_Make_DepthweaveBBulk.label>
+  <Moyo2_Remove_DeepBlueExtracter.description>Извлечь экстрактор глубоксина.</Moyo2_Remove_DeepBlueExtracter.description>
+  <Moyo2_Remove_DeepBlueExtracter.jobString>Извлекает экстрактор глубоксина.</Moyo2_Remove_DeepBlueExtracter.jobString>
+  <Moyo2_Remove_DeepBlueExtracter.label>извлечь экстрактор глубоксина</Moyo2_Remove_DeepBlueExtracter.label>
+  <Moyo2_Remove_DeepBlueExtracter_Abysstech.description>Извлечь абисстехнологический экстрактор глубоксина.</Moyo2_Remove_DeepBlueExtracter_Abysstech.description>
+  <Moyo2_Remove_DeepBlueExtracter_Abysstech.jobString>Извлекает экстрактор глубоксина.</Moyo2_Remove_DeepBlueExtracter_Abysstech.jobString>
+  <Moyo2_Remove_DeepBlueExtracter_Abysstech.label>извлечь абисстехнологический экстрактор глубоксина</Moyo2_Remove_DeepBlueExtracter_Abysstech.label>
+  <Moyo2_Remove_DeepBlueExtracter_Crude.description>Извлечь примитивный экстрактор глубоксина.</Moyo2_Remove_DeepBlueExtracter_Crude.description>
+  <Moyo2_Remove_DeepBlueExtracter_Crude.jobString>Извлекает примитивный экстрактор глубоксина.</Moyo2_Remove_DeepBlueExtracter_Crude.jobString>
+  <Moyo2_Remove_DeepBlueExtracter_Crude.label>извлечь примитивный экстрактор глубоксина</Moyo2_Remove_DeepBlueExtracter_Crude.label>
+  <Moyo2_SpheripodRecipe.description>Вырастить сферипода.</Moyo2_SpheripodRecipe.description>
+  <Moyo2_SpheripodRecipe.jobString>Выращивает механоида.</Moyo2_SpheripodRecipe.jobString>
+  <Moyo2_SpheripodRecipe.label>вырастить сферипода</Moyo2_SpheripodRecipe.label>
+</LanguageData>

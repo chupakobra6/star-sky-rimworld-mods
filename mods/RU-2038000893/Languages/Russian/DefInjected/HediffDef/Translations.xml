@@ -1,0 +1,16 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BMT_HermeticSuitHediff.description>Периодически очищает организм от накопившихся токсинов.</BMT_HermeticSuitHediff.description>
+  <BMT_HermeticSuitHediff.label>гермокостюм</BMT_HermeticSuitHediff.label>
+  <BMT_HungeringHediff.description>Болезнь, вызывающая непрекращающийся голод. Заражённые существа ищут еду возле человеческих поселений и разрушают двери и постройки, чтобы добраться до пищи.</BMT_HungeringHediff.description>
+  <BMT_HungeringHediff.descriptionShort>Болезнь, вызывающая непрекращающийся голод.</BMT_HungeringHediff.descriptionShort>
+  <BMT_HungeringHediff.label>неутолимый голод</BMT_HungeringHediff.label>
+  <BMT_Paralysis.description>Парализующие вещества в крови. Быстро лишают существо возможности двигаться.</BMT_Paralysis.description>
+  <BMT_Paralysis.label>паралич</BMT_Paralysis.label>
+  <BMT_Paralysis.stages.extreme.label>крайний</BMT_Paralysis.stages.extreme.label>
+  <BMT_Paralysis.stages.initial-0.label>начальный</BMT_Paralysis.stages.initial-0.label>
+  <BMT_Paralysis.stages.initial-1.label>начальный</BMT_Paralysis.stages.initial-1.label>
+  <BMT_Paralysis.stages.minor.label>лёгкий</BMT_Paralysis.stages.minor.label>
+  <BMT_Paralysis.stages.moderate.label>умеренный</BMT_Paralysis.stages.moderate.label>
+  <BMT_Paralysis.stages.serious.label>тяжёлый</BMT_Paralysis.stages.serious.label>
+</LanguageData>

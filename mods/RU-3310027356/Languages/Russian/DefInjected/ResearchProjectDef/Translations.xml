@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AdvancedManagingSoftware.description>Разработать передовое программное обеспечение для управления поселением.\n\nДостижения в области ИИ и компьютеров, способных учитывать обстановку в поселении, позволяют создавать ситуационно-ориентированные суперкомпьютеры с предустановленной ColonyManagementOS. Некоторые поселенцы сообщают о самопроизвольно открывающихся и закрывающихся дверях, безумствующих кондиционерах и внезапно включающихся электроплавильнях. Тем не менее производитель гарантирует(tm), что ColonyManagementOS не запрограммирована убивать поселенцев.</AdvancedManagingSoftware.description>
+  <AdvancedManagingSoftware.label>продвинутое ПО для управления</AdvancedManagingSoftware.label>
+  <CMR_ManagingDesk.description>Позволяет построить простой стол управляющего, за которым работа идёт быстрее, чем на обычном месте управляющего.</CMR_ManagingDesk.description>
+  <CMR_ManagingDesk.label>простой стол управляющего</CMR_ManagingDesk.label>
+  <CMR_ManagingSpot.description>Позволяет выделить на земле место для работы управляющего. Не очень эффективно, но лучше, чем ничего.</CMR_ManagingSpot.description>
+  <CMR_ManagingSpot.label>место управляющего</CMR_ManagingSpot.label>
+  <ManagingSoftware.description>Разработка базового программного обеспечения для управления колонией.
+
+Позволяет строить столы управляющего с компьютером и набором предустановленных программ для управления — гарантированно без ошибок™.</ManagingSoftware.description>
+  <ManagingSoftware.label>базовое ПО для управления</ManagingSoftware.label>
+  <PowerManagement.description>Создание программного обеспечения для наблюдения за энергопотреблением колонии.</PowerManagement.description>
+  <PowerManagement.label>управление энергоснабжением</PowerManagement.label>
+</LanguageData>

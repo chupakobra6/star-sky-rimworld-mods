@@ -1,0 +1,46 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RtcItem_AblativeWeave.label>абляционная ткань</RtcItem_AblativeWeave.label>
+  <RtcItem_AegisPlating.label>композитная броня</RtcItem_AegisPlating.label>
+  <RtcItem_AssaultDrive.label>штурмовой ускоритель</RtcItem_AssaultDrive.label>
+  <RtcItem_Belt.label>патронная лента</RtcItem_Belt.label>
+  <RtcItem_Blade.label>клинок из сплава</RtcItem_Blade.label>
+  <RtcItem_BlitzHarness.label>штурмовой патронташ</RtcItem_BlitzHarness.label>
+  <RtcItem_BulwarkScope.label>бронированный прицел</RtcItem_BulwarkScope.label>
+  <RtcItem_CommandRig.label>знаки различия командира</RtcItem_CommandRig.label>
+  <RtcItem_DisassembleToken.description>Перетащите на готовый предмет снаряжения, чтобы разобрать его на 2 исходных компонента. На особое снаряжение не действует.</RtcItem_DisassembleToken.description>
+  <RtcItem_DisassembleToken.label>жетон разборки</RtcItem_DisassembleToken.label>
+  <RtcItem_DupeToken.description>Создаёт копию выбранного бойца с тем же количеством звёзд.</RtcItem_DupeToken.description>
+  <RtcItem_DupeToken.label>жетон дублирования</RtcItem_DupeToken.label>
+  <RtcItem_Fiber.label>баллистическое волокно</RtcItem_Fiber.label>
+  <RtcItem_FrenzyEdge.label>быстрый клинок</RtcItem_FrenzyEdge.label>
+  <RtcItem_HealToken.description>Восстанавливает 10 единиц здоровья.</RtcItem_HealToken.description>
+  <RtcItem_HealToken.label>жетон восстановления</RtcItem_HealToken.label>
+  <RtcItem_HuntersEdge.label>очки слежения</RtcItem_HuntersEdge.label>
+  <RtcItem_MarksmanRig.label>снайперский прицел</RtcItem_MarksmanRig.label>
+  <RtcItem_MobileBastion.label>силовая броня</RtcItem_MobileBastion.label>
+  <RtcItem_Overdrive.label>боевой стимулятор</RtcItem_Overdrive.label>
+  <RtcItem_Plate.label>стальная пластина</RtcItem_Plate.label>
+  <RtcItem_PrecisionOptics.label>точный прицел</RtcItem_PrecisionOptics.label>
+  <RtcItem_RapidLoader.label>ускоритель заряжания</RtcItem_RapidLoader.label>
+  <RtcItem_RegenCore.label>регенерационный инъектор</RtcItem_RegenCore.label>
+  <RtcItem_RerollToken.description>Заменяет один надетый предмет снаряжения выбранного бойца случайным.</RtcItem_RerollToken.description>
+  <RtcItem_RerollToken.label>жетон замены снаряжения</RtcItem_RerollToken.label>
+  <RtcItem_Scope.label>прицел</RtcItem_Scope.label>
+  <RtcItem_SkirmisherKit.label>штык</RtcItem_SkirmisherKit.label>
+  <RtcItem_SlotRelic.description>Усовершенствованная реликвия. Пока она у вас в инвентаре или надета на бойца, на поле доступно одно дополнительное место для бойца.</RtcItem_SlotRelic.description>
+  <RtcItem_SlotRelic.label>полевое знамя</RtcItem_SlotRelic.label>
+  <RtcItem_SpecialToken.description>Перетащите на надетый готовый предмет в ячейке снаряжения бойца, чтобы сделать его особым. Его эффекты удваиваются, а способность применяется дважды за бой. На базовые компоненты не действует.</RtcItem_SpecialToken.description>
+  <RtcItem_SpecialToken.label>жетон усиления</RtcItem_SpecialToken.label>
+  <RtcItem_SpikedArmor.label>шипованная броня</RtcItem_SpikedArmor.label>
+  <RtcItem_SteadySights.label>устойчивый прицел</RtcItem_SteadySights.label>
+  <RtcItem_Stim.label>стимулятор</RtcItem_Stim.label>
+  <RtcItem_SuppressorVest.label>жилет подавления</RtcItem_SuppressorVest.label>
+  <RtcItem_TurretToken.description>Перетащите на пустую клетку поля, чтобы развернуть случайную автотурель с собственным питанием на один раунд. Она не может занимать одну клетку с персонажем.</RtcItem_TurretToken.description>
+  <RtcItem_TurretToken.label>комплект турели</RtcItem_TurretToken.label>
+  <RtcItem_TwinBlades.label>парные клинки</RtcItem_TwinBlades.label>
+  <RtcItem_UnitToken.description>Выберите одного из трёх случайных бойцов. Вероятности рангов 3, 4 и 5: 50%, 35% и 15% соответственно.</RtcItem_UnitToken.description>
+  <RtcItem_UnitToken.label>жетон выбора бойца</RtcItem_UnitToken.label>
+  <RtcItem_VampiricBlade.label>вампирический клинок</RtcItem_VampiricBlade.label>
+  <RtcItem_WarbladeGuard.label>меч и щит</RtcItem_WarbladeGuard.label>
+</LanguageData>

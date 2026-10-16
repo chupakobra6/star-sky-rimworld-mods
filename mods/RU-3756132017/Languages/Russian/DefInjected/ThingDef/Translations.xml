@@ -1,0 +1,511 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Alien_Moyo.alienRace.generalSettings.alienPartGenerator.bodyAddons.0.name>хвост</Alien_Moyo.alienRace.generalSettings.alienPartGenerator.bodyAddons.0.name>
+  <Alien_Moyo.alienRace.generalSettings.alienPartGenerator.bodyAddons.1.name>свечение хвоста</Alien_Moyo.alienRace.generalSettings.alienPartGenerator.bodyAddons.1.name>
+  <Alien_Moyo.alienRace.generalSettings.alienPartGenerator.bodyAddons.10.name>голова</Alien_Moyo.alienRace.generalSettings.alienPartGenerator.bodyAddons.10.name>
+  <Alien_Moyo.alienRace.generalSettings.alienPartGenerator.bodyAddons.2.name>левый усик</Alien_Moyo.alienRace.generalSettings.alienPartGenerator.bodyAddons.2.name>
+  <Alien_Moyo.alienRace.generalSettings.alienPartGenerator.bodyAddons.3.name>свечение левого усика</Alien_Moyo.alienRace.generalSettings.alienPartGenerator.bodyAddons.3.name>
+  <Alien_Moyo.alienRace.generalSettings.alienPartGenerator.bodyAddons.4.name>правый усик</Alien_Moyo.alienRace.generalSettings.alienPartGenerator.bodyAddons.4.name>
+  <Alien_Moyo.alienRace.generalSettings.alienPartGenerator.bodyAddons.5.name>свечение правого усика</Alien_Moyo.alienRace.generalSettings.alienPartGenerator.bodyAddons.5.name>
+  <Alien_Moyo.alienRace.generalSettings.alienPartGenerator.bodyAddons.6.name>свечение головы</Alien_Moyo.alienRace.generalSettings.alienPartGenerator.bodyAddons.6.name>
+  <Alien_Moyo.alienRace.generalSettings.alienPartGenerator.bodyAddons.7.name>свечение тела</Alien_Moyo.alienRace.generalSettings.alienPartGenerator.bodyAddons.7.name>
+  <Alien_Moyo.alienRace.generalSettings.alienPartGenerator.bodyAddons.8.name>волосы</Alien_Moyo.alienRace.generalSettings.alienPartGenerator.bodyAddons.8.name>
+  <Alien_Moyo.alienRace.generalSettings.alienPartGenerator.bodyAddons.9.name>волосы сзади</Alien_Moyo.alienRace.generalSettings.alienPartGenerator.bodyAddons.9.name>
+  <Alien_Moyo.description>Жители Маяка, подводного города, вышедшие на поверхность ради собственных целей. В их жилах течёт глубоксин — вещество, полезное в фармацевтике и медицине, не говоря уже о производстве наркотиков.</Alien_Moyo.description>
+  <Alien_Moyo.label>мойо</Alien_Moyo.label>
+  <Alien_Moyo.tools.head.label>голова</Alien_Moyo.tools.head.label>
+  <Alien_Moyo.tools.left_fist.label>левый кулак</Alien_Moyo.tools.left_fist.label>
+  <Alien_Moyo.tools.right_fist.label>правый кулак</Alien_Moyo.tools.right_fist.label>
+  <Alien_Moyo.tools.teeth.label>зубы</Alien_Moyo.tools.teeth.label>
+  <Corpse_Alien_Moyo.label>труп мойо</Corpse_Alien_Moyo.label>
+  <Corpse_Moyo2_Beludog.label>туша белупса</Corpse_Moyo2_Beludog.label>
+  <Corpse_Moyo2_Hexapod_Default.label>останки гексапода</Corpse_Moyo2_Hexapod_Default.label>
+  <Corpse_Moyo2_Spheripod_Default.label>останки сферипода</Corpse_Moyo2_Spheripod_Default.label>
+  <Meat_Alien_Moyo.description>Сырая плоть мойо. При необходимости её можно приготовить или съесть сырой, хотя большинству людей эта мысль явно не понравится.</Meat_Alien_Moyo.description>
+  <Meat_Alien_Moyo.label>мясо мойо</Meat_Alien_Moyo.label>
+  <Moyo2_Abyssteel.description>Плотный сплав, широко используемый в Маяке. Выдерживает огромное давление и идёт на изделия, которым нужна предельная прочность. На этом сплаве и был основан Маяк.</Moyo2_Abyssteel.description>
+  <Moyo2_Abyssteel.label>глубосталь</Moyo2_Abyssteel.label>
+  <Moyo2_AdvancedSuit.description>Облегающий костюм с толстой тканью и терморегуляцией, созданный прежде всего для защиты владельца. В повседневной жизни встречается редко: его обычно носят военные, полицейские и занятые опасным трудом работники, которым он по карману.</Moyo2_AdvancedSuit.description>
+  <Moyo2_AdvancedSuit.label>усовершенствованный облегающий костюм</Moyo2_AdvancedSuit.label>
+  <Moyo2_AdvancedSuit_Cartel.description>Облегающий костюм с толстой тканью и терморегуляцией, созданный прежде всего для защиты владельца. В повседневной жизни встречается редко: его обычно носят военные, полицейские и занятые опасным трудом работники, которым он по карману.</Moyo2_AdvancedSuit_Cartel.description>
+  <Moyo2_AdvancedSuit_Cartel.label>усовершенствованный облегающий костюм Картеля</Moyo2_AdvancedSuit_Cartel.label>
+  <Moyo2_ArcFurnace.description>Мощная дуговая печь для изготовления глубостали. Извлекает металлы из различных предметов и сжигает ненужные материалы, не оставляя пепла. Просто бросьте их внутрь. *Потребляет много электроэнергии.</Moyo2_ArcFurnace.description>
+  <Moyo2_ArcFurnace.label>абисстехнологическая дуговая печь</Moyo2_ArcFurnace.label>
+  <Moyo2_BGelPack.description>Пакет баллистического геля для пополнения баллистической брони Картеля. Благодаря неньютоновским свойствам эта плотная жидкость отлично защищает от резких ударов.
+
+Жидкость — опытный образец новой технологии «ГельТех». Кроме Картеля, ни одна известная сила Маяка пока не применяет её ни в каком виде.</Moyo2_BGelPack.description>
+  <Moyo2_BGelPack.label>пакет баллистического геля</Moyo2_BGelPack.label>
+  <Moyo2_BasicSuit.description>Облегающий костюм, воплощающий стиль Маяка. Изготовлен из прочной и эластичной глуботкани. Его носят люди любого возраста и пола; в продаже множество моделей с разными особенностями, от удобного надевания до коррекции фигуры.</Moyo2_BasicSuit.description>
+  <Moyo2_BasicSuit.label>стандартный облегающий костюм</Moyo2_BasicSuit.label>
+  <Moyo2_Beludog.description>Крупное млекопитающее с чертами китообразных. Генетически создано как домашний питомец и очень дружелюбно к людям. Толстый слой жира надёжно защищает от холода. Выпуклость на голове чрезвычайно мягкая.</Moyo2_Beludog.description>
+  <Moyo2_Beludog.label>белупёс</Moyo2_Beludog.label>
+  <Moyo2_Beludog.tools.head.label>голова</Moyo2_Beludog.tools.head.label>
+  <Moyo2_Beludog.tools.left_claw.label>левые когти</Moyo2_Beludog.tools.left_claw.label>
+  <Moyo2_Beludog.tools.left_claw.labelNoLocation>когти</Moyo2_Beludog.tools.left_claw.labelNoLocation>
+  <Moyo2_Beludog.tools.right_claw.label>правые когти</Moyo2_Beludog.tools.right_claw.label>
+  <Moyo2_Beludog.tools.right_claw.labelNoLocation>когти</Moyo2_Beludog.tools.right_claw.labelNoLocation>
+  <Moyo2_Blood.label>кровь</Moyo2_Blood.label>
+  <Moyo2_BloodSmear.label>след крови</Moyo2_BloodSmear.label>
+  <Moyo2_BlueBloodBag.description>Пакет крови мойо, из которой можно выделить глубоксин.</Moyo2_BlueBloodBag.description>
+  <Moyo2_BlueBloodBag.label>пакет синей крови</Moyo2_BlueBloodBag.label>
+  <Moyo2_BlueMedicine.description>Сильнодействующие медикаменты на основе глубоксина. Он повышает эффективность лекарства, не вызывая глубоксиновой зависимости.</Moyo2_BlueMedicine.description>
+  <Moyo2_BlueMedicine.label>глубомед</Moyo2_BlueMedicine.label>
+  <Moyo2_BlueSerum.description>Глубоксин, выделенный из крови мойо. Полезен в самых разных областях фармацевтики и медицины.
+
+При введении другим живым существам постепенно меняет обмен веществ и в конце концов вызывает постоянную потребность в глубоксине. На самих мойо заметно не влияет, так что не тратьте его на них.</Moyo2_BlueSerum.description>
+  <Moyo2_BlueSerum.ingestible.ingestCommandString>Ввести: {0}</Moyo2_BlueSerum.ingestible.ingestCommandString>
+  <Moyo2_BlueSerum.ingestible.ingestReportString>Вводит: {0}.</Moyo2_BlueSerum.ingestible.ingestReportString>
+  <Moyo2_BlueSerum.label>синяя сыворотка</Moyo2_BlueSerum.label>
+  <Moyo2_Bullet_AbysstechRifle.label>пуля абисстехнологической винтовки</Moyo2_Bullet_AbysstechRifle.label>
+  <Moyo2_Bullet_CLMRSlugA.label>ламинарный шип</Moyo2_Bullet_CLMRSlugA.label>
+  <Moyo2_Bullet_CLMRSlugB.label>ламинарный шип</Moyo2_Bullet_CLMRSlugB.label>
+  <Moyo2_Bullet_CLMRSlugC.label>ламинарный шип</Moyo2_Bullet_CLMRSlugC.label>
+  <Moyo2_Bullet_CLMRSlugD.label>ламинарный шип</Moyo2_Bullet_CLMRSlugD.label>
+  <Moyo2_Bullet_HarpoonGun.label>гарпун корабельного пробойника</Moyo2_Bullet_HarpoonGun.label>
+  <Moyo2_Bullet_LMRBolt.label>тяжёлый ламинарный снаряд</Moyo2_Bullet_LMRBolt.label>
+  <Moyo2_Bullet_LMRBoltOver.label>усиленный тяжёлый ламинарный снаряд</Moyo2_Bullet_LMRBoltOver.label>
+  <Moyo2_Bullet_LMRColider.label>сконцентрированное ламинарное поле</Moyo2_Bullet_LMRColider.label>
+  <Moyo2_Bullet_LMRSlugA.label>ламинарная пуля</Moyo2_Bullet_LMRSlugA.label>
+  <Moyo2_Bullet_LMRSlugAOver.label>усиленная ламинарная пуля</Moyo2_Bullet_LMRSlugAOver.label>
+  <Moyo2_Bullet_LMRSlugB.label>ламинарная пуля</Moyo2_Bullet_LMRSlugB.label>
+  <Moyo2_Bullet_LMRSlugBOver.label>усиленная ламинарная пуля</Moyo2_Bullet_LMRSlugBOver.label>
+  <Moyo2_Bullet_LMRSlugC.label>ламинарная пуля</Moyo2_Bullet_LMRSlugC.label>
+  <Moyo2_Bullet_NailGun.label>заклёпка гвоздомёта</Moyo2_Bullet_NailGun.label>
+  <Moyo2_Bullet_SpearGun.label>стержень пробойника</Moyo2_Bullet_SpearGun.label>
+  <Moyo2_Bullet_WrenchThrow.label>брошенный гаечный ключ</Moyo2_Bullet_WrenchThrow.label>
+  <Moyo2_CBhelmet.comps.Comp_ReloadableArmor.gizmoLabel>Баллистический гель: шлем</Moyo2_CBhelmet.comps.Comp_ReloadableArmor.gizmoLabel>
+  <Moyo2_CBhelmet.description>Штатный баллистический шлем оперативников Картеля. Заполненный баллистическим гелем, он обеспечивает высокую защиту, но запас нужно регулярно пополнять.
+
+Этот прототип сочетает новую технологию «ГельТех», разработанную в Маяке, с конструкцией, подсмотренной у баллистического снаряжения на поверхности. Разработку щедро финансировали в обмен на данные полевых испытаний. После обширных проверок силами своих сотрудников Картель остался доволен и принял всю серию на снабжение.</Moyo2_CBhelmet.description>
+  <Moyo2_CBhelmet.label>баллистический шлем Картеля</Moyo2_CBhelmet.label>
+  <Moyo2_CBsuit.comps.Comp_ReloadableArmor.gizmoLabel>Баллистический гель: броня</Moyo2_CBsuit.comps.Comp_ReloadableArmor.gizmoLabel>
+  <Moyo2_CBsuit.description>Штатная баллистическая броня оперативников Картеля. Заполненная баллистическим гелем, она обеспечивает высокую защиту, но для сохранения эффективности запас геля нужно регулярно пополнять.
+
+Когда Картель начал готовиться к выходу на поверхность, нехватка снаряжения становилась всё острее. Несмотря на богатство организации, снабдить каждого участника передовым оснащением было невозможно. Поэтому начались поиски более экономичного решения.</Moyo2_CBsuit.description>
+  <Moyo2_CBsuit.label>баллистический бронежилет Картеля</Moyo2_CBsuit.label>
+  <Moyo2_CCCHelmet.description>Водолазный шлем Маяка с упором на подвижность. Даёт серьёзную защиту, почти не стесняя движений. Встроенный кислородный дыхательный аппарат снят.
+
+Изначально комплект предназначался только для работы, но по мере нарастания хаоса в Маяке превратился в пригодное для боя снаряжение.</Moyo2_CCCHelmet.description>
+  <Moyo2_CCCHelmet.label>шлем химического спецназа Картеля</Moyo2_CCCHelmet.label>
+  <Moyo2_CCCShell.description>Водолазный костюм Маяка с упором на подвижность. Даёт серьёзную защиту, почти не стесняя движений. Обтекаемая поверхность снижает сопротивление воды и облегчает перемещение под водой. На суше от этого свойства нет пользы.
+
+Пластины из глубостали делают костюм отличной бронёй. Первыми применять его в бою начали силы безопасности Маяка, а затем практика распространилась по всему городу.</Moyo2_CCCShell.description>
+  <Moyo2_CCCShell.label>броня химического спецназа Картеля</Moyo2_CCCShell.label>
+  <Moyo2_CKnife.description>Большой боевой нож с холодным острым лезвием. Удобный инструмент и действенное оружие.
+
+Создан для поверхности, поэтому крупнее и тяжелее обычного водолазного ножа. Угрожающий вид прилагается.</Moyo2_CKnife.description>
+  <Moyo2_CKnife.label>боевой нож Картеля</Moyo2_CKnife.label>
+  <Moyo2_CKnife.tools.blade.label>лезвие</Moyo2_CKnife.tools.blade.label>
+  <Moyo2_CKnife.tools.handle.label>рукоять</Moyo2_CKnife.tools.handle.label>
+  <Moyo2_CKnife.tools.point.label>остриё</Moyo2_CKnife.tools.point.label>
+  <Moyo2_CLMRArbalest.description>Особое оружие Картеля, специально созданное для поверхности. Отличается исключительной дальностью и точностью.</Moyo2_CLMRArbalest.description>
+  <Moyo2_CLMRArbalest.label>ламинарный арбалет</Moyo2_CLMRArbalest.label>
+  <Moyo2_CLMRArbalest.tools.barrel.label>ствол</Moyo2_CLMRArbalest.tools.barrel.label>
+  <Moyo2_CLMRArbalest.tools.stock.label>приклад</Moyo2_CLMRArbalest.tools.stock.label>
+  <Moyo2_CLMRArbalest.verbs.Verb_Shoot.label>стрельба из ламинарного арбалета</Moyo2_CLMRArbalest.verbs.Verb_Shoot.label>
+  <Moyo2_CLMREdge.description>Тонкий клинок с вибролезвием, созданный по образцу одного из видов оружия с поверхности. Шедевр Картеля, легко разрезающий даже толстую броню. Ходят слухи, что им вооружены таинственные элитные оперативники организации.
+
+…А другие говорят о красном виброклинке, выкованном легендарным кузнецом Маяка.</Moyo2_CLMREdge.description>
+  <Moyo2_CLMREdge.label>ламинарный клинок</Moyo2_CLMREdge.label>
+  <Moyo2_CLMREdge.tools.blade.label>лезвие</Moyo2_CLMREdge.tools.blade.label>
+  <Moyo2_CLMREdge.tools.handle.label>рукоять</Moyo2_CLMREdge.tools.handle.label>
+  <Moyo2_CLMREdge.tools.point.label>остриё</Moyo2_CLMREdge.tools.point.label>
+  <Moyo2_CLMRRevolver.description>Особое оружие Картеля. Несмотря на название, к револьверам отношения не имеет.</Moyo2_CLMRRevolver.description>
+  <Moyo2_CLMRRevolver.label>ламинарный револьвер</Moyo2_CLMRRevolver.label>
+  <Moyo2_CLMRRevolver.tools.barrel.label>ствол</Moyo2_CLMRRevolver.tools.barrel.label>
+  <Moyo2_CLMRRevolver.tools.stock.label>приклад</Moyo2_CLMRRevolver.tools.stock.label>
+  <Moyo2_CLMRRevolver.verbs.Verb_Shoot.label>стрельба из ламинарного револьвера</Moyo2_CLMRRevolver.verbs.Verb_Shoot.label>
+  <Moyo2_CLMRRifle.description>Характерное оружие Картеля: компактная винтовка разгоняет небольшие снаряды до невероятной скорости, обеспечивая исключительное пробитие брони.</Moyo2_CLMRRifle.description>
+  <Moyo2_CLMRRifle.label>ламинарный карабин</Moyo2_CLMRRifle.label>
+  <Moyo2_CLMRRifle.tools.barrel.label>ствол</Moyo2_CLMRRifle.tools.barrel.label>
+  <Moyo2_CLMRRifle.tools.stock.label>приклад</Moyo2_CLMRRifle.tools.stock.label>
+  <Moyo2_CLMRRifle.verbs.Verb_Shoot.label>стрельба из ламинарного карабина</Moyo2_CLMRRifle.verbs.Verb_Shoot.label>
+  <Moyo2_CLMRSub.description>Особое оружие Картеля: ещё компактнее карабина и обладает невероятной скорострельностью. Идеально для коротких атак с отходом в ближнем бою.</Moyo2_CLMRSub.description>
+  <Moyo2_CLMRSub.label>ламинарный пистолет-пулемёт</Moyo2_CLMRSub.label>
+  <Moyo2_CLMRSub.tools.barrel.label>ствол</Moyo2_CLMRSub.tools.barrel.label>
+  <Moyo2_CLMRSub.tools.stock.label>приклад</Moyo2_CLMRSub.tools.stock.label>
+  <Moyo2_CLMRSub.verbs.Verb_Shoot.label>стрельба из ламинарного пистолета-пулемёта</Moyo2_CLMRSub.verbs.Verb_Shoot.label>
+  <Moyo2_CSHelmet.description>Штатный шлем ударных отрядов — элитных боевых подразделений Картеля. Лёгкий комплект обеспечивает подвижность и гибкость для излюбленной Картелем партизанской тактики.
+
+Эти элитные оперативники действуют в тенях Маяка, продвигая интересы организации. Совет прилагает немало усилий, чтобы захватить их живыми, но попытки снова и снова срываются из-за строжайшей секретности и мер предосторожности Картеля.</Moyo2_CSHelmet.description>
+  <Moyo2_CSHelmet.label>шлем ударного отряда Картеля</Moyo2_CSHelmet.label>
+  <Moyo2_CSShell.comps.CompApparelReloadable.chargeNoun>дымовой заряд</Moyo2_CSShell.comps.CompApparelReloadable.chargeNoun>
+  <Moyo2_CSShell.comps.CompApparelReloadable.cooldownGerund>восстанавливается</Moyo2_CSShell.comps.CompApparelReloadable.cooldownGerund>
+  <Moyo2_CSShell.description>Штатная броня ударных отрядов — элитных боевых подразделений Картеля. Лёгкая и гибкая, она обеспечивает подвижность для излюбленной Картелем партизанской тактики. По сравнению с громоздкими водолазными костюмами Маяка занимает мало места и позволяет закрепить снаружи дополнительное снаряжение.
+
+Происхождение Картеля неизвестно. Впервые будущая организация попала в отчёты, когда бойцы в этой броне провели серию диверсий на объектах Совета. Увидев в их вооружении и дисциплине серьёзную угрозу, Совет немедленно направил войска на подавление.</Moyo2_CSShell.description>
+  <Moyo2_CSShell.label>броня ударного отряда Картеля</Moyo2_CSShell.label>
+  <Moyo2_CSShell.verbs.pop_smoke.label>выпустить дым</Moyo2_CSShell.verbs.pop_smoke.label>
+  <Moyo2_CartelHood.description>Плотный плащ из глуботкани с капюшоном, которым пользуются главным образом агенты Картеля, действующие в тенях Маяка. Даёт и некоторую защиту от пуль.
+
+«Картелем» называют крупные корпорации, противостоящие Совету — правящей силе Маяка. Влияние Картеля уже сравнялось с влиянием Совета. Обе стороны понимают, что их конфликт может погубить город, и договорились о сотрудничестве — пока, по крайней мере, внешне.</Moyo2_CartelHood.description>
+  <Moyo2_CartelHood.label>чёрный плащ с капюшоном</Moyo2_CartelHood.label>
+  <Moyo2_Childclothes_A.description>Линейка нарядов для маленьких мойо, похожих на игрушки. Эти милые костюмы изображают разных морских существ и оснащены множеством средств безопасности. Они защищают от падений и ушибов во время игр, а терморегуляция постоянно поддерживает внутри комфортную температуру.
+
+Любой обеспеченный родитель Маяка знает: каждый ребёнок заслуживает такой подарок. Вашим малышам он обязательно понравится. Купите и убедитесь сами!</Moyo2_Childclothes_A.description>
+  <Moyo2_Childclothes_A.label>детский костюм мойо «Пингвин»</Moyo2_Childclothes_A.label>
+  <Moyo2_Childclothes_B.description>Линейка нарядов для маленьких мойо, похожих на игрушки. Эти милые костюмы изображают разных морских существ и оснащены множеством средств безопасности. Они защищают от падений и ушибов во время игр, а терморегуляция постоянно поддерживает внутри комфортную температуру.
+
+Любой обеспеченный родитель Маяка знает: каждый ребёнок заслуживает такой подарок. Вашим малышам он обязательно понравится. Купите и убедитесь сами!</Moyo2_Childclothes_B.description>
+  <Moyo2_Childclothes_B.label>детский костюм мойо «Акула»</Moyo2_Childclothes_B.label>
+  <Moyo2_Cloth_Depthweave.description>Прочная ткань, широко используемая в Маяке. Хорошо тянется и удерживает тепло, поэтому служит основой характерных облегающих костюмов мойо.</Moyo2_Cloth_Depthweave.description>
+  <Moyo2_Cloth_Depthweave.label>глуботкань</Moyo2_Cloth_Depthweave.label>
+  <Moyo2_DBBooster_Blueburst.description>Медицинский препарат, который легко ввести инъекцией и который быстро начинает действовать. Разработан как катализатор для более сильных средств: смешивание с другими препаратами может усиливать их действие. Но сам по себе он перегружает сердечно-сосудистую систему жертвы и способен вызвать остановку сердца. Так что не надо.
+
+Компания не несёт ответственности за использование продукта не по назначению.</Moyo2_DBBooster_Blueburst.description>
+  <Moyo2_DBBooster_Blueburst.ingestible.ingestCommandString>Ввести: {0}</Moyo2_DBBooster_Blueburst.ingestible.ingestCommandString>
+  <Moyo2_DBBooster_Blueburst.ingestible.ingestReportString>Вводит: {0}.</Moyo2_DBBooster_Blueburst.ingestible.ingestReportString>
+  <Moyo2_DBBooster_Blueburst.label>стимулятор «Синий всплеск»</Moyo2_DBBooster_Blueburst.label>
+  <Moyo2_DBBooster_Hydra.description>Боевой препарат, который легко ввести инъекцией и который быстро начинает действовать. Создан для метких стрелков и повышает способности к стрельбе. Каждая следующая доза усиливает эффект. Он позволяет даже обычному человеку попадать в яблочко, поэтому даже Совет решил принять его на вооружение.
+
+Употребляя стимулятор «Гидра», вы соглашаетесь с тем, что компания не несёт ответственности за возможные последствия.</Moyo2_DBBooster_Hydra.description>
+  <Moyo2_DBBooster_Hydra.ingestible.ingestCommandString>Ввести: {0}</Moyo2_DBBooster_Hydra.ingestible.ingestCommandString>
+  <Moyo2_DBBooster_Hydra.ingestible.ingestReportString>Вводит: {0}.</Moyo2_DBBooster_Hydra.ingestible.ingestReportString>
+  <Moyo2_DBBooster_Hydra.label>стимулятор «Гидра»</Moyo2_DBBooster_Hydra.label>
+  <Moyo2_DBBooster_Medi.description>Медицинский препарат, который легко ввести инъекцией и который быстро начинает действовать. Усиливает способность организма к восстановлению, ускоряя заживление ран и выздоровление. Каждая следующая доза усиливает эффект, а продолжительный курс позволяет исцелять даже застарелые шрамы. Некоторые эксперты утверждают, что препарат полезен для лечения и профилактики рака, диабета и болезни Альцгеймера, а также помогает похудеть, прибавить сил и бодрости.
+
+Если длительный курс инъекций не дал желаемого результата, советуем ввести дополнительные дозы.</Moyo2_DBBooster_Medi.description>
+  <Moyo2_DBBooster_Medi.ingestible.ingestCommandString>Ввести: {0}</Moyo2_DBBooster_Medi.ingestible.ingestCommandString>
+  <Moyo2_DBBooster_Medi.ingestible.ingestReportString>Вводит: {0}.</Moyo2_DBBooster_Medi.ingestible.ingestReportString>
+  <Moyo2_DBBooster_Medi.label>медицинский стимулятор</Moyo2_DBBooster_Medi.label>
+  <Moyo2_DBBooster_Orca.description>Боевой препарат, который легко ввести инъекцией и который быстро начинает действовать. Создан для бойцов и повышает способности к ближнему бою. Каждая следующая доза усиливает эффект. Теперь исход большинства поединков зависит от того, у кого больше качественной «Косатки», а зрители в восторге от более динамичных и жестоких схваток.
+
+Употребляя стимулятор «Косатка», вы соглашаетесь с тем, что компания не несёт ответственности за возможные последствия.</Moyo2_DBBooster_Orca.description>
+  <Moyo2_DBBooster_Orca.ingestible.ingestCommandString>Ввести: {0}</Moyo2_DBBooster_Orca.ingestible.ingestCommandString>
+  <Moyo2_DBBooster_Orca.ingestible.ingestReportString>Вводит: {0}.</Moyo2_DBBooster_Orca.ingestible.ingestReportString>
+  <Moyo2_DBBooster_Orca.label>стимулятор «Косатка»</Moyo2_DBBooster_Orca.label>
+  <Moyo2_DBPearl_Alluring.description>«Не получается стать душой компании? Угадайте почему», — реклама в Маяке.
+
+Таблетка на основе глубоксина. Усиливает обаяние и физическую привлекательность — без лишних забот о вредных побочных эффектах. Каждая следующая доза усиливает действие. Только глупец пытается очаровывать окружающих без этого средства.
+
+Вся ответственность за последствия разрушительного нарциссизма лежит на потребителе.
+
+С ростом концентрации возрастает склонность к душевным срывам. При сильном действии возможны истерики и затворничество в своей комнате.</Moyo2_DBPearl_Alluring.description>
+  <Moyo2_DBPearl_Alluring.ingestible.ingestCommandString>Принять: {0}</Moyo2_DBPearl_Alluring.ingestible.ingestCommandString>
+  <Moyo2_DBPearl_Alluring.ingestible.ingestReportString>Принимает: {0}.</Moyo2_DBPearl_Alluring.ingestible.ingestReportString>
+  <Moyo2_DBPearl_Alluring.label>жемчужина обольщения</Moyo2_DBPearl_Alluring.label>
+  <Moyo2_DBPearl_Crystal.description>«Пусть ваш потенциал сияет, словно драгоценный камень!» — реклама в Маяке.
+
+Таблетка на основе глубоксина. Повышает производительность — без лишних забот о вредных побочных эффектах. Каждая следующая доза усиливает действие. Неизменный спутник мойо, стремящихся добиться большего.
+
+Вся ответственность за последствия трудового неистовства лежит на потребителе.</Moyo2_DBPearl_Crystal.description>
+  <Moyo2_DBPearl_Crystal.ingestible.ingestCommandString>Принять: {0}</Moyo2_DBPearl_Crystal.ingestible.ingestCommandString>
+  <Moyo2_DBPearl_Crystal.ingestible.ingestReportString>Принимает: {0}.</Moyo2_DBPearl_Crystal.ingestible.ingestReportString>
+  <Moyo2_DBPearl_Crystal.label>кристальный жемчуг</Moyo2_DBPearl_Crystal.label>
+  <Moyo2_DBPearl_Joy.description>«Объективно лучший способ начать день», — реклама в Маяке.
+
+Таблетка на основе глубоксина. Поднимает настроение — без лишних забот о вредных побочных эффектах. Каждая следующая доза усиливает действие. Самый продаваемый препарат Маяка, с которого многие мойо начинают свой день.
+
+Вся ответственность за последствия чрезмерного счастья лежит на потребителе.</Moyo2_DBPearl_Joy.description>
+  <Moyo2_DBPearl_Joy.ingestible.ingestCommandString>Принять: {0}</Moyo2_DBPearl_Joy.ingestible.ingestCommandString>
+  <Moyo2_DBPearl_Joy.ingestible.ingestReportString>Принимает: {0}.</Moyo2_DBPearl_Joy.ingestible.ingestReportString>
+  <Moyo2_DBPearl_Joy.label>жемчуг радости</Moyo2_DBPearl_Joy.label>
+  <Moyo2_DBPearl_Numb.description>«Верный друг бедных и страждущих», — реклама в Маяке.
+
+Таблетка на основе глубоксина. Избавляет от боли и тревог — почти без забот о вредных побочных эффектах. Каждая следующая доза усиливает действие. Бесчисленные мойо доживают до следующего дня благодаря этому маленькому другу.
+
+Вся ответственность за потерю ощущений и чувств лежит на потребителе.
+
+Воспоминания постепенно стираются; чем сильнее эффект, тем чаще это происходит. Высокая концентрация угнетает сознание, а при чрезвычайно сильном действии возможно глубокое оцепенение.</Moyo2_DBPearl_Numb.description>
+  <Moyo2_DBPearl_Numb.ingestible.ingestCommandString>Принять: {0}</Moyo2_DBPearl_Numb.ingestible.ingestCommandString>
+  <Moyo2_DBPearl_Numb.ingestible.ingestReportString>Принимает: {0}.</Moyo2_DBPearl_Numb.ingestible.ingestReportString>
+  <Moyo2_DBPearl_Numb.label>жемчуг онемения</Moyo2_DBPearl_Numb.label>
+  <Moyo2_DBPearl_Thinker.description>«До просветления всего одна таблетка», — реклама в Маяке.
+
+Таблетка на основе глубоксина. Проясняет разум — без лишних забот о вредных побочных эффектах. Каждая следующая доза усиливает действие. Неизменный спутник мойо, стремящихся добиться большего.
+
+Вся ответственность за последствия параноидальных поисков истины лежит на потребителе.</Moyo2_DBPearl_Thinker.description>
+  <Moyo2_DBPearl_Thinker.ingestible.ingestCommandString>Принять: {0}</Moyo2_DBPearl_Thinker.ingestible.ingestCommandString>
+  <Moyo2_DBPearl_Thinker.ingestible.ingestReportString>Принимает: {0}.</Moyo2_DBPearl_Thinker.ingestible.ingestReportString>
+  <Moyo2_DBPearl_Thinker.label>жемчуг мыслителя</Moyo2_DBPearl_Thinker.label>
+  <Moyo2_DeepBlueExtracter.comps.CompUsableImplant.useLabel>Установить: {0_label}</Moyo2_DeepBlueExtracter.comps.CompUsableImplant.useLabel>
+  <Moyo2_DeepBlueExtracter.description>Устройство отфильтровывает глубоксин из крови мойо. Стандартная модель с разумной ценой и минимальным дискомфортом. Предложение глубоксина всегда отстаёт от спроса, поэтому многие мойо пользуются экстракторами ради дополнительного заработка.</Moyo2_DeepBlueExtracter.description>
+  <Moyo2_DeepBlueExtracter.label>экстрактор глубоксина</Moyo2_DeepBlueExtracter.label>
+  <Moyo2_DeepBlueExtracter_Abysstech.comps.CompUsableImplant.useLabel>Установить: {0_label}</Moyo2_DeepBlueExtracter_Abysstech.comps.CompUsableImplant.useLabel>
+  <Moyo2_DeepBlueExtracter_Abysstech.description>Передовое устройство отфильтровывает глубоксин из крови мойо настолько комфортно, что вы ничего не почувствуете. Помимо добычи глубоксина, оно следит за состоянием организма в реальном времени, помогает очищать кровь и подсчитывает потреблённые калории. Оформите подписку прямо сейчас!
+
+*Оплата глубоксином также принимается.</Moyo2_DeepBlueExtracter_Abysstech.description>
+  <Moyo2_DeepBlueExtracter_Abysstech.label>абисстехнологический экстрактор глубоксина</Moyo2_DeepBlueExtracter_Abysstech.label>
+  <Moyo2_DeepBlueExtracter_Crude.comps.CompUsableImplant.useLabel>Установить: {0_label}</Moyo2_DeepBlueExtracter_Crude.comps.CompUsableImplant.useLabel>
+  <Moyo2_DeepBlueExtracter_Crude.description>Примитивное устройство отфильтровывает глубоксин из крови мойо. Пользоваться им больно и неудобно, поэтому добровольно на такое согласятся лишь те, кто отчаянно нуждается в деньгах.</Moyo2_DeepBlueExtracter_Crude.description>
+  <Moyo2_DeepBlueExtracter_Crude.label>примитивный экстрактор глубоксина</Moyo2_DeepBlueExtracter_Crude.label>
+  <Moyo2_DeepDivingHelmet.description>Тяжёлый водолазный шлем Маяка для работы на океанском дне. Сильно сковывает движения, зато комплект защищает настолько хорошо, что может остаться целым даже после гибели владельца. Встроенный кислородный дыхательный аппарат снят.
+
+Глубоководные костюмы отлично оберегали добытчиков хадальных осколков и исправно служили своему назначению. Проблемы начались, когда после исчезновения нескольких рабочих нашли такой шлем, смятый как консервная банка.</Moyo2_DeepDivingHelmet.description>
+  <Moyo2_DeepDivingHelmet.label>тяжёлый глубоководный шлем</Moyo2_DeepDivingHelmet.label>
+  <Moyo2_DeepDivingShell.description>Тяжёлый водолазный костюм Маяка для работы на океанском дне. Сильно сковывает движения, зато защищает настолько хорошо, что может остаться целым даже после гибели владельца.
+
+Используется в самых суровых условиях: на дне океана, в раскалённой токсичной среде и под плотным вражеским огнём. Поэтому большинство жителей Маяка не горят желанием его надевать.</Moyo2_DeepDivingShell.description>
+  <Moyo2_DeepDivingShell.label>тяжёлый глубоководный костюм</Moyo2_DeepDivingShell.label>
+  <Moyo2_DeepDrill.description>Глубокий бур для добычи подземных ресурсов. Потребляет 600 Вт. Во время работы может привлекать насекомых.</Moyo2_DeepDrill.description>
+  <Moyo2_DeepDrill.label>абисстехнологический глубокий бур</Moyo2_DeepDrill.label>
+  <Moyo2_DeepblueStation.description>Большой инкубатор, непрерывно производящий глубоксин из выращиваемой внутри биомассы мойо. Для стимуляции выработки требуется постоянное электрическое воздействие. Резервный источник питания поддерживает жизнь организмов даже при отключении электричества.
+
+Заглядывать внутрь резервуара не рекомендуется.</Moyo2_DeepblueStation.description>
+  <Moyo2_DeepblueStation.label>абисстехнологическая глубоксиновая станция</Moyo2_DeepblueStation.label>
+  <Moyo2_DemiKrakenCorpse.description>Одомашненный глубоководный осьминог, генетически изменённый настолько, что едва функционирует как живой организм. В его теле синтезируются полезные химические вещества.
+
+Настоятельно не рекомендуется заводить его как домашнего любимца. Для этого продаются куда более подходящие миниатюрные модели.</Moyo2_DemiKrakenCorpse.description>
+  <Moyo2_DemiKrakenCorpse.fishTankSettings.label>полукракен</Moyo2_DemiKrakenCorpse.fishTankSettings.label>
+  <Moyo2_DemiKrakenCorpse.label>тушка полукракена</Moyo2_DemiKrakenCorpse.label>
+  <Moyo2_DepthWeedCorpse.description>Культурная разновидность глубоководной водоросли. Основное сырьё для глуботкани; перед использованием требует обработки.
+
+Глубинник выращивают у глубоководных гидротермальных источников, а при подходящем оборудовании — и в помещениях.</Moyo2_DepthWeedCorpse.description>
+  <Moyo2_DepthWeedCorpse.fishTankSettings.label>глубинник</Moyo2_DepthWeedCorpse.fishTankSettings.label>
+  <Moyo2_DepthWeedCorpse.label>куча глубинника</Moyo2_DepthWeedCorpse.label>
+  <Moyo2_Depthweed.description>Нарезанный и аккуратно сложенный для хранения глубинник. Из волокон этой водоросли делают глуботкань, распространённую в Маяке. Глубинник годится и на корм животным, но он очень жёсткий и может плохо усваиваться.
+
+Изначально мойо в основном использовали синткань, но после основания Маяка перешли на более доступную глуботкань. Массовое выращивание разнесло глубинник по бесчисленным местам.</Moyo2_Depthweed.description>
+  <Moyo2_Depthweed.label>обработанный глубинник</Moyo2_Depthweed.label>
+  <Moyo2_EGHarness.description>Защитное снаряжение, популярное у техников и рабочих Маяка. За разумную цену защищает от обжигающего жара, опасностей на производстве и масляных пятен. Множество карманов пригодится для инструментов и мелочей.
+
+Работникам промышленных районов настоятельно рекомендуется пользоваться защитой. Попытка травмировать себя ради страховки приведёт не только к отказу в выплате, но и к уголовному преследованию.</Moyo2_EGHarness.description>
+  <Moyo2_EGHarness.label>защитная разгрузка глубинного инженера</Moyo2_EGHarness.label>
+  <Moyo2_EGHelmet.description>Защитный шлем, популярный у техников и рабочих Маяка. За разумную цену защищает от обжигающего жара, опасностей на производстве и масляных пятен. Предусмотрено множество карманов для хранения.
+
+Обновлённая модель выглядит лучше предшественника, сохраняя его защитные свойства. Для тех, кто хочет оставаться стильным даже среди масла и грязи.</Moyo2_EGHelmet.description>
+  <Moyo2_EGHelmet.label>сварочный шлем глубинного инженера</Moyo2_EGHelmet.label>
+  <Moyo2_EGJacket.description>Защитная куртка, популярная у техников и рабочих Маяка. За разумную цену защищает от обжигающего жара, опасностей на производстве и масляных пятен. Имеет множество карманов; некоторые носят её просто ради моды.
+
+Куртка рассчитана на ношение поверх облегающего костюма. Иначе возможны ссадины и ушибы.</Moyo2_EGJacket.description>
+  <Moyo2_EGJacket.label>куртка глубинного инженера</Moyo2_EGJacket.label>
+  <Moyo2_EGMask.description>Дыхательный аппарат, популярный у инженеров и рабочих Маяка. За разумную цену защищает от ядовитых заводских газов, а при подключении кислородного баллона позволяет дышать под водой. Прочные материалы обеспечивают и некоторую защиту от физических повреждений.
+
+Согласно инструкции, ресурс дыхательного аппарата в промышленной зоне составляет 30 минут. Пользователям настоятельно рекомендуется изучить правила обращения с фильтром.</Moyo2_EGMask.description>
+  <Moyo2_EGMask.label>дыхательный аппарат глубинного инженера</Moyo2_EGMask.label>
+  <Moyo2_FabricationAddon.description>Продвинутый модуль, устанавливаемый на абисстехнологический производственный стол. Механические манипуляторы и 3D-принтеры позволяют быстро и эффективно изготавливать предметы.
+
+Нужно размещать прямо поверх абисстехнологического производственного стола.</Moyo2_FabricationAddon.description>
+  <Moyo2_FabricationAddon.label>абисстехнологический производственный модуль</Moyo2_FabricationAddon.label>
+  <Moyo2_FabricationBench.description>Рабочий стол для изготовления абисстехнологических изделий. Позволяет выполнять самые разные задачи: производить инструменты, компоненты и одежду, а также разбирать механоидов.
+
+К столу можно подключить абисстехнологический производственный модуль.</Moyo2_FabricationBench.description>
+  <Moyo2_FabricationBench.label>абисстехнологический производственный стол</Moyo2_FabricationBench.label>
+  <Moyo2_FishTank.description>Бассейн для выращивания рыб и водорослей в ограниченном пространстве. Системы контроля качества воды, фильтрации кислорода и подачи питательных веществ позволяют разводить разные виды водных организмов. При отключении электричества растущие организмы погибнут.</Moyo2_FishTank.description>
+  <Moyo2_FishTank.label>абисстехнологический бассейн для выращивания</Moyo2_FishTank.label>
+  <Moyo2_FleshMass.description>Выращенная масса клеток мойо. Растёт очень долго, зато из неё можно извлекать глубоксин и различные органы.
+
+Спрос на глубоксин всегда высок, а обеспечить нужную выработку непросто. Поэтому лучшие умы нашли решение.</Moyo2_FleshMass.description>
+  <Moyo2_FleshMass.fishTankSettings.label>масса плоти мойо</Moyo2_FleshMass.fishTankSettings.label>
+  <Moyo2_FleshMass.label>выращенная масса плоти мойо</Moyo2_FleshMass.label>
+  <Moyo2_Gun_AbysstechRifle.description>Универсальная штурмовая винтовка конструкции Картеля. Умеренное применение абисстехнологий улучшает характеристики, сохраняя разумную цену.</Moyo2_Gun_AbysstechRifle.description>
+  <Moyo2_Gun_AbysstechRifle.label>абисстехнологическая винтовка</Moyo2_Gun_AbysstechRifle.label>
+  <Moyo2_Gun_AbysstechRifle.tools.barrel.label>ствол</Moyo2_Gun_AbysstechRifle.tools.barrel.label>
+  <Moyo2_Gun_AbysstechRifle.tools.stock.label>приклад</Moyo2_Gun_AbysstechRifle.tools.stock.label>
+  <Moyo2_Gun_AbysstechRifle.verbs.Verb_Shoot.label>стрельба из абисстехнологической винтовки</Moyo2_Gun_AbysstechRifle.verbs.Verb_Shoot.label>
+  <Moyo2_HadalShard.description>Фрагмент металлического коралла, обитающего в глубоководных желобах. Чрезвычайно острый и твёрдый, но из-за хрупкости сложен в обработке. Используется для производства глубостали, поэтому с ростом Маяка добыча осколков резко расширилась.
+
+От добытчиков поступает множество сообщений о галлюцинациях и душевных расстройствах. Некоторые даже утверждают, что видели чудовищ среди коралловых шпилей. В последующих отчётах говорится, что галлюцинации и бред, вызванные усталостью, быстро исчезли после нескольких доз жемчуга радости.</Moyo2_HadalShard.description>
+  <Moyo2_HadalShard.label>хадальный осколок</Moyo2_HadalShard.label>
+  <Moyo2_HadalSpire.description>Шпиль металлического коралла, обитающего в глубоководных желобах. Его можно добыть целиком или собирать осыпавшиеся осколки. Ради снабжения промышленности мойо прочёсывают бездну в поисках этих рифов, росших веками.</Moyo2_HadalSpire.description>
+  <Moyo2_HadalSpire.label>шпиль хадального коралла</Moyo2_HadalSpire.label>
+  <Moyo2_HarpoonGun.description>Увеличенный пробойник: чудовищно тяжёлый и неудобный, зато его стержни пробивают даже обшивку подлодки. Идеальный инструмент для разрушения. При стрельбе в упор может служить оружием ближнего боя, хотя рекомендовать такое необычное применение нельзя.
+
+Значительно повышает эффективность добычи. Название связано с его основным назначением — разборкой судов.</Moyo2_HarpoonGun.description>
+  <Moyo2_HarpoonGun.label>корабельный пробойник «Глубинструмент»</Moyo2_HarpoonGun.label>
+  <Moyo2_HarpoonGun.tools.pile.label>стержень</Moyo2_HarpoonGun.tools.pile.label>
+  <Moyo2_HarpoonGun.verbs.Verb_Shoot.label>стрельба из корабельного пробойника</Moyo2_HarpoonGun.verbs.Verb_Shoot.label>
+  <Moyo2_Heart.description>Сердце мойо. Синее.</Moyo2_Heart.description>
+  <Moyo2_Heart.label>сердце мойо</Moyo2_Heart.label>
+  <Moyo2_Hexapod_Default.description>Многоцелевой механоид Маяка. Шесть гибких щупалец позволяют выполнять разные работы. Один из немногих местных механоидов, пригодных для суши; в бою бьёт щупальцами и сковывает движения противника.</Moyo2_Hexapod_Default.description>
+  <Moyo2_Hexapod_Default.label>гексапод</Moyo2_Hexapod_Default.label>
+  <Moyo2_Hexapod_Default.tools.head.label>голова</Moyo2_Hexapod_Default.tools.head.label>
+  <Moyo2_Hexapod_Default.tools.tentacle.label>щупальце</Moyo2_Hexapod_Default.tools.tentacle.label>
+  <Moyo2_HoloSuit.description>Самый ценный облегающий костюм Маяка, созданный прежде всего ради красоты. Множество голографических дисплеев позволяет менять его облик самыми разными способами. Его носят главным образом ведущие артисты и законодатели мод Маяка; остальным он просто не по карману.</Moyo2_HoloSuit.description>
+  <Moyo2_HoloSuit.label>голокостюм Маяка</Moyo2_HoloSuit.label>
+  <Moyo2_HoloSuit_Cartel.description>Самый ценный облегающий костюм Маяка, созданный прежде всего ради красоты. Множество голографических дисплеев позволяет менять его облик самыми разными способами. Его носят главным образом ведущие артисты и законодатели мод Маяка; остальным он просто не по карману.</Moyo2_HoloSuit_Cartel.description>
+  <Moyo2_HoloSuit_Cartel.label>голокостюм Картеля</Moyo2_HoloSuit_Cartel.label>
+  <Moyo2_HoverCraftWreak.description>Остатки судна на воздушной подушке, повреждённого без возможности ремонта. Покинув Маяк, оно отбивалось от пиратов и налётчиков, пока наконец не затонуло здесь.</Moyo2_HoverCraftWreak.description>
+  <Moyo2_HoverCraftWreak.label>обломки судна на воздушной подушке</Moyo2_HoverCraftWreak.label>
+  <Moyo2_Knife.description>Нож с пласталевым клинком: устойчив к коррозии и долго держит заточку. Незаменим для водолазов, популярен и у поваров. Остерегайтесь подделок.
+
+Повышает эффективность готовки и разделки туш. Множество вариантов и ограниченных серий сделали эти ножи ценным предметом коллекционирования в Маяке. Ходят слухи, что лучшие клиенты получат возможность купить прототип ламинарного ножа с высокочастотной вибрацией.</Moyo2_Knife.description>
+  <Moyo2_Knife.label>водолазный нож «Глубинструмент»</Moyo2_Knife.label>
+  <Moyo2_Knife.tools.blade.label>лезвие</Moyo2_Knife.tools.blade.label>
+  <Moyo2_Knife.tools.handle.label>рукоять</Moyo2_Knife.tools.handle.label>
+  <Moyo2_Knife.tools.point.label>остриё</Moyo2_Knife.tools.point.label>
+  <Moyo2_KrakenMeat.description>Нарезанный полукракен. Даже мойо не станут есть его сырым.</Moyo2_KrakenMeat.description>
+  <Moyo2_KrakenMeat.label>нарезанный полукракен</Moyo2_KrakenMeat.label>
+  <Moyo2_LMRAutoCannon.comps.CompFormChange.transformDatas.0.description>Включить усиленный режим стрельбы.</Moyo2_LMRAutoCannon.comps.CompFormChange.transformDatas.0.description>
+  <Moyo2_LMRAutoCannon.comps.CompFormChange.transformDatas.0.label>Усилить</Moyo2_LMRAutoCannon.comps.CompFormChange.transformDatas.0.label>
+  <Moyo2_LMRAutoCannon.description>Большая ламинарная винтовка с перенастроенным генератором поля: скорострельность значительно повышена ценой точности. В усиленном режиме стреляет ещё быстрее, но затем ненадолго перегружается.
+
+Исследуя способы повысить темп стрельбы ламинарной винтовки, разработчики научились сокращать время, в течение которого поле направляет каждый снаряд. Точность снизилась, зато скорострельность выросла. От идеи объединить несколько генераторов поля отказались.</Moyo2_LMRAutoCannon.description>
+  <Moyo2_LMRAutoCannon.label>ламинарная автопушка</Moyo2_LMRAutoCannon.label>
+  <Moyo2_LMRAutoCannon.tools.barrel.label>ствол</Moyo2_LMRAutoCannon.tools.barrel.label>
+  <Moyo2_LMRAutoCannon.verbs.Verb_Shoot.label>стрельба из ламинарной автопушки</Moyo2_LMRAutoCannon.verbs.Verb_Shoot.label>
+  <Moyo2_LMRAutoCannonDown.comps.CompFormChange.revertData.description>Оружейная система охлаждается.</Moyo2_LMRAutoCannonDown.comps.CompFormChange.revertData.description>
+  <Moyo2_LMRAutoCannonDown.comps.CompFormChange.revertData.label>Охлаждение</Moyo2_LMRAutoCannonDown.comps.CompFormChange.revertData.label>
+  <Moyo2_LMRAutoCannonDown.description>Перегруженная ламинарная автопушка. Стрельба временно недоступна, пока система не восстановится. Пока что это просто дорогой столб.</Moyo2_LMRAutoCannonDown.description>
+  <Moyo2_LMRAutoCannonDown.label>ламинарная автопушка (перегрузка)</Moyo2_LMRAutoCannonDown.label>
+  <Moyo2_LMRAutoCannonDown.tools.barrel.label>ствол</Moyo2_LMRAutoCannonDown.tools.barrel.label>
+  <Moyo2_LMRAutoCannonOver.comps.CompFormChange.revertData.description>Оружейная система перегружается.</Moyo2_LMRAutoCannonOver.comps.CompFormChange.revertData.description>
+  <Moyo2_LMRAutoCannonOver.comps.CompFormChange.revertData.label>Перегрузка</Moyo2_LMRAutoCannonOver.comps.CompFormChange.revertData.label>
+  <Moyo2_LMRAutoCannonOver.comps.CompFormChange.transformDatas.0.description>Отключить усиленный режим стрельбы.</Moyo2_LMRAutoCannonOver.comps.CompFormChange.transformDatas.0.description>
+  <Moyo2_LMRAutoCannonOver.comps.CompFormChange.transformDatas.0.label>Сбросить усиление</Moyo2_LMRAutoCannonOver.comps.CompFormChange.transformDatas.0.label>
+  <Moyo2_LMRAutoCannonOver.description>Ламинарная автопушка в усиленном режиме. Скорострельность повышена, но через некоторое время наступает перегрузка.</Moyo2_LMRAutoCannonOver.description>
+  <Moyo2_LMRAutoCannonOver.label>ламинарная автопушка (усиление)</Moyo2_LMRAutoCannonOver.label>
+  <Moyo2_LMRAutoCannonOver.tools.barrel.label>ствол</Moyo2_LMRAutoCannonOver.tools.barrel.label>
+  <Moyo2_LMRAutoCannonOver.verbs.Verb_Shoot.label>усиленная стрельба из ламинарной автопушки</Moyo2_LMRAutoCannonOver.verbs.Verb_Shoot.label>
+  <Moyo2_LMRBalista.comps.CompFormChange.transformDatas.0.description>Включить усиленный режим стрельбы.</Moyo2_LMRBalista.comps.CompFormChange.transformDatas.0.description>
+  <Moyo2_LMRBalista.comps.CompFormChange.transformDatas.0.label>Усилить</Moyo2_LMRBalista.comps.CompFormChange.transformDatas.0.label>
+  <Moyo2_LMRBalista.description>Большая ламинарная винтовка для надёжного пробития брони небольших подлодок и глубоководных костюмов. В усиленном режиме выпускает мощный разрывной снаряд, но затем ненадолго перегружается.
+
+Широко применяется против целей крупнее человека. Отправила на океанское дно множество угроз — от грозных морских существ до подлодок, оказавшихся там без разрешения.</Moyo2_LMRBalista.description>
+  <Moyo2_LMRBalista.label>ламинарная баллиста</Moyo2_LMRBalista.label>
+  <Moyo2_LMRBalista.tools.barrel.label>ствол</Moyo2_LMRBalista.tools.barrel.label>
+  <Moyo2_LMRBalista.verbs.Verb_Shoot.label>стрельба из ламинарной баллисты</Moyo2_LMRBalista.verbs.Verb_Shoot.label>
+  <Moyo2_LMRBalistaDown.comps.CompFormChange.revertData.description>Оружейная система охлаждается.</Moyo2_LMRBalistaDown.comps.CompFormChange.revertData.description>
+  <Moyo2_LMRBalistaDown.comps.CompFormChange.revertData.label>Охлаждение</Moyo2_LMRBalistaDown.comps.CompFormChange.revertData.label>
+  <Moyo2_LMRBalistaDown.description>Перегруженная ламинарная баллиста. Стрельба временно недоступна, пока система не восстановится. Пока что это просто дорогой столб.</Moyo2_LMRBalistaDown.description>
+  <Moyo2_LMRBalistaDown.label>ламинарная баллиста (перегрузка)</Moyo2_LMRBalistaDown.label>
+  <Moyo2_LMRBalistaDown.tools.barrel.label>ствол</Moyo2_LMRBalistaDown.tools.barrel.label>
+  <Moyo2_LMRBalistaOver.comps.CompFormChange.revertData.description>Оружейная система перегружается.</Moyo2_LMRBalistaOver.comps.CompFormChange.revertData.description>
+  <Moyo2_LMRBalistaOver.comps.CompFormChange.revertData.label>Перегрузка</Moyo2_LMRBalistaOver.comps.CompFormChange.revertData.label>
+  <Moyo2_LMRBalistaOver.comps.CompFormChange.transformDatas.0.description>Отключить усиленный режим стрельбы.</Moyo2_LMRBalistaOver.comps.CompFormChange.transformDatas.0.description>
+  <Moyo2_LMRBalistaOver.comps.CompFormChange.transformDatas.0.label>Сбросить усиление</Moyo2_LMRBalistaOver.comps.CompFormChange.transformDatas.0.label>
+  <Moyo2_LMRBalistaOver.description>Ламинарная баллиста в усиленном режиме. Выпускает мощный разрывной снаряд, но через некоторое время наступает перегрузка.</Moyo2_LMRBalistaOver.description>
+  <Moyo2_LMRBalistaOver.label>ламинарная баллиста (усиление)</Moyo2_LMRBalistaOver.label>
+  <Moyo2_LMRBalistaOver.tools.barrel.label>ствол</Moyo2_LMRBalistaOver.tools.barrel.label>
+  <Moyo2_LMRBalistaOver.verbs.Verb_Shoot.label>усиленная стрельба из ламинарной баллисты</Moyo2_LMRBalistaOver.verbs.Verb_Shoot.label>
+  <Moyo2_LMRColider.comps.CompFormChange.transformDatas.0.description>Включить усиленный режим стрельбы.</Moyo2_LMRColider.comps.CompFormChange.transformDatas.0.description>
+  <Moyo2_LMRColider.comps.CompFormChange.transformDatas.0.label>Усилить</Moyo2_LMRColider.comps.CompFormChange.transformDatas.0.label>
+  <Moyo2_LMRColider.description>Экспериментальное оружие Маяка, поражающее цель сконцентрированным ламинарным полем. Тяжёлое и сложное в обращении, зато обеспечивает высокую точность и разрушительную мощь.
+
+Идея родилась из простого рассуждения: если достаточно сильное ламинарное поле способно ощутимо воздействовать на предметы, зачем направлять им снаряды? Можно бить по цели самим полем. Необходимость вместить крупный генератор и источник питания закономерно сделала оружие огромным и тяжёлым.</Moyo2_LMRColider.description>
+  <Moyo2_LMRColider.label>ламинарный коллайдер</Moyo2_LMRColider.label>
+  <Moyo2_LMRColider.tools.barrel.label>ствол</Moyo2_LMRColider.tools.barrel.label>
+  <Moyo2_LMRColider.tools.body.label>корпус</Moyo2_LMRColider.tools.body.label>
+  <Moyo2_LMRColider.verbs.Verb_Shoot.label>стрельба из ламинарного коллайдера</Moyo2_LMRColider.verbs.Verb_Shoot.label>
+  <Moyo2_LMRColiderDown.comps.CompFormChange.revertData.description>Оружейная система охлаждается.</Moyo2_LMRColiderDown.comps.CompFormChange.revertData.description>
+  <Moyo2_LMRColiderDown.comps.CompFormChange.revertData.label>Охлаждение</Moyo2_LMRColiderDown.comps.CompFormChange.revertData.label>
+  <Moyo2_LMRColiderDown.description>Перегруженный ламинарный коллайдер. Стрельба временно недоступна, пока система не восстановится. Пока что это просто дорогой столб.</Moyo2_LMRColiderDown.description>
+  <Moyo2_LMRColiderDown.label>ламинарный коллайдер (перегрузка)</Moyo2_LMRColiderDown.label>
+  <Moyo2_LMRColiderDown.tools.barrel.label>ствол</Moyo2_LMRColiderDown.tools.barrel.label>
+  <Moyo2_LMRColiderDown.tools.body.label>корпус</Moyo2_LMRColiderDown.tools.body.label>
+  <Moyo2_LMRColiderOver.comps.CompFormChange.revertData.description>Оружейная система перегружается.</Moyo2_LMRColiderOver.comps.CompFormChange.revertData.description>
+  <Moyo2_LMRColiderOver.comps.CompFormChange.revertData.label>Перегрузка</Moyo2_LMRColiderOver.comps.CompFormChange.revertData.label>
+  <Moyo2_LMRColiderOver.comps.CompFormChange.transformDatas.0.description>Отключить усиленный режим стрельбы.</Moyo2_LMRColiderOver.comps.CompFormChange.transformDatas.0.description>
+  <Moyo2_LMRColiderOver.comps.CompFormChange.transformDatas.0.label>Сбросить усиление</Moyo2_LMRColiderOver.comps.CompFormChange.transformDatas.0.label>
+  <Moyo2_LMRColiderOver.description>Ламинарный коллайдер в усиленном режиме. Производит мощный взрывной выстрел, но через некоторое время наступает перегрузка.</Moyo2_LMRColiderOver.description>
+  <Moyo2_LMRColiderOver.label>ламинарный коллайдер (усиление)</Moyo2_LMRColiderOver.label>
+  <Moyo2_LMRColiderOver.tools.barrel.label>ствол</Moyo2_LMRColiderOver.tools.barrel.label>
+  <Moyo2_LMRColiderOver.tools.body.label>корпус</Moyo2_LMRColiderOver.tools.body.label>
+  <Moyo2_LMRColiderOver.verbs.Verb_Shoot.label>усиленная стрельба из ламинарного коллайдера</Moyo2_LMRColiderOver.verbs.Verb_Shoot.label>
+  <Moyo2_LMRFist.description>Большая перчатка из глубостали. Гидравлика и генератор ламинарного поля позволяют мять стальные листы как бумагу. Идеально подходит, чтобы убирать преграды перед собой — стены, людей и прочее. Достаточно ненадолго зарядить её и ударить.
+
+Совместима с водолазными костюмами; надевать на голую руку не рекомендуется. Впрочем, мало кто соблюдает это правило.</Moyo2_LMRFist.description>
+  <Moyo2_LMRFist.label>силовая перчатка «Глубинструмент»</Moyo2_LMRFist.label>
+  <Moyo2_LMRFist.tools.Body.label>корпус</Moyo2_LMRFist.tools.Body.label>
+  <Moyo2_LMRFist.tools.Fist.label>кулак</Moyo2_LMRFist.tools.Fist.label>
+  <Moyo2_LMRGlaive.description>Большое копьё из глубостали. Крупное и тяжёлое, но благодаря мощному генератору ламинарного силового поля им легко управлять. Поле позволяет зафиксировать направление удара и многократно его усилить — вплоть до раскалывания водолазных шлемов. Небольшая зарядка, и можно нанести опустошающий рассекающий удар. По крайней мере, так утверждают в отделе разработок.
+
+За внушительный вид это оружие выдают стражникам Совета.</Moyo2_LMRGlaive.description>
+  <Moyo2_LMRGlaive.label>ламинарная глефа</Moyo2_LMRGlaive.label>
+  <Moyo2_LMRGlaive.tools.blade.label>лезвие</Moyo2_LMRGlaive.tools.blade.label>
+  <Moyo2_LMRGlaive.tools.handle.label>рукоять</Moyo2_LMRGlaive.tools.handle.label>
+  <Moyo2_LMRGlaive.tools.point.label>остриё</Moyo2_LMRGlaive.tools.point.label>
+  <Moyo2_LMRPistol.comps.CompFormChange.transformDatas.0.description>Включить усиленный режим стрельбы.</Moyo2_LMRPistol.comps.CompFormChange.transformDatas.0.description>
+  <Moyo2_LMRPistol.comps.CompFormChange.transformDatas.0.label>Усилить</Moyo2_LMRPistol.comps.CompFormChange.transformDatas.0.label>
+  <Moyo2_LMRPistol.description>Крупнокалиберный пистолет, направляющий снаряды ламинарным полем. Подходит для ближнего боя. Усиленный режим повышает урон и эффективность на дальней дистанции, но затем вызывает краткую перегрузку.
+
+По сравнению с другим оружием Маяка его легко носить. В усиленном режиме пробивает бронепластины водолазных костюмов, за что популярен и у полицейских, и у преступников.</Moyo2_LMRPistol.description>
+  <Moyo2_LMRPistol.label>крупнокалиберный ламинарный пистолет</Moyo2_LMRPistol.label>
+  <Moyo2_LMRPistol.verbs.Verb_Shoot.label>стрельба из ламинарного пистолета</Moyo2_LMRPistol.verbs.Verb_Shoot.label>
+  <Moyo2_LMRPistolDown.comps.CompFormChange.revertData.description>Оружейная система охлаждается.</Moyo2_LMRPistolDown.comps.CompFormChange.revertData.description>
+  <Moyo2_LMRPistolDown.comps.CompFormChange.revertData.label>Охлаждение</Moyo2_LMRPistolDown.comps.CompFormChange.revertData.label>
+  <Moyo2_LMRPistolDown.description>Перегруженный крупнокалиберный ламинарный пистолет. Стрельба временно недоступна, пока система не восстановится. Пока что это просто дорогая дубинка.</Moyo2_LMRPistolDown.description>
+  <Moyo2_LMRPistolDown.label>крупнокалиберный ламинарный пистолет (перегрузка)</Moyo2_LMRPistolDown.label>
+  <Moyo2_LMRPistolOver.comps.CompFormChange.revertData.description>Оружейная система перегружается.</Moyo2_LMRPistolOver.comps.CompFormChange.revertData.description>
+  <Moyo2_LMRPistolOver.comps.CompFormChange.revertData.label>Перегрузка</Moyo2_LMRPistolOver.comps.CompFormChange.revertData.label>
+  <Moyo2_LMRPistolOver.comps.CompFormChange.transformDatas.0.description>Отключить усиленный режим стрельбы.</Moyo2_LMRPistolOver.comps.CompFormChange.transformDatas.0.description>
+  <Moyo2_LMRPistolOver.comps.CompFormChange.transformDatas.0.label>Сбросить усиление</Moyo2_LMRPistolOver.comps.CompFormChange.transformDatas.0.label>
+  <Moyo2_LMRPistolOver.description>Крупнокалиберный ламинарный пистолет в усиленном режиме. Мощность и дальность повышены, но через некоторое время наступает перегрузка.</Moyo2_LMRPistolOver.description>
+  <Moyo2_LMRPistolOver.label>крупнокалиберный ламинарный пистолет (усиление)</Moyo2_LMRPistolOver.label>
+  <Moyo2_LMRPistolOver.verbs.Verb_Shoot.label>усиленная стрельба из ламинарного пистолета</Moyo2_LMRPistolOver.verbs.Verb_Shoot.label>
+  <Moyo2_LMRRifle.comps.CompFormChange.transformDatas.0.description>Включить усиленный режим стрельбы.</Moyo2_LMRRifle.comps.CompFormChange.transformDatas.0.description>
+  <Moyo2_LMRRifle.comps.CompFormChange.transformDatas.0.label>Усилить</Moyo2_LMRRifle.comps.CompFormChange.transformDatas.0.label>
+  <Moyo2_LMRRifle.description>Характерная для Маяка крупнокалиберная винтовка, направляющая снаряды ламинарным полем отталкивания. Универсальна и точна. Усиленный режим повышает урон и дальность, но затем вызывает краткую перегрузку.
+
+При выстреле возникает «рельс» или «тоннель» из ламинарного поля, по которому снаряд движется с минимальным сопротивлением. Подходящие боеприпасы сохраняют приличную дальность даже под водой.</Moyo2_LMRRifle.description>
+  <Moyo2_LMRRifle.label>ламинарная винтовка</Moyo2_LMRRifle.label>
+  <Moyo2_LMRRifle.tools.barrel.label>ствол</Moyo2_LMRRifle.tools.barrel.label>
+  <Moyo2_LMRRifle.tools.stock.label>приклад</Moyo2_LMRRifle.tools.stock.label>
+  <Moyo2_LMRRifle.verbs.Verb_Shoot.label>стрельба из ламинарной винтовки</Moyo2_LMRRifle.verbs.Verb_Shoot.label>
+  <Moyo2_LMRRifleDown.comps.CompFormChange.revertData.description>Оружейная система охлаждается.</Moyo2_LMRRifleDown.comps.CompFormChange.revertData.description>
+  <Moyo2_LMRRifleDown.comps.CompFormChange.revertData.label>Охлаждение</Moyo2_LMRRifleDown.comps.CompFormChange.revertData.label>
+  <Moyo2_LMRRifleDown.description>Перегруженная ламинарная винтовка. Стрельба временно недоступна, пока система не восстановится. Пока что это просто дорогая дубинка.</Moyo2_LMRRifleDown.description>
+  <Moyo2_LMRRifleDown.label>ламинарная винтовка (перегрузка)</Moyo2_LMRRifleDown.label>
+  <Moyo2_LMRRifleDown.tools.barrel.label>ствол</Moyo2_LMRRifleDown.tools.barrel.label>
+  <Moyo2_LMRRifleDown.tools.stock.label>приклад</Moyo2_LMRRifleDown.tools.stock.label>
+  <Moyo2_LMRRifleOver.comps.CompFormChange.revertData.description>Оружейная система перегружается.</Moyo2_LMRRifleOver.comps.CompFormChange.revertData.description>
+  <Moyo2_LMRRifleOver.comps.CompFormChange.revertData.label>Перегрузка</Moyo2_LMRRifleOver.comps.CompFormChange.revertData.label>
+  <Moyo2_LMRRifleOver.comps.CompFormChange.transformDatas.0.description>Отключить усиленный режим стрельбы.</Moyo2_LMRRifleOver.comps.CompFormChange.transformDatas.0.description>
+  <Moyo2_LMRRifleOver.comps.CompFormChange.transformDatas.0.label>Сбросить усиление</Moyo2_LMRRifleOver.comps.CompFormChange.transformDatas.0.label>
+  <Moyo2_LMRRifleOver.description>Ламинарная винтовка в усиленном режиме. Мощность и дальность повышены, но через некоторое время наступает перегрузка.</Moyo2_LMRRifleOver.description>
+  <Moyo2_LMRRifleOver.label>ламинарная винтовка (усиление)</Moyo2_LMRRifleOver.label>
+  <Moyo2_LMRRifleOver.tools.barrel.label>ствол</Moyo2_LMRRifleOver.tools.barrel.label>
+  <Moyo2_LMRRifleOver.tools.stock.label>приклад</Moyo2_LMRRifleOver.tools.stock.label>
+  <Moyo2_LMRRifleOver.verbs.Verb_Shoot.label>усиленная стрельба из ламинарной винтовки</Moyo2_LMRRifleOver.verbs.Verb_Shoot.label>
+  <Moyo2_Mote_FoodBitMeatMoyo.label>частица</Moyo2_Mote_FoodBitMeatMoyo.label>
+  <Moyo2_Mote_LMRColider_Beam.label>частица</Moyo2_Mote_LMRColider_Beam.label>
+  <Moyo2_Mote_LMRColider_Charge.label>частица</Moyo2_Mote_LMRColider_Charge.label>
+  <Moyo2_Mote_MoyoDrunk.label>частица</Moyo2_Mote_MoyoDrunk.label>
+  <Moyo2_NailGun.description>Обычный гвоздомёт Маяка. Выстреливает гвозди мощным гидравлическим приводом. Урон и точность невелики, так что лучше просто поливать цель и надеяться на удачу.
+
+Повышает эффективность строительства и производства. Именно такие с виду заурядные инструменты помогли создать сияющий Маяк. Обзаведитесь одним и для своего поселения!</Moyo2_NailGun.description>
+  <Moyo2_NailGun.label>гвоздомёт «Глубинструмент»</Moyo2_NailGun.label>
+  <Moyo2_NailGun.tools.grip.label>рукоять</Moyo2_NailGun.tools.grip.label>
+  <Moyo2_NailGun.verbs.Verb_Shoot.label>стрельба из гвоздомёта</Moyo2_NailGun.verbs.Verb_Shoot.label>
+  <Moyo2_RoyalRobe.description>Самая роскошная мантия, доступная в Маяке. Изысканный пулестойкий материал, терморегуляция, непревзойдённый комфорт, всевозможные удобства и царственный вид. Лишь немногие решатся перейти дорогу её владельцу. Подумайте, как тот вообще сумел получить такую вещь.</Moyo2_RoyalRobe.description>
+  <Moyo2_RoyalRobe.label>изысканная мантия</Moyo2_RoyalRobe.label>
+  <Moyo2_RoyalRobe_Cartel.description>Самая роскошная мантия, доступная в Маяке. Изысканный пулестойкий материал, терморегуляция, непревзойдённый комфорт, всевозможные удобства и царственный вид. Лишь немногие решатся перейти дорогу её владельцу. Подумайте, как тот вообще сумел получить такую вещь.</Moyo2_RoyalRobe_Cartel.description>
+  <Moyo2_RoyalRobe_Cartel.label>изысканная мантия Картеля</Moyo2_RoyalRobe_Cartel.label>
+  <Moyo2_RoyalSuit.description>Самый роскошный облегающий костюм, доступный в Маяке. Изысканный пулестойкий материал, терморегуляция, непревзойдённый комфорт, всевозможные удобства и царственный вид. Лишь немногие решатся перейти дорогу его владельцу. Подумайте, как тот вообще сумел получить такой костюм.</Moyo2_RoyalSuit.description>
+  <Moyo2_RoyalSuit.label>изысканный облегающий костюм</Moyo2_RoyalSuit.label>
+  <Moyo2_RoyalSuit_Cartel.description>Самый роскошный облегающий костюм, доступный в Маяке. Изысканный пулестойкий материал, терморегуляция, непревзойдённый комфорт, всевозможные удобства и царственный вид. Лишь немногие решатся перейти дорогу его владельцу. Подумайте, как тот вообще сумел получить такой костюм.</Moyo2_RoyalSuit_Cartel.description>
+  <Moyo2_RoyalSuit_Cartel.label>изысканный облегающий костюм Картеля</Moyo2_RoyalSuit_Cartel.label>
+  <Moyo2_Saw.description>Дисковая пила с невероятной режущей способностью. Полотно из сверхтвёрдых материалов режет и перемалывает самые разные вещества.
+
+Значительно повышает производительность. Инструмент участвовал в рекламном размещении в знаменитом ужастике Маяка «Убийца с дисковой пилой». Пожалуйста, используйте его по назначению.</Moyo2_Saw.description>
+  <Moyo2_Saw.label>дисковая пила «Глубинструмент»</Moyo2_Saw.label>
+  <Moyo2_Saw.tools.sawblade.label>пильный диск</Moyo2_Saw.tools.sawblade.label>
+  <Moyo2_SpearGun.description>Инструмент, выстреливающий металлические стержни мощным гидравлическим приводом, чтобы пробивать металлические плиты. Зарядка и выстрел медленные, зато разрушительная сила велика. При стрельбе в упор может служить и оружием ближнего боя, хотя это весьма необычное применение.
+
+Повышает эффективность строительства и добычи. Использование снарядов, переделанных с добавлением взрывчатки или иным подобным образом, не разрешено и опасно как для вашей жизни, так и для интересов компании.</Moyo2_SpearGun.description>
+  <Moyo2_SpearGun.label>пробойник «Глубинструмент»</Moyo2_SpearGun.label>
+  <Moyo2_SpearGun.tools.pile.label>стержень</Moyo2_SpearGun.tools.pile.label>
+  <Moyo2_SpearGun.verbs.Verb_Shoot.label>стрельба из пробойника</Moyo2_SpearGun.verbs.Verb_Shoot.label>
+  <Moyo2_Spheripod_Default.description>Шахтёрский механоид Маяка. Парой огромных булав дробит породу и добывает руду. Один из немногих местных механоидов, пригодных для суши; в бою обрушивает булавы на врага. Оказаться под таким ударом вы бы не захотели.</Moyo2_Spheripod_Default.description>
+  <Moyo2_Spheripod_Default.label>сферипод</Moyo2_Spheripod_Default.label>
+  <Moyo2_Spheripod_Default.tools.head.label>голова</Moyo2_Spheripod_Default.tools.head.label>
+  <Moyo2_Spheripod_Default.tools.left_club.label>левая булава</Moyo2_Spheripod_Default.tools.left_club.label>
+  <Moyo2_Spheripod_Default.tools.right_club.label>правая булава</Moyo2_Spheripod_Default.tools.right_club.label>
+  <Moyo2_StreamlineDivingHelmet.description>Водолазный шлем Маяка с упором на подвижность. Даёт серьёзную защиту, почти не стесняя движений. Встроенный кислородный дыхательный аппарат снят.
+
+Изначально комплект предназначался только для работы, но по мере нарастания хаоса в Маяке превратился в пригодное для боя снаряжение.</Moyo2_StreamlineDivingHelmet.description>
+  <Moyo2_StreamlineDivingHelmet.label>обтекаемый водолазный шлем</Moyo2_StreamlineDivingHelmet.label>
+  <Moyo2_StreamlineDivingShell.description>Водолазный костюм Маяка с упором на подвижность. Даёт серьёзную защиту, почти не стесняя движений. Обтекаемая поверхность снижает сопротивление воды и облегчает перемещение под водой. На суше от этого свойства нет пользы.
+
+Пластины из глубостали делают костюм отличной бронёй. Первыми применять его в бою начали силы безопасности Маяка, а затем практика распространилась по всему городу.</Moyo2_StreamlineDivingShell.description>
+  <Moyo2_StreamlineDivingShell.label>обтекаемый водолазный костюм</Moyo2_StreamlineDivingShell.label>
+  <Moyo2_TailBionic.description>Искусственный хвост, созданный по передовым технологиям. Внешне неотличим от настоящего, а мощные сервоприводы и нейроинтерфейс делают его лучше природного.</Moyo2_TailBionic.description>
+  <Moyo2_TailBionic.label>бионический хвост мойо</Moyo2_TailBionic.label>
+  <Moyo2_TailProsthesis.description>Простой протез хвоста мойо. Реагирует медленно, но это лучше, чем ничего.</Moyo2_TailProsthesis.description>
+  <Moyo2_TailProsthesis.label>протез хвоста мойо</Moyo2_TailProsthesis.label>
+  <Moyo2_TunaCorpse.description>Одомашненный тунец. Модификации подавили многие естественные потребности, поэтому ему комфортно даже в небольшом бассейне. Благодаря удачным свойствам приливных тунцов массово разводят в Маяке. Их численность стремительно растёт — с биологической точки зрения вид явно процветает.
+
+Для роли домашнего любимца не подходит. Вне воды погибнет, так что, пожалуйста, не задавайте очевидных вопросов.</Moyo2_TunaCorpse.description>
+  <Moyo2_TunaCorpse.fishTankSettings.label>приливный тунец</Moyo2_TunaCorpse.fishTankSettings.label>
+  <Moyo2_TunaCorpse.label>тушка приливного тунца</Moyo2_TunaCorpse.label>
+  <Moyo2_TunaMeat.description>Филе приливного тунца. В Маяке считается деликатесом.</Moyo2_TunaMeat.description>
+  <Moyo2_TunaMeat.label>филе приливного тунца</Moyo2_TunaMeat.label>
+  <Moyo2_Wrench.comps.CompEquippableAbilityReloadable.chargeNoun>гаечный ключ</Moyo2_Wrench.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <Moyo2_Wrench.comps.CompEquippableAbilityReloadable.cooldownGerund>восстанавливается</Moyo2_Wrench.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <Moyo2_Wrench.description>Тяжёлый гаечный ключ для работы двумя руками. Предназначен прежде всего для затягивания болтов, но благодаря весу годится и как молоток. Если его бросить, будет очень больно.
+
+Значительно повышает эффективность строительства. Хотя такой ключ уже есть почти у каждого рабочего, продажи остаются стабильно высокими. Многие задаются вопросом, на что их столько уходит.</Moyo2_Wrench.description>
+  <Moyo2_Wrench.label>тяжёлый ключ «Глубинструмент»</Moyo2_Wrench.label>
+  <Moyo2_Wrench.tools.handle.label>рукоять</Moyo2_Wrench.tools.handle.label>
+  <Moyo2_Wrench.tools.head.label>головка ключа</Moyo2_Wrench.tools.head.label>
+</LanguageData>

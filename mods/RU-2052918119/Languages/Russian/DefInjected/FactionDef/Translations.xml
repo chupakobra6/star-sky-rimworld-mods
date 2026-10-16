@@ -1,0 +1,37 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <SettlerCivil.description>Эти люди живут здесь десятилетиями или даже веками. Большинство технологий, которые привели их в этот мир, давно утрачено. Они пасут скот, пьют химогон и охотятся за головами преступников, а простое огнестрельное оружие позволяет им постоять за себя.
+
+Их заботят практические вопросы торговли, доверия и выживания.
+
+Эта группа высоко ценит мирное, цивилизованное общение.</SettlerCivil.description>
+  <SettlerCivil.label>мирные переселенцы</SettlerCivil.label>
+  <SettlerCivil.leaderTitle>мэр</SettlerCivil.leaderTitle>
+  <SettlerCivil.messageDefendersAttacking>{0} из {1} атакуют: {2}.</SettlerCivil.messageDefendersAttacking>
+  <SettlerCivil.pawnSingular>переселенец</SettlerCivil.pawnSingular>
+  <SettlerCivil.pawnsPlural>переселенцы</SettlerCivil.pawnsPlural>
+  <SettlerRough.description>Эти люди живут здесь десятилетиями или даже веками. Большинство технологий, которые привели их в этот мир, давно утрачено. Они пасут скот, пьют химогон и охотятся за головами преступников, а простое огнестрельное оружие позволяет им постоять за себя.
+
+Торговля и доверие их не интересуют.
+
+Они считают, что люди не равны от рождения, а выжить в пограничье позволяет лишь сила.</SettlerRough.description>
+  <SettlerRough.label>воинственные переселенцы</SettlerRough.label>
+  <SettlerRough.leaderTitle>мэр</SettlerRough.leaderTitle>
+  <SettlerRough.messageDefendersAttacking>{0} из {1} атакуют: {2}.</SettlerRough.messageDefendersAttacking>
+  <SettlerRough.pawnSingular>переселенец</SettlerRough.pawnSingular>
+  <SettlerRough.pawnsPlural>переселенцы</SettlerRough.pawnsPlural>
+  <SettlerSavage.description>Эти люди живут здесь десятилетиями или даже веками. Большинство технологий, которые привели их в этот мир, давно утрачено. Их рыхлый союз состоит из банд, договорившихся нападать преимущественно на чужаков, а не воевать друг с другом.
+
+Бандиты не сеют, не строят и редко торгуют. Их культура крови и чести превозносит личную силу и беспощадность. Они обогащаются, совершая набеги и грабя более трудолюбивых соседей.</SettlerSavage.description>
+  <SettlerSavage.label>бандиты</SettlerSavage.label>
+  <SettlerSavage.leaderTitle>главарь</SettlerSavage.leaderTitle>
+  <SettlerSavage.messageDefendersAttacking>{0} из {1} атакуют: {2}.</SettlerSavage.messageDefendersAttacking>
+  <SettlerSavage.pawnSingular>бандит</SettlerSavage.pawnSingular>
+  <SettlerSavage.pawnsPlural>бандиты</SettlerSavage.pawnsPlural>
+  <VFES_PlayerSettlement.description>Небольшое убежище бандитов и преступников.</VFES_PlayerSettlement.description>
+  <VFES_PlayerSettlement.label>Новое убежище</VFES_PlayerSettlement.label>
+  <VFES_PlayerSettlement.leaderTitle>лидер</VFES_PlayerSettlement.leaderTitle>
+  <VFES_PlayerSettlement.messageDefendersAttacking>{0} из {1} атакуют: {2}.</VFES_PlayerSettlement.messageDefendersAttacking>
+  <VFES_PlayerSettlement.pawnSingular>бандит</VFES_PlayerSettlement.pawnSingular>
+  <VFES_PlayerSettlement.pawnsPlural>бандиты</VFES_PlayerSettlement.pawnsPlural>
+</LanguageData>

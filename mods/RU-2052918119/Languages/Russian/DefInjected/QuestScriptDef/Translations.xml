@@ -1,0 +1,35 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFES_CaravanRaid.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;Нам пишет [asker_nameFull], [asker_faction_leaderTitle] фракции [asker_faction_name]. Неподалёку остановились на отдых [siteFaction_pawnsPlural] со своими животными.
+
+[asker_nameDef] сообщает их местоположение. При желании мы можем напасть на караван.</li>
+  </VFES_CaravanRaid.questDescriptionRules.rulesStrings>
+  <VFES_CaravanRaid.questNameRules.rulesStrings>
+    <li>questName-&gt;[raid] на караван</li>
+    <li>questName-&gt;[asker_nameDef] и [raid] на караван</li>
+    <li>raid-&gt;нападение</li>
+    <li>raid-&gt;атака</li>
+    <li>raid-&gt;засада</li>
+  </VFES_CaravanRaid.questNameRules.rulesStrings>
+  <VFES_CaravanRaid.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Срок задания истёк: [resolvedQuestName]</VFES_CaravanRaid.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <VFES_CaravanRaid.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>[siteFaction_pawnsPlural] собрали вещи и продолжили путь. Срок задания «[resolvedQuestName]» истёк.</VFES_CaravanRaid.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+  <VFES_CaravanRaid.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>Задание провалено: [resolvedQuestName]</VFES_CaravanRaid.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>
+  <VFES_CaravanRaid.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>После обнаружения [siteFaction_pawnsPlural] ушли. Задание «[resolvedQuestName]» завершено.</VFES_CaravanRaid.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>
+  <VFES_Wanted.questDescriptionAndNameRules.rulesStrings>
+    <li>questName-&gt;Награда за голову: [nameFull] [nickname]</li>
+    <li>questName-&gt;Разыскивается: [nickname]</li>
+    <li>questName-&gt;Банда: [nickname]</li>
+    <li>questDescription-&gt;С нами связывается [asker_nameFull], [asker_faction_leaderTitle] фракции [asker_faction_name]. По имеющимся сведениям, неподалёку скрывается печально известный преступник: [criminal_nameFull] из фракции [siteFaction_name].
+
+[asker_nameDef] просит доставить цель в одно из поселений своей фракции. Прозвище разыскиваемого преступника — [nickname]. Награда за тело составляет [bounty] ед. серебра, за живого пленника — вдвое больше. Убежище, скорее всего, охраняется.
+
+Если мы зачистим лагерь, [allRewardsDescriptions]</li>
+  </VFES_Wanted.questDescriptionAndNameRules.rulesStrings>
+  <VFES_Wanted.root.nodes.13.node.customLetterLabel.slateRef>Выплата получена</VFES_Wanted.root.nodes.13.node.customLetterLabel.slateRef>
+  <VFES_Wanted.root.nodes.13.node.customLetterText.slateRef>Вы победили в бою и уничтожили лагерь! Преступник: [criminal_nameFull].\n\nДополнительная награда от [asker_faction_name] прибыла.</VFES_Wanted.root.nodes.13.node.customLetterText.slateRef>
+  <VFES_Wanted.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Срок задания истёк: [resolvedQuestName]</VFES_Wanted.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <VFES_Wanted.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Местоположение преступника раскрыто, и цель покинула район: [criminal_nameFull]. Срок задания «[resolvedQuestName]» истёк.</VFES_Wanted.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+  <VFES_Wanted.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>Задание провалено: [resolvedQuestName]</VFES_Wanted.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>
+  <VFES_Wanted.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>Бандиты собрали вещи и ушли.</VFES_Wanted.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>
+</LanguageData>

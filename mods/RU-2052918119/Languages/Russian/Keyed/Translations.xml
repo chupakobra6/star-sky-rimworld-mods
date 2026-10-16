@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <CaravanRaidDialogue>Вы получили сведения о караване фракции {0}, который разбил лагерь неподалёку. Сейчас удобный момент для нападения, но учтите: караваны обычно охраняются.</CaravanRaidDialogue>
+  <CaravanRaidLabel>Налёт на караван из {0}</CaravanRaidLabel>
+  <Chemsined>Муффало приходят за химогоном: {0}</Chemsined>
+  <ContainsChemfuel>Содержит {0} / {1} химтоплива.</ContainsChemfuel>
+  <ContainsChemshine>Содержит {0} / {1} химогона.</ContainsChemshine>
+  <DefaultSettings>Настройки по умолчанию</DefaultSettings>
+  <DrunkMuffaloMessage>В окрестности пришло небольшое стадо муффало. Похоже, до этого они нашли тайник с химогоном и теперь жаждут добавки. Остерегайтесь их пьяных выходок.</DrunkMuffaloMessage>
+  <DrunkMuffaloTitle>Пьяные муффало</DrunkMuffaloTitle>
+  <MaxReward>Максимальная награда за преступника: {0}</MaxReward>
+  <MinReward>Минимальная награда за преступника: {0}</MinReward>
+  <NoChemfuel>нужно химтопливо</NoChemfuel>
+  <ProtectionFeeAgree>Принять предложение и заплатить</ProtectionFeeAgree>
+  <ProtectionFeeAgreeDialogue>Бандиты из фракции {0} довольны сделкой и завершают разговор.</ProtectionFeeAgreeDialogue>
+  <ProtectionFeeDialogue>С вами связывается находящаяся поблизости банда из фракции {0}.
+
+За {1} ед. серебра они предлагают защитить колонию от любых угроз, в том числе от самих себя.
+
+Осторожно: отказ может их разозлить.</ProtectionFeeDialogue>
+  <ProtectionFeeDisagree>Отклонить предложение</ProtectionFeeDisagree>
+  <ProtectionFeeDisagreeDialogue>Бандиты из фракции {0}, похоже, рады вашему отказу. Они завершают разговор, предупредив, что теперь не могут гарантировать вашу безопасность.</ProtectionFeeDisagreeDialogue>
+  <ProtectionFeeLabel>Плата за защиту</ProtectionFeeLabel>
+  <ProtectionFeeNotEnoughSilver>Недостаточно серебра</ProtectionFeeNotEnoughSilver>
+  <VFES_InsertFirstItemDesc>Химтопливо</VFES_InsertFirstItemDesc>
+  <VFES_Target>Цель охоты за головами</VFES_Target>
+  <VFES_TargetDesc>На этом аванпосте обнаружена разыскиваемая цель: {0}.</VFES_TargetDesc>
+  <VFES_bringIngredientsDesc>Доставить химтопливо в бочку, чтобы начать брожение.</VFES_bringIngredientsDesc>
+  <VFES_bringIngredientsText>Принести химтопливо</VFES_bringIngredientsText>
+  <VFES_cancelIngredientsDesc>Отменить доставку химтоплива в бочку для химогона.</VFES_cancelIngredientsDesc>
+  <VFES_cancelIngredientsText>Не приносить химтопливо</VFES_cancelIngredientsText>
+  <VFES_removeProductDesc>Забрать химогон из бочки.</VFES_removeProductDesc>
+  <VFES_removeProductText>Забрать химогон</VFES_removeProductText>
+  <WantedDialogue>Фракция {0} объявляет розыск: {PAWN_nameDef}. На {PAWN_possessive} счету множество злодеяний. Разыскиваемая цель — {PAWN_nameDef} из фракции {1}. За тело обещают {2} ед. серебра, за передачу живого преступника одному из поселений фракции {0} — вдвое больше.</WantedDialogue>
+  <WantedHediff>Награда от фракции {0}: {1} ед. серебра</WantedHediff>
+  <WantedLabel>Объявление о розыске от {0}</WantedLabel>
+  <WantedTurnIn>Получить награду: {PAWN_nameDef}</WantedTurnIn>
+  <WantedTurnInDescAlive>Передать живого преступника и получить награду. Цель: {PAWN_nameDef}.</WantedTurnInDescAlive>
+  <WantedTurnInDescDead>Передать тело разыскиваемого преступника и получить награду. Цель: {PAWN_nameDef}.</WantedTurnInDescDead>
+  <WantedTurnInLabel>Награда получена: {PAWN_nameDef}.</WantedTurnInLabel>
+  <WantedTurnInMessageAlive>За передачу живого преступника вы получили {0} ед. серебра. Цель: {PAWN_nameDef}.</WantedTurnInMessageAlive>
+  <WantedTurnInMessageDead>За передачу тела разыскиваемого преступника вы получили {0} ед. серебра. Цель: {PAWN_nameDef}.</WantedTurnInMessageDead>
+  <chupakobra6_2052918119_BarrelIdle>Брожение не идёт</chupakobra6_2052918119_BarrelIdle>
+</LanguageData>

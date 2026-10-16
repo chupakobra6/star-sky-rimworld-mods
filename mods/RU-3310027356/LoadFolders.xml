@@ -1,0 +1,10 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<loadFolders>
+  <v1.6>
+    <li>/</li>
+    <li IfModActive="ludeon.rimworld.odyssey">1.6/Conditional/with-ludeon-rimworld-odyssey</li>
+    <li IfModActive="mehni.numbers">1.6/Conditional/with-mehni-numbers</li>
+    <li IfModActive="mlie.easyupgrades">1.6/Conditional/with-mlie-easyupgrades</li>
+    <li IfModActive="seekiworksmod.no17">1.6/Conditional/with-seekiworksmod-no17</li>
+  </v1.6>
+</loadFolders>

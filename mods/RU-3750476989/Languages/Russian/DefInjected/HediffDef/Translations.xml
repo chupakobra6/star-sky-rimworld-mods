@@ -1,0 +1,240 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RimtoChess_AbilityController.description>Управляет боевыми способностями, полученными от снаряжения. Несколько способностей расходуют общий запас применений; случайным образом срабатывает одна из них.</RimtoChess_AbilityController.description>
+  <RimtoChess_AbilityController.label>боевые протоколы</RimtoChess_AbilityController.label>
+  <RimtoChess_AnimalScale.description>Врождённая стойкость диких животных. Получаемый урон снижен.</RimtoChess_AnimalScale.description>
+  <RimtoChess_AnimalScale.label>Дикая живучесть</RimtoChess_AnimalScale.label>
+  <RimtoChess_ApexAura.description>Искусный полководец. Усиливает союзников поблизости и точно стреляет.</RimtoChess_ApexAura.description>
+  <RimtoChess_ApexAura.label>полководец</RimtoChess_ApexAura.label>
+  <RimtoChess_ApexBulwark.description>Тяжёлая броня, устойчивость и медленное заживление ран в бою.</RimtoChess_ApexBulwark.description>
+  <RimtoChess_ApexBulwark.label>оплот</RimtoChess_ApexBulwark.label>
+  <RimtoChess_ApexLifesteal.description>Высший хищник. Восстанавливает здоровье на долю нанесённого урона и быстрее атакует.</RimtoChess_ApexLifesteal.description>
+  <RimtoChess_ApexLifesteal.label>жажда крови</RimtoChess_ApexLifesteal.label>
+  <RimtoChess_AuraBuff.description>Усиление от командной ауры союзника поблизости.</RimtoChess_AuraBuff.description>
+  <RimtoChess_AuraBuff.label>Воодушевление</RimtoChess_AuraBuff.label>
+  <RimtoChess_BeastHerd.description>Вместе со стадом: получает меньше урона, пока зверь служит опорой стаи.</RimtoChess_BeastHerd.description>
+  <RimtoChess_BeastHerd.label>Звериная стая</RimtoChess_BeastHerd.label>
+  <RimtoChess_Buff_Aim.description>Отточенные основы боя повышают точность.</RimtoChess_Buff_Aim.description>
+  <RimtoChess_Buff_Aim.label>Мастерство</RimtoChess_Buff_Aim.label>
+  <RimtoChess_Buff_Elite.description>Элитная подготовка. Превосходство во всём.</RimtoChess_Buff_Elite.description>
+  <RimtoChess_Buff_Elite.label>Элита</RimtoChess_Buff_Elite.label>
+  <RimtoChess_Buff_Gear.description>Снаряжение, настроенное под бой.</RimtoChess_Buff_Gear.description>
+  <RimtoChess_Buff_Gear.label>Полевая доработка</RimtoChess_Buff_Gear.label>
+  <RimtoChess_Buff_Swift.description>Повышенная скорость помогает уходить от противника.</RimtoChess_Buff_Swift.description>
+  <RimtoChess_Buff_Swift.label>Проворство</RimtoChess_Buff_Swift.label>
+  <RimtoChess_Buff_Tough.description>Тренировка на выносливость усиливает защиту брони.</RimtoChess_Buff_Tough.description>
+  <RimtoChess_Buff_Tough.label>Закалка</RimtoChess_Buff_Tough.label>
+  <RimtoChess_Buff_Tribal.description>Племенные узы. Быстрее и яростнее.</RimtoChess_Buff_Tribal.description>
+  <RimtoChess_Buff_Tribal.label>Племенные узы</RimtoChess_Buff_Tribal.label>
+  <RimtoChess_ChMark_EnemyStrong.description>Ослабление испытания: здоровье и урон этого врага повышены в текущем раунде.</RimtoChess_ChMark_EnemyStrong.description>
+  <RimtoChess_ChMark_EnemyStrong.label>усиление</RimtoChess_ChMark_EnemyStrong.label>
+  <RimtoChess_ChMark_Firepower.description>Усиление испытания: этот союзный боец наносит на 10% больше урона.</RimtoChess_ChMark_Firepower.description>
+  <RimtoChess_ChMark_Firepower.label>доктрина огневой мощи</RimtoChess_ChMark_Firepower.label>
+  <RimtoChess_ChMark_Invuln.description>Ослабление испытания: в этом бою враг не получает урона от первого попадания.</RimtoChess_ChMark_Invuln.description>
+  <RimtoChess_ChMark_Invuln.label>Несокрушимость</RimtoChess_ChMark_Invuln.label>
+  <RimtoChess_ChMark_LivingDead.description>Ослабление испытания: один раз позволяет избежать смерти.</RimtoChess_ChMark_LivingDead.description>
+  <RimtoChess_ChMark_LivingDead.label>Живой мертвец</RimtoChess_ChMark_LivingDead.label>
+  <RimtoChess_ChMark_NeedWeapon.description>Ослабление испытания: нехватка снаряжения снижает наносимый урон.</RimtoChess_ChMark_NeedWeapon.description>
+  <RimtoChess_ChMark_NeedWeapon.label>Нехватка снаряжения</RimtoChess_ChMark_NeedWeapon.label>
+  <RimtoChess_ChargeInstinct.description>Защита при сближении: получает на 35% меньше урона до первого попадания в ближнем бою (не дольше 20с).</RimtoChess_ChargeInstinct.description>
+  <RimtoChess_ChargeInstinct.label>инстинкт натиска</RimtoChess_ChargeInstinct.label>
+  <RimtoChess_Eq_AblativeWeave.description>Готовое снаряжение. Повышает боевые характеристики владельца.</RimtoChess_Eq_AblativeWeave.description>
+  <RimtoChess_Eq_AblativeWeave.label>абляционная ткань</RimtoChess_Eq_AblativeWeave.label>
+  <RimtoChess_Eq_AegisPlating.description>Готовое снаряжение. Повышает боевые характеристики владельца.</RimtoChess_Eq_AegisPlating.description>
+  <RimtoChess_Eq_AegisPlating.label>композитная обшивка</RimtoChess_Eq_AegisPlating.label>
+  <RimtoChess_Eq_AssaultDrive.description>Готовое снаряжение. Повышает боевые характеристики владельца.</RimtoChess_Eq_AssaultDrive.description>
+  <RimtoChess_Eq_AssaultDrive.label>штурмовой ускоритель</RimtoChess_Eq_AssaultDrive.label>
+  <RimtoChess_Eq_BlitzHarness.description>Готовое снаряжение. Повышает боевые характеристики владельца.</RimtoChess_Eq_BlitzHarness.description>
+  <RimtoChess_Eq_BlitzHarness.label>штурмовой патронташ</RimtoChess_Eq_BlitzHarness.label>
+  <RimtoChess_Eq_BulwarkScope.description>Готовое снаряжение. Повышает боевые характеристики владельца.</RimtoChess_Eq_BulwarkScope.description>
+  <RimtoChess_Eq_BulwarkScope.label>бронированный прицел</RimtoChess_Eq_BulwarkScope.label>
+  <RimtoChess_Eq_CommandRig.description>Готовое снаряжение. Повышает боевые характеристики владельца.</RimtoChess_Eq_CommandRig.description>
+  <RimtoChess_Eq_CommandRig.label>знак командира</RimtoChess_Eq_CommandRig.label>
+  <RimtoChess_Eq_FrenzyEdge.description>Готовое снаряжение. Повышает боевые характеристики владельца.</RimtoChess_Eq_FrenzyEdge.description>
+  <RimtoChess_Eq_FrenzyEdge.label>стремительный клинок</RimtoChess_Eq_FrenzyEdge.label>
+  <RimtoChess_Eq_HuntersEdge.description>Готовое снаряжение. Повышает боевые характеристики владельца.</RimtoChess_Eq_HuntersEdge.description>
+  <RimtoChess_Eq_HuntersEdge.label>очки слежения</RimtoChess_Eq_HuntersEdge.label>
+  <RimtoChess_Eq_MarksmanRig.description>Готовое снаряжение. Повышает боевые характеристики владельца.</RimtoChess_Eq_MarksmanRig.description>
+  <RimtoChess_Eq_MarksmanRig.label>снайперский прицел</RimtoChess_Eq_MarksmanRig.label>
+  <RimtoChess_Eq_MobileBastion.description>Готовое снаряжение. Повышает боевые характеристики владельца.</RimtoChess_Eq_MobileBastion.description>
+  <RimtoChess_Eq_MobileBastion.label>силовая броня</RimtoChess_Eq_MobileBastion.label>
+  <RimtoChess_Eq_Overdrive.description>Готовое снаряжение. Повышает боевые характеристики владельца.</RimtoChess_Eq_Overdrive.description>
+  <RimtoChess_Eq_Overdrive.label>боевой стимулятор</RimtoChess_Eq_Overdrive.label>
+  <RimtoChess_Eq_PrecisionOptics.description>Готовое снаряжение. Повышает боевые характеристики владельца.</RimtoChess_Eq_PrecisionOptics.description>
+  <RimtoChess_Eq_PrecisionOptics.label>точный прицел</RimtoChess_Eq_PrecisionOptics.label>
+  <RimtoChess_Eq_RapidLoader.description>Готовое снаряжение. Повышает боевые характеристики владельца.</RimtoChess_Eq_RapidLoader.description>
+  <RimtoChess_Eq_RapidLoader.label>ускоритель заряжания</RimtoChess_Eq_RapidLoader.label>
+  <RimtoChess_Eq_RegenCore.description>Готовое снаряжение. Повышает боевые характеристики владельца.</RimtoChess_Eq_RegenCore.description>
+  <RimtoChess_Eq_RegenCore.label>регенерирующий инъектор</RimtoChess_Eq_RegenCore.label>
+  <RimtoChess_Eq_SkirmisherKit.description>Готовое снаряжение. Повышает боевые характеристики владельца.</RimtoChess_Eq_SkirmisherKit.description>
+  <RimtoChess_Eq_SkirmisherKit.label>штык</RimtoChess_Eq_SkirmisherKit.label>
+  <RimtoChess_Eq_SpikedArmor.description>Готовое снаряжение. Повышает боевые характеристики владельца.</RimtoChess_Eq_SpikedArmor.description>
+  <RimtoChess_Eq_SpikedArmor.label>шипованная броня</RimtoChess_Eq_SpikedArmor.label>
+  <RimtoChess_Eq_SteadySights.description>Готовое снаряжение. Повышает боевые характеристики владельца.</RimtoChess_Eq_SteadySights.description>
+  <RimtoChess_Eq_SteadySights.label>устойчивый прицел</RimtoChess_Eq_SteadySights.label>
+  <RimtoChess_Eq_SuppressorVest.description>Готовое снаряжение. Повышает боевые характеристики владельца.</RimtoChess_Eq_SuppressorVest.description>
+  <RimtoChess_Eq_SuppressorVest.label>жилет подавления</RimtoChess_Eq_SuppressorVest.label>
+  <RimtoChess_Eq_TwinBlades.description>Готовое снаряжение. Повышает боевые характеристики владельца.</RimtoChess_Eq_TwinBlades.description>
+  <RimtoChess_Eq_TwinBlades.label>парные клинки</RimtoChess_Eq_TwinBlades.label>
+  <RimtoChess_Eq_VampiricBlade.description>Готовое снаряжение. Повышает боевые характеристики владельца.</RimtoChess_Eq_VampiricBlade.description>
+  <RimtoChess_Eq_VampiricBlade.label>вампирический клинок</RimtoChess_Eq_VampiricBlade.label>
+  <RimtoChess_Eq_WarbladeGuard.description>Готовое снаряжение. Повышает боевые характеристики владельца.</RimtoChess_Eq_WarbladeGuard.description>
+  <RimtoChess_Eq_WarbladeGuard.label>меч и щит</RimtoChess_Eq_WarbladeGuard.label>
+  <RimtoChess_ItemAura.description>Усиливает союзников поблизости.</RimtoChess_ItemAura.description>
+  <RimtoChess_ItemAura.label>командная аура</RimtoChess_ItemAura.label>
+  <RimtoChess_ItemBelt.description>Патронная лента. Ускоряет прицеливание и сокращает время между выстрелами.</RimtoChess_ItemBelt.description>
+  <RimtoChess_ItemBelt.label>Патронная лента</RimtoChess_ItemBelt.label>
+  <RimtoChess_ItemBlade.description>Острый клинок увеличивает наносимый урон.</RimtoChess_ItemBlade.description>
+  <RimtoChess_ItemBlade.label>клинок из сплава</RimtoChess_ItemBlade.label>
+  <RimtoChess_ItemFiber.description>Баллистическое волокно усиливает броню.</RimtoChess_ItemFiber.description>
+  <RimtoChess_ItemFiber.label>баллистическое волокно</RimtoChess_ItemFiber.label>
+  <RimtoChess_ItemLifesteal.description>Восстанавливает здоровье при нанесении урона.</RimtoChess_ItemLifesteal.description>
+  <RimtoChess_ItemLifesteal.label>похищение жизни</RimtoChess_ItemLifesteal.label>
+  <RimtoChess_ItemPlate.description>Стальная пластина. Снижает получаемый урон.</RimtoChess_ItemPlate.description>
+  <RimtoChess_ItemPlate.label>Стальная пластина</RimtoChess_ItemPlate.label>
+  <RimtoChess_ItemRegen.description>Медленно залечивает раны в бою.</RimtoChess_ItemRegen.description>
+  <RimtoChess_ItemRegen.label>Регенерация</RimtoChess_ItemRegen.label>
+  <RimtoChess_ItemScope.description>Прицел. Повышает точность стрельбы.</RimtoChess_ItemScope.description>
+  <RimtoChess_ItemScope.label>Прицел</RimtoChess_ItemScope.label>
+  <RimtoChess_ItemStim.description>Боевой стимулятор. Повышает скорость передвижения.</RimtoChess_ItemStim.description>
+  <RimtoChess_ItemStim.label>Стимулятор</RimtoChess_ItemStim.label>
+  <RimtoChess_ItemThorns.description>Отражает урон атакующим в ближнем бою.</RimtoChess_ItemThorns.description>
+  <RimtoChess_ItemThorns.label>Шипы</RimtoChess_ItemThorns.label>
+  <RimtoChess_NightCombat.description>Бой в темноте снижает точность стрельбы. Не действует на бойцов со снаряжением типа «прицел».</RimtoChess_NightCombat.description>
+  <RimtoChess_NightCombat.label>Ночной бой</RimtoChess_NightCombat.label>
+  <RimtoChess_Perma_Bronze.description>Благословение (бронзовое) действует до конца партии.</RimtoChess_Perma_Bronze.description>
+  <RimtoChess_Perma_Bronze.label>Бронзовое благословение</RimtoChess_Perma_Bronze.label>
+  <RimtoChess_Perma_Gold.description>Благословение (золотое) действует до конца партии.</RimtoChess_Perma_Gold.description>
+  <RimtoChess_Perma_Gold.label>Золотое благословение</RimtoChess_Perma_Gold.label>
+  <RimtoChess_Perma_Silver.description>Благословение (серебряное) действует до конца партии.</RimtoChess_Perma_Silver.description>
+  <RimtoChess_Perma_Silver.label>Серебряное благословение</RimtoChess_Perma_Silver.label>
+  <RimtoChess_RankNodeMark.description>На этого бойца действуют улучшения узлов ранга. Наведите указатель, чтобы увидеть бонусы к отдельным характеристикам в текущей партии.</RimtoChess_RankNodeMark.description>
+  <RimtoChess_RankNodeMark.label>Усиление узла ранга</RimtoChess_RankNodeMark.label>
+  <RimtoChess_SigEmpire.description>Особый эффект имперского легиона: сначала подвижность, затем ускоренное прицеливание, затем полевое лечение.</RimtoChess_SigEmpire.description>
+  <RimtoChess_SigEmpire.label>Выучка имперского легиона</RimtoChess_SigEmpire.label>
+  <RimtoChess_SigEmpireRegen.description>Имперское великое войско — регенерация на поле боя.</RimtoChess_SigEmpireRegen.description>
+  <RimtoChess_SigEmpireRegen.label>Имперское полевое лечение</RimtoChess_SigEmpireRegen.label>
+  <RimtoChess_SigRage.description>Особый эффект свирепых зверей: чем ниже здоровье, тем больше урон и быстрее атаки в ближнем бою.</RimtoChess_SigRage.description>
+  <RimtoChess_SigRage.label>Ярость</RimtoChess_SigRage.label>
+  <RimtoChess_StarScale.description>Боец усилен объединением копий. Чем больше звёзд, тем выше его выносливость и точность.</RimtoChess_StarScale.description>
+  <RimtoChess_StarScale.label>звёздный уровень</RimtoChess_StarScale.label>
+  <RimtoChess_StarScale.stages.0.label>1★</RimtoChess_StarScale.stages.0.label>
+  <RimtoChess_StarScale.stages.1.label>2★</RimtoChess_StarScale.stages.1.label>
+  <RimtoChess_StarScale.stages.2.label>3★</RimtoChess_StarScale.stages.2.label>
+  <RimtoChess_StarScale.stages.3.label>4★</RimtoChess_StarScale.stages.3.label>
+  <RimtoChess_SynAnomaly.description>Неумирающие ужасы. Устойчивость к боли и заживление ран.</RimtoChess_SynAnomaly.description>
+  <RimtoChess_SynAnomaly.label>аномальные</RimtoChess_SynAnomaly.label>
+  <RimtoChess_SynAnomaly_T6.description>Полная орда ужасов. Неустанно восстанавливается.</RimtoChess_SynAnomaly_T6.description>
+  <RimtoChess_SynAnomaly_T6.label>аномальные (великое войско)</RimtoChess_SynAnomaly_T6.label>
+  <RimtoChess_SynArcher.description>Манёвренные лучники. Точность и подвижность позволяют держать противника на расстоянии.</RimtoChess_SynArcher.description>
+  <RimtoChess_SynArcher.label>Лучники</RimtoChess_SynArcher.label>
+  <RimtoChess_SynArmored.description>Тяжелобронированные гиганты. Мощная броня.</RimtoChess_SynArmored.description>
+  <RimtoChess_SynArmored.label>Синергия брони</RimtoChess_SynArmored.label>
+  <RimtoChess_SynBeast.description>Опора стада: этот зверь получает дополнительное здоровье, а все союзные животные — меньше урона. (Эффекты применяются кодом; это лишь отметка.)</RimtoChess_SynBeast.description>
+  <RimtoChess_SynBeast.label>дикая стая</RimtoChess_SynBeast.label>
+  <RimtoChess_SynElite.description>Элитные бойцы превосходят во всём.</RimtoChess_SynElite.description>
+  <RimtoChess_SynElite.label>Синергия элиты</RimtoChess_SynElite.label>
+  <RimtoChess_SynEmpire.description>Дисциплинированные имперские солдаты. Стреляют точно.</RimtoChess_SynEmpire.description>
+  <RimtoChess_SynEmpire.label>Имперский легион</RimtoChess_SynEmpire.label>
+  <RimtoChess_SynEmpireRoyal.description>Гвардия знати. Подвижна и хорошо уклоняется; большой отряд труднее ранить.</RimtoChess_SynEmpireRoyal.description>
+  <RimtoChess_SynEmpireRoyal.label>Имперская знать</RimtoChess_SynEmpireRoyal.label>
+  <RimtoChess_SynEmpireRoyal_T6.description>Полный отряд гвардии знати. Почти несокрушим.</RimtoChess_SynEmpireRoyal_T6.description>
+  <RimtoChess_SynEmpireRoyal_T6.label>имперская знать (великое войско)</RimtoChess_SynEmpireRoyal_T6.label>
+  <RimtoChess_SynEmpire_T6.description>Полная имперская когорта. Выдающиеся точность и стойкость.</RimtoChess_SynEmpire_T6.description>
+  <RimtoChess_SynEmpire_T6.label>имперский легион (великое войско)</RimtoChess_SynEmpire_T6.label>
+  <RimtoChess_SynEntity.description>Противоестественная стойкость. Снижение урона, невосприимчивость к боли и регенерация.</RimtoChess_SynEntity.description>
+  <RimtoChess_SynEntity.label>Сущность</RimtoChess_SynEntity.label>
+  <RimtoChess_SynEntity_T6.description>Полная орда ужасов. Выдающаяся стойкость и неустанное восстановление.</RimtoChess_SynEntity_T6.description>
+  <RimtoChess_SynEntity_T6.label>сущности (великое войско)</RimtoChess_SynEntity_T6.label>
+  <RimtoChess_SynExplosive.description>Мастера подрыва. Стреляют точно.</RimtoChess_SynExplosive.description>
+  <RimtoChess_SynExplosive.label>Синергия подрывников</RimtoChess_SynExplosive.label>
+  <RimtoChess_SynFierce.description>Звери, способные дать отпор. Выносливее и бьют сильнее.</RimtoChess_SynFierce.description>
+  <RimtoChess_SynFierce.label>Синергия свирепых</RimtoChess_SynFierce.label>
+  <RimtoChess_SynFierce_T6.description>Большая стая свирепых зверей. Невероятно вынослива и бьёт с сокрушительной силой.</RimtoChess_SynFierce_T6.description>
+  <RimtoChess_SynFierce_T6.label>свирепые звери (великое войско)</RimtoChess_SynFierce_T6.label>
+  <RimtoChess_SynFleshbeast.description>Орда биошматов, залечивающих раны в бою.</RimtoChess_SynFleshbeast.description>
+  <RimtoChess_SynFleshbeast.label>орда биошматов</RimtoChess_SynFleshbeast.label>
+  <RimtoChess_SynGuild.description>Первоклассное снаряжение: меньше времени между выстрелами и чуть сильнее удары в ближнем бою.</RimtoChess_SynGuild.description>
+  <RimtoChess_SynGuild.label>гильдия торговцев</RimtoChess_SynGuild.label>
+  <RimtoChess_SynHeavy.description>Бойцы с тяжёлым оружием. Точная стрельба.</RimtoChess_SynHeavy.description>
+  <RimtoChess_SynHeavy.label>Синергия тяжёлого оружия</RimtoChess_SynHeavy.label>
+  <RimtoChess_SynInsect.description>Неумолимый рой инсектоидов. Быстро передвигается и залечивает раны в бою.</RimtoChess_SynInsect.description>
+  <RimtoChess_SynInsect.label>синергия инсектоидов</RimtoChess_SynInsect.label>
+  <RimtoChess_SynLightMech.description>Лёгкие механоиды. Манёвренны и стреляют точно.</RimtoChess_SynLightMech.description>
+  <RimtoChess_SynLightMech.label>лёгкие механоиды</RimtoChess_SynLightMech.label>
+  <RimtoChess_SynLightMech_T6.description>Большой рой лёгких механоидов. Исключительные подвижность и точность.</RimtoChess_SynLightMech_T6.description>
+  <RimtoChess_SynLightMech_T6.label>лёгкие механоиды (великое войско)</RimtoChess_SynLightMech_T6.label>
+  <RimtoChess_SynMech.description>Броня тяжёлых механоидов. Сильно снижает получаемый урон.</RimtoChess_SynMech.description>
+  <RimtoChess_SynMech.label>тяжёлые механоиды</RimtoChess_SynMech.label>
+  <RimtoChess_SynMech_T6.description>Стена тяжёлых механоидов. Получает значительно меньше урона.</RimtoChess_SynMech_T6.description>
+  <RimtoChess_SynMech_T6.label>тяжёлые механоиды (великое войско)</RimtoChess_SynMech_T6.label>
+  <RimtoChess_SynMelee.description>Стена бойцов ближнего боя. Лучше попадают и уклоняются в ближнем бою.</RimtoChess_SynMelee.description>
+  <RimtoChess_SynMelee.label>авангард</RimtoChess_SynMelee.label>
+  <RimtoChess_SynMercenary.description>Профессионалы. Понемногу всего: точность, ближний бой, стойкость и скорость атак.</RimtoChess_SynMercenary.description>
+  <RimtoChess_SynMercenary.label>Наёмники</RimtoChess_SynMercenary.label>
+  <RimtoChess_SynMercenary_T6.description>Полная рота наёмников. Превосходна во всём.</RimtoChess_SynMercenary_T6.description>
+  <RimtoChess_SynMercenary_T6.label>наёмники (великое войско)</RimtoChess_SynMercenary_T6.label>
+  <RimtoChess_SynNodeRegen.description>Восстановление здоровья благодаря узлу синергии.</RimtoChess_SynNodeRegen.description>
+  <RimtoChess_SynNodeRegen.label>регенерация от синергии</RimtoChess_SynNodeRegen.label>
+  <RimtoChess_SynOrbital.description>Ветераны невесомости. Быстрее передвигаются и целятся.</RimtoChess_SynOrbital.description>
+  <RimtoChess_SynOrbital.label>орбитальные силы</RimtoChess_SynOrbital.label>
+  <RimtoChess_SynOrbital_T6.description>Полный орбитальный ударный отряд. Исключительная подвижность и быстрое прицеливание.</RimtoChess_SynOrbital_T6.description>
+  <RimtoChess_SynOrbital_T6.label>орбитальные силы (великое войско)</RimtoChess_SynOrbital_T6.label>
+  <RimtoChess_SynOutlander.description>Увёртливые бойцы. Высокая скорость и уклонение.</RimtoChess_SynOutlander.description>
+  <RimtoChess_SynOutlander.label>чужаки</RimtoChess_SynOutlander.label>
+  <RimtoChess_SynOutlander_T6.description>Полный отряд чужаков. Невероятно быстр и увёртлив.</RimtoChess_SynOutlander_T6.description>
+  <RimtoChess_SynOutlander_T6.label>чужаки (великое войско)</RimtoChess_SynOutlander_T6.label>
+  <RimtoChess_SynPirate.description>Агрессивные налётчики. Точность, скорость и преимущество в ближнем бою.</RimtoChess_SynPirate.description>
+  <RimtoChess_SynPirate.label>Пираты</RimtoChess_SynPirate.label>
+  <RimtoChess_SynPirate_T6.description>Полный отряд налётчиков. Быстрее, точнее и смертоноснее.</RimtoChess_SynPirate_T6.description>
+  <RimtoChess_SynPirate_T6.label>пираты (великое войско)</RimtoChess_SynPirate_T6.label>
+  <RimtoChess_SynPredator.description>Охотятся стаей. Быстрее и смертоноснее в ближнем бою.</RimtoChess_SynPredator.description>
+  <RimtoChess_SynPredator.label>Синергия хищников</RimtoChess_SynPredator.label>
+  <RimtoChess_SynPredator_T6.description>Большая охотничья стая. Сокрушительна в ближнем бою.</RimtoChess_SynPredator_T6.description>
+  <RimtoChess_SynPredator_T6.label>хищники (великое войско)</RimtoChess_SynPredator_T6.label>
+  <RimtoChess_SynRace.description>Сородичи сражаются вместе лучше.</RimtoChess_SynRace.description>
+  <RimtoChess_SynRace.label>Синергия сородичей</RimtoChess_SynRace.label>
+  <RimtoChess_SynRace_T6.description>Великое войско одного вида. Более точные выстрелы и уверенные удары.</RimtoChess_SynRace_T6.description>
+  <RimtoChess_SynRace_T6.label>сородичи (великое войско)</RimtoChess_SynRace_T6.label>
+  <RimtoChess_SynRanged.description>Слаженные стрелки. Стреляют точнее.</RimtoChess_SynRanged.description>
+  <RimtoChess_SynRanged.label>стрелковый строй</RimtoChess_SynRanged.label>
+  <RimtoChess_SynSniper.description>Меткие стрелки. Точность стрельбы сильно повышена.</RimtoChess_SynSniper.description>
+  <RimtoChess_SynSniper.label>Синергия снайперов</RimtoChess_SynSniper.label>
+  <RimtoChess_SynSwift.description>Проворные бойцы. Быстрее передвигаются и чаще уклоняются.</RimtoChess_SynSwift.description>
+  <RimtoChess_SynSwift.label>Синергия скорости</RimtoChess_SynSwift.label>
+  <RimtoChess_SynTribal.description>Быстро наступающая племенная орда.</RimtoChess_SynTribal.description>
+  <RimtoChess_SynTribal.label>Племя</RimtoChess_SynTribal.label>
+  <RimtoChess_SynTribal_T6.description>Огромная племенная орда захлёстывает поле боя.</RimtoChess_SynTribal_T6.description>
+  <RimtoChess_SynTribal_T6.label>племя (великое войско)</RimtoChess_SynTribal_T6.label>
+  <RimtoChess_TierScale.description>Более дорогие бойцы от природы выносливее и наносят больше урона. Сила эффекта зависит от ранга.</RimtoChess_TierScale.description>
+  <RimtoChess_TierScale.label>ранг</RimtoChess_TierScale.label>
+  <RimtoChess_TierScale.stages.0.label>ранг 1</RimtoChess_TierScale.stages.0.label>
+  <RimtoChess_TierScale.stages.1.label>ранг 2</RimtoChess_TierScale.stages.1.label>
+  <RimtoChess_TierScale.stages.2.label>ранг 3</RimtoChess_TierScale.stages.2.label>
+  <RimtoChess_TierScale.stages.3.label>ранг 4</RimtoChess_TierScale.stages.3.label>
+  <RimtoChess_TierScale.stages.4.label>ранг 5</RimtoChess_TierScale.stages.4.label>
+  <RtcHediff_Blind.description>Вспышка лишила зрения, мешая эффективно сражаться.</RtcHediff_Blind.description>
+  <RtcHediff_Blind.label>ослепление</RtcHediff_Blind.label>
+  <RtcHediff_Burden.description>Давящая псионическая тяжесть. Передвижение сильно замедлено.</RtcHediff_Burden.description>
+  <RtcHediff_Burden.label>перегрузка</RtcHediff_Burden.label>
+  <RtcHediff_Coagulate.description>Ускоренное свёртывание крови на короткое время ускоряет заживление ран.</RtcHediff_Coagulate.description>
+  <RtcHediff_Coagulate.label>свёртывание</RtcHediff_Coagulate.label>
+  <RtcHediff_Focus.description>Повышенная сосредоточенность: быстрое прицеливание и точные попадания.</RtcHediff_Focus.description>
+  <RtcHediff_Focus.label>сосредоточенность</RtcHediff_Focus.label>
+  <RtcHediff_Frenzy.description>Прилив энергии позволяет быстрее двигаться и наносить удары.</RtcHediff_Frenzy.description>
+  <RtcHediff_Frenzy.label>боевое неистовство</RtcHediff_Frenzy.label>
+  <RtcHediff_Invis.description>Восприятие искажено. Противникам трудно заметить этого бойца и выбрать его целью.</RtcHediff_Invis.description>
+  <RtcHediff_Invis.label>маскировка</RtcHediff_Invis.label>
+  <RtcHediff_Metalblood.description>Затвердевшие ткани. Резко снижают входящий урон.</RtcHediff_Metalblood.description>
+  <RtcHediff_Metalblood.label>металлокровь</RtcHediff_Metalblood.label>
+  <RtcHediff_Shield.description>Защитное поле, на короткое время поглощающее большую часть входящего урона.</RtcHediff_Shield.description>
+  <RtcHediff_Shield.label>энергощит</RtcHediff_Shield.label>
+  <RtcHediff_Skirmish.description>Смешанный боевой ритм ускоряет атаки в ближнем и дальнем бою и повышает их точность.</RtcHediff_Skirmish.description>
+  <RtcHediff_Skirmish.label>манёвренная стойка</RtcHediff_Skirmish.label>
+  <RtcHediff_Stun.description>Нарушение моторики ненадолго лишает способности двигаться и действовать.</RtcHediff_Stun.description>
+  <RtcHediff_Stun.label>оглушение</RtcHediff_Stun.label>
+  <RtcHediff_Suppress.description>Оглушительный рёв замедляет передвижение и мешает прицеливаться.</RtcHediff_Suppress.description>
+  <RtcHediff_Suppress.label>подавление</RtcHediff_Suppress.label>
+  <RtcHediff_Vertigo.description>Потеря ориентации в пространстве. Жертва шатается и не может действовать. Действует и на машины.</RtcHediff_Vertigo.description>
+  <RtcHediff_Vertigo.label>головокружение</RtcHediff_Vertigo.label>
+</LanguageData>
