@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <DD_DamageDef_Frost.deathMessage>{0} {PAWN_gender ? загрызен : загрызена : загрызено} насмерть.</DD_DamageDef_Frost.deathMessage>
+  <DD_DamageDef_Frost.label>морозное дыхание</DD_DamageDef_Frost.label>
+  <DD_Frost_Bite.deathMessage>{0} {PAWN_gender ? загрызен : загрызена : загрызено} насмерть.</DD_Frost_Bite.deathMessage>
+  <DD_Frost_Bite.label>морозный укус</DD_Frost_Bite.label>
+  <DD_Knockback.deathMessage>{0} {PAWN_gender ? погиб : погибла : погибло} от сокрушительного удара.</DD_Knockback.deathMessage>
+  <DD_Knockback.label>атака дракона</DD_Knockback.label>
+  <DD_Pyro_Bite.deathMessage>{0} {PAWN_gender ? сгорел : сгорела : сгорело} заживо.</DD_Pyro_Bite.deathMessage>
+  <DD_Pyro_Bite.label>огненный укус</DD_Pyro_Bite.label>
+  <DD_Rend.deathMessage>{0} {PAWN_gender ? истёк : истекла : истекло} кровью.</DD_Rend.deathMessage>
+  <DD_Rend.label>разрывание</DD_Rend.label>
+  <DD_Skull_Bash.deathMessage>{0} {PAWN_gender ? погиб : погибла : погибло} от сотрясения мозга.</DD_Skull_Bash.deathMessage>
+  <DD_Skull_Bash.label>удар головой</DD_Skull_Bash.label>
+  <DD_Toxic_Bite.deathMessage>{0} {PAWN_gender ? загрызен : загрызена : загрызено} насмерть.</DD_Toxic_Bite.deathMessage>
+  <DD_Toxic_Bite.label>ядовитый укус</DD_Toxic_Bite.label>
+  <DraconicBlunt.deathMessage>{0} {PAWN_gender ? забит : забита : забито} до смерти.</DraconicBlunt.deathMessage>
+  <DraconicBlunt.label>драконий удар</DraconicBlunt.label>
+  <DraconicExplosion.deathMessage>{0} {PAWN_gender ? сгорел : сгорела : сгорело} заживо.</DraconicExplosion.deathMessage>
+  <DraconicExplosion.label>драконий взрыв</DraconicExplosion.label>
+  <DraconicFlame.deathMessage>{0} {PAWN_gender ? сгорел : сгорела : сгорело} заживо.</DraconicFlame.deathMessage>
+  <DraconicFlame.label>драконье пламя</DraconicFlame.label>
+</LanguageData>

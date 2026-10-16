@@ -1,0 +1,344 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AdvancedIncubator.comps.CompEggIncubator_Container.gizmoDesc>Извлечь яйцо из инкубатора.</AdvancedIncubator.comps.CompEggIncubator_Container.gizmoDesc>
+  <AdvancedIncubator.comps.CompEggIncubator_Container.gizmoLabel>Извлечь яйцо</AdvancedIncubator.comps.CompEggIncubator_Container.gizmoLabel>
+  <AdvancedIncubator.description>Устройство с точным контролем и регулированием условий для развития зародыша дракона. Ускоряет развитие яйца на 50%, сокращая ожидание вылупления.</AdvancedIncubator.description>
+  <AdvancedIncubator.label>продвинутый инкубатор</AdvancedIncubator.label>
+  <Altar.description>Алтарь для поклонения драконам. Хотя сами драконы уступают людям в разумности, они ценят приношения и дары в свою честь и отвечают благосклонностью. Её можно расходовать на ритуалы, в том числе на изгнание, насыщение и успокоение драконов.
+
+Со временем для той же благосклонности понадобится всё больше приношений, а выполнение просьб обойдётся дороже…</Altar.description>
+  <Altar.label>драконий алтарь</Altar.label>
+  <BasicIncubator.comps.CompEggIncubator_Container.gizmoDesc>Извлечь яйцо из инкубатора.</BasicIncubator.comps.CompEggIncubator_Container.gizmoDesc>
+  <BasicIncubator.comps.CompEggIncubator_Container.gizmoLabel>Извлечь яйцо</BasicIncubator.comps.CompEggIncubator_Container.gizmoLabel>
+  <BasicIncubator.description>Инкубатор, специально созданный для драконьих яиц. Ускоряет развитие зародыша на 30%, позволяя детёнышу вылупиться раньше обычного.</BasicIncubator.description>
+  <BasicIncubator.label>простой инкубатор</BasicIncubator.label>
+  <Black_Dragon.description>Чёрные драконы превосходят свирепостью всех остальных, даже красных. Они крайне опасны, невероятно трудно приручаются и слишком неуправляемы для войны. На них действуют ритуалы драконьего алтаря.</Black_Dragon.description>
+  <Black_Dragon.label>чёрный дракон</Black_Dragon.label>
+  <Black_Dragon.race.meatLabel>драконье мясо</Black_Dragon.race.meatLabel>
+  <Black_Dragon.tools.DD_Knockback.label>отбрасывание</Black_Dragon.tools.DD_Knockback.label>
+  <Black_Dragon.tools.bite.label>укус</Black_Dragon.tools.bite.label>
+  <Black_Dragon.tools.horn.label>рог</Black_Dragon.tools.horn.label>
+  <Black_Dragon.tools.left_claw.label>левый коготь</Black_Dragon.tools.left_claw.label>
+  <Black_Dragon.tools.rend.label>разрывание</Black_Dragon.tools.rend.label>
+  <Black_Dragon.tools.right_claw.label>правый коготь</Black_Dragon.tools.right_claw.label>
+  <Black_Dragon.tools.tail_whip.label>удар хвостом</Black_Dragon.tools.tail_whip.label>
+  <Blue_Dragon.description>Синие драконы обитают в холодном климате. Из-за нехватки крупной добычи там они питаются главным образом рыбой. Известны сравнительно добрым нравом и охотно принимают дары и приношения. На них действуют ритуалы драконьего алтаря.</Blue_Dragon.description>
+  <Blue_Dragon.label>синий дракон</Blue_Dragon.label>
+  <Blue_Dragon.race.meatLabel>драконье мясо</Blue_Dragon.race.meatLabel>
+  <Blue_Dragon.tools.DD_Knockback.label>отбрасывание</Blue_Dragon.tools.DD_Knockback.label>
+  <Blue_Dragon.tools.frost_bite.label>морозный укус</Blue_Dragon.tools.frost_bite.label>
+  <Blue_Dragon.tools.horn.label>рог</Blue_Dragon.tools.horn.label>
+  <Blue_Dragon.tools.left_claw.label>левый коготь</Blue_Dragon.tools.left_claw.label>
+  <Blue_Dragon.tools.right_claw.label>правый коготь</Blue_Dragon.tools.right_claw.label>
+  <Blue_Dragon.tools.tail_whip.label>удар хвостом</Blue_Dragon.tools.tail_whip.label>
+  <Blueprint_AdvancedIncubator.label>продвинутый инкубатор (проект)</Blueprint_AdvancedIncubator.label>
+  <Blueprint_Altar.label>драконий алтарь (проект)</Blueprint_Altar.label>
+  <Blueprint_BasicIncubator.label>простой инкубатор (проект)</Blueprint_BasicIncubator.label>
+  <Blueprint_DDOfferingSpot.label>место приношений драконам (проект)</Blueprint_DDOfferingSpot.label>
+  <Blueprint_DragonNest.label>драконье гнездо (проект)</Blueprint_DragonNest.label>
+  <Blueprint_DragonPillow.label>драконья подушка (проект)</Blueprint_DragonPillow.label>
+  <Blueprint_Install_Altar.label>драконий алтарь (проект)</Blueprint_Install_Altar.label>
+  <Blueprint_Install_DD_DragonStatueRitual_Grand.label>ритуальное место у величественной статуи дракона (проект)</Blueprint_Install_DD_DragonStatueRitual_Grand.label>
+  <Blueprint_Install_DD_DragonStatueRitual_Large.label>ритуальное место у большой статуи дракона (проект)</Blueprint_Install_DD_DragonStatueRitual_Large.label>
+  <Blueprint_Install_DD_DragonStatueRitual_Small.label>ритуальное место у малой статуи дракона (проект)</Blueprint_Install_DD_DragonStatueRitual_Small.label>
+  <Blueprint_Install_DragonNest.label>драконье гнездо (проект)</Blueprint_Install_DragonNest.label>
+  <Blueprint_Install_DragonPillow.label>драконья подушка (проект)</Blueprint_Install_DragonPillow.label>
+  <BombardmentIncoming.label>приближающийся снаряд бомбардировки</BombardmentIncoming.label>
+  <Corpse_Black_Dragon.description>Чёрные драконы превосходят свирепостью всех остальных, даже красных. Они крайне опасны, невероятно трудно приручаются и слишком неуправляемы для войны. На них действуют ритуалы драконьего алтаря.</Corpse_Black_Dragon.description>
+  <Corpse_Black_Dragon.label>труп чёрного дракона</Corpse_Black_Dragon.label>
+  <Corpse_Black_Dragon.race.meatLabel>драконье мясо</Corpse_Black_Dragon.race.meatLabel>
+  <Corpse_Blue_Dragon.description>Синие драконы обитают в холодном климате. Из-за нехватки крупной добычи там они питаются главным образом рыбой. Известны сравнительно добрым нравом и охотно принимают дары и приношения. На них действуют ритуалы драконьего алтаря.</Corpse_Blue_Dragon.description>
+  <Corpse_Blue_Dragon.label>труп синего дракона</Corpse_Blue_Dragon.label>
+  <Corpse_Blue_Dragon.race.meatLabel>драконье мясо</Corpse_Blue_Dragon.race.meatLabel>
+  <Corpse_DD_Drake.description>Крупные, длинные и коренастые ящеры, очень похожие на драконов, но без крыльев. Опасные примерно как варг и быстрые как лошадь, эти универсальные рептилии служат надёжными боевыми спутниками.
+
+Их считали родственниками драконов, пока не выяснилось, что у них нет дополнительных лопаток, к которым должны крепиться крылья. Теперь сходство чешуи и мяса объясняют конвергентной эволюцией.</Corpse_DD_Drake.description>
+  <Corpse_DD_Drake.label>труп дрейка</Corpse_DD_Drake.label>
+  <Corpse_DD_Drake.race.meatLabel>драконье мясо</Corpse_DD_Drake.race.meatLabel>
+  <Corpse_Gold_Dragon.description>Золотых драконов высоко ценят за золотую чешую и дружелюбие. Многие бедствующие налётчики и племенные жители разыскивают этих щедрых зверей, чтобы попросить долю их сокровищ, но нередко получают отказ из-за собственной алчности и враждебности. На них действуют ритуалы драконьего алтаря.</Corpse_Gold_Dragon.description>
+  <Corpse_Gold_Dragon.label>труп золотого дракона</Corpse_Gold_Dragon.label>
+  <Corpse_Gold_Dragon.race.meatLabel>драконье мясо</Corpse_Gold_Dragon.race.meatLabel>
+  <Corpse_Green_Dragon.description>Зелёные драконы одними из первых стали использоваться на войне. Распространённые, легко приручаемые и обучаемые, они быстро перевозили большое число воинов. На них действуют ритуалы драконьего алтаря.</Corpse_Green_Dragon.description>
+  <Corpse_Green_Dragon.label>труп зелёного дракона</Corpse_Green_Dragon.label>
+  <Corpse_Green_Dragon.race.meatLabel>драконье мясо</Corpse_Green_Dragon.race.meatLabel>
+  <Corpse_Jade_Dragon.description>Нефритовые драконы — воплощение роскоши: всё их тело словно выточено из цельного нефрита. Говорят, если вырвать чешуйку, она прямо на глазах превратится в чистейший нефрит. Другие ничего не говорят, потому что попытались это сделать и были съедены. На них действуют ритуалы драконьего алтаря.</Corpse_Jade_Dragon.description>
+  <Corpse_Jade_Dragon.label>труп нефритового дракона</Corpse_Jade_Dragon.label>
+  <Corpse_Jade_Dragon.race.meatLabel>драконье мясо</Corpse_Jade_Dragon.race.meatLabel>
+  <Corpse_Purple_Dragon.description>Фиолетовых драконов первоначально вывели в неволе, скрестив красных и синих. Свободу им подарил соплеменник по имени Венн, выпустивший их из заточения. С тех пор они бродят по мирам окраин как дикие драконы. На них действуют ритуалы драконьего алтаря.</Corpse_Purple_Dragon.description>
+  <Corpse_Purple_Dragon.label>труп фиолетового дракона</Corpse_Purple_Dragon.label>
+  <Corpse_Purple_Dragon.race.meatLabel>драконье мясо</Corpse_Purple_Dragon.race.meatLabel>
+  <Corpse_Red_Dragon.description>Красные драконы славятся огромной силой в бою, превращающей их в живые боевые машины. Многим удалось сбросить цепи благодаря женщине из племени по имени Курро, которая тайком освобождала их при любой возможности. С тех пор многие вернулись в дикую природу. На них действуют ритуалы драконьего алтаря.</Corpse_Red_Dragon.description>
+  <Corpse_Red_Dragon.label>труп красного дракона</Corpse_Red_Dragon.label>
+  <Corpse_Red_Dragon.race.meatLabel>драконье мясо</Corpse_Red_Dragon.race.meatLabel>
+  <Corpse_Silver_Dragon.description>Серебряных драконов ценят не меньше их золотых сородичей. Многие считают их ещё ценнее: ходит слух, будто вырванная чешуя может служить деньгами. Этот слух совершенно ложен — и смертельно опасен. На них действуют ритуалы драконьего алтаря.</Corpse_Silver_Dragon.description>
+  <Corpse_Silver_Dragon.label>труп серебряного дракона</Corpse_Silver_Dragon.label>
+  <Corpse_Silver_Dragon.race.meatLabel>драконье мясо</Corpse_Silver_Dragon.race.meatLabel>
+  <Corpse_Talbuk.description>Этих пушистых зверей описывают как помесь лошади и козы. Они прекрасно переносят дальние переходы и перевозят грузы. Толстая шея позволяет наносить мощные удары головой, а длинные ноги — быстро передвигаться.</Corpse_Talbuk.description>
+  <Corpse_Talbuk.label>труп талбука</Corpse_Talbuk.label>
+  <Corpse_Talbuk.race.meatLabel>конина</Corpse_Talbuk.race.meatLabel>
+  <Corpse_True_Dragon.description>Истинные драконы, в отличие от остальных, ходят на всех четырёх лапах, а не прячут переднюю пару за огромными крыльями. Это высшие драконы, внушающие всем видам уважение и страх. На них действуют ритуалы драконьего алтаря.</Corpse_True_Dragon.description>
+  <Corpse_True_Dragon.label>труп истинного дракона</Corpse_True_Dragon.label>
+  <Corpse_True_Dragon.race.meatLabel>драконье мясо</Corpse_True_Dragon.race.meatLabel>
+  <Corpse_White_Dragon.description>Белые драконы — загадочный вид, обитающий в самом холодном климате. Ревниво охраняют свою территорию и прогоняют каждого, кто пытается за ними наблюдать. На них действуют ритуалы драконьего алтаря.</Corpse_White_Dragon.description>
+  <Corpse_White_Dragon.label>труп белого дракона</Corpse_White_Dragon.label>
+  <Corpse_White_Dragon.race.meatLabel>драконье мясо</Corpse_White_Dragon.race.meatLabel>
+  <Corpse_Yellow_Dragon.description>Жёлтые драконы появились в дикой природе позже всех остальных. Редкая доминантная мутация породила новую разновидность, со временем ставшую отдельным видом. На них действуют ритуалы драконьего алтаря.</Corpse_Yellow_Dragon.description>
+  <Corpse_Yellow_Dragon.label>труп жёлтого дракона</Corpse_Yellow_Dragon.label>
+  <Corpse_Yellow_Dragon.race.meatLabel>драконье мясо</Corpse_Yellow_Dragon.race.meatLabel>
+  <DDMeleeWeapon_ThrumboBattleAxe.description>Боевой топор из заточенного рога трумбо. Длинная рукоять позволяет наносить мощные рубящие и колющие удары, но снижает их скорость.</DDMeleeWeapon_ThrumboBattleAxe.description>
+  <DDMeleeWeapon_ThrumboBattleAxe.label>боевой топор из рога трумбо</DDMeleeWeapon_ThrumboBattleAxe.label>
+  <DDMeleeWeapon_ThrumboBattleAxe.tools.edge.label>лезвие</DDMeleeWeapon_ThrumboBattleAxe.tools.edge.label>
+  <DDMeleeWeapon_ThrumboBattleAxe.tools.handle.label>рукоять</DDMeleeWeapon_ThrumboBattleAxe.tools.handle.label>
+  <DDMeleeWeapon_ThrumboBattleAxe.tools.point.label>остриё</DDMeleeWeapon_ThrumboBattleAxe.tools.point.label>
+  <DDOfferingSpot.description>Простая чаша для скромных приношений драконам.
+
+Со временем для той же благосклонности понадобится всё больше приношений, а выполнение просьб обойдётся дороже…</DDOfferingSpot.description>
+  <DDOfferingSpot.label>место приношений драконам</DDOfferingSpot.label>
+  <DD_Apparel_DragonCrown.description>Корона из резных драконьих рогов и металла. Значительно повышает влияние при общении.</DD_Apparel_DragonCrown.description>
+  <DD_Apparel_DragonCrown.label>драконья корона</DD_Apparel_DragonCrown.label>
+  <DD_Apparel_ScaleHelm.description>Шлем из небольших чешуек, уложенных внахлёст. Защищает всю голову.</DD_Apparel_ScaleHelm.description>
+  <DD_Apparel_ScaleHelm.label>чешуйчатый шлем</DD_Apparel_ScaleHelm.label>
+  <DD_Apparel_ScaleMail.description>В этом доспехе множество небольших «чешуек» перекрывают друг друга и соединяются цепочками. Такая конструкция подвижнее обычных лат, но ради свободы движений приходится жертвовать частью защиты.</DD_Apparel_ScaleMail.description>
+  <DD_Apparel_ScaleMail.label>чешуйчатый доспех</DD_Apparel_ScaleMail.label>
+  <DD_Apparel_WingCape.description>Короткий плащ, сшитый в форме крыльев. Повышает скорость передвижения владельца.</DD_Apparel_WingCape.description>
+  <DD_Apparel_WingCape.label>крылатый плащ</DD_Apparel_WingCape.label>
+  <DD_Arrow_RecurveProjectile.label>стрела рекурсивного лука</DD_Arrow_RecurveProjectile.label>
+  <DD_Bow_DoubleCrossbow.description>Арбалет с двумя отдельными желобами для стрел. При нажатии на спусковой крючок механизм выпускает обе стрелы одну за другой.</DD_Bow_DoubleCrossbow.description>
+  <DD_Bow_DoubleCrossbow.label>двойной арбалет</DD_Bow_DoubleCrossbow.label>
+  <DD_Bow_DoubleCrossbow.tools.limb.label>плечо</DD_Bow_DoubleCrossbow.tools.limb.label>
+  <DD_Bow_DoubleCrossbow.verbs.Verb_Shoot.label>двойной арбалет</DD_Bow_DoubleCrossbow.verbs.Verb_Shoot.label>
+  <DD_Bullet_IncendiaryLauncherProjectile.label>зажигательный снаряд</DD_Bullet_IncendiaryLauncherProjectile.label>
+  <DD_DragonJumpFlyer.label>полёт</DD_DragonJumpFlyer.label>
+  <DD_DragonStatueRitual_Grand.description>Место для проведения определённых ритуалов.</DD_DragonStatueRitual_Grand.description>
+  <DD_DragonStatueRitual_Grand.label>ритуальное место у величественной статуи дракона</DD_DragonStatueRitual_Grand.label>
+  <DD_DragonStatueRitual_Large.description>Место для проведения определённых ритуалов.</DD_DragonStatueRitual_Large.description>
+  <DD_DragonStatueRitual_Large.label>ритуальное место у большой статуи дракона</DD_DragonStatueRitual_Large.label>
+  <DD_DragonStatueRitual_Small.description>Место для проведения определённых ритуалов.</DD_DragonStatueRitual_Small.description>
+  <DD_DragonStatueRitual_Small.label>ритуальное место у малой статуи дракона</DD_DragonStatueRitual_Small.label>
+  <DD_Drake.description>Крупные, длинные и коренастые ящеры, очень похожие на драконов, но без крыльев. Опасные примерно как варг и быстрые как лошадь, эти универсальные рептилии служат надёжными боевыми спутниками.
+
+Их считали родственниками драконов, пока не выяснилось, что у них нет дополнительных лопаток, к которым должны крепиться крылья. Теперь сходство чешуи и мяса объясняют конвергентной эволюцией.</DD_Drake.description>
+  <DD_Drake.label>дрейк</DD_Drake.label>
+  <DD_Drake.race.meatLabel>драконье мясо</DD_Drake.race.meatLabel>
+  <DD_Drake.tools.head.label>голова</DD_Drake.tools.head.label>
+  <DD_Drake.tools.left_claw.label>левый коготь</DD_Drake.tools.left_claw.label>
+  <DD_Drake.tools.left_claw.labelNoLocation>коготь</DD_Drake.tools.left_claw.labelNoLocation>
+  <DD_Drake.tools.razorfangs.label>бритвенные клыки</DD_Drake.tools.razorfangs.label>
+  <DD_Drake.tools.right_claw.label>правый коготь</DD_Drake.tools.right_claw.label>
+  <DD_Drake.tools.right_claw.labelNoLocation>коготь</DD_Drake.tools.right_claw.labelNoLocation>
+  <DD_EggDrakeFertilized.description>Эти яйца часто путают с яйцами истинного дракона, но внутри них теплится жизнь будущего дрейка.</DD_EggDrakeFertilized.description>
+  <DD_EggDrakeFertilized.label>яйцо дрейка (оплод.)</DD_EggDrakeFertilized.label>
+  <DD_Gun_DragonfireLauncher.description>Большой тяжёлый зажигательный гранатомёт, обликом напоминающий дракона. Стреляет очередями по четыре маломощных зажигательных снаряда.</DD_Gun_DragonfireLauncher.description>
+  <DD_Gun_DragonfireLauncher.label>гранатомёт «Драконье пламя»</DD_Gun_DragonfireLauncher.label>
+  <DD_Gun_DragonfireLauncher.tools.barrel.label>ствол</DD_Gun_DragonfireLauncher.tools.barrel.label>
+  <DD_Gun_DragonfireLauncher.tools.stock.label>приклад</DD_Gun_DragonfireLauncher.tools.stock.label>
+  <DD_Gun_DragonfireLauncher.verbs.Verb_Shoot.label>гранатомёт «Драконье пламя»</DD_Gun_DragonfireLauncher.verbs.Verb_Shoot.label>
+  <DD_MeleeWeapon_DrachenSword.description>Идеально сбалансированный меч с резным драконьим рогом. Клинок изготовлен из обычного металла, но рукоять из рога обеспечивает невероятную скорость и управляемость, превращая обычный меч в грозное оружие.</DD_MeleeWeapon_DrachenSword.description>
+  <DD_MeleeWeapon_DrachenSword.label>драконий меч</DD_MeleeWeapon_DrachenSword.label>
+  <DD_MeleeWeapon_DrachenSword.tools.edge.label>лезвие</DD_MeleeWeapon_DrachenSword.tools.edge.label>
+  <DD_MeleeWeapon_DrachenSword.tools.handle.label>рукоять</DD_MeleeWeapon_DrachenSword.tools.handle.label>
+  <DD_MeleeWeapon_DrachenSword.tools.point.label>остриё</DD_MeleeWeapon_DrachenSword.tools.point.label>
+  <DD_MeleeWeapon_HornedLance.description>Смертоносное копьё с наконечником из расколотого и обточенного драконьего рога. Длинное древко и острый рог позволяют любому владельцу наносить мощные удары.</DD_MeleeWeapon_HornedLance.description>
+  <DD_MeleeWeapon_HornedLance.label>копьё с драконьим рогом</DD_MeleeWeapon_HornedLance.label>
+  <DD_MeleeWeapon_HornedLance.tools.edge.label>лезвие</DD_MeleeWeapon_HornedLance.tools.edge.label>
+  <DD_MeleeWeapon_HornedLance.tools.handle.label>рукоять</DD_MeleeWeapon_HornedLance.tools.handle.label>
+  <DD_MeleeWeapon_HornedLance.tools.point.label>остриё</DD_MeleeWeapon_HornedLance.tools.point.label>
+  <DD_Projectile_DragonBreath_Fire.label>огненное дыхание</DD_Projectile_DragonBreath_Fire.label>
+  <DD_Projectile_DragonSpit.label>плевок</DD_Projectile_DragonSpit.label>
+  <DD_Projectile_DragonSpitBlunt.label>ударный плевок</DD_Projectile_DragonSpitBlunt.label>
+  <DraconicAmbrosia.description>Этот редкий наркотик на основе амброзии оказывает опьяняющее действие. Однако его главное назначение — ускорять старение, прежде всего у драконов, а не доставлять удовольствие.
+Особый драконий орган, фундаментум, позволяет правильно перерабатывать препарат и стареть под его действием. На другие виды он действует лишь как чуть более сильная амброзия. Добавляет дракону 5–8 лет возраста.</DraconicAmbrosia.description>
+  <DraconicAmbrosia.ingestible.ingestCommandString>Принять: {0}</DraconicAmbrosia.ingestible.ingestCommandString>
+  <DraconicAmbrosia.ingestible.ingestReportString>Принимает: {0}.</DraconicAmbrosia.ingestible.ingestReportString>
+  <DraconicAmbrosia.label>драконья амброзия</DraconicAmbrosia.label>
+  <DraconicExplosion.label>драконье пламя</DraconicExplosion.label>
+  <DraconicFlame.label>драконье пламя</DraconicFlame.label>
+  <DragonHorn.description>Рог дракона. Чтобы добыть его, придётся сразиться насмерть с одним из самых свирепых животных миров окраин. Очень прочный и острый, он прекрасно подходит для ближнего боя.</DragonHorn.description>
+  <DragonHorn.label>драконий рог</DragonHorn.label>
+  <DragonHorn.tools.base.label>основание</DragonHorn.tools.base.label>
+  <DragonHorn.tools.point.label>остриё</DragonHorn.tools.point.label>
+  <DragonNest.description>Мягкое ложе из сена для драконьего яйца. Защищает его от непогоды и ускоряет развитие на 13%.</DragonNest.description>
+  <DragonNest.label>драконье гнездо</DragonNest.label>
+  <DragonPillow.description>Мягкая постель для сна драконов.</DragonPillow.description>
+  <DragonPillow.label>драконья подушка</DragonPillow.label>
+  <Dragon_Leather.description>Экзотическая кожа дракона. После дубления шкура стала мягкой, эластичной и прочной. Однако исходный цвет утрачен: как омар при варке, кожа необратимо изменила окраску.</Dragon_Leather.description>
+  <Dragon_Leather.label>драконья кожа</Dragon_Leather.label>
+  <DragonsBlood.description>Драконы издавна славятся как мифические звери невероятной силы. Одни ищут её источник в глазах, другие — в когтях, но на самом деле он в крови. Измельчив горсть чешуи и смешав её с мякотью самоцветных ягод, можно одновременно извлечь и разбавить кровь, получив идеальную основу для зелья. Оно передаёт часть драконьих сил: скорость, устойчивость к боли, свирепость в бою и защиту от пламени.
+
+Ощущение могущества способно вызвать сильнейшую зависимость. Трудно устоять перед драконьей силой, текущей по венам.</DragonsBlood.description>
+  <DragonsBlood.ingestible.ingestCommandString>Выпить: {0}</DragonsBlood.ingestible.ingestCommandString>
+  <DragonsBlood.ingestible.ingestReportString>Пьёт: {0}.</DragonsBlood.ingestible.ingestReportString>
+  <DragonsBlood.label>драконья кровь</DragonsBlood.label>
+  <EggBlackDragonFertilized.description>Чёрное как смоль яйцо. Его добыча наверняка стоила немалых трудов: оно принадлежит свирепому чёрному дракону.</EggBlackDragonFertilized.description>
+  <EggBlackDragonFertilized.label>яйцо чёрного дракона (оплод.)</EggBlackDragonFertilized.label>
+  <EggBlueDragonFertilized.description>Лазуритовое яйцо, поразительно красивое для яйца. Принадлежит прекрасному синему дракону.</EggBlueDragonFertilized.description>
+  <EggBlueDragonFertilized.label>яйцо синего дракона (оплод.)</EggBlueDragonFertilized.label>
+  <EggDragonUnfertilized.description>Неоплодотворённое драконье яйцо. Можно съесть сырым, но приготовленное оно гораздо, гораздо вкуснее.</EggDragonUnfertilized.description>
+  <EggDragonUnfertilized.label>драконье яйцо (неоплод.)</EggDragonUnfertilized.label>
+  <EggGoldDragonFertilized.description>Золотое яйцо, сияющее и словно выставляющее напоказ свою красоту. Принадлежит мудрому золотому дракону.</EggGoldDragonFertilized.description>
+  <EggGoldDragonFertilized.label>яйцо золотого дракона (оплод.)</EggGoldDragonFertilized.label>
+  <EggGreenDragonFertilized.description>Ярко-зелёное яйцо. Его очень трудно найти, если оно хорошо спрятано в пышной листве. Принадлежит доброму зелёному дракону.</EggGreenDragonFertilized.description>
+  <EggGreenDragonFertilized.label>яйцо зелёного дракона (оплод.)</EggGreenDragonFertilized.label>
+  <EggJadeDragonFertilized.description>Яйцо насыщенного нефритового цвета, переливающееся красотой и чистотой. Принадлежит чудесному нефритовому дракону.</EggJadeDragonFertilized.description>
+  <EggJadeDragonFertilized.label>яйцо нефритового дракона (оплод.)</EggJadeDragonFertilized.label>
+  <EggPurpleDragonFertilized.description>Загадочное фиолетовое яйцо. Такой цвет редко встречается в дикой природе, особенно у животных. Принадлежит искусственно выведенному фиолетовому дракону.</EggPurpleDragonFertilized.description>
+  <EggPurpleDragonFertilized.label>яйцо фиолетового дракона (оплод.)</EggPurpleDragonFertilized.label>
+  <EggRedDragonFertilized.description>Яйцо, похожее на расплавленную лаву. Если взять его в руки, можно ощутить исходящее из глубины тепло. Принадлежит могучему красному дракону.</EggRedDragonFertilized.description>
+  <EggRedDragonFertilized.label>яйцо красного дракона (оплод.)</EggRedDragonFertilized.label>
+  <EggSilverDragonFertilized.description>Серебряное яйцо, настолько блестящее, что в нём почти можно увидеть своё отражение. Принадлежит умному серебряному дракону.</EggSilverDragonFertilized.description>
+  <EggSilverDragonFertilized.label>яйцо серебряного дракона (оплод.)</EggSilverDragonFertilized.label>
+  <EggTrueDragonFertilized.description>Прекрасное кремово-белое яйцо. Поначалу оно кажется непримечательным — пока не осознаешь его размеры. Принадлежит истинному дракону.</EggTrueDragonFertilized.description>
+  <EggTrueDragonFertilized.label>яйцо истинного дракона (оплод.)</EggTrueDragonFertilized.label>
+  <EggWhiteDragonFertilized.description>Белоснежное яйцо, прекрасно сливающееся с холодными и горными пейзажами. Принадлежит неуловимому белому дракону.</EggWhiteDragonFertilized.description>
+  <EggWhiteDragonFertilized.label>яйцо белого дракона (оплод.)</EggWhiteDragonFertilized.label>
+  <EggYellowDragonFertilized.description>Яйцо солнечного цвета, сливающееся с суровыми пустынями миров окраин. Принадлежит теплолюбивому жёлтому дракону.</EggYellowDragonFertilized.description>
+  <EggYellowDragonFertilized.label>яйцо жёлтого дракона (оплод.)</EggYellowDragonFertilized.label>
+  <Frame_AdvancedIncubator.description>Устройство с точным контролем и регулированием условий для развития зародыша дракона. Ускоряет развитие яйца на 50%, сокращая ожидание вылупления.</Frame_AdvancedIncubator.description>
+  <Frame_AdvancedIncubator.label>продвинутый инкубатор (в процессе сборки)</Frame_AdvancedIncubator.label>
+  <Frame_Altar.description>Алтарь для поклонения драконам. Хотя сами драконы уступают людям в разумности, они ценят приношения и дары в свою честь и отвечают благосклонностью. Её можно расходовать на ритуалы, в том числе на изгнание, насыщение и успокоение драконов.
+
+Со временем для той же благосклонности понадобится всё больше приношений, а выполнение просьб обойдётся дороже…</Frame_Altar.description>
+  <Frame_Altar.label>драконий алтарь (в процессе сборки)</Frame_Altar.label>
+  <Frame_BasicIncubator.description>Инкубатор, специально созданный для драконьих яиц. Ускоряет развитие зародыша на 30%, позволяя детёнышу вылупиться раньше обычного.</Frame_BasicIncubator.description>
+  <Frame_BasicIncubator.label>простой инкубатор (в процессе сборки)</Frame_BasicIncubator.label>
+  <Frame_DDOfferingSpot.description>Простая чаша для скромных приношений драконам.
+
+Со временем для той же благосклонности понадобится всё больше приношений, а выполнение просьб обойдётся дороже…</Frame_DDOfferingSpot.description>
+  <Frame_DDOfferingSpot.label>место приношений драконам (в процессе сборки)</Frame_DDOfferingSpot.label>
+  <Frame_DragonNest.description>Мягкое ложе из сена для драконьего яйца. Защищает его от непогоды и ускоряет развитие на 13%.</Frame_DragonNest.description>
+  <Frame_DragonNest.label>драконье гнездо (в процессе сборки)</Frame_DragonNest.label>
+  <Frame_DragonPillow.description>Мягкая постель для сна драконов.</Frame_DragonPillow.description>
+  <Frame_DragonPillow.label>драконья подушка (в процессе сборки)</Frame_DragonPillow.label>
+  <Gold_Dragon.description>Золотых драконов высоко ценят за золотую чешую и дружелюбие. Многие бедствующие налётчики и племенные жители разыскивают этих щедрых зверей, чтобы попросить долю их сокровищ, но нередко получают отказ из-за собственной алчности и враждебности. На них действуют ритуалы драконьего алтаря.</Gold_Dragon.description>
+  <Gold_Dragon.label>золотой дракон</Gold_Dragon.label>
+  <Gold_Dragon.race.meatLabel>драконье мясо</Gold_Dragon.race.meatLabel>
+  <Gold_Dragon.tools.DD_Knockback.label>отбрасывание</Gold_Dragon.tools.DD_Knockback.label>
+  <Gold_Dragon.tools.horn.label>рог</Gold_Dragon.tools.horn.label>
+  <Gold_Dragon.tools.left_claw.label>левый коготь</Gold_Dragon.tools.left_claw.label>
+  <Gold_Dragon.tools.pyro_bite.label>огненный укус</Gold_Dragon.tools.pyro_bite.label>
+  <Gold_Dragon.tools.right_claw.label>правый коготь</Gold_Dragon.tools.right_claw.label>
+  <Gold_Dragon.tools.tail_whip.label>удар хвостом</Gold_Dragon.tools.tail_whip.label>
+  <Green_Dragon.description>Зелёные драконы одними из первых стали использоваться на войне. Распространённые, легко приручаемые и обучаемые, они быстро перевозили большое число воинов. На них действуют ритуалы драконьего алтаря.</Green_Dragon.description>
+  <Green_Dragon.label>зелёный дракон</Green_Dragon.label>
+  <Green_Dragon.race.meatLabel>драконье мясо</Green_Dragon.race.meatLabel>
+  <Green_Dragon.tools.DD_Knockback.label>отбрасывание</Green_Dragon.tools.DD_Knockback.label>
+  <Green_Dragon.tools.horn.label>рог</Green_Dragon.tools.horn.label>
+  <Green_Dragon.tools.left_claw.label>левый коготь</Green_Dragon.tools.left_claw.label>
+  <Green_Dragon.tools.right_claw.label>правый коготь</Green_Dragon.tools.right_claw.label>
+  <Green_Dragon.tools.tail_whip.label>удар хвостом</Green_Dragon.tools.tail_whip.label>
+  <Green_Dragon.tools.toxic_bite.label>ядовитый укус</Green_Dragon.tools.toxic_bite.label>
+  <HardScale.description>Сброшенная драконом чешуя невероятно устойчива к жару. Она несколько прочнее стали и обладает любопытным свойством: при особой ковке меняет оттенок. К сожалению, в мебели и постройках правильно уложить чешуйки внахлёст не удаётся, и они остаются тускло-серыми.
+
+Чешуя бывает тускло-красной, красной, жёлтой, фиолетовой, синей, голубой, тёмно-зелёной, светло-зелёной, тёмно-серой и белой.</HardScale.description>
+  <HardScale.label>твёрдая драконья чешуя</HardScale.label>
+  <Jade_Dragon.description>Нефритовые драконы — воплощение роскоши: всё их тело словно выточено из цельного нефрита. Говорят, если вырвать чешуйку, она прямо на глазах превратится в чистейший нефрит. Другие ничего не говорят, потому что попытались это сделать и были съедены. На них действуют ритуалы драконьего алтаря.</Jade_Dragon.description>
+  <Jade_Dragon.label>нефритовый дракон</Jade_Dragon.label>
+  <Jade_Dragon.race.meatLabel>драконье мясо</Jade_Dragon.race.meatLabel>
+  <Jade_Dragon.tools.DD_Knockback.label>отбрасывание</Jade_Dragon.tools.DD_Knockback.label>
+  <Jade_Dragon.tools.horn.label>рог</Jade_Dragon.tools.horn.label>
+  <Jade_Dragon.tools.left_claw.label>левый коготь</Jade_Dragon.tools.left_claw.label>
+  <Jade_Dragon.tools.right_claw.label>правый коготь</Jade_Dragon.tools.right_claw.label>
+  <Jade_Dragon.tools.tail_whip.label>удар хвостом</Jade_Dragon.tools.tail_whip.label>
+  <Jade_Dragon.tools.toxic_bite.label>ядовитый укус</Jade_Dragon.tools.toxic_bite.label>
+  <JewelBerries.description>Самоцветные ягоды — на самом деле не ягоды, а псевдобульбы самоцветной орхидеи. Они питательны, но чаще вызывают пищевое отравление и долго растут, поэтому плохо подходят на роль основного продукта питания. Главным образом используются для изготовления драконьих зелий и других изделий.</JewelBerries.description>
+  <JewelBerries.label>самоцветные ягоды</JewelBerries.label>
+  <Jewel_Orchid.description>Экзотическое растение с псевдобульбами, которые обычно называют ягодами. Растёт медленно, но очень красиво цветёт: на цветоносах раскрываются крупные жёлтые и красные цветки. Используется для изготовления некоторых драконьих зелий и других изделий.</Jewel_Orchid.description>
+  <Jewel_Orchid.label>самоцветная орхидея</Jewel_Orchid.label>
+  <Jeweled_Rhizome.description>Растение с пряными подземными клубнями, которые очень любят драконьи виды.</Jeweled_Rhizome.description>
+  <Jeweled_Rhizome.label>самоцветный клубнецвет</Jeweled_Rhizome.label>
+  <Jeweledrhizomeraw.description>Корневые клубни самоцветной орхидеи.</Jeweledrhizomeraw.description>
+  <Jeweledrhizomeraw.label>самоцветный клубень</Jeweledrhizomeraw.label>
+  <MatingHorn.comps.CompTargetEffect_SpawnMate.penaltyReason>Рёв довёл дракона до безумия.</MatingHorn.comps.CompTargetEffect_SpawnMate.penaltyReason>
+  <MatingHorn.comps.CompUsable.useLabel>Активировать: {0_label}</MatingHorn.comps.CompUsable.useLabel>
+  <MatingHorn.description>Одноразовый рог, усиленный технологиями.
+
+Разносит обычный драконий рёв на многие мили по самой разной местности, призывая подходящего партнёра для спаривания. Услышавшие зов драконы на некоторое время теряют осторожность: всё, чего они хотят, — найти пару.
+
+Примечание: если вновь заставить реветь дракона, уже впавшего в ярость — собственную или стайную, — последствия будут катастрофическими.</MatingHorn.description>
+  <MatingHorn.label>брачный рог</MatingHorn.label>
+  <Meat_DD_Drake.description>Сырое мясо. Можно приготовить или съесть сырым.</Meat_DD_Drake.description>
+  <Meat_DD_Drake.label>драконье мясо</Meat_DD_Drake.label>
+  <Meat_Red_Dragon.description>Сырое мясо. Можно приготовить или съесть сырым.</Meat_Red_Dragon.description>
+  <Meat_Red_Dragon.label>драконье мясо</Meat_Red_Dragon.label>
+  <Meat_Talbuk.description>Сырое мясо. Можно приготовить или съесть сырым.</Meat_Talbuk.description>
+  <Meat_Talbuk.label>конина</Meat_Talbuk.label>
+  <MoonStone.description>Лунный камень — вовсе не камень, а твёрдая таблетка. Самоцветные ягоды сушат, растирают в порошок и прессуют в большой синий диск. Человек не может его проглотить: таблетка размером с десертную тарелку. Для изготовления меньших таблеток нужна исключительная точность, иначе старение будет продолжаться, пока от принявшего препарат не останутся одни кости. Только драконы благодаря своим размерам и фундаментуму могут безопасно принимать это средство. Добавляет 3–5 лет возраста.</MoonStone.description>
+  <MoonStone.ingestible.ingestCommandString>Принять: {0}</MoonStone.ingestible.ingestCommandString>
+  <MoonStone.ingestible.ingestReportString>Принимает: {0}.</MoonStone.ingestible.ingestReportString>
+  <MoonStone.label>лунный камень</MoonStone.label>
+  <PubertyLance.comps.CompUsable.useLabel>Активировать: {0_label}</PubertyLance.comps.CompUsable.useLabel>
+  <PubertyLance.description>Одноразовое устройство психофизического воздействия. За несколько мгновений старит тело и разум цели на пару десятилетий, одновременно заживляя старые шрамы благодаря быстрому образованию новых тканей. Действует на большом расстоянии и сквозь стены.</PubertyLance.description>
+  <PubertyLance.label>копьё старения</PubertyLance.label>
+  <Purple_Dragon.description>Фиолетовых драконов первоначально вывели в неволе, скрестив красных и синих. Свободу им подарил соплеменник по имени Венн, выпустивший их из заточения. С тех пор они бродят по мирам окраин как дикие драконы. На них действуют ритуалы драконьего алтаря.</Purple_Dragon.description>
+  <Purple_Dragon.label>фиолетовый дракон</Purple_Dragon.label>
+  <Purple_Dragon.race.meatLabel>драконье мясо</Purple_Dragon.race.meatLabel>
+  <Purple_Dragon.tools.DD_Knockback.label>отбрасывание</Purple_Dragon.tools.DD_Knockback.label>
+  <Purple_Dragon.tools.bite.label>укус</Purple_Dragon.tools.bite.label>
+  <Purple_Dragon.tools.horn.label>рог</Purple_Dragon.tools.horn.label>
+  <Purple_Dragon.tools.left_claw.label>левый коготь</Purple_Dragon.tools.left_claw.label>
+  <Purple_Dragon.tools.right_claw.label>правый коготь</Purple_Dragon.tools.right_claw.label>
+  <Purple_Dragon.tools.skull_bash.label>удар головой</Purple_Dragon.tools.skull_bash.label>
+  <Purple_Dragon.tools.tail_whip.label>удар хвостом</Purple_Dragon.tools.tail_whip.label>
+  <Rare_Dragon_Leather.description>После дубления чешуйчатая шкура стала мягкой, эластичной и прочной. Однако исходный цвет утрачен: как омар при варке, кожа и чешуя необратимо изменили окраску.</Rare_Dragon_Leather.description>
+  <Rare_Dragon_Leather.label>кожа редкого дракона</Rare_Dragon_Leather.label>
+  <Red_Dragon.description>Красные драконы славятся огромной силой в бою, превращающей их в живые боевые машины. Многим удалось сбросить цепи благодаря женщине из племени по имени Курро, которая тайком освобождала их при любой возможности. С тех пор многие вернулись в дикую природу. На них действуют ритуалы драконьего алтаря.</Red_Dragon.description>
+  <Red_Dragon.label>красный дракон</Red_Dragon.label>
+  <Red_Dragon.race.meatLabel>драконье мясо</Red_Dragon.race.meatLabel>
+  <Red_Dragon.tools.DD_Knockback.label>отбрасывание</Red_Dragon.tools.DD_Knockback.label>
+  <Red_Dragon.tools.horn.label>рог</Red_Dragon.tools.horn.label>
+  <Red_Dragon.tools.left_claw.label>левый коготь</Red_Dragon.tools.left_claw.label>
+  <Red_Dragon.tools.pyro_bite.label>огненный укус</Red_Dragon.tools.pyro_bite.label>
+  <Red_Dragon.tools.right_claw.label>правый коготь</Red_Dragon.tools.right_claw.label>
+  <Red_Dragon.tools.tail_whip.label>удар хвостом</Red_Dragon.tools.tail_whip.label>
+  <Silver_Dragon.description>Серебряных драконов ценят не меньше их золотых сородичей. Многие считают их ещё ценнее: ходит слух, будто вырванная чешуя может служить деньгами. Этот слух совершенно ложен — и смертельно опасен. На них действуют ритуалы драконьего алтаря.</Silver_Dragon.description>
+  <Silver_Dragon.label>серебряный дракон</Silver_Dragon.label>
+  <Silver_Dragon.race.meatLabel>драконье мясо</Silver_Dragon.race.meatLabel>
+  <Silver_Dragon.tools.DD_Knockback.label>отбрасывание</Silver_Dragon.tools.DD_Knockback.label>
+  <Silver_Dragon.tools.frost_bite.label>морозный укус</Silver_Dragon.tools.frost_bite.label>
+  <Silver_Dragon.tools.horn.label>рог</Silver_Dragon.tools.horn.label>
+  <Silver_Dragon.tools.left_claw.label>левый коготь</Silver_Dragon.tools.left_claw.label>
+  <Silver_Dragon.tools.right_claw.label>правый коготь</Silver_Dragon.tools.right_claw.label>
+  <Silver_Dragon.tools.tail_whip.label>удар хвостом</Silver_Dragon.tools.tail_whip.label>
+  <Talbuk.description>Этих пушистых зверей описывают как помесь лошади и козы. Они прекрасно переносят дальние переходы и перевозят грузы. Толстая шея позволяет наносить мощные удары головой, а длинные ноги — быстро передвигаться.</Talbuk.description>
+  <Talbuk.label>талбук</Talbuk.label>
+  <Talbuk.race.meatLabel>конина</Talbuk.race.meatLabel>
+  <Talbuk.tools.head.label>голова</Talbuk.tools.head.label>
+  <Talbuk.tools.left_hoof.label>левое копыто</Talbuk.tools.left_hoof.label>
+  <Talbuk.tools.left_hoof.labelNoLocation>копыто</Talbuk.tools.left_hoof.labelNoLocation>
+  <Talbuk.tools.right_hoof.label>правое копыто</Talbuk.tools.right_hoof.label>
+  <Talbuk.tools.right_hoof.labelNoLocation>копыто</Talbuk.tools.right_hoof.labelNoLocation>
+  <True_Dragon.description>Истинные драконы, в отличие от остальных, ходят на всех четырёх лапах, а не прячут переднюю пару за огромными крыльями. Это высшие драконы, внушающие всем видам уважение и страх. На них действуют ритуалы драконьего алтаря.</True_Dragon.description>
+  <True_Dragon.label>истинный дракон</True_Dragon.label>
+  <True_Dragon.race.meatLabel>драконье мясо</True_Dragon.race.meatLabel>
+  <True_Dragon.tools.DD_Knockback.label>отбрасывание</True_Dragon.tools.DD_Knockback.label>
+  <True_Dragon.tools.horn.label>рог</True_Dragon.tools.horn.label>
+  <True_Dragon.tools.left_claw.label>левый коготь</True_Dragon.tools.left_claw.label>
+  <True_Dragon.tools.pyro_bite.label>огненный укус</True_Dragon.tools.pyro_bite.label>
+  <True_Dragon.tools.right_claw.label>правый коготь</True_Dragon.tools.right_claw.label>
+  <True_Dragon.tools.skull_bash.label>удар головой</True_Dragon.tools.skull_bash.label>
+  <True_Dragon.tools.tail_whip.label>удар хвостом</True_Dragon.tools.tail_whip.label>
+  <True_Dragon.tools.toxic_bite.label>ядовитый укус</True_Dragon.tools.toxic_bite.label>
+  <True_Dragon_Leather.description>После дубления чешуйчатая шкура стала мягкой, эластичной и прочной. В отличие от кожи других драконов, она отчасти сохранила исходный цвет — ещё одно свидетельство силы истинного дракона.</True_Dragon_Leather.description>
+  <True_Dragon_Leather.label>кожа истинного дракона</True_Dragon_Leather.label>
+  <White_Dragon.description>Белые драконы — загадочный вид, обитающий в самом холодном климате. Ревниво охраняют свою территорию и прогоняют каждого, кто пытается за ними наблюдать. На них действуют ритуалы драконьего алтаря.</White_Dragon.description>
+  <White_Dragon.label>белый дракон</White_Dragon.label>
+  <White_Dragon.race.meatLabel>драконье мясо</White_Dragon.race.meatLabel>
+  <White_Dragon.tools.DD_Knockback.label>отбрасывание</White_Dragon.tools.DD_Knockback.label>
+  <White_Dragon.tools.frost_bite.label>морозный укус</White_Dragon.tools.frost_bite.label>
+  <White_Dragon.tools.horn.label>рог</White_Dragon.tools.horn.label>
+  <White_Dragon.tools.left_claw.label>левый коготь</White_Dragon.tools.left_claw.label>
+  <White_Dragon.tools.right_claw.label>правый коготь</White_Dragon.tools.right_claw.label>
+  <White_Dragon.tools.skull_bash.label>удар головой</White_Dragon.tools.skull_bash.label>
+  <White_Dragon.tools.tail_whip.label>удар хвостом</White_Dragon.tools.tail_whip.label>
+  <WingedFlyer.label>дракон в полёте</WingedFlyer.label>
+  <Yellow_Dragon.description>Жёлтые драконы появились в дикой природе позже всех остальных. Редкая доминантная мутация породила новую разновидность, со временем ставшую отдельным видом. На них действуют ритуалы драконьего алтаря.</Yellow_Dragon.description>
+  <Yellow_Dragon.label>жёлтый дракон</Yellow_Dragon.label>
+  <Yellow_Dragon.race.meatLabel>драконье мясо</Yellow_Dragon.race.meatLabel>
+  <Yellow_Dragon.tools.DD_Knockback.label>отбрасывание</Yellow_Dragon.tools.DD_Knockback.label>
+  <Yellow_Dragon.tools.bite.label>укус</Yellow_Dragon.tools.bite.label>
+  <Yellow_Dragon.tools.horn.label>рог</Yellow_Dragon.tools.horn.label>
+  <Yellow_Dragon.tools.left_claw.label>левый коготь</Yellow_Dragon.tools.left_claw.label>
+  <Yellow_Dragon.tools.right_claw.label>правый коготь</Yellow_Dragon.tools.right_claw.label>
+  <Yellow_Dragon.tools.skull_bash.label>удар головой</Yellow_Dragon.tools.skull_bash.label>
+  <Yellow_Dragon.tools.tail_whip.label>удар хвостом</Yellow_Dragon.tools.tail_whip.label>
+</LanguageData>

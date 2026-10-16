@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Ritual_BanishAllDragon.description>Заставляет всех диких драконов покинуть карту.</Ritual_BanishAllDragon.description>
+  <Ritual_BanishAllDragon.label>Изгнать всех</Ritual_BanishAllDragon.label>
+  <Ritual_BanishSingleDragon.description>Заставляет выбранного дракона покинуть карту.</Ritual_BanishSingleDragon.description>
+  <Ritual_BanishSingleDragon.label>Изгнать</Ritual_BanishSingleDragon.label>
+  <Ritual_Bombardment.description>Бомбардирует выбранную область.</Ritual_Bombardment.description>
+  <Ritual_Bombardment.label>Бомбардировка</Ritual_Bombardment.label>
+  <Ritual_Destroyer.confirmationMessage>Это уничтожит выбранную карту, если она существует, и убьёт всех пешек на ней.
+</Ritual_Destroyer.confirmationMessage>
+  <Ritual_Destroyer.description>Уничтожает выбранное поселение на карте мира.</Ritual_Destroyer.description>
+  <Ritual_Destroyer.label>Разрушитель</Ritual_Destroyer.label>
+  <Ritual_MaintainAllDragonNeeds.description>Насыщает всех драконов и поддерживает их сытость.</Ritual_MaintainAllDragonNeeds.description>
+  <Ritual_MaintainAllDragonNeeds.label>Поддержать сытость всех</Ritual_MaintainAllDragonNeeds.label>
+  <Ritual_MaintainDragonNeeds.description>Насыщает дракона и поддерживает его сытость.</Ritual_MaintainDragonNeeds.description>
+  <Ritual_MaintainDragonNeeds.label>Поддержать сытость</Ritual_MaintainDragonNeeds.label>
+  <Ritual_RemoveFerocity.description>Успокаивает дракона.</Ritual_RemoveFerocity.description>
+  <Ritual_RemoveFerocity.label>Умиротворить</Ritual_RemoveFerocity.label>
+  <Ritual_RemoveFerocityAll.description>Успокаивает всех драконов поблизости.</Ritual_RemoveFerocityAll.description>
+  <Ritual_RemoveFerocityAll.label>Умиротворить всех</Ritual_RemoveFerocityAll.label>
+  <Ritual_WardAllDragon.description>Некоторое время автоматически успокаивает приручённых драконов и изгоняет диких.</Ritual_WardAllDragon.description>
+  <Ritual_WardAllDragon.label>Оберег</Ritual_WardAllDragon.label>
+</LanguageData>

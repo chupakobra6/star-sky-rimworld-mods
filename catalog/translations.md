@@ -656,3 +656,14 @@ RimWorld 1.6 · Версия 1.0.0
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3820544688) · [Исходники и руководство](../mods/RU-3750476989/README.md) · [История изменений](../mods/RU-3750476989/CHANGELOG.md) · [Лицензия](../mods/RU-3750476989/LICENSE) · [Источники и уведомления](../mods/RU-3750476989/NOTICES.md)
 
+## Dragons Descent — русский перевод
+
+Русский перевод Dragons Descent: названия драконов, способности, ритуалы и сообщения интерфейса
+
+[![Dragons Descent — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/dragons-descent-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3820589458)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3820589458) · [Исходники и руководство](../mods/RU-2026992161/README.md) · [История изменений](../mods/RU-2026992161/CHANGELOG.md) · [Лицензия](../mods/RU-2026992161/LICENSE) · [Источники и уведомления](../mods/RU-2026992161/NOTICES.md)
+
+[![Другие моды в Мастерской Steam](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-ru.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)

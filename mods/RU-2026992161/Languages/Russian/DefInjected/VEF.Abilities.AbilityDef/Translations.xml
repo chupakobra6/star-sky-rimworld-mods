@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <DD_DraconicFlight.description>Реактивный самолёт взлетает, Икар падает.</DD_DraconicFlight.description>
+  <DD_DraconicFlight.jobReportString>Применяет способность: {0}</DD_DraconicFlight.jobReportString>
+  <DD_DraconicFlight.label>полёт на крыльях</DD_DraconicFlight.label>
+  <DD_DragonBreath_Fire.description>Р-р-р!</DD_DragonBreath_Fire.description>
+  <DD_DragonBreath_Fire.jobReportString>Применяет способность: {0}</DD_DragonBreath_Fire.jobReportString>
+  <DD_DragonBreath_Fire.label>огненное дыхание дракона</DD_DragonBreath_Fire.label>
+  <DD_DragonJump.description>Этот гибрид может стремительно вступать в бой, сокращая расстояние до врагов и нанося им урон.</DD_DragonJump.description>
+  <DD_DragonJump.jobReportString>Применяет способность: {0}</DD_DragonJump.jobReportString>
+  <DD_DragonJump.label>прыжок дракона</DD_DragonJump.label>
+  <DD_DragonSpit_Fire.description>Пиу!</DD_DragonSpit_Fire.description>
+  <DD_DragonSpit_Fire.jobReportString>Применяет способность: {0}</DD_DragonSpit_Fire.jobReportString>
+  <DD_DragonSpit_Fire.label>огненный плевок дракона</DD_DragonSpit_Fire.label>
+</LanguageData>

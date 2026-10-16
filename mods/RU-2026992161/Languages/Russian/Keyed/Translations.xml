@@ -1,0 +1,110 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AbilityGainHediffMessage>{PAWN} получает способность «{ABILITY}».</AbilityGainHediffMessage>
+  <AbilitySetting_Label_AIUse>Автоматическое применение</AbilitySetting_Label_AIUse>
+  <AbilitySetting_Label_Desc>Описание</AbilitySetting_Label_Desc>
+  <AbilitySetting_Label_Gain>Условия получения</AbilitySetting_Label_Gain>
+  <AbilitySetting_Label_Loss>Условия утраты</AbilitySetting_Label_Loss>
+  <AbilitySetting_Label_Name>Название</AbilitySetting_Label_Name>
+  <AbilitySetting_Label_Pawns>Пешки со способностью</AbilitySetting_Label_Pawns>
+  <AbilitySetting_Label_Range>Дальность</AbilitySetting_Label_Range>
+  <AbilitySetting_Label_Status>Состояние</AbilitySetting_Label_Status>
+  <AbilitySetting_Range_Format>{MIN}–{MAX}</AbilitySetting_Range_Format>
+  <Ability_CannotEndFlyingUnderRoof>Нельзя выбрать клетку под крышей.</Ability_CannotEndFlyingUnderRoof>
+  <Ability_CannotStartFlyingUnderRoof>Нельзя взлететь из-под крыши.</Ability_CannotStartFlyingUnderRoof>
+  <Ability_CannotUseWhileFormingCaravan>{PAWN} не может использовать эту способность во время сбора каравана.</Ability_CannotUseWhileFormingCaravan>
+  <Ability_NotifyAttackFaction>Отношения с атакованной фракцией изменятся на {GOODWILL}.</Ability_NotifyAttackFaction>
+  <Ability_NotifyMapGenocide>Все пешки на карте погибнут, а сама карта будет уничтожена!</Ability_NotifyMapGenocide>
+  <Ability_NotifyOtherFactions>Отношения со всеми остальными фракциями изменятся на {GOODWILL}.</Ability_NotifyOtherFactions>
+  <Ability_RequiresBodyPart>{PAWN}: отсутствуют необходимые части тела — {BODYPART}, {COUNT} шт.</Ability_RequiresBodyPart>
+  <Ability_UnderMinimumAge>{PAWN}: для этой способности требуется возраст не менее {AGE}.</Ability_UnderMinimumAge>
+  <AlertRitualSustainMultiple_Desc>Ни один дракон на карте не будет голодать в течение {DURATION}.</AlertRitualSustainMultiple_Desc>
+  <AlertRitualSustainMultiple_Label>Ритуал: сытость драконов</AlertRitualSustainMultiple_Label>
+  <AlertRitualSustainSingle_Desc>Один из драконов на карте не будет голодать в течение {DURATION}.</AlertRitualSustainSingle_Desc>
+  <AlertRitualSustainSingle_Label>Ритуал: сытость дракона</AlertRitualSustainSingle_Label>
+  <AlertRitualWardMultiple_Desc>Дикие драконы покинут карту, а принадлежащие фракциям будут защищены от психических срывов в течение {DURATION}.</AlertRitualWardMultiple_Desc>
+  <AlertRitualWardMultiple_Label>Ритуал: оберег от драконов</AlertRitualWardMultiple_Label>
+  <ConditionAge>Минимальный возраст: {AGE}</ConditionAge>
+  <ConditionAnd>({CONDITION_A} И {CONDITION_B})</ConditionAnd>
+  <ConditionBodyPart>Необходимая часть тела: {BODY_PART}</ConditionBodyPart>
+  <ConditionBodyPart_Missing>Должна отсутствовать часть тела: {BODY_PART}</ConditionBodyPart_Missing>
+  <ConditionFulfilled>{CONDITION}: выполнено</ConditionFulfilled>
+  <ConditionOr>({CONDITION_A} ИЛИ {CONDITION_B})</ConditionOr>
+  <ConditionRecord>Минимальное значение «{RECORD}»: {VALUE}</ConditionRecord>
+  <ConditionSatisfied>{CONDITION}: соблюдено</ConditionSatisfied>
+  <DragonEggRuinedIncubatorMessage>Внимание: {EGG} испорчено.</DragonEggRuinedIncubatorMessage>
+  <DragonLayingEggMessage>{PARENT} откладывает яйцо: {EGG}.</DragonLayingEggMessage>
+  <DragonMateSpawnMessage>{MATE} откликается на брачный зов!</DragonMateSpawnMessage>
+  <HostileResponseFriendlyFireMessage>{PAWN} начинает охотиться на людей из-за дружественного огня. Источник атаки: {ATTACKER}. Ярость пройдёт, когда дракон отдохнёт или потеряет сознание.</HostileResponseFriendlyFireMessage>
+  <LetterDragonsHunting>Голодный дракон преследует стадо животных, и вы оказались прямо на его пути. Можно попробовать его приручить, но будьте осторожны: драконы могут напасть даже на тех, кто приносит дары. Можно и поохотиться ради ценных рогов и кожи — редких материалов с превосходными свойствами. Дракон уйдёт примерно через 3–5 дней.
+
+Если вы не хотите терпеть такое соседство, его можно изгнать с помощью алтаря.</LetterDragonsHunting>
+  <LetterDragonsPasses>У порога колонии появился странствующий {DRAGON} — величественный и сильный. Можно попробовать его приручить, но будьте осторожны: драконы могут напасть даже на тех, кто приносит дары. Можно и поохотиться ради ценных рогов и кожи — редких материалов с превосходными свойствами. Дракон уйдёт примерно через 2–3 дня.
+
+Если вы не хотите терпеть такое соседство, его можно изгнать с помощью алтаря.</LetterDragonsPasses>
+  <LetterLabelDragonsHunting>Охотящийся дракон</LetterLabelDragonsHunting>
+  <LetterLabelDragonsPasses>Странствующий дракон</LetterLabelDragonsPasses>
+  <LooseScales>Отставшая чешуя</LooseScales>
+  <RitualActive>— Сейчас действует —</RitualActive>
+  <RitualBanishAllMessage>Драконов изгнано: {COUNT}.</RitualBanishAllMessage>
+  <RitualBanishMessage>{TARGET} покидает карту под действием изгнания.</RitualBanishMessage>
+  <RitualCalmDownAllMessage>Драконов успокоено: {COUNT}.</RitualCalmDownAllMessage>
+  <RitualCalmDownMessage>{TARGET} успокаивается.</RitualCalmDownMessage>
+  <RitualConfirmationTitle>Предупреждение</RitualConfirmationTitle>
+  <RitualControlNeedsAllOffMessage>Драконы вновь начинают испытывать голод.</RitualControlNeedsAllOffMessage>
+  <RitualControlNeedsAllOnMessage>Таинственная сила утоляет голод драконов. Длительность: {DURATION}.</RitualControlNeedsAllOnMessage>
+  <RitualControlNeedsOffMessage>{TARGET} вновь начинает испытывать голод.</RitualControlNeedsOffMessage>
+  <RitualControlNeedsOnMessage>{TARGET}: голод утолён таинственной силой. Длительность: {DURATION}.</RitualControlNeedsOnMessage>
+  <RitualCooldownExpiry>Перезарядка закончится через {TIME}</RitualCooldownExpiry>
+  <RitualCoolingDown>Перезарядка.</RitualCoolingDown>
+  <RitualDurationExpiry>Действие закончится через {TIME}</RitualDurationExpiry>
+  <RitualGlobalLabelTargetCount>Целей: {COUNT}</RitualGlobalLabelTargetCount>
+  <RitualGlobalLabelTargetRange>Расстояние ~{DISTANCE} вне допустимого диапазона {RANGE}</RitualGlobalLabelTargetRange>
+  <RitualHediffRemoveAllMessage>Состояние «{HEDIFF}» устранено. Драконов: {COUNT}.</RitualHediffRemoveAllMessage>
+  <RitualHediffRemoveMessage>{TARGET}: состояние «{HEDIFF}» устранено.</RitualHediffRemoveMessage>
+  <RitualInsufficientFavor>Недостаточно благосклонности. Требуется ещё {NEEDED} очк.</RitualInsufficientFavor>
+  <RitualLabel>{LABEL} ({COST})</RitualLabel>
+  <RitualLabelCooldown>Перезарядка: {TIME}</RitualLabelCooldown>
+  <RitualLabelCost>Стоимость: {COST} очк. благосклонности.</RitualLabelCost>
+  <RitualLabelDuration>Длительность: {TIME}.</RitualLabelDuration>
+  <RitualLabelType>Тип: {TYPE}</RitualLabelType>
+  <RitualNoFactionMessage>Присвойте алтарь, прежде чем активировать ритуал.</RitualNoFactionMessage>
+  <RitualNoTargetMessage>В пределах досягаемости нет подходящих целей.</RitualNoTargetMessage>
+  <RitualOtherGoodwillChangeMessage>Отношения со всеми остальными фракциями изменятся на {GOODWILL}.</RitualOtherGoodwillChangeMessage>
+  <RitualTargetForeign>(цель за пределами карты)</RitualTargetForeign>
+  <RitualTargetLocal>(отдельная цель на карте)</RitualTargetLocal>
+  <RitualTargetMap>(вся карта)</RitualTargetMap>
+  <RitualTargetWorld>(цель на карте мира)</RitualTargetWorld>
+  <RitualTargetedGoodwillChangeMessage>Отношения с фракцией «{FACTION}» изменятся на {GOODWILL}.</RitualTargetedGoodwillChangeMessage>
+  <RitualTypeInstant>Мгновенный эффект</RitualTypeInstant>
+  <RitualTypeTicking>Продолжительный эффект</RitualTypeTicking>
+  <RitualWardOffMessage>Колония больше не защищена от драконьей ярости.</RitualWardOffMessage>
+  <RitualWardOnMessage>Колония защищена от драконьей ярости. Длительность: {DURATION}.</RitualWardOnMessage>
+  <Setting_Compatibility>Патчи совместимости</Setting_Compatibility>
+  <Setting_Compatibility_ARA_VerbCheck_Description>Обнаруживает старый префикс-патч ARA__VerbCheck_Patch из Alpha Animals и заменяет его более совместимой версией.
+
+В актуальном Alpha Animals эта замена уже сделана. Патч сохранён для других модов, которые всё ещё используют старую версию.</Setting_Compatibility_ARA_VerbCheck_Description>
+  <Setting_Compatibility_ARA_VerbCheck_Title>[Alpha Animals, старая версия] Заменить старый патч VerbCheck</Setting_Compatibility_ARA_VerbCheck_Title>
+  <Setting_Compatibility_HFM_Range_Description>Учитывать атаки способностей при отправке на охоту.</Setting_Compatibility_HFM_Range_Description>
+  <Setting_Compatibility_HFM_Range_Title>[Hunt For Me] Применять способности</Setting_Compatibility_HFM_Range_Title>
+  <Setting_Compatibility_KFM_Range_Description>Учитывать атаки способностей при отправке на убийство.</Setting_Compatibility_KFM_Range_Description>
+  <Setting_Compatibility_KFM_Range_Title>[Kill For Me] Применять способности</Setting_Compatibility_KFM_Range_Title>
+  <Setting_Compatibility_Warning>Изменения вступят в силу после перезапуска игры.</Setting_Compatibility_Warning>
+  <Setting_Deselect>Снять весь выбор</Setting_Deselect>
+  <Setting_EventSpawn>События</Setting_EventSpawn>
+  <Setting_EventSpawn_Description>Определяет, может ли произойти это событие.</Setting_EventSpawn_Description>
+  <Setting_EventSpawn_Title>Разрешить событие: {0}</Setting_EventSpawn_Title>
+  <Setting_FightingJobs>Совместимость: боевые задания</Setting_FightingJobs>
+  <Setting_FightingJobs_Add>Добавить задание (JobDef)</Setting_FightingJobs_Add>
+  <Setting_FightingJobs_Note>Часть функций зависит от того, считается ли текущее задание пешки боевым.
+Если задание из другого мода заставляет дракона сражаться, автору мода следует учесть его в PawnUtility.IsFighting(); также задание можно добавить в этот список совместимости.</Setting_FightingJobs_Note>
+  <Setting_FightingJobs_Remove>Удалить</Setting_FightingJobs_Remove>
+  <Setting_Reset>Сбросить всё</Setting_Reset>
+  <Setting_Select>Выбрать всё</Setting_Select>
+  <Setting_SpawnsNamed>Появление с именами</Setting_SpawnsNamed>
+  <Setting_SpawnsNamed_Title>Шанс появления с именем ({0}): {1}%</Setting_SpawnsNamed_Title>
+  <Setting_WildSpawn>Дикие драконы</Setting_WildSpawn>
+  <Setting_WildSpawn_Description>Разрешить появление диких животных «{0}» в подходящих биомах.</Setting_WildSpawn_Description>
+  <Setting_WildSpawn_Title>Появление в дикой природе: {0}</Setting_WildSpawn_Title>
+  <Settings_DragonCategory>Dragons Descent</Settings_DragonCategory>
+</LanguageData>

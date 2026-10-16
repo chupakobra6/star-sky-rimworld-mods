@@ -1,0 +1,113 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AgeSickness.description>Лёгкое недомогание, вызванное искусственным старением под действием препарата. Обычно проходит само менее чем за два дня.</AgeSickness.description>
+  <AgeSickness.label>недомогание от старения</AgeSickness.label>
+  <AgeSickness.labelNoun>недомогание после приёма лунного камня</AgeSickness.labelNoun>
+  <AgeSickness.stages.mild.label>лёгкое</AgeSickness.stages.mild.label>
+  <AgeSickness.stages.moderate.label>среднее</AgeSickness.stages.moderate.label>
+  <AgeSickness.stages.severe.label>тяжёлое</AgeSickness.stages.severe.label>
+  <Concussion.description>Усиливающееся сотрясение мозга.</Concussion.description>
+  <Concussion.label>сотрясение мозга</Concussion.label>
+  <Concussion.labelNoun>сотрясение мозга</Concussion.labelNoun>
+  <Concussion.stages.extreme.label>крайнее</Concussion.stages.extreme.label>
+  <Concussion.stages.major.label>сильное</Concussion.stages.major.label>
+  <Concussion.stages.mild.label>лёгкое</Concussion.stages.mild.label>
+  <Concussion.stages.moderate.label>среднее</Concussion.stages.moderate.label>
+  <Concussion.stages.severe.label>тяжёлое</Concussion.stages.severe.label>
+  <DD_AcidBuildup.description>Кислота, попавшая на тело, ещё долго после атаки продолжает наносить ожоги.</DD_AcidBuildup.description>
+  <DD_AcidBuildup.label>кислотный ожог</DD_AcidBuildup.label>
+  <DD_AcidBuildup.stages.minor_receiving_burns.label>лёгкий, ожоги продолжаются</DD_AcidBuildup.stages.minor_receiving_burns.label>
+  <DD_AcidBuildup.stages.moderate_receiving_burns.label>средний, ожоги продолжаются</DD_AcidBuildup.stages.moderate_receiving_burns.label>
+  <DD_AcidBuildup.stages.serious_receiving_burns.label>серьёзный, ожоги продолжаются</DD_AcidBuildup.stages.serious_receiving_burns.label>
+  <DraconicFerocity_Female.description>Дракон доведён до предела. Пока его не трогают, он ещё владеет собой, но малейшая провокация приведёт к неистовству. Крайне опасен на протяжении нескольких недель.
+Его непрерывные крики действуют и на других драконов поблизости.</DraconicFerocity_Female.description>
+  <DraconicFerocity_Female.label>ярость</DraconicFerocity_Female.label>
+  <DraconicFerocity_Female.labelNoun>ярость</DraconicFerocity_Female.labelNoun>
+  <DraconicFerocity_Female.labelNounPretty>ярость (самка)</DraconicFerocity_Female.labelNounPretty>
+  <DraconicFerocity_Male.description>Дракон доведён до предела. Пока его не трогают, он ещё владеет собой, но малейшая провокация приведёт к неистовству. Крайне опасен на протяжении нескольких недель.
+Его непрерывные крики действуют и на других драконов поблизости.</DraconicFerocity_Male.description>
+  <DraconicFerocity_Male.label>ярость</DraconicFerocity_Male.label>
+  <DraconicFerocity_Male.labelNoun>ярость</DraconicFerocity_Male.labelNoun>
+  <DraconicFerocity_Male.labelNounPretty>ярость (самец)</DraconicFerocity_Male.labelNounPretty>
+  <DraconicGrowth.description>Боль и беспокойство, вызванные ростом.</DraconicGrowth.description>
+  <DraconicGrowth.label>боли роста</DraconicGrowth.label>
+  <DraconicGrowth.labelNoun>боли роста</DraconicGrowth.labelNoun>
+  <DraconicGrowth.stages.dull.label>ноющие</DraconicGrowth.stages.dull.label>
+  <DraconicGrowth.stages.intense.label>сильные</DraconicGrowth.stages.intense.label>
+  <DraconicGrowth.stages.light.label>слабые</DraconicGrowth.stages.light.label>
+  <DraconicGrowth.stages.starting.label>начальные</DraconicGrowth.stages.starting.label>
+  <DraconicGrowth.stages.unbearable.label>невыносимые</DraconicGrowth.stages.unbearable.label>
+  <DraconicPackFerocity_Female.description>Дракон на взводе из-за обезумевших криков сородича. Крайне опасен, пока крики не стихнут.</DraconicPackFerocity_Female.description>
+  <DraconicPackFerocity_Female.label>ярость стаи</DraconicPackFerocity_Female.label>
+  <DraconicPackFerocity_Female.labelNoun>ярость</DraconicPackFerocity_Female.labelNoun>
+  <DraconicPackFerocity_Female.labelNounPretty>ярость стаи (самка)</DraconicPackFerocity_Female.labelNounPretty>
+  <DraconicPackFerocity_Male.description>Дракон на взводе из-за обезумевших криков сородича. Крайне опасен, пока крики не стихнут.</DraconicPackFerocity_Male.description>
+  <DraconicPackFerocity_Male.label>ярость стаи</DraconicPackFerocity_Male.label>
+  <DraconicPackFerocity_Male.labelNoun>ярость</DraconicPackFerocity_Male.labelNoun>
+  <DraconicPackFerocity_Male.labelNounPretty>ярость стаи (самец)</DraconicPackFerocity_Male.labelNounPretty>
+  <DraconicRegeneration.description>Ускоренное восстановление тканей с течением времени.</DraconicRegeneration.description>
+  <DraconicRegeneration.label>регенерация</DraconicRegeneration.label>
+  <DraconicRegeneration.labelNoun>ускоренная регенерация</DraconicRegeneration.labelNoun>
+  <DraconicRegeneration.stages.active.label>активная</DraconicRegeneration.stages.active.label>
+  <DraconicRegeneration.stages.inactive.label>не действует</DraconicRegeneration.stages.inactive.label>
+  <DraconicRegeneration.stages.passive.label>пассивная</DraconicRegeneration.stages.passive.label>
+  <DragonBloodLoss.description>Уменьшение объёма крови в организме. Небольшая кровопотеря слабо влияет на самочувствие, но при сильной нарушается снабжение тканей кислородом и пострадавший теряет способность двигаться. Крайняя кровопотеря приводит к смерти.
+Организм постепенно восполняет запас крови, и кровопотеря проходит сама.</DragonBloodLoss.description>
+  <DragonBloodLoss.label>кровопотеря</DragonBloodLoss.label>
+  <DragonBloodLoss.stages.extreme.label>крайняя</DragonBloodLoss.stages.extreme.label>
+  <DragonBloodLoss.stages.minor-0.label>небольшая</DragonBloodLoss.stages.minor-0.label>
+  <DragonBloodLoss.stages.minor-1.label>небольшая</DragonBloodLoss.stages.minor-1.label>
+  <DragonBloodLoss.stages.moderate.label>средняя</DragonBloodLoss.stages.moderate.label>
+  <DragonBloodLoss.stages.severe.label>сильная</DragonBloodLoss.stages.severe.label>
+  <DragonStandard.description>Старение дракона.</DragonStandard.description>
+  <DragonStandard.label>дракон</DragonStandard.label>
+  <DragonsBloodAddiction.description>Физическая зависимость от драконьей крови. Из-за её длительного присутствия организм перестроился, и теперь она нужна ему, особенно мозгу, для нормальной работы.
+Без регулярных доз начинается ломка. Однако длительное воздержание заставит организм возобновить нормальную фильтрацию и выработку крови и постепенно избавиться от чужеродной примеси.</DragonsBloodAddiction.description>
+  <DragonsBloodAddiction.label>зависимость от крови дракона</DragonsBloodAddiction.label>
+  <DragonsBloodAddiction.stages.withdrawal.label>ломка</DragonsBloodAddiction.stages.withdrawal.label>
+  <DragonsBloodHigh.description>Драконья кровь постепенно вытесняет обычную кровь носителя, повышая защиту и силу атак и давая почти полную невосприимчивость к пламени.</DragonsBloodHigh.description>
+  <DragonsBloodHigh.label>под действием крови дракона</DragonsBloodHigh.label>
+  <DragonsBloodHigh.labelNoun>действие крови дракона</DragonsBloodHigh.labelNoun>
+  <DragonsBloodTolerance.description>Приобретённая устойчивость к действию драконьей крови. Чем сильнее привыкание, тем больше крови нужно для прежнего эффекта.</DragonsBloodTolerance.description>
+  <DragonsBloodTolerance.label>привыкание к крови дракона</DragonsBloodTolerance.label>
+  <DragonsBloodTolerance.stages.large.label>сильное</DragonsBloodTolerance.stages.large.label>
+  <DragonsBloodTolerance.stages.massive.label>очень сильное</DragonsBloodTolerance.stages.massive.label>
+  <DragonsBloodTolerance.stages.small.label>слабое</DragonsBloodTolerance.stages.small.label>
+  <Filthy_Wound.comps.HediffComp_GetsPermanent.permanentLabel>шрам от колотой раны</Filthy_Wound.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Filthy_Wound.comps.HediffComp_TendDuration.labelSolidTendedWell>вправлено</Filthy_Wound.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <Filthy_Wound.comps.HediffComp_TendDuration.labelTendedWell>перевязано</Filthy_Wound.comps.HediffComp_TendDuration.labelTendedWell>
+  <Filthy_Wound.comps.HediffComp_TendDuration.labelTendedWellInner>зашито</Filthy_Wound.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <Filthy_Wound.description>Загрязнённая рана с высокой вероятностью инфекции.</Filthy_Wound.description>
+  <Filthy_Wound.injuryProps.destroyedLabel>Отсечено</Filthy_Wound.injuryProps.destroyedLabel>
+  <Filthy_Wound.injuryProps.destroyedOutLabel>Вырезано</Filthy_Wound.injuryProps.destroyedOutLabel>
+  <Filthy_Wound.label>загрязнённая рана</Filthy_Wound.label>
+  <Filthy_Wound.labelNoun>загрязнённая рана</Filthy_Wound.labelNoun>
+  <Filthy_Wound.labelNounPretty>{0}: {1}</Filthy_Wound.labelNounPretty>
+  <FlameNullification.description>Драконья кровь воссоздаёт тонкий барьер, который обычно покрывает чешую дракона. Этот барьер блокирует или ослабляет любое пламя.</FlameNullification.description>
+  <FlameNullification.label>подавление пламени</FlameNullification.label>
+  <FlameNullification.labelNoun>барьер подавления пламени</FlameNullification.labelNoun>
+  <Lava.comps.HediffComp_GetsPermanent.permanentLabel>шрам от ожога</Lava.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Lava.comps.HediffComp_TendDuration.labelSolidTendedWell>обработано</Lava.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <Lava.comps.HediffComp_TendDuration.labelTendedWell>обработано</Lava.comps.HediffComp_TendDuration.labelTendedWell>
+  <Lava.comps.HediffComp_TendDuration.labelTendedWellInner>обработано</Lava.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <Lava.description>Расплавленная лава.</Lava.description>
+  <Lava.injuryProps.destroyedLabel>Расплавлено</Lava.injuryProps.destroyedLabel>
+  <Lava.label>лава</Lava.label>
+  <Lava.labelNoun>ожог лавой</Lava.labelNoun>
+  <Lava.labelNounPretty>{0}: {1}</Lava.labelNounPretty>
+  <StrongDraconicDrug.description>Ускоренное старение с течением времени.</StrongDraconicDrug.description>
+  <StrongDraconicDrug.label>драконье старение</StrongDraconicDrug.label>
+  <StrongDraconicDrug.labelNoun>ускоренное старение</StrongDraconicDrug.labelNoun>
+  <Toxic_Bite.description>Отравление после ядовитого укуса.</Toxic_Bite.description>
+  <Toxic_Bite.label>отравление токсинами</Toxic_Bite.label>
+  <Toxic_Bite.labelNoun>ядовитый укус</Toxic_Bite.labelNoun>
+  <Toxic_Bite.stages.extreme.label>крайнее</Toxic_Bite.stages.extreme.label>
+  <Toxic_Bite.stages.initial-0.label>незаметное</Toxic_Bite.stages.initial-0.label>
+  <Toxic_Bite.stages.initial-1.label>начальное</Toxic_Bite.stages.initial-1.label>
+  <Toxic_Bite.stages.minor.label>лёгкое</Toxic_Bite.stages.minor.label>
+  <Toxic_Bite.stages.moderate.label>среднее</Toxic_Bite.stages.moderate.label>
+  <Toxic_Bite.stages.serious.label>серьёзное</Toxic_Bite.stages.serious.label>
+  <WeakDraconicDrug.description>Ускоренное старение с течением времени.</WeakDraconicDrug.description>
+  <WeakDraconicDrug.label>драконье старение</WeakDraconicDrug.label>
+  <WeakDraconicDrug.labelNoun>ускоренное старение</WeakDraconicDrug.labelNoun>
+</LanguageData>

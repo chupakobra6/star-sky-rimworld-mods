@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Administer_DraconicAmbrosia.jobString>Даёт драконью амброзию.</Administer_DraconicAmbrosia.jobString>
+  <Administer_DraconicAmbrosia.label>дать драконью амброзию</Administer_DraconicAmbrosia.label>
+  <Administer_DragonsBlood.jobString>Даёт драконью кровь.</Administer_DragonsBlood.jobString>
+  <Administer_DragonsBlood.label>дать драконью кровь</Administer_DragonsBlood.label>
+  <Administer_MoonStone.jobString>Даёт лунный камень.</Administer_MoonStone.jobString>
+  <Administer_MoonStone.label>дать лунный камень</Administer_MoonStone.label>
+  <HaulIncubateDragonEgg.description>Доставить оплодотворённое драконье яйцо в инкубатор.</HaulIncubateDragonEgg.description>
+  <HaulIncubateDragonEgg.jobString>Загружает инкубатор.</HaulIncubateDragonEgg.jobString>
+  <HaulIncubateDragonEgg.label>загрузить драконье яйцо</HaulIncubateDragonEgg.label>
+  <Make_ChemfuelFromHardScale.description>Получает партию химтоплива путём извлечения и конденсации масел из твёрдой драконьей чешуи.</Make_ChemfuelFromHardScale.description>
+  <Make_ChemfuelFromHardScale.jobString>Перерабатывает твёрдую драконью чешую в химтопливо.</Make_ChemfuelFromHardScale.jobString>
+  <Make_ChemfuelFromHardScale.label>переработать твёрдую драконью чешую в химтопливо</Make_ChemfuelFromHardScale.label>
+  <Ritual_Large.description>Провести ритуал. Даёт 3 очка благосклонности.</Ritual_Large.description>
+  <Ritual_Large.jobString>Проводит ритуал.</Ritual_Large.jobString>
+  <Ritual_Large.label>большой ритуал</Ritual_Large.label>
+  <Ritual_Major.description>Провести великий ритуал. Даёт 5 очков благосклонности.</Ritual_Major.description>
+  <Ritual_Major.jobString>Проводит великий ритуал.</Ritual_Major.jobString>
+  <Ritual_Major.label>великий ритуал</Ritual_Major.label>
+  <Ritual_Moderate.description>Провести ритуал. Даёт 2 очка благосклонности.</Ritual_Moderate.description>
+  <Ritual_Moderate.jobString>Проводит ритуал.</Ritual_Moderate.jobString>
+  <Ritual_Moderate.label>средний ритуал</Ritual_Moderate.label>
+  <Ritual_Weak.description>Провести ритуал. Даёт 1 очко благосклонности.</Ritual_Weak.description>
+  <Ritual_Weak.jobString>Проводит ритуал.</Ritual_Weak.jobString>
+  <Ritual_Weak.label>слабый ритуал</Ritual_Weak.label>
+</LanguageData>

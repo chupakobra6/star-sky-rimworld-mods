@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <DamageDealtAnimals.description>Количество урона, нанесённого животным.</DamageDealtAnimals.description>
+  <DamageDealtAnimals.label>нанесённый урон животным</DamageDealtAnimals.label>
+  <DamageDealtHumanlike.description>Количество урона, нанесённого гуманоидам.</DamageDealtHumanlike.description>
+  <DamageDealtHumanlike.label>нанесённый урон гуманоидам</DamageDealtHumanlike.label>
+  <DamageDealtMechanoids.description>Количество урона, нанесённого механоидам.</DamageDealtMechanoids.description>
+  <DamageDealtMechanoids.label>нанесённый урон механоидам</DamageDealtMechanoids.label>
+  <DamageTakenAnimals.description>Количество урона, полученного от животных.</DamageTakenAnimals.description>
+  <DamageTakenAnimals.label>урон от животных</DamageTakenAnimals.label>
+  <DamageTakenHumanlike.description>Количество урона, полученного от гуманоидов.</DamageTakenHumanlike.description>
+  <DamageTakenHumanlike.label>урон от гуманоидов</DamageTakenHumanlike.label>
+  <DamageTakenMechanoids.description>Количество урона, полученного от механоидов.</DamageTakenMechanoids.description>
+  <DamageTakenMechanoids.label>урон от механоидов</DamageTakenMechanoids.label>
+</LanguageData>
