@@ -642,9 +642,11 @@ RimWorld 1.6 · Версия 1.0.0
 
 [![Moyo2.0-Blood stained business — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/moyo-2-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3820544683)
 
-RimWorld 1.6 · Версия 1.0.0
+RimWorld 1.6 · Версия 1.1.0
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3820544683) · [Исходники и руководство](../mods/RU-3756132017/README.md) · [История изменений](../mods/RU-3756132017/CHANGELOG.md) · [Лицензия](../mods/RU-3756132017/LICENSE) · [Источники и уведомления](../mods/RU-3756132017/NOTICES.md)
+
+[![Другие моды в Мастерской Steam](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-ru.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)
 
 ## RimtoChess — русский перевод
 

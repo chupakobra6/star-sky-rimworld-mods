@@ -1,39 +1,39 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <Moyo2_DeepblueMetabolism.description>У носителей этого гена весь вырабатываемый организмом глубоксин расходуется на обмен веществ.</Moyo2_DeepblueMetabolism.description>
-  <Moyo2_DeepblueMetabolism.label>усиленный глубоксиновый обмен</Moyo2_DeepblueMetabolism.label>
-  <Moyo2_DeepblueMetabolism.labelShortAdj>глубоксиновый обмен</Moyo2_DeepblueMetabolism.labelShortAdj>
-  <Moyo2_Glow_Blue.description>Мойо с этим геном обладают синей биолюминесценцией.</Moyo2_Glow_Blue.description>
+  <Moyo2_DeepblueMetabolism.description>Носители этого гена расходуют весь вырабатываемый организмом лазурин на обмен веществ.</Moyo2_DeepblueMetabolism.description>
+  <Moyo2_DeepblueMetabolism.label>ускоренный обмен лазурина</Moyo2_DeepblueMetabolism.label>
+  <Moyo2_DeepblueMetabolism.labelShortAdj>обмен лазурина</Moyo2_DeepblueMetabolism.labelShortAdj>
+  <Moyo2_Glow_Blue.description>У мойо с этим геном биолюминесценция синего цвета.</Moyo2_Glow_Blue.description>
   <Moyo2_Glow_Blue.label>синяя биолюминесценция мойо</Moyo2_Glow_Blue.label>
-  <Moyo2_Glow_Blue.labelShortAdj>синее свечение</Moyo2_Glow_Blue.labelShortAdj>
-  <Moyo2_Glow_Blue.symbolPack.prefixSymbols.0.symbol>сине</Moyo2_Glow_Blue.symbolPack.prefixSymbols.0.symbol>
-  <Moyo2_Glow_Purple.description>Мойо с этим геном обладают пурпурной биолюминесценцией.</Moyo2_Glow_Purple.description>
+  <Moyo2_Glow_Blue.labelShortAdj>синяя биолюминесценция</Moyo2_Glow_Blue.labelShortAdj>
+  <Moyo2_Glow_Blue.symbolPack.prefixSymbols.0.symbol>синий</Moyo2_Glow_Blue.symbolPack.prefixSymbols.0.symbol>
+  <Moyo2_Glow_Purple.description>У мойо с этим геном биолюминесценция пурпурного цвета.</Moyo2_Glow_Purple.description>
   <Moyo2_Glow_Purple.label>пурпурная биолюминесценция мойо</Moyo2_Glow_Purple.label>
-  <Moyo2_Glow_Purple.labelShortAdj>пурпурное свечение</Moyo2_Glow_Purple.labelShortAdj>
-  <Moyo2_Glow_Purple.symbolPack.prefixSymbols.0.symbol>пурпурно</Moyo2_Glow_Purple.symbolPack.prefixSymbols.0.symbol>
-  <Moyo2_Glow_Violet.description>Мойо с этим геном обладают фиолетовой биолюминесценцией.</Moyo2_Glow_Violet.description>
+  <Moyo2_Glow_Purple.labelShortAdj>пурпурная биолюминесценция</Moyo2_Glow_Purple.labelShortAdj>
+  <Moyo2_Glow_Purple.symbolPack.prefixSymbols.0.symbol>пурпурный</Moyo2_Glow_Purple.symbolPack.prefixSymbols.0.symbol>
+  <Moyo2_Glow_Violet.description>У мойо с этим геном биолюминесценция фиолетового цвета.</Moyo2_Glow_Violet.description>
   <Moyo2_Glow_Violet.label>фиолетовая биолюминесценция мойо</Moyo2_Glow_Violet.label>
-  <Moyo2_Glow_Violet.labelShortAdj>фиолетовое свечение</Moyo2_Glow_Violet.labelShortAdj>
-  <Moyo2_Glow_Violet.symbolPack.prefixSymbols.0.symbol>фиолетово</Moyo2_Glow_Violet.symbolPack.prefixSymbols.0.symbol>
+  <Moyo2_Glow_Violet.labelShortAdj>фиолетовая биолюминесценция</Moyo2_Glow_Violet.labelShortAdj>
+  <Moyo2_Glow_Violet.symbolPack.prefixSymbols.0.symbol>фиолетовый</Moyo2_Glow_Violet.symbolPack.prefixSymbols.0.symbol>
   <Moyo2_Hair_ChemskinBlack.label>чёрные волосы химостойких мойо</Moyo2_Hair_ChemskinBlack.label>
-  <Moyo2_MoveSpeed_Slug.description>Носители этого гена передвигаются гораздо медленнее обычного.</Moyo2_MoveSpeed_Slug.description>
-  <Moyo2_MoveSpeed_Slug.label>крайне медленный бег</Moyo2_MoveSpeed_Slug.label>
-  <Moyo2_MoveSpeed_Slug.labelShortAdj>медлительный</Moyo2_MoveSpeed_Slug.labelShortAdj>
-  <Moyo2_MoveSpeed_Slug.symbolPack.prefixSymbols.0.symbol>слизне</Moyo2_MoveSpeed_Slug.symbolPack.prefixSymbols.0.symbol>
+  <Moyo2_MoveSpeed_Slug.description>Носители этого гена двигаются гораздо медленнее обычного.</Moyo2_MoveSpeed_Slug.description>
+  <Moyo2_MoveSpeed_Slug.label>очень медленный бег</Moyo2_MoveSpeed_Slug.label>
+  <Moyo2_MoveSpeed_Slug.labelShortAdj>нерасторопный</Moyo2_MoveSpeed_Slug.labelShortAdj>
+  <Moyo2_MoveSpeed_Slug.symbolPack.prefixSymbols.0.symbol>слизень</Moyo2_MoveSpeed_Slug.symbolPack.prefixSymbols.0.symbol>
   <Moyo2_MoveSpeed_Slug.symbolPack.suffixSymbols.0.symbol>слизень</Moyo2_MoveSpeed_Slug.symbolPack.suffixSymbols.0.symbol>
-  <Moyo2_Skin_Chemskin.description>Мойо с этим геном имеют рисунок кожи, характерный для химостойких мойо.</Moyo2_Skin_Chemskin.description>
-  <Moyo2_Skin_Chemskin.label>рисунок кожи химостойких мойо</Moyo2_Skin_Chemskin.label>
-  <Moyo2_Skin_Chemskin.labelShortAdj>химостойкий рисунок</Moyo2_Skin_Chemskin.labelShortAdj>
-  <Moyo2_Skin_Chemskin.symbolPack.prefixSymbols.0.symbol>химо</Moyo2_Skin_Chemskin.symbolPack.prefixSymbols.0.symbol>
-  <Moyo2_Skin_Chemskin.symbolPack.suffixSymbols.0.symbol>химокож</Moyo2_Skin_Chemskin.symbolPack.suffixSymbols.0.symbol>
-  <Moyo2_Skin_Depthborn.description>Мойо с этим геном имеют рисунок кожи, характерный для глубинных мойо.</Moyo2_Skin_Depthborn.description>
-  <Moyo2_Skin_Depthborn.label>рисунок кожи глубинных мойо</Moyo2_Skin_Depthborn.label>
-  <Moyo2_Skin_Depthborn.labelShortAdj>глубинный рисунок</Moyo2_Skin_Depthborn.labelShortAdj>
-  <Moyo2_Skin_Depthborn.symbolPack.prefixSymbols.0.symbol>глубино</Moyo2_Skin_Depthborn.symbolPack.prefixSymbols.0.symbol>
-  <Moyo2_Skin_Depthborn.symbolPack.suffixSymbols.0.symbol>глубинник</Moyo2_Skin_Depthborn.symbolPack.suffixSymbols.0.symbol>
+  <Moyo2_Skin_Chemskin.description>У мойо с этим геном на коже появляется узор химостойких мойо.</Moyo2_Skin_Chemskin.description>
+  <Moyo2_Skin_Chemskin.label>кожный узор химостойких мойо</Moyo2_Skin_Chemskin.label>
+  <Moyo2_Skin_Chemskin.labelShortAdj>узор химостойких мойо</Moyo2_Skin_Chemskin.labelShortAdj>
+  <Moyo2_Skin_Chemskin.symbolPack.prefixSymbols.0.symbol>химостойкий</Moyo2_Skin_Chemskin.symbolPack.prefixSymbols.0.symbol>
+  <Moyo2_Skin_Chemskin.symbolPack.suffixSymbols.0.symbol>химостойкий</Moyo2_Skin_Chemskin.symbolPack.suffixSymbols.0.symbol>
+  <Moyo2_Skin_Depthborn.description>У мойо с этим геном на коже появляется узор глубинных мойо.</Moyo2_Skin_Depthborn.description>
+  <Moyo2_Skin_Depthborn.label>кожный узор глубинных мойо</Moyo2_Skin_Depthborn.label>
+  <Moyo2_Skin_Depthborn.labelShortAdj>узор глубинных мойо</Moyo2_Skin_Depthborn.labelShortAdj>
+  <Moyo2_Skin_Depthborn.symbolPack.prefixSymbols.0.symbol>глубинный</Moyo2_Skin_Depthborn.symbolPack.prefixSymbols.0.symbol>
+  <Moyo2_Skin_Depthborn.symbolPack.suffixSymbols.0.symbol>глубинный</Moyo2_Skin_Depthborn.symbolPack.suffixSymbols.0.symbol>
   <Moyo2_WorkSpeed_Fast.description>Носители этого гена работают быстрее обычного.</Moyo2_WorkSpeed_Fast.description>
-  <Moyo2_WorkSpeed_Fast.label>эффективная работа</Moyo2_WorkSpeed_Fast.label>
-  <Moyo2_WorkSpeed_Fast.labelShortAdj>эффективный</Moyo2_WorkSpeed_Fast.labelShortAdj>
+  <Moyo2_WorkSpeed_Fast.label>быстрая работа</Moyo2_WorkSpeed_Fast.label>
+  <Moyo2_WorkSpeed_Fast.labelShortAdj>расторопный</Moyo2_WorkSpeed_Fast.labelShortAdj>
   <Moyo2_WorkSpeed_Slow.description>Носители этого гена работают медленнее обычного.</Moyo2_WorkSpeed_Slow.description>
   <Moyo2_WorkSpeed_Slow.label>неторопливая работа</Moyo2_WorkSpeed_Slow.label>
   <Moyo2_WorkSpeed_Slow.labelShortAdj>неторопливый</Moyo2_WorkSpeed_Slow.labelShortAdj>

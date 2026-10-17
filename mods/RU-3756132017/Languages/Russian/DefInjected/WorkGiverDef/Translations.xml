@@ -1,12 +1,12 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <Moyo2_ExtractDeepBlue_Work.gerund>забирает кровь</Moyo2_ExtractDeepBlue_Work.gerund>
+  <Moyo2_ExtractDeepBlue_Work.gerund>забор крови</Moyo2_ExtractDeepBlue_Work.gerund>
   <Moyo2_ExtractDeepBlue_Work.label>забирать кровь</Moyo2_ExtractDeepBlue_Work.label>
-  <Moyo2_ExtractDeepBlue_Work.verb>забрать кровь</Moyo2_ExtractDeepBlue_Work.verb>
-  <Moyo2_GrowFish.gerund>выращивает</Moyo2_GrowFish.gerund>
-  <Moyo2_GrowFish.label>выращивать рыбу</Moyo2_GrowFish.label>
-  <Moyo2_GrowFish.verb>вырастить</Moyo2_GrowFish.verb>
-  <Moyo2_TakeFish.gerund>забирает содержимое</Moyo2_TakeFish.gerund>
-  <Moyo2_TakeFish.label>забирать выращенную рыбу</Moyo2_TakeFish.label>
-  <Moyo2_TakeFish.verb>забрать</Moyo2_TakeFish.verb>
+  <Moyo2_ExtractDeepBlue_Work.verb>забирать кровь</Moyo2_ExtractDeepBlue_Work.verb>
+  <Moyo2_GrowFish.gerund>выращивание</Moyo2_GrowFish.gerund>
+  <Moyo2_GrowFish.label>Выращивать рыбу</Moyo2_GrowFish.label>
+  <Moyo2_GrowFish.verb>выращивать</Moyo2_GrowFish.verb>
+  <Moyo2_TakeFish.gerund>сбор из</Moyo2_TakeFish.gerund>
+  <Moyo2_TakeFish.label>Собирать выращенную рыбу</Moyo2_TakeFish.label>
+  <Moyo2_TakeFish.verb>собирать</Moyo2_TakeFish.verb>
 </LanguageData>

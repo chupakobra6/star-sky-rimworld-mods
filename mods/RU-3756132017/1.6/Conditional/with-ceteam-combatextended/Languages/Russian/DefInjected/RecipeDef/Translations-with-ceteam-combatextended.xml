@@ -1,27 +1,27 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <MakeMoyo2_Ammo_AbyssteelPile.description>Изготовить 60 глубостальных свай.</MakeMoyo2_Ammo_AbyssteelPile.description>
-  <MakeMoyo2_Ammo_AbyssteelPile.jobString>Изготавливает глубостальные сваи x60.</MakeMoyo2_Ammo_AbyssteelPile.jobString>
-  <MakeMoyo2_Ammo_AbyssteelPile.label>изготовить глубостальные сваи x60</MakeMoyo2_Ammo_AbyssteelPile.label>
-  <MakeMoyo2_Ammo_HeavyAbyssteelPile.description>Изготовить 30 тяжёлых глубостальных свай.</MakeMoyo2_Ammo_HeavyAbyssteelPile.description>
-  <MakeMoyo2_Ammo_HeavyAbyssteelPile.jobString>Изготавливает тяжёлые глубостальные сваи x30.</MakeMoyo2_Ammo_HeavyAbyssteelPile.jobString>
-  <MakeMoyo2_Ammo_HeavyAbyssteelPile.label>изготовить тяжёлые глубостальные сваи x30</MakeMoyo2_Ammo_HeavyAbyssteelPile.label>
-  <MakeMoyo2_Ammo_HeavyLaminarSlug.description>Изготовить 300 патронов с тяжёлыми ламинарными пулями.</MakeMoyo2_Ammo_HeavyLaminarSlug.description>
-  <MakeMoyo2_Ammo_HeavyLaminarSlug.jobString>Изготавливает патроны с тяжёлыми ламинарными пулями.</MakeMoyo2_Ammo_HeavyLaminarSlug.jobString>
-  <MakeMoyo2_Ammo_HeavyLaminarSlug.label>изготовить патроны с тяжёлыми ламинарными пулями x300</MakeMoyo2_Ammo_HeavyLaminarSlug.label>
-  <MakeMoyo2_Ammo_HeavyLaminarSpike.description>Изготовить 300 патронов с тяжёлыми ламинарными шипами.</MakeMoyo2_Ammo_HeavyLaminarSpike.description>
-  <MakeMoyo2_Ammo_HeavyLaminarSpike.jobString>Изготавливает патроны с тяжёлыми ламинарными шипами.</MakeMoyo2_Ammo_HeavyLaminarSpike.jobString>
-  <MakeMoyo2_Ammo_HeavyLaminarSpike.label>изготовить патроны с тяжёлыми ламинарными шипами x300</MakeMoyo2_Ammo_HeavyLaminarSpike.label>
+  <MakeMoyo2_Ammo_AbyssteelPile.description>Изготовить 60 свай из пучинной стали.</MakeMoyo2_Ammo_AbyssteelPile.description>
+  <MakeMoyo2_Ammo_AbyssteelPile.jobString>Изготавливает сваи из пучинной стали x60.</MakeMoyo2_Ammo_AbyssteelPile.jobString>
+  <MakeMoyo2_Ammo_AbyssteelPile.label>Изготовить сваи из пучинной стали x60</MakeMoyo2_Ammo_AbyssteelPile.label>
+  <MakeMoyo2_Ammo_HeavyAbyssteelPile.description>Изготовить 30 тяжёлых свай из пучинной стали.</MakeMoyo2_Ammo_HeavyAbyssteelPile.description>
+  <MakeMoyo2_Ammo_HeavyAbyssteelPile.jobString>Изготавливает тяжёлые сваи из пучинной стали x30.</MakeMoyo2_Ammo_HeavyAbyssteelPile.jobString>
+  <MakeMoyo2_Ammo_HeavyAbyssteelPile.label>Изготовить тяжёлые сваи из пучинной стали x30</MakeMoyo2_Ammo_HeavyAbyssteelPile.label>
+  <MakeMoyo2_Ammo_HeavyLaminarSlug.description>Изготовить 300 патронов с тяжёлым ламинарным снарядом.</MakeMoyo2_Ammo_HeavyLaminarSlug.description>
+  <MakeMoyo2_Ammo_HeavyLaminarSlug.jobString>Изготавливает патроны с тяжёлым ламинарным снарядом.</MakeMoyo2_Ammo_HeavyLaminarSlug.jobString>
+  <MakeMoyo2_Ammo_HeavyLaminarSlug.label>Изготовить патроны с тяжёлым ламинарным снарядом x300</MakeMoyo2_Ammo_HeavyLaminarSlug.label>
+  <MakeMoyo2_Ammo_HeavyLaminarSpike.description>Изготовить 300 патронов с тяжёлым ламинарным шипом.</MakeMoyo2_Ammo_HeavyLaminarSpike.description>
+  <MakeMoyo2_Ammo_HeavyLaminarSpike.jobString>Изготавливает патроны с тяжёлым ламинарным шипом.</MakeMoyo2_Ammo_HeavyLaminarSpike.jobString>
+  <MakeMoyo2_Ammo_HeavyLaminarSpike.label>Изготовить патроны с тяжёлым ламинарным шипом x300</MakeMoyo2_Ammo_HeavyLaminarSpike.label>
   <MakeMoyo2_Ammo_HeavySteelPile.description>Изготовить 30 тяжёлых стальных свай.</MakeMoyo2_Ammo_HeavySteelPile.description>
   <MakeMoyo2_Ammo_HeavySteelPile.jobString>Изготавливает тяжёлые стальные сваи x30.</MakeMoyo2_Ammo_HeavySteelPile.jobString>
-  <MakeMoyo2_Ammo_HeavySteelPile.label>изготовить тяжёлые стальные сваи x30</MakeMoyo2_Ammo_HeavySteelPile.label>
-  <MakeMoyo2_Ammo_LaminarSlug.description>Изготовить 500 патронов с ламинарными пулями.</MakeMoyo2_Ammo_LaminarSlug.description>
-  <MakeMoyo2_Ammo_LaminarSlug.jobString>Изготавливает патроны с ламинарными пулями.</MakeMoyo2_Ammo_LaminarSlug.jobString>
-  <MakeMoyo2_Ammo_LaminarSlug.label>изготовить патроны с ламинарными пулями x500</MakeMoyo2_Ammo_LaminarSlug.label>
-  <MakeMoyo2_Ammo_LaminarSpike.description>Изготовить 500 патронов с ламинарными шипами.</MakeMoyo2_Ammo_LaminarSpike.description>
-  <MakeMoyo2_Ammo_LaminarSpike.jobString>Изготавливает патроны с ламинарными шипами.</MakeMoyo2_Ammo_LaminarSpike.jobString>
-  <MakeMoyo2_Ammo_LaminarSpike.label>изготовить патроны с ламинарными шипами x500</MakeMoyo2_Ammo_LaminarSpike.label>
+  <MakeMoyo2_Ammo_HeavySteelPile.label>Изготовить тяжёлые стальные сваи x30</MakeMoyo2_Ammo_HeavySteelPile.label>
+  <MakeMoyo2_Ammo_LaminarSlug.description>Изготовить 500 патронов с ламинарным снарядом.</MakeMoyo2_Ammo_LaminarSlug.description>
+  <MakeMoyo2_Ammo_LaminarSlug.jobString>Изготавливает патроны с ламинарным снарядом.</MakeMoyo2_Ammo_LaminarSlug.jobString>
+  <MakeMoyo2_Ammo_LaminarSlug.label>Изготовить патроны с ламинарным снарядом x500</MakeMoyo2_Ammo_LaminarSlug.label>
+  <MakeMoyo2_Ammo_LaminarSpike.description>Изготовить 500 патронов с ламинарным шипом.</MakeMoyo2_Ammo_LaminarSpike.description>
+  <MakeMoyo2_Ammo_LaminarSpike.jobString>Изготавливает патроны с ламинарным шипом.</MakeMoyo2_Ammo_LaminarSpike.jobString>
+  <MakeMoyo2_Ammo_LaminarSpike.label>Изготовить патроны с ламинарным шипом x500</MakeMoyo2_Ammo_LaminarSpike.label>
   <MakeMoyo2_Ammo_SteelPile.description>Изготовить 60 стальных свай.</MakeMoyo2_Ammo_SteelPile.description>
   <MakeMoyo2_Ammo_SteelPile.jobString>Изготавливает стальные сваи x60.</MakeMoyo2_Ammo_SteelPile.jobString>
-  <MakeMoyo2_Ammo_SteelPile.label>изготовить стальные сваи x60</MakeMoyo2_Ammo_SteelPile.label>
+  <MakeMoyo2_Ammo_SteelPile.label>Изготовить стальные сваи x60</MakeMoyo2_Ammo_SteelPile.label>
 </LanguageData>

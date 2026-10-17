@@ -1,11 +1,11 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <Moyo2_CureAbasia_BlueMed.description>Особая медицинская операция, при которой ткани мозга насыщают большой дозой механитов. Они согласованно перестраивают нейронную активность, не повреждая мозг. Операция навсегда избавляет пациента от паралича, вызванного абазией, но требует большого количества глубомеда.</Moyo2_CureAbasia_BlueMed.description>
-  <Moyo2_CureAbasia_BlueMed.jobString>Вводит противоабазийные механиты.</Moyo2_CureAbasia_BlueMed.jobString>
-  <Moyo2_CureAbasia_BlueMed.label>ввести противоабазийные механиты (глубомед)</Moyo2_CureAbasia_BlueMed.label>
-  <Moyo2_CureAbasia_BlueMed.successfullyRemovedHediffMessage>{0}: паралитическая абазия успешно вылечена. Пациент: {1}.</Moyo2_CureAbasia_BlueMed.successfullyRemovedHediffMessage>
-  <Moyo2_CureBloodRot_BlueMed.description>Особая медицинская операция, при которой для лечения гнилокровия вводят большую дозу механитов-бактериофагов.</Moyo2_CureBloodRot_BlueMed.description>
-  <Moyo2_CureBloodRot_BlueMed.jobString>Лечит гнилокровие.</Moyo2_CureBloodRot_BlueMed.jobString>
-  <Moyo2_CureBloodRot_BlueMed.label>вылечить гнилокровие (глубомед)</Moyo2_CureBloodRot_BlueMed.label>
-  <Moyo2_CureBloodRot_BlueMed.successfullyRemovedHediffMessage>{0}: гнилокровие успешно вылечено. Пациент: {1}.</Moyo2_CureBloodRot_BlueMed.successfullyRemovedHediffMessage>
+  <Moyo2_CureAbasia_BlueMed.description>При этой особой операции в ткани мозга вводят огромную дозу механитов. Они согласованно перестраивают нервную деятельность, не повреждая мозг. Операция навсегда избавляет пациента от паралича, вызванного абазией, но требует большого количества лазуриновых лекарств.</Moyo2_CureAbasia_BlueMed.description>
+  <Moyo2_CureAbasia_BlueMed.jobString>Вводит механиты против абазии.</Moyo2_CureAbasia_BlueMed.jobString>
+  <Moyo2_CureAbasia_BlueMed.label>Ввести механиты против абазии (лазуриновое лекарство)</Moyo2_CureAbasia_BlueMed.label>
+  <Moyo2_CureAbasia_BlueMed.successfullyRemovedHediffMessage>{0}: лечение паралитической абазии завершено успешно. Пациент: {1}.</Moyo2_CureAbasia_BlueMed.successfullyRemovedHediffMessage>
+  <Moyo2_CureBloodRot_BlueMed.description>При этой особой операции гниение крови лечат введением огромной дозы механитов-бактериофагов.</Moyo2_CureBloodRot_BlueMed.description>
+  <Moyo2_CureBloodRot_BlueMed.jobString>Лечит гниение крови.</Moyo2_CureBloodRot_BlueMed.jobString>
+  <Moyo2_CureBloodRot_BlueMed.label>Вылечить гниение крови (лазуриновое лекарство)</Moyo2_CureBloodRot_BlueMed.label>
+  <Moyo2_CureBloodRot_BlueMed.successfullyRemovedHediffMessage>{0}: лечение гниения крови завершено успешно. Пациент: {1}.</Moyo2_CureBloodRot_BlueMed.successfullyRemovedHediffMessage>
 </LanguageData>

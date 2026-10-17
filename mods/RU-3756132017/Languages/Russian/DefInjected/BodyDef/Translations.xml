@@ -1,13 +1,13 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <Moyo2_Hexapod.corePart.parts.Moyo2_HexapodHeadShell.parts.left_first_sight_sensor.customLabel>первый левый зрительный сенсор</Moyo2_Hexapod.corePart.parts.Moyo2_HexapodHeadShell.parts.left_first_sight_sensor.customLabel>
-  <Moyo2_Hexapod.corePart.parts.Moyo2_HexapodHeadShell.parts.left_hearing_sensor.customLabel>левый слуховой сенсор</Moyo2_Hexapod.corePart.parts.Moyo2_HexapodHeadShell.parts.left_hearing_sensor.customLabel>
-  <Moyo2_Hexapod.corePart.parts.Moyo2_HexapodHeadShell.parts.left_second_sight_sensor.customLabel>второй левый зрительный сенсор</Moyo2_Hexapod.corePart.parts.Moyo2_HexapodHeadShell.parts.left_second_sight_sensor.customLabel>
-  <Moyo2_Hexapod.corePart.parts.Moyo2_HexapodHeadShell.parts.left_third_sight_sensor.customLabel>третий левый зрительный сенсор</Moyo2_Hexapod.corePart.parts.Moyo2_HexapodHeadShell.parts.left_third_sight_sensor.customLabel>
-  <Moyo2_Hexapod.corePart.parts.Moyo2_HexapodHeadShell.parts.right_first_sight_sensor.customLabel>первый правый зрительный сенсор</Moyo2_Hexapod.corePart.parts.Moyo2_HexapodHeadShell.parts.right_first_sight_sensor.customLabel>
-  <Moyo2_Hexapod.corePart.parts.Moyo2_HexapodHeadShell.parts.right_hearing_sensor.customLabel>правый слуховой сенсор</Moyo2_Hexapod.corePart.parts.Moyo2_HexapodHeadShell.parts.right_hearing_sensor.customLabel>
-  <Moyo2_Hexapod.corePart.parts.Moyo2_HexapodHeadShell.parts.right_second_sight_sensor.customLabel>второй правый зрительный сенсор</Moyo2_Hexapod.corePart.parts.Moyo2_HexapodHeadShell.parts.right_second_sight_sensor.customLabel>
-  <Moyo2_Hexapod.corePart.parts.Moyo2_HexapodHeadShell.parts.right_third_sight_sensor.customLabel>третий правый зрительный сенсор</Moyo2_Hexapod.corePart.parts.Moyo2_HexapodHeadShell.parts.right_third_sight_sensor.customLabel>
+  <Moyo2_Hexapod.corePart.parts.Moyo2_HexapodHeadShell.parts.left_first_sight_sensor.customLabel>первый левый зрительный датчик</Moyo2_Hexapod.corePart.parts.Moyo2_HexapodHeadShell.parts.left_first_sight_sensor.customLabel>
+  <Moyo2_Hexapod.corePart.parts.Moyo2_HexapodHeadShell.parts.left_hearing_sensor.customLabel>левый слуховой датчик</Moyo2_Hexapod.corePart.parts.Moyo2_HexapodHeadShell.parts.left_hearing_sensor.customLabel>
+  <Moyo2_Hexapod.corePart.parts.Moyo2_HexapodHeadShell.parts.left_second_sight_sensor.customLabel>второй левый зрительный датчик</Moyo2_Hexapod.corePart.parts.Moyo2_HexapodHeadShell.parts.left_second_sight_sensor.customLabel>
+  <Moyo2_Hexapod.corePart.parts.Moyo2_HexapodHeadShell.parts.left_third_sight_sensor.customLabel>третий левый зрительный датчик</Moyo2_Hexapod.corePart.parts.Moyo2_HexapodHeadShell.parts.left_third_sight_sensor.customLabel>
+  <Moyo2_Hexapod.corePart.parts.Moyo2_HexapodHeadShell.parts.right_first_sight_sensor.customLabel>первый правый зрительный датчик</Moyo2_Hexapod.corePart.parts.Moyo2_HexapodHeadShell.parts.right_first_sight_sensor.customLabel>
+  <Moyo2_Hexapod.corePart.parts.Moyo2_HexapodHeadShell.parts.right_hearing_sensor.customLabel>правый слуховой датчик</Moyo2_Hexapod.corePart.parts.Moyo2_HexapodHeadShell.parts.right_hearing_sensor.customLabel>
+  <Moyo2_Hexapod.corePart.parts.Moyo2_HexapodHeadShell.parts.right_second_sight_sensor.customLabel>второй правый зрительный датчик</Moyo2_Hexapod.corePart.parts.Moyo2_HexapodHeadShell.parts.right_second_sight_sensor.customLabel>
+  <Moyo2_Hexapod.corePart.parts.Moyo2_HexapodHeadShell.parts.right_third_sight_sensor.customLabel>третий правый зрительный датчик</Moyo2_Hexapod.corePart.parts.Moyo2_HexapodHeadShell.parts.right_third_sight_sensor.customLabel>
   <Moyo2_Hexapod.corePart.parts.fifth_tentacle_joint.customLabel>сустав пятого щупальца</Moyo2_Hexapod.corePart.parts.fifth_tentacle_joint.customLabel>
   <Moyo2_Hexapod.corePart.parts.fifth_tentacle_joint.parts.fifth_tentacle.customLabel>пятое щупальце</Moyo2_Hexapod.corePart.parts.fifth_tentacle_joint.parts.fifth_tentacle.customLabel>
   <Moyo2_Hexapod.corePart.parts.first_tentacle_joint.customLabel>сустав первого щупальца</Moyo2_Hexapod.corePart.parts.first_tentacle_joint.customLabel>
@@ -20,7 +20,7 @@
   <Moyo2_Hexapod.corePart.parts.sixth_tentacle_joint.parts.sixth_tentacle.customLabel>шестое щупальце</Moyo2_Hexapod.corePart.parts.sixth_tentacle_joint.parts.sixth_tentacle.customLabel>
   <Moyo2_Hexapod.corePart.parts.third_tentacle_joint.customLabel>сустав третьего щупальца</Moyo2_Hexapod.corePart.parts.third_tentacle_joint.customLabel>
   <Moyo2_Hexapod.corePart.parts.third_tentacle_joint.parts.third_tentacle.customLabel>третье щупальце</Moyo2_Hexapod.corePart.parts.third_tentacle_joint.parts.third_tentacle.customLabel>
-  <Moyo2_Hexapod.label>гексапод</Moyo2_Hexapod.label>
+  <Moyo2_Hexapod.label>шестилап</Moyo2_Hexapod.label>
   <Moyo2_MoyoBody.corePart.parts.Neck.parts.Head.parts.left_antennae.customLabel>левый усик</Moyo2_MoyoBody.corePart.parts.Neck.parts.Head.parts.left_antennae.customLabel>
   <Moyo2_MoyoBody.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>левый глаз</Moyo2_MoyoBody.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
   <Moyo2_MoyoBody.corePart.parts.Neck.parts.Head.parts.right_antennae.customLabel>правый усик</Moyo2_MoyoBody.corePart.parts.Neck.parts.Head.parts.right_antennae.customLabel>
@@ -71,15 +71,15 @@
   <Moyo2_MoyoBody.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>правая ключица</Moyo2_MoyoBody.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>
   <Moyo2_MoyoBody.corePart.parts.tail.customLabel>хвост</Moyo2_MoyoBody.corePart.parts.tail.customLabel>
   <Moyo2_MoyoBody.label>мойо</Moyo2_MoyoBody.label>
-  <Moyo2_Spheripod.corePart.parts.back_left_leg.customLabel>левая задняя нога</Moyo2_Spheripod.corePart.parts.back_left_leg.customLabel>
-  <Moyo2_Spheripod.corePart.parts.back_right_leg.customLabel>правая задняя нога</Moyo2_Spheripod.corePart.parts.back_right_leg.customLabel>
-  <Moyo2_Spheripod.corePart.parts.front_left_leg.customLabel>левая передняя нога</Moyo2_Spheripod.corePart.parts.front_left_leg.customLabel>
-  <Moyo2_Spheripod.corePart.parts.front_right_leg.customLabel>правая передняя нога</Moyo2_Spheripod.corePart.parts.front_right_leg.customLabel>
-  <Moyo2_Spheripod.corePart.parts.hearing_sensor.customLabel>слуховой сенсор</Moyo2_Spheripod.corePart.parts.hearing_sensor.customLabel>
+  <Moyo2_Spheripod.corePart.parts.back_left_leg.customLabel>задняя левая нога</Moyo2_Spheripod.corePart.parts.back_left_leg.customLabel>
+  <Moyo2_Spheripod.corePart.parts.back_right_leg.customLabel>задняя правая нога</Moyo2_Spheripod.corePart.parts.back_right_leg.customLabel>
+  <Moyo2_Spheripod.corePart.parts.front_left_leg.customLabel>передняя левая нога</Moyo2_Spheripod.corePart.parts.front_left_leg.customLabel>
+  <Moyo2_Spheripod.corePart.parts.front_right_leg.customLabel>передняя правая нога</Moyo2_Spheripod.corePart.parts.front_right_leg.customLabel>
+  <Moyo2_Spheripod.corePart.parts.hearing_sensor.customLabel>слуховой датчик</Moyo2_Spheripod.corePart.parts.hearing_sensor.customLabel>
   <Moyo2_Spheripod.corePart.parts.left_arm_joint.customLabel>сустав левой руки</Moyo2_Spheripod.corePart.parts.left_arm_joint.customLabel>
   <Moyo2_Spheripod.corePart.parts.left_arm_joint.parts.left_arm.customLabel>левая рука</Moyo2_Spheripod.corePart.parts.left_arm_joint.parts.left_arm.customLabel>
   <Moyo2_Spheripod.corePart.parts.right_arm_joint.customLabel>сустав правой руки</Moyo2_Spheripod.corePart.parts.right_arm_joint.customLabel>
   <Moyo2_Spheripod.corePart.parts.right_arm_joint.parts.right_arm.customLabel>правая рука</Moyo2_Spheripod.corePart.parts.right_arm_joint.parts.right_arm.customLabel>
-  <Moyo2_Spheripod.corePart.parts.sight_sensor.customLabel>зрительный сенсор</Moyo2_Spheripod.corePart.parts.sight_sensor.customLabel>
-  <Moyo2_Spheripod.label>сферипод</Moyo2_Spheripod.label>
+  <Moyo2_Spheripod.corePart.parts.sight_sensor.customLabel>зрительный датчик</Moyo2_Spheripod.corePart.parts.sight_sensor.customLabel>
+  <Moyo2_Spheripod.label>шароход</Moyo2_Spheripod.label>
 </LanguageData>

@@ -5,10 +5,10 @@
   <Moyo2_HexapodHeadShell.label>голова</Moyo2_HexapodHeadShell.label>
   <Moyo2_Hexapod_Tentacle.label>щупальце</Moyo2_Hexapod_Tentacle.label>
   <Moyo2_Hexapod_TentacleJoint.label>сустав щупальца</Moyo2_Hexapod_TentacleJoint.label>
-  <Moyo2_Spheripod_Arm.label>булава</Moyo2_Spheripod_Arm.label>
+  <Moyo2_Spheripod_Arm.label>дубина</Moyo2_Spheripod_Arm.label>
   <Moyo2_Spheripod_ArmJoint.label>сустав руки</Moyo2_Spheripod_ArmJoint.label>
-  <Moyo2_Spheripod_Body.label>тело сферипода</Moyo2_Spheripod_Body.label>
-  <Moyo2_Spheripod_Body.labelShort>тело сферипода</Moyo2_Spheripod_Body.labelShort>
+  <Moyo2_Spheripod_Body.label>тело шарохода</Moyo2_Spheripod_Body.label>
+  <Moyo2_Spheripod_Body.labelShort>тело шарохода</Moyo2_Spheripod_Body.labelShort>
   <Moyo2_Spheripod_Leg.label>нога</Moyo2_Spheripod_Leg.label>
   <Moyo2_Tail.label>хвост</Moyo2_Tail.label>
 </LanguageData>

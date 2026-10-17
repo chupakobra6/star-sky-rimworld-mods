@@ -1,106 +1,98 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <Moyo2_BloodLoss.description>Из-за кровопотери выработка глубоксина приостановилась.</Moyo2_BloodLoss.description>
-  <Moyo2_BloodLoss.label>истощение глубоксина</Moyo2_BloodLoss.label>
-  <Moyo2_CCCSuitHediff.description>Опасный боевой препарат, вызывающий сильнейшую агрессию. Резко повышает боевые возможности, но может довести до неконтролируемого буйства.</Moyo2_CCCSuitHediff.description>
-  <Moyo2_CCCSuitHediff.label>скари-абисс</Moyo2_CCCSuitHediff.label>
-  <Moyo2_DBBooster_Medi.description>Медицинский стимулятор в крови усиливает способность организма к восстановлению и ускоряет заживление ран и выздоровление. Каждая следующая доза усиливает эффект, а продолжительный курс инъекций позволяет исцелять даже застарелые шрамы.</Moyo2_DBBooster_Medi.description>
-  <Moyo2_DBBooster_Medi.label>действие медицинского стимулятора</Moyo2_DBBooster_Medi.label>
-  <Moyo2_DBBooster_Medi.labelNoun>действие медицинского стимулятора</Moyo2_DBBooster_Medi.labelNoun>
+  <Moyo2_BloodLoss.description>Выработка лазурина прекратилась из-за кровопотери.</Moyo2_BloodLoss.description>
+  <Moyo2_BloodLoss.label>потеря лазурина</Moyo2_BloodLoss.label>
+  <Moyo2_CCCSuitHediff.description>Опасный боевой препарат, вызывающий сильнейшую агрессию. Он значительно повышает боевые возможности, но может вызвать приступ бешенства.</Moyo2_CCCSuitHediff.description>
+  <Moyo2_CCCSuitHediff.label>Ярость бездны</Moyo2_CCCSuitHediff.label>
+  <Moyo2_DBBooster_Medi.description>Лечебный усилитель в кровотоке. Он усиливает восстановительные способности организма, ускоряя заживление ран и выздоровление. С каждой следующей дозой эффект усиливается, а длительный курс инъекций позволяет залечивать даже застарелые шрамы.</Moyo2_DBBooster_Medi.description>
+  <Moyo2_DBBooster_Medi.label>действие лечебного усилителя</Moyo2_DBBooster_Medi.label>
+  <Moyo2_DBBooster_Medi.labelNoun>действие лечебного усилителя</Moyo2_DBBooster_Medi.labelNoun>
   <Moyo2_DBBooster_Medi.stages.high_potency.label>сильное действие</Moyo2_DBBooster_Medi.stages.high_potency.label>
   <Moyo2_DBBooster_Medi.stages.low_potency.label>слабое действие</Moyo2_DBBooster_Medi.stages.low_potency.label>
   <Moyo2_DBBooster_Medi.stages.medium_potency.label>умеренное действие</Moyo2_DBBooster_Medi.stages.medium_potency.label>
-  <Moyo2_DBHediff_Alluring.description>Жемчужина обольщения в крови усиливает обаяние и физическую привлекательность — без лишних забот о вредных побочных эффектах. Каждая следующая доза усиливает действие. Порой слишком сильно.
-
-С ростом концентрации возрастает склонность к душевным срывам. При сильном действии возможны истерики и затворничество в своей комнате.</Moyo2_DBHediff_Alluring.description>
-  <Moyo2_DBHediff_Alluring.label>действие жемчужины обольщения</Moyo2_DBHediff_Alluring.label>
-  <Moyo2_DBHediff_Alluring.labelNoun>действие жемчужины обольщения</Moyo2_DBHediff_Alluring.labelNoun>
-  <Moyo2_DBHediff_Alluring.stages.extreme_potency.label>чрезвычайно сильное действие</Moyo2_DBHediff_Alluring.stages.extreme_potency.label>
-  <Moyo2_DBHediff_Alluring.stages.fading.label>ослабление действия</Moyo2_DBHediff_Alluring.stages.fading.label>
+  <Moyo2_DBHediff_Alluring.description>Жемчужина обаяния действует в кровотоке. Она улучшает навыки общения и внешнюю привлекательность без опасений вредных побочных эффектов. С каждой следующей дозой эффект усиливается. Иногда даже слишком.\n\nСреднее время между малыми нервными срывами</Moyo2_DBHediff_Alluring.description>
+  <Moyo2_DBHediff_Alluring.label>действие жемчужины обаяния</Moyo2_DBHediff_Alluring.label>
+  <Moyo2_DBHediff_Alluring.labelNoun>действие жемчужины обаяния</Moyo2_DBHediff_Alluring.labelNoun>
+  <Moyo2_DBHediff_Alluring.stages.extreme_potency.label>крайне сильное действие</Moyo2_DBHediff_Alluring.stages.extreme_potency.label>
+  <Moyo2_DBHediff_Alluring.stages.fading.label>угасание</Moyo2_DBHediff_Alluring.stages.fading.label>
   <Moyo2_DBHediff_Alluring.stages.high_potency.label>сильное действие</Moyo2_DBHediff_Alluring.stages.high_potency.label>
   <Moyo2_DBHediff_Alluring.stages.low_potency.label>слабое действие</Moyo2_DBHediff_Alluring.stages.low_potency.label>
   <Moyo2_DBHediff_Alluring.stages.medium_potency.label>умеренное действие</Moyo2_DBHediff_Alluring.stages.medium_potency.label>
-  <Moyo2_DBHediff_Blueburst.description>Стимулятор «Синий всплеск» в крови перегружает сердечно-сосудистую систему жертвы и может вызвать остановку сердца. Зачем вы это сделали?</Moyo2_DBHediff_Blueburst.description>
-  <Moyo2_DBHediff_Blueburst.label>действие стимулятора «Синий всплеск»</Moyo2_DBHediff_Blueburst.label>
-  <Moyo2_DBHediff_Blueburst.labelNoun>действие стимулятора «Синий всплеск»</Moyo2_DBHediff_Blueburst.labelNoun>
+  <Moyo2_DBHediff_Blueburst.description>Усилитель «Синий всплеск» действует в кровотоке. Он перегружает сердечно-сосудистую систему жертвы и может вызвать остановку сердца. Зачем вы это сделали?</Moyo2_DBHediff_Blueburst.description>
+  <Moyo2_DBHediff_Blueburst.label>действие усилителя «Синий всплеск»</Moyo2_DBHediff_Blueburst.label>
+  <Moyo2_DBHediff_Blueburst.labelNoun>действие усилителя «Синий всплеск»</Moyo2_DBHediff_Blueburst.labelNoun>
   <Moyo2_DBHediff_Blueburst.stages.cardiovascular_arrest.label>остановка кровообращения</Moyo2_DBHediff_Blueburst.stages.cardiovascular_arrest.label>
-  <Moyo2_DBHediff_Blueburst.stages.cardiovascular_overload.label>сердечно-сосудистая перегрузка</Moyo2_DBHediff_Blueburst.stages.cardiovascular_overload.label>
-  <Moyo2_DBHediff_Crystal.description>Кристальный жемчуг в крови повышает производительность — без лишних забот о вредных побочных эффектах. Каждая следующая доза усиливает действие. Порой слишком сильно.</Moyo2_DBHediff_Crystal.description>
-  <Moyo2_DBHediff_Crystal.label>действие кристального жемчуга</Moyo2_DBHediff_Crystal.label>
-  <Moyo2_DBHediff_Crystal.labelNoun>действие кристального жемчуга</Moyo2_DBHediff_Crystal.labelNoun>
-  <Moyo2_DBHediff_Crystal.stages.extreme_potency.label>чрезвычайно сильное действие</Moyo2_DBHediff_Crystal.stages.extreme_potency.label>
-  <Moyo2_DBHediff_Crystal.stages.fading.label>ослабление действия</Moyo2_DBHediff_Crystal.stages.fading.label>
+  <Moyo2_DBHediff_Blueburst.stages.cardiovascular_overload.label>перегрузка сердечно-сосудистой системы</Moyo2_DBHediff_Blueburst.stages.cardiovascular_overload.label>
+  <Moyo2_DBHediff_Crystal.description>Кристальная жемчужина действует в кровотоке. Она повышает производительность без опасений вредных побочных эффектов. С каждой следующей дозой эффект усиливается. Иногда даже слишком.</Moyo2_DBHediff_Crystal.description>
+  <Moyo2_DBHediff_Crystal.label>действие кристальной жемчужины</Moyo2_DBHediff_Crystal.label>
+  <Moyo2_DBHediff_Crystal.labelNoun>действие кристальной жемчужины</Moyo2_DBHediff_Crystal.labelNoun>
+  <Moyo2_DBHediff_Crystal.stages.extreme_potency.label>крайне сильное действие</Moyo2_DBHediff_Crystal.stages.extreme_potency.label>
+  <Moyo2_DBHediff_Crystal.stages.fading.label>угасание</Moyo2_DBHediff_Crystal.stages.fading.label>
   <Moyo2_DBHediff_Crystal.stages.high_potency.label>сильное действие</Moyo2_DBHediff_Crystal.stages.high_potency.label>
   <Moyo2_DBHediff_Crystal.stages.low_potency.label>слабое действие</Moyo2_DBHediff_Crystal.stages.low_potency.label>
   <Moyo2_DBHediff_Crystal.stages.medium_potency.label>умеренное действие</Moyo2_DBHediff_Crystal.stages.medium_potency.label>
-  <Moyo2_DBHediff_Hydra.description>Стимулятор «Гидра» в крови повышает способности к стрельбе. Каждая следующая доза усиливает эффект.</Moyo2_DBHediff_Hydra.description>
-  <Moyo2_DBHediff_Hydra.label>действие стимулятора «Гидра»</Moyo2_DBHediff_Hydra.label>
-  <Moyo2_DBHediff_Hydra.labelNoun>действие стимулятора «Гидра»</Moyo2_DBHediff_Hydra.labelNoun>
+  <Moyo2_DBHediff_Hydra.description>Усилитель «Гидра» действует в кровотоке. Он улучшает навыки дальнего боя. С каждой следующей дозой эффект усиливается.</Moyo2_DBHediff_Hydra.description>
+  <Moyo2_DBHediff_Hydra.label>действие усилителя «Гидра»</Moyo2_DBHediff_Hydra.label>
+  <Moyo2_DBHediff_Hydra.labelNoun>действие усилителя «Гидра»</Moyo2_DBHediff_Hydra.labelNoun>
   <Moyo2_DBHediff_Hydra.stages.high_potency.label>сильное действие</Moyo2_DBHediff_Hydra.stages.high_potency.label>
   <Moyo2_DBHediff_Hydra.stages.low_potency.label>слабое действие</Moyo2_DBHediff_Hydra.stages.low_potency.label>
   <Moyo2_DBHediff_Hydra.stages.medium_potency.label>умеренное действие</Moyo2_DBHediff_Hydra.stages.medium_potency.label>
-  <Moyo2_DBHediff_Joy.description>Жемчуг радости в крови поднимает настроение — без лишних забот о вредных побочных эффектах. Каждая следующая доза усиливает действие. Порой слишком сильно.</Moyo2_DBHediff_Joy.description>
-  <Moyo2_DBHediff_Joy.label>действие жемчуга радости</Moyo2_DBHediff_Joy.label>
-  <Moyo2_DBHediff_Joy.labelNoun>действие жемчуга радости</Moyo2_DBHediff_Joy.labelNoun>
+  <Moyo2_DBHediff_Joy.description>Жемчужина радости действует в кровотоке. Она поднимает настроение без опасений вредных побочных эффектов. С каждой следующей дозой эффект усиливается. Иногда даже слишком.</Moyo2_DBHediff_Joy.description>
+  <Moyo2_DBHediff_Joy.label>действие жемчужины радости</Moyo2_DBHediff_Joy.label>
+  <Moyo2_DBHediff_Joy.labelNoun>действие жемчужины радости</Moyo2_DBHediff_Joy.labelNoun>
   <Moyo2_DBHediff_Joy.stages.content.label>довольство</Moyo2_DBHediff_Joy.stages.content.label>
-  <Moyo2_DBHediff_Joy.stages.ecstatic.label>восторг</Moyo2_DBHediff_Joy.stages.ecstatic.label>
+  <Moyo2_DBHediff_Joy.stages.ecstatic.label>экстаз</Moyo2_DBHediff_Joy.stages.ecstatic.label>
   <Moyo2_DBHediff_Joy.stages.euphoria.label>эйфория</Moyo2_DBHediff_Joy.stages.euphoria.label>
   <Moyo2_DBHediff_Joy.stages.glee.label>ликование</Moyo2_DBHediff_Joy.stages.glee.label>
   <Moyo2_DBHediff_Joy.stages.joy.label>радость</Moyo2_DBHediff_Joy.stages.joy.label>
-  <Moyo2_DBHediff_Numb.description>Жемчуг онемения в крови избавляет от боли и тревог — без лишних забот о вредных побочных эффектах. Каждая следующая доза усиливает действие. Порой слишком сильно.
-
-Воспоминания постепенно стираются; чем сильнее эффект, тем чаще это происходит. Высокая концентрация угнетает сознание, а при чрезвычайно сильном действии возможно глубокое оцепенение.</Moyo2_DBHediff_Numb.description>
-  <Moyo2_DBHediff_Numb.label>действие жемчуга онемения</Moyo2_DBHediff_Numb.label>
-  <Moyo2_DBHediff_Numb.labelNoun>действие жемчуга онемения</Moyo2_DBHediff_Numb.labelNoun>
-  <Moyo2_DBHediff_Numb.stages.extreme_potency.label>чрезвычайно сильное действие</Moyo2_DBHediff_Numb.stages.extreme_potency.label>
-  <Moyo2_DBHediff_Numb.stages.fading.label>ослабление действия</Moyo2_DBHediff_Numb.stages.fading.label>
+  <Moyo2_DBHediff_Numb.description>Жемчужина покоя действует в кровотоке. Она избавляет от боли и тревог без опасений вредных побочных эффектов. С каждой следующей дозой эффект усиливается. Иногда даже слишком.\n\nСреднее время между потерями воспоминаний\n\nВероятность спячки от потери чувствительности</Moyo2_DBHediff_Numb.description>
+  <Moyo2_DBHediff_Numb.label>под действием жемчужины покоя</Moyo2_DBHediff_Numb.label>
+  <Moyo2_DBHediff_Numb.labelNoun>действие жемчужины покоя</Moyo2_DBHediff_Numb.labelNoun>
+  <Moyo2_DBHediff_Numb.stages.extreme_potency.label>предельно сильное действие</Moyo2_DBHediff_Numb.stages.extreme_potency.label>
+  <Moyo2_DBHediff_Numb.stages.fading.label>действие ослабевает</Moyo2_DBHediff_Numb.stages.fading.label>
   <Moyo2_DBHediff_Numb.stages.high_potency.label>сильное действие</Moyo2_DBHediff_Numb.stages.high_potency.label>
   <Moyo2_DBHediff_Numb.stages.low_potency.label>слабое действие</Moyo2_DBHediff_Numb.stages.low_potency.label>
   <Moyo2_DBHediff_Numb.stages.medium_potency.label>умеренное действие</Moyo2_DBHediff_Numb.stages.medium_potency.label>
-  <Moyo2_DBHediff_NumbDown.description>Чрезмерное употребление жемчуга онемения сделало тело почти нечувствительным к раздражителям — в том числе к сигналам мозга. Пока действие не пройдёт, персонаж будет крепко спать. По крайней мере, еды ему теперь нужно меньше.</Moyo2_DBHediff_NumbDown.description>
-  <Moyo2_DBHediff_NumbDown.label>глубокое оцепенение</Moyo2_DBHediff_NumbDown.label>
-  <Moyo2_DBHediff_NumbDown.labelNoun>глубокое оцепенение</Moyo2_DBHediff_NumbDown.labelNoun>
-  <Moyo2_DBHediff_Orca.description>Стимулятор «Косатка» в крови повышает способности к ближнему бою. Каждая следующая доза усиливает эффект.</Moyo2_DBHediff_Orca.description>
-  <Moyo2_DBHediff_Orca.label>действие стимулятора «Косатка»</Moyo2_DBHediff_Orca.label>
-  <Moyo2_DBHediff_Orca.labelNoun>действие стимулятора «Косатка»</Moyo2_DBHediff_Orca.labelNoun>
+  <Moyo2_DBHediff_NumbDown.description>Избыток жемчужин покоя сделал организм почти нечувствительным к раздражителям, в том числе к сигналам мозга. Пока действие не пройдёт, предстоит крепкий сон. По крайней мере, еды теперь требуется меньше.</Moyo2_DBHediff_NumbDown.description>
+  <Moyo2_DBHediff_NumbDown.label>спячка от жемчужин покоя</Moyo2_DBHediff_NumbDown.label>
+  <Moyo2_DBHediff_NumbDown.labelNoun>спячка от жемчужин покоя</Moyo2_DBHediff_NumbDown.labelNoun>
+  <Moyo2_DBHediff_Orca.description>В крови действует усилитель «Косатка». Он улучшает способности к ближнему бою. Каждая следующая доза усиливает действие.</Moyo2_DBHediff_Orca.description>
+  <Moyo2_DBHediff_Orca.label>под действием усилителя «Косатка»</Moyo2_DBHediff_Orca.label>
+  <Moyo2_DBHediff_Orca.labelNoun>действие усилителя «Косатка»</Moyo2_DBHediff_Orca.labelNoun>
   <Moyo2_DBHediff_Orca.stages.high_potency.label>сильное действие</Moyo2_DBHediff_Orca.stages.high_potency.label>
   <Moyo2_DBHediff_Orca.stages.low_potency.label>слабое действие</Moyo2_DBHediff_Orca.stages.low_potency.label>
   <Moyo2_DBHediff_Orca.stages.medium_potency.label>умеренное действие</Moyo2_DBHediff_Orca.stages.medium_potency.label>
-  <Moyo2_DBHediff_Thinker.description>Жемчуг мыслителя в крови проясняет разум — без лишних забот о вредных побочных эффектах. Каждая следующая доза усиливает действие. Порой слишком сильно.</Moyo2_DBHediff_Thinker.description>
-  <Moyo2_DBHediff_Thinker.label>действие жемчуга мыслителя</Moyo2_DBHediff_Thinker.label>
-  <Moyo2_DBHediff_Thinker.labelNoun>действие жемчуга мыслителя</Moyo2_DBHediff_Thinker.labelNoun>
-  <Moyo2_DBHediff_Thinker.stages.extreme_potency.label>чрезвычайно сильное действие</Moyo2_DBHediff_Thinker.stages.extreme_potency.label>
-  <Moyo2_DBHediff_Thinker.stages.fading.label>ослабление действия</Moyo2_DBHediff_Thinker.stages.fading.label>
+  <Moyo2_DBHediff_Thinker.description>В крови действует жемчужина мысли. Она придаёт ясность уму без опасных побочных эффектов. Каждая следующая доза усиливает действие. Порой даже слишком.</Moyo2_DBHediff_Thinker.description>
+  <Moyo2_DBHediff_Thinker.label>под действием жемчужины мысли</Moyo2_DBHediff_Thinker.label>
+  <Moyo2_DBHediff_Thinker.labelNoun>действие жемчужины мысли</Moyo2_DBHediff_Thinker.labelNoun>
+  <Moyo2_DBHediff_Thinker.stages.extreme_potency.label>предельно сильное действие</Moyo2_DBHediff_Thinker.stages.extreme_potency.label>
+  <Moyo2_DBHediff_Thinker.stages.fading.label>действие ослабевает</Moyo2_DBHediff_Thinker.stages.fading.label>
   <Moyo2_DBHediff_Thinker.stages.high_potency.label>сильное действие</Moyo2_DBHediff_Thinker.stages.high_potency.label>
   <Moyo2_DBHediff_Thinker.stages.low_potency.label>слабое действие</Moyo2_DBHediff_Thinker.stages.low_potency.label>
   <Moyo2_DBHediff_Thinker.stages.medium_potency.label>умеренное действие</Moyo2_DBHediff_Thinker.stages.medium_potency.label>
-  <Moyo2_DeepBlueAddiction.comps.0.discoverLetterLabel>Стабильность глубоксина</Moyo2_DeepBlueAddiction.comps.0.discoverLetterLabel>
-  <Moyo2_DeepBlueAddiction.comps.0.discoverLetterText>{0} теперь нуждается в глубоксине для нормальной работы организма.\n\n[PAWN_pronoun] теперь испытывает потребность в глубоксине. Вкладка «Потребности» показывает, насколько [PAWN_pronoun] нуждается в нём. [PAWN_pronoun] будет автоматически принимать препарат. Так [PAWN_pronoun] удовлетворяет эту потребность. Если [PAWN_pronoun] не получит глубоксин, [PAWN_pronoun] начнёт страдать от ухудшения психического состояния.</Moyo2_DeepBlueAddiction.comps.0.discoverLetterText>
-  <Moyo2_DeepBlueAddiction.description>Поглощённый глубоксин становится частью обмена веществ. Со временем он распадается и теряет стабильность. Чтобы организм продолжал нормально работать, запас нужно пополнять.</Moyo2_DeepBlueAddiction.description>
-  <Moyo2_DeepBlueAddiction.label>нестабильность глубоксина</Moyo2_DeepBlueAddiction.label>
-  <Moyo2_DeepBlueExtracter.description>Устройство отфильтровывает глубоксин из крови мойо. Стандартная модель с разумной ценой и минимальным дискомфортом. Предложение глубоксина всегда отстаёт от спроса, поэтому многие мойо пользуются экстракторами ради дополнительного заработка.</Moyo2_DeepBlueExtracter.description>
-  <Moyo2_DeepBlueExtracter.label>экстрактор глубоксина</Moyo2_DeepBlueExtracter.label>
-  <Moyo2_DeepBlueExtracter.labelNoun>экстрактор глубоксина</Moyo2_DeepBlueExtracter.labelNoun>
-  <Moyo2_DeepBlueExtracter_Abysstech.description>Передовое устройство отфильтровывает глубоксин из крови мойо настолько комфортно, что вы ничего не почувствуете. Помимо добычи глубоксина, оно следит за состоянием организма в реальном времени, помогает очищать кровь и подсчитывает потреблённые калории. Оформите подписку прямо сейчас!
-
-*Оплата глубоксином также принимается.</Moyo2_DeepBlueExtracter_Abysstech.description>
-  <Moyo2_DeepBlueExtracter_Abysstech.label>абисстехнологический экстрактор глубоксина</Moyo2_DeepBlueExtracter_Abysstech.label>
-  <Moyo2_DeepBlueExtracter_Abysstech.labelNoun>абисстехнологический экстрактор глубоксина</Moyo2_DeepBlueExtracter_Abysstech.labelNoun>
-  <Moyo2_DeepBlueExtracter_Crude.description>Установленный примитивный экстрактор периодически выделяет глубоксин. При извлечении устройство разрушается.
-
-Дешевизна — достоинство для большинства мойо, у которых нет лишних денег. Меньше платишь деньгами, остальное — неудобством и болью от толстой иглы в теле.</Moyo2_DeepBlueExtracter_Crude.description>
-  <Moyo2_DeepBlueExtracter_Crude.label>примитивный экстрактор глубоксина</Moyo2_DeepBlueExtracter_Crude.label>
-  <Moyo2_DeepBlueExtracter_Crude.labelNoun>примитивный экстрактор глубоксина</Moyo2_DeepBlueExtracter_Crude.labelNoun>
-  <Moyo2_DeepBlueOverFlow.description>В теле мойо накопился избыток глубоксина. Пока эффект не исчезнет, новый глубоксин вырабатываться не будет.</Moyo2_DeepBlueOverFlow.description>
-  <Moyo2_DeepBlueOverFlow.label>избыток глубоксина</Moyo2_DeepBlueOverFlow.label>
-  <Moyo2_DeepBlueTolerance.comps.1.discoverLetterLabel>Накопление глубоксина</Moyo2_DeepBlueTolerance.comps.1.discoverLetterLabel>
-  <Moyo2_DeepBlueTolerance.comps.1.discoverLetterText>{0}: в организм поступило вещество на основе глубоксина.\n\nПосле ещё 1~2 приёмов [PAWN_pronoun] начнёт испытывать симптомы, связанные с глубоксином.</Moyo2_DeepBlueTolerance.comps.1.discoverLetterText>
-  <Moyo2_DeepBlueTolerance.description>Поглощённый глубоксин накопился в организме. Естественным путём он не выводится: для этого нужен особый фермент.</Moyo2_DeepBlueTolerance.description>
-  <Moyo2_DeepBlueTolerance.label>накопление глубоксина</Moyo2_DeepBlueTolerance.label>
-  <Moyo2_TailBionic.description>Искусственный хвост, созданный по передовым технологиям. Внешне неотличим от настоящего, а мощные сервоприводы и нейроинтерфейс делают его лучше природного.</Moyo2_TailBionic.description>
+  <Moyo2_DeepBlueAddiction.comps.0.discoverLetterLabel>Стабильность лазурина</Moyo2_DeepBlueAddiction.comps.0.discoverLetterLabel>
+  <Moyo2_DeepBlueAddiction.comps.0.discoverLetterText>{0} теперь нуждается в лазурине для нормальной работы организма.\n\nНовая потребность видна на вкладке «Потребности». [PAWN_pronoun] будет автоматически принимать препарат, чтобы восполнять её. Если лазурин станет недоступен, [PAWN_pronoun] столкнётся с ухудшением психического состояния.</Moyo2_DeepBlueAddiction.comps.0.discoverLetterText>
+  <Moyo2_DeepBlueAddiction.description>Попав в организм, лазурин включается в обмен веществ. Со временем он распадается, теряет стабильность и требует восполнения, чтобы организм продолжал нормально работать.</Moyo2_DeepBlueAddiction.description>
+  <Moyo2_DeepBlueAddiction.label>нестабильность лазурина</Moyo2_DeepBlueAddiction.label>
+  <Moyo2_DeepBlueExtracter.description>Это устройство выделяет лазурин из крови мойо. Стандартная модель по разумной цене, которая почти не причиняет неудобств. Спрос на лазурин всегда превышает предложение, поэтому многие мойо используют экстракторы ради дополнительного дохода.</Moyo2_DeepBlueExtracter.description>
+  <Moyo2_DeepBlueExtracter.label>экстрактор лазурина</Moyo2_DeepBlueExtracter.label>
+  <Moyo2_DeepBlueExtracter.labelNoun>экстрактор лазурина</Moyo2_DeepBlueExtracter.labelNoun>
+  <Moyo2_DeepBlueExtracter_Abysstech.description>Это передовое устройство выделяет лазурин из крови мойо. Оно настолько удобно, что вы ничего не почувствуете. Помимо извлечения лазурина, экстрактор помогает вести здоровый образ жизни: следит за состоянием организма в реальном времени, содействует очистке крови и показывает потребление калорий. Оформите подписку прямо сейчас! *Возможна оплата лазурином.</Moyo2_DeepBlueExtracter_Abysstech.description>
+  <Moyo2_DeepBlueExtracter_Abysstech.label>пучинный экстрактор лазурина</Moyo2_DeepBlueExtracter_Abysstech.label>
+  <Moyo2_DeepBlueExtracter_Abysstech.labelNoun>пучинный экстрактор лазурина</Moyo2_DeepBlueExtracter_Abysstech.labelNoun>
+  <Moyo2_DeepBlueExtracter_Crude.description>Установлен примитивный экстрактор лазурина. Он периодически вырабатывает лазурин.\n\nПри извлечении экстрактор ломается.\n\nДля большинства мойо без лишних денег дешёвая конструкция – достоинство. Вы платите меньше деньгами, а остаток возмещаете неудобством и болью от толстой иглы в теле.</Moyo2_DeepBlueExtracter_Crude.description>
+  <Moyo2_DeepBlueExtracter_Crude.label>примитивный экстрактор лазурина</Moyo2_DeepBlueExtracter_Crude.label>
+  <Moyo2_DeepBlueExtracter_Crude.labelNoun>примитивный экстрактор лазурина</Moyo2_DeepBlueExtracter_Crude.labelNoun>
+  <Moyo2_DeepBlueOverFlow.description>В организме мойо накопился избыток лазурина. Пока это состояние не пройдёт, новый лазурин вырабатываться не будет.</Moyo2_DeepBlueOverFlow.description>
+  <Moyo2_DeepBlueOverFlow.label>избыток лазурина</Moyo2_DeepBlueOverFlow.label>
+  <Moyo2_DeepBlueTolerance.comps.1.discoverLetterLabel>накопление лазурина</Moyo2_DeepBlueTolerance.comps.1.discoverLetterLabel>
+  <Moyo2_DeepBlueTolerance.comps.1.discoverLetterText>{0}: в организм попало вещество на основе лазурина.\n\nЕщё 1~2 приёма – и [PAWN_pronoun] начнёт испытывать симптомы, связанные с лазурином.</Moyo2_DeepBlueTolerance.comps.1.discoverLetterText>
+  <Moyo2_DeepBlueTolerance.description>В организме накопился лазурин. Естественным путём он не распадается; для его удаления нужен особый фермент.</Moyo2_DeepBlueTolerance.description>
+  <Moyo2_DeepBlueTolerance.label>накопление лазурина</Moyo2_DeepBlueTolerance.label>
+  <Moyo2_TailBionic.description>Искусственный хвост, созданный с помощью передовых технологий. Внешне его не отличить от настоящего, а мощный сервопривод и нейроинтерфейс делают его лучше природного.</Moyo2_TailBionic.description>
   <Moyo2_TailBionic.label>бионический хвост мойо</Moyo2_TailBionic.label>
-  <Moyo2_TailBionic.labelNoun>бионический хвост</Moyo2_TailBionic.labelNoun>
-  <Moyo2_TailProsthesis.description>Простой протез хвоста мойо. Реагирует медленно, но это лучше, чем ничего.</Moyo2_TailProsthesis.description>
+  <Moyo2_TailBionic.labelNoun>протез хвоста</Moyo2_TailBionic.labelNoun>
+  <Moyo2_TailProsthesis.description>Простой протез хвоста для мойо. Отзывается на команды медленно, но всё же лучше, чем ничего.</Moyo2_TailProsthesis.description>
   <Moyo2_TailProsthesis.label>протез хвоста мойо</Moyo2_TailProsthesis.label>
   <Moyo2_TailProsthesis.labelNoun>протез хвоста</Moyo2_TailProsthesis.labelNoun>
 </LanguageData>
