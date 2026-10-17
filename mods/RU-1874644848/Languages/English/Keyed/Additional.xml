@@ -1,22 +1,76 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <chupakobra6_1874644848_Label_MUTATION_TIP>Transform into a mutant
-Hold [CTRL] to create badass mutants</chupakobra6_1874644848_Label_MUTATION_TIP>
-  <chupakobra6_1874644848_Label_OVERWRITE_EXISTING>Overwrite existing?</chupakobra6_1874644848_Label_OVERWRITE_EXISTING>
-  <chupakobra6_1874644848_Label_FLIP>Flip</chupakobra6_1874644848_Label_FLIP>
-  <chupakobra6_1874644848_Label_WRONGPAWN>can't be the same pawn! try other or change category.</chupakobra6_1874644848_Label_WRONGPAWN>
+  <chupakobra6_1874644848_CapacityFactor>      factor: </chupakobra6_1874644848_CapacityFactor>
+  <chupakobra6_1874644848_CapacityOffset> offset: </chupakobra6_1874644848_CapacityOffset>
+  <chupakobra6_1874644848_East>east</chupakobra6_1874644848_East>
+  <chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Animal>Animal</chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Animal>
+  <chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Attachment>Attachment</chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Attachment>
+  <chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Building>Building</chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Building>
+  <chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Ethereal>Ethereal</chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Ethereal>
+  <chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Filth>Filth</chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Filth>
+  <chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_HumanOrAlien>HumanOrAlien</chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_HumanOrAlien>
+  <chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Item>Item</chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Item>
+  <chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Mechanoid>Mechanoid</chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Mechanoid>
+  <chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Mineable>Mineable</chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Mineable>
+  <chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_None>None</chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_None>
+  <chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Pawn>Pawn</chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Pawn>
+  <chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Plant>Plant</chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Plant>
+  <chupakobra6_1874644848_Enum_RimWorld_Quadrum_Aprimay>Aprimay</chupakobra6_1874644848_Enum_RimWorld_Quadrum_Aprimay>
+  <chupakobra6_1874644848_Enum_RimWorld_Quadrum_Decembary>Decembary</chupakobra6_1874644848_Enum_RimWorld_Quadrum_Decembary>
+  <chupakobra6_1874644848_Enum_RimWorld_Quadrum_Jugust>Jugust</chupakobra6_1874644848_Enum_RimWorld_Quadrum_Jugust>
+  <chupakobra6_1874644848_Enum_RimWorld_Quadrum_Septober>Septober</chupakobra6_1874644848_Enum_RimWorld_Quadrum_Septober>
+  <chupakobra6_1874644848_Enum_RimWorld_Quadrum_Undefined>Undefined</chupakobra6_1874644848_Enum_RimWorld_Quadrum_Undefined>
+  <chupakobra6_1874644848_Enum_RimWorld_RotStage_Dessicated>Dessicated</chupakobra6_1874644848_Enum_RimWorld_RotStage_Dessicated>
+  <chupakobra6_1874644848_Enum_RimWorld_RotStage_Fresh>Fresh</chupakobra6_1874644848_Enum_RimWorld_RotStage_Fresh>
+  <chupakobra6_1874644848_Enum_RimWorld_RotStage_Rotting>Rotting</chupakobra6_1874644848_Enum_RimWorld_RotStage_Rotting>
+  <chupakobra6_1874644848_Enum_RimWorld_TechLevel_Animal>Animal</chupakobra6_1874644848_Enum_RimWorld_TechLevel_Animal>
+  <chupakobra6_1874644848_Enum_RimWorld_TechLevel_Archotech>Archotech</chupakobra6_1874644848_Enum_RimWorld_TechLevel_Archotech>
+  <chupakobra6_1874644848_Enum_RimWorld_TechLevel_Industrial>Industrial</chupakobra6_1874644848_Enum_RimWorld_TechLevel_Industrial>
+  <chupakobra6_1874644848_Enum_RimWorld_TechLevel_Medieval>Medieval</chupakobra6_1874644848_Enum_RimWorld_TechLevel_Medieval>
+  <chupakobra6_1874644848_Enum_RimWorld_TechLevel_Neolithic>Neolithic</chupakobra6_1874644848_Enum_RimWorld_TechLevel_Neolithic>
+  <chupakobra6_1874644848_Enum_RimWorld_TechLevel_Spacer>Spacer</chupakobra6_1874644848_Enum_RimWorld_TechLevel_Spacer>
+  <chupakobra6_1874644848_Enum_RimWorld_TechLevel_Ultra>Ultra</chupakobra6_1874644848_Enum_RimWorld_TechLevel_Ultra>
+  <chupakobra6_1874644848_Enum_RimWorld_TechLevel_Undefined>Undefined</chupakobra6_1874644848_Enum_RimWorld_TechLevel_Undefined>
+  <chupakobra6_1874644848_Enum_RimWorld_Tradeability_All>All</chupakobra6_1874644848_Enum_RimWorld_Tradeability_All>
+  <chupakobra6_1874644848_Enum_RimWorld_Tradeability_Buyable>Buyable</chupakobra6_1874644848_Enum_RimWorld_Tradeability_Buyable>
+  <chupakobra6_1874644848_Enum_RimWorld_Tradeability_None>None</chupakobra6_1874644848_Enum_RimWorld_Tradeability_None>
+  <chupakobra6_1874644848_Enum_RimWorld_Tradeability_Sellable>Sellable</chupakobra6_1874644848_Enum_RimWorld_Tradeability_Sellable>
+  <chupakobra6_1874644848_Enum_Verse_EndogeneCategory_BodyType>BodyType</chupakobra6_1874644848_Enum_Verse_EndogeneCategory_BodyType>
+  <chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Ears>Ears</chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Ears>
+  <chupakobra6_1874644848_Enum_Verse_EndogeneCategory_HairColor>HairColor</chupakobra6_1874644848_Enum_Verse_EndogeneCategory_HairColor>
+  <chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Hands>Hands</chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Hands>
+  <chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Head>Head</chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Head>
+  <chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Headbone>Headbone</chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Headbone>
+  <chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Jaw>Jaw</chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Jaw>
+  <chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Melanin>Melanin</chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Melanin>
+  <chupakobra6_1874644848_Enum_Verse_EndogeneCategory_None>None</chupakobra6_1874644848_Enum_Verse_EndogeneCategory_None>
+  <chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Nose>Nose</chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Nose>
+  <chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Voice>Voice</chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Voice>
+  <chupakobra6_1874644848_Enum_Verse_GasType_BlindSmoke>BlindSmoke</chupakobra6_1874644848_Enum_Verse_GasType_BlindSmoke>
+  <chupakobra6_1874644848_Enum_Verse_GasType_DeadlifeDust>DeadlifeDust</chupakobra6_1874644848_Enum_Verse_GasType_DeadlifeDust>
+  <chupakobra6_1874644848_Enum_Verse_GasType_RotStink>RotStink</chupakobra6_1874644848_Enum_Verse_GasType_RotStink>
+  <chupakobra6_1874644848_Enum_Verse_GasType_ToxGas>ToxGas</chupakobra6_1874644848_Enum_Verse_GasType_ToxGas>
+  <chupakobra6_1874644848_Enum_Verse_GeneticBodyType_Fat>Fat</chupakobra6_1874644848_Enum_Verse_GeneticBodyType_Fat>
+  <chupakobra6_1874644848_Enum_Verse_GeneticBodyType_Hulk>Hulk</chupakobra6_1874644848_Enum_Verse_GeneticBodyType_Hulk>
+  <chupakobra6_1874644848_Enum_Verse_GeneticBodyType_Standard>Standard</chupakobra6_1874644848_Enum_Verse_GeneticBodyType_Standard>
+  <chupakobra6_1874644848_Enum_Verse_GeneticBodyType_Thin>Thin</chupakobra6_1874644848_Enum_Verse_GeneticBodyType_Thin>
+  <chupakobra6_1874644848_HeadAverage>Average</chupakobra6_1874644848_HeadAverage>
+  <chupakobra6_1874644848_HeadNarrow>Narrow</chupakobra6_1874644848_HeadNarrow>
+  <chupakobra6_1874644848_HeadNormal>Normal</chupakobra6_1874644848_HeadNormal>
+  <chupakobra6_1874644848_HeadPointy>Pointy</chupakobra6_1874644848_HeadPointy>
+  <chupakobra6_1874644848_HeadWide>Wide</chupakobra6_1874644848_HeadWide>
   <chupakobra6_1874644848_Label_ABILITIES>Abilities</chupakobra6_1874644848_Label_ABILITIES>
   <chupakobra6_1874644848_Label_ACTIVATEPLACINGMODE>activate placing mode</chupakobra6_1874644848_Label_ACTIVATEPLACINGMODE>
   <chupakobra6_1874644848_Label_ADD>Add</chupakobra6_1874644848_Label_ADD>
+  <chupakobra6_1874644848_Label_ADDICTIONCHANCEFACTOR>Addiction chance factor</chupakobra6_1874644848_Label_ADDICTIONCHANCEFACTOR>
+  <chupakobra6_1874644848_Label_ADDONS_INFO>Index values are pawn specific. DrawSize and gender active are race specific. </chupakobra6_1874644848_Label_ADDONS_INFO>
+  <chupakobra6_1874644848_Label_ADDONS_INFO2> - race specific changes only stay for one game session!</chupakobra6_1874644848_Label_ADDONS_INFO2>
+  <chupakobra6_1874644848_Label_ADDSTAT>Add Stat</chupakobra6_1874644848_Label_ADDSTAT>
   <chupakobra6_1874644848_Label_ADD_GENE>Add gene</chupakobra6_1874644848_Label_ADD_GENE>
   <chupakobra6_1874644848_Label_ADD_HEDIFF>Health Conditions</chupakobra6_1874644848_Label_ADD_HEDIFF>
   <chupakobra6_1874644848_Label_ADD_THOUGHT>Create Memory</chupakobra6_1874644848_Label_ADD_THOUGHT>
   <chupakobra6_1874644848_Label_ADD_TRAIT>Traits</chupakobra6_1874644848_Label_ADD_TRAIT>
   <chupakobra6_1874644848_Label_ADD_WEAPON>Add weapon</chupakobra6_1874644848_Label_ADD_WEAPON>
-  <chupakobra6_1874644848_Label_ADDICTIONCHANCEFACTOR>Addiction chance factor</chupakobra6_1874644848_Label_ADDICTIONCHANCEFACTOR>
-  <chupakobra6_1874644848_Label_ADDONS_INFO>Index values are pawn specific. DrawSize and gender active are race specific. </chupakobra6_1874644848_Label_ADDONS_INFO>
-  <chupakobra6_1874644848_Label_ADDONS_INFO2> - race specific changes only stay for one game session!</chupakobra6_1874644848_Label_ADDONS_INFO2>
-  <chupakobra6_1874644848_Label_ADDSTAT>Add Stat</chupakobra6_1874644848_Label_ADDSTAT>
   <chupakobra6_1874644848_Label_ALL>All</chupakobra6_1874644848_Label_ALL>
   <chupakobra6_1874644848_Label_ALLCUSTOMSWILLBEDELEATED>All custom strings will be deleted. This include custom weapons, custom apparel and custom items. Are you sure?</chupakobra6_1874644848_Label_ALLCUSTOMSWILLBEDELEATED>
   <chupakobra6_1874644848_Label_ALLSLOTSWILLBECLEARED>All slots will be cleared. Are you sure?</chupakobra6_1874644848_Label_ALLSLOTSWILLBECLEARED>
@@ -56,8 +110,8 @@ Hold [CTRL] to create badass mutants</chupakobra6_1874644848_Label_MUTATION_TIP>
   <chupakobra6_1874644848_Label_CAPACITIES>Capacity modifier</chupakobra6_1874644848_Label_CAPACITIES>
   <chupakobra6_1874644848_Label_CARAVANRIDEABLE>Caravan rideable</chupakobra6_1874644848_Label_CARAVANRIDEABLE>
   <chupakobra6_1874644848_Label_CAUSESNEED>Causes need</chupakobra6_1874644848_Label_CAUSESNEED>
-  <chupakobra6_1874644848_Label_CHANGE_FACTION>Change Faction</chupakobra6_1874644848_Label_CHANGE_FACTION>
   <chupakobra6_1874644848_Label_CHANGERACE>Change race</chupakobra6_1874644848_Label_CHANGERACE>
+  <chupakobra6_1874644848_Label_CHANGE_FACTION>Change Faction</chupakobra6_1874644848_Label_CHANGE_FACTION>
   <chupakobra6_1874644848_Label_CHARACTER>Character</chupakobra6_1874644848_Label_CHARACTER>
   <chupakobra6_1874644848_Label_CHOOSE_PAWN>Choose pawn</chupakobra6_1874644848_Label_CHOOSE_PAWN>
   <chupakobra6_1874644848_Label_CHRONOAGE>Chronological age</chupakobra6_1874644848_Label_CHRONOAGE>
@@ -105,9 +159,9 @@ Hold [CTRL] to create badass mutants</chupakobra6_1874644848_Label_MUTATION_TIP>
   <chupakobra6_1874644848_Label_ENTROPY>Entropy</chupakobra6_1874644848_Label_ENTROPY>
   <chupakobra6_1874644848_Label_EQUIPSTATS>Stats on Equip</chupakobra6_1874644848_Label_EQUIPSTATS>
   <chupakobra6_1874644848_Label_EXCLUSIONTAGS>Exclusion tags</chupakobra6_1874644848_Label_EXCLUSIONTAGS>
-  <chupakobra6_1874644848_Label_EXPL_RADIUS>Explosion radius</chupakobra6_1874644848_Label_EXPL_RADIUS>
   <chupakobra6_1874644848_Label_EXPLOSIONDELAY>Explosion delay</chupakobra6_1874644848_Label_EXPLOSIONDELAY>
   <chupakobra6_1874644848_Label_EXPLOSIONEFFECT>Explosion effect </chupakobra6_1874644848_Label_EXPLOSIONEFFECT>
+  <chupakobra6_1874644848_Label_EXPL_RADIUS>Explosion radius</chupakobra6_1874644848_Label_EXPL_RADIUS>
   <chupakobra6_1874644848_Label_EXPORT>Export</chupakobra6_1874644848_Label_EXPORT>
   <chupakobra6_1874644848_Label_EXPORT_SLOTS>Exports pawns to a file on the desktop</chupakobra6_1874644848_Label_EXPORT_SLOTS>
   <chupakobra6_1874644848_Label_EXTRAS>Miscellaneous</chupakobra6_1874644848_Label_EXTRAS>
@@ -118,6 +172,7 @@ Hold [CTRL] to create badass mutants</chupakobra6_1874644848_Label_MUTATION_TIP>
   <chupakobra6_1874644848_Label_FILTERCATEGORY>Filter category </chupakobra6_1874644848_Label_FILTERCATEGORY>
   <chupakobra6_1874644848_Label_FILTERTYPE>Filter type </chupakobra6_1874644848_Label_FILTERTYPE>
   <chupakobra6_1874644848_Label_FIND_PAWN>Find Pawn</chupakobra6_1874644848_Label_FIND_PAWN>
+  <chupakobra6_1874644848_Label_FLIP>Flip</chupakobra6_1874644848_Label_FLIP>
   <chupakobra6_1874644848_Label_FLYOVERHEAD>Projectile overflies obstacles</chupakobra6_1874644848_Label_FLYOVERHEAD>
   <chupakobra6_1874644848_Label_FOCUS>Focus</chupakobra6_1874644848_Label_FOCUS>
   <chupakobra6_1874644848_Label_FOODMAXFACTOR>Food max factor</chupakobra6_1874644848_Label_FOODMAXFACTOR>
@@ -136,17 +191,17 @@ Hold [CTRL] to create badass mutants</chupakobra6_1874644848_Label_MUTATION_TIP>
   <chupakobra6_1874644848_Label_GENETICS>Genetics</chupakobra6_1874644848_Label_GENETICS>
   <chupakobra6_1874644848_Label_GRAPHICS>Graphic Data</chupakobra6_1874644848_Label_GRAPHICS>
   <chupakobra6_1874644848_Label_GUNSTATS>Ranged Stats</chupakobra6_1874644848_Label_GUNSTATS>
-  <chupakobra6_1874644848_Label_HA_INFO>Change the slider to change addon graphics. Some addons can only be seen from fix sides (from side or back only). Some addons may not be changeable.</chupakobra6_1874644848_Label_HA_INFO>
   <chupakobra6_1874644848_Label_HAIR>Hair</chupakobra6_1874644848_Label_HAIR>
   <chupakobra6_1874644848_Label_HAIRCOLOR>Hair</chupakobra6_1874644848_Label_HAIRCOLOR>
   <chupakobra6_1874644848_Label_HAIRCOLOROVERRIDE>Hair color override</chupakobra6_1874644848_Label_HAIRCOLOROVERRIDE>
   <chupakobra6_1874644848_Label_HAIRTAGS>Hair tags</chupakobra6_1874644848_Label_HAIRTAGS>
-  <chupakobra6_1874644848_Label_HB_All>All</chupakobra6_1874644848_Label_HB_All>
+  <chupakobra6_1874644848_Label_HA_INFO>Change the slider to change addon graphics. Some addons can only be seen from fix sides (from side or back only). Some addons may not be changeable.</chupakobra6_1874644848_Label_HA_INFO>
   <chupakobra6_1874644848_Label_HB_ALLADDICTIONS>Addiction or Drug</chupakobra6_1874644848_Label_HB_ALLADDICTIONS>
   <chupakobra6_1874644848_Label_HB_ALLDISEASES>Sick or Bad</chupakobra6_1874644848_Label_HB_ALLDISEASES>
   <chupakobra6_1874644848_Label_HB_ALLIMPLANTS>Implant</chupakobra6_1874644848_Label_HB_ALLIMPLANTS>
   <chupakobra6_1874644848_Label_HB_ALLINJURIES>Injury</chupakobra6_1874644848_Label_HB_ALLINJURIES>
   <chupakobra6_1874644848_Label_HB_ALLTIME>Time-based</chupakobra6_1874644848_Label_HB_ALLTIME>
+  <chupakobra6_1874644848_Label_HB_All>All</chupakobra6_1874644848_Label_HB_All>
   <chupakobra6_1874644848_Label_HB_Arm>Arm</chupakobra6_1874644848_Label_HB_Arm>
   <chupakobra6_1874644848_Label_HB_Brain>Brain</chupakobra6_1874644848_Label_HB_Brain>
   <chupakobra6_1874644848_Label_HB_Clavicle>Clavicle</chupakobra6_1874644848_Label_HB_Clavicle>
@@ -178,10 +233,10 @@ Hold [CTRL] to create badass mutants</chupakobra6_1874644848_Label_MUTATION_TIP>
   <chupakobra6_1874644848_Label_HB_Torso>Torso</chupakobra6_1874644848_Label_HB_Torso>
   <chupakobra6_1874644848_Label_HB_Utility>Utility</chupakobra6_1874644848_Label_HB_Utility>
   <chupakobra6_1874644848_Label_HB_UtilitySlot>UtilitySlot</chupakobra6_1874644848_Label_HB_UtilitySlot>
-  <chupakobra6_1874644848_Label_HB_WholeBody>WholeBody</chupakobra6_1874644848_Label_HB_WholeBody>
   <chupakobra6_1874644848_Label_HB_WITHLEVEL>Level-based</chupakobra6_1874644848_Label_HB_WITHLEVEL>
-  <chupakobra6_1874644848_Label_HEAD_ADDONS>Addons</chupakobra6_1874644848_Label_HEAD_ADDONS>
+  <chupakobra6_1874644848_Label_HB_WholeBody>WholeBody</chupakobra6_1874644848_Label_HB_WholeBody>
   <chupakobra6_1874644848_Label_HEADSIZEFACTOR>Head size factor</chupakobra6_1874644848_Label_HEADSIZEFACTOR>
+  <chupakobra6_1874644848_Label_HEAD_ADDONS>Addons</chupakobra6_1874644848_Label_HEAD_ADDONS>
   <chupakobra6_1874644848_Label_HEAL>Heal</chupakobra6_1874644848_Label_HEAL>
   <chupakobra6_1874644848_Label_HEALTHSCALEFACTOR>Health scale factor</chupakobra6_1874644848_Label_HEALTHSCALEFACTOR>
   <chupakobra6_1874644848_Label_HISTORYEVENTONDEATH>History event on death</chupakobra6_1874644848_Label_HISTORYEVENTONDEATH>
@@ -213,10 +268,10 @@ Hold [CTRL] to create badass mutants</chupakobra6_1874644848_Label_MUTATION_TIP>
   <chupakobra6_1874644848_Label_LID>Lid</chupakobra6_1874644848_Label_LID>
   <chupakobra6_1874644848_Label_LIFESTAGE>Lifestage</chupakobra6_1874644848_Label_LIFESTAGE>
   <chupakobra6_1874644848_Label_LOAD>Loading</chupakobra6_1874644848_Label_LOAD>
-  <chupakobra6_1874644848_Label_LOAD_DESC>Load the interstellar container with all objects present on the map</chupakobra6_1874644848_Label_LOAD_DESC>
   <chupakobra6_1874644848_Label_LOADSLOT>Load from slot </chupakobra6_1874644848_Label_LOADSLOT>
   <chupakobra6_1874644848_Label_LOADXENOTYPEKEEP>Load xenotype
 Hold [CTRL] to keep old genes</chupakobra6_1874644848_Label_LOADXENOTYPEKEEP>
+  <chupakobra6_1874644848_Label_LOAD_DESC>Load the interstellar container with all objects present on the map</chupakobra6_1874644848_Label_LOAD_DESC>
   <chupakobra6_1874644848_Label_LOVINMTBFACTOR>Time factor between love attempts</chupakobra6_1874644848_Label_LOVINMTBFACTOR>
   <chupakobra6_1874644848_Label_MAGAZIN>Magazine size</chupakobra6_1874644848_Label_MAGAZIN>
   <chupakobra6_1874644848_Label_MAINBUTTON_DESCR>Start Character Editor</chupakobra6_1874644848_Label_MAINBUTTON_DESCR>
@@ -235,13 +290,24 @@ Hold [CTRL] to keep old genes</chupakobra6_1874644848_Label_LOADXENOTYPEKEEP>
   <chupakobra6_1874644848_Label_MIN_RANDOM_BRIGHTNESS>Minimum brightness</chupakobra6_1874644848_Label_MIN_RANDOM_BRIGHTNESS>
   <chupakobra6_1874644848_Label_MODIFICATIONLOADED>modification loaded</chupakobra6_1874644848_Label_MODIFICATIONLOADED>
   <chupakobra6_1874644848_Label_MOUTH>Mouth</chupakobra6_1874644848_Label_MOUTH>
+  <chupakobra6_1874644848_Label_MUTATION_TIP>Transform into a mutant
+Hold [CTRL] to create badass mutants</chupakobra6_1874644848_Label_MUTATION_TIP>
   <chupakobra6_1874644848_Label_NEEDS>Needs</chupakobra6_1874644848_Label_NEEDS>
   <chupakobra6_1874644848_Label_NEVERGRAYHAIR>Never gray hair</chupakobra6_1874644848_Label_NEVERGRAYHAIR>
-  <chupakobra6_1874644848_Label_NO_BLOCKING_SKILLS>without skill blocker</chupakobra6_1874644848_Label_NO_BLOCKING_SKILLS>
   <chupakobra6_1874644848_Label_NOMEMORIES>No memories</chupakobra6_1874644848_Label_NOMEMORIES>
   <chupakobra6_1874644848_Label_NONE>None</chupakobra6_1874644848_Label_NONE>
   <chupakobra6_1874644848_Label_NOT_COMPATIBLE_APPAREL>Not compatible apparel</chupakobra6_1874644848_Label_NOT_COMPATIBLE_APPAREL>
+  <chupakobra6_1874644848_Label_NO_BLOCKING_SKILLS>without skill blocker</chupakobra6_1874644848_Label_NO_BLOCKING_SKILLS>
   <chupakobra6_1874644848_Label_NUMEXTRAHITCELLS>Num extra hit cells</chupakobra6_1874644848_Label_NUMEXTRAHITCELLS>
+  <chupakobra6_1874644848_Label_OBJECT>Object</chupakobra6_1874644848_Label_OBJECT>
+  <chupakobra6_1874644848_Label_ONLYFORSHIELD>This stat works for shields only</chupakobra6_1874644848_Label_ONLYFORSHIELD>
+  <chupakobra6_1874644848_Label_ONMAP>grey - show pawns on map
+white - show pawns in world</chupakobra6_1874644848_Label_ONMAP>
+  <chupakobra6_1874644848_Label_OPTIONS> MOD SETTINGS</chupakobra6_1874644848_Label_OPTIONS>
+  <chupakobra6_1874644848_Label_OTHER>Other</chupakobra6_1874644848_Label_OTHER>
+  <chupakobra6_1874644848_Label_OUTFITTAGS>Default Outfit Tags</chupakobra6_1874644848_Label_OUTFITTAGS>
+  <chupakobra6_1874644848_Label_OVERDOSECHANCEFACTOR>Overdose chance factor</chupakobra6_1874644848_Label_OVERDOSECHANCEFACTOR>
+  <chupakobra6_1874644848_Label_OVERWRITE_EXISTING>Overwrite existing?</chupakobra6_1874644848_Label_OVERWRITE_EXISTING>
   <chupakobra6_1874644848_Label_O_AUTOMOVEINCOMPATIBLE>Auto remove incompatible apparel</chupakobra6_1874644848_Label_O_AUTOMOVEINCOMPATIBLE>
   <chupakobra6_1874644848_Label_O_AUTOSAVECOLORS>Save colors automatically</chupakobra6_1874644848_Label_O_AUTOSAVECOLORS>
   <chupakobra6_1874644848_Label_O_CHAOSABILITY>Use visual effect for teleport</chupakobra6_1874644848_Label_O_CHAOSABILITY>
@@ -338,14 +404,6 @@ Hold [CTRL] to keep old genes</chupakobra6_1874644848_Label_LOADXENOTYPEKEEP>
   <chupakobra6_1874644848_Label_O_USEFIXEDSHADER>Use fixed shader</chupakobra6_1874644848_Label_O_USEFIXEDSHADER>
   <chupakobra6_1874644848_Label_O_USERIMWORLDPAWNGENERATOR>Use rimworld pawn generator</chupakobra6_1874644848_Label_O_USERIMWORLDPAWNGENERATOR>
   <chupakobra6_1874644848_Label_O_USESORTEDPAWNLIST>Use sorted pawn list</chupakobra6_1874644848_Label_O_USESORTEDPAWNLIST>
-  <chupakobra6_1874644848_Label_OBJECT>Object</chupakobra6_1874644848_Label_OBJECT>
-  <chupakobra6_1874644848_Label_ONLYFORSHIELD>This stat works for shields only</chupakobra6_1874644848_Label_ONLYFORSHIELD>
-  <chupakobra6_1874644848_Label_ONMAP>grey - show pawns on map
-white - show pawns in world</chupakobra6_1874644848_Label_ONMAP>
-  <chupakobra6_1874644848_Label_OPTIONS> MOD SETTINGS</chupakobra6_1874644848_Label_OPTIONS>
-  <chupakobra6_1874644848_Label_OTHER>Other</chupakobra6_1874644848_Label_OTHER>
-  <chupakobra6_1874644848_Label_OUTFITTAGS>Default Outfit Tags</chupakobra6_1874644848_Label_OUTFITTAGS>
-  <chupakobra6_1874644848_Label_OVERDOSECHANCEFACTOR>Overdose chance factor</chupakobra6_1874644848_Label_OVERDOSECHANCEFACTOR>
   <chupakobra6_1874644848_Label_PAINLESS>painless</chupakobra6_1874644848_Label_PAINLESS>
   <chupakobra6_1874644848_Label_PARTS>In the rescue capsule</chupakobra6_1874644848_Label_PARTS>
   <chupakobra6_1874644848_Label_PARTSANIMAL>In the animal capsule</chupakobra6_1874644848_Label_PARTSANIMAL>
@@ -382,14 +440,14 @@ white - show pawns in world</chupakobra6_1874644848_Label_ONMAP>
   <chupakobra6_1874644848_Label_REDRESS>Dress up</chupakobra6_1874644848_Label_REDRESS>
   <chupakobra6_1874644848_Label_REEQUIP>Arm</chupakobra6_1874644848_Label_REEQUIP>
   <chupakobra6_1874644848_Label_REINVENT>Cargo</chupakobra6_1874644848_Label_REINVENT>
-  <chupakobra6_1874644848_Label_RELATION_INFO>Only explicite relations can be edited (like mother, father, lover, ..). Implicite relations (like sister, son, grandma, ..) will be generated automatically.</chupakobra6_1874644848_Label_RELATION_INFO>
   <chupakobra6_1874644848_Label_RELATIONS>Relationships</chupakobra6_1874644848_Label_RELATIONS>
   <chupakobra6_1874644848_Label_RELATIONSOF>Relations of </chupakobra6_1874644848_Label_RELATIONSOF>
   <chupakobra6_1874644848_Label_RELATIONTO>Relation to:</chupakobra6_1874644848_Label_RELATIONTO>
+  <chupakobra6_1874644848_Label_RELATION_INFO>Only explicite relations can be edited (like mother, father, lover, ..). Implicite relations (like sister, son, grandma, ..) will be generated automatically.</chupakobra6_1874644848_Label_RELATION_INFO>
   <chupakobra6_1874644848_Label_RELOADTIME>Reload Time CE</chupakobra6_1874644848_Label_RELOADTIME>
+  <chupakobra6_1874644848_Label_REMOVEONREDRESS>Remove gene when creating</chupakobra6_1874644848_Label_REMOVEONREDRESS>
   <chupakobra6_1874644848_Label_REMOVE_ADDONS>Remove Addons</chupakobra6_1874644848_Label_REMOVE_ADDONS>
   <chupakobra6_1874644848_Label_REMOVE_HEDIFF>Remove Handicap</chupakobra6_1874644848_Label_REMOVE_HEDIFF>
-  <chupakobra6_1874644848_Label_REMOVEONREDRESS>Remove gene when creating</chupakobra6_1874644848_Label_REMOVEONREDRESS>
   <chupakobra6_1874644848_Label_REPRODUCTIVE>Reproductive</chupakobra6_1874644848_Label_REPRODUCTIVE>
   <chupakobra6_1874644848_Label_REQUIRELINEOFSIGHT>Require line of sight</chupakobra6_1874644848_Label_REQUIRELINEOFSIGHT>
   <chupakobra6_1874644848_Label_RESET>Reset to Default</chupakobra6_1874644848_Label_RESET>
@@ -403,18 +461,18 @@ white - show pawns in world</chupakobra6_1874644848_Label_ONMAP>
   <chupakobra6_1874644848_Label_ROTATION>Rotation</chupakobra6_1874644848_Label_ROTATION>
   <chupakobra6_1874644848_Label_SAVE>Save</chupakobra6_1874644848_Label_SAVE>
   <chupakobra6_1874644848_Label_SAVESLOT>Save to slot </chupakobra6_1874644848_Label_SAVESLOT>
+  <chupakobra6_1874644848_Label_SELECTIONWEIGHT>Selection factor</chupakobra6_1874644848_Label_SELECTIONWEIGHT>
+  <chupakobra6_1874644848_Label_SELECTIONWEIGHTDARKSKIN>Selection factor for dark skin</chupakobra6_1874644848_Label_SELECTIONWEIGHTDARKSKIN>
   <chupakobra6_1874644848_Label_SELECT_BODYPART>Select Body Part</chupakobra6_1874644848_Label_SELECT_BODYPART>
   <chupakobra6_1874644848_Label_SELECT_COLOR>Select Color</chupakobra6_1874644848_Label_SELECT_COLOR>
   <chupakobra6_1874644848_Label_SELECT_PAWN>select pawn</chupakobra6_1874644848_Label_SELECT_PAWN>
-  <chupakobra6_1874644848_Label_SELECTIONWEIGHT>Selection factor</chupakobra6_1874644848_Label_SELECTIONWEIGHT>
-  <chupakobra6_1874644848_Label_SELECTIONWEIGHTDARKSKIN>Selection factor for dark skin</chupakobra6_1874644848_Label_SELECTIONWEIGHTDARKSKIN>
   <chupakobra6_1874644848_Label_SETONCLICK> set on click</chupakobra6_1874644848_Label_SETONCLICK>
   <chupakobra6_1874644848_Label_SETONMOUSEOVER> set on mouseover</chupakobra6_1874644848_Label_SETONMOUSEOVER>
   <chupakobra6_1874644848_Label_SETROYALTITLE>Lend title</chupakobra6_1874644848_Label_SETROYALTITLE>
   <chupakobra6_1874644848_Label_SETTINGSSAVED>modification saved</chupakobra6_1874644848_Label_SETTINGSSAVED>
+  <chupakobra6_1874644848_Label_SHOWCREATION>show pawn creation buttons and extended functions</chupakobra6_1874644848_Label_SHOWCREATION>
   <chupakobra6_1874644848_Label_SHOW_HIDDEN>Show Hidden</chupakobra6_1874644848_Label_SHOW_HIDDEN>
   <chupakobra6_1874644848_Label_SHOW_IMPLICITE>Show implicite relations</chupakobra6_1874644848_Label_SHOW_IMPLICITE>
-  <chupakobra6_1874644848_Label_SHOWCREATION>show pawn creation buttons and extended functions</chupakobra6_1874644848_Label_SHOWCREATION>
   <chupakobra6_1874644848_Label_SILVER_NEAR>Silver amount near to location </chupakobra6_1874644848_Label_SILVER_NEAR>
   <chupakobra6_1874644848_Label_SILVER_NEEDED>, needed </chupakobra6_1874644848_Label_SILVER_NEEDED>
   <chupakobra6_1874644848_Label_SKILLGAINS>Skillgains</chupakobra6_1874644848_Label_SKILLGAINS>
@@ -440,10 +498,10 @@ white - show pawns in world</chupakobra6_1874644848_Label_ONMAP>
   <chupakobra6_1874644848_Label_STARTSATAGE>Gene gets active at age</chupakobra6_1874644848_Label_STARTSATAGE>
   <chupakobra6_1874644848_Label_STARTTONEWWORLDS>To new worlds</chupakobra6_1874644848_Label_STARTTONEWWORLDS>
   <chupakobra6_1874644848_Label_STAT>Stat</chupakobra6_1874644848_Label_STAT>
-  <chupakobra6_1874644848_Label_STAT_FACTORS>Stat Factor</chupakobra6_1874644848_Label_STAT_FACTORS>
-  <chupakobra6_1874644848_Label_STAT_OFFSETS>Stat Offset</chupakobra6_1874644848_Label_STAT_OFFSETS>
   <chupakobra6_1874644848_Label_STATS>Stats</chupakobra6_1874644848_Label_STATS>
   <chupakobra6_1874644848_Label_STATTYPE>Stattype: </chupakobra6_1874644848_Label_STATTYPE>
+  <chupakobra6_1874644848_Label_STAT_FACTORS>Stat Factor</chupakobra6_1874644848_Label_STAT_FACTORS>
+  <chupakobra6_1874644848_Label_STAT_OFFSETS>Stat Offset</chupakobra6_1874644848_Label_STAT_OFFSETS>
   <chupakobra6_1874644848_Label_STEALABLE>Stealable</chupakobra6_1874644848_Label_STEALABLE>
   <chupakobra6_1874644848_Label_STERILIZE>Sterile</chupakobra6_1874644848_Label_STERILIZE>
   <chupakobra6_1874644848_Label_STUFF>Stuff: </chupakobra6_1874644848_Label_STUFF>
@@ -453,19 +511,21 @@ white - show pawns in world</chupakobra6_1874644848_Label_ONMAP>
   <chupakobra6_1874644848_Label_SUPPRESSEDTRAITS>Suppressed traits</chupakobra6_1874644848_Label_SUPPRESSEDTRAITS>
   <chupakobra6_1874644848_Label_SWAP_TO_PAWN>Swap to Pawn</chupakobra6_1874644848_Label_SWAP_TO_PAWN>
   <chupakobra6_1874644848_Label_TAGS>Tags</chupakobra6_1874644848_Label_TAGS>
-  <chupakobra6_1874644848_Label_TARGET_LOCATION>Target Ground</chupakobra6_1874644848_Label_TARGET_LOCATION>
   <chupakobra6_1874644848_Label_TARGETGROUND>Target ground</chupakobra6_1874644848_Label_TARGETGROUND>
+  <chupakobra6_1874644848_Label_TARGET_LOCATION>Target Ground</chupakobra6_1874644848_Label_TARGET_LOCATION>
   <chupakobra6_1874644848_Label_TATTOO>Tattoo: </chupakobra6_1874644848_Label_TATTOO>
   <chupakobra6_1874644848_Label_TECHLEVEL>Tech Level:</chupakobra6_1874644848_Label_TECHLEVEL>
   <chupakobra6_1874644848_Label_TEILEIMSCHIFFSWRACK>Parts in space ship wreck</chupakobra6_1874644848_Label_TEILEIMSCHIFFSWRACK>
   <chupakobra6_1874644848_Label_TELEPORT>teleport</chupakobra6_1874644848_Label_TELEPORT>
   <chupakobra6_1874644848_Label_TEXPATH>Texture Path: </chupakobra6_1874644848_Label_TEXPATH>
+  <chupakobra6_1874644848_Label_THOUGHTS>Thoughts</chupakobra6_1874644848_Label_THOUGHTS>
   <chupakobra6_1874644848_Label_TH_MEMORY>Memory</chupakobra6_1874644848_Label_TH_MEMORY>
   <chupakobra6_1874644848_Label_TH_SITUATIONAL>Situational</chupakobra6_1874644848_Label_TH_SITUATIONAL>
   <chupakobra6_1874644848_Label_TH_SOCIAL>Social</chupakobra6_1874644848_Label_TH_SOCIAL>
   <chupakobra6_1874644848_Label_TH_UNSUPPORTED>Not compatible</chupakobra6_1874644848_Label_TH_UNSUPPORTED>
-  <chupakobra6_1874644848_Label_THOUGHTS>Thoughts</chupakobra6_1874644848_Label_THOUGHTS>
   <chupakobra6_1874644848_Label_TIERKAPSEL>Animal capsule</chupakobra6_1874644848_Label_TIERKAPSEL>
+  <chupakobra6_1874644848_Label_TIPCLEARGENES>clear all genes
+Hold [CTRL] to keep hair and skin genes</chupakobra6_1874644848_Label_TIPCLEARGENES>
   <chupakobra6_1874644848_Label_TIP_ADD_APPAREL>add/change apparel</chupakobra6_1874644848_Label_TIP_ADD_APPAREL>
   <chupakobra6_1874644848_Label_TIP_ADD_CUSTOMPAWN>add pawn of choosen kind to current list
 hold [CTRL] to place pawn on map
@@ -487,10 +547,10 @@ Hold [CAPS] for further cloning</chupakobra6_1874644848_Label_TIP_CLONE>
   <chupakobra6_1874644848_Label_TIP_DELETE_PAWN>eliminate selected pawn</chupakobra6_1874644848_Label_TIP_DELETE_PAWN>
   <chupakobra6_1874644848_Label_TIP_DESTROYDROP>
 hold [ALT] to destroy</chupakobra6_1874644848_Label_TIP_DESTROYDROP>
-  <chupakobra6_1874644848_Label_TIP_DLG_RANDOM_COLOR>random color
-hold [CTRL] use alpha colors</chupakobra6_1874644848_Label_TIP_DLG_RANDOM_COLOR>
   <chupakobra6_1874644848_Label_TIP_DLG_RANDOMIZE_HAIRANDCOLOR>random hair and color
 hold [CTRL] use alpha colors</chupakobra6_1874644848_Label_TIP_DLG_RANDOMIZE_HAIRANDCOLOR>
+  <chupakobra6_1874644848_Label_TIP_DLG_RANDOM_COLOR>random color
+hold [CTRL] use alpha colors</chupakobra6_1874644848_Label_TIP_DLG_RANDOM_COLOR>
   <chupakobra6_1874644848_Label_TIP_HEAL>hold [ALT] to heal only non permanent injuries and restore legs</chupakobra6_1874644848_Label_TIP_HEAL>
   <chupakobra6_1874644848_Label_TIP_HURT>hold [ALT] for bad / permanent injuries</chupakobra6_1874644848_Label_TIP_HURT>
   <chupakobra6_1874644848_Label_TIP_LOAD_PAWN_FROM_SLOT>load pawn from slot
@@ -499,6 +559,18 @@ Hold [ALT] for mod info</chupakobra6_1874644848_Label_TIP_LOAD_PAWN_FROM_SLOT>
   <chupakobra6_1874644848_Label_TIP_QUICKHEAL>resurrect and full heal
 hold [ALT] to heal, [SHIFT] to tent
 [CTRL] to anaesthesize, [CAPS] to hurt</chupakobra6_1874644848_Label_TIP_QUICKHEAL>
+  <chupakobra6_1874644848_Label_TIP_RANDOMIZE_BIO>keep pawn, randomize bio (name, skills, traits, backstory)</chupakobra6_1874644848_Label_TIP_RANDOMIZE_BIO>
+  <chupakobra6_1874644848_Label_TIP_RANDOMIZE_BODYPARTS>keep pawn, randomize gender, head, body, hair, skin, beard, tattoo
+hold [ALT] for female
+hold [CAPS] for male</chupakobra6_1874644848_Label_TIP_RANDOMIZE_BODYPARTS>
+  <chupakobra6_1874644848_Label_TIP_RANDOMIZE_EQUIP>keep pawn, randomize apparel and weapon
+hold [ALT] for apparel only
+hold [SHIFT] for weapon only
+hold [CTRL] for alpha colors</chupakobra6_1874644848_Label_TIP_RANDOMIZE_EQUIP>
+  <chupakobra6_1874644848_Label_TIP_RANDOMIZE_PAWN>replace pawn with new random pawn</chupakobra6_1874644848_Label_TIP_RANDOMIZE_PAWN>
+  <chupakobra6_1874644848_Label_TIP_RANDOMIZE_PAWNKEEPRACE>replace pawn with new random pawn of same race
+hold [ALT] for female
+hold [CAPS] for male</chupakobra6_1874644848_Label_TIP_RANDOMIZE_PAWNKEEPRACE>
   <chupakobra6_1874644848_Label_TIP_RANDOM_APPAREL>random apparel
 hold [ALT] original colors
 hold [SHIFT] random colors
@@ -519,18 +591,6 @@ hold [CTRL] use alpha colors</chupakobra6_1874644848_Label_TIP_RANDOM_HAIRCOLOR>
 hold [ALT] for skin colorA
 hold [SHIFT] for skin colorB
 hold [CTRL] use alpha colors</chupakobra6_1874644848_Label_TIP_RANDOM_SKINCOLOR>
-  <chupakobra6_1874644848_Label_TIP_RANDOMIZE_BIO>keep pawn, randomize bio (name, skills, traits, backstory)</chupakobra6_1874644848_Label_TIP_RANDOMIZE_BIO>
-  <chupakobra6_1874644848_Label_TIP_RANDOMIZE_BODYPARTS>keep pawn, randomize gender, head, body, hair, skin, beard, tattoo
-hold [ALT] for female
-hold [CAPS] for male</chupakobra6_1874644848_Label_TIP_RANDOMIZE_BODYPARTS>
-  <chupakobra6_1874644848_Label_TIP_RANDOMIZE_EQUIP>keep pawn, randomize apparel and weapon
-hold [ALT] for apparel only
-hold [SHIFT] for weapon only
-hold [CTRL] for alpha colors</chupakobra6_1874644848_Label_TIP_RANDOMIZE_EQUIP>
-  <chupakobra6_1874644848_Label_TIP_RANDOMIZE_PAWN>replace pawn with new random pawn</chupakobra6_1874644848_Label_TIP_RANDOMIZE_PAWN>
-  <chupakobra6_1874644848_Label_TIP_RANDOMIZE_PAWNKEEPRACE>replace pawn with new random pawn of same race
-hold [ALT] for female
-hold [CAPS] for male</chupakobra6_1874644848_Label_TIP_RANDOMIZE_PAWNKEEPRACE>
   <chupakobra6_1874644848_Label_TIP_REDRESS>dress up pawn, replaces all apparel</chupakobra6_1874644848_Label_TIP_REDRESS>
   <chupakobra6_1874644848_Label_TIP_REEQUIP>arm pawn, replaces old weapon/s</chupakobra6_1874644848_Label_TIP_REEQUIP>
   <chupakobra6_1874644848_Label_TIP_REINVENT>preparing pawn and exchanging inventory items</chupakobra6_1874644848_Label_TIP_REINVENT>
@@ -544,8 +604,6 @@ hold [CTRL] to teleport any pawn</chupakobra6_1874644848_Label_TIP_TELEPORT>
   <chupakobra6_1874644848_Label_TIP_TOGGLECATEGORIES>Toggle all / functional categories. If active, allowed minimum and maximum values are not checked.</chupakobra6_1874644848_Label_TIP_TOGGLECATEGORIES>
   <chupakobra6_1874644848_Label_TIP_UNDRESS>undress random apparel part
 hold [ALT] to destroy instead of drop</chupakobra6_1874644848_Label_TIP_UNDRESS>
-  <chupakobra6_1874644848_Label_TIPCLEARGENES>clear all genes
-Hold [CTRL] to keep hair and skin genes</chupakobra6_1874644848_Label_TIPCLEARGENES>
   <chupakobra6_1874644848_Label_TODEFAULTS>To Defaults</chupakobra6_1874644848_Label_TODEFAULTS>
   <chupakobra6_1874644848_Label_TOGGLEENDOXENO>Toggle endo-/xenogenes</chupakobra6_1874644848_Label_TOGGLEENDOXENO>
   <chupakobra6_1874644848_Label_TOGGLESELECTIONONMOUSEOVER>Toggle selection on mouseover/click</chupakobra6_1874644848_Label_TOGGLESELECTIONONMOUSEOVER>
@@ -573,6 +631,7 @@ Hold [CTRL] to keep hair and skin genes</chupakobra6_1874644848_Label_TIPCLEARGE
   <chupakobra6_1874644848_Label_WILL_REPLACE>replaces</chupakobra6_1874644848_Label_WILL_REPLACE>
   <chupakobra6_1874644848_Label_WOMENCANHAVEBEARDS>Women beards allowed</chupakobra6_1874644848_Label_WOMENCANHAVEBEARDS>
   <chupakobra6_1874644848_Label_WORNPATH>Worn Path: </chupakobra6_1874644848_Label_WORNPATH>
+  <chupakobra6_1874644848_Label_WRONGPAWN>can't be the same pawn! try other or change category.</chupakobra6_1874644848_Label_WRONGPAWN>
   <chupakobra6_1874644848_Label_XENOTYPEISPREFERED>Xenotype is prefered by ideology</chupakobra6_1874644848_Label_XENOTYPEISPREFERED>
   <chupakobra6_1874644848_Label_YEAR>Year</chupakobra6_1874644848_Label_YEAR>
   <chupakobra6_1874644848_Label_YEARS>Years</chupakobra6_1874644848_Label_YEARS>
@@ -1366,68 +1425,9 @@ Hold [CTRL] to keep hair and skin genes</chupakobra6_1874644848_Label_TIPCLEARGE
   <chupakobra6_1874644848_Name_Male_326>Zack,,Vincent</chupakobra6_1874644848_Name_Male_326>
   <chupakobra6_1874644848_Name_Male_327>Zeng,,Junling</chupakobra6_1874644848_Name_Male_327>
   <chupakobra6_1874644848_Name_Male_328>Zero,,Channon</chupakobra6_1874644848_Name_Male_328>
-  <chupakobra6_1874644848_HeadAverage>Average</chupakobra6_1874644848_HeadAverage>
-  <chupakobra6_1874644848_HeadNarrow>Narrow</chupakobra6_1874644848_HeadNarrow>
-  <chupakobra6_1874644848_HeadWide>Wide</chupakobra6_1874644848_HeadWide>
-  <chupakobra6_1874644848_HeadPointy>Pointy</chupakobra6_1874644848_HeadPointy>
-  <chupakobra6_1874644848_HeadNormal>Normal</chupakobra6_1874644848_HeadNormal>
   <chupakobra6_1874644848_North>north</chupakobra6_1874644848_North>
-  <chupakobra6_1874644848_East>east</chupakobra6_1874644848_East>
   <chupakobra6_1874644848_South>south</chupakobra6_1874644848_South>
   <chupakobra6_1874644848_West>west</chupakobra6_1874644848_West>
-  <chupakobra6_1874644848_Zombrella>Zombrella</chupakobra6_1874644848_Zombrella>
   <chupakobra6_1874644848_Zombgrella>Zombgrella</chupakobra6_1874644848_Zombgrella>
-  <chupakobra6_1874644848_Enum_Verse_GeneticBodyType_Fat>Fat</chupakobra6_1874644848_Enum_Verse_GeneticBodyType_Fat>
-  <chupakobra6_1874644848_Enum_Verse_GeneticBodyType_Thin>Thin</chupakobra6_1874644848_Enum_Verse_GeneticBodyType_Thin>
-  <chupakobra6_1874644848_Enum_Verse_GeneticBodyType_Hulk>Hulk</chupakobra6_1874644848_Enum_Verse_GeneticBodyType_Hulk>
-  <chupakobra6_1874644848_Enum_Verse_GeneticBodyType_Standard>Standard</chupakobra6_1874644848_Enum_Verse_GeneticBodyType_Standard>
-  <chupakobra6_1874644848_Enum_Verse_EndogeneCategory_None>None</chupakobra6_1874644848_Enum_Verse_EndogeneCategory_None>
-  <chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Melanin>Melanin</chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Melanin>
-  <chupakobra6_1874644848_Enum_Verse_EndogeneCategory_HairColor>HairColor</chupakobra6_1874644848_Enum_Verse_EndogeneCategory_HairColor>
-  <chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Ears>Ears</chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Ears>
-  <chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Nose>Nose</chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Nose>
-  <chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Jaw>Jaw</chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Jaw>
-  <chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Hands>Hands</chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Hands>
-  <chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Headbone>Headbone</chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Headbone>
-  <chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Head>Head</chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Head>
-  <chupakobra6_1874644848_Enum_Verse_EndogeneCategory_BodyType>BodyType</chupakobra6_1874644848_Enum_Verse_EndogeneCategory_BodyType>
-  <chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Voice>Voice</chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Voice>
-  <chupakobra6_1874644848_Enum_Verse_GasType_BlindSmoke>BlindSmoke</chupakobra6_1874644848_Enum_Verse_GasType_BlindSmoke>
-  <chupakobra6_1874644848_Enum_Verse_GasType_ToxGas>ToxGas</chupakobra6_1874644848_Enum_Verse_GasType_ToxGas>
-  <chupakobra6_1874644848_Enum_Verse_GasType_RotStink>RotStink</chupakobra6_1874644848_Enum_Verse_GasType_RotStink>
-  <chupakobra6_1874644848_Enum_Verse_GasType_DeadlifeDust>DeadlifeDust</chupakobra6_1874644848_Enum_Verse_GasType_DeadlifeDust>
-  <chupakobra6_1874644848_Enum_RimWorld_TechLevel_Undefined>Undefined</chupakobra6_1874644848_Enum_RimWorld_TechLevel_Undefined>
-  <chupakobra6_1874644848_Enum_RimWorld_TechLevel_Animal>Animal</chupakobra6_1874644848_Enum_RimWorld_TechLevel_Animal>
-  <chupakobra6_1874644848_Enum_RimWorld_TechLevel_Neolithic>Neolithic</chupakobra6_1874644848_Enum_RimWorld_TechLevel_Neolithic>
-  <chupakobra6_1874644848_Enum_RimWorld_TechLevel_Medieval>Medieval</chupakobra6_1874644848_Enum_RimWorld_TechLevel_Medieval>
-  <chupakobra6_1874644848_Enum_RimWorld_TechLevel_Industrial>Industrial</chupakobra6_1874644848_Enum_RimWorld_TechLevel_Industrial>
-  <chupakobra6_1874644848_Enum_RimWorld_TechLevel_Spacer>Spacer</chupakobra6_1874644848_Enum_RimWorld_TechLevel_Spacer>
-  <chupakobra6_1874644848_Enum_RimWorld_TechLevel_Ultra>Ultra</chupakobra6_1874644848_Enum_RimWorld_TechLevel_Ultra>
-  <chupakobra6_1874644848_Enum_RimWorld_TechLevel_Archotech>Archotech</chupakobra6_1874644848_Enum_RimWorld_TechLevel_Archotech>
-  <chupakobra6_1874644848_Enum_RimWorld_Tradeability_None>None</chupakobra6_1874644848_Enum_RimWorld_Tradeability_None>
-  <chupakobra6_1874644848_Enum_RimWorld_Tradeability_Sellable>Sellable</chupakobra6_1874644848_Enum_RimWorld_Tradeability_Sellable>
-  <chupakobra6_1874644848_Enum_RimWorld_Tradeability_Buyable>Buyable</chupakobra6_1874644848_Enum_RimWorld_Tradeability_Buyable>
-  <chupakobra6_1874644848_Enum_RimWorld_Tradeability_All>All</chupakobra6_1874644848_Enum_RimWorld_Tradeability_All>
-  <chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_None>None</chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_None>
-  <chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Animal>Animal</chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Animal>
-  <chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Mechanoid>Mechanoid</chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Mechanoid>
-  <chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_HumanOrAlien>HumanOrAlien</chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_HumanOrAlien>
-  <chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Pawn>Pawn</chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Pawn>
-  <chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Plant>Plant</chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Plant>
-  <chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Filth>Filth</chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Filth>
-  <chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Mineable>Mineable</chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Mineable>
-  <chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Building>Building</chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Building>
-  <chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Item>Item</chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Item>
-  <chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Attachment>Attachment</chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Attachment>
-  <chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Ethereal>Ethereal</chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Ethereal>
-  <chupakobra6_1874644848_Enum_RimWorld_RotStage_Fresh>Fresh</chupakobra6_1874644848_Enum_RimWorld_RotStage_Fresh>
-  <chupakobra6_1874644848_Enum_RimWorld_RotStage_Rotting>Rotting</chupakobra6_1874644848_Enum_RimWorld_RotStage_Rotting>
-  <chupakobra6_1874644848_Enum_RimWorld_RotStage_Dessicated>Dessicated</chupakobra6_1874644848_Enum_RimWorld_RotStage_Dessicated>
-  <chupakobra6_1874644848_Enum_RimWorld_Quadrum_Aprimay>Aprimay</chupakobra6_1874644848_Enum_RimWorld_Quadrum_Aprimay>
-  <chupakobra6_1874644848_Enum_RimWorld_Quadrum_Jugust>Jugust</chupakobra6_1874644848_Enum_RimWorld_Quadrum_Jugust>
-  <chupakobra6_1874644848_Enum_RimWorld_Quadrum_Septober>Septober</chupakobra6_1874644848_Enum_RimWorld_Quadrum_Septober>
-  <chupakobra6_1874644848_Enum_RimWorld_Quadrum_Decembary>Decembary</chupakobra6_1874644848_Enum_RimWorld_Quadrum_Decembary>
-  <chupakobra6_1874644848_Enum_RimWorld_Quadrum_Undefined>Undefined</chupakobra6_1874644848_Enum_RimWorld_Quadrum_Undefined>
-  <chupakobra6_1874644848_CapacityOffset> offset: </chupakobra6_1874644848_CapacityOffset>
-  <chupakobra6_1874644848_CapacityFactor>      factor: </chupakobra6_1874644848_CapacityFactor>
+  <chupakobra6_1874644848_Zombrella>Zombrella</chupakobra6_1874644848_Zombrella>
 </LanguageData>

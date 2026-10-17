@@ -21,8 +21,8 @@
   <VEE_DeadlifeVent.label>гейзер мёртвой жизни</VEE_DeadlifeVent.label>
   <VEE_DenseSnow.description>Плотный слежавшийся слой снега, который мешает движению и приглушает звуки. Его можно убрать, назначив добычу.</VEE_DenseSnow.description>
   <VEE_DenseSnow.label>плотный снег</VEE_DenseSnow.label>
-  <VEE_DriftwoodChunk.description>Выбеленный солнцем обломок дерева, сглаженный волнами и временем. Его вынесло на берег откуда-то издалека; откуда именно — неизвестно.</VEE_DriftwoodChunk.description>
-  <VEE_DriftwoodChunk.label>топляк</VEE_DriftwoodChunk.label>
+  <VEE_DriftwoodChunk.description>Выбеленный солнцем обломок дерева, сглаженный волнами и временем. Его принесло на берег из неведомых далёких мест.</VEE_DriftwoodChunk.description>
+  <VEE_DriftwoodChunk.label>плавник</VEE_DriftwoodChunk.label>
   <VEE_DryWheat.description>Янтарный злак, которому для созревания нужен почти весь вегетационный сезон. Эта пшеница слишком долго страдала от засухи и завяла.</VEE_DryWheat.description>
   <VEE_DryWheat.label>засохшая пшеница</VEE_DryWheat.label>
   <VEE_Filth_Seashells.label>морские ракушки</VEE_Filth_Seashells.label>
@@ -104,14 +104,14 @@
   <VEE_Plant_ScrewPine_ChoppedStump.label>пень</VEE_Plant_ScrewPine_ChoppedStump.label>
   <VEE_Plant_ScrewPine_SmashedStump.description>Остатки пандана, разрушенного повреждениями. Выглядят уродливо. Пень можно выкорчевать, но пригодной древесины будет совсем мало. Под открытым небом он со временем разрушится.</VEE_Plant_ScrewPine_SmashedStump.description>
   <VEE_Plant_ScrewPine_SmashedStump.label>разбитый пень</VEE_Plant_ScrewPine_SmashedStump.label>
-  <VEE_Plant_TreeBirch_Auburn.description>Дерево умеренного климата, известное тонкой белой корой, похожей на бумагу.</VEE_Plant_TreeBirch_Auburn.description>
-  <VEE_Plant_TreeBirch_Auburn.label>пожелтевшая берёза</VEE_Plant_TreeBirch_Auburn.label>
-  <VEE_Plant_TreeMaple_Auburn.description>Распространённое дерево среднего размера, легко узнаваемое по характерным трёхлопастным листьям.</VEE_Plant_TreeMaple_Auburn.description>
-  <VEE_Plant_TreeMaple_Auburn.label>пожелтевший клён</VEE_Plant_TreeMaple_Auburn.label>
-  <VEE_Plant_TreeOak_Auburn.description>Дерево с твёрдой древесиной. Дубы растут долго, но их древесина настолько прочна, что во многих культурах слово «дуб» стало метафорой силы.</VEE_Plant_TreeOak_Auburn.description>
-  <VEE_Plant_TreeOak_Auburn.label>пожелтевший дуб</VEE_Plant_TreeOak_Auburn.label>
-  <VEE_Plant_TreePoplar_Auburn.description>Очень быстрорастущее дерево с мягкой древесиной. К сожалению, она непрочна, поэтому полезного материала получается меньше, чем из твёрдых пород.</VEE_Plant_TreePoplar_Auburn.description>
-  <VEE_Plant_TreePoplar_Auburn.label>пожелтевший тополь</VEE_Plant_TreePoplar_Auburn.label>
+  <VEE_Plant_TreeBirch_Auburn.description>Дерево умеренного климата с характерной тонкой белой корой, похожей на бумагу.</VEE_Plant_TreeBirch_Auburn.description>
+  <VEE_Plant_TreeBirch_Auburn.label>осенняя берёза</VEE_Plant_TreeBirch_Auburn.label>
+  <VEE_Plant_TreeMaple_Auburn.description>Распространённое дерево среднего размера, которое легко узнать по характерным трёхлопастным листьям.</VEE_Plant_TreeMaple_Auburn.description>
+  <VEE_Plant_TreeMaple_Auburn.label>осенний клён</VEE_Plant_TreeMaple_Auburn.label>
+  <VEE_Plant_TreeOak_Auburn.description>Дерево с твёрдой древесиной. Дубы растут долго, но их древесина настолько прочна, что во многих культурах дуб стал символом силы.</VEE_Plant_TreeOak_Auburn.description>
+  <VEE_Plant_TreeOak_Auburn.label>осенний дуб</VEE_Plant_TreeOak_Auburn.label>
+  <VEE_Plant_TreePoplar_Auburn.description>Очень быстрорастущее дерево с мягкой древесиной. К сожалению, древесина у него непрочная, поэтому оно даёт меньше полезного материала, чем деревья с твёрдой древесиной.</VEE_Plant_TreePoplar_Auburn.description>
+  <VEE_Plant_TreePoplar_Auburn.label>осенний тополь</VEE_Plant_TreePoplar_Auburn.label>
   <VEE_Plant_YoungAnimaTree.description>Небольшое дерево, затронутое анимой. Оно не обладает психической силой настоящего дерева анимы, но всё ещё тихо гудит от психической жизни.</VEE_Plant_YoungAnimaTree.description>
   <VEE_Plant_YoungAnimaTree.label>саженец древа души</VEE_Plant_YoungAnimaTree.label>
   <VEE_RadioactiveBarrel.description>Ржавая бочка, из которой вытекает выброшенное ядерное топливо.</VEE_RadioactiveBarrel.description>

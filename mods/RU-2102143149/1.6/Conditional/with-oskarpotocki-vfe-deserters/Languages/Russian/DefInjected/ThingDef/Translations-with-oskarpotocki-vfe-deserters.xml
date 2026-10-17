@@ -1,0 +1,51 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFEPD_Aerodrone.description>Беспилотный летательный аппарат космического технологического уровня с современными датчиками и ракетным вооружением. Не работает.</VFEPD_Aerodrone.description>
+  <VFEPD_Aerodrone.label>аэродрон</VFEPD_Aerodrone.label>
+  <VFEPD_AerodroneBatteryPack.description>Большой сверхзаряженный аккумулятор аэродрона. Не работает.</VFEPD_AerodroneBatteryPack.description>
+  <VFEPD_AerodroneBatteryPack.label>аккумулятор аэродрона</VFEPD_AerodroneBatteryPack.label>
+  <VFEPD_AerodroneMunitionsCrate.description>Большой военный ящик боеприпасов для аэродрона. При ближайшем рассмотрении оказывается, что все ракеты — пластиковые муляжи.</VFEPD_AerodroneMunitionsCrate.description>
+  <VFEPD_AerodroneMunitionsCrate.label>ящик боеприпасов аэродрона</VFEPD_AerodroneMunitionsCrate.label>
+  <VFEPD_AmmoBox_Autocannon.description>Небольшой ящик со снарядами автопушки для перезарядки турелей «Палинтон». При ближайшем рассмотрении оказывается, что внутри только пластиковые болванки.</VFEPD_AmmoBox_Autocannon.description>
+  <VFEPD_AmmoBox_Autocannon.label>ящик снарядов автопушки</VFEPD_AmmoBox_Autocannon.label>
+  <VFEPD_AmmoBox_Missile.description>Небольшой ящик с ракетами для перезарядки турелей «Онагр». При ближайшем рассмотрении оказывается, что внутри только пластиковые ракеты.</VFEPD_AmmoBox_Missile.description>
+  <VFEPD_AmmoBox_Missile.label>ящик ракет</VFEPD_AmmoBox_Missile.label>
+  <VFEPD_AmmoBox_UraniumSlug.description>Небольшой ящик с урановыми снарядами для перезарядки турелей «Контарий». Может взорваться при повреждении. При ближайшем рассмотрении оказывается, что внутри только пластиковые болванки.</VFEPD_AmmoBox_UraniumSlug.description>
+  <VFEPD_AmmoBox_UraniumSlug.label>ящик урановых снарядов</VFEPD_AmmoBox_UraniumSlug.label>
+  <VFEPD_BiosecuredCrate.description>Небольшой имперский ящик с чрезвычайно ценными предметами. Запечатан.</VFEPD_BiosecuredCrate.description>
+  <VFEPD_BiosecuredCrate.label>ящик с биометрической защитой</VFEPD_BiosecuredCrate.label>
+  <VFEPD_BurnoutIntelScraper.description>Устройство дезертиров для перехвата имперских сообщений. Похоже, отключено.</VFEPD_BurnoutIntelScraper.description>
+  <VFEPD_BurnoutIntelScraper.label>перегоревший перехватчик разведданных</VFEPD_BurnoutIntelScraper.label>
+  <VFEPD_DeserterShuttle.description>Челнок космического технологического уровня, предназначенный для перелётов между поверхностью и орбитой или между спутниками одной планетной системы. Похоже, не работает.</VFEPD_DeserterShuttle.description>
+  <VFEPD_DeserterShuttle.label>челнок дезертиров</VFEPD_DeserterShuttle.label>
+  <VFEPD_Filth_Propaganda.description>Имперская пропаганда.</VFEPD_Filth_Propaganda.description>
+  <VFEPD_Filth_Propaganda.label>пропаганда</VFEPD_Filth_Propaganda.label>
+  <VFEPD_FuelTank.description>Большая топливная цистерна для заправки имперских челноков. Совершенно пуста.</VFEPD_FuelTank.description>
+  <VFEPD_FuelTank.label>топливная цистерна</VFEPD_FuelTank.label>
+  <VFEPD_ImperialMaxpack.description>Имперский «Максгруз» — внушительный бронированный грузовик, известный впечатляющей грузоподъёмностью. Похоже, не работает.</VFEPD_ImperialMaxpack.description>
+  <VFEPD_ImperialMaxpack.label>имперский «Максгруз»</VFEPD_ImperialMaxpack.label>
+  <VFEPD_ImperialMegaHighShield.description>Передовая защитная установка. Похоже, отключена.</VFEPD_ImperialMegaHighShield.description>
+  <VFEPD_ImperialMegaHighShield.label>имперский сверхмощный высотный щит</VFEPD_ImperialMegaHighShield.label>
+  <VFEPD_ImperialUnderfarm.description>Подземная гидропонная установка, с помощью которой Империя кормит подданных. При ближайшем рассмотрении видно, что она отключена от водопровода, а все растения пластиковые.</VFEPD_ImperialUnderfarm.description>
+  <VFEPD_ImperialUnderfarm.label>имперская подземная ферма</VFEPD_ImperialUnderfarm.label>
+  <VFEPD_SupplyCrate.description>Небольшой имперский ящик с ценностями. Запечатан.</VFEPD_SupplyCrate.description>
+  <VFEPD_SupplyCrate.label>ящик снабжения</VFEPD_SupplyCrate.label>
+  <VFEPD_SurveillanceDisplayBank.description>Имперский компьютерный интерфейс. Отключён от сети.</VFEPD_SurveillanceDisplayBank.description>
+  <VFEPD_SurveillanceDisplayBank.label>блок экранов наблюдения</VFEPD_SurveillanceDisplayBank.label>
+  <VFEPD_SurveillancePillar.description>Большой столб с датчиками, камерами и детекторами движения. Похоже, отключён.</VFEPD_SurveillancePillar.description>
+  <VFEPD_SurveillancePillar.label>столб наблюдения</VFEPD_SurveillancePillar.label>
+  <VFEPD_SurveillanceStation.description>Большой пульт для подключения к окрестным столбам наблюдения. Этот отключён от сети.</VFEPD_SurveillanceStation.description>
+  <VFEPD_SurveillanceStation.label>пульт наблюдения</VFEPD_SurveillanceStation.label>
+  <VFEPD_TechiteDiscStack.description>Небольшая стопка дисков из загадочного вещества под названием техит. Только Империя производит их для записи знаний. Все эти диски пусты.</VFEPD_TechiteDiscStack.description>
+  <VFEPD_TechiteDiscStack.label>стопка дисков из техита</VFEPD_TechiteDiscStack.label>
+  <VFEPD_Techprinter.description>Технопринтер — чудо технической мысли, созданное для записи и сохранения сложных знаний из разума техномонаха. Этот отключён от сети.</VFEPD_Techprinter.description>
+  <VFEPD_Techprinter.label>технопринтер</VFEPD_Techprinter.label>
+  <VFEPD_WaterMain.description>Большой узел, соединяющий все окрестные водопроводные магистрали. При ближайшем рассмотрении видно, что он отключён от водопроводной сети.</VFEPD_WaterMain.description>
+  <VFEPD_WaterMain.label>водопроводный узел</VFEPD_WaterMain.label>
+  <VFEPD_ZeusCannonCapacitorBank.description>Блок конденсаторов, превращающий электричество в чистую энергию для пушки «Зевс». Похоже, отключён.</VFEPD_ZeusCannonCapacitorBank.description>
+  <VFEPD_ZeusCannonCapacitorBank.label>блок конденсаторов пушки «Зевс»</VFEPD_ZeusCannonCapacitorBank.label>
+  <VFEPD_ZeusCannonControlStation.description>Главный терминал управления батареями пушек «Зевс». Похоже, отключён.</VFEPD_ZeusCannonControlStation.description>
+  <VFEPD_ZeusCannonControlStation.label>пульт управления пушками «Зевс»</VFEPD_ZeusCannonControlStation.label>
+  <VFEPD_ZeusCannonStatic.description>Реликт древних технологий Софиамунди: пушка «Зевс» — тщательно охраняемый секрет Империи. Подождите, что это? Она... из картона!</VFEPD_ZeusCannonStatic.description>
+  <VFEPD_ZeusCannonStatic.label>стационарная пушка «Зевс»</VFEPD_ZeusCannonStatic.label>
+</LanguageData>

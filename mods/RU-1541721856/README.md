@@ -1,3 +1,5 @@
+[![Поддержать на Boosty — моды и переводы на заказ](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-support-ru.png)](https://boosty.to/chupakobra6?utm_source=github&utm_medium=repository&utm_campaign=star_sky_mods&utm_content=readme&utm_term=support)
+
 # Alpha Animals — русский перевод [Star Sky Mods]
 
 [![Alpha Animals — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/alpha-animals-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306758)
@@ -16,6 +18,8 @@
 
 Переведены животные, их особенности, связанные события, настройки и строки из кода. Оригинальный мод добавляет более сотни необычных существ с собственными способностями: одни появляются в разных биомах, других можно встретить у торговцев. Среди них есть существа, дающие ресурсы, ночные охотники и инсектоиды чёрного улья.
 
+![Что переведено](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/section-features-ru.png)
+
 ## Что переведено
 
 Переведены тексты животных, игровых событий и настроек.
@@ -23,6 +27,8 @@
 - Названия и описания животных, их продуктов, яиц, анатомии, состояний здоровья и способностей.
 - События, сообщения, задания, рецепты и связанные с существами игровые определения.
 - Настройки появления животных и чёрного улья, строки из кода и счётчик жизней совокота-феникса.
+
+![Как пользоваться](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/section-how-to-use-ru.png)
 
 ## Установка
 
@@ -33,6 +39,8 @@
 <!-- rimmods:readme installation end -->
 
 Исследуйте биомы и предложения торговцев, чтобы встретить разных животных. Появление существ и нападения чёрного улья можно настроить в параметрах Alpha Animals.
+
+![Обратная связь](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/section-feedback-ru.png)
 
 ## Обратная связь
 
@@ -53,3 +61,6 @@
 <!-- rimmods:readme ludeon begin -->
 Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.
 <!-- rimmods:readme ludeon end -->
+
+[![Исходники и руководство на GitHub](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/github-ru.png)](https://github.com/chupakobra6/star-sky-rimworld-mods/tree/main/mods/RU-1541721856)
+[![Другие моды в Мастерской Steam](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-ru.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)

@@ -15,11 +15,11 @@ namespace Igor.RU_1938420742
             { "VEE.GameCondition_MultiStage:get_TooltipString", new Dictionary<string,string> {
                 { "DEV: Time to next stage: ", "ОТЛАДКА: до следующей стадии: " }
             } },
-            { "VEE.HediffComp_Traitor:CompDebugString", new Dictionary<string,string> {
-                { "ticksToDisappear: ", "Тиков до раскрытия: " }
-            } },
             { "VEE.HediffComp_Traitor+<CompGetGizmos>d__10:MoveNext", new Dictionary<string,string> {
                 { "DEBUG: Now", "ОТЛАДКА: раскрыть предателя" }
+            } },
+            { "VEE.HediffComp_Traitor:CompDebugString", new Dictionary<string,string> {
+                { "ticksToDisappear: ", "Тиков до раскрытия: " }
             } },
             { "VEE.Settings.VEEMod:SettingsCategory", new Dictionary<string,string> {
                 { "Vanilla Events Expanded", "Vanilla Events Expanded — события" }
@@ -27,10 +27,10 @@ namespace Igor.RU_1938420742
             { "VEE.Settings.VEESettings:DoSettingsWindowContents", new Dictionary<string,string> {
                 { "Base chance: {0}", "Базовая вероятность: {0}" }
             } },
-            { "VEE.Settings.VEESettings:ResetWorldCondButton", new Dictionary<string,string> {
+            { "VEE.Settings.VEESettings:ResetMapCondButton", new Dictionary<string,string> {
                 { "Nothing to end", "Нет действующих событий" }
             } },
-            { "VEE.Settings.VEESettings:ResetMapCondButton", new Dictionary<string,string> {
+            { "VEE.Settings.VEESettings:ResetWorldCondButton", new Dictionary<string,string> {
                 { "Nothing to end", "Нет действующих событий" }
             } }
             };
@@ -40,9 +40,20 @@ namespace Igor.RU_1938420742
         public LiteralTranslations(ModContentPack content) : base(content)
         {
             var harmony = new Harmony("igor.ru.1938420742.literals");
-            foreach (var target in Methods.Keys)
+            foreach (var target in Methods.Keys.ToArray())
+            {
+                if (!IsApplicable(target)) { Methods.Remove(target); continue; }
                 harmony.Patch(ResolveTarget(target),
                     transpiler: new HarmonyMethod(typeof(LiteralTranslations), nameof(Transpile)));
+            }
+        }
+        public static bool IsApplicable(string target)
+        {
+            switch (target)
+            {
+
+                default: return true;
+            }
         }
         public static MethodBase ResolveTarget(string target)
         {

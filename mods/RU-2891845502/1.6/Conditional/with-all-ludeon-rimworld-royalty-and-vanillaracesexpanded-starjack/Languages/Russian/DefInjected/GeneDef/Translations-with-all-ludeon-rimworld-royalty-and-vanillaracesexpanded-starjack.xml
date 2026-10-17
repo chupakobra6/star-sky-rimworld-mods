@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AG_InnatePsylink_Astrogene.customEffectDescriptions.0>При утрате гена поселенец теряет ВСЕ уровни пси-связи, но сохраняет уже изученные пси-способности.</AG_InnatePsylink_Astrogene.customEffectDescriptions.0>
+  <AG_InnatePsylink_Astrogene.description>Носители этого гена обладают врождённой способностью использовать пси-силы.</AG_InnatePsylink_Astrogene.description>
+  <AG_InnatePsylink_Astrogene.label>врождённая пси-связь</AG_InnatePsylink_Astrogene.label>
+  <AG_InnatePsylink_Astrogene.symbolPack.prefixSymbols.0.symbol>пси</AG_InnatePsylink_Astrogene.symbolPack.prefixSymbols.0.symbol>
+  <AG_InnatePsylink_Astrogene.symbolPack.prefixSymbols.1.symbol>мысл</AG_InnatePsylink_Astrogene.symbolPack.prefixSymbols.1.symbol>
+  <AG_InnatePsylink_Astrogene.symbolPack.suffixSymbols.0.symbol>пси</AG_InnatePsylink_Astrogene.symbolPack.suffixSymbols.0.symbol>
+  <AG_Invisibility_Astrogene.description>Носители этого гена могут психически изменять цвет кожи, маскируясь почти в любом окружении.</AG_Invisibility_Astrogene.description>
+  <AG_Invisibility_Astrogene.label>психическая маскировка</AG_Invisibility_Astrogene.label>
+  <AG_PsychicSight_Astrogene.customEffectDescriptions.0>Зрение зависит от уровня пси-связи носителя.</AG_PsychicSight_Astrogene.customEffectDescriptions.0>
+  <AG_PsychicSight_Astrogene.customEffectDescriptions.1>При установленном Vanilla Psycasts Expanded результат, вероятно, будет весьма необычным.</AG_PsychicSight_Astrogene.customEffectDescriptions.1>
+  <AG_PsychicSight_Astrogene.description>Носители этого гена почти полностью слепы… пока не обретут пси-силы. Они могут направлять внутреннее психическое зрение, которое становится острее по мере роста их силы.</AG_PsychicSight_Astrogene.description>
+  <AG_PsychicSight_Astrogene.label>психическое зрение</AG_PsychicSight_Astrogene.label>
+  <AG_PsychicSight_Astrogene.symbolPack.prefixSymbols.0.symbol>пси</AG_PsychicSight_Astrogene.symbolPack.prefixSymbols.0.symbol>
+  <AG_PsychicSight_Astrogene.symbolPack.prefixSymbols.1.symbol>слеп</AG_PsychicSight_Astrogene.symbolPack.prefixSymbols.1.symbol>
+  <AG_PsychicSight_Astrogene.symbolPack.suffixSymbols.0.symbol>зритель</AG_PsychicSight_Astrogene.symbolPack.suffixSymbols.0.symbol>
+  <AG_PsychicSight_Astrogene.symbolPack.suffixSymbols.1.symbol>гляд</AG_PsychicSight_Astrogene.symbolPack.suffixSymbols.1.symbol>
+  <AG_SelfSkip_Astrogene.description>Носители могут переносить собственное тело скачком на небольшие расстояния.</AG_SelfSkip_Astrogene.description>
+  <AG_SelfSkip_Astrogene.label>самоскачок</AG_SelfSkip_Astrogene.label>
+</LanguageData>

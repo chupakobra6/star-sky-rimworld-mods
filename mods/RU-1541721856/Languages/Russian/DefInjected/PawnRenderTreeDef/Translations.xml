@@ -37,18 +37,6 @@
   <AA_GreenGoo.root.children.0.debugLabel>Тело</AA_GreenGoo.root.children.0.debugLabel>
   <AA_GreenGoo.root.children.1.debugLabel>Переносимый предмет</AA_GreenGoo.root.children.1.debugLabel>
   <AA_GreenGoo.root.debugLabel>Корень</AA_GreenGoo.root.debugLabel>
-  <AA_RedGoo.root.children.0.children.2.debugLabel>Раны</AA_RedGoo.root.children.0.children.2.debugLabel>
-  <AA_RedGoo.root.children.0.children.3.debugLabel>Поклажа</AA_RedGoo.root.children.0.children.3.debugLabel>
-  <AA_RedGoo.root.children.0.children.4.debugLabel>Пожарная пена</AA_RedGoo.root.children.0.children.4.debugLabel>
-  <AA_RedGoo.root.children.0.debugLabel>Тело</AA_RedGoo.root.children.0.debugLabel>
-  <AA_RedGoo.root.children.1.debugLabel>Переносимый предмет</AA_RedGoo.root.children.1.debugLabel>
-  <AA_RedGoo.root.debugLabel>Корень</AA_RedGoo.root.debugLabel>
-  <AA_RipperHound.root.children.0.children.2.debugLabel>Раны</AA_RipperHound.root.children.0.children.2.debugLabel>
-  <AA_RipperHound.root.children.0.children.3.debugLabel>Поклажа</AA_RipperHound.root.children.0.children.3.debugLabel>
-  <AA_RipperHound.root.children.0.children.4.debugLabel>Пожарная пена</AA_RipperHound.root.children.0.children.4.debugLabel>
-  <AA_RipperHound.root.children.0.debugLabel>Тело</AA_RipperHound.root.children.0.debugLabel>
-  <AA_RipperHound.root.children.1.debugLabel>Переносимый предмет</AA_RipperHound.root.children.1.debugLabel>
-  <AA_RipperHound.root.debugLabel>Корень</AA_RipperHound.root.debugLabel>
   <AA_Locusts.root.children.0.children.4.debugLabel>Раны</AA_Locusts.root.children.0.children.4.debugLabel>
   <AA_Locusts.root.children.0.children.5.debugLabel>Поклажа</AA_Locusts.root.children.0.children.5.debugLabel>
   <AA_Locusts.root.children.0.children.6.debugLabel>Пожарная пена</AA_Locusts.root.children.0.children.6.debugLabel>
@@ -67,6 +55,18 @@
   <AA_OcularJelly.root.children.0.debugLabel>Тело</AA_OcularJelly.root.children.0.debugLabel>
   <AA_OcularJelly.root.children.1.debugLabel>Переносимый предмет</AA_OcularJelly.root.children.1.debugLabel>
   <AA_OcularJelly.root.debugLabel>Корень</AA_OcularJelly.root.debugLabel>
+  <AA_RedGoo.root.children.0.children.2.debugLabel>Раны</AA_RedGoo.root.children.0.children.2.debugLabel>
+  <AA_RedGoo.root.children.0.children.3.debugLabel>Поклажа</AA_RedGoo.root.children.0.children.3.debugLabel>
+  <AA_RedGoo.root.children.0.children.4.debugLabel>Пожарная пена</AA_RedGoo.root.children.0.children.4.debugLabel>
+  <AA_RedGoo.root.children.0.debugLabel>Тело</AA_RedGoo.root.children.0.debugLabel>
+  <AA_RedGoo.root.children.1.debugLabel>Переносимый предмет</AA_RedGoo.root.children.1.debugLabel>
+  <AA_RedGoo.root.debugLabel>Корень</AA_RedGoo.root.debugLabel>
+  <AA_RipperHound.root.children.0.children.2.debugLabel>Раны</AA_RipperHound.root.children.0.children.2.debugLabel>
+  <AA_RipperHound.root.children.0.children.3.debugLabel>Поклажа</AA_RipperHound.root.children.0.children.3.debugLabel>
+  <AA_RipperHound.root.children.0.children.4.debugLabel>Пожарная пена</AA_RipperHound.root.children.0.children.4.debugLabel>
+  <AA_RipperHound.root.children.0.debugLabel>Тело</AA_RipperHound.root.children.0.debugLabel>
+  <AA_RipperHound.root.children.1.debugLabel>Переносимый предмет</AA_RipperHound.root.children.1.debugLabel>
+  <AA_RipperHound.root.debugLabel>Корень</AA_RipperHound.root.debugLabel>
   <AA_SmallButterfly.root.children.0.children.4.debugLabel>Раны</AA_SmallButterfly.root.children.0.children.4.debugLabel>
   <AA_SmallButterfly.root.children.0.children.5.debugLabel>Поклажа</AA_SmallButterfly.root.children.0.children.5.debugLabel>
   <AA_SmallButterfly.root.children.0.children.6.debugLabel>Пожарная пена</AA_SmallButterfly.root.children.0.children.6.debugLabel>

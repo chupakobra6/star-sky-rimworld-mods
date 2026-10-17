@@ -1,42 +1,42 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <VFE_AdvancedWindTurbine.description>Продвинутый ветрогенератор космического уровня. Для беспрепятственного движения воздуха ему требуется обширное свободное пространство спереди и сзади.</VFE_AdvancedWindTurbine.description>
-  <VFE_AdvancedSolarGenerator.description>Солнечная батарея космического уровня, способная получать значительно больше энергии из солнечного света. Не работает в темноте и при искусственном освещении.</VFE_AdvancedSolarGenerator.description>
-  <VFE_AdvancedWatermillGenerator.description>Водяной генератор космического уровня. Вырабатывает электричество за счёт речного течения; его колесо должно находиться в проточной воде. Если разместить генераторы слишком близко друг к другу, создаваемые ими завихрения будут мешать работе и снижать мощность.</VFE_AdvancedWatermillGenerator.description>
-  <VPE_AdvancedGeothermalGenerator.description>Продвинутый генератор космического уровня, вырабатывающий электричество за счёт геотермального пара. Устанавливается на паровом гейзере.</VPE_AdvancedGeothermalGenerator.description>
-  <VFE_LargeBattery.description>Хранит большой запас электричества для последующего использования. Заряженный аккумулятор взрывается под дождём или при воздействии огня.</VFE_LargeBattery.description>
-  <VFE_SmallBattery.description>Хранит небольшой запас электричества для последующего использования. Заряженный аккумулятор взрывается под дождём или при воздействии огня.</VFE_SmallBattery.description>
   <VFE_AdvancedBattery.description>Хранит электричество для последующего использования. Благодаря передовым технологиям значительно эффективнее обычного аккумулятора. Водонепроницаем и не взрывается под дождём даже в заряженном состоянии.</VFE_AdvancedBattery.description>
+  <VFE_AdvancedBattery.label>продвинутый аккумулятор</VFE_AdvancedBattery.label>
+  <VFE_AdvancedSolarGenerator.description>Солнечная батарея космического уровня, способная получать значительно больше энергии из солнечного света. Не работает в темноте и при искусственном освещении.</VFE_AdvancedSolarGenerator.description>
+  <VFE_AdvancedSolarGenerator.label>продвинутая солнечная батарея</VFE_AdvancedSolarGenerator.label>
+  <VFE_AdvancedWatermillGenerator.description>Водяной генератор космического уровня. Вырабатывает электричество за счёт речного течения; его колесо должно находиться в проточной воде. Если разместить генераторы слишком близко друг к другу, создаваемые ими завихрения будут мешать работе и снижать мощность.</VFE_AdvancedWatermillGenerator.description>
+  <VFE_AdvancedWatermillGenerator.label>продвинутый водяной генератор</VFE_AdvancedWatermillGenerator.label>
+  <VFE_AdvancedWindTurbine.description>Продвинутый ветрогенератор космического уровня. Для беспрепятственного движения воздуха ему требуется обширное свободное пространство спереди и сзади.</VFE_AdvancedWindTurbine.description>
+  <VFE_AdvancedWindTurbine.label>продвинутый ветрогенератор</VFE_AdvancedWindTurbine.label>
+  <VFE_IndustrialChemfuelPoweredGenerator.description>Производит много электроэнергии, расходуя химтопливо. Нужно время от времени заправлять вручную.</VFE_IndustrialChemfuelPoweredGenerator.description>
+  <VFE_IndustrialChemfuelPoweredGenerator.label>промышленный генератор на химтопливе</VFE_IndustrialChemfuelPoweredGenerator.label>
+  <VFE_IndustrialWoodFiredGenerator.description>Производит много электроэнергии, сжигая древесину. Нужно время от времени вручную подкладывать дрова.</VFE_IndustrialWoodFiredGenerator.description>
+  <VFE_IndustrialWoodFiredGenerator.label>промышленный генератор на дровах</VFE_IndustrialWoodFiredGenerator.label>
   <VFE_LargeAdvancedBattery.description>Хранит большой запас электричества для последующего использования. Благодаря передовым технологиям значительно эффективнее обычного аккумулятора. Водонепроницаем и не взрывается под дождём даже в заряженном состоянии.</VFE_LargeAdvancedBattery.description>
+  <VFE_LargeAdvancedBattery.label>большой продвинутый аккумулятор</VFE_LargeAdvancedBattery.label>
+  <VFE_LargeBattery.description>Хранит большой запас электричества для последующего использования. Заряженный аккумулятор взрывается под дождём или при воздействии огня.</VFE_LargeBattery.description>
+  <VFE_LargeBattery.label>большой аккумулятор</VFE_LargeBattery.label>
+  <VFE_LargeVanometricPowerCell.description>Бесконечно вырабатывает много электричества без расхода топлива. Эта технология разработана архотеками и недоступна даже большинству утопических миров. Никто точно не знает, как она работает; учёные предполагают, что генератор извлекает энергию непосредственно из флуктуаций квантовой пены.</VFE_LargeVanometricPowerCell.description>
+  <VFE_LargeVanometricPowerCell.label>большой ванометрический генератор</VFE_LargeVanometricPowerCell.label>
+  <VFE_PortableChemfuelPoweredGenerator.description>Производит немного электроэнергии, расходуя химтопливо. Нужно время от времени заправлять вручную. Генератор достаточно лёгкий, чтобы его переносить.</VFE_PortableChemfuelPoweredGenerator.description>
+  <VFE_PortableChemfuelPoweredGenerator.label>переносной генератор на химтопливе</VFE_PortableChemfuelPoweredGenerator.label>
+  <VFE_PortableWoodFiredGenerator.description>Производит немного электроэнергии, сжигая древесину. Нужно время от времени вручную подкладывать дрова. Генератор достаточно лёгкий, чтобы его переносить.</VFE_PortableWoodFiredGenerator.description>
+  <VFE_PortableWoodFiredGenerator.label>переносной генератор на дровах</VFE_PortableWoodFiredGenerator.label>
+  <VFE_SmallBattery.description>Хранит небольшой запас электричества для последующего использования. Заряженный аккумулятор взрывается под дождём или при воздействии огня.</VFE_SmallBattery.description>
+  <VFE_SmallBattery.label>небольшой аккумулятор</VFE_SmallBattery.label>
+  <VFE_SmallVanometricPowerCell.description>Бесконечно вырабатывает совсем немного электричества без расхода топлива. Эта технология разработана архотеками и недоступна даже большинству утопических миров. Никто точно не знает, как она работает; учёные предполагают, что генератор извлекает энергию непосредственно из флуктуаций квантовой пены.</VFE_SmallVanometricPowerCell.description>
+  <VFE_SmallVanometricPowerCell.label>небольшой ванометрический генератор</VFE_SmallVanometricPowerCell.label>
+  <VFE_TidalGenerator.description>Вырабатывает электричество за счёт движения больших масс воды, прежде всего приливов. Должен стоять на воде.</VFE_TidalGenerator.description>
+  <VFE_TidalGenerator.label>приливный генератор</VFE_TidalGenerator.label>
+  <VPE_AdvancedGeothermalGenerator.description>Продвинутый генератор космического уровня, вырабатывающий электричество за счёт геотермального пара. Устанавливается на паровом гейзере.</VPE_AdvancedGeothermalGenerator.description>
+  <VPE_AdvancedGeothermalGenerator.label>продвинутый геотермальный генератор</VPE_AdvancedGeothermalGenerator.label>
+  <VPE_ArchotechViolenceGenerator.description>Это устройство улавливает психическую энергию, покидающую тела погибших гуманоидов поблизости, и напрямую преобразует её в электричество. Эту технологию разработали архотеки. Она недоступна даже большинству цивилизаций миров-утопий.</VPE_ArchotechViolenceGenerator.description>
+  <VPE_ArchotechViolenceGenerator.label>архотехнологический генератор насилия</VPE_ArchotechViolenceGenerator.label>
+  <VPE_Mote_GasPuff.label>частица</VPE_Mote_GasPuff.label>
   <VPE_NuclearGenerator.description>Большой ядерный реактор, переделанный из корабельного энергоблока. Потребляет уран и вырабатывает много электричества. Его можно перегрузить, чтобы увеличить мощность, но тогда он начнёт облучать окрестности.
 
 Реактор быстро перегревается и нуждается в постоянном охлаждении.
 
 Устанавливается только в помещении.</VPE_NuclearGenerator.description>
-  <VFE_SmallVanometricPowerCell.description>Бесконечно вырабатывает совсем немного электричества без расхода топлива. Эта технология разработана архотеками и недоступна даже большинству утопических миров. Никто точно не знает, как она работает; учёные предполагают, что генератор извлекает энергию непосредственно из флуктуаций квантовой пены.</VFE_SmallVanometricPowerCell.description>
-  <VFE_LargeVanometricPowerCell.description>Бесконечно вырабатывает много электричества без расхода топлива. Эта технология разработана архотеками и недоступна даже большинству утопических миров. Никто точно не знает, как она работает; учёные предполагают, что генератор извлекает энергию непосредственно из флуктуаций квантовой пены.</VFE_LargeVanometricPowerCell.description>
-  <VPE_ArchotechViolenceGenerator.description>Это устройство преобразует психическую энергию, покидающую тела умерших поблизости людей и других гуманоидов, в электричество. Технология разработана архотеками и недоступна даже большинству утопических миров.</VPE_ArchotechViolenceGenerator.description>
-  <VPE_Mote_GasPuff.label>частица</VPE_Mote_GasPuff.label>
-  <VFE_AdvancedWindTurbine.label>продвинутый ветрогенератор</VFE_AdvancedWindTurbine.label>
-  <VFE_AdvancedSolarGenerator.label>продвинутая солнечная батарея</VFE_AdvancedSolarGenerator.label>
-  <VFE_AdvancedWatermillGenerator.label>продвинутый водяной генератор</VFE_AdvancedWatermillGenerator.label>
-  <VPE_AdvancedGeothermalGenerator.label>продвинутый геотермальный генератор</VPE_AdvancedGeothermalGenerator.label>
-  <VFE_LargeBattery.label>большой аккумулятор</VFE_LargeBattery.label>
-  <VFE_SmallBattery.label>небольшой аккумулятор</VFE_SmallBattery.label>
-  <VFE_AdvancedBattery.label>продвинутый аккумулятор</VFE_AdvancedBattery.label>
-  <VFE_LargeAdvancedBattery.label>большой продвинутый аккумулятор</VFE_LargeAdvancedBattery.label>
   <VPE_NuclearGenerator.label>ядерный реактор</VPE_NuclearGenerator.label>
-  <VFE_PortableWoodFiredGenerator.label>переносной генератор на дровах</VFE_PortableWoodFiredGenerator.label>
-  <VFE_PortableWoodFiredGenerator.description>Производит немного электроэнергии, сжигая древесину. Нужно время от времени вручную подкладывать дрова. Генератор достаточно лёгкий, чтобы его переносить.</VFE_PortableWoodFiredGenerator.description>
-  <VFE_PortableChemfuelPoweredGenerator.label>переносной генератор на химтопливе</VFE_PortableChemfuelPoweredGenerator.label>
-  <VFE_PortableChemfuelPoweredGenerator.description>Производит немного электроэнергии, расходуя химтопливо. Нужно время от времени заправлять вручную. Генератор достаточно лёгкий, чтобы его переносить.</VFE_PortableChemfuelPoweredGenerator.description>
-  <VFE_IndustrialWoodFiredGenerator.label>промышленный генератор на дровах</VFE_IndustrialWoodFiredGenerator.label>
-  <VFE_IndustrialWoodFiredGenerator.description>Производит много электроэнергии, сжигая древесину. Нужно время от времени вручную подкладывать дрова.</VFE_IndustrialWoodFiredGenerator.description>
-  <VFE_IndustrialChemfuelPoweredGenerator.label>промышленный генератор на химтопливе</VFE_IndustrialChemfuelPoweredGenerator.label>
-  <VFE_IndustrialChemfuelPoweredGenerator.description>Производит много электроэнергии, расходуя химтопливо. Нужно время от времени заправлять вручную.</VFE_IndustrialChemfuelPoweredGenerator.description>
-  <VFE_TidalGenerator.label>приливный генератор</VFE_TidalGenerator.label>
-  <VFE_TidalGenerator.description>Вырабатывает электричество за счёт движения больших масс воды, прежде всего приливов. Должен стоять на воде.</VFE_TidalGenerator.description>
-  <VFE_SmallVanometricPowerCell.label>небольшой ванометрический генератор</VFE_SmallVanometricPowerCell.label>
-  <VFE_LargeVanometricPowerCell.label>большой ванометрический генератор</VFE_LargeVanometricPowerCell.label>
-  <VPE_ArchotechViolenceGenerator.label>жестокий архогенератор</VPE_ArchotechViolenceGenerator.label>
 </LanguageData>

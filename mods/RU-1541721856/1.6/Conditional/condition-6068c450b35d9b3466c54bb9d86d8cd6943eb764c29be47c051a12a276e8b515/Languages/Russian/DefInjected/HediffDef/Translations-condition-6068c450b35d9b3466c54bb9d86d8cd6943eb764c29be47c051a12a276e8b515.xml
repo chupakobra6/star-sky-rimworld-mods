@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AAVPE_Electrified.description>Кровь этого поселенца или животного наполнена потенциалом обратной энтропии, позволяющим заряжать электрические аккумуляторы, просто находясь рядом. Изменение постоянно и довольно травматично.</AAVPE_Electrified.description>
+  <AAVPE_Electrified.label>электризован</AAVPE_Electrified.label>
+  <AAVPE_Exploder.description>Пси-силой внедрённые узелки химтоплива заставят этого человека или животное взорваться после смерти.</AAVPE_Exploder.description>
+  <AAVPE_Exploder.label>узелки химтоплива</AAVPE_Exploder.label>
+  <AAVPE_FungalSkin.description>На коже этого человека или животного растут несколько гигантских грибов. Они не причиняют боли и дают значительную естественную броню, но делают носителя ОЧЕНЬ уязвимым к огню.</AAVPE_FungalSkin.description>
+  <AAVPE_FungalSkin.label>грибная кожа</AAVPE_FungalSkin.label>
+  <AAVPE_Hover.description>Ограниченный пси-полёт позволяет этому поселенцу или животному перепрыгивать и планировать на небольшие расстояния. На время действия способности штрафы местности к передвижению игнорируются.</AAVPE_Hover.description>
+  <AAVPE_Hover.label>парение</AAVPE_Hover.label>
+  <AAVPE_KO.description>Этот человек получил настолько мощный пси-удар, что не может двигаться.</AAVPE_KO.description>
+  <AAVPE_KO.label>без сознания</AAVPE_KO.label>
+  <AAVPE_KO.labelNoun>потеря сознания</AAVPE_KO.labelNoun>
+  <AAVPE_LightSustenance.description>Часть кожи этого поселенца или животного заменена растительной тканью, что почти полностью устраняет потребность в еде, но требует постоянно находиться на свету для питания. Изменение постоянно и довольно травматично.</AAVPE_LightSustenance.description>
+  <AAVPE_LightSustenance.label>сниженная потребность в еде</AAVPE_LightSustenance.label>
+  <AAVPE_Regeneration.description>Этот поселенец или животное обладает пси-активным полем регенерации, позволяющим заживлять раны гораздо быстрее обычного.</AAVPE_Regeneration.description>
+  <AAVPE_Regeneration.label>регенерация</AAVPE_Regeneration.label>
+  <AAVPE_StrengthenBlackHive.description>Это насекомое Чёрного улья усилено и лучше сражается.</AAVPE_StrengthenBlackHive.description>
+  <AAVPE_StrengthenBlackHive.label>усиленное насекомое</AAVPE_StrengthenBlackHive.label>
+  <AA_MalevolentEye.description>Из этой раны вылезает злобный налитый кровью глаз, который моргает и беспокойно озирается. Без лечения окружающие ткани сгниют, что в итоге вызовет заражение крови и смерть. Однако пострадавший может видеть этим глазом.</AA_MalevolentEye.description>
+  <AA_MalevolentEye.label>злобный глаз</AA_MalevolentEye.label>
+  <AA_MalevolentEye.labelNoun>зловещий глаз</AA_MalevolentEye.labelNoun>
+  <AA_MalevolentEye.stages.0.label>слабый уровень</AA_MalevolentEye.stages.0.label>
+  <AA_MalevolentEye.stages.1.label>значительный уровень</AA_MalevolentEye.stages.1.label>
+  <AA_MalevolentEye.stages.2.label>крайний уровень</AA_MalevolentEye.stages.2.label>
+  <AA_MalevolentEye.stages.3.label>крайний уровень</AA_MalevolentEye.stages.3.label>
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationReplace" MayRequire="dankpyon.medieval.overhaul">
+    <xpath>Defs/RecipeDef[defName="MA_MakeSteelbone" and label="forge steelbone" and jobString="Forging steelbone..." and workAmount="2500" and recipeUsers/li="DankPyon_Furnace" and ingredients/li/filter/thingDefs/li="DankPyon_IronIngot"]/defName</xpath>
+    <value>
+      <defName>MA_MakeSteelbone_Medieval</defName>
+    </value>
+  </Operation>
+</Patch>

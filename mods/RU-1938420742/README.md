@@ -1,3 +1,5 @@
+[![Поддержать на Boosty — моды и переводы на заказ](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-support-ru.png)](https://boosty.to/chupakobra6?utm_source=github&utm_medium=repository&utm_campaign=star_sky_mods&utm_content=readme&utm_term=support)
+
 # Vanilla Events Expanded — русский перевод [Star Sky Mods]
 
 [![Vanilla Events Expanded — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/vanilla-events-expanded-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306734)
@@ -8,6 +10,8 @@
 
 Vanilla Events Expanded обновляет знакомые события и добавляет новые истории для колонии. Этот пакет переводит названия событий, письма, условия и связанные игровые тексты на русский язык.
 
+![Что переведено](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/section-features-ru.png)
+
 ## Что переведено
 
 Переведены тексты событий и их последствий.
@@ -15,6 +19,8 @@ Vanilla Events Expanded обновляет знакомые события и д
 - Письма и сообщения о погодных явлениях, бедствиях и происшествиях.
 - Названия и описания условий, предметов и персонажей, связанных с событиями.
 - Тексты цепочек событий и заданий, включая крушение орбитального корабля.
+
+![Как пользоваться](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/section-how-to-use-ru.png)
 
 ## Установка
 
@@ -25,6 +31,8 @@ Vanilla Events Expanded обновляет знакомые события и д
 <!-- rimmods:readme installation end -->
 
 События происходят во время игры; читайте письма и реагируйте на происходящее в колонии.
+
+![Обратная связь](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/section-feedback-ru.png)
 
 ## Обратная связь
 
@@ -45,3 +53,6 @@ Vanilla Events Expanded обновляет знакомые события и д
 <!-- rimmods:readme ludeon begin -->
 Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.
 <!-- rimmods:readme ludeon end -->
+
+[![Исходники и руководство на GitHub](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/github-ru.png)](https://github.com/chupakobra6/star-sky-rimworld-mods/tree/main/mods/RU-1938420742)
+[![Другие моды в Мастерской Steam](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-ru.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)

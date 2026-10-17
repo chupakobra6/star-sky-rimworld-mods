@@ -18,7 +18,7 @@
   <AM_Tier3BandAmount>Пропускная способность пустотного канального узла</AM_Tier3BandAmount>
   <AM_Tier3BandAmountDesc>Каждый пустотный канальный узел увеличивает пропускную способность механитора на это значение. Действует только с активным DLC Biotech. Чтобы применить изменения, выключите питание узлов и включите его снова.</AM_Tier3BandAmountDesc>
   <AM_allowAura>Разрешить появление аур</AM_allowAura>
-  <AM_allowDaggersnout>Разрешить появление кинжалорылов</AM_allowDaggersnout>
+  <AM_allowDaggersnout>Разрешить клинкорылов</AM_allowDaggersnout>
   <AM_allowDemolisher>Разрешить появление разрушителей</AM_allowDemolisher>
   <AM_allowFireworm>Разрешить появление огнечервей</AM_allowFireworm>
   <AM_allowGoliath>Разрешить появление голиафов</AM_allowGoliath>

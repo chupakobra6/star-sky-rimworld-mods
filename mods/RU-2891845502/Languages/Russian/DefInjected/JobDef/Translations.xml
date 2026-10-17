@@ -1,17 +1,17 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
   <AG_ConsumeMetal.reportString>Потребляет TargetA.</AG_ConsumeMetal.reportString>
-  <AG_FeedMetal.reportString>Кормит TargetB.</AG_FeedMetal.reportString>
   <AG_DeliverMetal.reportString>Доставляет для TargetC.</AG_DeliverMetal.reportString>
-  <AG_UseGeneRemover.reportString>Использует удалитель генов.</AG_UseGeneRemover.reportString>
-  <AG_UseEndogenefier.reportString>Использует эндогенификатор.</AG_UseEndogenefier.reportString>
-  <AG_UseXenogenefier.reportString>Использует ксеногенификатор.</AG_UseXenogenefier.reportString>
-  <AG_UseXenotypeNullifier.reportString>Использует обнулитель ксенотипа.</AG_UseXenotypeNullifier.reportString>
-  <AG_UseGermlineMutator.reportString>Использует мутатор наследуемых генов.</AG_UseGermlineMutator.reportString>
-  <AG_UseXenotypeInjector.reportString>Использует инъектор ксенотипа.</AG_UseXenotypeInjector.reportString>
-  <AG_UseGenepackTweaker.reportString>Использует модификатор генных пакетов.</AG_UseGenepackTweaker.reportString>
-  <AG_UseGenepackDisruptor.reportString>использует деструктор генных пакетов.</AG_UseGenepackDisruptor.reportString>
-  <AG_UseArchoGeneRemover.reportString>Использует архотехнологический удалитель генов.</AG_UseArchoGeneRemover.reportString>
+  <AG_FeedMetal.reportString>Кормит TargetB.</AG_FeedMetal.reportString>
   <AG_UseArchoEndogenefier.reportString>Использует архотехнологический эндогенификатор.</AG_UseArchoEndogenefier.reportString>
+  <AG_UseArchoGeneRemover.reportString>Использует архотехнологический удалитель генов.</AG_UseArchoGeneRemover.reportString>
   <AG_UseArchoXenogenefier.reportString>Использует архотехнологический ксеногенификатор.</AG_UseArchoXenogenefier.reportString>
+  <AG_UseEndogenefier.reportString>Использует эндогенификатор.</AG_UseEndogenefier.reportString>
+  <AG_UseGeneRemover.reportString>Использует удалитель генов.</AG_UseGeneRemover.reportString>
+  <AG_UseGenepackDisruptor.reportString>использует деструктор генных пакетов.</AG_UseGenepackDisruptor.reportString>
+  <AG_UseGenepackTweaker.reportString>Использует модификатор генных пакетов.</AG_UseGenepackTweaker.reportString>
+  <AG_UseGermlineMutator.reportString>Использует мутатор наследуемых генов.</AG_UseGermlineMutator.reportString>
+  <AG_UseXenogenefier.reportString>Использует ксеногенификатор.</AG_UseXenogenefier.reportString>
+  <AG_UseXenotypeInjector.reportString>Использует инъектор ксенотипа.</AG_UseXenotypeInjector.reportString>
+  <AG_UseXenotypeNullifier.reportString>Использует обнулитель ксенотипа.</AG_UseXenotypeNullifier.reportString>
 </LanguageData>

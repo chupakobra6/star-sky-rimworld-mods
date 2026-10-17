@@ -2,17 +2,44 @@
 <loadFolders>
   <v1.6>
     <li>/</li>
+    <li IfModActiveAll="ludeon.rimworld.anomaly,sarg.alphabiomes">1.6/Conditional/with-all-ludeon-rimworld-anomaly-and-sarg-alphabiomes</li>
     <li IfModActive="ludeon.rimworld.anomaly">1.6/Conditional/with-ludeon-rimworld-anomaly</li>
     <li IfModActive="ludeon.rimworld.biotech">1.6/Conditional/with-ludeon-rimworld-biotech</li>
     <li IfModActive="ludeon.rimworld.ideology">1.6/Conditional/with-ludeon-rimworld-ideology</li>
     <li IfModActive="ludeon.rimworld.odyssey">1.6/Conditional/with-ludeon-rimworld-odyssey</li>
     <li IfModActive="ludeon.rimworld.royalty">1.6/Conditional/with-ludeon-rimworld-royalty</li>
+    <li IfModActive="oskarpotocki.vanillavehiclesexpanded">1.6/Conditional/with-oskarpotocki-vanillavehiclesexpanded</li>
+    <li IfModActive="oskarpotocki.vanillavehiclesexpandedtier3">1.6/Conditional/with-oskarpotocki-vanillavehiclesexpandedtier3</li>
     <li IfModActive="oskarpotocki.vfe.classical">1.6/Conditional/with-oskarpotocki-vfe-classical</li>
+    <li IfModActive="oskarpotocki.vfe.deserters">1.6/Conditional/with-oskarpotocki-vfe-deserters</li>
+    <li IfModActive="oskarpotocki.vfe.empire">1.6/Conditional/with-oskarpotocki-vfe-empire</li>
+    <li IfModActive="oskarpotocki.vfe.insectoid2">1.6/Conditional/with-oskarpotocki-vfe-insectoid2</li>
+    <li IfModActive="sarg.alphabiomes">1.6/Conditional/with-sarg-alphabiomes</li>
     <li IfModActive="sarg.alphagenes">1.6/Conditional/with-sarg-alphagenes</li>
+    <li IfModActive="sarg.alphamemes">1.6/Conditional/with-sarg-alphamemes</li>
+    <li IfModActive="sarg.alphavehiclesageofsail">1.6/Conditional/with-sarg-alphavehiclesageofsail</li>
+    <li IfModActive="sarg.alphavehiclesearlycars">1.6/Conditional/with-sarg-alphavehiclesearlycars</li>
+    <li IfModActive="sarg.alphavehiclesneolithic">1.6/Conditional/with-sarg-alphavehiclesneolithic</li>
+    <li IfModActive="vanillaexpanded.gravship">1.6/Conditional/with-vanillaexpanded-gravship</li>
+    <li IfModActive="vanillaexpanded.temperature">1.6/Conditional/with-vanillaexpanded-temperature</li>
+    <li IfModActive="vanillaexpanded.vbrewe">1.6/Conditional/with-vanillaexpanded-vbrewe</li>
+    <li IfModActive="vanillaexpanded.vbrewecandt">1.6/Conditional/with-vanillaexpanded-vbrewecandt</li>
+    <li IfModActive="vanillaexpanded.vchemfuele">1.6/Conditional/with-vanillaexpanded-vchemfuele</li>
+    <li IfModActive="vanillaexpanded.vcooke">1.6/Conditional/with-vanillaexpanded-vcooke</li>
+    <li IfModActive="vanillaexpanded.vcookebakery">1.6/Conditional/with-vanillaexpanded-vcookebakery</li>
+    <li IfModActive="vanillaexpanded.vcookestews">1.6/Conditional/with-vanillaexpanded-vcookestews</li>
+    <li IfModActive="vanillaexpanded.vcookesushi">1.6/Conditional/with-vanillaexpanded-vcookesushi</li>
+    <li IfModActive="vanillaexpanded.vfearchitect">1.6/Conditional/with-vanillaexpanded-vfearchitect</li>
+    <li IfModActive="vanillaexpanded.vgeneticse">1.6/Conditional/with-vanillaexpanded-vgeneticse</li>
+    <li IfModActive="vanillaexpanded.vmemese">1.6/Conditional/with-vanillaexpanded-vmemese</li>
     <li IfModActive="vanillaexpanded.vpeflowers">1.6/Conditional/with-vanillaexpanded-vpeflowers</li>
     <li IfModActive="vanillaexpanded.vplantse">1.6/Conditional/with-vanillaexpanded-vplantse</li>
     <li IfModActive="vanillaexpanded.vplantsemore">1.6/Conditional/with-vanillaexpanded-vplantsemore</li>
     <li IfModActive="vanillaexpanded.vplantsemushrooms">1.6/Conditional/with-vanillaexpanded-vplantsemushrooms</li>
     <li IfModActive="vanillaexpanded.vplantsesucculents">1.6/Conditional/with-vanillaexpanded-vplantsesucculents</li>
+    <li IfModActive="vanillaquestsexpanded.ancients">1.6/Conditional/with-vanillaquestsexpanded-ancients</li>
+    <li IfModActive="xmb.ancienthydroponicfarmfacilities.mo">1.6/Conditional/with-xmb-ancienthydroponicfarmfacilities-mo</li>
+    <li IfModActive="xmb.ancientminingindustry.mo">1.6/Conditional/with-xmb-ancientminingindustry-mo</li>
+    <li IfModActive="xmb.ancienturbanruins.mo">1.6/Conditional/with-xmb-ancienturbanruins-mo</li>
   </v1.6>
 </loadFolders>

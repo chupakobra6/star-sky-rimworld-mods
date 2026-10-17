@@ -1,0 +1,31 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VCHE_FakeDucts.description>Воздуховод системы кондиционирования для передачи воздуха между блоками и компрессорами. Эти воздуховоды ничего не передают.</VCHE_FakeDucts.description>
+  <VCHE_FakeDucts.label>муляж воздуховодов</VCHE_FakeDucts.label>
+  <VFEPD_VTE_ACCompressor.description>Компрессор, который подключается к пульту кондиционирования воздуховодами. Размещается только снаружи. При наличии питания позволяет сети обслуживать ещё два устройства кондиционирования без потери эффективности. Не работает: все внутренние механизмы сняли.</VFEPD_VTE_ACCompressor.description>
+  <VFEPD_VTE_ACCompressor.label>компрессор кондиционирования</VFEPD_VTE_ACCompressor.label>
+  <VFEPD_VTE_ACControlUnit.description>Главный пульт системы кондиционирования. Подключается к компрессорам и позволяет блокам кондиционирования подавать холодный или тёплый воздух. Для соединения с компрессорами нужны воздуховоды. Задаёт желаемую температуру для всех блоков одной сети. Избыточное число блоков может снизить эффективность сети и повысить энергопотребление всех устройств. Дополнительные компрессоры повышают эффективность. Не работает: все внутренние механизмы сняли.</VFEPD_VTE_ACControlUnit.description>
+  <VFEPD_VTE_ACControlUnit.label>пульт кондиционирования</VFEPD_VTE_ACControlUnit.label>
+  <VFEPD_VTE_ACUnit.description>Встроенный в стену блок кондиционирования. В зависимости от температуры комнаты подаёт холодный или тёплый воздух в одном направлении. Если его не отключить от общих настроек сети, стремится достичь температуры, заданной на пульте. Для подключения к пульту нужны воздуховоды. Не работает: все внутренние механизмы сняли.</VFEPD_VTE_ACUnit.description>
+  <VFEPD_VTE_ACUnit.label>блок кондиционирования</VFEPD_VTE_ACUnit.label>
+  <VFEPD_VTE_ACUnitWall.description>Настенный блок кондиционирования. В зависимости от температуры комнаты подаёт холодный или тёплый воздух в одном направлении. Если его не отключить от общих настроек сети, стремится достичь температуры, заданной на пульте. Для подключения к пульту нужны воздуховоды. Можно установить только на стене. Не работает: все внутренние механизмы сняли.</VFEPD_VTE_ACUnitWall.description>
+  <VFEPD_VTE_ACUnitWall.label>настенный блок кондиционирования</VFEPD_VTE_ACUnitWall.label>
+  <VFEPD_VTE_IndustrialCooler.description>Большой промышленный кондиционер, встроенный в стену. С одной стороны выходит холодный воздух, с другой — горячий. Позволяет охлаждать помещения летом или создавать морозильные камеры. Способен понижать температуру гораздо сильнее обычного кондиционера. Не работает: все внутренние механизмы сняли.</VFEPD_VTE_IndustrialCooler.description>
+  <VFEPD_VTE_IndustrialCooler.label>промышленный кондиционер</VFEPD_VTE_IndustrialCooler.label>
+  <VFEPD_VTE_IndustrialHeater.description>Большой промышленный обогреватель, встроенный в стену. Превращает электричество в тепло и автоматически включается или выключается для поддержания заданной температуры. Может нагревать помещение гораздо сильнее обычных обогревателей. Не работает: все внутренние механизмы сняли.</VFEPD_VTE_IndustrialHeater.description>
+  <VFEPD_VTE_IndustrialHeater.label>промышленный обогреватель</VFEPD_VTE_IndustrialHeater.label>
+  <VFEPD_VTE_LargeACCompressor.description>Большой компрессор, который подключается к пульту кондиционирования воздуховодами. Размещается только снаружи. При наличии питания позволяет сети обслуживать ещё шесть устройств кондиционирования без потери эффективности. Не работает: все внутренние механизмы сняли.</VFEPD_VTE_LargeACCompressor.description>
+  <VFEPD_VTE_LargeACCompressor.label>большой компрессор кондиционирования</VFEPD_VTE_LargeACCompressor.label>
+  <VFEPD_VTE_StandingCooler.description>Отдельно стоящее устройство охлаждения воздуха. Вентилятор выпускает прохладный воздух, распространяющийся вокруг. Позволяет охлаждать помещения летом, но для хранения пищи его мощности недостаточно. Не работает: все внутренние механизмы сняли.</VFEPD_VTE_StandingCooler.description>
+  <VFEPD_VTE_StandingCooler.label>напольный охладитель</VFEPD_VTE_StandingCooler.label>
+  <VFEPD_VTE_VentValve.description>Включает или перекрывает поток воздуха. Не работает: все внутренние механизмы сняли.</VFEPD_VTE_VentValve.description>
+  <VFEPD_VTE_VentValve.label>клапан воздуховода</VFEPD_VTE_VentValve.label>
+  <VFEPD_VTE_WallHeater.description>Встроенный в стену обогреватель. Превращает электричество в тепло и автоматически включается или выключается для поддержания заданной температуры. Позволяет обогревать помещения зимой. Не работает: все внутренние механизмы сняли.</VFEPD_VTE_WallHeater.description>
+  <VFEPD_VTE_WallHeater.label>встроенный обогреватель</VFEPD_VTE_WallHeater.label>
+  <VFEPD_VTE_WallMountedCooler.description>Встроенный в стену кондиционер. С одной стороны выходит холодный воздух, с другой — горячий. Позволяет охлаждать помещения летом или создавать морозильные камеры. Можно установить только на стене. Не работает: все внутренние механизмы сняли.</VFEPD_VTE_WallMountedCooler.description>
+  <VFEPD_VTE_WallMountedCooler.label>настенный кондиционер</VFEPD_VTE_WallMountedCooler.label>
+  <VFEPD_VTE_WallMountedHeater.description>Настенное устройство, превращающее электричество в тепло. Автоматически включается или выключается для поддержания заданной температуры. Можно установить только на стене. Не работает: все внутренние механизмы сняли.</VFEPD_VTE_WallMountedHeater.description>
+  <VFEPD_VTE_WallMountedHeater.label>настенный обогреватель</VFEPD_VTE_WallMountedHeater.label>
+  <VFEPD_VTE_WallMountedVent.description>Простое настенное вентиляционное отверстие для выравнивания температуры в двух комнатах, не позволяющее людям проходить между ними. Можно установить только на стене. Не работает: все внутренние механизмы сняли.</VFEPD_VTE_WallMountedVent.description>
+  <VFEPD_VTE_WallMountedVent.label>настенная вентиляция</VFEPD_VTE_WallMountedVent.label>
+</LanguageData>

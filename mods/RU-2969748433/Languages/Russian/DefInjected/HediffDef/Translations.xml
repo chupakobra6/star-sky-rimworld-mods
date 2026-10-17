@@ -54,8 +54,8 @@
   <BMT_SporesBuildup.stages.minor.label>лёгкое</BMT_SporesBuildup.stages.minor.label>
   <BMT_SporesBuildup.stages.moderate.label>умеренное</BMT_SporesBuildup.stages.moderate.label>
   <BMT_SporesBuildup.stages.serious.label>серьёзное</BMT_SporesBuildup.stages.serious.label>
-  <BMT_StimquillHigh.description>Действие недавно принятого стимквилла. Одновременно бодрит и успокаивает.</BMT_StimquillHigh.description>
-  <BMT_StimquillHigh.label>под действием стимквилла</BMT_StimquillHigh.label>
+  <BMT_StimquillHigh.description>Недавнее употребление бодролиста одновременно бодрит и успокаивает.</BMT_StimquillHigh.description>
+  <BMT_StimquillHigh.label>опьянение бодролистом</BMT_StimquillHigh.label>
   <BMT_ThermophileMechanites.description>Полукогерентные механиты, образующие на коже небольшие металлические наросты. Они повышают устойчивость организма к экстремальным температурам, но причиняют сильную боль. Вероятно, это мутировавший штамм механитов, предназначенных для выживания в необычных условиях.</BMT_ThermophileMechanites.description>
   <BMT_ThermophileMechanites.label>термофильные механиты</BMT_ThermophileMechanites.label>
   <BMT_ThermophileMechanites.stages.intense_pain.label>сильная боль</BMT_ThermophileMechanites.stages.intense_pain.label>

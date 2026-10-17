@@ -2,13 +2,22 @@
 <loadFolders>
   <v1.6>
     <li>/</li>
+    <li IfModActive="redmattis.heaven,redmattis.undead">1.6/Conditional/condition-26be327cc199092b826e69c1aa2471889609094e6b84b1da5055eab1b5d0580f</li>
+    <li IfModActive="redmattis.undead,redmattis.undead.zombieapoc,redmattis.yokai">1.6/Conditional/condition-2714cbe7610e7117bddf1f2079ebee362a854031093b1577d23925227a3a0a06</li>
+    <li IfModActive="redmattis.bigsmall,redmattis.bigsmall.bugs,redmattis.bigweapons,redmattis.bsslimes,redmattis.heaven,redmattis.lamiasandothersnakes,redmattis.madapril2025,redmattis.morexenos,redmattis.optional,redmattis.sapientanimals,redmattis.undead,redmattis.yokai" IfModActiveAll="ludeon.rimworld.royalty">1.6/Conditional/condition-476a655808f28344336357f486735ac7db454357736ff03798f8334576c93e5b</li>
+    <li IfModActive="redmattis.bigsmall,redmattis.bigsmall.bugs,redmattis.bigweapons,redmattis.bsslimes,redmattis.heaven,redmattis.lamiasandothersnakes,redmattis.madapril2025,redmattis.morexenos,redmattis.optional,redmattis.sapientanimals,redmattis.undead,redmattis.yokai">1.6/Conditional/condition-cd9dec00f59a1076c47291639ce85db113a966b6cda633a2038bacecbe4b79c8</li>
+    <li IfModActive="redmattis.bsslimes,redmattis.madapril2025,redmattis.optional">1.6/Conditional/condition-d4f51984e5244f247e112d335df8fc468292149804ab14531a5e31d97bd8b4da</li>
     <li IfModActiveAll="ludeon.rimworld.anomaly,vanillaracesexpanded.android">1.6/Conditional/with-all-ludeon-rimworld-anomaly-and-vanillaracesexpanded-android</li>
+    <li IfModActiveAll="nals.facialanimation,vanillaracesexpanded.android">1.6/Conditional/with-all-nals-facialanimation-and-vanillaracesexpanded-android</li>
     <li IfModActiveAll="sarg.alphagenes,vanillaracesexpanded.android">1.6/Conditional/with-all-sarg-alphagenes-and-vanillaracesexpanded-android</li>
     <li IfModActiveAll="vanillaracesexpanded.android,vanillaracesexpanded.starjack">1.6/Conditional/with-all-vanillaracesexpanded-android-and-vanillaracesexpanded-starjack</li>
+    <li IfModActive="killathon.mechhumanlikes.androidtierscore">1.6/Conditional/with-killathon-mechhumanlikes-androidtierscore</li>
     <li IfModActive="ludeon.rimworld.anomaly">1.6/Conditional/with-ludeon-rimworld-anomaly</li>
     <li IfModActive="ludeon.rimworld.ideology">1.6/Conditional/with-ludeon-rimworld-ideology</li>
     <li IfModActive="ludeon.rimworld.odyssey">1.6/Conditional/with-ludeon-rimworld-odyssey</li>
     <li IfModActive="mehni.numbers">1.6/Conditional/with-mehni-numbers</li>
+    <li IfModActive="oskarpotocki.vfe.insectoid2">1.6/Conditional/with-oskarpotocki-vfe-insectoid2</li>
+    <li IfModActive="redmattis.optional">1.6/Conditional/with-redmattis-optional</li>
     <li IfModActive="vanillaracesexpanded.android">1.6/Conditional/with-vanillaracesexpanded-android</li>
     <li IfModActive="vanillaracesexpanded.starjack">1.6/Conditional/with-vanillaracesexpanded-starjack</li>
   </v1.6>

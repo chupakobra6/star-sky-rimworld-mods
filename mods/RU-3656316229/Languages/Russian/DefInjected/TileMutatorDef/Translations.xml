@@ -20,14 +20,14 @@
   <VEE_AnimaSoils.label>почва души</VEE_AnimaSoils.label>
   <VEE_AnimaSoils_Coast.description>Местная почва насыщена скрытой энергией анимы, которая незаметно воздействует на растения, животных и разум.</VEE_AnimaSoils_Coast.description>
   <VEE_AnimaSoils_Coast.label>почва души</VEE_AnimaSoils_Coast.label>
-  <VEE_AuburnTree_Birches.description>В этом лесистом краю многие деревья остаются красными и золотыми, словно осень никогда не заканчивается.</VEE_AuburnTree_Birches.description>
-  <VEE_AuburnTree_Birches.label>пожелтевшие берёзы</VEE_AuburnTree_Birches.label>
-  <VEE_AuburnTree_Maples.description>В этом лесистом краю многие деревья остаются красными и золотыми, словно осень никогда не заканчивается.</VEE_AuburnTree_Maples.description>
-  <VEE_AuburnTree_Maples.label>пожелтевшие клёны</VEE_AuburnTree_Maples.label>
-  <VEE_AuburnTree_Oaks.description>В этом лесистом краю многие деревья остаются красными и золотыми, словно осень никогда не заканчивается.</VEE_AuburnTree_Oaks.description>
-  <VEE_AuburnTree_Oaks.label>пожелтевшие дубы</VEE_AuburnTree_Oaks.label>
-  <VEE_AuburnTree_Poplars.description>В этом лесистом краю многие деревья остаются красными и золотыми, словно осень никогда не заканчивается.</VEE_AuburnTree_Poplars.description>
-  <VEE_AuburnTree_Poplars.label>пожелтевшие тополя</VEE_AuburnTree_Poplars.label>
+  <VEE_AuburnTree_Birches.description>В этом лесу многие деревья сохраняют красные и золотые оттенки, словно осень здесь никак не закончится.</VEE_AuburnTree_Birches.description>
+  <VEE_AuburnTree_Birches.label>осенние берёзы</VEE_AuburnTree_Birches.label>
+  <VEE_AuburnTree_Maples.description>В этом лесу многие деревья сохраняют красные и золотые оттенки, словно осень здесь никак не закончится.</VEE_AuburnTree_Maples.description>
+  <VEE_AuburnTree_Maples.label>осенние клёны</VEE_AuburnTree_Maples.label>
+  <VEE_AuburnTree_Oaks.description>В этом лесу многие деревья сохраняют красные и золотые оттенки, словно осень здесь никак не закончится.</VEE_AuburnTree_Oaks.description>
+  <VEE_AuburnTree_Oaks.label>осенние дубы</VEE_AuburnTree_Oaks.label>
+  <VEE_AuburnTree_Poplars.description>В этом лесу многие деревья сохраняют красные и золотые оттенки, словно осень здесь никак не закончится.</VEE_AuburnTree_Poplars.description>
+  <VEE_AuburnTree_Poplars.label>осенние тополя</VEE_AuburnTree_Poplars.label>
   <VEE_BasaltCape.description>Выступающий мыс из тёмного базальта, расколотого древними лавовыми потоками на острые колонны. Богат вулканическими породами.</VEE_BasaltCape.description>
   <VEE_BasaltCape.label>базальтовый мыс</VEE_BasaltCape.label>
   <VEE_Blooming_Buttercup.description>В этой местности может расти множество ярких диких лютиков.</VEE_Blooming_Buttercup.description>
@@ -80,8 +80,8 @@
   <VEE_DistressedWildlife.label>встревоженная фауна</VEE_DistressedWildlife.label>
   <VEE_DomesticatedEscapees.description>В дикой природе появляются небольшие стада сельскохозяйственных животных, например кур, свиней и коров, оставшихся от исчезнувших поселений или ферм.</VEE_DomesticatedEscapees.description>
   <VEE_DomesticatedEscapees.label>одомашненные животные</VEE_DomesticatedEscapees.label>
-  <VEE_DriftwoodShore.description>Участок побережья, усеянный выбеленными брёвнами и обломками древесины. Приливы и штормы принесли их с далёких берегов.</VEE_DriftwoodShore.description>
-  <VEE_DriftwoodShore.label>берег с топляками</VEE_DriftwoodShore.label>
+  <VEE_DriftwoodShore.description>Участок побережья, усеянный белёсыми брёвнами и древесными обломками, которые приливы и штормы принесли с далёких берегов.</VEE_DriftwoodShore.description>
+  <VEE_DriftwoodShore.label>плавник</VEE_DriftwoodShore.label>
   <VEE_DryRiver.description>Пересохший участок реки — предположительно из-за отсутствия осадков выше по течению.</VEE_DryRiver.description>
   <VEE_DryRiver.label>высохшая река</VEE_DryRiver.label>
   <VEE_DustBowl.description>Выжженная солнцем пустошь, заполненная пылью и сухими ветрами. Растительность почти исчезла, а нескончаемые песчаные бури делают выживание тяжёлым и беспощадным.</VEE_DustBowl.description>
@@ -97,7 +97,7 @@
   <VEE_Fertility_Reduced.description>В этой области нет плодородной почвы.</VEE_Fertility_Reduced.description>
   <VEE_Fertility_Reduced.label>неплодородная почва</VEE_Fertility_Reduced.label>
   <VEE_FirewoodTrees.description>В этом регионе много огнедревов, приспособленных к плодородной вулканической почве.</VEE_FirewoodTrees.description>
-  <VEE_FirewoodTrees.label>пепельные деревья</VEE_FirewoodTrees.label>
+  <VEE_FirewoodTrees.label>огнедревы</VEE_FirewoodTrees.label>
   <VEE_FloodPlains.description>Низменность, сформированная сезонными разливами. Богатая питательными веществами вода периодически выходит из берегов и отступает, оставляя плодородную почву.</VEE_FloodPlains.description>
   <VEE_FloodPlains.label>паводковые равнины</VEE_FloodPlains.label>
   <VEE_FrequentAuroras.description>В этой области полярные сияния происходят гораздо чаще.</VEE_FrequentAuroras.description>

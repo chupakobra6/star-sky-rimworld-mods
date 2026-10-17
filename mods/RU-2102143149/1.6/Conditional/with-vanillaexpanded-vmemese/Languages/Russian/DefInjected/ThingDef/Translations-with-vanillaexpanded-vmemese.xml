@@ -1,0 +1,71 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFEPD_Atom.description>Декорация-частица «Символ атома». Сама по себе вызывает подтормаживания, хотя меньше, чем декорации с генераторами эффектов. Используйте умеренно.</VFEPD_Atom.description>
+  <VFEPD_Atom.label>символ атома</VFEPD_Atom.label>
+  <VFEPD_AuthStar.description>Декорация-частица «Авторитарная звезда». Сама по себе вызывает подтормаживания. Используйте умеренно.</VFEPD_AuthStar.description>
+  <VFEPD_AuthStar.label>авторитарная звезда</VFEPD_AuthStar.label>
+  <VFEPD_Bulb.description>Декорация-частица «Лампочка». Сама по себе вызывает подтормаживания. Используйте умеренно.</VFEPD_Bulb.description>
+  <VFEPD_Bulb.label>лампочка</VFEPD_Bulb.label>
+  <VFEPD_Crescent.description>Декорация-частица «Полумесяц». Сама по себе вызывает подтормаживания. Используйте умеренно.</VFEPD_Crescent.description>
+  <VFEPD_Crescent.label>полумесяц</VFEPD_Crescent.label>
+  <VFEPD_Cross.description>Декорация-частица «Крест». Сама по себе вызывает подтормаживания. Используйте умеренно.</VFEPD_Cross.description>
+  <VFEPD_Cross.label>крест</VFEPD_Cross.label>
+  <VFEPD_CrystalBall.description>Декорация-частица «Хрустальный шар». Сама по себе вызывает подтормаживания, хотя меньше, чем декорации с генераторами эффектов. Используйте умеренно.</VFEPD_CrystalBall.description>
+  <VFEPD_CrystalBall.label>хрустальный шар</VFEPD_CrystalBall.label>
+  <VFEPD_DivinationStarA.description>Декорация-частица «Звезда гадания A». Сама по себе вызывает подтормаживания. Используйте умеренно.</VFEPD_DivinationStarA.description>
+  <VFEPD_DivinationStarA.label>звезда гадания A</VFEPD_DivinationStarA.label>
+  <VFEPD_DivinationStarB.description>Декорация-частица «Звезда гадания B». Сама по себе вызывает подтормаживания. Используйте умеренно.</VFEPD_DivinationStarB.description>
+  <VFEPD_DivinationStarB.label>звезда гадания B</VFEPD_DivinationStarB.label>
+  <VFEPD_DivinationStarC.description>Декорация-частица «Звезда гадания C». Сама по себе вызывает подтормаживания. Используйте умеренно.</VFEPD_DivinationStarC.description>
+  <VFEPD_DivinationStarC.label>звезда гадания C</VFEPD_DivinationStarC.label>
+  <VFEPD_EldritchRune.description>Декорация-частица «Зловещая руна». Сама по себе вызывает подтормаживания, хотя меньше, чем декорации с генераторами эффектов. Используйте умеренно.</VFEPD_EldritchRune.description>
+  <VFEPD_EldritchRune.label>зловещая руна</VFEPD_EldritchRune.label>
+  <VFEPD_FallingMeteor.description>Декорация-частица «Падающий метеор». Сама по себе вызывает подтормаживания. Используйте умеренно.</VFEPD_FallingMeteor.description>
+  <VFEPD_FallingMeteor.label>падающий метеор</VFEPD_FallingMeteor.label>
+  <VFEPD_Galaxy.description>Декорация-частица «Галактика». Сама по себе вызывает подтормаживания. Используйте умеренно.</VFEPD_Galaxy.description>
+  <VFEPD_Galaxy.label>галактика</VFEPD_Galaxy.label>
+  <VFEPD_Grapes.description>Декорация-частица «Виноград». Сама по себе вызывает подтормаживания. Используйте умеренно.</VFEPD_Grapes.description>
+  <VFEPD_Grapes.label>виноград</VFEPD_Grapes.label>
+  <VFEPD_Graph.description>Декорация-частица «График». Сама по себе вызывает подтормаживания. Используйте умеренно.</VFEPD_Graph.description>
+  <VFEPD_Graph.label>график</VFEPD_Graph.label>
+  <VFEPD_GreekColumn.description>Декорация-частица «Греческая колонна». Сама по себе вызывает подтормаживания, хотя меньше, чем декорации с генераторами эффектов. Используйте умеренно.</VFEPD_GreekColumn.description>
+  <VFEPD_GreekColumn.label>греческая колонна</VFEPD_GreekColumn.label>
+  <VFEPD_HugeStar.description>Декорация-частица «Огромная звезда». Сама по себе вызывает подтормаживания, хотя меньше, чем декорации с генераторами эффектов. Используйте умеренно.</VFEPD_HugeStar.description>
+  <VFEPD_HugeStar.label>огромная звезда</VFEPD_HugeStar.label>
+  <VFEPD_InsectCloudMote.description>Декорация-частица «Частица роя насекомых». Сама по себе вызывает подтормаживания. Используйте умеренно.</VFEPD_InsectCloudMote.description>
+  <VFEPD_InsectCloudMote.label>частица роя насекомых</VFEPD_InsectCloudMote.label>
+  <VFEPD_Ohm.description>Декорация-частица «Ом». Сама по себе вызывает подтормаживания. Используйте умеренно.</VFEPD_Ohm.description>
+  <VFEPD_Ohm.label>ом</VFEPD_Ohm.label>
+  <VFEPD_OmnistSymbol.description>Декорация-частица «Символ омнизма». Сама по себе вызывает подтормаживания, хотя меньше, чем декорации с генераторами эффектов. Используйте умеренно.</VFEPD_OmnistSymbol.description>
+  <VFEPD_OmnistSymbol.label>символ омнизма</VFEPD_OmnistSymbol.label>
+  <VFEPD_PantheistSymbol.description>Декорация-частица «Символ пантеизма». Сама по себе вызывает подтормаживания, хотя меньше, чем декорации с генераторами эффектов. Используйте умеренно.</VFEPD_PantheistSymbol.description>
+  <VFEPD_PantheistSymbol.label>символ пантеизма</VFEPD_PantheistSymbol.label>
+  <VFEPD_PentagramsMote.description>Декорация-частица «Пентаграмма». Сама по себе вызывает подтормаживания, хотя меньше, чем декорации с генераторами эффектов. Используйте умеренно.</VFEPD_PentagramsMote.description>
+  <VFEPD_PentagramsMote.label>пентаграмма</VFEPD_PentagramsMote.label>
+  <VFEPD_ScarabMote.description>Декорация-частица «Частица скарабея». Сама по себе вызывает подтормаживания. Используйте умеренно.</VFEPD_ScarabMote.description>
+  <VFEPD_ScarabMote.label>частица скарабея</VFEPD_ScarabMote.label>
+  <VFEPD_SpaceJunk.description>Древние обломки космического мусора, упавшие с орбиты. Возможно, следы давней космической битвы.</VFEPD_SpaceJunk.description>
+  <VFEPD_SpaceJunk.label>космический мусор</VFEPD_SpaceJunk.label>
+  <VFEPD_Statue.description>Декорация-частица «Статуя». Сама по себе вызывает подтормаживания, хотя меньше, чем декорации с генераторами эффектов. Используйте умеренно.</VFEPD_Statue.description>
+  <VFEPD_Statue.label>статуя</VFEPD_Statue.label>
+  <VFEPD_Stonks.description>Декорация-частица «Акции растут». Сама по себе вызывает подтормаживания. Используйте умеренно.</VFEPD_Stonks.description>
+  <VFEPD_Stonks.label>акции растут</VFEPD_Stonks.label>
+  <VFEPD_SwderptikaMote.description>Декорация-частица «Свастикля». Сама по себе вызывает подтормаживания, хотя меньше, чем декорации с генераторами эффектов. Используйте умеренно. Врежьте нацисту.</VFEPD_SwderptikaMote.description>
+  <VFEPD_SwderptikaMote.label>свастикля</VFEPD_SwderptikaMote.label>
+  <VFEPD_Tentacle.description>Декорация-частица «Щупальце». Сама по себе вызывает подтормаживания. Используйте умеренно.</VFEPD_Tentacle.description>
+  <VFEPD_Tentacle.label>щупальце</VFEPD_Tentacle.label>
+  <VFEPD_TentacleThree.description>Декорация-частица «Щупальце». Сама по себе вызывает подтормаживания. Используйте умеренно.</VFEPD_TentacleThree.description>
+  <VFEPD_TentacleThree.label>щупальце</VFEPD_TentacleThree.label>
+  <VFEPD_TentacleTwo.description>Декорация-частица «Щупальце». Сама по себе вызывает подтормаживания. Используйте умеренно.</VFEPD_TentacleTwo.description>
+  <VFEPD_TentacleTwo.label>щупальце</VFEPD_TentacleTwo.label>
+  <VFEPD_Torii.description>Декорация-частица «Тории». Сама по себе вызывает подтормаживания. Используйте умеренно.</VFEPD_Torii.description>
+  <VFEPD_Torii.label>тории</VFEPD_Torii.label>
+  <VFEPD_TradingConfetti.description>Декорация с генератором эффекта «Торговое конфетти». Сама по себе вызывает подтормаживания. Используйте умеренно.</VFEPD_TradingConfetti.description>
+  <VFEPD_TradingConfetti.label>торговое конфетти</VFEPD_TradingConfetti.label>
+  <VFEPD_TradingStandard.description>Декорация-частица «Торговый штандарт». Сама по себе вызывает подтормаживания, хотя меньше, чем декорации с генераторами эффектов. Используйте умеренно.</VFEPD_TradingStandard.description>
+  <VFEPD_TradingStandard.label>торговый штандарт</VFEPD_TradingStandard.label>
+  <VFEPD_YinYangMote.description>Декорация-частица «Инь и ян». Сама по себе вызывает подтормаживания. Используйте умеренно.</VFEPD_YinYangMote.description>
+  <VFEPD_YinYangMote.label>инь и ян</VFEPD_YinYangMote.label>
+  <VFEPD_Yoga.description>Декорация-частица «Символ йоги». Сама по себе вызывает подтормаживания, хотя меньше, чем декорации с генераторами эффектов. Используйте умеренно.</VFEPD_Yoga.description>
+  <VFEPD_Yoga.label>символ йоги</VFEPD_Yoga.label>
+</LanguageData>

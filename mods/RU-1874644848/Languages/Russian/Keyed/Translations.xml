@@ -1,22 +1,76 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <chupakobra6_1874644848_Label_MUTATION_TIP>Превратить в мутанта
-Удерживайте [CTRL], чтобы создать усиленного мутанта</chupakobra6_1874644848_Label_MUTATION_TIP>
-  <chupakobra6_1874644848_Label_OVERWRITE_EXISTING>Перезаписать существующие данные?</chupakobra6_1874644848_Label_OVERWRITE_EXISTING>
-  <chupakobra6_1874644848_Label_FLIP>Обратить выбор</chupakobra6_1874644848_Label_FLIP>
-  <chupakobra6_1874644848_Label_WRONGPAWN>Нельзя выбрать того же персонажа! Выберите другого или смените категорию.</chupakobra6_1874644848_Label_WRONGPAWN>
+  <chupakobra6_1874644848_CapacityFactor>      множитель: </chupakobra6_1874644848_CapacityFactor>
+  <chupakobra6_1874644848_CapacityOffset> прибавка: </chupakobra6_1874644848_CapacityOffset>
+  <chupakobra6_1874644848_East>восток</chupakobra6_1874644848_East>
+  <chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Animal>Животные</chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Animal>
+  <chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Attachment>Прикреплённые объекты</chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Attachment>
+  <chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Building>Постройки</chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Building>
+  <chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Ethereal>Нематериальные объекты</chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Ethereal>
+  <chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Filth>Грязь</chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Filth>
+  <chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_HumanOrAlien>Люди и другие гуманоиды</chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_HumanOrAlien>
+  <chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Item>Предметы</chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Item>
+  <chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Mechanoid>Механоиды</chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Mechanoid>
+  <chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Mineable>Породы и руды</chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Mineable>
+  <chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_None>Все</chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_None>
+  <chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Pawn>Пешки</chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Pawn>
+  <chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Plant>Растения</chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Plant>
+  <chupakobra6_1874644848_Enum_RimWorld_Quadrum_Aprimay>Мартомай</chupakobra6_1874644848_Enum_RimWorld_Quadrum_Aprimay>
+  <chupakobra6_1874644848_Enum_RimWorld_Quadrum_Decembary>Декавраль</chupakobra6_1874644848_Enum_RimWorld_Quadrum_Decembary>
+  <chupakobra6_1874644848_Enum_RimWorld_Quadrum_Jugust>Июгуст</chupakobra6_1874644848_Enum_RimWorld_Quadrum_Jugust>
+  <chupakobra6_1874644848_Enum_RimWorld_Quadrum_Septober>Сентоноябрь</chupakobra6_1874644848_Enum_RimWorld_Quadrum_Septober>
+  <chupakobra6_1874644848_Enum_RimWorld_Quadrum_Undefined>Не определён</chupakobra6_1874644848_Enum_RimWorld_Quadrum_Undefined>
+  <chupakobra6_1874644848_Enum_RimWorld_RotStage_Dessicated>Высохшее</chupakobra6_1874644848_Enum_RimWorld_RotStage_Dessicated>
+  <chupakobra6_1874644848_Enum_RimWorld_RotStage_Fresh>Свежее</chupakobra6_1874644848_Enum_RimWorld_RotStage_Fresh>
+  <chupakobra6_1874644848_Enum_RimWorld_RotStage_Rotting>Гниющее</chupakobra6_1874644848_Enum_RimWorld_RotStage_Rotting>
+  <chupakobra6_1874644848_Enum_RimWorld_TechLevel_Animal>Животный</chupakobra6_1874644848_Enum_RimWorld_TechLevel_Animal>
+  <chupakobra6_1874644848_Enum_RimWorld_TechLevel_Archotech>Архотехнологичный</chupakobra6_1874644848_Enum_RimWorld_TechLevel_Archotech>
+  <chupakobra6_1874644848_Enum_RimWorld_TechLevel_Industrial>Индустриальный</chupakobra6_1874644848_Enum_RimWorld_TechLevel_Industrial>
+  <chupakobra6_1874644848_Enum_RimWorld_TechLevel_Medieval>Средневековый</chupakobra6_1874644848_Enum_RimWorld_TechLevel_Medieval>
+  <chupakobra6_1874644848_Enum_RimWorld_TechLevel_Neolithic>Неолитический</chupakobra6_1874644848_Enum_RimWorld_TechLevel_Neolithic>
+  <chupakobra6_1874644848_Enum_RimWorld_TechLevel_Spacer>Космический</chupakobra6_1874644848_Enum_RimWorld_TechLevel_Spacer>
+  <chupakobra6_1874644848_Enum_RimWorld_TechLevel_Ultra>Ультратехнологичный</chupakobra6_1874644848_Enum_RimWorld_TechLevel_Ultra>
+  <chupakobra6_1874644848_Enum_RimWorld_TechLevel_Undefined>Неопределённый</chupakobra6_1874644848_Enum_RimWorld_TechLevel_Undefined>
+  <chupakobra6_1874644848_Enum_RimWorld_Tradeability_All>Можно продавать и покупать</chupakobra6_1874644848_Enum_RimWorld_Tradeability_All>
+  <chupakobra6_1874644848_Enum_RimWorld_Tradeability_Buyable>Можно покупать</chupakobra6_1874644848_Enum_RimWorld_Tradeability_Buyable>
+  <chupakobra6_1874644848_Enum_RimWorld_Tradeability_None>Не продаётся и не покупается</chupakobra6_1874644848_Enum_RimWorld_Tradeability_None>
+  <chupakobra6_1874644848_Enum_RimWorld_Tradeability_Sellable>Можно продавать</chupakobra6_1874644848_Enum_RimWorld_Tradeability_Sellable>
+  <chupakobra6_1874644848_Enum_Verse_EndogeneCategory_BodyType>Телосложение</chupakobra6_1874644848_Enum_Verse_EndogeneCategory_BodyType>
+  <chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Ears>Уши</chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Ears>
+  <chupakobra6_1874644848_Enum_Verse_EndogeneCategory_HairColor>Цвет волос</chupakobra6_1874644848_Enum_Verse_EndogeneCategory_HairColor>
+  <chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Hands>Кисти</chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Hands>
+  <chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Head>Голова</chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Head>
+  <chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Headbone>Кости черепа</chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Headbone>
+  <chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Jaw>Челюсть</chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Jaw>
+  <chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Melanin>Меланин</chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Melanin>
+  <chupakobra6_1874644848_Enum_Verse_EndogeneCategory_None>Нет</chupakobra6_1874644848_Enum_Verse_EndogeneCategory_None>
+  <chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Nose>Нос</chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Nose>
+  <chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Voice>Голос</chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Voice>
+  <chupakobra6_1874644848_Enum_Verse_GasType_BlindSmoke>Завеса дыма</chupakobra6_1874644848_Enum_Verse_GasType_BlindSmoke>
+  <chupakobra6_1874644848_Enum_Verse_GasType_DeadlifeDust>Порошок мёртвой жизни</chupakobra6_1874644848_Enum_Verse_GasType_DeadlifeDust>
+  <chupakobra6_1874644848_Enum_Verse_GasType_RotStink>Трупный смрад</chupakobra6_1874644848_Enum_Verse_GasType_RotStink>
+  <chupakobra6_1874644848_Enum_Verse_GasType_ToxGas>Токсичный газ</chupakobra6_1874644848_Enum_Verse_GasType_ToxGas>
+  <chupakobra6_1874644848_Enum_Verse_GeneticBodyType_Fat>Полное</chupakobra6_1874644848_Enum_Verse_GeneticBodyType_Fat>
+  <chupakobra6_1874644848_Enum_Verse_GeneticBodyType_Hulk>Мускулистое</chupakobra6_1874644848_Enum_Verse_GeneticBodyType_Hulk>
+  <chupakobra6_1874644848_Enum_Verse_GeneticBodyType_Standard>Обычное</chupakobra6_1874644848_Enum_Verse_GeneticBodyType_Standard>
+  <chupakobra6_1874644848_Enum_Verse_GeneticBodyType_Thin>Худое</chupakobra6_1874644848_Enum_Verse_GeneticBodyType_Thin>
+  <chupakobra6_1874644848_HeadAverage>обычная</chupakobra6_1874644848_HeadAverage>
+  <chupakobra6_1874644848_HeadNarrow>узкая</chupakobra6_1874644848_HeadNarrow>
+  <chupakobra6_1874644848_HeadNormal>обычная</chupakobra6_1874644848_HeadNormal>
+  <chupakobra6_1874644848_HeadPointy>заострённая</chupakobra6_1874644848_HeadPointy>
+  <chupakobra6_1874644848_HeadWide>широкая</chupakobra6_1874644848_HeadWide>
   <chupakobra6_1874644848_Label_ABILITIES>Способности</chupakobra6_1874644848_Label_ABILITIES>
   <chupakobra6_1874644848_Label_ACTIVATEPLACINGMODE>Включить режим размещения</chupakobra6_1874644848_Label_ACTIVATEPLACINGMODE>
   <chupakobra6_1874644848_Label_ADD>Добавить</chupakobra6_1874644848_Label_ADD>
+  <chupakobra6_1874644848_Label_ADDICTIONCHANCEFACTOR>Множитель вероятности зависимости</chupakobra6_1874644848_Label_ADDICTIONCHANCEFACTOR>
+  <chupakobra6_1874644848_Label_ADDONS_INFO>Индексы задаются отдельно для каждой пешки, а размер отрисовки и отображение для разных полов — для всей расы. </chupakobra6_1874644848_Label_ADDONS_INFO>
+  <chupakobra6_1874644848_Label_ADDONS_INFO2> — изменения для всей расы действуют только до завершения сеанса игры!</chupakobra6_1874644848_Label_ADDONS_INFO2>
+  <chupakobra6_1874644848_Label_ADDSTAT>Добавить характеристику</chupakobra6_1874644848_Label_ADDSTAT>
   <chupakobra6_1874644848_Label_ADD_GENE>Добавить ген</chupakobra6_1874644848_Label_ADD_GENE>
   <chupakobra6_1874644848_Label_ADD_HEDIFF>Состояния здоровья</chupakobra6_1874644848_Label_ADD_HEDIFF>
   <chupakobra6_1874644848_Label_ADD_THOUGHT>Создать воспоминание</chupakobra6_1874644848_Label_ADD_THOUGHT>
   <chupakobra6_1874644848_Label_ADD_TRAIT>Черты характера</chupakobra6_1874644848_Label_ADD_TRAIT>
   <chupakobra6_1874644848_Label_ADD_WEAPON>Добавить оружие</chupakobra6_1874644848_Label_ADD_WEAPON>
-  <chupakobra6_1874644848_Label_ADDICTIONCHANCEFACTOR>Множитель вероятности зависимости</chupakobra6_1874644848_Label_ADDICTIONCHANCEFACTOR>
-  <chupakobra6_1874644848_Label_ADDONS_INFO>Индексы задаются отдельно для каждой пешки, а размер отрисовки и отображение для разных полов — для всей расы. </chupakobra6_1874644848_Label_ADDONS_INFO>
-  <chupakobra6_1874644848_Label_ADDONS_INFO2> — изменения для всей расы действуют только до завершения сеанса игры!</chupakobra6_1874644848_Label_ADDONS_INFO2>
-  <chupakobra6_1874644848_Label_ADDSTAT>Добавить характеристику</chupakobra6_1874644848_Label_ADDSTAT>
   <chupakobra6_1874644848_Label_ALL>Все</chupakobra6_1874644848_Label_ALL>
   <chupakobra6_1874644848_Label_ALLCUSTOMSWILLBEDELEATED>Все пользовательские записи будут удалены, включая сохранённые варианты оружия, одежды и предметов. Продолжить?</chupakobra6_1874644848_Label_ALLCUSTOMSWILLBEDELEATED>
   <chupakobra6_1874644848_Label_ALLSLOTSWILLBECLEARED>Все ячейки сохранения будут очищены. Продолжить?</chupakobra6_1874644848_Label_ALLSLOTSWILLBECLEARED>
@@ -56,8 +110,8 @@
   <chupakobra6_1874644848_Label_CAPACITIES>Модификатор возможностей организма</chupakobra6_1874644848_Label_CAPACITIES>
   <chupakobra6_1874644848_Label_CARAVANRIDEABLE>Верховое животное для караванов</chupakobra6_1874644848_Label_CARAVANRIDEABLE>
   <chupakobra6_1874644848_Label_CAUSESNEED>Создаёт потребность</chupakobra6_1874644848_Label_CAUSESNEED>
-  <chupakobra6_1874644848_Label_CHANGE_FACTION>Сменить фракцию</chupakobra6_1874644848_Label_CHANGE_FACTION>
   <chupakobra6_1874644848_Label_CHANGERACE>Сменить расу</chupakobra6_1874644848_Label_CHANGERACE>
+  <chupakobra6_1874644848_Label_CHANGE_FACTION>Сменить фракцию</chupakobra6_1874644848_Label_CHANGE_FACTION>
   <chupakobra6_1874644848_Label_CHARACTER>Персонаж</chupakobra6_1874644848_Label_CHARACTER>
   <chupakobra6_1874644848_Label_CHOOSE_PAWN>Выберите пешку</chupakobra6_1874644848_Label_CHOOSE_PAWN>
   <chupakobra6_1874644848_Label_CHRONOAGE>Хронологический возраст</chupakobra6_1874644848_Label_CHRONOAGE>
@@ -105,9 +159,9 @@
   <chupakobra6_1874644848_Label_ENTROPY>Нейроперегрев</chupakobra6_1874644848_Label_ENTROPY>
   <chupakobra6_1874644848_Label_EQUIPSTATS>Характеристики при экипировке</chupakobra6_1874644848_Label_EQUIPSTATS>
   <chupakobra6_1874644848_Label_EXCLUSIONTAGS>Теги несовместимости</chupakobra6_1874644848_Label_EXCLUSIONTAGS>
-  <chupakobra6_1874644848_Label_EXPL_RADIUS>Радиус взрыва</chupakobra6_1874644848_Label_EXPL_RADIUS>
   <chupakobra6_1874644848_Label_EXPLOSIONDELAY>Задержка взрыва</chupakobra6_1874644848_Label_EXPLOSIONDELAY>
   <chupakobra6_1874644848_Label_EXPLOSIONEFFECT>Эффект взрыва </chupakobra6_1874644848_Label_EXPLOSIONEFFECT>
+  <chupakobra6_1874644848_Label_EXPL_RADIUS>Радиус взрыва</chupakobra6_1874644848_Label_EXPL_RADIUS>
   <chupakobra6_1874644848_Label_EXPORT>Экспорт</chupakobra6_1874644848_Label_EXPORT>
   <chupakobra6_1874644848_Label_EXPORT_SLOTS>Сохранить пешек в файл на рабочем столе</chupakobra6_1874644848_Label_EXPORT_SLOTS>
   <chupakobra6_1874644848_Label_EXTRAS>Разное</chupakobra6_1874644848_Label_EXTRAS>
@@ -118,6 +172,7 @@
   <chupakobra6_1874644848_Label_FILTERCATEGORY>Категория фильтра </chupakobra6_1874644848_Label_FILTERCATEGORY>
   <chupakobra6_1874644848_Label_FILTERTYPE>Тип фильтра </chupakobra6_1874644848_Label_FILTERTYPE>
   <chupakobra6_1874644848_Label_FIND_PAWN>Найти пешку</chupakobra6_1874644848_Label_FIND_PAWN>
+  <chupakobra6_1874644848_Label_FLIP>Обратить выбор</chupakobra6_1874644848_Label_FLIP>
   <chupakobra6_1874644848_Label_FLYOVERHEAD>Снаряд пролетает над препятствиями</chupakobra6_1874644848_Label_FLYOVERHEAD>
   <chupakobra6_1874644848_Label_FOCUS>Психофокус</chupakobra6_1874644848_Label_FOCUS>
   <chupakobra6_1874644848_Label_FOODMAXFACTOR>Множитель максимальной сытости</chupakobra6_1874644848_Label_FOODMAXFACTOR>
@@ -136,17 +191,17 @@
   <chupakobra6_1874644848_Label_GENETICS>Генетика</chupakobra6_1874644848_Label_GENETICS>
   <chupakobra6_1874644848_Label_GRAPHICS>Графика</chupakobra6_1874644848_Label_GRAPHICS>
   <chupakobra6_1874644848_Label_GUNSTATS>Характеристики дальнего боя</chupakobra6_1874644848_Label_GUNSTATS>
-  <chupakobra6_1874644848_Label_HA_INFO>Перемещайте ползунок, чтобы сменить изображение дополнительной части тела. Некоторые части видны только с определённой стороны, например сбоку или сзади. Не все части можно изменить.</chupakobra6_1874644848_Label_HA_INFO>
   <chupakobra6_1874644848_Label_HAIR>Волосы</chupakobra6_1874644848_Label_HAIR>
   <chupakobra6_1874644848_Label_HAIRCOLOR>Волосы</chupakobra6_1874644848_Label_HAIRCOLOR>
   <chupakobra6_1874644848_Label_HAIRCOLOROVERRIDE>Заданный цвет волос</chupakobra6_1874644848_Label_HAIRCOLOROVERRIDE>
   <chupakobra6_1874644848_Label_HAIRTAGS>Теги волос</chupakobra6_1874644848_Label_HAIRTAGS>
-  <chupakobra6_1874644848_Label_HB_All>Все</chupakobra6_1874644848_Label_HB_All>
+  <chupakobra6_1874644848_Label_HA_INFO>Перемещайте ползунок, чтобы сменить изображение дополнительной части тела. Некоторые части видны только с определённой стороны, например сбоку или сзади. Не все части можно изменить.</chupakobra6_1874644848_Label_HA_INFO>
   <chupakobra6_1874644848_Label_HB_ALLADDICTIONS>Зависимости и действие наркотиков</chupakobra6_1874644848_Label_HB_ALLADDICTIONS>
   <chupakobra6_1874644848_Label_HB_ALLDISEASES>Болезни и вредные состояния</chupakobra6_1874644848_Label_HB_ALLDISEASES>
   <chupakobra6_1874644848_Label_HB_ALLIMPLANTS>Импланты</chupakobra6_1874644848_Label_HB_ALLIMPLANTS>
   <chupakobra6_1874644848_Label_HB_ALLINJURIES>Ранения</chupakobra6_1874644848_Label_HB_ALLINJURIES>
   <chupakobra6_1874644848_Label_HB_ALLTIME>Временные состояния</chupakobra6_1874644848_Label_HB_ALLTIME>
+  <chupakobra6_1874644848_Label_HB_All>Все</chupakobra6_1874644848_Label_HB_All>
   <chupakobra6_1874644848_Label_HB_Arm>Рука</chupakobra6_1874644848_Label_HB_Arm>
   <chupakobra6_1874644848_Label_HB_Brain>Мозг</chupakobra6_1874644848_Label_HB_Brain>
   <chupakobra6_1874644848_Label_HB_Clavicle>Ключица</chupakobra6_1874644848_Label_HB_Clavicle>
@@ -178,10 +233,10 @@
   <chupakobra6_1874644848_Label_HB_Torso>Торс</chupakobra6_1874644848_Label_HB_Torso>
   <chupakobra6_1874644848_Label_HB_Utility>Вспомогательная часть</chupakobra6_1874644848_Label_HB_Utility>
   <chupakobra6_1874644848_Label_HB_UtilitySlot>Вспомогательная ячейка</chupakobra6_1874644848_Label_HB_UtilitySlot>
-  <chupakobra6_1874644848_Label_HB_WholeBody>Всё тело</chupakobra6_1874644848_Label_HB_WholeBody>
   <chupakobra6_1874644848_Label_HB_WITHLEVEL>Состояния с уровнями</chupakobra6_1874644848_Label_HB_WITHLEVEL>
-  <chupakobra6_1874644848_Label_HEAD_ADDONS>Дополнительные части тела</chupakobra6_1874644848_Label_HEAD_ADDONS>
+  <chupakobra6_1874644848_Label_HB_WholeBody>Всё тело</chupakobra6_1874644848_Label_HB_WholeBody>
   <chupakobra6_1874644848_Label_HEADSIZEFACTOR>Множитель размера головы</chupakobra6_1874644848_Label_HEADSIZEFACTOR>
+  <chupakobra6_1874644848_Label_HEAD_ADDONS>Дополнительные части тела</chupakobra6_1874644848_Label_HEAD_ADDONS>
   <chupakobra6_1874644848_Label_HEAL>Исцелить</chupakobra6_1874644848_Label_HEAL>
   <chupakobra6_1874644848_Label_HEALTHSCALEFACTOR>Множитель здоровья</chupakobra6_1874644848_Label_HEALTHSCALEFACTOR>
   <chupakobra6_1874644848_Label_HISTORYEVENTONDEATH>Событие истории при смерти</chupakobra6_1874644848_Label_HISTORYEVENTONDEATH>
@@ -213,10 +268,10 @@
   <chupakobra6_1874644848_Label_LID>Веки</chupakobra6_1874644848_Label_LID>
   <chupakobra6_1874644848_Label_LIFESTAGE>Этап жизни</chupakobra6_1874644848_Label_LIFESTAGE>
   <chupakobra6_1874644848_Label_LOAD>Загрузить</chupakobra6_1874644848_Label_LOAD>
-  <chupakobra6_1874644848_Label_LOAD_DESC>Загрузить в межзвёздный контейнер все объекты с карты</chupakobra6_1874644848_Label_LOAD_DESC>
   <chupakobra6_1874644848_Label_LOADSLOT>Загрузить из ячейки </chupakobra6_1874644848_Label_LOADSLOT>
   <chupakobra6_1874644848_Label_LOADXENOTYPEKEEP>Загрузить ксенотип
 Удерживайте [CTRL], чтобы сохранить прежние гены</chupakobra6_1874644848_Label_LOADXENOTYPEKEEP>
+  <chupakobra6_1874644848_Label_LOAD_DESC>Загрузить в межзвёздный контейнер все объекты с карты</chupakobra6_1874644848_Label_LOAD_DESC>
   <chupakobra6_1874644848_Label_LOVINMTBFACTOR>Множитель интервала между попытками близости</chupakobra6_1874644848_Label_LOVINMTBFACTOR>
   <chupakobra6_1874644848_Label_MAGAZIN>Размер магазина</chupakobra6_1874644848_Label_MAGAZIN>
   <chupakobra6_1874644848_Label_MAINBUTTON_DESCR>Открыть редактор персонажей</chupakobra6_1874644848_Label_MAINBUTTON_DESCR>
@@ -235,13 +290,24 @@
   <chupakobra6_1874644848_Label_MIN_RANDOM_BRIGHTNESS>Минимальная яркость</chupakobra6_1874644848_Label_MIN_RANDOM_BRIGHTNESS>
   <chupakobra6_1874644848_Label_MODIFICATIONLOADED>Изменения загружены</chupakobra6_1874644848_Label_MODIFICATIONLOADED>
   <chupakobra6_1874644848_Label_MOUTH>Рот</chupakobra6_1874644848_Label_MOUTH>
+  <chupakobra6_1874644848_Label_MUTATION_TIP>Превратить в мутанта
+Удерживайте [CTRL], чтобы создать усиленного мутанта</chupakobra6_1874644848_Label_MUTATION_TIP>
   <chupakobra6_1874644848_Label_NEEDS>Потребности</chupakobra6_1874644848_Label_NEEDS>
   <chupakobra6_1874644848_Label_NEVERGRAYHAIR>Волосы не седеют</chupakobra6_1874644848_Label_NEVERGRAYHAIR>
-  <chupakobra6_1874644848_Label_NO_BLOCKING_SKILLS>Без ограничений навыков</chupakobra6_1874644848_Label_NO_BLOCKING_SKILLS>
   <chupakobra6_1874644848_Label_NOMEMORIES>Нет воспоминаний</chupakobra6_1874644848_Label_NOMEMORIES>
   <chupakobra6_1874644848_Label_NONE>Нет</chupakobra6_1874644848_Label_NONE>
   <chupakobra6_1874644848_Label_NOT_COMPATIBLE_APPAREL>Несовместимая одежда</chupakobra6_1874644848_Label_NOT_COMPATIBLE_APPAREL>
+  <chupakobra6_1874644848_Label_NO_BLOCKING_SKILLS>Без ограничений навыков</chupakobra6_1874644848_Label_NO_BLOCKING_SKILLS>
   <chupakobra6_1874644848_Label_NUMEXTRAHITCELLS>Количество дополнительных клеток попадания</chupakobra6_1874644848_Label_NUMEXTRAHITCELLS>
+  <chupakobra6_1874644848_Label_OBJECT>Объект</chupakobra6_1874644848_Label_OBJECT>
+  <chupakobra6_1874644848_Label_ONLYFORSHIELD>Эта характеристика действует только на щиты</chupakobra6_1874644848_Label_ONLYFORSHIELD>
+  <chupakobra6_1874644848_Label_ONMAP>Серый значок — показывать пешек на карте
+Белый значок — показывать пешек в мире</chupakobra6_1874644848_Label_ONMAP>
+  <chupakobra6_1874644848_Label_OPTIONS> НАСТРОЙКИ МОДА</chupakobra6_1874644848_Label_OPTIONS>
+  <chupakobra6_1874644848_Label_OTHER>Другие</chupakobra6_1874644848_Label_OTHER>
+  <chupakobra6_1874644848_Label_OUTFITTAGS>Стандартные теги наряда</chupakobra6_1874644848_Label_OUTFITTAGS>
+  <chupakobra6_1874644848_Label_OVERDOSECHANCEFACTOR>Множитель вероятности передозировки</chupakobra6_1874644848_Label_OVERDOSECHANCEFACTOR>
+  <chupakobra6_1874644848_Label_OVERWRITE_EXISTING>Перезаписать существующие данные?</chupakobra6_1874644848_Label_OVERWRITE_EXISTING>
   <chupakobra6_1874644848_Label_O_AUTOMOVEINCOMPATIBLE>Автоматически снимать несовместимую одежду</chupakobra6_1874644848_Label_O_AUTOMOVEINCOMPATIBLE>
   <chupakobra6_1874644848_Label_O_AUTOSAVECOLORS>Автоматически сохранять цвета</chupakobra6_1874644848_Label_O_AUTOSAVECOLORS>
   <chupakobra6_1874644848_Label_O_CHAOSABILITY>Визуальный эффект телепортации</chupakobra6_1874644848_Label_O_CHAOSABILITY>
@@ -338,14 +404,6 @@
   <chupakobra6_1874644848_Label_O_USEFIXEDSHADER>Один шейдер для всех цветов кожи</chupakobra6_1874644848_Label_O_USEFIXEDSHADER>
   <chupakobra6_1874644848_Label_O_USERIMWORLDPAWNGENERATOR>Использовать генератор пешек RimWorld</chupakobra6_1874644848_Label_O_USERIMWORLDPAWNGENERATOR>
   <chupakobra6_1874644848_Label_O_USESORTEDPAWNLIST>Сортировать список пешек</chupakobra6_1874644848_Label_O_USESORTEDPAWNLIST>
-  <chupakobra6_1874644848_Label_OBJECT>Объект</chupakobra6_1874644848_Label_OBJECT>
-  <chupakobra6_1874644848_Label_ONLYFORSHIELD>Эта характеристика действует только на щиты</chupakobra6_1874644848_Label_ONLYFORSHIELD>
-  <chupakobra6_1874644848_Label_ONMAP>Серый значок — показывать пешек на карте
-Белый значок — показывать пешек в мире</chupakobra6_1874644848_Label_ONMAP>
-  <chupakobra6_1874644848_Label_OPTIONS> НАСТРОЙКИ МОДА</chupakobra6_1874644848_Label_OPTIONS>
-  <chupakobra6_1874644848_Label_OTHER>Другие</chupakobra6_1874644848_Label_OTHER>
-  <chupakobra6_1874644848_Label_OUTFITTAGS>Стандартные теги наряда</chupakobra6_1874644848_Label_OUTFITTAGS>
-  <chupakobra6_1874644848_Label_OVERDOSECHANCEFACTOR>Множитель вероятности передозировки</chupakobra6_1874644848_Label_OVERDOSECHANCEFACTOR>
   <chupakobra6_1874644848_Label_PAINLESS>Без боли</chupakobra6_1874644848_Label_PAINLESS>
   <chupakobra6_1874644848_Label_PARTS>В спасательной капсуле</chupakobra6_1874644848_Label_PARTS>
   <chupakobra6_1874644848_Label_PARTSANIMAL>В капсуле для животных</chupakobra6_1874644848_Label_PARTSANIMAL>
@@ -368,11 +426,11 @@
   <chupakobra6_1874644848_Label_PREVIEW>Предпросмотр</chupakobra6_1874644848_Label_PREVIEW>
   <chupakobra6_1874644848_Label_PRICE>$</chupakobra6_1874644848_Label_PRICE>
   <chupakobra6_1874644848_Label_PRISONBREAKINTERVAL>Интервал между побегами из тюрьмы</chupakobra6_1874644848_Label_PRISONBREAKINTERVAL>
-  <chupakobra6_1874644848_Label_PSYFOCUS>Психофокус</chupakobra6_1874644848_Label_PSYFOCUS>
-  <chupakobra6_1874644848_Label_PSYTALENTE>Псиспособности</chupakobra6_1874644848_Label_PSYTALENTE>
-  <chupakobra6_1874644848_Label_QUADRUM>Квадрум</chupakobra6_1874644848_Label_QUADRUM>
+  <chupakobra6_1874644848_Label_PSYFOCUS>Пси-концентрация</chupakobra6_1874644848_Label_PSYFOCUS>
+  <chupakobra6_1874644848_Label_PSYTALENTE>Пси-способности</chupakobra6_1874644848_Label_PSYTALENTE>
+  <chupakobra6_1874644848_Label_QUADRUM>Квартал</chupakobra6_1874644848_Label_QUADRUM>
   <chupakobra6_1874644848_Label_QUALITY>Качество: </chupakobra6_1874644848_Label_QUALITY>
-  <chupakobra6_1874644848_Label_QUARTALS>Квадрумы</chupakobra6_1874644848_Label_QUARTALS>
+  <chupakobra6_1874644848_Label_QUARTALS>Кварталы</chupakobra6_1874644848_Label_QUARTALS>
   <chupakobra6_1874644848_Label_RACESPECIFICDRESS>Одежда, подходящая расе</chupakobra6_1874644848_Label_RACESPECIFICDRESS>
   <chupakobra6_1874644848_Label_RANDOMBRIGHTNESSFACTOR>Множитель случайной яркости</chupakobra6_1874644848_Label_RANDOMBRIGHTNESSFACTOR>
   <chupakobra6_1874644848_Label_RANDOMCHOSEN>Случайный выбор</chupakobra6_1874644848_Label_RANDOMCHOSEN>
@@ -382,14 +440,14 @@
   <chupakobra6_1874644848_Label_REDRESS>Одеть</chupakobra6_1874644848_Label_REDRESS>
   <chupakobra6_1874644848_Label_REEQUIP>Вооружить</chupakobra6_1874644848_Label_REEQUIP>
   <chupakobra6_1874644848_Label_REINVENT>Груз</chupakobra6_1874644848_Label_REINVENT>
-  <chupakobra6_1874644848_Label_RELATION_INFO>Можно изменять только прямые связи: мать, отец, возлюбленный и т. п. Производные связи, например сестра, сын или бабушка, определяются автоматически.</chupakobra6_1874644848_Label_RELATION_INFO>
   <chupakobra6_1874644848_Label_RELATIONS>Отношения</chupakobra6_1874644848_Label_RELATIONS>
   <chupakobra6_1874644848_Label_RELATIONSOF>Связи: </chupakobra6_1874644848_Label_RELATIONSOF>
   <chupakobra6_1874644848_Label_RELATIONTO>Связь с:</chupakobra6_1874644848_Label_RELATIONTO>
+  <chupakobra6_1874644848_Label_RELATION_INFO>Можно изменять только прямые связи: мать, отец, возлюбленный и т. п. Производные связи, например сестра, сын или бабушка, определяются автоматически.</chupakobra6_1874644848_Label_RELATION_INFO>
   <chupakobra6_1874644848_Label_RELOADTIME>Время перезарядки CE</chupakobra6_1874644848_Label_RELOADTIME>
+  <chupakobra6_1874644848_Label_REMOVEONREDRESS>Удалять ген при подготовке мировой пешки к новой роли</chupakobra6_1874644848_Label_REMOVEONREDRESS>
   <chupakobra6_1874644848_Label_REMOVE_ADDONS>Удалить дополнительные части тела</chupakobra6_1874644848_Label_REMOVE_ADDONS>
   <chupakobra6_1874644848_Label_REMOVE_HEDIFF>Удалить состояние здоровья</chupakobra6_1874644848_Label_REMOVE_HEDIFF>
-  <chupakobra6_1874644848_Label_REMOVEONREDRESS>Удалять ген при подготовке мировой пешки к новой роли</chupakobra6_1874644848_Label_REMOVEONREDRESS>
   <chupakobra6_1874644848_Label_REPRODUCTIVE>Размножение</chupakobra6_1874644848_Label_REPRODUCTIVE>
   <chupakobra6_1874644848_Label_REQUIRELINEOFSIGHT>Требуется прямая видимость</chupakobra6_1874644848_Label_REQUIRELINEOFSIGHT>
   <chupakobra6_1874644848_Label_RESET>Сбросить по умолчанию</chupakobra6_1874644848_Label_RESET>
@@ -403,18 +461,18 @@
   <chupakobra6_1874644848_Label_ROTATION>Поворот</chupakobra6_1874644848_Label_ROTATION>
   <chupakobra6_1874644848_Label_SAVE>Сохранить</chupakobra6_1874644848_Label_SAVE>
   <chupakobra6_1874644848_Label_SAVESLOT>Сохранить в ячейку </chupakobra6_1874644848_Label_SAVESLOT>
+  <chupakobra6_1874644848_Label_SELECTIONWEIGHT>Вес при случайном выборе</chupakobra6_1874644848_Label_SELECTIONWEIGHT>
+  <chupakobra6_1874644848_Label_SELECTIONWEIGHTDARKSKIN>Вес при выборе для тёмной кожи</chupakobra6_1874644848_Label_SELECTIONWEIGHTDARKSKIN>
   <chupakobra6_1874644848_Label_SELECT_BODYPART>Выберите часть тела</chupakobra6_1874644848_Label_SELECT_BODYPART>
   <chupakobra6_1874644848_Label_SELECT_COLOR>Выберите цвет</chupakobra6_1874644848_Label_SELECT_COLOR>
   <chupakobra6_1874644848_Label_SELECT_PAWN>Выбрать пешку</chupakobra6_1874644848_Label_SELECT_PAWN>
-  <chupakobra6_1874644848_Label_SELECTIONWEIGHT>Вес при случайном выборе</chupakobra6_1874644848_Label_SELECTIONWEIGHT>
-  <chupakobra6_1874644848_Label_SELECTIONWEIGHTDARKSKIN>Вес при выборе для тёмной кожи</chupakobra6_1874644848_Label_SELECTIONWEIGHTDARKSKIN>
   <chupakobra6_1874644848_Label_SETONCLICK> задать по нажатию</chupakobra6_1874644848_Label_SETONCLICK>
   <chupakobra6_1874644848_Label_SETONMOUSEOVER> задать при наведении</chupakobra6_1874644848_Label_SETONMOUSEOVER>
   <chupakobra6_1874644848_Label_SETROYALTITLE>Пожаловать титул</chupakobra6_1874644848_Label_SETROYALTITLE>
   <chupakobra6_1874644848_Label_SETTINGSSAVED>Изменения сохранены</chupakobra6_1874644848_Label_SETTINGSSAVED>
+  <chupakobra6_1874644848_Label_SHOWCREATION>Показать кнопки создания пешек и дополнительные функции</chupakobra6_1874644848_Label_SHOWCREATION>
   <chupakobra6_1874644848_Label_SHOW_HIDDEN>Показать скрытые</chupakobra6_1874644848_Label_SHOW_HIDDEN>
   <chupakobra6_1874644848_Label_SHOW_IMPLICITE>Показать производные связи</chupakobra6_1874644848_Label_SHOW_IMPLICITE>
-  <chupakobra6_1874644848_Label_SHOWCREATION>Показать кнопки создания пешек и дополнительные функции</chupakobra6_1874644848_Label_SHOWCREATION>
   <chupakobra6_1874644848_Label_SILVER_NEAR>Серебро рядом с точкой </chupakobra6_1874644848_Label_SILVER_NEAR>
   <chupakobra6_1874644848_Label_SILVER_NEEDED>, требуется </chupakobra6_1874644848_Label_SILVER_NEEDED>
   <chupakobra6_1874644848_Label_SKILLGAINS>Прибавки к навыкам</chupakobra6_1874644848_Label_SKILLGAINS>
@@ -440,10 +498,10 @@
   <chupakobra6_1874644848_Label_STARTSATAGE>Возраст активации гена</chupakobra6_1874644848_Label_STARTSATAGE>
   <chupakobra6_1874644848_Label_STARTTONEWWORLDS>К новым мирам</chupakobra6_1874644848_Label_STARTTONEWWORLDS>
   <chupakobra6_1874644848_Label_STAT>Характеристика</chupakobra6_1874644848_Label_STAT>
-  <chupakobra6_1874644848_Label_STAT_FACTORS>Множитель характеристики</chupakobra6_1874644848_Label_STAT_FACTORS>
-  <chupakobra6_1874644848_Label_STAT_OFFSETS>Прибавка к характеристике</chupakobra6_1874644848_Label_STAT_OFFSETS>
   <chupakobra6_1874644848_Label_STATS>Характеристики</chupakobra6_1874644848_Label_STATS>
   <chupakobra6_1874644848_Label_STATTYPE>Тип характеристики: </chupakobra6_1874644848_Label_STATTYPE>
+  <chupakobra6_1874644848_Label_STAT_FACTORS>Множитель характеристики</chupakobra6_1874644848_Label_STAT_FACTORS>
+  <chupakobra6_1874644848_Label_STAT_OFFSETS>Прибавка к характеристике</chupakobra6_1874644848_Label_STAT_OFFSETS>
   <chupakobra6_1874644848_Label_STEALABLE>Можно украсть</chupakobra6_1874644848_Label_STEALABLE>
   <chupakobra6_1874644848_Label_STERILIZE>Бесплодие</chupakobra6_1874644848_Label_STERILIZE>
   <chupakobra6_1874644848_Label_STUFF>Материал: </chupakobra6_1874644848_Label_STUFF>
@@ -453,19 +511,21 @@
   <chupakobra6_1874644848_Label_SUPPRESSEDTRAITS>Подавляемые черты характера</chupakobra6_1874644848_Label_SUPPRESSEDTRAITS>
   <chupakobra6_1874644848_Label_SWAP_TO_PAWN>Перейти к пешке</chupakobra6_1874644848_Label_SWAP_TO_PAWN>
   <chupakobra6_1874644848_Label_TAGS>Теги</chupakobra6_1874644848_Label_TAGS>
-  <chupakobra6_1874644848_Label_TARGET_LOCATION>Указать точку на земле</chupakobra6_1874644848_Label_TARGET_LOCATION>
   <chupakobra6_1874644848_Label_TARGETGROUND>Наведение на землю</chupakobra6_1874644848_Label_TARGETGROUND>
+  <chupakobra6_1874644848_Label_TARGET_LOCATION>Указать точку на земле</chupakobra6_1874644848_Label_TARGET_LOCATION>
   <chupakobra6_1874644848_Label_TATTOO>Татуировка: </chupakobra6_1874644848_Label_TATTOO>
   <chupakobra6_1874644848_Label_TECHLEVEL>Уровень технологий:</chupakobra6_1874644848_Label_TECHLEVEL>
   <chupakobra6_1874644848_Label_TEILEIMSCHIFFSWRACK>Части в обломках космического корабля</chupakobra6_1874644848_Label_TEILEIMSCHIFFSWRACK>
   <chupakobra6_1874644848_Label_TELEPORT>Телепортировать</chupakobra6_1874644848_Label_TELEPORT>
   <chupakobra6_1874644848_Label_TEXPATH>Путь к текстуре: </chupakobra6_1874644848_Label_TEXPATH>
+  <chupakobra6_1874644848_Label_THOUGHTS>Мысли</chupakobra6_1874644848_Label_THOUGHTS>
   <chupakobra6_1874644848_Label_TH_MEMORY>Воспоминание</chupakobra6_1874644848_Label_TH_MEMORY>
   <chupakobra6_1874644848_Label_TH_SITUATIONAL>Ситуативное</chupakobra6_1874644848_Label_TH_SITUATIONAL>
   <chupakobra6_1874644848_Label_TH_SOCIAL>Социальное</chupakobra6_1874644848_Label_TH_SOCIAL>
   <chupakobra6_1874644848_Label_TH_UNSUPPORTED>Несовместимое</chupakobra6_1874644848_Label_TH_UNSUPPORTED>
-  <chupakobra6_1874644848_Label_THOUGHTS>Мысли</chupakobra6_1874644848_Label_THOUGHTS>
   <chupakobra6_1874644848_Label_TIERKAPSEL>Капсула для животных</chupakobra6_1874644848_Label_TIERKAPSEL>
+  <chupakobra6_1874644848_Label_TIPCLEARGENES>Удалить все гены
+[CTRL] — сохранить гены волос и кожи</chupakobra6_1874644848_Label_TIPCLEARGENES>
   <chupakobra6_1874644848_Label_TIP_ADD_APPAREL>Добавить или сменить одежду</chupakobra6_1874644848_Label_TIP_ADD_APPAREL>
   <chupakobra6_1874644848_Label_TIP_ADD_CUSTOMPAWN>Добавить в текущий список пешку выбранного вида
 [CTRL] — разместить на карте
@@ -487,10 +547,10 @@
   <chupakobra6_1874644848_Label_TIP_DELETE_PAWN>Удалить выбранную пешку</chupakobra6_1874644848_Label_TIP_DELETE_PAWN>
   <chupakobra6_1874644848_Label_TIP_DESTROYDROP>
 [ALT] — уничтожить</chupakobra6_1874644848_Label_TIP_DESTROYDROP>
-  <chupakobra6_1874644848_Label_TIP_DLG_RANDOM_COLOR>Случайный цвет
-[CTRL] — использовать цвета с прозрачностью</chupakobra6_1874644848_Label_TIP_DLG_RANDOM_COLOR>
   <chupakobra6_1874644848_Label_TIP_DLG_RANDOMIZE_HAIRANDCOLOR>Случайные причёска и цвет
 [CTRL] — использовать цвета с прозрачностью</chupakobra6_1874644848_Label_TIP_DLG_RANDOMIZE_HAIRANDCOLOR>
+  <chupakobra6_1874644848_Label_TIP_DLG_RANDOM_COLOR>Случайный цвет
+[CTRL] — использовать цвета с прозрачностью</chupakobra6_1874644848_Label_TIP_DLG_RANDOM_COLOR>
   <chupakobra6_1874644848_Label_TIP_HEAL>[ALT] — вылечить только излечимые раны и восстановить ноги</chupakobra6_1874644848_Label_TIP_HEAL>
   <chupakobra6_1874644848_Label_TIP_HURT>[ALT] — нанести тяжёлые или неизлечимые раны</chupakobra6_1874644848_Label_TIP_HURT>
   <chupakobra6_1874644848_Label_TIP_LOAD_PAWN_FROM_SLOT>Загрузить пешку из ячейки
@@ -499,6 +559,18 @@
   <chupakobra6_1874644848_Label_TIP_QUICKHEAL>Воскресить и полностью исцелить
 [ALT] — исцелить, [SHIFT] — перевязать
 [CTRL] — ввести наркоз, [CAPS] — ранить</chupakobra6_1874644848_Label_TIP_QUICKHEAL>
+  <chupakobra6_1874644848_Label_TIP_RANDOMIZE_BIO>Сохранить пешку, случайно изменить биографию: имя, навыки, черты характера и предысторию</chupakobra6_1874644848_Label_TIP_RANDOMIZE_BIO>
+  <chupakobra6_1874644848_Label_TIP_RANDOMIZE_BODYPARTS>Сохранить пешку, случайно изменить пол, голову, телосложение, волосы, кожу, бороду и татуировку
+[ALT] — женский пол
+[CAPS] — мужской пол</chupakobra6_1874644848_Label_TIP_RANDOMIZE_BODYPARTS>
+  <chupakobra6_1874644848_Label_TIP_RANDOMIZE_EQUIP>Сохранить пешку, случайно сменить одежду и оружие
+[ALT] — только одежду
+[SHIFT] — только оружие
+[CTRL] — цвета с прозрачностью</chupakobra6_1874644848_Label_TIP_RANDOMIZE_EQUIP>
+  <chupakobra6_1874644848_Label_TIP_RANDOMIZE_PAWN>Заменить пешку новой случайной пешкой</chupakobra6_1874644848_Label_TIP_RANDOMIZE_PAWN>
+  <chupakobra6_1874644848_Label_TIP_RANDOMIZE_PAWNKEEPRACE>Заменить пешку новой случайной пешкой той же расы
+[ALT] — женский пол
+[CAPS] — мужской пол</chupakobra6_1874644848_Label_TIP_RANDOMIZE_PAWNKEEPRACE>
   <chupakobra6_1874644848_Label_TIP_RANDOM_APPAREL>Случайная одежда
 [ALT] — исходные цвета
 [SHIFT] — случайные цвета
@@ -519,18 +591,6 @@
 [ALT] — цвет кожи А
 [SHIFT] — цвет кожи Б
 [CTRL] — использовать цвета с прозрачностью</chupakobra6_1874644848_Label_TIP_RANDOM_SKINCOLOR>
-  <chupakobra6_1874644848_Label_TIP_RANDOMIZE_BIO>Сохранить пешку, случайно изменить биографию: имя, навыки, черты характера и предысторию</chupakobra6_1874644848_Label_TIP_RANDOMIZE_BIO>
-  <chupakobra6_1874644848_Label_TIP_RANDOMIZE_BODYPARTS>Сохранить пешку, случайно изменить пол, голову, телосложение, волосы, кожу, бороду и татуировку
-[ALT] — женский пол
-[CAPS] — мужской пол</chupakobra6_1874644848_Label_TIP_RANDOMIZE_BODYPARTS>
-  <chupakobra6_1874644848_Label_TIP_RANDOMIZE_EQUIP>Сохранить пешку, случайно сменить одежду и оружие
-[ALT] — только одежду
-[SHIFT] — только оружие
-[CTRL] — цвета с прозрачностью</chupakobra6_1874644848_Label_TIP_RANDOMIZE_EQUIP>
-  <chupakobra6_1874644848_Label_TIP_RANDOMIZE_PAWN>Заменить пешку новой случайной пешкой</chupakobra6_1874644848_Label_TIP_RANDOMIZE_PAWN>
-  <chupakobra6_1874644848_Label_TIP_RANDOMIZE_PAWNKEEPRACE>Заменить пешку новой случайной пешкой той же расы
-[ALT] — женский пол
-[CAPS] — мужской пол</chupakobra6_1874644848_Label_TIP_RANDOMIZE_PAWNKEEPRACE>
   <chupakobra6_1874644848_Label_TIP_REDRESS>Одеть пешку, заменив всю одежду</chupakobra6_1874644848_Label_TIP_REDRESS>
   <chupakobra6_1874644848_Label_TIP_REEQUIP>Вооружить пешку, заменив прежнее оружие</chupakobra6_1874644848_Label_TIP_REEQUIP>
   <chupakobra6_1874644848_Label_TIP_REINVENT>Подготовить пешку и заменить предметы в инвентаре</chupakobra6_1874644848_Label_TIP_REINVENT>
@@ -544,8 +604,6 @@
   <chupakobra6_1874644848_Label_TIP_TOGGLECATEGORIES>Переключиться между всеми категориями и только функциональными. Если включено, допустимые минимальные и максимальные значения не проверяются.</chupakobra6_1874644848_Label_TIP_TOGGLECATEGORIES>
   <chupakobra6_1874644848_Label_TIP_UNDRESS>Снять случайный предмет одежды
 [ALT] — уничтожить его вместо сбрасывания</chupakobra6_1874644848_Label_TIP_UNDRESS>
-  <chupakobra6_1874644848_Label_TIPCLEARGENES>Удалить все гены
-[CTRL] — сохранить гены волос и кожи</chupakobra6_1874644848_Label_TIPCLEARGENES>
   <chupakobra6_1874644848_Label_TODEFAULTS>Сбросить по умолчанию</chupakobra6_1874644848_Label_TODEFAULTS>
   <chupakobra6_1874644848_Label_TOGGLEENDOXENO>Переключить наследуемые гены и ксеногены</chupakobra6_1874644848_Label_TOGGLEENDOXENO>
   <chupakobra6_1874644848_Label_TOGGLESELECTIONONMOUSEOVER>Переключить выбор при наведении или по нажатию</chupakobra6_1874644848_Label_TOGGLESELECTIONONMOUSEOVER>
@@ -573,6 +631,7 @@
   <chupakobra6_1874644848_Label_WILL_REPLACE>Заменяет</chupakobra6_1874644848_Label_WILL_REPLACE>
   <chupakobra6_1874644848_Label_WOMENCANHAVEBEARDS>Разрешить бороды у женщин</chupakobra6_1874644848_Label_WOMENCANHAVEBEARDS>
   <chupakobra6_1874644848_Label_WORNPATH>Путь к текстуре надетой одежды: </chupakobra6_1874644848_Label_WORNPATH>
+  <chupakobra6_1874644848_Label_WRONGPAWN>Нельзя выбрать того же персонажа! Выберите другого или смените категорию.</chupakobra6_1874644848_Label_WRONGPAWN>
   <chupakobra6_1874644848_Label_XENOTYPEISPREFERED>Ксенотип одобряется идеологией</chupakobra6_1874644848_Label_XENOTYPEISPREFERED>
   <chupakobra6_1874644848_Label_YEAR>Год</chupakobra6_1874644848_Label_YEAR>
   <chupakobra6_1874644848_Label_YEARS>Годы</chupakobra6_1874644848_Label_YEARS>
@@ -1366,68 +1425,9 @@
   <chupakobra6_1874644848_Name_Male_326>Зак,,Винсент</chupakobra6_1874644848_Name_Male_326>
   <chupakobra6_1874644848_Name_Male_327>Цзэн,,Цзюньлин</chupakobra6_1874644848_Name_Male_327>
   <chupakobra6_1874644848_Name_Male_328>Зеро,,Чэннон</chupakobra6_1874644848_Name_Male_328>
-  <chupakobra6_1874644848_HeadAverage>обычная</chupakobra6_1874644848_HeadAverage>
-  <chupakobra6_1874644848_HeadNarrow>узкая</chupakobra6_1874644848_HeadNarrow>
-  <chupakobra6_1874644848_HeadWide>широкая</chupakobra6_1874644848_HeadWide>
-  <chupakobra6_1874644848_HeadPointy>заострённая</chupakobra6_1874644848_HeadPointy>
-  <chupakobra6_1874644848_HeadNormal>обычная</chupakobra6_1874644848_HeadNormal>
   <chupakobra6_1874644848_North>север</chupakobra6_1874644848_North>
-  <chupakobra6_1874644848_East>восток</chupakobra6_1874644848_East>
   <chupakobra6_1874644848_South>юг</chupakobra6_1874644848_South>
   <chupakobra6_1874644848_West>запад</chupakobra6_1874644848_West>
-  <chupakobra6_1874644848_Zombrella>Зомбрелла</chupakobra6_1874644848_Zombrella>
   <chupakobra6_1874644848_Zombgrella>Зомбгрелла</chupakobra6_1874644848_Zombgrella>
-  <chupakobra6_1874644848_Enum_Verse_GeneticBodyType_Fat>Полное</chupakobra6_1874644848_Enum_Verse_GeneticBodyType_Fat>
-  <chupakobra6_1874644848_Enum_Verse_GeneticBodyType_Thin>Худое</chupakobra6_1874644848_Enum_Verse_GeneticBodyType_Thin>
-  <chupakobra6_1874644848_Enum_Verse_GeneticBodyType_Hulk>Мускулистое</chupakobra6_1874644848_Enum_Verse_GeneticBodyType_Hulk>
-  <chupakobra6_1874644848_Enum_Verse_GeneticBodyType_Standard>Обычное</chupakobra6_1874644848_Enum_Verse_GeneticBodyType_Standard>
-  <chupakobra6_1874644848_Enum_Verse_EndogeneCategory_None>Нет</chupakobra6_1874644848_Enum_Verse_EndogeneCategory_None>
-  <chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Melanin>Меланин</chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Melanin>
-  <chupakobra6_1874644848_Enum_Verse_EndogeneCategory_HairColor>Цвет волос</chupakobra6_1874644848_Enum_Verse_EndogeneCategory_HairColor>
-  <chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Ears>Уши</chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Ears>
-  <chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Nose>Нос</chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Nose>
-  <chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Jaw>Челюсть</chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Jaw>
-  <chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Hands>Кисти</chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Hands>
-  <chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Headbone>Кости черепа</chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Headbone>
-  <chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Head>Голова</chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Head>
-  <chupakobra6_1874644848_Enum_Verse_EndogeneCategory_BodyType>Телосложение</chupakobra6_1874644848_Enum_Verse_EndogeneCategory_BodyType>
-  <chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Voice>Голос</chupakobra6_1874644848_Enum_Verse_EndogeneCategory_Voice>
-  <chupakobra6_1874644848_Enum_Verse_GasType_BlindSmoke>Завеса дыма</chupakobra6_1874644848_Enum_Verse_GasType_BlindSmoke>
-  <chupakobra6_1874644848_Enum_Verse_GasType_ToxGas>Токсичный газ</chupakobra6_1874644848_Enum_Verse_GasType_ToxGas>
-  <chupakobra6_1874644848_Enum_Verse_GasType_RotStink>Трупный смрад</chupakobra6_1874644848_Enum_Verse_GasType_RotStink>
-  <chupakobra6_1874644848_Enum_Verse_GasType_DeadlifeDust>Порошок мёртвой жизни</chupakobra6_1874644848_Enum_Verse_GasType_DeadlifeDust>
-  <chupakobra6_1874644848_Enum_RimWorld_TechLevel_Undefined>Неопределённый</chupakobra6_1874644848_Enum_RimWorld_TechLevel_Undefined>
-  <chupakobra6_1874644848_Enum_RimWorld_TechLevel_Animal>Животный</chupakobra6_1874644848_Enum_RimWorld_TechLevel_Animal>
-  <chupakobra6_1874644848_Enum_RimWorld_TechLevel_Neolithic>Неолитический</chupakobra6_1874644848_Enum_RimWorld_TechLevel_Neolithic>
-  <chupakobra6_1874644848_Enum_RimWorld_TechLevel_Medieval>Средневековый</chupakobra6_1874644848_Enum_RimWorld_TechLevel_Medieval>
-  <chupakobra6_1874644848_Enum_RimWorld_TechLevel_Industrial>Индустриальный</chupakobra6_1874644848_Enum_RimWorld_TechLevel_Industrial>
-  <chupakobra6_1874644848_Enum_RimWorld_TechLevel_Spacer>Космический</chupakobra6_1874644848_Enum_RimWorld_TechLevel_Spacer>
-  <chupakobra6_1874644848_Enum_RimWorld_TechLevel_Ultra>Ультратехнологичный</chupakobra6_1874644848_Enum_RimWorld_TechLevel_Ultra>
-  <chupakobra6_1874644848_Enum_RimWorld_TechLevel_Archotech>Архотехнологичный</chupakobra6_1874644848_Enum_RimWorld_TechLevel_Archotech>
-  <chupakobra6_1874644848_Enum_RimWorld_Tradeability_None>Не продаётся и не покупается</chupakobra6_1874644848_Enum_RimWorld_Tradeability_None>
-  <chupakobra6_1874644848_Enum_RimWorld_Tradeability_Sellable>Можно продавать</chupakobra6_1874644848_Enum_RimWorld_Tradeability_Sellable>
-  <chupakobra6_1874644848_Enum_RimWorld_Tradeability_Buyable>Можно покупать</chupakobra6_1874644848_Enum_RimWorld_Tradeability_Buyable>
-  <chupakobra6_1874644848_Enum_RimWorld_Tradeability_All>Можно продавать и покупать</chupakobra6_1874644848_Enum_RimWorld_Tradeability_All>
-  <chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_None>Все</chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_None>
-  <chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Animal>Животные</chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Animal>
-  <chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Mechanoid>Механоиды</chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Mechanoid>
-  <chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_HumanOrAlien>Люди и другие гуманоиды</chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_HumanOrAlien>
-  <chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Pawn>Пешки</chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Pawn>
-  <chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Plant>Растения</chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Plant>
-  <chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Filth>Грязь</chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Filth>
-  <chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Mineable>Породы и руды</chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Mineable>
-  <chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Building>Постройки</chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Building>
-  <chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Item>Предметы</chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Item>
-  <chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Attachment>Прикреплённые объекты</chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Attachment>
-  <chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Ethereal>Нематериальные объекты</chupakobra6_1874644848_Enum_CharacterEditor_ThingCategory_Ethereal>
-  <chupakobra6_1874644848_Enum_RimWorld_RotStage_Fresh>Свежее</chupakobra6_1874644848_Enum_RimWorld_RotStage_Fresh>
-  <chupakobra6_1874644848_Enum_RimWorld_RotStage_Rotting>Гниющее</chupakobra6_1874644848_Enum_RimWorld_RotStage_Rotting>
-  <chupakobra6_1874644848_Enum_RimWorld_RotStage_Dessicated>Высохшее</chupakobra6_1874644848_Enum_RimWorld_RotStage_Dessicated>
-  <chupakobra6_1874644848_Enum_RimWorld_Quadrum_Aprimay>Мартомай</chupakobra6_1874644848_Enum_RimWorld_Quadrum_Aprimay>
-  <chupakobra6_1874644848_Enum_RimWorld_Quadrum_Jugust>Июгуст</chupakobra6_1874644848_Enum_RimWorld_Quadrum_Jugust>
-  <chupakobra6_1874644848_Enum_RimWorld_Quadrum_Septober>Сентоноябрь</chupakobra6_1874644848_Enum_RimWorld_Quadrum_Septober>
-  <chupakobra6_1874644848_Enum_RimWorld_Quadrum_Decembary>Декавраль</chupakobra6_1874644848_Enum_RimWorld_Quadrum_Decembary>
-  <chupakobra6_1874644848_Enum_RimWorld_Quadrum_Undefined>Не определён</chupakobra6_1874644848_Enum_RimWorld_Quadrum_Undefined>
-  <chupakobra6_1874644848_CapacityOffset> прибавка: </chupakobra6_1874644848_CapacityOffset>
-  <chupakobra6_1874644848_CapacityFactor>      множитель: </chupakobra6_1874644848_CapacityFactor>
+  <chupakobra6_1874644848_Zombrella>Зомбрелла</chupakobra6_1874644848_Zombrella>
 </LanguageData>

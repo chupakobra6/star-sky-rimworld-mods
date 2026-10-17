@@ -1,0 +1,25 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BMAD_GrowthTurret.comps.4.fuelGizmoLabel>Прочность ствола</BMAD_GrowthTurret.comps.4.fuelGizmoLabel>
+  <BMAD_GrowthTurret.comps.4.fuelLabel>Выстрелов до замены ствола</BMAD_GrowthTurret.comps.4.fuelLabel>
+  <BMAD_GrowthTurret.comps.4.outOfFuelMessage>Требуется новый ствол</BMAD_GrowthTurret.comps.4.outOfFuelMessage>
+  <BMAD_GrowthTurret.description>Переносная автоматическая турель с лучом увеличения.</BMAD_GrowthTurret.description>
+  <BMAD_GrowthTurret.label>мини-турель увеличения</BMAD_GrowthTurret.label>
+  <BMAD_Gun_GrowthTurret.description>Простой автоматический излучатель увеличения для установки на турель.</BMAD_Gun_GrowthTurret.description>
+  <BMAD_Gun_GrowthTurret.label>излучатель мини-турели увеличения</BMAD_Gun_GrowthTurret.label>
+  <BMAD_Gun_ShrinkTurret.description>Простой автоматический излучатель уменьшения для установки на турель.</BMAD_Gun_ShrinkTurret.description>
+  <BMAD_Gun_ShrinkTurret.label>излучатель мини-турели уменьшения</BMAD_Gun_ShrinkTurret.label>
+  <BMAD_ShrinkTurret.comps.4.fuelGizmoLabel>Прочность ствола</BMAD_ShrinkTurret.comps.4.fuelGizmoLabel>
+  <BMAD_ShrinkTurret.comps.4.fuelLabel>Выстрелов до замены ствола</BMAD_ShrinkTurret.comps.4.fuelLabel>
+  <BMAD_ShrinkTurret.comps.4.outOfFuelMessage>Требуется новый ствол</BMAD_ShrinkTurret.comps.4.outOfFuelMessage>
+  <BMAD_ShrinkTurret.description>Переносная автоматическая турель с лучом уменьшения.</BMAD_ShrinkTurret.description>
+  <BMAD_ShrinkTurret.label>мини-турель уменьшения</BMAD_ShrinkTurret.label>
+  <BMad_GrowthRay.description>Луч для увеличения объектов. Не для выращивания растений.\n\nНадеемся, эта версия не создаст репу-людоеда, если ботаники опять их перепутают.\n\nПримечание: перегрузка объекта после прекращения роста может вызвать опасный выброс потока роста. Объект подвергается микрораспаду, который уничтожил все испытанные нами машины и формы жизни.\n\nЭто оружие не наносит прямого урона.</BMad_GrowthRay.description>
+  <BMad_GrowthRay.label>луч увеличения</BMad_GrowthRay.label>
+  <BMad_GrowthRay.tools.0.label>ствол</BMad_GrowthRay.tools.0.label>
+  <BMad_GrowthRayRay.label>заряд луча увеличения</BMad_GrowthRayRay.label>
+  <BMad_ShrinkRay.description>Луч для уменьшения объектов. Используйте осторожно: очень маленькие объекты становятся квантово нестабильными и могут провалиться в другие измерения.\n\nПримечание: не путайте с другим «уменьшателем», предназначенным для восстановления душевного здоровья. Не стоит уменьшать довольство клиентов.\n\nЭто оружие не наносит прямого урона.</BMad_ShrinkRay.description>
+  <BMad_ShrinkRay.label>луч уменьшения</BMad_ShrinkRay.label>
+  <BMad_ShrinkRay.tools.0.label>ствол</BMad_ShrinkRay.tools.0.label>
+  <BMad_ShrinkRayRay.label>заряд луча уменьшения</BMad_ShrinkRayRay.label>
+</LanguageData>

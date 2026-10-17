@@ -2,7 +2,15 @@
 <loadFolders>
   <v1.6>
     <li>/</li>
+    <li IfModActive="vanillaexpanded.vpsycastse,vanillaexpanded.vpsycastse_steam">1.6/Conditional/condition-6068c450b35d9b3466c54bb9d86d8cd6943eb764c29be47c051a12a276e8b515</li>
+    <li IfModActiveAll="oskarpotocki.vfe.insectoid2,vanillaracesexpanded.insector">1.6/Conditional/with-all-oskarpotocki-vfe-insectoid2-and-vanillaracesexpanded-insector</li>
+    <li IfModActive="biomesteam.biomesislands">1.6/Conditional/with-biomesteam-biomesislands</li>
+    <li IfModActive="dismarzero.vgp.vgpgardenfabrics">1.6/Conditional/with-dismarzero-vgp-vgpgardenfabrics</li>
     <li IfModActive="mehni.numbers">1.6/Conditional/with-mehni-numbers</li>
+    <li IfModActive="oskarpotocki.vfe.insectoid2">1.6/Conditional/with-oskarpotocki-vfe-insectoid2</li>
+    <li IfModActive="oskarpotocki.vfe.mechanoid">1.6/Conditional/with-oskarpotocki-vfe-mechanoid</li>
+    <li IfModActive="vanillaexpanded.achievements">1.6/Conditional/with-vanillaexpanded-achievements</li>
+    <li IfModActive="vanillaexpanded.ranching">1.6/Conditional/with-vanillaexpanded-ranching</li>
     <li IfModActive="vanillastorytellersexpanded.winstonwave">1.6/Conditional/with-vanillastorytellersexpanded-winstonwave</li>
   </v1.6>
 </loadFolders>

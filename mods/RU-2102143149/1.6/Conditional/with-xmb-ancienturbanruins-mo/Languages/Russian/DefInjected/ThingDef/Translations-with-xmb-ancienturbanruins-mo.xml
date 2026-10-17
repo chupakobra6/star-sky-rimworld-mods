@@ -1,0 +1,375 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFEPD_AM_ADI.description>Напольная разметка.</VFEPD_AM_ADI.description>
+  <VFEPD_AM_ADI.label>ADI</VFEPD_AM_ADI.label>
+  <VFEPD_AM_AVendingMachine.description>Повреждённые древние торговые автоматы. Не работают: все внутренние механизмы извлечены.</VFEPD_AM_AVendingMachine.description>
+  <VFEPD_AM_AVendingMachine.label>древний торговый автомат</VFEPD_AM_AVendingMachine.label>
+  <VFEPD_AM_AbandonedBigBread.description>Повреждённый древний фургон. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_AbandonedBigBread.description>
+  <VFEPD_AM_AbandonedBigBread.label>брошенный фургон</VFEPD_AM_AbandonedBigBread.label>
+  <VFEPD_AM_AbandonedForklift.description>Брошенный древний вилочный погрузчик. Все его детали совершенно непригодны к работе. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_AbandonedForklift.description>
+  <VFEPD_AM_AbandonedForklift.label>брошенный погрузчик</VFEPD_AM_AbandonedForklift.label>
+  <VFEPD_AM_AllowRightTurn.description>Старый дорожный знак, указывающий поворот направо. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_AllowRightTurn.description>
+  <VFEPD_AM_AllowRightTurn.label>знак поворота направо</VFEPD_AM_AllowRightTurn.label>
+  <VFEPD_AM_AllowableTurn.description>Поворот разрешён. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_AllowableTurn.description>
+  <VFEPD_AM_AllowableTurn.label>знак «Поворот разрешён»</VFEPD_AM_AllowableTurn.label>
+  <VFEPD_AM_Amublance.description>Повреждённая и проржавевшая древняя машина. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_Amublance.description>
+  <VFEPD_AM_Amublance.label>древняя машина скорой помощи</VFEPD_AM_Amublance.label>
+  <VFEPD_AM_AncientCashRegister.description>Повреждённый кассовый аппарат, обычный для древних супермаркетов. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_AncientCashRegister.description>
+  <VFEPD_AM_AncientCashRegister.label>древний кассовый аппарат</VFEPD_AM_AncientCashRegister.label>
+  <VFEPD_AM_AncientDismantlingWorkbench.description>Древний стол для разборки, совмещавший механические и швейные приспособления. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_AncientDismantlingWorkbench.description>
+  <VFEPD_AM_AncientDismantlingWorkbench.label>древний стол для разборки</VFEPD_AM_AncientDismantlingWorkbench.label>
+  <VFEPD_AM_AncientGiantHelicopter.description>Разбившийся огромный древний вертолёт. На корпусе едва различима маркировка: mi26. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_AncientGiantHelicopter.description>
+  <VFEPD_AM_AncientGiantHelicopter.label>древний тяжёлый вертолёт</VFEPD_AM_AncientGiantHelicopter.label>
+  <VFEPD_AM_AncientRevolvingDoorA.description>Древняя стеклянная вращающаяся дверь, которую теперь заклинило. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_AncientRevolvingDoorA.description>
+  <VFEPD_AM_AncientRevolvingDoorA.label>древняя вращающаяся дверь</VFEPD_AM_AncientRevolvingDoorA.label>
+  <VFEPD_AM_AncientRevolvingDoorB.description>Древняя стеклянная вращающаяся дверь, которую теперь заклинило. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_AncientRevolvingDoorB.description>
+  <VFEPD_AM_AncientRevolvingDoorB.label>древняя вращающаяся дверь</VFEPD_AM_AncientRevolvingDoorB.label>
+  <VFEPD_AM_AncientRevolvingDoorC.description>Древняя стеклянная вращающаяся дверь, которую теперь заклинило. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_AncientRevolvingDoorC.description>
+  <VFEPD_AM_AncientRevolvingDoorC.label>древняя вращающаяся дверь</VFEPD_AM_AncientRevolvingDoorC.label>
+  <VFEPD_AM_AncientRoadblocks.description>Древние дорожные заграждения. Не работают: все внутренние механизмы извлечены.</VFEPD_AM_AncientRoadblocks.description>
+  <VFEPD_AM_AncientRoadblocks.label>древние дорожные заграждения</VFEPD_AM_AncientRoadblocks.label>
+  <VFEPD_AM_AncientTruckCarriages.description>Кузова древних грузовиков. Не работают: все внутренние механизмы извлечены.</VFEPD_AM_AncientTruckCarriages.description>
+  <VFEPD_AM_AncientTruckCarriages.label>кузова древних грузовиков</VFEPD_AM_AncientTruckCarriages.label>
+  <VFEPD_AM_ArmoredGate.description>Бронированные ворота, часто встречающиеся на подземных военных объектах. Не работают: все внутренние механизмы извлечены.</VFEPD_AM_ArmoredGate.description>
+  <VFEPD_AM_ArmoredGate.label>древние бронированные ворота</VFEPD_AM_ArmoredGate.label>
+  <VFEPD_AM_ArmoredGateL.description>Бронированные ворота, часто встречающиеся на подземных военных объектах. Не работают: все внутренние механизмы извлечены.</VFEPD_AM_ArmoredGateL.description>
+  <VFEPD_AM_ArmoredGateL.label>древние бронированные ворота</VFEPD_AM_ArmoredGateL.label>
+  <VFEPD_AM_ArmoredGateS.description>Бронированные ворота, часто встречающиеся на подземных военных объектах. Не работают: все внутренние механизмы извлечены.</VFEPD_AM_ArmoredGateS.description>
+  <VFEPD_AM_ArmoredGateS.label>древние бронированные ворота</VFEPD_AM_ArmoredGateS.label>
+  <VFEPD_AM_ArmoredGateXS.description>Бронированные ворота, часто встречающиеся на подземных военных объектах. Не работают: все внутренние механизмы извлечены.</VFEPD_AM_ArmoredGateXS.description>
+  <VFEPD_AM_ArmoredGateXS.label>древние бронированные ворота</VFEPD_AM_ArmoredGateXS.label>
+  <VFEPD_AM_ArmoredGate_invincible.description>Сооружение, часто встречающееся на подземных военных объектах. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_ArmoredGate_invincible.description>
+  <VFEPD_AM_ArmoredGate_invincible.label>древние бронированные ворота</VFEPD_AM_ArmoredGate_invincible.label>
+  <VFEPD_AM_Arrow.description>Напольная разметка.</VFEPD_AM_Arrow.description>
+  <VFEPD_AM_Arrow.label>стрелка</VFEPD_AM_Arrow.label>
+  <VFEPD_AM_AtriumA.description>Атриум древнего торгового центра. Свет, проникающий через потолок, освещает весь торговый центр. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_AtriumA.description>
+  <VFEPD_AM_AtriumA.label>атриум</VFEPD_AM_AtriumA.label>
+  <VFEPD_AM_AtriumB.description>Атриум древнего торгового центра. Свет, проникающий через потолок, освещает весь торговый центр. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_AtriumB.description>
+  <VFEPD_AM_AtriumB.label>атриум</VFEPD_AM_AtriumB.label>
+  <VFEPD_AM_AtriumC.description>Атриум древнего торгового центра. Свет, проникающий через потолок, освещает весь торговый центр. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_AtriumC.description>
+  <VFEPD_AM_AtriumC.label>атриум</VFEPD_AM_AtriumC.label>
+  <VFEPD_AM_AtriumCorridorEast.description>Атриум древнего торгового центра. Свет, проникающий через потолок, освещает весь торговый центр. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_AtriumCorridorEast.description>
+  <VFEPD_AM_AtriumCorridorEast.label>атриум</VFEPD_AM_AtriumCorridorEast.label>
+  <VFEPD_AM_AtriumCorridorNorth.description>Атриум древнего торгового центра. Свет, проникающий через потолок, освещает весь торговый центр. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_AtriumCorridorNorth.description>
+  <VFEPD_AM_AtriumCorridorNorth.label>атриум</VFEPD_AM_AtriumCorridorNorth.label>
+  <VFEPD_AM_BDAShelfA.description>Наверху ещё лежат товары, которые не раздавило. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_BDAShelfA.description>
+  <VFEPD_AM_BDAShelfA.label>повреждённые большие стеллажи</VFEPD_AM_BDAShelfA.label>
+  <VFEPD_AM_BDAShelfB.description>Наверху ещё лежат товары, которые не раздавило. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_BDAShelfB.description>
+  <VFEPD_AM_BDAShelfB.label>повреждённые большие стеллажи</VFEPD_AM_BDAShelfB.label>
+  <VFEPD_AM_BTR82A.description>Повреждённая парящая боевая машина пехоты.\n\nНе работает: все внутренние механизмы извлечены.</VFEPD_AM_BTR82A.description>
+  <VFEPD_AM_BTR82A.label>древняя парящая БМП</VFEPD_AM_BTR82A.label>
+  <VFEPD_AM_BigCase.description>Большой ящик с военным снаряжением. Возможно, внутри что-то есть. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_BigCase.description>
+  <VFEPD_AM_BigCase.label>большой ящик с военным снаряжением</VFEPD_AM_BigCase.label>
+  <VFEPD_AM_BigCase_Open_Decoration.description>Открытый ящик, внутри которого ничего нет. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_BigCase_Open_Decoration.description>
+  <VFEPD_AM_BigCase_Open_Decoration.label>большой ящик</VFEPD_AM_BigCase_Open_Decoration.label>
+  <VFEPD_AM_Bishop.description>Напольная разметка.</VFEPD_AM_Bishop.description>
+  <VFEPD_AM_Bishop.label>слон</VFEPD_AM_Bishop.label>
+  <VFEPD_AM_BlockedElevators.description>Эскалатор завален обломками. Пройти здесь невозможно. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_BlockedElevators.description>
+  <VFEPD_AM_BlockedElevators.label>заваленный эскалатор</VFEPD_AM_BlockedElevators.label>
+  <VFEPD_AM_BlockedElevatorsA.description>Эскалатор завален обломками. Пройти здесь невозможно. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_BlockedElevatorsA.description>
+  <VFEPD_AM_BlockedElevatorsA.label>заваленный эскалатор</VFEPD_AM_BlockedElevatorsA.label>
+  <VFEPD_AM_BlockedElevatorsD.description>Эскалатор завален обломками. Пройти здесь невозможно. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_BlockedElevatorsD.description>
+  <VFEPD_AM_BlockedElevatorsD.label>заваленный эскалатор</VFEPD_AM_BlockedElevatorsD.label>
+  <VFEPD_AM_BlockedElevatorsDA.description>Эскалатор завален обломками. Пройти здесь невозможно. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_BlockedElevatorsDA.description>
+  <VFEPD_AM_BlockedElevatorsDA.label>заваленный эскалатор</VFEPD_AM_BlockedElevatorsDA.label>
+  <VFEPD_AM_BlockedStairs.description>Лестница завалена обломками. Пройти по ней невозможно. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_BlockedStairs.description>
+  <VFEPD_AM_BlockedStairs.label>заваленная лестница</VFEPD_AM_BlockedStairs.label>
+  <VFEPD_AM_BlockedStairsD.description>Лестница завалена обломками. Пройти по ней невозможно. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_BlockedStairsD.description>
+  <VFEPD_AM_BlockedStairsD.label>заваленная лестница</VFEPD_AM_BlockedStairsD.label>
+  <VFEPD_AM_BlockedUndergroundGarageEntrance.description>Въезд на подземную парковку. Он перекрыт и совершенно недоступен. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_BlockedUndergroundGarageEntrance.description>
+  <VFEPD_AM_BlockedUndergroundGarageEntrance.label>заблокированный въезд на подземную парковку</VFEPD_AM_BlockedUndergroundGarageEntrance.label>
+  <VFEPD_AM_BookCase.description>Старый шкаф, заполненный книгами.\n\nНе работает: все внутренние механизмы извлечены.</VFEPD_AM_BookCase.description>
+  <VFEPD_AM_BookCase.label>книжный шкаф</VFEPD_AM_BookCase.label>
+  <VFEPD_AM_BriefCase_SalvagePoint.description>Портфель, в котором, вероятно, что-то лежит. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_BriefCase_SalvagePoint.description>
+  <VFEPD_AM_BriefCase_SalvagePoint.label>портфель</VFEPD_AM_BriefCase_SalvagePoint.label>
+  <VFEPD_AM_BurgerPaperBag.description>Бумажные пакеты из заведений, где подавали жареную курицу. Не работают: все внутренние механизмы извлечены.</VFEPD_AM_BurgerPaperBag.description>
+  <VFEPD_AM_BurgerPaperBag.label>бумажный пакет для бургера</VFEPD_AM_BurgerPaperBag.label>
+  <VFEPD_AM_BurgerPaperBox.description>Картонная коробка из заведения, где подавали жареную курицу. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_BurgerPaperBox.description>
+  <VFEPD_AM_BurgerPaperBox.label>картонная коробка для бургера</VFEPD_AM_BurgerPaperBox.label>
+  <VFEPD_AM_BusRouteSignA.description>Древние указатели автобусных маршрутов. Не работают: все внутренние механизмы извлечены.</VFEPD_AM_BusRouteSignA.description>
+  <VFEPD_AM_BusRouteSignA.label>указатель автобусных маршрутов</VFEPD_AM_BusRouteSignA.label>
+  <VFEPD_AM_BusRouteSignB.description>Древние указатели автобусных маршрутов. Не работают: все внутренние механизмы извлечены.</VFEPD_AM_BusRouteSignB.description>
+  <VFEPD_AM_BusRouteSignB.label>указатель автобусных маршрутов</VFEPD_AM_BusRouteSignB.label>
+  <VFEPD_AM_BusStop.description>Древняя автобусная остановка. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_BusStop.description>
+  <VFEPD_AM_BusStop.label>автобусная остановка</VFEPD_AM_BusStop.label>
+  <VFEPD_AM_CardboardBox.description>Куча беспорядочно сваленных картонных коробок. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_CardboardBox.description>
+  <VFEPD_AM_CardboardBox.label>картонные коробки</VFEPD_AM_CardboardBox.label>
+  <VFEPD_AM_CardboardBox_Impassable.description>Плотные штабели картонных коробок. Трудно понять, что внутри. Не работают: все внутренние механизмы извлечены.</VFEPD_AM_CardboardBox_Impassable.description>
+  <VFEPD_AM_CardboardBox_Impassable.label>картонные коробки</VFEPD_AM_CardboardBox_Impassable.label>
+  <VFEPD_AM_ClothesHanger.description>Вешалки со старой одеждой. Не работают: все внутренние механизмы извлечены.</VFEPD_AM_ClothesHanger.description>
+  <VFEPD_AM_ClothesHanger.label>стойка для одежды</VFEPD_AM_ClothesHanger.label>
+  <VFEPD_AM_ClothesHangerEmpty_Decoration.description>Стойки для одежды из магазина. Не работают: все внутренние механизмы извлечены.</VFEPD_AM_ClothesHangerEmpty_Decoration.description>
+  <VFEPD_AM_ClothesHangerEmpty_Decoration.label>пустая стойка для одежды</VFEPD_AM_ClothesHangerEmpty_Decoration.label>
+  <VFEPD_AM_ComputerCase.description>Корпус древнего компьютера. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_ComputerCase.description>
+  <VFEPD_AM_ComputerCase.label>корпус компьютера</VFEPD_AM_ComputerCase.label>
+  <VFEPD_AM_Cone.description>Конусообразное заграждение. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_Cone.description>
+  <VFEPD_AM_Cone.label>дорожный конус</VFEPD_AM_Cone.label>
+  <VFEPD_AM_ConstructionSite.description>Здесь ведутся огневые работы. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_ConstructionSite.description>
+  <VFEPD_AM_ConstructionSite.label>стройплощадка</VFEPD_AM_ConstructionSite.label>
+  <VFEPD_AM_Crossroad.description>Старый дорожный знак, обозначающий перекрёсток. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_Crossroad.description>
+  <VFEPD_AM_Crossroad.label>знак «Перекрёсток»</VFEPD_AM_Crossroad.label>
+  <VFEPD_AM_Crown.description>Напольная разметка.</VFEPD_AM_Crown.description>
+  <VFEPD_AM_Crown.label>корона</VFEPD_AM_Crown.label>
+  <VFEPD_AM_D2A.description>Напольная разметка.</VFEPD_AM_D2A.description>
+  <VFEPD_AM_D2A.label>D2</VFEPD_AM_D2A.label>
+  <VFEPD_AM_DK.description>Напольная разметка.</VFEPD_AM_DK.description>
+  <VFEPD_AM_DK.label>DK</VFEPD_AM_DK.label>
+  <VFEPD_AM_DamagedEmptyShelves.description>Ветхие стеллажи. Не работают: все внутренние механизмы извлечены.</VFEPD_AM_DamagedEmptyShelves.description>
+  <VFEPD_AM_DamagedEmptyShelves.label>обрушившиеся стеллажи</VFEPD_AM_DamagedEmptyShelves.label>
+  <VFEPD_AM_DiningChair.description>Удобный и красивый стул. Подходит для столов, рабочих мест и других помещений. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_DiningChair.description>
+  <VFEPD_AM_DiningChair.label>обеденный стул</VFEPD_AM_DiningChair.label>
+  <VFEPD_AM_DoubleDeckRacks.description>У большого стеллажа отсутствует верхняя полка. На оставшихся полках ещё стоят коробки. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_DoubleDeckRacks.description>
+  <VFEPD_AM_DoubleDeckRacks.label>большие стеллажи</VFEPD_AM_DoubleDeckRacks.label>
+  <VFEPD_AM_DownwardStairs.description>Лестница спускается в тёмный подвал. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_DownwardStairs.description>
+  <VFEPD_AM_DownwardStairs.label>древняя лестница на стройплощадке</VFEPD_AM_DownwardStairs.label>
+  <VFEPD_AM_Effigy.description>Скульптуры современного искусства из древних торговых центров. Не работают: все внутренние механизмы извлечены.</VFEPD_AM_Effigy.description>
+  <VFEPD_AM_Effigy.label>современная скульптура</VFEPD_AM_Effigy.label>
+  <VFEPD_AM_EmptyCans.description>Куча брошенных на землю банок из-под напитков, выпитых неизвестно кем. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_EmptyCans.description>
+  <VFEPD_AM_EmptyCans.label>пустые банки</VFEPD_AM_EmptyCans.label>
+  <VFEPD_AM_EmptyShelves_Decoration.description>Пустые стеллажи супермаркета. Не работают: все внутренние механизмы извлечены.</VFEPD_AM_EmptyShelves_Decoration.description>
+  <VFEPD_AM_EmptyShelves_Decoration.label>пустые стеллажи</VFEPD_AM_EmptyShelves_Decoration.label>
+  <VFEPD_AM_Entrance_Bunker.description>Лестница спускается в тёмный подвал. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_Entrance_Bunker.description>
+  <VFEPD_AM_Entrance_Bunker.label>древняя лестница</VFEPD_AM_Entrance_Bunker.label>
+  <VFEPD_AM_Entrance_CommercialStreet.description>Остановившийся эскалатор, ведущий неизвестно куда. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_Entrance_CommercialStreet.description>
+  <VFEPD_AM_Entrance_CommercialStreet.label>древний эскалатор</VFEPD_AM_Entrance_CommercialStreet.label>
+  <VFEPD_AM_Entrance_Mall_A.description>Остановившийся эскалатор, ведущий вверх. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_Entrance_Mall_A.description>
+  <VFEPD_AM_Entrance_Mall_A.label>древний эскалатор</VFEPD_AM_Entrance_Mall_A.label>
+  <VFEPD_AM_Entrance_Mall_B.description>Остановившийся эскалатор, ведущий вверх. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_Entrance_Mall_B.description>
+  <VFEPD_AM_Entrance_Mall_B.label>древний эскалатор</VFEPD_AM_Entrance_Mall_B.label>
+  <VFEPD_AM_Entrance_ReserveBunker.description>Лестница спускается в тёмный подвал. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_Entrance_ReserveBunker.description>
+  <VFEPD_AM_Entrance_ReserveBunker.label>древняя лестница</VFEPD_AM_Entrance_ReserveBunker.label>
+  <VFEPD_AM_Entrance_Shelter.description>Лестница спускается в тёмный подвал. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_Entrance_Shelter.description>
+  <VFEPD_AM_Entrance_Shelter.label>древняя лестница</VFEPD_AM_Entrance_Shelter.label>
+  <VFEPD_AM_Entrance_Subway.description>Остановившийся эскалатор, ведущий неизвестно куда. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_Entrance_Subway.description>
+  <VFEPD_AM_Entrance_Subway.label>древний эскалатор</VFEPD_AM_Entrance_Subway.label>
+  <VFEPD_AM_Entrance_UndergroundGarage.description>Широкий пандус, спускающийся в тёмное подземелье. Похоже, по нему могут проехать машины. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_Entrance_UndergroundGarage.description>
+  <VFEPD_AM_Entrance_UndergroundGarage.label>въезд на подземную парковку</VFEPD_AM_Entrance_UndergroundGarage.label>
+  <VFEPD_AM_Exit_DoubleElevator.description>Остановившийся эскалатор, ведущий вверх. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_Exit_DoubleElevator.description>
+  <VFEPD_AM_Exit_DoubleElevator.label>древний эскалатор</VFEPD_AM_Exit_DoubleElevator.label>
+  <VFEPD_AM_Exit_Elevator.description>Остановившийся эскалатор, ведущий неизвестно куда. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_Exit_Elevator.description>
+  <VFEPD_AM_Exit_Elevator.label>древний эскалатор</VFEPD_AM_Exit_Elevator.label>
+  <VFEPD_AM_Exit_L.description>Остановившийся эскалатор, ведущий вверх. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_Exit_L.description>
+  <VFEPD_AM_Exit_L.label>древний эскалатор</VFEPD_AM_Exit_L.label>
+  <VFEPD_AM_Exit_S.description>Остановившийся эскалатор, ведущий вверх. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_Exit_S.description>
+  <VFEPD_AM_Exit_S.label>древний эскалатор</VFEPD_AM_Exit_S.label>
+  <VFEPD_AM_Exit_Staircase.description>Древняя лестница, ведущая вверх. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_Exit_Staircase.description>
+  <VFEPD_AM_Exit_Staircase.label>древняя лестница</VFEPD_AM_Exit_Staircase.label>
+  <VFEPD_AM_Exit_Staircase_UndergroundGarage.description>Широкий пандус, ведущий на поверхность. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_Exit_Staircase_UndergroundGarage.description>
+  <VFEPD_AM_Exit_Staircase_UndergroundGarage.label>выезд с подземной парковки</VFEPD_AM_Exit_Staircase_UndergroundGarage.label>
+  <VFEPD_AM_FireTruck.description>Повреждённая и проржавевшая древняя машина. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_FireTruck.description>
+  <VFEPD_AM_FireTruck.label>древняя пожарная машина</VFEPD_AM_FireTruck.label>
+  <VFEPD_AM_FloorSignageA.description>Схема этажа торгового центра. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_FloorSignageA.description>
+  <VFEPD_AM_FloorSignageA.label>схема этажа</VFEPD_AM_FloorSignageA.label>
+  <VFEPD_AM_FloorSignageB.description>Схема этажа торгового центра. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_FloorSignageB.description>
+  <VFEPD_AM_FloorSignageB.label>схема этажа</VFEPD_AM_FloorSignageB.label>
+  <VFEPD_AM_FloorSignageC.description>Схема этажа торгового центра. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_FloorSignageC.description>
+  <VFEPD_AM_FloorSignageC.label>схема этажа</VFEPD_AM_FloorSignageC.label>
+  <VFEPD_AM_FloorSignageD.description>Схема этажа торгового центра. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_FloorSignageD.description>
+  <VFEPD_AM_FloorSignageD.label>схема этажа</VFEPD_AM_FloorSignageD.label>
+  <VFEPD_AM_Freezer.description>Старая холодильная витрина для десертов с неизвестным содержимым. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_Freezer.description>
+  <VFEPD_AM_Freezer.label>морозильная витрина</VFEPD_AM_Freezer.label>
+  <VFEPD_AM_FreightTrainCarriages.description>Вагоны древних грузовых поездов. Не работают: все внутренние механизмы извлечены.</VFEPD_AM_FreightTrainCarriages.description>
+  <VFEPD_AM_FreightTrainCarriages.label>грузовые вагоны</VFEPD_AM_FreightTrainCarriages.label>
+  <VFEPD_AM_HG.description>Напольная разметка.</VFEPD_AM_HG.description>
+  <VFEPD_AM_HG.label>HG</VFEPD_AM_HG.label>
+  <VFEPD_AM_HallSignage.description>Указатели в холлах древних торговых центров. Не работают: все внутренние механизмы извлечены.</VFEPD_AM_HallSignage.description>
+  <VFEPD_AM_HallSignage.label>указатель в холле</VFEPD_AM_HallSignage.label>
+  <VFEPD_AM_IndicatorLine.description>Напольная разметка.</VFEPD_AM_IndicatorLine.description>
+  <VFEPD_AM_IndicatorLine.label>направляющая линия</VFEPD_AM_IndicatorLine.label>
+  <VFEPD_AM_IndicatorLine_Yellow.description>Напольная разметка.</VFEPD_AM_IndicatorLine_Yellow.description>
+  <VFEPD_AM_IndicatorLine_Yellow.label>направляющая линия</VFEPD_AM_IndicatorLine_Yellow.label>
+  <VFEPD_AM_Injection_StorageRacks.description>Стеллажи, по которым разбросаны шприцы и медицинские принадлежности. Не работают: все внутренние механизмы извлечены.</VFEPD_AM_Injection_StorageRacks.description>
+  <VFEPD_AM_Injection_StorageRacks.label>стеллажи со шприцами</VFEPD_AM_Injection_StorageRacks.label>
+  <VFEPD_AM_Knight.description>Напольная разметка.</VFEPD_AM_Knight.description>
+  <VFEPD_AM_Knight.label>конь</VFEPD_AM_Knight.label>
+  <VFEPD_AM_LBT.description>Повреждённый рюкзак с медицинскими принадлежностями. Похоже, внутри что-то есть. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_LBT.description>
+  <VFEPD_AM_LBT.label>рюкзак LBT</VFEPD_AM_LBT.label>
+  <VFEPD_AM_LBT_Decoration.description>Повреждённый рюкзак с медицинскими принадлежностями. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_LBT_Decoration.description>
+  <VFEPD_AM_LBT_Decoration.label>рюкзак LBT</VFEPD_AM_LBT_Decoration.label>
+  <VFEPD_AM_LargeBackpack.description>Огромный военный рюкзак, уже пришедший в негодность. Похоже, внутри что-то есть. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_LargeBackpack.description>
+  <VFEPD_AM_LargeBackpack.label>большой рюкзак</VFEPD_AM_LargeBackpack.label>
+  <VFEPD_AM_LargeBackpack_Decoration.description>Огромный военный рюкзак, уже пришедший в негодность. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_LargeBackpack_Decoration.description>
+  <VFEPD_AM_LargeBackpack_Decoration.label>большой рюкзак</VFEPD_AM_LargeBackpack_Decoration.label>
+  <VFEPD_AM_LargeScreenTelevision.description>Огромный древний телевизор, способный показывать объёмное изображение и создавать впечатление трёхмерного кинотеатра. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_LargeScreenTelevision.description>
+  <VFEPD_AM_LargeScreenTelevision.label>телевизор с большим экраном</VFEPD_AM_LargeScreenTelevision.label>
+  <VFEPD_AM_MBSS.description>Повреждённый небольшой военный рюкзак. Похоже, внутри что-то есть. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_MBSS.description>
+  <VFEPD_AM_MBSS.label>рюкзак MBSS</VFEPD_AM_MBSS.label>
+  <VFEPD_AM_MBSS_Decoration.description>Повреждённый небольшой военный рюкзак. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_MBSS_Decoration.description>
+  <VFEPD_AM_MBSS_Decoration.label>рюкзак MBSS</VFEPD_AM_MBSS_Decoration.label>
+  <VFEPD_AM_MallBench.description>Сильно проржавевшая скамья из торгового центра. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_MallBench.description>
+  <VFEPD_AM_MallBench.label>скамья торгового центра</VFEPD_AM_MallBench.label>
+  <VFEPD_AM_MallColumn.description>Опорные колонны торгового центра. Не работают: все внутренние механизмы извлечены.</VFEPD_AM_MallColumn.description>
+  <VFEPD_AM_MallColumn.label>колонна торгового центра</VFEPD_AM_MallColumn.label>
+  <VFEPD_AM_MallPew.description>Скамья из торгового центра. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_MallPew.description>
+  <VFEPD_AM_MallPew.label>скамья торгового центра</VFEPD_AM_MallPew.label>
+  <VFEPD_AM_MallWoodenBench.description>Деревянные скамьи из торгового центра. Не работают: все внутренние механизмы извлечены.</VFEPD_AM_MallWoodenBench.description>
+  <VFEPD_AM_MallWoodenBench.label>деревянная скамья торгового центра</VFEPD_AM_MallWoodenBench.label>
+  <VFEPD_AM_ManAtWork.description>Старый дорожный знак с изображением работающего человека. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_ManAtWork.description>
+  <VFEPD_AM_ManAtWork.label>знак «Дорожные работы»</VFEPD_AM_ManAtWork.label>
+  <VFEPD_AM_MedicalSupplies_StorageRacks.description>Стеллажи, по которым разбросаны медицинские принадлежности. Не работают: все внутренние механизмы извлечены.</VFEPD_AM_MedicalSupplies_StorageRacks.description>
+  <VFEPD_AM_MedicalSupplies_StorageRacks.label>стеллажи с медицинскими принадлежностями</VFEPD_AM_MedicalSupplies_StorageRacks.label>
+  <VFEPD_AM_MilitarySupplies_StorageRacks.description>Стеллажи, по которым разбросано военное снаряжение. Не работают: все внутренние механизмы извлечены.</VFEPD_AM_MilitarySupplies_StorageRacks.description>
+  <VFEPD_AM_MilitarySupplies_StorageRacks.label>стеллажи с военным снаряжением</VFEPD_AM_MilitarySupplies_StorageRacks.label>
+  <VFEPD_AM_ModelEmpty.description>Манекен для демонстрации одежды. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_ModelEmpty.description>
+  <VFEPD_AM_ModelEmpty.label>манекен</VFEPD_AM_ModelEmpty.label>
+  <VFEPD_AM_ModelfEmpty.description>Манекен для демонстрации одежды. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_ModelfEmpty.description>
+  <VFEPD_AM_ModelfEmpty.label>манекен</VFEPD_AM_ModelfEmpty.label>
+  <VFEPD_AM_MotorVehicleLane.description>Старый дорожный знак, обозначающий полосу для автомобилей. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_MotorVehicleLane.description>
+  <VFEPD_AM_MotorVehicleLane.label>знак «Полоса для автомобилей»</VFEPD_AM_MotorVehicleLane.label>
+  <VFEPD_AM_NoAccess.description>Старый дорожный знак, запрещающий проход. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_NoAccess.description>
+  <VFEPD_AM_NoAccess.label>знак «Проход запрещён»</VFEPD_AM_NoAccess.label>
+  <VFEPD_AM_NoGhoul.description>Старый дорожный знак, запрещающий вход гулям. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_NoGhoul.description>
+  <VFEPD_AM_NoGhoul.label>знак «Гулям вход запрещён»</VFEPD_AM_NoGhoul.label>
+  <VFEPD_AM_NoParking.description>Старый дорожный знак, запрещающий парковку. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_NoParking.description>
+  <VFEPD_AM_NoParking.label>знак «Парковка запрещена»</VFEPD_AM_NoParking.label>
+  <VFEPD_AM_NoTurningAaround.description>Старый дорожный знак, запрещающий водителю разворачиваться. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_NoTurningAaround.description>
+  <VFEPD_AM_NoTurningAaround.label>знак «Разворот запрещён»</VFEPD_AM_NoTurningAaround.label>
+  <VFEPD_AM_Notice.description>Старый дорожный знак, предупреждающий о какой-то опасности. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_Notice.description>
+  <VFEPD_AM_Notice.label>предупреждающий знак</VFEPD_AM_Notice.label>
+  <VFEPD_AM_OilDrum.description>Куча беспорядочно поставленных железных бочек. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_OilDrum.description>
+  <VFEPD_AM_OilDrum.label>бочки для масла</VFEPD_AM_OilDrum.label>
+  <VFEPD_AM_OldBigCase.description>Повреждённый ящик с военным снаряжением. Возможно, внутри что-то есть. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_OldBigCase.description>
+  <VFEPD_AM_OldBigCase.label>древний большой ящик с военным снаряжением</VFEPD_AM_OldBigCase.label>
+  <VFEPD_AM_OldFreezer_Decoration.description>Пустая морозильная витрина супермаркета. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_OldFreezer_Decoration.description>
+  <VFEPD_AM_OldFreezer_Decoration.label>старая морозильная витрина</VFEPD_AM_OldFreezer_Decoration.label>
+  <VFEPD_AM_OldSmallCase.description>Повреждённый ящик с военным снаряжением. Возможно, внутри что-то есть. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_OldSmallCase.description>
+  <VFEPD_AM_OldSmallCase.label>древний малый ящик с военным снаряжением</VFEPD_AM_OldSmallCase.label>
+  <VFEPD_AM_OldWeaponCase.description>Давно забытый контейнер. Похоже, внутри что-то есть. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_OldWeaponCase.description>
+  <VFEPD_AM_OldWeaponCase.label>древний оружейный ящик</VFEPD_AM_OldWeaponCase.label>
+  <VFEPD_AM_Palisade.description>Бетонные заграждения с предупреждающими знаками. Не работают: все внутренние механизмы извлечены.</VFEPD_AM_Palisade.description>
+  <VFEPD_AM_Palisade.label>бетонное заграждение</VFEPD_AM_Palisade.label>
+  <VFEPD_AM_PaperBox_A.description>Картонная коробка. Похоже, внутри что-то есть. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_PaperBox_A.description>
+  <VFEPD_AM_PaperBox_A.label>картонная коробка</VFEPD_AM_PaperBox_A.label>
+  <VFEPD_AM_PaperBox_B.description>Картонная коробка. Похоже, внутри что-то есть. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_PaperBox_B.description>
+  <VFEPD_AM_PaperBox_B.label>картонная коробка</VFEPD_AM_PaperBox_B.label>
+  <VFEPD_AM_PaperBox_C.description>Картонная коробка. Похоже, внутри что-то есть. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_PaperBox_C.description>
+  <VFEPD_AM_PaperBox_C.label>картонная коробка</VFEPD_AM_PaperBox_C.label>
+  <VFEPD_AM_ParkingLotColumn.description>Опорные колонны парковки. Не работают: все внутренние механизмы извлечены.</VFEPD_AM_ParkingLotColumn.description>
+  <VFEPD_AM_ParkingLotColumn.label>колонна парковки</VFEPD_AM_ParkingLotColumn.label>
+  <VFEPD_AM_ParkingLotSignage.description>Указатель парковки. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_ParkingLotSignage.description>
+  <VFEPD_AM_ParkingLotSignage.label>указатель парковки</VFEPD_AM_ParkingLotSignage.label>
+  <VFEPD_AM_ParkingPermitted.description>Старый дорожный знак, разрешающий парковку. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_ParkingPermitted.description>
+  <VFEPD_AM_ParkingPermitted.label>знак «Парковка разрешена»</VFEPD_AM_ParkingPermitted.label>
+  <VFEPD_AM_ParterreA.description>Декоративная клумба из торгового центра. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_ParterreA.description>
+  <VFEPD_AM_ParterreA.label>клумба</VFEPD_AM_ParterreA.label>
+  <VFEPD_AM_ParterreB.description>Декоративная клумба из торгового центра. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_ParterreB.description>
+  <VFEPD_AM_ParterreB.label>клумба</VFEPD_AM_ParterreB.label>
+  <VFEPD_AM_ParterreC.description>Декоративная клумба из торгового центра. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_ParterreC.description>
+  <VFEPD_AM_ParterreC.label>клумба</VFEPD_AM_ParterreC.label>
+  <VFEPD_AM_ParterreD_East.description>Древняя прямоугольная клумба. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_ParterreD_East.description>
+  <VFEPD_AM_ParterreD_East.label>клумба</VFEPD_AM_ParterreD_East.label>
+  <VFEPD_AM_ParterreD_north.description>Древняя прямоугольная клумба. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_ParterreD_north.description>
+  <VFEPD_AM_ParterreD_north.label>клумба</VFEPD_AM_ParterreD_north.label>
+  <VFEPD_AM_Pawn.description>Напольная разметка.</VFEPD_AM_Pawn.description>
+  <VFEPD_AM_Pawn.label>пешка</VFEPD_AM_Pawn.label>
+  <VFEPD_AM_PostmanShoulderBag.description>Плечевая сумка для почты. Она уже пришла в негодность, но, похоже, внутри что-то есть. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_PostmanShoulderBag.description>
+  <VFEPD_AM_PostmanShoulderBag.label>сумка почтальона</VFEPD_AM_PostmanShoulderBag.label>
+  <VFEPD_AM_PostmanShoulderBag_Decoration.description>Небольшая плечевая сумка почтальона, уже пришедшая в негодность. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_PostmanShoulderBag_Decoration.description>
+  <VFEPD_AM_PostmanShoulderBag_Decoration.label>сумка почтальона</VFEPD_AM_PostmanShoulderBag_Decoration.label>
+  <VFEPD_AM_Queen.description>Напольная разметка.</VFEPD_AM_Queen.description>
+  <VFEPD_AM_Queen.label>ферзь</VFEPD_AM_Queen.label>
+  <VFEPD_AM_RFC.description>Напольная разметка.</VFEPD_AM_RFC.description>
+  <VFEPD_AM_RFC.label>RFC</VFEPD_AM_RFC.label>
+  <VFEPD_AM_Refrigerator.description>Холодильник с различными продуктами. Он давно отключён от питания.\n\nНе работает: все внутренние механизмы извлечены.</VFEPD_AM_Refrigerator.description>
+  <VFEPD_AM_Refrigerator.label>холодильник</VFEPD_AM_Refrigerator.label>
+  <VFEPD_AM_RefrigeratorEmpty.description>Холодильник с различными продуктами, давно отключённый от питания. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_RefrigeratorEmpty.description>
+  <VFEPD_AM_RefrigeratorEmpty.label>холодильник</VFEPD_AM_RefrigeratorEmpty.label>
+  <VFEPD_AM_RollingShutter.description>Рулонные ворота, обычно встречающиеся на складах. Не работают: все внутренние механизмы извлечены.</VFEPD_AM_RollingShutter.description>
+  <VFEPD_AM_RollingShutter.label>рулонные ворота</VFEPD_AM_RollingShutter.label>
+  <VFEPD_AM_RollingShutter_I.description>Рулонные ворота, обычно встречающиеся на складах. Не работают: все внутренние механизмы извлечены.</VFEPD_AM_RollingShutter_I.description>
+  <VFEPD_AM_RollingShutter_I.label>рулонные ворота</VFEPD_AM_RollingShutter_I.label>
+  <VFEPD_AM_RollingShutter_II.description>Рулонные ворота, обычно встречающиеся на складах. Не работают: все внутренние механизмы извлечены.</VFEPD_AM_RollingShutter_II.description>
+  <VFEPD_AM_RollingShutter_II.label>рулонные ворота</VFEPD_AM_RollingShutter_II.label>
+  <VFEPD_AM_RollingShutter_III.description>Рулонные ворота, обычно встречающиеся на складах. Не работают: все внутренние механизмы извлечены.</VFEPD_AM_RollingShutter_III.description>
+  <VFEPD_AM_RollingShutter_III.label>рулонные ворота</VFEPD_AM_RollingShutter_III.label>
+  <VFEPD_AM_RollingShutter_III_HP.description>Рулонные ворота, обычно встречающиеся на складах. Не работают: все внутренние механизмы извлечены.</VFEPD_AM_RollingShutter_III_HP.description>
+  <VFEPD_AM_RollingShutter_III_HP.label>обветшавшие рулонные ворота</VFEPD_AM_RollingShutter_III_HP.label>
+  <VFEPD_AM_RollingShutter_II_HP.description>Рулонные ворота, обычно встречающиеся на складах. Не работают: все внутренние механизмы извлечены.</VFEPD_AM_RollingShutter_II_HP.description>
+  <VFEPD_AM_RollingShutter_II_HP.label>обветшавшие рулонные ворота</VFEPD_AM_RollingShutter_II_HP.label>
+  <VFEPD_AM_RollingShutter_I_HP.description>Рулонные ворота, обычно встречающиеся на складах. Не работают: все внутренние механизмы извлечены.</VFEPD_AM_RollingShutter_I_HP.description>
+  <VFEPD_AM_RollingShutter_I_HP.label>обветшавшие рулонные ворота</VFEPD_AM_RollingShutter_I_HP.label>
+  <VFEPD_AM_RollingShutter_NoHP.description>Рулонные ворота, обычно встречающиеся на складах. Не работают: все внутренние механизмы извлечены.</VFEPD_AM_RollingShutter_NoHP.description>
+  <VFEPD_AM_RollingShutter_NoHP.label>рулонные ворота</VFEPD_AM_RollingShutter_NoHP.label>
+  <VFEPD_AM_Rook.description>Напольная разметка.</VFEPD_AM_Rook.description>
+  <VFEPD_AM_Rook.label>ладья</VFEPD_AM_Rook.label>
+  <VFEPD_AM_RustyEmptyShelves_Decoration.description>Обрушившиеся стеллажи супермаркета. Не работают: все внутренние механизмы извлечены.</VFEPD_AM_RustyEmptyShelves_Decoration.description>
+  <VFEPD_AM_RustyEmptyShelves_Decoration.label>ржавые пустые стеллажи</VFEPD_AM_RustyEmptyShelves_Decoration.label>
+  <VFEPD_AM_SICC_SalvagePoint.description>Небольшая мягкая сумка, в которой, похоже, лежат разные вещи. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_SICC_SalvagePoint.description>
+  <VFEPD_AM_SICC_SalvagePoint.label>сумка SICC</VFEPD_AM_SICC_SalvagePoint.label>
+  <VFEPD_AM_Scav.description>Рюкзак, сделанный собирателем. Он повреждён, но, похоже, внутри что-то есть. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_Scav.description>
+  <VFEPD_AM_Scav.label>рюкзак собирателя</VFEPD_AM_Scav.label>
+  <VFEPD_AM_Scav_Decoration.description>Повреждённый рюкзак, сделанный собирателем. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_Scav_Decoration.description>
+  <VFEPD_AM_Scav_Decoration.label>рюкзак собирателя</VFEPD_AM_Scav_Decoration.label>
+  <VFEPD_AM_ShoppingMallGuideMap.description>Схема, показывающая расположение зон внутри торгового центра. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_ShoppingMallGuideMap.description>
+  <VFEPD_AM_ShoppingMallGuideMap.label>схема торгового центра</VFEPD_AM_ShoppingMallGuideMap.label>
+  <VFEPD_AM_SlideSign.description>Осторожно! Мокрый пол. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_SlideSign.description>
+  <VFEPD_AM_SlideSign.label>табличка «Скользкий пол»</VFEPD_AM_SlideSign.label>
+  <VFEPD_AM_SmallCase.description>Ящик с военным снаряжением. Похоже, внутри что-то есть. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_SmallCase.description>
+  <VFEPD_AM_SmallCase.label>малый ящик с военным снаряжением</VFEPD_AM_SmallCase.label>
+  <VFEPD_AM_SmallGenerator.description>Небольшой генератор, работающий на топливе. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_SmallGenerator.description>
+  <VFEPD_AM_SmallGenerator.label>малый топливный генератор</VFEPD_AM_SmallGenerator.label>
+  <VFEPD_AM_SmallShoppingGuideMapA.description>Небольшая схема расположения магазинов. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_SmallShoppingGuideMapA.description>
+  <VFEPD_AM_SmallShoppingGuideMapA.label>схема магазинов</VFEPD_AM_SmallShoppingGuideMapA.label>
+  <VFEPD_AM_SmallShoppingGuideMapB.description>Небольшая схема расположения магазинов. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_SmallShoppingGuideMapB.description>
+  <VFEPD_AM_SmallShoppingGuideMapB.label>схема магазинов</VFEPD_AM_SmallShoppingGuideMapB.label>
+  <VFEPD_AM_SmallShoppingGuideMapC.description>Небольшая схема расположения магазинов. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_SmallShoppingGuideMapC.description>
+  <VFEPD_AM_SmallShoppingGuideMapC.label>схема магазинов</VFEPD_AM_SmallShoppingGuideMapC.label>
+  <VFEPD_AM_Snack_StorageRacks.description>Стеллажи, по которым разбросаны упакованные закуски. Не работают: все внутренние механизмы извлечены.</VFEPD_AM_Snack_StorageRacks.description>
+  <VFEPD_AM_Snack_StorageRacks.label>стеллажи с закусками</VFEPD_AM_Snack_StorageRacks.label>
+  <VFEPD_AM_SpeedLimit40KPH.description>Старый дорожный знак с ограничением скорости 40. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_SpeedLimit40KPH.description>
+  <VFEPD_AM_SpeedLimit40KPH.label>знак ограничения скорости</VFEPD_AM_SpeedLimit40KPH.label>
+  <VFEPD_AM_SpiritualFortressA.description>Огромная скульптура с рекламными надписями, служившая узнаваемым символом древнего торгового центра. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_SpiritualFortressA.description>
+  <VFEPD_AM_SpiritualFortressA.label>рекламная стела</VFEPD_AM_SpiritualFortressA.label>
+  <VFEPD_AM_SpiritualFortressB.description>Огромная скульптура с рекламными надписями, служившая узнаваемым символом древнего торгового центра. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_SpiritualFortressB.description>
+  <VFEPD_AM_SpiritualFortressB.label>рекламная стела</VFEPD_AM_SpiritualFortressB.label>
+  <VFEPD_AM_SpiritualFortressC.description>Огромная скульптура с рекламными надписями, служившая узнаваемым символом древнего торгового центра. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_SpiritualFortressC.description>
+  <VFEPD_AM_SpiritualFortressC.label>рекламная стела</VFEPD_AM_SpiritualFortressC.label>
+  <VFEPD_AM_SpiritualFortressD.description>Огромная скульптура с рекламными надписями, служившая узнаваемым символом древнего торгового центра. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_SpiritualFortressD.description>
+  <VFEPD_AM_SpiritualFortressD.label>рекламная стела</VFEPD_AM_SpiritualFortressD.label>
+  <VFEPD_AM_SportsBag.description>Спортивная сумка. Она уже пришла в негодность, но, похоже, внутри что-то есть. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_SportsBag.description>
+  <VFEPD_AM_SportsBag.label>спортивная сумка</VFEPD_AM_SportsBag.label>
+  <VFEPD_AM_SportsBag_Decoration.description>Спортивная сумка, уже пришедшая в негодность. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_SportsBag_Decoration.description>
+  <VFEPD_AM_SportsBag_Decoration.label>спортивная сумка</VFEPD_AM_SportsBag_Decoration.label>
+  <VFEPD_AM_SteepAscent.description>Старый дорожный знак, предупреждающий о крутом подъёме впереди. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_SteepAscent.description>
+  <VFEPD_AM_SteepAscent.label>знак «Крутой подъём»</VFEPD_AM_SteepAscent.label>
+  <VFEPD_AM_StorageRacks.description>Стеллажи, по которым разбросаны товары. Не работают: все внутренние механизмы извлечены.</VFEPD_AM_StorageRacks.description>
+  <VFEPD_AM_StorageRacks.label>складские стеллажи</VFEPD_AM_StorageRacks.label>
+  <VFEPD_AM_THICC.description>На земле свалены вместительные ящики «THICC». Не работают: все внутренние механизмы извлечены.</VFEPD_AM_THICC.description>
+  <VFEPD_AM_THICC.label>ящики THICC</VFEPD_AM_THICC.label>
+  <VFEPD_AM_ThreeLayerRacks.description>Большой стеллаж, заставленный коробками. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_ThreeLayerRacks.description>
+  <VFEPD_AM_ThreeLayerRacks.label>большие стеллажи</VFEPD_AM_ThreeLayerRacks.label>
+  <VFEPD_AM_TousledStorageRacks.description>Стеллажи, по которым разбросаны товары. Не работают: все внутренние механизмы извлечены.</VFEPD_AM_TousledStorageRacks.description>
+  <VFEPD_AM_TousledStorageRacks.label>стеллажи с разными товарами</VFEPD_AM_TousledStorageRacks.label>
+  <VFEPD_AM_Trader.description>Часть древней автоматической системы подземной доставки. Через интерактивную панель можно было покупать товары на складах, связанных единой логистической сетью древнего города. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_Trader.description>
+  <VFEPD_AM_Trader.label>древний логистический терминал</VFEPD_AM_Trader.label>
+  <VFEPD_AM_TravelBag.description>Огромная яркая фиолетовая дорожная сумка. Она уже пришла в негодность, но, похоже, внутри что-то есть. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_TravelBag.description>
+  <VFEPD_AM_TravelBag.label>дорожная сумка</VFEPD_AM_TravelBag.label>
+  <VFEPD_AM_TravelBag_Decoration.description>Огромная яркая фиолетовая дорожная сумка, уже пришедшая в негодность. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_TravelBag_Decoration.description>
+  <VFEPD_AM_TravelBag_Decoration.label>дорожная сумка</VFEPD_AM_TravelBag_Decoration.label>
+  <VFEPD_AM_TurnAround.description>Старый дорожный знак, обозначающий разворот. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_TurnAround.description>
+  <VFEPD_AM_TurnAround.label>знак «Разворот»</VFEPD_AM_TurnAround.label>
+  <VFEPD_AM_VC.description>Напольная разметка.</VFEPD_AM_VC.description>
+  <VFEPD_AM_VC.label>VC</VFEPD_AM_VC.label>
+  <VFEPD_AM_VegetableShelf.description>Давно забытый стеллаж с овощами.\n\nНе работает: все внутренние механизмы извлечены.</VFEPD_AM_VegetableShelf.description>
+  <VFEPD_AM_VegetableShelf.label>овощной стеллаж</VFEPD_AM_VegetableShelf.label>
+  <VFEPD_AM_VegetableShelfEmpty_Decoration.description>Пустые стеллажи для овощей. Не работают: все внутренние механизмы извлечены.</VFEPD_AM_VegetableShelfEmpty_Decoration.description>
+  <VFEPD_AM_VegetableShelfEmpty_Decoration.label>пустой овощной стеллаж</VFEPD_AM_VegetableShelfEmpty_Decoration.label>
+  <VFEPD_AM_VendingMachine.description>Повреждённый древний торговый автомат.\n\nНе работает: все внутренние механизмы извлечены.</VFEPD_AM_VendingMachine.description>
+  <VFEPD_AM_VendingMachine.label>торговый автомат</VFEPD_AM_VendingMachine.label>
+  <VFEPD_AM_WatchForBug.description>Старый дорожный знак, предупреждающий о враждебных насекомых. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_WatchForBug.description>
+  <VFEPD_AM_WatchForBug.label>знак «Осторожно, насекомые»</VFEPD_AM_WatchForBug.label>
+  <VFEPD_AM_WatchForGorehulk.description>Старый дорожный знак со зловещим предупреждением. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_WatchForGorehulk.description>
+  <VFEPD_AM_WatchForGorehulk.label>знак «Осторожно, кровавая туша»</VFEPD_AM_WatchForGorehulk.label>
+  <VFEPD_AM_WatchForMachine.description>Старый дорожный знак, предупреждающий о враждебных механоидах. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_WatchForMachine.description>
+  <VFEPD_AM_WatchForMachine.label>знак «Осторожно, механоиды»</VFEPD_AM_WatchForMachine.label>
+  <VFEPD_AM_WatchForMetalhorror.description>Старый дорожный знак со зловещим предупреждением. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_WatchForMetalhorror.description>
+  <VFEPD_AM_WatchForMetalhorror.label>знак «Осторожно, металлическая жуть»</VFEPD_AM_WatchForMetalhorror.label>
+  <VFEPD_AM_WatchForNoctol.description>Старый дорожный знак со зловещим предупреждением. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_WatchForNoctol.description>
+  <VFEPD_AM_WatchForNoctol.label>знак «Осторожно, ноктол»</VFEPD_AM_WatchForNoctol.label>
+  <VFEPD_AM_WeaponCase.description>Изрядно потрёпанный контейнер. Похоже, внутри что-то есть. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_WeaponCase.description>
+  <VFEPD_AM_WeaponCase.label>оружейный ящик</VFEPD_AM_WeaponCase.label>
+  <VFEPD_AM_WeaponCaseLow.description>Оружейный ящик, который вскрыли силой. Похоже, внутри что-то есть. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_WeaponCaseLow.description>
+  <VFEPD_AM_WeaponCaseLow.label>вскрытый оружейный ящик</VFEPD_AM_WeaponCaseLow.label>
+  <VFEPD_AM_brokedLogisticsTerminal.description>Повреждённый древний терминал, входивший в автоматическую систему подземной доставки. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_brokedLogisticsTerminal.description>
+  <VFEPD_AM_brokedLogisticsTerminal.label>сломанный логистический терминал</VFEPD_AM_brokedLogisticsTerminal.label>
+</LanguageData>

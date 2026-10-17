@@ -1,8 +1,168 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <BS_HeavenNamer.rulePack.rulesStrings>
-    <li>r_name-&gt;[firstName] [lastName]</li>
-  </BS_HeavenNamer.rulePack.rulesStrings>
+  <BS_DemonFirstName.rulePack.rulesStrings>
+    <li>firstName-&gt;[firstNamePrefix][firstNameSuffix]</li>
+    <li>firstName-&gt;[firstNamePrefix][firstNameSuffix]</li>
+    <li>firstName-&gt;[firstNamePrefix][firstNameSuffix]</li>
+    <li>firstName-&gt;[firstNamePrefix][firstNameSuffix]</li>
+    <li>firstName-&gt;[firstNamePrefix][firstNameSuffix]</li>
+    <li>firstName-&gt;[firstNamePrefix][firstNameSuffix]</li>
+    <li>firstName-&gt;[firstNamePrefixRare][firstNameSuffix]</li>
+    <li>firstName-&gt;[firstNamePrefix][firstNameSuffixRare]</li>
+    <li>firstNamePrefixRare-&gt;Вельзе</li>
+    <li>firstNamePrefixRare-&gt;Авад</li>
+    <li>firstNamePrefixRare-&gt;Деми</li>
+    <li>firstNamePrefixRare-&gt;Меф</li>
+    <li>firstNamePrefix-&gt;Вель</li>
+    <li>firstNamePrefix-&gt;Бели</li>
+    <li>firstNamePrefix-&gt;Бал</li>
+    <li>firstNamePrefix-&gt;Баал</li>
+    <li>firstNamePrefix-&gt;Лил</li>
+    <li>firstNamePrefix-&gt;Мол</li>
+    <li>firstNamePrefix-&gt;Мар</li>
+    <li>firstNamePrefix-&gt;Або</li>
+    <li>firstNamePrefix-&gt;Мал</li>
+    <li>firstNamePrefix-&gt;Сам</li>
+    <li>firstNamePrefix-&gt;Аз</li>
+    <li>firstNamePrefix-&gt;Бел</li>
+    <li>firstNamePrefix-&gt;Ас</li>
+    <li>firstNamePrefix-&gt;Ор</li>
+    <li>firstNamePrefix-&gt;Аб</li>
+    <li>firstNamePrefix-&gt;Ба</li>
+    <li>firstNamePrefix-&gt;Бу</li>
+    <li>firstNameSuffix-&gt;акс</li>
+    <li>firstNameSuffix-&gt;ион</li>
+    <li>firstNameSuffix-&gt;иил</li>
+    <li>firstNameSuffix-&gt;ит</li>
+    <li>firstNameSuffix-&gt;зел</li>
+    <li>firstNameSuffix-&gt;ель</li>
+    <li>firstNameSuffix-&gt;ет</li>
+    <li>firstNameSuffix-&gt;гор</li>
+    <li>firstNameSuffix-&gt;от</li>
+    <li>firstNameSuffix-&gt;ос</li>
+    <li>firstNameSuffix-&gt;иас</li>
+    <li>firstNameSuffix-&gt;еон</li>
+    <li>firstNameSuffix-&gt;дон</li>
+    <li>firstNameSuffix-&gt;ох</li>
+    <li>firstNameSuffix-&gt;ор</li>
+    <li>firstNameSuffix-&gt;ер</li>
+    <li>firstNameSuffix-&gt;мон</li>
+    <li>firstNameSuffix-&gt;тар</li>
+    <li>firstNameSuffix-&gt;ус</li>
+    <li>firstNameSuffix-&gt;рот</li>
+    <li>firstNameSuffix-&gt;аил</li>
+    <li>firstNameSuffix-&gt;иус</li>
+    <li>firstNameSuffix-&gt;еус</li>
+    <li>firstNameSuffix-&gt;иал</li>
+    <li>firstNameSuffixRare-&gt;малиус</li>
+    <li>firstNameSuffixRare-&gt;зевул</li>
+    <li>firstNameSuffixRare-&gt;фус</li>
+    <li>firstNameSuffixRare-&gt;одей</li>
+    <li>firstNameSuffixRare-&gt;абас</li>
+    <li>firstNameSuffixRare-&gt;офель</li>
+    <li>firstNameSuffixRare-&gt;фас</li>
+  </BS_DemonFirstName.rulePack.rulesStrings>
+  <BS_DemonLastName.rulePack.rulesStrings>
+    <li>lastName-&gt;[lastNamePrefix][lastNameSuffix]</li>
+    <li>lastName-&gt;[lastNameFull]</li>
+    <li>lastNamePrefix-&gt;Крово</li>
+    <li>lastNamePrefix-&gt;Тьмо</li>
+    <li>lastNamePrefix-&gt;Адо</li>
+    <li>lastNamePrefix-&gt;Тене</li>
+    <li>lastNamePrefix-&gt;Бездно</li>
+    <li>lastNamePrefix-&gt;Душе</li>
+    <li>lastNamePrefix-&gt;Хаосо</li>
+    <li>lastNamePrefix-&gt;Страхо</li>
+    <li>lastNamePrefix-&gt;Боле</li>
+    <li>lastNamePrefix-&gt;Смерто</li>
+    <li>lastNamePrefix-&gt;Страсто</li>
+    <li>lastNamePrefix-&gt;Рьяно</li>
+    <li>lastNamePrefix-&gt;Тщеславо</li>
+    <li>lastNamePrefix-&gt;Пусто</li>
+    <li>lastNamePrefix-&gt;Человеко</li>
+    <li>lastNamePrefix-&gt;Скверно</li>
+    <li>lastNamePrefix-&gt;Роко</li>
+    <li>lastNameSuffix-&gt;губ</li>
+    <li>lastNameSuffix-&gt;огонь</li>
+    <li>lastNameSuffix-&gt;пламень</li>
+    <li>lastNameSuffix-&gt;клык</li>
+    <li>lastNameSuffix-&gt;пика</li>
+    <li>lastNameSuffix-&gt;рез</li>
+    <li>lastNameSuffix-&gt;гнев</li>
+    <li>lastNameSuffix-&gt;кровь</li>
+    <li>lastNameSuffix-&gt;презритель</li>
+    <li>lastNameSuffix-&gt;лом</li>
+    <li>lastNameSuffix-&gt;яр</li>
+    <li>lastNameSuffix-&gt;голод</li>
+    <li>lastNameSuffix-&gt;жаждущий</li>
+    <li>lastNameSuffix-&gt;люб</li>
+    <li>lastNameSuffix-&gt;похоть</li>
+    <li>lastNameSuffix-&gt;хараб</li>
+    <li>lastNameSuffix-&gt;искатель</li>
+    <li>lastNameSuffix-&gt;слав</li>
+    <li>lastNameSuffix-&gt;серд</li>
+    <li>lastNameSuffix-&gt;ед</li>
+    <li>lastNameSuffix-&gt;пуст</li>
+    <li>lastNameSuffix-&gt;клят</li>
+    <li>lastNameSuffix-&gt;полон</li>
+    <li>lastNameFull-&gt;Похоть</li>
+    <li>lastNameFull-&gt;Чревоугодие</li>
+    <li>lastNameFull-&gt;Алчность</li>
+    <li>lastNameFull-&gt;Лень</li>
+    <li>lastNameFull-&gt;Зависть</li>
+    <li>lastNameFull-&gt;Гнев</li>
+    <li>lastNameFull-&gt;Гордыня</li>
+    <li>lastNameFull-&gt;Суета</li>
+    <li>lastNameFull-&gt;Похоть</li>
+    <li>lastNameFull-&gt;Гордыня</li>
+    <li>lastNameFull-&gt;Похоть</li>
+    <li>lastNameFull-&gt;Чревоугодие</li>
+    <li>lastNameFull-&gt;Алчность</li>
+    <li>lastNameFull-&gt;Лень</li>
+    <li>lastNameFull-&gt;Зависть</li>
+    <li>lastNameFull-&gt;Гнев</li>
+    <li>lastNameFull-&gt;Гордыня</li>
+    <li>lastNameFull-&gt;Суета</li>
+    <li>lastNameFull-&gt;Похоть</li>
+    <li>lastNameFull-&gt;Гордыня</li>
+    <li>lastNameFull-&gt;Раздор</li>
+    <li>lastNameFull-&gt;Уныние</li>
+    <li>lastNameFull-&gt;Тщеславие</li>
+    <li>lastNameFull-&gt;Уныние</li>
+    <li>lastNameFull-&gt;Блуд</li>
+    <li>lastNameFull-&gt;Печаль</li>
+    <li>lastNameFull-&gt;Тщеславие</li>
+    <li>lastNameFull-&gt;Уныние</li>
+    <li>lastNameFull-&gt;Забвение</li>
+    <li>lastNameFull-&gt;Зависть</li>
+    <li>lastNameFull-&gt;Нечестие</li>
+    <li>lastNameFull-&gt;Боль</li>
+    <li>lastNameFull-&gt;Алчность</li>
+    <li>lastNameFull-&gt;Плач</li>
+    <li>lastNameFull-&gt;Бесчестие</li>
+    <li>lastNameFull-&gt;Мор</li>
+    <li>lastNameFull-&gt;Зло</li>
+    <li>lastNameFull-&gt;Тень</li>
+    <li>lastNameFull-&gt;Проклятый</li>
+    <li>lastNameFull-&gt;Злобный</li>
+    <li>lastNameFull-&gt;Преисподняя</li>
+    <li>lastNameFull-&gt;Злодеяние</li>
+    <li>lastNameFull-&gt;Осуждение</li>
+    <li>lastNameFull-&gt;Проклятие</li>
+    <li>lastNameFull-&gt;Жестокость</li>
+    <li>lastNameFull-&gt;Колдовство</li>
+    <li>lastNameFull-&gt;Обида</li>
+    <li>lastNameFull-&gt;Ярость</li>
+    <li>lastNameFull-&gt;Убожество</li>
+    <li>lastNameFull-&gt;Месть</li>
+    <li>lastNameFull-&gt;Нечестивый</li>
+    <li>lastNameFull-&gt;Обнимающий</li>
+    <li>lastNameFull-&gt;Мучитель</li>
+    <li>lastNameFull-&gt;Жаждущий</li>
+    <li>lastNameFull-&gt;Падший</li>
+    <li>lastNameFull-&gt;Разгул</li>
+    <li>lastNameFull-&gt;Чернёный</li>
+  </BS_DemonLastName.rulePack.rulesStrings>
   <BS_Demon_Namer.rulePack.rulesStrings>
     <li>r_name-&gt;[firstName] [lastName]</li>
   </BS_Demon_Namer.rulePack.rulesStrings>
@@ -14,37 +174,37 @@
     <li>firstName-&gt;[firstNamePrefix][firstNameSuffix]</li>
     <li>firstName-&gt;[firstNamePrefix][firstNameSuffix]</li>
     <li>firstName-&gt;[firstNameFull]</li>
-    <li>firstNamePrefix-&gt;мих</li>
-    <li>firstNamePrefix-&gt;гав</li>
-    <li>firstNamePrefix-&gt;раф</li>
-    <li>firstNamePrefix-&gt;зад</li>
-    <li>firstNamePrefix-&gt;ар</li>
-    <li>firstNamePrefix-&gt;валь</li>
-    <li>firstNamePrefix-&gt;зель</li>
-    <li>firstNamePrefix-&gt;силь</li>
-    <li>firstNamePrefix-&gt;фен</li>
-    <li>firstNamePrefix-&gt;никс</li>
-    <li>firstNamePrefix-&gt;вер</li>
-    <li>firstNamePrefix-&gt;иере</li>
-    <li>firstNamePrefix-&gt;ра</li>
-    <li>firstNamePrefix-&gt;анг</li>
-    <li>firstNamePrefix-&gt;аз</li>
-    <li>firstNamePrefix-&gt;нафа</li>
-    <li>firstNamePrefix-&gt;люц</li>
-    <li>firstNamePrefix-&gt;иес</li>
+    <li>firstNamePrefix-&gt;Мих</li>
+    <li>firstNamePrefix-&gt;Гав</li>
+    <li>firstNamePrefix-&gt;Раф</li>
+    <li>firstNamePrefix-&gt;Зад</li>
+    <li>firstNamePrefix-&gt;Ар</li>
+    <li>firstNamePrefix-&gt;Вал</li>
+    <li>firstNamePrefix-&gt;Зел</li>
+    <li>firstNamePrefix-&gt;Сил</li>
+    <li>firstNamePrefix-&gt;Фен</li>
+    <li>firstNamePrefix-&gt;Никс</li>
+    <li>firstNamePrefix-&gt;Вер</li>
+    <li>firstNamePrefix-&gt;Иере</li>
+    <li>firstNamePrefix-&gt;Ра</li>
+    <li>firstNamePrefix-&gt;Анг</li>
+    <li>firstNamePrefix-&gt;Аз</li>
+    <li>firstNamePrefix-&gt;Нафа</li>
+    <li>firstNamePrefix-&gt;Люц</li>
+    <li>firstNamePrefix-&gt;Иес</li>
     <li>firstNameSuffix-&gt;иил</li>
-    <li>firstNameSuffix-&gt;аэль</li>
+    <li>firstNameSuffix-&gt;аил</li>
     <li>firstNameSuffix-&gt;риил</li>
     <li>firstNameSuffix-&gt;ион</li>
     <li>firstNameSuffix-&gt;ус</li>
     <li>firstNameSuffix-&gt;иус</li>
-    <li>firstNameSuffix-&gt;элиус</li>
-    <li>firstNameSuffix-&gt;эон</li>
+    <li>firstNameSuffix-&gt;елиус</li>
+    <li>firstNameSuffix-&gt;еон</li>
     <li>firstNameSuffix-&gt;арис</li>
     <li>firstNameSuffix-&gt;иус</li>
     <li>firstNameSuffix-&gt;анис</li>
     <li>firstNameSuffix-&gt;миил</li>
-    <li>firstNameSuffix-&gt;хаэль</li>
+    <li>firstNameSuffix-&gt;хаил</li>
     <li>firstNameFull-&gt;Иегудиил</li>
     <li>firstNameFull-&gt;Варахиил</li>
     <li>firstNameFull-&gt;Сариил</li>
@@ -53,25 +213,25 @@
     <li>firstNameFull-&gt;Кассиэль</li>
     <li>firstNameFull-&gt;Ремиил</li>
     <li>firstNameFull-&gt;Разиэль</li>
-    <li>firstNameFull-&gt;Цадкиил</li>
+    <li>firstNameFull-&gt;Задкиил</li>
     <li>firstNameFull-&gt;Сандальфон</li>
-    <li>firstNameFull-&gt;Ахаия</li>
+    <li>firstNameFull-&gt;Ахайя</li>
     <li>firstNameFull-&gt;Шемихаза</li>
-    <li>firstNameFull-&gt;Эратаол</li>
-    <li>firstNameFull-&gt;Тахариил</li>
+    <li>firstNameFull-&gt;Эратаоль</li>
+    <li>firstNameFull-&gt;Тахариэль</li>
     <li>firstNameFull-&gt;Фул</li>
     <li>firstNameFull-&gt;Загзагель</li>
     <li>firstNameFull-&gt;Харут</li>
     <li>firstNameFull-&gt;Марут</li>
     <li>firstNameFull-&gt;Исрафил</li>
     <li>firstNameFull-&gt;Лайла</li>
-    <li>firstNameFull-&gt;Матариил</li>
-    <li>firstNameFull-&gt;Нуриил</li>
-    <li>firstNameFull-&gt;Галгалиил</li>
+    <li>firstNameFull-&gt;Матараэль</li>
+    <li>firstNameFull-&gt;Нуриэль</li>
+    <li>firstNameFull-&gt;Галгалиэль</li>
     <li>firstNameFull-&gt;Иехоэль</li>
-    <li>firstNameFull-&gt;Сарандиил</li>
-    <li>firstNameFull-&gt;Эйяэль</li>
-    <li>firstNameFull-&gt;Ахаия</li>
+    <li>firstNameFull-&gt;Сарандиэль</li>
+    <li>firstNameFull-&gt;Эйаэль</li>
+    <li>firstNameFull-&gt;Ахайя</li>
   </BS_HeavenFirstName.rulePack.rulesStrings>
   <BS_HeavenFirstName_Arabic.rulePack.rulesStrings>
     <li>firstName-&gt;[firstNamePrefix][firstNameSuffix]</li>
@@ -108,43 +268,43 @@
   <BS_HeavenLastName.rulePack.rulesStrings>
     <li>lastName-&gt;[lastNamePrefix][lastNameSuffix]</li>
     <li>lastName-&gt;[lastNameFull]</li>
-    <li>lastNamePrefix-&gt;год-</li>
-    <li>lastNamePrefix-&gt;холи-</li>
-    <li>lastNamePrefix-&gt;морнинг</li>
-    <li>lastNamePrefix-&gt;дон</li>
-    <li>lastNamePrefix-&gt;пьюр</li>
-    <li>lastNamePrefix-&gt;зил</li>
-    <li>lastNamePrefix-&gt;лайт</li>
-    <li>lastNamePrefix-&gt;брайт</li>
-    <li>lastNamePrefix-&gt;энд</li>
-    <li>lastNamePrefix-&gt;харт</li>
-    <li>lastNameSuffix-&gt;стар</li>
-    <li>lastNameSuffix-&gt;сан</li>
-    <li>lastNameSuffix-&gt;сворд</li>
-    <li>lastNameSuffix-&gt;харт</li>
-    <li>lastNameSuffix-&gt;борн</li>
-    <li>lastNameSuffix-&gt;винг</li>
-    <li>lastNameSuffix-&gt;фейт</li>
-    <li>lastNameSuffix-&gt;мейкер</li>
-    <li>lastNameSuffix-&gt;брингер</li>
-    <li>lastNameSuffix-&gt;смайтер</li>
-    <li>lastNameSuffix-&gt;глори</li>
-    <li>lastNameSuffix-&gt;вар</li>
-    <li>lastNameSuffix-&gt;войс</li>
-    <li>lastNameSuffix-&gt;спикер</li>
-    <li>lastNameSuffix-&gt;бестоуэр</li>
-    <li>lastNameSuffix-&gt;лорд</li>
-    <li>lastNameSuffix-&gt;хэллоу</li>
+    <li>lastNamePrefix-&gt;Бого</li>
+    <li>lastNamePrefix-&gt;Свято</li>
+    <li>lastNamePrefix-&gt;Утро</li>
+    <li>lastNamePrefix-&gt;Зоре</li>
+    <li>lastNamePrefix-&gt;Чисто</li>
+    <li>lastNamePrefix-&gt;Рьяно</li>
+    <li>lastNamePrefix-&gt;Свето</li>
+    <li>lastNamePrefix-&gt;Яро</li>
+    <li>lastNamePrefix-&gt;Конце</li>
+    <li>lastNamePrefix-&gt;Очаго</li>
+    <li>lastNameSuffix-&gt;звёзд</li>
+    <li>lastNameSuffix-&gt;солнце</li>
+    <li>lastNameSuffix-&gt;меч</li>
+    <li>lastNameSuffix-&gt;серд</li>
+    <li>lastNameSuffix-&gt;рождён</li>
+    <li>lastNameSuffix-&gt;крыл</li>
+    <li>lastNameSuffix-&gt;вер</li>
+    <li>lastNameSuffix-&gt;твор</li>
+    <li>lastNameSuffix-&gt;нос</li>
+    <li>lastNameSuffix-&gt;разитель</li>
+    <li>lastNameSuffix-&gt;слав</li>
+    <li>lastNameSuffix-&gt;бой</li>
+    <li>lastNameSuffix-&gt;глас</li>
+    <li>lastNameSuffix-&gt;слов</li>
+    <li>lastNameSuffix-&gt;дар</li>
+    <li>lastNameSuffix-&gt;власт</li>
+    <li>lastNameSuffix-&gt;свят</li>
     <li>lastNameFull-&gt;Слава</li>
     <li>lastNameFull-&gt;Спасение</li>
     <li>lastNameFull-&gt;Свет</li>
     <li>lastNameFull-&gt;Сияние</li>
     <li>lastNameFull-&gt;Целестин</li>
-    <li>lastNameFull-&gt;Элизиан</li>
+    <li>lastNameFull-&gt;Райский</li>
     <li>lastNameFull-&gt;Блаженство</li>
-    <li>lastNameFull-&gt;Люминес</li>
-    <li>lastNameFull-&gt;Эфириал</li>
-    <li>lastNameFull-&gt;Правосудие</li>
+    <li>lastNameFull-&gt;Светоч</li>
+    <li>lastNameFull-&gt;Эфирный</li>
+    <li>lastNameFull-&gt;Справедливость</li>
     <li>lastNameFull-&gt;Суд</li>
     <li>lastNameFull-&gt;Закон</li>
     <li>lastNameFull-&gt;Абсолют</li>
@@ -156,9 +316,9 @@
     <li>lastNameFull-&gt;Преданность</li>
     <li>lastNameFull-&gt;Благодать</li>
     <li>lastNameFull-&gt;Милость</li>
-    <li>lastNameFull-&gt;Веритас</li>
     <li>lastNameFull-&gt;Истина</li>
-    <li>lastNameFull-&gt;Санктус</li>
+    <li>lastNameFull-&gt;Истина</li>
+    <li>lastNameFull-&gt;Святой</li>
     <li>lastNameFull-&gt;Убеждение</li>
     <li>lastNameFull-&gt;Усердие</li>
     <li>lastNameFull-&gt;Умеренность</li>
@@ -169,185 +329,25 @@
     <li>lastNameFull-&gt;Терпение</li>
     <li>lastNameFull-&gt;Смирение</li>
     <li>lastNameFull-&gt;Гордость</li>
-    <li>lastNameFull-&gt;Глория</li>
+    <li>lastNameFull-&gt;Слава</li>
     <li>lastNameFull-&gt;Чистота</li>
-    <li>lastNameFull-&gt;Крестоход</li>
+    <li>lastNameFull-&gt;Крестовый поход</li>
     <li>lastNameFull-&gt;Мученик</li>
-    <li>lastNameFull-&gt;Светоносец</li>
-    <li>lastNameFull-&gt;Зареносец</li>
+    <li>lastNameFull-&gt;Светонос</li>
+    <li>lastNameFull-&gt;Зоренос</li>
     <li>lastNameFull-&gt;Спасение</li>
     <li>lastNameFull-&gt;Процветание</li>
     <li>lastNameFull-&gt;Просветление</li>
-    <li>lastNameFull-&gt;Кадош</li>
+    <li>lastNameFull-&gt;Святость</li>
     <li>lastNameFull-&gt;Шехина</li>
-    <li>lastNameFull-&gt;Торжество</li>
-    <li>lastNameFull-&gt;Верность</li>
+    <li>lastNameFull-&gt;Торжественный</li>
+    <li>lastNameFull-&gt;Верный</li>
     <li>lastNameFull-&gt;Отпущение</li>
     <li>lastNameFull-&gt;Музыка</li>
     <li>lastNameFull-&gt;Гармония</li>
     <li>lastNameFull-&gt;Рвение</li>
   </BS_HeavenLastName.rulePack.rulesStrings>
-  <BS_DemonFirstName.rulePack.rulesStrings>
-    <li>firstName-&gt;[firstNamePrefix][firstNameSuffix]</li>
-    <li>firstName-&gt;[firstNamePrefix][firstNameSuffix]</li>
-    <li>firstName-&gt;[firstNamePrefix][firstNameSuffix]</li>
-    <li>firstName-&gt;[firstNamePrefix][firstNameSuffix]</li>
-    <li>firstName-&gt;[firstNamePrefix][firstNameSuffix]</li>
-    <li>firstName-&gt;[firstNamePrefix][firstNameSuffix]</li>
-    <li>firstName-&gt;[firstNamePrefixRare][firstNameSuffix]</li>
-    <li>firstName-&gt;[firstNamePrefix][firstNameSuffixRare]</li>
-    <li>firstNamePrefixRare-&gt;вельзе</li>
-    <li>firstNamePrefixRare-&gt;авад</li>
-    <li>firstNamePrefixRare-&gt;деми</li>
-    <li>firstNamePrefixRare-&gt;меф</li>
-    <li>firstNamePrefix-&gt;веель</li>
-    <li>firstNamePrefix-&gt;вели</li>
-    <li>firstNamePrefix-&gt;бал</li>
-    <li>firstNamePrefix-&gt;баал</li>
-    <li>firstNamePrefix-&gt;лил</li>
-    <li>firstNamePrefix-&gt;мол</li>
-    <li>firstNamePrefix-&gt;мар</li>
-    <li>firstNamePrefix-&gt;або</li>
-    <li>firstNamePrefix-&gt;мал</li>
-    <li>firstNamePrefix-&gt;сам</li>
-    <li>firstNamePrefix-&gt;аз</li>
-    <li>firstNamePrefix-&gt;бель</li>
-    <li>firstNamePrefix-&gt;ас</li>
-    <li>firstNamePrefix-&gt;ор</li>
-    <li>firstNamePrefix-&gt;аб</li>
-    <li>firstNamePrefix-&gt;ба</li>
-    <li>firstNamePrefix-&gt;бу</li>
-    <li>firstNameSuffix-&gt;акс</li>
-    <li>firstNameSuffix-&gt;ион</li>
-    <li>firstNameSuffix-&gt;иэль</li>
-    <li>firstNameSuffix-&gt;ит</li>
-    <li>firstNameSuffix-&gt;зель</li>
-    <li>firstNameSuffix-&gt;эль</li>
-    <li>firstNameSuffix-&gt;эт</li>
-    <li>firstNameSuffix-&gt;гор</li>
-    <li>firstNameSuffix-&gt;от</li>
-    <li>firstNameSuffix-&gt;ос</li>
-    <li>firstNameSuffix-&gt;иас</li>
-    <li>firstNameSuffix-&gt;эон</li>
-    <li>firstNameSuffix-&gt;дон</li>
-    <li>firstNameSuffix-&gt;ох</li>
-    <li>firstNameSuffix-&gt;ор</li>
-    <li>firstNameSuffix-&gt;эр</li>
-    <li>firstNameSuffix-&gt;мон</li>
-    <li>firstNameSuffix-&gt;тар</li>
-    <li>firstNameSuffix-&gt;ус</li>
-    <li>firstNameSuffix-&gt;рот</li>
-    <li>firstNameSuffix-&gt;аэль</li>
-    <li>firstNameSuffix-&gt;иус</li>
-    <li>firstNameSuffix-&gt;эус</li>
-    <li>firstNameSuffix-&gt;иал</li>
-    <li>firstNameSuffixRare-&gt;малиус</li>
-    <li>firstNameSuffixRare-&gt;зевус</li>
-    <li>firstNameSuffixRare-&gt;фус</li>
-    <li>firstNameSuffixRare-&gt;одеус</li>
-    <li>firstNameSuffixRare-&gt;абас</li>
-    <li>firstNameSuffixRare-&gt;офель</li>
-    <li>firstNameSuffixRare-&gt;фас</li>
-  </BS_DemonFirstName.rulePack.rulesStrings>
-  <BS_DemonLastName.rulePack.rulesStrings>
-    <li>lastName-&gt;[lastNamePrefix][lastNameSuffix]</li>
-    <li>lastName-&gt;[lastNameFull]</li>
-    <li>lastNamePrefix-&gt;блад</li>
-    <li>lastNamePrefix-&gt;дарк</li>
-    <li>lastNamePrefix-&gt;хелл</li>
-    <li>lastNamePrefix-&gt;шэдоу</li>
-    <li>lastNamePrefix-&gt;незер</li>
-    <li>lastNamePrefix-&gt;соул</li>
-    <li>lastNamePrefix-&gt;хаос</li>
-    <li>lastNamePrefix-&gt;фир</li>
-    <li>lastNamePrefix-&gt;пейн</li>
-    <li>lastNamePrefix-&gt;дэт</li>
-    <li>lastNamePrefix-&gt;пэшн</li>
-    <li>lastNamePrefix-&gt;зил</li>
-    <li>lastNamePrefix-&gt;вейн</li>
-    <li>lastNamePrefix-&gt;войд</li>
-    <li>lastNamePrefix-&gt;мэн</li>
-    <li>lastNamePrefix-&gt;фаул</li>
-    <li>lastNamePrefix-&gt;дум</li>
-    <li>lastNameSuffix-&gt;бейн</li>
-    <li>lastNameSuffix-&gt;файр</li>
-    <li>lastNameSuffix-&gt;флейм</li>
-    <li>lastNameSuffix-&gt;фэнг</li>
-    <li>lastNameSuffix-&gt;пайк</li>
-    <li>lastNameSuffix-&gt;слэш</li>
-    <li>lastNameSuffix-&gt;рат</li>
-    <li>lastNameSuffix-&gt;гор</li>
-    <li>lastNameSuffix-&gt;скорн</li>
-    <li>lastNameSuffix-&gt;краш</li>
-    <li>lastNameSuffix-&gt;рейдж</li>
-    <li>lastNameSuffix-&gt;хангер</li>
-    <li>lastNameSuffix-&gt;крейв</li>
-    <li>lastNameSuffix-&gt;лав</li>
-    <li>lastNameSuffix-&gt;ласт</li>
-    <li>lastNameSuffix-&gt;хараб</li>
-    <li>lastNameSuffix-&gt;сикер</li>
-    <li>lastNameSuffix-&gt;глори</li>
-    <li>lastNameSuffix-&gt;харт</li>
-    <li>lastNameSuffix-&gt;итер</li>
-    <li>lastNameSuffix-&gt;холлоу</li>
-    <li>lastNameSuffix-&gt;кёрс</li>
-    <li>lastNameSuffix-&gt;фул</li>
-    <li>lastNameFull-&gt;Похоть</li>
-    <li>lastNameFull-&gt;Чревоугодие</li>
-    <li>lastNameFull-&gt;Алчность</li>
-    <li>lastNameFull-&gt;Лень</li>
-    <li>lastNameFull-&gt;Зависть</li>
-    <li>lastNameFull-&gt;Гнев</li>
-    <li>lastNameFull-&gt;Гордыня</li>
-    <li>lastNameFull-&gt;Ванитас</li>
-    <li>lastNameFull-&gt;Люксурия</li>
-    <li>lastNameFull-&gt;Супербия</li>
-    <li>lastNameFull-&gt;Похоть</li>
-    <li>lastNameFull-&gt;Чревоугодие</li>
-    <li>lastNameFull-&gt;Алчность</li>
-    <li>lastNameFull-&gt;Лень</li>
-    <li>lastNameFull-&gt;Зависть</li>
-    <li>lastNameFull-&gt;Гнев</li>
-    <li>lastNameFull-&gt;Гордыня</li>
-    <li>lastNameFull-&gt;Ванитас</li>
-    <li>lastNameFull-&gt;Люксурия</li>
-    <li>lastNameFull-&gt;Супербия</li>
-    <li>lastNameFull-&gt;Раздор</li>
-    <li>lastNameFull-&gt;Уныние</li>
-    <li>lastNameFull-&gt;Кенодоксия</li>
-    <li>lastNameFull-&gt;Ацедия</li>
-    <li>lastNameFull-&gt;Форникацио</li>
-    <li>lastNameFull-&gt;Тристиция</li>
-    <li>lastNameFull-&gt;Ванаглория</li>
-    <li>lastNameFull-&gt;Ацедия</li>
-    <li>lastNameFull-&gt;Забвение</li>
-    <li>lastNameFull-&gt;Инвидия</li>
-    <li>lastNameFull-&gt;Нефас</li>
-    <li>lastNameFull-&gt;Долор</li>
-    <li>lastNameFull-&gt;Авариция</li>
-    <li>lastNameFull-&gt;Лакримоза</li>
-    <li>lastNameFull-&gt;Флагиций</li>
-    <li>lastNameFull-&gt;Пестиленция</li>
-    <li>lastNameFull-&gt;Малум</li>
-    <li>lastNameFull-&gt;Умбра</li>
-    <li>lastNameFull-&gt;Маледиктус</li>
-    <li>lastNameFull-&gt;Малигнус</li>
-    <li>lastNameFull-&gt;Инфернум</li>
-    <li>lastNameFull-&gt;Малефактум</li>
-    <li>lastNameFull-&gt;Дамнацио</li>
-    <li>lastNameFull-&gt;Маледиктум</li>
-    <li>lastNameFull-&gt;Атроцитас</li>
-    <li>lastNameFull-&gt;Малефикум</li>
-    <li>lastNameFull-&gt;Инъюрия</li>
-    <li>lastNameFull-&gt;Фурор</li>
-    <li>lastNameFull-&gt;Сквалор</li>
-    <li>lastNameFull-&gt;Виндикта</li>
-    <li>lastNameFull-&gt;Нефариус</li>
-    <li>lastNameFull-&gt;Объятие</li>
-    <li>lastNameFull-&gt;Мучитель</li>
-    <li>lastNameFull-&gt;Вожделение</li>
-    <li>lastNameFull-&gt;Падение</li>
-    <li>lastNameFull-&gt;Разгул</li>
-    <li>lastNameFull-&gt;Чернота</li>
-  </BS_DemonLastName.rulePack.rulesStrings>
+  <BS_HeavenNamer.rulePack.rulesStrings>
+    <li>r_name-&gt;[firstName] [lastName]</li>
+  </BS_HeavenNamer.rulePack.rulesStrings>
 </LanguageData>

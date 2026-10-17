@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BATR_Install_Bouncer_Frame.description>Заменяет шасси устройства на «Вышибалу», предназначенного выдерживать удары и пугать своим видом. Вдобавок подходит для тяжёлого труда.</BATR_Install_Bouncer_Frame.description>
+  <BATR_Install_Bouncer_Frame.label>Установить шасси «Вышибала»</BATR_Install_Bouncer_Frame.label>
+  <BATR_Install_Jotun_Frame.description>Заменяет шасси устройства на огромное шасси для добычи руды, переноски грузов и боя.</BATR_Install_Jotun_Frame.description>
+  <BATR_Install_Jotun_Frame.label>Установить шасси «ЁТУН»</BATR_Install_Jotun_Frame.label>
+  <BATR_Install_MechanicFrame.description>Заменяет шасси устройства на маленькое шасси для быстрого ремонта, сварки и изготовления предметов. Точно настроенные приводы также делают его пригодным для дальнего боя.</BATR_Install_MechanicFrame.description>
+  <BATR_Install_MechanicFrame.label>Установить шасси «Механик»</BATR_Install_MechanicFrame.label>
+  <BATR_Install_Ogre_Frame.description>Заменяет шасси устройства на огромное и прочное, но очень медленное шасси «ОГР».</BATR_Install_Ogre_Frame.description>
+  <BATR_Install_Ogre_Frame.label>Установить шасси «ОГР»</BATR_Install_Ogre_Frame.label>
+  <BATR_Install_OperatingEquipment.description>Устанавливает в устройство оборудование оператора.</BATR_Install_OperatingEquipment.description>
+  <BATR_Install_OperatingEquipment.jobString>Установка оборудования оператора.</BATR_Install_OperatingEquipment.jobString>
+  <BATR_Install_OperatingEquipment.label>Установить оборудование оператора</BATR_Install_OperatingEquipment.label>
+  <BATR_Install_PilotingEquipment.description>Устанавливает в устройство оборудование пилота.</BATR_Install_PilotingEquipment.description>
+  <BATR_Install_PilotingEquipment.jobString>Установка оборудования пилота.</BATR_Install_PilotingEquipment.jobString>
+  <BATR_Install_PilotingEquipment.label>Установить оборудование пилота</BATR_Install_PilotingEquipment.label>
+  <BATR_Install_Roomba_Frame.description>Заменяет шасси устройства на энергоэффективную «Румбу», предназначенную для быстрого передвижения, уборки, спасения и переноски небольших грузов с низким расходом энергии. Благодаря небольшим размерам и стерильным инструментам иногда служит дешёвой заменой специализированным хирургическим шасси.\n\nИз-за небольших размеров довольно хрупкое.</BATR_Install_Roomba_Frame.description>
+  <BATR_Install_Roomba_Frame.label>Установить шасси «Румба»</BATR_Install_Roomba_Frame.label>
+  <BATR_Install_Titan_Frame.description>Заменяет шасси устройства на экспериментальное шасси титана.\n\nЭто шасси андроида задумано как полностью механическая замена частично биологическим титанам городских миров. Этот родственный кибернетической программе «ТИТАН» проект признали неудачным из-за невероятно сложного производства и ещё более ошеломляющих затрат.\n\nУстойчиво к вакууму.</BATR_Install_Titan_Frame.description>
+  <BATR_Install_Titan_Frame.label>Установить шасси «ТИТАН»</BATR_Install_Titan_Frame.label>
+  <BATR_Install_VacuumSealing.description>Набор компонентов для защиты андроида от вакуума. Также обеспечивает неплохую теплоизоляцию, но немного снижает подвижность.</BATR_Install_VacuumSealing.description>
+  <BATR_Install_VacuumSealing.jobString>Замена механического поясничного модуля.</BATR_Install_VacuumSealing.jobString>
+  <BATR_Install_VacuumSealing.label>Установить защиту от вакуума</BATR_Install_VacuumSealing.label>
+</LanguageData>

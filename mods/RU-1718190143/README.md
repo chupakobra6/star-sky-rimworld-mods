@@ -1,3 +1,5 @@
+[![Поддержать на Boosty — моды и переводы на заказ](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-support-ru.png)](https://boosty.to/chupakobra6?utm_source=github&utm_medium=repository&utm_campaign=star_sky_mods&utm_content=readme&utm_term=support)
+
 # Vanilla Furniture Expanded — русский перевод [Star Sky Mods]
 
 [![Vanilla Furniture Expanded — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/vanilla-furniture-expanded-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3807814430)
@@ -8,6 +10,8 @@
 
 Переведены названия и описания мебели, исследования, сообщения и подписи предметов. Оригинальный мод расширяет обустройство колонии мебелью и добавляет новые ступени развития после изучения сложной мебели.
 
+![Что переведено](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/section-features-ru.png)
+
 ## Что переведено
 
 Переведены тексты мода с учётом окончаний и согласования слов.
@@ -15,6 +19,8 @@
 - Названия и описания новой мебели для разных помещений колонии.
 - Исследования и связанные с мебелью игровые сообщения.
 - Строки из кода, которые не находятся в обычных файлах локализации.
+
+![Как пользоваться](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/section-how-to-use-ru.png)
 
 ## Установка
 
@@ -25,6 +31,8 @@
 <!-- rimmods:readme installation end -->
 
 Изучайте новые технологии мебели и размещайте открывшиеся предметы через меню строительства.
+
+![Обратная связь](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/section-feedback-ru.png)
 
 ## Обратная связь
 
@@ -45,3 +53,6 @@
 <!-- rimmods:readme ludeon begin -->
 Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.
 <!-- rimmods:readme ludeon end -->
+
+[![Исходники и руководство на GitHub](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/github-ru.png)](https://github.com/chupakobra6/star-sky-rimworld-mods/tree/main/mods/RU-1718190143)
+[![Другие моды в Мастерской Steam](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-ru.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)

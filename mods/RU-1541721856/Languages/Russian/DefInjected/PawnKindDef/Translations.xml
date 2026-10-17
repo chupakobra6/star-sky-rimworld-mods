@@ -1,25 +1,23 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <AA_AcanthamoebaGiganteaSmall.label>гигантская акантамёба, малая</AA_AcanthamoebaGiganteaSmall.label>
-  <AA_AcanthamoebaGiganteaLarge.label>гигантская акантамёба, большая</AA_AcanthamoebaGiganteaLarge.label>
   <AA_AcanthamoebaGiganteaHuge.label>гигантская акантамёба, огромная</AA_AcanthamoebaGiganteaHuge.label>
-  <AA_Aerofleet.label>аэрофлит</AA_Aerofleet.label>
-  <AA_ColossalAerofleet.label>колоссальный аэрофлит</AA_ColossalAerofleet.label>
-  <AA_Agaripawn.label>агарипон</AA_Agaripawn.label>
-  <AA_Agaripod.label>агарипод</AA_Agaripod.label>
-  <AA_AngelMothLarva.label>личинка ангельской моли</AA_AngelMothLarva.label>
+  <AA_AcanthamoebaGiganteaLarge.label>гигантская акантамёба, большая</AA_AcanthamoebaGiganteaLarge.label>
+  <AA_AcanthamoebaGiganteaSmall.label>гигантская акантамёба, малая</AA_AcanthamoebaGiganteaSmall.label>
+  <AA_Aerofleet.label>небоплав</AA_Aerofleet.label>
+  <AA_Agaripawn.label>пёстрый грибунок</AA_Agaripawn.label>
+  <AA_Agaripod.label>пёстрый грибун</AA_Agaripod.label>
   <AA_AngelMoth.label>ангельская моль</AA_AngelMoth.label>
+  <AA_AngelMothLarva.label>личинка ангельской моли</AA_AngelMothLarva.label>
   <AA_AnimaColossus.label>анима-колосс</AA_AnimaColossus.label>
   <AA_Animalisk.label>анималиск</AA_Animalisk.label>
-  <AA_AnimusVox.label>анимус вокс</AA_AnimusVox.label>
-  <AA_AnimusVox.labelPlural>анимусы воксы</AA_AnimusVox.labelPlural>
-  <AA_AnimusVox.lifeStages.animus_vox_puppy.label>щенок анимуса вокса</AA_AnimusVox.lifeStages.animus_vox_puppy.label>
-  <AA_AnimusVox.lifeStages.animus_vox_puppy.labelPlural>щенки анимуса вокса</AA_AnimusVox.lifeStages.animus_vox_puppy.labelPlural>
+  <AA_AnimusVox.label>душелис</AA_AnimusVox.label>
+  <AA_AnimusVox.labelPlural>душелисы</AA_AnimusVox.labelPlural>
+  <AA_AnimusVox.lifeStages.animus_vox_puppy.label>щенок душелиса</AA_AnimusVox.lifeStages.animus_vox_puppy.label>
+  <AA_AnimusVox.lifeStages.animus_vox_puppy.labelPlural>щенки душелиса</AA_AnimusVox.lifeStages.animus_vox_puppy.labelPlural>
   <AA_ArcticLion.label>арктический лев</AA_ArcticLion.label>
   <AA_ArcticLion.labelPlural>арктические львы</AA_ArcticLion.labelPlural>
   <AA_ArcticLion.lifeStages.arctic_lion_cub.label>детёныш арктического льва</AA_ArcticLion.lifeStages.arctic_lion_cub.label>
   <AA_ArcticLion.lifeStages.arctic_lion_juvenile.label>молодой арктический лев</AA_ArcticLion.lifeStages.arctic_lion_juvenile.label>
-  <AA_LarvalAtispec.label>личинка атиспека</AA_LarvalAtispec.label>
   <AA_Atispec.label>атиспек</AA_Atispec.label>
   <AA_AuroraSylph.label>сильф полярного сияния</AA_AuroraSylph.label>
   <AA_Barbslinger.label>шипомёт</AA_Barbslinger.label>
@@ -33,26 +31,24 @@
   <AA_Blizzarisk.label>вьюгариск</AA_Blizzarisk.label>
   <AA_BlizzariskClutchMother.label>вьюгариск-матка</AA_BlizzariskClutchMother.label>
   <AA_BloodShrimp.label>кровавая креветка</AA_BloodShrimp.label>
-  <AA_Bobeene.label>бобин</AA_Bobeene.label>
-  <AA_Bobeene.lifeStages.bobeene_calf.label>телёнок бобина</AA_Bobeene.lifeStages.bobeene_calf.label>
-  <AA_Bobeene.lifeStages.bobeene_calf.labelPlural>телята бобина</AA_Bobeene.lifeStages.bobeene_calf.labelPlural>
+  <AA_Bobeene.label>пчелокорова</AA_Bobeene.label>
+  <AA_Bobeene.lifeStages.bobeene_calf.label>телёнок пчелокоровы</AA_Bobeene.lifeStages.bobeene_calf.label>
+  <AA_Bobeene.lifeStages.bobeene_calf.labelPlural>телята пчелокоровы</AA_Bobeene.lifeStages.bobeene_calf.labelPlural>
   <AA_BoulderMit.label>валунник</AA_BoulderMit.label>
   <AA_BoulderMit.lifeStages.bouldermit-0.label>валунник</AA_BoulderMit.lifeStages.bouldermit-0.label>
   <AA_BoulderMit.lifeStages.bouldermit-1.label>валунник</AA_BoulderMit.lifeStages.bouldermit-1.label>
-  <AA_SummitCrab.label>горный краб</AA_SummitCrab.label>
-  <AA_SummitCrab.lifeStages.summit_crab-0.label>горный краб</AA_SummitCrab.lifeStages.summit_crab-0.label>
-  <AA_SummitCrab.lifeStages.summit_crab-1.label>горный краб</AA_SummitCrab.lifeStages.summit_crab-1.label>
   <AA_Bumbledrone.label>дрон-шмель</AA_Bumbledrone.label>
   <AA_BumbledroneHierophant.label>дрон-шмель иерофант</AA_BumbledroneHierophant.label>
   <AA_BumbledroneQueen.label>матка дронов-шмелей</AA_BumbledroneQueen.label>
-  <AA_Cactipine.label>кактипин</AA_Cactipine.label>
-  <AA_Cactipine.lifeStages.cactipine-0.label>кактипин</AA_Cactipine.lifeStages.cactipine-0.label>
-  <AA_Cactipine.lifeStages.cactipine-1.label>кактипин</AA_Cactipine.lifeStages.cactipine-1.label>
+  <AA_Cactipine.label>кактобраз</AA_Cactipine.label>
+  <AA_Cactipine.lifeStages.cactipine-0.label>кактобраз</AA_Cactipine.lifeStages.cactipine-0.label>
+  <AA_Cactipine.lifeStages.cactipine-1.label>кактобраз</AA_Cactipine.lifeStages.cactipine-1.label>
   <AA_ChameleonYak.label>як-хамелеон</AA_ChameleonYak.label>
   <AA_ChameleonYak.lifeStages.chameleon_yak_calf.label>телёнок яка-хамелеона</AA_ChameleonYak.lifeStages.chameleon_yak_calf.label>
   <AA_ChameleonYak.lifeStages.chameleon_yak_calf.labelPlural>телята яка-хамелеона</AA_ChameleonYak.lifeStages.chameleon_yak_calf.labelPlural>
   <AA_ChemfuelMyrmidon.label>топливный мирмидон</AA_ChemfuelMyrmidon.label>
   <AA_Cinderlisk.label>углелиск</AA_Cinderlisk.label>
+  <AA_ColossalAerofleet.label>гигантский небоплав</AA_ColossalAerofleet.label>
   <AA_CrepuscularBeetle.label>сумеречный жук</AA_CrepuscularBeetle.label>
   <AA_CrescendoAnole.label>анол-крещендо</AA_CrescendoAnole.label>
   <AA_CrystalMit.label>кристаллонос</AA_CrystalMit.label>
@@ -69,16 +65,16 @@
   <AA_DevilSheep.labelFemale>дьявольская овца</AA_DevilSheep.labelFemale>
   <AA_DevilSheep.labelMale>дьявольский баран</AA_DevilSheep.labelMale>
   <AA_DevilSheep.lifeStages.devilsheep_lamb.label>дьявольский ягнёнок</AA_DevilSheep.lifeStages.devilsheep_lamb.label>
-  <AA_DrainerLarva.label>личинка осушителя</AA_DrainerLarva.label>
   <AA_Drainer.label>осушитель</AA_Drainer.label>
+  <AA_DrainerLarva.label>личинка осушителя</AA_DrainerLarva.label>
   <AA_Dunealisk.label>дюналиск</AA_Dunealisk.label>
   <AA_DunealiskClutchMother.label>матка дюналисков</AA_DunealiskClutchMother.label>
   <AA_DuskProwler.label>сумеречный бродяга</AA_DuskProwler.label>
   <AA_DuskProwler.lifeStages.dusk_prowler_puppy.label>щенок сумеречного бродяги</AA_DuskProwler.lifeStages.dusk_prowler_puppy.label>
   <AA_DuskProwler.lifeStages.dusk_prowler_puppy.labelPlural>щенки сумеречного бродяги</AA_DuskProwler.lifeStages.dusk_prowler_puppy.labelPlural>
   <AA_DuskRat.label>сумеречная крыса</AA_DuskRat.label>
-  <AA_EmpressButterflyLarva.label>личинка бабочки-императрицы</AA_EmpressButterflyLarva.label>
   <AA_EmpressButterfly.label>бабочка-императрица</AA_EmpressButterfly.label>
+  <AA_EmpressButterflyLarva.label>личинка бабочки-императрицы</AA_EmpressButterflyLarva.label>
   <AA_EngorgedTentacularAberration.label>раздувшаяся щупальцевая аберрация</AA_EngorgedTentacularAberration.label>
   <AA_Erin.label>эрин</AA_Erin.label>
   <AA_Eyeling.label>глазик</AA_Eyeling.label>
@@ -98,21 +94,21 @@
   <AA_FrostAve.labelPlural>морозные аве</AA_FrostAve.labelPlural>
   <AA_FrostAve.lifeStages.frost_ave_chick.label>птенец морозной аве</AA_FrostAve.lifeStages.frost_ave_chick.label>
   <AA_FrostLynx.label>морозная рысь</AA_FrostLynx.label>
-  <AA_FrostLynx.lifeStages.frost_lynx_kitten.label>детёныш морозной рыси</AA_FrostLynx.lifeStages.frost_lynx_kitten.label>
   <AA_FrostLynx.lifeStages.frost_lynx_juvenile.label>молодая морозная рысь</AA_FrostLynx.lifeStages.frost_lynx_juvenile.label>
-  <AA_Frostmite.label>морозный клещ</AA_Frostmite.label>
+  <AA_FrostLynx.lifeStages.frost_lynx_kitten.label>детёныш морозной рыси</AA_FrostLynx.lifeStages.frost_lynx_kitten.label>
   <AA_FrostboundBehemoth.label>морозный бегемот</AA_FrostboundBehemoth.label>
-  <AA_Frostling.label>фростлинг</AA_Frostling.label>
-  <AA_Frostling.lifeStages.frostling_cub.label>детёныш фростлинга</AA_Frostling.lifeStages.frostling_cub.label>
-  <AA_Frostling.lifeStages.frostling_cub.labelPlural>детёныши фростлинга</AA_Frostling.lifeStages.frostling_cub.labelPlural>
+  <AA_Frostling.label>морозник</AA_Frostling.label>
+  <AA_Frostling.lifeStages.frostling_cub.label>детёныш морозника</AA_Frostling.lifeStages.frostling_cub.label>
+  <AA_Frostling.lifeStages.frostling_cub.labelPlural>детёныши морозника</AA_Frostling.lifeStages.frostling_cub.labelPlural>
+  <AA_Frostmite.label>морозный клещ</AA_Frostmite.label>
   <AA_FungalHusk.label>грибковая оболочка</AA_FungalHusk.label>
   <AA_Gallatross.label>галлатросс</AA_Gallatross.label>
   <AA_Gallatross.lifeStages.gallatross-0.label>галлатросс</AA_Gallatross.lifeStages.gallatross-0.label>
   <AA_Gallatross.lifeStages.gallatross-1.label>галлатросс</AA_Gallatross.lifeStages.gallatross-1.label>
   <AA_GallatrossMoribund.label>умирающий галлатросс</AA_GallatrossMoribund.label>
   <AA_Genix.label>геникс</AA_Genix.label>
-  <AA_Genix.lifeStages.genix_kitten.label>детёныш геникса</AA_Genix.lifeStages.genix_kitten.label>
   <AA_Genix.lifeStages.genix_juvenile.label>молодой геникс</AA_Genix.lifeStages.genix_juvenile.label>
+  <AA_Genix.lifeStages.genix_kitten.label>детёныш геникса</AA_Genix.lifeStages.genix_kitten.label>
   <AA_GiantCrownedSilkie.label>гигантская коронованная силки</AA_GiantCrownedSilkie.label>
   <AA_GiantCrownedSilkie.lifeStages.giant_crowned_silkie_chick.label>цыплёнок гигантской коронованной силки</AA_GiantCrownedSilkie.lifeStages.giant_crowned_silkie_chick.label>
   <AA_Gigantelope.label>гигантелопа</AA_Gigantelope.label>
@@ -125,10 +121,11 @@
   <AA_GreyCoatedMouflon.labelMale>самец серошёрстного муфлона</AA_GreyCoatedMouflon.labelMale>
   <AA_GreyCoatedMouflon.lifeStages.greycoated_mouflon_lamb.label>ягнёнок серошёрстного муфлона</AA_GreyCoatedMouflon.lifeStages.greycoated_mouflon_lamb.label>
   <AA_Groundrunner.label>землеход</AA_Groundrunner.label>
-  <AA_Helixien.label>геликсиен</AA_Helixien.label>
-  <AA_InfectedAerofleet.label>заражённый аэрофлит</AA_InfectedAerofleet.label>
+  <AA_Helixien.label>тленослизень</AA_Helixien.label>
+  <AA_InfectedAerofleet.label>заражённый небоплав</AA_InfectedAerofleet.label>
   <AA_IronhuskBeetle.label>железнопанцирный жук</AA_IronhuskBeetle.label>
   <AA_Junglelisk.label>джунглелиск</AA_Junglelisk.label>
+  <AA_LarvalAtispec.label>личинка атиспека</AA_LarvalAtispec.label>
   <AA_Lockjaw.label>капканник</AA_Lockjaw.label>
   <AA_Locusts.label>саранча</AA_Locusts.label>
   <AA_LuciferBug.label>жук-люцифер</AA_LuciferBug.label>
@@ -142,28 +139,28 @@
   <AA_MegaLouse.labelPlural>мегавши</AA_MegaLouse.labelPlural>
   <AA_Metallovore.label>металловора</AA_Metallovore.label>
   <AA_Mime.label>мим</AA_Mime.label>
-  <AA_Murkling.label>мраклинг</AA_Murkling.label>
+  <AA_Murkling.label>сумеречник</AA_Murkling.label>
   <AA_MycoidColossus.label>грибной колосс</AA_MycoidColossus.label>
   <AA_Needlepost.label>иглостолб</AA_Needlepost.label>
   <AA_Needleroll.label>иглошар</AA_Needleroll.label>
-  <AA_NightMule.label>ночной мул</AA_NightMule.label>
-  <AA_NightMule.lifeStages.nightmule_calf.label>детёныш ночного мула</AA_NightMule.lifeStages.nightmule_calf.label>
-  <AA_NightMule.lifeStages.nightmule_calf.labelPlural>детёныши ночного мула</AA_NightMule.lifeStages.nightmule_calf.labelPlural>
   <AA_NightAve.label>ночная аве</AA_NightAve.label>
   <AA_NightAve.labelPlural>ночные аве</AA_NightAve.labelPlural>
   <AA_NightAve.lifeStages.night_ave_chick.label>птенец ночной аве</AA_NightAve.lifeStages.night_ave_chick.label>
-  <AA_Nightling.label>найтлинг</AA_Nightling.label>
-  <AA_Nightling.lifeStages.nightling_cub.label>щенок найтлинга</AA_Nightling.lifeStages.nightling_cub.label>
-  <AA_Nightling.lifeStages.nightling_cub.labelPlural>щенки найтлинга</AA_Nightling.lifeStages.nightling_cub.labelPlural>
+  <AA_NightMule.label>ночной мул</AA_NightMule.label>
+  <AA_NightMule.lifeStages.nightmule_calf.label>детёныш ночного мула</AA_NightMule.lifeStages.nightmule_calf.label>
+  <AA_NightMule.lifeStages.nightmule_calf.labelPlural>детёныши ночного мула</AA_NightMule.lifeStages.nightmule_calf.labelPlural>
   <AA_NightRam.label>ночной баран</AA_NightRam.label>
   <AA_NightRam.lifeStages.nightram_calf.label>ягнёнок ночного барана</AA_NightRam.lifeStages.nightram_calf.label>
   <AA_NightRam.lifeStages.nightram_calf.labelPlural>ягнята ночного барана</AA_NightRam.lifeStages.nightram_calf.labelPlural>
+  <AA_Nightling.label>ночезверь</AA_Nightling.label>
+  <AA_Nightling.lifeStages.nightling_cub.label>щенок ночезверя</AA_Nightling.lifeStages.nightling_cub.label>
+  <AA_Nightling.lifeStages.nightling_cub.labelPlural>щенки ночезверя</AA_Nightling.lifeStages.nightling_cub.labelPlural>
   <AA_OcularCactus.label>глазастый кактус</AA_OcularCactus.label>
   <AA_OcularCactus.labelPlural>глазастые кактусы</AA_OcularCactus.labelPlural>
   <AA_OcularJelly.label>глазастая медуза</AA_OcularJelly.label>
-  <AA_OcularNightling.label>глазастый найтлинг</AA_OcularNightling.label>
-  <AA_OcularNightling.lifeStages.ocular_nightling_cub.label>щенок глазастого найтлинга</AA_OcularNightling.lifeStages.ocular_nightling_cub.label>
-  <AA_OcularNightling.lifeStages.ocular_nightling_cub.labelPlural>щенки глазастого найтлинга</AA_OcularNightling.lifeStages.ocular_nightling_cub.labelPlural>
+  <AA_OcularNightling.label>глазастый ночезверь</AA_OcularNightling.label>
+  <AA_OcularNightling.lifeStages.ocular_nightling_cub.label>щенок глазастого ночезверя</AA_OcularNightling.lifeStages.ocular_nightling_cub.label>
+  <AA_OcularNightling.lifeStages.ocular_nightling_cub.labelPlural>щенки глазастого ночезверя</AA_OcularNightling.lifeStages.ocular_nightling_cub.labelPlural>
   <AA_OvergrownColossus.label>заросший колосс</AA_OvergrownColossus.label>
   <AA_PebbleMit.label>галечник</AA_PebbleMit.label>
   <AA_PebbleMit.lifeStages.pebblemit-0.label>галечник</AA_PebbleMit.lifeStages.pebblemit-0.label>
@@ -179,7 +176,7 @@
   <AA_Ravager.label>опустошитель</AA_Ravager.label>
   <AA_RayHound.label>электропёс</AA_RayHound.label>
   <AA_RayHound.lifeStages.rayhound_lizardling.label>ящерёнок электропса</AA_RayHound.lifeStages.rayhound_lizardling.label>
-  <AA_Razorjack.label>разорджек</AA_Razorjack.label>
+  <AA_Razorjack.label>бритвоклык</AA_Razorjack.label>
   <AA_RedGoo.label>красная слизь</AA_RedGoo.label>
   <AA_RedSpore.label>красная спора</AA_RedSpore.label>
   <AA_RipperHound.label>гончая-потрошитель</AA_RipperHound.label>
@@ -196,8 +193,8 @@
   <AA_SandProwler.lifeStages.sand_prowler_cub.label>детёныш песчаного бродяги</AA_SandProwler.lifeStages.sand_prowler_cub.label>
   <AA_SandProwler.lifeStages.sand_prowler_juvenile.label>молодой песчаный бродяга</AA_SandProwler.lifeStages.sand_prowler_juvenile.label>
   <AA_SandSquid.label>песчаный кальмар</AA_SandSquid.label>
-  <AA_SandSquid.lifeStages.sand_tadpole.label>песчаный головастик</AA_SandSquid.lifeStages.sand_tadpole.label>
   <AA_SandSquid.lifeStages.sand_squid.label>песчаный кальмар</AA_SandSquid.lifeStages.sand_squid.label>
+  <AA_SandSquid.lifeStages.sand_tadpole.label>песчаный головастик</AA_SandSquid.lifeStages.sand_tadpole.label>
   <AA_ShadowCharger.label>теневой скакун</AA_ShadowCharger.label>
   <AA_ShadowCharger.lifeStages.shadow_charger_calf.label>детёныш теневого скакуна</AA_ShadowCharger.lifeStages.shadow_charger_calf.label>
   <AA_ShadowCharger.lifeStages.shadow_charger_calf.labelPlural>детёныши теневого скакуна</AA_ShadowCharger.lifeStages.shadow_charger_calf.labelPlural>
@@ -213,6 +210,9 @@
   <AA_SpinedGow.label>шипастая козорова</AA_SpinedGow.label>
   <AA_SpinedGow.lifeStages.spined_gow_calf.label>детёныш шипастой козоровы</AA_SpinedGow.lifeStages.spined_gow_calf.label>
   <AA_SpinedGow.lifeStages.spined_gow_calf.labelPlural>детёныши шипастой козоровы</AA_SpinedGow.lifeStages.spined_gow_calf.labelPlural>
+  <AA_SummitCrab.label>горный краб</AA_SummitCrab.label>
+  <AA_SummitCrab.lifeStages.summit_crab-0.label>горный краб</AA_SummitCrab.lifeStages.summit_crab-0.label>
+  <AA_SummitCrab.lifeStages.summit_crab-1.label>горный краб</AA_SummitCrab.lifeStages.summit_crab-1.label>
   <AA_Swarmling.label>роевик</AA_Swarmling.label>
   <AA_TarGuzzler.label>смолохлёб</AA_TarGuzzler.label>
   <AA_TeratogenicOriginator.label>тератогенный породитель</AA_TeratogenicOriginator.label>
@@ -226,7 +226,7 @@
   <AA_Thunderox.lifeStages.thunderox_calf.label>телёнок громобыка</AA_Thunderox.lifeStages.thunderox_calf.label>
   <AA_Thunderox.lifeStages.thunderox_calf.labelPlural>телята громобыка</AA_Thunderox.lifeStages.thunderox_calf.labelPlural>
   <AA_UnblinkingEye.label>немигающий глаз</AA_UnblinkingEye.label>
-  <AA_Wildpawn.label>дикопон</AA_Wildpawn.label>
-  <AA_Wildpod.label>дикопод</AA_Wildpod.label>
+  <AA_Wildpawn.label>грибунок</AA_Wildpawn.label>
+  <AA_Wildpod.label>грибун</AA_Wildpod.label>
   <AA_WindBeast.label>ветрозверь</AA_WindBeast.label>
 </LanguageData>

@@ -1899,7 +1899,7 @@ namespace Igor.RU_3687071198
                 { " and ", " и " },
                 { "Aerial vehicle's descent alerted the outpost.", "Посадка воздушного судна насторожила аванпост." },
                 { "Arrived at nighttime.", "Прибытие ночью." },
-                { "Caravan has a centipede.", "В караване есть драгун." },
+                { "Caravan has a centipede.", "В караване есть сентипеда." },
                 { "Caravan has a diabolus.", "В караване есть дьявол." },
                 { "Caravan has a doomsday rocket launcher.", "У каравана есть ракетница «Судный день»." },
                 { "Caravan has a lancer.", "В караване есть улан." },
@@ -2318,7 +2318,8 @@ namespace Igor.RU_3687071198
             { "MiningOutpost.Orbital.Dialog_GravshipPlatformWarning:.ctor", new string[] { "System.Action" } },
             { "MiningOutpost.Orbital.Services.BlackjackSim:.ctor", new string[] { "System.Int32", "Verse.Pawn" } },
             { "MiningOutpost.Orbital.Services.FirefightSim:.ctor", new string[] { "MiningOutpost.Orbital.Services.FirefightEncounter", "RimWorld.Planet.Caravan", "MiningOutpost.Orbital.Services.OpportunityRunState" } },
-            { "MiningOutpost.Parley.ParleySortieUtility:TriggerEncounter", new string[] { "RimWorld.Planet.Caravan", "RimWorld.Planet.Site", "System.Single", "System.String", "System.String", "System.Boolean" } }
+            { "MiningOutpost.Parley.ParleySortieUtility:TriggerEncounter", new string[] { "RimWorld.Planet.Caravan", "RimWorld.Planet.Site", "System.Single", "System.String", "System.String", "System.Boolean" } },
+            { "MiningOutpost.Parley.ParleySuccessCalculator:CalculateWithSpecifics", new string[] { "RimWorld.Planet.Caravan", "RimWorld.Planet.Site", "MiningOutpost.Parley.OutpostSiteData", "MiningOutpost.Parley.DemandSpecifics", "Verse.Pawn", "MiningOutpost.Parley.PlayerOffer" } }
         };
         public LiteralTranslations(ModContentPack content) : base(content) { }
         public static void Apply()

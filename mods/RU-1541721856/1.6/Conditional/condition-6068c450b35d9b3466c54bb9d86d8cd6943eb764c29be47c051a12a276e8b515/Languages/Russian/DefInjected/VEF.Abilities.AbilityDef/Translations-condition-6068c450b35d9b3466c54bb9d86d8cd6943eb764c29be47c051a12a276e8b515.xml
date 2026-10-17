@@ -1,0 +1,73 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AAVPE_AcidSpit.description>Создаёт мощную струю кислоты, не причиняющую вреда заклинателю. Кислота обжигает цель и продолжает наносить урон после попадания.</AAVPE_AcidSpit.description>
+  <AAVPE_AcidSpit.label>кислотный плевок</AAVPE_AcidSpit.label>
+  <AAVPE_Charge.description>Направляет дикую энергию кошачьих в пси-прыжок к цели и яростно наносит два удара.</AAVPE_Charge.description>
+  <AAVPE_Charge.label>прыжок с атакой</AAVPE_Charge.label>
+  <AAVPE_ChargeAndSkewer.description>Заряжает оружие заклинателя чудовищным количеством энергии, затем совершает пси-прыжок к цели, яростно наносит два удара и пронзает её туловище насквозь, причиняя огромный урон.\n\nУчтите: эта пси-способность не действует на животных, поскольку считается, что у них нет туловища.</AAVPE_ChargeAndSkewer.description>
+  <AAVPE_ChargeAndSkewer.label>рывок с пронзанием</AAVPE_ChargeAndSkewer.label>
+  <AAVPE_ChemfuelNodules.description>Перемещает немного химтоплива под кожу цели, осторожно окружая его пси-барьером для предотвращения боли и отторжения. После смерти цели узелки химтоплива взрываются. Изменение постоянно.</AAVPE_ChemfuelNodules.description>
+  <AAVPE_ChemfuelNodules.label>узелки химтоплива</AAVPE_ChemfuelNodules.label>
+  <AAVPE_ClawFrenzy.description>Окутывает оружие ближнего боя заклинателя устрашающе острыми пси-когтями и наносит цели три последовательные яростные атаки. Применяется только в ближнем бою.</AAVPE_ClawFrenzy.description>
+  <AAVPE_ClawFrenzy.label>когтевая ярость</AAVPE_ClawFrenzy.label>
+  <AAVPE_DisablingStrike.description>Заряжает рукоять оружия заклинателя пси-энергией для удара, пытаясь обездвижить цель и взять её в плен. Неэффективно против брони.</AAVPE_DisablingStrike.description>
+  <AAVPE_DisablingStrike.label>обездвиживающий удар</AAVPE_DisablingStrike.label>
+  <AAVPE_Electrify.description>Создаёт мощный пси-разряд, наполняющий кровь цели потенциалом обратной энтропии. После этого она заряжает электрические аккумуляторы, просто находясь рядом. Изменение постоянно и довольно травматично.</AAVPE_Electrify.description>
+  <AAVPE_Electrify.label>электризовать</AAVPE_Electrify.label>
+  <AAVPE_EmpBlow.description>Бьёт цель такой мощной пси-энергией, что через её тело проходит электромагнитный импульс. Механоиды адаптируются после первого удара.</AAVPE_EmpBlow.description>
+  <AAVPE_EmpBlow.label>ЭМИ-удар</AAVPE_EmpBlow.label>
+  <AAVPE_EyeEruption.description>Направляет волну пси-энергии, разрывающую плоть цели и связывающую её с измерением чистого безумия. Раздутые злобные глаза прорывают кожу в случайных местах, причиняя сильнейшую боль и страдания.\nОднако эти глаза улучшают зрение пострадавшего, поэтому применение способности на союзнике рискованно, но может принести большую пользу, если затем глаза можно вылечить и удалить.</AAVPE_EyeEruption.description>
+  <AAVPE_EyeEruption.label>глазное извержение</AAVPE_EyeEruption.label>
+  <AAVPE_FatalBlow.description>Используя скрытый пси-потенциал диких животных, заклинатель изучает цель, находит её самое слабое место и безжалостным ударом убивает её на месте.</AAVPE_FatalBlow.description>
+  <AAVPE_FatalBlow.label>смертельный удар</AAVPE_FatalBlow.label>
+  <AAVPE_FungalSkin.description>Вызывает рост нескольких гигантских грибов на коже цели. Они не причиняют боли и дают значительную естественную броню, но делают цель ОЧЕНЬ уязвимой к огню.</AAVPE_FungalSkin.description>
+  <AAVPE_FungalSkin.label>грибная кожа</AAVPE_FungalSkin.label>
+  <AAVPE_GreaterOcularSprout.description>Создаёт рану в реальности, перемещая древнее глазодрево из измерения чистого безумия. Дерево превращает землю в глазной кошмар (при установленном Alpha Biomes изменяет почву и растения; каждый день с вероятностью 30% вызывает красный туман).\n\n&lt;color=#b51509&gt;Предупреждение:&lt;/color&gt; Выглядит здорово, но вызывает задержки, как обломки корабля с дефолиатором в основной игре.</AAVPE_GreaterOcularSprout.description>
+  <AAVPE_GreaterOcularSprout.label>большой глазной побег</AAVPE_GreaterOcularSprout.label>
+  <AAVPE_Hover.description>Даёт возможность ограниченного пси-полёта: цель может перепрыгивать и планировать на небольшие расстояния. На время действия способности штрафы местности к передвижению игнорируются.</AAVPE_Hover.description>
+  <AAVPE_Hover.label>парение</AAVPE_Hover.label>
+  <AAVPE_KO.description>Насыщает оружие ближнего боя заклинателя усиленным импульсом пси-энергии, чтобы лишить цель сознания, по возможности без постоянных повреждений.</AAVPE_KO.description>
+  <AAVPE_KO.label>Нокаут</AAVPE_KO.label>
+  <AAVPE_Laser.description>Пси-силой перенаправляет солнечный свет, сосредоточивая его в сокрушительном лазерном луче.</AAVPE_Laser.description>
+  <AAVPE_Laser.label>сосредоточенный свет</AAVPE_Laser.label>
+  <AAVPE_LegSkip.description>Зарядив оружие пси-энергией, заклинатель телепортируется к цели и безжалостно бьёт по её ногам, мгновенно уничтожая их. Часто, но не всегда, смертельно.</AAVPE_LegSkip.description>
+  <AAVPE_LegSkip.label>пси-прыжок к ногам</AAVPE_LegSkip.label>
+  <AAVPE_LightSustenance.description>Пси-силой частично превращает кожу цели в растительную ткань, почти полностью устраняя потребность в еде. Для питания теперь необходимо постоянно находиться на свету. Изменение постоянно и довольно травматично.</AAVPE_LightSustenance.description>
+  <AAVPE_LightSustenance.label>питание светом</AAVPE_LightSustenance.label>
+  <AAVPE_OcularSprout.description>Создаёт рану в реальности, перемещая несколько деревьев из измерения чистого безумия.</AAVPE_OcularSprout.description>
+  <AAVPE_OcularSprout.label>глазной побег</AAVPE_OcularSprout.label>
+  <AAVPE_Regeneration.description>Окружает цель пси-активным полем регенерации, позволяющим заживлять раны гораздо быстрее обычного.</AAVPE_Regeneration.description>
+  <AAVPE_Regeneration.label>регенерация</AAVPE_Regeneration.label>
+  <AAVPE_Skewer.description>Заряжает оружие заклинателя чудовищным количеством пси-энергии и пронзает туловище цели насквозь, причиняя огромный урон.\n\nУчтите: эта пси-способность не действует на животных, поскольку считается, что у них нет туловища.</AAVPE_Skewer.description>
+  <AAVPE_Skewer.label>пронзание</AAVPE_Skewer.label>
+  <AAVPE_Slice.description>Телепортируется на небольшое расстояние к цели и разрезает случайную часть тела.</AAVPE_Slice.description>
+  <AAVPE_Slice.label>свирепый пси-разрез</AAVPE_Slice.label>
+  <AAVPE_SpinCut.description>Заклинатель совершает короткий пси-прыжок и вращает оружие ближнего боя, разрезая всех рядом с первоначальной целью.</AAVPE_SpinCut.description>
+  <AAVPE_SpinCut.label>круговой разрез</AAVPE_SpinCut.label>
+  <AAVPE_StrengthenInsect.description>Создаёт вокруг насекомого Чёрного улья ауру пси-силы, повышающую его боеспособность.</AAVPE_StrengthenInsect.description>
+  <AAVPE_StrengthenInsect.label>усилить насекомое</AAVPE_StrengthenInsect.label>
+  <AAVPE_StrikeEyes.description>Пси-силой доводит стекловидное тело в глазах цели до кипения, уничтожая их и навсегда ослепляя несчастную жертву.</AAVPE_StrikeEyes.description>
+  <AAVPE_StrikeEyes.label>уничтожить глаза</AAVPE_StrikeEyes.label>
+  <AAVPE_SummonBlackQueen.description>Пси-силой перемещает чёрную матку для защиты поселения. Она останется на день, в течение которого будет враждебна всем внешним врагам поселения, а затем исчезнет.</AAVPE_SummonBlackQueen.description>
+  <AAVPE_SummonBlackQueen.label>призвать чёрную матку</AAVPE_SummonBlackQueen.label>
+  <AAVPE_SummonBlackScarab.description>Пси-силой перемещает чёрного скарабея для защиты поселения. Он останется на день, в течение которого будет враждебен всем внешним врагам поселения, а затем исчезнет.</AAVPE_SummonBlackScarab.description>
+  <AAVPE_SummonBlackScarab.label>призвать чёрного скарабея</AAVPE_SummonBlackScarab.label>
+  <AAVPE_SummonBlackSpelopede.description>Пси-силой перемещает чёрную пещерную многоножку для защиты поселения. Она останется на день, в течение которого будет враждебна всем внешним врагам поселения, а затем исчезнет.</AAVPE_SummonBlackSpelopede.description>
+  <AAVPE_SummonBlackSpelopede.label>призвать чёрную пещерную многоножку</AAVPE_SummonBlackSpelopede.label>
+  <AAVPE_SummonBlackSpider.description>Пси-силой перемещает чёрного паука для защиты поселения. Он останется на день, в течение которого будет враждебен всем внешним врагам поселения, а затем исчезнет.</AAVPE_SummonBlackSpider.description>
+  <AAVPE_SummonBlackSpider.label>призвать чёрного паука</AAVPE_SummonBlackSpider.label>
+  <AAVPE_SummonEyeling.description>Пси-силой разрывает реальность и открывает проход в измерение чистого безумия, перемещая одного из его обитателей в нашу вселенную. Этот глазик останется на день, в течение которого будет враждебен всем внешним врагам поселения, а затем исчезнет.</AAVPE_SummonEyeling.description>
+  <AAVPE_SummonEyeling.label>призвать глазика</AAVPE_SummonEyeling.label>
+  <AAVPE_SummonEyelingHorde.description>Пси-силой разрывает реальность и открывает проход в измерение чистого безумия, перемещая нескольких его обитателей в нашу вселенную. Эти глазики останутся на день, в течение которого будут враждебны всем внешним врагам поселения, а затем исчезнут.</AAVPE_SummonEyelingHorde.description>
+  <AAVPE_SummonEyelingHorde.label>призвать орду глазиков</AAVPE_SummonEyelingHorde.label>
+  <AAVPE_SummonHive.description>Пси-силой заставляет насекомое Чёрного улья открыть проход к глубоким подземным туннелям улья. Вход периодически производит чёрных личинок, из которых вырастают случайные насекомые Чёрного улья. Они не исчезают со временем, и поселенцы могут приручать их как обычных животных. В поселении может быть только один вход в улей, а одновременно в поселении может находиться не более четырёх насекомых.</AAVPE_SummonHive.description>
+  <AAVPE_SummonHive.label>призвать вход в улей</AAVPE_SummonHive.label>
+  <AAVPE_SummonMammothWorm.description>Пси-силой перемещает червя-мамонта для защиты поселения. Он останется на день, в течение которого будет враждебен всем внешним врагам поселения, а затем исчезнет.</AAVPE_SummonMammothWorm.description>
+  <AAVPE_SummonMammothWorm.label>призвать червя-мамонта</AAVPE_SummonMammothWorm.label>
+  <AAVPE_SummonOcularOriginator.description>Пси-силой разрывает реальность и открывает проход в измерение чистого безумия, перемещая в нашу вселенную страшного глазного породителя. Он не враждебен, и поселенцам нужно держать его в загоне. На одной карте может находиться только один глазной породитель. Каждые 40 дней он производит полезные глазные имплантаты.</AAVPE_SummonOcularOriginator.description>
+  <AAVPE_SummonOcularOriginator.label>призвать глазного породителя</AAVPE_SummonOcularOriginator.label>
+  <AAVPE_VenomSpit.description>Создаёт небольшой сгусток едкой жидкости, соединяя микроскопический портал с подземным резервуаром кислоты. Затем сгусток заряжается пси-энергией и ускоряется в нужном направлении.</AAVPE_VenomSpit.description>
+  <AAVPE_VenomSpit.label>ядовитый плевок</AAVPE_VenomSpit.label>
+  <AAVPE_WebSlinging.description>Создаёт нити чистой мысленной энергии в форме сияющей пси-паутины. Паутина оглушает и обжигает цель.</AAVPE_WebSlinging.description>
+  <AAVPE_WebSlinging.label>метание паутины</AAVPE_WebSlinging.label>
+</LanguageData>

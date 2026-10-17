@@ -1,0 +1,53 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VRE_AbundantBeetleEggYield.description>Этот жук производит исключительно много яиц; при возможности размножаться его популяция быстро растёт.</VRE_AbundantBeetleEggYield.description>
+  <VRE_AbundantBeetleEggYield.label>обильная яйценоскость жука</VRE_AbundantBeetleEggYield.label>
+  <VRE_AbundantEggYield.description>Носитель этого гена производит исключительно много яиц; при возможности размножаться его популяция быстро растёт.</VRE_AbundantEggYield.description>
+  <VRE_AbundantEggYield.label>обильная яйценоскость</VRE_AbundantEggYield.label>
+  <VRE_AverageBeetleEggYield.description>Этот жук откладывает среднее количество яиц.</VRE_AverageBeetleEggYield.description>
+  <VRE_AverageBeetleEggYield.label>средняя яйценоскость жука</VRE_AverageBeetleEggYield.label>
+  <VRE_AverageCarryingCapacity.description>У этого существа обычная грузоподъёмность, подходящая для повседневных путешествий с караваном.</VRE_AverageCarryingCapacity.description>
+  <VRE_AverageCarryingCapacity.label>обычная грузоподъёмность</VRE_AverageCarryingCapacity.label>
+  <VRE_AverageEggYield.description>Носитель этого гена откладывает среднее количество яиц.</VRE_AverageEggYield.description>
+  <VRE_AverageEggYield.label>средняя яйценоскость</VRE_AverageEggYield.label>
+  <VRE_AwfulBulkCarry.description>Носитель этого гена может переносить лишь чуть больше груза, поэтому плохо подходит для переноски и караванов.</VRE_AwfulBulkCarry.description>
+  <VRE_AwfulBulkCarry.label>ничтожная грузоподъёмность</VRE_AwfulBulkCarry.label>
+  <VRE_BarrenBeetleEggYield.description>Этот жук откладывает яйца лишь изредка, поэтому плохо подходит для разведения.</VRE_BarrenBeetleEggYield.description>
+  <VRE_BarrenBeetleEggYield.label>скудная яйценоскость жука</VRE_BarrenBeetleEggYield.label>
+  <VRE_BarrenEggYield.description>Носитель этого гена откладывает яйца лишь изредка, поэтому плохо подходит для разведения.</VRE_BarrenEggYield.description>
+  <VRE_BarrenEggYield.label>скудная яйценоскость</VRE_BarrenEggYield.label>
+  <VRE_ExcellentBulkCarry.description>Носитель этого гена может переносить значительно больше груза, что делает его отличным переносчиком и караванным животным.</VRE_ExcellentBulkCarry.description>
+  <VRE_ExcellentBulkCarry.label>отличная грузоподъёмность</VRE_ExcellentBulkCarry.label>
+  <VRE_LegendaryBulkCarry.description>Носитель этого гена может переносить огромное количество дополнительного груза как при переноске, так и в караванах, почти не замедляясь под ношей, непосильной для других существ.</VRE_LegendaryBulkCarry.description>
+  <VRE_LegendaryBulkCarry.label>легендарная грузоподъёмность</VRE_LegendaryBulkCarry.label>
+  <VRE_Lightbacked.description>У этого существа ограниченная грузоподъёмность, снижающая объём переносимого груза.</VRE_Lightbacked.description>
+  <VRE_Lightbacked.label>лёгкая ноша</VRE_Lightbacked.label>
+  <VRE_MildlyEfficientSleeper.description>Носителю этого гена нужно несколько меньше сна, чем другим животным.</VRE_MildlyEfficientSleeper.description>
+  <VRE_MildlyEfficientSleeper.label>слегка сокращённый сон</VRE_MildlyEfficientSleeper.label>
+  <VRE_NormalBulkCarry.description>Носитель этого гена может переносить заметно больше груза как при переноске, так и в караванах.</VRE_NormalBulkCarry.description>
+  <VRE_NormalBulkCarry.label>обычная грузоподъёмность</VRE_NormalBulkCarry.label>
+  <VRE_NormalSleeper.description>У носителя этого гена обычная потребность во сне.</VRE_NormalSleeper.description>
+  <VRE_NormalSleeper.label>обычный сон</VRE_NormalSleeper.label>
+  <VRE_Packbeast.description>У этого существа исключительная грузоподъёмность, позволяющая перевозить огромные грузы в караванах.</VRE_Packbeast.description>
+  <VRE_Packbeast.label>вьючное животное</VRE_Packbeast.label>
+  <VRE_PoorBulkCarry.description>Носитель этого гена может переносить немного больше груза, но тяжёлая ноша легко его перегружает.</VRE_PoorBulkCarry.description>
+  <VRE_PoorBulkCarry.label>низкая грузоподъёмность</VRE_PoorBulkCarry.label>
+  <VRE_ProlificBeetleEggYield.description>Этот жук откладывает яйца чаще обычного, с меньшими промежутками между кладками.</VRE_ProlificBeetleEggYield.description>
+  <VRE_ProlificBeetleEggYield.label>повышенная яйценоскость жука</VRE_ProlificBeetleEggYield.label>
+  <VRE_ProlificEggYield.description>Носитель этого гена откладывает яйца чаще обычного, с меньшими промежутками между кладками.</VRE_ProlificEggYield.description>
+  <VRE_ProlificEggYield.label>повышенная яйценоскость</VRE_ProlificEggYield.label>
+  <VRE_ReducedRestRate.description>Носителю этого гена нужно меньше сна, чем большинству животных.</VRE_ReducedRestRate.description>
+  <VRE_ReducedRestRate.label>сниженная потребность во сне</VRE_ReducedRestRate.label>
+  <VRE_Sleepless.description>Носителю этого гена нужно значительно меньше сна, чем другим животным.</VRE_Sleepless.description>
+  <VRE_Sleepless.label>малая потребность во сне</VRE_Sleepless.label>
+  <VRE_SparseBeetleEggYield.description>Этот жук откладывает яйца реже обычного.</VRE_SparseBeetleEggYield.description>
+  <VRE_SparseBeetleEggYield.label>сниженная яйценоскость жука</VRE_SparseBeetleEggYield.label>
+  <VRE_SparseEggYield.description>Носитель этого гена откладывает яйца реже обычного.</VRE_SparseEggYield.description>
+  <VRE_SparseEggYield.label>сниженная яйценоскость</VRE_SparseEggYield.label>
+  <VRE_Strongbacked.description>Это существо может переносить значительный вес, что очень полезно для перевозки припасов в караванах.</VRE_Strongbacked.description>
+  <VRE_Strongbacked.label>крепкая спина</VRE_Strongbacked.label>
+  <VRE_Tireless.description>Носителю этого гена почти не нужен сон по сравнению с другими животными.</VRE_Tireless.description>
+  <VRE_Tireless.label>неутомимость</VRE_Tireless.label>
+  <VRE_Weakbacked.description>Это существо может переносить очень небольшой вес, поэтому плохо подходит для перевозки припасов в караванах.</VRE_Weakbacked.description>
+  <VRE_Weakbacked.label>слабая спина</VRE_Weakbacked.label>
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BATR_Bouncer.description>Массивное шасси, предназначенное выдерживать удары и пугать своим видом. Неплохо подходит и для тяжёлого труда.</BATR_Bouncer.description>
+  <BATR_Bouncer.label>Шасси «Вышибала»</BATR_Bouncer.label>
+  <BATR_Jotun.description>Огромное шасси для добычи руды, переноски грузов и боя.</BATR_Jotun.description>
+  <BATR_Jotun.label>Шасси «ЁТУН»</BATR_Jotun.label>
+  <BATR_Mechanic.description>Маленькое шасси для быстрого ремонта, сварки и изготовления предметов. Приводы точного управления также делают его пригодным для дальнего боя.</BATR_Mechanic.description>
+  <BATR_Mechanic.label>Шасси «Механик»</BATR_Mechanic.label>
+  <BATR_Ogre.description>Увеличенная версия шасси «ЁТУН», предназначенная прежде всего для прочности. Очень медлительная и немного склонна к перегреву.</BATR_Ogre.description>
+  <BATR_Ogre.label>Шасси «ОГР»</BATR_Ogre.label>
+  <BATR_OperatorAssisted.description>Помощник ядра этого робота перенастроен для работы с оператором, повышающим эффективность.</BATR_OperatorAssisted.description>
+  <BATR_OperatorAssisted.label>помощь оператора</BATR_OperatorAssisted.label>
+  <BATR_OperatorAssisted.stages.0.label>оператор отсутствует</BATR_OperatorAssisted.stages.0.label>
+  <BATR_OperatorAssisted.stages.1.label>оператор на месте</BATR_OperatorAssisted.stages.1.label>
+  <BATR_Piloted.description>Помощник ядра этого робота перенастроен для работы с пилотом.</BATR_Piloted.description>
+  <BATR_Piloted.label>пилотируемый робот</BATR_Piloted.label>
+  <BATR_Piloted.stages.0.label>пилот отсутствует</BATR_Piloted.stages.0.label>
+  <BATR_Piloted.stages.1.label>пилот на месте</BATR_Piloted.stages.1.label>
+  <BATR_Roomba.description>Шасси для быстрого передвижения, уборки, спасения и переноски небольших грузов с низким расходом энергии. Благодаря небольшим размерам и стерильным инструментам иногда служит дешёвой заменой специализированным хирургическим шасси.\n\nИз-за небольших размеров довольно хрупкое.</BATR_Roomba.description>
+  <BATR_Roomba.label>Шасси «Румба»</BATR_Roomba.label>
+  <BATR_Titan.description>Шасси андроида, задуманное как полностью механическая замена частично биологическим титанам городских миров. Этот родственный кибернетической программе «ТИТАН» проект признали неудачным из-за невероятно сложного производства и ещё более ошеломляющих затрат.\n\nУстойчиво к вакууму.</BATR_Titan.description>
+  <BATR_Titan.label>Шасси «ТИТАН»</BATR_Titan.label>
+  <BATR_Vacuum_sealed.description>Модификации для защиты компонентов от вакуума. Также обеспечивают неплохую теплоизоляцию, но немного снижают подвижность.</BATR_Vacuum_sealed.description>
+  <BATR_Vacuum_sealed.label>Компоненты с вакуумной защитой</BATR_Vacuum_sealed.label>
+</LanguageData>

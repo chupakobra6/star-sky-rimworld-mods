@@ -1,3 +1,5 @@
+[![Поддержать на Boosty — моды и переводы на заказ](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-support-ru.png)](https://boosty.to/chupakobra6?utm_source=github&utm_medium=repository&utm_campaign=star_sky_mods&utm_content=readme&utm_term=support)
+
 # Alpha Genes — русский перевод [Star Sky Mods]
 
 [![Alpha Genes — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/alpha-genes-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306776)
@@ -8,6 +10,8 @@
 
 Переведены гены, ксенотипы, способности и задания, а также тексты, которые оригинал выводит из кода. Alpha Genes расширяет Biotech более чем 250 генами и 16 ксенотипами. Заброшенные лаборатории и генетические инструменты дают новые способы находить гены и менять колонистов во время игры.
 
+![Что переведено](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/section-features-ru.png)
+
 ## Что переведено
 
 Переведены тексты генов, ксенотипов, событий и интерфейса.
@@ -15,6 +19,8 @@
 - Названия, описания и эффекты генов, категории генов и ксенотипы.
 - Способности, состояния, предметы, существа и фракции Alpha Genes.
 - Задания заброшенных лабораторий, сценарии, сообщения и строки игровых событий.
+
+![Как пользоваться](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/section-how-to-use-ru.png)
 
 ## Установка
 
@@ -25,6 +31,8 @@
 <!-- rimmods:readme installation end -->
 
 Создавайте ксенотипы с новыми генами в редакторе персонажей. Новые гены и генетические инструменты также встречаются в заданиях заброшенных лабораторий и в обычных наградах за задания.
+
+![Обратная связь](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/section-feedback-ru.png)
 
 ## Обратная связь
 
@@ -45,3 +53,6 @@
 <!-- rimmods:readme ludeon begin -->
 Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.
 <!-- rimmods:readme ludeon end -->
+
+[![Исходники и руководство на GitHub](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/github-ru.png)](https://github.com/chupakobra6/star-sky-rimworld-mods/tree/main/mods/RU-2891845502)
+[![Другие моды в Мастерской Steam](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-ru.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)

@@ -13,8 +13,8 @@ namespace Igor.RU_3537788184
         private static readonly Dictionary<string,Dictionary<string,string>> Methods =
             new Dictionary<string,Dictionary<string,string>> {
             { "MythicAges.BestiaryDunbear.IncidentWorker_DunbearAwakens:TryExecuteWorker", new Dictionary<string,string> {
-                { "Dunbear awakens", "Пробуждение дунбера" },
-                { "A Dunbear has awakened near the edge of the map and is moving toward the center. It will remain in the area for several days before leaving.", "У края карты пробудился дунбер. Он движется к центру и останется в этой местности на несколько дней, прежде чем уйти." }
+                { "A Dunbear has awakened near the edge of the map and is moving toward the center. It will remain in the area for several days before leaving.", "У края карты пробудился стужемед. Он движется к центру и останется в этой местности на несколько дней, прежде чем уйти." },
+                { "Dunbear awakens", "Стужемед пробуждается" }
             } }
             };
         private static readonly Dictionary<string,string[]> Parameters = new Dictionary<string,string[]> {
@@ -23,9 +23,20 @@ namespace Igor.RU_3537788184
         public LiteralTranslations(ModContentPack content) : base(content)
         {
             var harmony = new Harmony("igor.ru.3537788184.literals");
-            foreach (var target in Methods.Keys)
+            foreach (var target in Methods.Keys.ToArray())
+            {
+                if (!IsApplicable(target)) { Methods.Remove(target); continue; }
                 harmony.Patch(ResolveTarget(target),
                     transpiler: new HarmonyMethod(typeof(LiteralTranslations), nameof(Transpile)));
+            }
+        }
+        public static bool IsApplicable(string target)
+        {
+            switch (target)
+            {
+
+                default: return true;
+            }
         }
         public static MethodBase ResolveTarget(string target)
         {

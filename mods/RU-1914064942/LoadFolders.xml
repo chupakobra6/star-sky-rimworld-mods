@@ -2,7 +2,10 @@
 <loadFolders>
   <v1.6>
     <li>/</li>
+    <li IfModActiveAll="ceteam.combatextended" IfModNotActive="ludeon.rimworld.odyssey">1.6/Conditional/condition-c5819a20c09150902094474f9e2c1df24992cd3b591ac30097320d6995b7ddcd</li>
     <li IfModActive="ludeon.rimworld.odyssey">1.6/Conditional/with-ludeon-rimworld-odyssey</li>
+    <li IfModActive="vanillaexpanded.achievements">1.6/Conditional/with-vanillaexpanded-achievements</li>
     <li IfModActive="vanillaexpanded.skills">1.6/Conditional/with-vanillaexpanded-skills</li>
+    <li IfModNotActive="ludeon.rimworld.odyssey">1.6/Conditional/without-ludeon-rimworld-odyssey</li>
   </v1.6>
 </loadFolders>

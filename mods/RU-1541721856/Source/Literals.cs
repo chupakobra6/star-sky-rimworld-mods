@@ -12,9 +12,6 @@ namespace Igor.RU_1541721856
     {
         private static readonly Dictionary<string,Dictionary<string,string>> Methods =
             new Dictionary<string,Dictionary<string,string>> {
-            { "AlphaBehavioursAndEvents.CompCreateOcularPlants:CompInspectStringExtra", new Dictionary<string,string> {
-                { "day", "д." }
-            } },
             { "AlphaBehavioursAndEvents.AlphaAnimalsEvents_Mod:SettingsCategory", new Dictionary<string,string> {
                 { "Alpha Animals, General Options", "Alpha Animals — общие настройки" }
             } },
@@ -23,6 +20,9 @@ namespace Igor.RU_1541721856
             } },
             { "AlphaBehavioursAndEvents.Building_Overgrown_DropPod:GetInspectString", new Dictionary<string,string> {
                 { "\nGenerating terraforming lifeform: ", "\nСоздание существа для терраформирования: " }
+            } },
+            { "AlphaBehavioursAndEvents.CompCreateOcularPlants:CompInspectStringExtra", new Dictionary<string,string> {
+                { "day", "д." }
             } }
             };
         private static readonly Dictionary<string,string[]> Parameters = new Dictionary<string,string[]> {
@@ -31,9 +31,20 @@ namespace Igor.RU_1541721856
         public LiteralTranslations(ModContentPack content) : base(content)
         {
             var harmony = new Harmony("igor.ru.1541721856.literals");
-            foreach (var target in Methods.Keys)
+            foreach (var target in Methods.Keys.ToArray())
+            {
+                if (!IsApplicable(target)) { Methods.Remove(target); continue; }
                 harmony.Patch(ResolveTarget(target),
                     transpiler: new HarmonyMethod(typeof(LiteralTranslations), nameof(Transpile)));
+            }
+        }
+        public static bool IsApplicable(string target)
+        {
+            switch (target)
+            {
+
+                default: return true;
+            }
         }
         public static MethodBase ResolveTarget(string target)
         {

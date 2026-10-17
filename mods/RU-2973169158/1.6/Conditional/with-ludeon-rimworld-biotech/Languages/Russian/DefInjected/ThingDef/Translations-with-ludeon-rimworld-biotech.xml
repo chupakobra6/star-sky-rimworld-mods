@@ -26,6 +26,7 @@
   <AM_Blitzkrieg.description>Особый механоид для тактических операций и блокирования участков местности. Он похож на обтекаемую металлическую мину и может самостоятельно добраться до указанной точки, а затем взорваться с разрушительной силой. Взрыв не различает своих и чужих, поэтому действовать нужно согласованно, чтобы не задеть союзников.</AM_Blitzkrieg.description>
   <AM_Blitzkrieg.label>блицкриг</AM_Blitzkrieg.label>
   <AM_Blitzkrieg.tools.0.label>голова</AM_Blitzkrieg.tools.0.label>
+  <AM_Blitzkrieg.tools.head-1.label>голова</AM_Blitzkrieg.tools.head-1.label>
   <AM_Bullet_AcidSpewer.label>кислота</AM_Bullet_AcidSpewer.label>
   <AM_Bullet_ChargeBlasterHeavy_Red.label>заряд бластера</AM_Bullet_ChargeBlasterHeavy_Red.label>
   <AM_Bullet_Firethrower.label>пламя</AM_Bullet_Firethrower.label>
@@ -124,6 +125,7 @@
   <AM_Mech_Guttersnipe.description>Небольшой боевой механоид, обычно производимый внутри сверхтяжёлой императрицы войны. В отличие от дронов-пчёл, оборванцы сражаются врукопашную, бросаясь на врагов со смертоносными циркулярными пилами. Их источник питания нельзя перезарядить.</AM_Mech_Guttersnipe.description>
   <AM_Mech_Guttersnipe.label>оборванец</AM_Mech_Guttersnipe.label>
   <AM_Mech_Guttersnipe.tools.0.label>голова</AM_Mech_Guttersnipe.tools.0.label>
+  <AM_Mech_Guttersnipe.tools.head-1.label>голова</AM_Mech_Guttersnipe.tools.head-1.label>
   <AM_Mech_Legate.description>Сверхтяжёлый механоид со встроенным улучшенным генератором защитного купола. У легата нет оборонительной турели центуриона, зато он вооружён сверхтяжёлым зарядным бластером, гораздо опаснее стандартных моделей.</AM_Mech_Legate.description>
   <AM_Mech_Legate.label>легат</AM_Mech_Legate.label>
   <AM_Mech_Legate.tools.head.label>голова</AM_Mech_Legate.tools.head.label>
@@ -167,6 +169,7 @@
 &lt;color=#E5E54C&gt;В игре:&lt;/color&gt; Парит над поверхностью и не замедляется из-за местности.</AM_Mech_TurboCleaner.description>
   <AM_Mech_TurboCleaner.label>турбочистильщик</AM_Mech_TurboCleaner.label>
   <AM_Mech_TurboCleaner.tools.0.label>голова</AM_Mech_TurboCleaner.tools.0.label>
+  <AM_Mech_TurboCleaner.tools.head-1.label>голова</AM_Mech_TurboCleaner.tools.head-1.label>
   <AM_MechanoidGunRotaryNeedle.description>Универсальное оружие, выпускающее непрерывный поток игловидных снарядов. Вращающийся ствол позволяет долго вести огонь, эффективно подавляя многочисленных врагов. Роторный игломёт уступает однозарядной модели в точности, но с лихвой компенсирует это скорострельностью и возможностью обстреливать большие площади.</AM_MechanoidGunRotaryNeedle.description>
   <AM_MechanoidGunRotaryNeedle.label>роторный игломёт</AM_MechanoidGunRotaryNeedle.label>
   <AM_MechanoidMortar.description>Небольшой миномёт, установленный на механоиде и стреляющий разрывными снарядами.</AM_MechanoidMortar.description>

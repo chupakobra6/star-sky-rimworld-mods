@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BATR_Bouncer.description>Массивное шасси, предназначенное выдерживать удары и пугать своим видом. Неплохо подходит и для тяжёлого труда.</BATR_Bouncer.description>
+  <BATR_Bouncer.label>Шасси «Вышибала»</BATR_Bouncer.label>
+  <BATR_Jotun.description>Огромное шасси для добычи руды, переноски грузов и боя.</BATR_Jotun.description>
+  <BATR_Jotun.label>Шасси «ЁТУН»</BATR_Jotun.label>
+  <BATR_Mechanic.description>Маленькое шасси для быстрого ремонта, сварки и изготовления предметов. Точные приводы также делают его пригодным для дальнего боя.</BATR_Mechanic.description>
+  <BATR_Mechanic.label>Шасси «Механик»</BATR_Mechanic.label>
+  <BATR_Ogre.description>Увеличенная версия шасси «ЁТУН», предназначенная прежде всего для прочности. Очень медлительная.</BATR_Ogre.description>
+  <BATR_Ogre.label>Шасси «ОГР»</BATR_Ogre.label>
+  <BATR_OperatingEquipment.description>Компоненты для модификации робота, позволяющей существу меньшего размера помогать ему в работе как оператор.</BATR_OperatingEquipment.description>
+  <BATR_OperatingEquipment.label>оборудование оператора</BATR_OperatingEquipment.label>
+  <BATR_PilotingEquipment.description>Компоненты для модификации робота, позволяющей существу меньшего размера управлять им как пилот.</BATR_PilotingEquipment.description>
+  <BATR_PilotingEquipment.label>оборудование пилота</BATR_PilotingEquipment.label>
+  <BATR_Roomba.description>Шасси для быстрого передвижения, уборки, спасения и переноски небольших грузов с низким расходом энергии. Благодаря небольшим размерам и стерильным инструментам иногда служит дешёвой заменой специализированным хирургическим шасси.\n\nИз-за небольших размеров довольно хрупкое.</BATR_Roomba.description>
+  <BATR_Roomba.label>Шасси «Румба»</BATR_Roomba.label>
+  <BATR_Titan.description>Шасси андроида, задуманное как полностью механическая замена частично биологическим титанам городских миров. Этот родственный кибернетической программе «ТИТАН» проект признали неудачным из-за невероятно сложного производства и ещё более ошеломляющих затрат.\n\nУстойчиво к вакууму.</BATR_Titan.description>
+  <BATR_Titan.label>Шасси «ТИТАН»</BATR_Titan.label>
+  <BATR_Vacuum_sealed.description>Набор компонентов для защиты андроида от вакуума. Также обеспечивает неплохую теплоизоляцию, но немного снижает подвижность.</BATR_Vacuum_sealed.description>
+  <BATR_Vacuum_sealed.label>Вакуумная защита</BATR_Vacuum_sealed.label>
+</LanguageData>

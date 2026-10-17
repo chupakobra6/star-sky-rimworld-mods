@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BS_CookLargeMealFine.description>Приготовить довольно сложное блюдо из мясных и растительных ингредиентов.</BS_CookLargeMealFine.description>
+  <BS_CookLargeMealFine.ingredients.0.filter.customSummary>белковые продукты</BS_CookLargeMealFine.ingredients.0.filter.customSummary>
+  <BS_CookLargeMealFine.jobString>Приготовление изысканного блюда.</BS_CookLargeMealFine.jobString>
+  <BS_CookLargeMealFine.label>приготовить большое изысканное блюдо</BS_CookLargeMealFine.label>
+  <BS_CookLargeMealFineBulk.description>Приготовить 4 довольно сложных блюда из мясных и растительных ингредиентов. Часть ингредиентов теряется ради приятного вкуса.</BS_CookLargeMealFineBulk.description>
+  <BS_CookLargeMealFineBulk.ingredients.0.filter.customSummary>белковые продукты</BS_CookLargeMealFineBulk.ingredients.0.filter.customSummary>
+  <BS_CookLargeMealFineBulk.jobString>Приготовление 4 изысканных блюд.</BS_CookLargeMealFineBulk.jobString>
+  <BS_CookLargeMealFineBulk.label>приготовить большое изысканное блюдо x4</BS_CookLargeMealFineBulk.label>
+  <BS_CookLargeMealFineBulk_Meat.description>Приготовить 4 довольно сложных блюда из мясных ингредиентов. Часть ингредиентов теряется ради приятного вкуса. Разнообразить вкус одним лишь мясом сложнее, поэтому потери возрастают.</BS_CookLargeMealFineBulk_Meat.description>
+  <BS_CookLargeMealFineBulk_Meat.jobString>Приготовление 4 мясных изысканных блюд.</BS_CookLargeMealFineBulk_Meat.jobString>
+  <BS_CookLargeMealFineBulk_Meat.label>приготовить большое мясное изысканное блюдо x4</BS_CookLargeMealFineBulk_Meat.label>
+  <BS_CookLargeMealFineBulk_Veg.description>Приготовить 4 довольно сложных блюда из растительных ингредиентов. Часть ингредиентов теряется ради приятного вкуса. Разнообразить вкус одними лишь растениями сложнее, поэтому потери возрастают.</BS_CookLargeMealFineBulk_Veg.description>
+  <BS_CookLargeMealFineBulk_Veg.ingredients.0.filter.customSummary>вегетарианские ингредиенты</BS_CookLargeMealFineBulk_Veg.ingredients.0.filter.customSummary>
+  <BS_CookLargeMealFineBulk_Veg.jobString>Приготовление 4 вегетарианских изысканных блюд.</BS_CookLargeMealFineBulk_Veg.jobString>
+  <BS_CookLargeMealFineBulk_Veg.label>приготовить большое вегетарианское изысканное блюдо x4</BS_CookLargeMealFineBulk_Veg.label>
+  <BS_CookLargeMealFine_Meat.description>Приготовить довольно сложное блюдо из мясных ингредиентов.</BS_CookLargeMealFine_Meat.description>
+  <BS_CookLargeMealFine_Meat.jobString>Приготовление мясного изысканного блюда.</BS_CookLargeMealFine_Meat.jobString>
+  <BS_CookLargeMealFine_Meat.label>приготовить большое мясное изысканное блюдо</BS_CookLargeMealFine_Meat.label>
+  <BS_CookLargeMealFine_Veg.description>Приготовить довольно сложное блюдо из растительных ингредиентов.</BS_CookLargeMealFine_Veg.description>
+  <BS_CookLargeMealFine_Veg.ingredients.0.filter.customSummary>вегетарианские ингредиенты</BS_CookLargeMealFine_Veg.ingredients.0.filter.customSummary>
+  <BS_CookLargeMealFine_Veg.jobString>Приготовление вегетарианского изысканного блюда.</BS_CookLargeMealFine_Veg.jobString>
+  <BS_CookLargeMealFine_Veg.label>приготовить большое вегетарианское изысканное блюдо</BS_CookLargeMealFine_Veg.label>
+  <BS_CookLargeMealLavish.description>Приготовить очень сложное блюдо из мясных и растительных ингредиентов. Большая часть ингредиентов теряется ради лучшего вкуса.</BS_CookLargeMealLavish.description>
+  <BS_CookLargeMealLavish.ingredients.0.filter.customSummary>белковые продукты</BS_CookLargeMealLavish.ingredients.0.filter.customSummary>
+  <BS_CookLargeMealLavish.jobString>Приготовление роскошного блюда.</BS_CookLargeMealLavish.jobString>
+  <BS_CookLargeMealLavish.label>приготовить большое роскошное блюдо</BS_CookLargeMealLavish.label>
+  <BS_CookLargeMealLavishBulk.description>Приготовить 4 очень сложных блюда из мясных и растительных ингредиентов. Большая часть ингредиентов теряется ради лучшего вкуса.</BS_CookLargeMealLavishBulk.description>
+  <BS_CookLargeMealLavishBulk.ingredients.0.filter.customSummary>белковые продукты</BS_CookLargeMealLavishBulk.ingredients.0.filter.customSummary>
+  <BS_CookLargeMealLavishBulk.jobString>Приготовление 4 роскошных блюд.</BS_CookLargeMealLavishBulk.jobString>
+  <BS_CookLargeMealLavishBulk.label>приготовить большое роскошное блюдо x4</BS_CookLargeMealLavishBulk.label>
+  <BS_CookLargeMealLavishBulk_Meat.description>Приготовить 4 очень сложных блюда из мясных ингредиентов. Большая часть ингредиентов теряется ради лучшего вкуса. Разнообразить вкус одним лишь мясом сложнее, поэтому потери возрастают.</BS_CookLargeMealLavishBulk_Meat.description>
+  <BS_CookLargeMealLavishBulk_Meat.jobString>Приготовление 4 мясных роскошных блюд.</BS_CookLargeMealLavishBulk_Meat.jobString>
+  <BS_CookLargeMealLavishBulk_Meat.label>приготовить большое мясное роскошное блюдо x4</BS_CookLargeMealLavishBulk_Meat.label>
+  <BS_CookLargeMealLavishBulk_Veg.description>Приготовить 4 очень сложных блюда из растительных ингредиентов. Большая часть ингредиентов теряется ради лучшего вкуса. Разнообразить вкус одними лишь растениями сложнее, поэтому потери возрастают.</BS_CookLargeMealLavishBulk_Veg.description>
+  <BS_CookLargeMealLavishBulk_Veg.ingredients.0.filter.customSummary>вегетарианские ингредиенты</BS_CookLargeMealLavishBulk_Veg.ingredients.0.filter.customSummary>
+  <BS_CookLargeMealLavishBulk_Veg.jobString>Приготовление 4 вегетарианских роскошных блюд.</BS_CookLargeMealLavishBulk_Veg.jobString>
+  <BS_CookLargeMealLavishBulk_Veg.label>приготовить большое вегетарианское роскошное блюдо x4</BS_CookLargeMealLavishBulk_Veg.label>
+  <BS_CookLargeMealLavish_Meat.description>Приготовить очень сложное блюдо из мясных ингредиентов. Большая часть ингредиентов теряется ради лучшего вкуса. Разнообразить вкус одним лишь мясом сложнее, поэтому потери возрастают.</BS_CookLargeMealLavish_Meat.description>
+  <BS_CookLargeMealLavish_Meat.jobString>Приготовление мясного роскошного блюда.</BS_CookLargeMealLavish_Meat.jobString>
+  <BS_CookLargeMealLavish_Meat.label>приготовить большое мясное роскошное блюдо</BS_CookLargeMealLavish_Meat.label>
+  <BS_CookLargeMealLavish_Veg.description>Приготовить очень сложное блюдо из растительных ингредиентов. Большая часть ингредиентов теряется ради лучшего вкуса. Разнообразить вкус одними лишь растениями сложнее, поэтому потери возрастают.</BS_CookLargeMealLavish_Veg.description>
+  <BS_CookLargeMealLavish_Veg.ingredients.0.filter.customSummary>вегетарианские ингредиенты</BS_CookLargeMealLavish_Veg.ingredients.0.filter.customSummary>
+  <BS_CookLargeMealLavish_Veg.jobString>Приготовление вегетарианского роскошного блюда.</BS_CookLargeMealLavish_Veg.jobString>
+  <BS_CookLargeMealLavish_Veg.label>приготовить большое вегетарианское роскошное блюдо</BS_CookLargeMealLavish_Veg.label>
+  <BS_CookLargeMealSimple.description>Приготовить простое блюдо из одного ингредиента.</BS_CookLargeMealSimple.description>
+  <BS_CookLargeMealSimple.jobString>Приготовление простого блюда.</BS_CookLargeMealSimple.jobString>
+  <BS_CookLargeMealSimple.label>приготовить большое простое блюдо</BS_CookLargeMealSimple.label>
+  <BS_CookLargeMealSimpleBulk.description>Приготовить 4 простых блюда из одного ингредиента.</BS_CookLargeMealSimpleBulk.description>
+  <BS_CookLargeMealSimpleBulk.jobString>Приготовление 4 простых блюд.</BS_CookLargeMealSimpleBulk.jobString>
+  <BS_CookLargeMealSimpleBulk.label>приготовить большое простое блюдо x4</BS_CookLargeMealSimpleBulk.label>
+  <BS_CookLargeMealSurvival.description>Приготовить сухой паёк из мясных и растительных ингредиентов. Большая часть ингредиентов теряется при консервации.</BS_CookLargeMealSurvival.description>
+  <BS_CookLargeMealSurvival.ingredients.0.filter.customSummary>белковые продукты</BS_CookLargeMealSurvival.ingredients.0.filter.customSummary>
+  <BS_CookLargeMealSurvival.jobString>Приготовление сухого пайка.</BS_CookLargeMealSurvival.jobString>
+  <BS_CookLargeMealSurvival.label>приготовить большой сухой паёк</BS_CookLargeMealSurvival.label>
+  <BS_CookLargeMealSurvivalBulk.description>Приготовить 4 сухих пайка из мясных и растительных ингредиентов. Большая часть ингредиентов теряется при консервации.</BS_CookLargeMealSurvivalBulk.description>
+  <BS_CookLargeMealSurvivalBulk.ingredients.0.filter.customSummary>белковые продукты</BS_CookLargeMealSurvivalBulk.ingredients.0.filter.customSummary>
+  <BS_CookLargeMealSurvivalBulk.jobString>Приготовление 4 сухих пайков.</BS_CookLargeMealSurvivalBulk.jobString>
+  <BS_CookLargeMealSurvivalBulk.label>приготовить большой сухой паёк x4</BS_CookLargeMealSurvivalBulk.label>
+</LanguageData>

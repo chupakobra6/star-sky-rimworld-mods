@@ -3,5 +3,6 @@
   <v1.6>
     <li>/</li>
     <li IfModActive="dankpyon.medieval.overhaul">1.6/Conditional/with-dankpyon-medieval-overhaul</li>
+    <li IfModNotActive="dankpyon.medieval.overhaul">1.6/Conditional/without-dankpyon-medieval-overhaul</li>
   </v1.6>
 </loadFolders>

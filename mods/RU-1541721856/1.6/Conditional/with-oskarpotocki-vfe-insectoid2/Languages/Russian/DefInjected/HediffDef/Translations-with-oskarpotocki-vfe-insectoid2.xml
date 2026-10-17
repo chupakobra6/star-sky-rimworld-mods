@@ -1,0 +1,16 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AA_EcholocativeFeedbackLoop.description>Этот человек полагается на эхолокацию вместо обычного зрения. Внешние воздействия, например громкие взрывы, могут вызвать разрушительную обратную связь, приводящую к сенсорной перегрузке, замешательству и кататонии.</AA_EcholocativeFeedbackLoop.description>
+  <AA_EcholocativeFeedbackLoop.label>эхолокационная обратная связь</AA_EcholocativeFeedbackLoop.label>
+  <AA_MechDisruption.description>На точность, скорость и ловкость этого механоида воздействует ближайший биологический подавитель механоидов.</AA_MechDisruption.description>
+  <AA_MechDisruption.label>подавление механоида</AA_MechDisruption.label>
+  <AA_MechanoidRendingClaws.comps.0.tools.0.label>когти для разрывания механоидов</AA_MechanoidRendingClaws.comps.0.tools.0.label>
+  <AA_MechanoidRendingClaws.description>Острые как бритва когти, специально предназначенные рвать металл и электронику. Наносят механоидам дополнительный ЭМИ-урон, временно нарушая работу их систем и причиняя дополнительный электрический урон.</AA_MechanoidRendingClaws.description>
+  <AA_MechanoidRendingClaws.label>когти-разрыватели механоидов</AA_MechanoidRendingClaws.label>
+  <VFEI2_BlackEmpressSpawn.description>Развивающееся потомство насекомых. Из маленького яйца быстро вырастает личинка, поглощающая питательные вещества и причиняющая хозяину всё больше боли. Она вскоре захватывает нервную систему, растёт и пронизывает всё тело хозяина, пока не будет готова вырваться наружу через грудную клетку, убив его. Во время роста личинка впитывает воспоминания хозяина, благодаря чему выросшее насекомое будет дружелюбно к вашему поселению.</VFEI2_BlackEmpressSpawn.description>
+  <VFEI2_BlackEmpressSpawn.label>потомство чёрной императрицы</VFEI2_BlackEmpressSpawn.label>
+  <VFEI2_BlackEmpressSpawn.stages.0.label>яйцо</VFEI2_BlackEmpressSpawn.stages.0.label>
+  <VFEI2_BlackEmpressSpawn.stages.1.label>личинка</VFEI2_BlackEmpressSpawn.stages.1.label>
+  <VFEI2_BlackEmpressSpawn.stages.2.label>куколка</VFEI2_BlackEmpressSpawn.stages.2.label>
+  <VFEI2_BlackEmpressSpawn.stages.3.label>молодая особь</VFEI2_BlackEmpressSpawn.stages.3.label>
+</LanguageData>

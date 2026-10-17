@@ -1,0 +1,22 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AG_AcidRainMaker.customEffectDescriptions.0>Вокруг носителя постоянно идёт кислотный дождь</AG_AcidRainMaker.customEffectDescriptions.0>
+  <AG_AcidRainMaker.description>Распределённое облако механитов вплетено в ДНК носителя. Эти механиты могут резко снижать атмосферное давление вокруг и повышать кислотность дождя, вызывая непрерывные кислотные осадки.</AG_AcidRainMaker.description>
+  <AG_AcidRainMaker.label>создатель кислотного дождя</AG_AcidRainMaker.label>
+  <AG_CragAffinity.description>Носители этого гена чувствуют себя как дома среди Забытых утёсов и не испытывают гнетущих ощущений от сверхъестественной тьмы.</AG_CragAffinity.description>
+  <AG_CragAffinity.label>сродство с утёсами</AG_CragAffinity.label>
+  <AG_ForsakenNightMaker.customEffectDescriptions.0>Вокруг носителя постоянно царит ночь Отверженных</AG_ForsakenNightMaker.customEffectDescriptions.0>
+  <AG_ForsakenNightMaker.description>Распределённое облако механитов вплетено в ДНК носителя. Эти механиты могут почти полностью закрывать солнце, погружая местность в непрерывную забытую ночь.</AG_ForsakenNightMaker.description>
+  <AG_ForsakenNightMaker.label>создатель ночи</AG_ForsakenNightMaker.label>
+  <AG_MagicMushroomFlesh.description>В плоти носителей этого гена растут психотропные грибы. Поедание таких грибов считается для них каннибализмом.</AG_MagicMushroomFlesh.description>
+  <AG_MagicMushroomFlesh.label>плоть из психотропных грибов</AG_MagicMushroomFlesh.label>
+  <AG_RedFogger.customEffectDescriptions.0>Вокруг носителя постоянно держится красный туман</AG_RedFogger.customEffectDescriptions.0>
+  <AG_RedFogger.description>Распределённое облако механитов вплетено в ДНК носителя. Эти механиты могут искривлять пространство через крошечную пси-прореху, сгущая вокруг носителя красный туман из другого измерения.</AG_RedFogger.description>
+  <AG_RedFogger.label>создатель красного тумана</AG_RedFogger.label>
+  <AG_RedFogger.symbolPack.prefixSymbols.0.symbol>туман</AG_RedFogger.symbolPack.prefixSymbols.0.symbol>
+  <AG_RedFogger.symbolPack.prefixSymbols.1.symbol>туманник</AG_RedFogger.symbolPack.prefixSymbols.1.symbol>
+  <AG_RedFogger.symbolPack.prefixSymbols.2.symbol>влажный</AG_RedFogger.symbolPack.prefixSymbols.2.symbol>
+  <AG_VolcanicAshMaker.customEffectDescriptions.0>Вокруг носителя постоянно выпадает вулканический пепел</AG_VolcanicAshMaker.customEffectDescriptions.0>
+  <AG_VolcanicAshMaker.description>Распределённое облако механитов вплетено в ДНК носителя. Эти механиты могут притягивать пепел ближайших вулканов, вызывая пеплопад, иногда сопровождаемый дождём.</AG_VolcanicAshMaker.description>
+  <AG_VolcanicAshMaker.label>создатель пеплопада</AG_VolcanicAshMaker.label>
+</LanguageData>

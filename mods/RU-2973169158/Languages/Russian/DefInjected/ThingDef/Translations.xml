@@ -9,8 +9,6 @@
   <AM_Aura.tools.head.label>голова</AM_Aura.tools.head.label>
   <AM_Aura.tools.wing_blade.label>клинок крыла</AM_Aura.tools.wing_blade.label>
   <AM_BeamGraserCannon.verbs.Verb_ShootBeam.label>гамма-лазерная пушка</AM_BeamGraserCannon.verbs.Verb_ShootBeam.label>
-  <AM_Blitzkrieg.tools.head-0.label>голова</AM_Blitzkrieg.tools.head-0.label>
-  <AM_Blitzkrieg.tools.head-1.label>голова</AM_Blitzkrieg.tools.head-1.label>
   <AM_Bullet_Shell_Demolisher.label>подрывной заряд</AM_Bullet_Shell_Demolisher.label>
   <AM_Bullet_Shell_Explosive.label>осколочный снаряд</AM_Bullet_Shell_Explosive.label>
   <AM_CryoBullet.label>криогенная гранула</AM_CryoBullet.label>
@@ -18,12 +16,10 @@
   <AM_CryogenicGun.label>криогенная пушка</AM_CryogenicGun.label>
   <AM_CryogenicGun.tools.barrel.label>ствол</AM_CryogenicGun.tools.barrel.label>
   <AM_CryogenicGun.verbs.Verb_Shoot.label>криогенная пушка</AM_CryogenicGun.verbs.Verb_Shoot.label>
-  <AM_Daggersnout.description>Быстрый насекомоподобный боевой механоид с острым клинком на голове. Уступает в опасности другим бойцам ближнего боя, например жнецам, зато обычно появляется большими группами.
-
-&lt;color=#E5E54C&gt;В игре:&lt;/color&gt; Если отключить его появление в настройках мода, вместо него будут появляться жнецы.</AM_Daggersnout.description>
-  <AM_Daggersnout.label>кинжалорыл</AM_Daggersnout.label>
+  <AM_Daggersnout.description>Клинкорыл – быстрый насекомоподобный боевой механоид с устрашающе острым клинком на голове. Он не так опасен, как другие механоиды ближнего боя, например жнецы, но клинкорылы обычно появляются более многочисленными группами.\n\n&lt;color=#E5E54C&gt;Игровой эффект:&lt;/color&gt; Если отключить их появление в настройках мода, они будут заменены жнецами.</AM_Daggersnout.description>
+  <AM_Daggersnout.label>клинкорыл</AM_Daggersnout.label>
   <AM_Daggersnout.tools.head.label>голова</AM_Daggersnout.tools.head.label>
-  <AM_Daggersnout.tools.snout_blade.label>клинок на рыле</AM_Daggersnout.tools.snout_blade.label>
+  <AM_Daggersnout.tools.snout_blade.label>носовой клинок</AM_Daggersnout.tools.snout_blade.label>
   <AM_Demolisher.description>Странный механоид, похожий на помесь глубоководного краба, крота-звездоноса и бронемашины. Его опасная турель ближнего боя выпускает подрывные заряды, способные разрушить даже самую прочную стену за два-три попадания. Проломив внешнюю оборону колонии, он огромными усиленными пласталью клешнями быстро расправляется с теми, кто остался на пути.
 
 &lt;color=#E5E54C&gt;В игре:&lt;/color&gt; Появляется только в налётах с проломом стен как альтернатива термиту. Если отключить его появление в настройках мода, вместо него будут появляться термиты.</AM_Demolisher.description>
@@ -70,8 +66,6 @@
   <AM_Gun_TacticalShotgun.tools.barrel.label>ствол</AM_Gun_TacticalShotgun.tools.barrel.label>
   <AM_Gun_TacticalShotgun.verbs.Verb_Shoot.label>тактический дробовик</AM_Gun_TacticalShotgun.verbs.Verb_Shoot.label>
   <AM_HeatGlow.label>частица</AM_HeatGlow.label>
-  <AM_Mech_Guttersnipe.tools.head-0.label>голова</AM_Mech_Guttersnipe.tools.head-0.label>
-  <AM_Mech_Guttersnipe.tools.head-1.label>голова</AM_Mech_Guttersnipe.tools.head-1.label>
   <AM_Mech_MasterChef.tools.head.label>голова</AM_Mech_MasterChef.tools.head.label>
   <AM_Mech_Optio.tools.head.label>голова</AM_Mech_Optio.tools.head.label>
   <AM_Mech_Optio.tools.left_fist.label>левый кулак</AM_Mech_Optio.tools.left_fist.label>
@@ -83,8 +77,6 @@
   <AM_Mech_Polychoron.tools.left_fist.labelNoLocation>кулак</AM_Mech_Polychoron.tools.left_fist.labelNoLocation>
   <AM_Mech_Polychoron.tools.right_fist.label>правый кулак</AM_Mech_Polychoron.tools.right_fist.label>
   <AM_Mech_Polychoron.tools.right_fist.labelNoLocation>кулак</AM_Mech_Polychoron.tools.right_fist.labelNoLocation>
-  <AM_Mech_TurboCleaner.tools.head-0.label>голова</AM_Mech_TurboCleaner.tools.head-0.label>
-  <AM_Mech_TurboCleaner.tools.head-1.label>голова</AM_Mech_TurboCleaner.tools.head-1.label>
   <AM_MechanoidGunRotaryNeedle.tools.barrel.label>ствол</AM_MechanoidGunRotaryNeedle.tools.barrel.label>
   <AM_MechanoidGunRotaryNeedle.verbs.Verb_Shoot.label>роторный игломёт</AM_MechanoidGunRotaryNeedle.verbs.Verb_Shoot.label>
   <AM_MechanoidMortar.verbs.Verb_Shoot.label>миномёт</AM_MechanoidMortar.verbs.Verb_Shoot.label>

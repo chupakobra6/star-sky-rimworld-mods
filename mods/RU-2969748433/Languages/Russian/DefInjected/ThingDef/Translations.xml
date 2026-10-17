@@ -699,15 +699,12 @@
   <BMT_Molebear.description>Создан из смеси генов крота и медведя. После выпуска в дикую природу обосновался в пещерах у поверхности. Приходит и уходит, когда ему вздумается.</BMT_Molebear.description>
   <BMT_Molebear.label>кротомедведь</BMT_Molebear.label>
   <BMT_Molebear.race.meatLabel>мясо кротомедведя</BMT_Molebear.race.meatLabel>
-  <BMT_Molebear.tools.0.label>левый коготь</BMT_Molebear.tools.0.label>
-  <BMT_Molebear.tools.1.label>правый коготь</BMT_Molebear.tools.1.label>
   <BMT_Molebear.tools.3.label>голова</BMT_Molebear.tools.3.label>
-  <BMT_Molebear.tools.head-0.label>голова</BMT_Molebear.tools.head-0.label>
   <BMT_Molebear.tools.head-1.label>голова</BMT_Molebear.tools.head-1.label>
-  <BMT_Molebear.tools.left_claw-0.label>левый коготь</BMT_Molebear.tools.left_claw-0.label>
+  <BMT_Molebear.tools.0.label>левый коготь</BMT_Molebear.tools.0.label>
   <BMT_Molebear.tools.left_claw-0.labelNoLocation>коготь</BMT_Molebear.tools.left_claw-0.labelNoLocation>
   <BMT_Molebear.tools.left_claw-1.label>левый коготь</BMT_Molebear.tools.left_claw-1.label>
-  <BMT_Molebear.tools.right_claw-0.label>правый коготь</BMT_Molebear.tools.right_claw-0.label>
+  <BMT_Molebear.tools.1.label>правый коготь</BMT_Molebear.tools.1.label>
   <BMT_Molebear.tools.right_claw-0.labelNoLocation>коготь</BMT_Molebear.tools.right_claw-0.labelNoLocation>
   <BMT_Molebear.tools.right_claw-1.label>правый коготь</BMT_Molebear.tools.right_claw-1.label>
   <BMT_MoonlessSilk.description>Выделанные, высушенные и очищенные слои гриба. Хороший подземный материал для одежды и сумок.</BMT_MoonlessSilk.description>
@@ -901,10 +898,10 @@
   <BMT_Starchstalk.label>крахмалостебель</BMT_Starchstalk.label>
   <BMT_StarchstalkPlant.description>По сути, это похожий на картофель корень, растущий вверх. Пещерные племена выращивают его за неприхотливость: он легко растёт даже на самой бедной почве.</BMT_StarchstalkPlant.description>
   <BMT_StarchstalkPlant.label>крахмалостебель</BMT_StarchstalkPlant.label>
-  <BMT_Stimquill.description>Известное своими стимулирующими свойствами растение из подземных глубин. Плохо поддаётся выращиванию, зато процветает в дикой природе.</BMT_Stimquill.description>
-  <BMT_Stimquill.label>стимквилл</BMT_Stimquill.label>
-  <BMT_StimquillDrug.description>Наркотик, одновременно оказывающий стимулирующее и успокаивающее действие.</BMT_StimquillDrug.description>
-  <BMT_StimquillDrug.label>стимквилл</BMT_StimquillDrug.label>
+  <BMT_Stimquill.description>Это растение известно своим бодрящим действием и встречается в диком виде глубоко под землёй. Оно плохо поддаётся выращиванию, зато прекрасно растёт в природе.</BMT_Stimquill.description>
+  <BMT_Stimquill.label>бодролист</BMT_Stimquill.label>
+  <BMT_StimquillDrug.description>Наркотик, который одновременно бодрит и успокаивает.</BMT_StimquillDrug.description>
+  <BMT_StimquillDrug.label>бодролист</BMT_StimquillDrug.label>
   <BMT_StinkLattice.description>Этот решётчатый гриб выделяет газы с запахом разлагающегося трупа.</BMT_StinkLattice.description>
   <BMT_StinkLattice.label>вонючий решётник</BMT_StinkLattice.label>
   <BMT_Stoneback.description>Эти крупные рептилиеподобные животные обычно питаются кактусами и подобной растительностью. Если их разозлить, крепкая шкура делает их опасными противниками, которых трудно убить.

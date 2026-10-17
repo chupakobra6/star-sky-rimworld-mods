@@ -1,0 +1,16 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BS_Affliction_GrowthRay.description>Нестабильный рост</BS_Affliction_GrowthRay.description>
+  <BS_Affliction_GrowthRay.label>Воздействие луча увеличения</BS_Affliction_GrowthRay.label>
+  <BS_Affliction_GrowthRay.stages.0.label>первые признаки</BS_Affliction_GrowthRay.stages.0.label>
+  <BS_Affliction_GrowthRay.stages.1.extraTooltip>первые признаки нарушения структуры</BS_Affliction_GrowthRay.stages.1.extraTooltip>
+  <BS_Affliction_GrowthRay.stages.1.label>ухудшение</BS_Affliction_GrowthRay.stages.1.label>
+  <BS_Affliction_GrowthRay.stages.2.extraTooltip>о нет.</BS_Affliction_GrowthRay.stages.2.extraTooltip>
+  <BS_Affliction_GrowthRay.stages.2.label>близко к критическому</BS_Affliction_GrowthRay.stages.2.label>
+  <BS_Affliction_GrowthRay.stages.3.extraTooltip>распад вот-вот начнётся!</BS_Affliction_GrowthRay.stages.3.extraTooltip>
+  <BS_Affliction_GrowthRay.stages.3.label>критический уровень!</BS_Affliction_GrowthRay.stages.3.label>
+  <BS_Affliction_GrowthRay.stages.4.extraTooltip>ВНИМАНИЕ: избыток энергии может высвободиться взрывом.</BS_Affliction_GrowthRay.stages.4.extraTooltip>
+  <BS_Affliction_GrowthRay.stages.4.label>перегрузка энергией потока</BS_Affliction_GrowthRay.stages.4.label>
+  <BS_Affliction_ShrinkRay.description>Объект уменьшен лучом уменьшения.</BS_Affliction_ShrinkRay.description>
+  <BS_Affliction_ShrinkRay.label>Воздействие луча уменьшения</BS_Affliction_ShrinkRay.label>
+</LanguageData>

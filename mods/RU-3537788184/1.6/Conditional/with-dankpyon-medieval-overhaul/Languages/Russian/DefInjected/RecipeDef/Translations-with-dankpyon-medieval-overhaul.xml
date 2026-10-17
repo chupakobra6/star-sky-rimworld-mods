@@ -1,9 +1,11 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <MA_MakeSteelbone_x30.label>выплавить костесталь ×30</MA_MakeSteelbone_x30.label>
+  <MA_MakeSteelbone_Medieval.jobString>Кует костесталь...</MA_MakeSteelbone_Medieval.jobString>
+  <MA_MakeSteelbone_Medieval.label>ковать костесталь</MA_MakeSteelbone_Medieval.label>
   <MA_MakeSteelbone_x30.jobString>Выплавляет костесталь большой партией...</MA_MakeSteelbone_x30.jobString>
-  <MA_MakeSteelbone_x60.label>выплавить костесталь ×60</MA_MakeSteelbone_x60.label>
+  <MA_MakeSteelbone_x30.label>выплавить костесталь ×30</MA_MakeSteelbone_x30.label>
   <MA_MakeSteelbone_x60.jobString>Выплавляет костесталь большой партией...</MA_MakeSteelbone_x60.jobString>
-  <MA_RefinePlastite_MO.label>переработать пластит в пласталь</MA_RefinePlastite_MO.label>
+  <MA_MakeSteelbone_x60.label>выплавить костесталь ×60</MA_MakeSteelbone_x60.label>
   <MA_RefinePlastite_MO.jobString>Перерабатывает пластит в пласталь...</MA_RefinePlastite_MO.jobString>
+  <MA_RefinePlastite_MO.label>переработать пластит в пласталь</MA_RefinePlastite_MO.label>
 </LanguageData>

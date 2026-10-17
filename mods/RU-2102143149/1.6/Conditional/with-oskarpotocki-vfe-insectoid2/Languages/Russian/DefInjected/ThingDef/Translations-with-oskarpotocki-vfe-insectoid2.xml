@@ -1,0 +1,57 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFEPD_Creeper.description>Похожее на улей сооружение, созданное гигантскими насекомыми.</VFEPD_Creeper.description>
+  <VFEPD_Creeper.label>слизевик</VFEPD_Creeper.label>
+  <VFEPD_DeepHeater.description>Глубокий канал, вырытый гигантскими насекомыми и ведущий к подземным паровым пещерам. Время от времени выбрасывает перегретый пар, подобно гейзеру. Не работает: все внутренние механизмы сняли.</VFEPD_DeepHeater.description>
+  <VFEPD_DeepHeater.label>глубинный обогреватель</VFEPD_DeepHeater.label>
+  <VFEPD_FakeHiveDoor.description>Неработающая дверь. Всего две покрашенные фанерные панели, которые не открываются. Сквозь неё можно проходить.</VFEPD_FakeHiveDoor.description>
+  <VFEPD_FakeHiveDoor.label>муляж двери улья</VFEPD_FakeHiveDoor.label>
+  <VFEPD_FoamPod.description>Органический кокон с пожарной пеной, созданный гигантскими насекомыми. Не работает.</VFEPD_FoamPod.description>
+  <VFEPD_FoamPod.label>пенококон</VFEPD_FoamPod.label>
+  <VFEPD_GlowPodFormation.description>Большое скопление биолюминесцентных коконов, созданных гигантскими насекомыми.</VFEPD_GlowPodFormation.description>
+  <VFEPD_GlowPodFormation.label>скопление светящихся коконов</VFEPD_GlowPodFormation.label>
+  <VFEPD_GlowPodSpire.description>Невероятно высокий шпиль биолюминесцентных коконов, созданных гигантскими насекомыми.</VFEPD_GlowPodSpire.description>
+  <VFEPD_GlowPodSpire.label>шпиль светящихся коконов</VFEPD_GlowPodSpire.label>
+  <VFEPD_HeatPod.description>Биолюминесцентный кокон, созданный гигантскими насекомыми. Не работает: все внутренние механизмы сняли.</VFEPD_HeatPod.description>
+  <VFEPD_HeatPod.label>тепловой кокон</VFEPD_HeatPod.label>
+  <VFEPD_Hivenode.description>Большой необычный слизистый шпиль, созданный гигантскими насекомыми. Не работает: все внутренние механизмы сняли.</VFEPD_Hivenode.description>
+  <VFEPD_Hivenode.label>узел улья</VFEPD_Hivenode.label>
+  <VFEPD_InfestedShipChunk.description>Обломок космического корабля, покрытый биомассой и желе насекомых.</VFEPD_InfestedShipChunk.description>
+  <VFEPD_InfestedShipChunk.label>заражённый обломок корабля</VFEPD_InfestedShipChunk.label>
+  <VFEPD_JellyFarm.description>Глубокий органический биореактор, непрерывно производящий желе насекомых из окрестных минералов и питательных веществ.</VFEPD_JellyFarm.description>
+  <VFEPD_JellyFarm.label>ферма желе</VFEPD_JellyFarm.label>
+  <VFEPD_JellyMorpher.description>Необычное пульсирующее биообразование, созданное гигантскими насекомыми. Химически перерабатывает поступающее желе насекомых в королевское желе. Для производства королевского желе требуется строительство на слизи и заправка желе насекомых. Не работает: все внутренние механизмы сняли.</VFEPD_JellyMorpher.description>
+  <VFEPD_JellyMorpher.label>преобразователь желе</VFEPD_JellyMorpher.label>
+  <VFEPD_LargeGlowPod.description>Большой биолюминесцентный кокон, созданный гигантскими насекомыми.</VFEPD_LargeGlowPod.description>
+  <VFEPD_LargeGlowPod.label>большой светящийся кокон</VFEPD_LargeGlowPod.label>
+  <VFEPD_Petroglypher.description>Похожее на улей сооружение, созданное гигантскими насекомыми. Не работает: все внутренние механизмы сняли.</VFEPD_Petroglypher.description>
+  <VFEPD_Petroglypher.label>камнеписец</VFEPD_Petroglypher.label>
+  <VFEPD_StaticPod.description>Созданное гигантскими насекомыми сооружение улья среднего размера, способное вырабатывать немного электричества. Не работает.</VFEPD_StaticPod.description>
+  <VFEPD_StaticPod.label>электрококон</VFEPD_StaticPod.label>
+  <VFEPD_TendrilFarm.description>Столб, на котором медленно вырастают пучки усикового мха насекомых.</VFEPD_TendrilFarm.description>
+  <VFEPD_TendrilFarm.label>ферма усиков</VFEPD_TendrilFarm.label>
+  <VFEPD_Thornpod.description>Нестабильный кокон, созданный гигантскими насекомыми и покрытый острыми хитиновыми шипами. Не работает: все внутренние механизмы сняли.</VFEPD_Thornpod.description>
+  <VFEPD_Thornpod.label>шипококон</VFEPD_Thornpod.label>
+  <VFEPD_VFEI2_ArtificialBasicHive.description>Искусственно построенный улей гигантских насекомых. Не работает: все внутренние механизмы сняли.</VFEPD_VFEI2_ArtificialBasicHive.description>
+  <VFEPD_VFEI2_ArtificialBasicHive.label>муляж обычного улья</VFEPD_VFEI2_ArtificialBasicHive.label>
+  <VFEPD_VFEI2_ChelisHive.description>Улей гигантских насекомых хелисской генолинии. Не работает: все внутренние механизмы сняли.</VFEPD_VFEI2_ChelisHive.description>
+  <VFEPD_VFEI2_ChelisHive.label>муляж хелисского улья</VFEPD_VFEI2_ChelisHive.label>
+  <VFEPD_VFEI2_InfestedShipModule.description>Загадочная секция давно разрушенного космического корабля.</VFEPD_VFEI2_InfestedShipModule.description>
+  <VFEPD_VFEI2_InfestedShipModule.label>заражённый модуль корабля</VFEPD_VFEI2_InfestedShipModule.label>
+  <VFEPD_VFEI2_InfestedShipPart.description>Древняя деталь, оторванная от корабля неизвестного происхождения.</VFEPD_VFEI2_InfestedShipPart.description>
+  <VFEPD_VFEI2_InfestedShipPart.label>заражённая часть корабля</VFEPD_VFEI2_InfestedShipPart.label>
+  <VFEPD_VFEI2_InsectoidCocoon.description>Эти желейные коконы защищают ройчиков от огня, экстремальных температур и других угроз во время метаморфоза. Не работает: все внутренние механизмы сняли.</VFEPD_VFEI2_InsectoidCocoon.description>
+  <VFEPD_VFEI2_InsectoidCocoon.label>кокон насекомых</VFEPD_VFEI2_InsectoidCocoon.label>
+  <VFEPD_VFEI2_KemianHive.description>Улей гигантских насекомых кемийской генолинии. Не работает: все внутренние механизмы сняли.</VFEPD_VFEI2_KemianHive.description>
+  <VFEPD_VFEI2_KemianHive.label>муляж кемийского улья</VFEPD_VFEI2_KemianHive.label>
+  <VFEPD_VFEI2_LargeBurrow.description>Огромная яма, вырытая насекомыми и ведущая в невидимую сеть пещер глубоко под поверхностью. Стены покрыты слизью и слишком скользкие, чтобы спуститься. Из нижних тоннелей слышится стрекот насекомых. Похоже, внутри пусто.</VFEPD_VFEI2_LargeBurrow.description>
+  <VFEPD_VFEI2_LargeBurrow.label>большая нора насекомых</VFEPD_VFEI2_LargeBurrow.label>
+  <VFEPD_VFEI2_MediumBurrow.description>Яма среднего размера, вырытая насекомыми и ведущая в невидимую сеть пещер глубоко под поверхностью. Стены покрыты слизью и слишком скользкие, чтобы спуститься. Похоже, внутри пусто.</VFEPD_VFEI2_MediumBurrow.description>
+  <VFEPD_VFEI2_MediumBurrow.label>нора насекомых</VFEPD_VFEI2_MediumBurrow.label>
+  <VFEPD_VFEI2_NuchadusHive.description>Улей гигантских насекомых нухадской генолинии. Не работает: все внутренние механизмы сняли.</VFEPD_VFEI2_NuchadusHive.description>
+  <VFEPD_VFEI2_NuchadusHive.label>муляж нухадского улья</VFEPD_VFEI2_NuchadusHive.label>
+  <VFEPD_VFEI2_SmallBurrow.description>Небольшая яма, вырытая насекомыми и ведущая в невидимую сеть пещер глубоко под поверхностью. Стены покрыты слизью и слишком скользкие, чтобы спуститься. Похоже, внутри пусто.</VFEPD_VFEI2_SmallBurrow.description>
+  <VFEPD_VFEI2_SmallBurrow.label>маленькая нора насекомых</VFEPD_VFEI2_SmallBurrow.label>
+  <VFEPD_VFEI2_XanidesHive.description>Улей гигантских насекомых ксанидской генолинии. Не работает: все внутренние механизмы сняли.</VFEPD_VFEI2_XanidesHive.description>
+  <VFEPD_VFEI2_XanidesHive.label>муляж ксанидского улья</VFEPD_VFEI2_XanidesHive.label>
+</LanguageData>

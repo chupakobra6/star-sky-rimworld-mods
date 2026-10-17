@@ -39,10 +39,10 @@
   <VEE_NamerLandmark_AuburnForest.rulePack.rulesStrings>
     <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
     <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
-    <li>terrain_word-&gt;пожелтевший лес</li>
+    <li>terrain_word-&gt;осенние леса</li>
     <li>terrain_word-&gt;осенний лес</li>
     <li>terrain_word-&gt;осенняя роща</li>
-    <li>terrain_word-&gt;пожелтевшая роща</li>
+    <li>terrain_word-&gt;осенний перелесок</li>
     <li>terrain_word-&gt;осенняя чаща</li>
   </VEE_NamerLandmark_AuburnForest.rulePack.rulesStrings>
   <VEE_NamerLandmark_BasaltCape.rulePack.rulesStrings>
@@ -168,12 +168,12 @@
     <li>terrain_word-&gt;плавучие льды</li>
   </VEE_NamerLandmark_DetachedIceberg.rulePack.rulesStrings>
   <VEE_NamerLandmark_DriftwoodShore.rulePack.rulesStrings>
-    <li>r_name(p=0.2)-&gt;[terrain_word] имени [NamePerson]</li>
+    <li>r_name(p=0.2)-&gt;[terrain_word] «[NamePerson]»</li>
     <li>terrain_word(p=2)-&gt;берег плавника</li>
     <li>terrain_word-&gt;побережье плавника</li>
-    <li>terrain_word-&gt;пляж корабельных обломков</li>
-    <li>terrain_word-&gt;полоса прибитых приливом брёвен</li>
-    <li>terrain_word-&gt;берег выбеленных брёвен</li>
+    <li>terrain_word-&gt;пляж древесных обломков</li>
+    <li>terrain_word-&gt;полоса древесины у линии прилива</li>
+    <li>terrain_word-&gt;берег белёсых брёвен</li>
   </VEE_NamerLandmark_DriftwoodShore.rulePack.rulesStrings>
   <VEE_NamerLandmark_DryRiver.rulePack.rulesStrings>
     <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>

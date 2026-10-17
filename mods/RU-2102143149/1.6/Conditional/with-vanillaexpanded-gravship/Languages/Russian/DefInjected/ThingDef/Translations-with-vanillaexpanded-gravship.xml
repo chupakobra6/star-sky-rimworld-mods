@@ -1,0 +1,127 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFEPD_CommsTerminal.description>Компактный вариант консоли связи для радиоконтакта с другими фракциями и орбитальными торговцами. Отключён.</VFEPD_CommsTerminal.description>
+  <VFEPD_CommsTerminal.label>терминал связи</VFEPD_CommsTerminal.label>
+  <VFEPD_CopilotConsole.description>Вспомогательный интерфейс, позволяющий второму пилоту помогать с запуском и управлением гравикораблём. Отключён.</VFEPD_CopilotConsole.description>
+  <VFEPD_CopilotConsole.label>пульт второго пилота</VFEPD_CopilotConsole.label>
+  <VFEPD_DestroyedGravExtender.description>Когда-то это устройство расширяло область строительства гравикорабля. Теперь оно разбито.</VFEPD_DestroyedGravExtender.description>
+  <VFEPD_DestroyedGravExtender.label>разрушенный расширитель гравиполя</VFEPD_DestroyedGravExtender.label>
+  <VFEPD_DestroyedLargeThruster.description>Когда-то этот мощный двигатель двигал гравикорабли сквозь космос. Теперь он сломан.</VFEPD_DestroyedLargeThruster.description>
+  <VFEPD_DestroyedLargeThruster.label>разрушенный большой двигатель</VFEPD_DestroyedLargeThruster.label>
+  <VFEPD_DestroyedSmallAstrofuelTank.description>Когда-то в этом резервуаре хранилось астротопливо для двигателей. Теперь он разрушен.</VFEPD_DestroyedSmallAstrofuelTank.description>
+  <VFEPD_DestroyedSmallAstrofuelTank.label>разрушенный малый резервуар астротоплива</VFEPD_DestroyedSmallAstrofuelTank.label>
+  <VFEPD_DestroyedSmallHeatsink.description>Когда-то этот теплоотвод охлаждал системы гравикорабля. Теперь он перегорел.</VFEPD_DestroyedSmallHeatsink.description>
+  <VFEPD_DestroyedSmallHeatsink.label>разрушенный малый теплоотвод</VFEPD_DestroyedSmallHeatsink.label>
+  <VFEPD_DestroyedSmallOxygenTank.description>Когда-то этот резервуар снабжал гравикорабль кислородом. Теперь он сломан и бесполезен.</VFEPD_DestroyedSmallOxygenTank.description>
+  <VFEPD_DestroyedSmallOxygenTank.label>разрушенный малый кислородный резервуар</VFEPD_DestroyedSmallOxygenTank.label>
+  <VFEPD_DestroyedSmallThruster.description>Когда-то этот двигатель приводил гравикорабль в движение. Теперь он повреждён до полной непригодности.</VFEPD_DestroyedSmallThruster.description>
+  <VFEPD_DestroyedSmallThruster.label>разрушенный малый двигатель</VFEPD_DestroyedSmallThruster.label>
+  <VFEPD_FauxPlant.description>Искусственное растение в прочном металлическом горшке. Не нуждается в свете, воде или воздухе и поэтому идеально подходит для украшения даже самых негостеприимных помещений гравикорабля.</VFEPD_FauxPlant.description>
+  <VFEPD_FauxPlant.label>искусственное растение</VFEPD_FauxPlant.label>
+  <VFEPD_GravFieldAmplifier.description>Передовое ультратехнологическое устройство, значительно увеличивающее размер гравикорабля. Отключено.</VFEPD_GravFieldAmplifier.description>
+  <VFEPD_GravFieldAmplifier.label>усилитель гравиполя</VFEPD_GravFieldAmplifier.label>
+  <VFEPD_GravshipShelf.description>Усиленный стеллаж для гравикорабля. Сделан из картона и не может хранить предметы.</VFEPD_GravshipShelf.description>
+  <VFEPD_GravshipShelf.label>стеллаж гравикорабля</VFEPD_GravshipShelf.label>
+  <VFEPD_PilotBridge.description>Интерфейс запуска и пилотирования гравигиганта. Отключён.</VFEPD_PilotBridge.description>
+  <VFEPD_PilotBridge.label>капитанский мостик</VFEPD_PilotBridge.label>
+  <VFEPD_PilotCockpit.description>Интерфейс запуска и пилотирования гравипрыгуна. Отключён.</VFEPD_PilotCockpit.description>
+  <VFEPD_PilotCockpit.label>кабина пилота</VFEPD_PilotCockpit.label>
+  <VFEPD_SealantPopper.description>Отключённый распылитель герметика.</VFEPD_SealantPopper.description>
+  <VFEPD_SealantPopper.label>распылитель герметика</VFEPD_SealantPopper.label>
+  <VFEPD_VGE_Agrocell.description>Закрытая компактная установка для выращивания растений на гравикорабле. При ближайшем рассмотрении оказывается всего лишь наклейкой!</VFEPD_VGE_Agrocell.description>
+  <VFEPD_VGE_Agrocell.label>агроячейка</VFEPD_VGE_Agrocell.label>
+  <VFEPD_VGE_AmmoBox_GaussShell.description>Небольшой ящик с муляжами крупных урановых снарядов.</VFEPD_VGE_AmmoBox_GaussShell.description>
+  <VFEPD_VGE_AmmoBox_GaussShell.label>ящик гаусс-снарядов</VFEPD_VGE_AmmoBox_GaussShell.label>
+  <VFEPD_VGE_AstrofuelDrain.description>Хранилище наподобие бункера для подачи астротоплива в сеть и заполнения подключённых резервуаров.</VFEPD_VGE_AstrofuelDrain.description>
+  <VFEPD_VGE_AstrofuelDrain.label>приёмный бункер астротоплива</VFEPD_VGE_AstrofuelDrain.label>
+  <VFEPD_VGE_AstrofuelGenerator.description>Вырабатывает электричество, расходуя астротопливо. Намного эффективнее генераторов на химтопливе.</VFEPD_VGE_AstrofuelGenerator.description>
+  <VFEPD_VGE_AstrofuelGenerator.label>генератор на астротопливе</VFEPD_VGE_AstrofuelGenerator.label>
+  <VFEPD_VGE_AstrofuelPipe.description>Стальные трубы. Ничего не переносят.</VFEPD_VGE_AstrofuelPipe.description>
+  <VFEPD_VGE_AstrofuelPipe.label>труба астротоплива</VFEPD_VGE_AstrofuelPipe.label>
+  <VFEPD_VGE_AstrofuelSynthesizer.description>Специализированное сооружение, перерабатывающее химтопливо в высококачественное астротопливо. Для работы нужны подключение к сети труб астротоплива и связь хотя бы с одним резервуаром астротоплива. После подключения автоматически превращает загруженное химтопливо в астротопливо для двигателей и систем.</VFEPD_VGE_AstrofuelSynthesizer.description>
+  <VFEPD_VGE_AstrofuelSynthesizer.label>синтезатор астротоплива</VFEPD_VGE_AstrofuelSynthesizer.label>
+  <VFEPD_VGE_AstrofuelTap.description>Хранилище наподобие бункера для приёма выданного астротоплива и его дальнейшего использования.</VFEPD_VGE_AstrofuelTap.description>
+  <VFEPD_VGE_AstrofuelTap.label>выходной бункер астротоплива</VFEPD_VGE_AstrofuelTap.label>
+  <VFEPD_VGE_Astropurifier.description>Гравитехническая установка, повышающая точность и стабильность переработки астротоплива. Рядом с синтезатором астротоплива обеспечивает идеальное преобразование химтоплива в астротопливо в соотношении 1:1, но процесс занимает вдвое больше времени.</VFEPD_VGE_Astropurifier.description>
+  <VFEPD_VGE_Astropurifier.label>астроочиститель</VFEPD_VGE_Astropurifier.label>
+  <VFEPD_VGE_CapacitorHarmonizer.description>Специализированное устройство, выравнивающее и синхронизирующее потоки энергии между соседними конденсаторами. Не работает.</VFEPD_VGE_CapacitorHarmonizer.description>
+  <VFEPD_VGE_CapacitorHarmonizer.label>гармонизатор конденсаторов</VFEPD_VGE_CapacitorHarmonizer.label>
+  <VFEPD_VGE_CompactDrugLab.description>Компактная химическая лаборатория для гравикорабля, питающаяся от его энергосистемы. Похоже, не работает.</VFEPD_VGE_CompactDrugLab.description>
+  <VFEPD_VGE_CompactDrugLab.label>компактная химическая лаборатория</VFEPD_VGE_CompactDrugLab.label>
+  <VFEPD_VGE_CompactFabBench.description>Компактный сборочный стол для гравикорабля, питающийся от его энергосистемы. Похоже, не работает.</VFEPD_VGE_CompactFabBench.description>
+  <VFEPD_VGE_CompactFabBench.label>компактный сборочный стол</VFEPD_VGE_CompactFabBench.label>
+  <VFEPD_VGE_CompactMachiningTable.description>Компактный механический станок для гравикорабля, питающийся от его энергосистемы. Похоже, не работает.</VFEPD_VGE_CompactMachiningTable.description>
+  <VFEPD_VGE_CompactMachiningTable.label>компактный механический станок</VFEPD_VGE_CompactMachiningTable.label>
+  <VFEPD_VGE_CompactRefinery.description>Компактный переработчик биотоплива для гравикорабля, питающийся от его энергосистемы. Похоже, не работает.</VFEPD_VGE_CompactRefinery.description>
+  <VFEPD_VGE_CompactRefinery.label>компактный переработчик биотоплива</VFEPD_VGE_CompactRefinery.label>
+  <VFEPD_VGE_CompactSmithy.description>Компактная кузница для гравикорабля, питающаяся от его энергосистемы. Похоже, не работает.</VFEPD_VGE_CompactSmithy.description>
+  <VFEPD_VGE_CompactSmithy.label>компактная кузница</VFEPD_VGE_CompactSmithy.label>
+  <VFEPD_VGE_CompactStove.description>Компактная плита для гравикорабля, питающаяся от его энергосистемы. Похоже, не работает.</VFEPD_VGE_CompactStove.description>
+  <VFEPD_VGE_CompactStove.label>компактная плита</VFEPD_VGE_CompactStove.label>
+  <VFEPD_VGE_CompactTailor.description>Компактный портняжный стол для гравикорабля, питающийся от его энергосистемы. Похоже, не работает.</VFEPD_VGE_CompactTailor.description>
+  <VFEPD_VGE_CompactTailor.label>компактный портняжный стол</VFEPD_VGE_CompactTailor.label>
+  <VFEPD_VGE_EngineeringConsole.description>Интерфейс наблюдения за техническим состоянием всех компонентов гравикорабля. Получает питание напрямую от гравидвигателя. Не работает.</VFEPD_VGE_EngineeringConsole.description>
+  <VFEPD_VGE_EngineeringConsole.label>инженерный пульт</VFEPD_VGE_EngineeringConsole.label>
+  <VFEPD_VGE_FlightComputer.description>Передовой вычислительный блок, оптимизирующий сбор данных в полёте гравикорабля. Не работает.</VFEPD_VGE_FlightComputer.description>
+  <VFEPD_VGE_FlightComputer.label>полётный компьютер</VFEPD_VGE_FlightComputer.label>
+  <VFEPD_VGE_GiantAstrofuelTank.description>Монументальный резервуар астротоплива, снабжающий двигатели гравикорабля. Запечатан и пуст.</VFEPD_VGE_GiantAstrofuelTank.description>
+  <VFEPD_VGE_GiantAstrofuelTank.label>гигантский резервуар астротоплива</VFEPD_VGE_GiantAstrofuelTank.label>
+  <VFEPD_VGE_GiantThruster.description>Массивный усиленный двигатель на астротопливе из передовых сплавов с обшивкой из сверхплотного вакуумного камня. Значительно увеличивает дальность полёта и предельный размер гравикорабля. Двигателям требуется свободная область без крупных зданий и подконструкции гравикорабля.\n\nТребует блоки вакуумного камня, добываемого из орбитальных астероидов.\n\nНа гравикорабле можно установить до четырёх гигантских двигателей.</VFEPD_VGE_GiantThruster.description>
+  <VFEPD_VGE_GiantThruster.label>гигантский двигатель</VFEPD_VGE_GiantThruster.label>
+  <VFEPD_VGE_GravcorePowerCoil.description>Массивный гравитехнический реактор, направляющий и усиливающий энергию гравитационных волн для выработки огромного количества электричества. Не работает.</VFEPD_VGE_GravcorePowerCoil.description>
+  <VFEPD_VGE_GravcorePowerCoil.label>силовая катушка гравиядра</VFEPD_VGE_GravcorePowerCoil.label>
+  <VFEPD_VGE_GravheatAbsorber.description>Специализированный теплоотвод, забирающий всё остаточное тепло гравидвигателя и мгновенно завершающий его охлаждение. Поглощённое тепло надолго выводит поглотитель из строя, пока накопленная энергия безопасно рассеивается. Не работает.</VFEPD_VGE_GravheatAbsorber.description>
+  <VFEPD_VGE_GravheatAbsorber.label>поглотитель гравитепла</VFEPD_VGE_GravheatAbsorber.label>
+  <VFEPD_VGE_Gravlift.description>Сложная платформа вертикального запуска и стабилизации, встроенная в основную конструкцию гравикорабля. Не работает.</VFEPD_VGE_Gravlift.description>
+  <VFEPD_VGE_Gravlift.label>гравилифт</VFEPD_VGE_Gravlift.label>
+  <VFEPD_VGE_GravshipBlackBox.description>Передовой регистратор, встроенный в системы гравикорабля. При аварии этот способен только разлететься на куски.</VFEPD_VGE_GravshipBlackBox.description>
+  <VFEPD_VGE_GravshipBlackBox.label>чёрный ящик гравикорабля</VFEPD_VGE_GravshipBlackBox.label>
+  <VFEPD_VGE_GravshipCapacitor.description>Накапливает большое количество электричества для дальнейшего использования. Накапливал бы, если бы не был таким явным муляжом!</VFEPD_VGE_GravshipCapacitor.description>
+  <VFEPD_VGE_GravshipCapacitor.label>конденсатор гравикорабля</VFEPD_VGE_GravshipCapacitor.label>
+  <VFEPD_VGE_GravtechConsole.description>Интерфейс анализа гравиданных, собранных при запусках и полётах гравикорабля. Бездействует.</VFEPD_VGE_GravtechConsole.description>
+  <VFEPD_VGE_GravtechConsole.label>гравитехнический пульт</VFEPD_VGE_GravtechConsole.label>
+  <VFEPD_VGE_GunnerSubpersonaCore.description>Примитивная субличность, специализирующаяся на боях гравикораблей. У этой отсутствует мозг, так что она может писать на Reddit.</VFEPD_VGE_GunnerSubpersonaCore.description>
+  <VFEPD_VGE_GunnerSubpersonaCore.label>субъядро стрелка</VFEPD_VGE_GunnerSubpersonaCore.label>
+  <VFEPD_VGE_IndustrialAstrofuelGenerator.description>Вырабатывает много электричества, расходуя астротопливо. Намного эффективнее генераторов на химтопливе.</VFEPD_VGE_IndustrialAstrofuelGenerator.description>
+  <VFEPD_VGE_IndustrialAstrofuelGenerator.label>промышленный генератор на астротопливе</VFEPD_VGE_IndustrialAstrofuelGenerator.label>
+  <VFEPD_VGE_LargeHeatsink.description>Большой терморегулятор, поглощающий тепло от полётов гравикорабля и медленно превращающий часть его в полезную энергию. Предотвращает перегрев систем и сокращает время охлаждения гравидвигателя. Не работает.</VFEPD_VGE_LargeHeatsink.description>
+  <VFEPD_VGE_LargeHeatsink.label>большой теплоотвод</VFEPD_VGE_LargeHeatsink.label>
+  <VFEPD_VGE_LargeMechanoidThruster.description>Массивный двигатель на астротопливе, созданный ядром механоидов для движения их орбитальных платформ. Не работает.</VFEPD_VGE_LargeMechanoidThruster.description>
+  <VFEPD_VGE_LargeMechanoidThruster.label>большой двигатель механоидов</VFEPD_VGE_LargeMechanoidThruster.label>
+  <VFEPD_VGE_LargeOxygenTank.description>Большой кислородный резервуар, снабжающий насосы по всему гравикораблю.</VFEPD_VGE_LargeOxygenTank.description>
+  <VFEPD_VGE_LargeOxygenTank.label>большой кислородный резервуар</VFEPD_VGE_LargeOxygenTank.label>
+  <VFEPD_VGE_LifeSupportSystem.description>Жизненно важное устройство, перерабатывающее собранные кислородные водоросли в пригодный для дыхания кислород. Превращает биомассу в газ и нагнетает его в кислородную сеть для снабжения герметичных помещений и оборудования.</VFEPD_VGE_LifeSupportSystem.description>
+  <VFEPD_VGE_LifeSupportSystem.label>водорослевый оксигенатор</VFEPD_VGE_LifeSupportSystem.label>
+  <VFEPD_VGE_MaintenanceHub.description>Централизованная система, оптимизирующая и автоматизирующая повседневное обслуживание всего гравикорабля. Не работает.</VFEPD_VGE_MaintenanceHub.description>
+  <VFEPD_VGE_MaintenanceHub.label>центр обслуживания</VFEPD_VGE_MaintenanceHub.label>
+  <VFEPD_VGE_MechanoidAstrofuelNode.description>Компактный топливный резервуар, встроенный в платформы механоидов. Пуст и запечатан.</VFEPD_VGE_MechanoidAstrofuelNode.description>
+  <VFEPD_VGE_MechanoidAstrofuelNode.label>узел астротоплива</VFEPD_VGE_MechanoidAstrofuelNode.label>
+  <VFEPD_VGE_MechanoidGravEngine.description>Холодное искусственное сердце орбитальной платформы механоидов. Похоже, бездействует.</VFEPD_VGE_MechanoidGravEngine.description>
+  <VFEPD_VGE_MechanoidGravEngine.label>гравидвигатель механоидов</VFEPD_VGE_MechanoidGravEngine.label>
+  <VFEPD_VGE_MechanoidPodLauncher.description>Механизированная пусковая площадка, периодически отправляющая десантные капсулы, набитые механоидами. Не работает.</VFEPD_VGE_MechanoidPodLauncher.description>
+  <VFEPD_VGE_MechanoidPodLauncher.label>пусковая установка капсул механоидов</VFEPD_VGE_MechanoidPodLauncher.label>
+  <VFEPD_VGE_MechanoidResourceProcessor.description>Построенное машинами сооружение, обеспечивающее платформы механоидов ресурсами из переработанного космического мусора и обломков. Не работает.</VFEPD_VGE_MechanoidResourceProcessor.description>
+  <VFEPD_VGE_MechanoidResourceProcessor.label>переработчик ресурсов</VFEPD_VGE_MechanoidResourceProcessor.label>
+  <VFEPD_VGE_MechanoidTempShield.description>Компактная защитная установка, создающая локальный щит вокруг себя. Не работает.</VFEPD_VGE_MechanoidTempShield.description>
+  <VFEPD_VGE_MechanoidTempShield.label>временный щит механоидов</VFEPD_VGE_MechanoidTempShield.label>
+  <VFEPD_VGE_OxyalgaePlant.description>Быстрорастущее водное растение, выращиваемое на гидропонике и перерабатываемое в кислород водорослевым оксигенатором. Похоже, это пластиковое растение.</VFEPD_VGE_OxyalgaePlant.description>
+  <VFEPD_VGE_OxyalgaePlant.label>кислородные водоросли</VFEPD_VGE_OxyalgaePlant.label>
+  <VFEPD_VGE_OxygenHarvester.description>Устройство забирает пригодный для дыхания кислород из окружающей атмосферы и накапливает его в кислородной сети. Работает только на поверхности планет с атмосферой; в вакууме и среде с малым содержанием кислорода не действует.</VFEPD_VGE_OxygenHarvester.description>
+  <VFEPD_VGE_OxygenHarvester.label>сборщик кислорода</VFEPD_VGE_OxygenHarvester.label>
+  <VFEPD_VGE_OxygenPipe.description>Стальные трубы. Ничего не переносят.</VFEPD_VGE_OxygenPipe.description>
+  <VFEPD_VGE_OxygenPipe.label>кислородная труба</VFEPD_VGE_OxygenPipe.label>
+  <VFEPD_VGE_OxygenReclaimer.description>Автономная атмосферная установка, извлекающая следовые количества кислорода из окружающих газов. Производит кислород медленно, но непрерывно и без расходных материалов. Для работы требуется подключение к кислородному резервуару кислородными трубами.</VFEPD_VGE_OxygenReclaimer.description>
+  <VFEPD_VGE_OxygenReclaimer.label>регенератор кислорода</VFEPD_VGE_OxygenReclaimer.label>
+  <VFEPD_VGE_SmallHeatsink.description>Компактный терморегулятор, поглощающий тепло от полётов гравикорабля и медленно превращающий часть его в полезную энергию. Предотвращает перегрев систем и сокращает время охлаждения гравидвигателя. Не работает.</VFEPD_VGE_SmallHeatsink.description>
+  <VFEPD_VGE_SmallHeatsink.label>малый теплоотвод</VFEPD_VGE_SmallHeatsink.label>
+  <VFEPD_VGE_SmallOxygenTank.description>Кислородный резервуар, снабжающий насосы по всему гравикораблю.</VFEPD_VGE_SmallOxygenTank.description>
+  <VFEPD_VGE_SmallOxygenTank.label>малый кислородный резервуар</VFEPD_VGE_SmallOxygenTank.label>
+  <VFEPD_VGE_SolarPanelling.description>Муляж солнечных панелей из картона. Наверное, с ним можно победить на школьной научной выставке или чём-то таком. Там, где я живу, их нет, так что я видел их только в кино.</VFEPD_VGE_SolarPanelling.description>
+  <VFEPD_VGE_SolarPanelling.label>солнечные панели</VFEPD_VGE_SolarPanelling.label>
+  <VFEPD_VGE_TargetingTerminal.description>Пульт управления одним артиллерийским орудием гравикорабля. Вышел из строя.</VFEPD_VGE_TargetingTerminal.description>
+  <VFEPD_VGE_TargetingTerminal.label>терминал наведения</VFEPD_VGE_TargetingTerminal.label>
+  <VFEPD_WallFirefoamPopper.description>Настенная разновидность пеногасителя. Пуста.</VFEPD_WallFirefoamPopper.description>
+  <VFEPD_WallFirefoamPopper.label>настенный пеногаситель</VFEPD_WallFirefoamPopper.label>
+  <VFEPD_WallOrbitalTradeBeacon.description>Настенная разновидность орбитального торгового маяка. Отключена.</VFEPD_WallOrbitalTradeBeacon.description>
+  <VFEPD_WallOrbitalTradeBeacon.label>настенный орбитальный торговый маяк</VFEPD_WallOrbitalTradeBeacon.label>
+</LanguageData>
