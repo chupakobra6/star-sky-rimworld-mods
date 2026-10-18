@@ -1,0 +1,13 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BS_FA_Keep_Brows.description>Сохраняет только анимацию бровей.</BS_FA_Keep_Brows.description>
+  <BS_FA_Keep_Brows.label>FA: только брови</BS_FA_Keep_Brows.label>
+  <BS_FA_Keep_Eyes.description>Сохраняет только анимацию глаз и век.</BS_FA_Keep_Eyes.description>
+  <BS_FA_Keep_Eyes.label>FA: глаза и веки</BS_FA_Keep_Eyes.label>
+  <BS_FA_Keep_Lid.description>Сохраняет только анимацию век.</BS_FA_Keep_Lid.description>
+  <BS_FA_Keep_Lid.label>FA: только веки</BS_FA_Keep_Lid.label>
+  <BS_FA_Keep_LidBrow.description>Сохраняет анимацию век и бровей.</BS_FA_Keep_LidBrow.description>
+  <BS_FA_Keep_LidBrow.label>FA: веки и брови</BS_FA_Keep_LidBrow.label>
+  <BS_FacialAnimDisabled.description>Полностью отключает анимацию лица из мода Facial Animation от Nals и использует обычную голову. В большинстве случаев для отключения анимации следует выбирать этот вариант.</BS_FacialAnimDisabled.description>
+  <BS_FacialAnimDisabled.label>без анимации лица</BS_FacialAnimDisabled.label>
+</LanguageData>

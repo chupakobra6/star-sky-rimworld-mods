@@ -2,6 +2,10 @@
 <loadFolders>
   <v1.6>
     <li>/</li>
+    <li IfModActiveAll="ludeon.rimworld.biotech" IfModNotActive="ludeon.rimworld.ideology">1.6/Conditional/condition-5eb1068d36ed45f204dc8172cc1f95af3bcb8535abd6d736d488b5137b41cd62</li>
+    <li IfModNotActive="ludeon.rimworld.biotech,ludeon.rimworld.ideology">1.6/Conditional/condition-61e7b49c18c72ab648f77e010075569d4847c8da9029a5a9b3d0957558965256</li>
+    <li IfModActiveAll="ludeon.rimworld.ideology" IfModNotActive="ludeon.rimworld.biotech">1.6/Conditional/condition-ccb572b4c34761bd17dd592ee0ae07d300f4a08a8a44348174093d2e0c516901</li>
+    <li IfModActiveAll="ludeon.rimworld.biotech,ludeon.rimworld.ideology">1.6/Conditional/with-all-ludeon-rimworld-biotech-and-ludeon-rimworld-ideology</li>
     <li IfModActiveAll="ludeon.rimworld.biotech,vanillaracesexpanded.android">1.6/Conditional/with-all-ludeon-rimworld-biotech-and-vanillaracesexpanded-android</li>
     <li IfModActiveAll="ludeon.rimworld.biotech,vanillaracesexpanded.starjack">1.6/Conditional/with-all-ludeon-rimworld-biotech-and-vanillaracesexpanded-starjack</li>
     <li IfModActive="ceteam.combatextended">1.6/Conditional/with-ceteam-combatextended</li>
@@ -9,5 +13,7 @@
     <li IfModActive="ludeon.rimworld.ideology">1.6/Conditional/with-ludeon-rimworld-ideology</li>
     <li IfModActive="ludeon.rimworld.royalty">1.6/Conditional/with-ludeon-rimworld-royalty</li>
     <li IfModNotActive="ceteam.combatextended">1.6/Conditional/without-ceteam-combatextended</li>
+    <li IfModNotActive="ludeon.rimworld.biotech">1.6/Conditional/without-ludeon-rimworld-biotech</li>
+    <li IfModNotActive="ludeon.rimworld.ideology">1.6/Conditional/without-ludeon-rimworld-ideology</li>
   </v1.6>
 </loadFolders>

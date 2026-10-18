@@ -1,5 +1,36 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
+  <DankPyon_BrigandFaction.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</DankPyon_BrigandFaction.messageDefendersAttacking>
+  <DankPyon_Forest_Faction.leaderTitle>предводитель</DankPyon_Forest_Faction.leaderTitle>
+  <DankPyon_Forest_Faction.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</DankPyon_Forest_Faction.messageDefendersAttacking>
+  <DankPyon_Hornets.leaderTitle>предводитель</DankPyon_Hornets.leaderTitle>
+  <DankPyon_Hornets.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</DankPyon_Hornets.messageDefendersAttacking>
+  <DankPyon_Hornets.pawnSingular>насекомое</DankPyon_Hornets.pawnSingular>
+  <DankPyon_LoneWolf.leaderTitle>предводитель</DankPyon_LoneWolf.leaderTitle>
+  <DankPyon_LoneWolf.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</DankPyon_LoneWolf.messageDefendersAttacking>
+  <DankPyon_LoneWolf.pawnSingular>подданный</DankPyon_LoneWolf.pawnSingular>
+  <DankPyon_MercenaryCompany.leaderTitle>предводитель</DankPyon_MercenaryCompany.leaderTitle>
+  <DankPyon_MercenaryCompany.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</DankPyon_MercenaryCompany.messageDefendersAttacking>
+  <DankPyon_MercenaryCompany.pawnSingular>наёмник</DankPyon_MercenaryCompany.pawnSingular>
+  <DankPyon_NobleHouseCivil.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</DankPyon_NobleHouseCivil.messageDefendersAttacking>
+  <DankPyon_NobleHouseCivil.pawnSingular>подданный</DankPyon_NobleHouseCivil.pawnSingular>
+  <DankPyon_NobleHouseCivil2.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</DankPyon_NobleHouseCivil2.messageDefendersAttacking>
+  <DankPyon_NobleHouseCivil2.pawnSingular>подданный</DankPyon_NobleHouseCivil2.pawnSingular>
+  <DankPyon_NobleHouseFierce.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</DankPyon_NobleHouseFierce.messageDefendersAttacking>
+  <DankPyon_NobleHouseFierce.pawnSingular>подданный</DankPyon_NobleHouseFierce.pawnSingular>
+  <DankPyon_NobleHouseSavage.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</DankPyon_NobleHouseSavage.messageDefendersAttacking>
+  <DankPyon_NobleHouseSavage.pawnSingular>подданный</DankPyon_NobleHouseSavage.pawnSingular>
+  <DankPyon_PlayerKingdom.leaderTitle>предводитель</DankPyon_PlayerKingdom.leaderTitle>
+  <DankPyon_PlayerKingdom.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</DankPyon_PlayerKingdom.messageDefendersAttacking>
+  <DankPyon_PlayerKingdom.pawnSingular>подданный</DankPyon_PlayerKingdom.pawnSingular>
+  <DankPyon_ShadowSect.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</DankPyon_ShadowSect.messageDefendersAttacking>
+  <DankPyon_SnakeCave_Faction.leaderTitle>предводитель</DankPyon_SnakeCave_Faction.leaderTitle>
+  <DankPyon_SnakeCave_Faction.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</DankPyon_SnakeCave_Faction.messageDefendersAttacking>
+  <DankPyon_SnakeCave_Faction.pawnSingular>пещерная змея</DankPyon_SnakeCave_Faction.pawnSingular>
+  <DankPyon_UlrikFaction.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</DankPyon_UlrikFaction.messageDefendersAttacking>
+  <DankPyon_UlrikFaction.pawnSingular>рыцарь Ульрика</DankPyon_UlrikFaction.pawnSingular>
+  <DankPyon_Witch_Faction.leaderTitle>предводитель</DankPyon_Witch_Faction.leaderTitle>
+  <DankPyon_Witch_Faction.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</DankPyon_Witch_Faction.messageDefendersAttacking>
   <Ignivar_Exiles.description>Дом Игнивар — знатный род, закалённый пеплом горы Игнос. Его воины и оружие созданы выдерживать огонь, пепел и невзгоды, перед которыми отступают другие.</Ignivar_Exiles.description>
   <Ignivar_Exiles.fixedName>Изгнанники дома Игнивар</Ignivar_Exiles.fixedName>
   <Ignivar_Exiles.label>изгнанники дома Игнивар</Ignivar_Exiles.label>
@@ -32,35 +63,4 @@
   <Ignivar_PlayerOutpost.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</Ignivar_PlayerOutpost.messageDefendersAttacking>
   <Ignivar_PlayerOutpost.pawnSingular>потомок</Ignivar_PlayerOutpost.pawnSingular>
   <Ignivar_PlayerOutpost.pawnsPlural>потомки</Ignivar_PlayerOutpost.pawnsPlural>
-  <DankPyon_BrigandFaction.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</DankPyon_BrigandFaction.messageDefendersAttacking>
-  <DankPyon_ShadowSect.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</DankPyon_ShadowSect.messageDefendersAttacking>
-  <DankPyon_Forest_Faction.leaderTitle>предводитель</DankPyon_Forest_Faction.leaderTitle>
-  <DankPyon_Forest_Faction.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</DankPyon_Forest_Faction.messageDefendersAttacking>
-  <DankPyon_Witch_Faction.leaderTitle>предводитель</DankPyon_Witch_Faction.leaderTitle>
-  <DankPyon_Witch_Faction.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</DankPyon_Witch_Faction.messageDefendersAttacking>
-  <DankPyon_Hornets.leaderTitle>предводитель</DankPyon_Hornets.leaderTitle>
-  <DankPyon_Hornets.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</DankPyon_Hornets.messageDefendersAttacking>
-  <DankPyon_Hornets.pawnSingular>насекомое</DankPyon_Hornets.pawnSingular>
-  <DankPyon_NobleHouseFierce.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</DankPyon_NobleHouseFierce.messageDefendersAttacking>
-  <DankPyon_NobleHouseFierce.pawnSingular>подданный</DankPyon_NobleHouseFierce.pawnSingular>
-  <DankPyon_NobleHouseCivil2.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</DankPyon_NobleHouseCivil2.messageDefendersAttacking>
-  <DankPyon_NobleHouseCivil2.pawnSingular>подданный</DankPyon_NobleHouseCivil2.pawnSingular>
-  <DankPyon_NobleHouseCivil.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</DankPyon_NobleHouseCivil.messageDefendersAttacking>
-  <DankPyon_NobleHouseCivil.pawnSingular>подданный</DankPyon_NobleHouseCivil.pawnSingular>
-  <DankPyon_NobleHouseSavage.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</DankPyon_NobleHouseSavage.messageDefendersAttacking>
-  <DankPyon_NobleHouseSavage.pawnSingular>подданный</DankPyon_NobleHouseSavage.pawnSingular>
-  <DankPyon_PlayerKingdom.leaderTitle>предводитель</DankPyon_PlayerKingdom.leaderTitle>
-  <DankPyon_PlayerKingdom.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</DankPyon_PlayerKingdom.messageDefendersAttacking>
-  <DankPyon_PlayerKingdom.pawnSingular>подданный</DankPyon_PlayerKingdom.pawnSingular>
-  <DankPyon_LoneWolf.leaderTitle>предводитель</DankPyon_LoneWolf.leaderTitle>
-  <DankPyon_LoneWolf.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</DankPyon_LoneWolf.messageDefendersAttacking>
-  <DankPyon_LoneWolf.pawnSingular>подданный</DankPyon_LoneWolf.pawnSingular>
-  <DankPyon_MercenaryCompany.leaderTitle>предводитель</DankPyon_MercenaryCompany.leaderTitle>
-  <DankPyon_MercenaryCompany.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</DankPyon_MercenaryCompany.messageDefendersAttacking>
-  <DankPyon_MercenaryCompany.pawnSingular>наёмник</DankPyon_MercenaryCompany.pawnSingular>
-  <DankPyon_SnakeCave_Faction.leaderTitle>предводитель</DankPyon_SnakeCave_Faction.leaderTitle>
-  <DankPyon_SnakeCave_Faction.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</DankPyon_SnakeCave_Faction.messageDefendersAttacking>
-  <DankPyon_SnakeCave_Faction.pawnSingular>пещерная змея</DankPyon_SnakeCave_Faction.pawnSingular>
-  <DankPyon_UlrikFaction.messageDefendersAttacking>{0} из фракции «{1}» атакуют: {2}.</DankPyon_UlrikFaction.messageDefendersAttacking>
-  <DankPyon_UlrikFaction.pawnSingular>рыцарь Ульрика</DankPyon_UlrikFaction.pawnSingular>
 </LanguageData>

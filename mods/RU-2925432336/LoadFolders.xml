@@ -2,7 +2,12 @@
 <loadFolders>
   <v1.6>
     <li>/</li>
+    <li IfModActiveAll="ludeon.rimworld.biotech" IfModNotActive="redmattis.bigsmall.core">1.6/Conditional/condition-d1623ec7d73e9f6cd9b13426417e249223790af768dd6a74fff901dfb1e9ebd9</li>
+    <li IfModActiveAll="ludeon.rimworld.biotech,redmattis.bigsmall.core">1.6/Conditional/with-all-ludeon-rimworld-biotech-and-redmattis-bigsmall-core</li>
+    <li IfModActive="ludeon.rimworld.biotech">1.6/Conditional/with-ludeon-rimworld-biotech</li>
     <li IfModActive="mehni.numbers">1.6/Conditional/with-mehni-numbers</li>
+    <li IfModActive="nals.facialanimation">1.6/Conditional/with-nals-facialanimation</li>
     <li IfModActive="vanillaracesexpanded.android">1.6/Conditional/with-vanillaracesexpanded-android</li>
+    <li IfModNotActive="redmattis.redhealth">1.6/Conditional/without-redmattis-redhealth</li>
   </v1.6>
 </loadFolders>

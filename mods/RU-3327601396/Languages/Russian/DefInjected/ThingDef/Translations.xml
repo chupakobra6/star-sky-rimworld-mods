@@ -27,6 +27,8 @@
   <Addie_Eggnog.ingestible.ingestCommandString>Выпить {0}</Addie_Eggnog.ingestible.ingestCommandString>
   <Addie_Eggnog.ingestible.ingestReportString>Пьёт {0}.</Addie_Eggnog.ingestible.ingestReportString>
   <Addie_Eggnog.label>илланский эгг-ног</Addie_Eggnog.label>
+  <Addie_Eggnog.tools.bottle.label>бутылка</Addie_Eggnog.tools.bottle.label>
+  <Addie_Eggnog.tools.neck.label>горлышко</Addie_Eggnog.tools.neck.label>
   <Addie_FrigidFlail.description>Смертоносная шипастая ударная головка на цепи, инкрустированная инеекристаллом.\n\nОружие явно не изящное, но некоторым илланцам оно почему-то пришлось по душе.</Addie_FrigidFlail.description>
   <Addie_FrigidFlail.label>ледяной кистень</Addie_FrigidFlail.label>
   <Addie_FrigidFlail.tools.0.label>древко</Addie_FrigidFlail.tools.0.label>
@@ -59,6 +61,8 @@
   <Addie_MoonchillOrchid.label>орхидея лунного холода</Addie_MoonchillOrchid.label>
   <Addie_ParryingDagger.description>Кинжал для парирования вражеских атак.</Addie_ParryingDagger.description>
   <Addie_ParryingDagger.label>парирующий кинжал</Addie_ParryingDagger.label>
+  <Addie_ParryingDagger.tools.base.label>рукоять</Addie_ParryingDagger.tools.base.label>
+  <Addie_ParryingDagger.tools.centre.label>клинок</Addie_ParryingDagger.tools.centre.label>
   <Addie_Proj_PotFrost.label>морозный горшок</Addie_Proj_PotFrost.label>
   <Addie_Rimecloth.description>Ткань, усиленная нитями с покрытием из инееросы. Она немного прочнее обычной ткани и гораздо лучше защищает от жары.\n\nИлланские мастера создали инееткань, чтобы сохранять прохладу во время путешествий по тёплым землям. Защита от холода илланцев никогда не заботила.</Addie_Rimecloth.description>
   <Addie_Rimecloth.label>инееткань</Addie_Rimecloth.label>
@@ -70,6 +74,7 @@
   <Addie_RimedBardiche.tools.1.label>лезвие</Addie_RimedBardiche.tools.1.label>
   <Addie_RimedCrossbow.description>Метательное оружие, которое, подобно луку, накапливает энергию в натянутой тетиве и при её отпускании запускает снаряд. Однако замковый механизм арбалета позволяет сохранять взведённое состояние, делая это оружие одновременно доступным новичкам и мощным в бою.\n\nЭтот арбалет инкрустирован инеекристаллом и стреляет сосульками, вызывающими обморожение.</Addie_RimedCrossbow.description>
   <Addie_RimedCrossbow.label>инеевый арбалет</Addie_RimedCrossbow.label>
+  <Addie_RimedCrossbow.verbs.0.label>инеевый арбалет</Addie_RimedCrossbow.verbs.0.label>
   <Addie_RimedCrossbow.tools.0.label>плечо</Addie_RimedCrossbow.tools.0.label>
   <Addie_RimedLongsword.description>Длинный меч илланской работы, инкрустированный инеекристаллом. Дополнительная защита рук на илланских длинных мечах позволяла владельцам безнаказанно применять некоторые любопытные приёмы.</Addie_RimedLongsword.description>
   <Addie_RimedLongsword.label>инеевый длинный меч</Addie_RimedLongsword.label>

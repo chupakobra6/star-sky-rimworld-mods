@@ -1,0 +1,11 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFES_ComplexGraserCannon_Top.description>Грейзерная пушка для установки на турель.</VFES_ComplexGraserCannon_Top.description>
+  <VFES_ComplexGraserCannon_Top.label>гамма-лазер</VFES_ComplexGraserCannon_Top.label>
+  <VFES_ComplexGraserCannon_Top.verbs.Verb_ShootBeam.label>гамма-лазер</VFES_ComplexGraserCannon_Top.verbs.Verb_ShootBeam.label>
+  <VFES_Complex_GraserCannon.comps.3.fuelGizmoLabel>Ресурс излучателей</VFES_Complex_GraserCannon.comps.3.fuelGizmoLabel>
+  <VFES_Complex_GraserCannon.comps.3.fuelLabel>Выстрелов до ремонта излучателей</VFES_Complex_GraserCannon.comps.3.fuelLabel>
+  <VFES_Complex_GraserCannon.comps.3.outOfFuelMessage>требуется ремонт излучателей</VFES_Complex_GraserCannon.comps.3.outOfFuelMessage>
+  <VFES_Complex_GraserCannon.description>Мощный гамма-лазер на баррикаде, которая служит расчёту укрытием. Ведёт огонь скользящим лучом, способным пробивать броню и поджигать цели. Требует оператора. После интенсивной стрельбы излучатели нужно восстанавливать с помощью пластали.</VFES_Complex_GraserCannon.description>
+  <VFES_Complex_GraserCannon.label>стационарный гамма-лазер</VFES_Complex_GraserCannon.label>
+</LanguageData>

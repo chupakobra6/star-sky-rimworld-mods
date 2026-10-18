@@ -4,10 +4,13 @@
   <AA_BioMechDisruptor.label>биоподавитель механоидов</AA_BioMechDisruptor.label>
   <AA_BlackCreeper.description>Подобное улью сооружение гигантских насекомых. Превращает уже существующий покров в чёрный, с теми же характеристиками и механикой. Используется только ради внешнего вида. В отличие от обычных разрастателей, не производит желе после завершения работы и действует гораздо быстрее.</AA_BlackCreeper.description>
   <AA_BlackCreeper.label>чёрный разрастатель</AA_BlackCreeper.label>
+  <AA_BlackDefiler.comps.CompRefuelable.fuelGizmoLabel>Желе насекомых</AA_BlackDefiler.comps.CompRefuelable.fuelGizmoLabel>
+  <AA_BlackDefiler.comps.CompRefuelable.fuelLabel>Желе насекомых</AA_BlackDefiler.comps.CompRefuelable.fuelLabel>
   <AA_BlackDefiler.description>Небольшой холм со входом в обширную сеть подземных ульев. На его вершине появляется чёрный осквернитель. Это насекомое выплёвывает огромные количества мерзкой слюны в ближайших врагов, если регулярно кормить его желе насекомых. Без пищи холм постепенно разрушается. Когда он разрушится полностью, чёрный осквернитель отступит в туннели глубинного улья.</AA_BlackDefiler.description>
   <AA_BlackDefiler.label>чёрный осквернитель</AA_BlackDefiler.label>
   <AA_BlackDefiler_Gun.description>Небольшой холм со входом в обширную сеть подземных ульев. На его вершине появляется чёрный осквернитель. Это насекомое выплёвывает огромные количества мерзкой слюны в ближайших врагов, если регулярно кормить его желе насекомых. Слюна наносит токсический урон живым целям, а механоидам — опасный постепенный кислотный урон. Без пищи холм постепенно разрушается. Когда он разрушится полностью, чёрный осквернитель отступит в туннели глубинного улья.</AA_BlackDefiler_Gun.description>
   <AA_BlackDefiler_Gun.label>чёрный осквернитель</AA_BlackDefiler_Gun.label>
+  <AA_BlackDefiler_Gun.verbs.0.label>чёрный осквернитель</AA_BlackDefiler_Gun.verbs.0.label>
   <AA_BlackDefiler_Projectile.label>снаряд чёрного осквернителя</AA_BlackDefiler_Projectile.label>
   <AA_BlackJellyMorpher.description>Экзотическое пульсирующее биообразование, превращающее загруженное желе насекомых в чёрное с помощью химического процесса. Создаётся гигантскими насекомыми. Строится на покрове и для производства чёрного желе требует заправки обычным желе насекомых.</AA_BlackJellyMorpher.description>
   <AA_BlackJellyMorpher.label>преобразователь чёрного желе</AA_BlackJellyMorpher.label>
@@ -26,6 +29,7 @@
   <AA_FoamBelcher.label>пенный плеватель</AA_FoamBelcher.label>
   <AA_FoamBelcher_Gun.description>Органический пеногасительный нарост, созданный гигантскими насекомыми. Обнаружив огонь, распыляет огнетушащую пену конусом. В отличие от обычных пеногасительных наростов, не погибает со временем, но строится на покрове. Для работы нужно желе насекомых.</AA_FoamBelcher_Gun.description>
   <AA_FoamBelcher_Gun.label>пенный плеватель</AA_FoamBelcher_Gun.label>
+  <AA_FoamBelcher_Gun.verbs.0.label>пенный плеватель</AA_FoamBelcher_Gun.verbs.0.label>
   <AA_FreezePod.description>Биолюминесцентный нарост, созданный гигантскими насекомыми. Долго светится собственным светом, а затем погибает. Кажется, от него исходит пронизывающий холод.</AA_FreezePod.description>
   <AA_FreezePod.label>морозный нарост</AA_FreezePod.label>
   <AA_GreaterBlackHiveBolt.label>усиленный мерзкий плевок</AA_GreaterBlackHiveBolt.label>
@@ -47,8 +51,10 @@
   <VFEI2_BlackSwarmling.description>Молодые насекомые Чёрного улья, чёрные ройники, почти безвредны, медлительны и легко погибают. Спустя некоторое время они окукливаются, проходя метаморфоз; из кокона выходит взрослое насекомое Чёрного улья. Невозможно заранее узнать, какое насекомое появится из кокона.</VFEI2_BlackSwarmling.description>
   <VFEI2_BlackSwarmling.label>чёрные ройники</VFEI2_BlackSwarmling.label>
   <VFEI2_BlackSwarmling.tools.0.label>рот</VFEI2_BlackSwarmling.tools.0.label>
+  <VFEI2_PherocoreBlack.comps.CompUsable.useLabel>Увеличить улей ({0_labelShort})</VFEI2_PherocoreBlack.comps.CompUsable.useLabel>
   <VFEI2_PherocoreBlack.description>Микроорган, управляющий феромонами. Необходим для создания некоторых видов ульев насекомых. Фероядра глубоко внедряли в мозг предводителей генолиний, что позволяло древним цивилизациям управлять ульями.\n\nЭто фероядро принадлежит генолинии охотников на механоидов — Чёрному улью.</VFEI2_PherocoreBlack.description>
   <VFEI2_PherocoreBlack.label>чёрное фероядро</VFEI2_PherocoreBlack.label>
+  <VFEI2_Thumper_BlackEmpress.comps.CompUsable.useLabel>Активировать ударник</VFEI2_Thumper_BlackEmpress.comps.CompUsable.useLabel>
   <VFEI2_Thumper_BlackEmpress.description>Вибрационный ударник. После активации испускает мощные ударные импульсы, привлекающие чёрную императрицу и её свиту для нападения. Если победить её, из тела можно извлечь особое фероядро. Удары расшатывают устройство, поэтому его можно использовать только один раз.</VFEI2_Thumper_BlackEmpress.description>
   <VFEI2_Thumper_BlackEmpress.label>ударник чёрной императрицы</VFEI2_Thumper_BlackEmpress.label>
 </LanguageData>

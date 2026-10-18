@@ -1,5 +1,13 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
+  <BS_CreateArchiteXenogerm.comps.1.useLabel>Использовать: {0_label}</BS_CreateArchiteXenogerm.comps.1.useLabel>
+  <BS_CreateArchiteXenogerm_Endo.comps.1.useLabel>Использовать: {0_label}</BS_CreateArchiteXenogerm_Endo.comps.1.useLabel>
+  <BS_CreateXenogerm.comps.1.useLabel>Использовать: {0_label}</BS_CreateXenogerm.comps.1.useLabel>
+  <BS_CreateXenogerm_Endo.comps.1.useLabel>Использовать: {0_label}</BS_CreateXenogerm_Endo.comps.1.useLabel>
+  <BS_GeneDicombobulator.comps.1.useLabel>Использовать: {0_label}</BS_GeneDicombobulator.comps.1.useLabel>
+  <BS_GeneGeneIntegrator.comps.1.useLabel>Использовать: {0_label}</BS_GeneGeneIntegrator.comps.1.useLabel>
+  <BS_Giant_Serum.comps.1.useLabel>Использовать: {0_label}</BS_Giant_Serum.comps.1.useLabel>
+  <BS_Shrink_Serum.comps.1.useLabel>Использовать: {0_label}</BS_Shrink_Serum.comps.1.useLabel>
   <BS_Bullet_JotunRifle.label>пуля крупнокалиберной винтовки</BS_Bullet_JotunRifle.label>
   <BS_ChunkProjectile.label>метательный камень</BS_ChunkProjectile.label>
   <BS_CreateArchiteXenogerm.comps.0.useLabel>Использовать {0_label}</BS_CreateArchiteXenogerm.comps.0.useLabel>
@@ -30,10 +38,12 @@
   <BS_GiantHammer.tools.1.label>боёк молота</BS_GiantHammer.tools.1.label>
   <BS_GiantMinigun.description>Чудовищно большой многоствольный пулемёт. Он неповоротлив и явно предназначен для установки на транспорт или меха. Оружие ведёт подавляющий огонь без прицеливания, а ленточная подача патронов позволяет долго стрелять без перезарядки.\n\nМогут использовать великаны, геркулесы и бойцы в боевых саркофагах.</BS_GiantMinigun.description>
   <BS_GiantMinigun.label>пулемёт боевого меха</BS_GiantMinigun.label>
+  <BS_GiantMinigun.verbs.0.label>пулемёт боевого меха</BS_GiantMinigun.verbs.0.label>
   <BS_GiantMinigun.tools.0.label>стволы</BS_GiantMinigun.tools.0.label>
   <BS_GiantMinigunBullet.label>пуля минигана</BS_GiantMinigunBullet.label>
   <BS_GiantPrimitiveBow.description>Огромный лук, стреляющий стрелами, рядом с которыми человеческие дротики кажутся крошечными. Это оружие могут использовать только великаны.</BS_GiantPrimitiveBow.description>
   <BS_GiantPrimitiveBow.label>Лук великана</BS_GiantPrimitiveBow.label>
+  <BS_GiantPrimitiveBow.verbs.0.label>Лук великана</BS_GiantPrimitiveBow.verbs.0.label>
   <BS_GiantPrimitiveBow.tools.0.label>плечо лука</BS_GiantPrimitiveBow.tools.0.label>
   <BS_Giant_Serum.comps.0.useLabel>Использовать {0_label}</BS_Giant_Serum.comps.0.useLabel>
   <BS_Giant_Serum.description>Сыворотка, увеличивающая животное сверх обычного размера. Сильнее всего действует на мелких животных.</BS_Giant_Serum.description>
@@ -44,15 +54,18 @@
   <BS_JotunHammer.tools.1.label>боёк</BS_JotunHammer.tools.1.label>
   <BS_JotunJavelin.description>Эти огромные дротики предназначены прежде всего для метания, но приемлемы и в ближнем бою. Бросок требует много времени, однако одно попадание может нанести сокрушительный урон. Крайне плохо пробивают тяжёлую броню.\n\nМогут использовать великаны, геркулесы и бойцы в боевых саркофагах.</BS_JotunJavelin.description>
   <BS_JotunJavelin.label>Огромный дротик</BS_JotunJavelin.label>
+  <BS_JotunJavelin.verbs.0.label>Огромный дротик</BS_JotunJavelin.verbs.0.label>
   <BS_JotunJavelin.tools.0.label>древко</BS_JotunJavelin.tools.0.label>
   <BS_JotunJavelin.tools.1.label>остриё</BS_JotunJavelin.tools.1.label>
   <BS_JotunJavelinProjectile.label>дротик великана</BS_JotunJavelinProjectile.label>
   <BS_JotunRifle.description>Тяжёлая винтовка для боевого меха, предназначенная против других мехов и тяжёлой военной техники.\n\nОружие слишком велико для обычного человека, даже если бы тот смог справиться с чудовищной отдачей.\n\nМогут использовать великаны, геркулесы и бойцы в боевых саркофагах.</BS_JotunRifle.description>
   <BS_JotunRifle.label>крупнокалиберная винтовка боевого меха</BS_JotunRifle.label>
+  <BS_JotunRifle.verbs.0.label>крупнокалиберная винтовка боевого меха</BS_JotunRifle.verbs.0.label>
   <BS_JotunRifle.tools.0.label>приклад</BS_JotunRifle.tools.0.label>
   <BS_JotunRifle.tools.1.label>ствол</BS_JotunRifle.tools.1.label>
   <BS_JotunRocketLauncher.description>Тяжёлый ракетомёт, первоначально предназначенный для приваривания к боевому меху и борьбы с другими мехами и тяжёлой военной техникой.\n\nОружие слишком велико для обычного человека, даже если бы тот смог справиться с чудовищной отдачей.\n\nМогут использовать великаны, геркулесы и бойцы в боевых саркофагах.</BS_JotunRocketLauncher.description>
   <BS_JotunRocketLauncher.label>Ракетомёт боевого меха</BS_JotunRocketLauncher.label>
+  <BS_JotunRocketLauncher.verbs.0.label>Ракетомёт боевого меха</BS_JotunRocketLauncher.verbs.0.label>
   <BS_JotunRocketLauncher.tools.0.label>приклад</BS_JotunRocketLauncher.tools.0.label>
   <BS_JotunRocketLauncher.tools.1.label>ствол</BS_JotunRocketLauncher.tools.1.label>
   <BS_OgreClub.description>Огромная тяжёлая дубина, которой обычный человек не сможет орудовать.</BS_OgreClub.description>
@@ -61,6 +74,7 @@
   <BS_OgreClub.tools.1.label>боёк</BS_OgreClub.tools.1.label>
   <BS_OgreThrowinRock.description>Эти крупные камни грубо обтесали для метания во врагов.\n\nМогут использовать великаны, геркулесы и бойцы в боевых саркофагах.</BS_OgreThrowinRock.description>
   <BS_OgreThrowinRock.label>Камни для метания</BS_OgreThrowinRock.label>
+  <BS_OgreThrowinRock.verbs.0.label>Камни для метания</BS_OgreThrowinRock.verbs.0.label>
   <BS_OgreThrowinRock.tools.0.label>камень</BS_OgreThrowinRock.tools.0.label>
   <BS_Rocket.label>ракета</BS_Rocket.label>
   <BS_Shrink_Serum.comps.0.useLabel>Использовать {0_label}</BS_Shrink_Serum.comps.0.useLabel>

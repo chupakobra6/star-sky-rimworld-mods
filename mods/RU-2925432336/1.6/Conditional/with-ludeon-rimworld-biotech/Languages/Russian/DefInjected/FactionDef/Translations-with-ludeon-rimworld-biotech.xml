@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BS_PlayerColonyXenoPlus.description>Колония недавно прибывших переселенцев с других планет, оказавшихся в мире с большим разнообразием ксенотипов.</BS_PlayerColonyXenoPlus.description>
+  <BS_PlayerColonyXenoPlus.label>Прибывшие ксенолюди</BS_PlayerColonyXenoPlus.label>
+  <BS_PlayerColonyXenoPlus.leaderTitle>лидер</BS_PlayerColonyXenoPlus.leaderTitle>
+  <BS_PlayerColonyXenoPlus.messageDefendersAttacking>{0} из фракции {1} атакуют ваших {lookup: {2}; Case; 3}.</BS_PlayerColonyXenoPlus.messageDefendersAttacking>
+  <BS_PlayerColonyXenoPlus.pawnSingular>поселенец</BS_PlayerColonyXenoPlus.pawnSingular>
+  <BS_PlayerColonyXenoPlus.pawnsPlural>поселенцы</BS_PlayerColonyXenoPlus.pawnsPlural>
+  <BS_PlayerTribeXenoPlus.description>Небольшое племя на планете с большим разнообразием ксенотипов.</BS_PlayerTribeXenoPlus.description>
+  <BS_PlayerTribeXenoPlus.label>Новое ксеноплемя</BS_PlayerTribeXenoPlus.label>
+  <BS_PlayerTribeXenoPlus.leaderTitle>лидер</BS_PlayerTribeXenoPlus.leaderTitle>
+  <BS_PlayerTribeXenoPlus.messageDefendersAttacking>{0} из фракции {1} атакуют ваших {lookup: {2}; Case; 3}.</BS_PlayerTribeXenoPlus.messageDefendersAttacking>
+  <BS_PlayerTribeXenoPlus.pawnSingular>соплеменник</BS_PlayerTribeXenoPlus.pawnSingular>
+  <BS_PlayerTribeXenoPlus.pawnsPlural>соплеменники</BS_PlayerTribeXenoPlus.pawnsPlural>
+</LanguageData>

@@ -1,5 +1,11 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
+  <BATR_Install_Bouncer_Frame.jobString>Заменяет шасси.</BATR_Install_Bouncer_Frame.jobString>
+  <BATR_Install_Jotun_Frame.jobString>Заменяет шасси.</BATR_Install_Jotun_Frame.jobString>
+  <BATR_Install_MechanicFrame.jobString>Заменяет шасси.</BATR_Install_MechanicFrame.jobString>
+  <BATR_Install_Ogre_Frame.jobString>Заменяет шасси.</BATR_Install_Ogre_Frame.jobString>
+  <BATR_Install_Roomba_Frame.jobString>Заменяет шасси.</BATR_Install_Roomba_Frame.jobString>
+  <BATR_Install_Titan_Frame.jobString>Заменяет шасси.</BATR_Install_Titan_Frame.jobString>
   <BATR_Install_Bouncer_Frame.description>Заменяет шасси устройства на «Вышибалу», предназначенного выдерживать удары и пугать своим видом. Вдобавок подходит для тяжёлого труда.</BATR_Install_Bouncer_Frame.description>
   <BATR_Install_Bouncer_Frame.label>Установить шасси «Вышибала»</BATR_Install_Bouncer_Frame.label>
   <BATR_Install_Jotun_Frame.description>Заменяет шасси устройства на огромное шасси для добычи руды, переноски грузов и боя.</BATR_Install_Jotun_Frame.description>

@@ -18,11 +18,6 @@
   <HAR.Options.TextureLoadingLogs_Tooltip>Вкл.: при запуске выводится журнал загрузки текстур.
 Выкл.: журнал загрузки текстур и подробные сведения не выводятся.
 Предназначено для разработки и отладки модов рас.</HAR.Options.TextureLoadingLogs_Tooltip>
-  <HAR.OutfitStandBodyCommandDesc>Изменить отображаемое тело.
-Это может изменить доступную одежду.</HAR.OutfitStandBodyCommandDesc>
-  <HAR.OutfitStandHeadCommandDesc>Изменить отображаемую голову.</HAR.OutfitStandHeadCommandDesc>
-  <HAR.OutfitStandRaceCommandDesc>Изменить отображаемую расу.
-Это может изменить доступную одежду.</HAR.OutfitStandRaceCommandDesc>
   <HAR.RaceFeatures>Расовые особенности</HAR.RaceFeatures>
   <HAR.RandomizeColors>Выбрать случайно</HAR.RandomizeColors>
   <HAR.ReproductionNotAllowed>{genderOne} {raceOne} не может размножаться с {genderTwo} {raceTwo}</HAR.ReproductionNotAllowed>

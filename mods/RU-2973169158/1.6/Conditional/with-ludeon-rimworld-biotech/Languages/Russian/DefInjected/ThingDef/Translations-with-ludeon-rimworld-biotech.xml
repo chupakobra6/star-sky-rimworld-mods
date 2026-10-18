@@ -17,6 +17,7 @@
   <AM_BeamGraserCannon.description>Лазерное оружие гамма-диапазона, уничтожающее цели высокоэнергетическим лучом на огромных расстояниях. Луч движется по целям и пробивает даже самую прочную броню, а невероятная мощность позволяет испарять целые отряды солдат за считаные секунды.</AM_BeamGraserCannon.description>
   <AM_BeamGraserCannon.label>гамма-лазерная пушка</AM_BeamGraserCannon.label>
   <AM_BeamGraserCannon.tools.barrel.label>ствол</AM_BeamGraserCannon.tools.barrel.label>
+  <AM_BeamGraserCannon.verbs.Verb_ShootBeam.label>гамма-лазерная пушка</AM_BeamGraserCannon.verbs.Verb_ShootBeam.label>
   <AM_BeamcasterBandNode.description>Усилитель сигнала управления механоидами. Узел настраивается на конкретного механитора и увеличивает его пропускную способность на 2, позволяя контролировать больше механоидов.
 
 После постройки узел настраивается быстро, но перенастройка на другого механитора занимает значительно больше времени.</AM_BeamcasterBandNode.description>
@@ -54,10 +55,12 @@
   <AM_Gun_AcidSpewer.description>Разрушительное оружие, обрушивающее на цель поток кислотной жижи. Передовые химические резервуары и распылители позволяют заливать большую площадь едкой кислотой, растворяющей даже самые прочные материалы.</AM_Gun_AcidSpewer.description>
   <AM_Gun_AcidSpewer.label>кислотомёт</AM_Gun_AcidSpewer.label>
   <AM_Gun_AcidSpewer.tools.barrel.label>ствол</AM_Gun_AcidSpewer.tools.barrel.label>
+  <AM_Gun_AcidSpewer.verbs.Verb_Shoot.label>кислотомёт</AM_Gun_AcidSpewer.verbs.Verb_Shoot.label>
   <AM_Gun_CoilLance.description>Оружие механоидов, разгоняющее пробивные металлические снаряды электромагнитным полем до огромной скорости.</AM_Gun_CoilLance.description>
   <AM_Gun_CoilLance.label>электромагнитное копьё</AM_Gun_CoilLance.label>
   <AM_Gun_CoilLance.tools.barrel.label>ствол</AM_Gun_CoilLance.tools.barrel.label>
   <AM_Gun_CoilLance.tools.stock.label>приклад</AM_Gun_CoilLance.tools.stock.label>
+  <AM_Gun_CoilLance.verbs.Verb_Shoot.label>электромагнитное копьё</AM_Gun_CoilLance.verbs.Verb_Shoot.label>
   <AM_Gun_CoilLance_Projectile.label>снаряд электромагнитного копья</AM_Gun_CoilLance_Projectile.label>
   <AM_Gun_HeavyLaser.description>Мощное энергетическое оружие, поражающее цель обжигающим лучом сфокусированного света. Способно прорезать даже самую прочную броню.</AM_Gun_HeavyLaser.description>
   <AM_Gun_HeavyLaser.label>тяжёлый лазер</AM_Gun_HeavyLaser.label>
@@ -67,18 +70,25 @@
   <AM_Gun_HellsphereOrbital.description>Луч наведения, отмечающий точку на земле для удара с орбитальной ракетной платформы. Наводится очень, очень долго, зато удар накрывает большую площадь.</AM_Gun_HellsphereOrbital.description>
   <AM_Gun_HellsphereOrbital.label>целеуказатель орбитального удара</AM_Gun_HellsphereOrbital.label>
   <AM_Gun_HellsphereOrbital.tools.barrel.label>ствол</AM_Gun_HellsphereOrbital.tools.barrel.label>
+  <AM_Gun_HellsphereOrbital.verbs.Verb_Shoot.label>целеуказатель орбитального удара</AM_Gun_HellsphereOrbital.verbs.Verb_Shoot.label>
   <AM_Gun_MiniNeedle.description>Дальнобойное оружие артиллеронов. Очень точно стреляет на огромные расстояния, но наносит совсем небольшой урон.</AM_Gun_MiniNeedle.description>
   <AM_Gun_MiniNeedle.label>мини-игломёт</AM_Gun_MiniNeedle.label>
   <AM_Gun_MiniNeedle.tools.barrel.label>ствол</AM_Gun_MiniNeedle.tools.barrel.label>
+  <AM_Gun_MiniNeedle.verbs.Verb_Shoot.label>мини-игломёт</AM_Gun_MiniNeedle.verbs.Verb_Shoot.label>
   <AM_Gun_SniperTurret.description>Мощное дальнобойное оборонительное оружие. Выпускает с огромной скоростью снаряды из обеднённого урана, способные пробивать даже самую прочную броню.</AM_Gun_SniperTurret.description>
   <AM_Gun_SniperTurret.label>снайперская турель</AM_Gun_SniperTurret.label>
+  <AM_Gun_SniperTurret.verbs.Verb_Shoot.label>снайперская турель</AM_Gun_SniperTurret.verbs.Verb_Shoot.label>
   <AM_Gun_SoulDrainTurret.description>Ужасающее оружие, высасывающее душу жертвы. Оно отнимает жизненную силу у органических существ, ослабляя их и делая уязвимыми.</AM_Gun_SoulDrainTurret.description>
   <AM_Gun_SoulDrainTurret.label>турель апоптоза</AM_Gun_SoulDrainTurret.label>
+  <AM_Gun_SoulDrainTurret.verbs.Verb_Shoot.label>турель апоптоза</AM_Gun_SoulDrainTurret.verbs.Verb_Shoot.label>
   <AM_Gun_SuperHeavyChargeBlaster.description>Более мощная и опасная версия зарядного бластера. Стреляет более длинными очередями, причём каждый выстрел наносит немного больше урона.</AM_Gun_SuperHeavyChargeBlaster.description>
   <AM_Gun_SuperHeavyChargeBlaster.label>сверхтяжёлый зарядный бластер</AM_Gun_SuperHeavyChargeBlaster.label>
   <AM_Gun_SuperHeavyChargeBlaster.tools.barrel.label>ствол</AM_Gun_SuperHeavyChargeBlaster.tools.barrel.label>
+  <AM_Gun_SuperHeavyChargeBlaster.verbs.Verb_Shoot.label>сверхтяжёлый зарядный бластер</AM_Gun_SuperHeavyChargeBlaster.verbs.Verb_Shoot.label>
   <AM_Gun_TacticalShotgun.description>Скорострельный дробовик для ближнего боя, предназначенный для установки на лёгкого боевого механоида.</AM_Gun_TacticalShotgun.description>
   <AM_Gun_TacticalShotgun.label>тактический дробовик</AM_Gun_TacticalShotgun.label>
+  <AM_Gun_TacticalShotgun.tools.barrel.label>ствол</AM_Gun_TacticalShotgun.tools.barrel.label>
+  <AM_Gun_TacticalShotgun.verbs.Verb_Shoot.label>тактический дробовик</AM_Gun_TacticalShotgun.verbs.Verb_Shoot.label>
   <AM_HyperLinkageChip.comps.CompAnalyzableUnlockResearch.activateDescString>Проанализировать чип гиперсвязи.</AM_HyperLinkageChip.comps.CompAnalyzableUnlockResearch.activateDescString>
   <AM_HyperLinkageChip.comps.CompAnalyzableUnlockResearch.activateLabelString>Проанализировать...</AM_HyperLinkageChip.comps.CompAnalyzableUnlockResearch.activateLabelString>
   <AM_HyperLinkageChip.comps.CompAnalyzableUnlockResearch.completedLetter>После изучения чипа гиперсвязи {PAWN_labelShort} располагает знаниями, необходимыми для открытия исследований: {RESEARCH}.
@@ -138,6 +148,7 @@
 
 &lt;color=#E5E54C&gt;В игре:&lt;/color&gt; Выполняет кухонные работы с навыком кулинарии 15 и скоростью работы 150%.</AM_Mech_MasterChef.description>
   <AM_Mech_MasterChef.label>кулинар</AM_Mech_MasterChef.label>
+  <AM_Mech_MasterChef.tools.head.label>голова</AM_Mech_MasterChef.tools.head.label>
   <AM_Mech_Munifex.description>Грозный боевой механоид размером с человека, специально созданный для дальнего боя. Вооружён электромагнитным копьём: его катушки разгоняют снаряды до невероятной скорости. Они пробивают почти любую защиту, включая толстые бронеплиты и железобетон.
 
 &lt;color=#E5E54C&gt;В игре:&lt;/color&gt; Да, этот механоид стреляет по своим. Да, именно так и задумано. Осторожнее!</AM_Mech_Munifex.description>
@@ -147,8 +158,18 @@
   <AM_Mech_Munifex.tools.right_fist.label>правый кулак</AM_Mech_Munifex.tools.right_fist.label>
   <AM_Mech_Optio.description>Элитный механоид боевой поддержки с роторным игломётом. Усиленная броня выдерживает мощный огонь, а энергетический щит прикрывает ближайших союзников. Оптио быстро приспосабливается к меняющейся обстановке и оказывает важную поддержку другим механоидам.</AM_Mech_Optio.description>
   <AM_Mech_Optio.label>оптио</AM_Mech_Optio.label>
+  <AM_Mech_Optio.tools.head.label>голова</AM_Mech_Optio.tools.head.label>
+  <AM_Mech_Optio.tools.left_fist.label>левый кулак</AM_Mech_Optio.tools.left_fist.label>
+  <AM_Mech_Optio.tools.left_fist.labelNoLocation>кулак</AM_Mech_Optio.tools.left_fist.labelNoLocation>
+  <AM_Mech_Optio.tools.right_fist.label>правый кулак</AM_Mech_Optio.tools.right_fist.label>
+  <AM_Mech_Optio.tools.right_fist.labelNoLocation>кулак</AM_Mech_Optio.tools.right_fist.labelNoLocation>
   <AM_Mech_Polychoron.description>Тяжёлый боевой механоид с гамма-лазерной пушкой, наносящей огромный урон бронированным целям. Недостаток подвижности компенсируется сфокусированными энергетическими лучами, пробивающими большинство защитных щитов.</AM_Mech_Polychoron.description>
   <AM_Mech_Polychoron.label>полихорон</AM_Mech_Polychoron.label>
+  <AM_Mech_Polychoron.tools.head.label>голова</AM_Mech_Polychoron.tools.head.label>
+  <AM_Mech_Polychoron.tools.left_fist.label>левый кулак</AM_Mech_Polychoron.tools.left_fist.label>
+  <AM_Mech_Polychoron.tools.left_fist.labelNoLocation>кулак</AM_Mech_Polychoron.tools.left_fist.labelNoLocation>
+  <AM_Mech_Polychoron.tools.right_fist.label>правый кулак</AM_Mech_Polychoron.tools.right_fist.label>
+  <AM_Mech_Polychoron.tools.right_fist.labelNoLocation>кулак</AM_Mech_Polychoron.tools.right_fist.labelNoLocation>
   <AM_Mech_PristineAssembler.description>Автоматическая передвижная фабрика механоидов. Сборщик эффективно преобразует энергию в материю: передовая система молекулярной сборки с поразительной точностью создаёт из неё полезные материалы. Этой модели не нужно потреблять органику для поддержания процесса — она совместима с обычными зарядными станциями механоидов.
 
 &lt;color=#E5E54C&gt;В игре:&lt;/color&gt; Каждые 24 часа производит 10 единиц случайно выбранного ресурса: стали, золота, урана, пластали, серебра, Go-сока, хлопьев психина, порошка психина, шоколада, синткани, ткани, нефрита, дьявлоткани, шерсти муффало, толстой шкуры, разрывных снарядов, медикаментов, нейтроамина, химтоплива или компонентов.</AM_Mech_PristineAssembler.description>
@@ -172,9 +193,12 @@
   <AM_Mech_TurboCleaner.tools.head-1.label>голова</AM_Mech_TurboCleaner.tools.head-1.label>
   <AM_MechanoidGunRotaryNeedle.description>Универсальное оружие, выпускающее непрерывный поток игловидных снарядов. Вращающийся ствол позволяет долго вести огонь, эффективно подавляя многочисленных врагов. Роторный игломёт уступает однозарядной модели в точности, но с лихвой компенсирует это скорострельностью и возможностью обстреливать большие площади.</AM_MechanoidGunRotaryNeedle.description>
   <AM_MechanoidGunRotaryNeedle.label>роторный игломёт</AM_MechanoidGunRotaryNeedle.label>
+  <AM_MechanoidGunRotaryNeedle.tools.barrel.label>ствол</AM_MechanoidGunRotaryNeedle.tools.barrel.label>
+  <AM_MechanoidGunRotaryNeedle.verbs.Verb_Shoot.label>роторный игломёт</AM_MechanoidGunRotaryNeedle.verbs.Verb_Shoot.label>
   <AM_MechanoidMortar.description>Небольшой миномёт, установленный на механоиде и стреляющий разрывными снарядами.</AM_MechanoidMortar.description>
   <AM_MechanoidMortar.label>миномёт</AM_MechanoidMortar.label>
   <AM_MechanoidMortar.tools.barrel.label>ствол</AM_MechanoidMortar.tools.barrel.label>
+  <AM_MechanoidMortar.verbs.Verb_Shoot.label>миномёт</AM_MechanoidMortar.verbs.Verb_Shoot.label>
   <AM_MortarCanister.label>разрывной снаряд</AM_MortarCanister.label>
   <AM_PristineStrider.description>Усовершенствованная версия автошагохода, выращенная механитами. Большая грузоподъёмность делает его отличным спутником в долгих караванных переходах. Персонажи также могут ездить на нём верхом, чтобы быстрее путешествовать.</AM_PristineStrider.description>
   <AM_PristineStrider.label>исправный шагоход</AM_PristineStrider.label>
@@ -198,12 +222,14 @@
   <AM_SiegemelterTurret.description>Гигантский огнемёт на шасси осадного разрушителя. Температура его пламени невероятно высока.</AM_SiegemelterTurret.description>
   <AM_SiegemelterTurret.label>осадный огнемёт</AM_SiegemelterTurret.label>
   <AM_SiegemelterTurret.tools.barrel.label>ствол</AM_SiegemelterTurret.tools.barrel.label>
+  <AM_SiegemelterTurret.verbs.Verb_Shoot.label>осадный огнемёт</AM_SiegemelterTurret.verbs.Verb_Shoot.label>
   <AM_Starfire.description>Огромный танкоподобный механоид с мощной пушкой, стреляющей очень медленными нестабильными сингулярностями. Их создаёт сложный термоядерный реактор в центре машины: через микроскопические телепортационные врата он забирает энергию соседних звёзд и усиливает её. Сингулярности высвобождают чудовищную энергию, способную одним взрывом уничтожить целое здание. Вторичные разряды перебрасываются на ближайшие цели. Толстая броня и развитые системы наведения позволяют «Звёздному огню» сеять разрушение издалека. Из-за огромного расхода энергии его применяют лишь в крайних случаях, когда эта разрушительная мощь нужна, чтобы переломить ход сражения.</AM_Starfire.description>
   <AM_Starfire.label>звёздный огонь</AM_Starfire.label>
   <AM_Starfire.tools.head.label>голова</AM_Starfire.tools.head.label>
   <AM_StarfireTurret.description>Гигантская пушка на шасси осадного разрушителя. Выпускает медленно летящую нестабильную сингулярность, которая при столкновении уничтожает всё на своём пути.</AM_StarfireTurret.description>
   <AM_StarfireTurret.label>пушка «Звёздный огонь»</AM_StarfireTurret.label>
   <AM_StarfireTurret.tools.barrel.label>ствол</AM_StarfireTurret.tools.barrel.label>
+  <AM_StarfireTurret.verbs.Verb_Shoot.label>пушка «Звёздный огонь»</AM_StarfireTurret.verbs.Verb_Shoot.label>
   <AM_StellarProcessingChip.comps.CompAnalyzableUnlockResearch.activateDescString>Проанализировать звёздный процессорный чип.</AM_StellarProcessingChip.comps.CompAnalyzableUnlockResearch.activateDescString>
   <AM_StellarProcessingChip.comps.CompAnalyzableUnlockResearch.activateLabelString>Проанализировать...</AM_StellarProcessingChip.comps.CompAnalyzableUnlockResearch.activateLabelString>
   <AM_StellarProcessingChip.comps.CompAnalyzableUnlockResearch.completedLetter>После изучения звёздного процессорного чипа {PAWN_labelShort} располагает знаниями, необходимыми для открытия исследований: {RESEARCH}.
@@ -220,6 +246,7 @@
   <AM_TeslaGun.description>Грозное энергетическое оружие, обрушивающее на цель электромагнитную энергию. Одним ЭМИ-импульсом может оглушить и вывести из строя механоида. Одновременно выпускает обжигающий электрический разряд, прожигающий органические цели.</AM_TeslaGun.description>
   <AM_TeslaGun.label>цепная пушка Теслы</AM_TeslaGun.label>
   <AM_TeslaGun.tools.barrel.label>ствол</AM_TeslaGun.tools.barrel.label>
+  <AM_TeslaGun.verbs.Verb_Shoot.label>цепная пушка Теслы</AM_TeslaGun.verbs.Verb_Shoot.label>
   <AM_VoidlinkPack.description>Ранец с пустотным ретранслятором, открывающим доступ к огромным массивам данных в сети механоидов этой системы. Многократно увеличивает максимальную пропускную способность механитора.</AM_VoidlinkPack.description>
   <AM_VoidlinkPack.label>ранец пустотной связи</AM_VoidlinkPack.label>
   <AM_WarEmpress.description>Сверхтяжёлый механоид со встроенным гестатором. Получив необходимые ресурсы, выращивает внутри массивного панциря множество оборванцев — небольших механоидов ближнего боя — и выпускает их в бой. Вооружена крайне опасной дальнобойной снайперской турелью, под огонь которой лучше не попадать. Но главная угроза — острые разрывающие когти, которыми она яростно кромсает противников.</AM_WarEmpress.description>

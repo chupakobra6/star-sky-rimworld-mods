@@ -1,0 +1,11 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFES_Gun_NonLethalTurret.description>Нелетальное оружие с резиновыми пулями для установки на турель.</VFES_Gun_NonLethalTurret.description>
+  <VFES_Gun_NonLethalTurret.label>оружие нелетальной турели</VFES_Gun_NonLethalTurret.label>
+  <VFES_Gun_NonLethalTurret.verbs.0.label>оружие нелетальной турели</VFES_Gun_NonLethalTurret.verbs.0.label>
+  <VFES_Turret_NonLethalTurret.comps.5.fuelGizmoLabel>Прочность ствола</VFES_Turret_NonLethalTurret.comps.5.fuelGizmoLabel>
+  <VFES_Turret_NonLethalTurret.comps.5.fuelLabel>Выстрелов до замены ствола</VFES_Turret_NonLethalTurret.comps.5.fuelLabel>
+  <VFES_Turret_NonLethalTurret.comps.5.outOfFuelMessage>Требуется новый ствол</VFES_Turret_NonLethalTurret.comps.5.outOfFuelMessage>
+  <VFES_Turret_NonLethalTurret.description>Турель, стреляющая резиновыми пулями по вторженцам или непокорным поселенцам. Вызывает боль и травмы от ударов с низкой вероятностью смертельного ранения, поэтому отлично подходит для нелетального подавления. При повреждении может взорваться. Её примитивным ИИ нельзя управлять напрямую, поэтому берегитесь дружественного огня.</VFES_Turret_NonLethalTurret.description>
+  <VFES_Turret_NonLethalTurret.label>нелетальная турель</VFES_Turret_NonLethalTurret.label>
+</LanguageData>

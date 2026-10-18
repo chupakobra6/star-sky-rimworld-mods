@@ -1,5 +1,7 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
+  <Addie_RimecrystalStaff.description>Этот прекрасный и смертоносный посох заряжен магической энергией и позволяет обрушивать на врагов шквал магических снарядов.\n\nЩиты нельзя использовать вместе с этим оружием: они нарушают потоки магической энергии вокруг заклинателя.</Addie_RimecrystalStaff.description>
+  <Addie_RimecrystalStaff.tools.0.label>древко</Addie_RimecrystalStaff.tools.0.label>
   <Addie_Icicle_Rimebow.label>инеевая сосулька</Addie_Icicle_Rimebow.label>
   <Addie_MagicBolt_Staff_Rimecrystal.label>эффект посоха из инеекристалла</Addie_MagicBolt_Staff_Rimecrystal.label>
   <Addie_RimecrystalAxe.description>Кусок зачарованного инеекристалла в форме боевого топора.\n\nОружие из инеекристалла впервые выковали во время падения Иллы, поэтому в нём нет ожидаемого от илланской культуры изящества — лишь жестокая, холодная ненависть.</Addie_RimecrystalAxe.description>
@@ -13,12 +15,14 @@
   <Addie_RimecrystalDagger.tools.2.label>лезвие</Addie_RimecrystalDagger.tools.2.label>
   <Addie_RimecrystalGreatbow.description>Волшебный большой лук из гладкого инеекристалла.\n\nЧтобы избавиться от славы плохих стрелков, илланцы компенсировали своё неумение целиться хрустальными луками с чарами, корректирующими полёт снарядов.\n\nЭтот лук с неестественной точностью выпускает волшебные снаряды, вызывающие обморожение, на большие расстояния поверх стен, но почти бесполезен вблизи.</Addie_RimecrystalGreatbow.description>
   <Addie_RimecrystalGreatbow.label>большой лук из инеекристалла</Addie_RimecrystalGreatbow.label>
+  <Addie_RimecrystalGreatbow.verbs.0.label>большой лук из инеекристалла</Addie_RimecrystalGreatbow.verbs.0.label>
   <Addie_RimecrystalGreatbow.tools.0.label>плечо</Addie_RimecrystalGreatbow.tools.0.label>
   <Addie_RimecrystalSpear.description>Кусок зачарованного инеекристалла в форме копья.\n\nОружие из инеекристалла впервые выковали во время падения Иллы, поэтому в нём нет ожидаемого от илланской культуры изящества — лишь жестокая, холодная ненависть.</Addie_RimecrystalSpear.description>
   <Addie_RimecrystalSpear.label>копьё из инеекристалла</Addie_RimecrystalSpear.label>
   <Addie_RimecrystalSpear.tools.0.label>древко</Addie_RimecrystalSpear.tools.0.label>
   <Addie_RimecrystalSpear.tools.1.label>остриё</Addie_RimecrystalSpear.tools.1.label>
   <Addie_RimecrystalStaff.label>посох из инеекристалла</Addie_RimecrystalStaff.label>
+  <Addie_RimecrystalStaff.verbs.0.label>посох из инеекристалла</Addie_RimecrystalStaff.verbs.0.label>
   <Addie_RimecrystalSword.description>Кусок зачарованного инеекристалла в форме меча.\n\nОружие из инеекристалла впервые выковали во время падения Иллы, поэтому в нём нет ожидаемого от илланской культуры изящества — лишь жестокая, холодная ненависть.</Addie_RimecrystalSword.description>
   <Addie_RimecrystalSword.label>меч из инеекристалла</Addie_RimecrystalSword.label>
   <Addie_RimecrystalSword.tools.0.label>рукоять</Addie_RimecrystalSword.tools.0.label>

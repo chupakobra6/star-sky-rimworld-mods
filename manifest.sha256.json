@@ -565,8 +565,8 @@
     },
     {
       "path": "catalog/translations.md",
-      "bytes": 60359,
-      "sha256": "ee17d64b4352cf364712fc2054eeafd1566d90d7d978b577dc30abf7b8a8d990"
+      "bytes": 59672,
+      "sha256": "1889a3f2c89bcc2ce58df96dcc66f3b10458e4271f13133ca9503e34d4964d4f"
     },
     {
       "path": "mods/CharacterEditor-Fixes/About/About.xml",
@@ -980,8 +980,8 @@
     },
     {
       "path": "mods/RU-1541721856/1.6/Conditional/condition-6068c450b35d9b3466c54bb9d86d8cd6943eb764c29be47c051a12a276e8b515/Languages/Russian/DefInjected/DamageDef/Translations-condition-6068c450b35d9b3466c54bb9d86d8cd6943eb764c29be47c051a12a276e8b515.xml",
-      "bytes": 170,
-      "sha256": "0ea068f78f88a3b7bf3fe4ec8d388b0940b5a1becb630bde11717bfa889c4ac6"
+      "bytes": 286,
+      "sha256": "f42481c2effde6d75121f060b6290808d8b5d3ebea19815bbfe88c66bcd9bb44"
     },
     {
       "path": "mods/RU-1541721856/1.6/Conditional/condition-6068c450b35d9b3466c54bb9d86d8cd6943eb764c29be47c051a12a276e8b515/Languages/Russian/DefInjected/HediffDef/Translations-condition-6068c450b35d9b3466c54bb9d86d8cd6943eb764c29be47c051a12a276e8b515.xml",
@@ -1000,8 +1000,8 @@
     },
     {
       "path": "mods/RU-1541721856/1.6/Conditional/condition-6068c450b35d9b3466c54bb9d86d8cd6943eb764c29be47c051a12a276e8b515/Languages/Russian/DefInjected/ThingDef/Translations-condition-6068c450b35d9b3466c54bb9d86d8cd6943eb764c29be47c051a12a276e8b515.xml",
-      "bytes": 11966,
-      "sha256": "31bc114ca78c52981fa91fb57e6774f154609ec60a82142950f3849e889e5085"
+      "bytes": 12035,
+      "sha256": "be8b564e5bbb9eb3111a1c4b4b5fddc60e17db8384e4ffb778a6bc95da622d61"
     },
     {
       "path": "mods/RU-1541721856/1.6/Conditional/condition-6068c450b35d9b3466c54bb9d86d8cd6943eb764c29be47c051a12a276e8b515/Languages/Russian/DefInjected/ThoughtDef/Translations-condition-6068c450b35d9b3466c54bb9d86d8cd6943eb764c29be47c051a12a276e8b515.xml",
@@ -1040,8 +1040,8 @@
     },
     {
       "path": "mods/RU-1541721856/1.6/Conditional/with-biomesteam-biomesislands/Languages/Russian/DefInjected/LifeStageDef/Translations-with-biomesteam-biomesislands.xml",
-      "bytes": 299,
-      "sha256": "280b4d7ced2d5492dfcaee7f2aa210eec87e8cfa6bc4b88b2ddde1b2e7e5c366"
+      "bytes": 395,
+      "sha256": "f4bee39f08c50abf0ed494cff691b075e6c38afaa8be65bb3bee1a3c1c35e241"
     },
     {
       "path": "mods/RU-1541721856/1.6/Conditional/with-biomesteam-biomesislands/Languages/Russian/DefInjected/PawnKindDef/Translations-with-biomesteam-biomesislands.xml",
@@ -1110,8 +1110,8 @@
     },
     {
       "path": "mods/RU-1541721856/1.6/Conditional/with-oskarpotocki-vfe-insectoid2/Languages/Russian/DefInjected/ThingDef/Translations-with-oskarpotocki-vfe-insectoid2.xml",
-      "bytes": 13878,
-      "sha256": "439eeab3f45be3770c19b31188cbfc834a21efb18f95ed21a51b4cf93a8fb224"
+      "bytes": 14651,
+      "sha256": "983980f19143703ad788d67af2d9850b49dd21ce9318b95c53a06002c81ef49b"
     },
     {
       "path": "mods/RU-1541721856/1.6/Conditional/with-oskarpotocki-vfe-insectoid2/Languages/Russian/DefInjected/ThoughtDef/Translations-with-oskarpotocki-vfe-insectoid2.xml",
@@ -1171,7 +1171,7 @@
     {
       "path": "mods/RU-1541721856/About/About.xml",
       "bytes": 2422,
-      "sha256": "cfdd03fb86a6da0de4c8bb8121358c22d20dad75b8dbde5028439519cc41fcab"
+      "sha256": "27943172ae9399564a0e78432f892180bfe805ce3769c6c0be97fa01f2228bdf"
     },
     {
       "path": "mods/RU-1541721856/About/Preview.png",
@@ -1190,8 +1190,8 @@
     },
     {
       "path": "mods/RU-1541721856/CHANGELOG.md",
-      "bytes": 939,
-      "sha256": "e3682677e4334e999f555294c57f164819789b941f7130437e35217a02b296a8"
+      "bytes": 1111,
+      "sha256": "510df64c4f56bd3446ae7880d655f1df88ff036359dedecde10966d008093ee7"
     },
     {
       "path": "mods/RU-1541721856/Languages/Russian/DefInjected/AbilityDef/Translations.xml",
@@ -1964,9 +1964,29 @@
       "sha256": "e2c9072be94cea571ecc3bb9e8532aa90c355bb9695c830ff6745e55aad45968"
     },
     {
+      "path": "mods/RU-1845154007/1.6/Conditional/with-ludeon-rimworld-anomaly/Languages/Russian/DefInjected/ThingDef/Translations-with-ludeon-rimworld-anomaly.xml",
+      "bytes": 1524,
+      "sha256": "35e521e414847962354c5a21843675ec750a2d00645c419246e3f0e751bc5644"
+    },
+    {
+      "path": "mods/RU-1845154007/1.6/Conditional/with-ludeon-rimworld-biotech/Languages/Russian/DefInjected/ThingDef/Translations-with-ludeon-rimworld-biotech.xml",
+      "bytes": 1568,
+      "sha256": "eab4c0935dd0e0dfe5ffcf85c2e0abc6759f026fa2034c2957eae320da066d08"
+    },
+    {
+      "path": "mods/RU-1845154007/1.6/Conditional/with-vanillaexpanded-vwenl/Languages/Russian/DefInjected/ThingDef/Translations-with-vanillaexpanded-vwenl.xml",
+      "bytes": 1759,
+      "sha256": "e561debbef0efe9e8f1499b29ff0e4f4ff0e439acee2b6f82c4b9528498bf439"
+    },
+    {
+      "path": "mods/RU-1845154007/1.6/Conditional/without-reel-expanded-storage/Languages/Russian/DefInjected/ThingDef/Translations-without-reel-expanded-storage.xml",
+      "bytes": 390,
+      "sha256": "e09bed80d514f26ed1744ff77ca5bee81a057c28ea077335451226bd4ecb974c"
+    },
+    {
       "path": "mods/RU-1845154007/About/About.xml",
       "bytes": 2563,
-      "sha256": "fb8132742d0d3ef7ac273f35a9dca6288ef10ca817ae81acb2771e4b8d361197"
+      "sha256": "5b01fe3c946eaaf3c624c7754483b71fc74ad29eda3e99ac75de5ddaa34684bc"
     },
     {
       "path": "mods/RU-1845154007/About/Preview.png",
@@ -1981,12 +2001,12 @@
     {
       "path": "mods/RU-1845154007/Assemblies/RU1845154007.dll",
       "bytes": 15360,
-      "sha256": "778de9b05495d880c26bf82c0110015234fb7b2de49206546a85eb5ed3693bc7"
+      "sha256": "bed3c1a92128c3fd50abd5e5d38a190118f8d48f36f153567845768239a1b73c"
     },
     {
       "path": "mods/RU-1845154007/CHANGELOG.md",
-      "bytes": 907,
-      "sha256": "eb7b129f8e50f875ae39268453005a438ae98acd639668fc9f016fce1c021c89"
+      "bytes": 1363,
+      "sha256": "12a104d406d4e5d3f825052c693657f35e43a84faa1344c986778a16d45dbb28"
     },
     {
       "path": "mods/RU-1845154007/Languages/English/Keyed/Additional.xml",
@@ -1996,22 +2016,22 @@
     {
       "path": "mods/RU-1845154007/Languages/Russian/DefInjected/HediffDef/Translations.xml",
       "bytes": 904,
-      "sha256": "ce821b4d20dec3298db41cf72b25afc49927168ac2192ef80ff13265a6428264"
+      "sha256": "3e54a93fcd871b0cea2b35825eba9d0d054df7347c1a35858527cf49011e9109"
     },
     {
       "path": "mods/RU-1845154007/Languages/Russian/DefInjected/JobDef/Translations.xml",
       "bytes": 284,
-      "sha256": "7dd644ae54f1d09129371b8e10f34f34c98e6e4d46055ebb08ebc65c746846d1"
+      "sha256": "f0d84ab84ceb7ac6766c4eda434c27bfe7a5a64802c0b791ba57176f96800978"
     },
     {
       "path": "mods/RU-1845154007/Languages/Russian/DefInjected/RecordDef/Translations.xml",
       "bytes": 296,
-      "sha256": "5a6c84916b93609ac7f3676b79cb42e1f71d3877c856da8d2360d6ac264f8d2c"
+      "sha256": "50a69aefd13fc8110a7563a9888ac38a16e262239525bf79bc55d0f0ac6edb35"
     },
     {
       "path": "mods/RU-1845154007/Languages/Russian/DefInjected/ResearchProjectDef/Translations.xml",
       "bytes": 9704,
-      "sha256": "302afa5ef80b9df2087871b774c5cff13d89172d8a1c4007c238f4baad11a796"
+      "sha256": "7ccf1a086bac2dd95edc7b23441dd3f4b2d74f10a893688e2207e8337ba4b9e6"
     },
     {
       "path": "mods/RU-1845154007/Languages/Russian/DefInjected/ResearchTabDef/Translations.xml",
@@ -2025,13 +2045,13 @@
     },
     {
       "path": "mods/RU-1845154007/Languages/Russian/DefInjected/ThingDef/Translations.xml",
-      "bytes": 36741,
-      "sha256": "c9e4008c8531c2ee110919b39ab016c78253b257d4a49e7b70215981ce4eace5"
+      "bytes": 35246,
+      "sha256": "f26cce459b0a33c3c7ff1fba16fe58c90e0d109b7f171e81d759d86f6ccc29fa"
     },
     {
       "path": "mods/RU-1845154007/Languages/Russian/DefInjected/WorkGiverDef/Translations.xml",
       "bytes": 589,
-      "sha256": "d5ff47b860ae265124ac895315ab478916442da54f6f3282d667b68587295baa"
+      "sha256": "894e18d11af47dc2fe1cf4d4f69b1fcd4da1d34e4ee82e22e1490b24f551ad3d"
     },
     {
       "path": "mods/RU-1845154007/Languages/Russian/DefInjected/WorldObjectDef/Translations.xml",
@@ -2041,7 +2061,7 @@
     {
       "path": "mods/RU-1845154007/Languages/Russian/Keyed/Translations.xml",
       "bytes": 3265,
-      "sha256": "ae087801053a98d20cd92e192d17439b7bc92277c2a5394c88b86c2709520ef3"
+      "sha256": "921933bb83c90c5e3a21ba0c5e1bd93956ad32d0908bab5b99ebe5db797633f6"
     },
     {
       "path": "mods/RU-1845154007/Languages/Russian/WordInfo/Case.txt",
@@ -2079,6 +2099,11 @@
       "sha256": "8a0c1e8cab387f0d304efd18c866e0a5da70e35259da3e304dec6fed10289531"
     },
     {
+      "path": "mods/RU-1845154007/LoadFolders.xml",
+      "bytes": 487,
+      "sha256": "abc8941de2625eb26c9a004ea27684b827ac51906b1bfaaf0aa2a7c0e8545b2b"
+    },
+    {
       "path": "mods/RU-1845154007/NOTICES.md",
       "bytes": 2655,
       "sha256": "60c18618f7b0a2c78f8253637f909555e1a83e44a21b9d64762f42ef670da4d5"
@@ -2090,18 +2115,18 @@
     },
     {
       "path": "mods/RU-1845154007/README.md",
-      "bytes": 3707,
-      "sha256": "4efcfddf34df6aa210152ce11d95f490fc29c5fb65b1157058d8371911a68101"
+      "bytes": 4889,
+      "sha256": "64acd7cb8e9d064cd07ac4fdc932c55006b3229950bf4cc784b04ed14b138d6a"
     },
     {
       "path": "mods/RU-1845154007/Source/Literals.cs",
-      "bytes": 4265,
-      "sha256": "f7d68ac1a5cbe259461ace97e4ed83b3e96a1e96b1f6fd37cb100f8559ecaa04"
+      "bytes": 4554,
+      "sha256": "ef99297da2229a86d2df9fecaf51b783b0ff6ce59286924454a1c2b52c49ebc1"
     },
     {
       "path": "mods/RU-1845154007/Source/Overrides.cs",
-      "bytes": 10220,
-      "sha256": "304fcec2be4d2f594cbfba3bfb1b0d1a39291a3e184af66924bf3267283106db"
+      "bytes": 10578,
+      "sha256": "2bcac8268bb1de187a41e791fd1f1fad06f04540a908c0bbad720c95c02a1084"
     },
     {
       "path": "mods/RU-1874644848/About/About.xml",
@@ -5555,8 +5580,8 @@
     },
     {
       "path": "mods/RU-2860715703/1.6/Conditional/with-biomesteam-oasis/Languages/Russian/DefInjected/LifeStageDef/Translations-with-biomesteam-oasis.xml",
-      "bytes": 225,
-      "sha256": "918cb600cf0eeb7b265d231d027186b9c36023321b1a2d6ff410b175849f7aa0"
+      "bytes": 303,
+      "sha256": "60f40106cd5a656f4b76319cfce6b830ede0e5b3f70c95f2cb92c41709362bb9"
     },
     {
       "path": "mods/RU-2860715703/1.6/Conditional/with-biomesteam-oasis/Languages/Russian/DefInjected/PawnKindDef/Translations-with-biomesteam-oasis.xml",
@@ -5581,7 +5606,7 @@
     {
       "path": "mods/RU-2860715703/About/About.xml",
       "bytes": 2853,
-      "sha256": "da290ce6e0330f9b2a33c23160c67be347a3ae5eca3e1a4b915928af5d2f7358"
+      "sha256": "dcf863c187b161de2b7de46a04e0d0e0c2961b3c032fb3db15500b45a18d45fe"
     },
     {
       "path": "mods/RU-2860715703/About/Preview.png",
@@ -5596,12 +5621,12 @@
     {
       "path": "mods/RU-2860715703/Assemblies/RU2860715703.dll",
       "bytes": 15360,
-      "sha256": "5f059478fc6e0a980e4f1a69e1808d5e900619f7a8c3d6dc5fd7cb78f7ae7ee8"
+      "sha256": "ef37e0fe020bea98a132057fef09bd13017c4565911de7dcda8fffdb93f04970"
     },
     {
       "path": "mods/RU-2860715703/CHANGELOG.md",
-      "bytes": 149,
-      "sha256": "13a91e06f7c8e75546ac3fdb396d5487bb756d85bf9f0dca1e996dfece26e3cb"
+      "bytes": 279,
+      "sha256": "2b686c7e50e5b2a20af2173412032ea0968643b668f07687b188917b59936b2d"
     },
     {
       "path": "mods/RU-2860715703/Languages/Russian/DefInjected/BodyDef/Translations.xml",
@@ -6335,8 +6360,8 @@
     },
     {
       "path": "mods/RU-2920751126/1.6/Conditional/condition-cd9dec00f59a1076c47291639ce85db113a966b6cda633a2038bacecbe4b79c8/Languages/Russian/DefInjected/ThingDef/Translations-condition-cd9dec00f59a1076c47291639ce85db113a966b6cda633a2038bacecbe4b79c8.xml",
-      "bytes": 14303,
-      "sha256": "bde6d77e83efdc0757c783dcfc58d2078e2979e223e56fc9d824e3c202c3885f"
+      "bytes": 15904,
+      "sha256": "824bfcf9926ddea66f22d5998bd9239641ab71e00e5b02776fd4765bfc9bda18"
     },
     {
       "path": "mods/RU-2920751126/1.6/Conditional/condition-d4f51984e5244f247e112d335df8fc468292149804ab14531a5e31d97bd8b4da/Languages/Russian/DefInjected/HediffDef/Translations-condition-d4f51984e5244f247e112d335df8fc468292149804ab14531a5e31d97bd8b4da.xml",
@@ -6345,8 +6370,8 @@
     },
     {
       "path": "mods/RU-2920751126/1.6/Conditional/condition-d4f51984e5244f247e112d335df8fc468292149804ab14531a5e31d97bd8b4da/Languages/Russian/DefInjected/ThingDef/Translations-condition-d4f51984e5244f247e112d335df8fc468292149804ab14531a5e31d97bd8b4da.xml",
-      "bytes": 3914,
-      "sha256": "03a84acd29dc146b4b060d8d0d6ee665c3fd22ec1d35f6231231f55a9788c8e3"
+      "bytes": 4378,
+      "sha256": "86cfceaf9cc680b5e144341561f4491851c603b44eed273efd7c828bac69a959"
     },
     {
       "path": "mods/RU-2920751126/1.6/Conditional/with-all-ludeon-rimworld-anomaly-and-vanillaracesexpanded-android/Languages/Russian/DefInjected/GeneDef/Translations-with-all-ludeon-rimworld-anomaly-and-vanillaracesexpanded-android.xml",
@@ -6375,8 +6400,8 @@
     },
     {
       "path": "mods/RU-2920751126/1.6/Conditional/with-killathon-mechhumanlikes-androidtierscore/Languages/Russian/DefInjected/RecipeDef/Translations-with-killathon-mechhumanlikes-androidtierscore.xml",
-      "bytes": 4951,
-      "sha256": "c832a8d3a6e553c58d81d612d5c02160336db00f4cd063dadfac370c0b259edd"
+      "bytes": 5583,
+      "sha256": "b55af665891b617767d72bc5984e08b0907d2ab5dae1405bfe43ecbb82ae72a3"
     },
     {
       "path": "mods/RU-2920751126/1.6/Conditional/with-killathon-mechhumanlikes-androidtierscore/Languages/Russian/DefInjected/ThingDef/Translations-with-killathon-mechhumanlikes-androidtierscore.xml",
@@ -6446,7 +6471,7 @@
     {
       "path": "mods/RU-2920751126/About/About.xml",
       "bytes": 2727,
-      "sha256": "14b45583b49de4fafb39a3b04488d8e6b98c00cf27f0c8b44fdde10d31d812d7"
+      "sha256": "02d9abbd1b58ef58fb8582187a12584c9e57cc1157fb1be17296f7d5bdfe25d0"
     },
     {
       "path": "mods/RU-2920751126/About/Preview.png",
@@ -6465,8 +6490,8 @@
     },
     {
       "path": "mods/RU-2920751126/CHANGELOG.md",
-      "bytes": 674,
-      "sha256": "69a7b8f9abbad8c25034a5d2723ee98d6abf2629121b4442a307d46a0211e7ae"
+      "bytes": 937,
+      "sha256": "bdf0a81e8747826dccb0d830ba407886a6c6eb6455e847c0216ecde3fd092f7b"
     },
     {
       "path": "mods/RU-2920751126/Languages/Russian/DefInjected/AbilityDef/Translations.xml",
@@ -6619,19 +6644,84 @@
       "sha256": "0ffb4c8a8c69e46fc3dd1cf9d73347295b345938d26f4f2a8305f7be106ca499"
     },
     {
+      "path": "mods/RU-2925432336/1.6/Conditional/condition-d1623ec7d73e9f6cd9b13426417e249223790af768dd6a74fff901dfb1e9ebd9/Languages/Russian/DefInjected/BigAndSmall.DefAltNamer/Translations-condition-d1623ec7d73e9f6cd9b13426417e249223790af768dd6a74fff901dfb1e9ebd9.xml",
+      "bytes": 1198,
+      "sha256": "97f3dfe132b08b3ed2848a190e585edf29faf7766bfcd247cf38133537967b59"
+    },
+    {
+      "path": "mods/RU-2925432336/1.6/Conditional/with-all-ludeon-rimworld-biotech-and-redmattis-bigsmall-core/Languages/Russian/DefInjected/BigAndSmall.DefAltNamer/Translations-with-all-ludeon-rimworld-biotech-and-redmattis-bigsmall-core.xml",
+      "bytes": 4290,
+      "sha256": "1048fa492aee18abb520c1887c0bfe6109731aa17030b99e8c3399a251464b90"
+    },
+    {
+      "path": "mods/RU-2925432336/1.6/Conditional/with-ludeon-rimworld-biotech/Languages/Russian/DefInjected/BigAndSmall.GeneTemplate/Translations-with-ludeon-rimworld-biotech.xml",
+      "bytes": 737,
+      "sha256": "72d803d76f2ccc024b442b90111635da98c7564ba07a1b9fd1150ce68d87188b"
+    },
+    {
+      "path": "mods/RU-2925432336/1.6/Conditional/with-ludeon-rimworld-biotech/Languages/Russian/DefInjected/FactionDef/Translations-with-ludeon-rimworld-biotech.xml",
+      "bytes": 1678,
+      "sha256": "796c41352d90fa409628ead0670834b2541306829eefbd9cb82f9331ea6463a1"
+    },
+    {
+      "path": "mods/RU-2925432336/1.6/Conditional/with-ludeon-rimworld-biotech/Languages/Russian/DefInjected/GeneCategoryDef/Translations-with-ludeon-rimworld-biotech.xml",
+      "bytes": 308,
+      "sha256": "a40017e91837e0b7a4b160f2eef87563f1c8f49d87fb5832bc364946f28fedb9"
+    },
+    {
+      "path": "mods/RU-2925432336/1.6/Conditional/with-ludeon-rimworld-biotech/Languages/Russian/DefInjected/GeneDef/Translations-with-ludeon-rimworld-biotech.xml",
+      "bytes": 1102,
+      "sha256": "988850a7a7c8d37612b98a92b913331a54467b116e031c8b3692b2b81876f1b2"
+    },
+    {
+      "path": "mods/RU-2925432336/1.6/Conditional/with-ludeon-rimworld-biotech/Languages/Russian/DefInjected/PawnKindDef/Translations-with-ludeon-rimworld-biotech.xml",
+      "bytes": 429,
+      "sha256": "248b5fa76177654872d4655ae3501b9e6b24157976f7ae2f0ad6ebce8cb1470f"
+    },
+    {
+      "path": "mods/RU-2925432336/1.6/Conditional/with-ludeon-rimworld-biotech/Languages/Russian/DefInjected/ScenarioDef/Translations-with-ludeon-rimworld-biotech.xml",
+      "bytes": 1264,
+      "sha256": "9ece0bc616d28fe32eb4e81c3572c9ca2032ac69e298bb8523d0c208b17366db"
+    },
+    {
       "path": "mods/RU-2925432336/1.6/Conditional/with-mehni-numbers/Languages/Russian/DefInjected/PawnColumnDef/Translations-with-mehni-numbers.xml",
       "bytes": 12387,
-      "sha256": "d0982528cd2852feaea2114b38d46520edd0732a0dff20a6c17e5153e4a13128"
+      "sha256": "008360325e4c45b5d79798003cf0d37d990ab33423168562107a1933f6819b95"
+    },
+    {
+      "path": "mods/RU-2925432336/1.6/Conditional/with-nals-facialanimation/Languages/Russian/DefInjected/GeneCategoryDef/Translations-with-nals-facialanimation.xml",
+      "bytes": 154,
+      "sha256": "c7400c88506d79d45b8ff666cf165382682ef9e7e51c3d0334bb7de03a442ffb"
+    },
+    {
+      "path": "mods/RU-2925432336/1.6/Conditional/with-nals-facialanimation/Languages/Russian/DefInjected/GeneDef/Translations-with-nals-facialanimation.xml",
+      "bytes": 1350,
+      "sha256": "7a0b6459c4344b68ff810c30e8d0709b0aead5e0e9af05756ad8e70c40fb571a"
     },
     {
       "path": "mods/RU-2925432336/1.6/Conditional/with-vanillaracesexpanded-android/Languages/Russian/DefInjected/GeneDef/Translations-with-vanillaracesexpanded-android.xml",
       "bytes": 565,
-      "sha256": "b91b401e1d1e747f973de72db5f8f9af4392edfadef75f8f4a169de60902406f"
+      "sha256": "e3b341f23df9674c39b235904e630820a280b572de5b7d32daebec4c5d04b714"
+    },
+    {
+      "path": "mods/RU-2925432336/1.6/Conditional/without-redmattis-redhealth/Languages/Russian/DefInjected/HediffDef/Translations-without-redmattis-redhealth.xml",
+      "bytes": 3286,
+      "sha256": "8575b4cc3d5e0ac263040d3956cb08018d75f1095a66f7ee060b59c751b503b4"
+    },
+    {
+      "path": "mods/RU-2925432336/1.6/Conditional/without-redmattis-redhealth/Languages/Russian/DefInjected/RedHealth.HealthAspect/Translations-without-redmattis-redhealth.xml",
+      "bytes": 8916,
+      "sha256": "0c06f24e945f424650bd545737790cf2be521f2e4c98147a1f3dbe34e6f0bf30"
+    },
+    {
+      "path": "mods/RU-2925432336/1.6/Conditional/without-redmattis-redhealth/Languages/Russian/DefInjected/RedHealth.HealthCurve/Translations-without-redmattis-redhealth.xml",
+      "bytes": 2494,
+      "sha256": "8e3968fb8ec1c9700e1165c9f9dc05d65be78ccebe9739eabcb40b272b647c36"
     },
     {
       "path": "mods/RU-2925432336/About/About.xml",
       "bytes": 2281,
-      "sha256": "7ec90780b718b41cb377ded235840cb5629eb68a558a0c5deaa70c171776f083"
+      "sha256": "ccb6367c3286d93feeb85372cd980c8677049083243faadf1a2e0eb4a837ebb5"
     },
     {
       "path": "mods/RU-2925432336/About/Preview.png",
@@ -6646,22 +6736,22 @@
     {
       "path": "mods/RU-2925432336/Assemblies/RU2925432336.dll",
       "bytes": 29696,
-      "sha256": "2b8517afc7d3b0c1b6dd51ee15071df6a699008a0287d023063b0dd892294b12"
+      "sha256": "2fc5a15b4d80a622abe0d7e587a81ab0b7613c94d50e026ae592200ff7b4d0bd"
     },
     {
       "path": "mods/RU-2925432336/CHANGELOG.md",
-      "bytes": 388,
-      "sha256": "3e4fc713091bd36cb9c7a9234faf90fc9feb555b06138c5df6de050131e26e47"
+      "bytes": 884,
+      "sha256": "74e0f5c2177cf7dc65dc0859bfff648c45202e75d4b6f0755b832c218da2e75b"
     },
     {
       "path": "mods/RU-2925432336/Languages/English/Keyed/Additional.xml",
       "bytes": 420,
-      "sha256": "da3dfe19dfc17c76d2a1418216a2ccf3894e65e6d7234bebf5997a663f72540c"
+      "sha256": "563c222a6d87a758801aab9777ebdee23d576b15c9e320f5342ff88753e60094"
     },
     {
       "path": "mods/RU-2925432336/Languages/Russian/DefInjected/BackstoryDef/Translations.xml",
       "bytes": 779,
-      "sha256": "da81aa00572de224a5ecfcb15e21c88ca733a02aaa5ad621e192f6a3dd65a64e"
+      "sha256": "0f32a0260abd32a5146605d08ffb2c3923524bf774bf61740ffe8ae1a3ff4f25"
     },
     {
       "path": "mods/RU-2925432336/Languages/Russian/DefInjected/BigAndSmall.BodyDefFusion/Translations.xml",
@@ -6674,79 +6764,64 @@
       "sha256": "5ab00e5c1490a2832d88f60b76d932734ab6d56eea4498003c1ef74d0e0f0eda"
     },
     {
-      "path": "mods/RU-2925432336/Languages/Russian/DefInjected/BigAndSmall.DefAltNamer/Translations.xml",
-      "bytes": 4290,
-      "sha256": "bd54079fef3bacb208a4266ba06b8493a8a3f3465fec008605211f6eeff5626b"
-    },
-    {
       "path": "mods/RU-2925432336/Languages/Russian/DefInjected/BigAndSmall.DefTag/Translations.xml",
       "bytes": 855,
-      "sha256": "3fe4ea999105e8134d4dbf47a5bcf061afc5af5301d031350324d7533662dc85"
+      "sha256": "e026cb154f78b616e05c724988d3b319d2b168c347c36234faf683575a30fc3d"
     },
     {
       "path": "mods/RU-2925432336/Languages/Russian/DefInjected/BigAndSmall.FlagStringData/Translations.xml",
       "bytes": 1265,
-      "sha256": "1ac14bcb1987c2d3bd3b4fefee8dc25b1ece8120645ee8029d1cf35b51fdac33"
+      "sha256": "ca8a52dab96113c3775b9f17e6193383675910eceb4d77e87d127e8323555b15"
     },
     {
       "path": "mods/RU-2925432336/Languages/Russian/DefInjected/BigAndSmall.GeneTemplate/Translations.xml",
-      "bytes": 1401,
-      "sha256": "9a83c5f164510f1995a1e5f04840a11b9b638e4170be67dfaa479e349777100d"
+      "bytes": 737,
+      "sha256": "7fa66b46cad4c651803daf1ee02a9264355925bc309fac64a117200c85a0077c"
     },
     {
       "path": "mods/RU-2925432336/Languages/Russian/DefInjected/BigAndSmall.RacialFeatureDef/Translations.xml",
       "bytes": 2492,
-      "sha256": "f704b2310bc25d0a3ed54ec97090ac2eff8763d78c3482627bd32db45bca4f1b"
+      "sha256": "a52b8fbd78f3e05b53346aa881c6f22f8f6691a7291ba4110931e3cbdcee9ab6"
     },
     {
       "path": "mods/RU-2925432336/Languages/Russian/DefInjected/BodyDef/Translations.xml",
       "bytes": 117387,
-      "sha256": "b1f483f5d061e7704d83464f804f11b987a9c8e9755f8183374938c000ff5440"
+      "sha256": "1329bc00790057b33cd5b33ca1fb73b6ad846eb6ee785a5ac179cf8731e9dbc9"
     },
     {
       "path": "mods/RU-2925432336/Languages/Russian/DefInjected/BodyPartDef/Translations.xml",
       "bytes": 3716,
-      "sha256": "69bfe0d4640b1003a1fbf601089533fe58dd2b2906ecbc66aaa93f943b93abbc"
+      "sha256": "08f3559d933c5736fbad6794ce207cfc7e3995cf7aa31b9ca49c27c056885143"
     },
     {
       "path": "mods/RU-2925432336/Languages/Russian/DefInjected/CultureDef/Translations.xml",
       "bytes": 569,
-      "sha256": "ed9c0480a587250dc4aed743f4782a9b007e309dc849fe5d88cb7deb5169798f"
+      "sha256": "65c12acc36d91235115c3e27a7e81a587968eaa5e0b63725cbfc246543cded6e"
     },
     {
       "path": "mods/RU-2925432336/Languages/Russian/DefInjected/FactionDef/Translations.xml",
-      "bytes": 2422,
-      "sha256": "067000832feaf761c07f95ee5c2f035b42e4c700f4c324ead9d9cfda2f4a3946"
-    },
-    {
-      "path": "mods/RU-2925432336/Languages/Russian/DefInjected/GeneCategoryDef/Translations.xml",
-      "bytes": 389,
-      "sha256": "abdf9ab2c75be6f5849b4ae55c58dbdd82d9fa908c7bf098fee36296c17de089"
-    },
-    {
-      "path": "mods/RU-2925432336/Languages/Russian/DefInjected/GeneDef/Translations.xml",
-      "bytes": 2379,
-      "sha256": "51d70bf588d4b4c8b493b9a9923645b703e63c8cd239b86363f046bb7b4011f1"
+      "bytes": 817,
+      "sha256": "fc45279f9626ff40b67d8d34526a6bd12b891bcc52592083ae4a59518fb642f5"
     },
     {
       "path": "mods/RU-2925432336/Languages/Russian/DefInjected/HediffDef/Translations.xml",
-      "bytes": 15526,
-      "sha256": "465588f56bedd2a29a76c919c032b9ff4f3b9931e62bf80a89c7f19916ddf835"
+      "bytes": 12313,
+      "sha256": "67d9434cc120a3288619792e4b96bd87d72ef591437cd30bf3f65570b4ead20a"
     },
     {
       "path": "mods/RU-2925432336/Languages/Russian/DefInjected/JobDef/Translations.xml",
       "bytes": 274,
-      "sha256": "1d67e72d377662d08eb98ea52ad3b241d326e80af1e912a65c38be2e8398f4ea"
+      "sha256": "5902707015fb1e95973da0c1b467c3b232efa3558ba74420ec539d51328b8d0a"
     },
     {
       "path": "mods/RU-2925432336/Languages/Russian/DefInjected/MentalStateDef/Translations.xml",
       "bytes": 587,
-      "sha256": "86cdd992d1d0bf0f73c98ec221411cb8785420d2e04a29d8759d850fb0bb9320"
+      "sha256": "31228078ecf6e9d3fec4376176d684d9fb89f94a07c4a82f3e4af7dd5fe3b115"
     },
     {
       "path": "mods/RU-2925432336/Languages/Russian/DefInjected/PawnKindDef/Translations.xml",
-      "bytes": 518,
-      "sha256": "0a98533aa45a92832a2de5e669a3f5ad63a84e6ba60367f5c072f7b9e9d07a20"
+      "bytes": 162,
+      "sha256": "19986bbd1bd961977cce025ed1a0c5fc433ea7d71258dc6bf13b596547f6bddd"
     },
     {
       "path": "mods/RU-2925432336/Languages/Russian/DefInjected/PawnRelationDef/Translations.xml",
@@ -6754,49 +6829,39 @@
       "sha256": "40ccd4f8194bd97e9e8cc0f07cff8920a71231f3a6402e29d285ffaaaf258e5f"
     },
     {
+      "path": "mods/RU-2925432336/Languages/Russian/DefInjected/PawnRenderTreeDef/Translations.xml",
+      "bytes": 828,
+      "sha256": "2de0c97563d2ea80802763d54544472d5fb701d7ee86b91d27a3231eabcfe444"
+    },
+    {
       "path": "mods/RU-2925432336/Languages/Russian/DefInjected/RecipeDef/Translations.xml",
       "bytes": 8043,
-      "sha256": "cf7b1a99bdf2712c4c162fe36cd24f5082e7d7c5eee7941a5caa52d7f7a87e7f"
-    },
-    {
-      "path": "mods/RU-2925432336/Languages/Russian/DefInjected/RedHealth.HealthAspect/Translations.xml",
-      "bytes": 8916,
-      "sha256": "32a338b463633193e3741c76816194e79b386878d3ed32b3a4196404afadfcbf"
-    },
-    {
-      "path": "mods/RU-2925432336/Languages/Russian/DefInjected/RedHealth.HealthCurve/Translations.xml",
-      "bytes": 2494,
-      "sha256": "7bf4771ed12b4559b7ce5367c1fa1c04aa5c2e0811e378b1b443bf14c6d4ed10"
+      "sha256": "86f95ecf90669d8fe328b12cd4cb6ed4bef8cb2a406a77b70d86370fb60193bf"
     },
     {
       "path": "mods/RU-2925432336/Languages/Russian/DefInjected/ResearchProjectDef/Translations.xml",
       "bytes": 818,
-      "sha256": "db83600b02f1e1f513f2f8e9daf12e5672b5f82e183744dc13c19778e35f0e50"
+      "sha256": "1ee957715549ae2a37dbf6d051e8e6ba684b7327e758dd6844e5a50475f23962"
     },
     {
       "path": "mods/RU-2925432336/Languages/Russian/DefInjected/ResearchTabDef/Translations.xml",
       "bytes": 378,
-      "sha256": "622391512ea30d4016e992fa7e3f094b1b809ac38902a3f6cd21dc687d609992"
+      "sha256": "34845d0c748acd4a13f7340c447409a758b545b5d0e90aee679f24ed17af9105"
     },
     {
       "path": "mods/RU-2925432336/Languages/Russian/DefInjected/RulePackDef/Translations.xml",
-      "bytes": 55204,
-      "sha256": "e8bd96dcf5d492d25183a8e315878708f8dfe273edf598da0bbeb241bbf540d5"
-    },
-    {
-      "path": "mods/RU-2925432336/Languages/Russian/DefInjected/ScenarioDef/Translations.xml",
-      "bytes": 1264,
-      "sha256": "429c8c97e47a0800e27925629ee40ad334e3daa4a8d532b2f4bae611d0528f74"
+      "bytes": 54334,
+      "sha256": "79539cbe0e2615f0ab7802992b19801757e255a9c3049a02a5dd15fd0bd5d3dc"
     },
     {
       "path": "mods/RU-2925432336/Languages/Russian/DefInjected/ShaderTypeDef/Translations.xml",
       "bytes": 526,
-      "sha256": "e848a8a4cef860b960aca62e23d92b6f54ed3dcd4b0969262876e47e6fbbb9e7"
+      "sha256": "1f3c8e11ac09ac2f9ebada125dbe3e1f99f34d50d119966fd3296684a94dc179"
     },
     {
       "path": "mods/RU-2925432336/Languages/Russian/DefInjected/SpecialThingFilterDef/Translations.xml",
       "bytes": 930,
-      "sha256": "399bfd82398f60da55874cf75482d0838ea3b994551aaa6dcaefcd6bf9c6d997"
+      "sha256": "3f7cd14a74432118814308757b4c460b9d62cbf6e34a27b4f74e6172a3a7a517"
     },
     {
       "path": "mods/RU-2925432336/Languages/Russian/DefInjected/StatCategoryDef/Translations.xml",
@@ -6806,22 +6871,22 @@
     {
       "path": "mods/RU-2925432336/Languages/Russian/DefInjected/StatDef/Translations.xml",
       "bytes": 5955,
-      "sha256": "e88e62a59bf424d60538548587fa7b43210151a3ad326b4608295fe7047c1b23"
+      "sha256": "aef48730b20633db958a00526f3f110eab8372dfa9f66998cc8bcf81f5367148"
     },
     {
       "path": "mods/RU-2925432336/Languages/Russian/DefInjected/ThingCategoryDef/Translations.xml",
       "bytes": 343,
-      "sha256": "f4f943f547862513918548773cc70fd084f1420944e44d663a22862ea04f1927"
+      "sha256": "e9f548a7ca7db73da05be4371a8b1bbb6c35ff214624920cfa2e5b640a6c538a"
     },
     {
       "path": "mods/RU-2925432336/Languages/Russian/DefInjected/ThingDef/Translations.xml",
       "bytes": 78096,
-      "sha256": "75ab2ea6093a729f02fd09f883c0d9a2c2512b128f5f62df3bbe9f6046df72c7"
+      "sha256": "865c1cabdc13c0ea489d99abd33c403fadeda331abd4921c3601e2efec31301c"
     },
     {
       "path": "mods/RU-2925432336/Languages/Russian/DefInjected/ThoughtDef/Translations.xml",
-      "bytes": 529,
-      "sha256": "4b1d8f5c0711e36908abb6e4178dc714515e54f9fae3798579002c09c5fa2d39"
+      "bytes": 1430,
+      "sha256": "8a70dd781fbb6b6d92126a359910a33e4265dc42acc50c9ca79e0f7271cd5438"
     },
     {
       "path": "mods/RU-2925432336/Languages/Russian/DefInjected/ToolCapacityDef/Translations.xml",
@@ -6831,7 +6896,7 @@
     {
       "path": "mods/RU-2925432336/Languages/Russian/DefInjected/TraitDef/Translations.xml",
       "bytes": 347,
-      "sha256": "45dd151b486f9c1076d9f120d99f2785e100d7dc1a3bcdaf797e85183e062008"
+      "sha256": "a0e4ff1361e0ee87b8b4ab7bd7f96eb8a323dfc31e795cf7e990fcd392d176f8"
     },
     {
       "path": "mods/RU-2925432336/Languages/Russian/DefInjected/WeaponClassDef/Translations.xml",
@@ -6841,12 +6906,12 @@
     {
       "path": "mods/RU-2925432336/Languages/Russian/DefInjected/WorkGiverDef/Translations.xml",
       "bytes": 388,
-      "sha256": "a69c527cae69989d84d6a29ea21902551702f09713ef1757d46307979a1b5feb"
+      "sha256": "68848f55ad7e382e394dee399d39ad0b94c5f5cd2e962fb773808a30a295e4ee"
     },
     {
       "path": "mods/RU-2925432336/Languages/Russian/Keyed/Translations.xml",
       "bytes": 37191,
-      "sha256": "f82e91f8935473cd021e37af9dde8e4101b5a560ad618151f39b2a132e0340d4"
+      "sha256": "469d723fcffefa51d5e2d17e26b9813eb8be5caa7453de52b1a5f2b3f624ea4e"
     },
     {
       "path": "mods/RU-2925432336/Languages/Russian/Strings/Names/bug_female_p.txt",
@@ -6920,8 +6985,8 @@
     },
     {
       "path": "mods/RU-2925432336/LoadFolders.xml",
-      "bytes": 287,
-      "sha256": "c203f6a9cde230b8b59adad86a9c20b67c89169730ec9bfb7fe45199c8fdac15"
+      "bytes": 908,
+      "sha256": "d7b1fb02902d3e0b1f98c48242fe2156a65dcfc0678aaa64cacbd164fd3a907a"
     },
     {
       "path": "mods/RU-2925432336/NOTICES.md",
@@ -6946,12 +7011,12 @@
     {
       "path": "mods/RU-2925432336/Source/Literals.cs",
       "bytes": 13324,
-      "sha256": "59c2bb9b09c4d4599f8cac9ae1e55d575541111d37a697edd056064daf4bbf45"
+      "sha256": "09999078151619c60006026b39b831655fae1407162497eb0c5835c30d7ca576"
     },
     {
       "path": "mods/RU-2925432336/Source/Overrides.cs",
-      "bytes": 10294,
-      "sha256": "6e1bb8972a8a0950716008d9c6d30ab1744c41f7bb4f6780aaea222c89aa4d43"
+      "bytes": 10577,
+      "sha256": "1162e08103a18d85376fcea5fc25ed7e2fc1e239c8d26ce27f50ddd6a372bfa6"
     },
     {
       "path": "mods/RU-2969748433/1.6/Conditional/condition-825fa58eb251d17c0ad9f99fcac5a62a85d2d60e25639d1ea95d62716092dafa/Languages/Russian/DefInjected/ThingDef/Translations-condition-825fa58eb251d17c0ad9f99fcac5a62a85d2d60e25639d1ea95d62716092dafa.xml",
@@ -7030,13 +7095,13 @@
     },
     {
       "path": "mods/RU-2969748433/1.6/Conditional/with-notfood-seedsplease/Languages/Russian/DefInjected/RecipeDef/Translations-with-notfood-seedsplease.xml",
-      "bytes": 1418,
-      "sha256": "e65bbb3c98e71f6ac30875eb2e9e1b2827445716847216e46ce93f177725896f"
+      "bytes": 1970,
+      "sha256": "ec6b3936b1099403a322e53920508587fabd96bd9c1a6258631fac49c5ef39e7"
     },
     {
       "path": "mods/RU-2969748433/1.6/Conditional/with-notfood-seedsplease/Languages/Russian/DefInjected/ThingDef/Translations-with-notfood-seedsplease.xml",
-      "bytes": 644,
-      "sha256": "a9a04e73af7675e29f6c8b1dece3cd00d3bb7730388d237a2801d931280fb0cc"
+      "bytes": 2526,
+      "sha256": "cd9abe3a305944a486c647b4b43308e3fd412a6f7a0806147d1184a1afe19034"
     },
     {
       "path": "mods/RU-2969748433/1.6/Conditional/with-sarg-alphabiomes/Languages/Russian/DefInjected/GeologicalLandforms.Defs.BiomeVariantDef/Translations-with-sarg-alphabiomes.xml",
@@ -7086,7 +7151,7 @@
     {
       "path": "mods/RU-2969748433/About/About.xml",
       "bytes": 2998,
-      "sha256": "5201eab55af58cbbbbd64f8d799031a68cc0dcab0356a458ca7a5247c0264578"
+      "sha256": "8273f0f25802a05cf0d600ac71267682ab206d26450a48fd1322e1fe6ff4ccde"
     },
     {
       "path": "mods/RU-2969748433/About/Preview.png",
@@ -7105,8 +7170,8 @@
     },
     {
       "path": "mods/RU-2969748433/CHANGELOG.md",
-      "bytes": 243,
-      "sha256": "16f1bab26267f30225ed987d9adbbb5c479b2fa601ddac58fa533dca95abfa2e"
+      "bytes": 406,
+      "sha256": "1de852ca7c8d393f85027449bb938045307ae92eba59b96d8a052e526c986ee2"
     },
     {
       "path": "mods/RU-2969748433/Languages/Russian/DefInjected/BiomeDef/Translations.xml",
@@ -7370,13 +7435,13 @@
     },
     {
       "path": "mods/RU-2973169158/1.6/Conditional/with-all-dubwise-rimatomics-and-ludeon-rimworld-biotech/Languages/Russian/DefInjected/RecipeDef/Translations-with-all-dubwise-rimatomics-and-ludeon-rimworld-biotech.xml",
-      "bytes": 299,
-      "sha256": "dceae17914bd34cec43430f152c09a8da08eb3e8d91c0cff9eddceb0e181f24d"
+      "bytes": 409,
+      "sha256": "c18b2af89cfde952c35f8c153c54872989514310964fcd36bf50ae3441a0dbf1"
     },
     {
       "path": "mods/RU-2973169158/1.6/Conditional/with-all-dubwise-rimatomics-and-ludeon-rimworld-biotech/Languages/Russian/DefInjected/ThingDef/Translations-with-all-dubwise-rimatomics-and-ludeon-rimworld-biotech.xml",
-      "bytes": 762,
-      "sha256": "a22cab6d186e01c98cc616385ffd6c93745606cd0d3d4209625c7b2bdd93a8af"
+      "bytes": 846,
+      "sha256": "94bfa56b561434e18e4afcec4ff00a7906bc413219979b545e644a46bee18ac4"
     },
     {
       "path": "mods/RU-2973169158/1.6/Conditional/with-all-ludeon-rimworld-biotech-and-ludeon-rimworld-royalty/Languages/Russian/DefInjected/ThingDef/Translations-with-all-ludeon-rimworld-biotech-and-ludeon-rimworld-royalty.xml",
@@ -7390,8 +7455,8 @@
     },
     {
       "path": "mods/RU-2973169158/1.6/Conditional/with-all-ludeon-rimworld-biotech-and-oskarpotocki-vfe-mechanoid/Languages/Russian/DefInjected/RecipeDef/Translations-with-all-ludeon-rimworld-biotech-and-oskarpotocki-vfe-mechanoid.xml",
-      "bytes": 1697,
-      "sha256": "69007f1f8955b14c8a6352b1fc1bc16e1b544e31cca30d42954e51092df68a16"
+      "bytes": 2451,
+      "sha256": "17f21cf54b36c9edc5981f41d28ca4b84ff03b6ca6fa287768f0c6b4dfb259ac"
     },
     {
       "path": "mods/RU-2973169158/1.6/Conditional/with-all-ludeon-rimworld-biotech-and-oskarpotocki-vfe-mechanoid/Languages/Russian/DefInjected/ResearchProjectDef/Translations-with-all-ludeon-rimworld-biotech-and-oskarpotocki-vfe-mechanoid.xml",
@@ -7420,13 +7485,13 @@
     },
     {
       "path": "mods/RU-2973169158/1.6/Conditional/with-all-ludeon-rimworld-biotech-and-sarg-rimbees/Languages/Russian/DefInjected/RecipeDef/Translations-with-all-ludeon-rimworld-biotech-and-sarg-rimbees.xml",
-      "bytes": 295,
-      "sha256": "d5e740a40aac757e8c5d619e450365f07d925d504cf9d72ee5c3c91968515faa"
+      "bytes": 401,
+      "sha256": "4c0e1f491171a3c1ac56b5c00acfe81f563f5371fcc2c1a91ccff84275432afa"
     },
     {
       "path": "mods/RU-2973169158/1.6/Conditional/with-all-ludeon-rimworld-biotech-and-sarg-rimbees/Languages/Russian/DefInjected/ThingDef/Translations-with-all-ludeon-rimworld-biotech-and-sarg-rimbees.xml",
-      "bytes": 1381,
-      "sha256": "54d88df1dae5aa7b57192582610c92415cfa774f5241911983ed875dc35365f6"
+      "bytes": 1461,
+      "sha256": "de03824cd1e8cf60ca9e43cdb32a800e56f6032b8defb195d08aa505767a3a8b"
     },
     {
       "path": "mods/RU-2973169158/1.6/Conditional/with-all-ludeon-rimworld-biotech-and-vanillaexpanded-vbookse/Languages/Russian/DefInjected/PawnKindDef/Translations-with-all-ludeon-rimworld-biotech-and-vanillaexpanded-vbookse.xml",
@@ -7435,13 +7500,13 @@
     },
     {
       "path": "mods/RU-2973169158/1.6/Conditional/with-all-ludeon-rimworld-biotech-and-vanillaexpanded-vbookse/Languages/Russian/DefInjected/RecipeDef/Translations-with-all-ludeon-rimworld-biotech-and-vanillaexpanded-vbookse.xml",
-      "bytes": 303,
-      "sha256": "781831d0506a3aeb3b91494fce94604bef92a1cfa284f5083ca9ec53506839bf"
+      "bytes": 411,
+      "sha256": "21895093febe6b5d4630e140521dac6e71a84b1d27e1fdc3e95ab5087938b831"
     },
     {
       "path": "mods/RU-2973169158/1.6/Conditional/with-all-ludeon-rimworld-biotech-and-vanillaexpanded-vbookse/Languages/Russian/DefInjected/ThingDef/Translations-with-all-ludeon-rimworld-biotech-and-vanillaexpanded-vbookse.xml",
-      "bytes": 1293,
-      "sha256": "594d17f70885d286a3c2940a9211043cf24960547a54f103ade654488fd963ba"
+      "bytes": 1375,
+      "sha256": "f1af4578769e45a290f8f03428f5e595c2037b65b4be80bb40b82186d75b2639"
     },
     {
       "path": "mods/RU-2973169158/1.6/Conditional/with-all-ludeon-rimworld-biotech-and-vanillaexpanded-vcef/Languages/Russian/DefInjected/PawnKindDef/Translations-with-all-ludeon-rimworld-biotech-and-vanillaexpanded-vcef.xml",
@@ -7465,13 +7530,13 @@
     },
     {
       "path": "mods/RU-2973169158/1.6/Conditional/with-all-ludeon-rimworld-biotech-and-vanillaexpanded-vgeneticse/Languages/Russian/DefInjected/RecipeDef/Translations-with-all-ludeon-rimworld-biotech-and-vanillaexpanded-vgeneticse.xml",
-      "bytes": 295,
-      "sha256": "64037e2b8bec687015de0cfc3312124b6fe0d3d1fc3e6a98749be893881e011d"
+      "bytes": 403,
+      "sha256": "00d67dccbb05a79d7b5c0273612ff054d31136a961d8ad0e05647cd68ee3297c"
     },
     {
       "path": "mods/RU-2973169158/1.6/Conditional/with-all-ludeon-rimworld-biotech-and-vanillaexpanded-vgeneticse/Languages/Russian/DefInjected/ThingDef/Translations-with-all-ludeon-rimworld-biotech-and-vanillaexpanded-vgeneticse.xml",
-      "bytes": 1106,
-      "sha256": "fa499e496c15cdf1e167af5f11e9db7b564891fcfb3bfbeed95e99c3c065bce4"
+      "bytes": 1188,
+      "sha256": "709ff9b7acfc1ea566bcd633a998006c8140aed7680c5f02f878dcc2f0f4b3f8"
     },
     {
       "path": "mods/RU-2973169158/1.6/Conditional/with-all-ludeon-rimworld-biotech-and-vanillaracesexpanded-sanguophage/Languages/Russian/DefInjected/AbilityDef/Translations-with-all-ludeon-rimworld-biotech-and-vanillaracesexpanded-sanguophage.xml",
@@ -7540,8 +7605,8 @@
     },
     {
       "path": "mods/RU-2973169158/1.6/Conditional/with-ludeon-rimworld-biotech/Languages/Russian/DefInjected/RecipeDef/Translations-with-ludeon-rimworld-biotech.xml",
-      "bytes": 5996,
-      "sha256": "c7cff056f85874958dfa30229d8152b1d7240c22dd635697ad763bb642b79ae9"
+      "bytes": 8766,
+      "sha256": "d8ab9595dfcdccb8bce67ab7e33cf937bdf48dbd25697484d36784314dd2398d"
     },
     {
       "path": "mods/RU-2973169158/1.6/Conditional/with-ludeon-rimworld-biotech/Languages/Russian/DefInjected/ResearchProjectDef/Translations-with-ludeon-rimworld-biotech.xml",
@@ -7555,8 +7620,8 @@
     },
     {
       "path": "mods/RU-2973169158/1.6/Conditional/with-ludeon-rimworld-biotech/Languages/Russian/DefInjected/ThingDef/Translations-with-ludeon-rimworld-biotech.xml",
-      "bytes": 50024,
-      "sha256": "e8df06779a1d0933a5bb080afa816a3f8bc683b0f26974eb62ba5523e695bcd1"
+      "bytes": 53191,
+      "sha256": "95518d9ca664d233464c523d6e3aae060bb26e46b4997acf66e9d9f30b8bffae"
     },
     {
       "path": "mods/RU-2973169158/1.6/Conditional/with-ludeon-rimworld-biotech/Languages/Russian/DefInjected/ThoughtDef/Translations-with-ludeon-rimworld-biotech.xml",
@@ -7576,7 +7641,7 @@
     {
       "path": "mods/RU-2973169158/About/About.xml",
       "bytes": 2587,
-      "sha256": "e206d4ee8aa4cc71ad8496bf3268ccaa9a5fd7a906ec975f0a9454d627977199"
+      "sha256": "912475997b9c38d0d8703b1ea290897f7c7ccf67d7ec4a34deb142063b6ded98"
     },
     {
       "path": "mods/RU-2973169158/About/Preview.png",
@@ -7595,8 +7660,8 @@
     },
     {
       "path": "mods/RU-2973169158/CHANGELOG.md",
-      "bytes": 237,
-      "sha256": "7ab6f843e38d4511ccdba483e8829f516d192114d7cbcc6f713427fe41f4d11b"
+      "bytes": 483,
+      "sha256": "8caf0aa753c0c71a01cde39564cfe37609111999ed47abcfb3facb8cec1b9501"
     },
     {
       "path": "mods/RU-2973169158/Languages/Russian/DefInjected/AbilityDef/Translations.xml",
@@ -7634,14 +7699,9 @@
       "sha256": "5c3f8d868510f7d91e2b7e00df0318b475a6a2f84f89a4cf11303dfae9c5a7db"
     },
     {
-      "path": "mods/RU-2973169158/Languages/Russian/DefInjected/RecipeDef/Translations.xml",
-      "bytes": 2843,
-      "sha256": "671db0f420bb211c3153f147b0c3801f42d0202a3696293ca41beb9d0485f347"
-    },
-    {
       "path": "mods/RU-2973169158/Languages/Russian/DefInjected/ThingDef/Translations.xml",
-      "bytes": 15616,
-      "sha256": "da94c7a6603f4e7e63ba7430d55adc1f64e76ae3bf7037bb51fb2957375a8b0f"
+      "bytes": 12449,
+      "sha256": "c5fc6f5874f4095d28de6e6bf5b2e1edfcb11a4279476416fa4936ba98a64693"
     },
     {
       "path": "mods/RU-2973169158/Languages/Russian/DefInjected/ToolCapacityDef/Translations.xml",
@@ -8875,13 +8935,13 @@
     },
     {
       "path": "mods/RU-3327601396/1.6/Conditional/with-dankpyon-medieval-overhaul/Languages/Russian/DefInjected/FactionDef/Translations-with-dankpyon-medieval-overhaul.xml",
-      "bytes": 2403,
-      "sha256": "0e212129fceca23930b07c70bc7eee7aad1f7419e7c290505e2fde9770748e72"
+      "bytes": 3245,
+      "sha256": "2d195414ede9e3a383e4c73acaaea337cfdf5a494874eef7a5f423003ca659f4"
     },
     {
       "path": "mods/RU-3327601396/1.6/Conditional/with-dankpyon-medieval-overhaul/Languages/Russian/DefInjected/PawnKindDef/Translations-with-dankpyon-medieval-overhaul.xml",
-      "bytes": 1391,
-      "sha256": "14668414f741a56137f8667e30ca533b3572313be5225d4c3107c6ebd4b9b150"
+      "bytes": 1609,
+      "sha256": "d5968be0f52669d2b00b0e4d05cc2a9efab3b49bc2f3b3f7df1d83919e80e0d4"
     },
     {
       "path": "mods/RU-3327601396/1.6/Conditional/with-ludeon-rimworld-biotech/Languages/Russian/DefInjected/GeneDef/Translations-with-ludeon-rimworld-biotech.xml",
@@ -8920,13 +8980,13 @@
     },
     {
       "path": "mods/RU-3327601396/1.6/Conditional/with-sierra-rf-medievaloverhaul/Languages/Russian/DefInjected/ThingDef/Translations-with-sierra-rf-medievaloverhaul.xml",
-      "bytes": 4637,
-      "sha256": "a0d840803009bab209cf35f5f66e2ead8d0088bfe01f8457468bb3e175c6f56e"
+      "bytes": 5499,
+      "sha256": "12f07fbc0421ccf89936d9224f7682bf43e6cfe5ab77599c7a76da499a127556"
     },
     {
       "path": "mods/RU-3327601396/About/About.xml",
       "bytes": 3335,
-      "sha256": "8a8f714f61a0d3e0e7cd653f5b140a55982204ffe5acbadc55c04da2b4acafd7"
+      "sha256": "7ce6f4ff95abb0ade0622c47f4aaadfe959a295bd097016f041e06280607c745"
     },
     {
       "path": "mods/RU-3327601396/About/Preview.png",
@@ -8941,12 +9001,12 @@
     {
       "path": "mods/RU-3327601396/Assemblies/RU3327601396.dll",
       "bytes": 15872,
-      "sha256": "10320260024693999d90023d5cebaa9852187a0b759f62a13abf0df218009e1e"
+      "sha256": "6492a883ea8b0f333f2e357685c3ea4e487859a58670f437791dc90bed5e049f"
     },
     {
       "path": "mods/RU-3327601396/CHANGELOG.md",
-      "bytes": 2651,
-      "sha256": "84bdc37c1e41c6ec273d895b3cee9f7cd06e0c161b074d6f9c66b9773adaba26"
+      "bytes": 2943,
+      "sha256": "448360c9e24e83a57694bee418b379dcc9ad2599f1483773a808aff43639d811"
     },
     {
       "path": "mods/RU-3327601396/Languages/Russian/DefInjected/AbilityDef/Translations.xml",
@@ -8960,8 +9020,8 @@
     },
     {
       "path": "mods/RU-3327601396/Languages/Russian/DefInjected/DamageDef/Translations.xml",
-      "bytes": 795,
-      "sha256": "826e4c24146f4e7b5f146f8b5793b72538ef4f21565843534f90f3fb6e831b55"
+      "bytes": 997,
+      "sha256": "62dc88dc2534e41390c05bb78a7bad8426480ebc7091ad730dbf8ecb8d6e2072"
     },
     {
       "path": "mods/RU-3327601396/Languages/Russian/DefInjected/GeneDef/Translations.xml",
@@ -8985,8 +9045,8 @@
     },
     {
       "path": "mods/RU-3327601396/Languages/Russian/DefInjected/RecipeDef/Translations.xml",
-      "bytes": 2950,
-      "sha256": "52086522faa32aa1ca0c575105ccfaa3b80b1b99779c1dc2d285bc5458ee62fe"
+      "bytes": 3166,
+      "sha256": "ebb6739ebb60d565054cd1ea08eccc16a997fc6114e41cbea21950b77d3a19c0"
     },
     {
       "path": "mods/RU-3327601396/Languages/Russian/DefInjected/ResearchProjectDef/Translations.xml",
@@ -9000,8 +9060,8 @@
     },
     {
       "path": "mods/RU-3327601396/Languages/Russian/DefInjected/ScenarioDef/Translations.xml",
-      "bytes": 4828,
-      "sha256": "0fed00f8f7b8f29dd69b47b27331692eca876711bfb6cfecf7e84195cb373dea"
+      "bytes": 7177,
+      "sha256": "2e1173f426ae75227dd24a9094bdba7f493bd7a351bd26c6e865128f5064fdac"
     },
     {
       "path": "mods/RU-3327601396/Languages/Russian/DefInjected/SitePartDef/Translations.xml",
@@ -9010,8 +9070,8 @@
     },
     {
       "path": "mods/RU-3327601396/Languages/Russian/DefInjected/ThingDef/Translations.xml",
-      "bytes": 20784,
-      "sha256": "2b09fe20841500ebb39a808674266a5228b3fbe76b7f517c7db1aca3384b709d"
+      "bytes": 21247,
+      "sha256": "2dd71af207e64cad625ae0c0cb0b57409eb85c43f34d72d21ba8829087e3fd3d"
     },
     {
       "path": "mods/RU-3327601396/Languages/Russian/DefInjected/ThoughtDef/Translations.xml",
@@ -9120,8 +9180,8 @@
     },
     {
       "path": "mods/RU-3327601396/Source/Overrides.cs",
-      "bytes": 10295,
-      "sha256": "d51c7fc430c1a747e847c60b577bec12da782b4289049a05987d304729245bfa"
+      "bytes": 10578,
+      "sha256": "feb2fe11620a69653927248b59faa3b0f3cd6d5a047d7704687bfd3c929ab1fd"
     },
     {
       "path": "mods/RU-3411401573/1.6/Conditional/with-ludeon-rimworld-ideology/Languages/Russian/DefInjected/IssueDef/Translations-with-ludeon-rimworld-ideology.xml",
@@ -10774,9 +10834,44 @@
       "sha256": "58c123d106e82c27b5777d0eef515aeb240db6bb9c7f3e7c0dee4144bb36aa59"
     },
     {
+      "path": "mods/RU-3712538846/1.6/Conditional/with-ludeon-rimworld-odyssey/Languages/Russian/DefInjected/HediffDef/Translations-with-ludeon-rimworld-odyssey.xml",
+      "bytes": 1052,
+      "sha256": "cbdebe1a987f91df0ded8c0379f93bd4d8e5a2e1a72d3967afb22caaa2cee478"
+    },
+    {
+      "path": "mods/RU-3712538846/1.6/Conditional/with-ludeon-rimworld-odyssey/Languages/Russian/DefInjected/PawnKindDef/Translations-with-ludeon-rimworld-odyssey.xml",
+      "bytes": 160,
+      "sha256": "397cc0c34be50a1e6820a1720f0f4437951df691036504e3f5137f4b06a505e1"
+    },
+    {
+      "path": "mods/RU-3712538846/1.6/Conditional/with-ludeon-rimworld-odyssey/Languages/Russian/DefInjected/RecipeDef/Translations-with-ludeon-rimworld-odyssey.xml",
+      "bytes": 799,
+      "sha256": "2525ed45f05d9f05c8213cfc30b78ffd948797cc79ab191858de3e7638e40720"
+    },
+    {
+      "path": "mods/RU-3712538846/1.6/Conditional/with-ludeon-rimworld-odyssey/Languages/Russian/DefInjected/ScenarioDef/Translations-with-ludeon-rimworld-odyssey.xml",
+      "bytes": 1420,
+      "sha256": "2534f457dad131eced6b43b4da427c020036328dba19b7e2de2d2530fbeba852"
+    },
+    {
+      "path": "mods/RU-3712538846/1.6/Conditional/with-ludeon-rimworld-odyssey/Languages/Russian/DefInjected/TaleDef/Translations-with-ludeon-rimworld-odyssey.xml",
+      "bytes": 4751,
+      "sha256": "47cddfbae50ec7847efa0ba7f1c1b4772f766a2e2b8fdaf65bc4ebd11c439d8c"
+    },
+    {
+      "path": "mods/RU-3712538846/1.6/Conditional/with-ludeon-rimworld-odyssey/Languages/Russian/DefInjected/ThingDef/Translations-with-ludeon-rimworld-odyssey.xml",
+      "bytes": 1922,
+      "sha256": "cc269dd4a81c2549a9391b09ecac77ba31a6395f3cdbd5dafd20856dde3bfbb3"
+    },
+    {
+      "path": "mods/RU-3712538846/1.6/Conditional/with-ludeon-rimworld-odyssey/Languages/Russian/DefInjected/WeatherDef/Translations-with-ludeon-rimworld-odyssey.xml",
+      "bytes": 2007,
+      "sha256": "32d6c6b765a028900d146a80821a0d633b57aae3bf1ed8d10449543816e41373"
+    },
+    {
       "path": "mods/RU-3712538846/About/About.xml",
-      "bytes": 3419,
-      "sha256": "8104ca67a556149b04e775a5aab93bee879f620478aeb73159ad95b6f5b0b836"
+      "bytes": 2472,
+      "sha256": "fd364fd13804974aea47f806d526f45201d7f3e13e82fb812545dcd6f16d963c"
     },
     {
       "path": "mods/RU-3712538846/About/Preview.png",
@@ -10790,23 +10885,23 @@
     },
     {
       "path": "mods/RU-3712538846/Assemblies/RU3712538846.dll",
-      "bytes": 11776,
-      "sha256": "d80ee35f78f773c95c72a242c17294cf71cadbd2501b12d9ef500e7045f954de"
+      "bytes": 12288,
+      "sha256": "b27a2f865c9ef40e5cbcd4db5c6d8ccb51064bdc88cdd0d85ad5c67a3cb291c1"
     },
     {
       "path": "mods/RU-3712538846/CHANGELOG.md",
-      "bytes": 499,
-      "sha256": "7a948d7031e3da76a28eae01515543f44e761a40b000f194cd157c416ef790f2"
+      "bytes": 928,
+      "sha256": "1ff7ba5ea7a877553befb9b0e79e8a6d9c3991f6e05c9af9ef25065ec651d809"
     },
     {
       "path": "mods/RU-3712538846/Languages/Russian/DefInjected/FactionDef/Translations.xml",
       "bytes": 7611,
-      "sha256": "e5596cdcdfb4ce6db70527a4ec896b994d2beed0967212c81ea90537a619adfb"
+      "sha256": "c00d28962a7c0a78e6fad1836b98883c37d37094331d2aa0cbc3ea36cc4d9f97"
     },
     {
       "path": "mods/RU-3712538846/Languages/Russian/DefInjected/HediffDef/Translations.xml",
-      "bytes": 3327,
-      "sha256": "e2d371149cb65a6c6629c81ae1e8f0236913cdc23473bbb94bfd368534948077"
+      "bytes": 2348,
+      "sha256": "90a63bfec14ca2cd2aad71d833da0be6f2161da4179022b5cff661f4907c5f2a"
     },
     {
       "path": "mods/RU-3712538846/Languages/Russian/DefInjected/MVCF.ModDef/Translations.xml",
@@ -10815,8 +10910,8 @@
     },
     {
       "path": "mods/RU-3712538846/Languages/Russian/DefInjected/PawnKindDef/Translations.xml",
-      "bytes": 1030,
-      "sha256": "e464031654dcc18e5a25ab3e1b3efee4c106d1e78cf7c297f04febe58149a9c1"
+      "bytes": 943,
+      "sha256": "92ac1234fbd6a02ab19288de4f5ada02db30adc952971649d59f546d4ad3fd8b"
     },
     {
       "path": "mods/RU-3712538846/Languages/Russian/DefInjected/QuestScriptDef/Translations.xml",
@@ -10825,8 +10920,8 @@
     },
     {
       "path": "mods/RU-3712538846/Languages/Russian/DefInjected/RecipeDef/Translations.xml",
-      "bytes": 2884,
-      "sha256": "00ae8acfb46f463db3808c06f036b7551706695aa250e9231a9a79374568cf9b"
+      "bytes": 2158,
+      "sha256": "80ad570ac186c0e7c0e809e78f863abfb17944eec1111eacbeea142edd9526b4"
     },
     {
       "path": "mods/RU-3712538846/Languages/Russian/DefInjected/ResearchProjectDef/Translations.xml",
@@ -10840,33 +10935,18 @@
     },
     {
       "path": "mods/RU-3712538846/Languages/Russian/DefInjected/ScenarioDef/Translations.xml",
-      "bytes": 3830,
-      "sha256": "8316880c7ba4a8e93be83def9b5b206a8af6e3b64040a47f8276c26e4d6112f1"
-    },
-    {
-      "path": "mods/RU-3712538846/Languages/Russian/DefInjected/TaleDef/Translations.xml",
-      "bytes": 4847,
-      "sha256": "9ea539ca0aaf1d2a69d3b6466b3e8872e5e89c1b84a6ae192173a79254e7242f"
+      "bytes": 2483,
+      "sha256": "8dea5eb6933acfa18178950d0aa2f18cb7f60cea4e131e67d8f6259a16521a74"
     },
     {
       "path": "mods/RU-3712538846/Languages/Russian/DefInjected/ThingDef/Translations.xml",
-      "bytes": 26531,
-      "sha256": "ece2207c336de10554f5b3eb3015b77c39a5f6b146b3094940733583b1d45611"
-    },
-    {
-      "path": "mods/RU-3712538846/Languages/Russian/DefInjected/ThinkTreeDef/Translations.xml",
-      "bytes": 316,
-      "sha256": "667027b77bc18d44f3f14df0c8af60e203f031d743cdaddbac8bb4f718a7ab13"
+      "bytes": 24709,
+      "sha256": "67d9eba8aaa01b999664f4847db84936e54c4161f96adf746fa7c0a31ab3c514"
     },
     {
       "path": "mods/RU-3712538846/Languages/Russian/DefInjected/ThoughtDef/Translations.xml",
       "bytes": 406,
       "sha256": "60387b29da77c310d2668ca544993232d14abf6e57e6bbc847ef17ff70b729d8"
-    },
-    {
-      "path": "mods/RU-3712538846/Languages/Russian/DefInjected/WeatherDef/Translations.xml",
-      "bytes": 2001,
-      "sha256": "631eea7e453f390479ebe3f692a9c77da6bb5c09e14a321eeccc23219eac6bc1"
     },
     {
       "path": "mods/RU-3712538846/Languages/Russian/WordInfo/Case.txt",
@@ -10894,6 +10974,11 @@
       "sha256": "cde7883b9050a1104f4ac19a1572aafd6e5d7323b68351aaf51fbf4beba54966"
     },
     {
+      "path": "mods/RU-3712538846/LoadFolders.xml",
+      "bytes": 201,
+      "sha256": "5ba44b0c13a74bc3b63b8d66a8ba67b62bf211def275492ff9dcbf75dcd583f0"
+    },
+    {
       "path": "mods/RU-3712538846/NOTICES.md",
       "bytes": 1680,
       "sha256": "693a0b471a113c02749095d730ffd7845899253df3fbc58664d86c30f0313a99"
@@ -10905,13 +10990,13 @@
     },
     {
       "path": "mods/RU-3712538846/README.md",
-      "bytes": 3896,
-      "sha256": "5334ff94eb2f973fae355fc3d2c71c83eb9974881f4aad0d9c256c99887ad11f"
+      "bytes": 5232,
+      "sha256": "526eabeb63f59d945257f20527449a14501300f5437e230f898890970e937f98"
     },
     {
       "path": "mods/RU-3712538846/Source/Overrides.cs",
-      "bytes": 10220,
-      "sha256": "87e6c197f58d9f126b3a7dcbd920933207b5f188f176e2da9f25f4e339eb1852"
+      "bytes": 10578,
+      "sha256": "0a66abcd137deee04e35ef1c63ae452e192e4dedb1daab5e6b37f7c7b6a10a6c"
     },
     {
       "path": "mods/RU-3750476989/1.6/Conditional/with-ludeon-rimworld-anomaly/Languages/Russian/DefInjected/RimtoChess.ArenaUnitDef/Translations-with-ludeon-rimworld-anomaly.xml",
@@ -11069,6 +11154,26 @@
       "sha256": "a6673421eb38f6b8933ef564680d6281d1abb7e67964de48bfbd95173a047e5a"
     },
     {
+      "path": "mods/RU-3756132017/1.6/Conditional/condition-5eb1068d36ed45f204dc8172cc1f95af3bcb8535abd6d736d488b5137b41cd62/Languages/Russian/DefInjected/PawnRenderTreeDef/Translations-condition-5eb1068d36ed45f204dc8172cc1f95af3bcb8535abd6d736d488b5137b41cd62.xml",
+      "bytes": 511,
+      "sha256": "4b53585368503f028bd7a66871a8b4871a23e5ea5ba5a3e79e28a153b4be43ba"
+    },
+    {
+      "path": "mods/RU-3756132017/1.6/Conditional/condition-61e7b49c18c72ab648f77e010075569d4847c8da9029a5a9b3d0957558965256/Languages/Russian/DefInjected/PawnRenderTreeDef/Translations-condition-61e7b49c18c72ab648f77e010075569d4847c8da9029a5a9b3d0957558965256.xml",
+      "bytes": 366,
+      "sha256": "64552c7ddbf4fce2344269da29bd9b31e3c700658f8a74df82d7e97c77a43843"
+    },
+    {
+      "path": "mods/RU-3756132017/1.6/Conditional/condition-ccb572b4c34761bd17dd592ee0ae07d300f4a08a8a44348174093d2e0c516901/Languages/Russian/DefInjected/PawnRenderTreeDef/Translations-condition-ccb572b4c34761bd17dd592ee0ae07d300f4a08a8a44348174093d2e0c516901.xml",
+      "bytes": 366,
+      "sha256": "6f42382cac272eed968e9460f543b47dc3e53127bf271121d35f4c6f782ef21a"
+    },
+    {
+      "path": "mods/RU-3756132017/1.6/Conditional/with-all-ludeon-rimworld-biotech-and-ludeon-rimworld-ideology/Languages/Russian/DefInjected/PawnRenderTreeDef/Translations-with-all-ludeon-rimworld-biotech-and-ludeon-rimworld-ideology.xml",
+      "bytes": 511,
+      "sha256": "960a71796ce52f5166d6e936e559d3e08318fa3197c30dd740c3f29bf355ca49"
+    },
+    {
       "path": "mods/RU-3756132017/1.6/Conditional/with-all-ludeon-rimworld-biotech-and-vanillaracesexpanded-android/Languages/Russian/DefInjected/GeneDef/Translations-with-all-ludeon-rimworld-biotech-and-vanillaracesexpanded-android.xml",
       "bytes": 530,
       "sha256": "6b8906152fe733d298378e1defa6de6a14d88df33df3ddeb28b32cd8b2411b3f"
@@ -11110,13 +11215,13 @@
     },
     {
       "path": "mods/RU-3756132017/1.6/Conditional/with-ludeon-rimworld-biotech/Languages/Russian/DefInjected/GeneDef/Translations-with-ludeon-rimworld-biotech.xml",
-      "bytes": 4898,
-      "sha256": "43ce8b22c007898a1148f1567ded2dea5735cd5443aa8bb6bb4917d612751fd6"
+      "bytes": 5210,
+      "sha256": "75f348a584087f8a9e5fff048b6923f8688efbad0309baef366047ef41aaa43f"
     },
     {
-      "path": "mods/RU-3756132017/1.6/Conditional/with-ludeon-rimworld-biotech/Languages/Russian/DefInjected/PawnRenderTreeDef/Translations-with-ludeon-rimworld-biotech.xml",
-      "bytes": 218,
-      "sha256": "8b86071a0c843a2665c15d3334152ecf1078cf189176a4b10fa563ef4a881cfe"
+      "path": "mods/RU-3756132017/1.6/Conditional/with-ludeon-rimworld-biotech/Languages/Russian/DefInjected/RecipeDef/Translations-with-ludeon-rimworld-biotech.xml",
+      "bytes": 289,
+      "sha256": "723727d2cfe08d250659618ded46b3b6b0956ad0d75f16f17e365149a9adc93f"
     },
     {
       "path": "mods/RU-3756132017/1.6/Conditional/with-ludeon-rimworld-biotech/Languages/Russian/DefInjected/XenotypeDef/Translations-with-ludeon-rimworld-biotech.xml",
@@ -11125,8 +11230,8 @@
     },
     {
       "path": "mods/RU-3756132017/1.6/Conditional/with-ludeon-rimworld-ideology/Languages/Russian/DefInjected/PawnRenderTreeDef/Translations-with-ludeon-rimworld-ideology.xml",
-      "bytes": 373,
-      "sha256": "cd93a193e5ea9742f18ae700376e9afc17802fb430be3503132eb7011deb53c2"
+      "bytes": 1205,
+      "sha256": "cdf1622c519e32073a6329e2300f54bfee9d06fa30ecf092a295c25ce519cd9c"
     },
     {
       "path": "mods/RU-3756132017/1.6/Conditional/with-ludeon-rimworld-royalty/Languages/Russian/DefInjected/RecipeDef/Translations-with-ludeon-rimworld-royalty.xml",
@@ -11139,9 +11244,19 @@
       "sha256": "efc840c3abb83bcd7a9d1974ee24c5b5404f945ebaa970ee24cf3cb20206e4b9"
     },
     {
+      "path": "mods/RU-3756132017/1.6/Conditional/without-ludeon-rimworld-biotech/Languages/Russian/DefInjected/RecipeDef/Translations-without-ludeon-rimworld-biotech.xml",
+      "bytes": 273,
+      "sha256": "f5e6b2a17a9a3d9a6181537088bd6e870cb2fc6331a8a8cf397c6e1525c26bfd"
+    },
+    {
+      "path": "mods/RU-3756132017/1.6/Conditional/without-ludeon-rimworld-ideology/Languages/Russian/DefInjected/PawnRenderTreeDef/Translations-without-ludeon-rimworld-ideology.xml",
+      "bytes": 905,
+      "sha256": "e5feb973beae465c43732822272a52827962b3a88f305d3c4ebb191f86001403"
+    },
+    {
       "path": "mods/RU-3756132017/About/About.xml",
       "bytes": 2533,
-      "sha256": "8eda5c8bebc52d28c4a2108538d7a18f4488ee415c66c2f7ebd3c4df381f55f2"
+      "sha256": "a2bb5243bc237743e1c9c255040b9521249e547b7904efce4839cadd80b16692"
     },
     {
       "path": "mods/RU-3756132017/About/Preview.png",
@@ -11160,8 +11275,8 @@
     },
     {
       "path": "mods/RU-3756132017/CHANGELOG.md",
-      "bytes": 536,
-      "sha256": "ce6689c639a5991a5e7152efbf43da6411a3d9a2445d9e8e918c6b2c43ceaf51"
+      "bytes": 909,
+      "sha256": "51efd52f8483b02a3234f48bebddb7dc75cafc82290fcd1ba8593fcb5b9717d0"
     },
     {
       "path": "mods/RU-3756132017/Languages/English/Keyed/Additional.xml",
@@ -11214,11 +11329,6 @@
       "sha256": "9e927b5844e65d6a74566c730cd4674f65f2435aec55b9925b818be95606cc42"
     },
     {
-      "path": "mods/RU-3756132017/Languages/Russian/DefInjected/GeneDef/Translations.xml",
-      "bytes": 385,
-      "sha256": "2458f2af717ad7bd838a69a14183c03925503fc5ef7f08c7e12b9bf4d074c3a3"
-    },
-    {
       "path": "mods/RU-3756132017/Languages/Russian/DefInjected/HairDef/Translations.xml",
       "bytes": 148,
       "sha256": "53a77f2ecd88637f2a600431f5c33de25ae02b38f81e7cb01d96387744a5706d"
@@ -11245,13 +11355,13 @@
     },
     {
       "path": "mods/RU-3756132017/Languages/Russian/DefInjected/PawnRenderTreeDef/Translations.xml",
-      "bytes": 2266,
-      "sha256": "8e13c207c66d4fdf2c34077a73166aceb9c35d0fdb76ef199ae3c5e54b54101c"
+      "bytes": 1141,
+      "sha256": "49847f0a35363f7c1d607464c34dd34687904e90ff5d211e223622c764b4bbbf"
     },
     {
       "path": "mods/RU-3756132017/Languages/Russian/DefInjected/RecipeDef/Translations.xml",
-      "bytes": 17521,
-      "sha256": "80530e02a172172354a66b4ba03caf3e6a953ed957d6f74e7e928b1116948bc2"
+      "bytes": 17305,
+      "sha256": "d018962ab93b46e45e30c3753e19660c872bccef1bf578cafd59acbbca38c250"
     },
     {
       "path": "mods/RU-3756132017/Languages/Russian/DefInjected/ResearchProjectDef/Translations.xml",
@@ -11350,8 +11460,8 @@
     },
     {
       "path": "mods/RU-3756132017/LoadFolders.xml",
-      "bytes": 917,
-      "sha256": "a5884a715c9d8871d3b0813eb4e292051d238cdf9f4c3c045eb5ec92815941b4"
+      "bytes": 1824,
+      "sha256": "381cfcf6fa1f00375a789b1228b0f99172313a798a6b54dcba934926a17312fb"
     },
     {
       "path": "mods/RU-3756132017/NOTICES.md",
@@ -11749,9 +11859,14 @@
       "sha256": "32333ffa76062a8e93f59afb518d7aa7f47f49e48b59aa0277d1081b3de1a0b4"
     },
     {
+      "path": "mods/RU-839005762/1.6/Conditional/with-ludeon-rimworld-odyssey/Languages/Russian/Keyed/Translations-with-ludeon-rimworld-odyssey.xml",
+      "bytes": 570,
+      "sha256": "fd79957b3cae8c7911b59496f3953410515ace0619c459630d104d725b4eb772"
+    },
+    {
       "path": "mods/RU-839005762/About/About.xml",
       "bytes": 2220,
-      "sha256": "e737a082ec8327d92c496c10f3bbbff44c29b1db88560dd49dc41fced1d47921"
+      "sha256": "ca79a158983c5c58f24703c5cdf56d396c61dc23d3540fd851975be899a98dc5"
     },
     {
       "path": "mods/RU-839005762/About/Preview.png",
@@ -11765,13 +11880,13 @@
     },
     {
       "path": "mods/RU-839005762/Assemblies/RU839005762.dll",
-      "bytes": 17408,
-      "sha256": "5a57fe5447d452e6bb43d502de54a24422e497a1a4c3195e86b67907da09720d"
+      "bytes": 17920,
+      "sha256": "03ba52370062387dae0332fdd5f7fb485bf09badfbdb346990036f2ff36d597c"
     },
     {
       "path": "mods/RU-839005762/CHANGELOG.md",
-      "bytes": 628,
-      "sha256": "1c252594c8c41a559e4795d353bf78ff7388fda664a9a699f4d6ef06c75b1375"
+      "bytes": 765,
+      "sha256": "663b6c4b90bd6540c78f647a2881eb1f7de5fc75d8cca4df263246b4d7f46ecc"
     },
     {
       "path": "mods/RU-839005762/Languages/Russian/DefInjected/ScenPartDef/Translations.xml",
@@ -11795,8 +11910,8 @@
     },
     {
       "path": "mods/RU-839005762/Languages/Russian/Keyed/Translations.xml",
-      "bytes": 3342,
-      "sha256": "e91e8de7661e97cb84b1adf1f245d386d187a6ecb8e16e1e7369306e6143132e"
+      "bytes": 2845,
+      "sha256": "066aa1724cb3beff85b911dbf939e52c80584bd912a9fd13232db632b785fbb8"
     },
     {
       "path": "mods/RU-839005762/LICENSE",
@@ -11815,8 +11930,8 @@
     },
     {
       "path": "mods/RU-839005762/LoadFolders.xml",
-      "bytes": 203,
-      "sha256": "93116f26f67ea1a04a48b4e10ea3c6d20501ece2c01598a1417c1ee22bc39187"
+      "bytes": 299,
+      "sha256": "08f8019baeed320d469848dc9d5a50da60069fd768efa5c4721902d59c0a047c"
     },
     {
       "path": "mods/RU-839005762/NOTICES.md",
@@ -11845,8 +11960,8 @@
     },
     {
       "path": "mods/RU-839005762/Source/Overrides.cs",
-      "bytes": 10292,
-      "sha256": "2e8157fcfc3e609ee28a8d76974a1d8488717de542debec05ce9914cb67027fe"
+      "bytes": 10575,
+      "sha256": "23aaa71b254c7d8cc9229a565453211cf4e1ff72e99bd878b5322c8b77fa1897"
     },
     {
       "path": "mods/RU-927155256/About/About.xml",

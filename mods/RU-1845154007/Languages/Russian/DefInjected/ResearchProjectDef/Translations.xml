@@ -1,45 +1,6 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <VFES_SiegeEquipment.description>Позволяет строить средневековые осадные орудия.</VFES_SiegeEquipment.description>
-  <VWE_TrenchWarfare.description>Позволяет освоить тактику окопной войны и оружие для боя на близкой дистанции.</VWE_TrenchWarfare.description>
   <VFES_ConcealedDefenses.description>Позволяет строить убирающиеся под землю барьеры и турели, особенно полезные для обороны помещений.</VFES_ConcealedDefenses.description>
-  <VFES_EMPCannon.generalRules.rulesStrings>
-    <li>subject-&gt;тихая буря</li>
-    <li>subject_gen-&gt;тихой бури</li>
-    <li>subject_dat-&gt;тихой буре</li>
-    <li>subject_pre_about-&gt;о тихой буре</li>
-    <li>subject_story-&gt;{ANYPAWN_gender ? создал : создала : создало} оружие, поражающее боевых механоидов электромагнитными импульсами</li>
-    <li>subject_story-&gt;{ANYPAWN_gender ? соединил : соединила : соединило} мощь электромагнитных импульсов с продуманной обороной</li>
-    <li>subject_story-&gt;{ANYPAWN_gender ? открыл : открыла : открыло} путь к победе, оглушая противников невидимой силой</li>
-    <li>subject_story-&gt;{ANYPAWN_gender ? научился : научилась : научилось} управлять электронами, чтобы защищать и парализовать</li>
-    <li>subject_gerund-&gt;управления полем боя с помощью электрических разрядов</li>
-  </VFES_EMPCannon.generalRules.rulesStrings>
-  <VFES_RepulsorTechnology.label>репульсорные технологии</VFES_RepulsorTechnology.label>
-  <VFES_SiegeEquipment.label>осадное снаряжение</VFES_SiegeEquipment.label>
-  <VFES_SiegeEquipment.generalRules.rulesStrings>
-    <li>subject-&gt;мастера осады</li>
-    <li>subject_gen-&gt;мастеров осады</li>
-    <li>subject_dat-&gt;мастерам осады</li>
-    <li>subject_pre_about-&gt;о мастерах осады</li>
-    <li>subject_story-&gt;{ANYPAWN_gender ? возродил : возродила} древние способы проламывать самые крепкие укрепления</li>
-    <li>subject_story-&gt;{ANYPAWN_gender ? создал : создала} громыхающие по полям осадные машины, вселяющие страх во врагов</li>
-    <li>subject_story-&gt;{ANYPAWN_gender ? построил : построила} требушеты и тараны из прочного дерева и железа</li>
-    <li>subject_story-&gt;{ANYPAWN_gender ? руководил : руководила} легендарными осадами, чью тактику изучали многие поколения</li>
-    <li>subject_gerund-&gt;создания осадного вооружения по вновь открытым старинным приёмам</li>
-  </VFES_SiegeEquipment.generalRules.rulesStrings>
-  <VWE_TrenchWarfare.label>позиционная война</VWE_TrenchWarfare.label>
-  <VWE_TrenchWarfare.generalRules.rulesStrings>
-    <li>subject-&gt;окопная оборона</li>
-    <li>subject_gen-&gt;окопной обороны</li>
-    <li>subject_dat-&gt;окопной обороне</li>
-    <li>subject_pre_about-&gt;об окопной обороне</li>
-    <li>subject_story-&gt;{ANYPAWN_gender ? перенял : переняла} суровую тактику окопных боёв, превращая местность в лабиринт грязи и смерти</li>
-    <li>subject_story-&gt;{ANYPAWN_gender ? разработал : разработала} инструменты и приёмы быстрого рытья окопов и возведения укреплений</li>
-    <li>subject_story-&gt;{ANYPAWN_gender ? нашёл : нашла} равновесие между ужасом ничейной земли и безопасностью подготовленной обороны</li>
-    <li>subject_story-&gt;{ANYPAWN_gender ? изменил : изменила} войну, введя ближний бой внутри укрытий, вырытых в земле</li>
-    <li>subject_gerund-&gt;использования земляных укреплений для защиты и тактического преимущества</li>
-  </VWE_TrenchWarfare.generalRules.rulesStrings>
-  <VFES_ConcealedDefenses.label>скрытые оборонительные сооружения</VFES_ConcealedDefenses.label>
   <VFES_ConcealedDefenses.generalRules.rulesStrings>
     <li>subject-&gt;скрытая сила</li>
     <li>subject_gen-&gt;скрытой силы</li>
@@ -51,7 +12,20 @@
     <li>subject_story-&gt;{ANYPAWN_gender ? создал : создала} сеть скрытого вооружения, обеспечив защиту за счёт незаметности</li>
     <li>subject_gerund-&gt;маскировки мощного оружия у всех на виду</li>
   </VFES_ConcealedDefenses.generalRules.rulesStrings>
-  <VFES_Railgun.label>рельсовые пушки</VFES_Railgun.label>
+  <VFES_ConcealedDefenses.label>скрытые оборонительные сооружения</VFES_ConcealedDefenses.label>
+  <VFES_EMPCannon.description>Позволяет создавать ЭМИ-ловушки и бластеры Теслы, способные оглушать механоидов.</VFES_EMPCannon.description>
+  <VFES_EMPCannon.generalRules.rulesStrings>
+    <li>subject-&gt;тихая буря</li>
+    <li>subject_gen-&gt;тихой бури</li>
+    <li>subject_dat-&gt;тихой буре</li>
+    <li>subject_pre_about-&gt;о тихой буре</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? создал : создала : создало} оружие, поражающее боевых механоидов электромагнитными импульсами</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? соединил : соединила : соединило} мощь электромагнитных импульсов с продуманной обороной</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? открыл : открыла : открыло} путь к победе, оглушая противников невидимой силой</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? научился : научилась : научилось} управлять электронами, чтобы защищать и парализовать</li>
+    <li>subject_gerund-&gt;управления полем боя с помощью электрических разрядов</li>
+  </VFES_EMPCannon.generalRules.rulesStrings>
+  <VFES_EMPCannon.label>электромагнитный импульс</VFES_EMPCannon.label>
   <VFES_Railgun.description>Позволяет приспособить корабельные орудия для обороны поселения.</VFES_Railgun.description>
   <VFES_Railgun.generalRules.rulesStrings>
     <li>subject-&gt;точность без границ</li>
@@ -64,8 +38,7 @@
     <li>subject_story-&gt;{ANYPAWN_gender ? открыл : открыла} новую эпоху, в которой исход битвы гигантов решает тихий шёпот магнитного ускорения</li>
     <li>subject_gerund-&gt;соединения миров громом рельсотронов</li>
   </VFES_Railgun.generalRules.rulesStrings>
-  <VFES_EMPCannon.label>электромагнитный импульс</VFES_EMPCannon.label>
-  <VFES_EMPCannon.description>Позволяет создавать ЭМИ-ловушки и бластеры Теслы, способные оглушать механоидов.</VFES_EMPCannon.description>
+  <VFES_Railgun.label>рельсовые пушки</VFES_Railgun.label>
   <VFES_RepulsorTechnology.description>Позволяет строить ультратехнологические генераторы щита, создающие энергетические поля для отражения снарядов.</VFES_RepulsorTechnology.description>
   <VFES_RepulsorTechnology.generalRules.rulesStrings>
     <li>subject-&gt;создание силовых полей</li>
@@ -78,4 +51,31 @@
     <li>subject_story-&gt;{ANYPAWN_gender ? сохранил : сохранила} мир посреди бури под мерцанием защитных барьеров</li>
     <li>subject_gerund-&gt;создания защиты из чистой энергии</li>
   </VFES_RepulsorTechnology.generalRules.rulesStrings>
+  <VFES_RepulsorTechnology.label>репульсорные технологии</VFES_RepulsorTechnology.label>
+  <VFES_SiegeEquipment.description>Позволяет строить средневековые осадные орудия.</VFES_SiegeEquipment.description>
+  <VFES_SiegeEquipment.generalRules.rulesStrings>
+    <li>subject-&gt;мастера осады</li>
+    <li>subject_gen-&gt;мастеров осады</li>
+    <li>subject_dat-&gt;мастерам осады</li>
+    <li>subject_pre_about-&gt;о мастерах осады</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? возродил : возродила} древние способы проламывать самые крепкие укрепления</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? создал : создала} громыхающие по полям осадные машины, вселяющие страх во врагов</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? построил : построила} требушеты и тараны из прочного дерева и железа</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? руководил : руководила} легендарными осадами, чью тактику изучали многие поколения</li>
+    <li>subject_gerund-&gt;создания осадного вооружения по вновь открытым старинным приёмам</li>
+  </VFES_SiegeEquipment.generalRules.rulesStrings>
+  <VFES_SiegeEquipment.label>осадное снаряжение</VFES_SiegeEquipment.label>
+  <VWE_TrenchWarfare.description>Позволяет освоить тактику окопной войны и оружие для боя на близкой дистанции.</VWE_TrenchWarfare.description>
+  <VWE_TrenchWarfare.generalRules.rulesStrings>
+    <li>subject-&gt;окопная оборона</li>
+    <li>subject_gen-&gt;окопной обороны</li>
+    <li>subject_dat-&gt;окопной обороне</li>
+    <li>subject_pre_about-&gt;об окопной обороне</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? перенял : переняла} суровую тактику окопных боёв, превращая местность в лабиринт грязи и смерти</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? разработал : разработала} инструменты и приёмы быстрого рытья окопов и возведения укреплений</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? нашёл : нашла} равновесие между ужасом ничейной земли и безопасностью подготовленной обороны</li>
+    <li>subject_story-&gt;{ANYPAWN_gender ? изменил : изменила} войну, введя ближний бой внутри укрытий, вырытых в земле</li>
+    <li>subject_gerund-&gt;использования земляных укреплений для защиты и тактического преимущества</li>
+  </VWE_TrenchWarfare.generalRules.rulesStrings>
+  <VWE_TrenchWarfare.label>позиционная война</VWE_TrenchWarfare.label>
 </LanguageData>

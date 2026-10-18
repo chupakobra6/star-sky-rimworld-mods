@@ -1,0 +1,26 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RED_BrainFailure.comps.HediffComp_DestroyOrgan.messageText>{PAWN_labelShort}: отказ органа ({1}).</RED_BrainFailure.comps.HediffComp_DestroyOrgan.messageText>
+  <RED_BrainFailure.description>Серьёзное заболевание или нарушение работы мозга, затрагивающее его функции или структуру. На этой стадии обычные методы лечения уже не помогают.</RED_BrainFailure.description>
+  <RED_BrainFailure.label>энцефалопатия</RED_BrainFailure.label>
+  <RED_BrainFailure.stages.extreme.label>крайняя степень</RED_BrainFailure.stages.extreme.label>
+  <RED_BrainFailure.stages.minor.label>лёгкая степень</RED_BrainFailure.stages.minor.label>
+  <RED_BrainFailure.stages.moderate.label>умеренная степень</RED_BrainFailure.stages.moderate.label>
+  <RED_BrainFailure.stages.severe.label>тяжёлая степень</RED_BrainFailure.stages.severe.label>
+  <RED_FailingOrganDamage.comps.HediffComp_GetsPermanent.permanentLabel>отказ органа</RED_FailingOrganDamage.comps.HediffComp_GetsPermanent.permanentLabel>
+  <RED_FailingOrganDamage.description>Эта часть тела отказывает.</RED_FailingOrganDamage.description>
+  <RED_FailingOrganDamage.injuryProps.destroyedLabel>разрушение</RED_FailingOrganDamage.injuryProps.destroyedLabel>
+  <RED_FailingOrganDamage.label>повреждение органа</RED_FailingOrganDamage.label>
+  <RED_FailingOrganDamage.labelNoun>отказ органа</RED_FailingOrganDamage.labelNoun>
+  <RED_FailingOrganDamage.labelNounPretty>отказ: {1}</RED_FailingOrganDamage.labelNounPretty>
+  <RED_OrganFailure.comps.HediffComp_DestroyOrgan.messageText>{PAWN_labelShort}: отказ органа ({1}).</RED_OrganFailure.comps.HediffComp_DestroyOrgan.messageText>
+  <RED_OrganFailure.description>Серьёзное заболевание, аутоиммунная реакция или другое нарушение, затрагивающее функции или структуру органа. На этой стадии обычные методы лечения уже не помогают.</RED_OrganFailure.description>
+  <RED_OrganFailure.label>органная недостаточность</RED_OrganFailure.label>
+  <RED_OrganFailure.stages.extreme.label>крайняя степень</RED_OrganFailure.stages.extreme.label>
+  <RED_OrganFailure.stages.minor.label>лёгкая степень</RED_OrganFailure.stages.minor.label>
+  <RED_OrganFailure.stages.moderate.label>умеренная степень</RED_OrganFailure.stages.moderate.label>
+  <RED_OrganFailure.stages.severe.label>тяжёлая степень</RED_OrganFailure.stages.severe.label>
+  <RED_SecretHealthTracker.description>Незаметно наблюдает за вами.</RED_SecretHealthTracker.description>
+  <RED_SecretHealthTracker.label>наблюдение за здоровьем</RED_SecretHealthTracker.label>
+  <RED_SecretHealthTracker.stages.health_tracking.label>наблюдение за здоровьем</RED_SecretHealthTracker.stages.health_tracking.label>
+</LanguageData>

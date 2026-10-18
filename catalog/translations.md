@@ -178,7 +178,7 @@ RimWorld 1.6 · Версия 1.0.1
 
 [![Medieval Overhaul: House Ignivar — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/house-ignivar-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3804220749)
 
-RimWorld 1.6 · Версия 1.0.0
+RimWorld 1.6 · Версия 1.0.2
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3804220749) · [Исходники и руководство](../mods/RU-3712538846/README.md) · [История изменений](../mods/RU-3712538846/CHANGELOG.md) · [Лицензия](../mods/RU-3712538846/LICENSE) · [Источники и уведомления](../mods/RU-3712538846/NOTICES.md)
 
@@ -260,7 +260,7 @@ RimWorld 1.6 · Версия 1.0.3
 
 [![Humanoid Alien Races — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/humanoid-alien-races-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3807814478)
 
-RimWorld 1.6 · Версия 1.0.1
+RimWorld 1.6 · Версия 1.0.2
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3807814478) · [Исходники и руководство](../mods/RU-839005762/README.md) · [История изменений](../mods/RU-839005762/CHANGELOG.md) · [Лицензия](../mods/RU-839005762/LICENSE) · [Источники и уведомления](../mods/RU-839005762/NOTICES.md)
 
@@ -280,7 +280,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 [![Vanilla Furniture Expanded - Security — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/vanilla-furniture-expanded-security-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3807814514)
 
-RimWorld 1.6 · Версия 1.0.1
+RimWorld 1.6 · Версия 1.0.3
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3807814514) · [Исходники и руководство](../mods/RU-1845154007/README.md) · [История изменений](../mods/RU-1845154007/CHANGELOG.md) · [Лицензия](../mods/RU-1845154007/LICENSE) · [Источники и уведомления](../mods/RU-1845154007/NOTICES.md)
 
@@ -340,7 +340,7 @@ RimWorld 1.6 · Версия 1.0.2
 
 [![Alpha Animals — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/alpha-animals-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306758)
 
-RimWorld 1.6 · Версия 1.0.3
+RimWorld 1.6 · Версия 1.0.4
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306758) · [Исходники и руководство](../mods/RU-1541721856/README.md) · [История изменений](../mods/RU-1541721856/CHANGELOG.md) · [Лицензия](../mods/RU-1541721856/LICENSE) · [Источники и уведомления](../mods/RU-1541721856/NOTICES.md)
 
@@ -432,11 +432,9 @@ RimWorld 1.6 · Версия 1.0.0
 
 [![Big and Small - Genes & More — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/big-and-small-genes-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3811275257)
 
-RimWorld 1.6 · Версия 1.0.2
+RimWorld 1.6 · Версия 1.0.3
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3811275257) · [Исходники и руководство](../mods/RU-2920751126/README.md) · [История изменений](../mods/RU-2920751126/CHANGELOG.md) · [Лицензия](../mods/RU-2920751126/LICENSE) · [Источники и уведомления](../mods/RU-2920751126/NOTICES.md)
-
-[![Другие моды в Мастерской Steam](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-ru.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)
 
 ## Big and Small - Framework — русский перевод
 
@@ -444,11 +442,9 @@ RimWorld 1.6 · Версия 1.0.2
 
 [![Big and Small - Framework — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/big-and-small-framework-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3811275263)
 
-RimWorld 1.6 · Версия 1.0.0
+RimWorld 1.6 · Версия 1.0.2
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3811275263) · [Исходники и руководство](../mods/RU-2925432336/README.md) · [История изменений](../mods/RU-2925432336/CHANGELOG.md) · [Лицензия](../mods/RU-2925432336/LICENSE) · [Источники и уведомления](../mods/RU-2925432336/NOTICES.md)
-
-[![Другие моды в Мастерской Steam](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-ru.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)
 
 ## Medieval Overhaul: House Van Illa — русский перевод
 
@@ -456,7 +452,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 [![Medieval Overhaul: House Van Illa — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/house-van-illa-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3811881608)
 
-RimWorld 1.6 · Версия 1.0.1
+RimWorld 1.6 · Версия 1.0.2
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3811881608) · [Исходники и руководство](../mods/RU-3327601396/README.md) · [История изменений](../mods/RU-3327601396/CHANGELOG.md) · [Лицензия](../mods/RU-3327601396/LICENSE) · [Источники и уведомления](../mods/RU-3327601396/NOTICES.md)
 
@@ -488,7 +484,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 [![Alpha Mechs — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/alpha-mechs-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3816649412)
 
-RimWorld 1.6 · Версия 1.0.1
+RimWorld 1.6 · Версия 1.0.2
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3816649412) · [Исходники и руководство](../mods/RU-2973169158/README.md) · [История изменений](../mods/RU-2973169158/CHANGELOG.md) · [Лицензия](../mods/RU-2973169158/LICENSE) · [Источники и уведомления](../mods/RU-2973169158/NOTICES.md)
 
@@ -558,7 +554,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 [![Biomes! Prehistoric — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/biomes-prehistoric-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3818475382)
 
-RimWorld 1.6 · Версия 1.0.0
+RimWorld 1.6 · Версия 1.0.1
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3818475382) · [Исходники и руководство](../mods/RU-2860715703/README.md) · [История изменений](../mods/RU-2860715703/CHANGELOG.md) · [Лицензия](../mods/RU-2860715703/LICENSE) · [Источники и уведомления](../mods/RU-2860715703/NOTICES.md)
 
@@ -568,7 +564,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 [![Biomes! Caverns — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/biomes-caverns-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3818475391)
 
-RimWorld 1.6 · Версия 1.0.1
+RimWorld 1.6 · Версия 1.0.2
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3818475391) · [Исходники и руководство](../mods/RU-2969748433/README.md) · [История изменений](../mods/RU-2969748433/CHANGELOG.md) · [Лицензия](../mods/RU-2969748433/LICENSE) · [Источники и уведомления](../mods/RU-2969748433/NOTICES.md)
 
@@ -640,11 +636,9 @@ RimWorld 1.6 · Версия 1.0.0
 
 [![Moyo2.0-Blood stained business — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/moyo-2-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3820544683)
 
-RimWorld 1.6 · Версия 1.1.0
+RimWorld 1.6 · Версия 1.1.1
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3820544683) · [Исходники и руководство](../mods/RU-3756132017/README.md) · [История изменений](../mods/RU-3756132017/CHANGELOG.md) · [Лицензия](../mods/RU-3756132017/LICENSE) · [Источники и уведомления](../mods/RU-3756132017/NOTICES.md)
-
-[![Другие моды в Мастерской Steam](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-ru.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)
 
 ## RimtoChess — русский перевод
 

@@ -1,0 +1,11 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFES_ComplexHeavyIncinerator_Top.description>Тяжёлый испепелитель для установки на турель.</VFES_ComplexHeavyIncinerator_Top.description>
+  <VFES_ComplexHeavyIncinerator_Top.label>тяжёлый испепелитель</VFES_ComplexHeavyIncinerator_Top.label>
+  <VFES_ComplexHeavyIncinerator_Top.verbs.0.label>тяжёлый испепелитель</VFES_ComplexHeavyIncinerator_Top.verbs.0.label>
+  <VFES_Complex_HeavyIncineratorComplex.comps.3.fuelGizmoLabel>Осталось биоферрита</VFES_Complex_HeavyIncineratorComplex.comps.3.fuelGizmoLabel>
+  <VFES_Complex_HeavyIncineratorComplex.comps.3.fuelLabel>Осталось биоферрита</VFES_Complex_HeavyIncineratorComplex.comps.3.fuelLabel>
+  <VFES_Complex_HeavyIncineratorComplex.comps.3.outOfFuelMessage>Требуется биоферрит</VFES_Complex_HeavyIncineratorComplex.comps.3.outOfFuelMessage>
+  <VFES_Complex_HeavyIncineratorComplex.description>Тяжёлый испепелитель на баррикаде, предоставляющей укрытие. Для стрельбы нужен стрелок. Оснащён мощной мегагорелкой, которую заряжают биоферритом.</VFES_Complex_HeavyIncineratorComplex.description>
+  <VFES_Complex_HeavyIncineratorComplex.label>станковый тяжёлый испепелитель</VFES_Complex_HeavyIncineratorComplex.label>
+</LanguageData>

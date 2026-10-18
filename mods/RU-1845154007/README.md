@@ -1,3 +1,5 @@
+[![Поддержать на Boosty — моды и переводы на заказ](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-support-ru.png)](https://boosty.to/chupakobra6?utm_source=github&utm_medium=repository&utm_campaign=star_sky_mods&utm_content=readme&utm_term=support)
+
 # Vanilla Furniture Expanded - Security — русский перевод [Star Sky Mods]
 
 [![Vanilla Furniture Expanded - Security — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/vanilla-furniture-expanded-security-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3807814514)
@@ -8,6 +10,8 @@
 
 Vanilla Furniture Expanded - Security расширяет оборону колонии от ранних ловушек до высокотехнологичных турелей. Этот пакет переводит постройки, исследования и сообщения мода на русский язык.
 
+![Что переведено](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/section-features-ru.png)
+
 ## Что переведено
 
 Переведены названия и описания защитных построек, исследования и команды.
@@ -15,6 +19,8 @@ Vanilla Furniture Expanded - Security расширяет оборону коло
 - Названия и описания ловушек, заграждений и турелей.
 - Исследования и команды для новых оборонительных сооружений.
 - Сообщения и подсказки, связанные с работой защитных построек.
+
+![Как пользоваться](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/section-how-to-use-ru.png)
 
 ## Установка
 
@@ -25,6 +31,8 @@ Vanilla Furniture Expanded - Security расширяет оборону коло
 <!-- rimmods:readme installation end -->
 
 Изучайте оборонительные технологии и стройте доступные укрепления через меню строительства RimWorld.
+
+![Обратная связь](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/section-feedback-ru.png)
 
 ## Обратная связь
 
@@ -45,3 +53,6 @@ Vanilla Furniture Expanded - Security расширяет оборону коло
 <!-- rimmods:readme ludeon begin -->
 Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.
 <!-- rimmods:readme ludeon end -->
+
+[![Исходники и руководство на GitHub](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/github-ru.png)](https://github.com/chupakobra6/star-sky-rimworld-mods/tree/main/mods/RU-1845154007)
+[![Другие моды в Мастерской Steam](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-ru.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)

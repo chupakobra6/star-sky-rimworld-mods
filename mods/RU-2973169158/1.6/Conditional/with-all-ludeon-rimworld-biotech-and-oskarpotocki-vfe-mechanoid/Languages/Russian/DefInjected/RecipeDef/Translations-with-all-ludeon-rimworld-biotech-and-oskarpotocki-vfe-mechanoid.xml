@@ -1,5 +1,12 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
+  <AM_ColossusRecipe.jobString>Выращивает механоида.</AM_ColossusRecipe.jobString>
+  <AM_DominionRecipe.jobString>Выращивает механоида.</AM_DominionRecipe.jobString>
+  <AM_EvisceratorRecipe.jobString>Выращивает механоида.</AM_EvisceratorRecipe.jobString>
+  <AM_HopliteRecipe.jobString>Выращивает механоида.</AM_HopliteRecipe.jobString>
+  <AM_IncineratorRecipe.jobString>Выращивает механоида.</AM_IncineratorRecipe.jobString>
+  <AM_PristineSlurrymasterRecipe.jobString>Выращивает механоида.</AM_PristineSlurrymasterRecipe.jobString>
+  <AM_SiegemasterRecipe.jobString>Выращивает механоида.</AM_SiegemasterRecipe.jobString>
   <AM_ColossusRecipe.description>Вырастить механоида колосса.</AM_ColossusRecipe.description>
   <AM_ColossusRecipe.label>вырастить колосса</AM_ColossusRecipe.label>
   <AM_DominionRecipe.description>Вырастить механоида властителя.</AM_DominionRecipe.description>
