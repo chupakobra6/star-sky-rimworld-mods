@@ -565,8 +565,8 @@
     },
     {
       "path": "catalog/translations.md",
-      "bytes": 59672,
-      "sha256": "1889a3f2c89bcc2ce58df96dcc66f3b10458e4271f13133ca9503e34d4964d4f"
+      "bytes": 59901,
+      "sha256": "9553e9f2b8227eef92a7599728d7c04a7e1ca05e0d6a0e881bd14472572b3807"
     },
     {
       "path": "mods/CharacterEditor-Fixes/About/About.xml",
@@ -10636,7 +10636,7 @@
     {
       "path": "mods/RU-3692756679/About/About.xml",
       "bytes": 2496,
-      "sha256": "a89046ab357513b6f9e5518d2753d924095099f96daefdaa04347149498968eb"
+      "sha256": "c9d0adb88714ba0dcd0064f24800d44143a446e63d8905b0d929a8ca3f7ad61c"
     },
     {
       "path": "mods/RU-3692756679/About/Preview.png",
@@ -10655,8 +10655,8 @@
     },
     {
       "path": "mods/RU-3692756679/CHANGELOG.md",
-      "bytes": 819,
-      "sha256": "195b6b284d5cf110289d1a20a10e132f0712723214689d3fd54d577c2008e5e0"
+      "bytes": 1122,
+      "sha256": "942d5212598bf1116d1bc956446d073f3e10048c817b39a9b402910ca9f164b8"
     },
     {
       "path": "mods/RU-3692756679/Languages/Russian/DefInjected/ApparelLayerDef/Translations.xml",
@@ -10670,8 +10670,8 @@
     },
     {
       "path": "mods/RU-3692756679/Languages/Russian/DefInjected/JobDef/Translations.xml",
-      "bytes": 3233,
-      "sha256": "35e04ebc1d4652f77fe0cb38315cdb516d465593363f9d049029cc126045d54f"
+      "bytes": 3325,
+      "sha256": "2a5a4caea11ce3246821f919827f16cdea630ddced9003fff1ad944ea21953fd"
     },
     {
       "path": "mods/RU-3692756679/Languages/Russian/DefInjected/RecipeDef/Translations.xml",
@@ -10695,8 +10695,8 @@
     },
     {
       "path": "mods/RU-3692756679/Languages/Russian/Keyed/Translations.xml",
-      "bytes": 25058,
-      "sha256": "aa3b7640a019d8613aaeaf16f35e2ba3913f2de4b21e3778d98aa74cca4a2bfc"
+      "bytes": 28922,
+      "sha256": "8a410863f158a27b6d79283efa416f3bb9ab69ab36d4a024b79dd07c1782ac86"
     },
     {
       "path": "mods/RU-3692756679/LICENSE",

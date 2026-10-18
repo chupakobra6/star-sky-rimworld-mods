@@ -188,9 +188,11 @@ RimWorld 1.6 · Версия 1.0.2
 
 [![SimpleBabyCarry — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/simple-baby-carry-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3804220755)
 
-RimWorld 1.6 · Версия 1.0.1
+RimWorld 1.6 · Версия 1.0.2
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3804220755) · [Исходники и руководство](../mods/RU-3692756679/README.md) · [История изменений](../mods/RU-3692756679/CHANGELOG.md) · [Лицензия](../mods/RU-3692756679/LICENSE) · [Источники и уведомления](../mods/RU-3692756679/NOTICES.md)
+
+[![Другие моды в Мастерской Steam](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-ru.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)
 
 ## Seamless Doors — русский перевод
 
