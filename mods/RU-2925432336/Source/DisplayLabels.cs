@@ -44,8 +44,9 @@ namespace Igor.RU_2925432336
         public static void Category(ref string __0)
         {
             if (!Russian) return;
-            if (__0 == "Hair") __0 = "Волосы";
-            else if (__0 == "Skin") __0 = "Кожа";
+            string key = __0 == "Hair" ? "chupakobra6_2925432336_BS_Category_Hair"
+                : __0 == "Skin" ? "chupakobra6_2925432336_BS_Category_Skin" : null;
+            if (key != null && key.CanTranslate()) __0 = key.Translate().ToString();
         }
         public static void RomanceLabels(List<string> __result)
         {

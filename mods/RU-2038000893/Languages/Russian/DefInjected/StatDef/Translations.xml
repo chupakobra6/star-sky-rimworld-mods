@@ -1,7 +1,9 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
   <BC_FlammabilityOffset.description>Влияет на то, насколько легко предмет загорается и как быстро разгорается огонь при его горении.</BC_FlammabilityOffset.description>
-  <BC_FlammabilityOffset.label>изменение горючести</BC_FlammabilityOffset.label>
+  <BC_FlammabilityOffset.label>поправка к воспламеняемости</BC_FlammabilityOffset.label>
+  <BC_FlammabilityOffset.labelForFullStatList>Поправка к воспламеняемости (одежда)</BC_FlammabilityOffset.labelForFullStatList>
   <BC_StuffPower_FlammabilityOffset.description>Влияет на то, насколько легко предмет загорается и как быстро разгорается огонь при его горении.</BC_StuffPower_FlammabilityOffset.description>
-  <BC_StuffPower_FlammabilityOffset.label>изменение горючести</BC_StuffPower_FlammabilityOffset.label>
+  <BC_StuffPower_FlammabilityOffset.label>поправка к воспламеняемости</BC_StuffPower_FlammabilityOffset.label>
+  <BC_StuffPower_FlammabilityOffset.labelForFullStatList>Воспламеняемость (поправка материала)</BC_StuffPower_FlammabilityOffset.labelForFullStatList>
 </LanguageData>

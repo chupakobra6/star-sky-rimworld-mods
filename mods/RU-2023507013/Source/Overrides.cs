@@ -48,8 +48,9 @@ namespace Igor.RU_2023507013
                 foreach(XmlNode entry in xml.DocumentElement.ChildNodes)
                 {
                     if(entry.NodeType != XmlNodeType.Element) continue;
-                    Keys[kind].Add(entry.Name);
-                    if(entry.SelectSingleNode("li") != null) Lists[kind].Add(entry.Name);
+                    string key=EntryPath(entry);
+                    Keys[kind].Add(key);
+                    if(entry.SelectSingleNode("li") != null) Lists[kind].Add(key);
                 }
             }
             harmony.Patch(AccessTools.Method(typeof(LoadedLanguage),"LoadFromFile_DefInject"),
@@ -115,6 +116,9 @@ namespace Igor.RU_2023507013
             __result=__result.Where(entry=>!SourceRoots.Any(root=>
                 entry.Item1.FullPath.Replace('\\','/').StartsWith(root,StringComparison.Ordinal)));
         }
+        private static string EntryPath(XmlNode entry)
+            => entry.Name=="rep" && entry.SelectSingleNode("path")!=null
+                ? entry.SelectSingleNode("path").InnerText.Trim() : entry.Name;
         public static string RemoveSuperseded(string original, HashSet<string> keys, HashSet<string> lists)
         {
             var xml=new XmlDocument();xml.PreserveWhitespace=true;xml.LoadXml(original);
@@ -122,7 +126,8 @@ namespace Igor.RU_2023507013
             foreach(var entry in xml.DocumentElement.ChildNodes.Cast<XmlNode>().ToArray())
             {
                 if(entry.NodeType!=XmlNodeType.Element)continue;
-                if(keys.Contains(entry.Name) || lists.Any(key=>entry.Name.StartsWith(key+".",StringComparison.Ordinal)))
+                string path=EntryPath(entry);
+                if(keys.Contains(path) || lists.Any(key=>path.StartsWith(key+".",StringComparison.Ordinal)))
                 { entry.ParentNode.RemoveChild(entry);changed=true; }
             }
             return changed ? xml.OuterXml : original;
@@ -137,7 +142,7 @@ namespace Igor.RU_2023507013
             bool changed = false;
             foreach (var entry in xml.DocumentElement.ChildNodes.Cast<XmlNode>().ToArray())
             {
-                if (entry.NodeType == XmlNodeType.Element && definitions.Contains(entry.Name.Split('.')[0]))
+                if (entry.NodeType == XmlNodeType.Element && definitions.Contains(EntryPath(entry).Split('.')[0]))
                 { entry.ParentNode.RemoveChild(entry); changed = true; }
             }
             return changed ? xml.OuterXml : original;

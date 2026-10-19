@@ -1,3 +1,5 @@
+[![Поддержать на Boosty — моды и переводы на заказ](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-support-ru.png)](https://boosty.to/chupakobra6?utm_source=github&utm_medium=repository&utm_campaign=star_sky_mods&utm_content=readme&utm_term=support)
+
 # Vanilla Expanded Framework — русский перевод [Star Sky Mods]
 
 [![Vanilla Expanded Framework — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/vanilla-expanded-framework-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3807830484)
@@ -8,6 +10,8 @@
 
 Vanilla Expanded Framework — общая библиотека для модов серии Vanilla Expanded. Она объединяет их функции, в том числе создание баз, настройку осад, переработку предметов и добавление фракций в существующее сохранение. Перевод охватывает видимые игроку названия, сообщения и настройки этих систем.
 
+![Что переведено](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/section-features-ru.png)
+
 ## Что переведено
 
 Переведены игровые тексты оригинального мода.
@@ -15,6 +19,8 @@ Vanilla Expanded Framework — общая библиотека для модов
 - Окно добавления фракций, выбор поселений и сообщения об отношениях с фракциями.
 - Названия и описания способностей, характеристик, щитов и других определений.
 - Настройки связанных систем и строки интерфейса, встроенные в код.
+
+![Как пользоваться](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/section-how-to-use-ru.png)
 
 ## Установка
 
@@ -25,6 +31,8 @@ Vanilla Expanded Framework — общая библиотека для модов
 <!-- rimmods:readme installation end -->
 
 При использовании модов серии Vanilla Expanded перевод отображает тексты их общей библиотеки. Если новая фракция добавлена к существующему сохранению, в окне Vanilla Expanded Framework можно выбрать её появление на карте мира.
+
+![Обратная связь](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/section-feedback-ru.png)
 
 ## Обратная связь
 
@@ -45,3 +53,6 @@ Vanilla Expanded Framework — общая библиотека для модов
 <!-- rimmods:readme ludeon begin -->
 Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.
 <!-- rimmods:readme ludeon end -->
+
+[![Исходники и руководство на GitHub](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/github-ru.png)](https://github.com/chupakobra6/star-sky-rimworld-mods/tree/main/mods/RU-2023507013)
+[![Другие моды в Мастерской Steam](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-ru.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)
