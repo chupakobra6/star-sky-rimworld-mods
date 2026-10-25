@@ -1,15 +1,18 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <BreastfeedCarriedBaby.gerund>кормление младенца на руках</BreastfeedCarriedBaby.gerund>
+  <BreastfeedCarriedBaby.gerund>кормление</BreastfeedCarriedBaby.gerund>
   <BreastfeedCarriedBaby.label>кормить младенца на руках</BreastfeedCarriedBaby.label>
-  <BreastfeedCarriedBaby.verb>кормить младенца на руках</BreastfeedCarriedBaby.verb>
-  <BringCarriedBabyToCrib.gerund>перенос младенца с рук в кроватку</BringCarriedBabyToCrib.gerund>
+  <BreastfeedCarriedBaby.verb>кормить</BreastfeedCarriedBaby.verb>
+  <BringCarriedBabyToCrib.gerund>перенос в колыбель</BringCarriedBabyToCrib.gerund>
   <BringCarriedBabyToCrib.label>относить младенца с рук в кроватку</BringCarriedBabyToCrib.label>
-  <BringCarriedBabyToCrib.verb>отнести младенца с рук в кроватку</BringCarriedBabyToCrib.verb>
-  <PlayWithCarriedBaby.gerund>игра с младенцем на руках</PlayWithCarriedBaby.gerund>
+  <BringCarriedBabyToCrib.verb>отнести в колыбель</BringCarriedBabyToCrib.verb>
+  <PlayWithCarriedBaby.gerund>игра с</PlayWithCarriedBaby.gerund>
   <PlayWithCarriedBaby.label>играть с младенцем на руках</PlayWithCarriedBaby.label>
-  <PlayWithCarriedBaby.verb>играть с младенцем на руках</PlayWithCarriedBaby.verb>
-  <ReclaimSpacerPod.gerund>подбор космической переноски с младенцем</ReclaimSpacerPod.gerund>
-  <ReclaimSpacerPod.label>забирать младенца в космической переноске</ReclaimSpacerPod.label>
-  <ReclaimSpacerPod.verb>забрать младенца в космической переноске</ReclaimSpacerPod.verb>
+  <PlayWithCarriedBaby.verb>играть с</PlayWithCarriedBaby.verb>
+  <ReclaimSpacerPod.gerund>подъём</ReclaimSpacerPod.gerund>
+  <ReclaimSpacerPod.label>поднимать поставленные на землю космические переноски</ReclaimSpacerPod.label>
+  <ReclaimSpacerPod.verb>поднять</ReclaimSpacerPod.verb>
+  <SCB_BreastfeedCarryToBedriddenMother.gerund>помощь матери с кормлением грудью</SCB_BreastfeedCarryToBedriddenMother.gerund>
+  <SCB_BreastfeedCarryToBedriddenMother.label>относить младенца к матери в постели</SCB_BreastfeedCarryToBedriddenMother.label>
+  <SCB_BreastfeedCarryToBedriddenMother.verb>помочь матери покормить грудью</SCB_BreastfeedCarryToBedriddenMother.verb>
 </LanguageData>

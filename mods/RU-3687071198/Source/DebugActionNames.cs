@@ -19,6 +19,9 @@ namespace Igor.RU_3687071198
             { "MiningOutpost.FactionCleanupUtility:ListTemporaryFactions", new Dictionary<string, string> {
                 { "List all temporary factions", "Показать все временные фракции" }
             } },
+            { "MiningOutpost.Orbital.OrbitalHellpodDebug:SendHellpodStrike", new Dictionary<string, string> {
+                { "Orbital: send hellpod strike now", "Орбита: немедленно начать атаку из адских капсул" }
+            } },
             { "MiningOutpost.WorkSiteDefenseTracker:DebugRandomDefenseMission", new Dictionary<string, string> {
                 { "Random worksite defence mission", "Создать случайное задание по защите рабочего объекта" }
             } },

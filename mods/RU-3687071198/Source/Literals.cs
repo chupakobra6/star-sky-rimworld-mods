@@ -171,7 +171,7 @@ namespace Igor.RU_3687071198
             { "MiningOutpost.JobGiver_MercenaryRouter:TryAidMeleedAlly", new Dictionary<string,string> {
                 { "Moving to aid", "Идёт на помощь" }
             } },
-            { "MiningOutpost.JobGiver_MercenaryRouter:TryGiveJob", new Dictionary<string,string> {
+            { "MiningOutpost.JobGiver_MercenaryRouter:TryGiveMercenaryJob", new Dictionary<string,string> {
                 { "Following ", "Сопровождает: " },
                 { "to eat", "чтобы поесть" },
                 { "to rest", "чтобы отдохнуть" }
@@ -1556,15 +1556,14 @@ namespace Igor.RU_3687071198
             } },
             { "MiningOutpost.Orbital.Services.TheSoup:DrawBriefing", new Dictionary<string,string> {
                 { "Accept", "Принять" },
+                { "Accept new contract", "Принять новый контракт" },
                 { "The agronomist's vats are full. This opportunity is complete.", "Чаны агронома полны. Предложение выполнено." },
-                { "This opportunity has expired.", "Срок действия предложения истёк." },
+                { "This opportunity has expired. The agronomist has opened a new reclamation window.", "Срок действия этого предложения истёк. Агроном снова принимает органическое сырьё на переработку." },
                 { "Throwing organic matter out of an airlock is a horrific waste of precious nitrogen, carbon, and water. Everything must be reclaimed. The chief agronomist on this platform requires all organic matter be delivered here. He is particularly interested in maximizing yield and will pay a premium price for fresh humanoid corpses.", "Выбрасывать органику через шлюз — чудовищная трата драгоценного азота, углерода и воды. Всё нужно перерабатывать. Главный агроном платформы требует доставлять органическое сырьё сюда. Он особенно заинтересован в максимальном выходе продукции и готов щедро платить за свежие трупы гуманоидов." }
             } },
             { "MiningOutpost.Orbital.Services.TheSoup:DrawCart", new Dictionary<string,string> {
                 { "Cart contents", "Содержимое корзины" },
-                { "The agronomist's vats are full. This opportunity is complete.", "Чаны агронома полны. Предложение выполнено." },
                 { "The caravan is carrying no organic matter to deliver.", "В караване нет органического сырья для сдачи." },
-                { "This opportunity has expired.", "Срок действия предложения истёк." },
                 { "Throwing organic matter out of an airlock is a horrific waste of precious nitrogen, carbon, and water. Everything must be reclaimed. The chief agronomist on this platform requires all organic matter be delivered here. He is particularly interested in maximizing yield and will pay a premium price for fresh humanoid corpses.", "Выбрасывать органику через шлюз — чудовищная трата драгоценного азота, углерода и воды. Всё нужно перерабатывать. Главный агроном платформы требует доставлять органическое сырьё сюда. Он особенно заинтересован в максимальном выходе продукции и готов щедро платить за свежие трупы гуманоидов." }
             } },
             { "MiningOutpost.Orbital.Services.TheSoup:DrawDeliverFooter", new Dictionary<string,string> {
@@ -2315,6 +2314,7 @@ namespace Igor.RU_3687071198
             };
         private static readonly Dictionary<string,string[]> Parameters = new Dictionary<string,string[]> {
             { "MiningOutpost.Alert_WorksiteDefenseIncoming:.ctor", new string[] {  } },
+            { "MiningOutpost.JobGiver_MercenaryRouter:TryGiveMercenaryJob", new string[] { "Verse.Pawn" } },
             { "MiningOutpost.Orbital.Dialog_GravshipPlatformWarning:.ctor", new string[] { "System.Action" } },
             { "MiningOutpost.Orbital.Services.BlackjackSim:.ctor", new string[] { "System.Int32", "Verse.Pawn" } },
             { "MiningOutpost.Orbital.Services.FirefightSim:.ctor", new string[] { "MiningOutpost.Orbital.Services.FirefightEncounter", "RimWorld.Planet.Caravan", "MiningOutpost.Orbital.Services.OpportunityRunState" } },
@@ -2348,22 +2348,38 @@ namespace Igor.RU_3687071198
             if (type == null) throw new MissingMethodException("Exact translation type was not found: " + target);
             const BindingFlags flags = BindingFlags.DeclaredOnly | BindingFlags.Public | BindingFlags.NonPublic
                 | BindingFlags.Instance | BindingFlags.Static;
-            MethodBase method;
+            IEnumerable<MethodBase> candidates = name == ".ctor"
+                ? type.GetConstructors(flags).Where(m => m.Name == name).Cast<MethodBase>()
+                : type.GetMethods(flags).Where(m => m.Name == name).Cast<MethodBase>();
             if (Parameters.TryGetValue(target, out var parameters))
-            {
-                var signature = parameters.Select(AccessTools.TypeByName).ToArray();
-                if (signature.Any(parameter => parameter == null))
-                    throw new MissingMethodException("Translation parameter type was not found: " + target);
-                method = name == ".ctor"
-                    ? (MethodBase)type.GetConstructor(flags, null, signature, null)
-                    : type.GetMethod(name, flags, null, signature, null);
-            }
-            else method = name == ".ctor"
-                ? (MethodBase)type.GetConstructor(flags, null, Type.EmptyTypes, null)
-                : type.GetMethod(name, flags);
-            if (method == null || method.DeclaringType != type)
-                throw new MissingMethodException("Exact translation target was not found: " + target);
+                candidates = candidates.Where(m => m.GetParameters()
+                    .Select(p => CecilParameterName(p.ParameterType)).SequenceEqual(parameters));
+            else if (name == ".ctor")
+                candidates = candidates.Where(m => m.GetParameters().Length == 0);
+            var matches = candidates.ToArray();
+            if (matches.Length != 1)
+                throw new MissingMethodException("Expected one exact translation overload, found " + matches.Length + ": " + target);
+            var method = matches[0];
+            if (method.ContainsGenericParameters)
+                throw new MissingMethodException("Open generic translation target requires an isolated call-site hook: " + target);
             return method;
+        }
+        private static string CecilParameterName(Type type)
+        {
+            if (type.HasElementType)
+            {
+                string element = CecilParameterName(type.GetElementType());
+                if (element == null) return null;
+                if (type.IsByRef) return element + "&";
+                if (type.IsPointer) return element + "*";
+                // Only vectors are supported. Never alias a non-SZ or
+                // multidimensional array to a different parameter shape.
+                return type.IsArray && type == type.GetElementType().MakeArrayType() ? element + "[]" : null;
+            }
+            if (!type.IsGenericType) return type.FullName;
+            var arguments = type.GetGenericArguments().Select(CecilParameterName).ToArray();
+            if (arguments.Any(argument => argument == null)) return null;
+            return type.GetGenericTypeDefinition().FullName + "<" + string.Join(",", arguments) + ">";
         }
         public static string Select(string original, string russian)
         {

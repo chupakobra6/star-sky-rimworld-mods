@@ -188,7 +188,7 @@ RimWorld 1.6 · Версия 1.0.2
 
 [![SimpleBabyCarry — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/simple-baby-carry-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3804220755)
 
-RimWorld 1.6 · Версия 1.0.2
+RimWorld 1.6 · Версия 1.0.3
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3804220755) · [Исходники и руководство](../mods/RU-3692756679/README.md) · [История изменений](../mods/RU-3692756679/CHANGELOG.md) · [Лицензия](../mods/RU-3692756679/LICENSE) · [Источники и уведомления](../mods/RU-3692756679/NOTICES.md)
 
@@ -518,7 +518,7 @@ RimWorld 1.6 · Версия 1.0.1
 
 [![Worksites Expanded — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/worksites-expanded-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3816649426)
 
-RimWorld 1.6 · Версия 1.0.1
+RimWorld 1.6 · Версия 1.0.2
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3816649426) · [Исходники и руководство](../mods/RU-3687071198/README.md) · [История изменений](../mods/RU-3687071198/CHANGELOG.md) · [Лицензия](../mods/RU-3687071198/LICENSE) · [Источники и уведомления](../mods/RU-3687071198/NOTICES.md)
 
@@ -630,7 +630,7 @@ RimWorld 1.6 · Версия 1.0.1
 
 [![Colony Manager Redux — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/colony-manager-redux-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3820544682)
 
-RimWorld 1.6 · Версия 1.0.0
+RimWorld 1.6 · Версия 1.0.1
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3820544682) · [Исходники и руководство](../mods/RU-3310027356/README.md) · [История изменений](../mods/RU-3310027356/CHANGELOG.md) · [Лицензия](../mods/RU-3310027356/LICENSE) · [Источники и уведомления](../mods/RU-3310027356/NOTICES.md)
 

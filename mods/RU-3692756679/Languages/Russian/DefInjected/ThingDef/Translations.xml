@@ -1,20 +1,20 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <SBC_BabyCarrier.description>Прочная переноска промышленной эпохи из плотной ткани, с кожаными ремнями и пряжками. Позволяет носить младенца во время повседневных дел и прогулок по поселению, обеспечивая некоторый комфорт и защиту.</SBC_BabyCarrier.description>
+  <SBC_BabyCarrier.description>Прочная переноска для младенца с ремнями и пряжками. Надёжно удерживает младенца, пока тот, кто её носит, работает, и распределяет вес лучше, чем слинг.</SBC_BabyCarrier.description>
   <SBC_BabyCarrier.label>рюкзак-переноска</SBC_BabyCarrier.label>
-  <SBC_ClothBabySling.description>Традиционная тканевая перевязь для ношения младенца вплотную к телу. Освобождает руки и немного защищает ребёнка.</SBC_ClothBabySling.description>
+  <SBC_ClothBabySling.description>Простой тканевый слинг, в котором можно носить младенца близко к телу во время работы.</SBC_ClothBabySling.description>
   <SBC_ClothBabySling.label>тканевый слинг</SBC_ClothBabySling.label>
-  <SBC_KidBabyCarrier.description>Уменьшенная переноска промышленной эпохи, рассчитанная на ребёнка. Позволяет детям носить младенцев во время повседневных дел и прогулок по поселению, обеспечивая некоторую защиту.</SBC_KidBabyCarrier.description>
+  <SBC_KidBabyCarrier.description>Уменьшенная переноска для младенца, рассчитанная на детей. Позволяет ребёнку надёжно удерживать младенца во время работы.</SBC_KidBabyCarrier.description>
   <SBC_KidBabyCarrier.label>рюкзак-переноска для детей</SBC_KidBabyCarrier.label>
-  <SBC_KidClothBabySling.description>Небольшая тканевая перевязь, рассчитанная на ребёнка. Позволяет детям носить младенцев вплотную к телу, освобождая руки и немного защищая малыша.</SBC_KidClothBabySling.description>
+  <SBC_KidClothBabySling.description>Уменьшенный тканевый слинг, рассчитанный на детей. Позволяет ребёнку носить младенца близко к телу.</SBC_KidClothBabySling.description>
   <SBC_KidClothBabySling.label>тканевый слинг для детей</SBC_KidClothBabySling.label>
-  <SBC_KidTribalBabySling.description>Уменьшенная традиционная племенная перевязь, рассчитанная на ребёнка. Позволяет детям носить младенцев вплотную к телу во время прогулок по поселению.</SBC_KidTribalBabySling.description>
+  <SBC_KidTribalBabySling.description>Уменьшенный племенной слинг, рассчитанный на детей. Позволяет ребёнку носить младенца близко к телу.</SBC_KidTribalBabySling.description>
   <SBC_KidTribalBabySling.label>племенной слинг для детей</SBC_KidTribalBabySling.label>
-  <SBC_SpacerCarrier.description>Высокотехнологичная переноска для младенца из современных композитных материалов. Мягкая система ремней распределяет нагрузку и значительно замедляет накопление усталости от ношения ребёнка. Герметичная капсула защищает ребёнка от вакуума, токсичного газа и других опасных атмосферных условий. Композитная оболочка поглощает почти весь урон, доходящий до ребёнка при ранении того, кто его несёт; лишь особо сильный удар может пробить эту защиту.</SBC_SpacerCarrier.description>
+  <SBC_SpacerCarrier.description>Переноска для младенца космического технологического уровня с мягкой подвесной системой и герметичным композитным корпусом. Подвесная система настолько хорошо распределяет нагрузку, что тот, кто несёт младенца, почти не устаёт, а корпус защищает младенца от вакуума, токсичного газа и других опасных газовых сред. Он также поглощает почти весь урон, который получает тот, кто носит переноску: лишь удар катастрофической силы достигает младенца.</SBC_SpacerCarrier.description>
   <SBC_SpacerCarrier.label>космическая переноска</SBC_SpacerCarrier.label>
-  <SBC_SpacerCarrierDeployed.description>Космическая переноска, поставленная на землю вместе с младенцем в герметичной капсуле. Защищает ребёнка от вакуума, опасной атмосферы, жары и холода. Выберите поселенца и нажмите на переноску правой кнопкой мыши, чтобы забрать её вместе с ребёнком, покормить малыша или поиграть с ним.</SBC_SpacerCarrierDeployed.description>
+  <SBC_SpacerCarrierDeployed.description>Космическая переноска, поставленная на землю с младенцем в герметичном отсеке. Защищает младенца от вакуума, опасных газовых сред и крайних температур, но младенец по-прежнему испытывает голод и усталость.</SBC_SpacerCarrierDeployed.description>
   <SBC_SpacerCarrierDeployed.label>космическая переноска на земле</SBC_SpacerCarrierDeployed.label>
-  <SBC_TribalBabySling.description>Традиционная племенная перевязь для ношения младенца вплотную к телу. Освобождает руки и немного защищает ребёнка.</SBC_TribalBabySling.description>
+  <SBC_TribalBabySling.description>Традиционный слинг из кожи или ткани, в котором младенца носят близко к телу. Он меньше нагружает спину, чем простой тканевый слинг.</SBC_TribalBabySling.description>
   <SBC_TribalBabySling.label>племенной слинг</SBC_TribalBabySling.label>
   <SCB_Mote_ThrowArc.label>младенец в полёте</SCB_Mote_ThrowArc.label>
 </LanguageData>

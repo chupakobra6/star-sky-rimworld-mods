@@ -1,57 +1,56 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
   <SCB.AlertBabiesInDangerAction>Отнесите младенцев в безопасное место.</SCB.AlertBabiesInDangerAction>
-  <SCB.AlertBabiesInDangerDesc>Один или несколько младенцев находятся при опасной температуре или подвергаются воздействию токсинов:</SCB.AlertBabiesInDangerDesc>
+  <SCB.AlertBabiesInDangerDesc>Эти младенцы находятся при опасной температуре или подвергаются воздействию токсинов:</SCB.AlertBabiesInDangerDesc>
   <SCB.AlertBabiesInDangerLabel>Младенцы в опасности</SCB.AlertBabiesInDangerLabel>
   <SCB.AlertBabyBedUnsafeAction>Назначьте младенцам более безопасные места для сна.</SCB.AlertBabyBedUnsafeAction>
   <SCB.AlertBabyBedUnsafeDesc>Одному или нескольким младенцам назначены кровати в опасных условиях:</SCB.AlertBabyBedUnsafeDesc>
-  <SCB.AlertBabyBedUnsafeLabel>Опасное место для сна младенца</SCB.AlertBabyBedUnsafeLabel>
+  <SCB.AlertBabyBedUnsafeLabel>Небезопасная кровать младенца</SCB.AlertBabyBedUnsafeLabel>
   <SCB.AlertCaravanBabyShortageDesc>В караване больше младенцев, чем поселенцев, способных ухаживать за детьми. В пути младенцы могут остаться без присмотра.</SCB.AlertCaravanBabyShortageDesc>
-  <SCB.AlertCaravanBabyShortageDetail>Младенцев: {0}, поселенцев для ухода за детьми: {1}</SCB.AlertCaravanBabyShortageDetail>
-  <SCB.AlertCaravanBabyShortageLabel>В караване не хватает поселенцев для ухода за детьми</SCB.AlertCaravanBabyShortageLabel>
-  <SCB.AssignedBedNotReachable>Не удаётся добраться до назначенного младенцу спального места: {BABY}.</SCB.AssignedBedNotReachable>
-  <SCB.AutoBringingToSafety>{0} самостоятельно несёт младенца «{1}» в безопасное место.</SCB.AutoBringingToSafety>
+  <SCB.AlertCaravanBabyShortageDetail>Младенцев: {0}, воспитателей: {1}</SCB.AlertCaravanBabyShortageDetail>
+  <SCB.AlertCaravanBabyShortageLabel>В караване не хватает воспитателей</SCB.AlertCaravanBabyShortageLabel>
+  <SCB.AssignedBedNotReachable>Нет пути к закреплённой кровати. Младенец: {BABY}.</SCB.AssignedBedNotReachable>
   <SCB.BabyAlreadyClean>Младенец ({BABY}) уже чист.</SCB.BabyAlreadyClean>
   <SCB.BabyAsleepNoPlay>Младенец спит: {BABY}.</SCB.BabyAsleepNoPlay>
-  <SCB.BabyCryDeterred>Плач младенца отвлекает нападающих!</SCB.BabyCryDeterred>
+  <SCB.BabyCryDeterred>Плач отвлекает нападающих!</SCB.BabyCryDeterred>
   <SCB.BabyFoodFull>Младенец ({BABY}) уже сыт.</SCB.BabyFoodFull>
-  <SCB.BabyNotHungry>Младенцу пока не нужна еда: {BABY}.</SCB.BabyNotHungry>
   <SCB.BabyPlayFull>Младенец ({BABY}) уже наигрался.</SCB.BabyPlayFull>
-  <SCB.BabyRescue.Message>SCB: после загрузки младенец «{0}» оказался пропавшим и был возвращён на карту.</SCB.BabyRescue.Message>
+  <SCB.BabyRescue.Message>Пропавшие младенцы возвращены на карту: {0}</SCB.BabyRescue.Message>
   <SCB.BedUnsafe>небезопасно</SCB.BedUnsafe>
   <SCB.BedUnsafeTooCol>{0}: в месте для сна слишком холодно ({1}, минимальная комфортная температура: {2}).</SCB.BedUnsafeTooCol>
   <SCB.BedUnsafeTooHot>{0}: в месте для сна слишком жарко ({1}, максимальная комфортная температура: {2}).</SCB.BedUnsafeTooHot>
   <SCB.BedUnsafeToxGas>{0}: в месте для сна присутствует токсичный газ.</SCB.BedUnsafeToxGas>
   <SCB.BedUnsafeToxRain>{0}: в место для сна попадает токсичный дождь.</SCB.BedUnsafeToxRain>
   <SCB.BedUnsafeToxicFallout>{0}: в место для сна попадают токсичные осадки.</SCB.BedUnsafeToxicFallout>
+  <SCB.BedUnsafeVacuum>Спальное место находится в вакууме. Младенец: {0}.</SCB.BedUnsafeVacuum>
   <SCB.BeingCarried>(на руках)</SCB.BeingCarried>
   <SCB.BeingCarriedInspect>На руках.</SCB.BeingCarriedInspect>
   <SCB.BringingBabyTo>Несёт младенца к спальному месту: {BED}.</SCB.BringingBabyTo>
-  <SCB.BringingBabyToSafeTemp>Несёт младенца в место с безопасной температурой.</SCB.BringingBabyToSafeTemp>
+  <SCB.BringingBabyToSafeTemp>несёт младенца туда, где температура безопасна.</SCB.BringingBabyToSafeTemp>
   <SCB.BringingBabyToSleep>Несёт младенца к месту для сна. Младенец: {BABY_labelShort}.</SCB.BringingBabyToSleep>
   <SCB.CannotAttackNoApparel>{PAWN_labelShort} не может атаковать, пока несёт младенца без слинга или переноски.</SCB.CannotAttackNoApparel>
   <SCB.CannotPlayBabyUnsafeLocation>здесь небезопасно — сначала отнесите младенца «{BABY}» в безопасное место</SCB.CannotPlayBabyUnsafeLocation>
-  <SCB.CantBanishLastMobileCaravanMember>{0}: изгнание невозможно. В караване останутся только младенцы, а караван, в котором все поселенцы не могут передвигаться, больше никогда не сможет продолжить путь.</SCB.CantBanishLastMobileCaravanMember>
-  <SCB.CaravanBabyCarrierNotInCaravan>{0} не входит в караван, поэтому нельзя добавить в караван младенца, пока этот поселенец несёт его на руках.</SCB.CaravanBabyCarrierNotInCaravan>
-  <SCB.CaravanBabyShortageBlock>В этом караване не хватает поселенцев, которым поручен уход за детьми и которые могут нести младенцев.</SCB.CaravanBabyShortageBlock>
+  <SCB.CantBanishLastMobileCaravanMember>Нельзя изгнать: {0}. В караване останутся одни младенцы, и он больше никогда не сможет двигаться.</SCB.CantBanishLastMobileCaravanMember>
+  <SCB.CaravanBabyCarrierNotInCaravan>{0} несёт этого младенца, но не входит в состав каравана.</SCB.CaravanBabyCarrierNotInCaravan>
+  <SCB.CaravanBabyShortageBlock>В этом караване недостаточно поселенцев, назначенных на уход за детьми, чтобы нести всех младенцев.</SCB.CaravanBabyShortageBlock>
   <SCB.CareHeader>{BABY_labelShort} [{CARRYMODE}]</SCB.CareHeader>
   <SCB.CareTileTitle>{LABEL} ({BABY_labelShort})</SCB.CareTileTitle>
-  <SCB.CarriedByApparel>переноска: {APPAREL}</SCB.CarriedByApparel>
+  <SCB.CarriedByApparel>в снаряжении: {APPAREL}</SCB.CarriedByApparel>
   <SCB.CarriedByHand>на руках</SCB.CarriedByHand>
-  <SCB.CarrierBedUnsafe>{0} не может отнести младенца к месту для сна. Младенец: {1}. Кровать небезопасна: {2}</SCB.CarrierBedUnsafe>
-  <SCB.CarrierQueuedCarry>В очереди: нести младенца. Младенец: {0}</SCB.CarrierQueuedCarry>
-  <SCB.CarrierQueuedPodReclaim>В очереди: забрать переноску с младенцем «{0}»</SCB.CarrierQueuedPodReclaim>
-  <SCB.CarrierTired>(усталость у того, кто несёт ребёнка)</SCB.CarrierTired>
+  <SCB.CarrierBedUnsafe>{0} не может уложить младенца спать. Младенец: {1}. Кровать небезопасна: {2}</SCB.CarrierBedUnsafe>
+  <SCB.CarrierQueuedCarry>В очереди: нести младенца ({0})</SCB.CarrierQueuedCarry>
+  <SCB.CarrierQueuedPodReclaim>В очереди: поднять космическую переноску с младенцем ({0})</SCB.CarrierQueuedPodReclaim>
+  <SCB.CarrierTired>(усталость)</SCB.CarrierTired>
   <SCB.CarryBaby>Взять на руки: {BABY_labelShort}</SCB.CarryBaby>
-  <SCB.CarryBabyAdditionally>Взять ещё одного младенца: {BABY_labelShort}</SCB.CarryBabyAdditionally>
-  <SCB.CarryBabyNoCarrier>Взять на руки без переноски: {BABY_labelShort}</SCB.CarryBabyNoCarrier>
+  <SCB.CarryBabyAdditionally>Нести на руках: {BABY_labelShort}</SCB.CarryBabyAdditionally>
+  <SCB.CarryBabyNoCarrier>Нести без слинга или переноски: {BABY_labelShort}</SCB.CarryBabyNoCarrier>
   <SCB.ChildcareIncapable>(уход за детьми недоступен)</SCB.ChildcareIncapable>
-  <SCB.ChildcareNotAssigned>(уход за детьми не назначен)</SCB.ChildcareNotAssigned>
+  <SCB.ChildcareNotAssigned>(не назначен уход за детьми)</SCB.ChildcareNotAssigned>
   <SCB.CleanBaby>Вымыть младенца</SCB.CleanBaby>
-  <SCB.CleanBabyDesc>Отнести младенца ({BABY}) к ближайшему умывальнику, ванне или источнику чистой воды и вымыть, например если он обмарался. Команда появляется, только если у младенца есть потребность в гигиене (Dubs Bad Hygiene вместе с The Children Need To Poo!).</SCB.CleanBabyDesc>
+  <SCB.CleanBabyDesc>Отнести младенца ({BABY}) к ближайшему умывальнику, ванне или источнику чистой воды и вымыть.</SCB.CleanBabyDesc>
   <SCB.FeedBaby>Покормить младенца</SCB.FeedBaby>
-  <SCB.FeedBabyDesc>Покормить младенца грудью, если это возможно; иначе найти разрешённую еду. Младенец: {BABY}.</SCB.FeedBabyDesc>
-  <SCB.FeedBabyDisabledAutofeedNever>Для этого персонажа автокормление данного младенца установлено на «Никогда».</SCB.FeedBabyDisabledAutofeedNever>
+  <SCB.FeedBabyDesc>Покормить младенца ({BABY}) грудью, если возможно. Иначе дать разрешённую еду.</SCB.FeedBabyDesc>
+  <SCB.FeedBabyDisabledAutofeedNever>Для этого поселенца автоматическое кормление отключено.</SCB.FeedBabyDisabledAutofeedNever>
   <SCB.HandOverBabyTo>Передать младенца «{BABY}» персонажу «{TARGET}»</SCB.HandOverBabyTo>
   <SCB.HandsFull>руки заняты</SCB.HandsFull>
   <SCB.LabelWithReason>{0} ({1})</SCB.LabelWithReason>
@@ -63,100 +62,99 @@
   <SCB.NoArms>(нет рук)</SCB.NoArms>
   <SCB.NoCribAvailable>Нет доступной кроватки или спального места для младенца: {BABY}.</SCB.NoCribAvailable>
   <SCB.NoFoodAvailable>Нет разрешённой еды для младенца: {BABY}.</SCB.NoFoodAvailable>
-  <SCB.NoSafeLocationKeepCarrying>Нет доступного безопасного места для младенца «{0}». {1} продолжит его нести.</SCB.NoSafeLocationKeepCarrying>
+  <SCB.NoSafeLocationKeepCarrying>Нет доступного безопасного места для младенца ({0}). {1} продолжит его нести.</SCB.NoSafeLocationKeepCarrying>
   <SCB.NoSafeReachableLocation>{0}: не удалось найти безопасное место, до которого можно добраться.</SCB.NoSafeReachableLocation>
-  <SCB.NoWaterSourceToCleanBaby>Нет доступного умывальника, ванны или чистой воды, чтобы вымыть младенца ({BABY}).</SCB.NoWaterSourceToCleanBaby>
+  <SCB.NoWaterSourceToCleanBaby>Нет доступного умывальника, ванны или источника чистой воды, чтобы вымыть младенца ({BABY}).</SCB.NoWaterSourceToCleanBaby>
   <SCB.PlayWithBaby>Поиграть с младенцем</SCB.PlayWithBaby>
-  <SCB.PlayWithBabyDesc>Сейчас поиграть с младенцем ({BABY}). Если {BABY} находится в слинге, а на руках есть другой младенец, его ненадолго положат и после игры снова возьмут на руки.</SCB.PlayWithBabyDesc>
+  <SCB.PlayWithBabyDesc>Поиграть с младенцем ({BABY}) сейчас. Если на руках есть другой младенец, его ненадолго положат, а после игры снова возьмут на руки.</SCB.PlayWithBabyDesc>
   <SCB.PodBabyNeeds>Сытость: {FOOD} / Отдых: {REST} / Игра: {PLAY}</SCB.PodBabyNeeds>
   <SCB.PodContainsBaby>Внутри: {BABY}</SCB.PodContainsBaby>
   <SCB.PodEmpty>Пусто</SCB.PodEmpty>
   <SCB.PodHandsFull>{PAWN_labelShort} уже несёт двух младенцев и не может взять ещё одного.</SCB.PodHandsFull>
-  <SCB.PodNeedsCarrierForCaravan>Нельзя взять младенца «{0}»: никто в караване не может надеть переноску, поэтому закрытая капсула останется здесь.</SCB.PodNeedsCarrierForCaravan>
-  <SCB.PodNotStasis>Капсула защищает от внешней среды, но не останавливает время: младенцу по-прежнему нужны еда и отдых.</SCB.PodNotStasis>
-  <SCB.PodReclaimQueued>В очереди: {0} вернётся за этой переноской</SCB.PodReclaimQueued>
+  <SCB.PodNeedsCarrierForCaravan>Нельзя взять в караван: {0}. Никто в караване не может надеть космическую переноску.</SCB.PodNeedsCarrierForCaravan>
+  <SCB.PodNotStasis>Это не стазисная капсула: младенец внутри по-прежнему испытывает голод и усталость.</SCB.PodNotStasis>
+  <SCB.PodReclaimQueued>В очереди: {0} вернётся за переноской</SCB.PodReclaimQueued>
   <SCB.PutBabyDown>Положить младенца</SCB.PutBabyDown>
   <SCB.PutBabyDownDesc>Положить младенца: {BABY}</SCB.PutBabyDownDesc>
   <SCB.PutBabyInCarrier>Поместить в переноску: {BABY_labelShort}</SCB.PutBabyInCarrier>
-  <SCB.PutBabyInCrib>Положить младенца в кроватку</SCB.PutBabyInCrib>
-  <SCB.PutBabyInCribDesc>Положить младенца в ближайшую доступную кроватку или спальное место. Младенец: {BABY}.</SCB.PutBabyInCribDesc>
   <SCB.PutBabyIntoPod>Поместить в космическую переноску: {BABY}</SCB.PutBabyIntoPod>
   <SCB.PutBabyToSleep>Уложить младенца спать</SCB.PutBabyToSleep>
-  <SCB.PutBabyToSleepDesc>Отнести младенца в ближайшую доступную кроватку и уложить спать. Младенец: {BABY}.</SCB.PutBabyToSleepDesc>
-  <SCB.QueuedCarry>В очереди: {0} возьмёт младенца на руки</SCB.QueuedCarry>
-  <SCB.RePickupPending>В очереди: {0} снова возьмёт младенца на руки</SCB.RePickupPending>
-  <SCB.ReclaimPodAndPlay>Поднять переноску и поиграть: {BABY}</SCB.ReclaimPodAndPlay>
+  <SCB.PutBabyToSleepDesc>Отнести младенца ({BABY}) в ближайшую свободную колыбель или на спальное место и уложить спать.</SCB.PutBabyToSleepDesc>
+  <SCB.QueuedCarry>В очереди: {0} начнёт нести младенца</SCB.QueuedCarry>
+  <SCB.RePickupPending>В очереди: {0} снова возьмёт младенца</SCB.RePickupPending>
+  <SCB.ReclaimPodAndPlay>Поднять переноску и поиграть с младенцем ({BABY})</SCB.ReclaimPodAndPlay>
   <SCB.ReclaimSpacerPod>Поднять космическую переноску с младенцем: {BABY}</SCB.ReclaimSpacerPod>
   <SCB.RequiresFamily>(только для родственников)</SCB.RequiresFamily>
   <SCB.RequiresParent>(только для родителей)</SCB.RequiresParent>
-  <SCB.ReservedBy>Зарезервировано. Поселенец: {0}</SCB.ReservedBy>
-  <SCB.Settings.ApplyGlobalToColony>Применить мои настройки к этой колонии</SCB.Settings.ApplyGlobalToColony>
-  <SCB.Settings.AutoPickup>Снова брать младенца после перерыва</SCB.Settings.AutoPickup>
-  <SCB.Settings.AutoPickupDesc>После дела, ради которого пришлось положить младенца, персонаж автоматически берёт его обратно. Например, после сна или плавания.</SCB.Settings.AutoPickupDesc>
+  <SCB.ReservedBy>зарезервировано: {0}</SCB.ReservedBy>
+  <SCB.Settings.AutoPickup>Автоматически снова брать младенцев</SCB.Settings.AutoPickup>
+  <SCB.Settings.AutoPickupDesc>Если включено, поселенцы автоматически снова берут своего младенца после дела, ради которого пришлось его положить, например сна или плавания.</SCB.Settings.AutoPickupDesc>
   <SCB.Settings.AutoSleepTiredCarriedBaby>Автоматически относить сонного младенца в кроватку</SCB.Settings.AutoSleepTiredCarriedBaby>
-  <SCB.Settings.AutoSleepTiredCarriedBabyDesc>Когда младенцу на руках понадобится сон, персонаж автоматически отнесёт его в кроватку или кровать. При отключении ребёнок остаётся на руках и может спать там. По умолчанию отключено.</SCB.Settings.AutoSleepTiredCarriedBabyDesc>
+  <SCB.Settings.AutoSleepTiredCarriedBabyDesc>Если включено, уставшего младенца, которого несут, автоматически относят в колыбель или кровать. Если выключено (по умолчанию), младенца продолжают нести, и он спит в слинге или на руках.</SCB.Settings.AutoSleepTiredCarriedBabyDesc>
   <SCB.Settings.BabyDangerTypes>Опасности для младенцев:</SCB.Settings.BabyDangerTypes>
   <SCB.Settings.BabyThrow>Перебрасывание младенца:</SCB.Settings.BabyThrow>
   <SCB.Settings.BabyThrowMinRange>Минимальная дальность броска, клеток</SCB.Settings.BabyThrowMinRange>
   <SCB.Settings.BlockCarryWhenCarrierTired>Запрещать уставшим поселенцам брать младенцев на руки</SCB.Settings.BlockCarryWhenCarrierTired>
-  <SCB.Settings.BlockCarryWhenCarrierTiredDesc>Если включено, уставшему поселенцу нельзя приказать взять младенца на руки: соответствующие пункты меню становятся недоступны и получают пометку об усталости. Если выключено, уставший поселенец по-прежнему может взять младенца на руки по приказу и будет нести его до отхода ко сну, вместо того чтобы сразу положить его обратно из-за усталости. По умолчанию выключено.</SCB.Settings.BlockCarryWhenCarrierTiredDesc>
-  <SCB.Settings.CarriedBabySleep>Сон младенца на руках:</SCB.Settings.CarriedBabySleep>
+  <SCB.Settings.BlockCarryWhenCarrierTiredDesc>Если включено, уставшим поселенцам нельзя приказать нести младенца. Если выключено, такой приказ можно отдать и уставшему поселенцу, и он будет нести младенца, пока не пойдёт спать. По умолчанию выключено.</SCB.Settings.BlockCarryWhenCarrierTiredDesc>
+  <SCB.Settings.CarriedBabiesUseCarryingCapacity>Вес переносимых младенцев учитывается в грузоподъёмности</SCB.Settings.CarriedBabiesUseCarryingCapacity>
+  <SCB.Settings.CarriedBabiesUseCarryingCapacityDesc>Если включено, вес переносимого младенца вычитается из грузоподъёмности поселенца, поэтому тот берёт меньше предметов из стопки. При этом всегда можно взять хотя бы один предмет.</SCB.Settings.CarriedBabiesUseCarryingCapacityDesc>
+  <SCB.Settings.CarriedBabySleep>Сон переносимого младенца:</SCB.Settings.CarriedBabySleep>
   <SCB.Settings.CarryBabyIntoHazardousAreas>Брать младенца в опасные места</SCB.Settings.CarryBabyIntoHazardousAreas>
-  <SCB.Settings.CarryBabyIntoHazardousAreasDesc>Персонаж берёт младенца с собой, даже если работа ведёт в жару, холод, токсичную среду или вакуум. При отключении он сначала оставит ребёнка в безопасном месте, выполнит работу, а затем заберёт его. В герметичной космической переноске младенца всегда берут с собой: она защищает его от этих опасностей. Прямые приказы игрока и действия мобилизованных персонажей не изменяются.</SCB.Settings.CarryBabyIntoHazardousAreasDesc>
-  <SCB.Settings.ColonyOverride>В этом сохранении заданы собственные значения настроек; отличий от ваших сохранённых предпочтений: {0}. Настройки хранятся в сохранении, чтобы в сетевой игре они совпадали у всех участников.</SCB.Settings.ColonyOverride>
+  <SCB.Settings.CarryBabyIntoHazardousAreasDesc>Если включено, поселенцы берут младенца с собой даже туда, где опасная температура, токсины или вакуум. Если выключено, сначала оставляют его в безопасном месте, а затем снова забирают. Поселенец в космической переноске всегда берёт младенца с собой. Мод никогда не изменяет действия по прямому приказу игрока и действия поселенцев в боевом режиме.</SCB.Settings.CarryBabyIntoHazardousAreasDesc>
   <SCB.Settings.DropBabyWhenCarrierTired>Класть младенца, когда несущий его поселенец устаёт</SCB.Settings.DropBabyWhenCarrierTired>
-  <SCB.Settings.DropBabyWhenCarrierTiredDesc>Если включено, уставший поселенец укладывает младенца в его колыбель, если она свободна и безопасна; иначе кладёт его рядом с собой. Автоматически брать младенца на руки снова он не будет. Мобилизованные поселенцы и поселенцы, занятые уходом за младенцем, продолжают нести его. По умолчанию выключено.</SCB.Settings.DropBabyWhenCarrierTiredDesc>
+  <SCB.Settings.DropBabyWhenCarrierTiredDesc>Если включено, уставший поселенец кладёт младенца в его колыбель, если она свободна и безопасна, иначе – рядом с собой. Автоматически забирать младенца он не будет. Поселенцы в боевом режиме и те, кто занят уходом за младенцем, продолжают его нести. По умолчанию выключено.</SCB.Settings.DropBabyWhenCarrierTiredDesc>
   <SCB.Settings.EnableBabyThrow>Разрешить перебрасывать младенца (экспериментально)</SCB.Settings.EnableBabyThrow>
   <SCB.Settings.EnableBabyThrowDesc>У персонажа с младенцем появится команда перебросить ребёнка другому поселенцу, которому назначен уход за детьми. Передача происходит целиком по завершении анимации полёта. По умолчанию отключено.</SCB.Settings.EnableBabyThrowDesc>
   <SCB.Settings.EnableCarrySoreness>Боль в спине от ношения младенца</SCB.Settings.EnableCarrySoreness>
   <SCB.Settings.EnableCarrySorenessDesc>Если включено, у поселенцев, которые долго носят младенца, постепенно начинает болеть спина (состояние «боль от ношения ребёнка»). Слинги и переноски замедляют этот процесс. Если выключено, состояние больше не усиливается, а накопившаяся боль постепенно проходит.</SCB.Settings.EnableCarrySorenessDesc>
   <SCB.Settings.EnableHyperthermiaForBabies>Учитывать перегрев</SCB.Settings.EnableHyperthermiaForBabies>
-  <SCB.Settings.EnableHyperthermiaForBabiesDesc>При опасной жаре срабатывают автоматическое спасение и предупреждения. Отключение убирает проверки перегрева для младенцев.</SCB.Settings.EnableHyperthermiaForBabiesDesc>
+  <SCB.Settings.EnableHyperthermiaForBabiesDesc>Если включено, младенцев спасают и показывают предупреждения, когда температура превышает верхнюю границу их комфортного диапазона. Если выключено, жара для младенцев не учитывается, а переносимый младенец больше не может получить тепловой удар.</SCB.Settings.EnableHyperthermiaForBabiesDesc>
   <SCB.Settings.EnableHypothermiaForBabies>Учитывать переохлаждение</SCB.Settings.EnableHypothermiaForBabies>
-  <SCB.Settings.EnableHypothermiaForBabiesDesc>При опасном холоде срабатывают автоматическое спасение и предупреждения. Отключение убирает проверки переохлаждения для младенцев.</SCB.Settings.EnableHypothermiaForBabiesDesc>
+  <SCB.Settings.EnableHypothermiaForBabiesDesc>Если включено, младенцев спасают и показывают предупреждения, когда температура опускается ниже нижней границы их комфортного диапазона. Если выключено, холод для младенцев не учитывается, а переносимый младенец больше не может получить переохлаждение.</SCB.Settings.EnableHypothermiaForBabiesDesc>
   <SCB.Settings.EnableToxicBuildupForBabies>Учитывать воздействие токсинов</SCB.Settings.EnableToxicBuildupForBabies>
-  <SCB.Settings.EnableToxicBuildupForBabiesDesc>Младенцы подвергаются воздействию токсичных осадков, дождя и газа. При отключении отравление не вызывает автоматическое спасение и предупреждения об опасности для младенца.</SCB.Settings.EnableToxicBuildupForBabiesDesc>
+  <SCB.Settings.EnableToxicBuildupForBabiesDesc>Если включено, на младенцев действуют токсичные осадки, токсичный дождь и токсичный газ. Если выключено, накопление токсинов больше не вызывает спасение младенцев и предупреждения об опасности для них.</SCB.Settings.EnableToxicBuildupForBabiesDesc>
   <SCB.Settings.EnableVacuumForBabies>Учитывать воздействие вакуума</SCB.Settings.EnableVacuumForBabies>
   <SCB.Settings.EnableVacuumForBabiesDesc>Младенец в обычном слинге или переноске подвергается воздействию вакуума вместе с тем, кто его несёт. Герметичная космическая переноска всегда защищает ребёнка. Требуется Odyssey.</SCB.Settings.EnableVacuumForBabiesDesc>
   <SCB.Settings.KeepBabyAfterChildcare>Оставлять младенца на руках после ухода за ним</SCB.Settings.KeepBabyAfterChildcare>
-  <SCB.Settings.KeepBabyAfterChildcareDesc>Если включено, поселенец с включённой работой по уходу за детьми продолжает носить младенца после кормления или игры, вместо того чтобы вернуть его в колыбель. После этого поселенец кладёт младенца только по вашему приказу или при необходимости (рискованная работа, опасность, сон, усталость).\n\nНе действует, если младенец хочет спать, поселенец устал или уже несёт другого младенца, а также если вы напрямую приказали покормить младенца или поиграть с ним. Требуется включить «Снова брать младенца после перерыва».</SCB.Settings.KeepBabyAfterChildcareDesc>
+  <SCB.Settings.KeepBabyAfterChildcareDesc>Если включено, поселенец, назначенный на уход за детьми, после кормления или игры продолжает нести младенца, вместо того чтобы вернуть его в колыбель. После этого он кладёт младенца только по вашему приказу или по необходимости: из-за рискованной работы, опасности, сна или усталости.\n\nНе действует, если младенец хочет спать, поселенец устал или уже несёт младенца, а также если вы напрямую приказали покормить младенца или поиграть с ним. Требуется настройка «Автоматически снова брать младенцев».</SCB.Settings.KeepBabyAfterChildcareDesc>
   <SCB.Settings.PreferBreastfeedOverBottle>Предпочитать грудное кормление</SCB.Settings.PreferBreastfeedOverBottle>
-  <SCB.Settings.PreferBreastfeedOverBottleDesc>Вместо кормления из бутылочки поселенец отнесёт младенца к кормящей матери, которая не может сама за ним прийти: лежит в постели или ещё восстанавливается после родов. Послеродовое истощение снижает скорость движения до 10% независимо от того, где прошли роды. В основной игре мать, способная ходить, должна сама забрать ребёнка; из-за этого после родов младенца часто кормят из бутылочки другие поселенцы. Отключите, чтобы вернуть обычное поведение.</SCB.Settings.PreferBreastfeedOverBottleDesc>
+  <SCB.Settings.PreferBreastfeedOverBottleDesc>Если включено, поселенец, собирающийся покормить младенца из бутылочки, относит его к кормящей матери, которая не может забрать его сама, например потому, что лежит в постели или восстанавливается после родов. Поселенец, который несёт младенца, тоже прежде всего использует грудное вскармливание: кормит сам, если может, или относит к свободной кормящей поселенке. Только если эти варианты недоступны, он берёт еду.</SCB.Settings.PreferBreastfeedOverBottleDesc>
   <SCB.Settings.PutBabyToBedAfterTending>Оставлять младенца в постели после лечения</SCB.Settings.PutBabyToBedAfterTending>
-  <SCB.Settings.PutBabyToBedAfterTendingDesc>Оказав помощь младенцу, которого он несёт, врач отнесёт его в медицинскую кровать или кроватку для восстановления. Там ребёнок останется до ручного приказа взять его на руки. При отключении врач сразу возьмёт младенца обратно. По умолчанию отключено.</SCB.Settings.PutBabyToBedAfterTendingDesc>
-  <SCB.Settings.RePickupAfterHazardDrop>Забирать младенца после работы в опасном месте</SCB.Settings.RePickupAfterHazardDrop>
-  <SCB.Settings.RePickupAfterHazardDropDesc>Действует, только если отключено «Брать младенца в опасные места». Персонаж вернётся за ребёнком, когда снова окажется там, где его можно безопасно нести. Между двумя заданиями в опасной среде забирать младенца он не станет. При отключении ребёнок останется там, где его положили, пока вы не решите снова взять его на руки.</SCB.Settings.RePickupAfterHazardDropDesc>
-  <SCB.Settings.RecarryAfterSleep>Снова брать младенца после собственного сна</SCB.Settings.RecarryAfterSleep>
-  <SCB.Settings.RecarryAfterSleepDesc>Проснувшись, персонаж снова возьмёт младенца, которого положил перед сном. Относится к уходу, начатому самостоятельно: после прямого приказа игрока персонаж забирает ребёнка в любом случае. По умолчанию отключено.</SCB.Settings.RecarryAfterSleepDesc>
-  <SCB.Settings.Relationship.FamilyMembers>Родственники — родители, бабушки, дедушки, братья, сёстры, тёти и дяди</SCB.Settings.Relationship.FamilyMembers>
-  <SCB.Settings.Relationship.None>Без ограничений — любой персонаж</SCB.Settings.Relationship.None>
-  <SCB.Settings.Relationship.ParentsOnly>Только биологические родители</SCB.Settings.Relationship.ParentsOnly>
+  <SCB.Settings.PutBabyToBedAfterTendingDesc>Если включено, поселенец, который лечит переносимого младенца, после лечения относит его в медицинскую кровать или колыбель для восстановления. Если поселенец не может лечить, он оставляет раненого младенца врачу и не забирает его обратно. Младенец остаётся в постели, пока вы не прикажете его взять. Если выключено (по умолчанию), поселенец снова берёт младенца сразу после лечения.</SCB.Settings.PutBabyToBedAfterTendingDesc>
+  <SCB.Settings.RePickupAfterHazardDrop>Снова забирать младенца после опасной работы</SCB.Settings.RePickupAfterHazardDrop>
+  <SCB.Settings.RePickupAfterHazardDropDesc>Действует, только если настройка «Брать младенца в опасные места» выключена. Если включено, поселенец возвращается за младенцем, когда вновь оказывается в безопасном для него месте, а не между двумя делами в опасной зоне. Если выключено, младенец остаётся там, где его оставили, пока вы не прикажете снова его нести.</SCB.Settings.RePickupAfterHazardDropDesc>
+  <SCB.Settings.RecarryAfterSleep>Снова брать младенца после пробуждения</SCB.Settings.RecarryAfterSleep>
+  <SCB.Settings.RecarryAfterSleepDesc>Если включено, поселенец, который положил младенца перед сном, снова берёт его после пробуждения. Младенцев, которых велели нести по вашему приказу, всегда забирают снова. По умолчанию выключено.</SCB.Settings.RecarryAfterSleepDesc>
+  <SCB.Settings.Relationship.FamilyMembers>Только семья: родители, бабушки, дедушки, братья, сёстры, тёти и дяди</SCB.Settings.Relationship.FamilyMembers>
+  <SCB.Settings.Relationship.None>Без ограничений: любой может нести любого младенца</SCB.Settings.Relationship.None>
+  <SCB.Settings.Relationship.ParentsOnly>Только родители: нести младенца могут только его родители</SCB.Settings.Relationship.ParentsOnly>
   <SCB.Settings.RelationshipRequirement>Кто может носить младенца:</SCB.Settings.RelationshipRequirement>
   <SCB.Settings.Repair>Восстановление:</SCB.Settings.Repair>
   <SCB.Settings.RepairButton>Вернуть пропавших младенцев</SCB.Settings.RepairButton>
   <SCB.Settings.RepairFailed>Восстановление не удалось. Подробности в журнале.</SCB.Settings.RepairFailed>
   <SCB.Settings.RepairNoGame>Сначала загрузите сохранение: в главном меню восстанавливать нечего.</SCB.Settings.RepairNoGame>
-  <SCB.Settings.RepairResult>Готово. Проверено карт: {0}; возвращено младенцев из списка персонажей мира: {1}.</SCB.Settings.RepairResult>
+  <SCB.Settings.RepairResult>Готово. Проверено карт: {0}. Возвращено пропавших младенцев: {1}.</SCB.Settings.RepairResult>
   <SCB.Settings.RequireSlingForCarrying>Брать младенцев только со слингом или переноской</SCB.Settings.RequireSlingForCarrying>
-  <SCB.Settings.RequireSlingForCarryingDesc>Чтобы носить младенца с помощью этого мода, поселенцу потребуется надетый слинг или переноска. Без них взять ребёнка не получится.</SCB.Settings.RequireSlingForCarryingDesc>
+  <SCB.Settings.RequireSlingForCarryingDesc>Если включено, поселенцы могут нести младенцев, только надев слинг или переноску для младенцев.</SCB.Settings.RequireSlingForCarryingDesc>
   <SCB.StatCarriedBabyInsulation>Переноска на персонаже «{0}»</SCB.StatCarriedBabyInsulation>
-  <SCB.StatCarryNoApparel>Младенец на руках, без переноски</SCB.StatCarryNoApparel>
-  <SCB.StatCarryNoApparelDetail>  Скорость работы: −40%</SCB.StatCarryNoApparelDetail>
-  <SCB.StatCarryOneArmDetail>  Скорость работы: −65%</SCB.StatCarryOneArmDetail>
-  <SCB.StatCarryOneArmNoApparel>Младенец на единственной руке, без переноски</SCB.StatCarryOneArmNoApparel>
+  <SCB.StatCarryNoApparel>Ношение младенца без слинга или переноски</SCB.StatCarryNoApparel>
+  <SCB.StatCarryNoApparelDetail>  x{0}</SCB.StatCarryNoApparelDetail>
+  <SCB.StatCarryOneArmDetail>  x{0}</SCB.StatCarryOneArmDetail>
+  <SCB.StatCarryOneArmNoApparel>Ношение младенца одной рукой без слинга или переноски</SCB.StatCarryOneArmNoApparel>
   <SCB.Swap>(обменять)</SCB.Swap>
-  <SCB.SwapBabyWith>Обменять младенца с персонажем «{TARGET}»</SCB.SwapBabyWith>
+  <SCB.SwapBabyWith>Обменяться младенцами. Поселенец: {TARGET}</SCB.SwapBabyWith>
   <SCB.SwapWithBaby>(обмен с младенцем «{0}»)</SCB.SwapWithBaby>
   <SCB.TakeBabyOut>Достать младенца</SCB.TakeBabyOut>
-  <SCB.ThrowBabyTo>Перебросить младенца «{BABY_label}» персонажу «{TARGET_labelShort}»</SCB.ThrowBabyTo>
+  <SCB.ThrowBabyTo>Перебросить младенца ({BABY_labelShort}) поселенцу ({TARGET_labelShort})</SCB.ThrowBabyTo>
   <SCB.ThrowTooClose>слишком близко</SCB.ThrowTooClose>
   <SCB.TooCold>слишком холодно</SCB.TooCold>
   <SCB.TooHot>слишком жарко</SCB.TooHot>
-  <SCB.TossUpDisabledWithSling>Нельзя подбрасывать младенца во время игры, пока надета переноска.</SCB.TossUpDisabledWithSling>
+  <SCB.TossUpDisabledWithSling>Нельзя подбрасывать младенца, если надет слинг или переноска.</SCB.TossUpDisabledWithSling>
   <SCB.ToxicExposure>воздействие токсинов</SCB.ToxicExposure>
   <SCB.TransferBaby>Передать младенца</SCB.TransferBaby>
-  <SCB.TransferBabyDesc>Передать младенца ({BABY}) выбранному поселенцу. Если он уже несёт другого младенца, поселенцы обменяются детьми.</SCB.TransferBabyDesc>
+  <SCB.TransferBabyDesc>Передать младенца ({BABY}) другому поселенцу. Если тот уже несёт младенца, поселенцы обменяются младенцами.</SCB.TransferBabyDesc>
+  <SCB.VacuumExposure>вакуум</SCB.VacuumExposure>
   <SCB.VehicleBoardUnsafeNoApparel>(нет слинга или переноски)</SCB.VehicleBoardUnsafeNoApparel>
-  <SCB.WeaponDisabledNoApparel>Без слинга или переноски нельзя пользоваться оружием, пока руки заняты младенцем.</SCB.WeaponDisabledNoApparel>
+  <SCB.WeaponDisabledNoApparel>Нельзя пользоваться оружием, пока несёшь младенца без слинга или переноски.</SCB.WeaponDisabledNoApparel>
   <SCB.WearSpacerCarrierFromPod>Надеть космическую переноску</SCB.WearSpacerCarrierFromPod>
 </LanguageData>
