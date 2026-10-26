@@ -1,0 +1,13 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <KAU_FinishingOff.description>Быстро и безболезненно убивать сбитых с ног существ.</KAU_FinishingOff.description>
+  <KAU_FinishingOff.gerundLabel>Добивание</KAU_FinishingOff.gerundLabel>
+  <KAU_FinishingOff.labelShort>Добивание</KAU_FinishingOff.labelShort>
+  <KAU_FinishingOff.pawnLabel>Палач</KAU_FinishingOff.pawnLabel>
+  <KAU_FinishingOff.verb>Добивать</KAU_FinishingOff.verb>
+  <KAU_UrgentHaul.description>Срочно переносить предметы.</KAU_UrgentHaul.description>
+  <KAU_UrgentHaul.gerundLabel>Срочная переноска</KAU_UrgentHaul.gerundLabel>
+  <KAU_UrgentHaul.labelShort>Переноска+</KAU_UrgentHaul.labelShort>
+  <KAU_UrgentHaul.pawnLabel>Грузчик</KAU_UrgentHaul.pawnLabel>
+  <KAU_UrgentHaul.verb>Переносить</KAU_UrgentHaul.verb>
+</LanguageData>

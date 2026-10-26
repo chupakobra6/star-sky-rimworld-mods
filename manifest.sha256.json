@@ -545,6 +545,14 @@
         "Assemblies/RU2026992161.dll"
       ],
       "licenseId": "CC-BY-NC-SA-4.0"
+    },
+    {
+      "path": "mods/RU-3524716849",
+      "workshopId": "3827393219",
+      "assemblies": [
+        "Assemblies/RU3524716849.dll"
+      ],
+      "licenseId": "CC-BY-SA-4.0"
     }
   ],
   "files": [
@@ -565,8 +573,8 @@
     },
     {
       "path": "catalog/translations.md",
-      "bytes": 60130,
-      "sha256": "36b2549cf56fb313e153d86e365874ee5940e8fe5794aef7409f4d67a091fefd"
+      "bytes": 61243,
+      "sha256": "0c57fdf1ecda9b2a0956ddc0c55006c73a379101c7427a350978fcbf26764b94"
     },
     {
       "path": "mods/CharacterEditor-Fixes/About/About.xml",
@@ -9619,6 +9627,116 @@
       "sha256": "faef806146e9fc9ed846a56eab9e773897aadb2a6ea79a75ca5599a7909bdda2"
     },
     {
+      "path": "mods/RU-3524716849/About/About.xml",
+      "bytes": 2289,
+      "sha256": "1c1c74f15c403d15180c0b187ac55ced0733f9d29f3bbf481901fc77c0a33cbb"
+    },
+    {
+      "path": "mods/RU-3524716849/About/Preview.png",
+      "bytes": 575382,
+      "sha256": "2cd8586900884fae2db909eeb6902c1ccb7291a8445c743aa1f1503fda8858b3"
+    },
+    {
+      "path": "mods/RU-3524716849/About/PublishedFileId.txt",
+      "bytes": 11,
+      "sha256": "ff358cad831cc2020e5e6d025a33688264d3319cbd907da808779183bca4b82f"
+    },
+    {
+      "path": "mods/RU-3524716849/Assemblies/RU3524716849.dll",
+      "bytes": 13824,
+      "sha256": "2f7029c805eeb05a6464bd174f7e0df55feb848fc709828c83d75a53113522ed"
+    },
+    {
+      "path": "mods/RU-3524716849/CHANGELOG.md",
+      "bytes": 149,
+      "sha256": "835524653d79b6d631631e7132eb67ce95d63663fc763a9902f9aa5a567b437f"
+    },
+    {
+      "path": "mods/RU-3524716849/Languages/English/Keyed/Additional.xml",
+      "bytes": 197,
+      "sha256": "48b6d32e433f7701bec524cdd8e16c9cb309925d131ca55192d2da01af7564ea"
+    },
+    {
+      "path": "mods/RU-3524716849/Languages/Russian/DefInjected/JobDef/Translations.xml",
+      "bytes": 273,
+      "sha256": "c7842e7079183459a0ecbb6a58a2e6bc487f279d220854b29f95fe77d0025764"
+    },
+    {
+      "path": "mods/RU-3524716849/Languages/Russian/DefInjected/KeyBindingCategoryDef/Translations.xml",
+      "bytes": 332,
+      "sha256": "a78acd838f4aeebfcddffca7631739100f61cc7e8a03bf2e7ed337472aac681f"
+    },
+    {
+      "path": "mods/RU-3524716849/Languages/Russian/DefInjected/KeyBindingDef/Translations.xml",
+      "bytes": 1825,
+      "sha256": "9448531028317151ac53acd77c2ffabb3bdbae6f32a436722e102f09f5656512"
+    },
+    {
+      "path": "mods/RU-3524716849/Languages/Russian/DefInjected/ThingDef/Translations.xml",
+      "bytes": 157,
+      "sha256": "fab26693e0d3c7bb38bb171a3ba924574848a90ff2cfe75befa0a1b394dc569b"
+    },
+    {
+      "path": "mods/RU-3524716849/Languages/Russian/DefInjected/WorkGiverDef/Translations.xml",
+      "bytes": 564,
+      "sha256": "6ba95bdcd68cbe157e26e81987d925d57520e80abd21f4c8051156576e1f3ca9"
+    },
+    {
+      "path": "mods/RU-3524716849/Languages/Russian/DefInjected/WorkTypeDef/Translations.xml",
+      "bytes": 948,
+      "sha256": "ee4b40a54ba7dacc2180a53bfe16928b4aff8cb8db4690f1f9cb3a60eefb95fd"
+    },
+    {
+      "path": "mods/RU-3524716849/Languages/Russian/Keyed/Translations.xml",
+      "bytes": 16730,
+      "sha256": "e1ad20b2320b675780cad592d3bcd0c25ca1d6c608d17d08cc5983fa7acef091"
+    },
+    {
+      "path": "mods/RU-3524716849/LICENSE",
+      "bytes": 18375,
+      "sha256": "cde7883b9050a1104f4ac19a1572aafd6e5d7323b68351aaf51fbf4beba54966"
+    },
+    {
+      "path": "mods/RU-3524716849/Licenses/CC-BY-SA-4.0.txt",
+      "bytes": 18375,
+      "sha256": "cde7883b9050a1104f4ac19a1572aafd6e5d7323b68351aaf51fbf4beba54966"
+    },
+    {
+      "path": "mods/RU-3524716849/Licenses/Keyz-Allow-Utilities-MIT.txt",
+      "bytes": 1064,
+      "sha256": "8c06b5dcd59f7dc16aca8385723dd243a57ef55ea79688337852a798273ae81a"
+    },
+    {
+      "path": "mods/RU-3524716849/Licenses/MIT.txt",
+      "bytes": 1068,
+      "sha256": "8a32425e028111706b44ae429746c725582435de638e3306dd98a4fa8861bff8"
+    },
+    {
+      "path": "mods/RU-3524716849/Licenses/RimWorld-Font-MIT.txt",
+      "bytes": 1065,
+      "sha256": "7e910346a5518924143d426948ec61717d3dafd2573695d79224da6bad1bed06"
+    },
+    {
+      "path": "mods/RU-3524716849/NOTICES.md",
+      "bytes": 4703,
+      "sha256": "d8250b2c379a5550259c71e0d8dae569c13dc1c87bd8b1af89f813ce8cb4dc4e"
+    },
+    {
+      "path": "mods/RU-3524716849/README.md",
+      "bytes": 4523,
+      "sha256": "609552fd0d82f3da940db99ad1b63c5491ed928cf25c632a665067f5e6696b7b"
+    },
+    {
+      "path": "mods/RU-3524716849/Source/DebugActionNames.cs",
+      "bytes": 2771,
+      "sha256": "d842531ccbd54e50a90c18951916726f9df19e0fa78597a80ca273c0ecffc015"
+    },
+    {
+      "path": "mods/RU-3524716849/Source/Literals.cs",
+      "bytes": 8627,
+      "sha256": "64d1e35e802c74fb361a19fe478a8650f0cfa22c831686b2d36554d0512e65dd"
+    },
+    {
       "path": "mods/RU-3526354009/About/About.xml",
       "bytes": 2346,
       "sha256": "faae828fd5915451074b817a3b8f2a6fdb40c2aa992c2c6fdce58e77c59e2e45"
@@ -12081,7 +12199,7 @@
     {
       "path": "README.md",
       "bytes": 2409,
-      "sha256": "85bea4a7f9864e248ea93902ce595129f279f80f9249cde06d660f4a5cf6d682"
+      "sha256": "e062cc1107b59aa891a3fe2c41733f43d3b963ec7cf9bc80962ec85223a8f51f"
     }
   ]
 }

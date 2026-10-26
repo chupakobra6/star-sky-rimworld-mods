@@ -665,3 +665,15 @@ RimWorld 1.6 · Версия 1.0.0
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3820589458) · [Исходники и руководство](../mods/RU-2026992161/README.md) · [История изменений](../mods/RU-2026992161/CHANGELOG.md) · [Лицензия](../mods/RU-2026992161/LICENSE) · [Источники и уведомления](../mods/RU-2026992161/NOTICES.md)
 
 [![Другие моды в Мастерской Steam](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-ru.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)
+
+## Keyz' Allow Utilities — русский перевод
+
+Русский перевод команд, настроек и подсказок Keyz' Allow Utilities с вычитанными формулировками
+
+[![Keyz' Allow Utilities — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/keyz-allow-utilities-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3827393219)
+
+RimWorld 1.6 · Версия 1.0.0
+
+[Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3827393219) · [Исходники и руководство](../mods/RU-3524716849/README.md) · [История изменений](../mods/RU-3524716849/CHANGELOG.md) · [Лицензия](../mods/RU-3524716849/LICENSE) · [Источники и уведомления](../mods/RU-3524716849/NOTICES.md)
+
+[![Другие моды в Мастерской Steam](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-ru.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)

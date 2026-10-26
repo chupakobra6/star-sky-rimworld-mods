@@ -1,0 +1,20 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <KAU_Allow.label>Разрешить</KAU_Allow.label>
+  <KAU_CutBlighted.label>Срезать заражённые растения</KAU_CutBlighted.label>
+  <KAU_CutFullyGrown.label>Срезать выросшие растения</KAU_CutFullyGrown.label>
+  <KAU_FertileGrowArea.label>Создать зону посадки (только плодородная почва)</KAU_FertileGrowArea.label>
+  <KAU_FertileGrowAreaExpand.label>Расширить зону (только плодородная почва)</KAU_FertileGrowAreaExpand.label>
+  <KAU_FinishOff.label>Добить</KAU_FinishOff.label>
+  <KAU_Forbid.label>Запретить</KAU_Forbid.label>
+  <KAU_HarvestAll.label>Собрать весь урожай (при любом росте)</KAU_HarvestAll.label>
+  <KAU_HarvestAllWood.label>Срубить все деревья (при любом росте)</KAU_HarvestAllWood.label>
+  <KAU_HarvestFullyGrown.label>Собрать урожай созревших растений</KAU_HarvestFullyGrown.label>
+  <KAU_HarvestFullyGrownWood.label>Срубить выросшие деревья</KAU_HarvestFullyGrownWood.label>
+  <KAU_HaulUrgently.label>Срочно перенести</KAU_HaulUrgently.label>
+  <KAU_HaulUrgentlySelection.label>Срочно перенести выделенное</KAU_HaulUrgentlySelection.label>
+  <KAU_SelectFloor.label>Выбрать напольное покрытие</KAU_SelectFloor.label>
+  <KAU_SelectSimilar.label>Выделить похожее</KAU_SelectSimilar.label>
+  <KAU_SelectSimilarDesignator.label>Выделить похожее (инструмент)</KAU_SelectSimilarDesignator.label>
+  <KAU_StripMine.label>Прорыть сетку тоннелей</KAU_StripMine.label>
+</LanguageData>
