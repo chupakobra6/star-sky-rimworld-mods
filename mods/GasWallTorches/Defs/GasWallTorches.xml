@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef Name="SSGT_WallTorchBase" ParentName="BuildingBase" Abstract="True">
+    <thingClass>Building</thingClass><drawerType>MapMeshAndRealTime</drawerType><category>Building</category><tickerType>Normal</tickerType>
+    <altitudeLayer>BuildingOnTop</altitudeLayer><passability>Standable</passability><pathCost>0</pathCost>
+    <size>(1,1)</size><fillPercent>0</fillPercent><rotatable>true</rotatable>
+    <terrainAffordanceNeeded IsNull="True"/><clearBuildingArea>false</clearBuildingArea>
+    <defaultPlacingRot>South</defaultPlacingRot><drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
+    <designationCategory>Furniture</designationCategory><minifiedDef>MinifiedThing</minifiedDef>
+    <graphicData>
+      <texPath>Things/Building/GasWallTorch/Bracket</texPath><graphicClass>Graphic_Multi</graphicClass>
+      <drawSize>(1,1)</drawSize><drawOffsetNorth>(0,0,0.55)</drawOffsetNorth><drawOffsetSouth>(0,0,-0.55)</drawOffsetSouth>
+      <drawOffsetEast>(0.55,0,0)</drawOffsetEast><drawOffsetWest>(-0.55,0,0)</drawOffsetWest>
+      <damageData><enabled>false</enabled></damageData>
+    </graphicData>
+    <uiIconPath>Things/Building/GasWallTorch/Bracket_north</uiIconPath>
+    <statBases><MaxHitPoints>65</MaxHitPoints><WorkToBuild>300</WorkToBuild><Mass>1.5</Mass><Flammability>0</Flammability><Beauty>1</Beauty></statBases>
+    <costList><Steel>15</Steel></costList>
+    <building><isEdifice>false</isEdifice><isAttachment>true</isAttachment></building>
+    <placeWorkers><li>Placeworker_AttachedToWall</li></placeWorkers>
+    <researchPrerequisites><li>VHGE_GasExtraction</li></researchPrerequisites>
+    <specialDisplayRadius>10</specialDisplayRadius>
+  </ThingDef>
+  <ThingDef ParentName="SSGT_WallTorchBase">
+    <defName>SSGT_Torch</defName><label>gas wall torch</label><description>A wall-mounted torch with a warm flame. Uses Helixien gas instead of wood.</description><uiOrder>2996</uiOrder>
+    <comps Inherit="False">
+      <li Class="CompProperties_Glower"><glowRadius>10</glowRadius><glowColor>(255,185,110,0)</glowColor></li>
+      <li Class="StarSky.GasWallTorches.CompProperties_GasTorchResourceTrader"><pipeNet>VHGE_HelixienNet</pipeNet><consumptionPerTick>0.02</consumptionPerTick></li>
+      <li Class="CompProperties_Flickable"/>
+      <li Class="StarSky.GasWallTorches.CompProperties_GasTorch"><heatPerSecond>6</heatPerSecond><flameScale>0.6</flameScale><flameOffset>(0,0,0.203125)</flameOffset><flameColor>(1,1,1,1)</flameColor></li>
+      <li MayRequire="juanlopez2008.LightsOut"><compClass>LightsOut.ThingComps.KeepOnComp</compClass></li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="SSGT_WallTorchBase" MayRequire="Ludeon.RimWorld.Biotech">
+    <defName>SSGT_TorchBlood</defName><label>bloodflame gas wall torch</label><description>A wall-mounted torch with a deep red flame. Bloodfeeders enjoy its glow. Uses Helixien gas.</description><uiOrder>2997</uiOrder>
+    <comps Inherit="False">
+      <li Class="CompProperties_Glower"><glowRadius>10</glowRadius><glowColor>(255,90,78,0)</glowColor></li>
+      <li Class="StarSky.GasWallTorches.CompProperties_GasTorchResourceTrader"><pipeNet>VHGE_HelixienNet</pipeNet><consumptionPerTick>0.02</consumptionPerTick></li>
+      <li Class="CompProperties_Flickable"/>
+      <li Class="StarSky.GasWallTorches.CompProperties_GasTorch"><heatPerSecond>6</heatPerSecond><flameScale>0.6</flameScale><flameOffset>(0,0,0.203125)</flameOffset><flameColor>(1,0.18,0.14,1)</flameColor></li>
+      <li MayRequire="juanlopez2008.LightsOut"><compClass>LightsOut.ThingComps.KeepOnComp</compClass></li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="SSGT_WallTorchBase" MayRequire="Ludeon.RimWorld.Biotech">
+    <defName>SSGT_TorchTox</defName><label>toxflame gas wall torch</label><description>A wall-mounted torch with a vivid green flame. Pawns with pollution stimulus enjoy its glow. Burns Helixien gas without releasing pollution.</description><uiOrder>2998</uiOrder>
+    <comps Inherit="False">
+      <li Class="CompProperties_Glower"><glowRadius>10</glowRadius><glowColor>(146,220,75,0)</glowColor></li>
+      <li Class="StarSky.GasWallTorches.CompProperties_GasTorchResourceTrader"><pipeNet>VHGE_HelixienNet</pipeNet><consumptionPerTick>0.02</consumptionPerTick></li>
+      <li Class="CompProperties_Flickable"/>
+      <li Class="StarSky.GasWallTorches.CompProperties_GasTorch"><heatPerSecond>6</heatPerSecond><flameScale>0.6</flameScale><flameOffset>(0,0,0.203125)</flameOffset><flameColor>(0.42,1,0.16,1)</flameColor></li>
+      <li MayRequire="juanlopez2008.LightsOut"><compClass>LightsOut.ThingComps.KeepOnComp</compClass></li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="SSGT_WallTorchBase" MayRequire="Ludeon.RimWorld.Ideology">
+    <defName>SSGT_TorchDark</defName><label>darkflame gas wall torch</label><description>A wall-mounted torch that produces true darklight. Uses Helixien gas.</description><uiOrder>2999</uiOrder>
+    <comps Inherit="False">
+      <li Class="CompProperties_Glower"><glowRadius>10</glowRadius><glowColor>(78,226,229,0)</glowColor></li>
+      <li Class="StarSky.GasWallTorches.CompProperties_GasTorchResourceTrader"><pipeNet>VHGE_HelixienNet</pipeNet><consumptionPerTick>0.02</consumptionPerTick></li>
+      <li Class="CompProperties_Flickable"/>
+      <li Class="StarSky.GasWallTorches.CompProperties_GasTorch"><heatPerSecond>6</heatPerSecond><flameScale>0.6</flameScale><flameOffset>(0,0,0.203125)</flameOffset><flameColor>(0.31,0.89,0.90,1)</flameColor></li>
+      <li MayRequire="juanlopez2008.LightsOut"><compClass>LightsOut.ThingComps.KeepOnComp</compClass></li>
+    </comps>
+  </ThingDef>
+</Defs>

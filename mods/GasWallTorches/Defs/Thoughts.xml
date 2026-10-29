@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThoughtDef MayRequire="Ludeon.RimWorld.Biotech"><defName>SSGT_BloodflameComfort</defName><workerClass>StarSky.GasWallTorches.ThoughtWorker_GasTorch</workerClass><requiredGenes><li>Bloodfeeder</li></requiredGenes><stages><li><label>comforting bloodflame</label><description>The red flame nearby makes me feel at ease.</description><baseMoodEffect>2</baseMoodEffect></li></stages><modExtensions><li Class="StarSky.GasWallTorches.GasTorchThoughtExtension"><torch>SSGT_TorchBlood</torch><gene>Bloodfeeder</gene><radius>7</radius></li></modExtensions></ThoughtDef>
+  <ThoughtDef MayRequire="Ludeon.RimWorld.Biotech"><defName>SSGT_ToxflameComfort</defName><workerClass>StarSky.GasWallTorches.ThoughtWorker_GasTorch</workerClass><requiredGenes><li>PollutionRush</li></requiredGenes><stages><li><label>vibrant toxflame</label><description>I enjoy the vivid green flame nearby.</description><baseMoodEffect>2</baseMoodEffect></li></stages><modExtensions><li Class="StarSky.GasWallTorches.GasTorchThoughtExtension"><torch>SSGT_TorchTox</torch><gene>PollutionRush</gene><radius>7</radius></li></modExtensions></ThoughtDef>
+</Defs>

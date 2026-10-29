@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+<path d="M109 101 L119 192 Q128 202 137 192 L147 101 Z" fill="#745337" stroke="#292b2a" stroke-width="7" stroke-linejoin="round"/>
+<path d="M119 143 L125 183" fill="none" stroke="#a37a50" stroke-width="5" stroke-linecap="round"/>
+<!-- Wall to the south: the near mounting plate overlaps the lower body. -->
+<path d="M109 150 Q128 158 147 150 L145 165 Q128 172 111 165 Z" fill="#595c59" stroke="#292b2a" stroke-width="7" stroke-linejoin="round"/>
+<path d="M114 151 Q128 146 142 151 L142 204 Q128 211 114 204 Z" fill="#595c59" stroke="#292b2a" stroke-width="7" stroke-linejoin="round"/>
+<circle cx="128" cy="160" r="3" fill="#292b2a"/><circle cx="128" cy="195" r="3" fill="#292b2a"/>
+<path d="M99 75 L107 102 Q128 114 149 102 L157 75 Z" fill="#595c59" stroke="#292b2a" stroke-width="7" stroke-linejoin="round"/>
+<ellipse cx="128" cy="76" rx="29" ry="9" fill="#353836" stroke="#292b2a" stroke-width="7"/>
+<path d="M111 93 Q128 99 145 93" fill="none" stroke="#858982" stroke-width="4" stroke-linecap="round"/>
+</svg>

@@ -41,3 +41,15 @@ RimWorld 1.6 · Version 1.1.2
 [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3789336886) · [Source & guide](../mods/IsekaiNoAutoCameraJump/README.md) · [Changelog](../mods/IsekaiNoAutoCameraJump/CHANGELOG.md) · [License](../mods/IsekaiNoAutoCameraJump/LICENSE) · [Sources & notices](../mods/IsekaiNoAutoCameraJump/NOTICES.md)
 
 [![Explore other mods on Steam Workshop](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-en.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)
+
+## Gas Wall Torches
+
+Four wall-mounted Helixien gas flames with manual switching and optional LightsOut integration
+
+[![Gas Wall Torches](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/gas-wall-torches.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3829351485)
+
+RimWorld 1.6 · Version 1.0.0
+
+[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3829351485) · [Source & guide](../mods/GasWallTorches/README.md) · [Changelog](../mods/GasWallTorches/CHANGELOG.md) · [License](../mods/GasWallTorches/LICENSE) · [Sources & notices](../mods/GasWallTorches/NOTICES.md)
+
+[![Explore other mods on Steam Workshop](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-en.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)

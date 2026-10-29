@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SSGT_Torch.label>настенный газовый факел</SSGT_Torch.label>
+  <SSGT_Torch.description>Настенный факел с тёплым пламенем. Работает от сети хеликсинового газа, не требует дров.</SSGT_Torch.description>
+  <SSGT_TorchBlood.label>настенный факел кровавого пламени</SSGT_TorchBlood.label>
+  <SSGT_TorchBlood.description>Газовый настенный факел с насыщенным красным пламенем. Его свет приятен кровопийцам.</SSGT_TorchBlood.description>
+  <SSGT_TorchTox.label>настенный факел токсопламени</SSGT_TorchTox.label>
+  <SSGT_TorchTox.description>Газовый настенный факел с ярким зелёным пламенем. Его свет приятен носителям гена стимуляции загрязнением. Сам факел не создаёт загрязнения.</SSGT_TorchTox.description>
+  <SSGT_TorchDark.label>настенный факел тёмного пламени</SSGT_TorchDark.label>
+  <SSGT_TorchDark.description>Газовый настенный факел, создающий тёмный свет.</SSGT_TorchDark.description>
+</LanguageData>

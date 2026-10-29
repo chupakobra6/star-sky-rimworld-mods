@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+<!-- Wall to the north: the body occludes the centred mounting plate. -->
+<path d="M118 140 Q128 136 138 140 L138 203 Q128 208 118 203 Z" fill="#595c59" stroke="#292b2a" stroke-width="7" stroke-linejoin="round"/>
+<path d="M109 101 L119 192 Q128 202 137 192 L147 101 Z" fill="#745337" stroke="#292b2a" stroke-width="7" stroke-linejoin="round"/>
+<path d="M119 143 L125 183" fill="none" stroke="#a37a50" stroke-width="5" stroke-linecap="round"/>
+<path d="M99 75 L107 102 Q128 114 149 102 L157 75 Z" fill="#595c59" stroke="#292b2a" stroke-width="7" stroke-linejoin="round"/>
+<ellipse cx="128" cy="76" rx="29" ry="9" fill="#353836" stroke="#292b2a" stroke-width="7"/>
+<path d="M111 93 Q128 99 145 93" fill="none" stroke="#858982" stroke-width="4" stroke-linecap="round"/>
+</svg>
