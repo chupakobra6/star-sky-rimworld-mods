@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Enhanced Carrying Capacity – Save Loading Fix [Star Sky Mods]</name>
+  <author>chupakobra6 | Star Sky Mods</author>
+  <packageId>starsky.rimworld.enhancedcarryingcapacity.saveloadfix</packageId>
+  <modVersion>1.0.0</modVersion>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>Designer225.EnhancedCarryingCapacity</packageId>
+      <displayName>Enhanced Carrying Capacity</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2972540973</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>Designer225.EnhancedCarryingCapacity</li>
+  </loadAfter>
+  <description>Prevent a save-loading failure caused by Enhanced Carrying Capacity loading its settings during caravan restoration
+
+&lt;b&gt;FEATURES&lt;/b&gt;
+The fix loads the original mod's settings during normal startup, before a save is loaded. Carrying-capacity multipliers and offsets stay unchanged, and the fix adds no data to saves
+
+Enable the fix before loading the affected save
+
+&lt;b&gt;COMPATIBILITY&lt;/b&gt;
+RimWorld 1.6. Requires Enhanced Carrying Capacity (https://steamcommunity.com/sharedfiles/filedetails/?id=2972540973). Load this mod after it. Harmony is not required
+
+Can be added to an existing save. The fix can be removed without removing save data, but the original loading error may return
+
+&lt;b&gt;FEEDBACK&lt;/b&gt;
+Found a bug? Leave a comment on the mod page or on Boosty
+
+Dependencies: Enhanced Carrying Capacity is by Designer225
+
+Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.</description>
+</ModMetaData>

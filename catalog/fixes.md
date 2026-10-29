@@ -29,3 +29,25 @@ RimWorld 1.6 · Version 1.0.1
 [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3811902590) · [Source & guide](../mods/House-Van-Illa-Fixes/README.md) · [Changelog](../mods/House-Van-Illa-Fixes/CHANGELOG.md) · [License](../mods/House-Van-Illa-Fixes/LICENSE) · [Sources & notices](../mods/House-Van-Illa-Fixes/NOTICES.md)
 
 [![Explore other mods on Steam Workshop](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-en.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)
+
+## Crashed Ship Mechanoid Guard Fix
+
+Fix mechanoid guard selection for vanilla defoliator and psychic ships
+
+[![Crashed Ship Mechanoid Guard Fix](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/crashed-ship-guard-fix.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3829381024)
+
+RimWorld 1.6 · Version 1.0.0
+
+[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3829381024) · [Source & guide](../mods/Crashed-Ship-Mechanoid-Guard-Fix/README.md) · [Changelog](../mods/Crashed-Ship-Mechanoid-Guard-Fix/CHANGELOG.md) · [License](../mods/Crashed-Ship-Mechanoid-Guard-Fix/LICENSE) · [Sources & notices](../mods/Crashed-Ship-Mechanoid-Guard-Fix/NOTICES.md)
+
+## Enhanced Carrying Capacity – Save Loading Fix
+
+Load carrying-capacity settings before restoring caravan saves
+
+[![Enhanced Carrying Capacity – Save Loading Fix](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/carrying-save-loading-fix.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3829381031)
+
+RimWorld 1.6 · Version 1.0.0
+
+[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3829381031) · [Source & guide](../mods/Enhanced-Carrying-Capacity-Save-Load-Fix/README.md) · [Changelog](../mods/Enhanced-Carrying-Capacity-Save-Load-Fix/CHANGELOG.md) · [License](../mods/Enhanced-Carrying-Capacity-Save-Load-Fix/LICENSE) · [Sources & notices](../mods/Enhanced-Carrying-Capacity-Save-Load-Fix/NOTICES.md)
+
+[![Explore other mods on Steam Workshop](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-en.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)

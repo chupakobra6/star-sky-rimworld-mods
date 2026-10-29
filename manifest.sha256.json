@@ -561,6 +561,22 @@
         "1.6/Assemblies/GasWallTorches.dll"
       ],
       "licenseId": "MIT"
+    },
+    {
+      "path": "mods/Crashed-Ship-Mechanoid-Guard-Fix",
+      "workshopId": "3829381024",
+      "assemblies": [
+        "1.6/Assemblies/CrashedShipMechanoidGuardFix.dll"
+      ],
+      "licenseId": "MIT"
+    },
+    {
+      "path": "mods/Enhanced-Carrying-Capacity-Save-Load-Fix",
+      "workshopId": "3829381031",
+      "assemblies": [
+        "1.6/Assemblies/EnhancedCarryingCapacitySaveLoadFix.dll"
+      ],
+      "licenseId": "MIT"
     }
   ],
   "files": [
@@ -571,8 +587,8 @@
     },
     {
       "path": "catalog/fixes.md",
-      "bytes": 2212,
-      "sha256": "df98015019125035bd54f82a3f989a14b54d51728b980afbca892120d40d90e5"
+      "bytes": 3899,
+      "sha256": "edc203578f8d537719e631c1d354f85d9bd070ad153360bc7ce96c0f91c129a1"
     },
     {
       "path": "catalog/mods.md",
@@ -628,6 +644,146 @@
       "path": "mods/CharacterEditor-Fixes/Source/Fixes.cs",
       "bytes": 2152,
       "sha256": "9d0a6b326d75dd756908a64b622dd60064940452d8690df6a7e76d553e46ab37"
+    },
+    {
+      "path": "mods/Crashed-Ship-Mechanoid-Guard-Fix/1.6/Assemblies/CrashedShipMechanoidGuardFix.dll",
+      "bytes": 8192,
+      "sha256": "e967d9e30009e0cd6ff1861e980f220617047e1566062d9668f413fea52cc11a"
+    },
+    {
+      "path": "mods/Crashed-Ship-Mechanoid-Guard-Fix/About/About.xml",
+      "bytes": 1846,
+      "sha256": "6097c64a7b33a3f5c73334f6278bfa2b2464665e637e18fcd534059631c73eb2"
+    },
+    {
+      "path": "mods/Crashed-Ship-Mechanoid-Guard-Fix/About/Preview.png",
+      "bytes": 494865,
+      "sha256": "fc286e495cf855734d6c1ac4713d0d4e3af9f96d36897812606c6e4822aa59bf"
+    },
+    {
+      "path": "mods/Crashed-Ship-Mechanoid-Guard-Fix/About/PublishedFileId.txt",
+      "bytes": 11,
+      "sha256": "d7f4af105f6a8368286a09d9965d813950b892214f2f9210de496b6785d27896"
+    },
+    {
+      "path": "mods/Crashed-Ship-Mechanoid-Guard-Fix/CHANGELOG.md",
+      "bytes": 177,
+      "sha256": "26d1627c2159d440887baa4b810a3c3d9be8c99f0144b5d695f47efd170384cf"
+    },
+    {
+      "path": "mods/Crashed-Ship-Mechanoid-Guard-Fix/LICENSE",
+      "bytes": 1068,
+      "sha256": "8a32425e028111706b44ae429746c725582435de638e3306dd98a4fa8861bff8"
+    },
+    {
+      "path": "mods/Crashed-Ship-Mechanoid-Guard-Fix/loadFolders.xml",
+      "bytes": 120,
+      "sha256": "5f5fc89f34f00a15dcd75aa48289b1f4d35a170fefc0a336bfddfa4f48125afe"
+    },
+    {
+      "path": "mods/Crashed-Ship-Mechanoid-Guard-Fix/NOTICES.md",
+      "bytes": 566,
+      "sha256": "1c71d73df77ab8e1603247645c992c16245b8e7cfd1f40959bcb88a5d9883486"
+    },
+    {
+      "path": "mods/Crashed-Ship-Mechanoid-Guard-Fix/README.md",
+      "bytes": 2368,
+      "sha256": "8e1e09590c9c05dbf8719d0de6f6fe61e9a67d42cc621008934293cef3665ce7"
+    },
+    {
+      "path": "mods/Crashed-Ship-Mechanoid-Guard-Fix/Source/AffordablePawnGroupUtility.cs",
+      "bytes": 918,
+      "sha256": "1b1b39f1395a5f38f222cf3ced5dd47dc86aab3fae10b968253a2a40f61b05f9"
+    },
+    {
+      "path": "mods/Crashed-Ship-Mechanoid-Guard-Fix/Source/AssemblyInfo.cs",
+      "bytes": 557,
+      "sha256": "d9fb4498e42747e83cdffed309c562222898c55c59256328f850f4b68487ead7"
+    },
+    {
+      "path": "mods/Crashed-Ship-Mechanoid-Guard-Fix/Source/Bootstrap.cs",
+      "bytes": 810,
+      "sha256": "e42b84851925dd2dc9076aaa7cc6d8d50900bf5a676d346c8038e93b4411f514"
+    },
+    {
+      "path": "mods/Crashed-Ship-Mechanoid-Guard-Fix/Source/CrashedShipGuardGenerationContext.cs",
+      "bytes": 561,
+      "sha256": "a73f7b7c004b3ebaa1b2e92297e3d2eb1c8367574e7064df89e827f3443fc70b"
+    },
+    {
+      "path": "mods/Crashed-Ship-Mechanoid-Guard-Fix/Source/CrashedShipMechanoidGuardFix.csproj",
+      "bytes": 1929,
+      "sha256": "2b01ceb87da23558d577391e19db4e9f19c5d12bf9e1162456dfdac612324b61"
+    },
+    {
+      "path": "mods/Crashed-Ship-Mechanoid-Guard-Fix/Source/GuardGroupEligibility.cs",
+      "bytes": 1291,
+      "sha256": "895ac3fe11019da7efba0b58486ea0f863e237fb8fc66b4263d1e29e27a533e9"
+    },
+    {
+      "path": "mods/Crashed-Ship-Mechanoid-Guard-Fix/Source/Patches/CrashedShipGuardPatches.cs",
+      "bytes": 1960,
+      "sha256": "e9e46ccce8b316d7ab2e18b1680542b14cdcba8ce35167dc2c8c51fa847433b1"
+    },
+    {
+      "path": "mods/Enhanced-Carrying-Capacity-Save-Load-Fix/1.6/Assemblies/EnhancedCarryingCapacitySaveLoadFix.dll",
+      "bytes": 5632,
+      "sha256": "2256aa1dff050ca2e63de5bf03c87e87aacffee3a120a46d616d2f69aec5a51a"
+    },
+    {
+      "path": "mods/Enhanced-Carrying-Capacity-Save-Load-Fix/About/About.xml",
+      "bytes": 1815,
+      "sha256": "e9a4be4816dcc1bfccc3dcfb6ea3cf94d31d29d6093fc9eefd866bb1ca2fec0c"
+    },
+    {
+      "path": "mods/Enhanced-Carrying-Capacity-Save-Load-Fix/About/Preview.png",
+      "bytes": 100360,
+      "sha256": "86d8952ee15016d9e2680d7b4452654c477408ee886132f81ac8ca644ee3af20"
+    },
+    {
+      "path": "mods/Enhanced-Carrying-Capacity-Save-Load-Fix/About/PublishedFileId.txt",
+      "bytes": 11,
+      "sha256": "72f24ca22c9d91d811226a6587817e3017de4cdb6368f008a02c3f27ea1108cd"
+    },
+    {
+      "path": "mods/Enhanced-Carrying-Capacity-Save-Load-Fix/CHANGELOG.md",
+      "bytes": 187,
+      "sha256": "46194208c349de549cb0c7b45bb6b45d8e20c3d34a056b27a70599574d80db58"
+    },
+    {
+      "path": "mods/Enhanced-Carrying-Capacity-Save-Load-Fix/LICENSE",
+      "bytes": 1068,
+      "sha256": "8a32425e028111706b44ae429746c725582435de638e3306dd98a4fa8861bff8"
+    },
+    {
+      "path": "mods/Enhanced-Carrying-Capacity-Save-Load-Fix/Licenses/Enhanced-Carrying-Capacity-MIT.txt",
+      "bytes": 1088,
+      "sha256": "c4fa4afc07da88c5988d19d26e90bb22222f7c208e83c8384a7eedf02be34925"
+    },
+    {
+      "path": "mods/Enhanced-Carrying-Capacity-Save-Load-Fix/loadFolders.xml",
+      "bytes": 104,
+      "sha256": "23f721252643f6a0230c935ea3e1f2f89a6371025dde018afe776508d66fcb03"
+    },
+    {
+      "path": "mods/Enhanced-Carrying-Capacity-Save-Load-Fix/NOTICES.md",
+      "bytes": 618,
+      "sha256": "dbc5279c463d304f988e3f70fd7bb9990d466deb44a379a1112f4f7c9c53d23c"
+    },
+    {
+      "path": "mods/Enhanced-Carrying-Capacity-Save-Load-Fix/README.md",
+      "bytes": 2387,
+      "sha256": "d9c8b338290dd2342186552107096de0c4b859e5081f0a1924db8927cffb4d2e"
+    },
+    {
+      "path": "mods/Enhanced-Carrying-Capacity-Save-Load-Fix/Source/AssemblyInfo.cs",
+      "bytes": 469,
+      "sha256": "50cec07977c59d8b66de27109645c07035a94f1549ce553a75bc9acdc7e0c47c"
+    },
+    {
+      "path": "mods/Enhanced-Carrying-Capacity-Save-Load-Fix/Source/SettingsPreload.cs",
+      "bytes": 1416,
+      "sha256": "489926d31c6d051e7215dd29289909f2703f0420f4c282a18d73146bfc3750ae"
     },
     {
       "path": "mods/GasWallTorches/1.6/Assemblies/GasWallTorches.dll",
@@ -12327,7 +12483,7 @@
     {
       "path": "README.md",
       "bytes": 2409,
-      "sha256": "020cc7585e496eeb65a1dc5488af1b79de2624755457485461574781e40893f5"
+      "sha256": "4a1a446d695abd56845c78119afa4a6c16b8cf959e54d90d92218eeb75e72bfd"
     }
   ]
 }
