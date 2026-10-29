@@ -636,8 +636,8 @@
     },
     {
       "path": "mods/GasWallTorches/About/About.xml",
-      "bytes": 4338,
-      "sha256": "5d5a6d684d4843b606ba31b111c16607e815c229b42fff831b9efea715312c16"
+      "bytes": 4111,
+      "sha256": "ab0ea16a492084dfa07af817644e8a3aaa5d86e1d9a9199444eade6b5430f900"
     },
     {
       "path": "mods/GasWallTorches/About/Preview.png",
@@ -686,13 +686,13 @@
     },
     {
       "path": "mods/GasWallTorches/NOTICES.md",
-      "bytes": 801,
-      "sha256": "ac38c0676402204a9214c2c4fab8c1f8b77d46999a55679a864a2948536992e8"
+      "bytes": 798,
+      "sha256": "e06187ca6481f4e29b96da80d336156764d032d105565d97d21cd501a452352d"
     },
     {
       "path": "mods/GasWallTorches/README.md",
-      "bytes": 4178,
-      "sha256": "4db1dca537b16e25a6cd8085b397b5689f1d914b7dfd7bf144824350c887c664"
+      "bytes": 3951,
+      "sha256": "e6d3f750770353d756cfaf882aa09336d3e3941bad28d8f33535794f2ae0a965"
     },
     {
       "path": "mods/GasWallTorches/Source/GasTorch.cs",
