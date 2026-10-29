@@ -6,6 +6,8 @@ Focused bug fixes and compatibility patches
 
 [All categories](../README.md) · [Steam Workshop](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)
 
+### [Browse the fixes collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3829381035)
+
 ## Character Editor — Genes & Names Fix
 
 Restores body-size genes in Character Editor and fixes two names in its bundled name file
