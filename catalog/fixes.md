@@ -16,8 +16,6 @@ RimWorld 1.6 · Version 1.0.0
 
 [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3807830515) · [Source & guide](../mods/CharacterEditor-Fixes/README.md) · [Changelog](../mods/CharacterEditor-Fixes/CHANGELOG.md) · [License](../mods/CharacterEditor-Fixes/LICENSE) · [Sources & notices](../mods/CharacterEditor-Fixes/NOTICES.md)
 
-[![Explore other mods on Steam Workshop](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-en.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)
-
 ## House Van Illa Fixes
 
 Conditional fix for the duplicate sword-rack definition in Medieval Overhaul: House Van Illa
