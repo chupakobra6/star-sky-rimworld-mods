@@ -2,10 +2,10 @@
 <ModMetaData>
   <name>Gas Wall Torches [Star Sky Mods]</name>
   <author>chupakobra6 | Star Sky Mods</author><packageId>starsky.rimworld.gaswalltorches</packageId>
-  <supportedVersions><li>1.6</li></supportedVersions><modVersion>1.0.0</modVersion>
+  <supportedVersions><li>1.6</li></supportedVersions><modVersion>1.0.1</modVersion>
   <description>Wall-mounted torches powered by your Helixien gas network. No wood refills
 
-Choose from four flame types. Mount them on a wall, connect them to gas and use the manual switch, or let LightsOut turn them on and off
+Choose from four flame types, all using the vanilla wall torch graphics and building icon. Mount them on a wall, connect them to gas and use the manual switch, or let LightsOut turn them on and off
 
 Made at the request of svg
 
@@ -22,7 +22,9 @@ Switching a torch off stops its flame, light, heat, sound and gas use. It also g
 
 &lt;b&gt;HOW TO USE&lt;/b&gt;
 
-Research Gas Extraction from Vanilla Helixien Gas Expanded, then find the torches under &lt;b&gt;Furniture&lt;/b&gt;. Each costs 15 steel. Place one against a wall in any of four directions and connect its tile to a Helixien gas pipe
+The torches appear under &lt;b&gt;Architect → Furniture&lt;/b&gt; after you finish &lt;b&gt;Gas extraction&lt;/b&gt; in the &lt;b&gt;Vanilla Expanded&lt;/b&gt; research tab. This research requires &lt;b&gt;Smithing&lt;/b&gt;; the building commands are hidden until it is completed
+
+Each torch costs 15 steel. Place one against a wall in any of four directions and connect its tile to a Helixien gas pipe
 
 Use the torch's switch to turn it on or off
 

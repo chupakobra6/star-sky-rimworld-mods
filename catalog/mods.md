@@ -48,7 +48,7 @@ Four wall-mounted Helixien gas flames with manual switching and optional LightsO
 
 [![Gas Wall Torches](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/gas-wall-torches.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3829351485)
 
-RimWorld 1.6 · Version 1.0.0
+RimWorld 1.6 · Version 1.0.1
 
 [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3829351485) · [Source & guide](../mods/GasWallTorches/README.md) · [Changelog](../mods/GasWallTorches/CHANGELOG.md) · [License](../mods/GasWallTorches/LICENSE) · [Sources & notices](../mods/GasWallTorches/NOTICES.md)
 

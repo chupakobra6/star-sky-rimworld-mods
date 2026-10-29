@@ -8,12 +8,12 @@
     <defaultPlacingRot>South</defaultPlacingRot><drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
     <designationCategory>Furniture</designationCategory><minifiedDef>MinifiedThing</minifiedDef>
     <graphicData>
-      <texPath>Things/Building/GasWallTorch/Bracket</texPath><graphicClass>Graphic_Multi</graphicClass>
-      <drawSize>(1,1)</drawSize><drawOffsetNorth>(0,0,0.55)</drawOffsetNorth><drawOffsetSouth>(0,0,-0.55)</drawOffsetSouth>
-      <drawOffsetEast>(0.55,0,0)</drawOffsetEast><drawOffsetWest>(-0.55,0,0)</drawOffsetWest>
+      <texPath>Things/Building/Misc/WallTorch/WallTorch</texPath><graphicClass>Graphic_Multi</graphicClass>
+      <drawSize>(1,1)</drawSize><drawRotated>false</drawRotated><drawOffsetNorth>(0,0,0.9)</drawOffsetNorth><drawOffsetSouth>(0,0,-0.9)</drawOffsetSouth>
+      <drawOffsetEast>(0.9,0,0)</drawOffsetEast><drawOffsetWest>(-0.9,0,0)</drawOffsetWest>
       <damageData><enabled>false</enabled></damageData>
     </graphicData>
-    <uiIconPath>Things/Building/GasWallTorch/Bracket_north</uiIconPath>
+    <uiIconPath>Things/Building/Misc/WallTorch/WallTorch_MenuIcon</uiIconPath><uiIconScale>0.85</uiIconScale>
     <statBases><MaxHitPoints>65</MaxHitPoints><WorkToBuild>300</WorkToBuild><Mass>1.5</Mass><Flammability>0</Flammability><Beauty>1</Beauty></statBases>
     <costList><Steel>15</Steel></costList>
     <building><isEdifice>false</isEdifice><isAttachment>true</isAttachment></building>
@@ -27,7 +27,7 @@
       <li Class="CompProperties_Glower"><glowRadius>10</glowRadius><glowColor>(255,185,110,0)</glowColor></li>
       <li Class="StarSky.GasWallTorches.CompProperties_GasTorchResourceTrader"><pipeNet>VHGE_HelixienNet</pipeNet><consumptionPerTick>0.02</consumptionPerTick></li>
       <li Class="CompProperties_Flickable"/>
-      <li Class="StarSky.GasWallTorches.CompProperties_GasTorch"><heatPerSecond>6</heatPerSecond><flameScale>0.6</flameScale><flameOffset>(0,0,0.203125)</flameOffset><flameColor>(1,1,1,1)</flameColor></li>
+      <li Class="StarSky.GasWallTorches.CompProperties_GasTorch"><heatPerSecond>6</heatPerSecond><flameScale>0.4</flameScale><flameOffset>(0,0,0.2)</flameOffset><flameColor>(1,1,1,1)</flameColor></li>
       <li MayRequire="juanlopez2008.LightsOut"><compClass>LightsOut.ThingComps.KeepOnComp</compClass></li>
     </comps>
   </ThingDef>
@@ -37,7 +37,7 @@
       <li Class="CompProperties_Glower"><glowRadius>10</glowRadius><glowColor>(255,90,78,0)</glowColor></li>
       <li Class="StarSky.GasWallTorches.CompProperties_GasTorchResourceTrader"><pipeNet>VHGE_HelixienNet</pipeNet><consumptionPerTick>0.02</consumptionPerTick></li>
       <li Class="CompProperties_Flickable"/>
-      <li Class="StarSky.GasWallTorches.CompProperties_GasTorch"><heatPerSecond>6</heatPerSecond><flameScale>0.6</flameScale><flameOffset>(0,0,0.203125)</flameOffset><flameColor>(1,0.18,0.14,1)</flameColor></li>
+      <li Class="StarSky.GasWallTorches.CompProperties_GasTorch"><heatPerSecond>6</heatPerSecond><flameScale>0.4</flameScale><flameOffset>(0,0,0.2)</flameOffset><flameColor>(1,0.18,0.14,1)</flameColor></li>
       <li MayRequire="juanlopez2008.LightsOut"><compClass>LightsOut.ThingComps.KeepOnComp</compClass></li>
     </comps>
   </ThingDef>
@@ -47,7 +47,7 @@
       <li Class="CompProperties_Glower"><glowRadius>10</glowRadius><glowColor>(146,220,75,0)</glowColor></li>
       <li Class="StarSky.GasWallTorches.CompProperties_GasTorchResourceTrader"><pipeNet>VHGE_HelixienNet</pipeNet><consumptionPerTick>0.02</consumptionPerTick></li>
       <li Class="CompProperties_Flickable"/>
-      <li Class="StarSky.GasWallTorches.CompProperties_GasTorch"><heatPerSecond>6</heatPerSecond><flameScale>0.6</flameScale><flameOffset>(0,0,0.203125)</flameOffset><flameColor>(0.42,1,0.16,1)</flameColor></li>
+      <li Class="StarSky.GasWallTorches.CompProperties_GasTorch"><heatPerSecond>6</heatPerSecond><flameScale>0.4</flameScale><flameOffset>(0,0,0.2)</flameOffset><flameColor>(0.42,1,0.16,1)</flameColor></li>
       <li MayRequire="juanlopez2008.LightsOut"><compClass>LightsOut.ThingComps.KeepOnComp</compClass></li>
     </comps>
   </ThingDef>
@@ -57,7 +57,7 @@
       <li Class="CompProperties_Glower"><glowRadius>10</glowRadius><glowColor>(78,226,229,0)</glowColor></li>
       <li Class="StarSky.GasWallTorches.CompProperties_GasTorchResourceTrader"><pipeNet>VHGE_HelixienNet</pipeNet><consumptionPerTick>0.02</consumptionPerTick></li>
       <li Class="CompProperties_Flickable"/>
-      <li Class="StarSky.GasWallTorches.CompProperties_GasTorch"><heatPerSecond>6</heatPerSecond><flameScale>0.6</flameScale><flameOffset>(0,0,0.203125)</flameOffset><flameColor>(0.31,0.89,0.90,1)</flameColor></li>
+      <li Class="StarSky.GasWallTorches.CompProperties_GasTorch"><heatPerSecond>6</heatPerSecond><flameScale>0.4</flameScale><flameOffset>(0,0,0.2)</flameOffset><flameColor>(0.31,0.89,0.90,1)</flameColor></li>
       <li MayRequire="juanlopez2008.LightsOut"><compClass>LightsOut.ThingComps.KeepOnComp</compClass></li>
     </comps>
   </ThingDef>

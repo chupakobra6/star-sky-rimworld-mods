@@ -7,7 +7,7 @@
 <!-- rimmods:readme intro begin -->
 Wall-mounted torches powered by your Helixien gas network. No wood refills
 
-Choose from four flame types. Mount them on a wall, connect them to gas and use the manual switch, or let LightsOut turn them on and off
+Choose from four flame types, all using the vanilla wall torch graphics and building icon. Mount them on a wall, connect them to gas and use the manual switch, or let LightsOut turn them on and off
 
 Made at the request of svg
 <!-- rimmods:readme intro end -->
@@ -28,7 +28,9 @@ Switching a torch off stops its flame, light, heat, sound and gas use. It also g
 ## Controls and use
 
 <!-- rimmods:readme how-to-use begin -->
-Research Gas Extraction from Vanilla Helixien Gas Expanded, then find the torches under **Furniture**. Each costs 15 steel. Place one against a wall in any of four directions and connect its tile to a Helixien gas pipe
+The torches appear under **Architect → Furniture** after you finish **Gas extraction** in the **Vanilla Expanded** research tab. This research requires **Smithing**; the building commands are hidden until it is completed
+
+Each torch costs 15 steel. Place one against a wall in any of four directions and connect its tile to a Helixien gas pipe
 
 Use the torch's switch to turn it on or off
 
@@ -57,7 +59,7 @@ Found a bug? Leave a comment here or on Boosty
 Dependencies: Vanilla Helixien Gas Expanded is by Oskar Potocki and Kikohi. LightsOut is by juanlopez2008 and contributors. Torches and Braziers inspired the choice of flame types
 <!-- rimmods:readme credit end -->
 
-The code and bracket artwork are original and licensed under [MIT](LICENSE). The Russian localization is licensed under [CC BY-SA 4.0](Languages/Russian/LICENSE.txt). See [NOTICES](NOTICES.md) for details
+The code is original and licensed under [MIT](LICENSE). Torch graphics and building icons are loaded from your installed RimWorld; no game textures are bundled. The Russian localization is licensed under [CC BY-SA 4.0](Languages/Russian/LICENSE.txt). See [NOTICES](NOTICES.md) for details
 
 <!-- rimmods:readme ludeon begin -->
 Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.

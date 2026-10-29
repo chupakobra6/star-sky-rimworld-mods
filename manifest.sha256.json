@@ -593,7 +593,7 @@
     {
       "path": "catalog/mods.md",
       "bytes": 3807,
-      "sha256": "052ec9b2fc8fa40fd965a5f17dfd560a0e31314f305d6a782c03d2b8e100e140"
+      "sha256": "7ded5c1c77fb80972c2f907fead157971398c86d9b3673d6c8a174ae7616fc6b"
     },
     {
       "path": "catalog/translations.md",
@@ -788,17 +788,17 @@
     {
       "path": "mods/GasWallTorches/1.6/Assemblies/GasWallTorches.dll",
       "bytes": 16384,
-      "sha256": "37d4d5027d1e921c2c85dfa7538b610fb3208cbf3c9b88f8a13a47911721c01a"
+      "sha256": "e457a1dc6681249bbb3b19de255ca2bc7578b0d91a4bfb4e67d75b1462d966b4"
     },
     {
       "path": "mods/GasWallTorches/About/About.xml",
-      "bytes": 4111,
-      "sha256": "ab0ea16a492084dfa07af817644e8a3aaa5d86e1d9a9199444eade6b5430f900"
+      "bytes": 4344,
+      "sha256": "61c8f221f3ee1a14fd68e56c8497a67e21455c8001f77384d6772d7f380f9f6c"
     },
     {
       "path": "mods/GasWallTorches/About/Preview.png",
-      "bytes": 53492,
-      "sha256": "9cc72614b1578ee9f9880c6baf3443ecd3e7cecab3d4252df109d9ae5d449c69"
+      "bytes": 61089,
+      "sha256": "170b2863df986500743936f463421df030741fac44fc4a22370fa6bb8aa2d838"
     },
     {
       "path": "mods/GasWallTorches/About/PublishedFileId.txt",
@@ -807,13 +807,13 @@
     },
     {
       "path": "mods/GasWallTorches/CHANGELOG.md",
-      "bytes": 325,
-      "sha256": "c0ad0e1824ff6afaa21afc8560e3296a3051fe7ba564a602661bcd6903e0ec9e"
+      "bytes": 538,
+      "sha256": "28236f0383e3c79b566c53e64d70c947e5df1aa856d6ada0b143246069d68702"
     },
     {
       "path": "mods/GasWallTorches/Defs/GasWallTorches.xml",
-      "bytes": 5680,
-      "sha256": "264e77d54c9bb8301884fe7348223a745601291dd20dd7ce37a42688db944af1"
+      "bytes": 5730,
+      "sha256": "20417ab9ec6157b4df07969d64e12f8573912c73a0f9d6ffc88cd02aff6729aa"
     },
     {
       "path": "mods/GasWallTorches/Defs/Thoughts.xml",
@@ -842,18 +842,18 @@
     },
     {
       "path": "mods/GasWallTorches/NOTICES.md",
-      "bytes": 798,
-      "sha256": "e06187ca6481f4e29b96da80d336156764d032d105565d97d21cd501a452352d"
+      "bytes": 844,
+      "sha256": "e3993d7589d027ae45d2eeda85b106a9dbb98421cfec135935db1db913fa0d4e"
     },
     {
       "path": "mods/GasWallTorches/README.md",
-      "bytes": 3951,
-      "sha256": "e6d3f750770353d756cfaf882aa09336d3e3941bad28d8f33535794f2ae0a965"
+      "bytes": 4223,
+      "sha256": "99d3b0e4d6b47009905ffa445a447a9d84039254512f55c6093d1f8a287f15b2"
     },
     {
       "path": "mods/GasWallTorches/Source/GasTorch.cs",
-      "bytes": 10931,
-      "sha256": "e7ff281c47692231075e46b12fa9f7b91f40d788d15b00ee0a8a942eb2fe8c48"
+      "bytes": 11393,
+      "sha256": "69dcb9d20b82064b5ac8f3140679b87c5d452acaff6babbe2d24bd08de0482a4"
     },
     {
       "path": "mods/GasWallTorches/Source/GasTorchThought.cs",
@@ -864,46 +864,6 @@
       "path": "mods/GasWallTorches/Source/LightsOutBridge.cs",
       "bytes": 5896,
       "sha256": "6aaa35b5efb4157813de13b862cbe7f6983fb728dfa8eed4ca01de6f21736ac3"
-    },
-    {
-      "path": "mods/GasWallTorches/SourceArt/Bracket_east.svg",
-      "bytes": 1015,
-      "sha256": "f33142530734032d95a522fc4ed2ae6ee6bc4aeea13a36e1ac65807b17ab7a8d"
-    },
-    {
-      "path": "mods/GasWallTorches/SourceArt/Bracket_north.svg",
-      "bytes": 862,
-      "sha256": "2bed4ab4036bab337b875f115378cdebe06a6deef7fd0cc4597f648d03f57c77"
-    },
-    {
-      "path": "mods/GasWallTorches/SourceArt/Bracket_south.svg",
-      "bytes": 1101,
-      "sha256": "d7e1fc38fed1429a99090ec7fb099d8c3a2d999204720d2f7becebf04253bc5f"
-    },
-    {
-      "path": "mods/GasWallTorches/SourceArt/Bracket_west.svg",
-      "bytes": 1063,
-      "sha256": "c4f711c82f8a9a23d588069c6dc88c9e1246335a15a6c3ee5e32005e8c929881"
-    },
-    {
-      "path": "mods/GasWallTorches/Textures/Things/Building/GasWallTorch/Bracket_east.png",
-      "bytes": 7141,
-      "sha256": "d9e16673a861c257654e485356adb7f718a9e4921bb5afd2bdb75503c51b094b"
-    },
-    {
-      "path": "mods/GasWallTorches/Textures/Things/Building/GasWallTorch/Bracket_north.png",
-      "bytes": 4710,
-      "sha256": "782683e09ff5295a4274dc662211629ce02eaccc193d32cbbf5968279a8db537"
-    },
-    {
-      "path": "mods/GasWallTorches/Textures/Things/Building/GasWallTorch/Bracket_south.png",
-      "bytes": 4103,
-      "sha256": "369c00c0fe3b18179705b9e38b99d273c820478d4b5a244288bc7fadaf9a3094"
-    },
-    {
-      "path": "mods/GasWallTorches/Textures/Things/Building/GasWallTorch/Bracket_west.png",
-      "bytes": 6720,
-      "sha256": "7e7c29c957644994426cc87a681824200f8ee6f69987c09fcb6de3faf5a9b4ea"
     },
     {
       "path": "mods/House-Van-Illa-Fixes/About/About.xml",

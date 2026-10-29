@@ -27,6 +27,13 @@ namespace StarSky.GasWallTorches
             // The vanilla flicker renderer obtains size and offset through CompFireOverlayBase.
             fireSize = finalFireSize = flameScale;
             offset = flameOffset;
+            // Graphic_Flicker adds both the building graphic offset and this
+            // overlay offset. Use the wall torch's directional corrections.
+            var vanilla = DefDatabase<ThingDef>.GetNamed("TorchWallLamp").GetCompProperties<CompProperties_FireOverlay>();
+            offsetNorth = vanilla.offsetNorth;
+            offsetSouth = vanilla.offsetSouth;
+            offsetWest = vanilla.offsetWest;
+            offsetEast = vanilla.offsetEast;
             if (soundAmbient == null)
                 soundAmbient = SoundDefOf.FireBurning;
         }
@@ -263,7 +270,7 @@ namespace StarSky.GasWallTorches
                         ShaderDatabase.Transparent, Vector2.one, Props.flameColor);
             }
             Vector3 position = parent.DrawPos;
-            position.y += 0.04054054f;
+            position.y += 0.03658537f;
             // Graphic_Flicker adds the bracket's rotational draw offset and our screen-up offset.
             flame.Draw(position, parent.Rotation, parent);
         }
