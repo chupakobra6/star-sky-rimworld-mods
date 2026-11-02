@@ -342,9 +342,11 @@ RimWorld 1.6 · Версия 1.0.2
 
 [![Alpha Animals — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/alpha-animals-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306758)
 
-RimWorld 1.6 · Версия 1.0.5
+RimWorld 1.6 · Версия 1.0.6
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306758) · [Исходники и руководство](../mods/RU-1541721856/README.md) · [История изменений](../mods/RU-1541721856/CHANGELOG.md) · [Лицензия](../mods/RU-1541721856/LICENSE) · [Источники и уведомления](../mods/RU-1541721856/NOTICES.md)
+
+[![Другие моды в Мастерской Steam](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-ru.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)
 
 ## Geological Landforms — русский перевод
 
