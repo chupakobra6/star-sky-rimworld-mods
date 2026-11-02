@@ -364,7 +364,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 [![Alpha Genes — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/alpha-genes-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306776)
 
-RimWorld 1.6 · Версия 1.0.4
+RimWorld 1.6 · Версия 1.0.5
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306776) · [Исходники и руководство](../mods/RU-2891845502/README.md) · [История изменений](../mods/RU-2891845502/CHANGELOG.md) · [Лицензия](../mods/RU-2891845502/LICENSE) · [Источники и уведомления](../mods/RU-2891845502/NOTICES.md)
 
@@ -406,7 +406,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 [![Vanilla Fishing Expanded — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/vanilla-fishing-expanded-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3811275244)
 
-RimWorld 1.6 · Версия 1.0.2
+RimWorld 1.6 · Версия 1.0.3
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3811275244) · [Исходники и руководство](../mods/RU-1914064942/README.md) · [История изменений](../mods/RU-1914064942/CHANGELOG.md) · [Лицензия](../mods/RU-1914064942/LICENSE) · [Источники и уведомления](../mods/RU-1914064942/NOTICES.md)
 
@@ -436,7 +436,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 [![Big and Small - Genes & More — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/big-and-small-genes-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3811275257)
 
-RimWorld 1.6 · Версия 1.0.3
+RimWorld 1.6 · Версия 1.0.4
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3811275257) · [Исходники и руководство](../mods/RU-2920751126/README.md) · [История изменений](../mods/RU-2920751126/CHANGELOG.md) · [Лицензия](../mods/RU-2920751126/LICENSE) · [Источники и уведомления](../mods/RU-2920751126/NOTICES.md)
 
@@ -446,7 +446,7 @@ RimWorld 1.6 · Версия 1.0.3
 
 [![Big and Small - Framework — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/big-and-small-framework-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3811275263)
 
-RimWorld 1.6 · Версия 1.0.3
+RimWorld 1.6 · Версия 1.0.4
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3811275263) · [Исходники и руководство](../mods/RU-2925432336/README.md) · [История изменений](../mods/RU-2925432336/CHANGELOG.md) · [Лицензия](../mods/RU-2925432336/LICENSE) · [Источники и уведомления](../mods/RU-2925432336/NOTICES.md)
 
@@ -490,7 +490,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 [![Alpha Mechs — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/alpha-mechs-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3816649412)
 
-RimWorld 1.6 · Версия 1.0.2
+RimWorld 1.6 · Версия 1.0.3
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3816649412) · [Исходники и руководство](../mods/RU-2973169158/README.md) · [История изменений](../mods/RU-2973169158/CHANGELOG.md) · [Лицензия](../mods/RU-2973169158/LICENSE) · [Источники и уведомления](../mods/RU-2973169158/NOTICES.md)
 
@@ -500,7 +500,7 @@ RimWorld 1.6 · Версия 1.0.2
 
 [![Vanilla Storytellers Expanded - Winston Waves — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/winston-waves-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3816649419)
 
-RimWorld 1.6 · Версия 1.0.1
+RimWorld 1.6 · Версия 1.0.2
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3816649419) · [Исходники и руководство](../mods/RU-3215569151/README.md) · [История изменений](../mods/RU-3215569151/CHANGELOG.md) · [Лицензия](../mods/RU-3215569151/LICENSE) · [Источники и уведомления](../mods/RU-3215569151/NOTICES.md)
 
@@ -550,7 +550,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 [![Show Me Your Hands — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/show-me-your-hands-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3818475380)
 
-RimWorld 1.6 · Версия 1.0.0
+RimWorld 1.6 · Версия 1.0.1
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3818475380) · [Исходники и руководство](../mods/RU-2475965842/README.md) · [История изменений](../mods/RU-2475965842/CHANGELOG.md) · [Лицензия](../mods/RU-2475965842/LICENSE) · [Источники и уведомления](../mods/RU-2475965842/NOTICES.md)
 
@@ -560,7 +560,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 [![Biomes! Prehistoric — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/biomes-prehistoric-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3818475382)
 
-RimWorld 1.6 · Версия 1.0.1
+RimWorld 1.6 · Версия 1.0.2
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3818475382) · [Исходники и руководство](../mods/RU-2860715703/README.md) · [История изменений](../mods/RU-2860715703/CHANGELOG.md) · [Лицензия](../mods/RU-2860715703/LICENSE) · [Источники и уведомления](../mods/RU-2860715703/NOTICES.md)
 
@@ -570,7 +570,7 @@ RimWorld 1.6 · Версия 1.0.1
 
 [![Biomes! Caverns — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/biomes-caverns-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3818475391)
 
-RimWorld 1.6 · Версия 1.0.3
+RimWorld 1.6 · Версия 1.0.4
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3818475391) · [Исходники и руководство](../mods/RU-2969748433/README.md) · [История изменений](../mods/RU-2969748433/CHANGELOG.md) · [Лицензия](../mods/RU-2969748433/LICENSE) · [Источники и уведомления](../mods/RU-2969748433/NOTICES.md)
 
@@ -642,7 +642,7 @@ RimWorld 1.6 · Версия 1.0.1
 
 [![Moyo2.0-Blood stained business — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/moyo-2-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3820544683)
 
-RimWorld 1.6 · Версия 1.1.2
+RimWorld 1.6 · Версия 1.1.3
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3820544683) · [Исходники и руководство](../mods/RU-3756132017/README.md) · [История изменений](../mods/RU-3756132017/CHANGELOG.md) · [Лицензия](../mods/RU-3756132017/LICENSE) · [Источники и уведомления](../mods/RU-3756132017/NOTICES.md)
 
