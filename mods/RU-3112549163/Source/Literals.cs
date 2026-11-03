@@ -108,22 +108,38 @@ namespace Igor.RU_3112549163
             if (type == null) throw new MissingMethodException("Exact translation type was not found: " + target);
             const BindingFlags flags = BindingFlags.DeclaredOnly | BindingFlags.Public | BindingFlags.NonPublic
                 | BindingFlags.Instance | BindingFlags.Static;
-            MethodBase method;
+            IEnumerable<MethodBase> candidates = name == ".ctor"
+                ? type.GetConstructors(flags).Where(m => m.Name == name).Cast<MethodBase>()
+                : type.GetMethods(flags).Where(m => m.Name == name).Cast<MethodBase>();
             if (Parameters.TryGetValue(target, out var parameters))
-            {
-                var signature = parameters.Select(AccessTools.TypeByName).ToArray();
-                if (signature.Any(parameter => parameter == null))
-                    throw new MissingMethodException("Translation parameter type was not found: " + target);
-                method = name == ".ctor"
-                    ? (MethodBase)type.GetConstructor(flags, null, signature, null)
-                    : type.GetMethod(name, flags, null, signature, null);
-            }
-            else method = name == ".ctor"
-                ? (MethodBase)type.GetConstructor(flags, null, Type.EmptyTypes, null)
-                : type.GetMethod(name, flags);
-            if (method == null || method.DeclaringType != type)
-                throw new MissingMethodException("Exact translation target was not found: " + target);
+                candidates = candidates.Where(m => m.GetParameters()
+                    .Select(p => CecilParameterName(p.ParameterType)).SequenceEqual(parameters));
+            else if (name == ".ctor")
+                candidates = candidates.Where(m => m.GetParameters().Length == 0);
+            var matches = candidates.ToArray();
+            if (matches.Length != 1)
+                throw new MissingMethodException("Expected one exact translation overload, found " + matches.Length + ": " + target);
+            var method = matches[0];
+            if (method.ContainsGenericParameters)
+                throw new MissingMethodException("Open generic translation target requires an isolated call-site hook: " + target);
             return method;
+        }
+        private static string CecilParameterName(Type type)
+        {
+            if (type.HasElementType)
+            {
+                string element = CecilParameterName(type.GetElementType());
+                if (element == null) return null;
+                if (type.IsByRef) return element + "&";
+                if (type.IsPointer) return element + "*";
+                // Only vectors are supported. Never alias a non-SZ or
+                // multidimensional array to a different parameter shape.
+                return type.IsArray && type == type.GetElementType().MakeArrayType() ? element + "[]" : null;
+            }
+            if (!type.IsGenericType) return type.FullName;
+            var arguments = type.GetGenericArguments().Select(CecilParameterName).ToArray();
+            if (arguments.Any(argument => argument == null)) return null;
+            return type.GetGenericTypeDefinition().FullName + "<" + string.Join(",", arguments) + ">";
         }
         public static string Select(string original, string russian)
         {

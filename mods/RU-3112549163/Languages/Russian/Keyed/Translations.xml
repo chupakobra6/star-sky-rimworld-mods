@@ -337,6 +337,8 @@
   <TargetSizeInvert>Размер тела должен быть меньше {0} или больше {1}</TargetSizeInvert>
   <TargetTooLarge>Слишком крупная цель</TargetTooLarge>
   <TargetTooSmall>Слишком мелкая цель</TargetTooSmall>
+  <AbilityCantApplyAwake>{0_labelShort} бодрствует.</AbilityCantApplyAwake>
+  <EBSG_NoIdeologyTarget>Идеология цели не изменится.</EBSG_NoIdeologyTarget>
   <chupakobra6_3112549163_CannotSkipTarget>Нельзя переместить персонажа: {PAWN_labelShort}</chupakobra6_3112549163_CannotSkipTarget>
   <chupakobra6_3112549163_CannotSkipTargetTooLarge>Цель слишком крупная</chupakobra6_3112549163_CannotSkipTargetTooLarge>
   <chupakobra6_3112549163_ComaCapacityDescription>Максимальное число сооружений, к которым можно подключиться во время особого коматозного отдыха. Каждое даёт собственное преимущество. Возможность и способы увеличения лимита зависят от гена.</chupakobra6_3112549163_ComaCapacityDescription>

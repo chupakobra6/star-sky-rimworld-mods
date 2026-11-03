@@ -136,7 +136,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 [![Dawn of a New Day — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/dawn-of-a-new-day-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803878920)
 
-RimWorld 1.6 · Версия 1.0.0
+RimWorld 1.6 · Версия 1.0.2
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3803878920) · [Исходники и руководство](../mods/RU-3771580900/README.md) · [История изменений](../mods/RU-3771580900/CHANGELOG.md) · [Лицензия](../mods/RU-3771580900/LICENSE) · [Источники и уведомления](../mods/RU-3771580900/NOTICES.md)
 
@@ -210,11 +210,9 @@ RimWorld 1.6 · Версия 1.0.0
 
 [![Bio Tab+ — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/bio-tab-plus-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3804220769)
 
-RimWorld 1.6 · Версия 1.0.1
+RimWorld 1.6 · Версия 1.0.2
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3804220769) · [Исходники и руководство](../mods/RU-3781978940/README.md) · [История изменений](../mods/RU-3781978940/CHANGELOG.md) · [Лицензия](../mods/RU-3781978940/LICENSE) · [Источники и уведомления](../mods/RU-3781978940/NOTICES.md)
-
-[![Другие моды в Мастерской Steam](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-ru.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)
 
 ## Gravship Cutscene Speed — русский перевод
 
@@ -292,7 +290,7 @@ RimWorld 1.6 · Версия 1.0.3
 
 [![Vanilla Expanded Framework — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/vanilla-expanded-framework-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3807830484)
 
-RimWorld 1.6 · Версия 1.0.5
+RimWorld 1.6 · Версия 1.0.6
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3807830484) · [Исходники и руководство](../mods/RU-2023507013/README.md) · [История изменений](../mods/RU-2023507013/CHANGELOG.md) · [Лицензия](../mods/RU-2023507013/LICENSE) · [Источники и уведомления](../mods/RU-2023507013/NOTICES.md)
 
@@ -446,7 +444,7 @@ RimWorld 1.6 · Версия 1.0.4
 
 [![Big and Small - Framework — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/big-and-small-framework-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3811275263)
 
-RimWorld 1.6 · Версия 1.0.4
+RimWorld 1.6 · Версия 1.0.5
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3811275263) · [Исходники и руководство](../mods/RU-2925432336/README.md) · [История изменений](../mods/RU-2925432336/CHANGELOG.md) · [Лицензия](../mods/RU-2925432336/LICENSE) · [Источники и уведомления](../mods/RU-2925432336/NOTICES.md)
 
@@ -470,7 +468,7 @@ RimWorld 1.6 · Версия 1.0.2
 
 [![EBSG Framework — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/ebsg-framework-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3816649292)
 
-RimWorld 1.6 · Версия 1.0.0
+RimWorld 1.6 · Версия 1.0.1
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3816649292) · [Исходники и руководство](../mods/RU-3112549163/README.md) · [История изменений](../mods/RU-3112549163/CHANGELOG.md) · [Лицензия](../mods/RU-3112549163/LICENSE) · [Источники и уведомления](../mods/RU-3112549163/NOTICES.md)
 
@@ -632,7 +630,7 @@ RimWorld 1.6 · Версия 1.0.1
 
 [![Colony Manager Redux — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/colony-manager-redux-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3820544682)
 
-RimWorld 1.6 · Версия 1.0.1
+RimWorld 1.6 · Версия 1.0.2
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3820544682) · [Исходники и руководство](../mods/RU-3310027356/README.md) · [История изменений](../mods/RU-3310027356/CHANGELOG.md) · [Лицензия](../mods/RU-3310027356/LICENSE) · [Источники и уведомления](../mods/RU-3310027356/NOTICES.md)
 

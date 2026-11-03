@@ -597,8 +597,8 @@
     },
     {
       "path": "catalog/translations.md",
-      "bytes": 61472,
-      "sha256": "81bcdd9d477bed9294ac3209c660ec253425f3868f4c5b8dcc259507c15dc1f8"
+      "bytes": 61243,
+      "sha256": "3fbc27d2e4087d47c86967785907a9c8461e4298dac0fffbfe89c790bc4f3776"
     },
     {
       "path": "mods/CharacterEditor-Fixes/About/About.xml",
@@ -2828,7 +2828,7 @@
     {
       "path": "mods/RU-2023507013/About/About.xml",
       "bytes": 2487,
-      "sha256": "2888d073b7e0c0b5119b5321096cc2e398122d2c16c58aaf61a4b92be71d3569"
+      "sha256": "4c382ef2d660c8b87744cc47842a473885d7278052b54bfebe21b9efba1ec722"
     },
     {
       "path": "mods/RU-2023507013/About/Preview.png",
@@ -2842,13 +2842,13 @@
     },
     {
       "path": "mods/RU-2023507013/Assemblies/RU2023507013.dll",
-      "bytes": 41984,
-      "sha256": "4066d7ee323dcf601f39da2bae4fad40244c9c644c8b4371f6c771ed76930413"
+      "bytes": 43520,
+      "sha256": "87c3acbf4854fc846f0c81091adc77c3732397c397fc11f2d648ef2232d43670"
     },
     {
       "path": "mods/RU-2023507013/CHANGELOG.md",
-      "bytes": 1502,
-      "sha256": "7879dad14d7f3954cd2101bfdf3c6e8c851ff832f2bf5c366474ec26961b02da"
+      "bytes": 1597,
+      "sha256": "fbf36d5e8fa6cab0dd03b2f8993cff57e56826e8bbd34144d731e1c51c27f00e"
     },
     {
       "path": "mods/RU-2023507013/Languages/English/Keyed/Additional.xml",
@@ -2957,8 +2957,8 @@
     },
     {
       "path": "mods/RU-2023507013/Languages/Russian/Keyed/Translations.xml",
-      "bytes": 80550,
-      "sha256": "8ed42f2a34a64e4e5c1cb5857ae13dc5fad8aba4fee3e651e7e7e0ae82b3bb85"
+      "bytes": 80815,
+      "sha256": "3093f6db3c72a60297a2f836e895a6d62a3e6c2205c1136f6dd0a589ff2fee30"
     },
     {
       "path": "mods/RU-2023507013/Languages/Russian/WordInfo/Case.txt",
@@ -3027,8 +3027,8 @@
     },
     {
       "path": "mods/RU-2023507013/Source/Literals.cs",
-      "bytes": 25286,
-      "sha256": "1e93475fb1ba8f162c05cc22be3baba6f78006387073adde33a95ffc2a1c20cf"
+      "bytes": 26365,
+      "sha256": "f51031e21df6f433ad23a0a183052017b7ea152749b73d3b58c9bfc191e1985f"
     },
     {
       "path": "mods/RU-2023507013/Source/Overrides.cs",
@@ -6993,7 +6993,7 @@
     {
       "path": "mods/RU-2925432336/About/About.xml",
       "bytes": 2281,
-      "sha256": "7f3caaee81e122a3a6dd7c34705ebb52cc9374ffac1cec127cdad4fd54e28aef"
+      "sha256": "808b6542c9ac3259cc36186ac1cde511faf8db2b27b8996230673969cb660d64"
     },
     {
       "path": "mods/RU-2925432336/About/Preview.png",
@@ -7007,13 +7007,13 @@
     },
     {
       "path": "mods/RU-2925432336/Assemblies/RU2925432336.dll",
-      "bytes": 29696,
-      "sha256": "6d52162c4891aa0cb85e9bad5b9270b2da50a9f2926564a675ab8c4e678bc2c9"
+      "bytes": 31232,
+      "sha256": "0c3e40721e091b3fcb37850edf3f6cc3c39557c3e565a939c7fa9d90f9f89961"
     },
     {
       "path": "mods/RU-2925432336/CHANGELOG.md",
-      "bytes": 1309,
-      "sha256": "27fa12d348ec3db12544ea57407f3aa9ddfd2751edc54b72eedd6a45a519f991"
+      "bytes": 1405,
+      "sha256": "1a50f03c74a0dd34e2339d96beebb1d8138d3b41862404a73c7f9198a6eb93c3"
     },
     {
       "path": "mods/RU-2925432336/Languages/English/Keyed/Additional.xml",
@@ -7282,8 +7282,8 @@
     },
     {
       "path": "mods/RU-2925432336/Source/Literals.cs",
-      "bytes": 13324,
-      "sha256": "09999078151619c60006026b39b831655fae1407162497eb0c5835c30d7ca576"
+      "bytes": 14449,
+      "sha256": "065b22175d604f9c50e00198d5794d1725eebe2a68f782e051aa2793af436e43"
     },
     {
       "path": "mods/RU-2925432336/Source/Overrides.cs",
@@ -8628,7 +8628,7 @@
     {
       "path": "mods/RU-3112549163/About/About.xml",
       "bytes": 2386,
-      "sha256": "922ed1c56697dc747dd7a01fc07e2a1e0e509e9ab04db943da51b162802aa41a"
+      "sha256": "caa88210f44f055ce7cb1d1e75fe8958b0389c30dbdbdd21d15a87ec3c868127"
     },
     {
       "path": "mods/RU-3112549163/About/Preview.png",
@@ -8642,13 +8642,13 @@
     },
     {
       "path": "mods/RU-3112549163/Assemblies/RU3112549163.dll",
-      "bytes": 26624,
-      "sha256": "6e17cf119f187daead2a18da64ce74d293ecc50bd6921d56382495a5ccaef945"
+      "bytes": 27648,
+      "sha256": "aea4266edaa7fbbb81cf9c8ea2c610599e4bd51ece94f00742b4d595fecab51b"
     },
     {
       "path": "mods/RU-3112549163/CHANGELOG.md",
-      "bytes": 142,
-      "sha256": "b68a77f39ee0bc1694106feec0bae8e492e909c8a3d27e78682038576ed8553a"
+      "bytes": 261,
+      "sha256": "a78c310decda71e1d07b29b9964940bc9711146367d0983067167c4bfaa168fb"
     },
     {
       "path": "mods/RU-3112549163/DefPartLabels.xml",
@@ -8707,8 +8707,8 @@
     },
     {
       "path": "mods/RU-3112549163/Languages/Russian/Keyed/Translations.xml",
-      "bytes": 43105,
-      "sha256": "6f752e734e486b716de39d193cf7c948ce5b398a5c953562eae2805a70ee763b"
+      "bytes": 43293,
+      "sha256": "1cd7b3aa9a283cfff4f4d5feac691d31ed74efdfd454016c028a86b951dada7d"
     },
     {
       "path": "mods/RU-3112549163/LICENSE",
@@ -8747,13 +8747,13 @@
     },
     {
       "path": "mods/RU-3112549163/Source/Literals.cs",
-      "bytes": 9371,
-      "sha256": "07877fb4a50c599e43fddf2c56b07fd03b49a127e803f2a024bf56c3995ebd04"
+      "bytes": 10450,
+      "sha256": "29abcb417f12583b7fe9008d1f397668bdc3bbc092f8b706a0f93d1d930745e0"
     },
     {
       "path": "mods/RU-3112549163/Source/Overrides.cs",
-      "bytes": 10338,
-      "sha256": "58565c75a067ba521bc1bcdbd2659fe4b3a323a9706594c8a756dd873b33cc1f"
+      "bytes": 10621,
+      "sha256": "4a9d0fdc9ecf2dbc424fe9bb3f87e5f1ddd8a9015c6357afd654f835ecee47b6"
     },
     {
       "path": "mods/RU-3112549163/Source/SemanticParts.cs",
@@ -9063,7 +9063,7 @@
     {
       "path": "mods/RU-3310027356/About/About.xml",
       "bytes": 2531,
-      "sha256": "f353772c5081b28ce13dc491f677e6b9ea85baeadd6bdd7b325cc0853a04a94f"
+      "sha256": "5a84d191be54e67b536a5965791ea5152e90609caf31cec1bfbc594ee5d6372c"
     },
     {
       "path": "mods/RU-3310027356/About/Preview.png",
@@ -9078,12 +9078,12 @@
     {
       "path": "mods/RU-3310027356/Assemblies/RU3310027356.dll",
       "bytes": 26624,
-      "sha256": "e1e7a88d70f9bf2bf4c37a56289055a529ee4412875b7d5e2794b8dacd96576c"
+      "sha256": "3ed83637bc18f9013847209de446ba1574993d1089a71fc8e249c86431f962f4"
     },
     {
       "path": "mods/RU-3310027356/CHANGELOG.md",
-      "bytes": 395,
-      "sha256": "939879fd326455c9a428230e7121073bc2fba523ad89429ee33fdf3911bd5e95"
+      "bytes": 533,
+      "sha256": "1d3c03721306b845c699b7c836b7dff5f30fd5cf0b26b82dc04064904955d6ad"
     },
     {
       "path": "mods/RU-3310027356/Languages/English/Keyed/Additional.xml",
@@ -9152,8 +9152,8 @@
     },
     {
       "path": "mods/RU-3310027356/Languages/Russian/Keyed/Translations.xml",
-      "bytes": 153550,
-      "sha256": "a51590bc8e319edb24bd4c7165c7e5059c4637f774033e8137f5b610b58e58cd"
+      "bytes": 154640,
+      "sha256": "7dddcbf3773c2ddb71e406ec89ce2992da9a71a37ab022be6c74ac6464e92b60"
     },
     {
       "path": "mods/RU-3310027356/Languages/Russian/WordInfo/Case.txt",
@@ -9208,7 +9208,7 @@
     {
       "path": "mods/RU-3310027356/Source/Literals.cs",
       "bytes": 13581,
-      "sha256": "6bed6cdabcde092ea86e533d3b21b106323533433accd0af0a57826a758df9bf"
+      "sha256": "6375efebb5b2cb7e287c61c5d11a169ec867db76662fde33fc3d32662801af62"
     },
     {
       "path": "mods/RU-3310027356/Source/Overrides.cs",
@@ -11892,8 +11892,8 @@
     },
     {
       "path": "mods/RU-3771580900/About/About.xml",
-      "bytes": 3624,
-      "sha256": "e23a25cc10e3ad1ba33cdce079c90d580a62b11a29601e1501e91d7a7a873f13"
+      "bytes": 2534,
+      "sha256": "944eca72790af0597bb07f69cc0eb1046ff08a03b20a38d991173bea2c97d244"
     },
     {
       "path": "mods/RU-3771580900/About/Preview.png",
@@ -11907,23 +11907,23 @@
     },
     {
       "path": "mods/RU-3771580900/Assemblies/RU3771580900.dll",
-      "bytes": 19968,
-      "sha256": "d9b1054b75ea33278e04c59480df9282f08518a98ef873cbe61192d818f2f6bd"
+      "bytes": 22016,
+      "sha256": "06025c9a5b56f2eafceabb4eff8baa5c07442f6e8adb168f7920b366b0287904"
     },
     {
       "path": "mods/RU-3771580900/CHANGELOG.md",
-      "bytes": 848,
-      "sha256": "29254be29d89a6a460a5fb975c994b8be2f66856a1b3e8848e4834f984d511aa"
+      "bytes": 1139,
+      "sha256": "c9236a860ec831dedf4bfc2ae1f60c5991423a4f0d3793a9a326bea9f23aaa1a"
     },
     {
       "path": "mods/RU-3771580900/Languages/English/Keyed/Additional.xml",
-      "bytes": 1086,
-      "sha256": "f68490bf45646af5da39cca2acb7fb9f0f6edc20a965f7627524398372c501c5"
+      "bytes": 1279,
+      "sha256": "f7bd552c2ccd1c6a1da4baaa9c6890fd515b76ef369b6569f1f00697be541e5c"
     },
     {
       "path": "mods/RU-3771580900/Languages/Russian/Keyed/Translations.xml",
-      "bytes": 19115,
-      "sha256": "e5f0c1e0819122354ceb8e088989fa60b44e95a7392bfeb1f9c54f29ddee4f51"
+      "bytes": 21370,
+      "sha256": "15af59604eba7f608bb0802c44054aadbf3ef4f78fb14e4b1f4dc65bce93c223"
     },
     {
       "path": "mods/RU-3771580900/LICENSE",
@@ -11952,23 +11952,23 @@
     },
     {
       "path": "mods/RU-3771580900/README.md",
-      "bytes": 4178,
-      "sha256": "35e1e3418ca7de75d5a356aa9ba6badcec1c8a8ad8f64be643d425f1c9dcf2db"
+      "bytes": 5493,
+      "sha256": "55b8c32711d82a09f2688fd93c06c2dd2419acd6849d282d0e0ef8f841df9925"
     },
     {
       "path": "mods/RU-3771580900/Source/DefaultFormats.cs",
-      "bytes": 1917,
-      "sha256": "b3de2a05228eb090c0b77c768836559d66ec130f5b90178304d0ce161a3c9d2c"
+      "bytes": 2650,
+      "sha256": "83f8f1f6b99750e79cec16d87ae93436622db4751556b2d0104215e07b4ee954"
     },
     {
       "path": "mods/RU-3771580900/Source/Literals.cs",
-      "bytes": 7140,
-      "sha256": "7cf2ac40ba85e5fb2eab825e2f67d0c7da795e3072c1bdb92c8c4d640a374c04"
+      "bytes": 8941,
+      "sha256": "cf8e198f4502f7ef448a8bc47faac7fde8c7b2a7b2979b6cddd660f35ad193f0"
     },
     {
       "path": "mods/RU-3771580900/Source/Overrides.cs",
-      "bytes": 10219,
-      "sha256": "c04f9a498c1913db54942d528431ad0cc5a97634353d1797d7f01366255b2691"
+      "bytes": 10502,
+      "sha256": "1d5b6047772774f4520830a756374bdbc53077bc97b977fec9d998ddd0e8786e"
     },
     {
       "path": "mods/RU-3773496046/About/About.xml",
@@ -12058,7 +12058,7 @@
     {
       "path": "mods/RU-3781978940/About/About.xml",
       "bytes": 2360,
-      "sha256": "bda47a147cd98c909dab06e9ea6504b5a2c3fd04483df406e3ea995f58cffdc9"
+      "sha256": "2f4dd3f5f8b07ff02415a563ec0579521373a4b81fe165ac76e90ac58db79ba8"
     },
     {
       "path": "mods/RU-3781978940/About/Preview.png",
@@ -12072,13 +12072,13 @@
     },
     {
       "path": "mods/RU-3781978940/Assemblies/RU3781978940.dll",
-      "bytes": 14336,
-      "sha256": "d4a1aace399a9870c8d10a46635ea8320dfcdfe4879db33d234c95795e725f1f"
+      "bytes": 15360,
+      "sha256": "d12cbebb063fcc05979ac179cdda6d4c64b6a7910fb2c5deaf82aac31224495c"
     },
     {
       "path": "mods/RU-3781978940/CHANGELOG.md",
-      "bytes": 768,
-      "sha256": "7c2dd90537a319f6e32321f472661bad624025633a8f1639b62a5f38342dbd5f"
+      "bytes": 901,
+      "sha256": "bb5a25e38bca82164785b45f2ee7054257ed5071598e7716188334e432a63b76"
     },
     {
       "path": "mods/RU-3781978940/Languages/English/Keyed/Additional.xml",
@@ -12087,8 +12087,8 @@
     },
     {
       "path": "mods/RU-3781978940/Languages/Russian/Keyed/Translations.xml",
-      "bytes": 5997,
-      "sha256": "7f067ffd529880cc302ebe3236911b040629363a893030dcd6004e2d29127333"
+      "bytes": 6541,
+      "sha256": "c3744c5ef6f68a45ce311df110e6db2aa0ea4ba5d0050982fa90d3c22e2bae55"
     },
     {
       "path": "mods/RU-3781978940/LICENSE",
@@ -12117,8 +12117,8 @@
     },
     {
       "path": "mods/RU-3781978940/Source/Literals.cs",
-      "bytes": 8737,
-      "sha256": "67fb0711dd607df24564bc9129d270a5c4dbbb5bbd0364b6d1484a30f2c3b2a3"
+      "bytes": 9816,
+      "sha256": "2e08895ed648cf6995d21ca48d0f441483ee6c2b5ef3f4eacfe9c2904b7445bf"
     },
     {
       "path": "mods/RU-3787398983/About/About.xml",

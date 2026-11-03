@@ -615,6 +615,8 @@
   <VanillaFactionsExpanded.UsableWithShield>Совместимо со щитами</VanillaFactionsExpanded.UsableWithShield>
   <VanillaFactionsExpanded.UsableWithShield_Desc>Можно ли пользоваться этим оружием, одновременно держа щит.</VanillaFactionsExpanded.UsableWithShield_Desc>
   <XPatchFound>Найдено патчей: {0}</XPatchFound>
+  <VRE_PreventSlaughterDesc>Защитить это животное от забоя по приказу и с помощью системы автозабоя.</VRE_PreventSlaughterDesc>
+  <VRE_PreventSlaughter>Запретить забой</VRE_PreventSlaughter>
   <chupakobra6_2023507013_EncumberedMerchantGuildTilesPerDayTip>Передвижение невозможно из-за перегруза</chupakobra6_2023507013_EncumberedMerchantGuildTilesPerDayTip>
   <chupakobra6_2023507013_FinalMerchantGuildMovementSpeed>Итоговая скорость передвижения</chupakobra6_2023507013_FinalMerchantGuildMovementSpeed>
   <chupakobra6_2023507013_FloorWire_InspectStringPart>

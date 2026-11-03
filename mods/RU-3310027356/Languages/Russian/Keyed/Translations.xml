@@ -824,6 +824,9 @@
   <ColonyManagerRedux.UpdateInterval.Monthly>Каждый месяц</ColonyManagerRedux.UpdateInterval.Monthly>
   <ColonyManagerRedux.UpdateInterval.MultipleHourly>Каждые {0} ч</ColonyManagerRedux.UpdateInterval.MultipleHourly>
   <ColonyManagerRedux.UpdateInterval.Yearly>Ежегодно</ColonyManagerRedux.UpdateInterval.Yearly>
+  <ColonyManagerRedux.Mining.CountChunkProducts.Tip>Учитывать ли при достижении заданного порога продукты переплавки обломков или их обработки на камнерезном столе? Если настройка отключена, обломки на складе, обломки с приказом на переноску и породы с приказом на добычу, дающие только обломки, не учитываются. Это полезно, если вы ещё не можете перерабатывать обломки.</ColonyManagerRedux.Mining.CountChunkProducts.Tip>
+  <ColonyManagerRedux.Mining.CountChunkProducts>Учитывать продукты переработки обломков</ColonyManagerRedux.Mining.CountChunkProducts>
+  <ColonyManagerRedux.Mining.HaulChunks.Disabled.Tip>Недоступно, поскольку продукты переработки обломков не учитываются.</ColonyManagerRedux.Mining.HaulChunks.Disabled.Tip>
   <chupakobra6_3310027356_AgeSex0>взрослая самка</chupakobra6_3310027356_AgeSex0>
   <chupakobra6_3310027356_AgeSex1>взрослый самец</chupakobra6_3310027356_AgeSex1>
   <chupakobra6_3310027356_AgeSex2>молодая самка</chupakobra6_3310027356_AgeSex2>

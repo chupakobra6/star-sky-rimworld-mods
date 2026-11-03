@@ -69,9 +69,6 @@ namespace Igor.RU_3310027356
                 { "IsValidDeconstructionTarget", "Допустимая цель разборки" },
                 { "IsValidMiningTarget", "Допустимая цель добычи" }
             } },
-            { "ColonyManagerRedux.Managers.ManagerJob_Mining+<>c:<DesignationLabel>b__85_0", new Dictionary<string,string> {
-                { "{0}x {1}", "{0} × {1}" }
-            } },
             { "ColonyManagerRedux.Managers.ManagerJob_Power:.ctor", new Dictionary<string,string> {
                 { "W", "Вт" }
             } },
@@ -107,12 +104,15 @@ namespace Igor.RU_3310027356
             } },
             { "ColonyManagerRedux.WindowTriggerThresholdDetails:DoWindowContents", new Dictionary<string,string> {
                 { "Unknown operator", "Неизвестный оператор" }
+            } },
+            { "ColonyManagerRedux.Managers.ManagerJob_Mining+<>c:<DesignationLabel>b__90_0", new Dictionary<string,string> {
+                { "{0}x {1}", "{0} × {1}" }
             } }
             };
         private static readonly Dictionary<string,string[]> Parameters = new Dictionary<string,string[]> {
             { "ColonyManagerRedux.I18n:YieldOne", new string[] { "System.Single", "Verse.ThingDef" } },
-            { "ColonyManagerRedux.Managers.ManagerJob_Mining+<>c:<DesignationLabel>b__85_0", new string[] { "Verse.ThingDefCountClass" } },
-            { "ColonyManagerRedux.Managers.ManagerJob_Power:.ctor", new string[] { "ColonyManagerRedux.Manager" } }
+            { "ColonyManagerRedux.Managers.ManagerJob_Power:.ctor", new string[] { "ColonyManagerRedux.Manager" } },
+            { "ColonyManagerRedux.Managers.ManagerJob_Mining+<>c:<DesignationLabel>b__90_0", new string[] { "Verse.ThingDefCountClass" } }
         };
         public LiteralTranslations(ModContentPack content) : base(content) { }
         public static void Apply()
