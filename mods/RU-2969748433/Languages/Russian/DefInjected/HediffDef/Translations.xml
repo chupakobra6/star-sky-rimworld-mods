@@ -23,11 +23,11 @@
   <BMT_HediffSkulltopSpores.description>Ядовитые споры гриба осели в лёгких. Длительное воздействие может привести к смерти.</BMT_HediffSkulltopSpores.description>
   <BMT_HediffSkulltopSpores.label>споры черепогриба</BMT_HediffSkulltopSpores.label>
   <BMT_HediffSkulltopSpores.stages.extreme.label>крайняя стадия</BMT_HediffSkulltopSpores.stages.extreme.label>
-  <BMT_HediffSkulltopSpores.stages.initial-0.label>начальное</BMT_HediffSkulltopSpores.stages.initial-0.label>
-  <BMT_HediffSkulltopSpores.stages.initial-1.label>начальное</BMT_HediffSkulltopSpores.stages.initial-1.label>
-  <BMT_HediffSkulltopSpores.stages.minor.label>лёгкое</BMT_HediffSkulltopSpores.stages.minor.label>
-  <BMT_HediffSkulltopSpores.stages.moderate.label>умеренное</BMT_HediffSkulltopSpores.stages.moderate.label>
-  <BMT_HediffSkulltopSpores.stages.serious.label>серьёзное</BMT_HediffSkulltopSpores.stages.serious.label>
+  <BMT_HediffSkulltopSpores.stages.initial-0.label>начальная стадия</BMT_HediffSkulltopSpores.stages.initial-0.label>
+  <BMT_HediffSkulltopSpores.stages.initial-1.label>начальная стадия</BMT_HediffSkulltopSpores.stages.initial-1.label>
+  <BMT_HediffSkulltopSpores.stages.minor.label>лёгкая стадия</BMT_HediffSkulltopSpores.stages.minor.label>
+  <BMT_HediffSkulltopSpores.stages.moderate.label>умеренная стадия</BMT_HediffSkulltopSpores.stages.moderate.label>
+  <BMT_HediffSkulltopSpores.stages.serious.label>тяжёлая стадия</BMT_HediffSkulltopSpores.stages.serious.label>
   <BMT_MetalloSnailDefense.description>Существо втянулось в раковину для защиты.</BMT_MetalloSnailDefense.description>
   <BMT_MetalloSnailDefense.label>втягивание в раковину</BMT_MetalloSnailDefense.label>
   <BMT_PillbugDefense.description>Существо свернулось в клубок для защиты.</BMT_PillbugDefense.description>
@@ -36,14 +36,14 @@
   <BMT_PurpleLung.label>пурпурное лёгкое</BMT_PurpleLung.label>
   <BMT_PurpleLung.stages.extreme.label>крайняя стадия</BMT_PurpleLung.stages.extreme.label>
   <BMT_PurpleLung.stages.major.label>тяжёлая стадия</BMT_PurpleLung.stages.major.label>
-  <BMT_PurpleLung.stages.minor.label>лёгкое</BMT_PurpleLung.stages.minor.label>
+  <BMT_PurpleLung.stages.minor.label>лёгкая стадия</BMT_PurpleLung.stages.minor.label>
   <BMT_ShimmershellSnailDefense.description>Существо втянулось в раковину для защиты.</BMT_ShimmershellSnailDefense.description>
   <BMT_ShimmershellSnailDefense.label>втягивание в раковину</BMT_ShimmershellSnailDefense.label>
   <BMT_SporeFlesh.description>Особый мицелий проник в тело и питается за счёт организма, притупляя боль и замедляя кровотечение. Постепенно он меняет химию мозга, делая заражённого всё более агрессивным. Болезнь может оказаться смертельной, но при хорошем лечении от неё можно избавиться.</BMT_SporeFlesh.description>
   <BMT_SporeFlesh.label>споровая инфекция тканей</BMT_SporeFlesh.label>
   <BMT_SporeFlesh.stages.extreme.label>крайняя стадия</BMT_SporeFlesh.stages.extreme.label>
   <BMT_SporeFlesh.stages.major.label>тяжёлая стадия</BMT_SporeFlesh.stages.major.label>
-  <BMT_SporeFlesh.stages.minor.label>лёгкое</BMT_SporeFlesh.stages.minor.label>
+  <BMT_SporeFlesh.stages.minor.label>лёгкая стадия</BMT_SporeFlesh.stages.minor.label>
   <BMT_SporesBuildup.description>В дыхательных путях скопились споры. Обычно это неопасно, но дальнейшее накопление может привести к смерти.</BMT_SporesBuildup.description>
   <BMT_SporesBuildup.label>накопление спор</BMT_SporesBuildup.label>
   <BMT_SporesBuildup.stages.extreme-0.label>крайняя стадия</BMT_SporesBuildup.stages.extreme-0.label>

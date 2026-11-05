@@ -26,7 +26,7 @@
   <BS_Artificial>искусственный</BS_Artificial>
   <BS_AutoCombat>Автобой</BS_AutoCombat>
   <BS_AutoCombatExplain>Настройки частичной самостоятельности персонажей в бою.</BS_AutoCombatExplain>
-  <BS_AutoCombatResets>Отключать автобой при снятии призыва</BS_AutoCombatResets>
+  <BS_AutoCombatResets>Отключать автобой при снятии мобилизации</BS_AutoCombatResets>
   <BS_AutoUseAllAbilitiesDescription>Включить или отключить автоматическое применение ВСЕХ способностей.\n\nЭту кнопку можно скрыть в настройках и вместо неё нажимать правой кнопкой мыши на кнопку «Автобой».\n\nОтдельная кнопка появилась главным образом потому, что некоторые игроки не знали о возможности автоприменения.</BS_AutoUseAllAbilitiesDescription>
   <BS_AutoUseAllAbilitiesLabel>Все способности — авто</BS_AutoUseAllAbilitiesLabel>
   <BS_BaseColor>базовый цвет</BS_BaseColor>
@@ -148,7 +148,7 @@
   <BS_MechEndo>Основные системы</BS_MechEndo>
   <BS_MechXeno>Механитные структуры</BS_MechXeno>
   <BS_MechanicalDesc>считается механическим существом</BS_MechanicalDesc>
-  <BS_MeleeChargeDescription>Сближаться с замеченными противниками даже на большом расстоянии. Если отключено, сближаться только с ближайшими врагами.</BS_MeleeChargeDescription>
+  <BS_MeleeChargeDescription>Сближаться с замеченными противниками даже на большом расстоянии. Если отключено, сближаться только на очень короткое расстояние.</BS_MeleeChargeDescription>
   <BS_MeleeChargeLabel>Дальнее сближение</BS_MeleeChargeLabel>
   <BS_Metabolism>М</BS_Metabolism>
   <BS_MetabolismLimitOffset>Изменение предела метаболизма при усвоении генов и подобных действиях</BS_MetabolismLimitOffset>

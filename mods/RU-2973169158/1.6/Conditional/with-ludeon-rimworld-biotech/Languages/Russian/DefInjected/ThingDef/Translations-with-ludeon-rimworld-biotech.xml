@@ -151,7 +151,7 @@
   <AM_Mech_MasterChef.tools.head.label>голова</AM_Mech_MasterChef.tools.head.label>
   <AM_Mech_Munifex.description>Грозный боевой механоид размером с человека, специально созданный для дальнего боя. Вооружён электромагнитным копьём: его катушки разгоняют снаряды до невероятной скорости. Они пробивают почти любую защиту, включая толстые бронеплиты и железобетон.
 
-&lt;color=#E5E54C&gt;В игре:&lt;/color&gt; Да, этот механоид стреляет по своим. Да, именно так и задумано. Осторожнее!</AM_Mech_Munifex.description>
+&lt;color=#E5E54C&gt;В игре:&lt;/color&gt; Да, этот механоид может задеть своих огнём. Да, именно так и задумано. Осторожнее!</AM_Mech_Munifex.description>
   <AM_Mech_Munifex.label>мунифекс</AM_Mech_Munifex.label>
   <AM_Mech_Munifex.tools.head.label>голова</AM_Mech_Munifex.tools.head.label>
   <AM_Mech_Munifex.tools.left_fist.label>левый кулак</AM_Mech_Munifex.tools.left_fist.label>
@@ -163,7 +163,7 @@
   <AM_Mech_Optio.tools.left_fist.labelNoLocation>кулак</AM_Mech_Optio.tools.left_fist.labelNoLocation>
   <AM_Mech_Optio.tools.right_fist.label>правый кулак</AM_Mech_Optio.tools.right_fist.label>
   <AM_Mech_Optio.tools.right_fist.labelNoLocation>кулак</AM_Mech_Optio.tools.right_fist.labelNoLocation>
-  <AM_Mech_Polychoron.description>Тяжёлый боевой механоид с гамма-лазерной пушкой, наносящей огромный урон бронированным целям. Недостаток подвижности компенсируется сфокусированными энергетическими лучами, пробивающими большинство защитных щитов.</AM_Mech_Polychoron.description>
+  <AM_Mech_Polychoron.description>Тяжёлый боевой механоид с гамма-лазерной пушкой, наносящей огромный урон бронированным целям. Хотя он неповоротлив, его пушка выпускает сфокусированные энергетические лучи, пробивающие большинство защитных щитов и оставляющие врагов без защиты.</AM_Mech_Polychoron.description>
   <AM_Mech_Polychoron.label>полихорон</AM_Mech_Polychoron.label>
   <AM_Mech_Polychoron.tools.head.label>голова</AM_Mech_Polychoron.tools.head.label>
   <AM_Mech_Polychoron.tools.left_fist.label>левый кулак</AM_Mech_Polychoron.tools.left_fist.label>

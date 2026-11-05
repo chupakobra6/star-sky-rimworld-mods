@@ -14,7 +14,7 @@
   <HAR_AlienRaces_Respected_Social.stages.respect_for_xenos.label>уважение к чужакам</HAR_AlienRaces_Respected_Social.stages.respect_for_xenos.label>
   <HAR_Alien_EnslavedPrisoner_Disapproved.stages.enslaved_alien_prisoner.description>По моей воле представитель иной расы стал рабом. Такое трудно оправдать.</HAR_Alien_EnslavedPrisoner_Disapproved.stages.enslaved_alien_prisoner.description>
   <HAR_Alien_EnslavedPrisoner_Disapproved.stages.enslaved_alien_prisoner.label>обращение пленника иной расы в рабство</HAR_Alien_EnslavedPrisoner_Disapproved.stages.enslaved_alien_prisoner.label>
-  <HAR_Alien_EnslavedPrisoner_Honorable.stages.enslaved_alien_prisoner.description>По моей воле представитель иной расы стал рабом. Выбора не было — пришлось подчиниться мне.</HAR_Alien_EnslavedPrisoner_Honorable.stages.enslaved_alien_prisoner.description>
+  <HAR_Alien_EnslavedPrisoner_Honorable.stages.enslaved_alien_prisoner.description>По моей воле представитель иной расы стал рабом. У него не было выбора, кроме как подчиниться мне.</HAR_Alien_EnslavedPrisoner_Honorable.stages.enslaved_alien_prisoner.description>
   <HAR_Alien_EnslavedPrisoner_Honorable.stages.enslaved_alien_prisoner.label>обращение пленника иной расы в рабство</HAR_Alien_EnslavedPrisoner_Honorable.stages.enslaved_alien_prisoner.label>
   <HAR_Alien_EnslavedPrisoner_Horrible.stages.enslaved_alien_prisoner.description>По моей воле представитель иной расы стал рабом. Как это оправдать?</HAR_Alien_EnslavedPrisoner_Horrible.stages.enslaved_alien_prisoner.description>
   <HAR_Alien_EnslavedPrisoner_Horrible.stages.enslaved_alien_prisoner.label>обращение пленника иной расы в рабство</HAR_Alien_EnslavedPrisoner_Horrible.stages.enslaved_alien_prisoner.label>
@@ -64,7 +64,7 @@
   <HAR_AteAlienMeat_Know_Disapproved.stages.ate_alien_meat.label>употребление мяса иной расы</HAR_AteAlienMeat_Know_Disapproved.stages.ate_alien_meat.label>
   <HAR_AteAlienMeat_Preferred.stages.ate_alien_meat.description>После мяса иной расы я чувствую себя благороднее и сильнее.</HAR_AteAlienMeat_Preferred.stages.ate_alien_meat.description>
   <HAR_AteAlienMeat_Preferred.stages.ate_alien_meat.label>употребление мяса иной расы</HAR_AteAlienMeat_Preferred.stages.ate_alien_meat.label>
-  <HAR_AteAlienMeat_RequiredStrong.stages.ate_alien_meat.description>Мясо иной расы — правильная пища для настоящей личности. Так и следует питаться.</HAR_AteAlienMeat_RequiredStrong.stages.ate_alien_meat.description>
+  <HAR_AteAlienMeat_RequiredStrong.stages.ate_alien_meat.description>Мясо иной расы – правильная пища для настоящего разумного существа. Так и следует питаться.</HAR_AteAlienMeat_RequiredStrong.stages.ate_alien_meat.description>
   <HAR_AteAlienMeat_RequiredStrong.stages.ate_alien_meat.label>употребление мяса иной расы</HAR_AteAlienMeat_RequiredStrong.stages.ate_alien_meat.label>
   <HAR_AteNonAlienFood_Horrible.stages.ate_nonalien_food.description>Пришлось есть пищу без мяса разумного представителя иной расы. Мои убеждения строго запрещают такое.</HAR_AteNonAlienFood_Horrible.stages.ate_nonalien_food.description>
   <HAR_AteNonAlienFood_Horrible.stages.ate_nonalien_food.label>пища без мяса иных рас</HAR_AteNonAlienFood_Horrible.stages.ate_nonalien_food.label>

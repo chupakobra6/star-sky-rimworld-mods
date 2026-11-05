@@ -65,7 +65,7 @@
   <MA_Caprodka.ingestible.ingestCommandString>Выпить: {0}</MA_Caprodka.ingestible.ingestCommandString>
   <MA_Caprodka.ingestible.ingestReportString>Пьёт: {0}.</MA_Caprodka.ingestible.ingestReportString>
   <MA_Caprodka.label>капроводка</MA_Caprodka.label>
-  <MA_Capryak.description>Каприяки — мегакозы холодных регионов, приспособленные к тундре, промёрзшим лесам и горам. Густая шерсть, толстая шкура и длинные рога делают их морозостойкими и опасными противниками, особенно после ранения.
+  <MA_Capryak.description>Каприяки — мегакозы холодных регионов, приспособленные к тундре, промёрзшим лесам и горам. Густая шерсть, толстая шкура и длинные рога делают их морозостойкими и живучими противниками, особенно после ранения.
 
 Поселения могут разводить их ради грубой шерсти, резкого, но питательного молока и рогов, достаточно прочных для примитивного оружия. Главная трудность — содержание: из-за размера, аппетита и упрямого нрава каприяку нужно больше корма и внимания, чем обычному скоту.
 
@@ -109,11 +109,11 @@
   <MA_ClawSaber.label>когтевая сабля</MA_ClawSaber.label>
   <MA_ClawSaber.tools.0.label>клинок</MA_ClawSaber.tools.0.label>
   <MA_ClawSaber.tools.1.label>остриё</MA_ClawSaber.tools.1.label>
-  <MA_CurdlingAminoxBlueCheese.description>Аминовое молоко, оставленное для сквашивания и выдержки в плотный сыр с голубыми прожилками.</MA_CurdlingAminoxBlueCheese.description>
+  <MA_CurdlingAminoxBlueCheese.description>Аминовое молоко, оставленное сквашиваться и созревать, чтобы получить плотный сыр с голубыми прожилками.</MA_CurdlingAminoxBlueCheese.description>
   <MA_CurdlingAminoxBlueCheese.label>созревающий голубой сыр аминокса</MA_CurdlingAminoxBlueCheese.label>
   <MA_CurdlingCapryakCheese.description>Молоко каприяка, оставленное для сквашивания и последующего формирования плотной головки простого сыра.</MA_CurdlingCapryakCheese.description>
   <MA_CurdlingCapryakCheese.label>созревающий сыр каприяка</MA_CurdlingCapryakCheese.label>
-  <MA_CurdlingDuskhornCheese.description>Молоко сумеркорога, оставленное для сквашивания в плотный жирный сыр.</MA_CurdlingDuskhornCheese.description>
+  <MA_CurdlingDuskhornCheese.description>Молоко сумеркорога, оставленное сквашиваться, чтобы получить плотный жирный сыр.</MA_CurdlingDuskhornCheese.description>
   <MA_CurdlingDuskhornCheese.label>созревающий сыр сумеркорога</MA_CurdlingDuskhornCheese.label>
   <MA_Deermoss.description>Моховые олени — крупные лесные травоядные, покрытые густым мехом и симбиотическим мхом. Они бесшумно движутся по древним лесам. Обычно миролюбивы, но при угрозе тяжёлое тело и внушительные рога делают их опасными.
 
@@ -192,9 +192,9 @@
   <MA_Fatkibble.label>жирный комбикорм</MA_Fatkibble.label>
   <MA_FermentingAmineSerum.description>Аминовое молоко, проходящее очистку для получения концентрированной сыворотки.</MA_FermentingAmineSerum.description>
   <MA_FermentingAmineSerum.label>очищаемая аминовая сыворотка</MA_FermentingAmineSerum.label>
-  <MA_FermentingCaprodka.description>Молочная основа капроводки, оставленная для брожения в густой алкогольный напиток длительного хранения.</MA_FermentingCaprodka.description>
+  <MA_FermentingCaprodka.description>Молочная основа капроводки, оставленная бродить для получения густого алкогольного напитка длительного хранения.</MA_FermentingCaprodka.description>
   <MA_FermentingCaprodka.label>бродящая капроводка</MA_FermentingCaprodka.label>
-  <MA_FermentingDuskyakult.description>Молоко сумеркорога, оставленное для брожения и розлива по бутылкам длительного хранения.</MA_FermentingDuskyakult.description>
+  <MA_FermentingDuskyakult.description>Молоко сумеркорога, оставленное бродить перед розливом по бутылкам для длительного хранения.</MA_FermentingDuskyakult.description>
   <MA_FermentingDuskyakult.label>бродящий сумракульт</MA_FermentingDuskyakult.label>
   <MA_FermentingMossmireMilk.description>Смесь болотно-мохового молока и трав, которая бродит, постепенно превращаясь в настой.</MA_FermentingMossmireMilk.description>
   <MA_FermentingMossmireMilk.label>бродящее болотно-моховое молоко</MA_FermentingMossmireMilk.label>
@@ -307,7 +307,7 @@
   <MA_Leather_Dunbear.label>шкура стужемеда</MA_Leather_Dunbear.label>
   <MA_Leather_Duskhorn.description>Толстая тёмно-красная кожа сумеркорога. Насыщенный оттенок и слоистая текстура делают её красивой и практичной, а от холода она защищает превосходно. Хотя кожа тяжёлая и грубая, племена ценят её уникальный цвет и используют для плащей, подстилок и зимней одежды.</MA_Leather_Duskhorn.description>
   <MA_Leather_Duskhorn.label>кожа сумеркорога</MA_Leather_Duskhorn.label>
-  <MA_Leather_Furpotamus.description>Толстая тяжёлая шкура огромного шерстебегемота, состоящая из слоёв плотной кожи и грубого меха. Особенно устойчива к ударам и разрывам, умеренно защищает от температуры. Её выбирают ради долговечности, а не удобства.</MA_Leather_Furpotamus.description>
+  <MA_Leather_Furpotamus.description>Толстая тяжёлая шкура огромного шерстебегемота, состоящая из слоёв плотной кожи и грубого меха. Особенно устойчива к ударам и разрывам, умеренно защищает от жары и холода. Её выбирают ради долговечности, а не удобства.</MA_Leather_Furpotamus.description>
   <MA_Leather_Furpotamus.label>кожа шерстебегемота</MA_Leather_Furpotamus.label>
   <MA_Leather_Gnaut.description>Непритязательная шкура гнутура для повседневных нужд. Не особенно прочная, но надёжная для простой одежды и лёгкого снаряжения. Её приглушённый землистый цвет хорошо сочетается с грубыми тканями.</MA_Leather_Gnaut.description>
   <MA_Leather_Gnaut.label>шкура гнутура</MA_Leather_Gnaut.label>
@@ -315,7 +315,7 @@
   <MA_Leather_Harpeagle.label>кожа орла-исполина</MA_Leather_Harpeagle.label>
   <MA_Leather_Hellboar.description>Плотная гладкая шкура адского вепря, закалённая постоянной агрессией и жестокими столкновениями.
 
-Плохо защищает от температуры, зато её прочная поверхность хорошо держит удары. Подходит для брони и снаряжения, рассчитанного на большие нагрузки.</MA_Leather_Hellboar.description>
+Плохо защищает от жары и холода, зато её прочная поверхность хорошо держит удары. Подходит для брони и снаряжения, рассчитанного на большие нагрузки.</MA_Leather_Hellboar.description>
   <MA_Leather_Hellboar.label>шкура адского вепря</MA_Leather_Hellboar.label>
   <MA_Leather_Plastehide.description>Плотная металлическая шкура пластомамонта, пронизанная естественными волокнами, похожими на сталь. Хорошо сохраняет тепло и даёт умеренную броневую защиту. Высоко ценится жителями Арктики и мастерами тяжёлых доспехов.</MA_Leather_Plastehide.description>
   <MA_Leather_Plastehide.label>пластошкура</MA_Leather_Plastehide.label>
@@ -327,9 +327,13 @@
 
 На рынке она встречается редко: добыть шкуру столь смертоносного зверя чрезвычайно трудно.</MA_Leather_Scarodon.description>
   <MA_Leather_Scarodon.label>шкура скародона</MA_Leather_Scarodon.label>
-  <MA_Leather_Simbakub.description>Шкура пральва покрыта густым мехом, от природы приспособленным к саваннам и эффективно защищающим от сильной жары./n/nЭту прочную и гибкую кожу широко используют племенные культуры для изготовления долговечных доспехов и одежды, ценя её надёжность в бою и при выживании.</MA_Leather_Simbakub.description>
+  <MA_Leather_Simbakub.description>Шкура пральва покрыта густым мехом, от природы приспособленным к саваннам и эффективно защищающим от сильной жары.
+
+Эту прочную и гибкую кожу широко используют племенные культуры для изготовления долговечных доспехов и одежды, ценя её надёжность в бою и при выживании.</MA_Leather_Simbakub.description>
   <MA_Leather_Simbakub.label>шкура пральва</MA_Leather_Simbakub.label>
-  <MA_Leather_SimbakubAlpha.description>Шкура пральва-вожака толще и темнее, чем у его сородичей: её сформировали возраст, превосходство над другими и бесчисленные битвы под солнцем саванны./n/nПлеменные культуры высоко ценят её за прочность, жаростойкость и престиж, который она придаёт владельцу.</MA_Leather_SimbakubAlpha.description>
+  <MA_Leather_SimbakubAlpha.description>Шкура пральва-вожака толще и темнее, чем у его сородичей: её сформировали возраст, превосходство над другими и бесчисленные битвы под солнцем саванны.
+
+Племенные культуры высоко ценят её за прочность, жаростойкость и престиж, который она придаёт владельцу.</MA_Leather_SimbakubAlpha.description>
   <MA_Leather_SimbakubAlpha.label>шкура пральва-вожака</MA_Leather_SimbakubAlpha.label>
   <MA_Leather_Sivatherium.description>Толстая грубая шкура сиватерия, сформированная жизнью на открытых выжженных солнцем землях под постоянным воздействием жары.
 
@@ -488,7 +492,7 @@
 
 Обычно миролюбивые взрослые особи при угрозе превращаются в живые стены из костей и мышц. Туши дают много мегакости, а рога ценятся для особых продуктов переработки и биологически активных исследовательских материалов.
 
-Похоже, сиватерия вернули на окраинные миры с теми же амбициями, что и мегаленивца: ради восстановления экосистем в масштабах мира-утопии, с животными слишком большими, чтобы легко исчезнуть. Получилась живая реликвия — уцелевшая часть старой попытки воссоздать целые экосистемы.</MA_Sivatherium.description>
+Похоже, сиватерия вернули на окраинные миры с теми же амбициями, что и мегаленивца: ради восстановления экосистем в масштабах мира-утопии, с животными, слишком большими, чтобы легко исчезнуть. Получилась живая реликвия — уцелевшая часть старой попытки воссоздать целые экосистемы.</MA_Sivatherium.description>
   <MA_Sivatherium.label>сиватерий</MA_Sivatherium.label>
   <MA_Sivatherium.tools.0.label>рога</MA_Sivatherium.tools.0.label>
   <MA_Sivatherium.tools.2.label>голова</MA_Sivatherium.tools.2.label>

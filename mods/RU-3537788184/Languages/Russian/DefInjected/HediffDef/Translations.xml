@@ -62,7 +62,7 @@
   <MA_SimbakubLone.description>Без сородичей пралев становится напряжённым и рассеянным, а его инстинктивная слаженность нарушается.</MA_SimbakubLone.description>
   <MA_SimbakubLone.label>одиночество</MA_SimbakubLone.label>
   <MA_SimbakubLone.stages.0.label>без стаи</MA_SimbakubLone.stages.0.label>
-  <MA_SimbakubOvercrowded.description>Слишком много пральвов в одном месте вызывают напряжение и неразбериху: стая становится медленнее, действует менее точно, и её легче расстроить.</MA_SimbakubOvercrowded.description>
+  <MA_SimbakubOvercrowded.description>Слишком много пральвов в одном месте вызывают напряжение и неразбериху: стая становится медленнее, действует менее точно и легче теряет слаженность.</MA_SimbakubOvercrowded.description>
   <MA_SimbakubOvercrowded.label>скученность</MA_SimbakubOvercrowded.label>
   <MA_SimbakubOvercrowded.stages.0.label>слишком много сородичей рядом</MA_SimbakubOvercrowded.stages.0.label>
   <MA_SimbakubPackInstinct.description>Инстинктивное взаимодействие позволяет пральвам сражаться точнее, быстрее и решительнее, когда они охотятся слаженной стаей.</MA_SimbakubPackInstinct.description>

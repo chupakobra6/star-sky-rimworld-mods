@@ -133,7 +133,7 @@
   <BMT_CapscoolFungus.label>хладошляпка</BMT_CapscoolFungus.label>
   <BMT_CarveShroom.description>Крупный гриб, приспособленный к полной темноте и отлично растущий на морозе.</BMT_CarveShroom.description>
   <BMT_CarveShroom.label>резной гриб</BMT_CarveShroom.label>
-  <BMT_CaveCricket.description>Жители пещер часто считают этих мясистых сверчков вредителями, но некоторые одомашнили их: еда получается отвратительная на вид, зато сытная. Сверчки быстро растут и за считанные дни откладывают множество яиц.</BMT_CaveCricket.description>
+  <BMT_CaveCricket.description>Жители пещер часто считают этих мясистых сверчков вредителями, но некоторые одомашнили их: еда получается отвратительная, зато сытная. Сверчки быстро растут и за считанные дни откладывают множество яиц.</BMT_CaveCricket.description>
   <BMT_CaveCricket.label>пещерный сверчок</BMT_CaveCricket.label>
   <BMT_CaveCricket.tools.head.label>голова</BMT_CaveCricket.tools.head.label>
   <BMT_CaveCricket.tools.mandibles.label>жвалы</BMT_CaveCricket.tools.mandibles.label>
@@ -152,7 +152,7 @@
   <BMT_CaveSpiderHead.tools.venomfangs.label>ядовитые клыки</BMT_CaveSpiderHead.tools.venomfangs.label>
   <BMT_CavernMycelium.description>Широко распространившийся мицелий множества видов грибов, освоивших пещеры окраинных миров. В дикой природе им часто питаются травоядные.</BMT_CavernMycelium.description>
   <BMT_CavernMycelium.label>мицелий</BMT_CavernMycelium.label>
-  <BMT_ChemSnail.description>Подобно наземной бумалопе, эта искусственно созданная улитка вырабатывает в раковине летучие химические вещества. Даже самые могучие пещерные хищники научились её избегать: при гибели химулитка взрывается. Её слизь можно осторожно собирать для получения химического топлива.</BMT_ChemSnail.description>
+  <BMT_ChemSnail.description>Подобно наземной бумалопе, эта искусственно созданная улитка вырабатывает в раковине летучие химические вещества. Даже самые могучие пещерные хищники научились её избегать: при гибели химулитка взрывается. Её слизь можно осторожно собирать для получения химтоплива.</BMT_ChemSnail.description>
   <BMT_ChemSnail.label>химулитка</BMT_ChemSnail.label>
   <BMT_ChemSnail.tools.head.label>голова</BMT_ChemSnail.tools.head.label>
   <BMT_Chromacap.description>Искусственно созданная грибная культура, похожая на тинкторию. Выделяет изменчивый краситель, которому можно придать нужный оттенок, чтобы перекрасить стены, постройки и другие предметы.</BMT_Chromacap.description>
@@ -528,7 +528,7 @@
   <BMT_FungalPowerGenerator.label>грибной генератор</BMT_FungalPowerGenerator.label>
   <BMT_FungalTendril.description>В отличие от обычных грибов, этот гриб похож на усик. Распространяет споры из маленьких узелков по всей длине.</BMT_FungalTendril.description>
   <BMT_FungalTendril.label>тендралус</BMT_FungalTendril.label>
-  <BMT_FungalWeevil.description>Обычно грибок губителен для заражённого насекомого, но здесь заражение каким-то образом превратилось в благополучный симбиоз. Передвигаясь, долгоносик рассеивает споры, а его тело служит грибу домом. Взамен гриб помогает хозяину скрываться среди окружающих грибных зарослей.</BMT_FungalWeevil.description>
+  <BMT_FungalWeevil.description>В отличие от обычного грибкового заражения насекомых, это заражение каким-то образом переросло в благополучный симбиоз. Передвигаясь, долгоносик рассеивает споры, а его тело служит грибу домом. Взамен гриб помогает хозяину скрываться среди окружающих грибных зарослей.</BMT_FungalWeevil.description>
   <BMT_FungalWeevil.label>грибной долгоносик</BMT_FungalWeevil.label>
   <BMT_FungalWeevil.tools.head.label>голова</BMT_FungalWeevil.tools.head.label>
   <BMT_FungalWeevil.tools.mandibles.label>жвалы</BMT_FungalWeevil.tools.mandibles.label>
@@ -567,7 +567,7 @@
   <BMT_Gleamtip.label>светоконечник</BMT_Gleamtip.label>
   <BMT_Glimmerslime.description>Мерцающая слизь — слизевик, а вовсе не настоящий гриб. Живёт в симбиозе с сияющими шляпками.</BMT_Glimmerslime.description>
   <BMT_Glimmerslime.label>мерцающая слизь</BMT_Glimmerslime.label>
-  <BMT_Glitter.description>Кристаллизованный сок нефритового блеска. При вдыхании повышает способность к физическому труду и меняет настроение: человеку кажется, будто он находится на свежем воздухе. Вызывает зависимость, хотя вероятность её появления вдвое ниже, чем у порошка психина.
+  <BMT_Glitter.description>Кристаллизованный сок нефритового блеска. При вдыхании повышает способность к физическому труду и меняет настроение: человеку кажется, будто он находится вне помещения. Вызывает зависимость, хотя вероятность её появления вдвое ниже, чем у порошка психина.
 
 Сам гриб создавали ради красоты, но теперь полученным из него наркотиком горнодобывающие корпорации управляют работниками, расплачивающимися за это здоровьем.</BMT_Glitter.description>
   <BMT_Glitter.ingestible.ingestCommandString>Вдохнуть {0}</BMT_Glitter.ingestible.ingestCommandString>

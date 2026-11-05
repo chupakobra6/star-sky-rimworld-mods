@@ -433,7 +433,7 @@
   <VFEM.DroneGainsName>Теперь дрона зовут {0}.</VFEM.DroneGainsName>
   <VFEMRideableMachineTip>На этом дроиде можно ездить верхом. Участники каравана выбирают самых быстрых доступных животных и дроидов для верховой езды, увеличивая скорость всего каравана.</VFEMRideableMachineTip>
   <VFEMechAttachTurret>Установить турель</VFEMechAttachTurret>
-  <VFEMechAttachTurretDesc>Установить турель на этой подвижной платформе. Поселенец должен доставить столько же ресурсов, сколько нужно для постройки обычной турели.</VFEMechAttachTurretDesc>
+  <VFEMechAttachTurretDesc>Установить турель на этой подвижной платформе. Поселенец должен доставить столько же ресурсов, сколько нужно для обычной постройки выбранной турели.</VFEMechAttachTurretDesc>
   <VFEMechForceRecharge>Отправить на зарядку</VFEMechForceRecharge>
   <VFEMechForceRechargeDesc>Приказать закреплённой машине вернуться на эту платформу для зарядки независимо от оставшегося заряда.</VFEMechForceRechargeDesc>
   <VFEMechLowerRange>Уменьшить дальность</VFEMechLowerRange>

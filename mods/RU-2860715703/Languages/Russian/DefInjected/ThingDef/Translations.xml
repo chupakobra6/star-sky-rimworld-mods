@@ -1,6 +1,6 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <BMT_Aboomasaurus.description>Генетически изменённый родственник апатозавра. В мешках на его теле вырабатываются взрывоопасные вещества. Для своих размеров он довольно слаб и уязвим, но другие животные научились обходить его стороной: при гибели он производит чудовищный взрыв. Его можно доить, получая много химического топлива, — только очень осторожно.</BMT_Aboomasaurus.description>
+  <BMT_Aboomasaurus.description>Генетически изменённый родственник апатозавра. В мешках на его теле вырабатываются взрывоопасные вещества. Для своих размеров он довольно слаб и уязвим, но другие животные научились обходить его стороной: при гибели он производит чудовищный взрыв. Его можно доить, получая много химтоплива, — только очень осторожно.</BMT_Aboomasaurus.description>
   <BMT_Aboomasaurus.label>абумазавр</BMT_Aboomasaurus.label>
   <BMT_Aboomasaurus.tools.front_left_foot.label>передняя левая лапа</BMT_Aboomasaurus.tools.front_left_foot.label>
   <BMT_Aboomasaurus.tools.front_right_foot.label>передняя правая лапа</BMT_Aboomasaurus.tools.front_right_foot.label>
@@ -1135,7 +1135,7 @@
 
 Научное название: Triceratops horridus.</BMT_Triceratops.description>
   <BMT_Triceratops.label>трицератопс</BMT_Triceratops.label>
-  <BMT_Triceratops.race.meatLabel>мясо цератопса</BMT_Triceratops.race.meatLabel>
+  <BMT_Triceratops.race.meatLabel>мясо цератопсида</BMT_Triceratops.race.meatLabel>
   <BMT_Triceratops.tools.head.label>голова</BMT_Triceratops.tools.head.label>
   <BMT_Triceratops.tools.horn.label>рог</BMT_Triceratops.tools.horn.label>
   <BMT_TriceratopsEggFertilized.description>Оплодотворённое яйцо трицератопса. Если всё пойдёт хорошо, из него вылупится детёныш. Яйцо можно съесть сырым, но лучше приготовить.</BMT_TriceratopsEggFertilized.description>
