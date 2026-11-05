@@ -577,6 +577,14 @@
         "1.6/Assemblies/EnhancedCarryingCapacitySaveLoadFix.dll"
       ],
       "licenseId": "MIT"
+    },
+    {
+      "path": "mods/Pawn-Generation-Fixes",
+      "workshopId": "3834065834",
+      "assemblies": [
+        "Assemblies/PawnGenerationFixes.dll"
+      ],
+      "licenseId": "MIT"
     }
   ],
   "files": [
@@ -587,8 +595,8 @@
     },
     {
       "path": "catalog/fixes.md",
-      "bytes": 3787,
-      "sha256": "dac007ee6f719ed4394e3af0b9eef4bc38c188e3143c4776b0fb1c9ae12f697f"
+      "bytes": 4649,
+      "sha256": "debd2eb18cf3e69e1800c572709943c01dac63ce2bcb87cf79d16791872f77e4"
     },
     {
       "path": "catalog/mods.md",
@@ -1159,6 +1167,56 @@
       "path": "mods/IsekaiQuickQuests/Source/IsekaiQuickQuests/QuickQuestsMod.cs",
       "bytes": 1566,
       "sha256": "832e330c3bf8dc448e0ae50f4beed24d731635e1e377faa9e9340f5e87ba3691"
+    },
+    {
+      "path": "mods/Pawn-Generation-Fixes/About/About.xml",
+      "bytes": 1857,
+      "sha256": "07e858933113af75bb71b1c374b699c4597b62b81a855727c63816d97902ba3c"
+    },
+    {
+      "path": "mods/Pawn-Generation-Fixes/About/Preview.png",
+      "bytes": 98608,
+      "sha256": "ea4efe0e0a6ed4d05eefb74c00011bb6f190b5acf9485ca29256e3fbb6fdb009"
+    },
+    {
+      "path": "mods/Pawn-Generation-Fixes/About/PublishedFileId.txt",
+      "bytes": 11,
+      "sha256": "c2a16c69d74d1775b71fef4ce7a484af80be28e86ff8d71e408101387f4b6cd2"
+    },
+    {
+      "path": "mods/Pawn-Generation-Fixes/Assemblies/PawnGenerationFixes.dll",
+      "bytes": 11776,
+      "sha256": "8cc5553d8f46a6d37cbbc0aac573da2d4560545ca8b9a42baad047dbcad7b788"
+    },
+    {
+      "path": "mods/Pawn-Generation-Fixes/CHANGELOG.md",
+      "bytes": 208,
+      "sha256": "12bfbd4254fee18e61ae571e6b6501d9ab6a11d76a254169438d4f9cee25c640"
+    },
+    {
+      "path": "mods/Pawn-Generation-Fixes/LICENSE",
+      "bytes": 1068,
+      "sha256": "8a32425e028111706b44ae429746c725582435de638e3306dd98a4fa8861bff8"
+    },
+    {
+      "path": "mods/Pawn-Generation-Fixes/NOTICES.md",
+      "bytes": 751,
+      "sha256": "4097a4681dedc9dc064a38b537c8a014e6ab1a211de6048f03ac829a85402d55"
+    },
+    {
+      "path": "mods/Pawn-Generation-Fixes/README.md",
+      "bytes": 2420,
+      "sha256": "1f0a073773e9e11ef0717518107aa9daa42161f9236a98d8d2a90c4124a4c47c"
+    },
+    {
+      "path": "mods/Pawn-Generation-Fixes/Source/RejectedPawn.cs",
+      "bytes": 2431,
+      "sha256": "0f5f9ebef0416dcf15fc665b6d870839ed19c4d0a523dc07fe4be8386ba87dc9"
+    },
+    {
+      "path": "mods/Pawn-Generation-Fixes/Source/SolidBioWorkRequirements.cs",
+      "bytes": 3898,
+      "sha256": "50d70a6b15992c5113ef629cb43b7405121b2a9487632885dd5c06ca9f64d57d"
     },
     {
       "path": "mods/RU-1508850027/About/About.xml",
@@ -12443,7 +12501,7 @@
     {
       "path": "README.md",
       "bytes": 2409,
-      "sha256": "4a1a446d695abd56845c78119afa4a6c16b8cf959e54d90d92218eeb75e72bfd"
+      "sha256": "47fd9c7bdb2155c4314d69bec9779ba426ad7f0d235986b56b156515c3fd4a28"
     }
   ]
 }

@@ -51,3 +51,15 @@ RimWorld 1.6 · Version 1.0.0
 [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3829381031) · [Source & guide](../mods/Enhanced-Carrying-Capacity-Save-Load-Fix/README.md) · [Changelog](../mods/Enhanced-Carrying-Capacity-Save-Load-Fix/CHANGELOG.md) · [License](../mods/Enhanced-Carrying-Capacity-Save-Load-Fix/LICENSE) · [Sources & notices](../mods/Enhanced-Carrying-Capacity-Save-Load-Fix/NOTICES.md)
 
 [![Explore other mods on Steam Workshop](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-en.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)
+
+## Pawn Generation Fixes
+
+Clean up rejected pawns and filter incompatible biographies during generation
+
+[![Pawn Generation Fixes](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/pawn-generation-fixes.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3834065834)
+
+RimWorld 1.6 · Version 1.0.0
+
+[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3834065834) · [Source & guide](../mods/Pawn-Generation-Fixes/README.md) · [Changelog](../mods/Pawn-Generation-Fixes/CHANGELOG.md) · [License](../mods/Pawn-Generation-Fixes/LICENSE) · [Sources & notices](../mods/Pawn-Generation-Fixes/NOTICES.md)
+
+[![Explore other mods on Steam Workshop](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-en.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)
