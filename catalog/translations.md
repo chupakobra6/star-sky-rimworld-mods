@@ -562,6 +562,8 @@ RimWorld 1.6 · Версия 1.0.3
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3818475382) · [Исходники и руководство](../mods/RU-2860715703/README.md) · [История изменений](../mods/RU-2860715703/CHANGELOG.md) · [Лицензия](../mods/RU-2860715703/LICENSE) · [Источники и уведомления](../mods/RU-2860715703/NOTICES.md)
 
+[![Другие моды в Мастерской Steam](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-ru.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)
+
 ## Biomes! Caverns — русский перевод
 
 русские подземные биомы, существа, ресурсы и события
