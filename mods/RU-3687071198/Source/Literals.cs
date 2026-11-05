@@ -200,7 +200,7 @@ namespace Igor.RU_3687071198
                 { "The outpost is burning down! The garrison is fighting the fire and on high alert.", "Аванпост полыхает! Гарнизон тушит пожар и приведён в полную боевую готовность." }
             } },
             { "MiningOutpost.MiningOutpostMod:DoSettingsWindowContents", new Dictionary<string,string> {
-                { "Both systems work independently. Ideology spawns its work sites (logging, mining, farming, hunting) and Worksites Expanded will spawns its own sites.", "Обе системы работают независимо. Ideology создаёт лесозаготовительные, горнодобывающие, фермерские и охотничьи лагеря, а Worksites Expanded — свои рабочие участки." },
+                { "Worksites Expanded will spawn work sites in addition to Ideology (logging, mining, farming, hunting).", "Рабочие участки Worksites Expanded появляются наряду с лагерями Ideology, где рубят лес, добывают руду, выращивают культуры или охотятся." },
                 { "Changes to Ideology compatibility take effect after restarting the game.", "Изменения совместимости с Ideology вступят в силу после перезапуска игры." },
                 { "Dig in chance:  {0:P0}", "Шанс занять оборону: {0:P0}" },
                 { "Disable loiter timeout", "Отключить ограничение на бездействие" },
@@ -234,7 +234,7 @@ namespace Igor.RU_3687071198
                 { "The orbital platform is currently under siege.", "Сейчас орбитальная платформа находится в осаде." }
             } },
             { "MiningOutpost.Orbital.CaravanArrivalAction_EnterOrbitalPlatform:get_Label", new Dictionary<string,string> {
-                { "Enter orbital platform", "Войти на орбитальную станцию" }
+                { "Enter orbital platform", "Войти на орбитальную платформу" }
             } },
             { "MiningOutpost.Orbital.CaravanArrivalAction_EnterOrbitalPlatform:get_ReportString", new Dictionary<string,string> {
                 { "Entering orbital platform.", "Вход на орбитальную платформу." }
@@ -245,7 +245,7 @@ namespace Igor.RU_3687071198
                 { "I'm ready to die", "Смерть меня не пугает" }
             } },
             { "MiningOutpost.Orbital.Dialog_OrbitalServices:AtmosphericFor", new Dictionary<string,string> {
-                { "A bar and hub for expatriates somewhere in the bowels of the vast orbital platform. It is the kind of place you ‘go for a drink’, not to actually have a drink. Known for being extremely popular among those who wish to gamble for change, or those who are looking for killers and connected fixers.", "Бар и место встреч тех, кто живёт вдали от родины, где-то в недрах огромной орбитальной платформы. Сюда заходят «выпить», но вовсе не ради выпивки. Заведение особенно популярно среди тех, кто готов сыграть с судьбой, а также тех, кто ищет наёмных убийц или решал с нужными связями." },
+                { "A bar and hub for expatriates somewhere in the bowels of the vast orbital platform. It is the kind of place you ‘go for a drink’, not to actually have a drink. Known for being extremely popular among those who wish to gamble for change, or those who are looking for killers and connected fixers.", "Бар и место встреч тех, кто живёт вдали от родины, где-то в недрах огромной орбитальной платформы. Сюда заходят «выпить», но вовсе не ради выпивки. Заведение особенно популярно среди тех, кто готов сыграть на мелкие ставки, а также тех, кто ищет наёмных убийц или решал с нужными связями." },
                 { "A monitor blinks through expired listings: 'No new jobs today'. Crews are forced to seek out local fixers, take on one-time contracts, or hunt down their own leads.", "На мониторе мигают просроченные объявления: «Новой работы сегодня нет». Экипажам приходится искать местных посредников, браться за разовые контракты или самостоятельно добывать зацепки." },
                 { "A sprawling, chaotic bazaar is carved straight into the platform’s highest-traffic thoroughfares. It is a completely open secret in lawless space where merchants and mercenaries filter through daily, casually browsing stalls packed with drugs, high-end military hardware and stolen ultratech. Some of the vendors are even beginning to put up neon signs.", "Огромный хаотичный базар втиснут прямо в самые оживлённые проходы платформы. В космосе, где нет закона, об этом «тайном» рынке знает каждый. Торговцы и наёмники ежедневно проходят мимо и как ни в чём не бывало разглядывают прилавки с наркотиками, передовой военной техникой и крадеными сверхтехнологиями. Некоторые продавцы уже начинают вывешивать неоновые вывески." },
                 { "Fuel merchants shout prices across crowded terminals while thick transfer hoses snake into docked freighters. Steam and smoke dance around your boots and the floor vibrates faintly.", "Торговцы топливом выкрикивают цены сквозь гул переполненных терминалов, а толстые перекачивающие шланги тянутся к пришвартованным грузовым судам. Вокруг ваших сапог клубятся пар и дым; пол слегка вибрирует." },
@@ -277,7 +277,7 @@ namespace Igor.RU_3687071198
                 { "Poker", "Покер" }
             } },
             { "MiningOutpost.Orbital.Dialog_OrbitalServices:DrawLobby", new Dictionary<string,string> {
-                { "A bar and hub for seeking volunteers, hiring mercenaries, and gambling for change.", "Бар, где можно найти добровольцев, нанять наёмников и сыграть с судьбой." },
+                { "A bar and hub for seeking volunteers, hiring mercenaries, and gambling for change.", "Бар, где можно найти добровольцев, нанять наёмников и сыграть на мелкие ставки." },
                 { "Black market", "Чёрный рынок" },
                 { "Buy contraband.", "Купить контрабанду." },
                 { "Cybernetic doctor", "Киберхирург" },
@@ -291,7 +291,7 @@ namespace Igor.RU_3687071198
                 { "Shuttle hangar", "Ангар челноков" }
             } },
             { "MiningOutpost.Orbital.Dialog_OrbitalServices:DrawRecruitmentHub", new Dictionary<string,string> {
-                { "Gamble for change", "Игра с судьбой" },
+                { "Gamble for change", "Игра на мелкие ставки" },
                 { "See who is up for recruitment.", "Узнать, кто готов присоединиться к вам." },
                 { "Seek volunteers", "Поиск добровольцев" },
                 { "Sit at the card table.", "Сесть за карточный стол." }
@@ -317,10 +317,10 @@ namespace Igor.RU_3687071198
                 { "Recruitment hub", "Вербовочный центр" }
             } },
             { "MiningOutpost.Orbital.Patch_Caravan_GetGizmos_OrbitalRelabel:Postfix", new Dictionary<string,string> {
-                { "Dock at the orbital platform.", "Пристыковаться к орбитальной станции." },
-                { "Enter orbital platform", "Войти на орбитальную станцию" },
+                { "Dock at the orbital platform.", "Пристыковаться к орбитальной платформе." },
+                { "Enter orbital platform", "Войти на орбитальную платформу" },
                 { "Parley", "Переговоры" },
-                { "The orbital platform is currently under siege.", "Сейчас орбитальная станция находится в осаде." }
+                { "The orbital platform is currently under siege.", "Сейчас орбитальная платформа находится в осаде." }
             } },
             { "MiningOutpost.Orbital.Patch_TilesPerDayCalculator_OrbitalShortcut:Prefix", new Dictionary<string,string> {
                 { "Caravan is docked and cannot traverse.", "Караван находится у причала и не может передвигаться." }
@@ -428,7 +428,7 @@ namespace Igor.RU_3687071198
             } },
             { "MiningOutpost.Orbital.Services.BlackjackSim:ReshuffleShoe", new Dictionary<string,string> {
                 { " cards.", "." },
-                { "Shoe shuffled. ", "Башмак перемешан. Количество карт: " }
+                { "Shoe shuffled. ", "Карты в башмаке перемешаны. Количество карт: " }
             } },
             { "MiningOutpost.Orbital.Services.BlackjackSim:Resolve", new Dictionary<string,string> {
                 { "loses ", "проигрывает " },
@@ -549,7 +549,7 @@ namespace Igor.RU_3687071198
                 { "The cybernetic bodyguard crashes to the deck plating. The vault is yours.", "Телохранитель с имплантами с грохотом падает на палубный настил. Хранилище ваше." }
             } },
             { "MiningOutpost.Orbital.Services.CasinoBouncersEncounter+<Intro>d__8:MoveNext", new Dictionary<string,string> {
-                { "Bouncers flip the card table as the pit boss draws an automatic weapon!", "Вышибалы опрокидывают карточный стол, а пит-босс достаёт автоматическое оружие!" },
+                { "Bouncers flip the card table as the pit boss draws an automatic weapon!", "Вышибалы опрокидывают карточный стол, а смотритель зала достаёт автоматическое оружие!" },
                 { "Casino Floor", "Зал казино" }
             } },
             { "MiningOutpost.Orbital.Services.CasinoBouncersEncounter:BuildEnemies", new Dictionary<string,string> {
@@ -1097,7 +1097,7 @@ namespace Igor.RU_3687071198
             } },
             { "MiningOutpost.Orbital.Services.OrbitalGamblingTable:DrawTable", new Dictionary<string,string> {
                 { "Close", "Закрыть" },
-                { "Gamble for change", "Игра с судьбой" },
+                { "Gamble for change", "Игра на мелкие ставки" },
                 { "Hand #", "Раздача №" },
                 { "Log", "Журнал" }
             } },
@@ -1970,7 +1970,7 @@ namespace Igor.RU_3687071198
                 { "{0} is a master at extracting concessions", "{0}: мастерски добивается уступок" },
                 { "{0} is a master of combat.", "{0}: мастерство в бою." },
                 { "{0} is a psychopath.", "{0}: черта «Психопат»." },
-                { "{0} is a sanguophage.", "{0}: ксенотип «Сангвофаг»." },
+                { "{0} is a sanguophage.", "{0}: ксенотип «Гемофаг»." },
                 { "{0} is a social liability", "{0}: мешает переговорам" },
                 { "{0} is a wimp.", "{0}: неженка." },
                 { "{0} is a {1} in the Empire.", "{0}: имперский титул — {1}." },

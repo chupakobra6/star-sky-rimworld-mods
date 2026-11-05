@@ -24,7 +24,7 @@
     <li>discoveryMethod(traderMentioned==true)-&gt;Во время торговли караванщик рассказал, что недавно покупал товары на объекте:</li>
     <li>discoveryMethod(traderMentioned==true)-&gt;Местный торговец рассказал, что недавно заключил сделку на объекте:</li>
     <li>discoveryMethod(traderMentioned==true)-&gt;Проходящий купец упомянул объект:</li>
-    <li>questDescription(isFirstQuest==true)-&gt;[sender_article] [senderColor][sender_label]&lt;/color&gt; связывается с вами [contactMethod].\n\n[introText]\n\nВы можете нападать на рабочие объекты, находя их на карте мира.\n\nЧтобы [reason], вам готовы сообщить расположение объекта типа «[siteType]» неподалёку от [map_definite]. [intelReport][factionDescriptor]\n\n[factionWarning]\n\n[rewardHint]</li>
+    <li>questDescription(isFirstQuest==true)-&gt;[sender_article] [senderColor][sender_label]&lt;/color&gt; связывается с вами [contactMethod].\n\n[introText]\n\nВы можете нападать на рабочие объекты, находя их на карте мира.\n\nЧтобы [reason], вам готовы сообщить расположение объекта типа «[siteType]». Неподалёку находится ориентир: [map_definite]. [intelReport][factionDescriptor]\n\n[factionWarning]\n\n[rewardHint]</li>
     <li>senderColor-&gt;&lt;color=#6495ED&gt;</li>
     <li>senderColor-&gt;&lt;color=#FFA500&gt;</li>
     <li>senderColor-&gt;&lt;color=#FF4444&gt;</li>
@@ -54,7 +54,7 @@
     <li>factionWarning(faction_temporary==true)-&gt;У этой группы нет других владений. Уничтожение объекта уничтожит и всю её фракцию.</li>
     <li>factionWarning(faction_temporary==true)-&gt;У этой группы нет других объектов на этой планете. Уничтожение этого объекта полностью её ликвидирует.</li>
     <li>factionWarning(faction_temporary==true)-&gt;Это последний, непрочный оплот фракции. Если он падёт, вся фракция исчезнет вместе с ним.</li>
-    <li>questDescription(isFirstQuest==false)-&gt;[discoveryMethod] [siteType] неподалёку от [map_definite]. [intelReport][factionDescriptor]\n\n[factionWarning]\n\n[rewardHint]</li>
+    <li>questDescription(isFirstQuest==false)-&gt;[discoveryMethod] [siteType]. Неподалёку находится ориентир: [map_definite]. [intelReport][factionDescriptor]\n\n[factionWarning]\n\n[rewardHint]</li>
     <li>siteType-&gt;охраняемый транспортный комплекс</li>
     <li>siteType-&gt;защищённый склад</li>
     <li>siteType-&gt;тайник с ценным транспортом</li>

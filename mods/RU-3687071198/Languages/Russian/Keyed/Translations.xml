@@ -43,7 +43,7 @@
   <chupakobra6_3687071198_job.boarding-action.node.a-prep-papers.Title>Подделать ордер на досмотр.</chupakobra6_3687071198_job.boarding-action.node.a-prep-papers.Title>
   <chupakobra6_3687071198_job.boarding-action.node.a-prep-torch.Text>{pawn} зажигает дугу резака, а {pawn2} направляет охлаждающую жидкость на запоры наружной двери.</chupakobra6_3687071198_job.boarding-action.node.a-prep-torch.Text>
   <chupakobra6_3687071198_job.boarding-action.node.a-prep-torch.Title>Подготовить резак.</chupakobra6_3687071198_job.boarding-action.node.a-prep-torch.Title>
-  <chupakobra6_3687071198_job.boarding-action.node.a-stealth.Text>{pawn} пересекает порог, не задев датчики движения, а {pawn2} прикрывает дверной проём шлюза.</chupakobra6_3687071198_job.boarding-action.node.a-stealth.Text>
+  <chupakobra6_3687071198_job.boarding-action.node.a-stealth.Text>{pawn} пересекает порог, не вызвав срабатывания датчиков движения, а {pawn2} прикрывает дверной проём шлюза.</chupakobra6_3687071198_job.boarding-action.node.a-stealth.Text>
   <chupakobra6_3687071198_job.boarding-action.node.a-stealth.Title>Проскользнуть через наружный шлюз.</chupakobra6_3687071198_job.boarding-action.node.a-stealth.Title>
   <chupakobra6_3687071198_job.boarding-action.node.a-talk.Text>{pawn} включает интерком на переборке и вводит коды допуска спасательной команды. {pawn2} следит за ответами терминала.</chupakobra6_3687071198_job.boarding-action.node.a-talk.Text>
   <chupakobra6_3687071198_job.boarding-action.node.a-talk.Title>Обмануть автоматический интерком.</chupakobra6_3687071198_job.boarding-action.node.a-talk.Title>
@@ -397,7 +397,7 @@
   <chupakobra6_3687071198_job.dock-shift.node.o-pilfer-clean.Title>Ящик спрятан незаметно</chupakobra6_3687071198_job.dock-shift.node.o-pilfer-clean.Title>
   <chupakobra6_3687071198_job.dock-shift.node.s-crisis.Text>С оглушительным треском лопается натянутый трос! Сорокатонный стальной контейнер бешено раскачивается над погрузочной линией и летит прямо на рабочую площадку!</chupakobra6_3687071198_job.dock-shift.node.s-crisis.Text>
   <chupakobra6_3687071198_job.dock-shift.node.s-crisis.Title>Лопнувший трос</chupakobra6_3687071198_job.dock-shift.node.s-crisis.Title>
-  <chupakobra6_3687071198_job.dock-shift.node.s-pilfer-prep.Text>Нужный ящик стоит на оставленной без присмотра транспортной тележке. Камеры охраны проходят палубу каждые двадцать секунд.</chupakobra6_3687071198_job.dock-shift.node.s-pilfer-prep.Text>
+  <chupakobra6_3687071198_job.dock-shift.node.s-pilfer-prep.Text>Нужный ящик стоит на оставленной без присмотра транспортной тележке. Камеры охраны каждые двадцать секунд осматривают площадку.</chupakobra6_3687071198_job.dock-shift.node.s-pilfer-prep.Text>
   <chupakobra6_3687071198_job.dock-shift.node.s-pilfer-prep.Title>Ослепить камеры</chupakobra6_3687071198_job.dock-shift.node.s-pilfer-prep.Title>
   <chupakobra6_3687071198_job.dock-shift.node.s-pilfer-stash.Text>Ящик уже свободно стоит на палубе, но скоро прозвенит конец смены. {pawn} и {pawn2} должны надёжно спрятать его до проверки.</chupakobra6_3687071198_job.dock-shift.node.s-pilfer-stash.Text>
   <chupakobra6_3687071198_job.dock-shift.node.s-pilfer-stash.Title>Спрятать ящик</chupakobra6_3687071198_job.dock-shift.node.s-pilfer-stash.Title>
@@ -546,7 +546,7 @@
   <chupakobra6_3687071198_job.quiet-decommission.node.m-gun-own.Title>Использовать свою снайперскую винтовку.</chupakobra6_3687071198_job.quiet-decommission.node.m-gun-own.Title>
   <chupakobra6_3687071198_job.quiet-decommission.node.m-gun-steal.Text>{pawn} взламывает защёлку оружейной стойки, а {pawn2} наблюдает за охранным мостиком.</chupakobra6_3687071198_job.quiet-decommission.node.m-gun-steal.Text>
   <chupakobra6_3687071198_job.quiet-decommission.node.m-gun-steal.Title>Украсть винтовку из оружейной.</chupakobra6_3687071198_job.quiet-decommission.node.m-gun-steal.Title>
-  <chupakobra6_3687071198_job.quiet-decommission.node.m-gun.Text>Панорамное окно кабинета выходит в разгерметизированное пространство стыковочного отсека №9. С мостика на противоположной стороне стрелок с высокоскоростной винтовкой может поразить цель прямо сквозь смотровое стекло.</chupakobra6_3687071198_job.quiet-decommission.node.m-gun.Text>
+  <chupakobra6_3687071198_job.quiet-decommission.node.m-gun.Text>Панорамное окно кабинета выходит в разгерметизированное пространство стыковочного отсека №9. С мостика на противоположной стороне стрелок с винтовкой с высокой начальной скоростью пули может поразить цель прямо сквозь смотровое стекло.</chupakobra6_3687071198_job.quiet-decommission.node.m-gun.Text>
   <chupakobra6_3687071198_job.quiet-decommission.node.m-gun.Title>Снайперский выстрел</chupakobra6_3687071198_job.quiet-decommission.node.m-gun.Title>
   <chupakobra6_3687071198_job.quiet-decommission.node.m-loud.Text>{pawn} передёргивает затвор и входит в салон. Рядом, плечом к плечу, идёт {pawn2}. Никаких уловок — только стрельба в упор.</chupakobra6_3687071198_job.quiet-decommission.node.m-loud.Text>
   <chupakobra6_3687071198_job.quiet-decommission.node.m-loud.Title>Просто подойти и застрелить.</chupakobra6_3687071198_job.quiet-decommission.node.m-loud.Title>
@@ -679,7 +679,7 @@
   <chupakobra6_3687071198_job.rat-hunt.node.o-grease-caught.Title>Запах не привлёк</chupakobra6_3687071198_job.rat-hunt.node.o-grease-caught.Title>
   <chupakobra6_3687071198_job.rat-hunt.node.o-grease-ok.Text>Запах пищи выманивает крыс из настенных каналов прямо к ловчим загонам.</chupakobra6_3687071198_job.rat-hunt.node.o-grease-ok.Text>
   <chupakobra6_3687071198_job.rat-hunt.node.o-grease-ok.Title>Запах приманки подействовал</chupakobra6_3687071198_job.rat-hunt.node.o-grease-ok.Title>
-  <chupakobra6_3687071198_job.rat-hunt.node.o-pets.Text>За ржавым шкафом сбились в кучу с десяток загнанных в угол вредителей. Из теней появляется чумазая станционная девочка и умоляет не убивать её «питомцев».</chupakobra6_3687071198_job.rat-hunt.node.o-pets.Text>
+  <chupakobra6_3687071198_job.rat-hunt.node.o-pets.Text>За ржавым шкафом сбилась в кучу дюжина загнанных в угол вредителей. Из теней появляется чумазая станционная девочка и умоляет не убивать её «питомцев».</chupakobra6_3687071198_job.rat-hunt.node.o-pets.Text>
   <chupakobra6_3687071198_job.rat-hunt.node.o-pets.Title>Крысы загнаны в угол</chupakobra6_3687071198_job.rat-hunt.node.o-pets.Title>
   <chupakobra6_3687071198_job.rat-hunt.node.o-scent-ok.Text>Химическая приманка вызывает у крыс приступ обжорства и заманивает в загон десятки особей.</chupakobra6_3687071198_job.rat-hunt.node.o-scent-ok.Text>
   <chupakobra6_3687071198_job.rat-hunt.node.o-scent-ok.Title>Феромонная приманка сработала</chupakobra6_3687071198_job.rat-hunt.node.o-scent-ok.Title>
@@ -840,7 +840,7 @@
   <chupakobra6_3687071198_job.thaw.node.s1.Title>Транспортировочная платформа</chupakobra6_3687071198_job.thaw.node.s1.Title>
   <chupakobra6_3687071198_job.thaw.node.s2-blind.Text>{pawn} пододвигает капсулу по полу, как и было условлено. {pawn2} пересчитывает оплату.</chupakobra6_3687071198_job.thaw.node.s2-blind.Text>
   <chupakobra6_3687071198_job.thaw.node.s2-blind.Title>Передать капсулу по договорённости.</chupakobra6_3687071198_job.thaw.node.s2-blind.Title>
-  <chupakobra6_3687071198_job.thaw.node.s2-know.Text>{pawn} требует у оттаявшего заложника коды защиты, не позволяя покупателю подойти.</chupakobra6_3687071198_job.thaw.node.s2-know.Text>
+  <chupakobra6_3687071198_job.thaw.node.s2-know.Text>{pawn} требует у оттаявшего заложника зашифрованные коды защиты, не позволяя покупателю подойти.</chupakobra6_3687071198_job.thaw.node.s2-know.Text>
   <chupakobra6_3687071198_job.thaw.node.s2-know.Title>Получить рычаг давления от заложника.</chupakobra6_3687071198_job.thaw.node.s2-know.Title>
   <chupakobra6_3687071198_job.thaw.node.s2-shoot.Text>{pawn} вскидывает оружие и стреляет без предупреждения, опрокидывая стол для допросов. {pawn2} прикрывает дверь.</chupakobra6_3687071198_job.thaw.node.s2-shoot.Text>
   <chupakobra6_3687071198_job.thaw.node.s2-shoot.Title>Застрелить покупателя.</chupakobra6_3687071198_job.thaw.node.s2-shoot.Title>
