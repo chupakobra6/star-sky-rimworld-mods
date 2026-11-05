@@ -16,9 +16,9 @@
   <AA_BlackJellyMorpher.label>преобразователь чёрного желе</AA_BlackJellyMorpher.label>
   <AA_BlackJellyWall.description>Непроходимая твёрдая стена из чёрного желе, построенная рабочей кастой генолинии насекомых. Поддерживает крышу. Прочнее обычной стены из желе насекомых, но всё же немного горюча.</AA_BlackJellyWall.description>
   <AA_BlackJellyWall.label>стена из чёрного желе</AA_BlackJellyWall.label>
-  <AA_DarkGlowPodFormation.description>Крупное скопление наростов тёмного света, созданное гигантскими насекомыми. Светится собственным светом и не погибает со временем. Строится на покрове.</AA_DarkGlowPodFormation.description>
+  <AA_DarkGlowPodFormation.description>Крупное скопление наростов тёмного света, созданное гигантскими насекомыми. Излучает тёмный свет и со временем не отмирает. Строится на покрове.</AA_DarkGlowPodFormation.description>
   <AA_DarkGlowPodFormation.label>скопление наростов тёмного света</AA_DarkGlowPodFormation.label>
-  <AA_DarkLargeGlowPod.description>Большой нарост тёмного света, созданный гигантскими насекомыми. Светится собственным светом и не погибает со временем. Строится на покрове.</AA_DarkLargeGlowPod.description>
+  <AA_DarkLargeGlowPod.description>Большой нарост тёмного света, созданный гигантскими насекомыми. Излучает тёмный свет и со временем не отмирает. Строится на покрове.</AA_DarkLargeGlowPod.description>
   <AA_DarkLargeGlowPod.label>большой нарост тёмного света</AA_DarkLargeGlowPod.label>
   <AA_FilthSlimyPuke.label>остатки мерзкой слюны</AA_FilthSlimyPuke.label>
   <AA_Filth_BlackJelly.label>мазок чёрного желе</AA_Filth_BlackJelly.label>
@@ -30,7 +30,7 @@
   <AA_FoamBelcher_Gun.description>Органический пеногасительный нарост, созданный гигантскими насекомыми. Обнаружив огонь, распыляет огнетушащую пену конусом. В отличие от обычных пеногасительных наростов, не погибает со временем, но строится на покрове. Для работы нужно желе насекомых.</AA_FoamBelcher_Gun.description>
   <AA_FoamBelcher_Gun.label>пенный плеватель</AA_FoamBelcher_Gun.label>
   <AA_FoamBelcher_Gun.verbs.0.label>пенный плеватель</AA_FoamBelcher_Gun.verbs.0.label>
-  <AA_FreezePod.description>Биолюминесцентный нарост, созданный гигантскими насекомыми. Долго светится собственным светом, а затем погибает. Кажется, от него исходит пронизывающий холод.</AA_FreezePod.description>
+  <AA_FreezePod.description>Биолюминесцентный нарост, созданный гигантскими насекомыми. Долго светится, а затем отмирает. Кажется, от него исходит пронизывающий холод.</AA_FreezePod.description>
   <AA_FreezePod.label>морозный нарост</AA_FreezePod.label>
   <AA_GreaterBlackHiveBolt.label>усиленный мерзкий плевок</AA_GreaterBlackHiveBolt.label>
   <VFEI2_AA_ArtificialBlackHive.description>Искусственный улей гигантских насекомых. Со временем производит различных насекомых генолинии Чёрного улья, а также некоторое количество чёрного желе насекомых. Требует регулярного обслуживания; чем больше ульев рядом, тем больше обслуживания нужно.</VFEI2_AA_ArtificialBlackHive.description>
@@ -44,12 +44,12 @@
   <VFEI2_BlackEmpress.tools.2.label>голова</VFEI2_BlackEmpress.tools.2.label>
   <VFEI2_BlackInsectoidCocoon.description>Эти коконы из желе защищают чёрных ройников от огня, экстремальных температур и других угроз во время метаморфоза. Спустя некоторое время кокон разрывается, выпуская взрослое насекомое.</VFEI2_BlackInsectoidCocoon.description>
   <VFEI2_BlackInsectoidCocoon.label>кокон чёрного насекомого</VFEI2_BlackInsectoidCocoon.label>
-  <VFEI2_BlackQueen.description>Гигантское генетически изменённое насекомое, производящее новое потомство Чёрного улья. Чёрная матка заботится о насекомых своего улья, не выполняет тяжёлую работу и по возможности избегает боя. Размером со взрослого трумбо, она внушает страх большинству противников. Толстая хитиновая броня защищает её от смерти, а длинные смертоносные клинки за секунды разрывают пласталевую защиту. Хотя на открытой местности матка довольно медлительна, она быстро создаёт новых чёрных ройников, поэтому нельзя позволять ей обосноваться.\n\n&lt;color=#E5E54C&gt;Игровой эффект:&lt;/color&gt; Чёрная матка восстанавливает здоровье.</VFEI2_BlackQueen.description>
+  <VFEI2_BlackQueen.description>Гигантское генетически изменённое насекомое, производящее новое потомство Чёрного улья. Чёрная матка заботится о насекомых своего улья, не выполняет тяжёлую работу и по возможности избегает боя. Размером со взрослого трумбо, она внушает страх большинству противников. Толстая хитиновая броня затрудняет её убийство, а длинные смертоносные клинки за секунды разрывают пласталевую защиту. Хотя на открытой местности матка довольно медлительна, она быстро создаёт новых чёрных роевиков, поэтому нельзя позволять ей обосноваться.\n\n&lt;color=#E5E54C&gt;Игровой эффект:&lt;/color&gt; Чёрная матка восстанавливает здоровье.</VFEI2_BlackQueen.description>
   <VFEI2_BlackQueen.label>матка чёрных насекомых</VFEI2_BlackQueen.label>
   <VFEI2_BlackQueen.tools.0.label>головной коготь</VFEI2_BlackQueen.tools.0.label>
   <VFEI2_BlackQueen.tools.1.label>голова</VFEI2_BlackQueen.tools.1.label>
-  <VFEI2_BlackSwarmling.description>Молодые насекомые Чёрного улья, чёрные ройники, почти безвредны, медлительны и легко погибают. Спустя некоторое время они окукливаются, проходя метаморфоз; из кокона выходит взрослое насекомое Чёрного улья. Невозможно заранее узнать, какое насекомое появится из кокона.</VFEI2_BlackSwarmling.description>
-  <VFEI2_BlackSwarmling.label>чёрные ройники</VFEI2_BlackSwarmling.label>
+  <VFEI2_BlackSwarmling.description>Молодые насекомые Чёрного улья, чёрные роевики, почти безвредны, медлительны и легко погибают. Спустя некоторое время они окукливаются, проходя метаморфоз; из кокона выходит взрослое насекомое Чёрного улья. Невозможно заранее узнать, какое насекомое появится из кокона.</VFEI2_BlackSwarmling.description>
+  <VFEI2_BlackSwarmling.label>чёрные роевики</VFEI2_BlackSwarmling.label>
   <VFEI2_BlackSwarmling.tools.0.label>рот</VFEI2_BlackSwarmling.tools.0.label>
   <VFEI2_PherocoreBlack.comps.CompUsable.useLabel>Увеличить улей ({0_labelShort})</VFEI2_PherocoreBlack.comps.CompUsable.useLabel>
   <VFEI2_PherocoreBlack.description>Микроорган, управляющий феромонами. Необходим для создания некоторых видов ульев насекомых. Фероядра глубоко внедряли в мозг предводителей генолиний, что позволяло древним цивилизациям управлять ульями.\n\nЭто фероядро принадлежит генолинии охотников на механоидов — Чёрному улью.</VFEI2_PherocoreBlack.description>

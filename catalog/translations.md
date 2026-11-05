@@ -340,7 +340,7 @@ RimWorld 1.6 · Версия 1.0.2
 
 [![Alpha Animals — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/alpha-animals-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306758)
 
-RimWorld 1.6 · Версия 1.0.6
+RimWorld 1.6 · Версия 1.0.7
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306758) · [Исходники и руководство](../mods/RU-1541721856/README.md) · [История изменений](../mods/RU-1541721856/CHANGELOG.md) · [Лицензия](../mods/RU-1541721856/LICENSE) · [Источники и уведомления](../mods/RU-1541721856/NOTICES.md)
 

@@ -1,10 +1,8 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
   <AA_AlphaAnimalSpawnMultiplier>Множитель частоты появления Alpha Animals</AA_AlphaAnimalSpawnMultiplier>
-  <AA_AlphaAnimalSpawnMultiplierTooltip>Меняет частоту появления ВСЕХ животных этого мода. Например, при 0,5 они будут появляться вдвое реже стандартного значения 1, а при 2 — вдвое чаще. Влияет только на появление диких животных.</AA_AlphaAnimalSpawnMultiplierTooltip>
-  <AA_AlphaCargoPodCrash>Поблизости упала грузовая капсула. Похоже, внутри находятся экзотические животные в неволе.
-
-Кто знает, возможно, среди обломков найдётся что-нибудь полезное.</AA_AlphaCargoPodCrash>
+  <AA_AlphaAnimalSpawnMultiplierTooltip>Задаёт частоту появления всех животных из мода. При 0,5 они встречаются вдвое реже обычного, при 2 – вдвое чаще. Стандартное значение – 1. Влияет только на появление диких животных.</AA_AlphaAnimalSpawnMultiplierTooltip>
+  <AA_AlphaCargoPodCrash>Поблизости упала грузовая капсула. Похоже, внутри остались пойманные экзотические животные.\n\nВозможно, среди обломков найдётся что-нибудь полезное.</AA_AlphaCargoPodCrash>
   <AA_AnimalDoingWeirdJob>Животное занято работой.</AA_AnimalDoingWeirdJob>
   <AA_AntiInsectoidShockTroop>Штурмовик против инсектоидов</AA_AntiInsectoidShockTroop>
   <AA_AntiInsectoidShockTroopDesc>Штурмовики отличаются высокой скоростью и особыми способностями, полезными в ближнем бою. Прочность и запас здоровья могут быть невелики, но при правильном применении эффект бывает сокрушительным.
