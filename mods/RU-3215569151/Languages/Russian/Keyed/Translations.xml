@@ -43,7 +43,7 @@
   <VESWW.Modifiers>Исключить модификаторы волн:</VESWW.Modifiers>
   <VESWW.MoreRewardChance>Шанс получить четвёртый вариант награды при досрочном вызове волны сейчас: {0}</VESWW.MoreRewardChance>
   <VESWW.MysteryMod>Скрытые модификаторы:</VESWW.MysteryMod>
-  <VESWW.MysteryModTip>Если включить настройку, модификатор всегда будет скрыт. О его применении вы узнаете, но какой именно модификатор действует — останется тайной.</VESWW.MysteryModTip>
+  <VESWW.MysteryModTip>Если включить настройку, модификатор всегда будет скрыт. Вы узнаете о его применении, но не о том, какой именно модификатор действует.</VESWW.MysteryModTip>
   <VESWW.Neutral>нейтральная</VESWW.Neutral>
   <VESWW.Normal>Обычная</VESWW.Normal>
   <VESWW.NormalWave>Обычная волна</VESWW.NormalWave>
@@ -102,5 +102,5 @@
   <VESWW.Weaken>Ослабление следующей волны: {0}</VESWW.Weaken>
   <VESWW.WeightMultiplier>Множитель частоты рейдов</VESWW.WeightMultiplier>
   <VESWW.WeightMultiplierTip>Множитель от 0 до 10, влияющий на вероятность выбора этой фракции для рейда.</VESWW.WeightMultiplierTip>
-  <VSEWW_Removed>Модификатор недоступен: для него нужен предмет из удалённого мода.</VSEWW_Removed>
+  <VSEWW_Removed>Модификатор недоступен: это предмет из удалённого мода.</VSEWW_Removed>
 </LanguageData>

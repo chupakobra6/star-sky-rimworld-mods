@@ -52,7 +52,7 @@
   <VFEPD_AncientDoubleBed.label>ржавая двуспальная кровать</VFEPD_AncientDoubleBed.label>
   <VFEPD_AncientDrillPlatform.description>Устройство для глубокого бурения земли. Все ценные детали давно растащили.</VFEPD_AncientDrillPlatform.description>
   <VFEPD_AncientDrillPlatform.label>древняя буровая установка</VFEPD_AncientDrillPlatform.label>
-  <VFEPD_AncientEmergencyLight_Red.description>Древний светильник с долговечной батареей. Не работает.</VFEPD_AncientEmergencyLight_Red.description>
+  <VFEPD_AncientEmergencyLight_Red.description>Древний светильник с долговечной батареей. Сейчас не горит.</VFEPD_AncientEmergencyLight_Red.description>
   <VFEPD_AncientEmergencyLight_Red.label>древний аварийный светильник</VFEPD_AncientEmergencyLight_Red.label>
   <VFEPD_AncientExcavator.description>Остатки горной машины. Всё ценное давно растащили.</VFEPD_AncientExcavator.description>
   <VFEPD_AncientExcavator.label>древний экскаватор</VFEPD_AncientExcavator.label>
@@ -217,7 +217,7 @@
   <VFEPD_MalfunctioningTransportPod.description>Грузовая капсула со сломанным механизмом открывания. Всё ещё закрыта и пуста.</VFEPD_MalfunctioningTransportPod.description>
   <VFEPD_MalfunctioningTransportPod.label>неисправная транспортная капсула</VFEPD_MalfunctioningTransportPod.label>
   <VFEPD_MechPylon.description>Узел распределённой вычислительной сети механоидов.</VFEPD_MechPylon.description>
-  <VFEPD_MechPylon.label>мех-маятник</VFEPD_MechPylon.label>
+  <VFEPD_MechPylon.label>пилон механоидов</VFEPD_MechPylon.label>
   <VFEPD_MechRelay.description>Узел, координирующий сигналы в планетарной сети связи механоидов. Этот совершенно не работает.</VFEPD_MechRelay.description>
   <VFEPD_MechRelay.label>ретранслятор механоидов</VFEPD_MechRelay.label>
   <VFEPD_MechRelay_Crashed.description>Узел, координирующий сигналы в планетарной сети связи механоидов. Разрушен.</VFEPD_MechRelay_Crashed.description>

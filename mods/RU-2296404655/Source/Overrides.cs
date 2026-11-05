@@ -37,7 +37,7 @@ namespace Igor.RU_2296404655
                     postfix:new HarmonyMethod(typeof(ReviewedOverrides),nameof(FilterDirectories)));
                 return;
             }
-            var directory = Path.Combine(content.RootDir,"Languages","Russian");
+            foreach(var directory in content.foldersToLoadDescendingOrder.Select(root => Path.Combine(root,"Languages","Russian")).Where(Directory.Exists))
             foreach(var file in Directory.GetFiles(directory,"*.xml",SearchOption.AllDirectories))
             {
                 var relative = file.Substring(directory.Length+1).Replace('\\','/').Split('/');

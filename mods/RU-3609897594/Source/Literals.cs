@@ -12,51 +12,51 @@ namespace Igor.RU_3609897594
     {
         private static readonly Dictionary<string,Dictionary<string,string>> Methods =
             new Dictionary<string,Dictionary<string,string>> {
+            { "MoreWidgets.Patch_ShowCoords:AddSetting", new Dictionary<string,string> {
+                { "View", "Отображение" }
+            } },
+            { "MoreWidgets.Patch_ShowCoords:InitActions_Post", new Dictionary<string,string> {
+                { "Map coords at pointer", "Координаты карты у курсора" },
+                { "Map coords in UI", "Координаты карты в интерфейсе" }
+            } },
             { "NiceInventoryTab.ApparelSlotUtility:OpenFloatMenu", new Dictionary<string,string> {
                 { "DEV create", "ОТЛ: создать" }
             } },
             { "NiceInventoryTab.Dialog_OptimizeEquipment:DoWindowContents", new Dictionary<string,string> {
-                { "EquipmentMaster", "chupakobra6_3609897594_EquipmentMaster" },
-                { " WORK IN PROGRESS", " — В РАЗРАБОТКЕ" }
-            } },
-            { "NiceInventoryTab.Dialog_OptimizeEquipment:StepTwo", new Dictionary<string,string> {
-                { "Back", "Назад" },
-                { "Wear", "Надеть" }
+                { " WORK IN PROGRESS", " — В РАЗРАБОТКЕ" },
+                { "EquipmentMaster", "chupakobra6_3609897594_EquipmentMaster" }
             } },
             { "NiceInventoryTab.Dialog_OptimizeEquipment:DrawFinalApparelList", new Dictionary<string,string> {
                 { "Final apparel", "Подобранная одежда" }
             } },
-            { "NiceInventoryTab.Dialog_OptimizeEquipment:StepOne", new Dictionary<string,string> {
-                { "Back", "Назад" },
-                { "Next", "Далее" },
-                { "Can take off apparel", "Разрешить снимать надетую одежду" }
+            { "NiceInventoryTab.Dialog_OptimizeEquipment:DrawSlot", new Dictionary<string,string> {
+                { "Apparel for layer:", "Одежда для слоя:" }
+            } },
+            { "NiceInventoryTab.Dialog_OptimizeEquipment:DrawSlotsList", new Dictionary<string,string> {
+                { "Apparel layers", "Слои одежды" }
             } },
             { "NiceInventoryTab.Dialog_OptimizeEquipment:DrawStatList", new Dictionary<string,string> {
                 { "Stat to maximize", "Улучшаемые показатели" },
                 { "Stats", "Показатели" }
             } },
-            { "NiceInventoryTab.Dialog_OptimizeEquipment:DrawSlotsList", new Dictionary<string,string> {
-                { "Apparel layers", "Слои одежды" }
+            { "NiceInventoryTab.Dialog_OptimizeEquipment:StepOne", new Dictionary<string,string> {
+                { "Back", "Назад" },
+                { "Can take off apparel", "Разрешить снимать надетую одежду" },
+                { "Next", "Далее" }
             } },
-            { "NiceInventoryTab.Dialog_OptimizeEquipment:DrawSlot", new Dictionary<string,string> {
-                { "Apparel for layer:", "Одежда для слоя:" }
+            { "NiceInventoryTab.Dialog_OptimizeEquipment:StepTwo", new Dictionary<string,string> {
+                { "Back", "Назад" },
+                { "Wear", "Надеть" }
             } },
             { "NiceInventoryTab.EquippedItem:Draw", new Dictionary<string,string> {
-                { " layers: ", " слои: " },
-                { "  |  groups: ", "  |  части тела: " }
-            } },
-            { "NiceInventoryTab.Settings:DrawQualityColorsSettings", new Dictionary<string,string> {
-                { "Glow ", "Свечение: " }
+                { "  |  groups: ", "  |  части тела: " },
+                { " layers: ", " слои: " }
             } },
             { "NiceInventoryTab.NiceInventoryTabMod:SettingsCategory", new Dictionary<string,string> {
                 { "Nice Inventory Tab", "Nice Inventory Tab — снаряжение" }
             } },
-            { "MoreWidgets.Patch_ShowCoords:AddSetting", new Dictionary<string,string> {
-                { "View", "Отображение" }
-            } },
-            { "MoreWidgets.Patch_ShowCoords:InitActions_Post", new Dictionary<string,string> {
-                { "Map coords in UI", "Координаты карты в интерфейсе" },
-                { "Map coords at pointer", "Координаты карты у курсора" }
+            { "NiceInventoryTab.Settings:DrawQualityColorsSettings", new Dictionary<string,string> {
+                { "Glow ", "Свечение: " }
             } }
             };
         private static readonly Dictionary<string,string[]> Parameters = new Dictionary<string,string[]> {
@@ -67,9 +67,20 @@ namespace Igor.RU_3609897594
         public static void Apply()
         {
             var harmony = new Harmony("igor.ru.3609897594.literals");
-            foreach (var target in Methods.Keys)
+            foreach (var target in Methods.Keys.ToArray())
+            {
+                if (!IsApplicable(target)) { Methods.Remove(target); continue; }
                 harmony.Patch(ResolveTarget(target),
                     transpiler: new HarmonyMethod(typeof(LiteralTranslations), nameof(Transpile)));
+            }
+        }
+        public static bool IsApplicable(string target)
+        {
+            switch (target)
+            {
+
+                default: return true;
+            }
         }
         public static MethodBase ResolveTarget(string target)
         {

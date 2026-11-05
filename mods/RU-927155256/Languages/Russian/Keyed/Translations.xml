@@ -193,7 +193,7 @@
   <WeaponSwitchAutolockOff>Выкл.</WeaponSwitchAutolockOff>
   <DrawSidearm_gizmoTitle>Запасное оружие</DrawSidearm_gizmoTitle>
   <SidearmPreference_Ranged>Использовать оружие дальнего боя.</SidearmPreference_Ranged>
-  <SidearmPreference_Skill>Выбирать оружие по навыкам и интересам.</SidearmPreference_Skill>
+  <SidearmPreference_Skill>Выбирать оружие по навыкам или интересам.</SidearmPreference_Skill>
   <SidearmPreference_Melee>Использовать оружие ближнего боя.</SidearmPreference_Melee>
   <DrawSidearm_gizmoTooltipRanged>ЛКМ — назначить основным стрелковым оружием: {0}.
 ПКМ — бросить: {0}.</DrawSidearm_gizmoTooltipRanged>
@@ -238,5 +238,5 @@
   <SidearmsNeolithicExtension_title>Запасное оружие неолитического уровня</SidearmsNeolithicExtension_title>
   <chupakobra6_927155256_GizmoTooltip>Используйте значки оружия, чтобы выбрать его, назначить принудительное использование или бросить.</chupakobra6_927155256_GizmoTooltip>
   <chupakobra6_927155256_Offhand>ПКМ — убрать оружие из второй руки.</chupakobra6_927155256_Offhand>
-  <chupakobra6_927155256_OffhandDrafted>ПКМ — убрать оружие из второй руки.</chupakobra6_927155256_OffhandDrafted>
+  <chupakobra6_927155256_OffhandDrafted>ПКМ — убрать оружие из второй руки при мобилизации.</chupakobra6_927155256_OffhandDrafted>
 </LanguageData>

@@ -1,6 +1,6 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <VEE_AnimaPearls.description>Гладкая блестящая жемчужина, образовавшаяся в цветке анимы. Тихо гудит от психического резонанса. Жемчужины анимы можно употреблять, чтобы на время повысить психическую чувствительность.</VEE_AnimaPearls.description>
+  <VEE_AnimaPearls.description>Гладкая блестящая жемчужина, образовавшаяся в цветке души. Тихо гудит от психического резонанса. Жемчужины души можно употреблять, чтобы на время повысить психочувствительность.</VEE_AnimaPearls.description>
   <VEE_AnimaPearls.label>жемчужина души</VEE_AnimaPearls.label>
   <VEE_ButtercupFlower.description>Красивый дикорастущий цветок.</VEE_ButtercupFlower.description>
   <VEE_ButtercupFlower.label>лютик</VEE_ButtercupFlower.label>
@@ -10,7 +10,7 @@
   <VEE_Cenote_Small.label>небольшой сенот</VEE_Cenote_Small.label>
   <VEE_Coral.description>Яркая колония крошечных морских организмов с известковым скелетом. Образует сложные рифы, кишащие жизнью.</VEE_Coral.description>
   <VEE_Coral.label>коралл</VEE_Coral.label>
-  <VEE_DayBoomshroom.description>Эти грибы вырабатывают летучие вещества для защиты. Их можно собирать ради химтоплива, но делать это нужно крайне осторожно: при разрушении грибы могут взорваться.\n\nИсследователи миров-утопий использовали генетический материал взрывогрибов для создания ряда животных, вырабатывающих химтопливо.</VEE_DayBoomshroom.description>
+  <VEE_DayBoomshroom.description>Эти грибы вырабатывают летучие вещества для защиты. Их можно собирать ради химтоплива, но делать это нужно крайне осторожно: при разрушении грибы могут взорваться.\n\nИсследователи миров-утопий использовали генетический материал бум-грибов для создания ряда животных, вырабатывающих химтопливо.</VEE_DayBoomshroom.description>
   <VEE_DayBoomshroom.label>светостойкий бум-гриб</VEE_DayBoomshroom.label>
   <VEE_DayPsilocap.description>Гриб, выделяющий галлюциногенные споры. Достаточно стоять рядом, чтобы появились лёгкие галлюцинации. Псилошляпки можно собирать и есть: яркие чувственные переживания улучшают настроение.</VEE_DayPsilocap.description>
   <VEE_DayPsilocap.label>светостойкая псилошляпка</VEE_DayPsilocap.label>
@@ -56,7 +56,7 @@
   <VEE_Plant_AnimaBrambles.label>колючка души</VEE_Plant_AnimaBrambles.label>
   <VEE_Plant_AnimaBush.description>Низкий кустарник. Умеет говорить, но только когда вас нет рядом.</VEE_Plant_AnimaBush.description>
   <VEE_Plant_AnimaBush.label>куст души</VEE_Plant_AnimaBush.label>
-  <VEE_Plant_AnimaHeartBlossom.description>Нежный, мягко светящийся цветок, растущий возле деревьев анимы. Слабо резонирует с психической энергией. При сборе даёт жемчужины анимы.</VEE_Plant_AnimaHeartBlossom.description>
+  <VEE_Plant_AnimaHeartBlossom.description>Нежный, мягко светящийся цветок, растущий возле древ души. Слабо резонирует с психической энергией. При сборе даёт жемчужины души.</VEE_Plant_AnimaHeartBlossom.description>
   <VEE_Plant_AnimaHeartBlossom.label>цветок души</VEE_Plant_AnimaHeartBlossom.label>
   <VEE_Plant_AnimaRoot.description>Бледные извилистые корни с мягким внутренним свечением, извлечённые из земли, затронутой анимой. При сборе дают древесину.</VEE_Plant_AnimaRoot.description>
   <VEE_Plant_AnimaRoot.label>корень древа души</VEE_Plant_AnimaRoot.label>
@@ -126,7 +126,7 @@
   <VEE_SmokeMote.label>частица</VEE_SmokeMote.label>
   <VEE_SmokeVent.description>Тлеющая трещина, время от времени выдыхающая густой едкий дым. Он снижает видимость и душит лёгкие.</VEE_SmokeVent.description>
   <VEE_SmokeVent.label>дымовой гейзер</VEE_SmokeVent.label>
-  <VEE_SmoothedJadeite.description>Силикатный минерал семейства пироксенов, один из двух камней, известных как jade.</VEE_SmoothedJadeite.description>
+  <VEE_SmoothedJadeite.description>Силикатный минерал семейства пироксенов, один из двух камней, объединяемых названием «жад».</VEE_SmoothedJadeite.description>
   <VEE_SmoothedJadeite.label>полированный жадеит</VEE_SmoothedJadeite.label>
   <VEE_SulfurVent.description>Природная трещина в земле, через которую выходят сернистые газы. Газ из таких трещин пахнет тухлыми яйцами.</VEE_SulfurVent.description>
   <VEE_SulfurVent.label>серный разлом</VEE_SulfurVent.label>

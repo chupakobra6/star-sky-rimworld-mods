@@ -76,7 +76,7 @@
   <VSEWW_LeatherDrop.label>Кожа</VSEWW_LeatherDrop.label>
   <VSEWW_LegendaryFuelDrop.description>Грузовые капсулы доставят 2000 химтоплива, 2000 древесины и 800 урана.</VSEWW_LegendaryFuelDrop.description>
   <VSEWW_LegendaryFuelDrop.label>Топливо</VSEWW_LegendaryFuelDrop.label>
-  <VSEWW_LegendaryGearDrop.description>Грузовые капсулы доставят 5 случайных видов оружия и 5 случайных предметов брони легендарного качества.</VSEWW_LegendaryGearDrop.description>
+  <VSEWW_LegendaryGearDrop.description>Грузовые капсулы доставят 5 случайных образцов оружия и 5 случайных предметов брони легендарного качества.</VSEWW_LegendaryGearDrop.description>
   <VSEWW_LegendaryGearDrop.label>Легендарное снаряжение</VSEWW_LegendaryGearDrop.label>
   <VSEWW_LegendaryResourceDrop.description>Грузовые капсулы доставят 3000 древесины, 3000 стали, 100 компонентов, 50 продвинутых компонентов и 500 пластали.</VSEWW_LegendaryResourceDrop.description>
   <VSEWW_LegendaryResourceDrop.label>Ресурсы</VSEWW_LegendaryResourceDrop.label>
@@ -114,7 +114,7 @@
   <VSEWW_NormalResourceDrop.label>Ресурсы</VSEWW_NormalResourceDrop.label>
   <VSEWW_NormalTextileDrop.description>Грузовая капсула доставит 400 единиц случайной кожи или ткани.</VSEWW_NormalTextileDrop.description>
   <VSEWW_NormalTextileDrop.label>Текстиль</VSEWW_NormalTextileDrop.label>
-  <VSEWW_NormalWeaponsDrop.description>Грузовые капсулы доставят 3 случайных вида оружия обычного качества.</VSEWW_NormalWeaponsDrop.description>
+  <VSEWW_NormalWeaponsDrop.description>Грузовые капсулы доставят 3 случайных образца оружия обычного качества.</VSEWW_NormalWeaponsDrop.description>
   <VSEWW_NormalWeaponsDrop.label>Обычное оружие</VSEWW_NormalWeaponsDrop.label>
   <VSEWW_OrbitalTargeterBombardmentDrop.description>Вы получите целеуказатель орбитальной бомбардировки.</VSEWW_OrbitalTargeterBombardmentDrop.description>
   <VSEWW_OrbitalTargeterBombardmentDrop.label>Целеуказатель орбитальной бомбардировки</VSEWW_OrbitalTargeterBombardmentDrop.label>
@@ -132,7 +132,7 @@
   <VSEWW_PoorFuelDrop.label>Топливо</VSEWW_PoorFuelDrop.label>
   <VSEWW_PoorPawnJoins.description>К колонии присоединится поселенец с боевой стоимостью не более 50 очков.</VSEWW_PoorPawnJoins.description>
   <VSEWW_PoorPawnJoins.label>Новый поселенец</VSEWW_PoorPawnJoins.label>
-  <VSEWW_PoorWeaponsDrop.description>Грузовые капсулы доставят 3 случайных вида оружия качеством не выше плохого.</VSEWW_PoorWeaponsDrop.description>
+  <VSEWW_PoorWeaponsDrop.description>Грузовые капсулы доставят 3 случайных образца оружия качеством не выше плохого.</VSEWW_PoorWeaponsDrop.description>
   <VSEWW_PoorWeaponsDrop.label>Плохое оружие</VSEWW_PoorWeaponsDrop.label>
   <VSEWW_PsychicSoothe.description>Произойдёт умиротворение.</VSEWW_PsychicSoothe.description>
   <VSEWW_PsychicSoothe.label>Умиротворение</VSEWW_PsychicSoothe.label>

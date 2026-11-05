@@ -19,8 +19,8 @@ namespace Igor.RU_3033901359
                 { "uneditable value type", "значение этого типа нельзя редактировать" }
             } },
             { "AdaptiveStorage.TreeNode_Editor:get_ExtraInfoText", new Dictionary<string,string> {
-                { "elements", "эл." },
-                { "element", "эл." }
+                { "element", "эл." },
+                { "elements", "эл." }
             } }
             };
         private static readonly Dictionary<string,string[]> Parameters = new Dictionary<string,string[]> {
@@ -29,9 +29,20 @@ namespace Igor.RU_3033901359
         public LiteralTranslations(ModContentPack content) : base(content)
         {
             var harmony = new Harmony("igor.ru.3033901359.literals");
-            foreach (var target in Methods.Keys)
+            foreach (var target in Methods.Keys.ToArray())
+            {
+                if (!IsApplicable(target)) { Methods.Remove(target); continue; }
                 harmony.Patch(ResolveTarget(target),
                     transpiler: new HarmonyMethod(typeof(LiteralTranslations), nameof(Transpile)));
+            }
+        }
+        public static bool IsApplicable(string target)
+        {
+            switch (target)
+            {
+
+                default: return true;
+            }
         }
         public static MethodBase ResolveTarget(string target)
         {

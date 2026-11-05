@@ -21,10 +21,10 @@
   </VEE_NamerLandmark_AlluvialFan.rulePack.rulesStrings>
   <VEE_NamerLandmark_AnimaCoast.rulePack.rulesStrings>
     <li>r_name(p=0.2)-&gt;[terrain_word] имени [NamePerson]</li>
-    <li>terrain_word(p=3)-&gt;побережье анимы</li>
-    <li>terrain_word-&gt;берег анимы</li>
+    <li>terrain_word(p=3)-&gt;побережье древ души</li>
+    <li>terrain_word-&gt;берег древ души</li>
     <li>terrain_word-&gt;берег, отмеченный духами</li>
-    <li>terrain_word-&gt;берег анима-леса</li>
+    <li>terrain_word-&gt;берег леса древ души</li>
     <li>terrain_word-&gt;светящаяся прибрежная роща</li>
   </VEE_NamerLandmark_AnimaCoast.rulePack.rulesStrings>
   <VEE_NamerLandmark_AnimaForest.rulePack.rulesStrings>
@@ -304,7 +304,7 @@
     <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
     <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
     <li>terrain_word-&gt;болото</li>
-    <li>terrain_word-&gt;ветреное болото</li>
+    <li>terrain_word-&gt;открытая вересковая пустошь</li>
     <li>terrain_word-&gt;ветреные топи</li>
     <li>terrain_word-&gt;вересковая равнина</li>
     <li>terrain_word-&gt;торфяное плоскогорье</li>
@@ -349,7 +349,7 @@
     <li>terrain_word-&gt;красная пустыня</li>
     <li>terrain_word-&gt;алая пустыня</li>
     <li>terrain_word-&gt;красные пески</li>
-    <li>terrain_word-&gt;багровые пески</li>
+    <li>terrain_word-&gt;богатая железом пустыня</li>
   </VEE_NamerLandmark_RedSandDesert.rulePack.rulesStrings>
   <VEE_NamerLandmark_RelictDelta.rulePack.rulesStrings>
     <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
@@ -395,7 +395,7 @@
     <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
     <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
     <li>terrain_word-&gt;соляная равнина</li>
-    <li>terrain_word-&gt;белый пустырь</li>
+    <li>terrain_word-&gt;высохший океан</li>
     <li>terrain_word-&gt;соляной пустырь</li>
     <li>terrain_word-&gt;солёное поле</li>
     <li>terrain_word-&gt;белая равнина</li>
@@ -415,7 +415,7 @@
     <li>terrain_word-&gt;медленный ручей</li>
     <li>terrain_word-&gt;застойное русло</li>
     <li>terrain_word-&gt;стоячий проток</li>
-    <li>terrain_word-&gt;застойное русло</li>
+    <li>terrain_word-&gt;заиленный ручей</li>
   </VEE_NamerLandmark_StagnantRivulet.rulePack.rulesStrings>
   <VEE_NamerLandmark_StoneForest.rulePack.rulesStrings>
     <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>

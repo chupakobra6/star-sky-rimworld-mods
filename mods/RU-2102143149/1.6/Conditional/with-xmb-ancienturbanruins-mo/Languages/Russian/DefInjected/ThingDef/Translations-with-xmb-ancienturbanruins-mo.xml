@@ -58,8 +58,8 @@
   <VFEPD_AM_BDAShelfB.label>повреждённые большие стеллажи</VFEPD_AM_BDAShelfB.label>
   <VFEPD_AM_BTR82A.description>Повреждённая парящая боевая машина пехоты.\n\nНе работает: все внутренние механизмы извлечены.</VFEPD_AM_BTR82A.description>
   <VFEPD_AM_BTR82A.label>древняя парящая БМП</VFEPD_AM_BTR82A.label>
-  <VFEPD_AM_BigCase.description>Большой ящик с военным снаряжением. Возможно, внутри что-то есть. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_BigCase.description>
-  <VFEPD_AM_BigCase.label>большой ящик с военным снаряжением</VFEPD_AM_BigCase.label>
+  <VFEPD_AM_BigCase.description>Большой ящик для военного снаряжения. Возможно, внутри что-то есть. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_BigCase.description>
+  <VFEPD_AM_BigCase.label>большой ящик для военного снаряжения</VFEPD_AM_BigCase.label>
   <VFEPD_AM_BigCase_Open_Decoration.description>Открытый ящик, внутри которого ничего нет. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_BigCase_Open_Decoration.description>
   <VFEPD_AM_BigCase_Open_Decoration.label>большой ящик</VFEPD_AM_BigCase_Open_Decoration.label>
   <VFEPD_AM_Bishop.description>Напольная разметка.</VFEPD_AM_Bishop.description>
@@ -116,7 +116,7 @@
   <VFEPD_AM_DK.label>DK</VFEPD_AM_DK.label>
   <VFEPD_AM_DamagedEmptyShelves.description>Ветхие стеллажи. Не работают: все внутренние механизмы извлечены.</VFEPD_AM_DamagedEmptyShelves.description>
   <VFEPD_AM_DamagedEmptyShelves.label>обрушившиеся стеллажи</VFEPD_AM_DamagedEmptyShelves.label>
-  <VFEPD_AM_DiningChair.description>Удобный и красивый стул. Подходит для столов, рабочих мест и других помещений. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_DiningChair.description>
+  <VFEPD_AM_DiningChair.description>Удобный и красивый стул. Его можно поставить у стола, рабочего места или в другом месте. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_DiningChair.description>
   <VFEPD_AM_DiningChair.label>обеденный стул</VFEPD_AM_DiningChair.label>
   <VFEPD_AM_DoubleDeckRacks.description>У большого стеллажа отсутствует верхняя полка. На оставшихся полках ещё стоят коробки. Не работает: все внутренние механизмы извлечены.</VFEPD_AM_DoubleDeckRacks.description>
   <VFEPD_AM_DoubleDeckRacks.label>большие стеллажи</VFEPD_AM_DoubleDeckRacks.label>

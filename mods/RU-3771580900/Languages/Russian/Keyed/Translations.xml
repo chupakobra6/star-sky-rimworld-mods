@@ -3,8 +3,8 @@
   <DawnNewDay.Hint_Format_Addition>Сложение значений или переменных [например, {DAY_SETTLE + OFFSET_HERE}]</DawnNewDay.Hint_Format_Addition>
   <DawnNewDay.Hint_Format_BIOME>Биом [например, тундра]</DawnNewDay.Hint_Format_BIOME>
   <DawnNewDay.Hint_Format_CONDITION>Состояние окружения [например, солнечная вспышка, токсичные осадки]</DawnNewDay.Hint_Format_CONDITION>
-  <DawnNewDay.Hint_Format_DAY_QUADRUM>День квадрума (от 1 до 15)</DawnNewDay.Hint_Format_DAY_QUADRUM>
-  <DawnNewDay.Hint_Format_DAY_QUADRUM_ORDINAL>Порядковый номер дня квадрума (от 1 до 15) в формате языка игры [по-русски: 3, 12]</DawnNewDay.Hint_Format_DAY_QUADRUM_ORDINAL>
+  <DawnNewDay.Hint_Format_DAY_QUADRUM>День квартала (от 1 до 15)</DawnNewDay.Hint_Format_DAY_QUADRUM>
+  <DawnNewDay.Hint_Format_DAY_QUADRUM_ORDINAL>Порядковый номер дня квартала (от 1 до 15) в формате языка игры [по-русски: 3, 12]</DawnNewDay.Hint_Format_DAY_QUADRUM_ORDINAL>
   <DawnNewDay.Hint_Format_DAY_SEASON>День текущего времени года</DawnNewDay.Hint_Format_DAY_SEASON>
   <DawnNewDay.Hint_Format_DAY_SETTLE>День со времени основания поселения</DawnNewDay.Hint_Format_DAY_SETTLE>
   <DawnNewDay.Hint_Format_DAY_YEAR>День года (от 1 до 60; при отсчёте с нуля — от 0 до 59)</DawnNewDay.Hint_Format_DAY_YEAR>
@@ -17,7 +17,7 @@
   <DawnNewDay.Hint_Format_HOUR_D2>Час двумя цифрами [например, 06, 12]</DawnNewDay.Hint_Format_HOUR_D2>
   <DawnNewDay.Hint_Format_Multiplication>Умножение значений или переменных [например, {2 * ELEVATION}]</DawnNewDay.Hint_Format_Multiplication>
   <DawnNewDay.Hint_Format_POLLUTION>Процент загрязнения [например, 69,1%]</DawnNewDay.Hint_Format_POLLUTION>
-  <DawnNewDay.Hint_Format_QUADRUM>Квадрум [например, мартомай]</DawnNewDay.Hint_Format_QUADRUM>
+  <DawnNewDay.Hint_Format_QUADRUM>Квартал [например, мартомай]</DawnNewDay.Hint_Format_QUADRUM>
   <DawnNewDay.Hint_Format_SEASON>Время года [например, весна]</DawnNewDay.Hint_Format_SEASON>
   <DawnNewDay.Hint_Format_SETTLEMENT>Название поселения [например, Троя, Рим]</DawnNewDay.Hint_Format_SETTLEMENT>
   <DawnNewDay.Hint_Format_Subtraction>Вычитание значений или переменных [например, {YEAR - OFFSET_HERE}]</DawnNewDay.Hint_Format_Subtraction>

@@ -6,7 +6,7 @@
   <VFEPD_ActivatorProx.label>активатор приближения</VFEPD_ActivatorProx.label>
   <VFEPD_ClimateAdjuster.description>Устройство миров-утопий для управления климатом. Воздействуя на атмосферу химическими веществами и экзотическими полями, оно меняет температуру в этом регионе мира. Заглянув внутрь, вы обнаружите, что это картонная декорация без каких-либо нужных механизмов.</VFEPD_ClimateAdjuster.description>
   <VFEPD_ClimateAdjuster.label>регулятор климата</VFEPD_ClimateAdjuster.label>
-  <VFEPD_Defoliator.description>Устройство, уничтожающее растения поблизости, не затрагивая животных, и делающее местность непригодной для жизни. Безвозвратно вышло из строя.</VFEPD_Defoliator.description>
+  <VFEPD_Defoliator.description>Заградительное устройство уничтожает растения поблизости и не вредит животным. Безвозвратно вышло из строя.</VFEPD_Defoliator.description>
   <VFEPD_Defoliator.label>неактивный дефолиатор</VFEPD_Defoliator.label>
   <VFEPD_DrapeProp.description>Декоративная драпировка. Не удовлетворяет требованиям знати, поскольку служит только украшением.</VFEPD_DrapeProp.description>
   <VFEPD_DrapeProp.label>декоративная драпировка</VFEPD_DrapeProp.label>
@@ -23,7 +23,7 @@
   <VFEPD_MechCapsule.description>Капсула для хранения и высадки механоидов. Наглухо закрыта и не работает.</VFEPD_MechCapsule.description>
   <VFEPD_MechCapsule.label>капсула с механоидами</VFEPD_MechCapsule.label>
   <VFEPD_MechCapsuleOpen.description>Капсула для хранения и высадки механоидов. Открыта и пуста.</VFEPD_MechCapsuleOpen.description>
-  <VFEPD_MechCapsuleOpen.label>капсула с механоидами, открытая</VFEPD_MechCapsuleOpen.label>
+  <VFEPD_MechCapsuleOpen.label>открытая капсула механоидов</VFEPD_MechCapsuleOpen.label>
   <VFEPD_MechDropBeacon.description>Маяк высадки механоидного подкрепления. При активации ничего не делает, потому что он ненастоящий. Воображаемые механоиды вам не навредят.</VFEPD_MechDropBeacon.description>
   <VFEPD_MechDropBeacon.label>маяк высадки</VFEPD_MechDropBeacon.label>
   <VFEPD_PsychicDroner.description>Архотехнологическое устройство, передающее мысли безумного сверхразума. Оно создаёт мощный психический гул, настроенный на один пол и охватывающий целый регион планеты. Заглянув внутрь, вы обнаружите, что это картонная декорация без каких-либо нужных механизмов.</VFEPD_PsychicDroner.description>

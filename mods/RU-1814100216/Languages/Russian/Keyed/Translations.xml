@@ -23,7 +23,7 @@
 Возможно, среди руин сохранились ценности. Но там могут поджидать и опасности.</LetterToxicLostCityLGE>
   <LetterLabelInfestedLostCityLGE>Город инсектоидов</LetterLabelInfestedLostCityLGE>
   <LetterInfestedLostCityLGE>По слухам, неподалёку находятся городские руины, захваченные инсектоидами.
-Там наверняка сохранилась добыча, но ради неё придётся прокрасться мимо насекомых или истребить их.</LetterInfestedLostCityLGE>
+Там, вероятно, сохранилась добыча, но ради неё придётся прокрасться мимо насекомых или истребить их.</LetterInfestedLostCityLGE>
   <LetterLabelStandartLostCityLGE>Город под обстрелом</LetterLabelStandartLostCityLGE>
   <LetterStandartLostCityLGE>В небе видны странные огни: орбитальные лучи обстреливают соседнюю область, похожую на руины древнего города. Возможно, оттуда ещё можно вынести ценности, пока бомбардировка не уничтожила всё.</LetterStandartLostCityLGE>
   <GoExploreName>Go Explore! — экспедиции</GoExploreName>
@@ -58,17 +58,17 @@
 
 Отношения с фракцией {0} не изменились.</LetterResearchRequest_NeutralLGE>
   <LetterLabelResearchRequest_SuccessLGE>Успешное исследование</LetterLabelResearchRequest_SuccessLGE>
-  <LetterResearchRequest_SuccessLGE>Исследование завершилось успешно: удалось добиться значительного прогресса.
+  <LetterResearchRequest_SuccessLGE>Исследование завершилось успешно. Удалось добиться значительного прогресса.
 
 Отношения с фракцией {0} улучшились на {1}.
 
-Обмен знаниями: {2}.</LetterResearchRequest_SuccessLGE>
+Получены знания об исследовании: {2}.</LetterResearchRequest_SuccessLGE>
   <LetterLabelResearchRequest_TriumphLGE>Триумфальное исследование</LetterLabelResearchRequest_TriumphLGE>
   <LetterResearchRequest_TriumphLGE>Исследование превзошло все ожидания! Удалось продвинуться дальше, чем кто-либо считал возможным.
 
 Отношения с фракцией {0} улучшились на {1}.
 
-Обмен знаниями: {2}.</LetterResearchRequest_TriumphLGE>
+Получены знания об исследовании: {2}.</LetterResearchRequest_TriumphLGE>
   <ResearchRequestXPGainLGE>Опыт навыка «Умственный труд» для исследователя {0}: +{1}.</ResearchRequestXPGainLGE>
   <LetterLabelShipCoreStartupLGE>Запуск корабельного реактора</LetterLabelShipCoreStartupLGE>
   <LetterShipCoreStartupLGE>Обнаружен мощный источник энергии. Похоже, где-то поблизости запускается корабельный реактор. Вероятно, его охраняют, а запуск может привлечь и других врагов.

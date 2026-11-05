@@ -5,7 +5,7 @@
   <Frame_VFEP_ShortWalls.label>низкая стена (в процессе сборки)</Frame_VFEP_ShortWalls.label>
   <VCHE_FakePipes.description>Стальные трубы. Ничего не перекачивают.</VCHE_FakePipes.description>
   <VCHE_FakePipes.label>муляж трубы</VCHE_FakePipes.label>
-  <VFEPD_AdjustableWrench.description>Небольшой разводной ключ. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_AdjustableWrench.description>
+  <VFEPD_AdjustableWrench.description>Небольшой разводной ключ. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_AdjustableWrench.description>
   <VFEPD_AdjustableWrench.label>разводной ключ</VFEPD_AdjustableWrench.label>
   <VFEPD_AdvancedRotor.description>Усовершенствованный роторный узел.</VFEPD_AdvancedRotor.description>
   <VFEPD_AdvancedRotor.label>усовершенствованный ротор</VFEPD_AdvancedRotor.label>
@@ -15,7 +15,7 @@
   <VFEPD_Agave.label>агава</VFEPD_Agave.label>
   <VFEPD_AlbatrossBlack.description>Большой транспортный корабль для перевозки нескольких человек. Сейчас не работает.</VFEPD_AlbatrossBlack.description>
   <VFEPD_AlbatrossBlack.label>боевой транспортный корабль</VFEPD_AlbatrossBlack.label>
-  <VFEPD_Alembic.description>Перегонный куб. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_Alembic.description>
+  <VFEPD_Alembic.description>Перегонный куб. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_Alembic.description>
   <VFEPD_Alembic.label>перегонный куб</VFEPD_Alembic.label>
   <VFEPD_Alocasia.description>Искусственная копия тропического растения. Его необычайно широкие листья — один из узнаваемых символов тропического леса.</VFEPD_Alocasia.description>
   <VFEPD_Alocasia.label>алоказия</VFEPD_Alocasia.label>
@@ -37,11 +37,11 @@
   <VFEPD_ArmorStandFull.label>стойка с доспехами</VFEPD_ArmorStandFull.label>
   <VFEPD_ArrowCage.description>Небольшая решётчатая корзина со стрелами.</VFEPD_ArrowCage.description>
   <VFEPD_ArrowCage.label>корзина для стрел</VFEPD_ArrowCage.label>
-  <VFEPD_AssortedVials.description>Разнообразные склянки. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_AssortedVials.description>
+  <VFEPD_AssortedVials.description>Разнообразные склянки. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_AssortedVials.description>
   <VFEPD_AssortedVials.label>разные склянки</VFEPD_AssortedVials.label>
-  <VFEPD_AssortedVialsB.description>Разнообразные склянки. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_AssortedVialsB.description>
+  <VFEPD_AssortedVialsB.description>Разнообразные склянки. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_AssortedVialsB.description>
   <VFEPD_AssortedVialsB.label>разные склянки</VFEPD_AssortedVialsB.label>
-  <VFEPD_AssortedVialsC.description>Разнообразные склянки. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_AssortedVialsC.description>
+  <VFEPD_AssortedVialsC.description>Разнообразные склянки. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_AssortedVialsC.description>
   <VFEPD_AssortedVialsC.label>разные склянки</VFEPD_AssortedVialsC.label>
   <VFEPD_Astragalus.description>Искусственная копия небольшого многолетнего полевого цветка, растущего в высокогорье.</VFEPD_Astragalus.description>
   <VFEPD_Astragalus.label>астрагал</VFEPD_Astragalus.label>
@@ -53,7 +53,7 @@
   <VFEPD_BarrelGreen.label>бочка</VFEPD_BarrelGreen.label>
   <VFEPD_Battery.description>Простое устройство для хранения электроэнергии. Этот аккумулятор не работает.</VFEPD_Battery.description>
   <VFEPD_Battery.label>аккумулятор</VFEPD_Battery.label>
-  <VFEPD_Beakers.description>Разнообразные лабораторные стаканы. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_Beakers.description>
+  <VFEPD_Beakers.description>Разнообразные лабораторные стаканы. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_Beakers.description>
   <VFEPD_Beakers.label>лабораторные стаканы</VFEPD_Beakers.label>
   <VFEPD_BerryBush.description>Искусственная копия дикого кустистого растения с вкусными ягодами. Настоящие ягоды можно готовить, но они хороши и сырыми.</VFEPD_BerryBush.description>
   <VFEPD_BerryBush.label>ягодный куст</VFEPD_BerryBush.label>
@@ -61,27 +61,27 @@
   <VFEPD_BigFalseFire.label>большая имитация огня</VFEPD_BigFalseFire.label>
   <VFEPD_BinBag.description>Чёрный мешок со всевозможным мусором.</VFEPD_BinBag.description>
   <VFEPD_BinBag.label>мусорный мешок</VFEPD_BinBag.label>
-  <VFEPD_BioRefineryLargeBarrel.description>Большая бочка биотопливного реактора. Только для украшения; предназначено для размещения рядом с пустым верстаком.</VFEPD_BioRefineryLargeBarrel.description>
+  <VFEPD_BioRefineryLargeBarrel.description>Большая бочка биотопливного реактора. Только для украшения. Можно разместить рядом с пустым верстаком.</VFEPD_BioRefineryLargeBarrel.description>
   <VFEPD_BioRefineryLargeBarrel.label>большая бочка биотопливного реактора</VFEPD_BioRefineryLargeBarrel.label>
-  <VFEPD_BioRefineryLargeBarrelHorizontal.description>Большая бочка биотопливного реактора. Только для украшения; предназначено для размещения рядом с пустым верстаком.</VFEPD_BioRefineryLargeBarrelHorizontal.description>
+  <VFEPD_BioRefineryLargeBarrelHorizontal.description>Большая бочка биотопливного реактора. Только для украшения. Можно разместить рядом с пустым верстаком.</VFEPD_BioRefineryLargeBarrelHorizontal.description>
   <VFEPD_BioRefineryLargeBarrelHorizontal.label>большая бочка биотопливного реактора</VFEPD_BioRefineryLargeBarrelHorizontal.label>
-  <VFEPD_BioRefineryMediumBarrel.description>Бочка биотопливного реактора среднего размера. Только для украшения; предназначено для размещения рядом с пустым верстаком.</VFEPD_BioRefineryMediumBarrel.description>
+  <VFEPD_BioRefineryMediumBarrel.description>Бочка биотопливного реактора среднего размера. Только для украшения. Можно разместить рядом с пустым верстаком.</VFEPD_BioRefineryMediumBarrel.description>
   <VFEPD_BioRefineryMediumBarrel.label>средняя бочка биотопливного реактора</VFEPD_BioRefineryMediumBarrel.label>
-  <VFEPD_BioRefineryMediumBarrelHorizontal.description>Бочка биотопливного реактора среднего размера. Только для украшения; предназначено для размещения рядом с пустым верстаком.</VFEPD_BioRefineryMediumBarrelHorizontal.description>
+  <VFEPD_BioRefineryMediumBarrelHorizontal.description>Бочка биотопливного реактора среднего размера. Только для украшения. Можно разместить рядом с пустым верстаком.</VFEPD_BioRefineryMediumBarrelHorizontal.description>
   <VFEPD_BioRefineryMediumBarrelHorizontal.label>средняя бочка биотопливного реактора</VFEPD_BioRefineryMediumBarrelHorizontal.label>
-  <VFEPD_BioRefinerySmallBarrel.description>Маленькая бочка биотопливного реактора. Только для украшения; предназначено для размещения рядом с пустым верстаком.</VFEPD_BioRefinerySmallBarrel.description>
+  <VFEPD_BioRefinerySmallBarrel.description>Маленькая бочка биотопливного реактора. Только для украшения. Можно разместить рядом с пустым верстаком.</VFEPD_BioRefinerySmallBarrel.description>
   <VFEPD_BioRefinerySmallBarrel.label>малая бочка биотопливного реактора</VFEPD_BioRefinerySmallBarrel.label>
   <VFEPD_Biofluxium.description>Экзотическое космическое растение. Это искусственная копия.</VFEPD_Biofluxium.description>
   <VFEPD_Biofluxium.label>златошар</VFEPD_Biofluxium.label>
   <VFEPD_BirchTree.description>Искусственная копия дерева умеренных широт, известного тонкой белой корой, напоминающей бумагу.</VFEPD_BirchTree.description>
   <VFEPD_BirchTree.label>берёза</VFEPD_BirchTree.label>
-  <VFEPD_BlocksPileA.description>Куча блоков в процессе обтёсывания. Только для украшения; предназначено для размещения рядом с пустым верстаком.</VFEPD_BlocksPileA.description>
+  <VFEPD_BlocksPileA.description>Куча блоков в процессе обтёсывания. Только для украшения. Можно разместить рядом с пустым верстаком.</VFEPD_BlocksPileA.description>
   <VFEPD_BlocksPileA.label>куча блоков</VFEPD_BlocksPileA.label>
-  <VFEPD_BlocksPileB.description>Куча блоков в процессе обтёсывания. Только для украшения; предназначено для размещения рядом с пустым верстаком.</VFEPD_BlocksPileB.description>
+  <VFEPD_BlocksPileB.description>Куча блоков в процессе обтёсывания. Только для украшения. Можно разместить рядом с пустым верстаком.</VFEPD_BlocksPileB.description>
   <VFEPD_BlocksPileB.label>куча блоков</VFEPD_BlocksPileB.label>
-  <VFEPD_BlocksPileC.description>Куча блоков в процессе обтёсывания. Только для украшения; предназначено для размещения рядом с пустым верстаком.</VFEPD_BlocksPileC.description>
+  <VFEPD_BlocksPileC.description>Куча блоков в процессе обтёсывания. Только для украшения. Можно разместить рядом с пустым верстаком.</VFEPD_BlocksPileC.description>
   <VFEPD_BlocksPileC.label>куча блоков</VFEPD_BlocksPileC.label>
-  <VFEPD_BloodSplatter.description>Брызги крови с разделочного стола. Только для украшения; предназначено для размещения рядом с пустым верстаком.</VFEPD_BloodSplatter.description>
+  <VFEPD_BloodSplatter.description>Брызги крови с разделочного стола. Только для украшения. Можно разместить рядом с пустым верстаком.</VFEPD_BloodSplatter.description>
   <VFEPD_BloodSplatter.label>брызги крови</VFEPD_BloodSplatter.label>
   <VFEPD_BoxLarge.description>Большой ящик со всякой всячиной.</VFEPD_BoxLarge.description>
   <VFEPD_BoxLarge.label>большой ящик</VFEPD_BoxLarge.label>
@@ -91,15 +91,15 @@
   <VFEPD_Brambles.label>колючие заросли</VFEPD_Brambles.label>
   <VFEPD_BrazierEmpty.description>Чаша для разведения огня.</VFEPD_BrazierEmpty.description>
   <VFEPD_BrazierEmpty.label>пустая жаровня</VFEPD_BrazierEmpty.label>
-  <VFEPD_BreweryBarrel.description>Небольшая пивоваренная бочка. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_BreweryBarrel.description>
+  <VFEPD_BreweryBarrel.description>Небольшая пивоваренная бочка. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_BreweryBarrel.description>
   <VFEPD_BreweryBarrel.label>пивоваренная бочка</VFEPD_BreweryBarrel.label>
-  <VFEPD_BreweryTablet.description>Пивоваренный коврик для переработки растений в сусло. Или как там это делается. Не смотрите на меня, я не пивовар. Только для украшения; предназначено для размещения рядом с пустым верстаком.</VFEPD_BreweryTablet.description>
+  <VFEPD_BreweryTablet.description>Пивоваренный коврик для переработки растений в сусло. Или как там это делается. Не смотрите на меня, я не пивовар. Только для украшения. Можно разместить рядом с пустым верстаком.</VFEPD_BreweryTablet.description>
   <VFEPD_BreweryTablet.label>пивоваренный коврик</VFEPD_BreweryTablet.label>
   <VFEPD_BrewingBarrel.description>Большая пустая бродильная бочка.</VFEPD_BrewingBarrel.description>
   <VFEPD_BrewingBarrel.label>бродильная бочка</VFEPD_BrewingBarrel.label>
   <VFEPD_BrickPile.description>Куча кирпичей.</VFEPD_BrickPile.description>
   <VFEPD_BrickPile.label>куча кирпичей</VFEPD_BrickPile.label>
-  <VFEPD_BrownSmelterGizmo.description>Небольшая деталь плавильни. Одному богу известно, что она делает. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_BrownSmelterGizmo.description>
+  <VFEPD_BrownSmelterGizmo.description>Небольшая деталь плавильни. Одному богу известно, что она делает. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_BrownSmelterGizmo.description>
   <VFEPD_BrownSmelterGizmo.label>серая деталь плавильни</VFEPD_BrownSmelterGizmo.label>
   <VFEPD_Bryolux.description>Искусственная копия синего светомха, обычно растущего в глубоких тёмных пещерах. Липкие, спутанные волокна настоящего мха замедляют всякого, кто по нему идёт.</VFEPD_Bryolux.description>
   <VFEPD_Bryolux.label>светомох</VFEPD_Bryolux.label>
@@ -135,11 +135,11 @@
   <VFEPD_CardboardBoxSmall.label>малая картонная коробка</VFEPD_CardboardBoxSmall.label>
   <VFEPD_CecropiaTree.description>Искусственная копия одного из самых распространённых деревьев дождевых лесов. Настоящая цекропия растёт очень быстро, но даёт мало пригодной древесины.</VFEPD_CecropiaTree.description>
   <VFEPD_CecropiaTree.label>цекропия</VFEPD_CecropiaTree.label>
-  <VFEPD_ChemfuelTank.description>Большой бак с взрывоопасным химтопливом.</VFEPD_ChemfuelTank.description>
+  <VFEPD_ChemfuelTank.description>Большой бак со взрывоопасным химтопливом.</VFEPD_ChemfuelTank.description>
   <VFEPD_ChemfuelTank.label>большой бак для химтоплива</VFEPD_ChemfuelTank.label>
-  <VFEPD_ChemfuelTankSmall.description>Небольшой бак для химтоплива. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_ChemfuelTankSmall.description>
+  <VFEPD_ChemfuelTankSmall.description>Небольшой бак для химтоплива. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_ChemfuelTankSmall.description>
   <VFEPD_ChemfuelTankSmall.label>бак для химтоплива</VFEPD_ChemfuelTankSmall.label>
-  <VFEPD_Chisel.description>Небольшое зубило. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_Chisel.description>
+  <VFEPD_Chisel.description>Небольшое зубило. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_Chisel.description>
   <VFEPD_Chisel.label>зубило</VFEPD_Chisel.label>
   <VFEPD_Chokevine.description>Искусственная копия лозокуста — густых клубков шнуровидных колючих лоз, стелющихся по земле. Настоящий лозокуст сильно замедляет передвижение. В разных племенах независимо возникли истории о лозокусте, который по ночам душит детей: так взрослые пугают ребят, чтобы те возвращались домой до темноты.</VFEPD_Chokevine.description>
   <VFEPD_Chokevine.label>лозокуст</VFEPD_Chokevine.label>
@@ -147,7 +147,7 @@
   <VFEPD_CleanEffect.label>уборка</VFEPD_CleanEffect.label>
   <VFEPD_ClearSnowEffect.description>Декоративный объект с визуальным эффектом уборки снега. Создаёт нагрузку на игру; не размещайте слишком много таких объектов.</VFEPD_ClearSnowEffect.description>
   <VFEPD_ClearSnowEffect.label>уборка снега</VFEPD_ClearSnowEffect.label>
-  <VFEPD_Cleaver.description>Небольшой тесак. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_Cleaver.description>
+  <VFEPD_Cleaver.description>Небольшой тесак. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_Cleaver.description>
   <VFEPD_Cleaver.label>тесак</VFEPD_Cleaver.label>
   <VFEPD_Clivia.description>Искусственная копия необычного растения с высокими красивыми цветами. Его также называют «кустовой лилией».</VFEPD_Clivia.description>
   <VFEPD_Clivia.label>кливия</VFEPD_Clivia.label>
@@ -161,7 +161,7 @@
   <VFEPD_ConcreteBags.label>мешки с бетонной смесью</VFEPD_ConcreteBags.label>
   <VFEPD_Cone.description>Дорожный конус для ограждения места работ.</VFEPD_Cone.description>
   <VFEPD_Cone.label>дорожный конус</VFEPD_Cone.label>
-  <VFEPD_ConeWrench.description>Небольшой конусный ключ. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_ConeWrench.description>
+  <VFEPD_ConeWrench.description>Небольшой конусный ключ. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_ConeWrench.description>
   <VFEPD_ConeWrench.label>конусный ключ</VFEPD_ConeWrench.label>
   <VFEPD_ConstructDirtEffect.description>Декоративный объект с визуальным эффектом земляных работ. Создаёт нагрузку на игру; не размещайте слишком много таких объектов.</VFEPD_ConstructDirtEffect.description>
   <VFEPD_ConstructDirtEffect.label>земляные работы</VFEPD_ConstructDirtEffect.label>
@@ -171,7 +171,7 @@
   <VFEPD_ConstructWoodEffect.label>строительство из дерева</VFEPD_ConstructWoodEffect.label>
   <VFEPD_ContainerGreen.description>Металлический грузовой контейнер. Преграждает проход и не поддерживает крышу.</VFEPD_ContainerGreen.description>
   <VFEPD_ContainerGreen.label>грузовой контейнер</VFEPD_ContainerGreen.label>
-  <VFEPD_ConveyorInput.description>Небольшая входная секция конвейера. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_ConveyorInput.description>
+  <VFEPD_ConveyorInput.description>Небольшая входная секция конвейера. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_ConveyorInput.description>
   <VFEPD_ConveyorInput.label>вход конвейера</VFEPD_ConveyorInput.label>
   <VFEPD_CookEffect.description>Декоративный объект с визуальным эффектом приготовления пищи. Создаёт нагрузку на игру; не размещайте слишком много таких объектов.</VFEPD_CookEffect.description>
   <VFEPD_CookEffect.label>приготовление пищи</VFEPD_CookEffect.label>
@@ -189,7 +189,7 @@
   <VFEPD_CutStoneEffect.label>каменная крошка</VFEPD_CutStoneEffect.label>
   <VFEPD_CuttingBoard.description>Деревянная разделочная доска.</VFEPD_CuttingBoard.description>
   <VFEPD_CuttingBoard.label>разделочная доска</VFEPD_CuttingBoard.label>
-  <VFEPD_CuttingTableWithKnife.description>Разделочная доска с остро заточенным ножом. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_CuttingTableWithKnife.description>
+  <VFEPD_CuttingTableWithKnife.description>Разделочная доска с остро заточенным ножом. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_CuttingTableWithKnife.description>
   <VFEPD_CuttingTableWithKnife.label>разделочная доска с ножом</VFEPD_CuttingTableWithKnife.label>
   <VFEPD_CypressTree.description>Искусственная копия высокого хвойного дерева, часто встречающегося на болотах. Настоящий болотный кипарис растёт медленно, но даёт много пригодной древесины, поэтому его посадка может стать выгодным долгосрочным вложением, не требующим особых усилий.</VFEPD_CypressTree.description>
   <VFEPD_CypressTree.label>болотный кипарис</VFEPD_CypressTree.label>
@@ -511,11 +511,11 @@
   <VFEPD_DisplayScreen.label>информационный экран</VFEPD_DisplayScreen.label>
   <VFEPD_DisplayTable.description>Большой экран, установленный на большом столе.</VFEPD_DisplayTable.description>
   <VFEPD_DisplayTable.label>стол с экраном</VFEPD_DisplayTable.label>
-  <VFEPD_Docs.description>Разбросанные исследовательские документы. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_Docs.description>
+  <VFEPD_Docs.description>Разбросанные исследовательские документы. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_Docs.description>
   <VFEPD_Docs.label>разбросанные документы</VFEPD_Docs.label>
-  <VFEPD_DoubleAlembic.description>Двойной перегонный куб. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_DoubleAlembic.description>
+  <VFEPD_DoubleAlembic.description>Двойной перегонный куб. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_DoubleAlembic.description>
   <VFEPD_DoubleAlembic.label>двойной перегонный куб</VFEPD_DoubleAlembic.label>
-  <VFEPD_DoubleOven.description>Двойная печь. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_DoubleOven.description>
+  <VFEPD_DoubleOven.description>Двойная печь. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_DoubleOven.description>
   <VFEPD_DoubleOven.label>двойная печь</VFEPD_DoubleOven.label>
   <VFEPD_DragoTree.description>Искусственная копия выносливого пустынного дерева с толстыми заострёнными листьями на верхушке.</VFEPD_DragoTree.description>
   <VFEPD_DragoTree.label>драконово дерево</VFEPD_DragoTree.label>
@@ -529,25 +529,25 @@
   <VFEPD_ElectricalCabinet.label>электрический шкаф</VFEPD_ElectricalCabinet.label>
   <VFEPD_Exhaust.description>Вытяжное отверстие для промышленных испарений.</VFEPD_Exhaust.description>
   <VFEPD_Exhaust.label>вытяжка</VFEPD_Exhaust.label>
-  <VFEPD_FabricRollA.description>Несколько рулонов ткани. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_FabricRollA.description>
+  <VFEPD_FabricRollA.description>Несколько рулонов ткани. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_FabricRollA.description>
   <VFEPD_FabricRollA.label>рулоны ткани</VFEPD_FabricRollA.label>
-  <VFEPD_FabricRollB.description>Несколько рулонов ткани. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_FabricRollB.description>
+  <VFEPD_FabricRollB.description>Несколько рулонов ткани. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_FabricRollB.description>
   <VFEPD_FabricRollB.label>рулоны ткани</VFEPD_FabricRollB.label>
-  <VFEPD_FabricRollC.description>Несколько рулонов ткани. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_FabricRollC.description>
+  <VFEPD_FabricRollC.description>Несколько рулонов ткани. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_FabricRollC.description>
   <VFEPD_FabricRollC.label>рулоны ткани</VFEPD_FabricRollC.label>
-  <VFEPD_FabricationComputer.description>Производственный компьютер. Вычисляет. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_FabricationComputer.description>
+  <VFEPD_FabricationComputer.description>Производственный компьютер. Вычисляет. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_FabricationComputer.description>
   <VFEPD_FabricationComputer.label>производственный компьютер</VFEPD_FabricationComputer.label>
-  <VFEPD_FabricationGizmoA.description>Производственный токарный станок. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_FabricationGizmoA.description>
+  <VFEPD_FabricationGizmoA.description>Производственный токарный станок. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_FabricationGizmoA.description>
   <VFEPD_FabricationGizmoA.label>производственный токарный станок</VFEPD_FabricationGizmoA.label>
-  <VFEPD_FabricationGizmoB.description>Производственный токарный станок. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_FabricationGizmoB.description>
+  <VFEPD_FabricationGizmoB.description>Производственный токарный станок. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_FabricationGizmoB.description>
   <VFEPD_FabricationGizmoB.label>производственный токарный станок</VFEPD_FabricationGizmoB.label>
-  <VFEPD_FabricationGizmoC.description>Производственный токарный станок. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_FabricationGizmoC.description>
+  <VFEPD_FabricationGizmoC.description>Производственный токарный станок. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_FabricationGizmoC.description>
   <VFEPD_FabricationGizmoC.label>производственный токарный станок</VFEPD_FabricationGizmoC.label>
-  <VFEPD_FabricationLargeGizmo.description>Несколько производственных установок. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_FabricationLargeGizmo.description>
+  <VFEPD_FabricationLargeGizmo.description>Несколько производственных установок. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_FabricationLargeGizmo.description>
   <VFEPD_FabricationLargeGizmo.label>производственные компьютеры</VFEPD_FabricationLargeGizmo.label>
-  <VFEPD_FabricationLaser.description>Производственный лазер. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_FabricationLaser.description>
+  <VFEPD_FabricationLaser.description>Производственный лазер. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_FabricationLaser.description>
   <VFEPD_FabricationLaser.label>производственный лазер</VFEPD_FabricationLaser.label>
-  <VFEPD_FabricationLathe.description>Производственный лазер. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_FabricationLathe.description>
+  <VFEPD_FabricationLathe.description>Производственный лазер. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_FabricationLathe.description>
   <VFEPD_FabricationLathe.label>малый производственный токарный станок</VFEPD_FabricationLathe.label>
   <VFEPD_FakeAnimalDoor.description>Неработающая завеса из двух раскрашенных полотнищ ткани. Через неё можно пройти.</VFEPD_FakeAnimalDoor.description>
   <VFEPD_FakeAnimalDoor.label>муляж завесы для животных</VFEPD_FakeAnimalDoor.label>
@@ -571,7 +571,7 @@
   <VFEPD_FakeSnowman.label>искусственный снеговик</VFEPD_FakeSnowman.label>
   <VFEPD_FalseFire.description>Всего лишь дым и оптическая иллюзия.</VFEPD_FalseFire.description>
   <VFEPD_FalseFire.label>имитация огня</VFEPD_FalseFire.label>
-  <VFEPD_File.description>Небольшой напильник. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_File.description>
+  <VFEPD_File.description>Небольшой напильник. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_File.description>
   <VFEPD_File.label>напильник</VFEPD_File.label>
   <VFEPD_FilthAmnioticFluid.description>Лужа плодных вод.</VFEPD_FilthAmnioticFluid.description>
   <VFEPD_FilthAmnioticFluid.label>плодные воды</VFEPD_FilthAmnioticFluid.label>
@@ -639,7 +639,7 @@
   <VFEPD_GrassLong.label>высокая трава</VFEPD_GrassLong.label>
   <VFEPD_GrassShort.description>Искусственная дикая трава. Настоящая растёт везде, где есть немного света и хоть сколько-нибудь плодородная почва.</VFEPD_GrassShort.description>
   <VFEPD_GrassShort.label>низкая трава</VFEPD_GrassShort.label>
-  <VFEPD_HalfFinishedGun.description>Небольшое недособранное ружьё. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_HalfFinishedGun.description>
+  <VFEPD_HalfFinishedGun.description>Небольшое недособранное ружьё. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_HalfFinishedGun.description>
   <VFEPD_HalfFinishedGun.label>недособранное ружьё</VFEPD_HalfFinishedGun.label>
   <VFEPD_Harvest_PlantEffect.description>Декоративный объект с визуальным эффектом сбора урожая. Создаёт нагрузку на игру; не размещайте слишком много таких объектов.</VFEPD_Harvest_PlantEffect.description>
   <VFEPD_Harvest_PlantEffect.label>сбор урожая</VFEPD_Harvest_PlantEffect.label>
@@ -657,7 +657,7 @@
   <VFEPD_Healroot.label>лечебный корень</VFEPD_Healroot.label>
   <VFEPD_HeavyDropship.description>Большой тяжёлый десантный корабль для перевозки нескольких человек. Сейчас не работает.</VFEPD_HeavyDropship.description>
   <VFEPD_HeavyDropship.label>тяжёлый десантный корабль</VFEPD_HeavyDropship.label>
-  <VFEPD_HeavyHammer.description>Огромный тяжёлый молот. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_HeavyHammer.description>
+  <VFEPD_HeavyHammer.description>Огромный тяжёлый молот. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_HeavyHammer.description>
   <VFEPD_HeavyHammer.label>кувалда</VFEPD_HeavyHammer.label>
   <VFEPD_Hedge.description>Изгородь из живых растений.</VFEPD_Hedge.description>
   <VFEPD_Hedge.label>живая изгородь</VFEPD_Hedge.label>
@@ -919,7 +919,7 @@
   <VFEPD_LargeDecalWordWarning.label>большая надпись: внимание</VFEPD_LargeDecalWordWarning.label>
   <VFEPD_LargeDecalWordWorkshop.description>Напольная надпись «Workshop» («Мастерская»).</VFEPD_LargeDecalWordWorkshop.description>
   <VFEPD_LargeDecalWordWorkshop.label>большая надпись: мастерская</VFEPD_LargeDecalWordWorkshop.label>
-  <VFEPD_LargeScreen.description>Большой компьютерный экран. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_LargeScreen.description>
+  <VFEPD_LargeScreen.description>Большой компьютерный экран. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_LargeScreen.description>
   <VFEPD_LargeScreen.label>большой экран</VFEPD_LargeScreen.label>
   <VFEPD_Levitree.description>Экзотическое космическое дерево. Искусственная копия.</VFEPD_Levitree.description>
   <VFEPD_Levitree.label>левитодрево</VFEPD_Levitree.label>
@@ -929,9 +929,9 @@
   <VFEPD_Lockers.label>шкафчики</VFEPD_Lockers.label>
   <VFEPD_LongCommandConsole.description>Длинная консоль с несколькими различными модулями управления.</VFEPD_LongCommandConsole.description>
   <VFEPD_LongCommandConsole.label>длинная командная консоль</VFEPD_LongCommandConsole.label>
-  <VFEPD_MachiningHammer.description>Небольшой слесарный молоток. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_MachiningHammer.description>
+  <VFEPD_MachiningHammer.description>Небольшой слесарный молоток. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_MachiningHammer.description>
   <VFEPD_MachiningHammer.label>слесарный молоток</VFEPD_MachiningHammer.label>
-  <VFEPD_ManyDocs.description>Множество разбросанных исследовательских документов. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_ManyDocs.description>
+  <VFEPD_ManyDocs.description>Множество разбросанных исследовательских документов. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_ManyDocs.description>
   <VFEPD_ManyDocs.label>много документов</VFEPD_ManyDocs.label>
   <VFEPD_MapleTree.description>Искусственная копия распространённого дерева среднего размера, которое легко узнать по характерным трёхлопастным листьям.</VFEPD_MapleTree.description>
   <VFEPD_MapleTree.label>клён</VFEPD_MapleTree.label>
@@ -939,7 +939,7 @@
   <VFEPD_MeatSmokerEmpty.label>пустая коптильня</VFEPD_MeatSmokerEmpty.label>
   <VFEPD_MeatSmokerFull.description>Закрытая коптильня для мяса из старого мода Vanilla Factions Expanded — Medieval. Не работает.</VFEPD_MeatSmokerFull.description>
   <VFEPD_MeatSmokerFull.label>заполненная коптильня</VFEPD_MeatSmokerFull.label>
-  <VFEPD_MediumScreen.description>Компьютерный экран среднего размера. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_MediumScreen.description>
+  <VFEPD_MediumScreen.description>Компьютерный экран среднего размера. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_MediumScreen.description>
   <VFEPD_MediumScreen.label>средний экран</VFEPD_MediumScreen.label>
   <VFEPD_Microwave.description>Настольная микроволновая печь.</VFEPD_Microwave.description>
   <VFEPD_Microwave.label>микроволновая печь</VFEPD_Microwave.label>
@@ -947,9 +947,9 @@
   <VFEPD_MopBucket.label>ведро для мытья полов</VFEPD_MopBucket.label>
   <VFEPD_Moss_Base.description>Искусственный дикий мох. Настоящий растёт куртинами в прохладных слабоосвещённых местах.</VFEPD_Moss_Base.description>
   <VFEPD_Moss_Base.label>мох</VFEPD_Moss_Base.label>
-  <VFEPD_MustBucket.description>Небольшое ведро сусла. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_MustBucket.description>
+  <VFEPD_MustBucket.description>Небольшое ведро сусла. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_MustBucket.description>
   <VFEPD_MustBucket.label>ведро сусла</VFEPD_MustBucket.label>
-  <VFEPD_MustBuckets.description>Два небольших ведра сусла. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_MustBuckets.description>
+  <VFEPD_MustBuckets.description>Два небольших ведра сусла. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_MustBuckets.description>
   <VFEPD_MustBuckets.label>вёдра сусла</VFEPD_MustBuckets.label>
   <VFEPD_Nebulafrond.description>Экзотическое космическое растение. Искусственная копия.</VFEPD_Nebulafrond.description>
   <VFEPD_Nebulafrond.label>туманолист</VFEPD_Nebulafrond.label>
@@ -993,9 +993,9 @@
   <VFEPD_PoplarTree.label>тополь</VFEPD_PoplarTree.label>
   <VFEPD_Potato.description>Искусственная копия картофеля — очень питательной клубневой культуры. Настоящий картофель неплохо растёт даже на довольно бедной почве, а при жарке в масле покрывается вкусной хрустящей корочкой.</VFEPD_Potato.description>
   <VFEPD_Potato.label>картофель</VFEPD_Potato.label>
-  <VFEPD_Potentiometer.description>Потенциометр. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_Potentiometer.description>
+  <VFEPD_Potentiometer.description>Потенциометр. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_Potentiometer.description>
   <VFEPD_Potentiometer.label>потенциометр</VFEPD_Potentiometer.label>
-  <VFEPD_PotentiometerOven.description>Печь, переделанная для плавильни. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_PotentiometerOven.description>
+  <VFEPD_PotentiometerOven.description>Печь, переделанная для плавильни. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_PotentiometerOven.description>
   <VFEPD_PotentiometerOven.label>переделанная печь</VFEPD_PotentiometerOven.label>
   <VFEPD_PowerConverter.description>Большой преобразователь энергии.</VFEPD_PowerConverter.description>
   <VFEPD_PowerConverter.label>преобразователь энергии</VFEPD_PowerConverter.label>
@@ -1015,13 +1015,13 @@
   <VFEPD_Rafflesia.label>гигантская раффлезия</VFEPD_Rafflesia.label>
   <VFEPD_RepairEffect.description>Декоративный объект с визуальным эффектом ремонта. Создаёт нагрузку на игру; не размещайте слишком много таких объектов.</VFEPD_RepairEffect.description>
   <VFEPD_RepairEffect.label>ремонт</VFEPD_RepairEffect.label>
-  <VFEPD_ResearchDatabase.description>Исследовательская база данных. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_ResearchDatabase.description>
+  <VFEPD_ResearchDatabase.description>Исследовательская база данных. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_ResearchDatabase.description>
   <VFEPD_ResearchDatabase.label>исследовательская база данных</VFEPD_ResearchDatabase.label>
   <VFEPD_ResearchEffect.description>Декоративный объект с визуальным эффектом исследования. Создаёт нагрузку на игру; не размещайте слишком много таких объектов.</VFEPD_ResearchEffect.description>
   <VFEPD_ResearchEffect.label>исследование</VFEPD_ResearchEffect.label>
-  <VFEPD_ResearchStructure.description>Исследовательская установка. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_ResearchStructure.description>
+  <VFEPD_ResearchStructure.description>Исследовательская установка. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_ResearchStructure.description>
   <VFEPD_ResearchStructure.label>исследовательская установка</VFEPD_ResearchStructure.label>
-  <VFEPD_ResearchStructureB.description>Исследовательская установка. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_ResearchStructureB.description>
+  <VFEPD_ResearchStructureB.description>Исследовательская установка. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_ResearchStructureB.description>
   <VFEPD_ResearchStructureB.label>исследовательская установка</VFEPD_ResearchStructureB.label>
   <VFEPD_Rice.description>Искусственная копия риса — низкорослой, быстрорастущей культуры с мелкими съедобными зёрнами. Высокая питательность и простота выращивания сделали рис основой экономики многих великих цивилизаций. Он быстро растёт, но требователен к плодородию почвы и плохо развивается на бедной земле.</VFEPD_Rice.description>
   <VFEPD_Rice.label>рис</VFEPD_Rice.label>
@@ -1033,15 +1033,15 @@
   <VFEPD_Rotor.label>ротор</VFEPD_Rotor.label>
   <VFEPD_SaguaroCactus.description>Искусственная копия большого кактуса из засушливых областей Земли. Настоящий кактус не относится к деревьям, но даёт немного волокнистого материала, пригодного для использования вместо древесины.</VFEPD_SaguaroCactus.description>
   <VFEPD_SaguaroCactus.label>кактус Карнегия</VFEPD_SaguaroCactus.label>
-  <VFEPD_Sandpaper.description>Лист наждачной бумаги. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_Sandpaper.description>
+  <VFEPD_Sandpaper.description>Лист наждачной бумаги. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_Sandpaper.description>
   <VFEPD_Sandpaper.label>наждачная бумага</VFEPD_Sandpaper.label>
-  <VFEPD_Saw.description>Небольшая пила. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_Saw.description>
+  <VFEPD_Saw.description>Небольшая пила. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_Saw.description>
   <VFEPD_Saw.label>пила</VFEPD_Saw.label>
-  <VFEPD_Scissors.description>Небольшие ножницы. Погодите, их тут двое? Или всё-таки одни? Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_Scissors.description>
+  <VFEPD_Scissors.description>Небольшие ножницы. Погодите, их тут двое? Или всё-таки одни? Только для украшения. Можно разместить на пустом верстаке.</VFEPD_Scissors.description>
   <VFEPD_Scissors.label>ножницы</VFEPD_Scissors.label>
   <VFEPD_ScrapChunk.description>Обломок разобранного на лом космического корабля. При ближайшем рассмотрении оказывается сделанным из крашеного картона.</VFEPD_ScrapChunk.description>
   <VFEPD_ScrapChunk.label>обломок разобранного корабля</VFEPD_ScrapChunk.label>
-  <VFEPD_Scraper.description>Небольшой скребок. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_Scraper.description>
+  <VFEPD_Scraper.description>Небольшой скребок. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_Scraper.description>
   <VFEPD_Scraper.label>скребок</VFEPD_Scraper.label>
   <VFEPD_SensorPlatform.description>Небольшая платформа с разнообразными датчиками.</VFEPD_SensorPlatform.description>
   <VFEPD_SensorPlatform.label>сенсорная платформа</VFEPD_SensorPlatform.label>
@@ -1051,7 +1051,7 @@
   <VFEPD_ServerRackAlternate.label>серверная стойка</VFEPD_ServerRackAlternate.label>
   <VFEPD_ServerRackAlternateTwo.description>Большая серверная стойка с множеством жёстких дисков и высокотехнологичных компьютерных компонентов.</VFEPD_ServerRackAlternateTwo.description>
   <VFEPD_ServerRackAlternateTwo.label>серверная стойка</VFEPD_ServerRackAlternateTwo.label>
-  <VFEPD_SewingMachine.description>Небольшая швейная машинка. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_SewingMachine.description>
+  <VFEPD_SewingMachine.description>Небольшая швейная машинка. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_SewingMachine.description>
   <VFEPD_SewingMachine.label>швейная машинка</VFEPD_SewingMachine.label>
   <VFEPD_ShipChunk.description>Обломок космического корабля. При ближайшем рассмотрении оказывается сделанным из крашеного картона.</VFEPD_ShipChunk.description>
   <VFEPD_ShipChunk.label>обломок корабля</VFEPD_ShipChunk.label>
@@ -1215,39 +1215,39 @@
   <VFEPD_ShipPart_TorpedoTubes_Single.label>одиночный торпедный аппарат</VFEPD_ShipPart_TorpedoTubes_Single.label>
   <VFEPD_ShipPart_TorpedoTubes_Small.description>Декоративная копия малых торпедных аппаратов для космического корабля. Стыкуется с кораблями из основной игры.</VFEPD_ShipPart_TorpedoTubes_Small.description>
   <VFEPD_ShipPart_TorpedoTubes_Small.label>малые торпедные аппараты</VFEPD_ShipPart_TorpedoTubes_Small.label>
-  <VFEPD_ShrubLow.description>Искусственные низкие широколиственные кусты разных видов. Настоящие растут группами и замедляют передвижение.</VFEPD_ShrubLow.description>
+  <VFEPD_ShrubLow.description>Муляжи низких широколиственных кустов разных видов. Выглядят как заросли и замедляют передвижение.</VFEPD_ShrubLow.description>
   <VFEPD_ShrubLow.label>низкие кусты</VFEPD_ShrubLow.label>
   <VFEPD_Shuttle_HeavyCargo.description>Большой тяжёлый грузовой челнок для перевозки нескольких человек. Сейчас не работает.</VFEPD_Shuttle_HeavyCargo.description>
   <VFEPD_Shuttle_HeavyCargo.label>тяжёлый грузовой челнок</VFEPD_Shuttle_HeavyCargo.label>
-  <VFEPD_SingleBeaker.description>Небольшой лабораторный стакан. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_SingleBeaker.description>
+  <VFEPD_SingleBeaker.description>Небольшой лабораторный стакан. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_SingleBeaker.description>
   <VFEPD_SingleBeaker.label>лабораторный стакан</VFEPD_SingleBeaker.label>
   <VFEPD_SingleDisplay.description>Небольшая панель с одним экраном, чтобы быть в курсе всех новых модов.</VFEPD_SingleDisplay.description>
   <VFEPD_SingleDisplay.label>панель с одним экраном</VFEPD_SingleDisplay.label>
   <VFEPD_SkipBlack.description>Лёгкий летательный аппарат «Скип» для комфортных поездок на небольшие расстояния. Сейчас не работает.</VFEPD_SkipBlack.description>
   <VFEPD_SkipBlack.label>летательный аппарат «Скип»</VFEPD_SkipBlack.label>
-  <VFEPD_SmallAlembic.description>Небольшой перегонный куб. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_SmallAlembic.description>
+  <VFEPD_SmallAlembic.description>Небольшой перегонный куб. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_SmallAlembic.description>
   <VFEPD_SmallAlembic.label>малый перегонный куб</VFEPD_SmallAlembic.label>
   <VFEPD_SmallDisplayTable.description>Небольшой экран, установленный на крошечном столике.</VFEPD_SmallDisplayTable.description>
   <VFEPD_SmallDisplayTable.label>малый стол с экраном</VFEPD_SmallDisplayTable.label>
   <VFEPD_SmallExhaust.description>Небольшое вытяжное отверстие для промышленных испарений.</VFEPD_SmallExhaust.description>
   <VFEPD_SmallExhaust.label>малая вытяжка</VFEPD_SmallExhaust.label>
-  <VFEPD_SmallKnife.description>Небольшой нож. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_SmallKnife.description>
+  <VFEPD_SmallKnife.description>Небольшой нож. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_SmallKnife.description>
   <VFEPD_SmallKnife.label>малый нож</VFEPD_SmallKnife.label>
   <VFEPD_SmallPlanningTable.description>Небольшой экран планирования, установленный на крошечном столике.</VFEPD_SmallPlanningTable.description>
   <VFEPD_SmallPlanningTable.label>малый стол планирования</VFEPD_SmallPlanningTable.label>
-  <VFEPD_SmallScreen.description>Небольшой компьютерный экран. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_SmallScreen.description>
+  <VFEPD_SmallScreen.description>Небольшой компьютерный экран. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_SmallScreen.description>
   <VFEPD_SmallScreen.label>малый экран</VFEPD_SmallScreen.label>
-  <VFEPD_SmallVent.description>Небольшой вентиляционный выход. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_SmallVent.description>
+  <VFEPD_SmallVent.description>Небольшой вентиляционный выход. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_SmallVent.description>
   <VFEPD_SmallVent.label>малый вентиляционный выход</VFEPD_SmallVent.label>
-  <VFEPD_SmallWrench.description>Небольшой гаечный ключ. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_SmallWrench.description>
+  <VFEPD_SmallWrench.description>Небольшой гаечный ключ. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_SmallWrench.description>
   <VFEPD_SmallWrench.label>малый гаечный ключ</VFEPD_SmallWrench.label>
-  <VFEPD_Smelter.description>Небольшая плавильня. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_Smelter.description>
+  <VFEPD_Smelter.description>Небольшая плавильня. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_Smelter.description>
   <VFEPD_Smelter.label>плавильня</VFEPD_Smelter.label>
-  <VFEPD_SmelterExhaust.description>Небольшая вытяжка плавильни. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_SmelterExhaust.description>
+  <VFEPD_SmelterExhaust.description>Небольшая вытяжка плавильни. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_SmelterExhaust.description>
   <VFEPD_SmelterExhaust.label>вытяжка плавильни</VFEPD_SmelterExhaust.label>
-  <VFEPD_SmelterGizmo.description>Небольшая деталь плавильни. Одному богу известно, что она делает. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_SmelterGizmo.description>
+  <VFEPD_SmelterGizmo.description>Небольшая деталь плавильни. Одному богу известно, что она делает. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_SmelterGizmo.description>
   <VFEPD_SmelterGizmo.label>деталь плавильни</VFEPD_SmelterGizmo.label>
-  <VFEPD_SmelterHeater.description>Небольшой нагреватель плавильни. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_SmelterHeater.description>
+  <VFEPD_SmelterHeater.description>Небольшой нагреватель плавильни. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_SmelterHeater.description>
   <VFEPD_SmelterHeater.label>нагреватель плавильни</VFEPD_SmelterHeater.label>
   <VFEPD_Smoke_JointEffect.description>Декоративный объект с визуальным эффектом курения. Создаёт нагрузку на игру; не размещайте слишком много таких объектов.</VFEPD_Smoke_JointEffect.description>
   <VFEPD_Smoke_JointEffect.label>курение</VFEPD_Smoke_JointEffect.label>
@@ -1269,7 +1269,7 @@
   <VFEPD_SpacerStorage.label>высокотехнологичное хранилище</VFEPD_SpacerStorage.label>
   <VFEPD_Spices.description>Богатый выбор разнообразных специй.</VFEPD_Spices.description>
   <VFEPD_Spices.label>специи</VFEPD_Spices.label>
-  <VFEPD_SpinningWheel.description>Небольшая прялка. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_SpinningWheel.description>
+  <VFEPD_SpinningWheel.description>Небольшая прялка. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_SpinningWheel.description>
   <VFEPD_SpinningWheel.label>прялка</VFEPD_SpinningWheel.label>
   <VFEPD_SteelATM.description>Неработающий автомат для выдачи денег.</VFEPD_SteelATM.description>
   <VFEPD_SteelATM.label>банкомат</VFEPD_SteelATM.label>
@@ -1281,7 +1281,7 @@
   <VFEPD_SteelTank.label>большой стальной резервуар</VFEPD_SteelTank.label>
   <VFEPD_SteelVendingMachine.description>Неработающий торговый автомат.</VFEPD_SteelVendingMachine.description>
   <VFEPD_SteelVendingMachine.label>торговый автомат</VFEPD_SteelVendingMachine.label>
-  <VFEPD_StoneGrinder.description>Небольшая машина для шлифовки камня. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_StoneGrinder.description>
+  <VFEPD_StoneGrinder.description>Небольшая машина для шлифовки камня. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_StoneGrinder.description>
   <VFEPD_StoneGrinder.label>камнешлифовальная машина</VFEPD_StoneGrinder.label>
   <VFEPD_Strawberry.description>Искусственная копия клубники — невысокого кустистого растения с нежными и вкусными ягодами. По количеству получаемых калорий настоящая клубника уступает другим культурам, зато её ягоды вкусны даже сырыми.</VFEPD_Strawberry.description>
   <VFEPD_Strawberry.label>клубника</VFEPD_Strawberry.label>
@@ -1295,17 +1295,17 @@
   <VFEPD_TanningRack.label>рама для выделки шкур</VFEPD_TanningRack.label>
   <VFEPD_TeakTree.description>Искусственная копия дерева с исключительно твёрдой древесиной, растущего в тёплом климате. Прочная и водостойкая древесина настоящего тика в древности шла на кили деревянных парусников.</VFEPD_TeakTree.description>
   <VFEPD_TeakTree.label>тиковое дерево</VFEPD_TeakTree.label>
-  <VFEPD_TextilesCardboardBox.description>Небольшая коробка с тканями. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_TextilesCardboardBox.description>
+  <VFEPD_TextilesCardboardBox.description>Небольшая коробка с тканями. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_TextilesCardboardBox.description>
   <VFEPD_TextilesCardboardBox.label>коробка с тканями</VFEPD_TextilesCardboardBox.label>
   <VFEPD_Tinctoria.description>Искусственная копия генетически изменённой цветочной культуры, выделяющей краситель с меняющимися свойствами.</VFEPD_Tinctoria.description>
   <VFEPD_Tinctoria.label>нео-индигофера</VFEPD_Tinctoria.label>
-  <VFEPD_TinyVent.description>Небольшой вентиляционный выход. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_TinyVent.description>
+  <VFEPD_TinyVent.description>Небольшой вентиляционный выход. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_TinyVent.description>
   <VFEPD_TinyVent.label>вентиляционный выход</VFEPD_TinyVent.label>
-  <VFEPD_Tongs.description>Небольшие щипцы. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_Tongs.description>
+  <VFEPD_Tongs.description>Небольшие щипцы. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_Tongs.description>
   <VFEPD_Tongs.label>щипцы</VFEPD_Tongs.label>
-  <VFEPD_Tools.description>Лоток с инструментами. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_Tools.description>
+  <VFEPD_Tools.description>Лоток с инструментами. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_Tools.description>
   <VFEPD_Tools.label>инструменты</VFEPD_Tools.label>
-  <VFEPD_ToolsBoard.description>Лоток для инструментов. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_ToolsBoard.description>
+  <VFEPD_ToolsBoard.description>Лоток для инструментов. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_ToolsBoard.description>
   <VFEPD_ToolsBoard.label>лоток для инструментов</VFEPD_ToolsBoard.label>
   <VFEPD_ToxicWasteBarrel.description>Небольшая бочка с токсичными отходами.</VFEPD_ToxicWasteBarrel.description>
   <VFEPD_ToxicWasteBarrel.label>бочка с токсичными отходами</VFEPD_ToxicWasteBarrel.label>
@@ -1313,7 +1313,7 @@
   <VFEPD_TreeCocoa.label>какао</VFEPD_TreeCocoa.label>
   <VFEPD_TripleDisplay.description>Большая панель с несколькими экранами, чтобы быть в курсе всех новых модов.</VFEPD_TripleDisplay.description>
   <VFEPD_TripleDisplay.label>панель с тремя экранами</VFEPD_TripleDisplay.label>
-  <VFEPD_UnfinishedCloth.description>Куски недоделанной ткани. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_UnfinishedCloth.description>
+  <VFEPD_UnfinishedCloth.description>Куски недоделанной ткани. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_UnfinishedCloth.description>
   <VFEPD_UnfinishedCloth.label>недоделанная ткань</VFEPD_UnfinishedCloth.label>
   <VFEPD_Urn.description>Декоративный сосуд в старинном стиле.</VFEPD_Urn.description>
   <VFEPD_Urn.label>урна</VFEPD_Urn.label>
@@ -1359,7 +1359,7 @@
   <VFEPD_WoodenLogs.label>брёвна</VFEPD_WoodenLogs.label>
   <VFEPD_WoodenLogsLarge.description>Большая стопка брёвен, преграждающая проход.</VFEPD_WoodenLogsLarge.description>
   <VFEPD_WoodenLogsLarge.label>большая стопка брёвен</VFEPD_WoodenLogsLarge.label>
-  <VFEPD_WoodenMallet.description>Небольшой деревянный молоток. Только для украшения; предназначено для размещения на пустом верстаке.</VFEPD_WoodenMallet.description>
+  <VFEPD_WoodenMallet.description>Небольшой деревянный молоток. Только для украшения. Можно разместить на пустом верстаке.</VFEPD_WoodenMallet.description>
   <VFEPD_WoodenMallet.label>киянка</VFEPD_WoodenMallet.label>
   <VFEPD_WoodenMirror.description>Напольное зеркало.</VFEPD_WoodenMirror.description>
   <VFEPD_WoodenMirror.label>зеркало</VFEPD_WoodenMirror.label>

@@ -66,7 +66,7 @@
   <KUA_Allowed>Разрешено объектов: {0}</KUA_Allowed>
   <KUA_AllowedExcludingCorpses>Разрешено объектов: {0} (трупы исключены)</KUA_AllowedExcludingCorpses>
   <KUA_ClaimAllDoors>Присвоить все двери</KUA_ClaimAllDoors>
-  <KUA_ClaimAllDoorsDesc>Присвоить все двери на карте, которые сейчас можно присвоить игроку.</KUA_ClaimAllDoorsDesc>
+  <KUA_ClaimAllDoorsDesc>Присвоить все двери на карте, которые игрок сейчас может присвоить.</KUA_ClaimAllDoorsDesc>
   <KUA_ClaimedDoors>Присвоено дверей: {0}</KUA_ClaimedDoors>
   <KUA_CutBlighted>Срезать заражённые растения</KUA_CutBlighted>
   <KUA_CutBlightedDesc>Срезать только заражённые растения.</KUA_CutBlightedDesc>

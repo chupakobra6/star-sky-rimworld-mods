@@ -19,9 +19,9 @@
   <VFEPD_AncientIndoorFireHydrants.description>Древний пожарный кран, в котором не осталось воды.</VFEPD_AncientIndoorFireHydrants.description>
   <VFEPD_AncientIndoorFireHydrants.label>древние внутренние пожарные краны</VFEPD_AncientIndoorFireHydrants.label>
   <VFEPD_AncientMineralConveyor.description>Разорванный древний конвейер, когда-то перевозивший минералы. Больше не работает.</VFEPD_AncientMineralConveyor.description>
-  <VFEPD_AncientMineralConveyor.label>древний минеральный конвейер</VFEPD_AncientMineralConveyor.label>
-  <VFEPD_AncientMineralExports.description>Часть древнего выпуска минералов. Больше не работает.</VFEPD_AncientMineralExports.description>
-  <VFEPD_AncientMineralExports.label>древний выпуск минералов</VFEPD_AncientMineralExports.label>
+  <VFEPD_AncientMineralConveyor.label>древний конвейер для минералов</VFEPD_AncientMineralConveyor.label>
+  <VFEPD_AncientMineralExports.description>Часть древнего устройства для выгрузки минералов. Больше не работает.</VFEPD_AncientMineralExports.description>
+  <VFEPD_AncientMineralExports.label>древнее устройство для выгрузки минералов</VFEPD_AncientMineralExports.label>
   <VFEPD_AncientMudCarriage.description>Шахтная вагонетка, нагруженная грязью.</VFEPD_AncientMudCarriage.description>
   <VFEPD_AncientMudCarriage.label>древняя вагонетка с грязью</VFEPD_AncientMudCarriage.label>
   <VFEPD_AncientOreDressingMachine.description>Древняя машина для обогащения руды. Не работает.</VFEPD_AncientOreDressingMachine.description>
@@ -57,9 +57,9 @@
   <VFEPD_FakeRail.description>Обычный, довольно ржавый железнодорожный путь.</VFEPD_FakeRail.description>
   <VFEPD_FakeRail.label>муляж рельсов</VFEPD_FakeRail.label>
   <VFEPD_MineralConveyor.description>Конвейер для перевозки минералов. Больше не работает.</VFEPD_MineralConveyor.description>
-  <VFEPD_MineralConveyor.label>минеральный конвейер</VFEPD_MineralConveyor.label>
-  <VFEPD_MineralExports.description>Часть выпуска минералов. Больше не работает.</VFEPD_MineralExports.description>
-  <VFEPD_MineralExports.label>выпуск минералов</VFEPD_MineralExports.label>
+  <VFEPD_MineralConveyor.label>конвейер для минералов</VFEPD_MineralConveyor.label>
+  <VFEPD_MineralExports.description>Часть устройства для выгрузки минералов. Больше не работает.</VFEPD_MineralExports.description>
+  <VFEPD_MineralExports.label>устройство для выгрузки минералов</VFEPD_MineralExports.label>
   <VFEPD_OreDressingMachine.description>Машина для обогащения руды. Не работает.</VFEPD_OreDressingMachine.description>
   <VFEPD_OreDressingMachine.label>машина обогащения руды</VFEPD_OreDressingMachine.label>
   <VFEPD_PickAxe.description>Брошенная кирка.</VFEPD_PickAxe.description>

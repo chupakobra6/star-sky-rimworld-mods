@@ -16,9 +16,9 @@
   <VEE_AnimaFauna.label>животные души</VEE_AnimaFauna.label>
   <VEE_AnimaFlora.description>Регион покрыт густым лесом из деревьев анимы и более мелкой растительности анимы, тихо резонирующей с психической энергией. Кажется, сам воздух внимателен, словно земля прислушивается.</VEE_AnimaFlora.description>
   <VEE_AnimaFlora.label>растения души</VEE_AnimaFlora.label>
-  <VEE_AnimaSoils.description>Местная почва насыщена скрытой энергией анимы, которая незаметно воздействует на растения, животных и разум.</VEE_AnimaSoils.description>
+  <VEE_AnimaSoils.description>Местная почва насыщена скрытой энергией души, которая незаметно воздействует на растения, животных и разум.</VEE_AnimaSoils.description>
   <VEE_AnimaSoils.label>почва души</VEE_AnimaSoils.label>
-  <VEE_AnimaSoils_Coast.description>Местная почва насыщена скрытой энергией анимы, которая незаметно воздействует на растения, животных и разум.</VEE_AnimaSoils_Coast.description>
+  <VEE_AnimaSoils_Coast.description>Местная почва насыщена скрытой энергией души, которая незаметно воздействует на растения, животных и разум.</VEE_AnimaSoils_Coast.description>
   <VEE_AnimaSoils_Coast.label>почва души</VEE_AnimaSoils_Coast.label>
   <VEE_AuburnTree_Birches.description>В этом лесу многие деревья сохраняют красные и золотые оттенки, словно осень здесь никак не закончится.</VEE_AuburnTree_Birches.description>
   <VEE_AuburnTree_Birches.label>осенние берёзы</VEE_AuburnTree_Birches.label>
@@ -172,7 +172,7 @@
   <VEE_Mycelium.description>Здесь часто встречаются разнообразные грибы, устойчивые к свету и похожие на грибы светящихся лесов.</VEE_Mycelium.description>
   <VEE_Mycelium.label>мицелий</VEE_Mycelium.label>
   <VEE_NaturalAerie.description>В этой области чаще встречаются летающие животные.</VEE_NaturalAerie.description>
-  <VEE_NaturalAerie.label>обилие птиц</VEE_NaturalAerie.label>
+  <VEE_NaturalAerie.label>обилие летающих животных</VEE_NaturalAerie.label>
   <VEE_NoDiseases.description>Болезни поражают этот регион крайне редко и почти не представляют угрозы.</VEE_NoDiseases.description>
   <VEE_NoDiseases.label>отсутствие болезней</VEE_NoDiseases.label>
   <VEE_NoTrees.description>Деревья любых видов здесь не растут естественным образом.</VEE_NoTrees.description>
@@ -234,7 +234,7 @@
   <VEE_Sinkholes.description>В этом регионе несколько обвалов грунта образовали глубокие неустойчивые ямы, часто обнажающие лежащую под почвой скалу.</VEE_Sinkholes.description>
   <VEE_Sinkholes.label>провалы</VEE_Sinkholes.label>
   <VEE_SkygazingSpot.description>Безмятежное атмосферное явление побуждает поселенцев чаще любоваться небом. Повышает вероятность этого занятия и удовольствие от него.</VEE_SkygazingSpot.description>
-  <VEE_SkygazingSpot.label>звёздное небо</VEE_SkygazingSpot.label>
+  <VEE_SkygazingSpot.label>место для созерцания неба</VEE_SkygazingSpot.label>
   <VEE_SmallerRegion.description>Эта область имеет размеры на 30% меньше обычного.</VEE_SmallerRegion.description>
   <VEE_SmallerRegion.label>маленькая площадь</VEE_SmallerRegion.label>
   <VEE_SmokeVents.description>Тлеющие трещины время от времени выдыхают густой едкий дым. Он снижает видимость и душит лёгкие.</VEE_SmokeVents.description>

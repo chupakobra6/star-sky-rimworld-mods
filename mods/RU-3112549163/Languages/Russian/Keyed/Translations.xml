@@ -16,7 +16,7 @@
   <AbilityCasterNeedsCheck>Показатели потребностей применяющего способность вне допустимых диапазонов</AbilityCasterNeedsCheck>
   <AbilityCasterNoFaction>Применяющий способность не должен принадлежать фракции «{0}»</AbilityCasterNoFaction>
   <AbilityCasterNoMap>Нет доступной карты, на которой можно выбрать цель.</AbilityCasterNoMap>
-  <AbilityCasterNoRoof>Применяющий способность должен находиться вне помещения с крышей</AbilityCasterNoRoof>
+  <AbilityCasterNoRoof>Применяющий способность не должен находиться под крышей</AbilityCasterNoRoof>
   <AbilityCasterNoThickRoof>Применяющий способность не должен находиться под толстой крышей</AbilityCasterNoThickRoof>
   <AbilityCasterNoneCheck>Применяющий способность не может использовать: {0}</AbilityCasterNoneCheck>
   <AbilityCasterRoof>Применяющий способность должен находиться под крышей</AbilityCasterRoof>
@@ -80,7 +80,7 @@
   <AbilityTargetMustBePawn>Нужно выбрать персонажа</AbilityTargetMustBePawn>
   <AbilityTargetNeedsCheck>Показатели потребностей цели вне допустимых диапазонов</AbilityTargetNeedsCheck>
   <AbilityTargetNoFaction>Цель не должна принадлежать фракции «{0}»</AbilityTargetNoFaction>
-  <AbilityTargetNoRoof>Цель должна находиться вне помещения с крышей</AbilityTargetNoRoof>
+  <AbilityTargetNoRoof>Цель не должна находиться под крышей</AbilityTargetNoRoof>
   <AbilityTargetNoThickRoof>Цель не должна находиться под толстой крышей</AbilityTargetNoThickRoof>
   <AbilityTargetNonPlayer>Цель не должна принадлежать вашей фракции</AbilityTargetNonPlayer>
   <AbilityTargetNoneCheck>Цель не может использовать: {0}</AbilityTargetNoneCheck>
@@ -171,7 +171,7 @@
   <EBSG_DependencyNeedDurationDescriptionBase>{PAWN_nameDef}: чтобы выжить, нужно регулярно употреблять необходимую пищу или вещество — {0}.</EBSG_DependencyNeedDurationDescriptionBase>
   <EBSG_DependencyNeedDurationDescriptionDeath>Через {0} дн. {PAWN_pronoun} умрёт.</EBSG_DependencyNeedDurationDescriptionDeath>
   <EBSG_DependencyNeedDurationDescriptionFirst>Если не употреблять «{0}» в течение {1} дн., {PAWN_pronoun} получит состояние «{2}».</EBSG_DependencyNeedDurationDescriptionFirst>
-  <EBSG_DoQ>подходящий день квадрума</EBSG_DoQ>
+  <EBSG_DoQ>подходящий день квартала</EBSG_DoQ>
   <EBSG_DoY>подходящий день года</EBSG_DoY>
   <EBSG_Eject>Извлечь</EBSG_Eject>
   <EBSG_EjectModuleFrom>Извлечь модуль из</EBSG_EjectModuleFrom>

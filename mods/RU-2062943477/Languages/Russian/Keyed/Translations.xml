@@ -19,7 +19,7 @@
   <VPE_AdvGeoOutputMultiplier>Множитель мощности продв. геотермального генератора</VPE_AdvGeoOutputMultiplier>
   <VPE_AdvGeoOutputMultiplierTooltip>Выработка усовершенствованного геотермального генератора умножается на это значение.</VPE_AdvGeoOutputMultiplierTooltip>
   <VPE_AdvSolarOutputMultiplier>Множитель мощности продв. солнечной батареи</VPE_AdvSolarOutputMultiplier>
-  <VPE_AdvSolarOutputMultiplierTooltip>Выработка усовершенствованного солнечного генератора умножается на это значение.</VPE_AdvSolarOutputMultiplierTooltip>
+  <VPE_AdvSolarOutputMultiplierTooltip>Выработка продвинутой солнечной батареи умножается на это значение.</VPE_AdvSolarOutputMultiplierTooltip>
   <VPE_AdvWatermillOutputMultiplier>Множитель мощности продв. водяного генератора</VPE_AdvWatermillOutputMultiplier>
   <VPE_AdvWatermillOutputMultiplierTooltip>Выработка усовершенствованного водяного генератора умножается на это значение.</VPE_AdvWatermillOutputMultiplierTooltip>
   <VPE_AdvWindmillOutputMultiplier>Множитель мощности продв. ветрогенератора</VPE_AdvWindmillOutputMultiplier>
@@ -37,12 +37,12 @@
   <VPE_GasExplosionLostGas>Мощный взрыв уничтожил весь запас газа в подключённых резервуарах: {0} л·сут.</VPE_GasExplosionLostGas>
   <VPE_GasExplosionStartedFire>Из-за неисправности произошли взрыв газа и пожар. Источник: {0}.</VPE_GasExplosionStartedFire>
   <VPE_GasUpdateNoticeLetterLabel>Обновление модуля «Power»</VPE_GasUpdateNoticeLetterLabel>
-  <VPE_GasUpdateNoticeLetterText>Vanilla Furniture Expanded — Power получил важное обновление газовой сети хеликсина.
+  <VPE_GasUpdateNoticeLetterText>Vanilla Furniture Expanded — Power получил важное обновление сети геликсиенового газа.
 
 Первоначальный код, написанный мной, Sarg Bjornson, был довольно небрежным и вызывал множество ошибок и непредсказуемых сбоев. Благодаря Fluffy код газовой сети полностью переписан и теперь должен работать корректно.
 
 Внимание: большинство классов, управляющих газовой сетью, изменилось. В существующем сохранении нужно заново построить все её компоненты. Чтобы заменить постройки бесплатно, откройте режим разработчика и включите режим бога. Затем разберите старую газовую сеть вместе со всеми работающими на газе объектами и постройте их заново без расхода ресурсов.</VPE_GasUpdateNoticeLetterText>
-  <VPE_GeneratorIsOff>Жестокий архогенератор сейчас выключен и не работает</VPE_GeneratorIsOff>
+  <VPE_GeneratorIsOff>Архотехнологический генератор насилия сейчас выключен и не работает</VPE_GeneratorIsOff>
   <VPE_LetterLabelGasExplosion>Бабах!</VPE_LetterLabelGasExplosion>
   <VPE_LightningTime>Запасено энергии молнии на: </VPE_LightningTime>
   <VPE_LiquidOutput>Добыча газа</VPE_LiquidOutput>
@@ -79,7 +79,7 @@
   <VPE_RadiationProduced>Внимание: реактор излучает радиацию в радиусе {0} м</VPE_RadiationProduced>
   <VPE_Reset>Сбросить</VPE_Reset>
   <VPE_SolarHeader>Продвинутая солнечная батарея</VPE_SolarHeader>
-  <VPE_SoulHeader>Жестокий архогенератор</VPE_SoulHeader>
+  <VPE_SoulHeader>Архотехнологический генератор насилия</VPE_SoulHeader>
   <VPE_SoulMultiplier>Множитель запаса энергии от трупа</VPE_SoulMultiplier>
   <VPE_SoulMultiplierTooltip>Каждый свежий труп человека или другого гуманоида даёт запас энергии на 2 часа работы, умноженный на это значение. Штатное значение 2 даёт 4 часа работы от одного трупа.</VPE_SoulMultiplierTooltip>
   <VPE_SoulsTime>Запасено душ на: </VPE_SoulsTime>

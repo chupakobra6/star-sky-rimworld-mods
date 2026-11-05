@@ -25,7 +25,7 @@ namespace Igor.RU_3771580900
             } },
             { "DawnNewDay.DawnTranslation:get_Hints_LabelFormatPresets", new Dictionary<string,string> {
                 { "{DAY_QUADRUM_ORDINAL} of {QUADRUM}, {YEAR}", "День {DAY_QUADRUM_ORDINAL}; {QUADRUM}; {YEAR} год" },
-                { "{SETTLEMENT} Y{YEAR}, somewhere in the <lower>{BIOME}</lower>", "{SETTLEMENT}, {YEAR} год; где-то поблизости. Биом: <lower>{BIOME}</lower>" },
+                { "{SETTLEMENT} Y{YEAR}, somewhere in the <lower>{BIOME}</lower>", "{SETTLEMENT}, {YEAR} год; где-то в биоме <lower>{BIOME}</lower>" },
                 { "DAY {DAY_SETTLE} <size={FONTSIZE / 2}>{HOUR_D2}:00</size>", "ДЕНЬ {DAY_SETTLE} <size={FONTSIZE / 2}>{HOUR_D2}:00</size>" }
             } },
             { "DawnNewDay.DawnTranslation:get_Hints_MN_LabelFormatPresets", new Dictionary<string,string> {
