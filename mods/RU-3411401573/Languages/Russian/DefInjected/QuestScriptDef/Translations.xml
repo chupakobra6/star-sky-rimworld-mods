@@ -192,7 +192,7 @@
     <li>sitePart0_description-&gt;генератор АРК заметно повреждён, но из него ещё можно извлечь ценные детали</li>
     <li>sitePart0_description-&gt;объект сочетает древние руины и наспех разбитые бандитские лагеря</li>
     <li>sitePart0_description-&gt;по периметру замечены вражеские патрули</li>
-    <li>sitePart0_description-&gt;бандиты используют генераторный комплекс для своих нужд</li>
+    <li>sitePart0_description-&gt;бандиты используют генератор для энергоснабжения своих примитивных работ</li>
   </VQE_ArcSite.questDescriptionRules.rulesStrings>
   <VQE_ArcSite.questNameRules.rulesStrings>
     <li>questName-&gt;[adj] [arcName]</li>
@@ -236,7 +236,7 @@
     <li>sitePart0_description-&gt;геотермальный АРК сильно изношен, но ещё достаточно цел для разборки на детали</li>
     <li>sitePart0_description-&gt;сооружения комплекса ещё стоят, хотя заметно обветшали</li>
     <li>sitePart0_description-&gt;местность охраняют вражеские патрули, не позволяющие приблизиться беспрепятственно</li>
-    <li>sitePart0_description-&gt;бандиты, по-видимому, используют комплекс АРК для своих нужд</li>
+    <li>sitePart0_description-&gt;бандиты, по-видимому, используют АРК как источник энергии для своих нужд</li>
   </VQE_GeothermalArcSite.questDescriptionRules.rulesStrings>
   <VQE_GeothermalArcSite.questNameRules.rulesStrings>
     <li>questName-&gt;[adj] [siteType]: [arcType]</li>
@@ -353,7 +353,7 @@
     <li>sitePart0_description-&gt;остов частично сохранился, так что из него, возможно, удастся извлечь ценные детали</li>
     <li>sitePart0_description-&gt;на объекте древние промышленные руины перемежаются ветхими бандитскими лагерями</li>
     <li>sitePart0_description-&gt;по периметру замечены вражеские патрули</li>
-    <li>sitePart0_description-&gt;бандиты заняли остов АРК и используют объект для своих нужд</li>
+    <li>sitePart0_description-&gt;бандиты используют остов АРК для питания своих примитивных механизмов и оружия</li>
     <li>sitePart1_description-&gt;Вся местность накрыта токсичными осадками. Без подходящего снаряжения долго находиться здесь опасно.</li>
     <li>sitePart1_description-&gt;Над объектом нависло плотное облако токсичных осадков, создающее дополнительную опасность для всех, кто попытается приблизиться.</li>
     <li>sitePart1_description-&gt;Токсичные осадки из старого реактора АРК отравили местность и представляют серьёзную угрозу.</li>

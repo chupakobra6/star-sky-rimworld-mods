@@ -120,9 +120,9 @@
   <RtcBuff_RerollCeiling.label>Потолок 3 звёзд</RtcBuff_RerollCeiling.label>
   <RtcBuff_RimBorder.description>При активной синергии чужаков её бойцы получают +20% здоровья и +5% урона.</RtcBuff_RimBorder.description>
   <RtcBuff_RimBorder.label>Край? Граница?</RtcBuff_RimBorder.label>
-  <RtcBuff_RowChampions.description>В каждом бою по одному случайному бойцу в переднем, среднем и заднем ряду получают +15% ОЗ и +10% урона.</RtcBuff_RowChampions.description>
+  <RtcBuff_RowChampions.description>В каждом бою по одному случайному бойцу в переднем, среднем и заднем ряду получает +15% ОЗ и +10% урона.</RtcBuff_RowChampions.description>
   <RtcBuff_RowChampions.label>Ты стал сильнее, в атаку!</RtcBuff_RowChampions.label>
-  <RtcBuff_Smuggle.description>Вы сразу получаете 1 случайную деталь и 6 монет.</RtcBuff_Smuggle.description>
+  <RtcBuff_Smuggle.description>Вы сразу получаете 1 случайный компонент и 6 монет.</RtcBuff_Smuggle.description>
   <RtcBuff_Smuggle.label>Контрабанда</RtcBuff_Smuggle.label>
   <RtcBuff_SpareParts.description>Сразу даёт два случайных компонента снаряжения.</RtcBuff_SpareParts.description>
   <RtcBuff_SpareParts.label>Запасные детали</RtcBuff_SpareParts.label>

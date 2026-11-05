@@ -53,7 +53,7 @@
   <AG_ArmourMedium.symbolPack.prefixSymbols.0.symbol>ферро</AG_ArmourMedium.symbolPack.prefixSymbols.0.symbol>
   <AG_ArmourMedium.symbolPack.prefixSymbols.1.symbol>металло</AG_ArmourMedium.symbolPack.prefixSymbols.1.symbol>
   <AG_ArmourMinor.customEffectDescriptions.0>+20% к естественной броне против колюще-режущего и тупого урона.</AG_ArmourMinor.customEffectDescriptions.0>
-  <AG_ArmourMinor.description>Твёрдая кожа, похожая на древесину, даёт небольшую естественную защиту.</AG_ArmourMinor.description>
+  <AG_ArmourMinor.description>Твёрдая кожа, похожая на древесную кору, даёт небольшую естественную защиту.</AG_ArmourMinor.description>
   <AG_ArmourMinor.label>древесная кожа</AG_ArmourMinor.label>
   <AG_ArmourMinor.symbolPack.prefixSymbols.0.symbol>коро</AG_ArmourMinor.symbolPack.prefixSymbols.0.symbol>
   <AG_ArmouredSpeed.description>Носители этого гена быстрее передвигаются в тяжёлой броне.</AG_ArmouredSpeed.description>
@@ -398,7 +398,7 @@
   <AG_FirefoamBlood.symbolPack.wholeNameSymbols.0.symbol>пенокров</AG_FirefoamBlood.symbolPack.wholeNameSymbols.0.symbol>
   <AG_Fogger.customEffectDescriptions.0>Вокруг этого человека постоянно стоит туман</AG_Fogger.customEffectDescriptions.0>
   <AG_Fogger.customEffectDescriptions.1>Наномашины, сынок!</AG_Fogger.customEffectDescriptions.1>
-  <AG_Fogger.description>С ДНК носителя связано облако механитов. Они изменяют влажность окружающего воздуха, сгущая вокруг густой плотный туман.</AG_Fogger.description>
+  <AG_Fogger.description>С ДНК носителя связано облако механитов. Они изменяют влажность окружающего воздуха, создавая вокруг плотный туман.</AG_Fogger.description>
   <AG_Fogger.label>создание тумана</AG_Fogger.label>
   <AG_Fogger.symbolPack.prefixSymbols.0.symbol>туманно</AG_Fogger.symbolPack.prefixSymbols.0.symbol>
   <AG_Fogger.symbolPack.prefixSymbols.1.symbol>мглисто</AG_Fogger.symbolPack.prefixSymbols.1.symbol>
@@ -1022,7 +1022,7 @@
   <AG_Skin_PlantGreen.labelShortAdj>зелёный</AG_Skin_PlantGreen.labelShortAdj>
   <AG_Skin_PlantGreen.symbolPack.prefixSymbols.0.symbol>зелено</AG_Skin_PlantGreen.symbolPack.prefixSymbols.0.symbol>
   <AG_Skin_PlantGreen.symbolPack.prefixSymbols.1.symbol>фито</AG_Skin_PlantGreen.symbolPack.prefixSymbols.1.symbol>
-  <AG_Skin_PlantGreen.symbolPack.prefixSymbols.2.symbol>растение</AG_Skin_PlantGreen.symbolPack.prefixSymbols.2.symbol>
+  <AG_Skin_PlantGreen.symbolPack.prefixSymbols.2.symbol>растительно</AG_Skin_PlantGreen.symbolPack.prefixSymbols.2.symbol>
   <AG_Skin_PlantGreen.symbolPack.prefixSymbols.3.symbol>листо</AG_Skin_PlantGreen.symbolPack.prefixSymbols.3.symbol>
   <AG_Skin_PlantGreen.symbolPack.wholeNameSymbols.0.symbol>зеленокожий</AG_Skin_PlantGreen.symbolPack.wholeNameSymbols.0.symbol>
   <AG_Skin_Rot.description>У носителей этого гена гнилая кожа болезненного вида.</AG_Skin_Rot.description>

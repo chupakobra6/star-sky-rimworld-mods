@@ -9,7 +9,7 @@
   <VEE_AnimalPodCrashLabel_AceptedJoining>Спасённое животное присоединилось</VEE_AnimalPodCrashLabel_AceptedJoining>
   <VEE_AnimalPodCrashLabel_RefusedJoining>Спасённое животное не присоединилось</VEE_AnimalPodCrashLabel_RefusedJoining>
   <VEE_ApparelCargoPodDesc>Вы обнаружили несколько грузовых капсул, приземляющихся неподалёку!\n\nПохоже, в них лежит разная одежда, которую можно забрать из обломков.</VEE_ApparelCargoPodDesc>
-  <VEE_ApparelCargoPodLabel>Грузовые контейнеры (одежда)</VEE_ApparelCargoPodLabel>
+  <VEE_ApparelCargoPodLabel>Грузовые капсулы (одежда)</VEE_ApparelCargoPodLabel>
   <VEE_BattleAnimalsWanderDesc>Небольшая стая {0} пришла в регион из дикой местности.\n\nПохоже, эти животные привыкли к людям и сразу привязались к колонии. \n\nБлагодаря врождённым боевым качествам они станут отличными защитниками, если назначить им дрессировщика. Если же вам нечем их кормить, животных можно забить на мясо.</VEE_BattleAnimalsWanderDesc>
   <VEE_BattleAnimalsWanderLabel>Боевые животные прибиваются к поселению</VEE_BattleAnimalsWanderLabel>
   <VEE_CaravanAnimalsWanderDesc>Небольшая группа {0} пришла в регион из дикой местности.\n\nПохоже, это животные из пропавшего или уничтоженного торгового каравана: они навьючены тюками с товарами.\n\nМожно попытаться приручить животных, чтобы безопасно получить и их самих, и груз. Или выследить и убить их, чтобы забрать припасы силой.</VEE_CaravanAnimalsWanderDesc>
@@ -46,7 +46,7 @@
   <VEE_OrbitalCrashDesc>Прямо над вашим регионом на орбите катастрофически разрушился огромный корабль из {0}!\n\nВ ближайшие часы на местность будут падать крупные обломки корпуса, взрывоопасные детали двигателей, грузовые отсеки и спасательные капсулы.\n\nУкройте поселенцев под крышами или осторожно уклоняйтесь от падающих обломков. После окончания падения можно будет добыть много ресурсов и, вероятно, спасти выживших из-под обломков.</VEE_OrbitalCrashDesc>
   <VEE_OrbitalCrashLabel>Крушение орбитального корабля</VEE_OrbitalCrashLabel>
   <VEE_ResetSettings>Сбросить настройки</VEE_ResetSettings>
-  <VEE_ShuttleCrashDesc>Сильно повреждённый шаттл падает с неба и скоро рухнет неподалёку.\n\nПри ударе разольётся химическое топливо и начнётся опасный пожар.\n\nСреди обломков окажутся груз и пассажиры.\n\nДействуйте быстро, если хотите спасти выживших, забрать груз и не дать огню бесконтрольно распространиться.</VEE_ShuttleCrashDesc>
+  <VEE_ShuttleCrashDesc>Сильно повреждённый челнок падает с неба и скоро рухнет неподалёку.\n\nПри ударе разольётся химическое топливо и начнётся опасный пожар.\n\nСреди обломков окажутся груз и пассажиры.\n\nДействуйте быстро, если хотите спасти выживших, забрать груз и не дать огню бесконтрольно распространиться.</VEE_ShuttleCrashDesc>
   <VEE_ShuttleCrashLabel>Крушение челнока</VEE_ShuttleCrashLabel>
   <VEE_StopMapCondition>Завершить событие на карте…</VEE_StopMapCondition>
   <VEE_StopWorldCondition>Завершить событие в мире…</VEE_StopWorldCondition>
@@ -57,7 +57,7 @@
   <VEE_TraitorGroupLabel>Налёт под видом гостей</VEE_TraitorGroupLabel>
   <VEE_TraitorLabel>Предательство: {PAWN_nameDef}</VEE_TraitorLabel>
   <VEE_WeaponCargoPodDesc>Вы обнаружили грузовую капсулу, приземляющуюся неподалёку!\n\nПохоже, в ней было какое-то оружие, которое можно забрать из обломков.</VEE_WeaponCargoPodDesc>
-  <VEE_WeaponCargoPodLabel>Грузовые контейнеры (оружие)</VEE_WeaponCargoPodLabel>
+  <VEE_WeaponCargoPodLabel>Грузовые капсулы (оружие)</VEE_WeaponCargoPodLabel>
   <VEE_WhiteoutRefugees>Отчаявшиеся беженцы</VEE_WhiteoutRefugees>
   <VEE_WhiteoutRefugeesText>На краю вашего поселения появилась небольшая группа из {0} замерзающих выживших.\n\nИз-за продолжающейся снежной мглы они сильно переохладились и голодают. Они умоляют впустить их, дать согреться и поделиться едой.\n\nБудьте осторожны: они выглядят обезумевшими от отчаяния. Если вы откажете им и оставите замерзать в снегу, они, вероятно, попытаются захватить ваше убежище силой.\n\nВы примете их?</VEE_WhiteoutRefugeesText>
   <VEE_WhiteoutRefugees_Accepted>Беженцы благодарны вам за милосердие и присоединились к колонии, чтобы оправиться от пережитого.</VEE_WhiteoutRefugees_Accepted>

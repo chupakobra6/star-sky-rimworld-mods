@@ -320,7 +320,7 @@ RimWorld 1.6 · Версия 1.0.3
 
 [![Vanilla Events Expanded — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/vanilla-events-expanded-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306734)
 
-RimWorld 1.6 · Версия 1.0.3
+RimWorld 1.6 · Версия 1.0.4
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306734) · [Исходники и руководство](../mods/RU-1938420742/README.md) · [История изменений](../mods/RU-1938420742/CHANGELOG.md) · [Лицензия](../mods/RU-1938420742/LICENSE) · [Источники и уведомления](../mods/RU-1938420742/NOTICES.md)
 
@@ -362,7 +362,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 [![Alpha Genes — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/alpha-genes-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306776)
 
-RimWorld 1.6 · Версия 1.0.5
+RimWorld 1.6 · Версия 1.0.6
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306776) · [Исходники и руководство](../mods/RU-2891845502/README.md) · [История изменений](../mods/RU-2891845502/CHANGELOG.md) · [Лицензия](../mods/RU-2891845502/LICENSE) · [Источники и уведомления](../mods/RU-2891845502/NOTICES.md)
 
@@ -392,9 +392,11 @@ RimWorld 1.6 · Версия 1.0.0
 
 [![Vanilla Factions Expanded - Classical — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/vanilla-factions-expanded-classical-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3811275241)
 
-RimWorld 1.6 · Версия 1.0.0
+RimWorld 1.6 · Версия 1.0.2
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3811275241) · [Исходники и руководство](../mods/RU-2787850474/README.md) · [История изменений](../mods/RU-2787850474/CHANGELOG.md) · [Лицензия](../mods/RU-2787850474/LICENSE) · [Источники и уведомления](../mods/RU-2787850474/NOTICES.md)
+
+[![Другие моды в Мастерской Steam](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-ru.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)
 
 ## Vanilla Fishing Expanded — русский перевод
 
@@ -528,7 +530,7 @@ RimWorld 1.6 · Версия 1.0.3
 
 [![Vanilla Quests Expanded - The Generator — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/the-generator-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3816649430)
 
-RimWorld 1.6 · Версия 1.0.0
+RimWorld 1.6 · Версия 1.0.1
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3816649430) · [Исходники и руководство](../mods/RU-3411401573/README.md) · [История изменений](../mods/RU-3411401573/CHANGELOG.md) · [Лицензия](../mods/RU-3411401573/LICENSE) · [Источники и уведомления](../mods/RU-3411401573/NOTICES.md)
 
@@ -578,7 +580,7 @@ RimWorld 1.6 · Версия 1.0.4
 
 [![Vanilla Races Expanded - Android — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/vanilla-races-expanded-android-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3818475395)
 
-RimWorld 1.6 · Версия 1.0.1
+RimWorld 1.6 · Версия 1.0.2
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3818475395) · [Исходники и руководство](../mods/RU-2975771801/README.md) · [История изменений](../mods/RU-2975771801/CHANGELOG.md) · [Лицензия](../mods/RU-2975771801/LICENSE) · [Источники и уведомления](../mods/RU-2975771801/NOTICES.md)
 
@@ -648,7 +650,7 @@ RimWorld 1.6 · Версия 1.1.3
 
 [![RimtoChess — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/rimtochess-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3820544688)
 
-RimWorld 1.6 · Версия 1.0.0
+RimWorld 1.6 · Версия 1.0.1
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3820544688) · [Исходники и руководство](../mods/RU-3750476989/README.md) · [История изменений](../mods/RU-3750476989/CHANGELOG.md) · [Лицензия](../mods/RU-3750476989/LICENSE) · [Источники и уведомления](../mods/RU-3750476989/NOTICES.md)
 
@@ -658,11 +660,9 @@ RimWorld 1.6 · Версия 1.0.0
 
 [![Dragons Descent — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/dragons-descent-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3820589458)
 
-RimWorld 1.6 · Версия 1.0.0
+RimWorld 1.6 · Версия 1.0.1
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3820589458) · [Исходники и руководство](../mods/RU-2026992161/README.md) · [История изменений](../mods/RU-2026992161/CHANGELOG.md) · [Лицензия](../mods/RU-2026992161/LICENSE) · [Источники и уведомления](../mods/RU-2026992161/NOTICES.md)
-
-[![Другие моды в Мастерской Steam](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-ru.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)
 
 ## Keyz' Allow Utilities — русский перевод
 

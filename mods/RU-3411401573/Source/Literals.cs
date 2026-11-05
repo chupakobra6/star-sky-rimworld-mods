@@ -15,8 +15,8 @@ namespace Igor.RU_3411401573
             { "VanillaQuestsExpandedTheGenerator.Building_Genetron+<GetGizmos>d__16:MoveNext", new Dictionary<string,string> {
                 { "Set Running Time to 100 days", "Установить время работы: 100 дней" },
                 { "Set fuel burned to 10000", "Установить расход топлива: 10 000" },
-                { "Set geothermal studied to TRUE", "Отметить геотермальную АРК как изученную" },
-                { "Set nuclear studied to TRUE", "Отметить ядерную АРК как изученную" }
+                { "Set geothermal studied to TRUE", "Отметить геотермальный АРК как изученный" },
+                { "Set nuclear studied to TRUE", "Отметить ядерный АРК как изученный" }
             } },
             { "VanillaQuestsExpandedTheGenerator.Building_GenetronNuclear+<GetGizmos>d__9:MoveNext", new Dictionary<string,string> {
                 { "Fake a restart", "Имитировать перезапуск" },

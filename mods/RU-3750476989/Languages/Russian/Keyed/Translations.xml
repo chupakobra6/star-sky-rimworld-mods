@@ -347,7 +347,7 @@
   <Rtc_GhostImportUnusable>В этой сборке недоступны бойцы ({0}), поэтому призрак не может участвовать в бою. Импорт и просмотр всё ещё доступны.</Rtc_GhostImportUnusable>
   <Rtc_GhostImportUnusableHeader>Недоступные бойцы</Rtc_GhostImportUnusableHeader>
   <Rtc_GhostImportWorkshop>Открыть в Мастерской</Rtc_GhostImportWorkshop>
-  <Rtc_GhostImportedMsg>Призрак «{0}» импортирован. В нём {1} раундов истории.</Rtc_GhostImportedMsg>
+  <Rtc_GhostImportedMsg>Призрак «{0}» импортирован. Записано раундов: {1}.</Rtc_GhostImportedMsg>
   <Rtc_GhostInfiniteDisabled>Архив призраков недоступен в бесконечном режиме. Запись истории, выдача кодов и встречи с призраками отключены.</Rtc_GhostInfiniteDisabled>
   <Rtc_GhostMissingMods>Нельзя использовать в бою: не хватает модов ({0}) — {1}</Rtc_GhostMissingMods>
   <Rtc_GhostModSummaryMissing>Моды {0}/{1} - нет: {2}</Rtc_GhostModSummaryMissing>
@@ -365,7 +365,7 @@
   <Rtc_GhostSaveFailed>Эту партию нельзя сохранить как призрака.</Rtc_GhostSaveFailed>
   <Rtc_GhostSaveHint>После закрытия этого окна создать призрака текущей партии уже нельзя.</Rtc_GhostSaveHint>
   <Rtc_GhostSaved>Сохранено</Rtc_GhostSaved>
-  <Rtc_GhostSavedMsg>Призрак «{0}» сохранён. В нём {1} раундов истории.</Rtc_GhostSavedMsg>
+  <Rtc_GhostSavedMsg>Призрак «{0}» сохранён. Записано раундов: {1}.</Rtc_GhostSavedMsg>
   <Rtc_GhostShareCode>Поделиться</Rtc_GhostShareCode>
   <Rtc_GhostShareCodeBtn>Поделиться кодом</Rtc_GhostShareCodeBtn>
   <Rtc_GhostSummary>Активно: {0}</Rtc_GhostSummary>
@@ -452,8 +452,8 @@
   <Rtc_ModSigVal_Brace>шанс пережить смертельный удар: {0}%</Rtc_ModSigVal_Brace>
   <Rtc_ModSigVal_CoinLink>+{0} монет/раунд</Rtc_ModSigVal_CoinLink>
   <Rtc_ModSigVal_Lane>урон +{0}%</Rtc_ModSigVal_Lane>
-  <Rtc_ModSigVal_PartsFix>снаряжение: раз в {0} побед</Rtc_ModSigVal_PartsFix>
-  <Rtc_ModSigVal_Solace>+5 ОЗ за {0} раундов</Rtc_ModSigVal_Solace>
+  <Rtc_ModSigVal_PartsFix>снаряжение за победы: период {0}</Rtc_ModSigVal_PartsFix>
+  <Rtc_ModSigVal_Solace>+5 ОЗ, период в раундах: {0}</Rtc_ModSigVal_Solace>
   <Rtc_ModSig_Brace>Опора</Rtc_ModSig_Brace>
   <Rtc_ModSig_CoinLink>Денежная связь</Rtc_ModSig_CoinLink>
   <Rtc_ModSig_Lane>Продавливание линии</Rtc_ModSig_Lane>

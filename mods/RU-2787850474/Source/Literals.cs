@@ -12,10 +12,10 @@ namespace Igor.RU_2787850474
     {
         private static readonly Dictionary<string,Dictionary<string,string>> Methods =
             new Dictionary<string,Dictionary<string,string>> {
-            { "VFEC.Senators.DebugActionsSenators+<>c__DisplayClass0_0:<GainFavor>b__2", new Dictionary<string,string> {
+            { "VFEC.Perks.DebugActionsPerks:AddPerk", new Dictionary<string,string> {
                 { "*All", "*Все" }
             } },
-            { "VFEC.Perks.DebugActionsPerks:AddPerk", new Dictionary<string,string> {
+            { "VFEC.Senators.DebugActionsSenators+<>c__DisplayClass0_0:<GainFavor>b__2", new Dictionary<string,string> {
                 { "*All", "*Все" }
             } }
             };
