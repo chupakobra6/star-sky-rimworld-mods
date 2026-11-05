@@ -1,15 +1,15 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <SCB_AdrenalineBoost.description>Прилив адреналина во время бегства с младенцем ускоряет движения и обостряет реакцию в ближнем бою.</SCB_AdrenalineBoost.description>
-  <SCB_AdrenalineBoost.label>выброс адреналина</SCB_AdrenalineBoost.label>
-  <SCB_AdrenalineBoost.stages.protective_instinct.label>защитный инстинкт</SCB_AdrenalineBoost.stages.protective_instinct.label>
-  <SCB_AdrenalineBoostParent.description>Связь с собственным ребёнком вызывает ещё более сильный прилив адреналина во время бегства, ещё больше ускоряя движения и обостряя реакцию в ближнем бою.</SCB_AdrenalineBoostParent.description>
-  <SCB_AdrenalineBoostParent.label>родительский выброс адреналина</SCB_AdrenalineBoostParent.label>
-  <SCB_AdrenalineBoostParent.stages.parental_bond.label>родительская привязанность</SCB_AdrenalineBoostParent.stages.parental_bond.label>
-  <SCB_Hediff_SoreFromCarrying.description>От долгого ношения младенца заболели спина и плечи. Слинг или переноска замедляют нарастание боли.</SCB_Hediff_SoreFromCarrying.description>
-  <SCB_Hediff_SoreFromCarrying.label>боль от ношения ребёнка</SCB_Hediff_SoreFromCarrying.label>
-  <SCB_Hediff_SoreFromCarrying.stages.carry_fatigue.label>усталость от ношения ребёнка</SCB_Hediff_SoreFromCarrying.stages.carry_fatigue.label>
-  <SCB_Hediff_SoreFromCarrying.stages.slightly_sore_back.label>лёгкая боль в спине</SCB_Hediff_SoreFromCarrying.stages.slightly_sore_back.label>
-  <SCB_Hediff_SoreFromCarrying.stages.sore_back.label>боль в спине</SCB_Hediff_SoreFromCarrying.stages.sore_back.label>
-  <SCB_Hediff_SoreFromCarrying.stages.very_sore_back.label>сильная боль в спине</SCB_Hediff_SoreFromCarrying.stages.very_sore_back.label>
+  <SBC_AdrenalineBoost.description>Прилив адреналина во время бегства с младенцем обостряет реакцию и улучшает движение и ближний бой.</SBC_AdrenalineBoost.description>
+  <SBC_AdrenalineBoost.label>прилив адреналина</SBC_AdrenalineBoost.label>
+  <SBC_AdrenalineBoost.stages.0.label>инстинкт защиты</SBC_AdrenalineBoost.stages.0.label>
+  <SBC_AdrenalineBoostParent.description>Связь с собственным ребёнком вызывает ещё более сильный прилив адреналина во время бегства, дополнительно улучшая подвижность и реакцию в ближнем бою.</SBC_AdrenalineBoostParent.description>
+  <SBC_AdrenalineBoostParent.label>родительский адреналин</SBC_AdrenalineBoostParent.label>
+  <SBC_AdrenalineBoostParent.stages.0.label>родительская связь</SBC_AdrenalineBoostParent.stages.0.label>
+  <SBC_Hediff_SoreFromCarrying.description>От долгого ношения младенца заболели спина и плечи. Слинг или переноска замедляют нарастание боли.</SBC_Hediff_SoreFromCarrying.description>
+  <SBC_Hediff_SoreFromCarrying.label>боль от ношения</SBC_Hediff_SoreFromCarrying.label>
+  <SBC_Hediff_SoreFromCarrying.stages.0.label>усталость от ношения</SBC_Hediff_SoreFromCarrying.stages.0.label>
+  <SBC_Hediff_SoreFromCarrying.stages.1.label>лёгкая боль в спине</SBC_Hediff_SoreFromCarrying.stages.1.label>
+  <SBC_Hediff_SoreFromCarrying.stages.2.label>боль в спине</SBC_Hediff_SoreFromCarrying.stages.2.label>
+  <SBC_Hediff_SoreFromCarrying.stages.3.label>сильная боль в спине</SBC_Hediff_SoreFromCarrying.stages.3.label>
 </LanguageData>

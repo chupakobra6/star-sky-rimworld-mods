@@ -12,15 +12,13 @@ namespace Igor.RU_3692756679
     {
         private static readonly Dictionary<string,Dictionary<string,string>> Methods =
             new Dictionary<string,Dictionary<string,string>> {
-            { "b4ttl3m3ds.simplebabycarry.DataModels.Building_SpacerBabyPod+<DevPositionGizmos>d__66:MoveNext", new Dictionary<string,string> {
+            { "b4ttl3m3ds.simplebabycarry.DataModels.Building_SpacerBabyPod+<DevPositionGizmos>d__58:MoveNext", new Dictionary<string,string> {
                 { "Body", "Тело" },
                 { "DEV: Disable pod baby pos", "Отладка: скрыть настройку положения" },
                 { "DEV: Enable pod baby pos", "Отладка: настроить положение младенца в капсуле" },
                 { "DEV: Log values", "Отладка: записать значения в журнал" },
                 { "DEV: Reset", "Отладка: сбросить" },
-                { "Head", "Голова" },
-                { "Rot", "Поворот" },
-                { "Scale", "Масштаб" }
+                { "Rot", "Поворот" }
             } },
             { "b4ttl3m3ds.simplebabycarry.DataModels.CompPawnCarryBabyDevTools:AddBabyAndHeadDevGizmos", new Dictionary<string,string> {
                 { "DEV: Baby X +", "Отладка: Младенец X +" },
@@ -32,15 +30,7 @@ namespace Igor.RU_3692756679
                 { "DEV: Body Rot +", "Отладка: Поворот тела +" },
                 { "DEV: Body Rot -", "Отладка: Поворот тела −" },
                 { "DEV: Head Tilt +", "Отладка: Наклон головы +" },
-                { "DEV: Head Tilt -", "Отладка: Наклон головы −" },
-                { "DEV: Head X +", "Отладка: Голова X +" },
-                { "DEV: Head X -", "Отладка: Голова X −" },
-                { "DEV: Head Y + (Depth)", "Отладка: Голова Y + (глубина)" },
-                { "DEV: Head Y - (Depth)", "Отладка: Голова Y − (глубина)" },
-                { "DEV: Head Z +", "Отладка: Голова Z +" },
-                { "DEV: Head Z -", "Отладка: Голова Z −" },
-                { "DEV: Scale +", "Отладка: Масштаб +" },
-                { "DEV: Scale -", "Отладка: Масштаб −" }
+                { "DEV: Head Tilt -", "Отладка: Наклон головы −" }
             } },
             { "b4ttl3m3ds.simplebabycarry.DataModels.CompPawnCarryBabyDevTools:AddCarryApparelDevGizmos", new Dictionary<string,string> {
                 { "DEV: Carry Apparel Reset ?", "Отладка: Сбросить параметры переноски?" },
@@ -75,8 +65,6 @@ namespace Igor.RU_3692756679
                 { "DEV: Ear Z +0.01", "Отладка: Уши Z +0.01" },
                 { "DEV: Ear Z -0.01", "Отладка: Уши Z −0.01" },
                 { "DEV: Eye Reset", "Отладка: Сбросить параметры глаз" },
-                { "DEV: Eye Scale +", "Отладка: Масштаб глаз +" },
-                { "DEV: Eye Scale -", "Отладка: Масштаб глаз −" },
                 { "DEV: Eye X +0.01", "Отладка: Глаза X +0.01" },
                 { "DEV: Eye X -0.01", "Отладка: Глаза X −0.01" },
                 { "DEV: Eye Y +0.01", "Отладка: Глаза Y +0.01" },
@@ -95,8 +83,6 @@ namespace Igor.RU_3692756679
                 { "DEV: Tail Mirror (OFF)", "Отладка: Отражение хвоста (ВЫКЛ)" },
                 { "DEV: Tail Mirror (ON)", "Отладка: Отражение хвоста (ВКЛ)" },
                 { "DEV: Tail Reset", "Отладка: Сбросить параметры хвоста" },
-                { "DEV: Tail Scale +", "Отладка: Масштаб хвоста +" },
-                { "DEV: Tail Scale -", "Отладка: Масштаб хвоста −" },
                 { "DEV: Tail Tilt +", "Отладка: Наклон хвоста +" },
                 { "DEV: Tail Tilt -", "Отладка: Наклон хвоста −" },
                 { "DEV: Tail X +0.01", "Отладка: Хвост X +0.01" },
@@ -126,7 +112,7 @@ namespace Igor.RU_3692756679
             } }
             };
         private static readonly Dictionary<string,string[]> Parameters = new Dictionary<string,string[]> {
-            { "b4ttl3m3ds.simplebabycarry.DataModels.Building_SpacerBabyPod+<DevPositionGizmos>d__66:MoveNext", new string[] {  } },
+            { "b4ttl3m3ds.simplebabycarry.DataModels.Building_SpacerBabyPod+<DevPositionGizmos>d__58:MoveNext", new string[] {  } },
             { "b4ttl3m3ds.simplebabycarry.DataModels.CompPawnCarryBabyDevTools:AddBabyAndHeadDevGizmos", new string[] { "b4ttl3m3ds.simplebabycarry.DataModels.CompPawnCarryBaby", "System.Collections.Generic.List`1<Verse.Gizmo>" } },
             { "b4ttl3m3ds.simplebabycarry.DataModels.CompPawnCarryBabyDevTools:AddCarryApparelDevGizmos", new string[] { "b4ttl3m3ds.simplebabycarry.DataModels.CompPawnCarryBaby", "System.Collections.Generic.List`1<Verse.Gizmo>" } },
             { "b4ttl3m3ds.simplebabycarry.DataModels.CompPawnCarryBabyDevTools:AddDevGizmos", new string[] { "b4ttl3m3ds.simplebabycarry.DataModels.CompPawnCarryBaby", "System.Collections.Generic.List`1<Verse.Gizmo>", "System.Collections.Generic.IEnumerable`1<Verse.Gizmo>" } },

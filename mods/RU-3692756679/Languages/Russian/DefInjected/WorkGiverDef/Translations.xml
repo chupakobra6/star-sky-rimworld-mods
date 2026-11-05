@@ -1,18 +1,18 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <BreastfeedCarriedBaby.gerund>кормление</BreastfeedCarriedBaby.gerund>
-  <BreastfeedCarriedBaby.label>кормить младенца на руках</BreastfeedCarriedBaby.label>
-  <BreastfeedCarriedBaby.verb>кормить</BreastfeedCarriedBaby.verb>
-  <BringCarriedBabyToCrib.gerund>перенос в колыбель</BringCarriedBabyToCrib.gerund>
-  <BringCarriedBabyToCrib.label>относить младенца с рук в кроватку</BringCarriedBabyToCrib.label>
-  <BringCarriedBabyToCrib.verb>отнести в колыбель</BringCarriedBabyToCrib.verb>
-  <PlayWithCarriedBaby.gerund>игра с</PlayWithCarriedBaby.gerund>
-  <PlayWithCarriedBaby.label>играть с младенцем на руках</PlayWithCarriedBaby.label>
-  <PlayWithCarriedBaby.verb>играть с</PlayWithCarriedBaby.verb>
-  <ReclaimSpacerPod.gerund>подъём</ReclaimSpacerPod.gerund>
-  <ReclaimSpacerPod.label>поднимать поставленные на землю космические переноски</ReclaimSpacerPod.label>
-  <ReclaimSpacerPod.verb>поднять</ReclaimSpacerPod.verb>
-  <SCB_BreastfeedCarryToBedriddenMother.gerund>помощь матери с кормлением грудью</SCB_BreastfeedCarryToBedriddenMother.gerund>
-  <SCB_BreastfeedCarryToBedriddenMother.label>относить младенца к матери в постели</SCB_BreastfeedCarryToBedriddenMother.label>
-  <SCB_BreastfeedCarryToBedriddenMother.verb>помочь матери покормить грудью</SCB_BreastfeedCarryToBedriddenMother.verb>
+  <SBC_BreastfeedCarriedBaby.gerund>кормление</SBC_BreastfeedCarriedBaby.gerund>
+  <SBC_BreastfeedCarriedBaby.label>кормить младенца на руках</SBC_BreastfeedCarriedBaby.label>
+  <SBC_BreastfeedCarriedBaby.verb>кормить</SBC_BreastfeedCarriedBaby.verb>
+  <SBC_BreastfeedCarryToBedriddenMother.gerund>перенос к матери для кормления грудью</SBC_BreastfeedCarryToBedriddenMother.gerund>
+  <SBC_BreastfeedCarryToBedriddenMother.label>нести к лежащей матери</SBC_BreastfeedCarryToBedriddenMother.label>
+  <SBC_BreastfeedCarryToBedriddenMother.verb>отнести к матери для кормления грудью</SBC_BreastfeedCarryToBedriddenMother.verb>
+  <SBC_BringCarriedBabyToCrib.gerund>перенос в колыбель</SBC_BringCarriedBabyToCrib.gerund>
+  <SBC_BringCarriedBabyToCrib.label>отнести младенца в колыбель</SBC_BringCarriedBabyToCrib.label>
+  <SBC_BringCarriedBabyToCrib.verb>отнести в колыбель</SBC_BringCarriedBabyToCrib.verb>
+  <SBC_PlayWithCarriedBaby.gerund>игра с</SBC_PlayWithCarriedBaby.gerund>
+  <SBC_PlayWithCarriedBaby.label>играть с младенцем на руках</SBC_PlayWithCarriedBaby.label>
+  <SBC_PlayWithCarriedBaby.verb>играть с</SBC_PlayWithCarriedBaby.verb>
+  <SBC_ReclaimSpacerPod.gerund>поднятие переноски</SBC_ReclaimSpacerPod.gerund>
+  <SBC_ReclaimSpacerPod.label>подбирать установленные космические переноски</SBC_ReclaimSpacerPod.label>
+  <SBC_ReclaimSpacerPod.verb>поднять</SBC_ReclaimSpacerPod.verb>
 </LanguageData>

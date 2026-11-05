@@ -1,27 +1,27 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <BatheCarriedBaby.reportString>моет младенца.</BatheCarriedBaby.reportString>
-  <BreastfeedCarriedBaby.reportString>кормит младенца грудью.</BreastfeedCarriedBaby.reportString>
-  <BringBabyToCrib.reportString>несёт младенца в кроватку.</BringBabyToCrib.reportString>
-  <BringBabyToDownedNurse.reportString>несёт младенца на кормление грудью.</BringBabyToDownedNurse.reportString>
-  <BringBabyToNurseFeed.reportString>несёт младенца на кормление грудью.</BringBabyToNurseFeed.reportString>
-  <BringBabyToSleepingPlace.reportString>несёт младенца к месту для сна.</BringBabyToSleepingPlace.reportString>
-  <BringCarriedBabyToSafety.reportString>несёт младенца в безопасное место.</BringCarriedBabyToSafety.reportString>
-  <CarryAdditionalBabyCustom.reportString>несёт на руках: TargetA.</CarryAdditionalBabyCustom.reportString>
-  <CarryBabyCustom.reportString>несёт младенца: TargetA.</CarryBabyCustom.reportString>
-  <CarryBabyToGrowthVat.reportString>несёт младенца в капсулу роста.</CarryBabyToGrowthVat.reportString>
-  <FeedCarriedBaby.reportString>кормит младенца.</FeedCarriedBaby.reportString>
-  <FetchFoodForBaby.reportString>идёт за едой для младенца.</FetchFoodForBaby.reportString>
-  <PutBabyIntoSpacerPod.reportString>помещает младенца в космическую переноску.</PutBabyIntoSpacerPod.reportString>
-  <ReclaimSpacerPod.reportString>поднимает космическую переноску.</ReclaimSpacerPod.reportString>
-  <ReclaimSpacerPodAndBreastfeed.reportString>поднимает космическую переноску, чтобы покормить младенца грудью.</ReclaimSpacerPodAndBreastfeed.reportString>
-  <ReclaimSpacerPodAndFeed.reportString>поднимает космическую переноску, чтобы покормить младенца.</ReclaimSpacerPodAndFeed.reportString>
-  <ReclaimSpacerPodAndNurseFeed.reportString>поднимает космическую переноску, чтобы отнести младенца на кормление грудью.</ReclaimSpacerPodAndNurseFeed.reportString>
-  <ReclaimSpacerPodAndPlay.reportString>поднимает космическую переноску, чтобы поиграть с младенцем.</ReclaimSpacerPodAndPlay.reportString>
-  <SCB_BreastfeedCarryToMobileMom.reportString>несёт TargetA к TargetB.</SCB_BreastfeedCarryToMobileMom.reportString>
-  <SCB_PrepareCarriedBabyPlay.reportString>готовится к игре. Младенец: TargetA.</SCB_PrepareCarriedBabyPlay.reportString>
-  <TakeBabyOutOfSpacerPod.reportString>вынимает младенца из космической переноски.</TakeBabyOutOfSpacerPod.reportString>
-  <ThrowBabyToColonist.reportString>перебрасывает младенца другому поселенцу.</ThrowBabyToColonist.reportString>
-  <TransferBabyToColonist.reportString>передаёт младенца.</TransferBabyToColonist.reportString>
-  <WearSpacerCarrierFromPod.reportString>надевает космическую переноску.</WearSpacerCarrierFromPod.reportString>
+  <SBC_BatheCarriedBaby.reportString>моет младенца.</SBC_BatheCarriedBaby.reportString>
+  <SBC_BreastfeedCarriedBaby.reportString>кормит младенца грудью.</SBC_BreastfeedCarriedBaby.reportString>
+  <SBC_BreastfeedCarryToMobileMom.reportString>несёт TargetA к TargetB.</SBC_BreastfeedCarryToMobileMom.reportString>
+  <SBC_BringBabyToCrib.reportString>несёт младенца в колыбель.</SBC_BringBabyToCrib.reportString>
+  <SBC_BringBabyToDownedNurse.reportString>несёт младенца на кормление грудью.</SBC_BringBabyToDownedNurse.reportString>
+  <SBC_BringBabyToNurseFeed.reportString>несёт младенца на кормление грудью.</SBC_BringBabyToNurseFeed.reportString>
+  <SBC_BringBabyToSleepingPlace.reportString>несёт младенца к спальному месту.</SBC_BringBabyToSleepingPlace.reportString>
+  <SBC_BringCarriedBabyToSafety.reportString>несёт младенца в безопасное место.</SBC_BringCarriedBabyToSafety.reportString>
+  <SBC_CarryAdditionalBabyCustom.reportString>несёт TargetA на руках.</SBC_CarryAdditionalBabyCustom.reportString>
+  <SBC_CarryBabyCustom.reportString>несёт TargetA.</SBC_CarryBabyCustom.reportString>
+  <SBC_CarryBabyToGrowthVat.reportString>несёт младенца к ростовому чану.</SBC_CarryBabyToGrowthVat.reportString>
+  <SBC_FeedCarriedBaby.reportString>кормит младенца.</SBC_FeedCarriedBaby.reportString>
+  <SBC_FetchFoodForBaby.reportString>несёт еду для младенца.</SBC_FetchFoodForBaby.reportString>
+  <SBC_PrepareCarriedBabyPlay.reportString>готовится играть с TargetA.</SBC_PrepareCarriedBabyPlay.reportString>
+  <SBC_PutBabyIntoSpacerPod.reportString>помещает младенца в космическую переноску.</SBC_PutBabyIntoSpacerPod.reportString>
+  <SBC_ReclaimSpacerPod.reportString>поднимает космическую переноску.</SBC_ReclaimSpacerPod.reportString>
+  <SBC_ReclaimSpacerPodAndBreastfeed.reportString>поднимает космическую переноску, чтобы покормить младенца грудью.</SBC_ReclaimSpacerPodAndBreastfeed.reportString>
+  <SBC_ReclaimSpacerPodAndFeed.reportString>поднимает космическую переноску, чтобы покормить младенца.</SBC_ReclaimSpacerPodAndFeed.reportString>
+  <SBC_ReclaimSpacerPodAndNurseFeed.reportString>поднимает космическую переноску, чтобы отнести младенца к кормилице.</SBC_ReclaimSpacerPodAndNurseFeed.reportString>
+  <SBC_ReclaimSpacerPodAndPlay.reportString>поднимает космическую переноску, чтобы поиграть с младенцем.</SBC_ReclaimSpacerPodAndPlay.reportString>
+  <SBC_TakeBabyOutOfSpacerPod.reportString>достаёт младенца из космической переноски.</SBC_TakeBabyOutOfSpacerPod.reportString>
+  <SBC_ThrowBabyToColonist.reportString>бросает младенца поселенцу.</SBC_ThrowBabyToColonist.reportString>
+  <SBC_TransferBabyToColonist.reportString>передаёт младенца.</SBC_TransferBabyToColonist.reportString>
+  <SBC_WearSpacerCarrierFromPod.reportString>надевает космическую переноску.</SBC_WearSpacerCarrierFromPod.reportString>
 </LanguageData>
