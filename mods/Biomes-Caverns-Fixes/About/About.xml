@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModMetaData>
+  <name>Biomes Caverns Fixes [Star Sky Mods]</name>
+  <author>chupakobra6 | Star Sky Mods</author>
+  <packageId>starsky.rimworld.biomescaverns.fixes</packageId>
+  <modVersion>1.0.0</modVersion>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>biomesteam.biomescaverns</packageId>
+      <displayName>Biomes! Caverns</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2969748433</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>starsky.rimworld.biomes.audio.bootstrap</packageId>
+      <displayName>MP3 Audio Bootstrap</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/3834065836</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>brrainz.harmony</li>
+    <li>biomesteam.biomescaverns</li>
+    <li>druid.fungilite</li>
+    <li>starsky.rimworld.biomes.audio.bootstrap</li>
+  </loadAfter>
+  <description>Fix a missing fermentation message and Fungi lite compatibility errors in Biomes! Caverns. A one-time setup on macOS also restores sounds that fail to load
+
+&lt;b&gt;FEATURES&lt;/b&gt;
+The fermentation barrel uses the correct message when mushroom must is missing
+
+With Fungi lite active, the fix updates the plant component, the missing building-hit sound reference and stale spore references in fuel and ingredient filters
+
+&lt;b&gt;HOW TO USE&lt;/b&gt;
+Enable this fix for the gameplay corrections. For audio on macOS, close RimWorld, open Terminal in the fix's folder under Steam's workshop/content/294100 directory and run the command below.
+
+bash Tools/prepare-audio.sh
+
+This creates 87 WAV files on your Mac from your installed copy of Biomes! Caverns and takes about 900 MiB of disk space. If you keep the original in another Steam library, pass its folder as the first argument. Run the command again if Steam clears the local cache. If the script reports different source files, check for a compatible update to the fix
+
+&lt;b&gt;COMPATIBILITY&lt;/b&gt;
+RimWorld 1.6. Requires Harmony (https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077), Biomes! Caverns (https://steamcommunity.com/sharedfiles/filedetails/?id=2969748433) and MP3 Audio Bootstrap (https://steamcommunity.com/sharedfiles/filedetails/?id=3834065836). Load Bootstrap after Harmony and before Core. Load this fix after Biomes! Caverns and after Fungi lite if you use it
+
+&lt;b&gt;FEEDBACK&lt;/b&gt;
+Found a bug? Leave a comment on the mod page or on Boosty
+
+Original mod by The Biomes Mod Team. The original sounds and music are credited to Dendroid. Harmony is by Andreas Pardeike
+
+Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.</description>
+</ModMetaData>

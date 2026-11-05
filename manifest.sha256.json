@@ -585,6 +585,22 @@
         "Assemblies/PawnGenerationFixes.dll"
       ],
       "licenseId": "MIT"
+    },
+    {
+      "path": "mods/Biomes-Audio-Bootstrap",
+      "workshopId": "3834065836",
+      "assemblies": [
+        "Assemblies/BiomesAudioBootstrap.dll"
+      ],
+      "licenseId": "MIT"
+    },
+    {
+      "path": "mods/Biomes-Caverns-Fixes",
+      "workshopId": "3834065838",
+      "assemblies": [
+        "Assemblies/BiomesCavernsFixes.dll"
+      ],
+      "licenseId": "MIT"
     }
   ],
   "files": [
@@ -595,8 +611,8 @@
     },
     {
       "path": "catalog/fixes.md",
-      "bytes": 4649,
-      "sha256": "debd2eb18cf3e69e1800c572709943c01dac63ce2bcb87cf79d16791872f77e4"
+      "bytes": 6122,
+      "sha256": "2fb2eb9e47f66e46ed0b34eb6f8fe150bf0526a97fa95a33f5faa009e1f67ffe"
     },
     {
       "path": "catalog/mods.md",
@@ -607,6 +623,121 @@
       "path": "catalog/translations.md",
       "bytes": 61243,
       "sha256": "3fbc27d2e4087d47c86967785907a9c8461e4298dac0fffbfe89c790bc4f3776"
+    },
+    {
+      "path": "mods/Biomes-Audio-Bootstrap/About/About.xml",
+      "bytes": 1730,
+      "sha256": "aa6f905dd2d5c9d43a435c115972db8245ecb1261872a1b77927a541a4b2d7b2"
+    },
+    {
+      "path": "mods/Biomes-Audio-Bootstrap/About/Preview.png",
+      "bytes": 89424,
+      "sha256": "34b8c248e9d1e351cbfd7e7842a5b9f3824119a0e786a0ed156e5a06e7ff8ac5"
+    },
+    {
+      "path": "mods/Biomes-Audio-Bootstrap/About/PublishedFileId.txt",
+      "bytes": 11,
+      "sha256": "d92fb40fb9e9fbd220b6ef4bfd92b5c0d17e047bb1d009d124cc3048baab6914"
+    },
+    {
+      "path": "mods/Biomes-Audio-Bootstrap/Assemblies/BiomesAudioBootstrap.dll",
+      "bytes": 10752,
+      "sha256": "557445e332503442864cef80f9586e3d555f2b3a7dd73918a7b5eb66faf9182f"
+    },
+    {
+      "path": "mods/Biomes-Audio-Bootstrap/CHANGELOG.md",
+      "bytes": 240,
+      "sha256": "8e8e5eaf58bc048131686c5cdd1c61b577aed1bb9aa7d6831e550a5174cd477b"
+    },
+    {
+      "path": "mods/Biomes-Audio-Bootstrap/LICENSE",
+      "bytes": 1068,
+      "sha256": "8a32425e028111706b44ae429746c725582435de638e3306dd98a4fa8861bff8"
+    },
+    {
+      "path": "mods/Biomes-Audio-Bootstrap/NOTICES.md",
+      "bytes": 627,
+      "sha256": "ece1e909352689b342067b0d755c9290080d802c5bbafcd2d20a33a162a7695a"
+    },
+    {
+      "path": "mods/Biomes-Audio-Bootstrap/README.md",
+      "bytes": 2227,
+      "sha256": "0bcc59baa23f7c4cd70c7a32266ee8434216948b0b710c76c6885403e5c0e8ce"
+    },
+    {
+      "path": "mods/Biomes-Audio-Bootstrap/Source/AudioBootstrap.cs",
+      "bytes": 6171,
+      "sha256": "b1d82c5dea568aef859c893f822c00fd37eda44ad2e2a2fad985104430563ac5"
+    },
+    {
+      "path": "mods/Biomes-Caverns-Fixes/About/About.xml",
+      "bytes": 3079,
+      "sha256": "ade131f5494124c7ae57155cc604ee5daa2c676da238c2f07765246ae8cc3ff0"
+    },
+    {
+      "path": "mods/Biomes-Caverns-Fixes/About/Preview.png",
+      "bytes": 101181,
+      "sha256": "5a6d5a7f71c184a016e52534cc06ec6a7781dabc58e1369d1cbb20ca1f88556a"
+    },
+    {
+      "path": "mods/Biomes-Caverns-Fixes/About/PublishedFileId.txt",
+      "bytes": 11,
+      "sha256": "2e6ade10701851e57adb05d4d171bee5f7e6da75d3483255f82d888ed3ac8281"
+    },
+    {
+      "path": "mods/Biomes-Caverns-Fixes/Assemblies/BiomesCavernsFixes.dll",
+      "bytes": 5120,
+      "sha256": "ed8dbb92e5d0dbc13a961e292bbe9cba5ce9d96c8fbd65745a9d0d170daa3b18"
+    },
+    {
+      "path": "mods/Biomes-Caverns-Fixes/audio-manifest.tsv",
+      "bytes": 16645,
+      "sha256": "81aaded9b7326737fefef8ed5060254b9f1046895a7cfa7e3b0e9ce0479d34f5"
+    },
+    {
+      "path": "mods/Biomes-Caverns-Fixes/CHANGELOG.md",
+      "bytes": 258,
+      "sha256": "2f446b86ec6fafc4b7a5608a9ebe21e42496f7193c24d59ce7bbbf8216714a3e"
+    },
+    {
+      "path": "mods/Biomes-Caverns-Fixes/LICENSE",
+      "bytes": 1068,
+      "sha256": "8a32425e028111706b44ae429746c725582435de638e3306dd98a4fa8861bff8"
+    },
+    {
+      "path": "mods/Biomes-Caverns-Fixes/NOTICES.md",
+      "bytes": 1079,
+      "sha256": "b4eff3c5f5731493a5779a2f387105b4b6d8b3a16bc1c9bb48b52ef663e180b2"
+    },
+    {
+      "path": "mods/Biomes-Caverns-Fixes/Patches/FungiLiteBlastSpore.xml",
+      "bytes": 861,
+      "sha256": "5af6f2f8e8a2d07abeb72dbb2ce991efafb520bc17084f8dbbc05ab924698da2"
+    },
+    {
+      "path": "mods/Biomes-Caverns-Fixes/Patches/FungiLiteClass.xml",
+      "bytes": 484,
+      "sha256": "d2973b52ddd16c5c5f09c35455f37f669a03b30ad3818a9d5f3051b4eaeb9032"
+    },
+    {
+      "path": "mods/Biomes-Caverns-Fixes/Patches/FungiLiteSound.xml",
+      "bytes": 518,
+      "sha256": "0ac29a9af91b24c1eaf7d3b5f27d697600e7c4eba613b453f8bb5b5fb856e0b1"
+    },
+    {
+      "path": "mods/Biomes-Caverns-Fixes/README.md",
+      "bytes": 3238,
+      "sha256": "433332620fa68ac5a69afd093304a2993aa0f26f32a083abaa43a277bb24b4b4"
+    },
+    {
+      "path": "mods/Biomes-Caverns-Fixes/Source/MushroomMustKey.cs",
+      "bytes": 1147,
+      "sha256": "7734369bbb4e0c3eee1500c74367b71948349e21e464f1691a80f11aac3d3468"
+    },
+    {
+      "path": "mods/Biomes-Caverns-Fixes/Tools/prepare-audio.sh",
+      "bytes": 4272,
+      "sha256": "869ed005b4884f231c004a441c0393db45697ee52be0bffd80fdac7f7a75397c"
     },
     {
       "path": "mods/CharacterEditor-Fixes/About/About.xml",
@@ -12501,7 +12632,7 @@
     {
       "path": "README.md",
       "bytes": 2409,
-      "sha256": "47fd9c7bdb2155c4314d69bec9779ba426ad7f0d235986b56b156515c3fd4a28"
+      "sha256": "76b9c152c2c7b767d961c99ac2d0685ac4b294ee8eb6d84cde125d43651d4aed"
     }
   ]
 }

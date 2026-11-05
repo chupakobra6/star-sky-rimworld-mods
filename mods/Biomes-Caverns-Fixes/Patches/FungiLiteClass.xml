@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationFindMod">
+    <mods><li>Fungi lite</li></mods>
+    <success>Always</success>
+    <match Class="PatchOperationAttributeSet">
+      <xpath>Defs/ThingDef[defName="FUNGI_PLANT_DEF"]/comps/li[@Class="CompPawnGrower.CompProperties_PawnGrower"]</xpath>
+      <attribute>Class</attribute>
+      <value>Fungi.CompProperties_PawnGrower</value>
+      <success>Always</success>
+    </match>
+  </Operation>
+</Patch>

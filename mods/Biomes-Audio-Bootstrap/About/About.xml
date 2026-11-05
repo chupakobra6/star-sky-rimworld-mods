@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>MP3 Audio Bootstrap [Star Sky Mods]</name><author>chupakobra6 | Star Sky Mods</author><packageId>starsky.rimworld.biomes.audio.bootstrap</packageId>
+  <modVersion>1.0.0</modVersion>
+  <supportedVersions><li>1.6</li></supportedVersions>
+  <modDependencies><li><packageId>brrainz.harmony</packageId><displayName>Harmony</displayName><steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl></li></modDependencies>
+  <loadAfter><li>brrainz.harmony</li></loadAfter>
+  <loadBefore><li>taranchuk.fastergameloading</li><li>ludeon.rimworld</li></loadBefore>
+  <description>Let compatible audio fixes on macOS load local WAV copies before RimWorld reads the original MP3 files
+
+&lt;b&gt;FEATURES&lt;/b&gt;
+The loader redirects audio only when the original files match the fix's manifest and the local WAV files are present. If either check fails, the game uses the original audio files
+
+&lt;b&gt;HOW TO USE&lt;/b&gt;
+Install a compatible audio fix such as Biomes Caverns Fixes and follow its local audio setup instructions
+
+&lt;b&gt;COMPATIBILITY&lt;/b&gt;
+RimWorld 1.6. Requires Harmony (https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077). Load Harmony first, then MP3 Audio Bootstrap, then Core. If you use Faster Game Loading, put it after MP3 Audio Bootstrap
+
+&lt;b&gt;FEEDBACK&lt;/b&gt;
+Found a bug? Leave a comment on the mod page or on Boosty
+
+Dependencies: Harmony is by Andreas Pardeike
+
+Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.</description>
+</ModMetaData>

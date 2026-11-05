@@ -63,3 +63,25 @@ RimWorld 1.6 · Version 1.0.0
 [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3834065834) · [Source & guide](../mods/Pawn-Generation-Fixes/README.md) · [Changelog](../mods/Pawn-Generation-Fixes/CHANGELOG.md) · [License](../mods/Pawn-Generation-Fixes/LICENSE) · [Sources & notices](../mods/Pawn-Generation-Fixes/NOTICES.md)
 
 [![Explore other mods on Steam Workshop](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-en.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)
+
+## MP3 Audio Bootstrap
+
+Load local WAV caches for supported macOS audio fixes
+
+[![MP3 Audio Bootstrap](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/mp3-audio-bootstrap.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3834065836)
+
+RimWorld 1.6 · Version 1.0.0
+
+[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3834065836) · [Source & guide](../mods/Biomes-Audio-Bootstrap/README.md) · [Changelog](../mods/Biomes-Audio-Bootstrap/CHANGELOG.md) · [License](../mods/Biomes-Audio-Bootstrap/LICENSE) · [Sources & notices](../mods/Biomes-Audio-Bootstrap/NOTICES.md)
+
+## Biomes Caverns Fixes
+
+Fix Caverns and Fungi lite compatibility with local audio setup for macOS
+
+[![Biomes Caverns Fixes](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/biomes-caverns-fixes.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3834065838)
+
+RimWorld 1.6 · Version 1.0.0
+
+[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3834065838) · [Source & guide](../mods/Biomes-Caverns-Fixes/README.md) · [Changelog](../mods/Biomes-Caverns-Fixes/CHANGELOG.md) · [License](../mods/Biomes-Caverns-Fixes/LICENSE) · [Sources & notices](../mods/Biomes-Caverns-Fixes/NOTICES.md)
+
+[![Explore other mods on Steam Workshop](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-en.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)

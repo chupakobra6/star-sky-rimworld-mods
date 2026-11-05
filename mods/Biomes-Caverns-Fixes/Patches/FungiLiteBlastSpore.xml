@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationFindMod">
+    <mods><li>Fungi lite</li></mods>
+    <success>Always</success>
+    <match Class="PatchOperationConditional">
+      <xpath>Defs[ThingDef[defName="BMT_BlastSpore"] and not(ThingDef[defName="BMT_BoomSpore"])]</xpath>
+      <match Class="PatchOperationReplace">
+        <xpath>Defs/RecipeDef/ingredients/li/filter/thingDefs/li[text()="BMT_BoomSpore"]/text() | Defs/RecipeDef/fixedIngredientFilter/thingDefs/li[text()="BMT_BoomSpore"]/text() | Defs/RecipeDef/defaultIngredientFilter/thingDefs/li[text()="BMT_BoomSpore"]/text() | Defs/ThingDef/comps/li/fuelFilter/thingDefs/li[text()="BMT_BoomSpore"]/text()</xpath>
+        <value>BMT_BlastSpore</value>
+        <success>Always</success>
+      </match>
+      <success>Always</success>
+    </match>
+  </Operation>
+</Patch>

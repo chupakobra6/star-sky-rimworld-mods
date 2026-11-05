@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationFindMod">
+    <mods><li>Fungi lite</li></mods>
+    <success>Always</success>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="Alien_Fungi"]/race/soundMeleeHitBuilding[text()="Pawn_Melee_Punch_HitBuilding"]</xpath>
+      <value><soundMeleeHitBuilding>Pawn_Melee_Punch_HitBuilding_Generic</soundMeleeHitBuilding></value>
+      <success>Always</success>
+    </match>
+  </Operation>
+</Patch>
