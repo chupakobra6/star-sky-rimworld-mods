@@ -127,5 +127,25 @@
   <KUA_ToggleNoHaulUrgentlyDisableDesc>Разрешить переноску предмета.</KUA_ToggleNoHaulUrgentlyDisableDesc>
   <KeyzAllowUtilities_SettingsCategory>Инструменты управления Keyz</KeyzAllowUtilities_SettingsCategory>
   <KeyzAllowUtilities_Settings_MaxSelect>Максимум выделенных предметов: [{0}]</KeyzAllowUtilities_Settings_MaxSelect>
+  <KAU_AutoHaulHuntedAnimals>Автоматически переносить добычу с охоты</KAU_AutoHaulHuntedAnimals>
+  <KAU_AutoHaulHuntedAnimals_Tip>Когда животное, отмеченное для охоты, погибает, его труп помечается для срочной переноски.</KAU_AutoHaulHuntedAnimals_Tip>
+  <KAU_DisableNoStorageAlert>Отключить предупреждение о предметах без места хранения</KAU_DisableNoStorageAlert>
+  <KAU_DisablePartyHunt>Отключить групповую охоту</KAU_DisablePartyHunt>
+  <KAU_DisableRangedFinishOff>Отключить добивание выстрелом</KAU_DisableRangedFinishOff>
+  <KAU_DisableRangedFinishOff_Tip>Если настройка отключена, поселенец с оружием дальнего боя добивает выстрелом в упор, когда его навык стрельбы выше навыка ближнего боя. Выстрел всегда смертелен.</KAU_DisableRangedFinishOff_Tip>
+  <KAU_HarvestWildGrass>Собирать дикую траву</KAU_HarvestWildGrass>
+  <KAU_HarvestWildGrass_Tip>Если настройка отключена, команды сбора созревшего и всего урожая пропускают дикую траву. Некоторые моды позволяют получать из травы сено. Посеянные культуры, например сенотраву, собирают всегда.</KAU_HarvestWildGrass_Tip>
+  <KAU_NoRemovableFloors>На этой карте нет покрытий, которые можно снять</KAU_NoRemovableFloors>
+  <KAU_NoStorageAlert>Предметы без места хранения ({0})</KAU_NoStorageAlert>
+  <KAU_NoStorageAlertDesc>На карте нет зоны складирования или хранилища, где разрешены эти предметы. Поэтому их не перенесут. Разрешите эти предметы в настройках склада или запретите их на карте, чтобы скрыть предупреждение.</KAU_NoStorageAlertDesc>
+  <KAU_PartyHunt>Групповая охота</KAU_PartyHunt>
+  <KAU_PartyHuntDesc>Поселенец в боевом режиме с включённой командой «Стрелять по усмотрению» стреляет по животным, отмеченным для охоты и находящимся в пределах дальности. Поселенец остаётся на месте.</KAU_PartyHuntDesc>
+  <KAU_RemoveFloorAllOnMap>{0}: снять все на карте</KAU_RemoveFloorAllOnMap>
+  <KAU_RemoveFloorDrag>{0}: выделить область для снятия</KAU_RemoveFloorDrag>
+  <KAU_RemoveFloorMatching>Снять покрытие одного типа</KAU_RemoveFloorMatching>
+  <KAU_RemoveFloorMatchingDesc>Выберите тип покрытия на этой карте и выделите область, чтобы отметить для снятия только покрытия этого типа, или отметьте сразу все такие покрытия на карте. Другие покрытия останутся нетронутыми.</KAU_RemoveFloorMatchingDesc>
+  <KAU_ShiftClickTip>Shift + щелчок: выбрать подходящий инструмент для выделения области.</KAU_ShiftClickTip>
+  <KAU_ShootingTooLow>Недостаточный навык стрельбы: {0}</KAU_ShootingTooLow>
+  <KAU_WildGrassExcluded>Дикая трава (включается в настройках мода)</KAU_WildGrassExcluded>
   <chupakobra6_3524716849_DisableSelectRotting>Отключить выбор гниющих трупов</chupakobra6_3524716849_DisableSelectRotting>
 </LanguageData>

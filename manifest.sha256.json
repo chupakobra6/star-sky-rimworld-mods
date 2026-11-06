@@ -622,7 +622,7 @@
     {
       "path": "catalog/translations.md",
       "bytes": 61243,
-      "sha256": "2ebd012fce0f14520605c12b3db55850981d87ea28a65f4723885803a7a76254"
+      "sha256": "fcf8fe0ae59302b5978b9656249bfb56ce1ba772188c9e8c55f039bcf580d828"
     },
     {
       "path": "mods/Biomes-Audio-Bootstrap/About/About.xml",
@@ -10082,7 +10082,7 @@
     {
       "path": "mods/RU-3524716849/About/About.xml",
       "bytes": 2289,
-      "sha256": "d2dad4ab3ec39a5f95a308acf5775e1bf56c2c197dfe95843d439a4690cb1602"
+      "sha256": "2f08b70cedcd3881154f982676dd75523db6489ca09283d3f1a45e4a4b6f66e1"
     },
     {
       "path": "mods/RU-3524716849/About/Preview.png",
@@ -10096,13 +10096,13 @@
     },
     {
       "path": "mods/RU-3524716849/Assemblies/RU3524716849.dll",
-      "bytes": 13824,
-      "sha256": "2f7029c805eeb05a6464bd174f7e0df55feb848fc709828c83d75a53113522ed"
+      "bytes": 13312,
+      "sha256": "d56418323af5fcd4d4a59a747a25fd7a7d2aae4d55158b9adfcbd5ec406c289e"
     },
     {
       "path": "mods/RU-3524716849/CHANGELOG.md",
-      "bytes": 241,
-      "sha256": "9443d6d88bd2acc205e74cb9b5136f1039680907f1564b54495abb9bd299f183"
+      "bytes": 346,
+      "sha256": "90fe523cf7ba31cf354352e9048205c3cbfd5c61c343b46e9da125b6a6551c0f"
     },
     {
       "path": "mods/RU-3524716849/Languages/English/Keyed/Additional.xml",
@@ -10141,8 +10141,8 @@
     },
     {
       "path": "mods/RU-3524716849/Languages/Russian/Keyed/Translations.xml",
-      "bytes": 16728,
-      "sha256": "d2acd21c1dce8344cb6f17b6bb6e1ea1238adaaf79a1be9260d9954ef4c09680"
+      "bytes": 20534,
+      "sha256": "08d27b87c4c7b3e2ada1647d4a8de9b17de320f498c0c72473c0050425a7512a"
     },
     {
       "path": "mods/RU-3524716849/LICENSE",
@@ -10186,8 +10186,8 @@
     },
     {
       "path": "mods/RU-3524716849/Source/Literals.cs",
-      "bytes": 8627,
-      "sha256": "64d1e35e802c74fb361a19fe478a8650f0cfa22c831686b2d36554d0512e65dd"
+      "bytes": 8276,
+      "sha256": "694944236f4ac4922361382a76bf4b2bc0060427fdfff47320a8f3e575ffb6ab"
     },
     {
       "path": "mods/RU-3526354009/About/About.xml",

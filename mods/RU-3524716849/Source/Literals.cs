@@ -39,9 +39,6 @@ namespace Igor.RU_3524716849
             { "KeyzAllowUtilities.Settings:DoWindowContents", new Dictionary<string,string> {
                 { "KAU_DisableSelectRotting", "chupakobra6_3524716849_DisableSelectRotting" },
                 { "Version: ", "Версия: " }
-            } },
-            { "KeyzAllowUtilities.WorkGiver_FinishOff:JobOnThing", new Dictionary<string,string> {
-                { "Melee too low", "Слишком низкий навык ближнего боя" }
             } }
             };
         private static readonly Dictionary<string,string[]> Parameters = new Dictionary<string,string[]> {
@@ -52,8 +49,7 @@ namespace Igor.RU_3524716849
             { "KeyzAllowUtilities.Designator_FinishOff:CanDesignateCell", new string[] { "Verse.IntVec3" } },
             { "KeyzAllowUtilities.Designator_SelectSimilar:CanDesignateCell", new string[] { "Verse.IntVec3" } },
             { "KeyzAllowUtilities.Designator_StripMine:<DoExtraGuiControls>b__15_0", new string[] {  } },
-            { "KeyzAllowUtilities.Settings:DoWindowContents", new string[] { "UnityEngine.Rect" } },
-            { "KeyzAllowUtilities.WorkGiver_FinishOff:JobOnThing", new string[] { "Verse.Pawn", "Verse.Thing", "System.Boolean" } }
+            { "KeyzAllowUtilities.Settings:DoWindowContents", new string[] { "UnityEngine.Rect" } }
         };
         public LiteralTranslations(ModContentPack content) : base(content) { }
         public static void Apply()
