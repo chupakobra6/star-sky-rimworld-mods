@@ -621,8 +621,8 @@
     },
     {
       "path": "catalog/translations.md",
-      "bytes": 61243,
-      "sha256": "fcf8fe0ae59302b5978b9656249bfb56ce1ba772188c9e8c55f039bcf580d828"
+      "bytes": 61472,
+      "sha256": "e32187f988a61c9cf04368fbbeb344990b1ba9160ea08781c6dcc93ccbeedec6"
     },
     {
       "path": "mods/Biomes-Audio-Bootstrap/About/About.xml",
@@ -12107,7 +12107,7 @@
     {
       "path": "mods/RU-3771580900/About/About.xml",
       "bytes": 2534,
-      "sha256": "836be3a0ddba8667b3b00a964c584f7e8059cabc72df2d2797036703ffe70f5f"
+      "sha256": "4e1c515362728675c77c3bcf4e356ce2df79011bd19328ec6c97d16bcd21ae73"
     },
     {
       "path": "mods/RU-3771580900/About/Preview.png",
@@ -12121,13 +12121,13 @@
     },
     {
       "path": "mods/RU-3771580900/Assemblies/RU3771580900.dll",
-      "bytes": 22016,
-      "sha256": "4389dd5910d5c8c532fe869988b81b30d9c44119111fb513bc901256b8f30ac2"
+      "bytes": 23552,
+      "sha256": "15cd5b7b02cd2911a7d95b74c9218134a14b6edbe52bf9721b9eda80c986fe1a"
     },
     {
       "path": "mods/RU-3771580900/CHANGELOG.md",
-      "bytes": 1251,
-      "sha256": "a7ad81a83ceb45da6a50359ca149d37f547053f9a39b9804a8f71d7b464105c9"
+      "bytes": 1410,
+      "sha256": "9be2aeee21a6f98fe527ffe61e7856cd5f63b25b83bff7aea285999959caa3ad"
     },
     {
       "path": "mods/RU-3771580900/Languages/English/Keyed/Additional.xml",
@@ -12170,14 +12170,19 @@
       "sha256": "55b8c32711d82a09f2688fd93c06c2dd2419acd6849d282d0e0ef8f841df9925"
     },
     {
+      "path": "mods/RU-3771580900/Source/DawnLiteralVariants.cs",
+      "bytes": 2894,
+      "sha256": "9742733c3b07cc81c5348a1e2aa71a16d8a0f683aef055c9cfb2456f4bc98c82"
+    },
+    {
       "path": "mods/RU-3771580900/Source/DefaultFormats.cs",
       "bytes": 2650,
       "sha256": "83f8f1f6b99750e79cec16d87ae93436622db4751556b2d0104215e07b4ee954"
     },
     {
       "path": "mods/RU-3771580900/Source/Literals.cs",
-      "bytes": 8923,
-      "sha256": "99fb3df355d50ca7879340b475218a1f5a18927cb9cc74f3d45410ee41a11571"
+      "bytes": 9575,
+      "sha256": "493bb2bc188e520b4bc0931596ffefac556350f3b1d351900749dbfc7b50127a"
     },
     {
       "path": "mods/RU-3771580900/Source/Overrides.cs",

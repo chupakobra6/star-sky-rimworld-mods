@@ -136,9 +136,11 @@ RimWorld 1.6 · Версия 1.0.2
 
 [![Dawn of a New Day — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/dawn-of-a-new-day-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803878920)
 
-RimWorld 1.6 · Версия 1.0.3
+RimWorld 1.6 · Версия 1.0.4
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3803878920) · [Исходники и руководство](../mods/RU-3771580900/README.md) · [История изменений](../mods/RU-3771580900/CHANGELOG.md) · [Лицензия](../mods/RU-3771580900/LICENSE) · [Источники и уведомления](../mods/RU-3771580900/NOTICES.md)
+
+[![Другие моды в Мастерской Steam](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-ru.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)
 
 ## Nice Research Tab — русский перевод
 

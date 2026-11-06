@@ -67,7 +67,14 @@ namespace Igor.RU_3771580900
             foreach (var target in Methods.Keys.ToArray())
             {
                 if (!IsApplicable(target)) { Methods.Remove(target); continue; }
-                harmony.Patch(ResolveTarget(target),
+                MethodBase method;
+                try { method = ResolveTarget(target); }
+                catch (MissingMethodException exception)
+                {
+                    Warn(target, exception.Message);
+                    continue;
+                }
+                harmony.Patch(method,
                     transpiler: new HarmonyMethod(typeof(LiteralTranslations), nameof(Transpile)));
             }
         }
@@ -127,7 +134,11 @@ namespace Igor.RU_3771580900
         }
         public static IEnumerable<CodeInstruction> Transpile(IEnumerable<CodeInstruction> input, MethodBase __originalMethod)
         {
-            var translations = Methods[__originalMethod.DeclaringType.FullName + ":" + __originalMethod.Name];
+            string target = __originalMethod.DeclaringType.FullName + ":" + __originalMethod.Name;
+            var translations = Methods[target];
+            var instructions = input as IList<CodeInstruction> ?? input.ToList();
+            translations = DawnLiteralVariants.Match(target, instructions) ?? translations;
+            input = instructions;
             var found = new HashSet<string>();
             var output = new List<CodeInstruction>();
             foreach (var instruction in input)
@@ -140,9 +151,13 @@ namespace Igor.RU_3771580900
                 output.Add(new CodeInstruction(OpCodes.Call, AccessTools.Method(typeof(LiteralTranslations), nameof(Select))));
             }
             if (found.Count != translations.Count)
-                throw new InvalidOperationException("Source strings changed in " + __originalMethod + ": "
-                    + string.Join(", ", translations.Keys.Where(k => !found.Contains(k))));
+                Warn(target, "Source strings changed: " + string.Join(", ", translations.Keys.Where(k => !found.Contains(k))));
             return output;
+        }
+        private static void Warn(string target, string detail)
+        {
+            string message = "[Star Sky RU 3771580900] " + target + ": " + detail;
+            Log.WarningOnce(message, message.GetHashCode());
         }
     }
     [StaticConstructorOnStartup]
