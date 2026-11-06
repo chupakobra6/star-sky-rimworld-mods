@@ -290,7 +290,7 @@ RimWorld 1.6 · Версия 1.0.4
 
 [![Vanilla Expanded Framework — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/vanilla-expanded-framework-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3807830484)
 
-RimWorld 1.6 · Версия 1.0.7
+RimWorld 1.6 · Версия 1.0.8
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3807830484) · [Исходники и руководство](../mods/RU-2023507013/README.md) · [История изменений](../mods/RU-2023507013/CHANGELOG.md) · [Лицензия](../mods/RU-2023507013/LICENSE) · [Источники и уведомления](../mods/RU-2023507013/NOTICES.md)
 
@@ -362,9 +362,11 @@ RimWorld 1.6 · Версия 1.0.0
 
 [![Alpha Genes — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/alpha-genes-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306776)
 
-RimWorld 1.6 · Версия 1.0.6
+RimWorld 1.6 · Версия 1.0.7
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306776) · [Исходники и руководство](../mods/RU-2891845502/README.md) · [История изменений](../mods/RU-2891845502/CHANGELOG.md) · [Лицензия](../mods/RU-2891845502/LICENSE) · [Источники и уведомления](../mods/RU-2891845502/NOTICES.md)
+
+[![Другие моды в Мастерской Steam](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-ru.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)
 
 ## Simple sidearms — русский перевод
 
@@ -506,7 +508,7 @@ RimWorld 1.6 · Версия 1.0.3
 
 [![Vanilla Landmarks Expanded — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/vanilla-landmarks-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3816649423)
 
-RimWorld 1.6 · Версия 1.0.2
+RimWorld 1.6 · Версия 1.0.3
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3816649423) · [Исходники и руководство](../mods/RU-3656316229/README.md) · [История изменений](../mods/RU-3656316229/CHANGELOG.md) · [Лицензия](../mods/RU-3656316229/LICENSE) · [Источники и уведомления](../mods/RU-3656316229/NOTICES.md)
 
@@ -590,7 +592,7 @@ RimWorld 1.6 · Версия 1.0.2
 
 [![Vanilla Races Expanded - Fungoid — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/vanilla-races-expanded-fungoid-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3818475407)
 
-RimWorld 1.6 · Версия 1.0.2
+RimWorld 1.6 · Версия 1.0.3
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3818475407) · [Исходники и руководство](../mods/RU-3042690053/README.md) · [История изменений](../mods/RU-3042690053/CHANGELOG.md) · [Лицензия](../mods/RU-3042690053/LICENSE) · [Источники и уведомления](../mods/RU-3042690053/NOTICES.md)
 
@@ -640,7 +642,7 @@ RimWorld 1.6 · Версия 1.0.2
 
 [![Moyo2.0-Blood stained business — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/moyo-2-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3820544683)
 
-RimWorld 1.6 · Версия 1.1.3
+RimWorld 1.6 · Версия 1.1.4
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3820544683) · [Исходники и руководство](../mods/RU-3756132017/README.md) · [История изменений](../mods/RU-3756132017/CHANGELOG.md) · [Лицензия](../mods/RU-3756132017/LICENSE) · [Источники и уведомления](../mods/RU-3756132017/NOTICES.md)
 
@@ -650,7 +652,7 @@ RimWorld 1.6 · Версия 1.1.3
 
 [![RimtoChess — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/rimtochess-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3820544688)
 
-RimWorld 1.6 · Версия 1.0.1
+RimWorld 1.6 · Версия 1.0.2
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3820544688) · [Исходники и руководство](../mods/RU-3750476989/README.md) · [История изменений](../mods/RU-3750476989/CHANGELOG.md) · [Лицензия](../mods/RU-3750476989/LICENSE) · [Источники и уведомления](../mods/RU-3750476989/NOTICES.md)
 

@@ -29,11 +29,11 @@
   </VEE_NamerLandmark_AnimaCoast.rulePack.rulesStrings>
   <VEE_NamerLandmark_AnimaForest.rulePack.rulesStrings>
     <li>r_name(p=0.2)-&gt;[terrain_word] имени [NamePerson]</li>
-    <li>terrain_word(p=3)-&gt;лес анимы</li>
-    <li>terrain_word(p=2)-&gt;анима-лес</li>
+    <li>terrain_word(p=3)-&gt;лес древ души</li>
+    <li>terrain_word(p=2)-&gt;роща древ души</li>
     <li>terrain_word-&gt;психоактивный лес</li>
     <li>terrain_word-&gt;роща светящихся листьев</li>
-    <li>terrain_word-&gt;шепчущие деревья анимы</li>
+    <li>terrain_word-&gt;шепчущие древа души</li>
     <li>terrain_word-&gt;светозарный лес</li>
   </VEE_NamerLandmark_AnimaForest.rulePack.rulesStrings>
   <VEE_NamerLandmark_AuburnForest.rulePack.rulesStrings>
@@ -195,9 +195,9 @@
   <VEE_NamerLandmark_FleshPits.rulePack.rulesStrings>
     <li>r_name-&gt;[terrain_word] «[WordTribal]»</li>
     <li>r_name-&gt;[terrain_word] «[PlaceOutlander]»</li>
-    <li>terrain_word-&gt;хтонические врата</li>
+    <li>terrain_word-&gt;провалы плоти</li>
     <li>terrain_word-&gt;аномальные пещеры</li>
-    <li>terrain_word-&gt;аномальные подземные лабиринты</li>
+    <li>terrain_word-&gt;край провалов плоти</li>
   </VEE_NamerLandmark_FleshPits.rulePack.rulesStrings>
   <VEE_NamerLandmark_FloodPlains.rulePack.rulesStrings>
     <li>r_name(p=0.2)-&gt;[terrain_word] имени [NamePerson]</li>

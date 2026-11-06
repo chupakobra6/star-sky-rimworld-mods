@@ -306,6 +306,9 @@ namespace Igor.RU_2023507013
         }
         public static MethodBase ResolveTarget(string target)
         {
+            if (target == AbilityReportSource)
+                return AccessTools.DeclaredPropertyGetter(AccessTools.TypeByName("VEF.Abilities.AbilityDef"), "JobReportString")
+                    ?? throw new MissingMethodException("Exact ability report getter was not found");
             int split = target.LastIndexOf(':');
             var type = AccessTools.TypeByName(target.Substring(0, split));
             string name = target.Substring(split + 1);
@@ -352,6 +355,8 @@ namespace Igor.RU_2023507013
         }
         public static IEnumerable<CodeInstruction> Transpile(IEnumerable<CodeInstruction> input, MethodBase __originalMethod)
         {
+            if (__originalMethod.DeclaringType.FullName == "VEF.Abilities.AbilityDef" && __originalMethod.Name == "get_JobReportString")
+                return TranspileAbilityReport(input, __originalMethod);
             var translations = Methods[__originalMethod.DeclaringType.FullName + ":" + __originalMethod.Name];
             var found = new HashSet<string>();
             var output = new List<CodeInstruction>();
@@ -368,6 +373,30 @@ namespace Igor.RU_2023507013
                 throw new InvalidOperationException("Source strings changed in " + __originalMethod + ": "
                     + string.Join(", ", translations.Keys.Where(k => !found.Contains(k))));
             return output;
+        }
+
+        // The constructor supplies the source literal, but Defs already exist when the patch runs.
+        private const string AbilityReportSource = "VEF.Abilities.AbilityDef:.ctor";
+
+        private static IEnumerable<CodeInstruction> TranspileAbilityReport(IEnumerable<CodeInstruction> input, MethodBase method)
+        {
+            var translation = Methods[AbilityReportSource].Single();
+            var field = AccessTools.DeclaredField(method.DeclaringType, "jobReportString");
+            var output = input.ToList();
+            int read = output.FindIndex(instruction => instruction.LoadsField(field));
+            if (read < 0 || output.Skip(read + 1).Any(instruction => instruction.LoadsField(field)))
+                throw new InvalidOperationException("Expected one ability report template read in " + method);
+            output.InsertRange(read + 1, new[] {
+                new CodeInstruction(OpCodes.Ldstr, translation.Key),
+                new CodeInstruction(OpCodes.Ldstr, translation.Value),
+                new CodeInstruction(OpCodes.Call, AccessTools.Method(typeof(LiteralTranslations), nameof(SelectAbilityReport)))
+            });
+            return output;
+        }
+
+        private static string SelectAbilityReport(string template, string original, string russian)
+        {
+            return string.Equals(template, original, StringComparison.Ordinal) ? Select(template, russian) : template;
         }
     }
     [StaticConstructorOnStartup]

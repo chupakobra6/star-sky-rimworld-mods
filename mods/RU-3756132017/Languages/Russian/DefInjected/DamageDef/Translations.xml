@@ -6,9 +6,9 @@
   <Moyo2_Damage_LMRBolt.label>ламинарный болт</Moyo2_Damage_LMRBolt.label>
   <Moyo2_Damage_LMRBoltDemolish.deathMessage>{0} {PAWN_gender ? погиб : погибла : погибло} при взрыве.</Moyo2_Damage_LMRBoltDemolish.deathMessage>
   <Moyo2_Damage_LMRBoltDemolish.label>ламинарный болт</Moyo2_Damage_LMRBoltDemolish.label>
-  <Moyo2_Damage_MoyoHarpoon.deathMessage>{0} {PAWN_gender ? застрелен : застрелена}.</Moyo2_Damage_MoyoHarpoon.deathMessage>
+  <Moyo2_Damage_MoyoHarpoon.deathMessage>{0} {PAWN_gender ? застрелен : застрелена : застрелено}.</Moyo2_Damage_MoyoHarpoon.deathMessage>
   <Moyo2_Damage_MoyoHarpoon.label>тяжёлый гарпун</Moyo2_Damage_MoyoHarpoon.label>
-  <Moyo2_Damage_WrenchThrow.deathMessage>{0} {PAWN_gender ? забит : забита} до смерти.</Moyo2_Damage_WrenchThrow.deathMessage>
+  <Moyo2_Damage_WrenchThrow.deathMessage>{0} {PAWN_gender ? забит : забита : забито} до смерти.</Moyo2_Damage_WrenchThrow.deathMessage>
   <Moyo2_Damage_WrenchThrow.label>тупой удар</Moyo2_Damage_WrenchThrow.label>
   <Moyo2_DemolishBullet.deathMessage>{0} {PAWN_gender ? был застрелен : была застрелена : было застрелено}.</Moyo2_DemolishBullet.deathMessage>
   <Moyo2_DemolishBullet.label>тяжёлый болт</Moyo2_DemolishBullet.label>
