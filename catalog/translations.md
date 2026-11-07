@@ -66,7 +66,7 @@ RimWorld 1.6 · Версия 1.0.2
 
 [![Go Explore! — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/go-explore-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803465492)
 
-RimWorld 1.6 · Версия 1.0.1
+RimWorld 1.6 · Версия 1.0.2
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3803465492) · [Исходники и руководство](../mods/RU-1814100216/README.md) · [История изменений](../mods/RU-1814100216/CHANGELOG.md) · [Лицензия](../mods/RU-1814100216/LICENSE) · [Источники и уведомления](../mods/RU-1814100216/NOTICES.md)
 
@@ -106,7 +106,7 @@ RimWorld 1.6 · Версия 1.0.0
 
 [![Nice Bill Tab — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/nice-bill-tab-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803465507)
 
-RimWorld 1.6 · Версия 1.0.1
+RimWorld 1.6 · Версия 1.0.2
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3803465507) · [Исходники и руководство](../mods/RU-3520130671/README.md) · [История изменений](../mods/RU-3520130671/CHANGELOG.md) · [Лицензия](../mods/RU-3520130671/LICENSE) · [Источники и уведомления](../mods/RU-3520130671/NOTICES.md)
 
@@ -126,7 +126,7 @@ RimWorld 1.6 · Версия 1.0.5
 
 [![Nice Inventory Tab — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/nice-inventory-tab-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3803878917)
 
-RimWorld 1.6 · Версия 1.0.2
+RimWorld 1.6 · Версия 1.0.3
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3803878917) · [Исходники и руководство](../mods/RU-3609897594/README.md) · [История изменений](../mods/RU-3609897594/CHANGELOG.md) · [Лицензия](../mods/RU-3609897594/LICENSE) · [Источники и уведомления](../mods/RU-3609897594/NOTICES.md)
 
@@ -262,7 +262,7 @@ RimWorld 1.6 · Версия 1.0.4
 
 [![Humanoid Alien Races — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/humanoid-alien-races-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3807814478)
 
-RimWorld 1.6 · Версия 1.0.3
+RimWorld 1.6 · Версия 1.0.4
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3807814478) · [Исходники и руководство](../mods/RU-839005762/README.md) · [История изменений](../mods/RU-839005762/CHANGELOG.md) · [Лицензия](../mods/RU-839005762/LICENSE) · [Источники и уведомления](../mods/RU-839005762/NOTICES.md)
 
@@ -272,7 +272,7 @@ RimWorld 1.6 · Версия 1.0.3
 
 [![Map Preview — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/map-preview-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3807814502)
 
-RimWorld 1.6 · Версия 1.0.0
+RimWorld 1.6 · Версия 1.0.1
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3807814502) · [Исходники и руководство](../mods/RU-2800857642/README.md) · [История изменений](../mods/RU-2800857642/CHANGELOG.md) · [Лицензия](../mods/RU-2800857642/LICENSE) · [Источники и уведомления](../mods/RU-2800857642/NOTICES.md)
 
@@ -292,7 +292,7 @@ RimWorld 1.6 · Версия 1.0.4
 
 [![Vanilla Expanded Framework — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/vanilla-expanded-framework-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3807830484)
 
-RimWorld 1.6 · Версия 1.0.8
+RimWorld 1.6 · Версия 1.0.9
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3807830484) · [Исходники и руководство](../mods/RU-2023507013/README.md) · [История изменений](../mods/RU-2023507013/CHANGELOG.md) · [Лицензия](../mods/RU-2023507013/LICENSE) · [Источники и уведомления](../mods/RU-2023507013/NOTICES.md)
 
@@ -322,9 +322,11 @@ RimWorld 1.6 · Версия 1.0.3
 
 [![Vanilla Events Expanded — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/vanilla-events-expanded-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306734)
 
-RimWorld 1.6 · Версия 1.0.4
+RimWorld 1.6 · Версия 1.0.5
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3810306734) · [Исходники и руководство](../mods/RU-1938420742/README.md) · [История изменений](../mods/RU-1938420742/CHANGELOG.md) · [Лицензия](../mods/RU-1938420742/LICENSE) · [Источники и уведомления](../mods/RU-1938420742/NOTICES.md)
+
+[![Другие моды в Мастерской Steam](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-ru.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)
 
 ## Vanilla Furniture Expanded - Props and Decor — русский перевод
 
@@ -470,7 +472,7 @@ RimWorld 1.6 · Версия 1.0.3
 
 [![EBSG Framework — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/ebsg-framework-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3816649292)
 
-RimWorld 1.6 · Версия 1.0.2
+RimWorld 1.6 · Версия 1.0.3
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3816649292) · [Исходники и руководство](../mods/RU-3112549163/README.md) · [История изменений](../mods/RU-3112549163/CHANGELOG.md) · [Лицензия](../mods/RU-3112549163/LICENSE) · [Источники и уведомления](../mods/RU-3112549163/NOTICES.md)
 
@@ -520,11 +522,9 @@ RimWorld 1.6 · Версия 1.0.3
 
 [![Worksites Expanded — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/worksites-expanded-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3816649426)
 
-RimWorld 1.6 · Версия 1.0.3
+RimWorld 1.6 · Версия 1.0.4
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3816649426) · [Исходники и руководство](../mods/RU-3687071198/README.md) · [История изменений](../mods/RU-3687071198/CHANGELOG.md) · [Лицензия](../mods/RU-3687071198/LICENSE) · [Источники и уведомления](../mods/RU-3687071198/NOTICES.md)
-
-[![Другие моды в Мастерской Steam](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-ru.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)
 
 ## Vanilla Quests Expanded - The Generator — русский перевод
 
@@ -634,7 +634,7 @@ RimWorld 1.6 · Версия 1.0.1
 
 [![Colony Manager Redux — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/colony-manager-redux-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3820544682)
 
-RimWorld 1.6 · Версия 1.0.2
+RimWorld 1.6 · Версия 1.0.3
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3820544682) · [Исходники и руководство](../mods/RU-3310027356/README.md) · [История изменений](../mods/RU-3310027356/CHANGELOG.md) · [Лицензия](../mods/RU-3310027356/LICENSE) · [Источники и уведомления](../mods/RU-3310027356/NOTICES.md)
 

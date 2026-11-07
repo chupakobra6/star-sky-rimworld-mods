@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
+using System.Reflection.Emit;
 using HarmonyLib;
 using Verse;
 
@@ -38,13 +39,14 @@ namespace Igor.WorksitesRussian
         };
         public static void Install(Harmony h)
         {
-            foreach(string key in Bindings.Keys)h.Patch(AccessTools.Method(key),transpiler:new HarmonyMethod(typeof(WorksiteDemandPatch),nameof(Rewrite)));
+            foreach(string key in Bindings.Keys)h.Patch(AccessTools.Method(key),transpiler:WorksiteInterpolation.BeforeLiterals(typeof(WorksiteDemandPatch), nameof(Rewrite)));
         }
-        public static IEnumerable<CodeInstruction> Rewrite(IEnumerable<CodeInstruction> input,MethodBase __originalMethod)
+        public static IEnumerable<CodeInstruction> Rewrite(IEnumerable<CodeInstruction> input,MethodBase __originalMethod, ILGenerator generator = null)
         {
             var specs=Bindings[__originalMethod.DeclaringType.FullName+":"+__originalMethod.Name];
             var seen=new Dictionary<string,int>();var output=new List<CodeInstruction>();
-            foreach(var instruction in input)
+            var source=input.ToList();
+            foreach(var instruction in WorksiteInterpolation.Normalize(source,__originalMethod,generator))
             {
                 var code=new CodeInstruction(instruction);
                 if(code.operand is MethodInfo method&&method.DeclaringType==typeof(string))
@@ -63,7 +65,7 @@ namespace Igor.WorksitesRussian
                 }
                 output.Add(code);
             }
-            if(specs.Any(s=>!seen.TryGetValue(s.Key,out int n)||n!=s.Value.Item2))throw new InvalidOperationException("Worksites demand formatter changed: "+__originalMethod);
+            if(specs.Any(s=>!seen.TryGetValue(s.Key,out int n)||n!=s.Value.Item2))return WorksiteInterpolation.Unchanged(source,__originalMethod);
             return output;
         }
     }

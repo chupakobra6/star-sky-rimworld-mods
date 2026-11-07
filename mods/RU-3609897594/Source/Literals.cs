@@ -61,16 +61,23 @@ namespace Igor.RU_3609897594
             };
         private static readonly Dictionary<string,string[]> Parameters = new Dictionary<string,string[]> {
             { "MoreWidgets.Patch_ShowCoords:InitActions_Post", new string[] { "LudeonTK.DebugActionNode" } },
-            { "NiceInventoryTab.ApparelSlotUtility:OpenFloatMenu", new string[] { "System.Collections.Generic.List`1[[NiceInventoryTab.ApparelSlotUtility+PotentialSlot, NiceInventoryTab]], mscorlib", "System.Collections.Generic.List`1[[Verse.ApparelLayerDef, Assembly-CSharp]], mscorlib", "System.Boolean", "System.Collections.Generic.List`1[[Verse.FloatMenuOption, Assembly-CSharp]], mscorlib" } }
+            { "NiceInventoryTab.ApparelSlotUtility:OpenFloatMenu", new string[] { "System.Collections.Generic.List`1<NiceInventoryTab.ApparelSlotUtility+PotentialSlot>", "System.Collections.Generic.List`1<Verse.ApparelLayerDef>", "System.Boolean", "System.Collections.Generic.List`1<Verse.FloatMenuOption>" } }
         };
         public LiteralTranslations(ModContentPack content) : base(content) { }
         public static void Apply()
         {
             var harmony = new Harmony("igor.ru.3609897594.literals");
-            foreach (var target in Methods.Keys.ToArray())
+            foreach (var target in BuildTargets(UseVersion17))
             {
-                if (!IsApplicable(target)) { Methods.Remove(target); continue; }
-                harmony.Patch(ResolveTarget(target),
+                if (UseVersion17 && MissingOptional17Owner(target)) continue;
+                MethodBase method;
+                try { method = ResolveTarget(target); }
+                catch (MissingMethodException exception)
+                {
+                    Warn(target, exception.Message);
+                    continue;
+                }
+                harmony.Patch(method,
                     transpiler: new HarmonyMethod(typeof(LiteralTranslations), nameof(Transpile)));
             }
         }
@@ -90,22 +97,38 @@ namespace Igor.RU_3609897594
             if (type == null) throw new MissingMethodException("Exact translation type was not found: " + target);
             const BindingFlags flags = BindingFlags.DeclaredOnly | BindingFlags.Public | BindingFlags.NonPublic
                 | BindingFlags.Instance | BindingFlags.Static;
-            MethodBase method;
-            if (Parameters.TryGetValue(target, out var parameters))
-            {
-                var signature = parameters.Select(AccessTools.TypeByName).ToArray();
-                if (signature.Any(parameter => parameter == null))
-                    throw new MissingMethodException("Translation parameter type was not found: " + target);
-                method = name == ".ctor"
-                    ? (MethodBase)type.GetConstructor(flags, null, signature, null)
-                    : type.GetMethod(name, flags, null, signature, null);
-            }
-            else method = name == ".ctor"
-                ? (MethodBase)type.GetConstructor(flags, null, Type.EmptyTypes, null)
-                : type.GetMethod(name, flags);
-            if (method == null || method.DeclaringType != type)
-                throw new MissingMethodException("Exact translation target was not found: " + target);
+            IEnumerable<MethodBase> candidates = name == ".ctor"
+                ? type.GetConstructors(flags).Where(m => m.Name == name).Cast<MethodBase>()
+                : type.GetMethods(flags).Where(m => m.Name == name).Cast<MethodBase>();
+            if (TryGetParameters(target, UseVersion17, out var parameters))
+                candidates = candidates.Where(m => m.GetParameters()
+                    .Select(p => CecilParameterName(p.ParameterType)).SequenceEqual(parameters));
+            else if (name == ".ctor")
+                candidates = candidates.Where(m => m.GetParameters().Length == 0);
+            var matches = candidates.ToArray();
+            if (matches.Length != 1)
+                throw new MissingMethodException("Expected one exact translation overload, found " + matches.Length + ": " + target);
+            var method = matches[0];
+            if (method.ContainsGenericParameters)
+                throw new MissingMethodException("Open generic translation target requires an isolated call-site hook: " + target);
             return method;
+        }
+        private static string CecilParameterName(Type type)
+        {
+            if (type.HasElementType)
+            {
+                string element = CecilParameterName(type.GetElementType());
+                if (element == null) return null;
+                if (type.IsByRef) return element + "&";
+                if (type.IsPointer) return element + "*";
+                // Only vectors are supported. Never alias a non-SZ or
+                // multidimensional array to a different parameter shape.
+                return type.IsArray && type == type.GetElementType().MakeArrayType() ? element + "[]" : null;
+            }
+            if (!type.IsGenericType) return type.FullName;
+            var arguments = type.GetGenericArguments().Select(CecilParameterName).ToArray();
+            if (arguments.Any(argument => argument == null)) return null;
+            return type.GetGenericTypeDefinition().FullName + "<" + string.Join(",", arguments) + ">";
         }
         public static string Select(string original, string russian)
         {
@@ -114,7 +137,14 @@ namespace Igor.RU_3609897594
         }
         public static IEnumerable<CodeInstruction> Transpile(IEnumerable<CodeInstruction> input, MethodBase __originalMethod)
         {
-            var translations = Methods[__originalMethod.DeclaringType.FullName + ":" + __originalMethod.Name];
+            return TranspileTarget(input, __originalMethod, UseVersion17);
+        }
+        public static IEnumerable<CodeInstruction> TranspileTarget(IEnumerable<CodeInstruction> input, MethodBase __originalMethod, bool useVersion17)
+        {
+            string target = __originalMethod.DeclaringType.FullName + ":" + __originalMethod.Name;
+            if (useVersion17 && Version17ByTarget.TryGetValue(target, out var variant))
+                return Transpile17(input, target, variant);
+            var translations = Methods[target];
             var found = new HashSet<string>();
             var output = new List<CodeInstruction>();
             foreach (var instruction in input)
@@ -127,8 +157,122 @@ namespace Igor.RU_3609897594
                 output.Add(new CodeInstruction(OpCodes.Call, AccessTools.Method(typeof(LiteralTranslations), nameof(Select))));
             }
             if (found.Count != translations.Count)
-                throw new InvalidOperationException("Source strings changed in " + __originalMethod + ": "
-                    + string.Join(", ", translations.Keys.Where(k => !found.Contains(k))));
+                Warn(target, "Source strings changed: " + string.Join(", ", translations.Keys.Where(k => !found.Contains(k))));
+            return output;
+        }
+        private static void Warn(string target, string detail)
+        {
+            string message = "[Star Sky RU 3609897594] " + target + ": " + detail;
+            Log.WarningOnce(message, message.GetHashCode());
+        }
+
+        private sealed class Variant17
+        {
+            internal readonly string Target;
+            internal readonly string[] Parameters, Shape;
+            internal readonly bool Optional, Enabled;
+            internal readonly Dictionary<string,string> Exact, Append;
+
+            internal Variant17(string target, string[] parameters, bool optional, bool enabled,
+                Dictionary<string,string> exact, Dictionary<string,string> append, string[] shape)
+            {
+                Target = target;
+                Parameters = parameters;
+                Optional = optional;
+                Enabled = enabled;
+                Exact = exact;
+                Append = append;
+                Shape = shape;
+            }
+        }
+
+        private static readonly Dictionary<string,Variant17> Version17 = new Dictionary<string,Variant17> {
+            { "MoreWidgets.Patch_ShowCoords:AddSetting", new Variant17("MoreWidgets.Patch_ShowCoords:AddSetting", null, true, true, new Dictionary<string,string> { { "View", "Отображение" } }, null, null) },
+            { "MoreWidgets.Patch_ShowCoords:InitActions_Post", new Variant17("MoreWidgets.Patch_ShowCoords:InitActions_Post", new string[] { "LudeonTK.DebugActionNode" }, true, true, new Dictionary<string,string> { { "Map coords at pointer", "Координаты карты у курсора" }, { "Map coords in UI", "Координаты карты в интерфейсе" } }, null, null) },
+            { "NiceInventoryTab.EquippedItem:Draw", new Variant17("NiceInventoryTab.EquippedItem:Draw", null, false, true, new Dictionary<string,string> { { "  |  groups: ", "  |  части тела: " } }, new Dictionary<string,string> { { "layers: ", "слои: " } }, null) },
+        };
+        private static readonly Dictionary<string,Variant17> Version17ByTarget =
+            Version17.Values.Where(variant => variant.Enabled).ToDictionary(variant => variant.Target);
+        private static bool UseVersion17
+        {
+            get
+            {
+                var version = RimWorld.VersionControl.CurrentVersion;
+                return version.Major == 1 && version.Minor == 7;
+            }
+        }
+
+        public static IEnumerable<string> BuildTargets(bool useVersion17)
+        {
+            foreach (var target in Methods.Keys)
+            {
+                if (!IsApplicable(target)) continue;
+                if (!useVersion17 || !Version17.TryGetValue(target, out var variant))
+                    yield return target;
+                else if (variant.Enabled)
+                    yield return variant.Target;
+            }
+        }
+
+        private static bool TryGetParameters(string target, bool useVersion17, out string[] parameters)
+        {
+            if (useVersion17 && Version17ByTarget.TryGetValue(target, out var variant))
+            {
+                parameters = variant.Parameters;
+                return parameters != null;
+            }
+            return Parameters.TryGetValue(target, out parameters);
+        }
+
+        private static bool MissingOptional17Owner(string target)
+        {
+            return Version17ByTarget.TryGetValue(target, out var variant) && variant.Optional
+                && AccessTools.TypeByName(target.Substring(0, target.LastIndexOf(':'))) == null;
+        }
+
+        private static bool IsAppendLiteral17(CodeInstruction instruction)
+        {
+            if ((instruction.opcode != OpCodes.Call && instruction.opcode != OpCodes.Callvirt)
+                || !(instruction.operand is MethodInfo method)
+                || method.Name != "AppendLiteral") return false;
+            string owner = method.DeclaringType.FullName;
+            return owner == "System.Runtime.CompilerServices.DefaultInterpolatedStringHandler"
+                || owner == "System.Text.StringBuilder+AppendInterpolatedStringHandler";
+        }
+
+        private static IEnumerable<CodeInstruction> Transpile17(IEnumerable<CodeInstruction> input, string target, Variant17 variant)
+        {
+            var instructions = input as IList<CodeInstruction> ?? input.ToList();
+            if (variant.Shape != null && !instructions.Where(i => i.opcode == OpCodes.Ldstr)
+                .Select(i => (string)i.operand).SequenceEqual(variant.Shape, StringComparer.Ordinal))
+            {
+                Warn(target, "Source literal shape changed on RimWorld 1.7");
+                return instructions;
+            }
+
+            var output = new List<CodeInstruction>();
+            var exactFound = new HashSet<string>();
+            var appendFound = new HashSet<string>();
+            var select = AccessTools.Method(typeof(LiteralTranslations), nameof(Select));
+            for (int i = 0; i < instructions.Count; i++)
+            {
+                var instruction = instructions[i];
+                output.Add(instruction);
+                if (instruction.opcode != OpCodes.Ldstr || !(instruction.operand is string source)) continue;
+                string russian;
+                if (variant.Append != null && i + 1 < instructions.Count && IsAppendLiteral17(instructions[i + 1])
+                    && variant.Append.TryGetValue(source, out russian))
+                    appendFound.Add(source);
+                else if (variant.Exact != null && variant.Exact.TryGetValue(source, out russian))
+                    exactFound.Add(source);
+                else continue;
+                output.Add(new CodeInstruction(OpCodes.Ldstr, russian));
+                output.Add(new CodeInstruction(OpCodes.Call, select));
+            }
+            var missing = (variant.Exact?.Keys.Except(exactFound) ?? Enumerable.Empty<string>())
+                .Concat(variant.Append?.Keys.Except(appendFound) ?? Enumerable.Empty<string>()).ToArray();
+            if (missing.Length > 0)
+                Warn(target, "Source strings changed on RimWorld 1.7: " + string.Join(", ", missing));
             return output;
         }
     }

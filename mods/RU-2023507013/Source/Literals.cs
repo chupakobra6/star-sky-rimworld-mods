@@ -289,10 +289,17 @@ namespace Igor.RU_2023507013
         public static void Apply()
         {
             var harmony = new Harmony("igor.ru.2023507013.literals");
-            foreach (var target in Methods.Keys.ToArray())
+            foreach (var target in BuildTargets(UseVersion17))
             {
-                if (!IsApplicable(target)) { Methods.Remove(target); continue; }
-                harmony.Patch(ResolveTarget(target),
+                if (UseVersion17 && MissingOptional17Owner(target)) continue;
+                MethodBase method;
+                try { method = ResolveTarget(target); }
+                catch (MissingMethodException exception)
+                {
+                    Warn(target, exception.Message);
+                    continue;
+                }
+                harmony.Patch(method,
                     transpiler: new HarmonyMethod(typeof(LiteralTranslations), nameof(Transpile)));
             }
         }
@@ -318,7 +325,7 @@ namespace Igor.RU_2023507013
             IEnumerable<MethodBase> candidates = name == ".ctor"
                 ? type.GetConstructors(flags).Where(m => m.Name == name).Cast<MethodBase>()
                 : type.GetMethods(flags).Where(m => m.Name == name).Cast<MethodBase>();
-            if (Parameters.TryGetValue(target, out var parameters))
+            if (TryGetParameters(target, UseVersion17, out var parameters))
                 candidates = candidates.Where(m => m.GetParameters()
                     .Select(p => CecilParameterName(p.ParameterType)).SequenceEqual(parameters));
             else if (name == ".ctor")
@@ -355,9 +362,16 @@ namespace Igor.RU_2023507013
         }
         public static IEnumerable<CodeInstruction> Transpile(IEnumerable<CodeInstruction> input, MethodBase __originalMethod)
         {
+            return TranspileTarget(input, __originalMethod, UseVersion17);
+        }
+        public static IEnumerable<CodeInstruction> TranspileTarget(IEnumerable<CodeInstruction> input, MethodBase __originalMethod, bool useVersion17)
+        {
             if (__originalMethod.DeclaringType.FullName == "VEF.Abilities.AbilityDef" && __originalMethod.Name == "get_JobReportString")
                 return TranspileAbilityReport(input, __originalMethod);
-            var translations = Methods[__originalMethod.DeclaringType.FullName + ":" + __originalMethod.Name];
+            string target = __originalMethod.DeclaringType.FullName + ":" + __originalMethod.Name;
+            if (useVersion17 && Version17ByTarget.TryGetValue(target, out var variant))
+                return Transpile17(input, target, variant);
+            var translations = Methods[target];
             var found = new HashSet<string>();
             var output = new List<CodeInstruction>();
             foreach (var instruction in input)
@@ -370,9 +384,13 @@ namespace Igor.RU_2023507013
                 output.Add(new CodeInstruction(OpCodes.Call, AccessTools.Method(typeof(LiteralTranslations), nameof(Select))));
             }
             if (found.Count != translations.Count)
-                throw new InvalidOperationException("Source strings changed in " + __originalMethod + ": "
-                    + string.Join(", ", translations.Keys.Where(k => !found.Contains(k))));
+                Warn(target, "Source strings changed: " + string.Join(", ", translations.Keys.Where(k => !found.Contains(k))));
             return output;
+        }
+        private static void Warn(string target, string detail)
+        {
+            string message = "[Star Sky RU 2023507013] " + target + ": " + detail;
+            Log.WarningOnce(message, message.GetHashCode());
         }
 
         // The constructor supplies the source literal, but Defs already exist when the patch runs.
@@ -383,9 +401,13 @@ namespace Igor.RU_2023507013
             var translation = Methods[AbilityReportSource].Single();
             var field = AccessTools.DeclaredField(method.DeclaringType, "jobReportString");
             var output = input.ToList();
-            int read = output.FindIndex(instruction => instruction.LoadsField(field));
+            int read = field?.FieldType == typeof(string) && !field.IsStatic
+                ? output.FindIndex(instruction => instruction.LoadsField(field)) : -1;
             if (read < 0 || output.Skip(read + 1).Any(instruction => instruction.LoadsField(field)))
-                throw new InvalidOperationException("Expected one ability report template read in " + method);
+            {
+                Warn(AbilityReportSource, "Expected one ability report template read");
+                return output;
+            }
             output.InsertRange(read + 1, new[] {
                 new CodeInstruction(OpCodes.Ldstr, translation.Key),
                 new CodeInstruction(OpCodes.Ldstr, translation.Value),
@@ -397,6 +419,122 @@ namespace Igor.RU_2023507013
         private static string SelectAbilityReport(string template, string original, string russian)
         {
             return string.Equals(template, original, StringComparison.Ordinal) ? Select(template, russian) : template;
+        }
+
+        private sealed class Variant17
+        {
+            internal readonly string Target;
+            internal readonly string[] Parameters, Shape;
+            internal readonly bool Optional, Enabled;
+            internal readonly Dictionary<string,string> Exact, Append;
+
+            internal Variant17(string target, string[] parameters, bool optional, bool enabled,
+                Dictionary<string,string> exact, Dictionary<string,string> append, string[] shape)
+            {
+                Target = target;
+                Parameters = parameters;
+                Optional = optional;
+                Enabled = enabled;
+                Exact = exact;
+                Append = append;
+                Shape = shape;
+            }
+        }
+
+        private static readonly Dictionary<string,Variant17> Version17 = new Dictionary<string,Variant17> {
+            { "KCSG.Dialog_ExportWindow:DoWindowContents", new Variant17("KCSG.Dialog_ExportWindow:DoWindowContents", null, false, true, new Dictionary<string,string> { { "Add tag", "Добавить тег" }, { "Alway generate exported roof", "Всегда создавать экспортированную крышу" }, { "Auto-conduit:", "Автоматические кабели:" }, { "Cannot add empty tag.", "Нельзя добавить пустой тег." }, { "Export filth:", "Экспортировать грязь:" }, { "Export natural terrain:", "Экспортировать природную поверхность:" }, { "Export plants:", "Экспортировать растения:" }, { "Force generate roofs:", "Обязательно создавать крыши:" }, { "Generate random items inside when used with SettlementLayoutDef", "Создавать внутри случайные предметы при использовании с SettlementLayoutDef" }, { "Need roof clearance:", "Требуется место без крыши:" }, { "Need to be placed in a rect free of roofs", "Размещать только на участке, полностью свободном от крыш" }, { "Nothing to remove", "Нечего удалять" }, { "Random rotation:", "Случайный поворот:" }, { "Randomize rotation at generation", "Выбирать случайный поворот при генерации" }, { "Randomize wall stuff at generation", "Выбирать случайный материал стен при генерации" }, { "Randomize wall stuff:", "Случайный материал стен:" }, { "Remove tag...", "Удалить тег..." }, { "Save fuel values from pipenet and vanilla comprefuelable", "Сохранять запас ресурсов трубопровода и топлива стандартного CompRefuelable" }, { "Save fuel:", "Сохранять топливо:" }, { "Save power values from batteries", "Сохранять заряд аккумуляторов" }, { "Save power:", "Сохранять заряд:" }, { "Spawn conduits under impassables and doors automatically", "Автоматически создавать кабели под непроходимыми объектами и дверями" }, { "Stockpile:", "Склад:" }, { "Structure defName:", "Идентификатор постройки (defName):" }, { "Structure export menu", "Экспорт постройки" }, { "Structure tags:", "Теги постройки:" }, { "Tags are used with SettlementLayoutDef", "Теги используются вместе с SettlementLayoutDef" } }, new Dictionary<string,string> { { " tag(s) used", " – число используемых тегов" } }, null) },
+            { "KCSG.Dialog_ExportWindow:DrawFooter", new Variant17("KCSG.Dialog_ExportWindow:DrawFooter", null, false, true, new Dictionary<string,string> { { "Cannot use empty defName.", "Идентификатор defName не может быть пустым." }, { "Close", "Закрыть" }, { "Copied to clipboard.", "Скопировано в буфер обмена." }, { "Copy structure", "Скопировать постройку" }, { "Copy symbols", "Скопировать символы" }, { "No new symbols needed.", "Новые символы не нужны." } }, new Dictionary<string,string> { { " symbols to clipboard.", "." }, { "Copied ", "В буфер обмена скопировано символов: " } }, new string[] { "Copy structure", "Copied to clipboard.", "Cannot use empty defName.", "Copy symbols", "_North", "_South", "_East", "_West", "", "", "\n\n", "Copied ", " symbols to clipboard.", "No new symbols needed.", "Close" }) },
+            { "PipeSystem.CompAdvancedResourceProcessor+<CompGetGizmosExtra>d__76:MoveNext", new Variant17("PipeSystem.CompAdvancedResourceProcessor+<CompGetGizmosExtra>d__77:MoveNext", new string[] {  }, false, true, new Dictionary<string,string> { { "Advance progress 1 day", "Добавить день прогресса" }, { "Empty wastepack(s)", "Выгрузить пакеты отходов" }, { "Finish in 10 ticks", "Завершить через 10 тиков" } }, null, null) },
+            { "PipeSystem.CompProperties_ResourceTrader+<SpecialDisplayStats>d__17:MoveNext", new Variant17("PipeSystem.CompProperties_ResourceTrader+<SpecialDisplayStats>d__17:MoveNext", null, false, true, new Dictionary<string,string> { { "/d", "/д." } }, null, new string[] { "PipeSystem_Consumption", " ", "/d", "PipeSystem_ConsumptionExplained", "PipeSystem_IdleConsumption", " ", "/d", "PipeSystem_IdleConsumptionExplained", "PipeSystem_Production", " ", "/d", "PipeSystem_ProductionExplained" }) },
+            { "PipeSystem.CompResourceStorage+<CompGetGizmosExtra>d__42:MoveNext", new Variant17("PipeSystem.CompResourceStorage+<CompGetGizmosExtra>d__44:MoveNext", new string[] {  }, false, true, new Dictionary<string,string> { { "DEBUG: Add 5", "Отладка: добавить 5" }, { "DEBUG: Configure gauge", "Отладка: настроить шкалу" }, { "DEBUG: Empty", "Отладка: опустошить" }, { "DEBUG: Fill", "Отладка: наполнить" } }, null, null) },
+            { "PipeSystem.CompResourceTrader:CompInspectStringExtra", new Variant17("PipeSystem.CompResourceTrader:CompInspectStringExtra", null, false, true, new Dictionary<string,string> {  }, new Dictionary<string,string> { { "/d", "/д." } }, null) },
+            { "VEF.AnimalGenes.CompAnimalGenes+<CompGetGizmosExtra>d__16:MoveNext", new Variant17("VEF.AnimalGenes.CompAnimalGenes+<CompGetGizmosExtra>d__18:MoveNext", new string[] {  }, false, true, new Dictionary<string,string> { { "DEV: Do birth", "Отладка: вызвать роды" } }, null, null) },
+            { "VEF.Sounds.EditWindow_SoundTest:DoWindowContents", new Variant17("VEF.Sounds.EditWindow_SoundTest:DoWindowContents", null, false, true, new Dictionary<string,string> { { "Change sound (currently testing: ", "Сменить звук (сейчас: " }, { "Play sound", "Воспроизвести звук" }, { "Search:", "Поиск:" } }, new Dictionary<string,string> { { " <pitchRange>", ": диапазон высоты тона <pitchRange>" }, { " <volumeRange>", ": диапазон громкости <volumeRange>" }, { "Copy settings of subsound ", "Скопировать настройки подзвука " }, { "Subsound ", "Подзвук " } }, null) },
+            { "VEF.Storyteller.PrefabExporter+Dialog_NameMassExport:MassExport", new Variant17("VEF.Storyteller.PrefabExporter+Dialog_NameMassExport:MassExport", null, false, true, new Dictionary<string,string> {  }, new Dictionary<string,string> { { " prefabs to clipboard.", "." }, { "Copied ", "В буфер обмена скопировано заготовок: " } }, new string[] { "VEF_PrefabBorder", "VEF_PrefabBorder", "_", "Copied ", " prefabs to clipboard." }) },
+        };
+        private static readonly Dictionary<string,Variant17> Version17ByTarget =
+            Version17.Values.Where(variant => variant.Enabled).ToDictionary(variant => variant.Target);
+        private static bool UseVersion17
+        {
+            get
+            {
+                var version = RimWorld.VersionControl.CurrentVersion;
+                return version.Major == 1 && version.Minor == 7;
+            }
+        }
+
+        public static IEnumerable<string> BuildTargets(bool useVersion17)
+        {
+            foreach (var target in Methods.Keys)
+            {
+                if (!IsApplicable(target)) continue;
+                if (!useVersion17 || !Version17.TryGetValue(target, out var variant))
+                    yield return target;
+                else if (variant.Enabled)
+                    yield return variant.Target;
+            }
+        }
+
+        private static bool TryGetParameters(string target, bool useVersion17, out string[] parameters)
+        {
+            if (useVersion17 && Version17ByTarget.TryGetValue(target, out var variant))
+            {
+                parameters = variant.Parameters;
+                return parameters != null;
+            }
+            return Parameters.TryGetValue(target, out parameters);
+        }
+
+        private static bool MissingOptional17Owner(string target)
+        {
+            return Version17ByTarget.TryGetValue(target, out var variant) && variant.Optional
+                && AccessTools.TypeByName(target.Substring(0, target.LastIndexOf(':'))) == null;
+        }
+
+        private static bool IsAppendLiteral17(CodeInstruction instruction)
+        {
+            if ((instruction.opcode != OpCodes.Call && instruction.opcode != OpCodes.Callvirt)
+                || !(instruction.operand is MethodInfo method)
+                || method.Name != "AppendLiteral") return false;
+            string owner = method.DeclaringType.FullName;
+            return owner == "System.Runtime.CompilerServices.DefaultInterpolatedStringHandler"
+                || owner == "System.Text.StringBuilder+AppendInterpolatedStringHandler";
+        }
+
+        private static IEnumerable<CodeInstruction> Transpile17(IEnumerable<CodeInstruction> input, string target, Variant17 variant)
+        {
+            var instructions = input as IList<CodeInstruction> ?? input.ToList();
+            if (variant.Shape != null && !instructions.Where(i => i.opcode == OpCodes.Ldstr)
+                .Select(i => (string)i.operand).SequenceEqual(variant.Shape, StringComparer.Ordinal))
+            {
+                Warn(target, "Source literal shape changed on RimWorld 1.7");
+                return instructions;
+            }
+
+            var output = new List<CodeInstruction>();
+            var exactFound = new HashSet<string>();
+            var appendFound = new HashSet<string>();
+            var select = AccessTools.Method(typeof(LiteralTranslations), nameof(Select));
+            for (int i = 0; i < instructions.Count; i++)
+            {
+                var instruction = instructions[i];
+                output.Add(instruction);
+                if (instruction.opcode != OpCodes.Ldstr || !(instruction.operand is string source)) continue;
+                string russian;
+                if (variant.Append != null && i + 1 < instructions.Count && IsAppendLiteral17(instructions[i + 1])
+                    && variant.Append.TryGetValue(source, out russian))
+                    appendFound.Add(source);
+                else if (variant.Exact != null && variant.Exact.TryGetValue(source, out russian))
+                    exactFound.Add(source);
+                else continue;
+                output.Add(new CodeInstruction(OpCodes.Ldstr, russian));
+                output.Add(new CodeInstruction(OpCodes.Call, select));
+            }
+            var missing = (variant.Exact?.Keys.Except(exactFound) ?? Enumerable.Empty<string>())
+                .Concat(variant.Append?.Keys.Except(appendFound) ?? Enumerable.Empty<string>()).ToArray();
+            if (missing.Length > 0)
+                Warn(target, "Source strings changed on RimWorld 1.7: " + string.Join(", ", missing));
+            return output;
         }
     }
     [StaticConstructorOnStartup]

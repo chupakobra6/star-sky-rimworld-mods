@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
+using System.Reflection.Emit;
 using HarmonyLib;
 using RimWorld;
 using Verse;
@@ -23,7 +24,7 @@ namespace Igor.WorksitesRussian
         private static void Patch(Harmony h,string name,string transpiler,string postfix=null)
         {
             var m=AccessTools.Method(name);if(m==null)throw new MissingMethodException(name);
-            h.Patch(m,postfix:postfix==null?null:new HarmonyMethod(typeof(WorksiteParleyPatch),postfix),transpiler:transpiler==null?null:new HarmonyMethod(typeof(WorksiteParleyPatch),transpiler));
+            h.Patch(m,postfix:postfix==null?null:new HarmonyMethod(typeof(WorksiteParleyPatch),postfix),transpiler:transpiler==null?null:WorksiteInterpolation.BeforeLiterals(typeof(WorksiteParleyPatch),transpiler));
         }
         public static string GreetingArray(string[] p)=>Russian?WorksiteParleyText.ArrayGreeting(p):string.Concat(p);
         public static string GreetingFour(string a,string b,string c,string d)=>Russian?WorksiteParleyText.FourGreeting(a,b,c,d):string.Concat(a,b,c,d);
@@ -57,23 +58,26 @@ namespace Igor.WorksitesRussian
             if(def!=null)AccessTools.Field(t,"outpostType").SetValue(__instance,def.LabelCap.Resolve());
             else if(data==null)AccessTools.Field(t,"outpostType").SetValue(__instance,"Аванпост");
         }
-        public static IEnumerable<CodeInstruction> RewriteGreeting(IEnumerable<CodeInstruction> input)
+        public static IEnumerable<CodeInstruction> RewriteGreeting(IEnumerable<CodeInstruction> input, MethodBase __originalMethod = null, ILGenerator generator = null)
         {
+            var source=input.ToList();
             int arrays=0,fours=0;var result=new List<CodeInstruction>();
-            foreach(var i in input){var c=new CodeInstruction(i);if(c.Calls(ArrayConcat)){c.operand=AccessTools.Method(typeof(WorksiteParleyPatch),nameof(GreetingArray));arrays++;}else if(c.Calls(FourConcat)){c.operand=AccessTools.Method(typeof(WorksiteParleyPatch),nameof(GreetingFour));fours++;}result.Add(c);}
-            if(arrays!=1||fours!=1)throw new InvalidOperationException("Worksites greeting call sites changed.");return result;
+            foreach(var i in WorksiteInterpolation.Normalize(source,__originalMethod,generator)){var c=new CodeInstruction(i);if(c.Calls(ArrayConcat)){c.operand=AccessTools.Method(typeof(WorksiteParleyPatch),nameof(GreetingArray));arrays++;}else if(c.Calls(FourConcat)){c.operand=AccessTools.Method(typeof(WorksiteParleyPatch),nameof(GreetingFour));fours++;}result.Add(c);}
+            return arrays==1&&fours==1?result:WorksiteInterpolation.Unchanged(source,__originalMethod);
         }
-        public static IEnumerable<CodeInstruction> RewriteRepeat(IEnumerable<CodeInstruction> input)
+        public static IEnumerable<CodeInstruction> RewriteRepeat(IEnumerable<CodeInstruction> input, MethodBase __originalMethod = null)
         {
+            var source=input.ToList();
             int count=0;var result=new List<CodeInstruction>();
-            foreach(var i in input){var c=new CodeInstruction(i);if(c.Calls(FourConcat)){c.operand=AccessTools.Method(typeof(WorksiteParleyPatch),nameof(Repeat));count++;}result.Add(c);}
-            if(count!=1)throw new InvalidOperationException("Worksites repeated request call sites changed.");return result;
+            foreach(var i in source){var c=new CodeInstruction(i);if(c.Calls(FourConcat)){c.operand=AccessTools.Method(typeof(WorksiteParleyPatch),nameof(Repeat));count++;}result.Add(c);}
+            return count==1?result:WorksiteInterpolation.Unchanged(source,__originalMethod);
         }
-        public static IEnumerable<CodeInstruction> RewriteFactors(IEnumerable<CodeInstruction> input)
+        public static IEnumerable<CodeInstruction> RewriteFactors(IEnumerable<CodeInstruction> input, MethodBase __originalMethod = null, ILGenerator generator = null)
         {
+            var source=input.ToList();
             int[] counts=new int[3];string[] names={nameof(One),nameof(Two),nameof(Three)};var result=new List<CodeInstruction>();
-            foreach(var i in input){var c=new CodeInstruction(i);for(int n=0;n<3;n++)if(c.Calls(Formats[n])){c.operand=AccessTools.Method(typeof(WorksiteParleyPatch),names[n]);counts[n]++;break;}result.Add(c);}
-            if(!counts.SequenceEqual(new[]{87,14,1}))throw new InvalidOperationException("Worksites factor format sites changed: "+string.Join(",",counts));return result;
+            foreach(var i in WorksiteInterpolation.Normalize(source,__originalMethod,generator)){var c=new CodeInstruction(i);for(int n=0;n<3;n++)if(c.Calls(Formats[n])){c.operand=AccessTools.Method(typeof(WorksiteParleyPatch),names[n]);counts[n]++;break;}result.Add(c);}
+            return counts.SequenceEqual(new[]{87,14,1})?result:WorksiteInterpolation.Unchanged(source,__originalMethod);
         }
     }
 }

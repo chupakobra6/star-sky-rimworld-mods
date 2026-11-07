@@ -210,6 +210,7 @@ namespace Igor.RU_3687071198
                 { "Enemy threat multiplier:  {0:F1}×", "Множитель силы защитников: {0:F1}×" },
                 { "How often mercenaries will take up defensive positions instead of coming out to meet you. Set to 0% to turn off defensive positions.", "Как часто наёмники занимают оборонительные позиции вместо того, чтобы выходить вам навстречу. При 0% они не занимают оборонительные позиции." },
                 { "How often outpost quests appear. Frequency decreases as more outpost sites exist on the world map.", "Как часто появляются задания на аванпосты. Чем больше таких участков уже есть на карте мира, тем реже появляются новые." },
+                { "How long worksite settlements remain on the world map before expiring.", "Как долго аванпосты остаются на карте мира до исчезновения." },
                 { "Ideology and Worksites Expanded", "Ideology и Worksites Expanded" },
                 { "Increases the threat of outpost defenses. 1.0 is default.", "Увеличить силу защиты аванпостов. По умолчанию: 1,0." },
                 { "Outpost factions", "Фракции аванпостов" },
@@ -219,6 +220,7 @@ namespace Igor.RU_3687071198
                 { "Permanent factions only", "Только постоянные фракции" },
                 { "Prints verbose logs to the debug console during outpost generation.", "Выводить подробные записи в журнал отладки при создании аванпостов." },
                 { "Quest spawn rate:  ", "Частота заданий: " },
+                { "Settlement lifespan:  {0} - {1} days", "Срок существования аванпостов: {0}–{1} дн." },
                 { "Removes all turrets from generated outposts.", "Удалять все турели при создании аванпостов." },
                 { "Replace outpost turrets with Vanilla Furniture Expanded - Security equivalents and add weapon complexes to the perimeter.", "Заменять турели аванпостов аналогами из Vanilla Furniture Expanded — Security и добавлять оружейные комплексы по периметру." },
                 { "Temporary and permanent factions (recommended)", "Временные и постоянные фракции (рекомендуется)" },
@@ -2325,10 +2327,17 @@ namespace Igor.RU_3687071198
         public static void Apply()
         {
             var harmony = new Harmony("igor.ru.3687071198.literals");
-            foreach (var target in Methods.Keys.ToArray())
+            foreach (var target in BuildTargets(UseVersion17))
             {
-                if (!IsApplicable(target)) { Methods.Remove(target); continue; }
-                harmony.Patch(ResolveTarget(target),
+                if (UseVersion17 && MissingOptional17Owner(target)) continue;
+                MethodBase method;
+                try { method = ResolveTarget(target); }
+                catch (MissingMethodException exception)
+                {
+                    Warn(target, exception.Message);
+                    continue;
+                }
+                harmony.Patch(method,
                     transpiler: new HarmonyMethod(typeof(LiteralTranslations), nameof(Transpile)));
             }
         }
@@ -2351,7 +2360,7 @@ namespace Igor.RU_3687071198
             IEnumerable<MethodBase> candidates = name == ".ctor"
                 ? type.GetConstructors(flags).Where(m => m.Name == name).Cast<MethodBase>()
                 : type.GetMethods(flags).Where(m => m.Name == name).Cast<MethodBase>();
-            if (Parameters.TryGetValue(target, out var parameters))
+            if (TryGetParameters(target, UseVersion17, out var parameters))
                 candidates = candidates.Where(m => m.GetParameters()
                     .Select(p => CecilParameterName(p.ParameterType)).SequenceEqual(parameters));
             else if (name == ".ctor")
@@ -2388,7 +2397,14 @@ namespace Igor.RU_3687071198
         }
         public static IEnumerable<CodeInstruction> Transpile(IEnumerable<CodeInstruction> input, MethodBase __originalMethod)
         {
-            var translations = Methods[__originalMethod.DeclaringType.FullName + ":" + __originalMethod.Name];
+            return TranspileTarget(input, __originalMethod, UseVersion17);
+        }
+        public static IEnumerable<CodeInstruction> TranspileTarget(IEnumerable<CodeInstruction> input, MethodBase __originalMethod, bool useVersion17)
+        {
+            string target = __originalMethod.DeclaringType.FullName + ":" + __originalMethod.Name;
+            if (useVersion17 && Version17ByTarget.TryGetValue(target, out var variant))
+                return Transpile17(input, target, variant);
+            var translations = Methods[target];
             var found = new HashSet<string>();
             var output = new List<CodeInstruction>();
             foreach (var instruction in input)
@@ -2401,8 +2417,174 @@ namespace Igor.RU_3687071198
                 output.Add(new CodeInstruction(OpCodes.Call, AccessTools.Method(typeof(LiteralTranslations), nameof(Select))));
             }
             if (found.Count != translations.Count)
-                throw new InvalidOperationException("Source strings changed in " + __originalMethod + ": "
-                    + string.Join(", ", translations.Keys.Where(k => !found.Contains(k))));
+                Warn(target, "Source strings changed: " + string.Join(", ", translations.Keys.Where(k => !found.Contains(k))));
+            return output;
+        }
+        private static void Warn(string target, string detail)
+        {
+            string message = "[Star Sky RU 3687071198] " + target + ": " + detail;
+            Log.WarningOnce(message, message.GetHashCode());
+        }
+
+        private sealed class Variant17
+        {
+            internal readonly string Target;
+            internal readonly string[] Parameters, Shape;
+            internal readonly bool Optional, Enabled;
+            internal readonly Dictionary<string,string> Exact, Append;
+
+            internal Variant17(string target, string[] parameters, bool optional, bool enabled,
+                Dictionary<string,string> exact, Dictionary<string,string> append, string[] shape)
+            {
+                Target = target;
+                Parameters = parameters;
+                Optional = optional;
+                Enabled = enabled;
+                Exact = exact;
+                Append = append;
+                Shape = shape;
+            }
+        }
+
+        private static readonly Dictionary<string,Variant17> Version17 = new Dictionary<string,Variant17> {
+            { "MiningOutpost.Alert_OutpostTurrets:GetExplanation", new Variant17("MiningOutpost.Alert_OutpostTurrets:GetExplanation", null, false, true, new Dictionary<string,string> { { "The outpost is defended by:", "Аванпост защищают:" }, { "You must destroy these before you can reform the caravan.", "Чтобы заново сформировать караван, сначала нужно уничтожить эти турели." } }, new Dictionary<string,string> { { " ", " × " }, { "1 ", "1 × " }, { "s", "" } }, null) },
+            { "MiningOutpost.Alert_OutpostTurrets:GetLabel", new Variant17("MiningOutpost.Alert_OutpostTurrets:GetLabel", null, false, true, new Dictionary<string,string> { { "1 turret remaining", "Осталась 1 турель" } }, new Dictionary<string,string> { { " turrets remaining", " (оставшиеся турели)" } }, null) },
+            { "MiningOutpost.Alert_WorksiteLaborersAvailable:GetExplanation", new Variant17("MiningOutpost.Alert_WorksiteLaborersAvailable:GetExplanation", null, false, true, new Dictionary<string,string> { { " will build defenses. Right-click a laborer to request turrets or fortifications.", " Для заказа оборонительных турелей или укреплений щёлкните по рабочему правой кнопкой мыши." }, { "1 laborer", "Доступен 1 рабочий." } }, new Dictionary<string,string> { { " laborers", " — число доступных рабочих." } }, null) },
+            { "MiningOutpost.Alert_WorksiteLaborersAvailable:GetLabel", new Variant17("MiningOutpost.Alert_WorksiteLaborersAvailable:GetLabel", null, false, true, new Dictionary<string,string> { { "1 laborer available to build", "Для строительства доступен 1 рабочий" } }, new Dictionary<string,string> { { " laborers available to build", " (рабочие для строительства)" } }, null) },
+            { "MiningOutpost.Alert_WorksiteMedicsAvailable:GetExplanation", new Variant17("MiningOutpost.Alert_WorksiteMedicsAvailable:GetExplanation", null, false, true, new Dictionary<string,string> { { " will treat the wounded. Select a hurt pawn and right-click a medic to request healing.", " Можно запросить лечение: выберите раненого персонажа и щёлкните по медику правой кнопкой мыши." }, { "1 medic", "Наготове 1 медик." } }, new Dictionary<string,string> { { " medics", " — число медиков наготове." } }, null) },
+            { "MiningOutpost.Alert_WorksiteMedicsAvailable:GetLabel", new Variant17("MiningOutpost.Alert_WorksiteMedicsAvailable:GetLabel", null, false, true, new Dictionary<string,string> { { "1 medic standing by", "Наготове 1 медик" } }, new Dictionary<string,string> { { " medics standing by", " (медики наготове)" } }, null) },
+            { "MiningOutpost.Alert_WorksiteMercenariesAvailable:GetExplanation", new Variant17("MiningOutpost.Alert_WorksiteMercenariesAvailable:GetExplanation", null, false, true, new Dictionary<string,string> { { " will follow a colonist. Select a pawn and right-click a mercenary to ask.", " Наёмник может следовать за поселенцем. Для этого выберите персонажа и щёлкните по наёмнику правой кнопкой мыши." }, { "1 mercenary", "Доступен 1 наёмник." } }, new Dictionary<string,string> { { " mercenaries", " — число доступных наёмников." } }, null) },
+            { "MiningOutpost.Alert_WorksiteMercenariesAvailable:GetLabel", new Variant17("MiningOutpost.Alert_WorksiteMercenariesAvailable:GetLabel", null, false, true, new Dictionary<string,string> { { "1 mercenary available to command", "Под командование доступен 1 наёмник" } }, new Dictionary<string,string> { { " mercenaries available to command", " (доступные наёмники)" } }, null) },
+            { "MiningOutpost.Defense.Alert_WorksiteDugIn:GetExplanation", new Variant17("MiningOutpost.Defense.Alert_WorksiteDugIn:GetExplanation", null, false, true, new Dictionary<string,string> { { "1 enemy has taken up a defensive position inside.", "Внутри занял оборону один враг." } }, new Dictionary<string,string> { { " enemies have taken up defensive positions inside.", " — столько врагов заняли оборону внутри." } }, null) },
+            { "MiningOutpost.Defense.Alert_WorksiteDugIn:GetLabel", new Variant17("MiningOutpost.Defense.Alert_WorksiteDugIn:GetLabel", null, false, true, new Dictionary<string,string> { { "1 enemy remaining", "Остался 1 враг" } }, new Dictionary<string,string> { { " enemies remaining", " (оставшиеся враги)" } }, null) },
+            { "MiningOutpost.Defense.MapComponent_TurretHotwire:ActivateAll", new Variant17("MiningOutpost.Defense.MapComponent_TurretHotwire:ActivateAll", null, false, true, new Dictionary<string,string> { { "Your hotwired turret has switched to your side!", "Взломанная турель перешла на вашу сторону!" } }, new Dictionary<string,string> { { " hotwired turrets have switched to your side!", "." }, { "Your ", "Взломанные турели перешли на вашу сторону! Всего: " } }, null) },
+            { "MiningOutpost.FactionCleanupUtility:CleanupOrphanedTemporaryFactions", new Variant17("MiningOutpost.FactionCleanupUtility:CleanupOrphanedTemporaryFactions", null, false, true, new Dictionary<string,string> { { "No orphaned temporary factions found.", "Не найдено временных фракций, оставшихся без связанных объектов." } }, new Dictionary<string,string> { { " orphaned temporary faction(s). Check log for details.", ". Подробности в журнале." }, { "Removed ", "Удалено временных фракций без связанных объектов: " } }, null) },
+            { "MiningOutpost.FactionCleanupUtility:ListTemporaryFactions", new Variant17("MiningOutpost.FactionCleanupUtility:ListTemporaryFactions", null, false, true, new Dictionary<string,string> {  }, new Dictionary<string,string> { { " temporary faction(s). Check log for details.", ". Подробности в журнале." }, { "Found ", "Найдено временных фракций: " } }, null) },
+            { "MiningOutpost.Loot.FarmingOutpost_MapTracker:CheckIfOutpostConquered", new Variant17("MiningOutpost.Loot.FarmingOutpost_MapTracker:CheckIfOutpostConquered", null, false, true, new Dictionary<string,string> {  }, new Dictionary<string,string> { { " ", " × " }, { " survived the raid, you can add them to your caravan or leave them behind.", " — выжившие после нападения. Их можно добавить в караван или оставить на аванпосте." } }, null) },
+            { "MiningOutpost.MiningOutpostMod:DoSettingsWindowContents", new Variant17("MiningOutpost.MiningOutpostMod:DoSettingsWindowContents", null, false, true, new Dictionary<string,string> { { "Changes to Ideology compatibility take effect after restarting the game.", "Изменения совместимости с Ideology вступят в силу после перезапуска игры." }, { "Disable loiter timeout", "Отключить ограничение на бездействие" }, { "Disable outpost turrets", "Отключить турели аванпостов" }, { "Disables all outpost AI. Pawns will use standard RimWorld behaviour.", "Отключить весь особый ИИ аванпостов. Персонажи будут вести себя по обычным правилам RimWorld." }, { "Disables the timeout where guards assault the player if they loiter at the outpost without fighting.", "Охрана не будет нападать на ваших персонажей за то, что они слишком долго находятся на аванпосте, не вступая в бой." }, { "How long worksite settlements remain on the world map before expiring.", "Как долго аванпосты остаются на карте мира до исчезновения." }, { "How often mercenaries will take up defensive positions instead of coming out to meet you. Set to 0% to turn off defensive positions.", "Как часто наёмники занимают оборонительные позиции вместо того, чтобы выходить вам навстречу. При 0% они не занимают оборонительные позиции." }, { "How often outpost quests appear. Frequency decreases as more outpost sites exist on the world map.", "Как часто появляются задания на аванпосты. Чем больше таких участков уже есть на карте мира, тем реже появляются новые." }, { "Ideology and Worksites Expanded", "Ideology и Worksites Expanded" }, { "Increases the threat of outpost defenses. 1.0 is default.", "Увеличить силу защиты аванпостов. По умолчанию: 1,0." }, { "Outpost factions", "Фракции аванпостов" }, { "Outposts will be created by either temporary or permanent factions.", "Аванпосты могут принадлежать как временным, так и постоянным фракциям." }, { "Outposts will be created by permanent factions only.", "Аванпосты могут принадлежать только постоянным фракциям." }, { "Outposts will be created by temporary factions only.", "Аванпосты могут принадлежать только временным фракциям." }, { "Permanent factions only", "Только постоянные фракции" }, { "Prints verbose logs to the debug console during outpost generation.", "Выводить подробные записи в журнал отладки при создании аванпостов." }, { "Quest spawn rate:  ", "Частота заданий: " }, { "Removes all turrets from generated outposts.", "Удалять все турели при создании аванпостов." }, { "Replace outpost turrets with Vanilla Furniture Expanded - Security equivalents and add weapon complexes to the perimeter.", "Заменять турели аванпостов аналогами из Vanilla Furniture Expanded — Security и добавлять оружейные комплексы по периметру." }, { "Temporary and permanent factions (recommended)", "Временные и постоянные фракции (рекомендуется)" }, { "Temporary factions only", "Только временные фракции" }, { "The Worksites Expanded experience. Ideology work sites are removed.", "Использовать рабочие участки из Worksites Expanded. Рабочие участки из Ideology будут отключены." }, { "Upgrade outpost security", "Усилить защиту аванпостов" }, { "Use vanilla AI", "Использовать стандартный ИИ" }, { "Verbose logging", "Подробный журнал" }, { "Worksites Expanded only (recommended)", "Только Worksites Expanded (рекомендуется)" }, { "Worksites Expanded will spawn work sites in addition to Ideology (logging, mining, farming, hunting).", "Рабочие участки Worksites Expanded появляются наряду с лагерями Ideology, где рубят лес, добывают руду, выращивают культуры или охотятся." } }, new Dictionary<string,string> { { " - ", "–" }, { " days", " дн." }, { "Dig in chance:  ", "Шанс занять оборону: " }, { "Enemy threat multiplier:  ", "Множитель силы защитников: " }, { "Settlement lifespan:  ", "Срок существования аванпостов: " } }, null) },
+            { "MiningOutpost.Orbital.Services.Dialog_Firefight:DrawCrewCard", new Variant17("MiningOutpost.Orbital.Services.Dialog_Firefight:DrawCrewCard", null, false, true, new Dictionary<string,string> { { "Cannot act.", "Не может действовать." }, { "Click the name to view wounds", "Нажмите на имя, чтобы посмотреть ранения" }, { "Down. The crew will recover them.", "Не может встать. Экипаж организует эвакуацию." }, { "End Turn", "Завершить ход" }, { "Order", "Приказ" }, { "Out of the fight.", "Больше не участвует в бою." }, { "Patch", "Перевязать" }, { "Ready", "Готово" }, { "Reload", "Перезарядка" }, { "Stunned. Loses this round.", "Оглушение. Этот раунд пропущен." }, { "Target", "Цель" }, { "nearest", "ближайшая" } }, new Dictionary<string,string> { { " rds", " патр." } }, null) },
+            { "MiningOutpost.Orbital.Services.Dialog_Firefight:DrawEnemyCard", new Variant17("MiningOutpost.Orbital.Services.Dialog_Firefight:DrawEnemyCard", null, false, true, new Dictionary<string,string> { { "Click to view wounds", "Нажмите, чтобы посмотреть ранения" }, { "Down", "Не может встать" }, { "Killed", "Смерть" }, { "Operational", "В строю" }, { "Out of the fight", "Не участвует в бою" }, { "Wounded", "Ранения" } }, new Dictionary<string,string> { { "Difficulty to hit: ", "Сложность попадания: " }, { "m", " м" } }, null) },
+            { "MiningOutpost.Orbital.Services.Dialog_Firefight:DrawEnemyColumn", new Variant17("MiningOutpost.Orbital.Services.Dialog_Firefight:DrawEnemyColumn", null, false, true, new Dictionary<string,string> { { "Enemies", "Противники" } }, new Dictionary<string,string> { { " up", " (в строю)" } }, null) },
+            { "MiningOutpost.Orbital.Services.Dialog_Firefight:DrawFooter", new Variant17("MiningOutpost.Orbital.Services.Dialog_Firefight:DrawFooter", null, false, true, new Dictionary<string,string> { { "FALL BACK", "ОТСТУПИТЬ" }, { "LEAVE THE BAY", "ПОКИНУТЬ ОТСЕК" }, { "RESOLVE QUEUED ORDERS", "ВЫПОЛНИТЬ ПРИКАЗЫ НА ХОД" }, { "Withdraw", "Отступить" } }, new Dictionary<string,string> { { " CREW", "" }, { "WAITING ON ", "ЖДУТ ПРИКАЗОВ: " } }, null) },
+            { "MiningOutpost.Orbital.Services.Dialog_Firefight:OpenTargetMenu", new Variant17("MiningOutpost.Orbital.Services.Dialog_Firefight:OpenTargetMenu", null, false, true, new Dictionary<string,string> { { "(no targets)", "(нет целей)" } }, new Dictionary<string,string> { { ", DC ", ", сложность " } }, null) },
+            { "MiningOutpost.Orbital.Services.FirefightSim:.ctor", new Variant17("MiningOutpost.Orbital.Services.FirefightSim:.ctor", new string[] { "MiningOutpost.Orbital.Services.FirefightEncounter", "RimWorld.Planet.Caravan", "MiningOutpost.Orbital.Services.OpportunityRunState" }, false, true, new Dictionary<string,string> { { "Resolver", "Ведение боя" } }, new Dictionary<string,string> { { " crew.", "." }, { " hostiles, ", ". Членов экипажа: " }, { "Round 1. ", "Раунд 1. Противников: " } }, null) },
+            { "MiningOutpost.Orbital.Services.FirefightSim:CrewCharge", new Variant17("MiningOutpost.Orbital.Services.FirefightSim:CrewCharge", null, false, true, new Dictionary<string,string> { { "charges the ", "бросается в ближний бой. Цель: " }, { "finds nothing left to close on.", "не находит противника, с которым можно сблизиться." } }, new Dictionary<string,string> { { " to ", " против " }, { "lands the blow (", "попадает (" }, { "swings and misses (", "замахивается и промахивается (" } }, null) },
+            { "MiningOutpost.Orbital.Services.FirefightSim:CrewShoot", new Variant17("MiningOutpost.Orbital.Services.FirefightSim:CrewShoot", null, false, true, new Dictionary<string,string> { { " Hit.", " Попадание." }, { " Miss.", " Промах." }, { "has no target and holds fire.", "не видит цели и не открывает огонь." }, { "is dry. The shot never comes.", "остаётся без патронов. Выстрела не происходит." } }, new Dictionary<string,string> { { " (", "» (" }, { " + REF ", " + реакция " }, { " + Shooting ", " + дальний бой " }, { ", DC ", ", сложность " }, { "fires on the ", "стреляет по цели «" } }, null) },
+            { "MiningOutpost.Orbital.Services.FirefightSim:DoAim", new Variant17("MiningOutpost.Orbital.Services.FirefightSim:DoAim", null, false, true, new Dictionary<string,string> {  }, new Dictionary<string,string> { { " to the next shot).", " к следующему выстрелу)." }, { "sights in (+", "прицеливается (+" } }, null) },
+            { "MiningOutpost.Orbital.Services.FirefightSim:DoReload", new Variant17("MiningOutpost.Orbital.Services.FirefightSim:DoReload", null, false, true, new Dictionary<string,string> {  }, new Dictionary<string,string> { { " rounds.", "." }, { "reloads. ", "перезаряжает оружие. Патронов: " } }, null) },
+            { "MiningOutpost.Orbital.Services.FirefightSim:EnemyMelee", new Variant17("MiningOutpost.Orbital.Services.FirefightSim:EnemyMelee", null, false, true, new Dictionary<string,string> { { "gets a free swing at", "наносит свободный удар" }, { "scratches at", "бьёт когтями" } }, new Dictionary<string,string> { { " ", " по цели «" }, { " and connects (", "»: попадание (" }, { " to ", " против " }, { ", dodged (", "»: уклонение (" } }, null) },
+            { "MiningOutpost.Orbital.Services.FirefightSim:EnemyShoot", new Variant17("MiningOutpost.Orbital.Services.FirefightSim:EnemyShoot", null, false, true, new Dictionary<string,string> { { "fires", "стреляет" } }, new Dictionary<string,string> { { " (", "» (" }, { " at ", " по цели «" }, { " vs ", " против " }, { ", DC ", ", сложность " }, { ". Hit!", ". Попадание!" }, { ". Miss.", ". Промах." } }, null) },
+            { "MiningOutpost.Orbital.Services.FirefightSim:ResolveRound", new Variant17("MiningOutpost.Orbital.Services.FirefightSim:ResolveRound", null, false, true, new Dictionary<string,string> { { "Resolver", "Ведение боя" }, { "Round ", "Раунд " }, { "the crew", "экипаж" }, { "the hostiles", "противники" } }, new Dictionary<string,string> { { " hostiles left.", "." }, { " to ", " против " }, { ". ", ". Осталось противников: " }, { "Initiative to ", "Инициатива: " } }, null) },
+            { "MiningOutpost.Orbital.Services.OpportunityRunner:CheckRequirements", new Variant17("MiningOutpost.Orbital.Services.OpportunityRunner:CheckRequirements", null, false, true, new Dictionary<string,string> { { "Requires combat blade in caravan", "Каравану нужно холодное оружие с лезвием" }, { "Requires explosive / mortar shell in caravan", "Каравану нужна взрывчатка или миномётный снаряд" }, { "Requires food rations in caravan", "Каравану нужны пищевые припасы" }, { "Requires precision rifle in caravan", "Каравану нужна высокоточная винтовка" } }, new Dictionary<string,string> { { " silver (have ", " (в наличии: " }, { "Need ", "Нужно серебра: " } }, null) },
+            { "MiningOutpost.Orbital.Services.OpportunityRunner:DrawOptions", new Variant17("MiningOutpost.Orbital.Services.OpportunityRunner:DrawOptions", null, false, true, new Dictionary<string,string> { { "   |   Consumes 1 ", "   |   Будет потрачен 1 предмет: " }, { "Accept the job", "Взяться за задание" }, { "Consumes 1 ", "Будет потрачен 1 предмет: " }, { "Friday Night Firefight", "Пятничная перестрелка" }, { "Leave (no options here)", "Уйти (доступных действий нет)" }, { "No eligible crew", "Нет подходящих членов экипажа" }, { "no crew", "нет экипажа" } }, new Dictionary<string,string> { { "   |   Cost: ", "   |   Стоимость: " }, { " silver", " серебра" }, { "Cost: ", "Стоимость: " } }, null) },
+            { "MiningOutpost.Orbital.Services.OpportunityRunner:DrawResolvePanel", new Variant17("MiningOutpost.Orbital.Services.OpportunityRunner:DrawResolvePanel", null, false, true, new Dictionary<string,string> { { "Continue", "Продолжить" }, { "Exploded!", "Максимум! Ещё бросок!" }, { "Failed", "Провал" }, { "Resolving", "Проверка" }, { "Success", "Успех" } }, new Dictionary<string,string> { { "The die explodes: 20 + ", "Переброс при максимуме: 20 + " } }, null) },
+            { "MiningOutpost.Orbital.Services.OrbitalCyberDoc:BuyConsumable", new Variant17("MiningOutpost.Orbital.Services.OrbitalCyberDoc:BuyConsumable", null, false, true, new Dictionary<string,string> { { "The caravan cannot afford this deal.", "В караване не хватает серебра на эту сделку." } }, new Dictionary<string,string> { { " ", " × " }, { " for ", ". Уплачено серебра: " }, { " silver.", "." }, { "Bought ", "Куплено: " } }, null) },
+            { "MiningOutpost.Orbital.Services.OrbitalOrganShop:BuyOrgan", new Variant17("MiningOutpost.Orbital.Services.OrbitalOrganShop:BuyOrgan", null, false, true, new Dictionary<string,string> { { "The caravan cannot afford this deal.", "В караване не хватает серебра на эту сделку." } }, new Dictionary<string,string> { { " for ", ". Уплачено серебра: " }, { " silver.", "." }, { "Bought ", "Куплено: " } }, null) },
+            { "MiningOutpost.Orbital.Services.OrbitalOrganShop:DrawSellColumn", new Variant17("MiningOutpost.Orbital.Services.OrbitalOrganShop:DrawSellColumn", null, false, true, new Dictionary<string,string> { { "No organs in the caravan.", "В караване нет органов на продажу." }, { "SELL YOUR ORGANS", "ПРОДАЖА ОРГАНОВ" } }, new Dictionary<string,string> { { " silver", " серебра" }, { "Clinic budget: ", "Бюджет клиники: " } }, null) },
+            { "MiningOutpost.Orbital.Services.OrbitalOrganShop:DrawSellDetail", new Variant17("MiningOutpost.Orbital.Services.OrbitalOrganShop:DrawSellDetail", null, false, true, new Dictionary<string,string> { { "OFFER", "ПРЕДЛОЖЕНИЕ" }, { "Sell for ", "Продать за " } }, new Dictionary<string,string> { { " silver", " серебра" }, { "Clinic budget: ", "Бюджет клиники: " } }, null) },
+            { "MiningOutpost.Orbital.Services.OrbitalOrganShop:SellOrgan", new Variant17("MiningOutpost.Orbital.Services.OrbitalOrganShop:SellOrgan", null, false, true, new Dictionary<string,string> { { "The clinic has spent its organ-buying budget for this cycle.", "Клиника уже израсходовала бюджет на закупку органов в этом цикле." } }, new Dictionary<string,string> { { " for ", ". Получено серебра: " }, { " silver.", "." }, { "Sold ", "Продано: " } }, null) },
+            { "MiningOutpost.Orbital.Services.TheSoup:CorpseTip", new Variant17("MiningOutpost.Orbital.Services.TheSoup:CorpseTip", null, false, true, new Dictionary<string,string> { { "Animal or plant matter. Worth 45% of its market value.", "Животное или растительное сырьё. Стоит 45% от его рыночной цены." }, { "Dessicated humanoid remains. Worth 30% of a fresh corpse.", "Высохшие останки гуманоида. Стоят 30% от цены свежего трупа." }, { "Fresh humanoid corpse. Full reclamation value from meat and leather yield.", "Свежий труп гуманоида. Полная стоимость переработки по выходу мяса и кожи." }, { "Rotting humanoid corpse. Worth 60% of a fresh corpse.", "Гниющий труп гуманоида. Стоит 60% от цены свежего трупа." } }, new Dictionary<string,string> { { " silver", " серебра" }, { " x ", " × " } }, null) },
+            { "MiningOutpost.Parley.CaravanArrivalAction_ParleyWithOutpost:Arrived", new Variant17("MiningOutpost.Parley.CaravanArrivalAction_ParleyWithOutpost:Arrived", null, false, true, new Dictionary<string,string> { { "The worksite is currently under siege.", "Сейчас рабочий участок находится в осаде." }, { "This outpost cannot be parleyed with.", "С этим аванпостом нельзя вести переговоры." } }, new Dictionary<string,string> { { " more day(s).", " дн." }, { "This outpost is not ready to parley for ", "Аванпост снова будет готов к переговорам через " } }, null) },
+            { "MiningOutpost.Parley.CaravanArrivalAction_TradeWithOutpost:Arrived", new Variant17("MiningOutpost.Parley.CaravanArrivalAction_TradeWithOutpost:Arrived", null, false, true, new Dictionary<string,string> { { "No caravan member has enough social skill to trade.", "Ни у кого в караване навык общения не позволяет торговать." }, { "The worksite is currently under siege.", "Сейчас рабочий участок находится в осаде." }, { "This outpost has nothing to trade right now.", "Сейчас этому аванпосту нечего предложить для торговли." } }, new Dictionary<string,string> { { " more day(s).", " дн." }, { "This outpost is not ready to trade again for ", "Аванпост снова будет готов торговать через " } }, null) },
+            { "MiningOutpost.Parley.Dialog_Parley:ApplyRoyalTitheReward", new Variant17("MiningOutpost.Parley.Dialog_Parley:ApplyRoyalTitheReward", null, false, true, new Dictionary<string,string> {  }, new Dictionary<string,string> { { " has been granted ", " получает " }, { " royal favor from the tithe.", " ед. чести за выплату десятины." } }, null) },
+            { "MiningOutpost.Parley.Dialog_Parley:BuildRewardDescription", new Variant17("MiningOutpost.Parley.Dialog_Parley:BuildRewardDescription", null, false, true, new Dictionary<string,string> { { "Someone from the outpost will be handed over.", "Вам передадут одного из жителей аванпоста." }, { "They will offer whatever they can spare from their stockpile.", "Они предложат то, что смогут выделить из своих запасов." }, { "They'll hand over someone less experienced.", "Вам передадут менее опытного работника." }, { "your colonist", "Ваш поселенец" } }, new Dictionary<string,string> { { "A random faction's goodwill toward you will increase by ", "Отношение случайной фракции к вам улучшится на " } }, null) },
+            { "MiningOutpost.Parley.Dialog_Parley:DrawCommsHeader", new Variant17("MiningOutpost.Parley.Dialog_Parley:DrawCommsHeader", null, false, true, new Dictionary<string,string> { { ", Envoy", ", переговорщик" }, { "No envoy", "Нет переговорщика" }, { "Swap active negotiator", "Сменить переговорщика" } }, new Dictionary<string,string> { { "Social skill: ", "Общение: " } }, null) },
+            { "MiningOutpost.Parley.Dialog_Parley:DrawDemandSelection", new Variant17("MiningOutpost.Parley.Dialog_Parley:DrawDemandSelection", null, false, true, new Dictionary<string,string> { { "Cancel", "Отмена" }, { "Demand a payment of silver from the outpost.", "Потребовать от аванпоста выплату серебром." }, { "Demand a worker from the outpost.", "Потребовать, чтобы аванпост передал вам работника." }, { "Demand apology", "Потребовать извинения" }, { "Demand endorsement", "Потребовать поручительство" }, { "Demand materials from the outpost's stockpile.", "Потребовать материалы со склада аванпоста." }, { "Demand royal tithe", "Потребовать имперскую десятину" }, { "Demand silver", "Потребовать серебро" }, { "Demand the outpost endorse you to another faction, improving goodwill.", "Потребовать, чтобы аванпост поручился за вас перед другой фракцией и улучшил её отношение к вам." }, { "Demand the worksite pay their dues to the Empire to earn royal favor.", "Потребовать, чтобы рабочий участок заплатил дань Империи, за которую вы получите честь." }, { "Demand tribute", "Потребовать дань" }, { "Demand worker", "Потребовать работника" }, { "Humiliate the outpost and boost your colonists' mood.", "Унизить аванпост и поднять настроение вашим поселенцам." }, { "If they refuse, the outpost may become hostile.", "Если вам откажут, аванпост может стать враждебным." } }, new Dictionary<string,string> { { " days after an attempt.", " дн." }, { " days.", " дн." }, { "Cannot attempt to parley with this outpost again for ", "После попытки переговоров повторить её с этим аванпостом можно лишь через " }, { "Parleying successfully will prevent raids at this outpost for ", "После успешных переговоров этот аванпост будет защищён от рейдов на " } }, null) },
+            { "MiningOutpost.Parley.Dialog_Parley:DrawSpecificsPanel", new Variant17("MiningOutpost.Parley.Dialog_Parley:DrawSpecificsPanel", null, false, true, new Dictionary<string,string> { { " (Cannot afford)", " (не хватает средств)" }, { " (unavailable)", " (недоступно)" }, { "Back", "Назад" }, { "Demand: ", "Требование: " }, { "No offers available.", "Нет доступных предложений." }, { "Press demands", "Настаивать на требованиях" }, { "Remove offer", "Убрать предложение" }, { "Sweeten Deal", "Предложить уступку" }, { "Sweeten deal", "Предложить уступку" } }, new Dictionary<string,string> { { "\nFinal: ", "\nИтог: " }, { "Success chance: ", "Вероятность успеха: " } }, null) },
+            { "MiningOutpost.Parley.Dialog_Parley:GetCounterOfferLabel", new Variant17("MiningOutpost.Parley.Dialog_Parley:GetCounterOfferLabel", null, false, true, new Dictionary<string,string> { { "a less experienced worker", "менее опытный работник" }, { "less than requested", "меньше запрошенного" }, { "materials", "материалы" } }, new Dictionary<string,string> { { " days", " дн." }, { " goodwill instead of +", " к отношениям вместо +" }, { " mood for ", " к настроению на " }, { " royal favor", " ед. чести" }, { " silver", " серебра" }, { "-", "–" } }, null) },
+            { "MiningOutpost.Parley.OutpostFloatMenuHelper+<AnnotateOptions>d__0:MoveNext", new Variant17("MiningOutpost.Parley.OutpostFloatMenuHelper+<AnnotateOptions>d__0:MoveNext", null, false, true, new Dictionary<string,string> { { " (HIGH ALERT)", " (БОЕВАЯ ГОТОВНОСТЬ)" }, { "Land outside outpost", "Приземлиться за пределами аванпоста" } }, new Dictionary<string,string> { { " (locked out  ", " (недоступно ещё " }, { " day(s) remaining)", " дн.)" } }, null) },
+            { "MiningOutpost.Parley.ParleyBargains:GenerateAvailableOffers", new Variant17("MiningOutpost.Parley.ParleyBargains:GenerateAvailableOffers", null, false, true, new Dictionary<string,string> { { "Ask nicely", "Вежливо попросить" }, { "Trade ", "Предложить в обмен: " } }, new Dictionary<string,string> { { " honor", " ед. чести" }, { " silver)", " серебра)" }, { "Offer a bribe (", "Предложить взятку (" }, { "Offer a hefty bribe (", "Предложить крупную взятку (" }, { "Spend ", "Потратить " } }, null) },
+            { "MiningOutpost.Parley.Patch_Caravan_GetGizmos:Postfix", new Variant17("MiningOutpost.Parley.Patch_Caravan_GetGizmos:Postfix", null, false, true, new Dictionary<string,string> { { "\n\nWARNING: This outpost is on high alert!", "\n\nВНИМАНИЕ: аванпост в полной боевой готовности!" }, { "Attack", "Напасть" }, { "Enter the outpost with hostile intent.", "Войти на аванпост с враждебными намерениями." }, { "Negotiate demands with the outpost.", "Обсудить требования с аванпостом." }, { "Open trade with this outpost.", "Начать торговлю с этим аванпостом." }, { "Parley", "Переговоры" }, { "The worksite is currently under siege.", "Сейчас аванпост находится в осаде." }, { "Trade", "Торговля" } }, new Dictionary<string,string> { { " more day(s).", " дн." }, { "Cannot parley for ", "Переговоры недоступны ещё " }, { "Cannot trade for ", "Торговля недоступна ещё " }, { "Parley agreement prevents attack for ", "Достигнутое на переговорах соглашение запрещает нападение ещё " } }, null) },
+            { "MiningOutpost.Parley.PlayerOffer:GetConfirmationText", new Variant17("MiningOutpost.Parley.PlayerOffer:GetConfirmationText", null, false, true, new Dictionary<string,string> { { "Proceed with the parley demands?", "Продолжить переговоры и выдвинуть требования?" } }, new Dictionary<string,string> { { " honor. Continue?", " ед. чести. Продолжить?" }, { " silver. Continue?", " серебра. Продолжить?" }, { "You are exchanging ", "Вы отдадите " }, { "You are offering a bribe of ", "Вы предлагаете взятку: " } }, null) },
+            { "MiningOutpost.PulseEmitter.CompPulseEmitter:CompInspectStringExtra", new Variant17("MiningOutpost.PulseEmitter.CompPulseEmitter:CompInspectStringExtra", null, false, true, new Dictionary<string,string> { { "\nBroken down.", "\nПоломка." }, { "\nReady to scan.", "\nГотов к сканированию." }, { "Not connected to power.", "Нет подключения к электросети." } }, new Dictionary<string,string> { { "\nExisting work sites nearby are reducing scan effectiveness by ", "\nАванпосты поблизости снижают эффективность сканирования на " }, { "Cooling down: ", "Охлаждение: осталось " }, { "Scan progress: ", "Прогресс сканирования: " }, { "h remaining.\n", " ч.\n" } }, null) },
+            { "MiningOutpost.PulseEmitter.CompPulseEmitter:TryDataCorruption", new Variant17("MiningOutpost.PulseEmitter.CompPulseEmitter:TryDataCorruption", null, false, true, new Dictionary<string,string> {  }, new Dictionary<string,string> { { "% of scan data was wiped from the pulse emitter.", "% данных сканирования." }, { "% of scan progress due to a system error.", "% прогресса сканирования из-за системной ошибки." }, { "% of the pulse emitter's data could not be recovered.", "% данных не удалось." }, { "Files were accidentally deleted and ", "Файлы были случайно удалены. Импульсный излучатель потерял " }, { "The pulse emitter became corrupted. ", "Данные импульсного излучателя повреждены. Восстановить " }, { "The pulse emitter lost ", "Импульсный излучатель потерял " } }, null) },
+            { "MiningOutpost.PulseEmitter.CompPulseEmitter:TryPowerSurge", new Variant17("MiningOutpost.PulseEmitter.CompPulseEmitter:TryPowerSurge", null, false, true, new Dictionary<string,string> {  }, new Dictionary<string,string> { { "A power surge is causing the pulse emitter to use ", "Из-за скачка нагрузки импульсный излучатель потребляет " }, { "W", " Вт." } }, null) },
+            { "MiningOutpost.WorkSiteDefenseTracker:BeginOnSiteDefense", new Variant17("MiningOutpost.WorkSiteDefenseTracker:BeginOnSiteDefense", null, false, true, new Dictionary<string,string> {  }, new Dictionary<string,string> { { " hours.", " ч." }, { " is arriving in ", "» ожидается через " }, { ". ", ". Нападение группы «" }, { "Caravan arrived at ", "Караван прибыл на место: " } }, null) },
+            { "MiningOutpost.WorkSiteDefenseTracker:PendingRaidExplanation", new Variant17("MiningOutpost.WorkSiteDefenseTracker:PendingRaidExplanation", null, false, true, new Dictionary<string,string> {  }, new Dictionary<string,string> { { " arrives in ", "» прибудет через " }, { " hours.", " ч." }, { " will attack in ", "» ожидается через " }, { ": ", ": нападение группы «" }, { ": the next wave of the ", ": следующая волна группы «" } }, null) },
+            { "MiningOutpost.WorkSiteDefenseTracker:SettleAttackerRelation", new Variant17("MiningOutpost.WorkSiteDefenseTracker:SettleAttackerRelation", null, false, true, new Dictionary<string,string> {  }, new Dictionary<string,string> { { " goodwill, abandoned worksite defence)", ", отказ от защиты аванпоста)" }, { " is grateful you let the worksite fall. (+", " благодарит вас за то, что вы позволили захватить аванпост. (Улучшение отношений: +" } }, null) },
+        };
+        private static readonly Dictionary<string,Variant17> Version17ByTarget =
+            Version17.Values.Where(variant => variant.Enabled).ToDictionary(variant => variant.Target);
+        private static bool UseVersion17
+        {
+            get
+            {
+                var version = RimWorld.VersionControl.CurrentVersion;
+                return version.Major == 1 && version.Minor == 7;
+            }
+        }
+
+        public static IEnumerable<string> BuildTargets(bool useVersion17)
+        {
+            foreach (var target in Methods.Keys)
+            {
+                if (!IsApplicable(target)) continue;
+                if (!useVersion17 || !Version17.TryGetValue(target, out var variant))
+                    yield return target;
+                else if (variant.Enabled)
+                    yield return variant.Target;
+            }
+        }
+
+        private static bool TryGetParameters(string target, bool useVersion17, out string[] parameters)
+        {
+            if (useVersion17 && Version17ByTarget.TryGetValue(target, out var variant))
+            {
+                parameters = variant.Parameters;
+                return parameters != null;
+            }
+            return Parameters.TryGetValue(target, out parameters);
+        }
+
+        private static bool MissingOptional17Owner(string target)
+        {
+            return Version17ByTarget.TryGetValue(target, out var variant) && variant.Optional
+                && AccessTools.TypeByName(target.Substring(0, target.LastIndexOf(':'))) == null;
+        }
+
+        private static bool IsAppendLiteral17(CodeInstruction instruction)
+        {
+            if ((instruction.opcode != OpCodes.Call && instruction.opcode != OpCodes.Callvirt)
+                || !(instruction.operand is MethodInfo method)
+                || method.Name != "AppendLiteral") return false;
+            string owner = method.DeclaringType.FullName;
+            return owner == "System.Runtime.CompilerServices.DefaultInterpolatedStringHandler"
+                || owner == "System.Text.StringBuilder+AppendInterpolatedStringHandler";
+        }
+
+        private static IEnumerable<CodeInstruction> Transpile17(IEnumerable<CodeInstruction> input, string target, Variant17 variant)
+        {
+            var instructions = input as IList<CodeInstruction> ?? input.ToList();
+            if (variant.Shape != null && !instructions.Where(i => i.opcode == OpCodes.Ldstr)
+                .Select(i => (string)i.operand).SequenceEqual(variant.Shape, StringComparer.Ordinal))
+            {
+                Warn(target, "Source literal shape changed on RimWorld 1.7");
+                return instructions;
+            }
+
+            var output = new List<CodeInstruction>();
+            var exactFound = new HashSet<string>();
+            var appendFound = new HashSet<string>();
+            var select = AccessTools.Method(typeof(LiteralTranslations), nameof(Select));
+            for (int i = 0; i < instructions.Count; i++)
+            {
+                var instruction = instructions[i];
+                output.Add(instruction);
+                if (instruction.opcode != OpCodes.Ldstr || !(instruction.operand is string source)) continue;
+                string russian;
+                if (variant.Append != null && i + 1 < instructions.Count && IsAppendLiteral17(instructions[i + 1])
+                    && variant.Append.TryGetValue(source, out russian))
+                    appendFound.Add(source);
+                else if (variant.Exact != null && variant.Exact.TryGetValue(source, out russian))
+                    exactFound.Add(source);
+                else continue;
+                output.Add(new CodeInstruction(OpCodes.Ldstr, russian));
+                output.Add(new CodeInstruction(OpCodes.Call, select));
+            }
+            var missing = (variant.Exact?.Keys.Except(exactFound) ?? Enumerable.Empty<string>())
+                .Concat(variant.Append?.Keys.Except(appendFound) ?? Enumerable.Empty<string>()).ToArray();
+            if (missing.Length > 0)
+                Warn(target, "Source strings changed on RimWorld 1.7: " + string.Join(", ", missing));
             return output;
         }
     }

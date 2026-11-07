@@ -1,0 +1,96 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AmbrosiaAnimalsName>Животные с зависимостью от амброзии</AmbrosiaAnimalsName>
+  <GoExploreName>Go Explore! — экспедиции</GoExploreName>
+  <InterceptedMessageName>Перехваченное сообщение</InterceptedMessageName>
+  <LGEBoolToolTip>Разрешить рассказчику запускать это событие. На уже начавшиеся задания настройка не влияет.</LGEBoolToolTip>
+  <LetterArrivedToxicCityInsectsLGE>В большинстве убежищ поселились инсектоиды.</LetterArrivedToxicCityInsectsLGE>
+  <LetterArrivedToxicCityMechanoidsLGE>В большинстве убежищ спят механоиды. Они просыпаются, когда кто-то входит. Ещё несколько охраняют улицы.</LetterArrivedToxicCityMechanoidsLGE>
+  <LetterFoundTreasureGravshipLGE>Ваши поселенцы обыскали место, указанное в перехваченном сообщении, и нашли неохраняемый тайник стоимостью {0}:
+
+{1}</LetterFoundTreasureGravshipLGE>
+  <LetterFoundTreasureLGE>Ваш караван прибыл в место, указанное в перехваченном сообщении, и нашёл неохраняемый тайник стоимостью {0}:
+
+{1}</LetterFoundTreasureLGE>
+  <LetterIMAmbushGravshipLGE>Перехваченное сообщение оказалось ловушкой! Никаких сокровищ нет, а на место вашей посадки напали.</LetterIMAmbushGravshipLGE>
+  <LetterIMAmbushLGE>Перехваченное сообщение оказалось приманкой! Никаких ценностей здесь нет, а ваш караван попал в засаду.</LetterIMAmbushLGE>
+  <LetterIMEmptyGravshipLGE>Ваши поселенцы обыскали место, указанное в перехваченном сообщении, но никаких сокровищ там не оказалось. Похоже на ловушку, однако никто их не поджидал.</LetterIMEmptyGravshipLGE>
+  <LetterLabelFoundTreasureLGE>Тайник найден</LetterLabelFoundTreasureLGE>
+  <LetterLabelIMAmbushLGE>Это ловушка!</LetterLabelIMAmbushLGE>
+  <LetterLabelIMEmptyLGE>Ничего не найдено</LetterLabelIMEmptyLGE>
+  <LetterLabelNewSettlementLGE>Новое поселение</LetterLabelNewSettlementLGE>
+  <LetterLabelResearchRequest_BackfireLGE>Серьёзная неудача при исследовании</LetterLabelResearchRequest_BackfireLGE>
+  <LetterLabelResearchRequest_DisasterLGE>Катастрофа при исследовании</LetterLabelResearchRequest_DisasterLGE>
+  <LetterLabelResearchRequest_NeutralLGE>Безрезультатное исследование</LetterLabelResearchRequest_NeutralLGE>
+  <LetterLabelResearchRequest_SuccessLGE>Успешное исследование</LetterLabelResearchRequest_SuccessLGE>
+  <LetterLabelResearchRequest_TriumphLGE>Триумфальное исследование</LetterLabelResearchRequest_TriumphLGE>
+  <LetterLabelTreasureAmbushLGE>Засада у тайника</LetterLabelTreasureAmbushLGE>
+  <LetterNewSettlementLGE>Фракция {0} расширила свои владения и основала новое поселение.</LetterNewSettlementLGE>
+  <LetterPrisonerQuestCompletedGLE>Вы освободили пленных!
+
+Награда от фракции {0} доставлена. Отношения улучшились на {1}.</LetterPrisonerQuestCompletedGLE>
+  <LetterResearchRequest_BackfireLGE>В решающий момент ваш исследователь допустил ошибку, уничтожив значительную часть результатов работы.
+
+Отношения с фракцией {0}: {1}.</LetterResearchRequest_BackfireLGE>
+  <LetterResearchRequest_DisasterGravshipLGE>Исследование закончилось катастрофой. Взрыв унёс несколько жизней.
+
+{0} из фракции {1} атакуют место вашей посадки!
+
+Отношения с фракцией {1}: {2}.</LetterResearchRequest_DisasterGravshipLGE>
+  <LetterResearchRequest_DisasterLGE>Исследование закончилось катастрофой. Взрыв унёс несколько жизней.
+
+Ваш караван поспешно покинул место работ, но его настиг отряд фракции {1} ({0}) и теперь атакует!
+
+Отношения с фракцией {1}: {2}.</LetterResearchRequest_DisasterLGE>
+  <LetterResearchRequest_DisasterNoRaidLGE>Исследование закончилось катастрофой. Взрыв унёс несколько жизней.
+
+{0} из фракции {1} в ярости, но не стали преследовать ваших поселенцев.
+
+Отношения с фракцией {1}: {2}.</LetterResearchRequest_DisasterNoRaidLGE>
+  <LetterResearchRequest_NeutralLGE>Несмотря на все усилия вашего исследователя, продвинуться в работе не удалось.
+
+Отношения с фракцией {0} не изменились.</LetterResearchRequest_NeutralLGE>
+  <LetterResearchRequest_SuccessLGE>Исследование завершилось успешно. Удалось добиться значительного прогресса.
+
+Отношения с фракцией {0} улучшились на {1}.
+
+Получены знания об исследовании: {2}.</LetterResearchRequest_SuccessLGE>
+  <LetterResearchRequest_SuccessNoProjectLGE>Исследование завершилось успешно. Удалось добиться значительного прогресса.
+
+Отношения с фракцией {0} улучшились на {1}.
+
+В колонии не осталось доступных исследований, поэтому новых знаний получить не удалось.</LetterResearchRequest_SuccessNoProjectLGE>
+  <LetterResearchRequest_TriumphLGE>Исследование превзошло все ожидания! Удалось продвинуться дальше, чем кто-либо считал возможным.
+
+Отношения с фракцией {0} улучшились на {1}.
+
+Получены знания об исследовании: {2}.</LetterResearchRequest_TriumphLGE>
+  <LetterResearchRequest_TriumphNoProjectLGE>Исследование превзошло все ожидания! Удалось продвинуться дальше, чем кто-либо считал возможным.
+
+Отношения с фракцией {0} улучшились на {1}.
+
+В колонии не осталось доступных исследований, поэтому новых знаний получить не удалось.</LetterResearchRequest_TriumphNoProjectLGE>
+  <LetterTreasureAmbushGravshipLGE>Ваши поселенцы обыскали место, указанное в перехваченном сообщении, и нашли неохраняемый тайник стоимостью {0}:
+
+{1}
+
+Но это оказалась ловушка, и на место вашей посадки напали!</LetterTreasureAmbushGravshipLGE>
+  <LetterTreasureAmbushLGE>Ваш караван прибыл в место, указанное в перехваченном сообщении, и нашёл неохраняемый тайник стоимостью {0}:
+
+{1}
+
+Но на обратном пути караван попал в засаду!</LetterTreasureAmbushLGE>
+  <LostCityName>Заброшенный город</LostCityName>
+  <MessageResearchRequestNoResearcherLGE>Нет подходящего исследователя в сознании.</MessageResearchRequestNoResearcherLGE>
+  <NewSettlementName>Новое поселение</NewSettlementName>
+  <OfferHelpMessageLGE>Пленные с радостью принимают вашу помощь и возвращаются на свою базу.</OfferHelpMessageLGE>
+  <PrisonCampName>Лагерь пленных</PrisonCampName>
+  <PrisonersFreedLGE>Благодаря вашей помощи пленные возвращаются на свою базу.</PrisonersFreedLGE>
+  <ResearchRequestName>Помощь в исследовании</ResearchRequestName>
+  <ResearchRequestXPGainLGE>Опыт навыка «Умственный труд» для исследователя {0}: +{1}.</ResearchRequestXPGainLGE>
+  <ShipCoreStartupName>Запуск корабельного реактора</ShipCoreStartupName>
+  <chupakobra6_1814100216_NoResearcher>В караване нет исследователя, способного помочь.</chupakobra6_1814100216_NoResearcher>
+  <chupakobra6_1814100216_ResearchRequest>Помощь в исследовании</chupakobra6_1814100216_ResearchRequest>
+  <chupakobra6_1814100216_VisitMessageSite>Проверить место: {0}</chupakobra6_1814100216_VisitMessageSite>
+  <chupakobra6_1814100216_VisitResearch>Помочь с исследованием: {0}</chupakobra6_1814100216_VisitResearch>
+</LanguageData>

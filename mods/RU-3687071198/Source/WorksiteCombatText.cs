@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Reflection.Emit;
 using System.Reflection;
 using HarmonyLib;
@@ -53,33 +54,37 @@ namespace Igor.WorksitesRussian
             ?WorksiteCombatText.Wound(format,a,b):string.Format(format,a,b);
         public static void Install(Harmony harmony)
         {
-            harmony.Patch(AccessTools.Method("MiningOutpost.Orbital.Services.FirefightSim:ApplyWound"),transpiler:new HarmonyMethod(typeof(WorksiteCombatPatch),nameof(Rewrite)));
-            foreach(string method in new[]{"OrderHint","DrawCrewCard"})harmony.Patch(AccessTools.Method("MiningOutpost.Orbital.Services.Dialog_Firefight:"+method),transpiler:new HarmonyMethod(typeof(WorksiteCombatPatch),nameof(UiRewrite)));
+            harmony.Patch(AccessTools.Method("MiningOutpost.Orbital.Services.FirefightSim:ApplyWound"),transpiler:WorksiteInterpolation.BeforeLiterals(typeof(WorksiteCombatPatch), nameof(Rewrite)));
+            foreach(string method in new[]{"OrderHint","DrawCrewCard"})harmony.Patch(AccessTools.Method("MiningOutpost.Orbital.Services.Dialog_Firefight:"+method),transpiler:WorksiteInterpolation.BeforeLiterals(typeof(WorksiteCombatPatch), nameof(UiRewrite)));
         }
         public static string UiOne(string format,object value)=>LanguageDatabase.activeLanguage?.folderName.StartsWith("Russian",StringComparison.OrdinalIgnoreCase)==true
             ?WorksiteCombatText.UiOne(format,value):string.Format(format,value);
-        public static IEnumerable<CodeInstruction> UiRewrite(IEnumerable<CodeInstruction> input,MethodBase __originalMethod)
+        public static IEnumerable<CodeInstruction> UiRewrite(IEnumerable<CodeInstruction> input,MethodBase __originalMethod,ILGenerator generator=null)
         {
+            var source=input.ToList();
+            var output=new List<CodeInstruction>();
             var format=typeof(string).GetMethod("Format",new[]{typeof(string),typeof(object)});int count=0;
-            foreach(var instruction in input)
+            foreach(var instruction in WorksiteInterpolation.Normalize(source,__originalMethod,generator))
             {
                 var code=new CodeInstruction(instruction);
                 if(code.Calls(format)){code.operand=AccessTools.Method(typeof(WorksiteCombatPatch),nameof(UiOne));count++;}
-                yield return code;
+                output.Add(code);
             }
             int expected=__originalMethod.Name=="OrderHint"?3:1;
-            if(count!=expected)throw new InvalidOperationException("Worksites combat hint formats changed: "+__originalMethod+" "+count);
+            return count==expected?output:WorksiteInterpolation.Unchanged(source,__originalMethod);
         }
-        public static IEnumerable<CodeInstruction> Rewrite(IEnumerable<CodeInstruction> input)
+        public static IEnumerable<CodeInstruction> Rewrite(IEnumerable<CodeInstruction> input,MethodBase __originalMethod=null,ILGenerator generator=null)
         {
+            var source=input.ToList();
+            var output=new List<CodeInstruction>();
             var format=typeof(string).GetMethod("Format",new[]{typeof(string),typeof(object),typeof(object)});int count=0;
-            foreach(var instruction in input)
+            foreach(var instruction in WorksiteInterpolation.Normalize(source,__originalMethod,generator))
             {
                 var code=new CodeInstruction(instruction);
                 if(code.Calls(format)){code.operand=AccessTools.Method(typeof(WorksiteCombatPatch),nameof(Wound));count++;}
-                yield return code;
+                output.Add(code);
             }
-            if(count!=5)throw new InvalidOperationException("Worksites wound log formatter changed: "+count);
+            return count==5?output:WorksiteInterpolation.Unchanged(source,__originalMethod);
         }
     }
 }

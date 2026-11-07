@@ -61,20 +61,21 @@ namespace Igor.WorksitesRussian
 
         public static void Install(Harmony harmony)
         {
-            foreach (string method in Bindings.Keys) harmony.Patch(AccessTools.Method(method), transpiler: new HarmonyMethod(typeof(WorksiteCheckPatch), nameof(Rewrite)));
+            foreach (string method in Bindings.Keys) harmony.Patch(AccessTools.Method(method), transpiler: WorksiteInterpolation.BeforeLiterals(typeof(WorksiteCheckPatch), nameof(Rewrite)));
             harmony.Patch(AccessTools.Method("MiningOutpost.Orbital.Services.SquadSheetUI:DrawSheet"), transpiler: new HarmonyMethod(typeof(WorksiteCheckPatch), nameof(SheetLabels)));
             foreach (string name in new[] { "CheckName", "StatName" }) harmony.Patch(AccessTools.Method("MiningOutpost.Orbital.Services.OpportunityRunner:" + name), postfix: new HarmonyMethod(typeof(WorksiteCheckPatch), name));
             harmony.Patch(AccessTools.Method("MiningOutpost.Orbital.Services.SquadSheetUI:StatFull"), postfix: new HarmonyMethod(typeof(WorksiteCheckPatch), nameof(StatFull)));
         }
 
-        public static IEnumerable<CodeInstruction> Rewrite(IEnumerable<CodeInstruction> input, MethodBase __originalMethod)
+        public static IEnumerable<CodeInstruction> Rewrite(IEnumerable<CodeInstruction> input, MethodBase __originalMethod, ILGenerator generator = null)
         {
             string key = __originalMethod.DeclaringType.FullName + ":" + __originalMethod.Name;
             var expected = Bindings[key];
             var seen = new Dictionary<string, int>();
             int captions = 0, firefight = 0;
             var output = new List<CodeInstruction>();
-            foreach (var instruction in input)
+            var source = input.ToList();
+            foreach (var instruction in WorksiteInterpolation.Normalize(source, __originalMethod, generator))
             {
                 var code = new CodeInstruction(instruction);
                 if (code.operand is MethodInfo method)
@@ -102,7 +103,7 @@ namespace Igor.WorksitesRussian
                 }
             }
             if (expected.Any(p => !seen.TryGetValue(p.Key, out int n) || n != p.Value.Item2) || (__originalMethod.Name == "BuildCheckTip" && captions != 1) || (__originalMethod.Name == "FullLine" && firefight != 1))
-                throw new InvalidOperationException("Worksites check formatter source changed: " + key);
+                return WorksiteInterpolation.Unchanged(source, __originalMethod);
             return output;
         }
 
