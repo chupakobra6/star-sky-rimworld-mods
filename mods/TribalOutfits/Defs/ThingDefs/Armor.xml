@@ -1,0 +1,438 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <StuffCategoryDef>
+    <defName>SSM_Tribal_Chitin</defName>
+    <label>chitin</label>
+  </StuffCategoryDef>
+  <ThingDef ParentName="ApparelMakeableBase">
+    <defName>SSM_Tribal_HiveHelmet</defName>
+    <label>hive helmet</label>
+    <description>Protective tribal apparel made from tough hides or insect chitin.</description>
+    <techLevel>Neolithic</techLevel>
+    <graphicData>
+      <texPath>Things/Apparel/TribalOutfits/HiveHelmet</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <costStuffCount>60</costStuffCount>
+    <stuffCategories>
+      <li>Leathery</li>
+    </stuffCategories>
+    <recipeMaker>
+      <recipeUsers Inherit="False">
+        <li>CraftingSpot</li>
+        <li>FueledSmithy</li>
+        <li>ElectricSmithy</li>
+      </recipeUsers>
+      <skillRequirements>
+        <Crafting>4</Crafting>
+      </skillRequirements>
+    </recipeMaker>
+    <statBases>
+      <WorkToMake>3200</WorkToMake>
+      <MaxHitPoints>100</MaxHitPoints>
+      <Mass>2</Mass>
+      <ArmorRating_Sharp>0.40</ArmorRating_Sharp>
+      <ArmorRating_Blunt>0.14</ArmorRating_Blunt>
+      <ArmorRating_Heat>0</ArmorRating_Heat>
+      <StuffEffectMultiplierArmor>0</StuffEffectMultiplierArmor>
+      <StuffEffectMultiplierInsulation_Cold>1.5</StuffEffectMultiplierInsulation_Cold>
+      <StuffEffectMultiplierInsulation_Heat>0</StuffEffectMultiplierInsulation_Heat>
+      <EquipDelay>2.5</EquipDelay>
+    </statBases>
+    <apparel>
+      <bodyPartGroups>
+        <li>UpperHead</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Things/Apparel/TribalOutfits/HiveHelmet</wornGraphicPath>
+      <layers>
+        <li>Overhead</li>
+      </layers>
+      <countsAsClothingForNudity>false</countsAsClothingForNudity>
+    </apparel>
+    <generateCommonality>0</generateCommonality>
+  </ThingDef>
+  <ThingDef ParentName="ApparelMakeableBase">
+    <defName>SSM_Tribal_HiveArmor</defName>
+    <label>hive armor</label>
+    <description>Protective tribal apparel made from tough hides or insect chitin.</description>
+    <techLevel>Neolithic</techLevel>
+    <graphicData>
+      <texPath>Things/Apparel/TribalOutfits/HiveArmor</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <costStuffCount>180</costStuffCount>
+    <stuffCategories>
+      <li>Leathery</li>
+    </stuffCategories>
+    <recipeMaker>
+      <recipeUsers Inherit="False">
+        <li>CraftingSpot</li>
+        <li>FueledSmithy</li>
+        <li>ElectricSmithy</li>
+      </recipeUsers>
+      <skillRequirements>
+        <Crafting>4</Crafting>
+      </skillRequirements>
+    </recipeMaker>
+    <statBases>
+      <WorkToMake>38000</WorkToMake>
+      <MaxHitPoints>200</MaxHitPoints>
+      <Mass>14</Mass>
+      <ArmorRating_Sharp>0.60</ArmorRating_Sharp>
+      <ArmorRating_Blunt>0.25</ArmorRating_Blunt>
+      <ArmorRating_Heat>0</ArmorRating_Heat>
+      <StuffEffectMultiplierArmor>0</StuffEffectMultiplierArmor>
+      <StuffEffectMultiplierInsulation_Cold>1.5</StuffEffectMultiplierInsulation_Cold>
+      <StuffEffectMultiplierInsulation_Heat>0</StuffEffectMultiplierInsulation_Heat>
+      <EquipDelay>15</EquipDelay>
+    </statBases>
+    <apparel>
+      <bodyPartGroups>
+        <li>Torso</li>
+        <li>Shoulders</li>
+        <li>Arms</li>
+        <li>Legs</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Things/Apparel/TribalOutfits/HiveArmor</wornGraphicPath>
+      <layers>
+        <li>Middle</li>
+        <li>Shell</li>
+      </layers>
+    </apparel>
+    <generateCommonality>0</generateCommonality>
+  </ThingDef>
+  <ThingDef ParentName="ApparelMakeableBase">
+    <defName>SSM_Tribal_HiveGloves</defName>
+    <label>hive gloves</label>
+    <description>Protective tribal apparel made from tough hides or insect chitin.</description>
+    <techLevel>Neolithic</techLevel>
+    <graphicData>
+      <texPath>Things/Apparel/TribalOutfits/HiveGloves</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <costStuffCount>40</costStuffCount>
+    <stuffCategories>
+      <li>Leathery</li>
+    </stuffCategories>
+    <recipeMaker>
+      <recipeUsers Inherit="False">
+        <li>CraftingSpot</li>
+        <li>FueledSmithy</li>
+        <li>ElectricSmithy</li>
+      </recipeUsers>
+      <skillRequirements>
+        <Crafting>4</Crafting>
+      </skillRequirements>
+    </recipeMaker>
+    <statBases>
+      <WorkToMake>1800</WorkToMake>
+      <MaxHitPoints>100</MaxHitPoints>
+      <Mass>0.65</Mass>
+      <ArmorRating_Sharp>0.18</ArmorRating_Sharp>
+      <ArmorRating_Blunt>0.08</ArmorRating_Blunt>
+      <ArmorRating_Heat>0</ArmorRating_Heat>
+      <StuffEffectMultiplierArmor>0</StuffEffectMultiplierArmor>
+      <StuffEffectMultiplierInsulation_Cold>0.35</StuffEffectMultiplierInsulation_Cold>
+      <StuffEffectMultiplierInsulation_Heat>0</StuffEffectMultiplierInsulation_Heat>
+      <EquipDelay>2.5</EquipDelay>
+    </statBases>
+    <apparel>
+      <bodyPartGroups>
+        <li>Hands</li>
+      </bodyPartGroups>
+      <layers>
+        <li>Middle</li>
+      </layers>
+      <countsAsClothingForNudity>false</countsAsClothingForNudity>
+    </apparel>
+    <generateCommonality>0</generateCommonality>
+  </ThingDef>
+  <ThingDef ParentName="ApparelMakeableBase">
+    <defName>SSM_Tribal_HiveBoots</defName>
+    <label>hive boots</label>
+    <description>Protective tribal apparel made from tough hides or insect chitin.</description>
+    <techLevel>Neolithic</techLevel>
+    <graphicData>
+      <texPath>Things/Apparel/TribalOutfits/HiveBoots</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <costStuffCount>40</costStuffCount>
+    <stuffCategories>
+      <li>Leathery</li>
+    </stuffCategories>
+    <recipeMaker>
+      <recipeUsers Inherit="False">
+        <li>CraftingSpot</li>
+        <li>FueledSmithy</li>
+        <li>ElectricSmithy</li>
+      </recipeUsers>
+      <skillRequirements>
+        <Crafting>4</Crafting>
+      </skillRequirements>
+    </recipeMaker>
+    <statBases>
+      <WorkToMake>1800</WorkToMake>
+      <MaxHitPoints>100</MaxHitPoints>
+      <Mass>0.65</Mass>
+      <ArmorRating_Sharp>0.18</ArmorRating_Sharp>
+      <ArmorRating_Blunt>0.08</ArmorRating_Blunt>
+      <ArmorRating_Heat>0</ArmorRating_Heat>
+      <StuffEffectMultiplierArmor>0</StuffEffectMultiplierArmor>
+      <StuffEffectMultiplierInsulation_Cold>0.35</StuffEffectMultiplierInsulation_Cold>
+      <StuffEffectMultiplierInsulation_Heat>0</StuffEffectMultiplierInsulation_Heat>
+      <EquipDelay>2.5</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+      <MoveSpeed>0.1</MoveSpeed>
+    </equippedStatOffsets>
+    <apparel>
+      <bodyPartGroups>
+        <li>Feet</li>
+      </bodyPartGroups>
+      <layers>
+        <li>Middle</li>
+      </layers>
+      <countsAsClothingForNudity>false</countsAsClothingForNudity>
+    </apparel>
+    <generateCommonality>0</generateCommonality>
+  </ThingDef>
+  <ThingDef ParentName="ApparelArmorHelmetReconBase">
+    <defName>SSM_Tribal_MechHelmet</defName>
+    <label>steel monster helmet</label>
+    <description>Armor assembled from mechanoid salvage, plasteel and leather.</description>
+    <generateCommonality>0</generateCommonality>
+    <costList Inherit="False">
+      <SSM_Tribal_MechSalvage>1</SSM_Tribal_MechSalvage>
+      <Plasteel>40</Plasteel>
+      <Leather_Plain>20</Leather_Plain>
+    </costList>
+    <recipeMaker Inherit="False" IsNull="True" />
+  </ThingDef>
+  <ThingDef ParentName="ApparelArmorReconBase">
+    <defName>SSM_Tribal_MechArmor</defName>
+    <label>steel monster armor</label>
+    <description>Armor assembled from mechanoid salvage, plasteel and leather.</description>
+    <generateCommonality>0</generateCommonality>
+    <costList Inherit="False">
+      <SSM_Tribal_MechSalvage>3</SSM_Tribal_MechSalvage>
+      <Plasteel>100</Plasteel>
+      <Leather_Plain>40</Leather_Plain>
+    </costList>
+    <recipeMaker Inherit="False" IsNull="True" />
+  </ThingDef>
+  <ThingDef ParentName="ApparelMakeableBase">
+    <defName>SSM_Tribal_MechGloves</defName>
+    <label>steel monster gloves</label>
+    <description>Armor assembled from mechanoid salvage, plasteel and leather.</description>
+    <recipeMaker Inherit="False">
+      <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+      <workSkill>Crafting</workSkill>
+      <effectWorking>Smith</effectWorking>
+      <soundWorking>Recipe_Smith</soundWorking>
+      <recipeUsers>
+        <li>CraftingSpot</li>
+        <li>FueledSmithy</li>
+        <li>ElectricSmithy</li>
+      </recipeUsers>
+      <skillRequirements>
+        <Crafting>5</Crafting>
+      </skillRequirements>
+    </recipeMaker>
+    <stuffCategories>
+      <li>Leathery</li>
+    </stuffCategories>
+    <costStuffCount>10</costStuffCount>
+    <costList Inherit="False">
+      <SSM_Tribal_MechSalvage>1</SSM_Tribal_MechSalvage>
+      <Plasteel>10</Plasteel>
+    </costList>
+    <graphicData>
+      <texPath>Things/Apparel/TribalOutfits/MechGloves</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <WorkToMake>5000</WorkToMake>
+      <MaxHitPoints>120</MaxHitPoints>
+      <Mass>1</Mass>
+      <ArmorRating_Sharp>0.35</ArmorRating_Sharp>
+      <ArmorRating_Blunt>0.15</ArmorRating_Blunt>
+      <ArmorRating_Heat>0.18</ArmorRating_Heat>
+      <EquipDelay>2</EquipDelay>
+    </statBases>
+    <apparel>
+      <bodyPartGroups>
+        <li>Hands</li>
+      </bodyPartGroups>
+      <layers>
+        <li>Middle</li>
+      </layers>
+      <countsAsClothingForNudity>false</countsAsClothingForNudity>
+    </apparel>
+    <generateCommonality>0</generateCommonality>
+  </ThingDef>
+  <ThingDef ParentName="ApparelMakeableBase">
+    <defName>SSM_Tribal_MechBoots</defName>
+    <label>steel monster boots</label>
+    <description>Armor assembled from mechanoid salvage, plasteel and leather.</description>
+    <recipeMaker Inherit="False">
+      <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+      <workSkill>Crafting</workSkill>
+      <effectWorking>Smith</effectWorking>
+      <soundWorking>Recipe_Smith</soundWorking>
+      <recipeUsers>
+        <li>CraftingSpot</li>
+        <li>FueledSmithy</li>
+        <li>ElectricSmithy</li>
+      </recipeUsers>
+      <skillRequirements>
+        <Crafting>5</Crafting>
+      </skillRequirements>
+    </recipeMaker>
+    <stuffCategories>
+      <li>Leathery</li>
+    </stuffCategories>
+    <costStuffCount>10</costStuffCount>
+    <costList Inherit="False">
+      <SSM_Tribal_MechSalvage>1</SSM_Tribal_MechSalvage>
+      <Plasteel>10</Plasteel>
+    </costList>
+    <graphicData>
+      <texPath>Things/Apparel/TribalOutfits/MechBoots</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <WorkToMake>5000</WorkToMake>
+      <MaxHitPoints>120</MaxHitPoints>
+      <Mass>1</Mass>
+      <ArmorRating_Sharp>0.35</ArmorRating_Sharp>
+      <ArmorRating_Blunt>0.15</ArmorRating_Blunt>
+      <ArmorRating_Heat>0.18</ArmorRating_Heat>
+      <EquipDelay>2</EquipDelay>
+    </statBases>
+    <apparel>
+      <bodyPartGroups>
+        <li>Feet</li>
+      </bodyPartGroups>
+      <layers>
+        <li>Middle</li>
+      </layers>
+      <countsAsClothingForNudity>false</countsAsClothingForNudity>
+    </apparel>
+    <equippedStatOffsets>
+      <MoveSpeed>0.1</MoveSpeed>
+    </equippedStatOffsets>
+    <generateCommonality>0</generateCommonality>
+  </ThingDef>
+  <RecipeDef>
+    <defName>SSM_Tribal_MechHelmet_Make</defName>
+    <label>make steel monster helmet</label>
+    <jobString>Assembling steel monster helmet.</jobString>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <workSkill>Crafting</workSkill>
+    <skillRequirements>
+      <Crafting>5</Crafting>
+    </skillRequirements>
+    <effectWorking>Smith</effectWorking>
+    <soundWorking>Recipe_Smith</soundWorking>
+    <unfinishedThingDef>UnfinishedTechArmor</unfinishedThingDef>
+    <recipeUsers>
+      <li>CraftingSpot</li>
+      <li>FueledSmithy</li>
+      <li>ElectricSmithy</li>
+    </recipeUsers>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>SSM_Tribal_MechSalvage</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Plasteel</li>
+          </thingDefs>
+        </filter>
+        <count>40</count>
+      </li>
+      <li>
+        <filter>
+          <stuffCategoriesToAllow>
+            <li>Leathery</li>
+          </stuffCategoriesToAllow>
+        </filter>
+        <count>20</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>SSM_Tribal_MechSalvage</li>
+        <li>Plasteel</li>
+      </thingDefs>
+      <stuffCategoriesToAllow>
+        <li>Leathery</li>
+      </stuffCategoriesToAllow>
+    </fixedIngredientFilter>
+    <products>
+      <SSM_Tribal_MechHelmet>1</SSM_Tribal_MechHelmet>
+    </products>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>SSM_Tribal_MechArmor_Make</defName>
+    <label>make steel monster armor</label>
+    <jobString>Assembling steel monster armor.</jobString>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <workSkill>Crafting</workSkill>
+    <skillRequirements>
+      <Crafting>5</Crafting>
+    </skillRequirements>
+    <effectWorking>Smith</effectWorking>
+    <soundWorking>Recipe_Smith</soundWorking>
+    <unfinishedThingDef>UnfinishedTechArmor</unfinishedThingDef>
+    <recipeUsers>
+      <li>CraftingSpot</li>
+      <li>FueledSmithy</li>
+      <li>ElectricSmithy</li>
+    </recipeUsers>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>SSM_Tribal_MechSalvage</li>
+          </thingDefs>
+        </filter>
+        <count>3</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Plasteel</li>
+          </thingDefs>
+        </filter>
+        <count>100</count>
+      </li>
+      <li>
+        <filter>
+          <stuffCategoriesToAllow>
+            <li>Leathery</li>
+          </stuffCategoriesToAllow>
+        </filter>
+        <count>40</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>SSM_Tribal_MechSalvage</li>
+        <li>Plasteel</li>
+      </thingDefs>
+      <stuffCategoriesToAllow>
+        <li>Leathery</li>
+      </stuffCategoriesToAllow>
+    </fixedIngredientFilter>
+    <products>
+      <SSM_Tribal_MechArmor>1</SSM_Tribal_MechArmor>
+    </products>
+  </RecipeDef>
+</Defs>

@@ -53,3 +53,15 @@ RimWorld 1.6 · Version 1.0.1
 [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3829351485) · [Source & guide](../mods/GasWallTorches/README.md) · [Changelog](../mods/GasWallTorches/CHANGELOG.md) · [License](../mods/GasWallTorches/LICENSE) · [Sources & notices](../mods/GasWallTorches/NOTICES.md)
 
 [![Explore other mods on Steam Workshop](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-en.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)
+
+## Tribal Outfits
+
+Seven craftable apparel sets, a jade-tipped shaman staff and salvaged mechanoid armor
+
+[![Tribal Outfits](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/tribal-outfits.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3840985633)
+
+RimWorld 1.6 · Version 1.0.3
+
+[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3840985633) · [Source & guide](../mods/TribalOutfits/README.md) · [Changelog](../mods/TribalOutfits/CHANGELOG.md) · [License](../mods/TribalOutfits/LICENSE) · [Sources & notices](../mods/TribalOutfits/NOTICES.md)
+
+[![Explore other mods on Steam Workshop](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/banner-workshop-en.png)](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)

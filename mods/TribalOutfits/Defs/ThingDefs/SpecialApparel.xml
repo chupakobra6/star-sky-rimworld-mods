@@ -1,0 +1,382 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <ThingDef ParentName="ApparelBase" Name="SSM_Tribal_SpecialApparel" Abstract="True">
+    <techLevel>Neolithic</techLevel>
+    <apparel>
+      <developmentalStageFilter>Adult</developmentalStageFilter>
+      <tags>
+        <li>Neolithic</li>
+      </tags>
+      <defaultOutfitTags>
+        <li>Worker</li>
+        <li>Soldier</li>
+      </defaultOutfitTags>
+    </apparel>
+    <recipeMaker>
+      <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+      <workSkill>Crafting</workSkill>
+      <effectWorking>Tailor</effectWorking>
+      <soundWorking>Recipe_Tailor</soundWorking>
+      <recipeUsers>
+        <li>CraftingSpot</li>
+        <li>HandTailoringBench</li>
+        <li>ElectricTailoringBench</li>
+      </recipeUsers>
+      <unfinishedThingDef>UnfinishedApparel</unfinishedThingDef>
+    </recipeMaker>
+  </ThingDef>
+  <ThingDef ParentName="SSM_Tribal_SpecialApparel" Name="SSM_Tribal_BarbarianApparel" Abstract="True">
+    <stuffCategories>
+      <li>Leathery</li>
+    </stuffCategories>
+    <recipeMaker>
+      <skillRequirements>
+        <Crafting>3</Crafting>
+      </skillRequirements>
+    </recipeMaker>
+  </ThingDef>
+  <ThingDef ParentName="SSM_Tribal_SpecialApparel" Name="SSM_Tribal_ShamanApparel" Abstract="True">
+    <recipeMaker>
+      <skillRequirements>
+        <Crafting>4</Crafting>
+      </skillRequirements>
+    </recipeMaker>
+  </ThingDef>
+  <ThingDef ParentName="SSM_Tribal_BarbarianApparel">
+    <defName>SSM_Tribal_BarbarianCloak</defName>
+    <label>barbarian cloak</label>
+    <description>A heavy leather cloak that protects the torso and shoulders. It raises the wearer’s pain shock threshold.</description>
+    <graphicData>
+      <texPath>Things/Apparel/TribalOutfits/BarbarianCloak</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <thingCategories>
+      <li>ApparelMisc</li>
+    </thingCategories>
+    <costStuffCount>120</costStuffCount>
+    <statBases>
+      <MaxHitPoints>120</MaxHitPoints>
+      <WorkToMake>4500</WorkToMake>
+      <Mass>1.5</Mass>
+      <EquipDelay>2.5</EquipDelay>
+      <StuffEffectMultiplierArmor>0.35</StuffEffectMultiplierArmor>
+      <StuffEffectMultiplierInsulation_Cold>0.55</StuffEffectMultiplierInsulation_Cold>
+      <StuffEffectMultiplierInsulation_Heat>0.22</StuffEffectMultiplierInsulation_Heat>
+    </statBases>
+    <equippedStatOffsets>
+      <PainShockThreshold>0.10</PainShockThreshold>
+    </equippedStatOffsets>
+    <apparel>
+      <bodyPartGroups>
+        <li>Torso</li>
+        <li>Neck</li>
+        <li>Shoulders</li>
+      </bodyPartGroups>
+      <layers>
+        <li>Shell</li>
+      </layers>
+      <wornGraphicPath>Things/Apparel/TribalOutfits/BarbarianCloak</wornGraphicPath>
+    </apparel>
+  </ThingDef>
+  <ThingDef ParentName="SSM_Tribal_BarbarianApparel">
+    <defName>SSM_Tribal_BarbarianHelmet</defName>
+    <label>barbarian helmet</label>
+    <description>A reinforced leather helmet that raises the wearer’s pain shock threshold.</description>
+    <graphicData>
+      <texPath>Things/Apparel/TribalOutfits/BarbarianHelmet</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <thingCategories>
+      <li>Headgear</li>
+    </thingCategories>
+    <costStuffCount>50</costStuffCount>
+    <statBases>
+      <MaxHitPoints>100</MaxHitPoints>
+      <WorkToMake>2400</WorkToMake>
+      <Mass>0.7</Mass>
+      <EquipDelay>1.5</EquipDelay>
+      <StuffEffectMultiplierArmor>0.30</StuffEffectMultiplierArmor>
+      <StuffEffectMultiplierInsulation_Cold>0.28</StuffEffectMultiplierInsulation_Cold>
+      <StuffEffectMultiplierInsulation_Heat>0.12</StuffEffectMultiplierInsulation_Heat>
+    </statBases>
+    <equippedStatOffsets>
+      <PainShockThreshold>0.10</PainShockThreshold>
+    </equippedStatOffsets>
+    <apparel>
+      <bodyPartGroups>
+        <li>UpperHead</li>
+      </bodyPartGroups>
+      <layers>
+        <li>Overhead</li>
+      </layers>
+      <wornGraphicPath>Things/Apparel/TribalOutfits/BarbarianHelmet</wornGraphicPath>
+      <countsAsClothingForNudity>false</countsAsClothingForNudity>
+    </apparel>
+  </ThingDef>
+  <ThingDef ParentName="SSM_Tribal_BarbarianApparel">
+    <defName>SSM_Tribal_BarbarianTunic</defName>
+    <label>barbarian tunic</label>
+    <description>A leather tunic cut in the tribal style. It raises the wearer’s pain shock threshold.</description>
+    <graphicData>
+      <texPath>Things/Apparel/TribalOutfits/BarbarianTunic</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <thingCategories>
+      <li>ApparelMisc</li>
+    </thingCategories>
+    <costStuffCount>60</costStuffCount>
+    <statBases>
+      <MaxHitPoints>100</MaxHitPoints>
+      <WorkToMake>1800</WorkToMake>
+      <Mass>0.5</Mass>
+      <EquipDelay>1.5</EquipDelay>
+      <StuffEffectMultiplierArmor>0.2</StuffEffectMultiplierArmor>
+      <StuffEffectMultiplierInsulation_Cold>0.45</StuffEffectMultiplierInsulation_Cold>
+      <StuffEffectMultiplierInsulation_Heat>0.55</StuffEffectMultiplierInsulation_Heat>
+    </statBases>
+    <equippedStatOffsets>
+      <PainShockThreshold>0.10</PainShockThreshold>
+    </equippedStatOffsets>
+    <apparel>
+      <bodyPartGroups>
+        <li>Torso</li>
+        <li>Legs</li>
+      </bodyPartGroups>
+      <layers>
+        <li>OnSkin</li>
+      </layers>
+      <wornGraphicPath>Things/Apparel/TribalOutfits/BarbarianTunic</wornGraphicPath>
+    </apparel>
+  </ThingDef>
+  <ThingDef ParentName="SSM_Tribal_BarbarianApparel">
+    <defName>SSM_Tribal_BarbarianHandWraps</defName>
+    <label>barbarian hand wraps</label>
+    <description>Light leather wraps for the hands. They increase bow firing rate by 10% and the chance to hit in melee by 5 percentage points.</description>
+    <graphicData>
+      <texPath>Things/Apparel/TribalOutfits/BarbarianHandWraps</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <thingCategories>
+      <li>ApparelMisc</li>
+    </thingCategories>
+    <costStuffCount>30</costStuffCount>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <WorkToMake>1400</WorkToMake>
+      <Mass>0.2</Mass>
+      <EquipDelay>0.8</EquipDelay>
+      <StuffEffectMultiplierArmor>0.1</StuffEffectMultiplierArmor>
+      <StuffEffectMultiplierInsulation_Cold>0.1</StuffEffectMultiplierInsulation_Cold>
+      <StuffEffectMultiplierInsulation_Heat>0.05</StuffEffectMultiplierInsulation_Heat>
+    </statBases>
+    <apparel>
+      <bodyPartGroups>
+        <li>Hands</li>
+      </bodyPartGroups>
+      <layers>
+        <li>Middle</li>
+      </layers>
+      <countsAsClothingForNudity>false</countsAsClothingForNudity>
+    </apparel>
+  </ThingDef>
+  <ThingDef ParentName="SSM_Tribal_BarbarianApparel">
+    <defName>SSM_Tribal_BarbarianFootWraps</defName>
+    <label>barbarian foot wraps</label>
+    <description>Soft leather wraps that help the wearer move faster and add 10 percentage points of hunting stealth.</description>
+    <graphicData>
+      <texPath>Things/Apparel/TribalOutfits/BarbarianFootWraps</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <thingCategories>
+      <li>ApparelMisc</li>
+    </thingCategories>
+    <costStuffCount>30</costStuffCount>
+    <statBases>
+      <MaxHitPoints>65</MaxHitPoints>
+      <WorkToMake>1400</WorkToMake>
+      <Mass>0.25</Mass>
+      <EquipDelay>0.8</EquipDelay>
+      <StuffEffectMultiplierArmor>0.1</StuffEffectMultiplierArmor>
+      <StuffEffectMultiplierInsulation_Cold>0.1</StuffEffectMultiplierInsulation_Cold>
+      <StuffEffectMultiplierInsulation_Heat>0.05</StuffEffectMultiplierInsulation_Heat>
+    </statBases>
+    <equippedStatOffsets>
+      <MoveSpeed>0.1</MoveSpeed>
+    </equippedStatOffsets>
+    <apparel>
+      <bodyPartGroups>
+        <li>Feet</li>
+      </bodyPartGroups>
+      <layers>
+        <li>Middle</li>
+      </layers>
+      <countsAsClothingForNudity>false</countsAsClothingForNudity>
+    </apparel>
+  </ThingDef>
+  <ThingDef ParentName="SSM_Tribal_ShamanApparel">
+    <defName>SSM_Tribal_ShamanHelmet</defName>
+    <label>shaman helmet</label>
+    <description>A ceremonial helmet made with devilstrand and polished jade. Finer workmanship improves its effect on psychic sensitivity.</description>
+    <graphicData>
+      <texPath>Things/Apparel/TribalOutfits/ShamanHelmet</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <thingCategories>
+      <li>Headgear</li>
+    </thingCategories>
+    <costList>
+      <DevilstrandCloth>60</DevilstrandCloth>
+      <Jade>50</Jade>
+    </costList>
+    <statBases>
+      <MaxHitPoints>95</MaxHitPoints>
+      <WorkToMake>3800</WorkToMake>
+      <Mass>0.65</Mass>
+      <EquipDelay>1.5</EquipDelay>
+      <ArmorRating_Sharp>0.1</ArmorRating_Sharp>
+      <ArmorRating_Blunt>0.03</ArmorRating_Blunt>
+      <ArmorRating_Heat>0.15</ArmorRating_Heat>
+      <Insulation_Cold>4</Insulation_Cold>
+      <Insulation_Heat>1</Insulation_Heat>
+      <PsychicSensitivityOffset>0.090361446</PsychicSensitivityOffset>
+    </statBases>
+    <equippedStatOffsets>
+      <PsychicEntropyRecoveryRate MayRequire="Ludeon.RimWorld.Royalty">0.033</PsychicEntropyRecoveryRate>
+    </equippedStatOffsets>
+    <apparel>
+      <bodyPartGroups>
+        <li>UpperHead</li>
+      </bodyPartGroups>
+      <layers>
+        <li>Overhead</li>
+      </layers>
+      <wornGraphicPath>Things/Apparel/TribalOutfits/ShamanHelmet</wornGraphicPath>
+      <countsAsClothingForNudity>false</countsAsClothingForNudity>
+    </apparel>
+  </ThingDef>
+  <ThingDef ParentName="SSM_Tribal_ShamanApparel">
+    <defName>SSM_Tribal_ShamanCloak</defName>
+    <label>shaman cloak</label>
+    <description>A devilstrand cloak strung with jade. Finer workmanship improves its effect on psychic sensitivity.</description>
+    <graphicData>
+      <texPath>Things/Apparel/TribalOutfits/ShamanCloak</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <thingCategories>
+      <li>ApparelMisc</li>
+    </thingCategories>
+    <costList>
+      <DevilstrandCloth>120</DevilstrandCloth>
+      <Jade>50</Jade>
+    </costList>
+    <statBases>
+      <MaxHitPoints>110</MaxHitPoints>
+      <WorkToMake>6000</WorkToMake>
+      <Mass>0.8</Mass>
+      <EquipDelay>2</EquipDelay>
+      <ArmorRating_Sharp>0.08</ArmorRating_Sharp>
+      <ArmorRating_Blunt>0.02</ArmorRating_Blunt>
+      <ArmorRating_Heat>0.15</ArmorRating_Heat>
+      <Insulation_Cold>12</Insulation_Cold>
+      <Insulation_Heat>1</Insulation_Heat>
+      <PsychicSensitivityOffset>0.120481928</PsychicSensitivityOffset>
+    </statBases>
+    <equippedStatOffsets>
+      <PsychicEntropyRecoveryRate MayRequire="Ludeon.RimWorld.Royalty">0.0415</PsychicEntropyRecoveryRate>
+    </equippedStatOffsets>
+    <apparel>
+      <bodyPartGroups>
+        <li>Torso</li>
+        <li>Neck</li>
+        <li>Shoulders</li>
+        <li>Arms</li>
+        <li>Legs</li>
+      </bodyPartGroups>
+      <layers>
+        <li>Shell</li>
+      </layers>
+      <wornGraphicPath>Things/Apparel/TribalOutfits/ShamanCloak</wornGraphicPath>
+    </apparel>
+  </ThingDef>
+  <ThingDef ParentName="SSM_Tribal_ShamanApparel">
+    <defName>SSM_Tribal_ShamanGloves</defName>
+    <label>shaman gloves</label>
+    <description>Light devilstrand gloves set with jade. Finer workmanship improves their effect on psychic sensitivity.</description>
+    <graphicData>
+      <texPath>Things/Apparel/TribalOutfits/ShamanGloves</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <thingCategories>
+      <li>ApparelMisc</li>
+    </thingCategories>
+    <costList>
+      <DevilstrandCloth>50</DevilstrandCloth>
+      <Jade>30</Jade>
+    </costList>
+    <statBases>
+      <MaxHitPoints>65</MaxHitPoints>
+      <WorkToMake>2400</WorkToMake>
+      <Mass>0.25</Mass>
+      <EquipDelay>0.8</EquipDelay>
+      <ArmorRating_Sharp>0.05</ArmorRating_Sharp>
+      <ArmorRating_Blunt>0.02</ArmorRating_Blunt>
+      <ArmorRating_Heat>0.08</ArmorRating_Heat>
+      <Insulation_Cold>1</Insulation_Cold>
+      <Insulation_Heat>0.5</Insulation_Heat>
+      <PsychicSensitivityOffset>0.042168675</PsychicSensitivityOffset>
+    </statBases>
+    <equippedStatOffsets>
+      <PsychicEntropyRecoveryRate MayRequire="Ludeon.RimWorld.Royalty">0.008</PsychicEntropyRecoveryRate>
+    </equippedStatOffsets>
+    <apparel>
+      <bodyPartGroups>
+        <li>Hands</li>
+      </bodyPartGroups>
+      <layers>
+        <li>Middle</li>
+      </layers>
+      <countsAsClothingForNudity>false</countsAsClothingForNudity>
+    </apparel>
+  </ThingDef>
+  <ThingDef ParentName="SSM_Tribal_ShamanApparel">
+    <defName>SSM_Tribal_ShamanBoots</defName>
+    <label>shaman boots</label>
+    <description>Devilstrand boots decorated with jade. They help the wearer move faster. Finer workmanship improves their effect on psychic sensitivity.</description>
+    <graphicData>
+      <texPath>Things/Apparel/TribalOutfits/ShamanBoots</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <thingCategories>
+      <li>ApparelMisc</li>
+    </thingCategories>
+    <costList>
+      <DevilstrandCloth>50</DevilstrandCloth>
+      <Jade>30</Jade>
+    </costList>
+    <statBases>
+      <MaxHitPoints>70</MaxHitPoints>
+      <WorkToMake>2600</WorkToMake>
+      <Mass>0.35</Mass>
+      <EquipDelay>0.8</EquipDelay>
+      <ArmorRating_Sharp>0.06</ArmorRating_Sharp>
+      <ArmorRating_Blunt>0.02</ArmorRating_Blunt>
+      <ArmorRating_Heat>0.09</ArmorRating_Heat>
+      <Insulation_Cold>2</Insulation_Cold>
+      <Insulation_Heat>0.5</Insulation_Heat>
+      <PsychicSensitivityOffset>0.048192771</PsychicSensitivityOffset>
+    </statBases>
+    <equippedStatOffsets>
+      <MoveSpeed>0.1</MoveSpeed>
+      <PsychicEntropyRecoveryRate MayRequire="Ludeon.RimWorld.Royalty">0.008</PsychicEntropyRecoveryRate>
+    </equippedStatOffsets>
+    <apparel>
+      <bodyPartGroups>
+        <li>Feet</li>
+      </bodyPartGroups>
+      <layers>
+        <li>Middle</li>
+      </layers>
+      <countsAsClothingForNudity>false</countsAsClothingForNudity>
+    </apparel>
+  </ThingDef>
+</Defs>

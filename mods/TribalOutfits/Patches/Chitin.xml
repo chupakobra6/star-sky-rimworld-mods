@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="VFEI2_Chitin" or defName="Leather_Chitin" or defName="Leather_IronChitin" or defName="Leather_BlackChitin"]/stuffProps</xpath>
+    <match Class="PatchOperationReplace"><xpath>Defs/ThingDef[starts-with(defName,"SSM_Tribal_Hive")]/stuffCategories/li[text()="Leathery"]</xpath><value><li>SSM_Tribal_Chitin</li></value></match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="VFEI2_Chitin"]/stuffProps</xpath>
+    <match Class="PatchOperationConditional">
+      <xpath>Defs/ThingDef[defName="VFEI2_Chitin"]/stuffProps/categories</xpath>
+      <match Class="PatchOperationAdd"><xpath>Defs/ThingDef[defName="VFEI2_Chitin"]/stuffProps/categories</xpath><value><li>SSM_Tribal_Chitin</li></value></match>
+      <nomatch Class="PatchOperationAdd"><xpath>Defs/ThingDef[defName="VFEI2_Chitin"]/stuffProps</xpath><value><categories><li>SSM_Tribal_Chitin</li></categories></value></nomatch>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="Leather_Chitin"]/stuffProps</xpath>
+    <match Class="PatchOperationConditional">
+      <xpath>Defs/ThingDef[defName="Leather_Chitin"]/stuffProps/categories</xpath>
+      <match Class="PatchOperationAdd"><xpath>Defs/ThingDef[defName="Leather_Chitin"]/stuffProps/categories</xpath><value><li>SSM_Tribal_Chitin</li></value></match>
+      <nomatch Class="PatchOperationAdd"><xpath>Defs/ThingDef[defName="Leather_Chitin"]/stuffProps</xpath><value><categories><li>SSM_Tribal_Chitin</li></categories></value></nomatch>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="Leather_IronChitin"]/stuffProps</xpath>
+    <match Class="PatchOperationConditional">
+      <xpath>Defs/ThingDef[defName="Leather_IronChitin"]/stuffProps/categories</xpath>
+      <match Class="PatchOperationAdd"><xpath>Defs/ThingDef[defName="Leather_IronChitin"]/stuffProps/categories</xpath><value><li>SSM_Tribal_Chitin</li></value></match>
+      <nomatch Class="PatchOperationAdd"><xpath>Defs/ThingDef[defName="Leather_IronChitin"]/stuffProps</xpath><value><categories><li>SSM_Tribal_Chitin</li></categories></value></nomatch>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="Leather_BlackChitin"]/stuffProps</xpath>
+    <match Class="PatchOperationConditional">
+      <xpath>Defs/ThingDef[defName="Leather_BlackChitin"]/stuffProps/categories</xpath>
+      <match Class="PatchOperationAdd"><xpath>Defs/ThingDef[defName="Leather_BlackChitin"]/stuffProps/categories</xpath><value><li>SSM_Tribal_Chitin</li></value></match>
+      <nomatch Class="PatchOperationAdd"><xpath>Defs/ThingDef[defName="Leather_BlackChitin"]/stuffProps</xpath><value><categories><li>SSM_Tribal_Chitin</li></categories></value></nomatch>
+    </match>
+  </Operation>
+</Patch>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <ThingDef ParentName="BaseWeapon">
+    <defName>SSM_Tribal_ShamanStaff</defName>
+    <label>shaman staff</label>
+    <description>A heavy wooden staff crowned with jade. It deals blunt damage and increases psychic sensitivity. Better-made staves provide a stronger psychic bonus.</description>
+    <graphicData>
+      <texPath>Things/Apparel/TribalOutfits/ShamanStaff</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <techLevel>Neolithic</techLevel>
+    <burnableByRecipe>true</burnableByRecipe>
+    <thingCategories>
+      <li>WeaponsMelee</li>
+    </thingCategories>
+    <weaponClasses>
+      <li>Melee</li>
+      <li>MeleeBlunt</li>
+      <li>Neolithic</li>
+    </weaponClasses>
+    <tradeTags>
+      <li>WeaponMelee</li>
+    </tradeTags>
+    <equippedAngleOffset>-65</equippedAngleOffset>
+    <comps>
+      <li>
+        <compClass>CompQuality</compClass>
+      </li>
+    </comps>
+    <statBases>
+      <WorkToMake>4200</WorkToMake>
+      <Mass>1.2</Mass>
+      <PsychicSensitivityOffset>0.301204819</PsychicSensitivityOffset>
+    </statBases>
+    <costList>
+      <WoodLog>100</WoodLog>
+      <Jade>70</Jade>
+    </costList>
+    <equippedStatOffsets>
+      <PsychicEntropyRecoveryRate MayRequire="Ludeon.RimWorld.Royalty">0.0415</PsychicEntropyRecoveryRate>
+    </equippedStatOffsets>
+    <recipeMaker>
+      <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+      <workSkill>Crafting</workSkill>
+      <effectWorking>Smith</effectWorking>
+      <soundWorking>Recipe_Smith</soundWorking>
+      <recipeUsers>
+        <li>CraftingSpot</li>
+        <li>FueledSmithy</li>
+        <li>ElectricSmithy</li>
+      </recipeUsers>
+      <unfinishedThingDef>UnfinishedWeapon</unfinishedThingDef>
+      <skillRequirements>
+        <Crafting>4</Crafting>
+      </skillRequirements>
+    </recipeMaker>
+    <tools>
+      <li>
+        <label>head</label>
+        <labelUsedInLogging>false</labelUsedInLogging>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>12</power>
+        <cooldownTime>2.6</cooldownTime>
+      </li>
+    </tools>
+  </ThingDef>
+</Defs>

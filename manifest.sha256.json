@@ -601,6 +601,14 @@
         "Assemblies/BiomesCavernsFixes.dll"
       ],
       "licenseId": "MIT"
+    },
+    {
+      "path": "mods/TribalOutfits",
+      "workshopId": "3840985633",
+      "assemblies": [
+        "Assemblies/TribalOutfits.dll"
+      ],
+      "licenseId": "MIT"
     }
   ],
   "files": [
@@ -616,8 +624,8 @@
     },
     {
       "path": "catalog/mods.md",
-      "bytes": 3807,
-      "sha256": "7ded5c1c77fb80972c2f907fead157971398c86d9b3673d6c8a174ae7616fc6b"
+      "bytes": 4624,
+      "sha256": "d58e2895494d8cde3ce926f633378e88868ee6522102a71603f2e8b69393c271"
     },
     {
       "path": "catalog/translations.md",
@@ -12675,9 +12683,894 @@
       "sha256": "87dcee5bea9c89785c50ab2625bdfc034ad52310cf6ebdf746e4a613f8a36441"
     },
     {
+      "path": "mods/TribalOutfits/About/About.xml",
+      "bytes": 3267,
+      "sha256": "da7dd8cc8b3f635f6f0c828c4a2de3d9bb26e9085c06aae87f06dce2d74c6aa0"
+    },
+    {
+      "path": "mods/TribalOutfits/About/Preview.png",
+      "bytes": 371864,
+      "sha256": "cb10d648a4bf396ecb973384c7ba601c70be9e4c3403a5e20d0a0184b1d3bfb4"
+    },
+    {
+      "path": "mods/TribalOutfits/About/PublishedFileId.txt",
+      "bytes": 11,
+      "sha256": "fa6a6c22a8cdc396840bf17df37943a146c1e13854df8aceea062e6443ce0ee9"
+    },
+    {
+      "path": "mods/TribalOutfits/Assemblies/TribalOutfits.dll",
+      "bytes": 6144,
+      "sha256": "3c5a4e884b4bb4a6080976e7577de995e0e6403efbd2d8a088c21cfa6f8c8dab"
+    },
+    {
+      "path": "mods/TribalOutfits/CHANGELOG.md",
+      "bytes": 552,
+      "sha256": "d3ae9260d4574887c62b5a104b9297e6b3dae418c9e8dff038d166a164496f5c"
+    },
+    {
+      "path": "mods/TribalOutfits/Defs/ThingDefs/Armor.xml",
+      "bytes": 14386,
+      "sha256": "c30d1d340e02488600bb813ad6362dd43d1e3c796c8ceb33b2f0274882b5af19"
+    },
+    {
+      "path": "mods/TribalOutfits/Defs/ThingDefs/EverydayApparel.xml",
+      "bytes": 24747,
+      "sha256": "34e7e9b49782b1fc6787ef8b6397161379fe108a0666035dd365b32884a0c955"
+    },
+    {
+      "path": "mods/TribalOutfits/Defs/ThingDefs/MechanoidSalvage.xml",
+      "bytes": 1662,
+      "sha256": "c93b4f855fd371f136d2501508f3f5b1d5cf76b24452b807fa1adca4e50c579a"
+    },
+    {
+      "path": "mods/TribalOutfits/Defs/ThingDefs/ShamanStaff.xml",
+      "bytes": 2160,
+      "sha256": "663463f2939283fe579b34a40eb1fdfcfdb6029ad00819c12a9e11ddbb898fb6"
+    },
+    {
+      "path": "mods/TribalOutfits/Defs/ThingDefs/SpecialApparel.xml",
+      "bytes": 14043,
+      "sha256": "ebe7871dffd175c0cadc736d1a7c6cea767549100b6f01b7cc8c2a7db9be0fac"
+    },
+    {
+      "path": "mods/TribalOutfits/Languages/Russian/DefInjected/RecipeDef/Armor.xml",
+      "bytes": 607,
+      "sha256": "9213dedf89eab6db3da2a2d8c86f62274fd32704beda91a1e0ebb867a9ddad32"
+    },
+    {
+      "path": "mods/TribalOutfits/Languages/Russian/DefInjected/RecipeDef/EverydayApparel.xml",
+      "bytes": 1972,
+      "sha256": "864c69fbe4bc8cc4d30d5f58da425ee8d96a03a67d7c7bde3fa6de5630409c50"
+    },
+    {
+      "path": "mods/TribalOutfits/Languages/Russian/DefInjected/RecipeDef/MechanoidSalvage.xml",
+      "bytes": 327,
+      "sha256": "afb62698aadee6629430033343597e3fb9ad51add1a2a297284ff9afefbbb780"
+    },
+    {
+      "path": "mods/TribalOutfits/Languages/Russian/DefInjected/StuffCategoryDef/Chitin.xml",
+      "bytes": 134,
+      "sha256": "a54e2f3f43d57f065922b17896700f9d725e0773ba76423c05a1d11d5e3ada2e"
+    },
+    {
+      "path": "mods/TribalOutfits/Languages/Russian/DefInjected/ThingDef/Armor.xml",
+      "bytes": 2214,
+      "sha256": "9eefb20dec155e5ea6f382948bf997e609892b3ebc73e1c6b346e6611d952ca0"
+    },
+    {
+      "path": "mods/TribalOutfits/Languages/Russian/DefInjected/ThingDef/EverydayApparel.xml",
+      "bytes": 2156,
+      "sha256": "c740d6bb85062e39b32b1d43239316131963965e061db5ee41b83e41c6d7bf0d"
+    },
+    {
+      "path": "mods/TribalOutfits/Languages/Russian/DefInjected/ThingDef/MechanoidSalvage.xml",
+      "bytes": 468,
+      "sha256": "a207bef790192b77a8edb0e2730eb912865642f1150ce3dc0b59866358a6bf7a"
+    },
+    {
+      "path": "mods/TribalOutfits/Languages/Russian/DefInjected/ThingDef/ShamanStaff.xml",
+      "bytes": 626,
+      "sha256": "d01a4ff606b257dd40c7ea5b0c563f23417506f0df103efff2dd8f9207140419"
+    },
+    {
+      "path": "mods/TribalOutfits/Languages/Russian/DefInjected/ThingDef/SpecialApparel.xml",
+      "bytes": 3502,
+      "sha256": "bfafb111ce1964e7f9c1f072b9db773df491188030ec6c4f260c3a05be43f74c"
+    },
+    {
+      "path": "mods/TribalOutfits/Languages/Russian/LICENSE.txt",
+      "bytes": 175,
+      "sha256": "6b73ef207d7481e68afaac8357107d7cd0273fdab7377fb23e29a56018433467"
+    },
+    {
+      "path": "mods/TribalOutfits/LICENSE",
+      "bytes": 1070,
+      "sha256": "63b6e148c76cca7b11dcc948be54def0ccfb3b8f99ad59ebdfde89e84b397fd2"
+    },
+    {
+      "path": "mods/TribalOutfits/NOTICES.md",
+      "bytes": 685,
+      "sha256": "0f978cad9209f7d4514b4674eabe796769cf6561fec3827386c6c9353f09a151"
+    },
+    {
+      "path": "mods/TribalOutfits/Patches/Chitin.xml",
+      "bytes": 2997,
+      "sha256": "75d11eb95d4c2b1c59297850c359f4c31d02f29bfe18f8a46321c1389b3fbbae"
+    },
+    {
+      "path": "mods/TribalOutfits/README.md",
+      "bytes": 4270,
+      "sha256": "cd1b6966af8e09bc7ee1c251640f6dac3ca6c229dc0d27f88f8ff5a83c430aaa"
+    },
+    {
+      "path": "mods/TribalOutfits/Source/TribalOutfits.cs",
+      "bytes": 3400,
+      "sha256": "95058762b6261e3cf6a1491bd726279067cd09e11ad4121d9f68de244657bf52"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/BarbarianCloak.png",
+      "bytes": 10679,
+      "sha256": "fa8f9e9bb78f776c78e4f0f041aebae537d9c0319001c94ad33414391abaeadb"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/BarbarianCloak_Child_east.png",
+      "bytes": 5686,
+      "sha256": "53cbee077381f216138cd00d7041bcf909413b440b027b48df6f6a3043342c7e"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/BarbarianCloak_Child_north.png",
+      "bytes": 7033,
+      "sha256": "559dcf92a854ab29d31bb39fe0d62a826057a2b94f98d9cfb3fa31b089460759"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/BarbarianCloak_Child_south.png",
+      "bytes": 8073,
+      "sha256": "26889789c021dd234ae14cc7206f0ec916a801dcd7cafc8e8720eedf3436c93e"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/BarbarianCloak_Fat_east.png",
+      "bytes": 9027,
+      "sha256": "2c8807f373d2ea7919b3eabf6eb733b3d5b0a753eab2c01bd5b3d2e2805c44ba"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/BarbarianCloak_Fat_north.png",
+      "bytes": 9972,
+      "sha256": "0c6d6c08b43822a4cf0fe97d5224e50ec03073179c0e30f1306eb1a80e92c8a8"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/BarbarianCloak_Fat_south.png",
+      "bytes": 11655,
+      "sha256": "6e584f4b9bf658de31e7ac1e5a37897586a0bbd8b132a82450c3e9a0fa35ef7c"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/BarbarianCloak_Female_east.png",
+      "bytes": 6948,
+      "sha256": "63656a84f1681118debe701ccb6ab598cc04fcd1c8f7b525b3c12af27b5e0a4e"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/BarbarianCloak_Female_north.png",
+      "bytes": 7972,
+      "sha256": "b0f82040fb89ebbfcd689998ba82c787a22baac256140ff13ba16b8b89029c30"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/BarbarianCloak_Female_south.png",
+      "bytes": 9066,
+      "sha256": "759e29f7879e0745d20d28707d0e3ef15db22713a9e815456eb0d39634302ef5"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/BarbarianCloak_Hulk_east.png",
+      "bytes": 8876,
+      "sha256": "486a85f9f997d621514b4976cd2db6779c66aca6ffa9504d773ae92ef58ae303"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/BarbarianCloak_Hulk_north.png",
+      "bytes": 11322,
+      "sha256": "a1ac7723ae2084ff56144cb835881e1f585c00256a9ae5419a2ba89d45f69e8f"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/BarbarianCloak_Hulk_south.png",
+      "bytes": 13276,
+      "sha256": "6c3ba61072c0aa1948bb5129b3556cfd36278cbdc68fadf6366107af1d0eafd6"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/BarbarianCloak_Male_east.png",
+      "bytes": 6627,
+      "sha256": "211811156599cfa0c7988fd37439e36093b1c694d6f95515796a89b981bfdff1"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/BarbarianCloak_Male_north.png",
+      "bytes": 8498,
+      "sha256": "6a1c316e3cd1247b1a2f1855d4c35f653fee7a0cca77541f9703ab18d92ec784"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/BarbarianCloak_Male_south.png",
+      "bytes": 9784,
+      "sha256": "8b038b017672827ea2de0299ea498020edc9134862fe58cfa9e5d0cd7a966b10"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/BarbarianCloak_Thin_east.png",
+      "bytes": 6379,
+      "sha256": "3fe43edce8e593983f65ad216a5fbb91a227920e82fbb18da8b58f933e697970"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/BarbarianCloak_Thin_north.png",
+      "bytes": 6120,
+      "sha256": "1b9c72c51a0bc8f84a5451e1ac73dfe835cf7df816b9d5e48a86b9a1e00ce91e"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/BarbarianCloak_Thin_south.png",
+      "bytes": 6967,
+      "sha256": "2e9ba66d661e9de8ff3461ee09d65cbb7d403e4c5004b7db19cf01e2a2f4f554"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/BarbarianFootWraps.png",
+      "bytes": 6609,
+      "sha256": "5b0f08b3da644ccf50bce3b6b56d763dfba9c43bd279798457360dfde3502240"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/BarbarianHandWraps.png",
+      "bytes": 8761,
+      "sha256": "cab4feb617a0e818737df7ecf650c68beb03a4a6cfe7d25703b1a3ed18d329a0"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/BarbarianHelmet.png",
+      "bytes": 7532,
+      "sha256": "cc449e1bfaeca0413972fad6599b4ff6dcd17bbbb539953ffec72d2a5a577d56"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/BarbarianHelmet_east.png",
+      "bytes": 5229,
+      "sha256": "ba861e5719c9f88c82ec65de3bb952e0d72e1e6e7f1a5605cc2a31080a9d37a5"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/BarbarianHelmet_north.png",
+      "bytes": 5193,
+      "sha256": "3e203066e37c79a83d95103ae87330fc8c05e65da99df0bd73858b15447d1b76"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/BarbarianHelmet_south.png",
+      "bytes": 5747,
+      "sha256": "e36f61a2937eb3f83f94c7cf94db0dbb497a982c3d0f24ca6f783f5e4ac0fa4a"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/BarbarianTunic.png",
+      "bytes": 8110,
+      "sha256": "c1799fe606ae648ad4cb83c66626280c668f38ee4b57a3cff6639e5a4f81d11a"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/BarbarianTunic_Child_east.png",
+      "bytes": 4672,
+      "sha256": "75a9d940f57a3b60946cb29df2e4f5031fd404b5a43f2dfee6d65e027f718d7e"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/BarbarianTunic_Child_north.png",
+      "bytes": 4613,
+      "sha256": "21f3cd75d910642052f229430ca9cef5a4033c0486cea2eb569e5efa11c57857"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/BarbarianTunic_Child_south.png",
+      "bytes": 5086,
+      "sha256": "7f8803b7c886d9e76d7213742aa06d2144f155e653b675eea692cfc7d5a1a31f"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/BarbarianTunic_Fat_east.png",
+      "bytes": 6673,
+      "sha256": "ce50521d7678ccc2cb9d961f26598caf4c058ff8ac954a1def56721ae40c2853"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/BarbarianTunic_Fat_north.png",
+      "bytes": 7832,
+      "sha256": "6fd44f6b0e3a3512f3ac25c92d3fdf426156d12ae538ef1f7d50a959c72ef697"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/BarbarianTunic_Fat_south.png",
+      "bytes": 8230,
+      "sha256": "7a193595f08d980c22059c70ff7cbb8b8414ec23fdde960b7ea8b5780bfde76d"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/BarbarianTunic_Female_east.png",
+      "bytes": 4970,
+      "sha256": "32c73a5e5a374f50297333fcc37f97e004e678abb8aa6c52d6a64e7419135ae0"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/BarbarianTunic_Female_north.png",
+      "bytes": 5193,
+      "sha256": "831908e4ffe4678ddf53351ffe99583b406af010e2b07fa88cd1f8df0424e613"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/BarbarianTunic_Female_south.png",
+      "bytes": 5808,
+      "sha256": "8952fcf8c001440c77d3d04b4902936215bd26ed581e56f44245e8416c325d1d"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/BarbarianTunic_Hulk_east.png",
+      "bytes": 6030,
+      "sha256": "be3768b39c0e45fd064051f0e82377746321d42166dd8b64f69d7612422767fa"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/BarbarianTunic_Hulk_north.png",
+      "bytes": 6180,
+      "sha256": "b9f3eadb6940d13cfe9b361ccb3093c91bd962bafae5a900d639817aeed83871"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/BarbarianTunic_Hulk_south.png",
+      "bytes": 6816,
+      "sha256": "0e224e70b572f936141bf9547896c8b45f78981f780e2353e65dce3b1baa9df8"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/BarbarianTunic_Male_east.png",
+      "bytes": 4825,
+      "sha256": "55d19e579f1835155e674bc7be9f1b485df4783ed9c2a7fa7bb568bad08a732f"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/BarbarianTunic_Male_north.png",
+      "bytes": 5568,
+      "sha256": "f996c24b333eae87027254af3a870ff95ae7dddd69d60dcc029246690579beb3"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/BarbarianTunic_Male_south.png",
+      "bytes": 6131,
+      "sha256": "e5b66bc685ecbfea66ea1693846f10c2a1f1a8940b7a626249319d8d358dd407"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/BarbarianTunic_Thin_east.png",
+      "bytes": 4257,
+      "sha256": "763d6774f26af871cb78914c518b31e95ed198a132e3d17305526a76c1cb6a9f"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/BarbarianTunic_Thin_north.png",
+      "bytes": 3971,
+      "sha256": "6d907b90ef49330b25b575d077aaaf8c2934482cc7f1586f911e7aa9fab55eac"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/BarbarianTunic_Thin_south.png",
+      "bytes": 4410,
+      "sha256": "a4541dcdaa89f25b033a57c1c13eaae23b1f8e3a74b837c3431a31dd0ca5b7b1"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/DesertRobe.png",
+      "bytes": 9078,
+      "sha256": "037d0aadd18bcb08e58c84f392430eddb0f3208396991a375f4743bdaae81645"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/DesertRobe_Child_east.png",
+      "bytes": 5081,
+      "sha256": "7ded1ae5d1398df4e9d1b723c21a15d6f59aa0cb679e613c1e0b2b1b413f64dd"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/DesertRobe_Child_north.png",
+      "bytes": 5309,
+      "sha256": "a3986871efd43c46d192932af7acd1536fe24f8a6edfd4b562a9e18d28ec1a8f"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/DesertRobe_Child_south.png",
+      "bytes": 7422,
+      "sha256": "8b748968d2057399e65727758d633187a4756d8851b5048e63d8a7bd5c955404"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/DesertRobe_Fat_east.png",
+      "bytes": 9166,
+      "sha256": "1c614b1e88e744f104f47fa80feacaf82eabdc78584811cf7e813929a50eccab"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/DesertRobe_Fat_north.png",
+      "bytes": 7615,
+      "sha256": "5d9b7732560d2d6385758d759464f664e854013a86fd8b19137122a3b80a0a23"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/DesertRobe_Fat_south.png",
+      "bytes": 10930,
+      "sha256": "ab6e73ca2d066397f671560f9154af7a1bcd017024d2520b4d420ce41d5a0651"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/DesertRobe_Female_east.png",
+      "bytes": 6257,
+      "sha256": "ccee16fcb3563430bad28e0d5c2d3df902ce5ffa56cfea4717a7b72d09d55098"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/DesertRobe_Female_north.png",
+      "bytes": 6018,
+      "sha256": "5d35f285adc796a2162c4a349c12abf6a806e2bd3c0fbbd88cc877778ffd5a02"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/DesertRobe_Female_south.png",
+      "bytes": 8381,
+      "sha256": "df1d31804baaff6fe67de1ee358bf883cc27cc24c172ac9404468fa6e8732435"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/DesertRobe_Hulk_east.png",
+      "bytes": 8340,
+      "sha256": "fd14c8d1cc2e882d4374de5fd3f2813fc5b00851fd0b434dcba86c953c417328"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/DesertRobe_Hulk_north.png",
+      "bytes": 8482,
+      "sha256": "cc6f5ddb387b719a2ef7a2e66e1d22af6516a2015844785c605846f2ba5af9a9"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/DesertRobe_Hulk_south.png",
+      "bytes": 12391,
+      "sha256": "b4bb5f5799666aee4189aceea12216fbd14510ac1c763eaca67a0a0cd0d1c389"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/DesertRobe_Male_east.png",
+      "bytes": 6231,
+      "sha256": "d47b1f5661fab9dec4bddbf4346931cb9d50ccf87037fbf1f3a35698c2d7db7c"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/DesertRobe_Male_north.png",
+      "bytes": 6335,
+      "sha256": "766ce49550a7cc21f7f6f2f14e0c0edf49bd336acfd7b3b450b5b569be52a616"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/DesertRobe_Male_south.png",
+      "bytes": 9078,
+      "sha256": "037d0aadd18bcb08e58c84f392430eddb0f3208396991a375f4743bdaae81645"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/DesertRobe_Thin_east.png",
+      "bytes": 5569,
+      "sha256": "498789099cc34849c2ee2645b457db06b6514d780a399416275b58b823d6cccc"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/DesertRobe_Thin_north.png",
+      "bytes": 4726,
+      "sha256": "8d9d247a1a3e160b883766b6b561e20d2249be132657e151edcf91b490cf3501"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/DesertRobe_Thin_south.png",
+      "bytes": 6363,
+      "sha256": "33ce4cb9f2015d78216e383d07a36dcb23052e8e15105ae089d7caf2dd30ae1e"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/DesertWrap.png",
+      "bytes": 5546,
+      "sha256": "82037c3cc6ce2f59ddf940a2a24b3a11192971b2783ac66e1a124bb6e14ac5b0"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/DesertWrap_east.png",
+      "bytes": 5340,
+      "sha256": "68a9fbd497eaed4a47d19bc977c159e0db459e6bf80b0d20776a85d59f8b855c"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/DesertWrap_north.png",
+      "bytes": 6234,
+      "sha256": "0bc90c1bd35659d0b14739d0edb883b9d25082f937838fa46bd22753c8445580"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/DesertWrap_south.png",
+      "bytes": 5546,
+      "sha256": "82037c3cc6ce2f59ddf940a2a24b3a11192971b2783ac66e1a124bb6e14ac5b0"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/FeltBoots.png",
+      "bytes": 6212,
+      "sha256": "ded7dbc34e0652def86bef2703afe5897cfcce585dbe366be9e0f7eab51cff4f"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/FurCoat.png",
+      "bytes": 8016,
+      "sha256": "8ed1ee8d710cffb1914829119a71aa9e22af1191cfbd84cdb971eabf21776058"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/FurCoat_Child_east.png",
+      "bytes": 5431,
+      "sha256": "ad9116f96369075a7710238eb0329dda369cd583e09a9897223b85f17cc28bf6"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/FurCoat_Child_north.png",
+      "bytes": 6082,
+      "sha256": "c2e7fb8e17b18dac5cc48885d32bdef9fbfbad2e77fb70c254ac23901da5fee8"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/FurCoat_Child_south.png",
+      "bytes": 6418,
+      "sha256": "b3dc45e1c60f1a22c5db6b5cfc291ce43d81fdf84061ec22a4cc44b330b15d64"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/FurCoat_Fat_east.png",
+      "bytes": 9119,
+      "sha256": "c52f41e6af111b424e3cca24b3ae28c134bbde299b0d44fc9f2b6758b981ecb5"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/FurCoat_Fat_north.png",
+      "bytes": 10065,
+      "sha256": "c3ef2748daf74f65c0853e0bf4d8f316c1d64110ac22006afcb8ac2074f7944b"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/FurCoat_Fat_south.png",
+      "bytes": 10845,
+      "sha256": "d2d33205252f757b7bed1f187318533097505deb485ae27cd637480bb626b2ef"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/FurCoat_Female_east.png",
+      "bytes": 6857,
+      "sha256": "059233fc54ed1a7b2c945a6cc057eb173771ae2606fa419d3a313423e0af48b1"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/FurCoat_Female_north.png",
+      "bytes": 7613,
+      "sha256": "cc8e2b2f3282cb949e1de4863b7a519ecc3bfb9e49bd691b168f42fef26e62df"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/FurCoat_Female_south.png",
+      "bytes": 7942,
+      "sha256": "4613a0927dce88ed193c72093f1074c6b246a908dbf4394d60edcd15d0b889f6"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/FurCoat_Hulk_east.png",
+      "bytes": 8566,
+      "sha256": "155937340d64fb1da3eae47349dabc5393bace98c394e050d52e004796e70ec5"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/FurCoat_Hulk_north.png",
+      "bytes": 10717,
+      "sha256": "b277a6143a595bee0649ac20fbfaa07341f7b85dd1ec8c74e4190070de591d8b"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/FurCoat_Hulk_south.png",
+      "bytes": 11448,
+      "sha256": "0e6d035ea8c00011314649de8f8cd7e40d0d3eae9a78eaeb5600786bde64ed1e"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/FurCoat_Male_east.png",
+      "bytes": 6638,
+      "sha256": "2228ef0f0df6d8c997bc1a9e1044ee494aec2aca682e9b70351a88e7144bd82c"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/FurCoat_Male_north.png",
+      "bytes": 7189,
+      "sha256": "24249618bb7c6877708aa423417811d020d394750c120b0fe9af170d47348447"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/FurCoat_Male_south.png",
+      "bytes": 8016,
+      "sha256": "8ed1ee8d710cffb1914829119a71aa9e22af1191cfbd84cdb971eabf21776058"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/FurCoat_Thin_east.png",
+      "bytes": 5156,
+      "sha256": "86db85818af932d2ab29a9c436b1ecc96e31c17442223f93e1c9299e2e64d4ef"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/FurCoat_Thin_north.png",
+      "bytes": 5429,
+      "sha256": "f7603d10614632422cc0d8b3d5f2c3bbce863c9fd486827b13aa8c34a10cb083"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/FurCoat_Thin_south.png",
+      "bytes": 5534,
+      "sha256": "94ea32d700049a0f202b33e90334770c0ebe748a99b5fe27f191b9be360d75b8"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/FurHat.png",
+      "bytes": 5288,
+      "sha256": "8460428a3869d27e996248631f1e3531ea2466e5c07eac176dfd1291cb858f0a"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/FurHat_east.png",
+      "bytes": 5364,
+      "sha256": "8a55ec8222c8bec0ff32ee3cf455a29a341bf1d734744df51625520a1a06aae7"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/FurHat_north.png",
+      "bytes": 5722,
+      "sha256": "196dfc72fabba0888d97e0501016e8e966361d5b6564c31b0f5eb27e696480c2"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/FurHat_south.png",
+      "bytes": 5288,
+      "sha256": "8460428a3869d27e996248631f1e3531ea2466e5c07eac176dfd1291cb858f0a"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/HiveArmor.png",
+      "bytes": 8795,
+      "sha256": "5f175bc6d9749572ad67111efd3949dffaf0f799d3bcced556686d3905a1d36e"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/HiveArmor_Child_east.png",
+      "bytes": 4559,
+      "sha256": "782fee0a216773d57f4847aad322cdbb6b1944a02144ed1fa80746a37cf47488"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/HiveArmor_Child_north.png",
+      "bytes": 6711,
+      "sha256": "061f50955a4aed361bbc4a1231c5b60fb1ec7dbd777560417fe0b84fe554c51d"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/HiveArmor_Child_south.png",
+      "bytes": 6984,
+      "sha256": "1cd355a580f84bbd0d29d9df79a8fe86bcd376d6d383c2e49e758577123814a4"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/HiveArmor_Fat_east.png",
+      "bytes": 9192,
+      "sha256": "7ba59b423384fb96ea9071070b63a49dec096677db64216cf53cf3d0d8d180f5"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/HiveArmor_Fat_north.png",
+      "bytes": 12653,
+      "sha256": "d8b0d415fa064da5a10067b0e04b0354da4f0a4b80a41eab590dccdfabc17ff4"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/HiveArmor_Fat_south.png",
+      "bytes": 13961,
+      "sha256": "ab2ccaa66020c83474657ee13b9d9f5c5c68aeae768251a284f4a180de42b89a"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/HiveArmor_Female_east.png",
+      "bytes": 5814,
+      "sha256": "17a466e58f9bd2cb8766d573fb1110e8cbb8f1cd685b0085df3d74767fad0d86"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/HiveArmor_Female_north.png",
+      "bytes": 7296,
+      "sha256": "e0834dcc08e4e06af94d27525caa0db63c7912b32e26dc867ee854edbed7d6fe"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/HiveArmor_Female_south.png",
+      "bytes": 7548,
+      "sha256": "35ef901908f7fef54e04b271705c203ba9f7179f5520423631ba5b5edc962235"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/HiveArmor_Hulk_east.png",
+      "bytes": 9668,
+      "sha256": "03c7b561e81960073f941392e2d8bfe162e224564f7b63ab1bdca371c49c62a6"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/HiveArmor_Hulk_north.png",
+      "bytes": 12125,
+      "sha256": "86f31940872f8f43aa9e69f458cce97b473bb234bcfb64a63085f3cd1afe671c"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/HiveArmor_Hulk_south.png",
+      "bytes": 12830,
+      "sha256": "2bfebbcf81d88fde4dada44199b81f92d908323b5ecdc5052c52068dbc531ffa"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/HiveArmor_Male_east.png",
+      "bytes": 5592,
+      "sha256": "9aa58fdaa59e17bece891bb052e12dabbe4cbc5bbb7c5e670ae3078e01e445ee"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/HiveArmor_Male_north.png",
+      "bytes": 8297,
+      "sha256": "2baa710f1305f80da5b18234ce9dcefdf5f6249f98e269dcdaf730334822427e"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/HiveArmor_Male_south.png",
+      "bytes": 8795,
+      "sha256": "5f175bc6d9749572ad67111efd3949dffaf0f799d3bcced556686d3905a1d36e"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/HiveArmor_Thin_east.png",
+      "bytes": 5202,
+      "sha256": "f399807b0e5300013b4deda176132d2b5dc49b541912dd62b22a905cbb5e4af7"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/HiveArmor_Thin_north.png",
+      "bytes": 5355,
+      "sha256": "4de69ae69668c5cce3f5f8f4f8eda8d60362e2a2443851694e5bb6f35409abbc"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/HiveArmor_Thin_south.png",
+      "bytes": 5382,
+      "sha256": "bc498e69eddeaee22d33d0345d2198fbb88b603041aeaff3ee8e517a399c5321"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/HiveBoots.png",
+      "bytes": 7082,
+      "sha256": "e26ede37afcadbabbb3a93f3784818156586dda3bf31fcaf1a4689e430e53e51"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/HiveGloves.png",
+      "bytes": 5374,
+      "sha256": "3ef9ea726402bbd7ed87bc2cab13ce66d5b05ff12f07a16e3caf19e57662fcd8"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/HiveHelmet.png",
+      "bytes": 6529,
+      "sha256": "97144e2dce82f7c2be391c39fc4902bf4642948497b9f2eec1d1caeca3334923"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/HiveHelmet_east.png",
+      "bytes": 5796,
+      "sha256": "02e04aaf1e6d8278b967a4485aefed563b8b28f403be581957c4ea3033d3e946"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/HiveHelmet_north.png",
+      "bytes": 5464,
+      "sha256": "42d77287e5ceec6f30bcaa9d4e753cf5b84023030371ee4e307d15f7a20b99a6"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/HiveHelmet_south.png",
+      "bytes": 6529,
+      "sha256": "97144e2dce82f7c2be391c39fc4902bf4642948497b9f2eec1d1caeca3334923"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/LeatherHood.png",
+      "bytes": 5738,
+      "sha256": "9841518669119529e57ee3a77552a8ea004358f39217a7d1199c5eef457486a0"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/LeatherHood_east.png",
+      "bytes": 5977,
+      "sha256": "740dcc7b5840173c8a88442600fc718a2a17f071c8efcfceff9eb62f2251f465"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/LeatherHood_north.png",
+      "bytes": 4621,
+      "sha256": "774124e80e0c1a8fba11cfcb2b003252246edcd9301454590dfa7a9c5fca8bb3"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/LeatherHood_south.png",
+      "bytes": 5738,
+      "sha256": "9841518669119529e57ee3a77552a8ea004358f39217a7d1199c5eef457486a0"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/MechBoots.png",
+      "bytes": 6513,
+      "sha256": "72a17df602d27642c95c12404fe94e5507c9b5fbb47faf994118dc620dea6909"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/MechGloves.png",
+      "bytes": 5690,
+      "sha256": "f4c110c4f7f587349c5b56281bac75bc0a35c3cc433444ad3a518913b76cb538"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/MechSalvage.png",
+      "bytes": 6797,
+      "sha256": "dc924ca0065d0b742980ea5c00543837bb9c58c05cbe3d45c90f3fde754ab439"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/Mittens.png",
+      "bytes": 6979,
+      "sha256": "682a2612506ef3a8a585f3cf86d58c5d7872b31ded7168c1108e301a6a0a985e"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/Moccasins.png",
+      "bytes": 5817,
+      "sha256": "19bfc4b577dac33877c0db8ede1b330976075fe7b2774deb0edd516bcef06b60"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/Sandals.png",
+      "bytes": 7379,
+      "sha256": "8e9db5e9e5090d6d7970d4beafdeb864946fc1d2b2ed7de0690ae26a038c4581"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/ShamanBoots.png",
+      "bytes": 8288,
+      "sha256": "65c9722b118a6bdc0ca61474c90b07a745c0428226ce1e2779a173a024ac7a8d"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/ShamanCloak.png",
+      "bytes": 10473,
+      "sha256": "9d28249c2195dea325ff8236caa4f5d43dc0aa40f6eb9e3e264a047130b31b24"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/ShamanCloak_Child_east.png",
+      "bytes": 5306,
+      "sha256": "08b98278b03f5151c61c67f036fe6f1a3c04b7bb5378b87eff18de75ca6d4bc5"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/ShamanCloak_Child_north.png",
+      "bytes": 5819,
+      "sha256": "b6b3fe27480e235010d58697cef42282bf09828b2e3dff9825154135df590cc9"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/ShamanCloak_Child_south.png",
+      "bytes": 8461,
+      "sha256": "66abfdf83250c1d2a58a53572c7b40b34514a007d663445972999b5f90f17816"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/ShamanCloak_Fat_east.png",
+      "bytes": 7733,
+      "sha256": "c1aa1a1d1efbf0cce867327e75ad2815ced74429190c9d203ca46ae377194802"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/ShamanCloak_Fat_north.png",
+      "bytes": 7761,
+      "sha256": "601e499544e599856e3fbc35496ec5749de56ed8f686f1dff6867ca31bbd1e26"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/ShamanCloak_Fat_south.png",
+      "bytes": 11390,
+      "sha256": "69481993cba7ebd501b2d1209c9ef9a4d6673eb6bd4b9ef984389c374d8c40c9"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/ShamanCloak_Female_east.png",
+      "bytes": 6057,
+      "sha256": "d2058cca191306546d7699b5922a105659fda4c71e607163af900834c5a44365"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/ShamanCloak_Female_north.png",
+      "bytes": 6715,
+      "sha256": "e6a672ea193cdb5b72e9beb9382b5831f0534dc6a1efd3f40ac5c79d717fb0f4"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/ShamanCloak_Female_south.png",
+      "bytes": 9690,
+      "sha256": "6d79de39669a5bd5a97c5eaeba92f9b58f31d13d058db61575ad61e151ba3ae9"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/ShamanCloak_Hulk_east.png",
+      "bytes": 7884,
+      "sha256": "a802511b58d3a9fe48c4a6f7d25d63d63662a121c859efa455472f68171eebd5"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/ShamanCloak_Hulk_north.png",
+      "bytes": 9478,
+      "sha256": "ee7eea71c5506582a534e2cb360c382d162a1ec4fd079a7e94a1a03c0752ea86"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/ShamanCloak_Hulk_south.png",
+      "bytes": 9964,
+      "sha256": "985cf9faae86ba6776f8b96ea862c471987823da9cbaa535f43ec6277ef4c81f"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/ShamanCloak_Male_east.png",
+      "bytes": 6003,
+      "sha256": "398d9952def8ac442834fb804b5552fce75687e22265b7660a8d68ccadb81f7d"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/ShamanCloak_Male_north.png",
+      "bytes": 6994,
+      "sha256": "1ebbdb6cdac7a1e6c1dc9434035a9f97ad2639dbbe2f67a9b2bb9f9e7c9fa7ea"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/ShamanCloak_Male_south.png",
+      "bytes": 10473,
+      "sha256": "9d28249c2195dea325ff8236caa4f5d43dc0aa40f6eb9e3e264a047130b31b24"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/ShamanCloak_Thin_east.png",
+      "bytes": 5611,
+      "sha256": "4552536bf784fcf1717343cb3b8a50b0037d2e35d2102b2311b34168ca1c9446"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/ShamanCloak_Thin_north.png",
+      "bytes": 5145,
+      "sha256": "00e15f36be54335ff60a052d9611687d85c484771b584cb8f9ea7a53abc8ffc6"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/ShamanCloak_Thin_south.png",
+      "bytes": 7248,
+      "sha256": "1811414ae200001967f1dabd893291339526d61c5d4e19fbf247434a31c87d69"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/ShamanGloves.png",
+      "bytes": 9004,
+      "sha256": "ffcdcb389e96b958ae770cbc9f88b6423819ab40db5d70f45cc181ebeb54b039"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/ShamanHelmet.png",
+      "bytes": 5311,
+      "sha256": "6be3f02c2a6292f1748e353d9e936a529a272740efe190ea878f79b7208ad7c1"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/ShamanHelmet_east.png",
+      "bytes": 5148,
+      "sha256": "0f6dbc72c303010ceb018694635b272112ecef40b8380cfeecff5acc1c77b8f5"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/ShamanHelmet_north.png",
+      "bytes": 4902,
+      "sha256": "acd2703160b968e78624908db7a98c376f6389c5d87c5d572cb0a7e2e114091e"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/ShamanHelmet_south.png",
+      "bytes": 5311,
+      "sha256": "6be3f02c2a6292f1748e353d9e936a529a272740efe190ea878f79b7208ad7c1"
+    },
+    {
+      "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/ShamanStaff.png",
+      "bytes": 6109,
+      "sha256": "2991bc455452695ce81eb1a898da600d569f9d9a875c91fa88c32a1c50edbe3c"
+    },
+    {
       "path": "README.md",
       "bytes": 2409,
-      "sha256": "76b9c152c2c7b767d961c99ac2d0685ac4b294ee8eb6d84cde125d43651d4aed"
+      "sha256": "ae2af937ba75121181766b04d902d3d3285ef857f76431771c35501a380e88f3"
     }
   ]
 }

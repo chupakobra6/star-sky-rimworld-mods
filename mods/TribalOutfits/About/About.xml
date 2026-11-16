@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Tribal Outfits [Star Sky Mods]</name>
+  <author>chupakobra6 | Star Sky Mods</author>
+  <packageId>starsky.rimworld.tribaloutfits</packageId>
+  <modVersion>1.0.3</modVersion>
+  <supportedVersions><li>1.6</li></supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>brrainz.harmony</li>
+    <li>sarg.alphaanimals</li>
+    <li>oskarpotocki.vfe.insectoid2</li>
+  </loadAfter>
+  <description>Dress a RimWorld tribe for the desert, winter, a hunt or a fight. Tribal Outfits adds seven craftable sets with 26 pieces of apparel and a jade-tipped shaman staff
+
+Made at the request of svg
+
+&lt;b&gt;FEATURES&lt;/b&gt;
+
+• &lt;b&gt;Everyday leather&lt;/b&gt; – a leather hood and light moccasins
+• &lt;b&gt;Desert&lt;/b&gt; – a wrap, thobe and sandals that help pawns cope with heat
+• &lt;b&gt;Winter&lt;/b&gt; – a coat, hat, mittens and felt boots crafted from wool. The coat is warmer than a vanilla parka of the same material and quality
+• &lt;b&gt;Barbarian&lt;/b&gt; – a leather cloak, helmet and tunic that raise the pain shock threshold. Hand wraps increase bow firing rate and melee hit chance. Foot wraps improve hunting stealth
+• &lt;b&gt;Shaman&lt;/b&gt; – devilstrand and jade apparel plus a wooden staff with a jade tip. Both boost psychic sensitivity, with stronger bonuses at higher quality
+• &lt;b&gt;Hive&lt;/b&gt; – armor that protects against sharp and blunt damage. Craft it from chitin when Alpha Animals or Insectoids 2 is enabled, or from leather with neither active
+• &lt;b&gt;Steel Monsters&lt;/b&gt; – recon-style armor made with plasteel, leather and plating salvaged from mechanoids
+
+Each pair of footwear adds 0.10 cells per second to movement speed. Footwear pieces share the same layer
+
+&lt;b&gt;HOW TO USE&lt;/b&gt;
+
+Choose a recipe at a &lt;b&gt;Crafting Spot&lt;/b&gt;, tailoring bench or smithy. Each piece is crafted separately. Recipes require up to level 5 Crafting, depending on the set. No research is required
+
+To recover plating, use the salvage recipe at a Crafting Spot or machining table. One mechanoid corpse yields one piece of plating
+
+&lt;b&gt;COMPATIBILITY&lt;/b&gt;
+
+Requires &lt;b&gt;RimWorld 1.6&lt;/b&gt; and Harmony (https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077). Includes English and Russian text
+
+Alpha Animals (https://steamcommunity.com/sharedfiles/filedetails/?id=1541721856) and Vanilla Factions Expanded – Insectoids 2 (https://steamcommunity.com/sharedfiles/filedetails/?id=3309003431) are optional sources of chitin. With Royalty enabled, shaman equipment also improves neural heat recovery
+
+&lt;b&gt;FEEDBACK&lt;/b&gt;
+
+Found a bug? Leave a comment here or on Boosty
+
+Preview artwork: in-game RimWorld portraits on an illustrated landscape
+
+Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.</description>
+</ModMetaData>
