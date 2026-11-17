@@ -58,6 +58,7 @@
   <AbilityPawnKind>Неподходящий тип персонажа</AbilityPawnKind>
   <AbilityPlant>Нужен участок без растений.</AbilityPlant>
   <AbilityPollution>Нужен незагрязнённый участок.</AbilityPollution>
+  <AbilityRequiresResearch>Требуется исследование «{0}»</AbilityRequiresResearch>
   <AbilityTargetAgeAbove>Минимальный возраст цели: {0}</AbilityTargetAgeAbove>
   <AbilityTargetAgeBelow>Максимальный возраст цели: {0}</AbilityTargetAgeBelow>
   <AbilityTargetAgeBetween>Допустимый возраст цели (в годах): от {0} до {1}</AbilityTargetAgeBetween>

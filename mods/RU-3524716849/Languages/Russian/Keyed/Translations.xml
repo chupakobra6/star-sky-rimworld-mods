@@ -1,6 +1,10 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
   <KAU_AlreadyDesignated>Уже назначено</KAU_AlreadyDesignated>
+  <KAU_ArchitectSearchFilter>Скрывать неподходящие элементы при поиске в меню «Проекты»</KAU_ArchitectSearchFilter>
+  <KAU_ArchitectSearchFilterOff>Фильтр поиска выключен\nНеподходящие элементы затемнены.\n\nНажмите, чтобы показать только подходящие.</KAU_ArchitectSearchFilterOff>
+  <KAU_ArchitectSearchFilterOn>Фильтр поиска включён\nПоказаны только подходящие элементы.\n\nНажмите, чтобы вместо этого затемнять остальные.</KAU_ArchitectSearchFilterOn>
+  <KAU_ArchitectSearchFilter_Tip>Если настройка включена, поиск в меню «Проекты» показывает только подходящие элементы. При выключенной настройке остальные элементы затемняются. Переключить режим можно кнопкой со значком воронки рядом со строкой поиска.</KAU_ArchitectSearchFilter_Tip>
   <KAU_DefErrorLog>Записывать источники ошибок определений</KAU_DefErrorLog>
   <KAU_DefErrorLogToolTip>После каждой ошибки определения записывает её источник отдельной строкой в журнал.</KAU_DefErrorLogToolTip>
   <KAU_DesignatorFloors>Выбрать напольное покрытие</KAU_DesignatorFloors>
@@ -37,6 +41,7 @@
   <KAU_PlantGrownLevel>Считать растения выросшими при росте от {0}%</KAU_PlantGrownLevel>
   <KAU_PlantGrownLevelTooltip>Порог роста для команд «Собрать урожай созревших растений», «Срубить выросшие деревья» и «Срезать выросшие растения». При 100% отмечаются только полностью выросшие растения. Уменьшите значение, чтобы отмечать и почти выросшие растения.</KAU_PlantGrownLevelTooltip>
   <KAU_ResearchNotFinished>Исследование не завершено</KAU_ResearchNotFinished>
+  <KAU_Section_Architect>Меню «Проекты»</KAU_Section_Architect>
   <KAU_Section_Combat>Бой</KAU_Section_Combat>
   <KAU_Section_Diagnostics>Диагностика</KAU_Section_Diagnostics>
   <KAU_Section_Hauling>Переноска</KAU_Section_Hauling>

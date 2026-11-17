@@ -472,7 +472,7 @@ RimWorld 1.6 · Версия 1.0.3
 
 [![EBSG Framework — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/ebsg-framework-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3816649292)
 
-RimWorld 1.6 · Версия 1.0.3
+RimWorld 1.6 · Версия 1.0.4
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3816649292) · [Исходники и руководство](../mods/RU-3112549163/README.md) · [История изменений](../mods/RU-3112549163/CHANGELOG.md) · [Лицензия](../mods/RU-3112549163/LICENSE) · [Источники и уведомления](../mods/RU-3112549163/NOTICES.md)
 
@@ -522,7 +522,7 @@ RimWorld 1.6 · Версия 1.0.3
 
 [![Worksites Expanded — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/worksites-expanded-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3816649426)
 
-RimWorld 1.6 · Версия 1.0.4
+RimWorld 1.6 · Версия 1.0.5
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3816649426) · [Исходники и руководство](../mods/RU-3687071198/README.md) · [История изменений](../mods/RU-3687071198/CHANGELOG.md) · [Лицензия](../mods/RU-3687071198/LICENSE) · [Источники и уведомления](../mods/RU-3687071198/NOTICES.md)
 
@@ -674,7 +674,7 @@ RimWorld 1.6 · Версия 1.0.1
 
 [![Keyz' Allow Utilities — русский перевод](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/keyz-allow-utilities-translation.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3827393219)
 
-RimWorld 1.6 · Версия 1.0.2
+RimWorld 1.6 · Версия 1.0.3
 
 [Мастерская](https://steamcommunity.com/sharedfiles/filedetails/?id=3827393219) · [Исходники и руководство](../mods/RU-3524716849/README.md) · [История изменений](../mods/RU-3524716849/CHANGELOG.md) · [Лицензия](../mods/RU-3524716849/LICENSE) · [Источники и уведомления](../mods/RU-3524716849/NOTICES.md)
 
