@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.4
+
+- Steel Monsters recipes now use vanilla mechanoid slag chunks directly.
+- Existing plates are exchanged for mechanoid slag chunks when loading a save. Retired extraction bills are removed.
+
 ## 1.0.3
 
 - Refitted side views and corrected apparel gaps on multiple body types.

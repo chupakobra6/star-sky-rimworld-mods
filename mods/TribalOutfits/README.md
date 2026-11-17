@@ -24,11 +24,11 @@ Open a Crafting Spot and add a bill. The same outfit recipes also appear at a ta
 | Barbarian | 3 | Cloak (120 leather), helmet (50), tunic (60), hand wraps (30) and foot wraps (30). The cloak, helmet and tunic raise the pain shock threshold, up to the game's cap. Hand wraps give a 10% bow rate bonus and five percentage points to melee hit chance. Foot wraps give ten points to hunting stealth. |
 | Shaman | 4 | Devilstrand and jade helmet (60 + 50), cloak (120 + 50), gloves and boots (50 + 30 each). The staff costs 100 wood and 70 jade. At Normal quality the apparel gives +25 percentage points of psychic sensitivity in total, and the staff adds another +25. Better quality raises the bonuses. Royalty enables neural heat recovery bonuses. |
 | Hive | 4 | Helmet (60), armor (180), gloves and boots (40 each). With Alpha Animals or Insectoids 2 the recipes use only their chitin. With neither installed they use leather. The body piece has 60% sharp and 25% blunt armor at Normal quality. Material choices affect insulation, durability and crafting, with zero armor against heat. |
-| Steel Monsters | 5 | Helmet, armor, gloves and boots. They cost respectively 1/3/1/1 pieces of salvage, 40/100/10/10 plasteel and 20/40/10/10 leather. The helmet and body armor use vanilla recon armor protection and graphics. |
+| Steel Monsters | 5 | Helmet, armor, gloves and boots. They cost respectively 1/3/1/1 mechanoid slag chunks, 40/100/10/10 plasteel and 20/40/10/10 leather. The helmet and body armor use vanilla recon armor protection and graphics. |
 
 Each pair of footwear adds **0.10 cells/s**. The pieces share a layer and cannot be stacked with each other. Gloves and footwear have inventory icons and their stats apply while worn. The vanilla pawn renderer does not draw them as separate equipment on the extremities.
 
-For Steel Monsters armor, use **salvage mechanoid plating** at a Crafting Spot or machining table. The bill consumes one mechanoid corpse and returns one salvage item. It is an alternative to the vanilla breakdown bill, so the same corpse yields one result.
+Steel Monsters recipes use **mechanoid slag chunks** from the base game. Get them from destroyed mechanoids and ruins. You can still smelt them for steel. Regular steel slag chunks are a separate item. On loading a 1.0.3 save, old plating is exchanged for mechanoid slag chunks and old plating bills are removed.
 
 The pack was made from the commission's item list and balance notes. It uses original item and directional apparel art, with in-game references to the installed recon armor graphics. See [NOTICES](NOTICES.md).
 

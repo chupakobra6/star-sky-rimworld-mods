@@ -60,7 +60,7 @@ Seven craftable apparel sets, a jade-tipped shaman staff and salvaged mechanoid 
 
 [![Tribal Outfits](https://raw.githubusercontent.com/chupakobra6/star-sky-assets/main/assets/tribal-outfits.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3840985633)
 
-RimWorld 1.6 · Version 1.0.3
+RimWorld 1.6 · Version 1.0.4
 
 [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3840985633) · [Source & guide](../mods/TribalOutfits/README.md) · [Changelog](../mods/TribalOutfits/CHANGELOG.md) · [License](../mods/TribalOutfits/LICENSE) · [Sources & notices](../mods/TribalOutfits/NOTICES.md)
 

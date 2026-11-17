@@ -625,7 +625,7 @@
     {
       "path": "catalog/mods.md",
       "bytes": 4624,
-      "sha256": "d58e2895494d8cde3ce926f633378e88868ee6522102a71603f2e8b69393c271"
+      "sha256": "fa08370be2e268e03a1fa66e3ebd0059667cddf96210aad0a0d6f4689b6563d7"
     },
     {
       "path": "catalog/translations.md",
@@ -12684,8 +12684,8 @@
     },
     {
       "path": "mods/TribalOutfits/About/About.xml",
-      "bytes": 3267,
-      "sha256": "da7dd8cc8b3f635f6f0c828c4a2de3d9bb26e9085c06aae87f06dce2d74c6aa0"
+      "bytes": 3299,
+      "sha256": "e495ad784e1afdd996314a426794604a86f0d6a1d29e306ac0702767199c9d9c"
     },
     {
       "path": "mods/TribalOutfits/About/Preview.png",
@@ -12699,18 +12699,18 @@
     },
     {
       "path": "mods/TribalOutfits/Assemblies/TribalOutfits.dll",
-      "bytes": 6144,
-      "sha256": "3c5a4e884b4bb4a6080976e7577de995e0e6403efbd2d8a088c21cfa6f8c8dab"
+      "bytes": 9728,
+      "sha256": "c295ef57a818830ec3d41c39ef79429968a84e9d2d6937d5b12c9b6f6c72e63a"
     },
     {
       "path": "mods/TribalOutfits/CHANGELOG.md",
-      "bytes": 552,
-      "sha256": "d3ae9260d4574887c62b5a104b9297e6b3dae418c9e8dff038d166a164496f5c"
+      "bytes": 753,
+      "sha256": "52b87ade12b498348c5495e2ca1ee7f0ad53f1ce9e71e4058f1a578497c78a28"
     },
     {
       "path": "mods/TribalOutfits/Defs/ThingDefs/Armor.xml",
-      "bytes": 14386,
-      "sha256": "c30d1d340e02488600bb813ad6362dd43d1e3c796c8ceb33b2f0274882b5af19"
+      "bytes": 14354,
+      "sha256": "3a8284e6c54a8cf10b9b0ce5401fc9bba68eacaa12a619f85b6b1264054b7ccb"
     },
     {
       "path": "mods/TribalOutfits/Defs/ThingDefs/EverydayApparel.xml",
@@ -12719,8 +12719,8 @@
     },
     {
       "path": "mods/TribalOutfits/Defs/ThingDefs/MechanoidSalvage.xml",
-      "bytes": 1662,
-      "sha256": "c93b4f855fd371f136d2501508f3f5b1d5cf76b24452b807fa1adca4e50c579a"
+      "bytes": 1209,
+      "sha256": "43d99ff9f510e34f2bb630c3aa33ae3434b92a7d9cb3b96f4f3536b4238dd5b3"
     },
     {
       "path": "mods/TribalOutfits/Defs/ThingDefs/ShamanStaff.xml",
@@ -12799,13 +12799,13 @@
     },
     {
       "path": "mods/TribalOutfits/README.md",
-      "bytes": 4270,
-      "sha256": "cd1b6966af8e09bc7ee1c251640f6dac3ca6c229dc0d27f88f8ff5a83c430aaa"
+      "bytes": 4329,
+      "sha256": "8be7089020ebed5d023e24c0302d048e91bdc2a0dbe3a33b11867d14afb3dc74"
     },
     {
       "path": "mods/TribalOutfits/Source/TribalOutfits.cs",
-      "bytes": 3400,
-      "sha256": "95058762b6261e3cf6a1491bd726279067cd09e11ad4121d9f68de244657bf52"
+      "bytes": 8555,
+      "sha256": "79cd4c33cafe0fd937591de3ad266ee681ac51ceabc90d3466c5ce2759497263"
     },
     {
       "path": "mods/TribalOutfits/Textures/Things/Apparel/TribalOutfits/BarbarianCloak.png",

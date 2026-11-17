@@ -2,6 +2,7 @@
 <Defs>
   <ThingDef ParentName="ResourceBase">
     <defName>SSM_Tribal_MechSalvage</defName>
+    <!-- Read the old stacks when migrating saves from 1.0.3. -->
     <label>mechanoid salvage</label>
     <description>A piece of intact plating pried from a defeated mechanoid. It can be fitted into armor at a crafting spot or smithy.</description>
     <graphicData>
@@ -19,26 +20,11 @@
     <stackLimit>75</stackLimit>
   </ThingDef>
 
+  <!-- Saves reference this def until the obsolete bills are removed on load. -->
   <RecipeDef>
     <defName>SSM_Tribal_SalvageMechanoid</defName>
     <label>salvage mechanoid plating</label>
     <jobString>Prising salvage from a mechanoid.</jobString>
-    <workAmount>1200</workAmount>
-    <workSpeedStat>ButcheryMechanoidSpeed</workSpeedStat>
-    <workSkill>Crafting</workSkill>
-    <effectWorking>ButcherMechanoid</effectWorking>
-    <soundWorking>Recipe_SmashCorpseMechanoid</soundWorking>
-    <ingredients>
-      <li>
-        <filter><categories><li>CorpsesMechanoid</li></categories></filter>
-        <count>1</count>
-      </li>
-    </ingredients>
-    <fixedIngredientFilter><categories><li>CorpsesMechanoid</li></categories></fixedIngredientFilter>
-    <products><SSM_Tribal_MechSalvage>1</SSM_Tribal_MechSalvage></products>
-    <recipeUsers>
-      <li>CraftingSpot</li>
-      <li>TableMachining</li>
-    </recipeUsers>
+    <workerClass>StarSky.TribalOutfits.RetiredSalvageRecipe</workerClass>
   </RecipeDef>
 </Defs>

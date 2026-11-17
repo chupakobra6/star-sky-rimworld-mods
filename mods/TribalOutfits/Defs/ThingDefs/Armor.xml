@@ -199,10 +199,10 @@
   <ThingDef ParentName="ApparelArmorHelmetReconBase">
     <defName>SSM_Tribal_MechHelmet</defName>
     <label>steel monster helmet</label>
-    <description>Armor assembled from mechanoid salvage, plasteel and leather.</description>
+    <description>Armor assembled from mechanoid slag chunks, plasteel and leather.</description>
     <generateCommonality>0</generateCommonality>
     <costList Inherit="False">
-      <SSM_Tribal_MechSalvage>1</SSM_Tribal_MechSalvage>
+      <ChunkMechanoidSlag>1</ChunkMechanoidSlag>
       <Plasteel>40</Plasteel>
       <Leather_Plain>20</Leather_Plain>
     </costList>
@@ -211,10 +211,10 @@
   <ThingDef ParentName="ApparelArmorReconBase">
     <defName>SSM_Tribal_MechArmor</defName>
     <label>steel monster armor</label>
-    <description>Armor assembled from mechanoid salvage, plasteel and leather.</description>
+    <description>Armor assembled from mechanoid slag chunks, plasteel and leather.</description>
     <generateCommonality>0</generateCommonality>
     <costList Inherit="False">
-      <SSM_Tribal_MechSalvage>3</SSM_Tribal_MechSalvage>
+      <ChunkMechanoidSlag>3</ChunkMechanoidSlag>
       <Plasteel>100</Plasteel>
       <Leather_Plain>40</Leather_Plain>
     </costList>
@@ -223,7 +223,7 @@
   <ThingDef ParentName="ApparelMakeableBase">
     <defName>SSM_Tribal_MechGloves</defName>
     <label>steel monster gloves</label>
-    <description>Armor assembled from mechanoid salvage, plasteel and leather.</description>
+    <description>Armor assembled from mechanoid slag chunks, plasteel and leather.</description>
     <recipeMaker Inherit="False">
       <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
       <workSkill>Crafting</workSkill>
@@ -243,7 +243,7 @@
     </stuffCategories>
     <costStuffCount>10</costStuffCount>
     <costList Inherit="False">
-      <SSM_Tribal_MechSalvage>1</SSM_Tribal_MechSalvage>
+      <ChunkMechanoidSlag>1</ChunkMechanoidSlag>
       <Plasteel>10</Plasteel>
     </costList>
     <graphicData>
@@ -273,7 +273,7 @@
   <ThingDef ParentName="ApparelMakeableBase">
     <defName>SSM_Tribal_MechBoots</defName>
     <label>steel monster boots</label>
-    <description>Armor assembled from mechanoid salvage, plasteel and leather.</description>
+    <description>Armor assembled from mechanoid slag chunks, plasteel and leather.</description>
     <recipeMaker Inherit="False">
       <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
       <workSkill>Crafting</workSkill>
@@ -293,7 +293,7 @@
     </stuffCategories>
     <costStuffCount>10</costStuffCount>
     <costList Inherit="False">
-      <SSM_Tribal_MechSalvage>1</SSM_Tribal_MechSalvage>
+      <ChunkMechanoidSlag>1</ChunkMechanoidSlag>
       <Plasteel>10</Plasteel>
     </costList>
     <graphicData>
@@ -344,7 +344,7 @@
       <li>
         <filter>
           <thingDefs>
-            <li>SSM_Tribal_MechSalvage</li>
+            <li>ChunkMechanoidSlag</li>
           </thingDefs>
         </filter>
         <count>1</count>
@@ -368,7 +368,7 @@
     </ingredients>
     <fixedIngredientFilter>
       <thingDefs>
-        <li>SSM_Tribal_MechSalvage</li>
+        <li>ChunkMechanoidSlag</li>
         <li>Plasteel</li>
       </thingDefs>
       <stuffCategoriesToAllow>
@@ -400,7 +400,7 @@
       <li>
         <filter>
           <thingDefs>
-            <li>SSM_Tribal_MechSalvage</li>
+            <li>ChunkMechanoidSlag</li>
           </thingDefs>
         </filter>
         <count>3</count>
@@ -424,7 +424,7 @@
     </ingredients>
     <fixedIngredientFilter>
       <thingDefs>
-        <li>SSM_Tribal_MechSalvage</li>
+        <li>ChunkMechanoidSlag</li>
         <li>Plasteel</li>
       </thingDefs>
       <stuffCategoriesToAllow>

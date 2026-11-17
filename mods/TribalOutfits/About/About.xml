@@ -3,7 +3,7 @@
   <name>Tribal Outfits [Star Sky Mods]</name>
   <author>chupakobra6 | Star Sky Mods</author>
   <packageId>starsky.rimworld.tribaloutfits</packageId>
-  <modVersion>1.0.3</modVersion>
+  <modVersion>1.0.4</modVersion>
   <supportedVersions><li>1.6</li></supportedVersions>
   <modDependencies>
     <li>
@@ -29,7 +29,7 @@ Made at the request of svg
 • &lt;b&gt;Barbarian&lt;/b&gt; – a leather cloak, helmet and tunic that raise the pain shock threshold. Hand wraps increase bow firing rate and melee hit chance. Foot wraps improve hunting stealth
 • &lt;b&gt;Shaman&lt;/b&gt; – devilstrand and jade apparel plus a wooden staff with a jade tip. Both boost psychic sensitivity, with stronger bonuses at higher quality
 • &lt;b&gt;Hive&lt;/b&gt; – armor that protects against sharp and blunt damage. Craft it from chitin when Alpha Animals or Insectoids 2 is enabled, or from leather with neither active
-• &lt;b&gt;Steel Monsters&lt;/b&gt; – recon-style armor made with plasteel, leather and plating salvaged from mechanoids
+• &lt;b&gt;Steel Monsters&lt;/b&gt; – recon-style armor made with plasteel, leather and mechanoid slag chunks
 
 Each pair of footwear adds 0.10 cells per second to movement speed. Footwear pieces share the same layer
 
@@ -37,7 +37,7 @@ Each pair of footwear adds 0.10 cells per second to movement speed. Footwear pie
 
 Choose a recipe at a &lt;b&gt;Crafting Spot&lt;/b&gt;, tailoring bench or smithy. Each piece is crafted separately. Recipes require up to level 5 Crafting, depending on the set. No research is required
 
-To recover plating, use the salvage recipe at a Crafting Spot or machining table. One mechanoid corpse yields one piece of plating
+Steel Monsters armor uses the base game’s mechanoid slag chunks. Look for them among the remains of mechanoids and in ruins. The same chunks can still be smelted for steel
 
 &lt;b&gt;COMPATIBILITY&lt;/b&gt;
 
