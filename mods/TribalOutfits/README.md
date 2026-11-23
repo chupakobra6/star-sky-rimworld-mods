@@ -32,6 +32,16 @@ Steel Monsters recipes use **mechanoid slag chunks** from the base game. Get the
 
 The pack was made from the commission's item list and balance notes. It uses original item and directional apparel art, with in-game references to the installed recon armor graphics. See [NOTICES](NOTICES.md).
 
+## Replace textures in a local copy
+
+Copy the Workshop mod to RimWorld's `Mods` folder and enable the local copy by itself. Copying it lets you keep your changes when Steam updates the subscribed files.
+
+Open `Textures/Things/Apparel/TribalOutfits`. Each item has its own folder. Replace PNGs in that folder and keep their names and transparent backgrounds. `Item.png` is the icon. Worn textures end in `_south`, `_north` or `_east`. Body apparel includes the body type before the direction, as in `HiveArmor_Female_east.png`. RimWorld can mirror the east view for the west view.
+
+Steel Monsters use vanilla recon graphics until you copy `Templates/SteelMonstersTextures.xml` into `Patches`. Put your artwork in the `MechArmor` and `MechHelmet` folders in place of the white templates, then restart RimWorld. For later edits, just replace the PNGs.
+
+To keep the shaman helmet's horns their original color when dyed, add a mask next to each worn texture. Use names such as `ShamanHelmet_southm.png`, with red for fabric that takes the dye and black for horns. Match the size and alignment of each base texture. Copy `Templates/ShamanHelmetMask.xml` into `Patches` once the masks are ready.
+
 ## Feedback and licenses
 
 <!-- rimmods:readme feedback begin -->

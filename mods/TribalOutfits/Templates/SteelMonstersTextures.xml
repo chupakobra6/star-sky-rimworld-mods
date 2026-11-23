@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName="SSM_Tribal_MechHelmet"]</xpath>
+    <value>
+      <graphicData>
+        <texPath>Things/Apparel/TribalOutfits/MechHelmet/MechHelmet</texPath>
+      </graphicData>
+      <apparel>
+        <wornGraphicPath>Things/Apparel/TribalOutfits/MechHelmet/MechHelmet</wornGraphicPath>
+      </apparel>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName="SSM_Tribal_MechArmor"]</xpath>
+    <value>
+      <graphicData>
+        <texPath>Things/Apparel/TribalOutfits/MechArmor/MechArmor</texPath>
+      </graphicData>
+      <apparel>
+        <wornGraphicPath>Things/Apparel/TribalOutfits/MechArmor/MechArmor</wornGraphicPath>
+      </apparel>
+    </value>
+  </Operation>
+</Patch>

@@ -5,7 +5,7 @@
     <label>shaman staff</label>
     <description>A heavy wooden staff crowned with jade. It deals blunt damage and increases psychic sensitivity. Better-made staves provide a stronger psychic bonus.</description>
     <graphicData>
-      <texPath>Things/Apparel/TribalOutfits/ShamanStaff</texPath>
+      <texPath>Things/Apparel/TribalOutfits/ShamanStaff/ShamanStaff</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <techLevel>Neolithic</techLevel>

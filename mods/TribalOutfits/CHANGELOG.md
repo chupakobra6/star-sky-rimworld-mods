@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.5
+
+- Grouped textures by item and added templates for customizing Steel Monsters armor and the shaman helmet's dye mask in a local copy.
+
 ## 1.0.4
 
 - Steel Monsters recipes now use vanilla mechanoid slag chunks directly.

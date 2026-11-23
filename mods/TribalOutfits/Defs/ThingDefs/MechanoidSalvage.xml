@@ -6,7 +6,7 @@
     <label>mechanoid salvage</label>
     <description>A piece of intact plating pried from a defeated mechanoid. It can be fitted into armor at a crafting spot or smithy.</description>
     <graphicData>
-      <texPath>Things/Apparel/TribalOutfits/MechSalvage</texPath>
+      <texPath>Things/Apparel/TribalOutfits/MechSalvage/MechSalvage</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <thingCategories><li>ResourcesRaw</li></thingCategories>

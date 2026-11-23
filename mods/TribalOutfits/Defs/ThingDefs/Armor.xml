@@ -10,7 +10,7 @@
     <description>Protective tribal apparel made from tough hides or insect chitin.</description>
     <techLevel>Neolithic</techLevel>
     <graphicData>
-      <texPath>Things/Apparel/TribalOutfits/HiveHelmet</texPath>
+      <texPath>Things/Apparel/TribalOutfits/HiveHelmet/HiveHelmet</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <costStuffCount>60</costStuffCount>
@@ -43,7 +43,7 @@
       <bodyPartGroups>
         <li>UpperHead</li>
       </bodyPartGroups>
-      <wornGraphicPath>Things/Apparel/TribalOutfits/HiveHelmet</wornGraphicPath>
+      <wornGraphicPath>Things/Apparel/TribalOutfits/HiveHelmet/HiveHelmet</wornGraphicPath>
       <layers>
         <li>Overhead</li>
       </layers>
@@ -57,7 +57,7 @@
     <description>Protective tribal apparel made from tough hides or insect chitin.</description>
     <techLevel>Neolithic</techLevel>
     <graphicData>
-      <texPath>Things/Apparel/TribalOutfits/HiveArmor</texPath>
+      <texPath>Things/Apparel/TribalOutfits/HiveArmor/HiveArmor</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <costStuffCount>180</costStuffCount>
@@ -93,7 +93,7 @@
         <li>Arms</li>
         <li>Legs</li>
       </bodyPartGroups>
-      <wornGraphicPath>Things/Apparel/TribalOutfits/HiveArmor</wornGraphicPath>
+      <wornGraphicPath>Things/Apparel/TribalOutfits/HiveArmor/HiveArmor</wornGraphicPath>
       <layers>
         <li>Middle</li>
         <li>Shell</li>
@@ -107,7 +107,7 @@
     <description>Protective tribal apparel made from tough hides or insect chitin.</description>
     <techLevel>Neolithic</techLevel>
     <graphicData>
-      <texPath>Things/Apparel/TribalOutfits/HiveGloves</texPath>
+      <texPath>Things/Apparel/TribalOutfits/HiveGloves/HiveGloves</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <costStuffCount>40</costStuffCount>
@@ -153,7 +153,7 @@
     <description>Protective tribal apparel made from tough hides or insect chitin.</description>
     <techLevel>Neolithic</techLevel>
     <graphicData>
-      <texPath>Things/Apparel/TribalOutfits/HiveBoots</texPath>
+      <texPath>Things/Apparel/TribalOutfits/HiveBoots/HiveBoots</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <costStuffCount>40</costStuffCount>
@@ -247,7 +247,7 @@
       <Plasteel>10</Plasteel>
     </costList>
     <graphicData>
-      <texPath>Things/Apparel/TribalOutfits/MechGloves</texPath>
+      <texPath>Things/Apparel/TribalOutfits/MechGloves/MechGloves</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <statBases>
@@ -297,7 +297,7 @@
       <Plasteel>10</Plasteel>
     </costList>
     <graphicData>
-      <texPath>Things/Apparel/TribalOutfits/MechBoots</texPath>
+      <texPath>Things/Apparel/TribalOutfits/MechBoots/MechBoots</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <statBases>

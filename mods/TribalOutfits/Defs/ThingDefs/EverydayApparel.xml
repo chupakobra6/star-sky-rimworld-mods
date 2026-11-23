@@ -7,7 +7,7 @@
     <techLevel>Neolithic</techLevel>
     <costStuffCount>25</costStuffCount>
     <graphicData>
-      <texPath>Things/Apparel/TribalOutfits/LeatherHood</texPath>
+      <texPath>Things/Apparel/TribalOutfits/LeatherHood/LeatherHood</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <stuffCategories>
@@ -34,7 +34,7 @@
       </layers>
       <developmentalStageFilter>Adult</developmentalStageFilter>
       <countsAsClothingForNudity>false</countsAsClothingForNudity>
-      <wornGraphicPath>Things/Apparel/TribalOutfits/LeatherHood</wornGraphicPath>
+      <wornGraphicPath>Things/Apparel/TribalOutfits/LeatherHood/LeatherHood</wornGraphicPath>
       <tags>
         <li>Neolithic</li>
       </tags>
@@ -87,7 +87,7 @@
     <techLevel>Neolithic</techLevel>
     <costStuffCount>30</costStuffCount>
     <graphicData>
-      <texPath>Things/Apparel/TribalOutfits/Moccasins</texPath>
+      <texPath>Things/Apparel/TribalOutfits/Moccasins/Moccasins</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <stuffCategories>
@@ -169,7 +169,7 @@
     <techLevel>Neolithic</techLevel>
     <costStuffCount>25</costStuffCount>
     <graphicData>
-      <texPath>Things/Apparel/TribalOutfits/DesertWrap</texPath>
+      <texPath>Things/Apparel/TribalOutfits/DesertWrap/DesertWrap</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <stuffCategories>
@@ -197,7 +197,7 @@
       </layers>
       <developmentalStageFilter>Adult</developmentalStageFilter>
       <countsAsClothingForNudity>false</countsAsClothingForNudity>
-      <wornGraphicPath>Things/Apparel/TribalOutfits/DesertWrap</wornGraphicPath>
+      <wornGraphicPath>Things/Apparel/TribalOutfits/DesertWrap/DesertWrap</wornGraphicPath>
       <tags>
         <li>Neolithic</li>
       </tags>
@@ -258,7 +258,7 @@
     <techLevel>Neolithic</techLevel>
     <costStuffCount>60</costStuffCount>
     <graphicData>
-      <texPath>Things/Apparel/TribalOutfits/DesertRobe</texPath>
+      <texPath>Things/Apparel/TribalOutfits/DesertRobe/DesertRobe</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <stuffCategories>
@@ -290,7 +290,7 @@
       </layers>
       <developmentalStageFilter>Adult</developmentalStageFilter>
       <countsAsClothingForNudity>true</countsAsClothingForNudity>
-      <wornGraphicPath>Things/Apparel/TribalOutfits/DesertRobe</wornGraphicPath>
+      <wornGraphicPath>Things/Apparel/TribalOutfits/DesertRobe/DesertRobe</wornGraphicPath>
       <tags>
         <li>Neolithic</li>
       </tags>
@@ -351,7 +351,7 @@
     <techLevel>Neolithic</techLevel>
     <costStuffCount>15</costStuffCount>
     <graphicData>
-      <texPath>Things/Apparel/TribalOutfits/Sandals</texPath>
+      <texPath>Things/Apparel/TribalOutfits/Sandals/Sandals</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <stuffCategories>
@@ -452,7 +452,7 @@
     <techLevel>Neolithic</techLevel>
     <costStuffCount>50</costStuffCount>
     <graphicData>
-      <texPath>Things/Apparel/TribalOutfits/FurHat</texPath>
+      <texPath>Things/Apparel/TribalOutfits/FurHat/FurHat</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <stuffCategories>
@@ -479,7 +479,7 @@
       </layers>
       <developmentalStageFilter>Adult</developmentalStageFilter>
       <countsAsClothingForNudity>false</countsAsClothingForNudity>
-      <wornGraphicPath>Things/Apparel/TribalOutfits/FurHat</wornGraphicPath>
+      <wornGraphicPath>Things/Apparel/TribalOutfits/FurHat/FurHat</wornGraphicPath>
       <tags>
         <li>Neolithic</li>
       </tags>
@@ -535,7 +535,7 @@
     <techLevel>Neolithic</techLevel>
     <costStuffCount>140</costStuffCount>
     <graphicData>
-      <texPath>Things/Apparel/TribalOutfits/FurCoat</texPath>
+      <texPath>Things/Apparel/TribalOutfits/FurCoat/FurCoat</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <stuffCategories>
@@ -565,7 +565,7 @@
       </layers>
       <developmentalStageFilter>Adult</developmentalStageFilter>
       <countsAsClothingForNudity>true</countsAsClothingForNudity>
-      <wornGraphicPath>Things/Apparel/TribalOutfits/FurCoat</wornGraphicPath>
+      <wornGraphicPath>Things/Apparel/TribalOutfits/FurCoat/FurCoat</wornGraphicPath>
       <tags>
         <li>Neolithic</li>
       </tags>
@@ -621,7 +621,7 @@
     <techLevel>Neolithic</techLevel>
     <costStuffCount>30</costStuffCount>
     <graphicData>
-      <texPath>Things/Apparel/TribalOutfits/Mittens</texPath>
+      <texPath>Things/Apparel/TribalOutfits/Mittens/Mittens</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <stuffCategories>
@@ -703,7 +703,7 @@
     <techLevel>Neolithic</techLevel>
     <costStuffCount>60</costStuffCount>
     <graphicData>
-      <texPath>Things/Apparel/TribalOutfits/FeltBoots</texPath>
+      <texPath>Things/Apparel/TribalOutfits/FeltBoots/FeltBoots</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <stuffCategories>

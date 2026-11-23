@@ -47,7 +47,7 @@
     <label>barbarian cloak</label>
     <description>A heavy leather cloak that protects the torso and shoulders. It raises the wearer’s pain shock threshold.</description>
     <graphicData>
-      <texPath>Things/Apparel/TribalOutfits/BarbarianCloak</texPath>
+      <texPath>Things/Apparel/TribalOutfits/BarbarianCloak/BarbarianCloak</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <thingCategories>
@@ -75,7 +75,7 @@
       <layers>
         <li>Shell</li>
       </layers>
-      <wornGraphicPath>Things/Apparel/TribalOutfits/BarbarianCloak</wornGraphicPath>
+      <wornGraphicPath>Things/Apparel/TribalOutfits/BarbarianCloak/BarbarianCloak</wornGraphicPath>
     </apparel>
   </ThingDef>
   <ThingDef ParentName="SSM_Tribal_BarbarianApparel">
@@ -83,7 +83,7 @@
     <label>barbarian helmet</label>
     <description>A reinforced leather helmet that raises the wearer’s pain shock threshold.</description>
     <graphicData>
-      <texPath>Things/Apparel/TribalOutfits/BarbarianHelmet</texPath>
+      <texPath>Things/Apparel/TribalOutfits/BarbarianHelmet/BarbarianHelmet</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <thingCategories>
@@ -109,7 +109,7 @@
       <layers>
         <li>Overhead</li>
       </layers>
-      <wornGraphicPath>Things/Apparel/TribalOutfits/BarbarianHelmet</wornGraphicPath>
+      <wornGraphicPath>Things/Apparel/TribalOutfits/BarbarianHelmet/BarbarianHelmet</wornGraphicPath>
       <countsAsClothingForNudity>false</countsAsClothingForNudity>
     </apparel>
   </ThingDef>
@@ -118,7 +118,7 @@
     <label>barbarian tunic</label>
     <description>A leather tunic cut in the tribal style. It raises the wearer’s pain shock threshold.</description>
     <graphicData>
-      <texPath>Things/Apparel/TribalOutfits/BarbarianTunic</texPath>
+      <texPath>Things/Apparel/TribalOutfits/BarbarianTunic/BarbarianTunic</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <thingCategories>
@@ -145,7 +145,7 @@
       <layers>
         <li>OnSkin</li>
       </layers>
-      <wornGraphicPath>Things/Apparel/TribalOutfits/BarbarianTunic</wornGraphicPath>
+      <wornGraphicPath>Things/Apparel/TribalOutfits/BarbarianTunic/BarbarianTunic</wornGraphicPath>
     </apparel>
   </ThingDef>
   <ThingDef ParentName="SSM_Tribal_BarbarianApparel">
@@ -153,7 +153,7 @@
     <label>barbarian hand wraps</label>
     <description>Light leather wraps for the hands. They increase bow firing rate by 10% and the chance to hit in melee by 5 percentage points.</description>
     <graphicData>
-      <texPath>Things/Apparel/TribalOutfits/BarbarianHandWraps</texPath>
+      <texPath>Things/Apparel/TribalOutfits/BarbarianHandWraps/BarbarianHandWraps</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <thingCategories>
@@ -184,7 +184,7 @@
     <label>barbarian foot wraps</label>
     <description>Soft leather wraps that help the wearer move faster and add 10 percentage points of hunting stealth.</description>
     <graphicData>
-      <texPath>Things/Apparel/TribalOutfits/BarbarianFootWraps</texPath>
+      <texPath>Things/Apparel/TribalOutfits/BarbarianFootWraps/BarbarianFootWraps</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <thingCategories>
@@ -218,7 +218,7 @@
     <label>shaman helmet</label>
     <description>A ceremonial helmet made with devilstrand and polished jade. Finer workmanship improves its effect on psychic sensitivity.</description>
     <graphicData>
-      <texPath>Things/Apparel/TribalOutfits/ShamanHelmet</texPath>
+      <texPath>Things/Apparel/TribalOutfits/ShamanHelmet/ShamanHelmet</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <thingCategories>
@@ -250,7 +250,7 @@
       <layers>
         <li>Overhead</li>
       </layers>
-      <wornGraphicPath>Things/Apparel/TribalOutfits/ShamanHelmet</wornGraphicPath>
+      <wornGraphicPath>Things/Apparel/TribalOutfits/ShamanHelmet/ShamanHelmet</wornGraphicPath>
       <countsAsClothingForNudity>false</countsAsClothingForNudity>
     </apparel>
   </ThingDef>
@@ -259,7 +259,7 @@
     <label>shaman cloak</label>
     <description>A devilstrand cloak strung with jade. Finer workmanship improves its effect on psychic sensitivity.</description>
     <graphicData>
-      <texPath>Things/Apparel/TribalOutfits/ShamanCloak</texPath>
+      <texPath>Things/Apparel/TribalOutfits/ShamanCloak/ShamanCloak</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <thingCategories>
@@ -295,7 +295,7 @@
       <layers>
         <li>Shell</li>
       </layers>
-      <wornGraphicPath>Things/Apparel/TribalOutfits/ShamanCloak</wornGraphicPath>
+      <wornGraphicPath>Things/Apparel/TribalOutfits/ShamanCloak/ShamanCloak</wornGraphicPath>
     </apparel>
   </ThingDef>
   <ThingDef ParentName="SSM_Tribal_ShamanApparel">
@@ -303,7 +303,7 @@
     <label>shaman gloves</label>
     <description>Light devilstrand gloves set with jade. Finer workmanship improves their effect on psychic sensitivity.</description>
     <graphicData>
-      <texPath>Things/Apparel/TribalOutfits/ShamanGloves</texPath>
+      <texPath>Things/Apparel/TribalOutfits/ShamanGloves/ShamanGloves</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <thingCategories>
@@ -343,7 +343,7 @@
     <label>shaman boots</label>
     <description>Devilstrand boots decorated with jade. They help the wearer move faster. Finer workmanship improves their effect on psychic sensitivity.</description>
     <graphicData>
-      <texPath>Things/Apparel/TribalOutfits/ShamanBoots</texPath>
+      <texPath>Things/Apparel/TribalOutfits/ShamanBoots/ShamanBoots</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <thingCategories>
